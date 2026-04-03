@@ -5,7 +5,7 @@ import MOVIE_SCENE_BANK from "./movieScenes.js";
 import SONG_CLIP_BANK from "./songClips.js";
 import EMOJI_GUESS_CATEGORIES from "./emojiGuessCategories.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
-import { appendSharedQuestionUsage, getCachedQuestionUsage, loadSharedQuestionUsage, mergeQuestionUsageIds } from "./questionUsage.js";
+import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage } from "./questionUsage.js";
 
 const FLAG_TIERS = {
   200: [
@@ -4070,13 +4070,15 @@ const CSS=`
 `;
 
 export default function App(){
+  const initialQuestionUsageSnapshot=getCachedQuestionUsageSnapshot();
   const [screen,setScreen]=useState("setup");
   const [teams,setTeams]=useState(["Team 1","Team 2"]);
   const [scores,setScores]=useState([0,0]);
   const [selCats,setSelCats]=useState([]);
   const [board,setBoard]=useState({});
   const [qPointers,setQPointers]=useState({});
-  const [usedQuestionIds,setUsedQuestionIds]=useState(()=>getCachedQuestionUsage());
+  const [usedQuestionIds,setUsedQuestionIds]=useState(initialQuestionUsageSnapshot.ids);
+  const [questionUsageResetToken,setQuestionUsageResetToken]=useState(initialQuestionUsageSnapshot.resetToken);
   const [activeTile,setActiveTile]=useState(null);
   const [showAns,setShowAns]=useState(false);
   const [showWord,setShowWord]=useState(false);
@@ -4084,18 +4086,24 @@ export default function App(){
   const [usageReady,setUsageReady]=useState(false);
   const [isSyncingUsage,setIsSyncingUsage]=useState(false);
   const usedQuestionIdsRef=useRef(usedQuestionIds);
+  const questionUsageResetTokenRef=useRef(questionUsageResetToken);
 
   useEffect(()=>{
     usedQuestionIdsRef.current=usedQuestionIds;
   },[usedQuestionIds]);
 
   useEffect(()=>{
+    questionUsageResetTokenRef.current=questionUsageResetToken;
+  },[questionUsageResetToken]);
+
+  useEffect(()=>{
     let cancelled=false;
-    loadSharedQuestionUsage().then((ids)=>{
+    loadSharedQuestionUsage().then((snapshot)=>{
       if(cancelled) return;
-      const mergedIds=mergeQuestionUsageIds(usedQuestionIdsRef.current, ids);
-      usedQuestionIdsRef.current=mergedIds;
-      setUsedQuestionIds(mergedIds);
+      usedQuestionIdsRef.current=snapshot.ids;
+      questionUsageResetTokenRef.current=snapshot.resetToken;
+      setUsedQuestionIds(snapshot.ids);
+      setQuestionUsageResetToken(snapshot.resetToken);
       setUsageReady(true);
     }).catch(()=>{
       if(cancelled) return;
@@ -4107,11 +4115,12 @@ export default function App(){
   async function syncQuestionUsage(){
     setIsSyncingUsage(true);
     try{
-      const ids=await loadSharedQuestionUsage();
-      const mergedIds=mergeQuestionUsageIds(usedQuestionIdsRef.current, ids);
-      usedQuestionIdsRef.current=mergedIds;
-      setUsedQuestionIds(mergedIds);
-      return mergedIds;
+      const snapshot=await loadSharedQuestionUsage();
+      usedQuestionIdsRef.current=snapshot.ids;
+      questionUsageResetTokenRef.current=snapshot.resetToken;
+      setUsedQuestionIds(snapshot.ids);
+      setQuestionUsageResetToken(snapshot.resetToken);
+      return snapshot.ids;
     }finally{
       setUsageReady(true);
       setIsSyncingUsage(false);
@@ -4125,10 +4134,11 @@ export default function App(){
     const nextIds=[...currentIds,questionId];
     usedQuestionIdsRef.current=nextIds;
     setUsedQuestionIds(nextIds);
-    appendSharedQuestionUsage(currentIds,[questionId]).then((syncedIds)=>{
-      const mergedIds=mergeQuestionUsageIds(usedQuestionIdsRef.current, syncedIds);
-      usedQuestionIdsRef.current=mergedIds;
-      setUsedQuestionIds(mergedIds);
+    appendSharedQuestionUsage(currentIds,[questionId],questionUsageResetTokenRef.current).then((snapshot)=>{
+      usedQuestionIdsRef.current=snapshot.ids;
+      questionUsageResetTokenRef.current=snapshot.resetToken;
+      setUsedQuestionIds(snapshot.ids);
+      setQuestionUsageResetToken(snapshot.resetToken);
     }).catch(()=>{});
   }
 

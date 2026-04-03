@@ -8,7 +8,8 @@
     "build": "vite build",
     "preview": "vite preview",
     "generate:country-maps": "node scripts/generate-country-maps.mjs",
-    "generate:whoami-images": "node scripts/generate-whoami-images.mjs"
+    "generate:whoami-images": "node scripts/generate-whoami-images.mjs",
+    "reset:question-pool": "node scripts/reset-question-pool.mjs"
   },
   "dependencies": {
     "@netlify/blobs": "^10.7.4",
