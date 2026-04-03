@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d1fae5"/>
+      <stop offset="50%" stop-color="#a7f3d0"/>
+      <stop offset="100%" stop-color="#6ee7b7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="280" cy="710" r="190" fill="#ffffff42"/>
+  <circle cx="1300" cy="180" r="160" fill="#ffffff4d"/>
+  <path d="M545 150c155-46 335-39 476 26 108 50 183 119 233 212-68 115-195 194-336 221-169 33-356-3-492-98-88-61-149-142-177-233 72-64 173-107 296-128Z" fill="#ffffffc8"/>
+  <ellipse cx="802" cy="454" rx="365" ry="240" fill="#10b981" opacity=".12"/>
+  <text x="570" y="390" font-size="116">🍁 🏒</text>
+  <text x="760" y="560" font-size="116">🗼 🥖</text>
+  <text x="925" y="720" font-size="116">🍣 🗻</text>
+</svg>

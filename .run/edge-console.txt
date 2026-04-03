@@ -1,0 +1,6 @@
+[41012:47372:0403/012253.977:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:71] Scheduling init
+[41012:47372:0403/012253.977:WARNING:chrome\browser\extensions\activity_log\activity_log_policy.cc:71] Scheduling init
+[41012:47372:0403/012254.112:WARNING:chrome\browser\extensions\external_registry_loader_win.cc:283] Error observing HKLM: 5
+[41012:5332:0403/012254.300:INFO:chrome\common\importer\edge_chrome_importer_utils_win.cc:34] Google chrome user data path not found.
+[41012:47372:0403/012254.870:ERROR:chrome\browser\task_manager\providers\fallback_task_provider.cc:126] Every renderer should have at least one task provided by a primary task provider. If a "Renderer" fallback task is shown, it is a bug. If you have repro steps, please file a new bug and tag it as a dependency of crbug.com/40528867.
+[41012:47372:0403/012257.482:WARNING:chrome\browser\edge_underside\underside_helper.cc:1164] If test does not need FrontLoad, this may be expected. SetFrontLoadDecision: 3

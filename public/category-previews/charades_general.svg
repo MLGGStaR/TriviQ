@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" width="640" height="360">
+  <defs>
+    <linearGradient id="curtain" x1="0" x2="1">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#9a3412"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="28" fill="#1e293b"/>
+  <rect width="640" height="360" rx="28" fill="url(#curtain)" opacity=".95"/>
+  <path d="M0 0 H110 C94 48 94 106 110 164 C92 214 92 278 110 360 H0 Z" fill="#fdba74" opacity=".45"/>
+  <path d="M640 0 H530 C546 48 546 106 530 164 C548 214 548 278 530 360 H640 Z" fill="#fdba74" opacity=".45"/>
+  <ellipse cx="320" cy="286" rx="122" ry="24" fill="#0000002a"/>
+  <g transform="translate(246 106)">
+    <path d="M46 0 C20 0 0 18 0 44 v42 c0 25 20 44 46 44 c26 0 46-19 46-44 V44 C92 18 72 0 46 0 Z" fill="#60a5fa"/>
+    <circle cx="26" cy="42" r="7" fill="#0f172a"/>
+    <circle cx="66" cy="42" r="7" fill="#0f172a"/>
+    <path d="M22 84 Q46 66 70 84" fill="none" stroke="#0f172a" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(346 116)">
+    <path d="M46 0 C20 0 0 18 0 44 v42 c0 25 20 44 46 44 c26 0 46-19 46-44 V44 C92 18 72 0 46 0 Z" fill="#fbbf24"/>
+    <circle cx="26" cy="42" r="7" fill="#0f172a"/>
+    <circle cx="66" cy="42" r="7" fill="#0f172a"/>
+    <path d="M22 84 Q46 104 70 84" fill="none" stroke="#0f172a" stroke-width="7" stroke-linecap="round"/>
+  </g>
+</svg>

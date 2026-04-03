@@ -1,0 +1,27 @@
+{
+  "name": "triviq",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate:country-maps": "node scripts/generate-country-maps.mjs",
+    "generate:whoami-images": "node scripts/generate-whoami-images.mjs"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^10.7.4",
+    "flag-icons": "^7.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "d3-geo": "^3.1.1",
+    "playwright": "^1.59.1",
+    "topojson-client": "^3.1.0",
+    "vite": "^5.4.0",
+    "world-atlas": "^2.0.2",
+    "world-countries": "^5.1.0"
+  }
+}
