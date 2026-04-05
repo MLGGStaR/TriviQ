@@ -1,11 +1,20 @@
 ﻿import React, { useState, useEffect, useRef } from "react";
 import QUESTION_EXPANSIONS from "./triviaExpansions.js";
 import QUESTION_MINIMUMS from "./triviaMinimums.js";
+import TRIVIA_MEGA_EXPANSIONS from "./triviaMegaExpansions.js";
+import TRIVIA_ULTRA_EXPANSIONS from "./triviaUltraExpansions.js";
+import TRIVIA_TIER_BALANCE_EXPANSIONS from "./triviaTierBalanceExpansions.js";
+import TRIVIA_TIER_PARITY_EXPANSIONS from "./triviaTierParityExpansions.js";
+import TRIVIA_TIER_FINAL_PARITY_EXPANSIONS from "./triviaTierFinalParityExpansions.js";
+import TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS from "./triviaTierFinalTopoffExpansions.js";
 import MOVIE_SCENE_BANK from "./movieScenes.js";
 import SONG_CLIP_BANK from "./songClips.js";
+import SONG_CLIP_ADDITIONS from "./songClipAdditions.js";
 import EMOJI_GUESS_CATEGORIES from "./emojiGuessCategories.js";
+import { CHARADES_HARD_OVERRIDES, QUESTION_REFINEMENT_ADDITIONS } from "./questionRefinements.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
-import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage } from "./questionUsage.js";
+import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds } from "./questionUsage.js";
+import { getCachedAccountSession, loadAccountSession, loginAccount, logoutAccount, signupAccount } from "./accountAuth.js";
 
 const FLAG_TIERS = {
   200: [
@@ -245,6 +254,7 @@ const COUNTRY_MAP_TIERS = {
     ["AR", "Argentina"],
     ["CL", "Chile"],
     ["GB", "United Kingdom"],
+    ["IE", "Ireland"],
     ["FR", "France"],
     ["DE", "Germany"],
     ["IT", "Italy"],
@@ -3278,6 +3288,268 @@ function mergeQuestionExpansions(rawBank, expansions){
   return merged;
 }
 
+const BIO_TRIVIA_CATEGORIES = new Set([
+  "general",
+  "geography",
+  "science",
+  "history",
+  "sports",
+  "music",
+  "movies",
+  "country_facts",
+  "marvel",
+  "dc",
+  "spider_man",
+  "the_flash",
+]);
+
+const SCREEN_ONLY_CATEGORIES = new Set([
+  "marvel",
+  "dc",
+  "spider_man",
+  "invincible",
+  "the_boys",
+  "the_flash",
+]);
+
+const NON_TRIVIA_STYLE_CATEGORIES = new Set([
+  "flags",
+  "country_map",
+  "movie_scenes",
+  "songs",
+  "charades_general",
+  "charades_movies",
+  "movie_show_emoji",
+  "country_emoji",
+  "general_emoji",
+  "who_footballer",
+  "who_tv_character",
+  "who_anime_character",
+  "who_movie_character",
+]);
+
+const SCREEN_ONLY_PATTERNS = [
+  /\bcomic\b/i,
+  /\bcomics\b/i,
+  /\bstoryline\b/i,
+  /\bhouse of m\b/i,
+  /\bliving tribunal\b/i,
+  /\bsavage land\b/i,
+  /\bphoenix force\b/i,
+  /\bmolecule man\b/i,
+  /\bbeyonder\b/i,
+  /\bone above all\b/i,
+  /\bkrakoa\b/i,
+  /\brule of x\b/i,
+  /\bknull\b/i,
+  /\bcivil war ii\b/i,
+  /\bearth-199999\b/i,
+  /\bclone saga\b/i,
+  /\bone more day\b/i,
+  /\bgreat web\b/i,
+  /\bsilk\b/i,
+  /\bsymkarian\b/i,
+  /\bsilver age\b/i,
+  /\bblackest night\b/i,
+  /\binfinite crisis\b/i,
+  /\bfinal crisis\b/i,
+  /\bdoomsday clock\b/i,
+  /\btower of babel\b/i,
+  /\bperpetua\b/i,
+  /\bhypertime\b/i,
+  /\bsinestro corps\b/i,
+  /\bknightfall\b/i,
+  /\bred son\b/i,
+  /\bno man's land\b/i,
+  /\bwatchmen\b/i,
+  /\blater comics\b/i,
+  /\bthe boys comics\b/i,
+  /\bnew 52\b/i,
+  /\bgrant morrison\b/i,
+  /\bnew gods\b/i,
+  /\bgeo-force\b/i,
+  /\bthe question\b/i,
+  /\bgalactus\b/i,
+  /\bnegative zone\b/i,
+  /\bnexus being\b/i,
+  /\bkaine parker\b/i,
+  /\bben reilly\b/i,
+  /\bsuperior spider-man\b/i,
+  /\bclone identity\b/i,
+  /\bclone of peter\b/i,
+  /\bdeepest lore\b/i,
+];
+const MANUAL_DUPLICATE_FILTER_KEYS = new Set([
+  `geography||${normalizeQuestionKeyPart("Capital of Germany?")}||${normalizeQuestionKeyPart("Berlin")}`,
+  `geography||${normalizeQuestionKeyPart("Capital of Japan?")}||${normalizeQuestionKeyPart("Tokyo")}`,
+  `science||${normalizeQuestionKeyPart("Powerhouse of the cell?")}||${normalizeQuestionKeyPart("Mitochondria")}`,
+  `science||${normalizeQuestionKeyPart("Largest planet in our solar system?")}||${normalizeQuestionKeyPart("Jupiter")}`,
+  `science||${normalizeQuestionKeyPart("What does the Heisenberg Uncertainty Principle state?")}||${normalizeQuestionKeyPart("You cannot simultaneously know the exact position and momentum of a particle")}`,
+  `history||${normalizeQuestionKeyPart("Year the Berlin Wall fell?")}||${normalizeQuestionKeyPart("1989")}`,
+  `marvel||${normalizeQuestionKeyPart("Who plays Spider-Man in the MCU?")}||${normalizeQuestionKeyPart("Tom Holland")}`,
+  `general||${normalizeQuestionKeyPart("What is the Higgs boson?")}||${normalizeQuestionKeyPart("The particle that gives other particles mass")}`,
+  `general||${normalizeQuestionKeyPart("What is the Chandrasekhar limit?")}||${normalizeQuestionKeyPart("~1.4 solar masses")}`,
+  `dc||${normalizeQuestionKeyPart("Who is the Reverse Flash?")}||${normalizeQuestionKeyPart("Eobard Thawne")}`,
+]);
+const ANSWER_OVERRIDE_BY_QKEY = new Map([
+  [normalizeQuestionKeyPart("What is the offside rule in football?"), "An attacker is offside if they are beyond the second-last defender when the ball is played to them."],
+  [normalizeQuestionKeyPart("What is the Eternals' true mission?"), "To protect intelligent life until a Celestial can emerge from Earth."],
+  [normalizeQuestionKeyPart("What is the power system in Hunter x Hunter?"), "Nen"],
+  [normalizeQuestionKeyPart("What is the Will of D?"), "A mystery tied to people with the initial D and the Void Century."],
+  [normalizeQuestionKeyPart("What is the Multiverse in MCU terms?"), "An infinite set of parallel universes."],
+]);
+
+function isLongExplanationAnswer(answer){
+  const normalized = `${answer || ""}`
+    .replace(/[—–/(),:;]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  const wordCount = normalized ? normalized.split(" ").length : 0;
+  if (wordCount <= 4 && !/[—–/(),:;]/.test(answer || "")) return false;
+  return /[—–/(),:;]|\bwho\b|\bwhich\b|\bthat\b|\bwith\b|\bfrom\b|\bformer\b|\bleader\b|\bruler\b|\bscientist\b|\blawyer\b|\bcaptain\b|\bking\b|\bqueen\b|\bdetective\b|\bforensic\b|\bmercenary\b|\borganization\b|\bvillain\b|\bhero\b/i.test(answer || "") || wordCount > 5;
+}
+
+function answerWordCount(answer){
+  const normalized = `${answer || ""}`
+    .replace(/[—–/(),:;.!?]/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+  return normalized ? normalized.split(" ").length : 0;
+}
+
+function isStraightAnswerCategory(catId){
+  return !NON_TRIVIA_STYLE_CATEGORIES.has(catId);
+}
+
+function looksLikeEssayQuestion(question){
+  return /\bsignificance\b|\bdifference between\b|\bdescribe\b|\bexplain\b|\bdeeper theme\b|\bpsychological\b|\breal meaning\b|\bsatire target\b|\bcontribution\b|\bcontroversy\b|\bcosmology\b|\bdeepest lore\b|\bcritical reception\b|\bhistorical accuracy\b|\baccuracy level\b/i.test(question);
+}
+
+function looksLikeMultipartQuestion(question){
+  return /\band what\b|\band why\b|\band who\b|\bdifference between\b|\bwhat opened it\b/i.test(question);
+}
+
+function normalizeTriviaQuestion(question){
+  return `${question || ""}`
+    .trim()
+    .replace(/\s+and what opened it\?$/i, "?")
+    .replace(/\s+and why is it remarkable\?$/i, "?")
+    .replace(/\s+and why was it controversial\?$/i, "?")
+    .replace(/\s+and why is it important\?$/i, "?")
+    .replace(/\s+and what is it\?$/i, "?")
+    .replace(/\s+and what are they\?$/i, "?")
+    .replace(/\s+and who are they\?$/i, "?");
+}
+
+function normalizeTriviaAnswer(answer, question=""){
+  let text = `${answer || ""}`.trim();
+  if(!text) return text;
+  const q = `${question || ""}`.trim();
+  text = text
+    .replace(/\s+[—-]\s+(played by|portrayed by|voice(?:d)? by|known for|representing|revealing|symboli[sz]ing|filling the gap|becoming|leading to|causing|showing|explaining).*/i, "")
+    .replace(/\s+[—-]\s+(confirmed|opened|launched|populari[sz]ed|echoes|illustrates|counts as|used in|spanning|reportedly|debat(?:ed|able)|first hint|key proof|linked to|driving|affecting).*/i, "")
+    .replace(/\s+\((?:as of|official|opened|confirmed|reported|approx|approximately|debat(?:ed|able)|in the mcu|in comics)[^)]*\)$/i, "")
+    .replace(/\s+\[(?:as of|official)[^\]]*\]$/i, "")
+    .trim();
+  return text;
+}
+
+function normalizeQuestionEntry(entry, catId){
+  if(!entry || typeof entry !== "object") return entry;
+  if(!isStraightAnswerCategory(catId)) return { ...entry };
+  const normalizedQuestion = normalizeTriviaQuestion(entry.q);
+  const answerOverride = ANSWER_OVERRIDE_BY_QKEY.get(normalizeQuestionKeyPart(normalizedQuestion));
+  return {
+    ...entry,
+    q: normalizedQuestion,
+    a: answerOverride || normalizeTriviaAnswer(entry.a, entry.q),
+  };
+}
+
+function shouldFilterQuestion(entry, catId){
+  const q = `${entry?.q || ""}`.trim();
+  const a = `${entry?.a || ""}`.trim();
+  if (!q) return false;
+  if(MANUAL_DUPLICATE_FILTER_KEYS.has(`${catId}||${normalizeQuestionKeyPart(q)}||${normalizeQuestionKeyPart(a)}`)) return true;
+  if (/\bsignificance\b/i.test(q)) return true;
+  if (
+    isStraightAnswerCategory(catId) &&
+    /^(who is|who was|who are|who were)\b/i.test(q) &&
+    (isLongExplanationAnswer(a) || answerWordCount(a) > 4)
+  ){
+    return true;
+  }
+  if (
+    SCREEN_ONLY_CATEGORIES.has(catId) &&
+    SCREEN_ONLY_PATTERNS.some((pattern)=>pattern.test(q) || pattern.test(a))
+  ){
+    return true;
+  }
+  if (
+    isStraightAnswerCategory(catId) &&
+    looksLikeEssayQuestion(q) &&
+    (isLongExplanationAnswer(a) || answerWordCount(a) > 6)
+  ){
+    return true;
+  }
+  if (
+    isStraightAnswerCategory(catId) &&
+    looksLikeMultipartQuestion(q) &&
+    (isLongExplanationAnswer(a) || answerWordCount(a) > 7)
+  ){
+    return true;
+  }
+  if (
+    isStraightAnswerCategory(catId) &&
+    /\bvs\b|\bdifference\b/i.test(q)
+  ){
+    return true;
+  }
+  if (
+    isStraightAnswerCategory(catId) &&
+    /^what happened to\b/i.test(q) &&
+    (isLongExplanationAnswer(a) || answerWordCount(a) > 8)
+  ){
+    return true;
+  }
+  if (
+    isStraightAnswerCategory(catId) &&
+    (/^list\b/i.test(q) || /^name all\b/i.test(q))
+  ){
+    return true;
+  }
+  if (
+    isStraightAnswerCategory(catId) &&
+    /\barc\b|\btheme\b|\bmessage\b|\bwhat does .* say about\b/i.test(q) &&
+    (isLongExplanationAnswer(a) || answerWordCount(a) > 7)
+  ){
+    return true;
+  }
+  return false;
+}
+
+function applyQuestionStyleFilters(rawBank){
+  const next = Object.fromEntries(Object.entries(rawBank).map(([catId, cat]) => [catId, { ...cat }]));
+  Object.entries(next).forEach(([catId, cat]) => {
+    POINT_VALUES.forEach((pts) => {
+      const pool = Array.isArray(cat[pts]) ? cat[pts] : [];
+      cat[pts] = pool
+        .map((entry) => normalizeQuestionEntry(entry, catId))
+        .filter((entry) => !shouldFilterQuestion(entry, catId));
+    });
+  });
+  return next;
+}
+
+function applyHardCharadesOverrides(rawBank){
+  const next = Object.fromEntries(Object.entries(rawBank).map(([catId, cat]) => [catId, { ...cat }]));
+  Object.entries(CHARADES_HARD_OVERRIDES).forEach(([catId, tierPool]) => {
+    if (!next[catId]) return;
+    next[catId] = { ...next[catId], 600: Array.isArray(tierPool) ? tierPool : next[catId][600] };
+  });
+  return next;
+}
+
 function sanitizeBank(rawBank){
   return Object.fromEntries(
     Object.entries(rawBank).map(([catId,cat])=>{
@@ -3293,7 +3565,7 @@ function sanitizeBank(rawBank){
             return;
           }
           seenInCategory.add(key);
-          deduped.push({...entry,_qid:`${catId}:${pts}:${key}`});
+          deduped.push({...entry,_qkey:key,_qid:`${catId}:${pts}:${key}`});
         });
         if(deduped.length<TILES_PER_TIER){
           throw new Error(`Category "${catId}" tier ${pts} must contain at least ${TILES_PER_TIER} unique questions`);
@@ -3303,6 +3575,22 @@ function sanitizeBank(rawBank){
       return [catId,nextCat];
     })
   );
+}
+
+function mergeTierLists(baseTier, additionsTier){
+  const base = Array.isArray(baseTier) ? baseTier : [];
+  const additions = Array.isArray(additionsTier) ? additionsTier : [];
+  return [...base, ...additions];
+}
+
+function mergeStandaloneCategory(baseCategory, additions){
+  if(!baseCategory) return additions || null;
+  if(!additions) return baseCategory;
+  const next={...baseCategory};
+  POINT_VALUES.forEach((pts)=>{
+    next[pts]=mergeTierLists(baseCategory?.[pts], additions?.[pts]);
+  });
+  return next;
 }
 
 function applyCategoryOverrides(bank, overrides){
@@ -3315,12 +3603,37 @@ function applyCategoryOverrides(bank, overrides){
 
 const BANK = sanitizeBank(
   applyWhoAmIDifficultyOverrides(
-    applyCategoryOverrides(
-      mergeQuestionExpansions(
-        mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
-        QUESTION_MINIMUMS,
+    applyHardCharadesOverrides(
+      applyQuestionStyleFilters(
+        applyCategoryOverrides(
+          mergeQuestionExpansions(
+            mergeQuestionExpansions(
+              mergeQuestionExpansions(
+                mergeQuestionExpansions(
+                  mergeQuestionExpansions(
+                    mergeQuestionExpansions(
+                      mergeQuestionExpansions(
+                        mergeQuestionExpansions(
+                          mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
+                          QUESTION_MINIMUMS,
+                        ),
+                        TRIVIA_MEGA_EXPANSIONS,
+                      ),
+                      TRIVIA_ULTRA_EXPANSIONS,
+                    ),
+                    TRIVIA_TIER_BALANCE_EXPANSIONS,
+                  ),
+                  QUESTION_REFINEMENT_ADDITIONS,
+                ),
+                TRIVIA_TIER_PARITY_EXPANSIONS,
+              ),
+              TRIVIA_TIER_FINAL_PARITY_EXPANSIONS,
+            ),
+            TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS,
+          ),
+          { songs: mergeStandaloneCategory(SONG_CLIP_BANK, SONG_CLIP_ADDITIONS) },
+        ),
       ),
-      { songs: SONG_CLIP_BANK },
     ),
   ),
 );
@@ -3396,10 +3709,29 @@ const PT_BG = {200:"#FFFBEB",400:"#FFF1F2",600:"#F5F3FF"};
 
 function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 function makeBoard(catIds){const b={};catIds.forEach(id=>{b[id]={};POINT_VALUES.forEach(pts=>{b[id][pts]=Array(TILES_PER_TIER).fill(false);});});return b;}
+function buildUsedQuestionLookup(ids){
+  const lookup=new Set();
+  (Array.isArray(ids)?ids:[]).forEach((id)=>{
+    if(typeof id!=="string") return;
+    const trimmed=id.trim();
+    if(!trimmed) return;
+    lookup.add(trimmed);
+    const legacyMatch=trimmed.match(/^[^:]+:\d+:(.+)$/);
+    if(legacyMatch?.[1]) lookup.add(legacyMatch[1]);
+  });
+  return lookup;
+}
+function getQuestionUsageKeys(entry){
+  return [entry?._qid, entry?._qkey].filter(Boolean);
+}
+function isQuestionConsumed(entry, usedLookup){
+  return getQuestionUsageKeys(entry).some((key)=>usedLookup.has(key));
+}
 function buildTierPool(catId, pts, usedIdsSet){
   const fullPool = Array.isArray(BANK?.[catId]?.[pts]) ? BANK[catId][pts] : [];
   if(fullPool.length===0) return [];
-  const remainingPool = fullPool.filter((entry)=>!usedIdsSet.has(entry._qid));
+  const usedLookup=usedIdsSet instanceof Set?usedIdsSet:buildUsedQuestionLookup(usedIdsSet);
+  const remainingPool = fullPool.filter((entry)=>!isQuestionConsumed(entry,usedLookup));
   return shuffle(remainingPool.length>0?remainingPool:[...fullPool]);
 }
 function initPointers(catIds, usedIdsSet=new Set()){const p={};catIds.forEach(id=>{p[id]={};POINT_VALUES.forEach(pts=>{p[id][pts]={pool:buildTierPool(id, pts, usedIdsSet),idx:0};});});return p;}
@@ -4070,7 +4402,15 @@ const CSS=`
 `;
 
 export default function App(){
-  const initialQuestionUsageSnapshot=getCachedQuestionUsageSnapshot();
+  const initialAccountSession=getCachedAccountSession();
+  const initialQuestionUsageSnapshot=getCachedQuestionUsageSnapshot(initialAccountSession?.user?.id);
+  const [authMode,setAuthMode]=useState("login");
+  const [authUsername,setAuthUsername]=useState("");
+  const [authPassword,setAuthPassword]=useState("");
+  const [authError,setAuthError]=useState("");
+  const [authBusy,setAuthBusy]=useState(false);
+  const [authReady,setAuthReady]=useState(false);
+  const [accountSession,setAccountSession]=useState(initialAccountSession);
   const [screen,setScreen]=useState("setup");
   const [teams,setTeams]=useState(["Team 1","Team 2"]);
   const [scores,setScores]=useState([0,0]);
@@ -4098,7 +4438,39 @@ export default function App(){
 
   useEffect(()=>{
     let cancelled=false;
-    loadSharedQuestionUsage().then((snapshot)=>{
+    loadAccountSession().then((session)=>{
+      if(cancelled) return;
+      setAccountSession(session);
+      setAuthReady(true);
+    }).catch(()=>{
+      if(cancelled) return;
+      setAccountSession(null);
+      setAuthReady(true);
+    });
+    return()=>{cancelled=true;};
+  },[]);
+
+  useEffect(()=>{
+    if(!authReady) return;
+    if(!accountSession){
+      usedQuestionIdsRef.current=[];
+      questionUsageResetTokenRef.current="initial";
+      setUsedQuestionIds([]);
+      setQuestionUsageResetToken("initial");
+      setUsageReady(false);
+      return;
+    }
+    const cachedSnapshot=getCachedQuestionUsageSnapshot(accountSession.user.id);
+    usedQuestionIdsRef.current=cachedSnapshot.ids;
+    questionUsageResetTokenRef.current=cachedSnapshot.resetToken;
+    setUsedQuestionIds(cachedSnapshot.ids);
+    setQuestionUsageResetToken(cachedSnapshot.resetToken);
+    setUsageReady(false);
+    let cancelled=false;
+    loadSharedQuestionUsage({
+      accountId: accountSession.user.id,
+      sessionToken: accountSession.sessionToken,
+    }).then((snapshot)=>{
       if(cancelled) return;
       usedQuestionIdsRef.current=snapshot.ids;
       questionUsageResetTokenRef.current=snapshot.resetToken;
@@ -4110,12 +4482,16 @@ export default function App(){
       setUsageReady(true);
     });
     return()=>{cancelled=true;};
-  },[]);
+  },[accountSession,authReady]);
 
   async function syncQuestionUsage(){
+    if(!accountSession) return [];
     setIsSyncingUsage(true);
     try{
-      const snapshot=await loadSharedQuestionUsage();
+      const snapshot=await loadSharedQuestionUsage({
+        accountId: accountSession.user.id,
+        sessionToken: accountSession.sessionToken,
+      });
       usedQuestionIdsRef.current=snapshot.ids;
       questionUsageResetTokenRef.current=snapshot.resetToken;
       setUsedQuestionIds(snapshot.ids);
@@ -4127,14 +4503,18 @@ export default function App(){
     }
   }
 
-  function persistQuestionUsage(questionId){
-    if(!questionId) return;
+  function persistQuestionUsage(questionIds){
+    const normalizedIds=mergeQuestionUsageIds(Array.isArray(questionIds)?questionIds:[questionIds]);
+    if(normalizedIds.length===0) return;
     const currentIds=usedQuestionIdsRef.current;
-    if(currentIds.includes(questionId)) return;
-    const nextIds=[...currentIds,questionId];
+    const nextIds=mergeQuestionUsageIds(currentIds,normalizedIds);
+    if(nextIds.length===currentIds.length) return;
     usedQuestionIdsRef.current=nextIds;
     setUsedQuestionIds(nextIds);
-    appendSharedQuestionUsage(currentIds,[questionId],questionUsageResetTokenRef.current).then((snapshot)=>{
+    appendSharedQuestionUsage(currentIds,normalizedIds,questionUsageResetTokenRef.current,{
+      accountId: accountSession?.user?.id,
+      sessionToken: accountSession?.sessionToken,
+    }).then((snapshot)=>{
       usedQuestionIdsRef.current=snapshot.ids;
       questionUsageResetTokenRef.current=snapshot.resetToken;
       setUsedQuestionIds(snapshot.ids);
@@ -4142,9 +4522,51 @@ export default function App(){
     }).catch(()=>{});
   }
 
+  async function handleAuthSubmit(e){
+    e?.preventDefault?.();
+    setAuthBusy(true);
+    setAuthError("");
+    try{
+      const session=authMode==="signup"
+        ? await signupAccount(authUsername,authPassword)
+        : await loginAccount(authUsername,authPassword);
+      setAccountSession(session);
+      setAuthUsername("");
+      setAuthPassword("");
+      setScreen("setup");
+    }catch(error){
+      setAuthError(error?.message||"Unable to sign in");
+    }finally{
+      setAuthBusy(false);
+    }
+  }
+
+  async function handleLogout(){
+    await logoutAccount(accountSession?.sessionToken);
+    setAccountSession(null);
+    setAuthUsername("");
+    setAuthPassword("");
+    setAuthError("");
+    setScreen("setup");
+    setTeams(["Team 1","Team 2"]);
+    setScores([0,0]);
+    setSelCats([]);
+    setBoard({});
+    setQPointers({});
+    setActiveTile(null);
+    setShowAns(false);
+    setShowWord(false);
+    setCurTeam(0);
+    usedQuestionIdsRef.current=[];
+    questionUsageResetTokenRef.current="initial";
+    setUsedQuestionIds([]);
+    setQuestionUsageResetToken("initial");
+    setUsageReady(false);
+  }
+
   async function startGame(cats){
     const latestIds=await syncQuestionUsage();
-    setQPointers(initPointers(cats,new Set(latestIds)));
+    setQPointers(initPointers(cats,buildUsedQuestionLookup(latestIds)));
     setBoard(makeBoard(cats));
     setSelCats(cats);
     setScores([0,0]);
@@ -4152,19 +4574,50 @@ export default function App(){
     setScreen("board");
   }
 
-  function pickTile(catId,pts,idx){
-    const slot=qPointers[catId][pts];
-    if(!slot||slot.pool.length===0) return;
-    const q=slot.pool[slot.idx];
-    const ni=slot.idx+1,nr=ni>=slot.pool.length;
-    const nextUsedIds=nr&&q?new Set([...usedQuestionIdsRef.current,q._qid]):new Set(usedQuestionIdsRef.current);
-    setQPointers(prev=>({...prev,[catId]:{...prev[catId],[pts]:{pool:nr?buildTierPool(catId, pts, nextUsedIds):slot.pool,idx:nr?0:ni}}}));
+  function adjustScore(teamIdx, delta){
+    setScores(prev=>{
+      const next=[...prev];
+      next[teamIdx]=Math.max(0,(next[teamIdx]||0)+delta);
+      return next;
+    });
+  }
+
+  function goBackToBoard(){
+    if(activeTile){
+      setBoard(prev=>{
+        const catBoard=prev?.[activeTile.catId]?.[activeTile.pts];
+        if(!catBoard) return prev;
+        const arr=[...catBoard];
+        arr[activeTile.tileIdx]=true;
+        return {...prev,[activeTile.catId]:{...prev[activeTile.catId],[activeTile.pts]:arr}};
+      });
+    }
+    setActiveTile(null);
+    setShowAns(false);
+    setShowWord(false);
+    setScreen("board");
+  }
+
+  async function pickTile(catId,pts,idx){
+    const latestIds=await syncQuestionUsage();
+    const usedIdsSet=buildUsedQuestionLookup(latestIds);
+    const slot=qPointers?.[catId]?.[pts];
+    const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
+    let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet));
+    if(sourcePool.length===0){
+      sourcePool=buildTierPool(catId, pts, usedIdsSet);
+    }
+    const q=sourcePool[0];
+    if(!q) return;
+    persistQuestionUsage(getQuestionUsageKeys(q));
+    setQPointers(prev=>({...prev,[catId]:{...prev[catId],[pts]:{pool:sourcePool,idx:1}}}));
     setActiveTile({catId,pts,tileIdx:idx,...q});
-    setShowAns(false);setShowWord(false);setScreen("question");
+    setShowAns(false);
+    setShowWord(false);
+    setScreen("question");
   }
 
   function markUsed(){
-    persistQuestionUsage(activeTile?._qid);
     setBoard(prev=>{const arr=[...prev[activeTile.catId][activeTile.pts]];arr[activeTile.tileIdx]=true;return{...prev,[activeTile.catId]:{...prev[activeTile.catId],[activeTile.pts]:arr}};});
   }
 
@@ -4178,11 +4631,19 @@ export default function App(){
   const cat=activeTile&&BANK[activeTile.catId];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":"trivia"):null;
 
-  if(screen==="setup") return <SetupScreen teams={teams} setTeams={setTeams} onNext={()=>setScreen("categories")}/>;
+  if(!authReady) return (
+    <div style={{minHeight:"100dvh",background:"linear-gradient(180deg,#F8FAFC 0%,#EEF2FF 100%)",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:18}}>
+      <style>{CSS}</style>
+      <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+      <div style={{fontSize:16,color:"#64748B",fontWeight:800,letterSpacing:1.5}}>Loading account...</div>
+    </div>
+  );
+  if(!accountSession) return <AuthScreen mode={authMode} setMode={setAuthMode} username={authUsername} setUsername={setAuthUsername} password={authPassword} setPassword={setAuthPassword} error={authError} isBusy={authBusy} onSubmit={handleAuthSubmit}/>;
+  if(screen==="setup") return <SetupScreen teams={teams} setTeams={setTeams} onNext={()=>setScreen("categories")} accountUser={accountSession.user} onLogout={handleLogout}/>;
   if(screen==="categories") return <CategoryScreen selCats={selCats} setSelCats={setSelCats} onStart={startGame} onBack={()=>setScreen("setup")} usageReady={usageReady} isSyncingUsage={isSyncingUsage}/>;
-  if(screen==="board") return <BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")}/>;
+  if(screen==="board") return <BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")} onAdjustScore={adjustScore}/>;
   if(screen==="question"){
-    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0)};
+    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard};
     if(ttype==="whoami") return <WhoAmIScreen {...p}/>;
     if(ttype==="countrymap") return <CountryMapScreen {...p}/>;
     if(ttype==="moviescene") return <MovieSceneScreen {...p}/>;
@@ -4194,13 +4655,30 @@ export default function App(){
   return null;
 }
 
-function ScoreBar({teams,scores,curTeam}){
+function ScoreBar({teams,scores,curTeam,onAdjustScore}){
   return(
     <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"10px 16px",background:"#fff",borderBottom:"1px solid #E2E8F0",minHeight:54}}>
       {teams.map((t,i)=>(
-        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:i===0?"flex-start":"flex-end",flex:1}}>
-          <div style={{fontSize:10,fontWeight:700,color:TEAM_COLORS[i],letterSpacing:.8,textTransform:"uppercase"}}>{t}</div>
-          <div style={{fontSize:22,fontWeight:800,color:i===curTeam?TEAM_COLORS[i]:"#CBD5E1",fontFamily:"'Bebas Neue',sans-serif"}}>{scores[i]}</div>
+        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,gap:8}}>
+          <div style={{
+            fontSize:13,
+            fontWeight:900,
+            color:i===curTeam?"#fff":TEAM_COLORS[i],
+            letterSpacing:1.2,
+            textTransform:"uppercase",
+            background:i===curTeam?TEAM_COLORS[i]:"transparent",
+            border:`2px solid ${TEAM_COLORS[i]}`,
+            borderRadius:999,
+            padding:"6px 14px",
+            boxShadow:i===curTeam?`0 10px 18px ${withAlpha(TEAM_COLORS[i],"30")}`:"none",
+            textAlign:"center",
+            minWidth:92,
+          }}>{t}</div>
+          <div style={{display:"flex",alignItems:"center",gap:8}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>-</button>
+            <div style={{fontSize:26,fontWeight:800,color:i===curTeam?TEAM_COLORS[i]:"#94A3B8",fontFamily:"'Bebas Neue',sans-serif",minWidth:40,textAlign:"center"}}>{scores[i]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>+</button>
+          </div>
         </div>
       ))}
       <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:"0 8px"}}>VS</div>
@@ -4208,34 +4686,103 @@ function ScoreBar({teams,scores,curTeam}){
   );
 }
 
-function BoardHeader({teams,scores,curTeam,allDone,onGameOver}){
+function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
   return(
     <div style={{background:"#fff",borderBottom:"1px solid #E2E8F0",padding:"18px 18px 16px"}}>
       <div style={{display:"grid",gridTemplateColumns:"1fr auto 1fr",alignItems:"start",gap:16}}>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"flex-start"}}>
-          <div style={{fontSize:12,fontWeight:800,color:TEAM_COLORS[0],letterSpacing:1,textTransform:"uppercase"}}>{teams[0]}</div>
-          <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[0]}}>{scores[0]}</div>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
+          <div style={{
+            fontSize:14,
+            fontWeight:900,
+            color:curTeam===0?"#fff":TEAM_COLORS[0],
+            letterSpacing:1.4,
+            textTransform:"uppercase",
+            background:curTeam===0?TEAM_COLORS[0]:"transparent",
+            border:`2px solid ${TEAM_COLORS[0]}`,
+            borderRadius:999,
+            padding:"7px 16px",
+            boxShadow:curTeam===0?`0 14px 26px ${withAlpha(TEAM_COLORS[0],"35")}`:"none",
+            textAlign:"center",
+            minWidth:120,
+          }}>{teams[0]}</div>
+          <div style={{display:"flex",alignItems:"center",gap:10}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>-</button>
+            <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[0],minWidth:44,textAlign:"center"}}>{scores[0]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>+</button>
+          </div>
         </div>
         <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,minWidth:120}}>
           <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(42px,7vw,74px)",lineHeight:.85,color:"#0F172A",letterSpacing:2}}>VS</div>
           <div style={{fontSize:13,fontWeight:800,color:TEAM_COLORS[curTeam],textAlign:"center"}}>{teams[curTeam]}'s turn</div>
           {allDone&&<button className="tap" onClick={onGameOver} style={{background:"#1E293B",color:"#fff",fontSize:11,fontWeight:800,padding:"7px 12px",borderRadius:999}}>RESULTS</button>}
         </div>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"flex-end"}}>
-          <div style={{fontSize:12,fontWeight:800,color:TEAM_COLORS[1],letterSpacing:1,textTransform:"uppercase"}}>{teams[1]}</div>
-          <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[1]}}>{scores[1]}</div>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
+          <div style={{
+            fontSize:14,
+            fontWeight:900,
+            color:curTeam===1?"#fff":TEAM_COLORS[1],
+            letterSpacing:1.4,
+            textTransform:"uppercase",
+            background:curTeam===1?TEAM_COLORS[1]:"transparent",
+            border:`2px solid ${TEAM_COLORS[1]}`,
+            borderRadius:999,
+            padding:"7px 16px",
+            boxShadow:curTeam===1?`0 14px 26px ${withAlpha(TEAM_COLORS[1],"35")}`:"none",
+            textAlign:"center",
+            minWidth:120,
+          }}>{teams[1]}</div>
+          <div style={{display:"flex",alignItems:"center",gap:10}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>-</button>
+            <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[1],minWidth:44,textAlign:"center"}}>{scores[1]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>+</button>
+          </div>
         </div>
       </div>
     </div>
   );
 }
 
-function SetupScreen({teams,setTeams,onNext}){
+function AuthScreen({mode,setMode,username,setUsername,password,setPassword,error,isBusy,onSubmit}){
+  const isSignup=mode==="signup";
+  return(
+    <div style={{minHeight:"100dvh",background:"linear-gradient(180deg,#F8FAFC 0%,#EEF2FF 100%)",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:28}}>
+      <style>{CSS}</style>
+      <div style={{textAlign:"center"}}>
+        <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+      </div>
+      <div style={{width:"100%",maxWidth:500,background:"#FFFFFF",borderRadius:28,border:"3px solid #0F172A",boxShadow:"0 24px 60px #0f172a14",padding:"24px 22px 22px",display:"flex",flexDirection:"column",gap:16}}>
+        <div style={{display:"flex",gap:10}}>
+          <button className="tap" onClick={()=>setMode("login")} style={{flex:1,padding:"12px 0",borderRadius:16,background:mode==="login"?"#1E293B":"#E2E8F0",color:mode==="login"?"#fff":"#475569",fontWeight:800,fontSize:15}}>Sign In</button>
+          <button className="tap" onClick={()=>setMode("signup")} style={{flex:1,padding:"12px 0",borderRadius:16,background:mode==="signup"?"#7C3AED":"#EDE9FE",color:mode==="signup"?"#fff":"#6D28D9",fontWeight:800,fontSize:15}}>Create Account</button>
+        </div>
+        <div style={{fontSize:14,color:"#475569",fontWeight:600,lineHeight:1.55,textAlign:"center"}}>
+          {isSignup?"Create an account and your question pool starts fresh just for you.":"Sign in once and keep your own saved question pool across refreshes and devices."}
+        </div>
+        <form onSubmit={onSubmit} style={{display:"flex",flexDirection:"column",gap:14}}>
+          <input value={username} onChange={(e)=>setUsername(e.target.value)} placeholder="Username" autoComplete="username"
+            style={{width:"100%",padding:"16px 18px",borderRadius:18,border:"2px solid #CBD5E1",fontSize:18,fontWeight:700,background:"#fff",color:"#1E293B",outline:"none",textAlign:"center"}}/>
+          <input type="password" value={password} onChange={(e)=>setPassword(e.target.value)} placeholder="Password" autoComplete={isSignup?"new-password":"current-password"}
+            style={{width:"100%",padding:"16px 18px",borderRadius:18,border:"2px solid #CBD5E1",fontSize:18,fontWeight:700,background:"#fff",color:"#1E293B",outline:"none",textAlign:"center"}}/>
+          {error&&<div style={{fontSize:13,color:"#DC2626",fontWeight:800,textAlign:"center"}}>{error}</div>}
+          <button className="tap" disabled={isBusy} style={{marginTop:4,background:isSignup?"#7C3AED":"#1E293B",color:"#fff",fontWeight:800,fontSize:19,padding:"16px 20px",borderRadius:18,opacity:isBusy?.7:1}}>
+            {isBusy?(isSignup?"Creating account...":"Signing in..."):(isSignup?"CREATE ACCOUNT":"SIGN IN")}
+          </button>
+        </form>
+      </div>
+    </div>
+  );
+}
+
+function SetupScreen({teams,setTeams,onNext,accountUser,onLogout}){
   return(
     <div style={{minHeight:"100dvh",background:"#F8FAFC",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32,gap:34}}>
       <style>{CSS}</style>
+      <div style={{position:"absolute",top:20,right:20,display:"flex",alignItems:"center",gap:10}}>
+        {accountUser&&<div style={{fontSize:13,fontWeight:800,color:"#475569",background:"#FFFFFF",border:"2px solid #CBD5E1",borderRadius:999,padding:"8px 14px"}}>{accountUser.username}</div>}
+        <button className="tap" onClick={onLogout} style={{background:"#FFFFFF",color:"#1E293B",fontWeight:800,fontSize:13,padding:"10px 16px",borderRadius:999,border:"2px solid #0F172A"}}>Sign Out</button>
+      </div>
       <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIQ</div>
+        <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
         <div style={{fontSize:15,color:"#94A3B8",fontWeight:700,letterSpacing:3,marginTop:10}}>TEAM TRIVIA</div>
       </div>
       <div style={{width:"100%",maxWidth:520,display:"flex",flexDirection:"column",gap:18}}>
@@ -4260,7 +4807,7 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
       <div style={{padding:"14px 16px 10px",background:"#fff",borderBottom:"1px solid #E2E8F0"}}>
         <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:26,color:"#1E293B",letterSpacing:1}}>SELECT CATEGORIES</div>
         <div style={{fontSize:11,color:"#94A3B8",fontWeight:600}}>{selCats.length} selected</div>
-        {!usageReady&&<div style={{fontSize:11,color:"#64748B",fontWeight:700,marginTop:4}}>Loading shared question history...</div>}
+        {!usageReady&&<div style={{fontSize:11,color:"#64748B",fontWeight:700,marginTop:4}}>Loading your account question history...</div>}
       </div>
       <div style={{display:"flex",gap:12,padding:"10px 16px",background:"#fff",borderBottom:"1px solid #E2E8F0",alignItems:"flex-start",flexWrap:"wrap"}}>
         <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
@@ -4321,15 +4868,15 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
       </div>
       <div style={{padding:"12px 16px",background:"#fff",borderTop:"1px solid #E2E8F0",display:"flex",gap:10}}>
         <button className="tap" onClick={onBack} style={{flex:1,padding:"13px 0",borderRadius:12,border:"2px solid #E2E8F0",background:"#fff",fontWeight:700,fontSize:14,color:"#64748B"}}>&lt;- Back</button>
-        <button className="tap" onClick={()=>selCats.length>0&&!isSyncingUsage&&onStart(selCats)} style={{flex:3,padding:"13px 0",borderRadius:12,background:selCats.length>0&&!isSyncingUsage?"#1E293B":"#E2E8F0",color:selCats.length>0&&!isSyncingUsage?"#fff":"#94A3B8",fontWeight:800,fontSize:14}}>
-          {isSyncingUsage?"Syncing question pool...":selCats.length>0?`START (${selCats.length}) ->`:"Select at least 1"}
+        <button className="tap" onClick={()=>selCats.length>0&&usageReady&&!isSyncingUsage&&onStart(selCats)} style={{flex:3,padding:"13px 0",borderRadius:12,background:selCats.length>0&&usageReady&&!isSyncingUsage?"#1E293B":"#E2E8F0",color:selCats.length>0&&usageReady&&!isSyncingUsage?"#fff":"#94A3B8",fontWeight:800,fontSize:14}}>
+          {!usageReady?"Loading account pool...":isSyncingUsage?"Syncing question pool...":selCats.length>0?`START (${selCats.length}) ->`:"Select at least 1"}
         </button>
       </div>
     </div>
   );
 }
 
-function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver}){
+function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdjustScore}){
   const allDone=Object.keys(board).length>0&&Object.keys(board).every(c=>[200,400,600].every(p=>board[c][p].every(Boolean)));
   const catCount=Math.max(selCats.length,1);
   const rowCount=Math.ceil(catCount / 3);
@@ -4352,7 +4899,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver}){
   return(
     <div style={{minHeight:"100dvh",background:"#F8FAFC",display:"flex",flexDirection:"column"}}>
       <style>{CSS}</style>
-      <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver}/>
+      <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore}/>
       <div style={{flex:1,minHeight:0,padding:12,display:"flex",flexDirection:"column"}}>
         <div style={{height:10,borderTop:"2px solid #DBEAFE",borderRadius:"999px 999px 0 0",margin:"0 6px 12px"}}/>
         <div style={{flex:1,minHeight:0,display:"flex",flexDirection:"column",gap:categoryGap}}>
@@ -4414,6 +4961,8 @@ function formatAnswerForDisplay(answer){
   if (!text) return text;
 
   text = text.replace(/\((and [^)]+)\)/gi, " $1");
+  text = text.replace(/\s+as of\s+\d{4}.*$/i, "");
+  text = text.replace(/\s+featuring\s+.+$/i, "");
 
   if (
     /^[^.;]+(?:\s*\([^)]+\))?(?:,\s*[^.;]+(?:\s*\([^)]+\))?)+$/.test(text) ||
@@ -4434,10 +4983,37 @@ function formatAnswerForDisplay(answer){
     text = text.split(/\. +/)[0].trim();
   }
 
+  if (/\s+or\s+/i.test(text) && !/,/.test(text)) {
+    const [head] = text.split(/\s+or\s+/i);
+    if (answerWordCount(head) >= 1) {
+      text = head.trim();
+    }
+  }
+
   return text
     .replace(/\s+,/g, ",")
     .replace(/\s{2,}/g, " ")
     .replace(/\.$/, "")
+    .trim();
+}
+
+function formatQuestionForDisplay(question){
+  let text = String(question ?? "").replace(/\s+/g, " ").trim();
+  if (!text) return text;
+
+  text = text
+    .replace(/\s+and\s+why\s+is\s+it\s+remarkable\?$/i, "?")
+    .replace(/\s+and\s+why\s+was\s+it\s+controversial\?$/i, "?")
+    .replace(/\s+and\s+why\s+is\s+he\s+significant\?$/i, "?")
+    .replace(/\s+and\s+why\s+is\s+it\s+significant\?$/i, "?")
+    .replace(/\s+and\s+what\s+opened\s+it\?$/i, "?")
+    .replace(/\s+and\s+what\s+is\s+it\?$/i, "?")
+    .replace(/\s+and\s+what\s+is\s+barry's\s+role\?$/i, "?")
+    .replace(/\s+and\s+what\s+is\s+his\s+most\s+famous\s+moment\?$/i, "?");
+
+  return text
+    .replace(/\s+\?/g, "?")
+    .replace(/\s{2,}/g, " ")
     .trim();
 }
 
@@ -4546,6 +5122,21 @@ const QUESTION_SECONDARY_BUTTON_STYLE={
   border:"1.5px solid #E2E8F0",
 };
 
+const QUESTION_ACTION_ROW_STYLE={
+  display:"flex",
+  flexWrap:"wrap",
+  alignItems:"center",
+  justifyContent:"center",
+  gap:14,
+};
+
+const QUESTION_BACK_BUTTON_WRAP_STYLE={
+  display:"flex",
+  justifyContent:"center",
+  width:"100%",
+  marginTop:14,
+};
+
 function withAlpha(hex, alpha="22"){
   return /^#[0-9A-F]{6}$/i.test(hex||"") ? `${hex}${alpha}` : hex;
 }
@@ -4586,15 +5177,16 @@ function QuestionPanel({children,maxWidth=760,padding="42px 36px",style={},class
   );
 }
 
-function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass}){
+function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
   const isEmojiGuess = Boolean(BANK[tile.catId]?.isEmojiGuess);
+  const displayQuestion = formatQuestionForDisplay(tile.q);
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam}/>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_CENTER_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
@@ -4615,7 +5207,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
                 <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>{BANK[tile.catId]?.emojiPrompt || "Guess from the emoji clue"}</div>
               </>
             ) : (
-              <div style={{fontSize:"clamp(24px,4.6vw,38px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{tile.q}</div>
+              <div style={{fontSize:"clamp(24px,4.6vw,38px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{displayQuestion}</div>
             )}
           </QuestionPanel>
           {showAns?(
@@ -4626,6 +5218,9 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
           ):(
             <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
+          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+            <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
+          </div>
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
         </div>
       </div>
@@ -4634,14 +5229,14 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
 }
 
 // Who Am I - image-based character prompt
-function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass}){
+function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const catLabel=BANK[tile.catId].label;
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam}/>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
@@ -4661,6 +5256,9 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWr
           ):(
             <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
+          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+            <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
+          </div>
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
         </div>
       </div>
@@ -4669,13 +5267,13 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWr
 }
 
 // Country Map - local world-map SVG asset
-function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass}){
+function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam}/>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
@@ -4694,6 +5292,9 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
           ):(
             <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
+          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+            <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
+          </div>
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
         </div>
       </div>
@@ -4701,13 +5302,13 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
   );
 }
 
-function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass}){
+function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam}/>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
@@ -4726,6 +5327,9 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
           ):(
             <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
+          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+            <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
+          </div>
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
         </div>
       </div>
@@ -4733,13 +5337,13 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
   );
 }
 
-function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass}){
+function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam}/>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
@@ -4759,6 +5363,9 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
           ):(
             <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
+          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+            <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
+          </div>
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
         </div>
       </div>
@@ -4766,13 +5373,13 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
   );
 }
 
-function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,onWrong,onPass}){
+function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const qrSearchUrl=`https://www.google.com/search?q=${encodeURIComponent(tile.a)}`;
   return(
     <div style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam}/>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_CENTER_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
@@ -4793,6 +5400,9 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,
           ):(
             <button className="tap" onClick={()=>setShowWord(true)} style={QUESTION_SECONDARY_BUTTON_STYLE}>{"\u{1F441}\uFE0F Show Word (Host Only)"}</button>
           )}
+          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+            <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
+          </div>
           <AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>
         </div>
       </div>

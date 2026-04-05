@@ -1,7 +1,8 @@
 import { getStore } from "@netlify/blobs";
+import { requireAuthenticatedUser, json } from "./_shared/triviqAuth.js";
 
 const QUESTION_USAGE_STORE = "triviq-question-usage";
-const QUESTION_USAGE_PREFIX = "used/";
+const QUESTION_USAGE_PREFIX = "users/";
 const RESET_TOKEN_KEY = "meta/reset-token";
 const DEFAULT_RESET_TOKEN = "initial";
 const ADMIN_SECRET_HEADER = "x-question-pool-admin-secret";
@@ -10,28 +11,22 @@ function normalizeQuestionIds(ids){
   return [...new Set((Array.isArray(ids)?ids:[]).filter((id)=>typeof id==="string"&&id.trim().length>0))].sort();
 }
 
-function toStoreKey(questionId){
-  return `${QUESTION_USAGE_PREFIX}${encodeURIComponent(questionId)}`;
+function usagePrefixForUser(userId){
+  return `${QUESTION_USAGE_PREFIX}${encodeURIComponent(userId)}/used/`;
 }
 
-function fromStoreKey(storeKey){
-  if(typeof storeKey!=="string"||!storeKey.startsWith(QUESTION_USAGE_PREFIX)) return null;
+function toStoreKey(userId, questionId){
+  return `${usagePrefixForUser(userId)}${encodeURIComponent(questionId)}`;
+}
+
+function fromStoreKey(storeKey, userId){
+  const expectedPrefix = usagePrefixForUser(userId);
+  if(typeof storeKey!=="string"||!storeKey.startsWith(expectedPrefix)) return null;
   try{
-    return decodeURIComponent(storeKey.slice(QUESTION_USAGE_PREFIX.length));
+    return decodeURIComponent(storeKey.slice(expectedPrefix.length));
   }catch{
     return null;
   }
-}
-
-function json(body, init={}){
-  return new Response(JSON.stringify(body), {
-    ...init,
-    headers:{
-      "Cache-Control":"no-store",
-      "Content-Type":"application/json",
-      ...(init.headers||{}),
-    },
-  });
 }
 
 async function readResetToken(store){
@@ -53,15 +48,19 @@ export default async function handler(req){
   const store=getStore({ name: QUESTION_USAGE_STORE, consistency: "strong" });
 
   if(req.method==="GET"){
+    const auth = await requireAuthenticatedUser(req);
+    if(!auth.ok) return auth.response;
     const resetToken=await readResetToken(store);
-    const result=await store.list({ prefix: QUESTION_USAGE_PREFIX, paginate: false });
+    const result=await store.list({ prefix: usagePrefixForUser(auth.user.id), paginate: false });
     const usedQuestionIds=normalizeQuestionIds(
-      result.blobs.map((blob)=>fromStoreKey(blob.key)).filter(Boolean),
+      result.blobs.map((blob)=>fromStoreKey(blob.key, auth.user.id)).filter(Boolean),
     );
     return json({ usedQuestionIds, resetToken });
   }
 
   if(req.method==="POST"){
+    const auth = await requireAuthenticatedUser(req);
+    if(!auth.ok) return auth.response;
     const currentResetToken=await readResetToken(store);
     const body=await req.json().catch(()=>null);
     const requestResetToken=typeof body?.resetToken==="string"&&body.resetToken.trim().length>0?body.resetToken:DEFAULT_RESET_TOKEN;
@@ -69,7 +68,7 @@ export default async function handler(req){
       return json({ error: "Reset token mismatch", resetToken: currentResetToken }, { status: 409 });
     }
     const ids=normalizeQuestionIds(body?.ids).slice(0, 5000);
-    await Promise.all(ids.map((id)=>store.set(toStoreKey(id), "1")));
+    await Promise.all(ids.map((id)=>store.set(toStoreKey(auth.user.id, id), "1")));
     return json({ ok: true, acceptedIds: ids, resetToken: currentResetToken });
   }
 

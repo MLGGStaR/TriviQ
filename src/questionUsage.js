@@ -1,4 +1,4 @@
-const QUESTION_USAGE_STORAGE_KEY = "triviq-used-question-ids-v2";
+const QUESTION_USAGE_STORAGE_KEY = "triviq-used-question-ids-v3";
 const QUESTION_USAGE_ENDPOINT = "/.netlify/functions/question-usage";
 const DEFAULT_RESET_TOKEN = "initial";
 
@@ -13,10 +13,14 @@ function normalizeSnapshot(snapshot){
   };
 }
 
-function readLocalQuestionUsageSnapshot(){
+function storageKeyForAccount(accountId){
+  return `${QUESTION_USAGE_STORAGE_KEY}:${accountId || "anonymous"}`;
+}
+
+function readLocalQuestionUsageSnapshot(accountId){
   if(typeof window==="undefined") return normalizeSnapshot();
   try{
-    const raw=window.localStorage.getItem(QUESTION_USAGE_STORAGE_KEY);
+    const raw=window.localStorage.getItem(storageKeyForAccount(accountId));
     if(!raw) return normalizeSnapshot();
     const parsed=JSON.parse(raw);
     if(Array.isArray(parsed)){
@@ -28,19 +32,23 @@ function readLocalQuestionUsageSnapshot(){
   }
 }
 
-function writeLocalQuestionUsageSnapshot(snapshot){
+function writeLocalQuestionUsageSnapshot(accountId, snapshot){
   if(typeof window==="undefined") return;
   try{
-    window.localStorage.setItem(QUESTION_USAGE_STORAGE_KEY, JSON.stringify(normalizeSnapshot(snapshot)));
+    window.localStorage.setItem(storageKeyForAccount(accountId), JSON.stringify(normalizeSnapshot(snapshot)));
   }catch{
     // Ignore storage failures and fall back to in-memory state.
   }
 }
 
-async function fetchRemoteQuestionUsage(){
+function authHeaders(sessionToken){
+  return sessionToken ? { authorization: `Bearer ${sessionToken}` } : {};
+}
+
+async function fetchRemoteQuestionUsage(sessionToken){
   const res=await fetch(QUESTION_USAGE_ENDPOINT,{
     method:"GET",
-    headers:{Accept:"application/json"},
+    headers:{Accept:"application/json", ...authHeaders(sessionToken)},
     cache:"no-store",
   });
   if(!res.ok) throw new Error(`Question usage load failed with ${res.status}`);
@@ -51,7 +59,7 @@ async function fetchRemoteQuestionUsage(){
   });
 }
 
-async function pushRemoteQuestionUsage(ids, resetToken){
+async function pushRemoteQuestionUsage(ids, resetToken, sessionToken){
   const nextIds=normalizeQuestionIds(ids);
   if(nextIds.length===0) return normalizeSnapshot({ ids: [], resetToken });
   const res=await fetch(QUESTION_USAGE_ENDPOINT,{
@@ -59,6 +67,7 @@ async function pushRemoteQuestionUsage(ids, resetToken){
     headers:{
       Accept:"application/json",
       "Content-Type":"application/json",
+      ...authHeaders(sessionToken),
     },
     body:JSON.stringify({ ids: nextIds, resetToken }),
   });
@@ -81,16 +90,17 @@ export function mergeQuestionUsageIds(...lists){
   return normalizeQuestionIds(lists.flat());
 }
 
-export function getCachedQuestionUsageSnapshot(){
-  return readLocalQuestionUsageSnapshot();
+export function getCachedQuestionUsageSnapshot(accountId){
+  return readLocalQuestionUsageSnapshot(accountId);
 }
 
-export async function loadSharedQuestionUsage(){
-  const localSnapshot=readLocalQuestionUsageSnapshot();
+export async function loadSharedQuestionUsage({ accountId, sessionToken } = {}){
+  if(!accountId || !sessionToken) return normalizeSnapshot();
+  const localSnapshot=readLocalQuestionUsageSnapshot(accountId);
   try{
-    const remoteSnapshot=await fetchRemoteQuestionUsage();
+    const remoteSnapshot=await fetchRemoteQuestionUsage(sessionToken);
     if(remoteSnapshot.resetToken!==localSnapshot.resetToken){
-      writeLocalQuestionUsageSnapshot(remoteSnapshot);
+      writeLocalQuestionUsageSnapshot(accountId, remoteSnapshot);
       return remoteSnapshot;
     }
     const mergedIds=mergeQuestionUsageIds(localSnapshot.ids, remoteSnapshot.ids);
@@ -98,38 +108,39 @@ export async function loadSharedQuestionUsage(){
       ids: mergedIds,
       resetToken: remoteSnapshot.resetToken,
     });
-    writeLocalQuestionUsageSnapshot(mergedSnapshot);
+    writeLocalQuestionUsageSnapshot(accountId, mergedSnapshot);
     const missingLocalIds=localSnapshot.ids.filter((id)=>!remoteSnapshot.ids.includes(id));
     if(missingLocalIds.length>0){
       try{
-        await pushRemoteQuestionUsage(missingLocalIds, remoteSnapshot.resetToken);
+        await pushRemoteQuestionUsage(missingLocalIds, remoteSnapshot.resetToken, sessionToken);
       }catch{
         // Local cache still has the merged set, so retry on the next sync point.
       }
     }
     return mergedSnapshot;
   }catch{
-    writeLocalQuestionUsageSnapshot(localSnapshot);
+    writeLocalQuestionUsageSnapshot(accountId, localSnapshot);
     return localSnapshot;
   }
 }
 
-export async function appendSharedQuestionUsage(currentIds, newIds, resetToken){
+export async function appendSharedQuestionUsage(currentIds, newIds, resetToken, { accountId, sessionToken } = {}){
+  if(!accountId || !sessionToken) return normalizeSnapshot({ ids: currentIds, resetToken });
   const current=normalizeQuestionIds(currentIds);
   const next=mergeQuestionUsageIds(current, newIds);
   const delta=next.filter((id)=>!current.includes(id));
   const localSnapshot=normalizeSnapshot({ ids: next, resetToken });
-  writeLocalQuestionUsageSnapshot(localSnapshot);
+  writeLocalQuestionUsageSnapshot(accountId, localSnapshot);
   if(delta.length===0) return localSnapshot;
   try{
-    const remoteSnapshot=await pushRemoteQuestionUsage(delta, localSnapshot.resetToken);
+    const remoteSnapshot=await pushRemoteQuestionUsage(delta, localSnapshot.resetToken, sessionToken);
     return normalizeSnapshot({
       ids: mergeQuestionUsageIds(next, remoteSnapshot.ids),
       resetToken: remoteSnapshot.resetToken,
     });
   }catch(error){
     if(error?.code==="RESET_TOKEN_MISMATCH"){
-      return loadSharedQuestionUsage();
+      return loadSharedQuestionUsage({ accountId, sessionToken });
     }
     return localSnapshot;
   }

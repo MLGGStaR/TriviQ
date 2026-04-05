@@ -3,6 +3,12 @@ import path from "node:path";
 import crypto from "node:crypto";
 import QUESTION_EXPANSIONS from "../src/triviaExpansions.js";
 import QUESTION_MINIMUMS from "../src/triviaMinimums.js";
+import TRIVIA_MEGA_EXPANSIONS from "../src/triviaMegaExpansions.js";
+import TRIVIA_ULTRA_EXPANSIONS from "../src/triviaUltraExpansions.js";
+import TRIVIA_TIER_BALANCE_EXPANSIONS from "../src/triviaTierBalanceExpansions.js";
+import TRIVIA_TIER_PARITY_EXPANSIONS from "../src/triviaTierParityExpansions.js";
+import TRIVIA_TIER_FINAL_PARITY_EXPANSIONS from "../src/triviaTierFinalParityExpansions.js";
+import TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS from "../src/triviaTierFinalTopoffExpansions.js";
 
 const APP_PATH = path.join(process.cwd(), "src", "App.jsx");
 const OUTPUT_DIR = path.join(process.cwd(), "public", "whoami");
@@ -11,9 +17,18 @@ const FORCE_REFRESH = process.argv.includes("--refresh");
 
 const TITLE_OVERRIDES = {
   Xavi: "Xavi_Hern%C3%A1ndez",
+  Zico: "Zico_(footballer)",
+  "Villanelle_(Killing_Eve)": "Villanelle_(character)",
+  Nandor_the_Relentless: "Kayvan_Novak",
+  Korosensei: "List_of_Assassination_Classroom_characters",
 };
 
-const DIRECT_URL_OVERRIDES = {};
+const DIRECT_URL_OVERRIDES = {
+  Johan_Liebert:
+    "https://static.wikia.nocookie.net/villains/images/3/33/Johan_adult.png/revision/latest?cb=20250211193323",
+  Korosensei:
+    "https://www.pngkit.com/png/detail/819-8194281_korosensei-assassination-classroom-koro-sensei.png",
+};
 
 function parseWhoAmIEntries(source) {
   const lines = source.split(/\r?\n/);
@@ -132,7 +147,12 @@ async function fetchText(url) {
 }
 
 async function resolveWikipediaImage(title) {
-  const html = await fetchText(`https://en.wikipedia.org/wiki/${normalizeTitleForUrl(title)}`);
+  let html = "";
+  try {
+    html = await fetchText(`https://en.wikipedia.org/wiki/${normalizeTitleForUrl(title)}`);
+  } catch {
+    return "";
+  }
   const og = cleanImageUrl(html.match(/<meta property="og:image" content="([^"]+)"/i)?.[1] || "");
   if (isUsableImageUrl(og)) return og;
 
@@ -149,6 +169,13 @@ async function resolveWikipediaImage(title) {
   return "";
 }
 
+async function searchWikipediaTitles(query) {
+  const apiUrl = `https://en.wikipedia.org/w/api.php?action=query&list=search&srsearch=${encodeURIComponent(query)}&format=json&origin=*`;
+  const response = await fetchWithRetry(apiUrl, { headers: { "user-agent": "Mozilla/5.0" } });
+  const data = await response.json();
+  return (data?.query?.search || []).map((result) => result.title.replace(/ /g, "_"));
+}
+
 async function resolveImageSource(entry) {
   const directUrl = DIRECT_URL_OVERRIDES[entry.wiki];
   if (directUrl) return directUrl;
@@ -160,6 +187,22 @@ async function resolveImageSource(entry) {
   for (const title of candidateTitles) {
     const src = await resolveWikipediaImage(title);
     if (src) return src;
+  }
+
+  const searchQueries = [
+    entry.answer,
+    `${entry.answer} character`,
+    `${entry.answer} ${entry.category.replace(/^who_/, "").replace(/_/g, " ")}`,
+  ];
+
+  const searchedTitles = new Set();
+  for (const query of searchQueries) {
+    for (const title of await searchWikipediaTitles(query)) {
+      if (searchedTitles.has(title)) continue;
+      searchedTitles.add(title);
+      const src = await resolveWikipediaImage(title);
+      if (src) return src;
+    }
   }
 
   throw new Error(`No image found for ${entry.wiki} (${entry.answer})`);
@@ -217,6 +260,12 @@ const entries = [
       ...parseWhoAmIEntries(fs.readFileSync(APP_PATH, "utf8")),
       ...collectExpandedWhoAmIEntries(QUESTION_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(QUESTION_MINIMUMS),
+      ...collectExpandedWhoAmIEntries(TRIVIA_MEGA_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(TRIVIA_ULTRA_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(TRIVIA_TIER_BALANCE_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(TRIVIA_TIER_PARITY_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_PARITY_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS),
     ].map((entry) => [entry.wiki, entry]),
   ).values(),
 ];

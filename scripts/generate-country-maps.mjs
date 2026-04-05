@@ -17,6 +17,7 @@ const COUNTRY_MAP_TIERS = {
     ["AR", "Argentina"],
     ["CL", "Chile"],
     ["GB", "United Kingdom"],
+    ["IE", "Ireland"],
     ["FR", "France"],
     ["DE", "Germany"],
     ["IT", "Italy"],
