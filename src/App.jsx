@@ -3640,11 +3640,11 @@ const BANK = sanitizeBank(
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
-  { label:"\u{1F9E0} Knowledge & General", ids:["general","geography","science","history","sports","music","movies","movie_scenes","songs","flags","country_facts","country_map"] },
+  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","movie_scenes","songs","flags","country_facts","country_map"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
-  { label:"\u{1F4FA} TV Shows", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash"] },
-  { label:"\u26A1 Superheroes & Fantasy", ids:["marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney"] },
-  { label:"\u{1F338} Anime & Gaming", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon","video_games","fortnite","valorant"] },
+  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney"] },
+  { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
+  { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant"] },
   { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character"] },
   { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies"] },
 ];
