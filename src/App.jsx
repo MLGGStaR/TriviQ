@@ -4289,6 +4289,8 @@ function CategoryPreviewVisual({category, preview, badge}){
 function CategoryPreviewCard({id, category, selected, onToggle}){
   const preview=CATEGORY_PREVIEWS[id]||{};
   const badge=category.isWhoAmI?"WHO AM I":category.isCharades?"CHARADES":category.isCountryMap?"MAP":category.isMovieScene?"CLIP":category.isSongClip?"AUDIO":null;
+  const selectedBorderColor=lightenHex(category.color,0.58);
+  const glowColor=lightenHex(category.color,0.72);
   return(
     <button
       className="tap"
@@ -4301,15 +4303,15 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
         padding:6,
         borderRadius:16,
         background:"#fff",
-        border:`3px solid ${selected?category.color:"#0F172A"}`,
-        boxShadow:selected?`0 12px 24px ${category.color}24`:"0 8px 18px #0f172a08",
+        border:`3px solid ${selected?selectedBorderColor:"#0F172A"}`,
+        boxShadow:selected?`0 0 0 5px ${withAlpha(glowColor,"55")}, 0 18px 32px ${withAlpha(glowColor,"88")}`:"0 8px 18px #0f172a08",
         transition:"all .15s",
       }}
     >
       <CategoryPreviewVisual category={category} preview={preview} badge={badge}/>
       <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:3,padding:"0 4px 2px",textAlign:"center"}}>
         <div style={{fontSize:12,fontWeight:800,color:"#1E293B",lineHeight:1.15}}>{category.label}</div>
-        <div style={{fontSize:9,fontWeight:700,color:selected?category.color:"#94A3B8",letterSpacing:.25,textTransform:"uppercase"}}>
+        <div style={{fontSize:9,fontWeight:700,color:selected?selectedBorderColor:"#94A3B8",letterSpacing:.25,textTransform:"uppercase"}}>
           {preview.caption||"Tap to select"}
         </div>
       </div>
@@ -4384,12 +4386,24 @@ function QRCode({text,size=190}){
   );
 }
 
+const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
+
 const CSS=`
-  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500;600;700;800&display=swap');
   *{box-sizing:border-box;margin:0;padding:0;}
-  html,body{width:100%;height:100%;overscroll-behavior:none;}
-  button{font-family:'DM Sans',sans-serif;cursor:pointer;border:none;}
-  input{font-family:'DM Sans',sans-serif;}
+  html,body,#root{
+    width:100%;
+    height:100%;
+    overscroll-behavior:none;
+    background:#efeae3 url('/site-bg-texture-soft.jpg') center/cover fixed no-repeat;
+    font-family:${SF_STACK};
+    color:#1E293B;
+    text-rendering:optimizeLegibility;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+    font-smooth:always;
+  }
+  button{font-family:${SF_STACK};cursor:pointer;border:none;}
+  input{font-family:${SF_STACK};}
   .tap{transition:transform .12s;}
   .tap:hover{transform:scale(1.03);}
   .tap:active{transform:scale(0.96);}
@@ -4400,6 +4414,23 @@ const CSS=`
   ::-webkit-scrollbar{width:4px;height:4px;}
   ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
 `;
+
+const SITE_BACKGROUND_STYLE={
+  backgroundColor:"#efeae3",
+  backgroundImage:"url('/site-bg-texture-soft.jpg')",
+  backgroundSize:"cover",
+  backgroundPosition:"center",
+  backgroundAttachment:"fixed",
+  backgroundRepeat:"no-repeat",
+};
+
+const TOP_HEADER_WATERCOLOR_STYLE={
+  backgroundColor:"#ECFEFF",
+  backgroundImage:"linear-gradient(rgba(255,255,255,.72), rgba(255,255,255,.72)), url('/top-header-bg.jpg')",
+  backgroundSize:"cover",
+  backgroundPosition:"center",
+  backgroundRepeat:"no-repeat",
+};
 
 export default function App(){
   const initialAccountSession=getCachedAccountSession();
@@ -4417,6 +4448,7 @@ export default function App(){
   const [selCats,setSelCats]=useState([]);
   const [board,setBoard]=useState({});
   const [qPointers,setQPointers]=useState({});
+  const [pendingTileQuestions,setPendingTileQuestions]=useState({});
   const [usedQuestionIds,setUsedQuestionIds]=useState(initialQuestionUsageSnapshot.ids);
   const [questionUsageResetToken,setQuestionUsageResetToken]=useState(initialQuestionUsageSnapshot.resetToken);
   const [activeTile,setActiveTile]=useState(null);
@@ -4553,6 +4585,7 @@ export default function App(){
     setSelCats([]);
     setBoard({});
     setQPointers({});
+    setPendingTileQuestions({});
     setActiveTile(null);
     setShowAns(false);
     setShowWord(false);
@@ -4567,6 +4600,7 @@ export default function App(){
   async function startGame(cats){
     const latestIds=await syncQuestionUsage();
     setQPointers(initPointers(cats,buildUsedQuestionLookup(latestIds)));
+    setPendingTileQuestions({});
     setBoard(makeBoard(cats));
     setSelCats(cats);
     setScores([0,0]);
@@ -4583,35 +4617,48 @@ export default function App(){
   }
 
   function goBackToBoard(){
-    if(activeTile){
-      setBoard(prev=>{
-        const catBoard=prev?.[activeTile.catId]?.[activeTile.pts];
-        if(!catBoard) return prev;
-        const arr=[...catBoard];
-        arr[activeTile.tileIdx]=true;
-        return {...prev,[activeTile.catId]:{...prev[activeTile.catId],[activeTile.pts]:arr}};
-      });
-    }
     setActiveTile(null);
     setShowAns(false);
     setShowWord(false);
     setScreen("board");
   }
 
+  function getTileReservationKey(catId, pts, idx){
+    return `${catId}:${pts}:${idx}`;
+  }
+
+  function buildReservedQuestionLookup(excludeKey=null){
+    const ids=[];
+    Object.entries(pendingTileQuestions||{}).forEach(([key,entry])=>{
+      if(!entry||key===excludeKey) return;
+      ids.push(...getQuestionUsageKeys(entry));
+    });
+    return buildUsedQuestionLookup(ids);
+  }
+
   async function pickTile(catId,pts,idx){
+    const tileKey=getTileReservationKey(catId,pts,idx);
+    const reservedQuestion=pendingTileQuestions?.[tileKey];
+    if(reservedQuestion){
+      setActiveTile({catId,pts,tileIdx:idx,_tileKey:tileKey,...reservedQuestion});
+      setShowAns(false);
+      setShowWord(false);
+      setScreen("question");
+      return;
+    }
     const latestIds=await syncQuestionUsage();
     const usedIdsSet=buildUsedQuestionLookup(latestIds);
+    const reservedLookup=buildReservedQuestionLookup(tileKey);
     const slot=qPointers?.[catId]?.[pts];
     const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
-    let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet));
+    let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup));
     if(sourcePool.length===0){
-      sourcePool=buildTierPool(catId, pts, usedIdsSet);
+      sourcePool=buildTierPool(catId, pts, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup));
     }
     const q=sourcePool[0];
     if(!q) return;
-    persistQuestionUsage(getQuestionUsageKeys(q));
-    setQPointers(prev=>({...prev,[catId]:{...prev[catId],[pts]:{pool:sourcePool,idx:1}}}));
-    setActiveTile({catId,pts,tileIdx:idx,...q});
+    setPendingTileQuestions(prev=>({...prev,[tileKey]:q}));
+    setActiveTile({catId,pts,tileIdx:idx,_tileKey:tileKey,...q});
     setShowAns(false);
     setShowWord(false);
     setScreen("question");
@@ -4621,20 +4668,44 @@ export default function App(){
     setBoard(prev=>{const arr=[...prev[activeTile.catId][activeTile.pts]];arr[activeTile.tileIdx]=true;return{...prev,[activeTile.catId]:{...prev[activeTile.catId],[activeTile.pts]:arr}};});
   }
 
-  function afterQ(winnerIdx,pts){
+  function consumeActiveTile(){
+    if(!activeTile) return;
+    persistQuestionUsage(getQuestionUsageKeys(activeTile));
     markUsed();
+    if(activeTile._tileKey){
+      setPendingTileQuestions(prev=>{
+        if(!prev?.[activeTile._tileKey]) return prev;
+        const next={...prev};
+        delete next[activeTile._tileKey];
+        return next;
+      });
+    }
+  }
+
+  function revealActiveAnswer(){
+    consumeActiveTile();
+    setShowAns(true);
+  }
+
+  function revealActiveWord(){
+    consumeActiveTile();
+    setShowWord(true);
+  }
+
+  function afterQ(winnerIdx,pts){
+    consumeActiveTile();
     if(winnerIdx!=null){setScores(prev=>{const s=[...prev];s[winnerIdx]+=pts;return s;});setCurTeam(winnerIdx===0?1:0);}
     setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);
   }
-  function doWrong(){markUsed();setScores(prev=>{const s=[...prev];s[curTeam]=Math.max(0,s[curTeam]-Math.round(activeTile.pts/2));return s;});setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
+  function doWrong(){consumeActiveTile();setScores(prev=>{const s=[...prev];s[curTeam]=Math.max(0,s[curTeam]-Math.round(activeTile.pts/2));return s;});setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
 
   const cat=activeTile&&BANK[activeTile.catId];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":"trivia"):null;
 
   if(!authReady) return (
-    <div style={{minHeight:"100dvh",background:"linear-gradient(180deg,#F8FAFC 0%,#EEF2FF 100%)",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:18}}>
+    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:18}}>
       <style>{CSS}</style>
-      <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+      <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
       <div style={{fontSize:16,color:"#64748B",fontWeight:800,letterSpacing:1.5}}>Loading account...</div>
     </div>
   );
@@ -4643,7 +4714,7 @@ export default function App(){
   if(screen==="categories") return <CategoryScreen selCats={selCats} setSelCats={setSelCats} onStart={startGame} onBack={()=>setScreen("setup")} usageReady={usageReady} isSyncingUsage={isSyncingUsage}/>;
   if(screen==="board") return <BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")} onAdjustScore={adjustScore}/>;
   if(screen==="question"){
-    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard};
+    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard};
     if(ttype==="whoami") return <WhoAmIScreen {...p}/>;
     if(ttype==="countrymap") return <CountryMapScreen {...p}/>;
     if(ttype==="moviescene") return <MovieSceneScreen {...p}/>;
@@ -4651,13 +4722,13 @@ export default function App(){
     if(ttype==="charades") return <CharadesScreen {...p} showWord={showWord} setShowWord={setShowWord}/>;
     return <QuestionScreen {...p}/>;
   }
-  if(screen==="gameover") return <GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();setQPointers(initPointers(selCats,new Set(latestIds)));setBoard(makeBoard(selCats));setScores([0,0]);setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>;
+  if(screen==="gameover") return <GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();setQPointers(initPointers(selCats,new Set(latestIds)));setPendingTileQuestions({});setBoard(makeBoard(selCats));setScores([0,0]);setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>;
   return null;
 }
 
 function ScoreBar({teams,scores,curTeam,onAdjustScore}){
   return(
-    <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",padding:"10px 16px",background:"#fff",borderBottom:"1px solid #E2E8F0",minHeight:54}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",alignItems:"center",justifyContent:"space-between",padding:"10px 16px",borderBottom:"1px solid #D7EAF2",minHeight:54}}>
       {teams.map((t,i)=>(
         <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,gap:8}}>
           <div style={{
@@ -4675,9 +4746,9 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore}){
             minWidth:92,
           }}>{t}</div>
           <div style={{display:"flex",alignItems:"center",gap:8}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>-</button>
-            <div style={{fontSize:26,fontWeight:800,color:i===curTeam?TEAM_COLORS[i]:"#94A3B8",fontFamily:"'Bebas Neue',sans-serif",minWidth:40,textAlign:"center"}}>{scores[i]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>+</button>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontSize:26,fontWeight:900,color:i===curTeam?TEAM_COLORS[i]:"#94A3B8",fontFamily:SF_STACK,minWidth:40,textAlign:"center"}}>{scores[i]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
       ))}
@@ -4688,7 +4759,7 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore}){
 
 function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
   return(
-    <div style={{background:"#fff",borderBottom:"1px solid #E2E8F0",padding:"18px 18px 16px"}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:"18px 18px 16px"}}>
       <div style={{display:"grid",gridTemplateColumns:"1fr auto 1fr",alignItems:"start",gap:16}}>
         <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
           <div style={{
@@ -4706,13 +4777,13 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
             minWidth:120,
           }}>{teams[0]}</div>
           <div style={{display:"flex",alignItems:"center",gap:10}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>-</button>
-            <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[0],minWidth:44,textAlign:"center"}}>{scores[0]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>+</button>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[0],minWidth:44,textAlign:"center"}}>{scores[0]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
         <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,minWidth:120}}>
-          <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(42px,7vw,74px)",lineHeight:.85,color:"#0F172A",letterSpacing:2}}>VS</div>
+          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(42px,7vw,74px)",lineHeight:.85,color:"#0F172A",letterSpacing:2}}>VS</div>
           <div style={{fontSize:13,fontWeight:800,color:TEAM_COLORS[curTeam],textAlign:"center"}}>{teams[curTeam]}'s turn</div>
           {allDone&&<button className="tap" onClick={onGameOver} style={{background:"#1E293B",color:"#fff",fontSize:11,fontWeight:800,padding:"7px 12px",borderRadius:999}}>RESULTS</button>}
         </div>
@@ -4732,9 +4803,9 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
             minWidth:120,
           }}>{teams[1]}</div>
           <div style={{display:"flex",alignItems:"center",gap:10}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>-</button>
-            <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[1],minWidth:44,textAlign:"center"}}>{scores[1]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center"}}>+</button>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[1],minWidth:44,textAlign:"center"}}>{scores[1]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
       </div>
@@ -4745,10 +4816,10 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
 function AuthScreen({mode,setMode,username,setUsername,password,setPassword,error,isBusy,onSubmit}){
   const isSignup=mode==="signup";
   return(
-    <div style={{minHeight:"100dvh",background:"linear-gradient(180deg,#F8FAFC 0%,#EEF2FF 100%)",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:28}}>
+    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:28}}>
       <style>{CSS}</style>
       <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
       </div>
       <div style={{width:"100%",maxWidth:500,background:"#FFFFFF",borderRadius:28,border:"3px solid #0F172A",boxShadow:"0 24px 60px #0f172a14",padding:"24px 22px 22px",display:"flex",flexDirection:"column",gap:16}}>
         <div style={{display:"flex",gap:10}}>
@@ -4775,14 +4846,14 @@ function AuthScreen({mode,setMode,username,setUsername,password,setPassword,erro
 
 function SetupScreen({teams,setTeams,onNext,accountUser,onLogout}){
   return(
-    <div style={{minHeight:"100dvh",background:"#F8FAFC",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32,gap:34}}>
+    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32,gap:34}}>
       <style>{CSS}</style>
       <div style={{position:"absolute",top:20,right:20,display:"flex",alignItems:"center",gap:10}}>
         {accountUser&&<div style={{fontSize:13,fontWeight:800,color:"#475569",background:"#FFFFFF",border:"2px solid #CBD5E1",borderRadius:999,padding:"8px 14px"}}>{accountUser.username}</div>}
         <button className="tap" onClick={onLogout} style={{background:"#FFFFFF",color:"#1E293B",fontWeight:800,fontSize:13,padding:"10px 16px",borderRadius:999,border:"2px solid #0F172A"}}>Sign Out</button>
       </div>
       <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(64px,16vw,104px)",color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
         <div style={{fontSize:15,color:"#94A3B8",fontWeight:700,letterSpacing:3,marginTop:10}}>TEAM TRIVIA</div>
       </div>
       <div style={{width:"100%",maxWidth:520,display:"flex",flexDirection:"column",gap:18}}>
@@ -4802,14 +4873,14 @@ function SetupScreen({teams,setTeams,onNext,accountUser,onLogout}){
 function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingUsage}){
   const toggle=id=>setSelCats(p=>p.includes(id)?p.filter(x=>x!==id):[...p,id]);
   return(
-    <div style={{minHeight:"100dvh",background:"#F8FAFC",display:"flex",flexDirection:"column"}}>
+    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column"}}>
       <style>{CSS}</style>
-      <div style={{padding:"14px 16px 10px",background:"#fff",borderBottom:"1px solid #E2E8F0"}}>
-        <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:26,color:"#1E293B",letterSpacing:1}}>SELECT CATEGORIES</div>
+      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,padding:"14px 16px 10px",borderBottom:"1px solid #D7EAF2"}}>
+        <div style={{fontFamily:SF_STACK,fontSize:26,fontWeight:900,color:"#1E293B",letterSpacing:1}}>SELECT CATEGORIES</div>
         <div style={{fontSize:11,color:"#94A3B8",fontWeight:600}}>{selCats.length} selected</div>
         {!usageReady&&<div style={{fontSize:11,color:"#64748B",fontWeight:700,marginTop:4}}>Loading your account question history...</div>}
       </div>
-      <div style={{display:"flex",gap:12,padding:"10px 16px",background:"#fff",borderBottom:"1px solid #E2E8F0",alignItems:"flex-start",flexWrap:"wrap"}}>
+      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",gap:12,padding:"10px 16px",borderBottom:"1px solid #D7EAF2",alignItems:"flex-start",flexWrap:"wrap"}}>
         <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
           {[["ALL","#1E293B",()=>setSelCats(CAT_IDS.filter(id=>BANK[id]))],["RANDOM MIX","#7C3AED",()=>{const picks=CAT_GROUPS.map(g=>shuffle(g.ids.filter(id=>BANK[id])).slice(0,2));setSelCats([...new Set(picks.flat())]);}],["CLEAR","#EF4444",()=>setSelCats([])]].map(([lbl,col,fn])=>(
             <button key={lbl} className="tap" onClick={fn} style={{background:col,color:"#fff",fontSize:15,fontWeight:800,padding:"12px 20px",borderRadius:12,minHeight:48,letterSpacing:.25}}>{lbl}</button>
@@ -4835,30 +4906,31 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
           })}
         </div>
       </div>
-      <div style={{overflowY:"auto",flex:1,padding:"10px 16px",display:"flex",flexDirection:"column",gap:14}}>
+      <div style={{overflowY:"auto",flex:1,padding:"12px 0 18px",display:"flex",flexDirection:"column",gap:20,alignItems:"center"}}>
         {CAT_GROUPS.map(group=>{
           const gCats=group.ids.filter(id=>BANK[id]);
           if(!gCats.length) return null;
           const allSel=gCats.every(id=>selCats.includes(id));
           return(
-            <div key={group.label}>
-              <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:8}}>
-                <div style={{fontSize:17,fontWeight:800,color:"#334155",lineHeight:1.1}}>{group.label}</div>
+            <div key={group.label} style={{width:"min(100%, 1500px)",padding:"0 16px",display:"flex",flexDirection:"column",alignItems:"center"}}>
+              <div style={{position:"relative",width:"100%",minHeight:40,marginBottom:12,display:"flex",alignItems:"center",justifyContent:"center"}}>
+                <div style={{fontSize:25,fontWeight:900,color:"#334155",lineHeight:1.1,textAlign:"center"}}>{group.label}</div>
                 <button onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(x))):setSelCats(p=>[...new Set([...p,...gCats])])}
-                  style={{fontSize:10,fontWeight:700,color:allSel?"#EF4444":"#3B82F6",background:"transparent",padding:"3px 8px",border:`1px solid ${allSel?"#FECDD3":"#BFDBFE"}`,borderRadius:6}}>
+                  style={{position:"absolute",right:0,fontSize:10,fontWeight:700,color:allSel?"#EF4444":"#3B82F6",background:"transparent",padding:"3px 8px",border:`1px solid ${allSel?"#FECDD3":"#BFDBFE"}`,borderRadius:6}}>
                   {allSel?"Remove all":"Add all"}
                 </button>
               </div>
-              <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill,minmax(132px,132px))",justifyContent:"start",gap:8}}>
+              <div style={{display:"flex",flexWrap:"wrap",justifyContent:"center",alignItems:"stretch",gap:10,width:"100%"}}>
                 {gCats.map(id=>{const c=BANK[id];const sel=selCats.includes(id);
                   return(
-                    <CategoryPreviewCard
-                      key={id}
-                      id={id}
-                      category={c}
-                      selected={sel}
-                      onToggle={()=>toggle(id)}
-                    />
+                    <div key={id} style={{width:132,flex:"0 0 132px"}}>
+                      <CategoryPreviewCard
+                        id={id}
+                        category={c}
+                        selected={sel}
+                        onToggle={()=>toggle(id)}
+                      />
+                    </div>
                   );
                 })}
               </div>
@@ -4886,18 +4958,18 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   }
   const categoryGap=rowCount>=3?30:40;
   const innerGap=rowCount>=3?1:2;
-  const headerFont=rowCount===1?13:11;
-  const iconSize=rowCount===1?18:16;
+  const headerFont=rowCount===1?18:15;
+  const iconSize=rowCount===1?20:17;
   const tileFont=rowCount===1?28:22;
   const tileRadius=rowCount===1?14:10;
   const artRadius=rowCount===1?16:12;
   const artColumnWidth=rowCount===1?"clamp(92px, 11vw, 126px)":rowCount===2?"clamp(78px, 10vw, 108px)":"clamp(68px, 9vw, 92px)";
   const boardHeaderBg="#DCFCE7";
-  const boardHeaderText="#166534";
-  const boardPointBg={200:"#FDE68A",400:"#FDBA74",600:"#F87171"};
-  const boardPointText={200:"#581C87",400:"#581C87",600:"#581C87"};
+  const boardHeaderText="#000000";
+  const boardPointBg={200:"#FFED29",400:"#FF5B00",600:"#FF000D"};
+  const boardPointText={200:"#000000",400:"#000000",600:"#000000"};
   return(
-    <div style={{minHeight:"100dvh",background:"#F8FAFC",display:"flex",flexDirection:"column"}}>
+    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column"}}>
       <style>{CSS}</style>
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore}/>
       <div style={{flex:1,minHeight:0,padding:12,display:"flex",flexDirection:"column"}}>
@@ -4920,7 +4992,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
                       {[200,400,600].map((pts,rowIndex)=>(
                         (board[catId]?.[pts]||[false,false]).map((used,idx)=>(
                           <button key={`${pts}-${idx}`} className={used?"":"tap"} onClick={()=>!used&&onPick(catId,pts,idx)}
-                            style={{gridColumn:idx===0?1:3,gridRow:rowIndex+1,width:"100%",height:"100%",minWidth:0,minHeight:0,padding:"8px 2px",borderRadius:tileRadius,border:"1.5px solid #0F172A",background:used?"#E2E8F0":boardPointBg[pts],color:used?"#94A3B8":boardPointText[pts],fontFamily:"'Bebas Neue',sans-serif",fontSize:tileFont,cursor:used?"default":"pointer",opacity:used?0.8:1,display:"flex",alignItems:"center",justifyContent:"center",boxShadow:"none"}}>
+                            style={{gridColumn:idx===0?1:3,gridRow:rowIndex+1,width:"100%",height:"100%",minWidth:0,minHeight:0,padding:"8px 2px",borderRadius:tileRadius,border:"1.5px solid #0F172A",background:used?"#E2E8F0":boardPointBg[pts],color:used?"#94A3B8":boardPointText[pts],fontFamily:SF_STACK,fontWeight:900,fontSize:tileFont,cursor:used?"default":"pointer",opacity:used?0.8:1,display:"flex",alignItems:"center",justifyContent:"center",boxShadow:"none"}}>
                             {used?"✓":pts}
                           </button>
                         ))
@@ -5030,7 +5102,8 @@ const QUESTION_HEADER_WRAP_STYLE={
 const QUESTION_HEADER_ICON_STYLE={fontSize:34,lineHeight:1};
 
 const QUESTION_HEADER_TITLE_STYLE={
-  fontFamily:"'Bebas Neue',sans-serif",
+  fontFamily:SF_STACK,
+  fontWeight:900,
   fontSize:"clamp(38px,5.8vw,58px)",
   color:"#1E293B",
   letterSpacing:1.2,
@@ -5040,7 +5113,8 @@ const QUESTION_HEADER_TITLE_STYLE={
 const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   background:pb,
   color:pc,
-  fontFamily:"'Bebas Neue',sans-serif",
+  fontFamily:SF_STACK,
+  fontWeight:900,
   fontSize:"clamp(30px,4.8vw,44px)",
   lineHeight:1,
   padding:"12px 22px",
@@ -5053,7 +5127,7 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
 
 const QUESTION_SCREEN_STYLE={
   minHeight:"100dvh",
-  background:"linear-gradient(180deg,#F8FAFC 0%,#EEF4FF 52%,#F8FAFC 100%)",
+  ...SITE_BACKGROUND_STYLE,
   display:"flex",
   flexDirection:"column",
   position:"relative",
@@ -5067,7 +5141,7 @@ const QUESTION_BODY_CENTER_STYLE={
   flexDirection:"column",
   alignItems:"center",
   justifyContent:"center",
-  padding:"28px 24px 54px",
+  padding:"104px 24px 54px",
   gap:24,
   overflowY:"auto",
 };
@@ -5079,7 +5153,7 @@ const QUESTION_BODY_SCROLL_STYLE={
   display:"flex",
   flexDirection:"column",
   alignItems:"center",
-  padding:"28px 24px 54px",
+  padding:"104px 24px 54px",
   gap:24,
 };
 
@@ -5137,8 +5211,38 @@ const QUESTION_BACK_BUTTON_WRAP_STYLE={
   marginTop:14,
 };
 
+const QUESTION_TIMER_WRAP_STYLE={
+  width:"100%",
+  display:"flex",
+  justifyContent:"center",
+  marginTop:-104,
+  marginBottom:-8,
+  zIndex:6,
+  pointerEvents:"none",
+};
+
+function getQuestionTimerSeconds(tile){
+  if(!tile) return 60;
+  const cat=BANK?.[tile.catId];
+  if(cat?.isCharades){
+    if(tile.pts===400) return 75;
+    if(tile.pts===600) return 90;
+  }
+  return 60;
+}
+
 function withAlpha(hex, alpha="22"){
   return /^#[0-9A-F]{6}$/i.test(hex||"") ? `${hex}${alpha}` : hex;
+}
+
+function lightenHex(hex, amount=0.45){
+  if(!/^#[0-9A-F]{6}$/i.test(hex||"")) return hex;
+  const safe=Math.max(0,Math.min(1,amount));
+  const r=parseInt(hex.slice(1,3),16);
+  const g=parseInt(hex.slice(3,5),16);
+  const b=parseInt(hex.slice(5,7),16);
+  const mix=value=>Math.round(value+(255-value)*safe).toString(16).padStart(2,"0");
+  return `#${mix(r)}${mix(g)}${mix(b)}`;
 }
 
 function QuestionDecor({accent="#A855F7"}){
@@ -5148,6 +5252,54 @@ function QuestionDecor({accent="#A855F7"}){
       <div style={{position:"absolute",top:120,right:-80,width:260,height:260,borderRadius:"50%",background:"radial-gradient(circle, rgba(59,130,246,.16) 0%, rgba(59,130,246,.08) 28%, transparent 72%)",filter:"blur(8px)",pointerEvents:"none"}}/>
       <div style={{position:"absolute",bottom:-90,left:"18%",width:360,height:240,borderRadius:"50%",background:"radial-gradient(circle, rgba(251,191,36,.16) 0%, rgba(251,191,36,.08) 26%, transparent 72%)",filter:"blur(12px)",pointerEvents:"none"}}/>
     </>
+  );
+}
+
+function QuestionTimer({tile,paused=false}){
+  const totalSeconds=getQuestionTimerSeconds(tile);
+  const totalMs=totalSeconds*1000;
+  const [remainingMs,setRemainingMs]=useState(totalMs);
+  const timerKey=`${tile?.catId||"q"}:${tile?.pts||0}:${tile?._qkey||tile?.q||""}`;
+  const displaySeconds=Math.max(0,Math.ceil(remainingMs/1000));
+  const progress=totalMs>0?Math.max(0,Math.min(1,remainingMs/totalMs)):0;
+  const size=156;
+  const stroke=14;
+  const radius=(size-stroke)/2;
+  const circumference=2*Math.PI*radius;
+  const dashOffset=circumference*(1-progress);
+  const gradientId=`timerGrad-${String(timerKey).replace(/[^a-z0-9_-]/gi,"")}`;
+
+  useEffect(()=>{
+    setRemainingMs(totalMs);
+  },[totalMs,timerKey]);
+
+  useEffect(()=>{
+    if(paused||remainingMs<=0) return;
+    const id=setInterval(()=>{
+      setRemainingMs(prev=>Math.max(0,prev-100));
+    },100);
+    return()=>clearInterval(id);
+  },[paused,remainingMs,timerKey]);
+
+  return(
+    <div style={{position:"relative",zIndex:6,pointerEvents:"none"}}>
+      <div style={{position:"relative",width:size,height:size,borderRadius:"50%",display:"flex",alignItems:"center",justifyContent:"center",background:"rgba(255,255,255,.92)",boxShadow:"0 16px 36px rgba(15,23,42,.14)",backdropFilter:"blur(2px)"}}>
+        <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{position:"absolute",inset:0,transform:"rotate(-90deg)"}}>
+          <defs>
+            <linearGradient id={gradientId} x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stopColor="#2DD4BF"/>
+              <stop offset="100%" stopColor="#2563EB"/>
+            </linearGradient>
+          </defs>
+          <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke="rgba(148,163,184,.28)" strokeWidth={stroke}/>
+          <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke={`url(#${gradientId})`} strokeWidth={stroke} strokeLinecap="round" strokeDasharray={circumference} strokeDashoffset={dashOffset}/>
+        </svg>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:2,textAlign:"center"}}>
+          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:46,lineHeight:1,color:"#0F172A"}}>{displaySeconds}</div>
+          <div style={{fontSize:12,fontWeight:800,letterSpacing:1.2,color:"#64748B",textTransform:"uppercase"}}>Seconds</div>
+        </div>
+      </div>
+    </div>
   );
 }
 
@@ -5177,7 +5329,7 @@ function QuestionPanel({children,maxWidth=760,padding="42px 36px",style={},class
   );
 }
 
-function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
   const isEmojiGuess = Boolean(BANK[tile.catId]?.isEmojiGuess);
@@ -5188,6 +5340,9 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_CENTER_STYLE}>
+        <div style={QUESTION_TIMER_WRAP_STYLE}>
+          <QuestionTimer tile={tile} paused={showAns}/>
+        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
@@ -5216,7 +5371,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
               <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
+            <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -5229,7 +5384,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
 }
 
 // Who Am I - image-based character prompt
-function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const catLabel=BANK[tile.catId].label;
   const displayAnswer = formatAnswerForDisplay(tile.a);
@@ -5238,6 +5393,9 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWr
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
+        <div style={QUESTION_TIMER_WRAP_STYLE}>
+          <QuestionTimer tile={tile} paused={showAns}/>
+        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
@@ -5254,7 +5412,7 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWr
               <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
+            <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -5267,7 +5425,7 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWr
 }
 
 // Country Map - local world-map SVG asset
-function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
@@ -5275,6 +5433,9 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
+        <div style={QUESTION_TIMER_WRAP_STYLE}>
+          <QuestionTimer tile={tile} paused={showAns}/>
+        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
@@ -5290,7 +5451,7 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
               <div style={{fontSize:"clamp(24px,4.2vw,36px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
+            <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -5302,7 +5463,7 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
   );
 }
 
-function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
@@ -5310,6 +5471,9 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
+        <div style={QUESTION_TIMER_WRAP_STYLE}>
+          <QuestionTimer tile={tile} paused={showAns}/>
+        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
@@ -5325,7 +5489,7 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
               <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
+            <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -5337,7 +5501,7 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,
   );
 }
 
-function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
@@ -5345,6 +5509,9 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
+        <div style={QUESTION_TIMER_WRAP_STYLE}>
+          <QuestionTimer tile={tile} paused={showAns}/>
+        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
@@ -5361,7 +5528,7 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
               {tile.artist&&<div style={{fontSize:16,fontWeight:700,color:"#64748B",marginTop:10}}>{tile.artist}</div>}
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={()=>setShowAns(true)} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
+            <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -5373,7 +5540,7 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,setShowAns,onAward,on
   );
 }
 
-function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const qrSearchUrl=`https://www.google.com/search?q=${encodeURIComponent(tile.a)}`;
   return(
@@ -5381,6 +5548,9 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_CENTER_STYLE}>
+        <div style={QUESTION_TIMER_WRAP_STYLE}>
+          <QuestionTimer tile={tile} paused={false}/>
+        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
@@ -5398,7 +5568,7 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,
               <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{tile.a}</div>
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={()=>setShowWord(true)} style={QUESTION_SECONDARY_BUTTON_STYLE}>{"\u{1F441}\uFE0F Show Word (Host Only)"}</button>
+            <button className="tap" onClick={onRevealWord} style={QUESTION_SECONDARY_BUTTON_STYLE}>{"\u{1F441}\uFE0F Show Word (Host Only)"}</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -5413,13 +5583,13 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,setShowWord,onAward,
 function GameOverScreen({teams,scores,onRematch,onNewGame}){
   const w=scores[0]>scores[1]?0:scores[1]>scores[0]?1:-1;
   return(
-    <div style={{minHeight:"100dvh",background:"#F8FAFC",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:20}}>
+    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:20}}>
       <style>{CSS}</style>
-      <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:"clamp(36px,10vw,58px)",color:"#1E293B",letterSpacing:1}}>GAME OVER</div>
+      <div style={{fontFamily:SF_STACK,fontSize:"clamp(36px,10vw,58px)",fontWeight:900,color:"#1E293B",letterSpacing:1}}>GAME OVER</div>
       {w!==-1&&(
         <div className="pop" style={{textAlign:"center",background:"#fff",borderRadius:18,padding:"20px 32px",boxShadow:"0 4px 24px #0000000d",border:`3px solid ${TEAM_COLORS[w]}44`}}>
           <div style={{fontSize:26}}>{w===0?"\u{1F535}":"\u{1F534}"}</div>
-          <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:28,color:TEAM_COLORS[w]}}>{teams[w]}</div>
+          <div style={{fontFamily:SF_STACK,fontSize:28,fontWeight:900,color:TEAM_COLORS[w]}}>{teams[w]}</div>
           <div style={{fontSize:12,color:"#64748B",fontWeight:600}}>{"WINS! \u{1F389}"}</div>
         </div>
       )}
@@ -5428,7 +5598,7 @@ function GameOverScreen({teams,scores,onRematch,onNewGame}){
         {teams.map((t,i)=>(
           <div key={i} style={{display:"flex",alignItems:"center",justifyContent:"space-between",background:"#fff",borderRadius:12,padding:"12px 18px",border:`1.5px solid ${TEAM_COLORS[i]}33`}}>
             <div style={{fontWeight:700,color:TEAM_COLORS[i],fontSize:14}}>{t}</div>
-            <div style={{fontFamily:"'Bebas Neue',sans-serif",fontSize:28,color:i===w?TEAM_COLORS[i]:"#94A3B8"}}>{scores[i]}</div>
+            <div style={{fontFamily:SF_STACK,fontSize:28,fontWeight:900,color:i===w?TEAM_COLORS[i]:"#94A3B8"}}>{scores[i]}</div>
           </div>
         ))}
       </div>
