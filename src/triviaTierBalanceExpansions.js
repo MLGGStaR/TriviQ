@@ -37,7 +37,7 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   breaking_bad: {
     400: qa([
-      ["What is Jesse Pinkman's last name?", "Pinkman"],
+      ["What is Jesse's last name on Breaking Bad?", "Pinkman"],
       ["What is Walter White's car at the start of the series?", "Pontiac Aztek"],
       ["What bell-ringing cartel elder is Tuco's uncle?", "Hector Salamanca"],
       ["What company extermination front does Walt use to cook in houses?", "Vamonos Pest"],

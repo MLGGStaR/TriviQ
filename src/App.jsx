@@ -11,6 +11,7 @@ import MOVIE_SCENE_BANK from "./movieScenes.js";
 import SONG_CLIP_BANK from "./songClips.js";
 import SONG_CLIP_ADDITIONS from "./songClipAdditions.js";
 import EMOJI_GUESS_CATEGORIES from "./emojiGuessCategories.js";
+import NEW_CATEGORIES_BANK from "./newCategoriesBank.js";
 import { CHARADES_HARD_OVERRIDES, QUESTION_REFINEMENT_ADDITIONS } from "./questionRefinements.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
 import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds } from "./questionUsage.js";
@@ -363,6 +364,7 @@ const COUNTRY_MAP_BANK = Object.fromEntries(
 
 const RAW_BANK = {
   ...EMOJI_GUESS_CATEGORIES,
+  ...NEW_CATEGORIES_BANK,
   general:{ label:"General Knowledge",icon:"\u{1F9E0}",color:"#F59E0B",
     200:[
       {q:"What is the capital of France?",a:"Paris"},
@@ -3640,67 +3642,79 @@ const BANK = sanitizeBank(
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
-  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","movie_scenes","songs","flags","country_facts","country_map"] },
+  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","movie_scenes","songs","flags","country_facts","country_map"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
-  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney"] },
+  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
-  { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant"] },
-  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character"] },
-  { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies"] },
+  { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant","ark_survival","minecraft"] },
+  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal"] },
+  { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies","charades_scenarios"] },
 ];
 
 const CATEGORY_PREVIEWS = {
-  movie_show_emoji:{src:"/category-previews/movie_show_emoji.svg",fit:"cover",caption:"Emoji titles"},
-  country_emoji:{src:"/category-previews/country_emoji.svg",fit:"cover",caption:"Emoji nations"},
-  general_emoji:{src:"/category-previews/general_emoji.svg",fit:"cover",caption:"Emoji puzzles"},
-  general:{src:"/category-previews/general.jpg",fit:"cover",caption:"Brain teasers"},
-  geography:{src:"/category-previews/geography.jpg",fit:"cover",caption:"World clues"},
-  science:{src:"/category-previews/science.jpg",fit:"cover",position:"center top",caption:"Facts & formulas"},
-  history:{src:"/category-previews/history.jpg",fit:"cover",caption:"People and events"},
-  sports:{src:"/whoami/lionel-messi-4579e864.jpg",fit:"cover",caption:"Legends & records"},
+  movie_show_emoji:{src:"/category-previews/movie_show_emoji.svg",boardSrc:"/board-center-images/movie_show_emoji.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Emoji titles"},
+  country_emoji:{src:"/category-previews/country_emoji.svg",boardSrc:"/board-center-images/country_emoji.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Emoji nations"},
+  general_emoji:{src:"/category-previews/general_emoji.svg",boardSrc:"/board-center-images/general_emoji.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Emoji puzzles"},
+  general:{src:"/category-previews/general.jpg",boardSrc:"/board-center-images/general.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Brain teasers"},
+  geography:{src:"/category-previews/geography.jpg",boardSrc:"/board-center-images/geography.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"World clues"},
+  science:{src:"/category-previews/science.jpg",boardSrc:"/board-center-images/science.png",fit:"cover",position:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Facts & formulas"},
+  history:{src:"/category-previews/history.jpg",boardSrc:"/board-center-images/history.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"People and events"},
+  sports:{src:"/whoami/lionel-messi-4579e864.jpg",fit:"cover",cardPosition:"center top",caption:"Legends & records"},
   music:{src:"/category-previews/music.png",fit:"cover",position:"center top",caption:"Artists & sounds"},
   movies:{src:"/whoami/han-solo-2b971bca.jpg",fit:"cover",position:"center top",caption:"Screen classics"},
   movie_scenes:{src:"/whoami/john-wick-character-755fd66c.jpeg",fit:"cover",position:"center",caption:"Watch and guess"},
-  songs:{src:"/category-previews/songs.png",fit:"contain",bg:"#FFFFFF",caption:"Listen and guess"},
-  flags:{src:"/flags/jp.svg",fit:"contain",bg:"#FFFFFF",caption:"Spot the flag"},
-  country_facts:{src:"/category-previews/country_facts.svg",fit:"cover",caption:"Nation clues"},
-  country_map:{src:"/country-maps/au.svg",fit:"contain",bg:"#FFFFFF",caption:"Guess the map"},
-  friends:{src:"/whoami/monica-geller-b4be7916.jpg",fit:"cover",caption:"Sitcom moments"},
-  the_office:{src:"/whoami/michael-scott-the-office-e7eb964a.png",fit:"cover",caption:"Dunder Mifflin"},
+  songs:{src:"/category-previews/songs.png",boardSrc:"/board-center-images/songs.png",fit:"contain",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",bg:"#FFFFFF",caption:"Listen and guess"},
+  flags:{src:"/flags/jp.svg",fit:"contain",boardFit:"cover",bg:"#FFFFFF",caption:"Spot the flag"},
+  country_facts:{src:"/category-previews/country_facts.svg",boardSrc:"/board-center-images/country_facts.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Nation clues"},
+  country_map:{src:"/country-maps/au.svg",boardSrc:"/board-center-images/country_map.png",fit:"contain",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",bg:"#FFFFFF",caption:"Guess the map"},
+  friends:{src:"/whoami/monica-geller-b4be7916.jpg",fit:"cover",cardPosition:"center top",caption:"Sitcom moments"},
+  the_office:{src:"/whoami/michael-scott-the-office-e7eb964a.png",fit:"cover",cardPosition:"center top",caption:"Dunder Mifflin"},
   breaking_bad:{src:"/whoami/walter-white-breaking-bad-f9425159.png",fit:"cover",caption:"Blue crystal chaos"},
   game_thrones:{src:"/whoami/jon-snow-character-b50803c7.png",fit:"cover",position:"center top",caption:"Westeros lore"},
   stranger_things:{src:"/whoami/eleven-stranger-things-c843d7fa.png",fit:"cover",caption:"Upside Down"},
-  prison_break:{src:"/whoami/michael-scofield-cd88268f.jpeg",fit:"cover",caption:"Fox River escape"},
-  big_bang_theory:{src:"/whoami/sheldon-cooper-e10500a1.jpg",fit:"cover",caption:"Geek comedy"},
-  brooklyn_99:{src:"/category-previews/brooklyn_99.jpg",fit:"cover",caption:"Cops and chaos"},
-  the_walking_dead:{src:"/whoami/rick-grimes-87e8bed9.jpg",fit:"cover",caption:"Zombie survival"},
-  suits:{src:"/whoami/harvey-specter-c7c60178.jpg",fit:"cover",caption:"Sharp suits"},
-  dexter:{src:"/whoami/dexter-morgan-6bc67b63.webp",fit:"cover",caption:"Dark passenger"},
-  vikings:{src:"/whoami/ragnar-lothbrok-bbe3f500.jpg",fit:"cover",caption:"Raids and kings"},
-  the_flash:{src:"/whoami/barry-allen-arrowverse-86ade936.jpg",fit:"cover",caption:"Speedster stories"},
-  marvel:{src:"/whoami/iron-man-marvel-cinematic-universe-b1c7fa37.jpg",fit:"cover",caption:"Heroes & villains"},
-  dc:{src:"/whoami/joker-2019-film-7e27b124.jpg",fit:"cover",caption:"Gotham and beyond"},
-  star_wars:{src:"/whoami/darth-vader-e064b5bd.jpg",fit:"cover",caption:"A galaxy far away"},
-  spider_man:{src:"/whoami/spider-man-marvel-cinematic-universe-5aecfc64.jpg",fit:"cover",caption:"Web-slinger lore"},
+  prison_break:{src:"/whoami/michael-scofield-cd88268f.jpeg",boardSrc:"/board-center-images/prison_break.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Fox River escape"},
+  big_bang_theory:{src:"/whoami/sheldon-cooper-e10500a1.jpg",boardSrc:"/board-center-images/big_bang_theory.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Geek comedy"},
+  brooklyn_99:{src:"/category-previews/brooklyn_99.jpg",boardSrc:"/board-center-images/brooklyn_99.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Cops and chaos"},
+  the_walking_dead:{src:"/whoami/rick-grimes-87e8bed9.jpg",fit:"cover",cardPosition:"center top",caption:"Zombie survival"},
+  suits:{src:"/whoami/harvey-specter-c7c60178.jpg",fit:"cover",cardPosition:"center top",caption:"Sharp suits"},
+  dexter:{src:"/whoami/dexter-morgan-6bc67b63.webp",fit:"cover",cardPosition:"center top",caption:"Dark passenger"},
+  vikings:{src:"/whoami/ragnar-lothbrok-bbe3f500.jpg",boardSrc:"/board-center-images/vikings.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Raids and kings"},
+  the_flash:{src:"/whoami/barry-allen-arrowverse-86ade936.jpg",fit:"cover",cardPosition:"center top",caption:"Speedster stories"},
+  marvel:{src:"/whoami/iron-man-marvel-cinematic-universe-b1c7fa37.jpg",fit:"cover",cardPosition:"center top",caption:"Heroes & villains"},
+  dc:{src:"/whoami/joker-2019-film-7e27b124.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",caption:"Gotham and beyond"},
+  star_wars:{src:"/whoami/darth-vader-e064b5bd.jpg",fit:"cover",cardPosition:"center top",caption:"A galaxy far away"},
+  spider_man:{src:"/whoami/spider-man-marvel-cinematic-universe-5aecfc64.jpg",fit:"cover",cardPosition:"center top",caption:"Web-slinger lore"},
   invincible:{src:"/category-previews/invincible.jpg",fit:"cover",caption:"Viltrum and Earth"},
   the_boys:{src:"/whoami/billy-butcher-88ef1818.jpg",fit:"cover",caption:"Supes gone bad"},
-  harry_potter:{src:"/whoami/hermione-granger-f6f4b3e2.jpg",fit:"cover",caption:"Wizarding world"},
-  lord_rings:{src:"/category-previews/lord_rings.jpg",fit:"cover",caption:"Quests and rings"},
-  disney:{src:"/whoami/moana-disney-a6cd63fc.png",fit:"cover",caption:"Animated favorites"},
-  anime:{src:"/whoami/naruto-uzumaki-1522810d.png",fit:"cover",caption:"Anime icons"},
-  dragon_ball:{src:"/whoami/vegeta-dragon-ball-16e15e39.jpg",fit:"cover",caption:"Saiyan battles"},
-  one_piece_show:{src:"/whoami/monkey-d-luffy-9f9354e3.png",fit:"cover",caption:"Pirate adventure"},
-  solo_leveling:{src:"/category-previews/solo_leveling.jpg",fit:"cover",caption:"Dungeons and shadows"},
-  pokemon:{src:"/whoami/ash-ketchum-5e3619b0.png",fit:"cover",caption:"Catch them all"},
-  video_games:{src:"/category-previews/video_games.svg",fit:"cover",caption:"Boss fights"},
-  fortnite:{src:"/category-previews/fortnite.svg",fit:"cover",caption:"Drops and crowns"},
+  harry_potter:{src:"/whoami/hermione-granger-f6f4b3e2.jpg",fit:"cover",cardPosition:"center top",caption:"Wizarding world"},
+  lord_rings:{src:"/category-previews/lord_rings.jpg",fit:"cover",cardPosition:"center top",caption:"Quests and rings"},
+  disney:{src:"/whoami/moana-disney-a6cd63fc.png",fit:"cover",cardPosition:"center top",caption:"Animated favorites"},
+  anime:{src:"/whoami/naruto-uzumaki-1522810d.png",boardSrc:"/board-center-images/anime.png",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Anime icons"},
+  dragon_ball:{src:"/whoami/vegeta-dragon-ball-16e15e39.jpg",fit:"cover",cardPosition:"center top",caption:"Saiyan battles"},
+  one_piece_show:{src:"/whoami/monkey-d-luffy-9f9354e3.png",fit:"cover",cardPosition:"center top",caption:"Pirate adventure"},
+  solo_leveling:{src:"/category-previews/solo_leveling.jpg",fit:"cover",cardPosition:"center top",caption:"Dungeons and shadows"},
+  pokemon:{src:"/whoami/ash-ketchum-5e3619b0.png",fit:"cover",cardPosition:"center top",caption:"Catch them all"},
+  video_games:{src:"/category-previews/video_games.svg",boardSrc:"/board-center-images/video_games.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Boss fights"},
+  fortnite:{src:"/category-previews/fortnite.svg",boardSrc:"/board-center-images/fortnite.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Drops and crowns"},
   valorant:{src:"/category-previews/valorant.png",fit:"contain",bg:"#FFFFFF",caption:"Agents and rounds"},
-  who_footballer:{src:"/whoami/cristiano-ronaldo-922d9da8.jpg",fit:"cover",caption:"Guess the star"},
+  who_footballer:{src:"/whoami/cristiano-ronaldo-922d9da8.jpg",fit:"cover",cardPosition:"center top",caption:"Guess the star"},
   who_tv_character:{src:"/whoami/walter-white-breaking-bad-f9425159.png",fit:"cover",caption:"Guess the face"},
-  who_anime_character:{src:"/whoami/naruto-uzumaki-1522810d.png",fit:"cover",caption:"Anime guess"},
-  who_movie_character:{src:"/whoami/han-solo-2b971bca.jpg",fit:"cover",caption:"Movie guess"},
-  charades_general:{src:"/category-previews/charades_general.svg",fit:"cover",caption:"Scan and perform"},
-  charades_movies:{src:"/whoami/woody-toy-story-f844064a.jpg",fit:"cover",caption:"Movie charades"},
+  who_anime_character:{src:"/whoami/naruto-uzumaki-1522810d.png",boardSrc:"/board-center-images/who_anime_character.png",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Anime guess"},
+  who_movie_character:{src:"/whoami/han-solo-2b971bca.jpg",fit:"cover",cardPosition:"center top",caption:"Movie guess"},
+  charades_general:{src:"/category-previews/charades_general.svg",boardSrc:"/board-center-images/charades_general.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Scan and perform"},
+  charades_movies:{src:"/whoami/woody-toy-story-f844064a.jpg",boardSrc:"/board-center-images/charades_movies.png",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Movie charades"},
+  pop_culture:{src:"/category-previews/pop_culture.jpg",fit:"cover",cardPosition:"center top",caption:"Trends & icons"},
+  technology:{src:"/category-previews/technology.jpg",fit:"cover",cardPosition:"center",caption:"Gadgets & code"},
+  family_guy:{src:"/category-previews/family_guy.jpg",fit:"cover",cardPosition:"center top",caption:"Quahog antics"},
+  himym:{src:"/whoami/ted-mosby-68b46d7d.jpg",fit:"cover",cardPosition:"center top",caption:"Suit up"},
+  modern_family:{src:"/category-previews/modern_family.jpg",fit:"cover",cardPosition:"center",caption:"Three families, one chaos"},
+  blacklist:{src:"/category-previews/blacklist.jpg",fit:"cover",cardPosition:"center top",caption:"Criminal bargains"},
+  arrow:{src:"/category-previews/arrow.jpg",fit:"cover",cardPosition:"center top",caption:"Hood and bow"},
+  ark_survival:{src:"/category-previews/ark_survival.jpg",fit:"cover",cardPosition:"center",caption:"Tame and survive"},
+  minecraft:{src:"/category-previews/minecraft.jpg",fit:"cover",cardPosition:"center",caption:"Mine and craft"},
+  who_historic_figure:{src:"/category-previews/who_historic_figure.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",caption:"Guess the legend"},
+  who_animal:{src:"/whoami/scar-the-lion-king-3bd03190.png",fit:"cover",cardPosition:"center top",caption:"Guess the creature"},
+  charades_scenarios:{src:"/category-previews/charades_general.svg",fit:"cover",caption:"Act out the scene"},
 };
 
 const TEAM_COLORS = ["#2563EB","#DC2626"];
@@ -3763,14 +3777,14 @@ function FlagImage({flag,country}){
 function CountryMapSVG({code,country}){
   const [errored,setErrored]=useState(false);
   if(!code||errored){
-    return <div style={{width:"min(460px,92vw)",height:"min(540px,118vw)",background:"#FFF1F2",borderRadius:20,display:"flex",alignItems:"center",justifyContent:"center",border:"2px solid #FECDD3"}}><div style={{fontSize:16,color:"#E11D48",fontWeight:700}}>Map unavailable</div></div>;
+    return <div style={{width:"min(340px,74vw)",height:"min(360px,78vw)",background:"#FFF1F2",borderRadius:20,display:"flex",alignItems:"center",justifyContent:"center",border:"2px solid #FECDD3"}}><div style={{fontSize:16,color:"#E11D48",fontWeight:700}}>Map unavailable</div></div>;
   }
   return(
     <img
       src={`/country-maps/${code}.svg`}
       alt={`${country} highlighted on a world map`}
       onError={()=>setErrored(true)}
-      style={{display:"block",width:"min(460px,92vw)",height:"auto",maxHeight:"min(540px,118vw)",objectFit:"contain",borderRadius:20,border:"1.5px solid #E2E8F0",boxShadow:"0 18px 40px #0f172a16",background:"#fff"}}
+      style={{display:"block",width:"min(340px,74vw)",height:"auto",maxHeight:"min(360px,78vw)",objectFit:"contain",borderRadius:20,border:"1.5px solid #E2E8F0",boxShadow:"0 18px 40px #0f172a16",background:"#fff"}}
     />
   );
 }
@@ -3778,7 +3792,7 @@ function CountryMapSVG({code,country}){
 // Character image via local generated asset pack
 function CharacterArt({name, wiki}){
   const src = wiki ? WHOAMI_IMAGE_MANIFEST[wiki] : null;
-  const frameStyle={display:"block",width:"min(460px,92vw)",height:"min(520px,112vw)",borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 22px 48px #0f172a16",background:"#fff",overflow:"hidden"};
+  const frameStyle={display:"block",width:"min(330px,72vw)",height:"min(360px,78vw)",borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 22px 48px #0f172a16",background:"#fff",overflow:"hidden"};
 
   if(!src){
     return(
@@ -4046,8 +4060,8 @@ function MovieScenePlayer({tile}){
   };
 
   return(
-    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:14,width:"100%",maxWidth:760}}>
-      <div style={{position:"relative",width:"100%",aspectRatio:"16 / 9",minHeight:320,borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 20px 42px #0f172a16",background:"#0F172A",overflow:"hidden"}}>
+    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12,width:"100%",maxWidth:620}}>
+      <div style={{position:"relative",width:"100%",aspectRatio:"16 / 9",minHeight:250,borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 20px 42px #0f172a16",background:"#0F172A",overflow:"hidden"}}>
         {loaded?(
           <>
             <div
@@ -4074,14 +4088,14 @@ function MovieScenePlayer({tile}){
               <div style={{fontSize:48,lineHeight:1}}>🎬</div>
               <div style={{fontSize:15,fontWeight:800,letterSpacing:.8,color:"#FDBA74",textTransform:"uppercase"}}>Movie Scene</div>
               <div style={{fontSize:15,color:"#CBD5E1",fontWeight:600,maxWidth:320,lineHeight:1.5}}>Load a short clip and guess the movie before revealing the answer.</div>
-              <button className="tap" onClick={()=>setLoaded(true)} style={{background:"#F97316",color:"#fff",fontWeight:800,fontSize:16,padding:"14px 24px",borderRadius:999,boxShadow:"0 12px 26px #f9731633"}}>Play Clip</button>
+              <button className="tap" onClick={()=>setLoaded(true)} style={getGlassButtonStyle({tint:"#F97316",textColor:"#1E293B",fontSize:16,padding:"14px 24px",borderRadius:999})}>Play Clip</button>
             </div>
           </div>
         )}
       </div>
       <div style={{display:"flex",gap:8,flexWrap:"wrap",justifyContent:"center"}}>
-        {loaded&&<button className="tap" onClick={togglePlayback} disabled={!playerReady||status==="error"} style={{background:playerReady&&status!=="error"?"#1E293B":"#CBD5E1",color:"#fff",fontWeight:800,fontSize:15,padding:"12px 18px",borderRadius:999}}>{isPlaying?"Pause":"Play"}</button>}
-        {loaded&&<button className="tap" onClick={replayClip} disabled={!playerReady||status==="error"} style={{background:playerReady&&status!=="error"?"#F8FAFC":"#E2E8F0",color:"#475569",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,border:"1.5px solid #E2E8F0"}}>Replay clip</button>}
+        {loaded&&<button className="tap" onClick={togglePlayback} disabled={!playerReady||status==="error"} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:15,padding:"12px 18px",borderRadius:999,disabled:!playerReady||status==="error"})}>{isPlaying?"Pause":"Play"}</button>}
+        {loaded&&<button className="tap" onClick={replayClip} disabled={!playerReady||status==="error"} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#334155",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,subtle:true,disabled:!playerReady||status==="error"})}>Replay clip</button>}
         {loaded&&status==="error"&&tile.sourceUrl&&<a href={tile.sourceUrl} target="_blank" rel="noreferrer" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",background:"#FFFFFF",color:"#64748B",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,border:"1.5px solid #E2E8F0",textDecoration:"none"}}>Open clip in browser</a>}
       </div>
     </div>
@@ -4209,9 +4223,9 @@ function SongClipPlayer({tile}){
   };
 
   return(
-    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:14,width:"100%",maxWidth:760}}>
+    <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12,width:"100%",maxWidth:620}}>
       <audio ref={audioRef} src={tile.previewUrl||""} preload="auto" />
-      <div style={{position:"relative",width:"100%",minHeight:300,borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 20px 42px #0f172a16",background:"#0F172A",overflow:"hidden"}}>
+      <div style={{position:"relative",width:"100%",minHeight:220,borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 20px 42px #0f172a16",background:"#0F172A",overflow:"hidden"}}>
         <div style={{position:"absolute",inset:0,background:"radial-gradient(circle at top left, #ffffff14 0%, transparent 36%), radial-gradient(circle at bottom right, #7c3aed26 0%, transparent 30%)"}}/>
         <div style={{position:"relative",zIndex:1,width:"100%",height:"100%",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:"30px 24px",gap:18,textAlign:"center"}}>
           <div style={{fontSize:54,lineHeight:1}}>{"\u{1F3B6}"}</div>
@@ -4238,14 +4252,14 @@ function SongClipPlayer({tile}){
           <div style={{width:"100%",maxWidth:420,height:10,borderRadius:999,background:"#1E293B",overflow:"hidden",border:"1px solid rgba(255,255,255,.08)"}}>
             <div style={{width:`${Math.max(0,Math.min(100,progress*100))}%`,height:"100%",background:"linear-gradient(90deg,#A855F7 0%,#C084FC 100%)",transition:"width .15s linear"}}/>
           </div>
-          {!loaded&&<button className="tap" onClick={startClip} style={{background:"#7C3AED",color:"#fff",fontWeight:800,fontSize:16,padding:"14px 24px",borderRadius:999,boxShadow:"0 12px 24px rgba(124,58,237,.28)"}}>Play Clip</button>}
+          {!loaded&&<button className="tap" onClick={startClip} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#1E293B",fontSize:16,padding:"14px 24px",borderRadius:999})}>Play Clip</button>}
           {loaded&&status==="loading"&&<div style={{fontSize:14,color:"#CBD5E1",fontWeight:700}}>Loading audio...</div>}
           {loaded&&status==="error"&&<div style={{fontSize:14,color:"#FCA5A5",fontWeight:700}}>Audio clip could not load</div>}
         </div>
       </div>
       <div style={{display:"flex",gap:8,flexWrap:"wrap",justifyContent:"center"}}>
-        {loaded&&<button className="tap" onClick={togglePlayback} disabled={status==="error"||status==="loading"} style={{background:status!=="error"&&status!=="loading"?"#1E293B":"#CBD5E1",color:"#fff",fontWeight:800,fontSize:15,padding:"12px 18px",borderRadius:999}}>{isPlaying?"Pause":"Play"}</button>}
-        {loaded&&<button className="tap" onClick={replayClip} disabled={status==="error"||status==="loading"} style={{background:status!=="error"&&status!=="loading"?"#F8FAFC":"#E2E8F0",color:"#475569",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,border:"1.5px solid #E2E8F0"}}>Replay clip</button>}
+        {loaded&&<button className="tap" onClick={togglePlayback} disabled={status==="error"||status==="loading"} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:15,padding:"12px 18px",borderRadius:999,disabled:status==="error"||status==="loading"})}>{isPlaying?"Pause":"Play"}</button>}
+        {loaded&&<button className="tap" onClick={replayClip} disabled={status==="error"||status==="loading"} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#334155",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,subtle:true,disabled:status==="error"||status==="loading"})}>Replay clip</button>}
         {loaded&&status==="error"&&tile.sourceUrl&&<a href={tile.sourceUrl} target="_blank" rel="noreferrer" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",background:"#FFFFFF",color:"#64748B",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,border:"1.5px solid #E2E8F0",textDecoration:"none"}}>Open clip in browser</a>}
       </div>
     </div>
@@ -4262,7 +4276,7 @@ function CategoryPreviewVisual({category, preview, badge}){
           alt=""
           loading="lazy"
           decoding="async"
-          style={{width:"100%",height:"100%",objectFit:preview.fit||"cover",objectPosition:preview.position||"center"}}
+          style={{width:"100%",height:"100%",objectFit:preview.cardFit||preview.fit||"cover",objectPosition:preview.cardPosition||preview.position||"center"}}
         />
       </div>
     );
@@ -4291,29 +4305,91 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
   const badge=category.isWhoAmI?"WHO AM I":category.isCharades?"CHARADES":category.isCountryMap?"MAP":category.isMovieScene?"CLIP":category.isSongClip?"AUDIO":null;
   const selectedBorderColor=lightenHex(category.color,0.58);
   const glowColor=lightenHex(category.color,0.72);
+  const CATEGORY_CARD_ACCENT_PALETTE=[
+    ["#22D3EE","#8B5CF6"],
+    ["#F59E0B","#F43F5E"],
+    ["#34D399","#3B82F6"],
+    ["#FB7185","#A855F7"],
+    ["#2DD4BF","#F97316"],
+  ];
+  const CATEGORY_CARD_TINTS={
+    the_office:"#60A5FA",
+    prison_break:"#67E8F9",
+    the_walking_dead:"#F59E0B",
+    suits:"#38BDF8",
+    vikings:"#34D399",
+    country_map:"#14B8A6",
+    country_facts:"#06B6D4",
+    flags:"#FB7185",
+    songs:"#8B5CF6",
+    science:"#60A5FA",
+    geography:"#2DD4BF",
+    marvel:"#F87171",
+    dc:"#3B82F6",
+    invincible:"#F97316",
+    the_boys:"#EF4444",
+    star_wars:"#FBBF24",
+  };
+  const accentIndex=[...id].reduce((sum,ch)=>sum+ch.charCodeAt(0),0)%CATEGORY_CARD_ACCENT_PALETTE.length;
+  const [accentA,accentB]=CATEGORY_CARD_ACCENT_PALETTE[accentIndex];
+  const cardTint=CATEGORY_CARD_TINTS[id]||category.color;
+  const cardGlow=lightenHex(cardTint,0.54);
+  const cardBright=lightenHex(cardTint,0.34);
+  const cardSoft=lightenHex(cardTint,0.18);
+  const cardDeep=category.color;
+  const accentSoftA=lightenHex(accentA,0.14);
+  const accentSoftB=lightenHex(accentB,0.14);
   return(
     <button
       className="tap"
       onClick={onToggle}
       style={{
+        ...getGlassButtonStyle({
+          tint:category.color,
+          textColor:"#1E293B",
+          borderRadius:16,
+          padding:6,
+          fontSize:12,
+          fontWeight:800,
+          subtle:true,
+        }),
+        backgroundColor:cardTint,
+        backgroundBlendMode:"screen, screen, screen, normal",
+        background:`linear-gradient(158deg, rgba(255,255,255,.28) 0%, rgba(255,255,255,.08) 20%, rgba(255,255,255,0) 42%),
+          radial-gradient(circle at 15% 14%, ${withAlpha(accentSoftA,"FF")} 0%, ${withAlpha(accentA,"C4")} 22%, transparent 48%),
+          radial-gradient(circle at 86% 84%, ${withAlpha(accentSoftB,"FF")} 0%, ${withAlpha(accentB,"C0")} 24%, transparent 50%),
+          radial-gradient(circle at 84% 16%, ${withAlpha(cardGlow,"F5")} 0%, ${withAlpha(cardBright,"B4")} 22%, transparent 46%),
+          linear-gradient(140deg, ${cardSoft} 0%, ${cardBright} 34%, ${cardTint} 66%, ${cardDeep} 100%)`,
         display:"flex",
         flexDirection:"column",
         gap:7,
         width:"100%",
-        padding:6,
-        borderRadius:16,
-        background:"#fff",
-        border:`3px solid ${selected?selectedBorderColor:"#0F172A"}`,
-        boxShadow:selected?`0 0 0 5px ${withAlpha(glowColor,"55")}, 0 18px 32px ${withAlpha(glowColor,"88")}`:"0 8px 18px #0f172a08",
+        height:188,
+        position:"relative",
+        overflow:"hidden",
+        isolation:"isolate",
+        border:`2px solid ${selected?selectedBorderColor:withAlpha(cardDeep,"A6")}`,
+        boxShadow:selected
+          ?`0 0 0 5px ${withAlpha(glowColor,"55")}, 0 18px 34px ${withAlpha(glowColor,"88")}, inset 0 1px 0 rgba(255,255,255,.78), inset 0 -1px 0 rgba(255,255,255,.08)`
+          :`0 16px 28px rgba(15,23,42,.18), 0 6px 18px ${withAlpha(cardGlow,"40")}, inset 0 1px 0 rgba(255,255,255,.72), inset 0 -1px 0 rgba(255,255,255,.08)`,
         transition:"all .15s",
       }}
     >
+      <div style={{position:"absolute",inset:0,pointerEvents:"none"}}>
+        <div style={{position:"absolute",top:-20,left:-14,width:"74%",height:62,borderRadius:999,background:"linear-gradient(180deg, rgba(255,255,255,.52) 0%, rgba(255,255,255,0) 100%)",filter:"blur(11px)"}}/>
+        <div style={{position:"absolute",left:-26,bottom:18,width:104,height:104,borderRadius:"50%",background:`radial-gradient(circle, ${withAlpha(accentA,"A8")} 0%, ${withAlpha(accentA,"00")} 72%)`,filter:"blur(18px)"}}/>
+        <div style={{position:"absolute",right:-22,bottom:18,width:96,height:96,borderRadius:"50%",background:`radial-gradient(circle, ${withAlpha(accentB,"B0")} 0%, ${withAlpha(accentB,"00")} 70%)`,filter:"blur(16px)"}}/>
+      </div>
+      <div style={{position:"relative",zIndex:1,display:"flex",flexDirection:"column",gap:7,height:"100%"}}>
       <CategoryPreviewVisual category={category} preview={preview} badge={badge}/>
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:3,padding:"0 4px 2px",textAlign:"center"}}>
-        <div style={{fontSize:12,fontWeight:800,color:"#1E293B",lineHeight:1.15}}>{category.label}</div>
-        <div style={{fontSize:9,fontWeight:700,color:selected?selectedBorderColor:"#94A3B8",letterSpacing:.25,textTransform:"uppercase"}}>
+      <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"space-between",gap:2,padding:"0 4px 2px",textAlign:"center",flex:1}}>
+        <div style={{fontSize:12,fontWeight:800,color:"#1E293B",lineHeight:1.12,minHeight:28,display:"flex",alignItems:"center",justifyContent:"center",textWrap:"balance"}}>
+          <span style={{display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}}>{category.label}</span>
+        </div>
+        <div style={{fontSize:9,fontWeight:700,color:"#FFFFFF",textShadow:"0 1px 6px rgba(15,23,42,.38)",letterSpacing:.25,textTransform:"uppercase",minHeight:18,display:"flex",alignItems:"flex-start",justifyContent:"center",textWrap:"balance"}}>
           {preview.caption||"Tap to select"}
         </div>
+      </div>
       </div>
     </button>
   );
@@ -4321,27 +4397,28 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
 
 function BoardCategoryArt({id, category, radius}){
   const preview=CATEGORY_PREVIEWS[id]||{};
+  const boardSrc = preview.boardSrc || preview.src;
   const frameStyle={
     width:"100%",
     height:"100%",
     borderRadius:radius,
     overflow:"hidden",
     border:"2px solid #0F172A",
-    background:preview.bg||"#FFFFFF",
+    background:preview.boardBg||preview.bg||"#FFFFFF",
     display:"flex",
     alignItems:"center",
     justifyContent:"center",
   };
 
-  if(preview?.src){
+  if(boardSrc){
     return(
       <div style={frameStyle}>
         <img
-          src={preview.src}
+          src={boardSrc}
           alt=""
           loading="lazy"
           decoding="async"
-          style={{width:"100%",height:"100%",objectFit:preview.fit||"cover",objectPosition:preview.position||"center"}}
+          style={{width:"100%",height:"100%",objectFit:preview.boardFit||preview.fit||"cover",objectPosition:preview.boardPosition||preview.position||"center"}}
         />
       </div>
     );
@@ -4387,14 +4464,131 @@ function QRCode({text,size=190}){
 }
 
 const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
+const THEME_STORAGE_KEY="trivic-theme-mode";
+const LANG_STORAGE_KEY="trivic-language";
+function getInitialLanguage(){
+  if(typeof window==="undefined") return "en";
+  try{
+    const stored=window.localStorage.getItem(LANG_STORAGE_KEY);
+    return stored==="ar"?"ar":"en";
+  }catch{return "en";}
+}
+
+// English -> Arabic UI translation map. Only short, unambiguous UI strings.
+// Trivia question/answer text is NOT translated.
+const AR_TRANSLATIONS={
+  "TRIVIC":"تريفيك",
+  "TEAM TRIVIA":"معلومات الفريق",
+  "GAME OVER":"انتهت اللعبة",
+  "RESULTS":"النتائج",
+  "ANSWER":"الإجابة",
+  "AWARD POINTS TO:":"امنح النقاط لـ:",
+  "Reveal Answer":"اكشف الإجابة",
+  "Back to Board":"العودة إلى اللوحة",
+  "New Game":"لعبة جديدة",
+  "Pass":"تخطّي",
+  "Sign In":"تسجيل الدخول",
+  "Sign Out":"تسجيل الخروج",
+  "Create Account":"إنشاء حساب",
+  "Username":"اسم المستخدم",
+  "Password":"كلمة المرور",
+  "Login":"تسجيل الدخول",
+  "Sign up":"إنشاء حساب",
+  "Loading account...":"جارٍ تحميل الحساب...",
+  "Loading your account question history...":"جارٍ تحميل سجل أسئلتك...",
+  "Loading audio...":"جارٍ تحميل الصوت...",
+  "Loading clip...":"جارٍ تحميل المقطع...",
+  "Generating...":"جارٍ التوليد...",
+  "Play Clip":"تشغيل المقطع",
+  "Replay clip":"إعادة المقطع",
+  "Open clip in browser":"افتح المقطع في المتصفح",
+  "Clip unavailable":"المقطع غير متوفر",
+  "Clip could not be embedded":"تعذّر تضمين المقطع",
+  "Audio clip could not load":"تعذّر تحميل المقطع الصوتي",
+  "Image unavailable":"الصورة غير متوفرة",
+  "Map unavailable":"الخريطة غير متوفرة",
+  "QR error":"خطأ في رمز QR",
+  "Country Map":"خريطة الدولة",
+  "Movie Scene":"مشهد فيلم",
+  "Song Clip":"مقطع أغنية",
+  "Who Am I?":"من أكون؟",
+  "Which country is this flag from?":"من أي دولة هذا العلم؟",
+  "Guess the character from the image":"خمّن الشخصية من الصورة",
+  "Guess the movie from the clip":"خمّن الفيلم من المقطع",
+  "Guess the song from the clip":"خمّن الأغنية من المقطع",
+  "SELECT CATEGORIES":"اختر الفئات",
+  "SELECT CATEGORIES ->":"اختر الفئات ←",
+  "WORD (HOST ONLY)":"الكلمة (للمضيف فقط)",
+  "SCAN TO SEE YOUR WORD":"امسح لرؤية كلمتك",
+  "ACTOR - SCAN QR TO GOOGLE YOUR WORD":"الممثل - امسح QR للبحث عن كلمتك",
+  "Seconds":"ثوانٍ",
+  "Dark":"داكن",
+  "Light":"فاتح",
+  "Add all":"أضف الكل",
+  "ALL":"الكل",
+  "AUDIO":"صوت",
+  "🧠 General":"🧠 عام",
+  "🙂 Emoji Guess":"🙂 خمّن الإيموجي",
+  "🎬 Fiction":"🎬 خيال",
+  "🌸 Anime":"🌸 أنمي",
+  "🎮 Gaming":"🎮 ألعاب",
+  "🖼️ Who Am I?":"🖼️ من أكون؟",
+  "🎭 Charades":"🎭 تمثيل صامت",
+};
 
 const CSS=`
+  :root{
+    --site-bg-color:#050505;
+    --site-bg-image:url('/site-bg-glossy.png');
+    --site-bg-position:center;
+    --site-bg-size:cover;
+    --site-bg-repeat:no-repeat;
+    --header-bg-color:#0A2A52;
+    --header-bg-image:linear-gradient(180deg, rgba(255,255,255,.18) 0%, rgba(255,255,255,.04) 16%, rgba(255,255,255,0) 30%), linear-gradient(135deg, #163E76 0%, #0D2E5D 46%, #081F43 100%), radial-gradient(circle at 18% 20%, rgba(120,214,255,.18) 0%, rgba(120,214,255,0) 30%), radial-gradient(circle at 82% 18%, rgba(255,255,255,.10) 0%, rgba(255,255,255,0) 22%), radial-gradient(circle at 50% 100%, rgba(7,18,38,.34) 0%, rgba(7,18,38,0) 44%);
+    --header-bg-position:center;
+    --header-bg-size:cover;
+    --header-bg-repeat:no-repeat;
+    --header-box-shadow:inset 0 1px 0 rgba(255,255,255,.36), inset 0 -1px 0 rgba(255,255,255,.08), inset 0 18px 28px rgba(255,255,255,.06), 0 10px 24px rgba(0,0,0,.18);
+    --header-backdrop-filter:blur(8px) saturate(118%);
+  }
+  :root.theme-light{
+    --site-bg-color:#F8FBFF;
+    --site-bg-image:url('/light-mode-white.jpg');
+    --site-bg-position:center;
+    --site-bg-size:cover;
+    --site-bg-repeat:no-repeat;
+    --header-bg-color:#D7F5FF;
+    --header-bg-image:linear-gradient(180deg, rgba(255,255,255,.40) 0%, rgba(255,255,255,.14) 28%, rgba(255,255,255,0) 62%), url('/light-mode-blue.jpg');
+    --header-bg-position:center;
+    --header-bg-size:cover;
+    --header-bg-repeat:no-repeat;
+    --header-box-shadow:inset 0 1px 0 rgba(255,255,255,.72), inset 0 -1px 0 rgba(255,255,255,.24), 0 10px 24px rgba(15,23,42,.10);
+    --header-backdrop-filter:blur(6px) saturate(106%);
+  }
+  :root.theme-dark{
+    --site-bg-color:#050505;
+    --site-bg-image:url('/site-bg-glossy.png');
+    --site-bg-position:center;
+    --site-bg-size:cover;
+    --site-bg-repeat:no-repeat;
+    --header-bg-color:#0A2A52;
+    --header-bg-image:linear-gradient(180deg, rgba(255,255,255,.18) 0%, rgba(255,255,255,.04) 16%, rgba(255,255,255,0) 30%), linear-gradient(135deg, #163E76 0%, #0D2E5D 46%, #081F43 100%), radial-gradient(circle at 18% 20%, rgba(120,214,255,.18) 0%, rgba(120,214,255,0) 30%), radial-gradient(circle at 82% 18%, rgba(255,255,255,.10) 0%, rgba(255,255,255,0) 22%), radial-gradient(circle at 50% 100%, rgba(7,18,38,.34) 0%, rgba(7,18,38,0) 44%);
+    --header-bg-position:center;
+    --header-bg-size:cover;
+    --header-bg-repeat:no-repeat;
+    --header-box-shadow:inset 0 1px 0 rgba(255,255,255,.36), inset 0 -1px 0 rgba(255,255,255,.08), inset 0 18px 28px rgba(255,255,255,.06), 0 10px 24px rgba(0,0,0,.18);
+    --header-backdrop-filter:blur(8px) saturate(118%);
+  }
   *{box-sizing:border-box;margin:0;padding:0;}
   html,body,#root{
     width:100%;
     height:100%;
     overscroll-behavior:none;
-    background:#efeae3 url('/site-bg-texture-soft.jpg') center/cover fixed no-repeat;
+    background-color:var(--site-bg-color);
+    background-image:var(--site-bg-image);
+    background-position:var(--site-bg-position);
+    background-size:var(--site-bg-size);
+    background-repeat:var(--site-bg-repeat);
     font-family:${SF_STACK};
     color:#1E293B;
     text-rendering:optimizeLegibility;
@@ -4416,25 +4610,184 @@ const CSS=`
 `;
 
 const SITE_BACKGROUND_STYLE={
-  backgroundColor:"#efeae3",
-  backgroundImage:"url('/site-bg-texture-soft.jpg')",
-  backgroundSize:"cover",
-  backgroundPosition:"center",
-  backgroundAttachment:"fixed",
-  backgroundRepeat:"no-repeat",
+  backgroundColor:"var(--site-bg-color)",
+  backgroundImage:"var(--site-bg-image)",
+  backgroundPosition:"var(--site-bg-position)",
+  backgroundSize:"var(--site-bg-size)",
+  backgroundRepeat:"var(--site-bg-repeat)",
 };
 
 const TOP_HEADER_WATERCOLOR_STYLE={
-  backgroundColor:"#ECFEFF",
-  backgroundImage:"linear-gradient(rgba(255,255,255,.72), rgba(255,255,255,.72)), url('/top-header-bg.jpg')",
-  backgroundSize:"cover",
-  backgroundPosition:"center",
-  backgroundRepeat:"no-repeat",
+  backgroundColor:"var(--header-bg-color)",
+  backgroundImage:"var(--header-bg-image)",
+  backgroundPosition:"var(--header-bg-position)",
+  backgroundSize:"var(--header-bg-size)",
+  backgroundRepeat:"var(--header-bg-repeat)",
+  boxShadow:"var(--header-box-shadow)",
+  backdropFilter:"var(--header-backdrop-filter)",
+  WebkitBackdropFilter:"var(--header-backdrop-filter)",
 };
+
+function getInitialThemeMode(){
+  if(typeof window==="undefined") return "dark";
+  const stored=window.localStorage.getItem(THEME_STORAGE_KEY);
+  return stored==="light"?"light":"dark";
+}
 
 export default function App(){
   const initialAccountSession=getCachedAccountSession();
   const initialQuestionUsageSnapshot=getCachedQuestionUsageSnapshot(initialAccountSession?.user?.id);
+  const [themeMode,setThemeMode]=useState(getInitialThemeMode);
+  const [language,setLanguage]=useState(getInitialLanguage);
+  useEffect(()=>{
+    if(typeof document==="undefined") return;
+    const root=document.documentElement;
+    root.setAttribute("lang",language);
+    root.setAttribute("dir",language==="ar"?"rtl":"ltr");
+    try{ window.localStorage.setItem(LANG_STORAGE_KEY,language); }catch{}
+
+    // ----- Translation cache (persisted across reloads) -----
+    const CACHE_KEY="trivic-translation-cache-ar";
+    let cache={};
+    try{
+      const raw=window.localStorage.getItem(CACHE_KEY);
+      if(raw) cache=JSON.parse(raw)||{};
+    }catch{}
+    // Seed cache with hand-curated UI strings so they're instant.
+    for(const k in AR_TRANSLATIONS){ if(!cache[k]) cache[k]=AR_TRANSLATIONS[k]; }
+    let saveTimer=null;
+    function persistCache(){
+      if(saveTimer) return;
+      saveTimer=setTimeout(()=>{
+        saveTimer=null;
+        try{ window.localStorage.setItem(CACHE_KEY,JSON.stringify(cache)); }catch{}
+      },800);
+    }
+
+    // Track original English text per node so we can revert when language flips back.
+    const originals=new WeakMap();
+    function rememberOriginal(node,text){
+      if(!originals.has(node)) originals.set(node,text);
+    }
+
+    function shouldSkipElement(el){
+      if(!el||el.nodeType!==Node.ELEMENT_NODE) return false;
+      const tag=el.tagName;
+      if(tag==="SCRIPT"||tag==="STYLE"||tag==="INPUT"||tag==="TEXTAREA") return true;
+      if(el.getAttribute&&el.getAttribute("data-no-translate")==="1") return true;
+      return false;
+    }
+    function isTranslatable(text){
+      if(!text) return false;
+      const t=text.trim();
+      if(t.length<2) return false;
+      // Skip pure numbers, punctuation, or strings with no Latin letters.
+      if(!/[A-Za-z]/.test(t)) return false;
+      return true;
+    }
+
+    // Pending nodes awaiting network translation
+    const pending=new Map(); // key -> [nodes]
+
+    function applyTranslationToNode(node,translated){
+      const raw=node.nodeValue;
+      if(raw==null) return;
+      const lead=raw.match(/^\s*/)[0];
+      const tail=raw.match(/\s*$/)[0];
+      node.nodeValue=lead+translated+tail;
+    }
+
+    function processTextNode(node){
+      const raw=node.nodeValue;
+      if(raw==null) return;
+      const key=raw.trim();
+      if(!isTranslatable(key)) return;
+      if(language==="en"){
+        // Revert: if we have original English, restore it.
+        const orig=originals.get(node);
+        if(orig!=null && raw!==orig) node.nodeValue=orig;
+        return;
+      }
+      rememberOriginal(node,raw);
+      if(cache[key]){
+        applyTranslationToNode(node,cache[key]);
+        return;
+      }
+      // Queue for batch translation
+      if(!pending.has(key)) pending.set(key,[]);
+      pending.get(key).push(node);
+      scheduleFlush();
+    }
+
+    function walk(node){
+      if(node.nodeType===Node.TEXT_NODE){ processTextNode(node); return; }
+      if(node.nodeType!==Node.ELEMENT_NODE) return;
+      if(shouldSkipElement(node)) return;
+      for(let i=0;i<node.childNodes.length;i++) walk(node.childNodes[i]);
+    }
+
+    let flushTimer=null;
+    function scheduleFlush(){
+      if(flushTimer) return;
+      flushTimer=setTimeout(flushPending,80);
+    }
+    async function flushPending(){
+      flushTimer=null;
+      if(pending.size===0) return;
+      // Take a batch of up to 30 strings per request to keep URLs short.
+      const entries=Array.from(pending.entries()).slice(0,30);
+      entries.forEach(([k])=>pending.delete(k));
+      const keys=entries.map(([k])=>k);
+      try{
+        // Google Translate public endpoint — works from browsers without auth.
+        const sep="\n\u241F\n"; // unit separator unlikely in normal text
+        const joined=keys.join(sep);
+        const url="https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ar&dt=t&q="+encodeURIComponent(joined);
+        const res=await fetch(url);
+        if(res.ok){
+          const data=await res.json();
+          // data[0] is an array of [translatedChunk, originalChunk, ...]
+          const chunks=(data[0]||[]).map(c=>c&&c[0]).filter(Boolean).join("");
+          const translatedParts=chunks.split(/\s*\u241F\s*/);
+          if(translatedParts.length===keys.length){
+            keys.forEach((k,i)=>{
+              const tr=translatedParts[i].trim();
+              if(tr){
+                cache[k]=tr;
+                const nodes=entries[i][1];
+                nodes.forEach(n=>{ if(language==="ar") applyTranslationToNode(n,tr); });
+              }
+            });
+            persistCache();
+          }
+        }
+      }catch{}
+      // Continue draining
+      if(pending.size>0) scheduleFlush();
+    }
+
+    function applyAll(){
+      if(!document.body) return;
+      walk(document.body);
+    }
+
+    applyAll();
+    const observer=new MutationObserver((muts)=>{
+      for(const m of muts){
+        if(m.type==="childList"){
+          m.addedNodes.forEach(n=>walk(n));
+        }else if(m.type==="characterData"){
+          processTextNode(m.target);
+        }
+      }
+    });
+    observer.observe(document.body,{childList:true,subtree:true,characterData:true});
+    return()=>{
+      observer.disconnect();
+      if(flushTimer){ clearTimeout(flushTimer); flushTimer=null; }
+      if(saveTimer){ clearTimeout(saveTimer); saveTimer=null; try{ window.localStorage.setItem(CACHE_KEY,JSON.stringify(cache)); }catch{} }
+    };
+  },[language]);
   const [authMode,setAuthMode]=useState("login");
   const [authUsername,setAuthUsername]=useState("");
   const [authPassword,setAuthPassword]=useState("");
@@ -4459,6 +4812,56 @@ export default function App(){
   const [isSyncingUsage,setIsSyncingUsage]=useState(false);
   const usedQuestionIdsRef=useRef(usedQuestionIds);
   const questionUsageResetTokenRef=useRef(questionUsageResetToken);
+
+  useEffect(()=>{
+    if(typeof document==="undefined") return;
+    const root=document.documentElement;
+    root.classList.remove("theme-dark","theme-light");
+    root.classList.add(themeMode==="light"?"theme-light":"theme-dark");
+    try{
+      window.localStorage.setItem(THEME_STORAGE_KEY, themeMode);
+    }catch{}
+  },[themeMode]);
+
+  useEffect(()=>{
+    if(typeof document==="undefined") return;
+    const html=document.documentElement;
+    const body=document.body;
+    const root=document.getElementById("root");
+    const prevHtmlOverflow=html.style.overflow;
+    const prevHtmlOverflowY=html.style.overflowY;
+    const prevBodyOverflow=body.style.overflow;
+    const prevBodyOverflowY=body.style.overflowY;
+    const prevHtmlHeight=html.style.height;
+    const prevBodyHeight=body.style.height;
+    const prevRootOverflow=root?.style.overflow ?? "";
+    const prevRootHeight=root?.style.height ?? "";
+    const shouldScroll=screen==="categories";
+
+    html.style.height="100%";
+    body.style.height="100%";
+    html.style.overflow=shouldScroll?"auto":"hidden";
+    html.style.overflowY=shouldScroll?"auto":"hidden";
+    body.style.overflow=shouldScroll?"auto":"hidden";
+    body.style.overflowY=shouldScroll?"auto":"hidden";
+    if(root){
+      root.style.height="100%";
+      root.style.overflow=shouldScroll?"auto":"hidden";
+    }
+
+    return()=>{
+      html.style.overflow=prevHtmlOverflow;
+      html.style.overflowY=prevHtmlOverflowY;
+      body.style.overflow=prevBodyOverflow;
+      body.style.overflowY=prevBodyOverflowY;
+      html.style.height=prevHtmlHeight;
+      body.style.height=prevBodyHeight;
+      if(root){
+        root.style.overflow=prevRootOverflow;
+        root.style.height=prevRootHeight;
+      }
+    };
+  },[screen]);
 
   useEffect(()=>{
     usedQuestionIdsRef.current=usedQuestionIds;
@@ -4701,28 +5104,37 @@ export default function App(){
 
   const cat=activeTile&&BANK[activeTile.catId];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":"trivia"):null;
+  const renderWithGlobalThemeToggle=(content)=>(
+    <>
+      <div style={{position:"fixed",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
+        <ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>
+        <LanguageToggle language={language} onChange={setLanguage} themeMode={themeMode}/>
+      </div>
+      {content}
+    </>
+  );
 
-  if(!authReady) return (
+  if(!authReady) return renderWithGlobalThemeToggle(
     <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:18}}>
       <style>{CSS}</style>
       <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
       <div style={{fontSize:16,color:"#64748B",fontWeight:800,letterSpacing:1.5}}>Loading account...</div>
     </div>
   );
-  if(!accountSession) return <AuthScreen mode={authMode} setMode={setAuthMode} username={authUsername} setUsername={setAuthUsername} password={authPassword} setPassword={setAuthPassword} error={authError} isBusy={authBusy} onSubmit={handleAuthSubmit}/>;
-  if(screen==="setup") return <SetupScreen teams={teams} setTeams={setTeams} onNext={()=>setScreen("categories")} accountUser={accountSession.user} onLogout={handleLogout}/>;
-  if(screen==="categories") return <CategoryScreen selCats={selCats} setSelCats={setSelCats} onStart={startGame} onBack={()=>setScreen("setup")} usageReady={usageReady} isSyncingUsage={isSyncingUsage}/>;
-  if(screen==="board") return <BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")} onAdjustScore={adjustScore}/>;
+  if(!accountSession) return renderWithGlobalThemeToggle(<AuthScreen mode={authMode} setMode={setAuthMode} username={authUsername} setUsername={setAuthUsername} password={authPassword} setPassword={setAuthPassword} error={authError} isBusy={authBusy} onSubmit={handleAuthSubmit} themeMode={themeMode}/>);
+  if(screen==="setup") return renderWithGlobalThemeToggle(<SetupScreen teams={teams} setTeams={setTeams} onNext={()=>setScreen("categories")} accountUser={accountSession.user} onLogout={handleLogout} themeMode={themeMode}/>);
+  if(screen==="categories") return renderWithGlobalThemeToggle(<CategoryScreen selCats={selCats} setSelCats={setSelCats} onStart={startGame} onBack={()=>setScreen("setup")} usageReady={usageReady} isSyncingUsage={isSyncingUsage} themeMode={themeMode}/>);
+  if(screen==="board") return renderWithGlobalThemeToggle(<BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")} onAdjustScore={adjustScore} themeMode={themeMode}/>);
   if(screen==="question"){
     const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard};
-    if(ttype==="whoami") return <WhoAmIScreen {...p}/>;
-    if(ttype==="countrymap") return <CountryMapScreen {...p}/>;
-    if(ttype==="moviescene") return <MovieSceneScreen {...p}/>;
-    if(ttype==="songclip") return <SongClipScreen {...p}/>;
-    if(ttype==="charades") return <CharadesScreen {...p} showWord={showWord} setShowWord={setShowWord}/>;
-    return <QuestionScreen {...p}/>;
+    if(ttype==="whoami") return renderWithGlobalThemeToggle(<WhoAmIScreen {...p}/>);
+    if(ttype==="countrymap") return renderWithGlobalThemeToggle(<CountryMapScreen {...p}/>);
+    if(ttype==="moviescene") return renderWithGlobalThemeToggle(<MovieSceneScreen {...p}/>);
+    if(ttype==="songclip") return renderWithGlobalThemeToggle(<SongClipScreen {...p}/>);
+    if(ttype==="charades") return renderWithGlobalThemeToggle(<CharadesScreen {...p} showWord={showWord} setShowWord={setShowWord}/>);
+    return renderWithGlobalThemeToggle(<QuestionScreen {...p}/>);
   }
-  if(screen==="gameover") return <GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();setQPointers(initPointers(selCats,new Set(latestIds)));setPendingTileQuestions({});setBoard(makeBoard(selCats));setScores([0,0]);setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>;
+  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();setQPointers(initPointers(selCats,new Set(latestIds)));setPendingTileQuestions({});setBoard(makeBoard(selCats));setScores([0,0]);setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
   return null;
 }
 
@@ -4746,9 +5158,9 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore}){
             minWidth:92,
           }}>{t}</div>
           <div style={{display:"flex",alignItems:"center",gap:8}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>-</span></button>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i],size:28,fontSize:18})}><span style={{position:"relative",top:-1}}>-</span></button>
             <div style={{fontSize:26,fontWeight:900,color:i===curTeam?TEAM_COLORS[i]:"#94A3B8",fontFamily:SF_STACK,minWidth:40,textAlign:"center"}}>{scores[i]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={{width:28,height:28,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:18,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>+</span></button>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i],size:28,fontSize:18})}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
       ))}
@@ -4757,55 +5169,56 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore}){
   );
 }
 
-function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
+function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,themeMode}){
+  const isDark=themeMode==="dark";
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:"18px 18px 16px"}}>
-      <div style={{display:"grid",gridTemplateColumns:"1fr auto 1fr",alignItems:"start",gap:16}}>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:"18px 24px 16px"}}>
+      <div style={{display:"grid",gridTemplateColumns:"1fr auto 1fr",alignItems:"start",gap:20}}>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
           <div style={{
-            fontSize:14,
+            fontSize:18,
             fontWeight:900,
-            color:curTeam===0?"#fff":TEAM_COLORS[0],
-            letterSpacing:1.4,
+            color:"#fff",
+            letterSpacing:2.2,
             textTransform:"uppercase",
-            background:curTeam===0?TEAM_COLORS[0]:"transparent",
+            background:TEAM_COLORS[0],
             border:`2px solid ${TEAM_COLORS[0]}`,
             borderRadius:999,
-            padding:"7px 16px",
-            boxShadow:curTeam===0?`0 14px 26px ${withAlpha(TEAM_COLORS[0],"35")}`:"none",
+            padding:"10px 24px",
+            boxShadow:`0 12px 22px ${withAlpha(TEAM_COLORS[0],"35")}`,
             textAlign:"center",
-            minWidth:120,
+            minWidth:160,
           }}>{teams[0]}</div>
-          <div style={{display:"flex",alignItems:"center",gap:10}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>-</span></button>
-            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[0],minWidth:44,textAlign:"center"}}>{scores[0]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>+</span></button>
+          <div style={{display:"flex",alignItems:"center",gap:14}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[0],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(44px,6vw,66px)",lineHeight:.9,color:TEAM_COLORS[0],minWidth:58,textAlign:"center"}}>{scores[0]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[0],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,minWidth:120}}>
-          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(42px,7vw,74px)",lineHeight:.85,color:"#0F172A",letterSpacing:2}}>VS</div>
-          <div style={{fontSize:13,fontWeight:800,color:TEAM_COLORS[curTeam],textAlign:"center"}}>{teams[curTeam]}'s turn</div>
-          {allDone&&<button className="tap" onClick={onGameOver} style={{background:"#1E293B",color:"#fff",fontSize:11,fontWeight:800,padding:"7px 12px",borderRadius:999}}>RESULTS</button>}
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,minWidth:140}}>
+          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(56px,7vw,88px)",lineHeight:.82,color:isDark?"#E5E7EB":"#0F172A",letterSpacing:2}}>VS</div>
+          <div style={{fontSize:18,fontWeight:900,color:TEAM_COLORS[curTeam],textAlign:"center"}}>{teams[curTeam]}'s turn</div>
+          {allDone&&<button className="tap" onClick={onGameOver} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:13,padding:"8px 14px",borderRadius:999})}>RESULTS</button>}
         </div>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
           <div style={{
-            fontSize:14,
+            fontSize:18,
             fontWeight:900,
-            color:curTeam===1?"#fff":TEAM_COLORS[1],
-            letterSpacing:1.4,
+            color:"#fff",
+            letterSpacing:2.2,
             textTransform:"uppercase",
-            background:curTeam===1?TEAM_COLORS[1]:"transparent",
+            background:TEAM_COLORS[1],
             border:`2px solid ${TEAM_COLORS[1]}`,
             borderRadius:999,
-            padding:"7px 16px",
-            boxShadow:curTeam===1?`0 14px 26px ${withAlpha(TEAM_COLORS[1],"35")}`:"none",
+            padding:"10px 24px",
+            boxShadow:`0 12px 22px ${withAlpha(TEAM_COLORS[1],"35")}`,
             textAlign:"center",
-            minWidth:120,
+            minWidth:160,
           }}>{teams[1]}</div>
-          <div style={{display:"flex",alignItems:"center",gap:10}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>-</span></button>
-            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(34px,6vw,58px)",lineHeight:.9,color:TEAM_COLORS[1],minWidth:44,textAlign:"center"}}>{scores[1]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={{width:34,height:34,borderRadius:999,border:"2px solid #0F172A",background:"#fff",color:"#0F172A",fontWeight:900,fontSize:22,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",padding:0}}><span style={{position:"relative",top:-1}}>+</span></button>
+          <div style={{display:"flex",alignItems:"center",gap:14}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[1],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(44px,6vw,66px)",lineHeight:.9,color:TEAM_COLORS[1],minWidth:58,textAlign:"center"}}>{scores[1]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[1],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
       </div>
@@ -4813,18 +5226,129 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore}){
   );
 }
 
-function AuthScreen({mode,setMode,username,setUsername,password,setPassword,error,isBusy,onSubmit}){
+function ThemeModeToggle({themeMode,onChange}){
+  const isLight=themeMode==="light";
+  return(
+    <div style={{
+      display:"inline-flex",
+      alignItems:"center",
+      gap:10,
+      padding:"10px 14px",
+      borderRadius:999,
+      background:isLight?"rgba(255,255,255,.88)":"rgba(15,23,42,.72)",
+      border:`1.5px solid ${isLight?"rgba(15,23,42,.12)":"rgba(255,255,255,.16)"}`,
+      boxShadow:isLight?"0 14px 28px rgba(15,23,42,.12)":"0 14px 28px rgba(0,0,0,.28)",
+      backdropFilter:"blur(12px) saturate(112%)",
+      WebkitBackdropFilter:"blur(12px) saturate(112%)",
+    }}>
+      <span style={{fontSize:12,fontWeight:800,color:isLight?"#64748B":"#E2E8F0",letterSpacing:.4}}>Dark</span>
+      <button
+        type="button"
+        className="tap"
+        aria-label={`Switch to ${isLight?"dark":"light"} mode`}
+        aria-pressed={isLight}
+        onClick={()=>onChange(isLight?"dark":"light")}
+        style={{
+          width:58,
+          height:32,
+          borderRadius:999,
+          padding:3,
+          background:isLight
+            ?"linear-gradient(135deg, #38BDF8 0%, #7DD3FC 44%, #E0F2FE 100%)"
+            :"linear-gradient(135deg, #0F172A 0%, #1D4ED8 58%, #38BDF8 100%)",
+          boxShadow:isLight
+            ?"inset 0 1px 0 rgba(255,255,255,.65), 0 8px 20px rgba(56,189,248,.26)"
+            :"inset 0 1px 0 rgba(255,255,255,.18), 0 8px 20px rgba(15,23,42,.35)",
+          display:"flex",
+          alignItems:"center",
+        }}
+      >
+        <span style={{
+          width:26,
+          height:26,
+          borderRadius:"50%",
+          background:isLight
+            ?"linear-gradient(180deg, #FFFFFF 0%, #EFF6FF 100%)"
+            :"linear-gradient(180deg, #FFFFFF 0%, #DBEAFE 100%)",
+          boxShadow:"0 4px 10px rgba(15,23,42,.22)",
+          transform:`translateX(${isLight?26:0}px)`,
+          transition:"transform .18s ease",
+          display:"block",
+        }}/>
+      </button>
+      <span style={{fontSize:12,fontWeight:800,color:isLight?"#0F172A":"#94A3B8",letterSpacing:.4}}>Light</span>
+    </div>
+  );
+}
+
+function LanguageToggle({language,onChange,themeMode}){
+  const isLight=themeMode==="light";
+  const isAr=language==="ar";
+  return(
+    <div style={{
+      display:"inline-flex",
+      alignItems:"center",
+      gap:10,
+      padding:"10px 14px",
+      borderRadius:999,
+      background:isLight?"rgba(255,255,255,.88)":"rgba(15,23,42,.72)",
+      border:`1.5px solid ${isLight?"rgba(15,23,42,.12)":"rgba(255,255,255,.16)"}`,
+      boxShadow:isLight?"0 14px 28px rgba(15,23,42,.12)":"0 14px 28px rgba(0,0,0,.28)",
+      backdropFilter:"blur(12px) saturate(112%)",
+      WebkitBackdropFilter:"blur(12px) saturate(112%)",
+      direction:"ltr",
+    }} data-no-translate="1">
+      <span style={{fontSize:12,fontWeight:800,color:isLight?(isAr?"#64748B":"#0F172A"):(isAr?"#94A3B8":"#E2E8F0"),letterSpacing:.4}}>EN</span>
+      <button
+        type="button"
+        className="tap"
+        aria-label={`Switch language to ${isAr?"English":"Arabic"}`}
+        aria-pressed={isAr}
+        onClick={()=>onChange(isAr?"en":"ar")}
+        style={{
+          width:58,
+          height:32,
+          borderRadius:999,
+          padding:3,
+          background:isAr
+            ?"linear-gradient(135deg, #059669 0%, #10B981 58%, #6EE7B7 100%)"
+            :"linear-gradient(135deg, #1E293B 0%, #475569 58%, #94A3B8 100%)",
+          boxShadow:isAr
+            ?"inset 0 1px 0 rgba(255,255,255,.35), 0 8px 20px rgba(16,185,129,.32)"
+            :"inset 0 1px 0 rgba(255,255,255,.18), 0 8px 20px rgba(15,23,42,.35)",
+          display:"flex",
+          alignItems:"center",
+        }}
+      >
+        <span style={{
+          width:26,
+          height:26,
+          borderRadius:"50%",
+          background:"linear-gradient(180deg, #FFFFFF 0%, #E2E8F0 100%)",
+          boxShadow:"0 4px 10px rgba(15,23,42,.22)",
+          transform:`translateX(${isAr?26:0}px)`,
+          transition:"transform .18s ease",
+          display:"block",
+        }}/>
+      </button>
+      <span style={{fontSize:12,fontWeight:800,color:isLight?(isAr?"#0F172A":"#64748B"):(isAr?"#E2E8F0":"#94A3B8"),letterSpacing:.4}}>AR</span>
+    </div>
+  );
+}
+
+function AuthScreen({mode,setMode,username,setUsername,password,setPassword,error,isBusy,onSubmit,themeMode}){
   const isSignup=mode==="signup";
+  const isDark=themeMode==="dark";
   return(
     <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:28}}>
       <style>{CSS}</style>
       <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:isDark?"#E5E7EB":"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
       </div>
       <div style={{width:"100%",maxWidth:500,background:"#FFFFFF",borderRadius:28,border:"3px solid #0F172A",boxShadow:"0 24px 60px #0f172a14",padding:"24px 22px 22px",display:"flex",flexDirection:"column",gap:16}}>
         <div style={{display:"flex",gap:10}}>
-          <button className="tap" onClick={()=>setMode("login")} style={{flex:1,padding:"12px 0",borderRadius:16,background:mode==="login"?"#1E293B":"#E2E8F0",color:mode==="login"?"#fff":"#475569",fontWeight:800,fontSize:15}}>Sign In</button>
-          <button className="tap" onClick={()=>setMode("signup")} style={{flex:1,padding:"12px 0",borderRadius:16,background:mode==="signup"?"#7C3AED":"#EDE9FE",color:mode==="signup"?"#fff":"#6D28D9",fontWeight:800,fontSize:15}}>Create Account</button>
+          <button className="tap" onClick={()=>setMode("login")} style={{...getGlassButtonStyle({tint:"#2563EB",textColor:"#0F172A",fontSize:15,padding:"12px 0",borderRadius:16,subtle:false,selected:mode==="login",ringColor:withAlpha(lightenHex("#2563EB",0.52),"E6")}),flex:1}}>Sign In</button>
+          <button className="tap" onClick={()=>setMode("signup")} style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:"#0F172A",fontSize:15,padding:"12px 0",borderRadius:16,subtle:false,selected:mode==="signup",ringColor:withAlpha(lightenHex("#7C3AED",0.52),"E6")}),flex:1}}>Create Account</button>
         </div>
         <div style={{fontSize:14,color:"#475569",fontWeight:600,lineHeight:1.55,textAlign:"center"}}>
           {isSignup?"Create an account and your question pool starts fresh just for you.":"Sign in once and keep your own saved question pool across refreshes and devices."}
@@ -4835,7 +5359,7 @@ function AuthScreen({mode,setMode,username,setUsername,password,setPassword,erro
           <input type="password" value={password} onChange={(e)=>setPassword(e.target.value)} placeholder="Password" autoComplete={isSignup?"new-password":"current-password"}
             style={{width:"100%",padding:"16px 18px",borderRadius:18,border:"2px solid #CBD5E1",fontSize:18,fontWeight:700,background:"#fff",color:"#1E293B",outline:"none",textAlign:"center"}}/>
           {error&&<div style={{fontSize:13,color:"#DC2626",fontWeight:800,textAlign:"center"}}>{error}</div>}
-          <button className="tap" disabled={isBusy} style={{marginTop:4,background:isSignup?"#7C3AED":"#1E293B",color:"#fff",fontWeight:800,fontSize:19,padding:"16px 20px",borderRadius:18,opacity:isBusy?.7:1}}>
+          <button className="tap" disabled={isBusy} style={{...getGlassButtonStyle({tint:isSignup?"#7C3AED":"#2563EB",textColor:"#0F172A",fontSize:19,padding:"16px 20px",borderRadius:18,disabled:isBusy}),marginTop:4,opacity:isBusy?.7:1}}>
             {isBusy?(isSignup?"Creating account...":"Signing in..."):(isSignup?"CREATE ACCOUNT":"SIGN IN")}
           </button>
         </form>
@@ -4844,16 +5368,17 @@ function AuthScreen({mode,setMode,username,setUsername,password,setPassword,erro
   );
 }
 
-function SetupScreen({teams,setTeams,onNext,accountUser,onLogout}){
+function SetupScreen({teams,setTeams,onNext,accountUser,onLogout,themeMode}){
+  const isDark=themeMode==="dark";
   return(
     <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32,gap:34}}>
       <style>{CSS}</style>
       <div style={{position:"absolute",top:20,right:20,display:"flex",alignItems:"center",gap:10}}>
         {accountUser&&<div style={{fontSize:13,fontWeight:800,color:"#475569",background:"#FFFFFF",border:"2px solid #CBD5E1",borderRadius:999,padding:"8px 14px"}}>{accountUser.username}</div>}
-        <button className="tap" onClick={onLogout} style={{background:"#FFFFFF",color:"#1E293B",fontWeight:800,fontSize:13,padding:"10px 16px",borderRadius:999,border:"2px solid #0F172A"}}>Sign Out</button>
+        <button className="tap" onClick={onLogout} style={getGlassButtonStyle({tint:"#EF4444",textColor:"#1E293B",fontSize:13,padding:"10px 16px",borderRadius:999,subtle:true,borderWidth:2})}>Sign Out</button>
       </div>
       <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:isDark?"#E5E7EB":"#3A4A67",lineHeight:.9,letterSpacing:2,textShadow:isDark?"0 1px 0 rgba(255,255,255,.04)":"0 1px 0 rgba(255,255,255,.08)"}}>TRIVIC</div>
         <div style={{fontSize:15,color:"#94A3B8",fontWeight:700,letterSpacing:3,marginTop:10}}>TEAM TRIVIA</div>
       </div>
       <div style={{width:"100%",maxWidth:520,display:"flex",flexDirection:"column",gap:18}}>
@@ -4861,40 +5386,61 @@ function SetupScreen({teams,setTeams,onNext,accountUser,onLogout}){
           <div key={i}>
             <div style={{fontSize:14,fontWeight:800,color:TEAM_COLORS[i],letterSpacing:1.8,marginBottom:8,textTransform:"uppercase",textAlign:"center"}}>Team {i+1}</div>
             <input value={t} onChange={e=>{const n=[...teams];n[i]=e.target.value;setTeams(n);}} placeholder={`Team ${i+1}`}
-              style={{width:"100%",padding:"18px 22px",borderRadius:18,border:`3px solid ${TEAM_COLORS[i]}`,fontSize:21,fontWeight:700,background:"#fff",color:"#1E293B",outline:"none",textAlign:"center"}}/>
+              style={{
+                width:"100%",
+                padding:"18px 22px",
+                borderRadius:18,
+                border:`3px solid ${TEAM_COLORS[i]}`,
+                fontSize:21,
+                fontWeight:700,
+                background:i===0
+                  ?"linear-gradient(135deg, rgba(96,165,250,.34) 0%, rgba(191,219,254,.22) 18%, rgba(255,255,255,.96) 54%, rgba(219,234,254,.82) 100%)"
+                  :"linear-gradient(135deg, rgba(248,113,113,.34) 0%, rgba(254,202,202,.22) 18%, rgba(255,255,255,.96) 54%, rgba(254,226,226,.84) 100%)",
+                boxShadow:i===0
+                  ?"inset 0 1px 0 rgba(255,255,255,.92), 0 12px 28px rgba(37,99,235,.16)"
+                  :"inset 0 1px 0 rgba(255,255,255,.92), 0 12px 28px rgba(220,38,38,.16)",
+                color:"#1E293B",
+                outline:"none",
+                textAlign:"center"
+              }}/>
           </div>
         ))}
       </div>
-      <button className="tap" onClick={onNext} style={{background:"#1E293B",color:"#fff",fontWeight:800,fontSize:22,padding:"18px 56px",borderRadius:18}}>SELECT CATEGORIES -&gt;</button>
+      <button className="tap" onClick={onNext} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#0F172A",fontSize:22,padding:"18px 56px",borderRadius:18})}>SELECT CATEGORIES -&gt;</button>
     </div>
   );
 }
 
-function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingUsage}){
+function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingUsage,themeMode}){
+  const viewport=useViewportSize();
+  const isDark=themeMode==="dark";
+  const previewCardWidth=viewport.width<420?110:viewport.width<768?118:viewport.width<1280?126:132;
+  const selectedPreviewHeight=188;
+  const selectedToolbarHeight=selectedPreviewHeight+20;
   const toggle=id=>setSelCats(p=>p.includes(id)?p.filter(x=>x!==id):[...p,id]);
   return(
     <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column"}}>
       <style>{CSS}</style>
-      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,padding:"14px 16px 10px",borderBottom:"1px solid #D7EAF2"}}>
-        <div style={{fontFamily:SF_STACK,fontSize:26,fontWeight:900,color:"#1E293B",letterSpacing:1}}>SELECT CATEGORIES</div>
-        <div style={{fontSize:11,color:"#94A3B8",fontWeight:600}}>{selCats.length} selected</div>
-        {!usageReady&&<div style={{fontSize:11,color:"#64748B",fontWeight:700,marginTop:4}}>Loading your account question history...</div>}
+      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,padding:"14px 16px 10px",borderBottom:"1px solid #D7EAF2",display:"flex",flexDirection:"column",alignItems:"center",textAlign:"center"}}>
+        <div style={{fontFamily:SF_STACK,fontSize:26,fontWeight:900,color:isDark?"#E5E7EB":"#1E293B",letterSpacing:1}}>SELECT CATEGORIES</div>
+        <div style={{fontSize:14,color:isDark?"#CBD5E1":"#334155",fontWeight:700,marginTop:2}}>{selCats.length} selected</div>
+        {!usageReady&&<div style={{fontSize:11,color:isDark?"#E2E8F0":"#475569",fontWeight:700,marginTop:4}}>Loading your account question history...</div>}
       </div>
-      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",gap:12,padding:"10px 16px",borderBottom:"1px solid #D7EAF2",alignItems:"flex-start",flexWrap:"wrap"}}>
-        <div style={{display:"flex",gap:8,flexWrap:"wrap"}}>
+      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",gap:12,padding:"10px 16px",borderBottom:"1px solid #D7EAF2",alignItems:"center",flexWrap:"nowrap",minHeight:selectedToolbarHeight,position:"sticky",top:0,zIndex:28}}>
+        <div style={{display:"flex",gap:8,flexWrap:"nowrap",alignItems:"center",flex:"0 0 auto"}}>
           {[["ALL","#1E293B",()=>setSelCats(CAT_IDS.filter(id=>BANK[id]))],["RANDOM MIX","#7C3AED",()=>{const picks=CAT_GROUPS.map(g=>shuffle(g.ids.filter(id=>BANK[id])).slice(0,2));setSelCats([...new Set(picks.flat())]);}],["CLEAR","#EF4444",()=>setSelCats([])]].map(([lbl,col,fn])=>(
-            <button key={lbl} className="tap" onClick={fn} style={{background:col,color:"#fff",fontSize:15,fontWeight:800,padding:"12px 20px",borderRadius:12,minHeight:48,letterSpacing:.25}}>{lbl}</button>
+            <button key={lbl} className="tap" onClick={fn} style={{...getGlassButtonStyle({tint:col,textColor:"#0F172A",fontSize:15,padding:"12px 20px",borderRadius:12,minHeight:48}),letterSpacing:.25}}>{lbl}</button>
           ))}
         </div>
-        <div style={{display:"flex",gap:8,flex:1,minWidth:"min(100%, 320px)",overflowX:"auto",paddingBottom:2}}>
+        <div style={{display:"flex",alignItems:"stretch",gap:8,flex:1,minWidth:"min(100%, 320px)",height:selectedPreviewHeight,overflowX:"auto",overflowY:"hidden",paddingBottom:2}}>
           {selCats.length===0?(
-            <div style={{fontSize:11,fontWeight:700,color:"#94A3B8",padding:"10px 12px",borderRadius:12,border:"1.5px dashed #CBD5E1",background:"#F8FAFC",whiteSpace:"nowrap"}}>
+            <div style={{display:"flex",alignItems:"center",justifyContent:"center",height:"100%",minWidth:260,fontSize:11,fontWeight:700,color:"#94A3B8",padding:"10px 12px",borderRadius:12,border:"1.5px dashed #CBD5E1",background:"#F8FAFC",whiteSpace:"nowrap"}}>
               Selected categories appear here
             </div>
           ):selCats.map(id=>{
             const c=BANK[id];
             return(
-              <div key={id} style={{width:132,minWidth:132}}>
+              <div key={id} style={{width:previewCardWidth,minWidth:previewCardWidth,height:selectedPreviewHeight,flex:"0 0 auto"}}>
                 <CategoryPreviewCard
                   id={id}
                   category={c}
@@ -4913,17 +5459,19 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
           const allSel=gCats.every(id=>selCats.includes(id));
           return(
             <div key={group.label} style={{width:"min(100%, 1500px)",padding:"0 16px",display:"flex",flexDirection:"column",alignItems:"center"}}>
-              <div style={{position:"relative",width:"100%",minHeight:40,marginBottom:12,display:"flex",alignItems:"center",justifyContent:"center"}}>
-                <div style={{fontSize:25,fontWeight:900,color:"#334155",lineHeight:1.1,textAlign:"center"}}>{group.label}</div>
-                <button onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(x))):setSelCats(p=>[...new Set([...p,...gCats])])}
-                  style={{position:"absolute",right:0,fontSize:10,fontWeight:700,color:allSel?"#EF4444":"#3B82F6",background:"transparent",padding:"3px 8px",border:`1px solid ${allSel?"#FECDD3":"#BFDBFE"}`,borderRadius:6}}>
-                  {allSel?"Remove all":"Add all"}
-                </button>
+              <div style={{width:"100%",minHeight:40,marginBottom:12,display:"flex",alignItems:"center",justifyContent:"center"}}>
+                <div style={{display:"inline-flex",alignItems:"center",justifyContent:"center",gap:10,flexWrap:"wrap"}}>
+                  <div style={{fontSize:25,fontWeight:900,color:isDark?"#E5E7EB":"#334155",lineHeight:1.1,textAlign:"center"}}>{group.label}</div>
+                  <button onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(x))):setSelCats(p=>[...new Set([...p,...gCats])])}
+                    style={{...getGlassButtonStyle({tint:allSel?"#EF4444":"#3B82F6",textColor:allSel?"#DC2626":"#2563EB",fontSize:10,padding:"3px 8px",borderRadius:6,subtle:true}),fontWeight:700}}>
+                    {allSel?"Remove all":"Add all"}
+                  </button>
+                </div>
               </div>
               <div style={{display:"flex",flexWrap:"wrap",justifyContent:"center",alignItems:"stretch",gap:10,width:"100%"}}>
                 {gCats.map(id=>{const c=BANK[id];const sel=selCats.includes(id);
                   return(
-                    <div key={id} style={{width:132,flex:"0 0 132px"}}>
+                    <div key={id} style={{width:previewCardWidth,flex:`0 0 ${previewCardWidth}px`}}>
                       <CategoryPreviewCard
                         id={id}
                         category={c}
@@ -4938,9 +5486,19 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
           );
         })}
       </div>
-      <div style={{padding:"12px 16px",background:"#fff",borderTop:"1px solid #E2E8F0",display:"flex",gap:10}}>
-        <button className="tap" onClick={onBack} style={{flex:1,padding:"13px 0",borderRadius:12,border:"2px solid #E2E8F0",background:"#fff",fontWeight:700,fontSize:14,color:"#64748B"}}>&lt;- Back</button>
-        <button className="tap" onClick={()=>selCats.length>0&&usageReady&&!isSyncingUsage&&onStart(selCats)} style={{flex:3,padding:"13px 0",borderRadius:12,background:selCats.length>0&&usageReady&&!isSyncingUsage?"#1E293B":"#E2E8F0",color:selCats.length>0&&usageReady&&!isSyncingUsage?"#fff":"#94A3B8",fontWeight:800,fontSize:14}}>
+      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,padding:"12px 16px",borderTop:"1px solid #D7EAF2",display:"flex",gap:10,position:"sticky",bottom:0,zIndex:28}}>
+        <button className="tap" onClick={onBack} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:14,padding:"13px 0",borderRadius:12,subtle:true,borderWidth:2}),flex:1}}>&lt;- Back</button>
+        <button className="tap" onClick={()=>selCats.length>0&&usageReady&&!isSyncingUsage&&onStart(selCats)} style={{
+          ...getGlassButtonStyle({tint:"#2563EB",textColor:selCats.length>0&&usageReady&&!isSyncingUsage?"#0F172A":"#C7D2E4",fontSize:14,padding:"13px 0",borderRadius:12,disabled:!(selCats.length>0&&usageReady&&!isSyncingUsage)}),
+          flex:3,
+          ...(!(selCats.length>0&&usageReady&&!isSyncingUsage)?{
+            backgroundColor:"#243347",
+            backgroundImage:"linear-gradient(180deg, rgba(255,255,255,.14) 0%, rgba(255,255,255,.03) 22%, rgba(255,255,255,0) 36%), linear-gradient(135deg, #364B66 0%, #2B3E56 48%, #1D2C3F 100%)",
+            border:"2px solid rgba(255,255,255,.26)",
+            boxShadow:"0 12px 22px rgba(0,0,0,.22), inset 0 1px 0 rgba(255,255,255,.2), inset 0 -1px 0 rgba(255,255,255,.05)",
+            color:"#D7E3F3",
+          }:{})
+        }}>
           {!usageReady?"Loading account pool...":isSyncingUsage?"Syncing question pool...":selCats.length>0?`START (${selCats.length}) ->`:"Select at least 1"}
         </button>
       </div>
@@ -4948,59 +5506,76 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
   );
 }
 
-function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdjustScore}){
+function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdjustScore,themeMode}){
+  const viewport=useViewportSize();
   const allDone=Object.keys(board).length>0&&Object.keys(board).every(c=>[200,400,600].every(p=>board[c][p].every(Boolean)));
-  const catCount=Math.max(selCats.length,1);
-  const rowCount=Math.ceil(catCount / 3);
-  const categoryRows=[];
-  for(let i=0;i<selCats.length;i+=3){
-    categoryRows.push(selCats.slice(i,i+3));
-  }
-  const categoryGap=rowCount>=3?30:40;
-  const innerGap=rowCount>=3?1:2;
-  const headerFont=rowCount===1?18:15;
-  const iconSize=rowCount===1?20:17;
-  const tileFont=rowCount===1?28:22;
-  const tileRadius=rowCount===1?14:10;
-  const artRadius=rowCount===1?16:12;
-  const artColumnWidth=rowCount===1?"clamp(92px, 11vw, 126px)":rowCount===2?"clamp(78px, 10vw, 108px)":"clamp(68px, 9vw, 92px)";
+  const isPhone=viewport.width<700;
+  const isTablet=viewport.width<1100;
+  const maxPerRow=isPhone?2:3;
+  const categoryRows=buildBalancedRows(selCats,maxPerRow);
+  const rowCount=Math.max(categoryRows.length,1);
+  const compactBoard=rowCount>=2 || viewport.height<920;
+  const baseCategoryGap=isPhone?12:isTablet?15:21;
+  const categoryGapX=Math.round(baseCategoryGap*2);
+  const categoryGapY=Math.round(baseCategoryGap*1.5);
+  const headerBodyGap=isPhone?8:compactBoard?10:13;
+  const innerGap=isPhone?3:compactBoard?3:4;
+  const headerFont=isPhone?14:compactBoard?17:20;
+  const iconSize=isPhone?14:compactBoard?16:18;
+  const tileFont=isPhone?16:compactBoard?20:24;
+  const tileRadius=isPhone?7:isTablet?8:10;
+  const artRadius=isPhone?8:isTablet?9:11;
+  const artColumnWidth=isPhone?150:compactBoard?186:222;
+  const headerHeight=isPhone?40:compactBoard?46:54;
+  const bodyPadding=isPhone?8:compactBoard?10:12;
+  const boardUsableWidth=Math.max(320,(viewport.width||1280)-(bodyPadding*2));
+  const categoryWidth=Math.max(
+    isPhone?134:198,
+    Math.floor((boardUsableWidth-(categoryGapX*(maxPerRow-1)))/maxPerRow)
+  );
   const boardHeaderBg="#DCFCE7";
   const boardHeaderText="#000000";
   const boardPointBg={200:"#FFED29",400:"#FF5B00",600:"#FF000D"};
   const boardPointText={200:"#000000",400:"#000000",600:"#000000"};
+  const getRowPixelWidth=(rowLength)=>{
+    const contentWidth=(rowLength*categoryWidth)+(Math.max(0,rowLength-1)*categoryGapX);
+    return Math.min(boardUsableWidth,contentWidth);
+  };
   return(
-    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column"}}>
+    <div style={{minHeight:"100dvh",width:"100vw",maxWidth:"100vw",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",overflow:"hidden"}}>
       <style>{CSS}</style>
-      <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore}/>
-      <div style={{flex:1,minHeight:0,padding:12,display:"flex",flexDirection:"column"}}>
-        <div style={{height:10,borderTop:"2px solid #DBEAFE",borderRadius:"999px 999px 0 0",margin:"0 6px 12px"}}/>
-        <div style={{flex:1,minHeight:0,display:"flex",flexDirection:"column",gap:categoryGap}}>
+      <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
+      <div style={{flex:1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:"hidden"}}>
+        <div style={{height:8,borderTop:"2px solid #DBEAFE",borderRadius:"999px 999px 0 0",margin:"0 6px 10px"}}/>
+        <div style={{flex:1,minHeight:0,display:"grid",gridTemplateRows:`repeat(${rowCount}, minmax(0,1fr))`,gap:categoryGapY,alignItems:"stretch"}}>
           {categoryRows.map((row,rowIdx)=>(
-            <div key={rowIdx} style={{flex:1,minHeight:0,display:"grid",gridTemplateColumns:`repeat(${row.length}, minmax(0, 1fr))`,gap:categoryGap}}>
-              {row.map(catId=>{
-                const c=BANK[catId];if(!c)return null;
-                return(
-                  <div key={catId} style={{minWidth:0,minHeight:0,display:"grid",gridTemplateRows:"minmax(60px,auto) minmax(0,1fr)",gap:innerGap}}>
-                    <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",textAlign:"center",padding:"8px 6px",background:boardHeaderBg,borderRadius:tileRadius,border:"2.5px solid #0F172A",minWidth:0}}>
-                      <div style={{fontSize:iconSize,lineHeight:1,marginBottom:4}}>{c.icon}</div>
-                      <div style={{fontSize:headerFont,fontWeight:800,color:boardHeaderText,lineHeight:1.1,wordBreak:"break-word"}}>{c.label}</div>
-                    </div>
-                    <div style={{display:"grid",gridTemplateColumns:`minmax(0,1fr) ${artColumnWidth} minmax(0,1fr)`,gridTemplateRows:"repeat(3, minmax(0,1fr))",columnGap:0,rowGap:innerGap,minHeight:0}}>
-                      <div style={{gridColumn:2,gridRow:"1 / span 3",minWidth:0,minHeight:0}}>
-                        <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
+            <div key={rowIdx} style={{width:"100%",minHeight:0,display:"flex",justifyContent:"center",alignItems:"stretch"}}>
+              <div style={{width:getRowPixelWidth(row.length),maxWidth:"100%",minHeight:0,display:"grid",gridTemplateColumns:`repeat(${row.length}, minmax(0,1fr))`,columnGap:categoryGapX,rowGap:categoryGapY}}>
+                {row.map(catId=>{
+                  const c=BANK[catId];if(!c)return null;
+                  return(
+                    <div key={catId} style={{minWidth:0,minHeight:0,height:"100%",display:"grid",gridTemplateRows:`${headerHeight}px minmax(0,1fr)`,gap:headerBodyGap}}>
+                      <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",textAlign:"center",padding:"4px",background:boardHeaderBg,borderRadius:tileRadius,border:"2.5px solid #0F172A",minWidth:0}}>
+                        <div style={{fontSize:iconSize,lineHeight:1,marginBottom:2}}>{c.icon}</div>
+                        <div style={{fontSize:headerFont,fontWeight:800,color:boardHeaderText,lineHeight:1.1,wordBreak:"break-word"}}>{c.label}</div>
                       </div>
-                      {[200,400,600].map((pts,rowIndex)=>(
-                        (board[catId]?.[pts]||[false,false]).map((used,idx)=>(
-                          <button key={`${pts}-${idx}`} className={used?"":"tap"} onClick={()=>!used&&onPick(catId,pts,idx)}
-                            style={{gridColumn:idx===0?1:3,gridRow:rowIndex+1,width:"100%",height:"100%",minWidth:0,minHeight:0,padding:"8px 2px",borderRadius:tileRadius,border:"1.5px solid #0F172A",background:used?"#E2E8F0":boardPointBg[pts],color:used?"#94A3B8":boardPointText[pts],fontFamily:SF_STACK,fontWeight:900,fontSize:tileFont,cursor:used?"default":"pointer",opacity:used?0.8:1,display:"flex",alignItems:"center",justifyContent:"center",boxShadow:"none"}}>
-                            {used?"✓":pts}
-                          </button>
-                        ))
-                      ))}
+                      <div style={{display:"grid",gridTemplateColumns:`minmax(0,1fr) ${artColumnWidth}px minmax(0,1fr)`,gridTemplateRows:"repeat(3, minmax(0,1fr))",columnGap:0,rowGap:innerGap,minHeight:0}}>
+                        <div style={{gridColumn:2,gridRow:"1 / span 3",minWidth:0,minHeight:0}}>
+                          <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
+                        </div>
+                        {[200,400,600].map((pts,rowIndex)=>(
+                          (board[catId]?.[pts]||[false,false]).map((used,idx)=>(
+                            <button key={`${pts}-${idx}`} className={used?"":"tap"} onClick={()=>!used&&onPick(catId,pts,idx)}
+                              style={{gridColumn:idx===0?1:3,gridRow:rowIndex+1,width:"100%",height:"100%",minWidth:0,minHeight:0,padding:"6px 2px",borderRadius:tileRadius,border:"1.5px solid #0F172A",background:used?"linear-gradient(135deg, rgba(255,255,255,.85) 0%, rgba(226,232,240,.92) 100%)":getGlassTileBackground(boardPointBg[pts]),color:used?"#94A3B8":boardPointText[pts],fontFamily:SF_STACK,fontWeight:900,fontSize:tileFont,cursor:used?"default":"pointer",opacity:used?0.8:1,display:"flex",alignItems:"center",justifyContent:"center",boxShadow:used?"0 8px 14px rgba(148,163,184,.12), inset 0 1px 0 rgba(255,255,255,.5)":"0 10px 18px rgba(15,23,42,.1), inset 0 1px 0 rgba(255,255,255,.5)",backdropFilter:"blur(12px) saturate(150%)",WebkitBackdropFilter:"blur(12px) saturate(150%)"}}>
+                              {used?"✓":pts}
+                            </button>
+                          ))
+                        ))}
+                      </div>
                     </div>
-                  </div>
-                );
-              })}
+                  );
+                })}
+              </div>
             </div>
           ))}
         </div>
@@ -5011,18 +5586,18 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
 
 function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass}){
   return(
-    <div className="fadein" style={{display:"flex",flexDirection:"column",gap:10,width:"100%",maxWidth:660}}>
-      <div style={{fontSize:12,fontWeight:800,color:"#64748B",letterSpacing:1.1,textAlign:"center"}}>AWARD POINTS TO:</div>
-      <div style={{display:"flex",gap:8}}>
+    <div className="fadein" style={{display:"flex",flexDirection:"column",gap:7,width:"100%",maxWidth:520}}>
+      <div style={{fontSize:10,fontWeight:800,color:"#64748B",letterSpacing:1.05,textAlign:"center"}}>AWARD POINTS TO:</div>
+      <div style={{display:"flex",gap:7}}>
         {teams.map((t,i)=>(
-          <button key={i} className="tap" onClick={()=>onAward(i,tile.pts)} style={{flex:1,padding:"16px 10px",borderRadius:16,background:TEAM_COLORS[i],color:"#fff",fontWeight:800,fontSize:16,lineHeight:1.3,boxShadow:`0 16px 28px ${withAlpha(TEAM_COLORS[i],"30")}`}}>
-            {t}<br/><span style={{fontSize:13,opacity:.88}}>+{tile.pts}</span>
+          <button key={i} className="tap" onClick={()=>onAward(i,tile.pts)} style={{...getGlassButtonStyle({tint:TEAM_COLORS[i],textColor:"#0F172A",fontSize:14,padding:"11px 10px",borderRadius:16}),flex:1,lineHeight:1.24}}>
+            {t}<br/><span style={{fontSize:11,opacity:.88}}>+{tile.pts}</span>
           </button>
         ))}
       </div>
-      <div style={{display:"flex",gap:8}}>
-        <button className="tap" onClick={onWrong} style={{flex:1,padding:"13px 10px",borderRadius:16,background:"#FFF1F2",color:"#E11D48",fontWeight:700,fontSize:14,border:"1.5px solid #FECDD3"}}>Wrong (-{Math.round(tile.pts/2)} from {teams[curTeam]})</button>
-        <button className="tap" onClick={onPass} style={{flex:1,padding:"13px 10px",borderRadius:16,background:"#F8FAFC",color:"#64748B",fontWeight:700,fontSize:14,border:"1.5px solid #E2E8F0"}}>Pass</button>
+      <div style={{display:"flex",gap:7}}>
+        <button className="tap" onClick={onWrong} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Wrong (-{Math.round(tile.pts/2)} from {teams[curTeam]})</button>
+        <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Pass</button>
       </div>
     </div>
   );
@@ -5126,7 +5701,9 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
 });
 
 const QUESTION_SCREEN_STYLE={
+  height:"100dvh",
   minHeight:"100dvh",
+  maxHeight:"100dvh",
   ...SITE_BACKGROUND_STYLE,
   display:"flex",
   flexDirection:"column",
@@ -5137,35 +5714,49 @@ const QUESTION_SCREEN_STYLE={
 const QUESTION_BODY_CENTER_STYLE={
   position:"relative",
   flex:1,
+  minHeight:0,
   display:"flex",
   flexDirection:"column",
   alignItems:"center",
-  justifyContent:"center",
-  padding:"104px 24px 54px",
-  gap:24,
-  overflowY:"auto",
+  justifyContent:"flex-start",
+  padding:"0 clamp(14px, 3.2vw, 24px) clamp(18px, 3.2vh, 28px)",
+  gap:"clamp(10px, 1.8vw, 16px)",
+  overflow:"hidden",
 };
 
 const QUESTION_BODY_SCROLL_STYLE={
   position:"relative",
   flex:1,
-  overflowY:"auto",
+  minHeight:0,
   display:"flex",
   flexDirection:"column",
   alignItems:"center",
-  padding:"104px 24px 54px",
-  gap:24,
+  padding:"0 clamp(14px, 3.2vw, 24px) clamp(18px, 3.2vh, 28px)",
+  gap:"clamp(10px, 1.8vw, 16px)",
+  overflow:"hidden",
 };
 
 const QUESTION_STAGE_STYLE={
   position:"relative",
   width:"100%",
-  maxWidth:980,
+  maxWidth:920,
   display:"flex",
   flexDirection:"column",
   alignItems:"center",
-  gap:24,
+  justifyContent:"flex-start",
+  gap:"clamp(8px, 1.5vw, 14px)",
+  paddingTop:"clamp(6px, .8vh, 12px)",
   zIndex:1,
+};
+
+const QUESTION_TIMER_SLOT_STYLE={
+  width:"100%",
+  minHeight:"clamp(188px, 21vh, 220px)",
+  display:"flex",
+  alignItems:"center",
+  justifyContent:"center",
+  marginBottom:"clamp(16px, 2.2vh, 26px)",
+  flex:"0 0 auto",
 };
 
 const QUESTION_HINT_STYLE={
@@ -5177,23 +5768,26 @@ const QUESTION_HINT_STYLE={
 };
 
 const QUESTION_PRIMARY_BUTTON_STYLE={
-  background:"#1E293B",
-  color:"#fff",
-  fontWeight:800,
-  fontSize:18,
-  padding:"18px 42px",
-  borderRadius:18,
-  boxShadow:"0 16px 32px rgba(15,23,42,.18)",
+  ...getGlassButtonStyle({
+    tint:"#2563EB",
+    textColor:"#0F172A",
+    fontWeight:900,
+    fontSize:18,
+    padding:"18px 42px",
+    borderRadius:18,
+  }),
 };
 
 const QUESTION_SECONDARY_BUTTON_STYLE={
-  background:"#F1F5F9",
-  color:"#475569",
-  fontWeight:700,
-  fontSize:14,
-  padding:"14px 24px",
-  borderRadius:14,
-  border:"1.5px solid #E2E8F0",
+  ...getGlassButtonStyle({
+    tint:"#7C3AED",
+    textColor:"#334155",
+    fontWeight:800,
+    fontSize:14,
+    padding:"14px 24px",
+    borderRadius:14,
+    subtle:true,
+  }),
 };
 
 const QUESTION_ACTION_ROW_STYLE={
@@ -5211,15 +5805,46 @@ const QUESTION_BACK_BUTTON_WRAP_STYLE={
   marginTop:14,
 };
 
-const QUESTION_TIMER_WRAP_STYLE={
-  width:"100%",
-  display:"flex",
-  justifyContent:"center",
-  marginTop:-104,
-  marginBottom:-8,
-  zIndex:6,
-  pointerEvents:"none",
-};
+const QUESTION_TIMER_SIZE=156;
+
+function useViewportSize(){
+  const getSize=()=>({
+    width: typeof window!=="undefined" ? window.innerWidth : 1440,
+    height: typeof window!=="undefined" ? window.innerHeight : 900,
+  });
+  const [size,setSize]=useState(getSize);
+
+  useEffect(()=>{
+    const update=()=>setSize(getSize());
+    window.addEventListener("resize",update);
+    window.addEventListener("orientationchange",update);
+    return()=>{
+      window.removeEventListener("resize",update);
+      window.removeEventListener("orientationchange",update);
+    };
+  },[]);
+
+  return size;
+}
+
+function buildBalancedRows(items,maxPerRow){
+  const safeItems=Array.isArray(items)?items:[];
+  const safeMax=Math.max(1,maxPerRow||1);
+  const rowCount=Math.max(1,Math.ceil(Math.max(safeItems.length,1)/safeMax));
+  const baseRowSize=Math.floor(Math.max(safeItems.length,1)/rowCount);
+  const extraItems=Math.max(safeItems.length,1)%rowCount;
+  const rows=[];
+  let cursor=0;
+
+  for(let rowIdx=0;rowIdx<rowCount;rowIdx+=1){
+    const rowSize=baseRowSize+(rowIdx<extraItems?1:0);
+    const row=safeItems.slice(cursor,cursor+rowSize);
+    if(row.length) rows.push(row);
+    cursor+=rowSize;
+  }
+
+  return rows.length>0?rows:[[]];
+}
 
 function getQuestionTimerSeconds(tile){
   if(!tile) return 60;
@@ -5245,6 +5870,88 @@ function lightenHex(hex, amount=0.45){
   return `#${mix(r)}${mix(g)}${mix(b)}`;
 }
 
+function getGlassButtonStyle({
+  tint="#7C3AED",
+  textColor="#0F172A",
+  padding="12px 20px",
+  borderRadius=16,
+  fontSize=15,
+  fontWeight=800,
+  minHeight,
+  width,
+  height,
+  subtle=false,
+  disabled=false,
+  borderWidth=1.5,
+  selected=false,
+  ringColor,
+}={}){
+  const glow=lightenHex(tint,0.52);
+  const bright=lightenHex(tint,0.34);
+  const soft=lightenHex(tint,0.2);
+  const deep=lightenHex(tint,0.02);
+  return{
+    backdropFilter:"none",
+    WebkitBackdropFilter:"none",
+    backgroundBlendMode:"screen, screen, normal, normal",
+    background:disabled
+      ?"linear-gradient(135deg, #F8FAFC 0%, #E2E8F0 100%)"
+      :subtle
+        ?`linear-gradient(155deg, rgba(255,255,255,.68) 0%, rgba(255,255,255,.24) 34%, rgba(255,255,255,.08) 100%),
+           radial-gradient(circle at 22% 18%, ${withAlpha(glow,"F0")} 0%, ${withAlpha(glow,"66")} 22%, transparent 48%),
+           radial-gradient(circle at 82% 84%, ${withAlpha(deep,"D0")} 0%, ${withAlpha(deep,"54")} 22%, transparent 46%),
+           linear-gradient(135deg, ${soft} 0%, ${bright} 52%, ${deep} 100%)`
+        :`linear-gradient(155deg, rgba(255,255,255,.78) 0%, rgba(255,255,255,.28) 28%, rgba(255,255,255,.08) 100%),
+           radial-gradient(circle at 20% 16%, ${withAlpha(glow,"FF")} 0%, ${withAlpha(glow,"78")} 24%, transparent 50%),
+           radial-gradient(circle at 84% 84%, ${withAlpha(deep,"F2")} 0%, ${withAlpha(deep,"5C")} 22%, transparent 48%),
+           linear-gradient(135deg, ${soft} 0%, ${bright} 56%, ${deep} 100%)`,
+    border:`${borderWidth}px solid ${disabled?"#CBD5E1":"rgba(255,255,255,.92)"}`,
+    boxShadow:disabled
+      ?"0 10px 20px rgba(15,23,42,.08), inset 0 1px 0 rgba(255,255,255,.8)"
+      :`${selected?`0 0 0 3px ${(ringColor||withAlpha(glow,"E8"))}, `:""}0 18px 34px ${withAlpha(deep, subtle?"24":"46")}, 0 8px 18px ${withAlpha(tint, subtle?"24":"3A")}, inset 0 1px 0 rgba(255,255,255,.9), inset 0 -1px 0 rgba(255,255,255,.12), inset 0 -14px 30px rgba(0,0,0,.08)`,
+    color:textColor,
+    padding,
+    borderRadius,
+    fontSize,
+    fontWeight,
+    minHeight,
+    width,
+    height,
+  };
+}
+
+function getGlassCircleButtonStyle({tint="#2563EB",size=34,fontSize=22,textColor="#0F172A"}={}){
+  return{
+    ...getGlassButtonStyle({
+      tint,
+      textColor,
+      padding:0,
+      borderRadius:999,
+      fontSize,
+      fontWeight:900,
+      width:size,
+      height:size,
+      subtle:true,
+      borderWidth:2,
+    }),
+    display:"flex",
+    alignItems:"center",
+    justifyContent:"center",
+    lineHeight:1,
+  };
+}
+
+function getGlassTileBackground(baseHex){
+  const glow=lightenHex(baseHex,0.44);
+  const bright=lightenHex(baseHex,0.26);
+  const soft=lightenHex(baseHex,0.14);
+  const deep=lightenHex(baseHex,0.02);
+  return `linear-gradient(155deg, rgba(255,255,255,.76) 0%, rgba(255,255,255,.26) 30%, rgba(255,255,255,.06) 100%),
+    radial-gradient(circle at 20% 16%, ${withAlpha(glow,"F6")} 0%, ${withAlpha(glow,"72")} 24%, transparent 48%),
+    radial-gradient(circle at 84% 84%, ${withAlpha(deep,"EC")} 0%, ${withAlpha(deep,"54")} 22%, transparent 46%),
+    linear-gradient(135deg, ${soft} 0%, ${bright} 56%, ${deep} 100%)`;
+}
+
 function QuestionDecor({accent="#A855F7"}){
   return(
     <>
@@ -5255,36 +5962,93 @@ function QuestionDecor({accent="#A855F7"}){
   );
 }
 
-function QuestionTimer({tile,paused=false}){
+const QUESTION_TIMER_START_BUTTON_STYLE={
+  ...getGlassButtonStyle({
+    tint:"#2563EB",
+    textColor:"#0F172A",
+    padding:"4px 11px",
+    borderRadius:999,
+    fontSize:10,
+    fontWeight:900,
+    subtle:false,
+  }),
+  minHeight:24,
+  lineHeight:1,
+  textTransform:"uppercase",
+  letterSpacing:.7,
+};
+
+const QUESTION_TIMER_RESET_BUTTON_STYLE={
+  ...getGlassButtonStyle({
+    tint:"#14B8A6",
+    textColor:"#0F172A",
+    padding:"3px 10px",
+    borderRadius:999,
+    fontSize:9,
+    fontWeight:900,
+    subtle:false,
+  }),
+  minHeight:20,
+  lineHeight:1,
+  textTransform:"uppercase",
+  letterSpacing:.7,
+};
+
+function QuestionTimer({tile,paused=false,manualStart=false}){
   const totalSeconds=getQuestionTimerSeconds(tile);
   const totalMs=totalSeconds*1000;
   const [remainingMs,setRemainingMs]=useState(totalMs);
+  const [started,setStarted]=useState(!manualStart);
+  const [overrideRunning,setOverrideRunning]=useState(false);
   const timerKey=`${tile?.catId||"q"}:${tile?.pts||0}:${tile?._qkey||tile?.q||""}`;
   const displaySeconds=Math.max(0,Math.ceil(remainingMs/1000));
   const progress=totalMs>0?Math.max(0,Math.min(1,remainingMs/totalMs)):0;
-  const size=156;
+  const size=QUESTION_TIMER_SIZE;
   const stroke=14;
   const radius=(size-stroke)/2;
   const circumference=2*Math.PI*radius;
   const dashOffset=circumference*(1-progress);
   const gradientId=`timerGrad-${String(timerKey).replace(/[^a-z0-9_-]/gi,"")}`;
+  const isStoppedByParent=paused && !overrideRunning;
 
   useEffect(()=>{
     setRemainingMs(totalMs);
-  },[totalMs,timerKey]);
+    setStarted(!manualStart);
+    setOverrideRunning(false);
+  },[totalMs,timerKey,manualStart]);
 
   useEffect(()=>{
-    if(paused||remainingMs<=0) return;
+    if(!started||isStoppedByParent||remainingMs<=0) return;
     const id=setInterval(()=>{
       setRemainingMs(prev=>Math.max(0,prev-100));
     },100);
     return()=>clearInterval(id);
-  },[paused,remainingMs,timerKey]);
+  },[started,isStoppedByParent,remainingMs,timerKey]);
+
+  useEffect(()=>{
+    if(remainingMs<=0) setOverrideRunning(false);
+  },[remainingMs]);
+
+  const handleReset=()=>{
+    setRemainingMs(totalMs);
+    if(manualStart){
+      setStarted(false);
+      setOverrideRunning(false);
+      return;
+    }
+    setStarted(true);
+    setOverrideRunning(true);
+  };
+
+  const handleStart=()=>{
+    setStarted(true);
+    setOverrideRunning(true);
+  };
 
   return(
-    <div style={{position:"relative",zIndex:6,pointerEvents:"none"}}>
+    <div style={{position:"relative",zIndex:6,pointerEvents:"auto"}}>
       <div style={{position:"relative",width:size,height:size,borderRadius:"50%",display:"flex",alignItems:"center",justifyContent:"center",background:"rgba(255,255,255,.92)",boxShadow:"0 16px 36px rgba(15,23,42,.14)",backdropFilter:"blur(2px)"}}>
-        <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{position:"absolute",inset:0,transform:"rotate(-90deg)"}}>
+        <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{position:"absolute",inset:0,transform:"rotate(-90deg)",pointerEvents:"none"}}>
           <defs>
             <linearGradient id={gradientId} x1="0%" y1="0%" x2="100%" y2="100%">
               <stop offset="0%" stopColor="#2DD4BF"/>
@@ -5294,10 +6058,30 @@ function QuestionTimer({tile,paused=false}){
           <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke="rgba(148,163,184,.28)" strokeWidth={stroke}/>
           <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke={`url(#${gradientId})`} strokeWidth={stroke} strokeLinecap="round" strokeDasharray={circumference} strokeDashoffset={dashOffset}/>
         </svg>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:2,textAlign:"center"}}>
-          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:46,lineHeight:1,color:"#0F172A"}}>{displaySeconds}</div>
-          <div style={{fontSize:12,fontWeight:800,letterSpacing:1.2,color:"#64748B",textTransform:"uppercase"}}>Seconds</div>
+        <button
+          type="button"
+          className="tap"
+          onClick={handleReset}
+          style={{...QUESTION_TIMER_RESET_BUTTON_STYLE,position:"absolute",top:18,left:"50%",transform:"translateX(-50%)",zIndex:2}}
+        >
+          Reset
+        </button>
+        <div style={{position:"absolute",inset:0,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:2,textAlign:"center",pointerEvents:"none"}}>
+          <div style={{height:24}}/>
+          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:42,lineHeight:1,color:"#0F172A"}}>{displaySeconds}</div>
+          <div style={{fontSize:11,fontWeight:800,letterSpacing:1.1,color:"#64748B",textTransform:"uppercase"}}>Seconds</div>
+          <div style={{height:24}}/>
         </div>
+        {manualStart && !started && remainingMs>0 && (
+          <button
+            type="button"
+            className="tap"
+            onClick={handleStart}
+            style={{...QUESTION_TIMER_START_BUTTON_STYLE,position:"absolute",bottom:16,left:"50%",transform:"translateX(-50%)",zIndex:2}}
+          >
+            Start
+          </button>
+        )}
       </div>
     </div>
   );
@@ -5340,11 +6124,11 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_CENTER_STYLE}>
-        <div style={QUESTION_TIMER_WRAP_STYLE}>
-          <QuestionTimer tile={tile} paused={showAns}/>
-        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
+          <div style={QUESTION_TIMER_SLOT_STYLE}>
+            <QuestionTimer tile={tile} paused={showAns}/>
+          </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
@@ -5393,11 +6177,11 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
-        <div style={QUESTION_TIMER_WRAP_STYLE}>
-          <QuestionTimer tile={tile} paused={showAns}/>
-        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
+          <div style={QUESTION_TIMER_SLOT_STYLE}>
+            <QuestionTimer tile={tile} paused={showAns}/>
+          </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{catLabel}</div>
@@ -5433,11 +6217,11 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
-        <div style={QUESTION_TIMER_WRAP_STYLE}>
-          <QuestionTimer tile={tile} paused={showAns}/>
-        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
+          <div style={QUESTION_TIMER_SLOT_STYLE}>
+            <QuestionTimer tile={tile} paused={showAns}/>
+          </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{"\u{1F5FA}\uFE0F"}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>Country Map</div>
@@ -5471,11 +6255,11 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
-        <div style={QUESTION_TIMER_WRAP_STYLE}>
-          <QuestionTimer tile={tile} paused={showAns}/>
-        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
+          <div style={QUESTION_TIMER_SLOT_STYLE}>
+            <QuestionTimer tile={tile} paused={showAns}/>
+          </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
@@ -5509,11 +6293,11 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_SCROLL_STYLE}>
-        <div style={QUESTION_TIMER_WRAP_STYLE}>
-          <QuestionTimer tile={tile} paused={showAns}/>
-        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
+          <div style={QUESTION_TIMER_SLOT_STYLE}>
+            <QuestionTimer tile={tile} paused={showAns}/>
+          </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
@@ -5548,19 +6332,19 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
       <div style={QUESTION_BODY_CENTER_STYLE}>
-        <div style={QUESTION_TIMER_WRAP_STYLE}>
-          <QuestionTimer tile={tile} paused={false}/>
-        </div>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
+          <div style={QUESTION_TIMER_SLOT_STYLE}>
+            <QuestionTimer tile={tile} paused={false} manualStart/>
+          </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
-          <QuestionPanel maxWidth={520} padding="28px 28px 30px">
-            <div style={{fontSize:13,fontWeight:800,color:"#64748B",letterSpacing:1.2,marginBottom:14}}>ACTOR - SCAN QR TO GOOGLE YOUR WORD</div>
-            <QRCode text={qrSearchUrl} size={220}/>
+          <QuestionPanel maxWidth={470} padding="22px 22px 24px">
+            <div style={{fontSize:12,fontWeight:800,color:"#64748B",letterSpacing:1.1,marginBottom:12}}>ACTOR - SCAN QR TO GOOGLE YOUR WORD</div>
+            <QRCode text={qrSearchUrl} size={180}/>
           </QuestionPanel>
           {showWord?(
             <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
@@ -5603,8 +6387,8 @@ function GameOverScreen({teams,scores,onRematch,onNewGame}){
         ))}
       </div>
       <div style={{width:"100%",maxWidth:320,display:"flex",flexDirection:"column",gap:9}}>
-        <button className="tap" onClick={onRematch} style={{padding:"13px",borderRadius:12,background:"#1E293B",color:"#fff",fontWeight:800,fontSize:15}}>{"\u{1F504} REMATCH"}</button>
-        <button className="tap" onClick={onNewGame} style={{padding:"13px",borderRadius:12,background:"#fff",color:"#1E293B",fontWeight:700,fontSize:14,border:"2px solid #E2E8F0"}}>New Game</button>
+        <button className="tap" onClick={onRematch} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#0F172A",fontSize:15,padding:"13px",borderRadius:12})}>{"\u{1F504} REMATCH"}</button>
+        <button className="tap" onClick={onNewGame} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#1E293B",fontWeight:700,fontSize:14,padding:"13px",borderRadius:12,subtle:true,borderWidth:2})}>New Game</button>
       </div>
     </div>
   );
