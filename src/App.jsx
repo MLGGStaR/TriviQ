@@ -5622,6 +5622,7 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
 
 function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdjustScore,themeMode}){
   const viewport=useViewportSize();
+  const isTouch=useIsTouchDevice();
   const allDone=Object.keys(board).length>0&&Object.keys(board).every(c=>[200,400,600].every(p=>board[c][p].every(Boolean)));
   const isPhone=viewport.width<700;
   const isTablet=viewport.width<1100;
@@ -5661,10 +5662,10 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
     return Math.min(boardUsableWidth,contentWidth);
   };
   return(
-    <div className="scroll-on-touch" style={{minHeight:"100dvh",width:"100vw",maxWidth:"100vw",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",overflow:"hidden"}}>
+    <div style={{minHeight:"100dvh",width:"100vw",maxWidth:"100vw",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",overflow:isTouch?"visible":"hidden",height:isTouch?"auto":undefined}}>
       <style>{CSS}</style>
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
-      <div className="scroll-on-touch-inner" style={{flex:1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:"hidden"}}>
+      <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:isTouch?"visible":"hidden"}}>
         <div style={{height:8,borderTop:"2px solid #DBEAFE",borderRadius:"999px 999px 0 0",margin:"0 6px 10px"}}/>
         <div style={{flex:1,minHeight:0,display:"grid",gridTemplateRows:`repeat(${rowCount}, minmax(0,1fr))`,gap:categoryGapY,alignItems:"stretch"}}>
           {categoryRows.map((row,rowIdx)=>(
@@ -5928,7 +5929,35 @@ const QUESTION_BACK_BUTTON_WRAP_STYLE={
   marginTop:14,
 };
 
+const TOUCH_SCREEN_STYLE_OVERRIDE={
+  height:"auto",
+  minHeight:"100dvh",
+  maxHeight:"none",
+  overflow:"visible",
+};
+const TOUCH_BODY_STYLE_OVERRIDE={
+  overflow:"visible",
+  minHeight:0,
+  flex:"0 0 auto",
+};
+
 const QUESTION_TIMER_SIZE=156;
+
+function useIsTouchDevice(){
+  const get=()=>{
+    if(typeof window==="undefined") return false;
+    if(window.matchMedia && window.matchMedia("(hover: none) and (pointer: coarse)").matches) return true;
+    if(window.matchMedia && window.matchMedia("(pointer: coarse)").matches) return true;
+    if("ontouchstart" in window) return true;
+    if(typeof navigator!=="undefined" && navigator.maxTouchPoints>0) return true;
+    return false;
+  };
+  const [is,setIs]=useState(get);
+  useEffect(()=>{
+    setIs(get());
+  },[]);
+  return is;
+}
 
 function useViewportSize(){
   const getSize=()=>({
@@ -6237,16 +6266,17 @@ function QuestionPanel({children,maxWidth=760,padding="clamp(20px,4vw,42px) clam
 }
 
 function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+  const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
   const isEmojiGuess = Boolean(BANK[tile.catId]?.isEmojiGuess);
   const displayQuestion = formatQuestionForDisplay(tile.q);
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
+    <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div className="scroll-on-touch-inner" style={QUESTION_BODY_CENTER_STYLE}>
+      <div style={isTouch?{...QUESTION_BODY_CENTER_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_CENTER_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6292,14 +6322,15 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
 
 // Who Am I - image-based character prompt
 function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+  const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const catLabel=BANK[tile.catId].label;
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
+    <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
+      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6333,13 +6364,14 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
 
 // Country Map - local world-map SVG asset
 function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+  const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
+    <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
+      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6371,13 +6403,14 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
 }
 
 function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+  const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
+    <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
+      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6409,13 +6442,14 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
 }
 
 function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+  const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
+    <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
+      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6448,13 +6482,14 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
 }
 
 function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+  const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const qrSearchUrl=`https://www.google.com/search?q=${encodeURIComponent(tile.a)}`;
   return(
-    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
+    <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div className="scroll-on-touch-inner" style={QUESTION_BODY_CENTER_STYLE}>
+      <div style={isTouch?{...QUESTION_BODY_CENTER_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_CENTER_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
