@@ -4611,26 +4611,19 @@ const CSS=`
   @keyframes fadein{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
   ::-webkit-scrollbar{width:4px;height:4px;}
   ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
-  /* Touch devices (phones, tablets, iPads) — allow vertical scrolling. */
-  @media (hover: none) and (pointer: coarse){
-    html,body,#root{
-      height:auto;
-      min-height:100%;
-      overflow-y:auto;
-      -webkit-overflow-scrolling:touch;
-    }
-    .scroll-on-touch{
-      height:auto !important;
-      min-height:100dvh !important;
-      max-height:none !important;
-      overflow:visible !important;
-      overflow-y:visible !important;
-    }
-    .scroll-on-touch-inner{
-      overflow:visible !important;
-      overflow-y:visible !important;
-      min-height:0 !important;
-    }
+  /* Touch devices: <html class="touch-device"> is set at runtime by App. */
+  html.touch-device,
+  html.touch-device body,
+  html.touch-device #root{
+    height:auto !important;
+    min-height:100% !important;
+    max-height:none !important;
+    overflow-y:auto !important;
+    -webkit-overflow-scrolling:touch;
+  }
+  html.touch-device #root > div{
+    /* Allow top-level screens to grow */
+    overflow:visible !important;
   }
 `;
 
@@ -4664,6 +4657,52 @@ export default function App(){
   const initialQuestionUsageSnapshot=getCachedQuestionUsageSnapshot(initialAccountSession?.user?.id);
   const [themeMode,setThemeMode]=useState(getInitialThemeMode);
   const [language,setLanguage]=useState(getInitialLanguage);
+  // Mark <html> with touch-device class for reliable mobile-scroll CSS overrides.
+  useEffect(()=>{
+    if(typeof window==="undefined") return;
+    const detect=()=>{
+      try{
+        if(window.matchMedia&&window.matchMedia("(hover: none) and (pointer: coarse)").matches) return true;
+        if(window.matchMedia&&window.matchMedia("(pointer: coarse)").matches) return true;
+        if("ontouchstart" in window) return true;
+        if(navigator&&navigator.maxTouchPoints>0) return true;
+      }catch{}
+      return false;
+    };
+    const apply=()=>{
+      const isTouch=detect();
+      const html=document.documentElement;
+      const body=document.body;
+      if(isTouch){
+        html.classList.add("touch-device");
+        // Force overrides directly on the elements in case stylesheet isn't applied yet.
+        html.style.height="auto";
+        html.style.minHeight="100%";
+        html.style.overflowY="auto";
+        if(body){
+          body.style.height="auto";
+          body.style.minHeight="100%";
+          body.style.overflowY="auto";
+          body.style.webkitOverflowScrolling="touch";
+        }
+        const root=document.getElementById("root");
+        if(root){
+          root.style.height="auto";
+          root.style.minHeight="100%";
+          root.style.overflow="visible";
+        }
+      }else{
+        html.classList.remove("touch-device");
+      }
+    };
+    apply();
+    window.addEventListener("resize",apply);
+    window.addEventListener("orientationchange",apply);
+    return()=>{
+      window.removeEventListener("resize",apply);
+      window.removeEventListener("orientationchange",apply);
+    };
+  },[]);
   const translationOriginalsRef=useRef(typeof window!=="undefined"?new WeakMap():null);
   useEffect(()=>{
     if(typeof document==="undefined") return;
