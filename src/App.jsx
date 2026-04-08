@@ -4585,6 +4585,7 @@ const CSS=`
     height:100%;
     max-width:100vw;
     overflow-x:hidden;
+    overflow-y:hidden;
     -webkit-text-size-adjust:100%;
     text-size-adjust:100%;
     overscroll-behavior:none;
