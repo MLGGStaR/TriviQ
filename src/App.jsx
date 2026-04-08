@@ -4583,6 +4583,10 @@ const CSS=`
   html,body,#root{
     width:100%;
     height:100%;
+    max-width:100vw;
+    overflow-x:hidden;
+    -webkit-text-size-adjust:100%;
+    text-size-adjust:100%;
     overscroll-behavior:none;
     background-color:var(--site-bg-color);
     background-image:var(--site-bg-image);
@@ -5187,86 +5191,127 @@ export default function App(){
 }
 
 function ScoreBar({teams,scores,curTeam,onAdjustScore}){
+  const viewport=useViewportSize();
+  const isPhone=viewport.width<700;
+  const padX=isPhone?8:16;
+  const pillFont=isPhone?11:13;
+  const pillPad=isPhone?"4px 8px":"6px 14px";
+  const pillMinW=isPhone?0:92;
+  const btnSize=isPhone?22:28;
+  const btnFont=isPhone?14:18;
+  const scoreFont=isPhone?20:26;
+  const scoreMinW=isPhone?28:40;
+  const innerGap=isPhone?5:8;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",alignItems:"center",justifyContent:"space-between",padding:"10px 16px",borderBottom:"1px solid #D7EAF2",minHeight:54}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",alignItems:"center",justifyContent:"space-between",padding:`${isPhone?6:10}px ${padX}px`,borderBottom:"1px solid #D7EAF2",minHeight:isPhone?44:54,maxWidth:"100vw",overflow:"hidden"}}>
       {teams.map((t,i)=>(
-        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,gap:8}}>
+        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,minWidth:0,gap:isPhone?4:8}}>
           <div style={{
-            fontSize:13,
+            fontSize:pillFont,
             fontWeight:900,
             color:i===curTeam?"#fff":TEAM_COLORS[i],
-            letterSpacing:1.2,
+            letterSpacing:isPhone?.6:1.2,
             textTransform:"uppercase",
             background:i===curTeam?TEAM_COLORS[i]:"transparent",
             border:`2px solid ${TEAM_COLORS[i]}`,
             borderRadius:999,
-            padding:"6px 14px",
+            padding:pillPad,
             boxShadow:i===curTeam?`0 10px 18px ${withAlpha(TEAM_COLORS[i],"30")}`:"none",
             textAlign:"center",
-            minWidth:92,
+            minWidth:pillMinW,
+            maxWidth:"100%",
+            whiteSpace:"nowrap",
+            overflow:"hidden",
+            textOverflow:"ellipsis",
           }}>{t}</div>
-          <div style={{display:"flex",alignItems:"center",gap:8}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i],size:28,fontSize:18})}><span style={{position:"relative",top:-1}}>-</span></button>
-            <div style={{fontSize:26,fontWeight:900,color:i===curTeam?TEAM_COLORS[i]:"#94A3B8",fontFamily:SF_STACK,minWidth:40,textAlign:"center"}}>{scores[i]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i],size:28,fontSize:18})}><span style={{position:"relative",top:-1}}>+</span></button>
+          <div style={{display:"flex",alignItems:"center",gap:innerGap}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontSize:scoreFont,fontWeight:900,color:i===curTeam?TEAM_COLORS[i]:"#94A3B8",fontFamily:SF_STACK,minWidth:scoreMinW,textAlign:"center"}}>{scores[i]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
       ))}
-      <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:"0 8px"}}>VS</div>
+      <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:`0 ${isPhone?4:8}px`}}>VS</div>
     </div>
   );
 }
 
 function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,themeMode}){
   const isDark=themeMode==="dark";
+  const viewport=useViewportSize();
+  const isPhone=viewport.width<700;
+  const isNarrow=viewport.width<520;
+  const headerPad=isPhone?"10px 10px 8px":"18px 24px 16px";
+  const colGap=isPhone?8:20;
+  const pillPad=isPhone?"6px 12px":"10px 24px";
+  const pillFont=isPhone?(isNarrow?12:13):18;
+  const pillMinW=isPhone?0:160;
+  const pillLetter=isPhone?1.2:2.2;
+  const btnSize=isPhone?28:40;
+  const btnFont=isPhone?16:24;
+  const scoreFont=isPhone?"clamp(24px,8vw,34px)":"clamp(44px,6vw,66px)";
+  const scoreMinW=isPhone?34:58;
+  const scoreGap=isPhone?6:14;
+  const colGapV=isPhone?6:12;
+  const vsFont=isPhone?"clamp(22px,6vw,32px)":"clamp(56px,7vw,88px)";
+  const turnFont=isPhone?12:18;
+  const centerMinW=isPhone?0:140;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:"18px 24px 16px"}}>
-      <div style={{display:"grid",gridTemplateColumns:"1fr auto 1fr",alignItems:"start",gap:20}}>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:headerPad,maxWidth:"100vw",overflow:"hidden"}}>
+      <div style={{display:"grid",gridTemplateColumns:"1fr auto 1fr",alignItems:"start",gap:colGap,minWidth:0}}>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:colGapV,minWidth:0}}>
           <div style={{
-            fontSize:18,
+            fontSize:pillFont,
             fontWeight:900,
             color:"#fff",
-            letterSpacing:2.2,
+            letterSpacing:pillLetter,
             textTransform:"uppercase",
             background:TEAM_COLORS[0],
             border:`2px solid ${TEAM_COLORS[0]}`,
             borderRadius:999,
-            padding:"10px 24px",
+            padding:pillPad,
             boxShadow:`0 12px 22px ${withAlpha(TEAM_COLORS[0],"35")}`,
             textAlign:"center",
-            minWidth:160,
+            minWidth:pillMinW,
+            maxWidth:"100%",
+            whiteSpace:"nowrap",
+            overflow:"hidden",
+            textOverflow:"ellipsis",
           }}>{teams[0]}</div>
-          <div style={{display:"flex",alignItems:"center",gap:14}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[0],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>-</span></button>
-            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(44px,6vw,66px)",lineHeight:.9,color:TEAM_COLORS[0],minWidth:58,textAlign:"center"}}>{scores[0]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[0],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>+</span></button>
+          <div style={{display:"flex",alignItems:"center",gap:scoreGap,minWidth:0}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[0],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:scoreFont,lineHeight:.9,color:TEAM_COLORS[0],minWidth:scoreMinW,textAlign:"center"}}>{scores[0]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(0,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[0],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,minWidth:140}}>
-          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(56px,7vw,88px)",lineHeight:.82,color:isDark?"#E5E7EB":"#0F172A",letterSpacing:2}}>VS</div>
-          <div style={{fontSize:18,fontWeight:900,color:TEAM_COLORS[curTeam],textAlign:"center"}}>{teams[curTeam]}'s turn</div>
-          {allDone&&<button className="tap" onClick={onGameOver} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:13,padding:"8px 14px",borderRadius:999})}>RESULTS</button>}
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:isPhone?2:6,minWidth:centerMinW}}>
+          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:vsFont,lineHeight:.82,color:isDark?"#E5E7EB":"#0F172A",letterSpacing:isPhone?1:2}}>VS</div>
+          <div style={{fontSize:turnFont,fontWeight:900,color:TEAM_COLORS[curTeam],textAlign:"center",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",maxWidth:isPhone?80:160}}>{teams[curTeam]}'s turn</div>
+          {allDone&&<button className="tap" onClick={onGameOver} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:isPhone?11:13,padding:isPhone?"6px 10px":"8px 14px",borderRadius:999})}>RESULTS</button>}
         </div>
-        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
+        <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:colGapV,minWidth:0}}>
           <div style={{
-            fontSize:18,
+            fontSize:pillFont,
             fontWeight:900,
             color:"#fff",
-            letterSpacing:2.2,
+            letterSpacing:pillLetter,
             textTransform:"uppercase",
             background:TEAM_COLORS[1],
             border:`2px solid ${TEAM_COLORS[1]}`,
             borderRadius:999,
-            padding:"10px 24px",
+            padding:pillPad,
             boxShadow:`0 12px 22px ${withAlpha(TEAM_COLORS[1],"35")}`,
             textAlign:"center",
-            minWidth:160,
+            minWidth:pillMinW,
+            maxWidth:"100%",
+            whiteSpace:"nowrap",
+            overflow:"hidden",
+            textOverflow:"ellipsis",
           }}>{teams[1]}</div>
-          <div style={{display:"flex",alignItems:"center",gap:14}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[1],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>-</span></button>
-            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:"clamp(44px,6vw,66px)",lineHeight:.9,color:TEAM_COLORS[1],minWidth:58,textAlign:"center"}}>{scores[1]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[1],size:40,fontSize:24})}><span style={{position:"relative",top:-1}}>+</span></button>
+          <div style={{display:"flex",alignItems:"center",gap:scoreGap,minWidth:0}}>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[1],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:scoreFont,lineHeight:.9,color:TEAM_COLORS[1],minWidth:scoreMinW,textAlign:"center"}}>{scores[1]}</div>
+            <button className="tap" onClick={()=>onAdjustScore?.(1,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[1],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
           </div>
         </div>
       </div>
@@ -5563,24 +5608,29 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const categoryRows=buildBalancedRows(selCats,maxPerRow);
   const rowCount=Math.max(categoryRows.length,1);
   const compactBoard=rowCount>=2 || viewport.height<920;
-  const baseCategoryGap=isPhone?12:isTablet?15:21;
+  const baseCategoryGap=isPhone?6:isTablet?15:21;
   const categoryGapX=Math.round(baseCategoryGap*2);
   const categoryGapY=Math.round(baseCategoryGap*1.5);
-  const headerBodyGap=isPhone?8:compactBoard?10:13;
-  const innerGap=isPhone?3:compactBoard?3:4;
-  const headerFont=isPhone?14:compactBoard?17:20;
-  const iconSize=isPhone?14:compactBoard?16:18;
-  const tileFont=isPhone?16:compactBoard?20:24;
-  const tileRadius=isPhone?7:isTablet?8:10;
-  const artRadius=isPhone?8:isTablet?9:11;
-  const artColumnWidth=isPhone?150:compactBoard?186:222;
-  const headerHeight=isPhone?40:compactBoard?46:54;
-  const bodyPadding=isPhone?8:compactBoard?10:12;
-  const boardUsableWidth=Math.max(320,(viewport.width||1280)-(bodyPadding*2));
+  const headerBodyGap=isPhone?6:compactBoard?10:13;
+  const innerGap=isPhone?2:compactBoard?3:4;
+  const headerFont=isPhone?(viewport.width<420?11:13):compactBoard?17:20;
+  const iconSize=isPhone?12:compactBoard?16:18;
+  const tileFont=isPhone?13:compactBoard?20:24;
+  const tileRadius=isPhone?6:isTablet?8:10;
+  const artRadius=isPhone?7:isTablet?9:11;
+  const headerHeight=isPhone?34:compactBoard?46:54;
+  const bodyPadding=isPhone?6:compactBoard?10:12;
+  const boardUsableWidth=Math.max(280,(viewport.width||1280)-(bodyPadding*2));
   const categoryWidth=Math.max(
-    isPhone?134:198,
+    isPhone?110:198,
     Math.floor((boardUsableWidth-(categoryGapX*(maxPerRow-1)))/maxPerRow)
   );
+  // Art column needs to leave room for the two side button columns.
+  // On phones, give buttons at least ~32px each side.
+  const minSideColumn=isPhone?32:48;
+  const artColumnWidth=isPhone
+    ? Math.max(48,Math.min(110,categoryWidth-(minSideColumn*2)))
+    : compactBoard?186:222;
   const boardHeaderBg="#DCFCE7";
   const boardHeaderText="#000000";
   const boardPointBg={200:"#FFED29",400:"#FF5B00",600:"#FF000D"};
@@ -5715,22 +5765,26 @@ function formatQuestionForDisplay(question){
 // Regular trivia - flag emoji shown big if flags category
 const QUESTION_HEADER_WRAP_STYLE={
   display:"flex",
-  gap:16,
+  gap:"clamp(8px,2vw,16px)",
   alignItems:"center",
   justifyContent:"center",
   flexWrap:"wrap",
   paddingTop:6,
+  maxWidth:"100%",
 };
 
-const QUESTION_HEADER_ICON_STYLE={fontSize:34,lineHeight:1};
+const QUESTION_HEADER_ICON_STYLE={fontSize:"clamp(20px,4vw,34px)",lineHeight:1};
 
 const QUESTION_HEADER_TITLE_STYLE={
   fontFamily:SF_STACK,
   fontWeight:900,
-  fontSize:"clamp(38px,5.8vw,58px)",
+  fontSize:"clamp(20px,5.8vw,58px)",
   color:"#1E293B",
   letterSpacing:1.2,
   lineHeight:1,
+  textAlign:"center",
+  wordBreak:"break-word",
+  maxWidth:"100%",
 };
 
 const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
@@ -5738,13 +5792,13 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   color:pc,
   fontFamily:SF_STACK,
   fontWeight:900,
-  fontSize:"clamp(30px,4.8vw,44px)",
+  fontSize:"clamp(18px,4.8vw,44px)",
   lineHeight:1,
-  padding:"12px 22px",
+  padding:"clamp(8px,1.6vw,12px) clamp(14px,2.6vw,22px)",
   borderRadius:999,
   border:`2px solid ${pc}55`,
   boxShadow:`0 12px 30px ${pc}18`,
-  minWidth:94,
+  minWidth:"clamp(56px,9vw,94px)",
   textAlign:"center",
 });
 
@@ -5799,11 +5853,11 @@ const QUESTION_STAGE_STYLE={
 
 const QUESTION_TIMER_SLOT_STYLE={
   width:"100%",
-  minHeight:"clamp(188px, 21vh, 220px)",
+  minHeight:"clamp(110px, 18vh, 220px)",
   display:"flex",
   alignItems:"center",
   justifyContent:"center",
-  marginBottom:"clamp(16px, 2.2vh, 26px)",
+  marginBottom:"clamp(8px, 2vh, 26px)",
   flex:"0 0 auto",
 };
 
@@ -6135,7 +6189,7 @@ function QuestionTimer({tile,paused=false,manualStart=false}){
   );
 }
 
-function QuestionPanel({children,maxWidth=760,padding="42px 36px",style={},className=""}){
+function QuestionPanel({children,maxWidth=760,padding="clamp(20px,4vw,42px) clamp(16px,3.6vw,36px)",style={},className=""}){
   return(
     <div
       className={className}
