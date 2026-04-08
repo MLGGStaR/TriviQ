@@ -4611,6 +4611,27 @@ const CSS=`
   @keyframes fadein{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
   ::-webkit-scrollbar{width:4px;height:4px;}
   ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
+  /* Touch devices (phones, tablets, iPads) — allow vertical scrolling. */
+  @media (hover: none) and (pointer: coarse){
+    html,body,#root{
+      height:auto;
+      min-height:100%;
+      overflow-y:auto;
+      -webkit-overflow-scrolling:touch;
+    }
+    .scroll-on-touch{
+      height:auto !important;
+      min-height:100dvh !important;
+      max-height:none !important;
+      overflow:visible !important;
+      overflow-y:visible !important;
+    }
+    .scroll-on-touch-inner{
+      overflow:visible !important;
+      overflow-y:visible !important;
+      min-height:0 !important;
+    }
+  }
 `;
 
 const SITE_BACKGROUND_STYLE={
@@ -5640,10 +5661,10 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
     return Math.min(boardUsableWidth,contentWidth);
   };
   return(
-    <div style={{minHeight:"100dvh",width:"100vw",maxWidth:"100vw",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",overflow:"hidden"}}>
+    <div className="scroll-on-touch" style={{minHeight:"100dvh",width:"100vw",maxWidth:"100vw",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",overflow:"hidden"}}>
       <style>{CSS}</style>
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
-      <div style={{flex:1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:"hidden"}}>
+      <div className="scroll-on-touch-inner" style={{flex:1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:"hidden"}}>
         <div style={{height:8,borderTop:"2px solid #DBEAFE",borderRadius:"999px 999px 0 0",margin:"0 6px 10px"}}/>
         <div style={{flex:1,minHeight:0,display:"grid",gridTemplateRows:`repeat(${rowCount}, minmax(0,1fr))`,gap:categoryGapY,alignItems:"stretch"}}>
           {categoryRows.map((row,rowIdx)=>(
@@ -6222,10 +6243,10 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   const displayQuestion = formatQuestionForDisplay(tile.q);
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div style={QUESTION_SCREEN_STYLE}>
+    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={QUESTION_BODY_CENTER_STYLE}>
+      <div className="scroll-on-touch-inner" style={QUESTION_BODY_CENTER_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6275,10 +6296,10 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
   const catLabel=BANK[tile.catId].label;
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div style={QUESTION_SCREEN_STYLE}>
+    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={QUESTION_BODY_SCROLL_STYLE}>
+      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6315,10 +6336,10 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div style={QUESTION_SCREEN_STYLE}>
+    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={QUESTION_BODY_SCROLL_STYLE}>
+      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6353,10 +6374,10 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div style={QUESTION_SCREEN_STYLE}>
+    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={QUESTION_BODY_SCROLL_STYLE}>
+      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6391,10 +6412,10 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
-    <div style={QUESTION_SCREEN_STYLE}>
+    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={QUESTION_BODY_SCROLL_STYLE}>
+      <div className="scroll-on-touch-inner" style={QUESTION_BODY_SCROLL_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
@@ -6430,10 +6451,10 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const qrSearchUrl=`https://www.google.com/search?q=${encodeURIComponent(tile.a)}`;
   return(
-    <div style={QUESTION_SCREEN_STYLE}>
+    <div className="scroll-on-touch" style={QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
       <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={QUESTION_BODY_CENTER_STYLE}>
+      <div className="scroll-on-touch-inner" style={QUESTION_BODY_CENTER_STYLE}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
