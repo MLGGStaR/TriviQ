@@ -4662,12 +4662,33 @@ export default function App(){
     if(typeof window==="undefined") return;
     const detect=()=>{
       try{
-        if(window.matchMedia&&window.matchMedia("(hover: none) and (pointer: coarse)").matches) return true;
-        if(window.matchMedia&&window.matchMedia("(pointer: coarse)").matches) return true;
-        if("ontouchstart" in window) return true;
-        if(navigator&&navigator.maxTouchPoints>0) return true;
+        if(!window.matchMedia) return false;
+        // Desktop/laptop with mouse (even if it also has touch) → non-touch.
+        if(window.matchMedia("(hover: hover)").matches) return false;
+        if(window.matchMedia("(pointer: fine)").matches) return false;
+        if(window.matchMedia("(hover: none) and (pointer: coarse)").matches) return true;
+        if(window.matchMedia("(pointer: coarse)").matches) return true;
       }catch{}
       return false;
+    };
+    const clearForcedStyles=()=>{
+      const html=document.documentElement;
+      const body=document.body;
+      html.style.height="";
+      html.style.minHeight="";
+      html.style.overflowY="";
+      if(body){
+        body.style.height="";
+        body.style.minHeight="";
+        body.style.overflowY="";
+        body.style.webkitOverflowScrolling="";
+      }
+      const root=document.getElementById("root");
+      if(root){
+        root.style.height="";
+        root.style.minHeight="";
+        root.style.overflow="";
+      }
     };
     const apply=()=>{
       const isTouch=detect();
@@ -4675,7 +4696,6 @@ export default function App(){
       const body=document.body;
       if(isTouch){
         html.classList.add("touch-device");
-        // Force overrides directly on the elements in case stylesheet isn't applied yet.
         html.style.height="auto";
         html.style.minHeight="100%";
         html.style.overflowY="auto";
@@ -4693,6 +4713,7 @@ export default function App(){
         }
       }else{
         html.classList.remove("touch-device");
+        clearForcedStyles();
       }
     };
     apply();
@@ -5985,10 +6006,14 @@ const QUESTION_TIMER_SIZE=156;
 function useIsTouchDevice(){
   const get=()=>{
     if(typeof window==="undefined") return false;
-    if(window.matchMedia && window.matchMedia("(hover: none) and (pointer: coarse)").matches) return true;
-    if(window.matchMedia && window.matchMedia("(pointer: coarse)").matches) return true;
-    if("ontouchstart" in window) return true;
-    if(typeof navigator!=="undefined" && navigator.maxTouchPoints>0) return true;
+    if(!window.matchMedia) return false;
+    // If the browser reports a fine pointer or hover capability, it's a desktop/laptop
+    // (even if it also has a touchscreen). Treat as non-touch.
+    if(window.matchMedia("(hover: hover)").matches) return false;
+    if(window.matchMedia("(pointer: fine)").matches) return false;
+    // Real phone/tablet: no hover, coarse pointer.
+    if(window.matchMedia("(hover: none) and (pointer: coarse)").matches) return true;
+    if(window.matchMedia("(pointer: coarse)").matches) return true;
     return false;
   };
   const [is,setIs]=useState(get);
