@@ -5723,7 +5723,13 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
     return Math.min(boardUsableWidth,contentWidth);
   };
   return(
-    <div style={{minHeight:"100dvh",width:"100vw",maxWidth:"100vw",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",overflow:isTouch?"visible":"hidden",height:isTouch?"auto":undefined}}>
+    <div style={{
+      minHeight:"100dvh",
+      ...(isTouch?{height:"auto",overflow:"visible"}:{overflow:"hidden"}),
+      width:"100vw",maxWidth:"100vw",
+      ...SITE_BACKGROUND_STYLE,
+      display:"flex",flexDirection:"column"
+    }}>
       <style>{CSS}</style>
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
       <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:isTouch?"visible":"hidden"}}>
