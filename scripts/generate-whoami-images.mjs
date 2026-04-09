@@ -9,6 +9,7 @@ import TRIVIA_TIER_BALANCE_EXPANSIONS from "../src/triviaTierBalanceExpansions.j
 import TRIVIA_TIER_PARITY_EXPANSIONS from "../src/triviaTierParityExpansions.js";
 import TRIVIA_TIER_FINAL_PARITY_EXPANSIONS from "../src/triviaTierFinalParityExpansions.js";
 import TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS from "../src/triviaTierFinalTopoffExpansions.js";
+import NEW_CATEGORIES_BANK from "../src/newCategoriesBank.js";
 
 const APP_PATH = path.join(process.cwd(), "src", "App.jsx");
 const OUTPUT_DIR = path.join(process.cwd(), "public", "whoami");
@@ -266,6 +267,7 @@ const entries = [
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_PARITY_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_PARITY_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(NEW_CATEGORIES_BANK),
     ].map((entry) => [entry.wiki, entry]),
   ).values(),
 ];

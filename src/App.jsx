@@ -3948,10 +3948,13 @@ function MovieScenePlayer({tile}){
             disablekb: 1,
             fs: 0,
             cc_load_policy: 0,
+            showinfo: 0,
             enablejsapi: 1,
             origin: window.location.origin,
             start,
-            end,
+            // Note: 'end' is intentionally NOT set here. YouTube's native 'end'
+            // param triggers its end-screen overlay (showing video title + related).
+            // Instead, the polling interval below handles stopping the clip cleanly.
           },
           events: {
             onReady: (event)=>{
