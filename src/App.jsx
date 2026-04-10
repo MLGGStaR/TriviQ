@@ -3623,26 +3623,28 @@ const BANK = sanitizeBank(
                     mergeQuestionExpansions(
                       mergeQuestionExpansions(
                         mergeQuestionExpansions(
-                          mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
-                          QUESTION_MINIMUMS,
+                          mergeQuestionExpansions(
+                            mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
+                            QUESTION_MINIMUMS,
+                          ),
+                          TRIVIA_MEGA_EXPANSIONS,
                         ),
-                        TRIVIA_MEGA_EXPANSIONS,
+                        TRIVIA_ULTRA_EXPANSIONS,
                       ),
-                      TRIVIA_ULTRA_EXPANSIONS,
+                      TRIVIA_TIER_BALANCE_EXPANSIONS,
                     ),
-                    TRIVIA_TIER_BALANCE_EXPANSIONS,
+                    QUESTION_REFINEMENT_ADDITIONS,
                   ),
-                  QUESTION_REFINEMENT_ADDITIONS,
+                  TRIVIA_TIER_PARITY_EXPANSIONS,
                 ),
-                TRIVIA_TIER_PARITY_EXPANSIONS,
+                TRIVIA_TIER_FINAL_PARITY_EXPANSIONS,
               ),
-              TRIVIA_TIER_FINAL_PARITY_EXPANSIONS,
+              TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS,
             ),
-            TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS,
+            MEGA_NEW_EXPANSIONS,
           ),
-          MEGA_NEW_EXPANSIONS,
+          { songs: mergeStandaloneCategory(SONG_CLIP_BANK, SONG_CLIP_ADDITIONS) },
         ),
-        { songs: mergeStandaloneCategory(SONG_CLIP_BANK, SONG_CLIP_ADDITIONS) },
       ),
     ),
   ),
@@ -4415,7 +4417,6 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
     </button>
   );
 }
-
 function BoardCategoryArt({id, category, radius}){
   const preview=CATEGORY_PREVIEWS[id]||{};
   const boardSrc = preview.boardSrc || preview.src;
@@ -4746,202 +4747,13 @@ export default function App(){
       window.removeEventListener("orientationchange",apply);
     };
   },[]);
-  const translationOriginalsRef=useRef(typeof window!=="undefined"?new WeakMap():null);
   useEffect(()=>{
     if(typeof document==="undefined") return;
-    const root=document.documentElement;
-    root.setAttribute("lang",language);
-    root.setAttribute("dir",language==="ar"?"rtl":"ltr");
+    document.documentElement.setAttribute("lang",language);
+    document.documentElement.setAttribute("dir",language==="ar"?"rtl":"ltr");
     try{ window.localStorage.setItem(LANG_STORAGE_KEY,language); }catch{}
-
-    // ----- Translation cache (persisted across reloads) -----
-    const CACHE_KEY="trivic-translation-cache-ar";
-    let cache={};
-    try{
-      const raw=window.localStorage.getItem(CACHE_KEY);
-      if(raw) cache=JSON.parse(raw)||{};
-    }catch{}
-    for(const k in AR_TRANSLATIONS){ if(!cache[k]) cache[k]=AR_TRANSLATIONS[k]; }
-    let saveTimer=null;
-    function persistCache(){
-      if(saveTimer) return;
-      saveTimer=setTimeout(()=>{
-        saveTimer=null;
-        try{ window.localStorage.setItem(CACHE_KEY,JSON.stringify(cache)); }catch{}
-      },1500);
-    }
-
-    // Track nodes we've already touched so we never re-process them.
-    // handled is per-language-pass; originals persists across passes via ref.
-    const handled=new WeakSet();
-    const originals=translationOriginalsRef.current||new WeakMap();
-    if(!translationOriginalsRef.current) translationOriginalsRef.current=originals;
-    let observer=null;
-    let muted=false;
-
-    function shouldSkipElement(el){
-      if(!el||el.nodeType!==Node.ELEMENT_NODE) return false;
-      const tag=el.tagName;
-      if(tag==="SCRIPT"||tag==="STYLE"||tag==="INPUT"||tag==="TEXTAREA"||tag==="NOSCRIPT") return true;
-      if(el.getAttribute&&el.getAttribute("data-no-translate")==="1") return true;
-      return false;
-    }
-    function isTranslatable(text){
-      if(!text) return false;
-      const t=text.trim();
-      if(t.length<2) return false;
-      if(!/[A-Za-z]/.test(t)) return false;
-      return true;
-    }
-
-    function writeNode(node,translated){
-      const raw=node.nodeValue;
-      if(raw==null) return;
-      const lead=raw.match(/^\s*/)[0];
-      const tail=raw.match(/\s*$/)[0];
-      muted=true;
-      node.nodeValue=lead+translated+tail;
-      // Synchronously drain any pending observer records caused by our write.
-      if(observer) observer.takeRecords();
-      muted=false;
-    }
-
-    // Pending nodes awaiting network translation: key -> Set of nodes
-    const pending=new Map();
-
-    function processTextNode(node){
-      if(handled.has(node)) return;
-      const raw=node.nodeValue;
-      if(raw==null) return;
-      const key=raw.trim();
-      // English revert path: do this BEFORE the translatability check, since
-      // current text is likely Arabic (no Latin letters) and we still need to
-      // restore it from the originals map.
-      if(language==="en"){
-        const orig=originals.get(node);
-        if(orig!=null && raw!==orig){
-          writeNode(node,orig.trim());
-        }
-        handled.add(node);
-        return;
-      }
-      if(!isTranslatable(key)){ handled.add(node); return; }
-      if(!originals.has(node)) originals.set(node,raw);
-      if(cache[key]){
-        writeNode(node,cache[key]);
-        handled.add(node);
-        return;
-      }
-      // queue for network translation (don't mark handled yet — we want to update it later)
-      let bucket=pending.get(key);
-      if(!bucket){ bucket=new Set(); pending.set(key,bucket); }
-      bucket.add(node);
-      scheduleFlush();
-    }
-
-    // Chunked initial walk so we never block the main thread.
-    function walkChunked(rootNode,onDone){
-      const stack=[rootNode];
-      function step(){
-        const start=performance.now();
-        while(stack.length>0){
-          if(performance.now()-start>12){
-            // yield
-            (window.requestIdleCallback||window.requestAnimationFrame)(step);
-            return;
-          }
-          const node=stack.pop();
-          if(!node) continue;
-          if(node.nodeType===Node.TEXT_NODE){ processTextNode(node); continue; }
-          if(node.nodeType!==Node.ELEMENT_NODE) continue;
-          if(shouldSkipElement(node)) continue;
-          const kids=node.childNodes;
-          for(let i=kids.length-1;i>=0;i--) stack.push(kids[i]);
-        }
-        if(onDone) onDone();
-      }
-      step();
-    }
-
-    let flushTimer=null;
-    let inFlight=0;
-    const MAX_PARALLEL=4;
-    const BATCH_SIZE=40;
-    function scheduleFlush(){
-      if(flushTimer) return;
-      flushTimer=setTimeout(flushPending,150);
-    }
-    async function flushPending(){
-      flushTimer=null;
-      while(inFlight<MAX_PARALLEL && pending.size>0){
-        const entries=Array.from(pending.entries()).slice(0,BATCH_SIZE);
-        entries.forEach(([k])=>pending.delete(k));
-        runBatch(entries);
-      }
-    }
-    async function runBatch(entries){
-      inFlight++;
-      const keys=entries.map(([k])=>k);
-      try{
-        const sep="\n\u241F\n";
-        const joined=keys.join(sep);
-        const url="https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ar&dt=t&q="+encodeURIComponent(joined);
-        const res=await fetch(url);
-        if(res.ok){
-          const data=await res.json();
-          const chunks=(data[0]||[]).map(c=>c&&c[0]).filter(Boolean).join("");
-          const parts=chunks.split(/\s*\u241F\s*/);
-          if(parts.length===keys.length){
-            for(let i=0;i<keys.length;i++){
-              const tr=(parts[i]||"").trim();
-              if(!tr) continue;
-              cache[keys[i]]=tr;
-              if(language==="ar"){
-                const nodes=entries[i][1];
-                nodes.forEach(n=>{
-                  // Only apply if node still holds the same English text
-                  const cur=(n.nodeValue||"").trim();
-                  if(cur===keys[i]){
-                    writeNode(n,tr);
-                    handled.add(n);
-                  }
-                });
-              }
-            }
-            persistCache();
-          }
-        }
-      }catch{}
-      inFlight--;
-      if(pending.size>0) scheduleFlush();
-    }
-
-    // Only walk/observe DOM when Arabic is active. In English mode, do nothing —
-    // React renders English natively, no translation needed.
-    if(document.body && language==="ar"){
-      walkChunked(document.body);
-      observer=new MutationObserver((muts)=>{
-        if(muted) return;
-        for(const m of muts){
-          if(m.type==="childList"){
-            m.addedNodes.forEach(n=>{
-              if(n.nodeType===Node.TEXT_NODE){ processTextNode(n); }
-              else if(n.nodeType===Node.ELEMENT_NODE){ walkChunked(n); }
-            });
-          }else if(m.type==="characterData"){
-            if(!handled.has(m.target)) processTextNode(m.target);
-          }
-        }
-      });
-      observer.observe(document.body,{childList:true,subtree:true,characterData:true});
-    }
+    // Arabic translation is handled via simple CSS/text replacement below, not DOM walking.
     return()=>{
-      if(observer) observer.disconnect();
-      if(flushTimer){ clearTimeout(flushTimer); flushTimer=null; }
-      if(saveTimer){
-        clearTimeout(saveTimer); saveTimer=null;
-        try{ window.localStorage.setItem(CACHE_KEY,JSON.stringify(cache)); }catch{}
-      }
     };
   },[language]);
   const [authMode,setAuthMode]=useState("login");
