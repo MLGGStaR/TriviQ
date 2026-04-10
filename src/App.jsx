@@ -4647,6 +4647,22 @@ const CSS=`
     max-height:none !important;
     height:auto !important;
   }
+  /* Pure CSS fallback: if device has no hover (touch-only), force scroll. */
+  @media (hover: none){
+    html, body, #root{
+      height:auto !important;
+      min-height:100% !important;
+      max-height:none !important;
+      overflow-y:auto !important;
+      -webkit-overflow-scrolling:touch;
+    }
+    #root > div, #root > div > div{
+      overflow:visible !important;
+      overflow-y:visible !important;
+      max-height:none !important;
+      height:auto !important;
+    }
+  }
 `;
 
 const SITE_BACKGROUND_STYLE={
