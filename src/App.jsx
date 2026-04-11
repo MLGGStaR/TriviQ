@@ -12,6 +12,9 @@ import SONG_CLIP_BANK from "./songClips.js";
 import SONG_CLIP_ADDITIONS from "./songClipAdditions.js";
 import EMOJI_GUESS_CATEGORIES from "./emojiGuessCategories.js";
 import NEW_CATEGORIES_BANK from "./newCategoriesBank.js";
+import LOGO_CATEGORIES_BANK from "./logoCategoriesBank.js";
+import LOGO_CLEAN_MANIFEST from "./logoCleanManifest.js";
+// Logo manifest removed — logos now use the Who Am I image system via wiki keys.
 import { CHARADES_HARD_OVERRIDES, QUESTION_REFINEMENT_ADDITIONS } from "./questionRefinements.js";
 import MEGA_NEW_EXPANSIONS from "./megaNewExpansions.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
@@ -366,6 +369,7 @@ const COUNTRY_MAP_BANK = Object.fromEntries(
 const RAW_BANK = {
   ...EMOJI_GUESS_CATEGORIES,
   ...NEW_CATEGORIES_BANK,
+  ...LOGO_CATEGORIES_BANK,
   general:{ label:"General Knowledge",icon:"\u{1F9E0}",color:"#F59E0B",
     200:[
       {q:"What is the capital of France?",a:"Paris"},
@@ -3335,6 +3339,7 @@ const NON_TRIVIA_STYLE_CATEGORIES = new Set([
   "who_tv_character",
   "who_anime_character",
   "who_movie_character",
+  "logos",
 ]);
 
 const SCREEN_ONLY_PATTERNS = [
@@ -3652,7 +3657,7 @@ const BANK = sanitizeBank(
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
-  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","movie_scenes","songs","flags","country_facts","country_map"] },
+  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","movie_scenes","songs","flags","country_facts","country_map","logos"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
   { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
@@ -3725,6 +3730,7 @@ const CATEGORY_PREVIEWS = {
   who_historic_figure:{src:"/category-previews/who_historic_figure.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",caption:"Guess the legend"},
   who_animal:{src:"/whoami/scar-the-lion-king-3bd03190.png",fit:"cover",cardPosition:"center top",caption:"Guess the creature"},
   charades_scenarios:{src:"/category-previews/charades_general.svg",fit:"cover",caption:"Act out the scene"},
+  logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
 };
 
 const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777","#0891B2","#EA580C"];
@@ -4763,13 +4769,120 @@ export default function App(){
       window.removeEventListener("orientationchange",apply);
     };
   },[]);
+  // Stores original English text for every translated node so we can revert.
+  const translatedNodesRef=useRef([]);
   useEffect(()=>{
     if(typeof document==="undefined") return;
     document.documentElement.setAttribute("lang",language);
     document.documentElement.setAttribute("dir",language==="ar"?"rtl":"ltr");
     try{ window.localStorage.setItem(LANG_STORAGE_KEY,language); }catch{}
-    // Arabic translation is handled via simple CSS/text replacement below, not DOM walking.
+
+    // --- Revert to English: restore all translated nodes ---
+    if(language==="en"){
+      translatedNodesRef.current.forEach(({node,original})=>{
+        try{ if(node.nodeValue!=null) node.nodeValue=original; }catch{}
+      });
+      translatedNodesRef.current=[];
+      return;
+    }
+
+    // --- Arabic translator: ONLY runs when language is "ar" ---
+    const CACHE_KEY="trivic-translation-cache-ar";
+    let cache={};
+    try{ const raw=window.localStorage.getItem(CACHE_KEY); if(raw) cache=JSON.parse(raw)||{}; }catch{}
+    for(const k in AR_TRANSLATIONS){ if(!cache[k]) cache[k]=AR_TRANSLATIONS[k]; }
+    let saveTimer=null;
+    function persistCache(){
+      if(saveTimer) return;
+      saveTimer=setTimeout(()=>{ saveTimer=null; try{ window.localStorage.setItem(CACHE_KEY,JSON.stringify(cache)); }catch{} },1500);
+    }
+    const handled=new WeakSet();
+    let observer=null;
+    let muted=false;
+    let active=true;
+
+    function writeNode(node,text,originalText){
+      const raw=node.nodeValue; if(raw==null) return;
+      const lead=raw.match(/^\s*/)[0]; const tail=raw.match(/\s*$/)[0];
+      muted=true;
+      node.nodeValue=lead+text+tail;
+      if(observer) observer.takeRecords();
+      muted=false;
+      // Remember this node so we can revert it later
+      translatedNodesRef.current.push({node,original:lead+originalText+tail});
+    }
+    function processTextNode(node){
+      if(handled.has(node)) return;
+      const raw=node.nodeValue; if(raw==null) return;
+      const key=raw.trim();
+      if(!key||key.length<2||!/[A-Za-z]/.test(key)){ handled.add(node); return; }
+      if(cache[key]){ writeNode(node,cache[key],key); handled.add(node); return; }
+      let bucket=pending.get(key);
+      if(!bucket){ bucket=new Set(); pending.set(key,bucket); }
+      bucket.add(node);
+      scheduleFlush();
+    }
+    function walk(node){
+      if(!node) return;
+      if(node.nodeType===Node.TEXT_NODE){ processTextNode(node); return; }
+      if(node.nodeType!==Node.ELEMENT_NODE) return;
+      const tag=node.tagName;
+      if(tag==="SCRIPT"||tag==="STYLE"||tag==="INPUT"||tag==="TEXTAREA"||tag==="NOSCRIPT") return;
+      if(node.getAttribute&&node.getAttribute("data-no-translate")==="1") return;
+      for(let i=0;i<node.childNodes.length;i++) walk(node.childNodes[i]);
+    }
+    const pending=new Map();
+    let flushTimer=null;
+    let inFlight=0;
+    function scheduleFlush(){ if(!flushTimer) flushTimer=setTimeout(flushPending,120); }
+    async function flushPending(){
+      flushTimer=null;
+      while(inFlight<4&&pending.size>0){
+        const entries=Array.from(pending.entries()).slice(0,40);
+        entries.forEach(([k])=>pending.delete(k));
+        inFlight++;
+        const keys=entries.map(([k])=>k);
+        try{
+          const sep="\n\u241F\n";
+          const res=await fetch("https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ar&dt=t&q="+encodeURIComponent(keys.join(sep)));
+          if(active&&res.ok){
+            const data=await res.json();
+            const chunks=(data[0]||[]).map(c=>c&&c[0]).filter(Boolean).join("");
+            const parts=chunks.split(/\s*\u241F\s*/);
+            if(parts.length===keys.length){
+              for(let i=0;i<keys.length;i++){
+                const tr=(parts[i]||"").trim();
+                if(!tr) continue;
+                cache[keys[i]]=tr;
+                if(active){
+                  entries[i][1].forEach(n=>{
+                    if((n.nodeValue||"").trim()===keys[i]){ writeNode(n,tr,keys[i]); handled.add(n); }
+                  });
+                }
+              }
+              persistCache();
+            }
+          }
+        }catch{}
+        inFlight--;
+      }
+      if(active&&pending.size>0) scheduleFlush();
+    }
+
+    if(document.body) walk(document.body);
+    observer=new MutationObserver((muts)=>{
+      if(muted||!active) return;
+      for(const m of muts){
+        if(m.type==="childList") m.addedNodes.forEach(n=>walk(n));
+      }
+    });
+    observer.observe(document.body,{childList:true,subtree:true});
+
     return()=>{
+      active=false;
+      if(observer) observer.disconnect();
+      if(flushTimer) clearTimeout(flushTimer);
+      if(saveTimer){ clearTimeout(saveTimer); try{ window.localStorage.setItem(CACHE_KEY,JSON.stringify(cache)); }catch{} }
     };
   },[language]);
   const [authMode,setAuthMode]=useState("login");
@@ -4999,7 +5112,7 @@ export default function App(){
   function adjustScore(teamIdx, delta){
     setScores(prev=>{
       const next=[...prev];
-      next[teamIdx]=Math.max(0,(next[teamIdx]||0)+delta);
+      next[teamIdx]=(next[teamIdx]||0)+delta;
       return next;
     });
   }
@@ -5085,10 +5198,11 @@ export default function App(){
     if(winnerIdx!=null){setScores(prev=>{const s=[...prev];s[winnerIdx]+=pts;return s;});setCurTeam((winnerIdx+1)%teams.length);}
     setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);
   }
-  function doWrong(){consumeActiveTile();setScores(prev=>{const s=[...prev];s[curTeam]=Math.max(0,s[curTeam]-Math.round(activeTile.pts/2));return s;});setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
+  const wrongPenalty=gameMode==="ffa"?activeTile?.pts:Math.round((activeTile?.pts||0)/2);
+  function doWrong(){consumeActiveTile();setScores(prev=>{const s=[...prev];s[curTeam]=s[curTeam]-wrongPenalty;return s;});setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
 
   const cat=activeTile&&BANK[activeTile.catId];
-  const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":"trivia"):null;
+  const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
   const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>(
     <>
       {!hideToggles&&<div style={{position:"fixed",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
@@ -5111,7 +5225,7 @@ export default function App(){
   if(screen==="categories") return renderWithGlobalThemeToggle(<CategoryScreen selCats={selCats} setSelCats={setSelCats} onStart={startGame} onBack={()=>setScreen("setup")} usageReady={usageReady} isSyncingUsage={isSyncingUsage} themeMode={themeMode}/>);
   if(screen==="board") return renderWithGlobalThemeToggle(<BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")} onAdjustScore={adjustScore} themeMode={themeMode} gameMode={gameMode}/>,{hideToggles:true});
   if(screen==="question"){
-    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard};
+    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard,gameMode};
     if(ttype==="whoami") return renderWithGlobalThemeToggle(<WhoAmIScreen {...p}/>,{hideToggles:true});
     if(ttype==="countrymap") return renderWithGlobalThemeToggle(<CountryMapScreen {...p}/>,{hideToggles:true});
     if(ttype==="moviescene") return renderWithGlobalThemeToggle(<MovieSceneScreen {...p}/>,{hideToggles:true});
@@ -5662,7 +5776,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   );
 }
 
-function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass}){
+function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
   const compact=teams.length>3;
   return(
     <div className="fadein" style={{display:"flex",flexDirection:"column",gap:7,width:"100%",maxWidth:compact?700:520}}>
@@ -5678,7 +5792,7 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass}){
         })}
       </div>
       <div style={{display:"flex",gap:7}}>
-        <button className="tap" onClick={onWrong} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Wrong (-{Math.round(tile.pts/2)} from {teams[curTeam]})</button>
+        <button className="tap" onClick={onWrong} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Wrong (-{gameMode==="ffa"?tile.pts:Math.round(tile.pts/2)} from {teams[curTeam]})</button>
         <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Pass</button>
       </div>
     </div>
@@ -5787,39 +5901,34 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
 });
 
 const QUESTION_SCREEN_STYLE={
-  height:"100dvh",
   minHeight:"100dvh",
-  maxHeight:"100dvh",
   ...SITE_BACKGROUND_STYLE,
   display:"flex",
   flexDirection:"column",
   position:"relative",
-  overflow:"hidden",
+  overflowX:"hidden",
+  overflowY:"auto",
 };
 
 const QUESTION_BODY_CENTER_STYLE={
   position:"relative",
-  flex:1,
-  minHeight:0,
+  flex:"0 0 auto",
   display:"flex",
   flexDirection:"column",
   alignItems:"center",
   justifyContent:"flex-start",
   padding:"0 clamp(14px, 3.2vw, 24px) clamp(18px, 3.2vh, 28px)",
   gap:"clamp(10px, 1.8vw, 16px)",
-  overflow:"hidden",
 };
 
 const QUESTION_BODY_SCROLL_STYLE={
   position:"relative",
-  flex:1,
-  minHeight:0,
+  flex:"0 0 auto",
   display:"flex",
   flexDirection:"column",
   alignItems:"center",
   padding:"0 clamp(14px, 3.2vw, 24px) clamp(18px, 3.2vh, 28px)",
   gap:"clamp(10px, 1.8vw, 16px)",
-  overflow:"hidden",
 };
 
 const QUESTION_STAGE_STYLE={
@@ -5837,11 +5946,11 @@ const QUESTION_STAGE_STYLE={
 
 const QUESTION_TIMER_SLOT_STYLE={
   width:"100%",
-  minHeight:"clamp(110px, 18vh, 220px)",
+  minHeight:"clamp(100px, 14vh, 200px)",
   display:"flex",
   alignItems:"center",
   justifyContent:"center",
-  marginBottom:"clamp(8px, 2vh, 26px)",
+  marginBottom:"clamp(6px, 1.5vh, 18px)",
   flex:"0 0 auto",
 };
 
@@ -6239,11 +6348,27 @@ function QuestionPanel({children,maxWidth=760,padding="clamp(20px,4vw,42px) clam
   );
 }
 
+function LogoImage({domain}){
+  const src=LOGO_CLEAN_MANIFEST[domain];
+  if(!src) return <div style={{fontSize:18,fontWeight:700,color:"#64748B",padding:40}}>Logo unavailable</div>;
+  return(
+    <>
+      <img
+        src={src}
+        alt=""
+        style={{display:"block",width:"min(220px,52vw)",height:"min(220px,52vw)",objectFit:"contain",margin:"0 auto 18px",background:"#fff",padding:28,borderRadius:24,border:"2px solid #E2E8F0",boxShadow:"0 14px 34px rgba(15,23,42,.12)"}}
+      />
+      <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>What brand is this logo?</div>
+    </>
+  );
+}
+
 function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
   const isEmojiGuess = Boolean(BANK[tile.catId]?.isEmojiGuess);
+  const isLogoGuess = Boolean(BANK[tile.catId]?.isLogoGuess);
   const displayQuestion = formatQuestionForDisplay(tile.q);
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
@@ -6261,8 +6386,10 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
-          <QuestionPanel className="pop fadein" maxWidth={820} padding={isFlag||isEmojiGuess?"34px 28px 36px":"46px 40px"}>
-            {isFlag ? (
+          <QuestionPanel className="pop fadein" maxWidth={820} padding={isFlag||isEmojiGuess||isLogoGuess?"34px 28px 36px":"46px 40px"}>
+            {isLogoGuess ? (
+              <LogoImage domain={tile.q}/>
+            ) : isFlag ? (
               <>
                 <FlagImage flag={tile.code || tile.q} country={tile.a}/>
                 <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>Which country is this flag from?</div>

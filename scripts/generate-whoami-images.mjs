@@ -10,6 +10,7 @@ import TRIVIA_TIER_PARITY_EXPANSIONS from "../src/triviaTierParityExpansions.js"
 import TRIVIA_TIER_FINAL_PARITY_EXPANSIONS from "../src/triviaTierFinalParityExpansions.js";
 import TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS from "../src/triviaTierFinalTopoffExpansions.js";
 import NEW_CATEGORIES_BANK from "../src/newCategoriesBank.js";
+import LOGO_CATEGORIES_BANK from "../src/logoCategoriesBank.js";
 
 const APP_PATH = path.join(process.cwd(), "src", "App.jsx");
 const OUTPUT_DIR = path.join(process.cwd(), "public", "whoami");
@@ -24,6 +25,8 @@ const TITLE_OVERRIDES = {
   Korosensei: "List_of_Assassination_Classroom_characters",
 };
 
+const SKIP_ENTRIES = new Set(["Max_Hamburgers","Lotteria"]);
+
 const DIRECT_URL_OVERRIDES = {
   Johan_Liebert:
     "https://static.wikia.nocookie.net/villains/images/3/33/Johan_adult.png/revision/latest?cb=20250211193323",
@@ -37,7 +40,7 @@ function parseWhoAmIEntries(source) {
   let currentCategory = null;
 
   for (const line of lines) {
-    const categoryMatch = line.match(/^\s*(who_[a-z_]+):\{.*isWhoAmI:true/);
+    const categoryMatch = line.match(/^\s*((?:who|logo)_[a-z_]+):\{.*isWhoAmI:true/);
     if (categoryMatch) {
       currentCategory = categoryMatch[1];
       continue;
@@ -68,7 +71,7 @@ function parseWhoAmIEntries(source) {
 function collectExpandedWhoAmIEntries(expansions) {
   const entries = [];
   for (const [category, categoryBank] of Object.entries(expansions)) {
-    if (!category.startsWith("who_")) continue;
+    if (!category.startsWith("who_") && !category.startsWith("logo_")) continue;
     for (const tier of [200, 400, 600]) {
       for (const entry of categoryBank?.[tier] || []) {
         if (!entry?.wiki) continue;
@@ -268,12 +271,14 @@ const entries = [
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_PARITY_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(NEW_CATEGORIES_BANK),
+      ...collectExpandedWhoAmIEntries(LOGO_CATEGORIES_BANK),
     ].map((entry) => [entry.wiki, entry]),
   ).values(),
 ];
 const manifest = {};
 
 for (const entry of entries) {
+  if (SKIP_ENTRIES.has(entry.wiki)) { console.log(`Skipped ${entry.wiki}`); continue; }
   const stem = safeFileStem(entry.wiki);
   const existingFile = fs
     .readdirSync(OUTPUT_DIR)
@@ -285,14 +290,18 @@ for (const entry of entries) {
     continue;
   }
 
-  const sourceUrl = await resolveImageSource(entry);
-  const { buffer, finalUrl, contentType } = await downloadImage(sourceUrl);
-  const ext = fileExtensionFor(finalUrl, contentType);
-  const fileName = `${stem}${ext}`;
-  fs.writeFileSync(path.join(OUTPUT_DIR, fileName), buffer);
-  manifest[entry.wiki] = `/whoami/${fileName}`;
-  console.log(`Saved ${entry.wiki} -> ${fileName}`);
-  await sleep(250);
+  try {
+    const sourceUrl = await resolveImageSource(entry);
+    const { buffer, finalUrl, contentType } = await downloadImage(sourceUrl);
+    const ext = fileExtensionFor(finalUrl, contentType);
+    const fileName = `${stem}${ext}`;
+    fs.writeFileSync(path.join(OUTPUT_DIR, fileName), buffer);
+    manifest[entry.wiki] = `/whoami/${fileName}`;
+    console.log(`Saved ${entry.wiki} -> ${fileName}`);
+    await sleep(250);
+  } catch (e) {
+    console.log(`FAILED ${entry.wiki}: ${e.message}`);
+  }
 }
 
 const manifestSource = `const WHOAMI_IMAGE_MANIFEST = ${JSON.stringify(manifest, null, 2)};\n\nexport default WHOAMI_IMAGE_MANIFEST;\n`;

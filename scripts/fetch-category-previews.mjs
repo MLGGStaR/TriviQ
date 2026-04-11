@@ -4,7 +4,15 @@ import path from 'node:path';
 const OUT = 'public/category-previews';
 
 const TARGETS = [
-  { id: 'technology', title: 'Server_room', ext: 'jpg' },
+  { id: 'logo_fast_food', title: "McDonald's", ext: 'jpg' },
+  { id: 'logo_tech', title: 'Apple_Inc.', ext: 'jpg' },
+  { id: 'logo_cars', title: 'BMW', ext: 'jpg' },
+  { id: 'logo_fashion', title: 'Gucci', ext: 'jpg' },
+  { id: 'logo_sports', title: 'FIFA', ext: 'jpg' },
+  { id: 'logo_entertainment', title: 'Netflix', ext: 'jpg' },
+  { id: 'logo_airlines', title: 'Emirates_(airline)', ext: 'jpg' },
+  { id: 'logo_gaming', title: 'PlayStation', ext: 'jpg' },
+  { id: 'logo_social', title: 'Instagram', ext: 'jpg' },
 ];
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));

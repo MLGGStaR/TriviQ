@@ -1,0 +1,76 @@
+{
+  "logo_fashion": [
+    {
+      "domain": "zara",
+      "answer": "Zara"
+    },
+    {
+      "domain": "h-m",
+      "answer": "H&M"
+    },
+    {
+      "domain": "uniqlo",
+      "answer": "Uniqlo"
+    }
+  ],
+  "logo_fast_food": [
+    {
+      "domain": "mcdonald-s",
+      "answer": "McDonald's"
+    },
+    {
+      "domain": "burger-king",
+      "answer": "Burger King"
+    },
+    {
+      "domain": "kfc",
+      "answer": "KFC"
+    },
+    {
+      "domain": "starbucks",
+      "answer": "Starbucks"
+    },
+    {
+      "domain": "taco-bell",
+      "answer": "Taco Bell"
+    }
+  ],
+  "logo_sports": [
+    {
+      "domain": "fifa",
+      "answer": "FIFA"
+    },
+    {
+      "domain": "nba",
+      "answer": "NBA"
+    },
+    {
+      "domain": "mlb",
+      "answer": "MLB"
+    },
+    {
+      "domain": "nhl",
+      "answer": "NHL"
+    },
+    {
+      "domain": "premier-league",
+      "answer": "Premier League"
+    },
+    {
+      "domain": "wwe",
+      "answer": "WWE"
+    },
+    {
+      "domain": "nike",
+      "answer": "Nike"
+    },
+    {
+      "domain": "adidas",
+      "answer": "Adidas"
+    },
+    {
+      "domain": "puma",
+      "answer": "Puma"
+    }
+  ]
+}

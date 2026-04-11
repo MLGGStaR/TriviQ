@@ -9,6 +9,7 @@ import TFT from '../src/triviaTierFinalTopoffExpansions.js';
 import { QUESTION_REFINEMENT_ADDITIONS as QRA } from '../src/questionRefinements.js';
 import NCB from '../src/newCategoriesBank.js';
 import MNE from '../src/megaNewExpansions.js';
+import LCB from '../src/logoCategoriesBank.js';
 import EMOJI from '../src/emojiGuessCategories.js';
 import MOVIE from '../src/movieScenes.js';
 import SONG from '../src/songClips.js';
@@ -42,7 +43,7 @@ while ((m = catRe.exec(app)) !== null) {
   }
 }
 
-const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, EMOJI, MNE];
+const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, EMOJI, MNE, LCB];
 banks.forEach(b => {
   Object.entries(b).forEach(([cat, obj]) => {
     [200, 400, 600].forEach(p => {
