@@ -104,12 +104,12 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What are the two towers usually understood to be in The Two Towers?", "Orthanc and Barad-dur"], ["What glowing gift does Galadriel give Frodo?", "The Phial of Galadriel"], ["What does the word mithril refer to?", "A rare, incredibly light and strong metal"]]),
   },
   video_games: {
-    200: qa([["What company created Mario?", "Nintendo"], ["What color is Sonic the Hedgehog?", "Blue"], ["What princess does Mario often rescue?", "Princess Peach"]]),
+    200: qa([["What company created Mario?", "Nintendo"], ["What princess does Mario often rescue?", "Princess Peach"]]),
     400: qa([["What is the name of Kratos's son in modern God of War?", "Atreus"], ["What game series features the land of Hyrule?", "The Legend of Zelda"], ["What city is Grand Theft Auto V set in?", "Los Santos"]]),
     600: qa([["What survival horror franchise stars Leon Kennedy and Jill Valentine?", "Resident Evil"], ["What game introduced the phrase The cake is a lie?", "Portal"], ["What is Arthur Morgan's gang called in Red Dead Redemption 2?", "The Van der Linde gang"]]),
   },
   anime: {
-    200: qa([["What food is Naruto obsessed with?", "Ramen"], ["What is the name of the notebook in Death Note?", "The Death Note"], ["What pirate crew does Luffy lead?", "The Straw Hat Pirates"]]),
+    200: qa([["What food is Naruto obsessed with?", "Ramen"], ["What pirate crew does Luffy lead?", "The Straw Hat Pirates"]]),
     400: qa([["What are the giant humanoid monsters in Attack on Titan called?", "Titans"], ["What is Tanjiro's sister called in Demon Slayer?", "Nezuko"], ["What school does Deku attend?", "U.A. High School"]]),
     600: qa([["What is Light Yagami's shinigami companion called?", "Ryuk"], ["What are Dragon Ball's wish-granting orbs called?", "The Dragon Balls"], ["What is Edward Elric's famous state alchemist title?", "The Fullmetal Alchemist"]]),
   },

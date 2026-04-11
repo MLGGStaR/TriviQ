@@ -1,0 +1,275 @@
+=== TIER 200 ===
+  ✓ Forrest Gump -> bLvqoHBptjg
+  ✓ The Godfather -> UaVTIH8mujA
+  ✓ Pulp Fiction -> s7EdQ4FqbhY
+  ✓ Fight Club -> qtRKdVHc-cE
+  ~ The Shawshank Redemption -> PLl99DlL6b4 (dup)
+  ✓ The Incredibles -> -UaGUdNJdRQ
+  ✓ Finding Dory -> JhvrQeY3doI
+  ✓ Up -> ORFWdXl_zJ4
+  ✓ Moana -> n7f6hlKsxxo
+  ✓ Ratatouille -> NgsQ8mVkN8w
+  ✓ Wall-E -> CZ1CATNbXg0
+  ✓ Zootopia -> Y0c3nKWhlIA
+  ✓ The Secret Life of Pets -> i-80SGWfEjM
+  ✓ Despicable Me -> zzCZ1W_CUoI
+  ✓ Minions -> eisKxhjBnZ0
+  ✓ Kung Fu Panda -> NRc-ze7Wrxw
+  ✓ How to Train Your Dragon -> 22w7z_lT6YM
+  ✓ Shrek 2 -> xBgSfhp5Fxo
+  ✓ Ice Age -> i4noiCRJRoE
+  ✓ Madagascar -> fq5zU9T_Hl4
+  ✓ Cars -> W_H7_tDHFE8
+  ✓ Monsters Inc -> CGbgaHoapFM
+  ✓ The Little Mermaid -> kpGo2_d3oYE
+  ✓ Beauty and the Beast -> pnkgw6pAKkM
+  ✓ Aladdin -> -G5XI61Y9ms
+  ✓ Cinderella -> LfR8Su4ulX0
+  ✓ Snow White -> iV46TJKL8cU
+  ✓ Peter Pan -> L-o0ufCPANo
+  ✓ 101 Dalmatians -> VApVpvcGW1A
+  ✓ Bambi -> j_J2-GafTSQ
+  ✓ Tarzan -> Aj7ty6sViiU
+  ✓ Mulan -> KK8FHdFluOQ
+  ✓ Pocahontas -> Z0oi7Qpp6W4
+  ✓ Hercules -> GFqY089piQ4
+  ✓ The Jungle Book -> wIq1Gufcmeo
+  ✓ The Hunchback of Notre Dame -> O6i3lyx1I_g
+  ✓ Alice in Wonderland -> P_IVeP3i7B0
+  ✓ Sleeping Beauty -> CfsyUyi_FJM
+  ✓ Dumbo -> ocWpGdITSR4
+  ✓ Fantasia -> eD8U083gQmY
+  ✓ The Terminator -> nGrW-OR2uDk
+  ✓ Alien -> jQ5lPt9edzQ
+  ✓ Predator -> 43R9l7EkJwE
+  ✓ RoboCop -> IqvRDhW-XVA
+  ✓ Total Recall -> pPAy56Otr-E
+  ✓ Aliens -> oSeQQlaCZgU
+  ✓ Starship Troopers -> zPYuV_jGk7M
+  ✓ Independence Day -> B1E7h3SeMDk
+  ✓ Men in Black -> UxUTTrU6PA4
+  ✓ Godzilla -> vIu85WQTPRc
+  ✓ King Kong -> 9extfjDZCts
+  ✓ War of the Worlds -> d9erkpdh5o0
+  ✓ The Day After Tomorrow -> Ku_IseK3xTc
+  ✓ 2012 -> sFXGrTng0gQ
+  ✓ San Andreas -> yftHosO0eUo
+  ✓ Taken -> XK9zL0ze9O4
+  ✓ The Bourne Identity -> FpKaB5dvQ4g
+  ✓ Mission Impossible -> fsQgc9pCyDU
+  ✓ Die Hard -> jaJuwKCmJbY
+  ✓ Lethal Weapon -> bKeW-MGu-qQ
+  ✓ Rush Hour -> JMiFsFQcFLE
+  ✓ Bad Boys -> hRFY_Fesa9Q
+  ✓ The Fast and the Furious -> 2TAOizOnNPo
+  ✓ Fast Five -> vcn2GOuZCKI
+  ✓ The Rock -> a3qcNyjj9ZQ
+  ✓ Con Air -> vYFU0H1I1i0
+  ✓ Face Off -> S-nDX0BeFoQ
+  ✓ Armageddon -> kg_jH47u480
+  ✓ Pearl Harbor -> NsB2ANG-FLY
+  ✓ Transformers -> CbX_SIz_9fk
+  ✓ Iron Man -> 8ugaeA-nMTc
+  ✓ Captain America -> qi5UTD7kEr0
+  ✓ Black Panther -> xjDjIWPwcPU
+  ✓ Doctor Strange -> h7gvFravm4A
+  ✓ Guardians of the Galaxy -> d96cjJhvlMA
+  ✓ Avengers Endgame -> TcMBFSGVi1c
+  ✓ Avengers Infinity War -> 6ZfuNTqbHE8
+  ✓ Thor Ragnarok -> ue80QwXMRHg
+  ✓ Deadpool 2 -> D86RtevtfrA
+  ✓ Wonder Woman -> 1Q8fG0TtVAY
+  ✓ Aquaman -> WDkg3h8PCVU
+  ✓ Man of Steel -> T6DJcgm3wNY
+  ✓ Justice League -> 3cxixDgHUYw
+  ✓ Suicide Squad -> CmRih_VtVAs
+  ✓ Joker -> zAGVQLHvwOY
+
+=== TIER 400 ===
+  ✓ Good Will Hunting -> PaZVjZEFkRs
+  ✓ A Beautiful Mind -> EajIlG_OCvw
+  ✓ The Social Network -> lB95KLmpLR4
+  ✓ Moneyball -> -4QPVo0UIzc
+  ✓ The Big Short -> vgqG3ITMv1Q
+  ✓ Wall Street -> NtTkHu8R2_Q
+  ✓ Margin Call -> IjZ-ke1kJrA
+  ✓ Boiler Room -> kgCLG4gCAvI
+  ✓ The Founder -> AX2uz2XYkbo
+  ✓ Steve Jobs -> aEr6K1bwIVs
+  ✓ Rush -> 4XA73ni9eVs
+  ✓ Seabiscuit -> a6Zjij_glsI
+  ✓ The Pursuit of Happyness -> DMOBlEcRuw8
+  ✓ Rocky -> -Hk-LYcavrw
+  ✓ Creed -> Uv554B7YHk4
+  ✓ Raging Bull -> F2UKuKxCJqc
+  ✓ The Wrestler -> 61-GFxjTyV0
+  ✓ Foxcatcher -> 8361stZ8n0w
+  ✓ Million Dollar Baby -> 5_RsHRmIRBY
+  ✓ Cinderella Man -> PpdRWplFjG8
+  ✓ Warrior -> I5kzcwcQA1Q
+  ✓ Fury -> q94n3eWOWXM
+  ✓ Saving Private Ryan -> S1Qj_AVu2pA
+  ✓ Full Metal Jacket -> n2i917l5RFc
+  ✓ Platoon -> R8weLPF4qBQ
+  ✓ Apocalypse Now -> 9l-ViOOFH-s
+  ✓ Black Hawk Down -> 2GfBkC3qs78
+  ✓ Hacksaw Ridge -> s2-1hz1juBI
+  ✓ We Were Soldiers -> HnLHmGzByPA
+  ✓ The Thin Red Line -> mKl5_OxKBn8
+  ✓ Jarhead -> -aBP-c28_1M
+  ✓ Lone Survivor -> yoLFk4JK_RM
+  ✓ American Sniper -> 99k3u9ay1gs
+  ✓ Zero Dark Thirty -> LJFra3B9sbA
+  ✓ Argo -> JW3WfSFgrVY
+  ✓ Munich -> feIjYUEWVxk
+  ✓ The Hurt Locker -> AIbFvqFYRT4
+  ✓ Green Zone -> e3KJ21TLKVE
+  ✓ Body of Lies -> bxQW8NGNb60
+  ✓ Syriana -> JvTni7Nggi0
+  ✓ Sicario -> G8tlEcnrGnU
+  ✓ Hell or High Water -> JQoqsKoJVDw
+  ✓ Wind River -> W7V9Fsll5qM
+  ✓ Prisoners -> bpXfcTF6iVk
+  ✓ Nightcrawler -> u1uP_8VJkDQ
+  ✓ Drive -> KBiOF3y1W0Y
+  ✓ Collateral -> JlcX_GXtf40
+  ✓ Heat -> h7N1gsQY4Io
+  ✓ The Town -> uAjECYnrYks
+  ✓ Gone Baby Gone -> JyT0_wfQR2Y
+  ✓ Mystic River -> W7NktJhrRYQ
+  ✓ Zodiac -> yNncHPl1UXg
+  ✓ Seven -> KPOuJGkpblk
+  ✓ The Silence of the Lambs -> 6iB21hsprAQ
+  ✓ Red Dragon -> Cln4p9DxnGI
+  ✓ Hannibal -> Es3B24z8fdA
+  ✓ Manhunter -> Nbpk0pv60DE
+  ✓ American Psycho -> 5YnGhW4UEhc
+  ✓ Filth -> uWGhCLu0fZg
+  ✓ Trainspotting -> 8LuxOYIpu-I
+  ✓ Snatch -> 9Jar2XkBboo
+  ✓ Lock Stock and Two Smoking Barrels -> HY7mRdQuUSw
+  ✓ The Gentlemen -> 2B0RpUGss2c
+  ✓ Baby Driver -> zTvJJnoWIPk
+  ✓ Hot Fuzz -> ayTnvVpj9t4
+  ✓ Shaun of the Dead -> LIfcaZ4pC-4
+  ✓ Scott Pilgrim vs the World -> 7wd5KEaOtm4
+  ✓ Kick-Ass -> 2rpXHqnGDXo
+  ✓ Atomic Blonde -> yIUube1pSC0
+  ✓ Red Sparrow -> PmUL6wMpMWw
+  ✓ Salt -> QZ40WlshNwU
+  ✓ Anna -> VVhkuL3d_Tc
+  ✓ Lucy -> bN7ksFEVO9U
+  ✓ The Fifth Element -> fQ9RqgcR24g
+  ✓ Leon The Professional -> aNQqoExfQsg
+  ✓ Taxi Driver -> T5IligQP7Fo
+  ✓ Goodfellas -> 2ilzidi_J8Q
+  ✓ Casino -> EJXDMwGWhoA
+  ✓ The Irishman -> WHXxVmeGQUc
+  ✓ Public Enemies -> Ee92mDZu_PI
+  ✓ Donnie Brasco -> omIiE9KKj2o
+  ✓ The Untouchables -> 2cGat1xI8G8
+  ✓ American Gangster -> BV_nssS6Zkg
+  ~ Heat Pacino -> h7N1gsQY4Io (dup)
+  ✓ Blow -> scWkP1GdnuU
+  ✓ The Departed -> iojhqm0JTW4
+  ✓ Scarface -> 7pQQHnqBa2E
+  ✓ Carlito's Way -> _ZMd4Baswb4
+  ~ Casino 1995 -> EJXDMwGWhoA (dup)
+  ✓ A Bronx Tale -> z50PjmZYS4A
+
+=== TIER 600 ===
+  ✓ There Will Be Blood -> FeSLPELpMeM
+  ✓ The Master -> -EGSWpBDbho
+  ✓ Phantom Thread -> xNsiQMeSvMk
+  ✓ Licorice Pizza -> ofnXPwUPENo
+  ✓ Magnolia -> KnamcFv_N9Q
+  ✓ Punch-Drunk Love -> KGqn5k227HY
+  ✓ Boogie Nights -> YN7pcEa83dU
+  ✓ Inherent Vice -> wZfs22E7JmI
+  ✓ Hard Eight -> AwLWHNuJ-2M
+  ✓ The Royal Tenenbaums -> caMgokYWboU
+  ✓ Rushmore -> 6ZVdXXG3KN8
+  ✓ Moonrise Kingdom -> _eOI3AamSm8
+  ✓ Isle of Dogs -> dt__kig8PVU
+  ✓ The French Dispatch -> TcPk2p0Zaw4
+  ✓ Bottle Rocket -> JJPQ-NnjZR0
+  ✓ The Life Aquatic -> UpU0DZXTGA0
+  ✓ The Darjeeling Limited -> B2R7O2IlndM
+  ✓ Fantastic Mr Fox -> n2igjYFojUo
+  ✓ Asteroid City -> 9FXCSXuGTF4
+  ✓ Synecdoche New York -> i2q8F0yRmrs
+  ✓ Being John Malkovich -> LEtlqumjXLw
+  ✓ Adaptation -> uougMRq-MSo
+  ✓ Eternal Sunshine of the Spotless Mind -> 07-QBnEkgXU
+  ✓ Anomalisa -> WQkHA3fHk_0
+  ✓ I'm Thinking of Ending Things -> cDTg62vsV4U
+  ✓ Her -> dJTU48_yghs
+  ✓ Lost in Translation -> W6iVPCRflQM
+  ✓ Marie Antoinette -> yBWyKRoh98U
+  ✓ The Virgin Suicides -> YRPXQ3XcpKc
+  ✓ Somewhere -> iEga7Hz9a3U
+  ✓ The Beguiled -> iBoLK5z_FHo
+  ✓ On the Rocks -> Xn3sK4WiviA
+  ✓ Priscilla -> DBWk6BohVXk
+  ✓ Melancholia -> 6IZGwvxhXvw
+  ✓ Antichrist -> LO-TNfPzh_k
+  ✓ Dogville -> dC3UFn5MeCg
+  ✓ Breaking the Waves -> dPmWixRLFPQ
+  ✓ Dancer in the Dark -> 53vr9EiOH7g
+  ✓ Dogtooth -> s0J8Y6McHVI
+  ✓ The Lobster -> LTNZmOJxuAc
+  ✓ The Killing of a Sacred Deer -> CQFdGfwChtw
+  ✓ The Favourite -> SYb-wkehT1g
+  ✓ Poor Things -> RlbR5N6veqw
+  ✓ Kinds of Kindness -> NGOL2_mI9Hw
+  ✓ Holy Motors -> NWu9WjEcdbk
+  ✓ Enter the Void -> JJkPLYmUyzg
+  ✓ Climax -> lPn5YTdLfSc
+  ✓ Irreversible -> qkBoDr5D1Is
+  ✓ Mandy -> rI054ow6KJk
+  ✓ Color Out of Space -> RfYAXMwCpk0
+  ✓ Pig -> gH6vhlNTLUk
+  ✓ Dream Scenario -> q3x9iUL-74w
+  ✓ Leaving Las Vegas -> O4HrGa2-RLc
+  ✓ Uncut Gems -> vTfJp2Ts9X8
+  ✓ Good Time -> AVyGCxHZ_Ko
+  ✓ The Rover -> ChM2icbWo9w
+  ✓ Lawless -> HibcC7w5l1g
+  ✓ Killing Them Softly -> xNoSRlOJXm0
+  ✓ Out of the Furnace -> Gw0qH34cbRE
+  ✓ Black Mass -> CE3e3hGF2jc
+  ✓ The Place Beyond the Pines -> KepnbJT5nBw
+  ✓ Blue Valentine -> aILx69WrRhQ
+  ✓ Only God Forgives -> YqAeVosG4zI
+  ✓ The Neon Demon -> cipOTUO0CmU
+  ✓ Bronson -> u2VM7UTy1xw
+  ✓ Valhalla Rising -> Es-CEAWXcfw
+  ✓ Pusher -> A4VKaMrvXgk
+  ✓ Cosmopolis -> PvYyKTZtUG0
+  ✓ The Tree of Life -> RrAz1YLh8nY
+  ✓ A Hidden Life -> qJXmdY4lVR0
+  ✓ Knight of Cups -> SI2j1FHCjtM
+  ✓ To the Wonder -> NTAzcTZTY1g
+  ✓ Song to Song -> mL0FYUpXuoo
+  ~ Badlands -> 43R9l7EkJwE (dup)
+  ✓ Days of Heaven -> EzZ8phk8yYc
+  ✓ Waking Life -> edrGozs6W_I
+  ✓ A Scanner Darkly -> hkjDUERgCQw
+  ✓ Before Sunrise -> 6MUcuqbGTxc
+  ✓ Before Sunset -> oI3UuneLcyU
+  ✓ Before Midnight -> Kv6JWoVKlGY
+  ✓ Boyhood -> Y0oX0xiwOv8
+  ✓ Paris Texas -> 3j8ypqxfiT4
+  ✓ Wings of Desire -> liAOEb5rnbA
+  ✓ The Elephant Man -> AF9gNKJi79g
+  ✓ Mulholland Drive -> jbZJ487oJlY
+  ✓ Lost Highway -> INuQw8uexyo
+  ✓ Wild at Heart -> dQIdBfrF0Ik
+  ✓ Blue Velvet -> rAA6imfqMYQ
+  ✓ Twin Peaks Fire Walk with Me -> GJdH09lo3DM
+  ✓ Eraserhead -> 7WAzFWu2tVw
+
+Wrote 261 trailers
+  Tier 200: 84
+  Tier 400: 88
+  Tier 600: 89

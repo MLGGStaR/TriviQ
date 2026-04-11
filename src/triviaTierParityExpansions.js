@@ -94,7 +94,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
   },
   sports: {
     600: qa([
-      ["Which country hosts the Monaco Grand Prix?", "Monaco"],
       ["What is the maximum score with one dart in standard darts?", "60"],
       ["How many points is a drop goal in rugby union?", "3"],
       ["What race opens cycling's Grand Tours season calendar?", "Giro d'Italia"],
@@ -200,7 +199,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
   the_office: {
     400: qa([
       ["What is Dwight's family surname?", "Schrute"],
-      ["What city is Stamford branch in?", "Stamford"],
       ["What is Meredith's son's name?", "Jake"],
       ["What is Oscar's surname?", "Martinez"],
     ]),
@@ -350,7 +348,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What is the museum worker who joins the group later called?", "Yumiko"],
       ["What city hosts the hospital arc in season 5?", "Atlanta"],
       ["What is the Oceanside leader's name?", "Natania"],
-      ["What is Daryl's dog called?", "Dog"],
       ["What is Negan's bat called?", "Lucille"],
     ]),
   },
@@ -377,9 +374,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
     400: qa([
       ["What is Dexter's surname?", "Morgan"],
       ["What is Rita's first husband's name?", "Paul"],
-      ["What is Angel Batista's first name?", "Angel"],
-      ["What is Maria LaGuerta's surname?", "LaGuerta"],
-      ["What is Joey Quinn's surname?", "Quinn"],
       ["What is Dexter's stepdaughter called?", "Astor"],
       ["What is the villain in season 4 nicknamed?", "Trinity Killer"],
       ["What city is Dexter set in?", "Miami"],
@@ -415,9 +409,7 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What is Lagertha's title for part of the series?", "Queen"],
     ]),
     600: qa([
-      ["What is Ragnar's son called Hvitserk known as later?", "Hvitserk"],
       ["What English kingdom is granted to Viking settlers?", "East Anglia"],
-      ["What is Bishop Heahmund's rank?", "Bishop"],
       ["What Rus prince invades Scandinavia?", "Oleg"],
       ["What river do Ragnar's forces sail up to Paris?", "Seine"],
       ["What kingdom does Ubbe dream of settling in?", "North America"],
@@ -536,10 +528,8 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What blue alien keeps returning to Earth for help?", "Allen"],
       ["What demon detective investigates Omni-Man?", "Damien Darkblood"],
       ["What teen hero can duplicate herself?", "Dupli-Kate"],
-      ["What robot hero later uses a clone body?", "Robot"],
       ["What alien empire wants Earth?", "Viltrum Empire"],
       ["What speedster hero dies in the massacre?", "Red Rush"],
-      ["What is Rex Splode's codename?", "Rex Splode"],
       ["What is Mark's father better known as?", "Omni-Man"],
     ]),
     600: qa([
@@ -601,7 +591,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What fish is Nemo's father?", "Marlin"],
       ["What city is Ratatouille set in?", "Paris"],
       ["What number is Lightning McQueen famous for?", "95"],
-      ["What clownfish is lost in Finding Nemo?", "Nemo"],
       ["What kingdom does Elsa rule?", "Arendelle"],
       ["What robot falls in love with EVE?", "WALL-E"],
       ["What Scottish princess is the heroine of Brave?", "Merida"],
@@ -646,7 +635,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What company does Bulma's family run?", "Capsule Corp"],
       ["What race are Goku and Vegeta?", "Saiyans"],
       ["What attack is Goku famous for?", "Kamehameha"],
-      ["What fusion dance creates Gogeta?", "Fusion Dance"],
       ["What green villain absorbs androids to evolve?", "Cell"],
       ["What is Gohan's wife called?", "Videl"],
       ["What dragon grants wishes when the Dragon Balls are gathered?", "Shenron"],
@@ -675,7 +663,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What is Usopp's father's name?", "Yasopp"],
       ["What is Luffy's grandfather's name?", "Garp"],
       ["What restaurant does Sanji work at first?", "Baratie"],
-      ["What smoker marine wields a jitte weapon?", "Smoker"],
     ]),
     600: qa([
       ["What fish-man pirate enslaves Nami's village?", "Arlong"],
@@ -711,7 +698,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What true title does Jin-Woo inherit from Ashborn?", "Shadow Monarch"],
       ["What frosty enemy monarch opposes Jin-Woo?", "Frost Monarch"],
       ["What beastly enemy monarch opposes Jin-Woo?", "Beast Monarch"],
-      ["What architect designed the System?", "Architect"],
       ["What giant stone statue nearly kills Jin-Woo first?", "God Statue"],
       ["What shadow can heal allies with magic?", "Tusk"],
       ["What castle dungeon arc powers Jin-Woo up?", "Demon Castle"],

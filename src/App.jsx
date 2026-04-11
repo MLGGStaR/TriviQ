@@ -17,6 +17,7 @@ import LOGO_CLEAN_MANIFEST from "./logoCleanManifest.js";
 // Logo manifest removed — logos now use the Who Am I image system via wiki keys.
 import { CHARADES_HARD_OVERRIDES, QUESTION_REFINEMENT_ADDITIONS } from "./questionRefinements.js";
 import MEGA_NEW_EXPANSIONS from "./megaNewExpansions.js";
+import MORE_TRIVIA_EXPANSIONS from "./moreTriviaExpansions.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
 import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds } from "./questionUsage.js";
 import { getCachedAccountSession, loadAccountSession, loginAccount, logoutAccount, signupAccount } from "./accountAuth.js";
@@ -402,7 +403,6 @@ const RAW_BANK = {
       {q:"National animal of Australia?",a:"Kangaroo (and emu)"},
       {q:"How many days in February (non-leap year)?",a:"28"},
       {q:"Tallest animal in the world?",a:"Giraffe"},
-      {q:"Color of an emerald?",a:"Green"},
       {q:"How many sides does an octagon have?",a:"8"},
       {q:"Currency of the UK?",a:"Pound sterling (£)"},
       {q:"Capital of Japan?",a:"Tokyo"},
@@ -861,7 +861,6 @@ const RAW_BANK = {
       {q:"What is AC/DC's most famous song?",a:"Back in Black (or Highway to Hell)"},
       {q:"Who sang Thriller?",a:"Michael Jackson"},
       {q:"Country music capital of the world?",a:"Nashville, Tennessee"},
-      {q:"What instrument does a violinist play?",a:"The violin"},
     ],
     400:[
       {q:"Band that released Dark Side of the Moon?",a:"Pink Floyd"},
@@ -1691,7 +1690,6 @@ const RAW_BANK = {
       {q:"What is Moana about?",a:"A young Polynesian chief's daughter who sails to return a stolen relic to the goddess Te Fiti"},
       {q:"Who is the villain in Sleeping Beauty?",a:"Maleficent"},
       {q:"What is the story of Up?",a:"An elderly widower flies his house to South America using thousands of balloons"},
-      {q:"What animal is Dumbo?",a:"An elephant who can fly using his large ears"},
     ],
     400:[
       {q:"What is WALL-E an acronym for?",a:"Waste Allocation Load Lifter: Earth-Class"},
@@ -2887,6 +2885,8 @@ const RAW_BANK = {
     {q:"I manage Dunder Mifflin, declare bankruptcy by shouting it, and think I'm the world's best boss",a:"Michael Scott",wiki:"Michael_Scott_(The_Office)"},
     {q:"I farm beets, love bears, and serve as assistant to the regional manager",a:"Dwight Schrute",wiki:"Dwight_Schrute"},
     {q:"I'm a colorful lawyer with a loud wardrobe and an even louder mouth who works for Albuquerque's criminals",a:"Saul Goodman",wiki:"Saul_Goodman"},
+    {q:"I'm a sardonic FBI agent who sees the supernatural truth nobody else believes",a:"Fox Mulder",wiki:"Fox_Mulder"},
+    {q:"I'm a brilliant but misanthropic doctor who diagnoses impossible cases using a cane",a:"Gregory House",wiki:"Gregory_House"},
   ],
   400:[
     {q:"I'm a chemistry teacher's wife who eventually helps launder drug money, and my husband's secret destroys our family",a:"Skyler White",wiki:"Skyler_White"},
@@ -2904,6 +2904,15 @@ const RAW_BANK = {
     {q:"I wear a trucker cap, love pudding, and survive every nightmare Hawkins throws at me",a:"Dustin Henderson",wiki:"Dustin_Henderson"},
     {q:"I work reception at Dunder Mifflin, paint murals, and marry Jim",a:"Pam Beesly",wiki:"Pam_Beesly"},
     {q:"I stare into the camera, prank Dwight, and somehow charm the entire office",a:"Jim Halpert",wiki:"Jim_Halpert"},
+    {q:"I'm the high-powered defense attorney who says 'Better Call Saul'",a:"Jimmy McGill",wiki:"Jimmy_McGill"},
+    {q:"I run a motel with my mother's corpse in the basement",a:"Norman Bates",wiki:"Norman_Bates"},
+    {q:"I'm the Iron Throne's cruel boy-king from a famous fantasy series",a:"Joffrey Baratheon",wiki:"Joffrey_Baratheon"},
+    {q:"I'm the lovable meth dealer turned friend of Walter White",a:"Jesse Pinkman",wiki:"Jesse_Pinkman"},
+    {q:"I'm the Pawnee parks director who hates Leslie Knope's optimism",a:"Ron Swanson",wiki:"Ron_Swanson"},
+    {q:"I'm the private detective who solved cases in 1980s Miami with my mustache and Hawaiian shirts",a:"Thomas Magnum",wiki:"Thomas_Magnum"},
+    {q:"I'm an idealistic White House staffer serving President Bartlet",a:"Josh Lyman",wiki:"Josh_Lyman"},
+    {q:"I'm a former Marine turned suburban mom who sells marijuana in a gated community",a:"Nancy Botwin",wiki:"Nancy_Botwin"},
+    {q:"I command the USS Enterprise and seek out new life and civilizations",a:"James T. Kirk",wiki:"James_T._Kirk"},
   ],
   600:[
     {q:"I moved from Canada to New York, became a news anchor, and somehow dated two best friends",a:"Robin Scherbatsky",wiki:"Robin_Scherbatsky"},
@@ -2953,6 +2962,14 @@ const RAW_BANK = {
     {q:"I copy a thousand jutsu, hide one Sharingan under my headband, and read romance novels constantly",a:"Kakashi Hatake",wiki:"Kakashi_Hatake"},
     {q:"I wear a long coat, a cap fused to my hair, and my Stand can stop time",a:"Jotaro Kujo",wiki:"Jotaro_Kujo"},
     {q:"I'm the bloodthirsty devil hunter who loves chaos, cats, and causing exactly the wrong kind of trouble",a:"Power",wiki:"Power_(Chainsaw_Man)"},
+    {q:"I'm the Survey Corps commander who trades everything for humanity's freedom",a:"Erwin Smith",wiki:"Erwin_Smith"},
+    {q:"I'm a gentle giant titan shifter who helps restore walls",a:"Reiner Braun",wiki:"Reiner_Braun"},
+    {q:"I summon my Stand 'The World' to freeze time",a:"Dio Brando",wiki:"Dio_Brando"},
+    {q:"I'm the world's strongest man and Captain of the Night Raid",a:"Akame",wiki:"Akame_(character)"},
+    {q:"I'm the pink-haired fire dragon slayer from Fairy Tail",a:"Natsu Dragneel",wiki:"Natsu_Dragneel"},
+    {q:"I'm a transfer student who becomes an S-class mage at Fairy Tail",a:"Lucy Heartfilia",wiki:"Lucy_Heartfilia"},
+    {q:"I'm the ice-breath alchemist of Fullmetal Alchemist",a:"Roy Mustang",wiki:"Roy_Mustang"},
+    {q:"I'm the gentle giant samurai with a scarred cheek from Rurouni Kenshin",a:"Sanosuke Sagara",wiki:"Sanosuke_Sagara"},
   ],
   600:[
     {q:"I am a legendary Pokemon said to have shaped the universe itself",a:"Arceus",wiki:"Arceus"},
@@ -2985,6 +3002,8 @@ const RAW_BANK = {
     {q:"I am the wise king of the Pride Lands, and I teach my son about the circle of life",a:"Mufasa",wiki:"Mufasa"},
     {q:"I wear black armor, command the Empire, and reveal one of cinema's most famous family secrets",a:"Darth Vader",wiki:"Darth_Vader"},
     {q:"I'm a teenage superhero balancing school, queens, and neighborhood crime in the MCU",a:"Spider-Man",wiki:"Spider-Man_(Marvel_Cinematic_Universe)"},
+    {q:"I'm a robotic AI suit inventor with a goatee and a taste for showmanship",a:"Tony Stark",wiki:"Iron_Man_(Marvel_Cinematic_Universe)"},
+    {q:"I'm a boy with a lightning bolt scar raised under the Dursleys' stairs",a:"Harry Potter",wiki:"Harry_Potter_(character)"},
   ],
   400:[
     {q:"I'm a terminator sent from the future, and I tell people I'll be back",a:"The Terminator (T-800)",wiki:"Terminator_(character)"},
@@ -3002,6 +3021,14 @@ const RAW_BANK = {
     {q:"I volunteer for my sister, survive the Hunger Games, and become the Mockingjay",a:"Katniss Everdeen",wiki:"Katniss_Everdeen"},
     {q:"I mentor Neo, wear dark glasses, and explain the Matrix to the audience",a:"Morpheus",wiki:"Morpheus_(The_Matrix)"},
     {q:"I split my soul into Horcruxes, fear love itself, and the wizarding world knows me as the Dark Lord",a:"Voldemort",wiki:"Voldemort"},
+    {q:"I'm a sword-swinging pirate captain with a gold tooth and a fondness for rum",a:"Jack Sparrow",wiki:"Jack_Sparrow"},
+    {q:"I'm a Scottish warrior painted blue who cries for freedom",a:"William Wallace",wiki:"William_Wallace_(Braveheart)"},
+    {q:"I carry a chocolate factory inherited from a purple-coated genius",a:"Willy Wonka",wiki:"Willy_Wonka"},
+    {q:"I'm a robot assassin from the future covered in liquid metal",a:"T-1000",wiki:"T-1000"},
+    {q:"I'm the green half of a mutant duo who ends up in the body of a therapist",a:"Donnie Darko",wiki:"Donnie_Darko_(character)"},
+    {q:"I'm the girl in the yellow jumpsuit swinging a katana for revenge",a:"The Bride",wiki:"The_Bride_(Kill_Bill)"},
+    {q:"I'm the pint-sized assassin who wears big shoes and a long coat",a:"Leon",wiki:"L%C3%A9on_Montana"},
+    {q:"I'm a space pirate with a raccoon friend and a sentient tree for a sidekick",a:"Star-Lord",wiki:"Star-Lord"},
   ],
   600:[
     {q:"I am the feared patriarch of the Corleone family, and people still come to me on the day of my daughter's wedding",a:"Vito Corleone",wiki:"Vito_Corleone"},
@@ -3629,24 +3656,27 @@ const BANK = sanitizeBank(
                       mergeQuestionExpansions(
                         mergeQuestionExpansions(
                           mergeQuestionExpansions(
-                            mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
-                            QUESTION_MINIMUMS,
+                            mergeQuestionExpansions(
+                              mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
+                              QUESTION_MINIMUMS,
+                            ),
+                            TRIVIA_MEGA_EXPANSIONS,
                           ),
-                          TRIVIA_MEGA_EXPANSIONS,
+                          TRIVIA_ULTRA_EXPANSIONS,
                         ),
-                        TRIVIA_ULTRA_EXPANSIONS,
+                        TRIVIA_TIER_BALANCE_EXPANSIONS,
                       ),
-                      TRIVIA_TIER_BALANCE_EXPANSIONS,
+                      QUESTION_REFINEMENT_ADDITIONS,
                     ),
-                    QUESTION_REFINEMENT_ADDITIONS,
+                    TRIVIA_TIER_PARITY_EXPANSIONS,
                   ),
-                  TRIVIA_TIER_PARITY_EXPANSIONS,
+                  TRIVIA_TIER_FINAL_PARITY_EXPANSIONS,
                 ),
-                TRIVIA_TIER_FINAL_PARITY_EXPANSIONS,
+                TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS,
               ),
-              TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS,
+              MEGA_NEW_EXPANSIONS,
             ),
-            MEGA_NEW_EXPANSIONS,
+            MORE_TRIVIA_EXPANSIONS,
           ),
           { songs: mergeStandaloneCategory(SONG_CLIP_BANK, SONG_CLIP_ADDITIONS) },
         ),
@@ -4098,8 +4128,6 @@ function MovieScenePlayer({tile}){
               title={`${tile.a} movie scene clip`}
               style={{position:"absolute",top:"-1%",left:"-1.25%",width:"102.5%",height:"102%",pointerEvents:"none",opacity:concealPlayer?0:1,transition:concealPlayer?"none":"opacity .16s ease"}}
             />
-            <div style={{position:"absolute",top:0,left:0,right:0,height:22,background:"linear-gradient(180deg,rgba(15,23,42,.86) 0%, rgba(15,23,42,.42) 62%, rgba(15,23,42,0) 100%)",pointerEvents:"none"}}/>
-            <div style={{position:"absolute",left:0,right:0,bottom:0,height:18,background:"linear-gradient(0deg,rgba(15,23,42,.82) 0%, rgba(15,23,42,.34) 58%, rgba(15,23,42,0) 100%)",pointerEvents:"none"}}/>
             {flashMask&&(
               <div style={{position:"absolute",inset:0,display:"flex",alignItems:"center",justifyContent:"center",background:concealPlayer?"#000000":"rgba(15,23,42,.42)",pointerEvents:"none"}}>
                 <div style={{display:"flex",alignItems:"center",justifyContent:"center",width:72,height:72,borderRadius:"50%",background:concealPlayer?"rgba(255,255,255,.1)":"rgba(15,23,42,.74)",backdropFilter:concealPlayer?"none":"blur(2px)",color:"#fff",fontSize:28,fontWeight:800,boxShadow:concealPlayer?"0 0 0 1px rgba(255,255,255,.08)":"0 10px 24px rgba(15,23,42,.24)"}}>
@@ -4637,36 +4665,59 @@ const CSS=`
   ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
   /* Touch devices: <html class="touch-device"> is set at runtime by App. */
   html.touch-device,
-  html.touch-device body,
+  html.touch-device body{
+    height:auto !important;
+    min-height:100% !important;
+    max-height:none !important;
+    overflow-x:hidden !important;
+    overflow-y:auto !important;
+    -webkit-overflow-scrolling:touch;
+    overscroll-behavior-y:auto !important;
+  }
   html.touch-device #root{
     height:auto !important;
     min-height:100% !important;
     max-height:none !important;
     overflow:visible !important;
-    overflow-y:auto !important;
-    -webkit-overflow-scrolling:touch;
+    display:block !important;
   }
   html.touch-device #root > div,
-  html.touch-device #root > div > div{
+  html.touch-device #root > div > div,
+  html.touch-device #root > div > div > div{
     overflow:visible !important;
     overflow-y:visible !important;
     max-height:none !important;
     height:auto !important;
   }
+  html.touch-device #root > div{
+    min-height:100% !important;
+  }
   /* Pure CSS fallback: if device has no hover (touch-only), force scroll. */
   @media (hover: none){
-    html, body, #root{
+    html, body{
       height:auto !important;
       min-height:100% !important;
       max-height:none !important;
+      overflow-x:hidden !important;
       overflow-y:auto !important;
       -webkit-overflow-scrolling:touch;
+      overscroll-behavior-y:auto !important;
     }
-    #root > div, #root > div > div{
+    #root{
+      height:auto !important;
+      min-height:100% !important;
+      max-height:none !important;
+      overflow:visible !important;
+      display:block !important;
+    }
+    #root > div, #root > div > div, #root > div > div > div{
       overflow:visible !important;
       overflow-y:visible !important;
       max-height:none !important;
       height:auto !important;
+    }
+    #root > div{
+      min-height:100% !important;
     }
   }
 `;
@@ -4721,18 +4772,26 @@ export default function App(){
       const body=document.body;
       html.style.height="";
       html.style.minHeight="";
+      html.style.maxHeight="";
+      html.style.overflowX="";
       html.style.overflowY="";
+      html.style.overscrollBehaviorY="";
       if(body){
         body.style.height="";
         body.style.minHeight="";
+        body.style.maxHeight="";
+        body.style.overflowX="";
         body.style.overflowY="";
         body.style.webkitOverflowScrolling="";
+        body.style.overscrollBehaviorY="";
       }
       const root=document.getElementById("root");
       if(root){
         root.style.height="";
         root.style.minHeight="";
+        root.style.maxHeight="";
         root.style.overflow="";
+        root.style.display="";
       }
     };
     const apply=()=>{
@@ -4743,18 +4802,26 @@ export default function App(){
         html.classList.add("touch-device");
         html.style.height="auto";
         html.style.minHeight="100%";
+        html.style.maxHeight="none";
+        html.style.overflowX="hidden";
         html.style.overflowY="auto";
+        html.style.overscrollBehaviorY="auto";
         if(body){
           body.style.height="auto";
           body.style.minHeight="100%";
+          body.style.maxHeight="none";
+          body.style.overflowX="hidden";
           body.style.overflowY="auto";
           body.style.webkitOverflowScrolling="touch";
+          body.style.overscrollBehaviorY="auto";
         }
         const root=document.getElementById("root");
         if(root){
           root.style.height="auto";
           root.style.minHeight="100%";
+          root.style.maxHeight="none";
           root.style.overflow="visible";
+          root.style.display="block";
         }
       }else{
         html.classList.remove("touch-device");
@@ -5778,6 +5845,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
 
 function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
   const compact=teams.length>3;
+  const isFfa=gameMode==="ffa";
   return(
     <div className="fadein" style={{display:"flex",flexDirection:"column",gap:7,width:"100%",maxWidth:compact?700:520}}>
       <div style={{fontSize:10,fontWeight:800,color:"#64748B",letterSpacing:1.05,textAlign:"center"}}>AWARD POINTS TO:</div>
@@ -5791,10 +5859,16 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
           );
         })}
       </div>
-      <div style={{display:"flex",gap:7}}>
-        <button className="tap" onClick={onWrong} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Wrong (-{gameMode==="ffa"?tile.pts:Math.round(tile.pts/2)} from {teams[curTeam]})</button>
-        <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Pass</button>
-      </div>
+      {isFfa?(
+        <div style={{display:"flex",gap:7}}>
+          <button className="tap" onClick={onWrong} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Wrong (-{tile.pts} from {teams[curTeam]})</button>
+          <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Pass</button>
+        </div>
+      ):(
+        <div style={{display:"flex",justifyContent:"center"}}>
+          <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:800,fontSize:15,padding:"14px 48px",borderRadius:18,subtle:true}),minWidth:220}}>Pass</button>
+        </div>
+      )}
     </div>
   );
 }
@@ -6002,17 +6076,21 @@ const QUESTION_BACK_BUTTON_WRAP_STYLE={
 
 const TOUCH_SCREEN_STYLE_OVERRIDE={
   height:"auto",
-  minHeight:"100dvh",
+  minHeight:0,
   maxHeight:"none",
   overflow:"visible",
+  overflowX:"visible",
   overflowY:"visible",
 };
 const TOUCH_BODY_STYLE_OVERRIDE={
   overflow:"visible",
+  overflowX:"visible",
   overflowY:"visible",
   minHeight:0,
-  flex:"0 0 auto",
-  paddingBottom:24,
+  height:"auto",
+  maxHeight:"none",
+  flex:"none",
+  paddingBottom:120,
 };
 
 const QUESTION_TIMER_SIZE=156;
@@ -6363,7 +6441,7 @@ function LogoImage({domain}){
   );
 }
 
-function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
@@ -6414,7 +6492,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
           </div>
-          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
+          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
     </div>
@@ -6422,7 +6500,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
 }
 
 // Who Am I - image-based character prompt
-function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const catLabel=BANK[tile.catId].label;
@@ -6456,7 +6534,7 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
           </div>
-          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
+          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
     </div>
@@ -6464,7 +6542,7 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
 }
 
 // Country Map - local world-map SVG asset
-function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
@@ -6496,14 +6574,14 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
           </div>
-          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
+          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
     </div>
   );
 }
 
-function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
@@ -6535,14 +6613,14 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
           </div>
-          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
+          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
     </div>
   );
 }
 
-function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
@@ -6575,14 +6653,14 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
           </div>
-          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>}
+          {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
     </div>
   );
 }
 
-function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard}){
+function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const qrSearchUrl=`https://www.google.com/search?q=${encodeURIComponent(tile.a)}`;
@@ -6616,7 +6694,7 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
           </div>
-          <AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass}/>
+          <AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>
         </div>
       </div>
     </div>

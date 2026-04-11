@@ -56,7 +56,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What castle is the ancestral seat of House Arryn?", "The Eyrie"],
       ["What metal can kill White Walkers as discovered by Sam?", "Dragonglass"],
       ["What title does Tyrion hold under Daenerys?", "Hand of the Queen"],
-      ["What city is known as the Free City of Braavos?", "Braavos"],
       ["What is the name of Arya's Faceless Man trainer?", "Jaqen H'ghar"],
     ]),
     600: qa([
@@ -103,7 +102,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What card game does the group play with fantasy decks?", "Magic: The Gathering"],
       ["What song does Sheldon want when sick?", "Soft Kitty"],
-      ["What is Wolowitz's mother's surname?", "Wolowitz"],
       ["What is Leonard's surname?", "Hofstadter"],
       ["What is Sheldon's favorite superhero?", "The Flash"],
     ]),
@@ -135,7 +133,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What masked group uses walker skins as camouflage?", "The Whisperers"],
       ["What is the Hilltop's blacksmith called?", "Earl"],
-      ["What is Daryl's crossbow weapon type?", "Crossbow"],
       ["What is Rick's wife called?", "Lori"],
       ["What scientist tries to reach Washington in early seasons?", "Eugene Porter"],
     ]),
@@ -184,7 +181,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What monk becomes Ragnar's close friend?", "Athelstan"],
       ["What is Ragnar's eldest son called?", "Bjorn"],
       ["What city do the Vikings repeatedly raid in England?", "Wessex"],
-      ["What is the Seer's title in Kattegat?", "Seer"],
       ["What is Ivar's mother called?", "Aslaug"],
     ]),
     600: qa([
@@ -223,7 +219,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What restaurant chain does Scott Lang work at after prison?", "Baskin-Robbins"],
       ["What is the Black Widow training program called?", "Red Room"],
       ["What planet imprisons Thor in Ragnarok?", "Sakaar"],
-      ["What is Kamala Khan's family surname?", "Khan"],
       ["What organization hunts Skrulls in Secret Invasion?", "SABER"],
     ]),
   },
@@ -240,7 +235,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What prison island holds villains in The Suicide Squad?", "Corto Maltese"],
       ["What creature kills Superman in Batman v Superman?", "Doomsday"],
       ["What is the shark-headed squad member called?", "King Shark"],
-      ["What TV peacemaker hates the phrase 'woke' while trying to save the world?", "Peacemaker"],
     ]),
   },
   star_wars: {
@@ -269,9 +263,7 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     ]),
     600: qa([
       ["What is MJ's full first name in the MCU?", "Michelle"],
-      ["What villain says 'I am Electro' in No Way Home's final battle?", "Electro"],
       ["What scientist creates The Lizard in The Amazing Spider-Man?", "Curt Connors"],
-      ["What animated villain leads the Spot's transformation?", "The Spot"],
       ["What is the symbiote newspaper photographer rival to Peter called?", "Eddie Brock"],
     ]),
   },
@@ -333,7 +325,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     ]),
     600: qa([
       ["What king of Rohan is under Saruman's influence?", "Theoden"],
-      ["What is the giant spider in Shelob's lair called?", "Shelob"],
       ["What signal lights call Gondor for aid?", "Beacons of Gondor"],
       ["What is the name of Aragorn's horse?", "Brego"],
       ["What tower holds Sauron's eye?", "Barad-dur"],
@@ -350,7 +341,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     600: qa([
       ["What is the name of Miguel's dog in Coco?", "Dante"],
       ["What fish tank city does Nemo end up in?", "Sydney"],
-      ["What is the hidden city in Atlantis called?", "Atlantis"],
       ["What is Baymax built to be?", "Healthcare companion"],
       ["What surname does Lightning McQueen's rival Chick use?", "Hicks"],
     ]),
@@ -360,12 +350,10 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What village is Naruto from?", "Hidden Leaf"],
       ["What is the profession of Light Yagami's rival L?", "Detective"],
       ["What organization hunts tailed beasts in Naruto?", "Akatsuki"],
-      ["What is the giant humanoid enemy in Attack on Titan called?", "Titan"],
       ["What mask-wearing teacher trains Team 7?", "Kakashi"],
     ]),
     600: qa([
       ["What is Eren's hometown district?", "Shiganshina"],
-      ["What is the notebook in Death Note called?", "Death Note"],
       ["What title is given to humanity's strongest soldier in Attack on Titan?", "Levi Ackerman"],
       ["What is Tanjiro's sister called?", "Nezuko"],
       ["What title does Naruto dream of becoming?", "Hokage"],

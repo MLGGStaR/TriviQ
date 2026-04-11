@@ -23,12 +23,22 @@ function isAutoIconOnly(icon) {
 // Manual allowlist — known icon-only brands that fail the strict auto-filter
 const MANUAL_ALLOWLIST = new Set([
   "Instagram","Snapchat","Reddit","Discord","Spotify","Twitch","Steam","Dropbox",
-  "Airbnb","eBay","Puma","Premier League","FIFA","NBA","MLB","Uber","KFC",
-  "Lufthansa","Apple TV+","British Airways","Honda","Slackware",
-  "PayPal","Firefox","Opera","Pinterest","Tumblr","WhatsApp","Telegram",
+  "Airbnb","Puma","Premier League","NBA","MLB","KFC",
+  "Lufthansa","Apple TV+","British Airways","Slackware",
+  "Firefox","Opera","Pinterest","Tumblr","WhatsApp","Telegram",
   "YouTube","TikTok","Apple","Google","Tesla","Nike","Adidas","Netflix",
-  "McDonald's","Ford","Ferrari","PlayStation","Roblox","Valorant","Fortnite",
-  "Jordan","Hermes","Reebok","Fila","Under Armour","New Balance","The North Face",
+  "McDonald's","Ferrari","PlayStation","Roblox","Valorant","Fortnite",
+  "Jordan","Under Armour","PayPal",
+]);
+
+// Denylist — brands whose simple-icons logo is a wordmark (spells out the name).
+// These are excluded even if they're listed as brands we want.
+const WORDMARK_DENYLIST = new Set([
+  "npm","HP","eBay","Fila","Sega","Wix","Tata","Dacia","KTM","SEAT",
+  "smart","The North Face","Deezer",
+  "avianca","Indeed","Reebok","New Balance","Hermes",
+  "IMDb","Uber","Bugatti","Ford","Kia","Last.fm",
+  "SEGA","Honda","FIFA",
 ]);
 
 // Collect all well-known brands we want to try
@@ -78,6 +88,7 @@ for (const title of ALL_BRANDS) {
   const icon = lookupIcon(title);
   if (!icon) continue;
   if (seen.has(icon.title)) continue;
+  if (WORDMARK_DENYLIST.has(icon.title)) continue;
   if (!isAutoIconOnly(icon) && !MANUAL_ALLOWLIST.has(icon.title)) continue;
   seen.add(icon.title);
   const slug = icon.title.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");

@@ -204,7 +204,6 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
   },
   prison_break: {
     400: qa([
-      ["What is Lincoln Burrows's first name?", "Lincoln"],
       ["What alias is Michael using in season 5?", "Kaniel Outis"],
       ["What inmate is Michael's closest friend from the start?", "Sucre"],
     ]),

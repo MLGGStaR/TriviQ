@@ -19,12 +19,8 @@ const TRIVIA_ULTRA_EXPANSIONS = {
     ]),
   },
   the_office: {
-    200: qa([
-      ["What city is the Scranton branch in?", "Scranton"],
-    ]),
     400: qa([
       ["What is Dwight's family farm called?", "Schrute Farms"],
-      ["Who starts the Michael Scott Paper Company?", "Michael Scott"],
       ["What is Kevin's band called?", "Scrantonicity"],
     ]),
     600: qa([
@@ -49,7 +45,6 @@ const TRIVIA_ULTRA_EXPANSIONS = {
       ["What plant does Walt use to poison Brock?", "Lily of the valley"],
       ["What car wash does Walt buy?", "A1A Car Wash"],
       ["Who poisons Brock Cantillo?", "Walter White"],
-      ["What is Gale Boetticher's first name?", "Gale"],
     ]),
   },
   game_thrones: {
@@ -245,7 +240,6 @@ const TRIVIA_ULTRA_EXPANSIONS = {
     ]),
     400: qa([
       ["What is Aquaman's human name?", "Arthur Curry"],
-      ["What word lets Billy become Shazam?", "Shazam"],
       ["What is Harley Quinn's real first name?", "Harleen"],
     ]),
     600: qa([
@@ -413,9 +407,6 @@ const TRIVIA_ULTRA_EXPANSIONS = {
     ]),
   },
   one_piece_show: {
-    200: qa([
-      ["What treasure are pirates chasing in One Piece?", "One Piece"],
-    ]),
     400: qa([
       ["What pirate inspires Luffy to set sail?", "Shanks"],
       ["What sea does Sanji dream of finding?", "All Blue"],

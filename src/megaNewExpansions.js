@@ -14,7 +14,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["How many bones does an adult human have?","206"],
       ["What is the largest desert on Earth?","Sahara (or Antarctic)"],
       ["What metal is liquid at room temperature?","Mercury"],
-      ["What color is an emerald?","Green"],
       ["What is the speed of light roughly in km/s?","300,000 km/s"],
       ["How many teeth does a typical adult have?","32"],
       ["What is the chemical symbol for gold?","Au"],
@@ -230,7 +229,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["What country hosted the 2022 FIFA World Cup?","Qatar"],
       ["What is the highest score in a single frame of bowling?","30 (strike in 10th frame)"],
       ["How long is a marathon in miles?","26.2 miles"],
-      ["What sport is Tiger Woods famous for?","Golf"],
       ["How many sets are played in a typical tennis match (men's Grand Slam)?","5"],
       ["What color card means ejection in soccer?","Red"],
       ["What sport does LeBron James play?","Basketball"],
@@ -274,9 +272,7 @@ const MEGA_NEW_EXPANSIONS = {
 
   music: {
     200: qa([
-      ["What instrument has 88 keys?","Piano"],
       ["Who sang 'Bohemian Rhapsody'?","Queen / Freddie Mercury"],
-      ["What instrument does a drummer play?","Drums"],
       ["Who is known as the 'King of Rock and Roll'?","Elvis Presley"],
       ["What genre of music originated in Jamaica?","Reggae"],
       ["What boy band released 'Bye Bye Bye'?","NSYNC"],
@@ -314,7 +310,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["What key has no sharps or flats?","C major (or A minor)"],
       ["What is the lowest female voice type?","Contralto"],
       ["Who is considered the father of hip-hop?","DJ Kool Herc"],
-      ["What Beatles album features Abbey Road's famous crosswalk?","Abbey Road"],
       ["What is a tritone also known as?","The devil's interval"],
       ["What jazz musician was known as 'Bird'?","Charlie Parker"],
       ["What does 'fortissimo' mean in music?","Very loud"],
@@ -370,7 +365,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["Who directed 'Mulholland Drive'?","David Lynch"],
       ["What film features the character 'HAL 9000'?","2001: A Space Odyssey"],
       ["Who directed 'Spirited Away'?","Hayao Miyazaki"],
-      ["What film noir features the line 'Forget it Jake, it's Chinatown'?","Chinatown"],
       ["Who directed 'The Grand Budapest Hotel'?","Wes Anderson"],
       ["What 1982 sci-fi film was directed by Ridley Scott?","Blade Runner"],
       ["Who starred in 'Taxi Driver' (1976)?","Robert De Niro"],
@@ -521,7 +515,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["What is the name of the law firm where Saul works?","Saul Goodman & Associates"],
       ["What pseudonym does Walter Jr. use?","Flynn"],
       ["Who kills Hank Schrader?","Jack Welker"],
-      ["What is the name of the superlab under the laundromat?","The superlab"],
     ]),
     600: qa([
       ["What is the name of the final episode?","Felina"],
@@ -545,7 +538,6 @@ const MEGA_NEW_EXPANSIONS = {
   harry_potter: {
     200: qa([
       ["What school does Harry attend?","Hogwarts"],
-      ["What house is Harry sorted into?","Gryffindor"],
       ["Who is Harry's best friend (male)?","Ron Weasley"],
       ["What sport is played on broomsticks?","Quidditch"],
       ["Who is the headmaster of Hogwarts?","Albus Dumbledore"],
@@ -600,7 +592,6 @@ const MEGA_NEW_EXPANSIONS = {
     200: qa([
       ["Who is Luke Skywalker's father?","Darth Vader"],
       ["What is the weapon of a Jedi?","Lightsaber"],
-      ["What color is a Sith lightsaber?","Red"],
       ["Who is the small green Jedi Master?","Yoda"],
       ["What is the name of Han Solo's ship?","Millennium Falcon"],
       ["Who plays Han Solo in the original trilogy?","Harrison Ford"],
@@ -707,13 +698,11 @@ const MEGA_NEW_EXPANSIONS = {
   disney: {
     200: qa([
       ["What princess has the longest hair?","Rapunzel"],
-      ["What animal is Simba?","Lion"],
       ["Who is Buzz Lightyear's cowboy friend?","Woody"],
       ["What is the name of the snowman in Frozen?","Olaf"],
       ["What Disney princess lives under the sea?","Ariel"],
       ["What film features a magic carpet ride?","Aladdin"],
       ["Who is the villain in The Little Mermaid?","Ursula"],
-      ["What animal is Dumbo?","Elephant"],
       ["What is the name of Pinocchio's conscience?","Jiminy Cricket"],
       ["What film features the song 'A Whole New World'?","Aladdin"],
       ["What princess pricks her finger on a spindle?","Aurora (Sleeping Beauty)"],
@@ -774,7 +763,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["What is Tilted Towers?","A popular POI (Point of Interest)"],
       ["What company made Fortnite?","Epic Games"],
       ["What can you find in treasure chests?","Weapons, ammo, and items"],
-      ["What is the island called in Fortnite?","The Island"],
     ]),
     400: qa([
       ["What season introduced the first battle pass?","Season 2"],
@@ -796,7 +784,6 @@ const MEGA_NEW_EXPANSIONS = {
     600: qa([
       ["What year did Fortnite Battle Royale launch?","2017"],
       ["What was the black hole event?","End of Chapter 1 — the entire game went offline"],
-      ["What is the name of the Foundation?","Dwayne 'The Rock' Johnson voices him"],
       ["What music artist's skins have appeared most in Fortnite?","Marshmello / Travis Scott / Eminem"],
       ["What game engine does Fortnite run on?","Unreal Engine"],
       ["What was Fortnite's original mode before BR?","Save the World (PvE)"],
@@ -879,9 +866,7 @@ const MEGA_NEW_EXPANSIONS = {
       ["What mobile game has players catching creatures in the real world?","Pokémon GO"],
       ["What is the name of the main character in The Legend of Zelda?","Link"],
       ["What company makes the Xbox?","Microsoft"],
-      ["What game franchise features soldiers fighting in wars with 'Call of' in the title?","Call of Duty"],
       ["What handheld console did Nintendo release in 2017?","Nintendo Switch"],
-      ["What is the plumber's name in the Mario franchise?","Mario"],
       ["What game has a character named Steve who mines blocks?","Minecraft"],
     ]),
     400: qa([
@@ -924,18 +909,13 @@ const MEGA_NEW_EXPANSIONS = {
     200: qa([
       ["What anime features a rubber pirate named Luffy?","One Piece"],
       ["Who is the main character of Naruto?","Naruto Uzumaki"],
-      ["What anime features Titan-fighting soldiers?","Attack on Titan"],
       ["What is the name of Goku's signature attack?","Kamehameha"],
       ["What anime features a notebook that kills?","Death Note"],
       ["Who is the protagonist of Dragon Ball Z?","Goku"],
-      ["What anime has a demon slayer named Tanjiro?","Demon Slayer"],
       ["What is the name of Ash Ketchum's first Pokémon?","Pikachu"],
       ["What anime features alchemist brothers?","Fullmetal Alchemist"],
-      ["What is the most-watched anime of all time on streaming?","Attack on Titan"],
       ["What anime features a boy who becomes the #1 hero?","My Hero Academia"],
       ["Who is the strongest sorcerer in Jujutsu Kaisen?","Satoru Gojo"],
-      ["What anime is set in a world of pirates seeking One Piece?","One Piece"],
-      ["What is Vegeta's planet of origin?","Planet Vegeta"],
       ["What anime features a volleyball team at Karasuno?","Haikyuu!!"],
     ]),
     400: qa([
@@ -1006,7 +986,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["What book series features Katniss Everdeen?","The Hunger Games"],
       ["What is the most-liked photo on Instagram?","A photo of an egg (World Record Egg)"],
       ["What animated series features Morty and his grandfather?","Rick and Morty"],
-      ["What music festival takes place in Coachella Valley?","Coachella"],
       ["What South Korean show went viral on Netflix in 2021?","Squid Game"],
     ]),
     600: qa([
@@ -1016,11 +995,9 @@ const MEGA_NEW_EXPANSIONS = {
       ["What podcast became the most downloaded in Spotify history?","The Joe Rogan Experience"],
       ["What year did TikTok launch internationally?","2017 (as TikTok; Musical.ly merged 2018)"],
       ["What AI tool went viral in November 2022?","ChatGPT"],
-      ["What TV show features a Mandalorian bounty hunter?","The Mandalorian"],
       ["What artist broke the record for most Grammy wins in a single night?","Beyoncé (2023)"],
       ["What is the most expensive film ever made?","Pirates of the Caribbean: On Stranger Tides (~$379M)"],
       ["What phenomenon caused GameStop stock to surge in 2021?","Reddit's r/WallStreetBets short squeeze"],
-      ["What metaverse company did Facebook rebrand to?","Meta"],
       ["What TV show won Outstanding Drama at the 2023 Emmys?","Succession"],
       ["What 2024 film featured Ryan Gosling as Ken?","Barbie (2023, but continued through awards)"],
       ["What is the most-watched YouTube video of all time?","Baby Shark Dance"],
@@ -1084,7 +1061,6 @@ const MEGA_NEW_EXPANSIONS = {
 
   minecraft: {
     200: qa([
-      ["What color is a creeper?","Green"],
       ["What do you mine to get coal?","Coal ore"],
       ["What mob gives you leather?","Cow"],
       ["What do you make a bed from?","Wool and planks"],
@@ -1105,7 +1081,6 @@ const MEGA_NEW_EXPANSIONS = {
       ["What mob can you ride with a saddle?","Horse (also pig with carrot on a stick)"],
       ["What biome has mesa/terracotta?","Badlands"],
       ["What potion makes you invisible?","Potion of Invisibility"],
-      ["What mob drops blaze rods?","Blaze"],
       ["What is needed to make an end crystal?","Eye of Ender, glass, and ghast tear"],
       ["What block is blast-resistant and found in the End?","End stone"],
       ["What enchantment lets you walk on water (frozen)?","Frost Walker"],
