@@ -5,28 +5,18 @@ const qa = (pairs) => pairs.map(([q, a]) => ({ q, a }));
 const MORE_TRIVIA_EXPANSIONS = {
   country_facts: {
     200: qa([
-      ["What is the capital of Thailand?", "Bangkok"],
-      ["What country is home to Machu Picchu?", "Peru"],
-      ["What is the largest country in South America?", "Brazil"],
-      ["Which country is known as the Land of the Rising Sun?", "Japan"],
-      ["What is the capital of Canada?", "Ottawa"],
-      ["Which country has the longest coastline in the world?", "Canada"],
       ["What country does the Nile river primarily flow through?", "Egypt"],
+      ["Which country is home to the Great Wall?", "China"],
     ]),
     400: qa([
       ["Which African country was formerly known as Abyssinia?", "Ethiopia"],
-      ["What is the official language of Brazil?", "Portuguese"],
       ["Which country has the Great Barrier Reef off its coast?", "Australia"],
-      ["What is the smallest country in the world by area?", "Vatican City"],
       ["Which European country has the euro but is not in the EU?", "Montenegro"],
-      ["What country is the Amazon rainforest mostly located in?", "Brazil"],
     ]),
     600: qa([
-      ["Which landlocked country is entirely surrounded by South Africa?", "Lesotho"],
-      ["What is the only country that is also a continent?", "Australia"],
       ["Which country was formerly known as Siam?", "Thailand"],
-      ["What is the capital of Kazakhstan?", "Astana (Nur-Sultan)"],
       ["Which Pacific island nation has the ISO code NR?", "Nauru"],
+      ["Which country has the most spoken languages in the world?", "Papua New Guinea"],
     ]),
   },
 
@@ -89,7 +79,6 @@ const MORE_TRIVIA_EXPANSIONS = {
   brooklyn_99: {
     200: qa([
       ["What precinct does the show take place in?", "99th precinct of the NYPD"],
-      ["What borough is the precinct located in?", "Brooklyn"],
       ["Who is the serious captain who joins in the pilot?", "Raymond Holt"],
       ["Who is Jake's childhood best friend on the squad?", "Gina Linetti"],
       ["What food does Charles Boyle love to talk about?", "Gourmet and exotic food"],
@@ -97,15 +86,12 @@ const MORE_TRIVIA_EXPANSIONS = {
       ["Who is Amy Santiago's biggest fear?", "Failure / disappointing Captain Holt"],
     ]),
     400: qa([
-      ["What is Rosa's last name?", "Diaz"],
-      ["Who does Jake marry during the series?", "Amy Santiago"],
       ["What pet does Captain Holt own?", "A corgi named Cheddar"],
       ["What is Jake's go-to catchphrase referencing a title?", "Cool cool cool"],
       ["What is Hitchcock and Scully's favorite food?", "Anything free / sandwiches"],
     ]),
     600: qa([
       ["What is Kevin's profession (Holt's husband)?", "Classics professor at Columbia"],
-      ["Who plays Doug Judy, the Pontiac Bandit?", "Craig Robinson"],
       ["What is the name of Jake and Amy's baby?", "Mac (McClane)"],
     ]),
   },
@@ -114,7 +100,6 @@ const MORE_TRIVIA_EXPANSIONS = {
     200: qa([
       ["What city does Oliver Queen protect?", "Star City (originally Starling City)"],
       ["What weapon is Oliver most famous for?", "Bow and arrow"],
-      ["What island was Oliver stranded on for 5 years?", "Lian Yu"],
       ["Who plays Oliver Queen?", "Stephen Amell"],
       ["Who is Oliver's computer-genius sidekick?", "Felicity Smoak"],
       ["Who is Oliver's bodyguard turned partner?", "John Diggle"],
@@ -166,7 +151,6 @@ const MORE_TRIVIA_EXPANSIONS = {
       ["What bar does the group always meet at?", "MacLaren's Pub"],
       ["Who is the womanizing suit-lover of the group?", "Barney Stinson"],
       ["Who plays Barney Stinson?", "Neil Patrick Harris"],
-      ["What is Marshall's profession?", "Lawyer"],
       ["Who does Marshall marry?", "Lily Aldrin"],
       ["What is Ted looking for throughout the show?", "The Mother of his children"],
     ]),
@@ -197,7 +181,6 @@ const MORE_TRIVIA_EXPANSIONS = {
     600: qa([
       ["What is the original name of Gollum?", "Sméagol"],
       ["What forge is the One Ring created in?", "Mount Doom (Orodruin)"],
-      ["Who is the Steward of Gondor who burns himself alive?", "Denethor"],
       ["What is the name of Aragorn's sword reforged in Return of the King?", "Andúril"],
       ["Who are the three hunters chasing after the orcs who took Merry and Pippin?", "Aragorn, Legolas, Gimli"],
       ["What is Bilbo's original name for his sword?", "Sting"],
@@ -214,28 +197,20 @@ const MORE_TRIVIA_EXPANSIONS = {
       ["What is the name of the mercenary company Daario leads?", "Second Sons"],
       ["Who is the last Lord Commander of the Kingsguard under Cersei?", "Gregor 'The Mountain' Clegane"],
       ["What is the name of Bran's direwolf?", "Summer"],
-      ["What is the name of Sansa's direwolf killed early in the series?", "Lady"],
       ["Who is the Kingslayer?", "Jaime Lannister"],
-      ["What is the name of Arya's sword?", "Needle"],
     ]),
   },
 
   stranger_things: {
     400: qa([
-      ["What is the alternate dimension called?", "The Upside Down"],
       ["Who is the police chief of Hawkins?", "Jim Hopper"],
       ["What government lab is responsible for Eleven's creation?", "Hawkins National Laboratory"],
     ]),
-    600: qa([
-      ["What year does season 1 take place?", "1983"],
-      ["Who is Eleven's 'papa'?", "Dr. Martin Brenner"],
-    ]),
+    600: qa([]),
   },
 
   suits: {
-    600: qa([
-      ["What is the name of the law firm at the start?", "Pearson Hardman"],
-    ]),
+    600: qa([]),
   },
 
   invincible: {
@@ -247,8 +222,6 @@ const MORE_TRIVIA_EXPANSIONS = {
 
   vikings: {
     600: qa([
-      ["What is the name of Ragnar's first wife?", "Lagertha"],
-      ["What river do Ragnar's forces famously sail up to reach Paris?", "Seine"],
       ["What city in England do the Vikings raid in Season 1?", "Lindisfarne"],
       ["What language do the Vikings speak in the show?", "Old Norse"],
     ]),

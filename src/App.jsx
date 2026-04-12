@@ -2709,46 +2709,46 @@ const RAW_BANK = {
   },
   country_facts:{label:"Country Facts",icon:"\u{1F310}",color:"#0891B2",
   200:[
-    {q:"This country has the most pyramids in the world — more than Egypt — and its capital is Khartoum",a:"Sudan"},
-    {q:"This country is home to the Amazon rainforest, the largest country in South America, and its capital is Brasília",a:"Brazil"},
+    {q:"This country has the most pyramids in the world — more than Egypt",a:"Sudan"},
+    {q:"This country is home to the Amazon rainforest and the largest country in South America",a:"Brazil"},
     {q:"This country invented pizza, pasta, and is famous for the Colosseum and leaning tower in Pisa",a:"Italy"},
     {q:"This is the most visited country in the world — home to the Eiffel Tower and the Louvre museum",a:"France"},
-    {q:"This country is the birthplace of the Olympic Games and democracy — capital Athens",a:"Greece"},
+    {q:"This country is the birthplace of the Olympic Games and democracy",a:"Greece"},
     {q:"This country has the world's longest coastline — it also contains more lakes than any other country",a:"Canada"},
     {q:"This tiny country is completely surrounded by Italy — home to the smallest republic in the world",a:"San Marino"},
     {q:"This country's flag features a maple leaf — it spans from the Atlantic to the Pacific and has two official languages",a:"Canada"},
     {q:"This country is both a continent and a country — the only nation to occupy an entire continent",a:"Australia"},
-    {q:"This country invented chess, yoga, Buddhism, and Hinduism — capital New Delhi",a:"India"},
-    {q:"This is the world's most populous country as of 2023 — overtook China — capital is New Delhi",a:"India"},
+    {q:"This country invented chess, yoga, Buddhism, and Hinduism",a:"India"},
+    {q:"This is the world's most populous country as of 2023 — it overtook China",a:"India"},
     {q:"This country has the highest peak on Earth — Mount Everest — and is between China and India",a:"Nepal"},
     {q:"This country is completely below sea level in significant parts — known for tulips, windmills, and cycling",a:"Netherlands"},
     {q:"This country is where the World Cup was held in 2022 — known for its futuristic skyline and extreme wealth",a:"Qatar"},
-    {q:"This country has capital Abu Dhabi and is a federation of seven emirates on the Arabian Peninsula",a:"United Arab Emirates"},
+    {q:"This country is a federation of seven emirates on the Arabian Peninsula",a:"United Arab Emirates"},
   ],
   400:[
-    {q:"This country has the most time zones in the world — 12 including overseas territories — capital Paris",a:"France"},
+    {q:"This country has the most time zones in the world — 12 including overseas territories",a:"France"},
     {q:"This country is home to the world's largest salt flat — Salar de Uyuni — and is landlocked in South America",a:"Bolivia"},
     {q:"This country is the birthplace of the internet's creator Tim Berners-Lee and home to the Magna Carta",a:"United Kingdom"},
-    {q:"This country has the most UNESCO World Heritage Sites in the world — capital Rome",a:"Italy"},
+    {q:"This country has the most UNESCO World Heritage Sites in the world",a:"Italy"},
     {q:"This country has never been colonised in modern history and uses its own calendar — Horn of Africa",a:"Ethiopia"},
     {q:"This country has the most billionaires per capita in the world — a city-state in Southeast Asia",a:"Singapore"},
     {q:"This is the only country with two capital cities — one for parliament, one for executive government",a:"South Africa (Cape Town and Pretoria, plus Bloemfontein)"},
-    {q:"This is the world's only country whose name begins and ends with the same letter — capital Doha",a:"Qatar"},
-    {q:"This country is famous for its fjords and midnight sun, and its capital is Oslo",a:"Norway"},
-    {q:"This country is home to CERN, where the World Wide Web was invented, and its capital is Bern",a:"Switzerland"},
-    {q:"This is the world's oldest continuously inhabited country — with over 5,000 years of recorded history — capital Beijing",a:"China"},
+    {q:"This is the world's only country whose name begins and ends with the same letter",a:"Qatar"},
+    {q:"This country is famous for its fjords and midnight sun",a:"Norway"},
+    {q:"This country is home to CERN, where the World Wide Web was invented",a:"Switzerland"},
+    {q:"This is the world's oldest continuously inhabited country — with over 5,000 years of recorded history",a:"China"},
     {q:"This country has the world's longest high-speed rail network — it also has more pandas than any other country",a:"China"},
     {q:"This small African country is the only one completely surrounded by South Africa — a kingdom in the mountains",a:"Lesotho"},
-    {q:"This country produces 40% of the world's chocolate — its capital is Yamoussoukro",a:"Ivory Coast (Côte d'Ivoire)"},
-    {q:"This country has the most islands of any nation in the world — over 220,000 — capital Stockholm",a:"Sweden"},
+    {q:"This country produces 40% of the world's chocolate",a:"Ivory Coast (Côte d'Ivoire)"},
+    {q:"This country has the most islands of any nation in the world — over 220,000",a:"Sweden"},
   ],
   600:[
     {q:"This country has the highest average elevation of any independent country and is completely surrounded by South Africa",a:"Lesotho"},
-    {q:"This country has 11 official languages and three capital cities — capital for parliament is Cape Town",a:"South Africa"},
+    {q:"This country has 11 official languages and three capital cities",a:"South Africa"},
     {q:"This tiny island nation in the Pacific was the first country to be almost entirely submerged due to climate change",a:"Tuvalu"},
-    {q:"This island nation is famous for Ceylon tea, and its capital is Colombo",a:"Sri Lanka"},
+    {q:"This island nation is famous for Ceylon tea and was formerly known as Ceylon",a:"Sri Lanka"},
     {q:"This country has the highest percentage of forest cover — over 97% of the land is forested",a:"Suriname"},
-    {q:"This island nation in the Indian Ocean is one of the world's oldest democracies — capital Male",a:"Maldives"},
+    {q:"This island nation in the Indian Ocean is known for luxury resorts and is the world's lowest-lying country",a:"Maldives"},
     {q:"This country has the most vending machines per capita in the world — including ones selling hot meals and live crabs",a:"Japan"},
     {q:"This country recently changed its official name from Swaziland to its current name in 2018",a:"Eswatini"},
     {q:"This country has the largest number of active volcanoes in the world — over 130",a:"Indonesia"},
@@ -4638,8 +4638,9 @@ const CSS=`
   *{box-sizing:border-box;margin:0;padding:0;}
   html,body,#root{
     width:100%;
-    height:100%;
-    overscroll-behavior:none;
+    min-height:100%;
+    height:auto;
+    overflow-y:auto;
     background-color:var(--site-bg-color);
     background-image:var(--site-bg-image);
     background-position:var(--site-bg-position);
@@ -5975,13 +5976,11 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
 });
 
 const QUESTION_SCREEN_STYLE={
-  minHeight:"100dvh",
+  minHeight:"100vh",
   ...SITE_BACKGROUND_STYLE,
   display:"flex",
   flexDirection:"column",
   position:"relative",
-  overflowX:"hidden",
-  overflowY:"auto",
 };
 
 const QUESTION_BODY_CENTER_STYLE={

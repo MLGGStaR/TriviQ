@@ -4,15 +4,11 @@ const charades = (items, prompt = "Scan the QR and act it out") =>
 
 export const QUESTION_REFINEMENT_ADDITIONS = {
   geography: {
-    200: qa([
-      ["Capital of Thailand?", "Bangkok"],
-      ["Capital of Kenya?", "Nairobi"],
-    ]),
+    200: qa([]),
   },
   science: {
     200: qa([
       ["Gas humans need to breathe?", "Oxygen"],
-      ["Nearest star to Earth?", "The Sun"],
     ]),
     600: qa([
       ["What is quantum entanglement?", "A phenomenon where linked particles affect each other across distance"],
@@ -25,36 +21,25 @@ export const QUESTION_REFINEMENT_ADDITIONS = {
   },
   spider_man: {
     200: qa([
-      ["What school does Peter attend in the MCU?", "Midtown School of Science and Technology"],
       ["What high-tech suit does Peter wear in Infinity War?", "The Iron Spider suit"],
       ["What AI glasses does Tony leave Peter in Far From Home?", "E.D.I.T.H."],
       ["What is Peter Parker's aunt's first name?", "May"],
     ]),
     400: qa([
-      ["What fake superhero name does Peter use in Europe?", "Night Monkey"],
       ["What villains does Mysterio pretend are attacking Europe?", "The Elementals"],
-      ["What company builds the collider in Into the Spider-Verse?", "Alchemax"],
     ]),
     600: qa([
       ["What landmark becomes the final battlefield in No Way Home?", "The Statue of Liberty"],
-      ["What charity does Aunt May work for in No Way Home?", "FEAST"],
       ["What machine does Kingpin use beneath Brooklyn in Into the Spider-Verse?", "A super-collider"],
     ]),
   },
   the_flash: {
-    200: qa([
-      ["What lab sits at the center of Team Flash?", "STAR Labs"],
-      ["What police department does Joe West work for?", "CCPD"],
-      ["What metahuman prison sits beneath STAR Labs?", "The Pipeline"],
-    ]),
+    200: qa([]),
     400: qa([
-      ["What future headline haunts Barry for years?", "Flash Vanishes in Crisis"],
-      ["What Earth is Zoom from?", "Earth-2"],
       ["What icy identity does Caitlin become?", "Killer Frost"],
     ]),
     600: qa([
       ["What artificial speed drug nearly kills speedsters?", "Velocity 9"],
-      ["What does Savitar turn out to be?", "A time remnant of Barry Allen"],
       ["What event names Barry the Paragon of Love?", "Crisis on Infinite Earths"],
     ]),
   },

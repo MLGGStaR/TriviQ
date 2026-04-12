@@ -9,21 +9,17 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What is Janice's signature phrase?", "Oh. My. God."],
       ["What is Phoebe's husband's first name?", "Mike"],
       ["What is Monica's first serious boyfriend on the show nicknamed?", "Fun Bobby"],
-      ["What is the coffee shop called?", "Central Perk"],
     ]),
     600: qa([
       ["What is Chandler's roommate before Joey?", "Kip"],
       ["What is the name of Joey's soap opera character's evil twin?", "Hans Ramoray"],
-      ["What is the name of Phoebe's alter ego singer identity?", "Regina Phalange"],
       ["What is Rachel's first job in fashion?", "Personal shopper"],
-      ["What instrument does Phoebe usually play?", "Guitar"],
     ]),
   },
   the_office: {
     400: qa([
       ["What office game does Jim put Dwight's things in Jell-O over?", "Prank"],
       ["What is Angela's husband's first name?", "Robert"],
-      ["What is Pam's art school city?", "New York"],
       ["What branch manager replaces Michael after his departure?", "Andy Bernard"],
       ["What company buys Dunder Mifflin?", "Sabre"],
     ]),
@@ -37,17 +33,13 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   breaking_bad: {
     400: qa([
-      ["What is Jesse's last name on Breaking Bad?", "Pinkman"],
       ["What is Walter White's car at the start of the series?", "Pontiac Aztek"],
-      ["What bell-ringing cartel elder is Tuco's uncle?", "Hector Salamanca"],
       ["What company extermination front does Walt use to cook in houses?", "Vamonos Pest"],
       ["What is Skyler and Walt's daughter named?", "Holly"],
     ]),
     600: qa([
-      ["What fake name does Walt use in New Hampshire?", "Mr. Lambert"],
       ["What is the underground lab chemist Walt replaces named?", "Gale"],
       ["What is the model of the RV used for early cooks?", "Fleetwood Bounder"],
-      ["Who shoots Gustavo Fring?", "Hector Salamanca"],
       ["What song plays during the prison hit montage?", "Pick Yourself Up"],
     ]),
   },
@@ -70,7 +62,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What club does Eddie Munson lead?", "Hellfire Club"],
       ["What arcade game tops season 2?", "Dragon's Lair"],
-      ["What California town do Byers move to?", "Lenora Hills"],
       ["What is Lucas's sister called?", "Erica"],
       ["What psychic project restores Eleven's powers?", "Nina Project"],
     ]),
@@ -84,9 +75,7 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   prison_break: {
     400: qa([
-      ["What alias does T-Bag often use after escape?", "Cole Pfeiffer"],
       ["What object contains The Company's data in later seasons?", "Scylla"],
-      ["What country is Sona prison in?", "Panama"],
       ["What is Bellick's first name?", "Brad"],
       ["What doctor is Lincoln and Michael's father figure connected to?", "Sara Tancredi"],
     ]),
@@ -102,7 +91,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What card game does the group play with fantasy decks?", "Magic: The Gathering"],
       ["What song does Sheldon want when sick?", "Soft Kitty"],
-      ["What is Leonard's surname?", "Hofstadter"],
       ["What is Sheldon's favorite superhero?", "The Flash"],
     ]),
     600: qa([
@@ -115,16 +103,11 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   brooklyn_99: {
     400: qa([
-      ["What is Captain Holt's husband called?", "Kevin"],
-      ["What is Amy obsessed with organizing using?", "Binders"],
       ["What annual contest do the detectives obsess over?", "Halloween Heist"],
       ["What is Boyle's son's name?", "Nikolaj"],
-      ["What is Terry's surname?", "Jeffords"],
     ]),
     600: qa([
-      ["What is Amy and Jake's son called?", "Mac"],
       ["What is Gina's dance group called?", "Floorgasm"],
-      ["What nickname does Holt give his dog?", "Cheddar"],
       ["What is Scully's first name?", "Norm"],
       ["What is Hitchcock's first name?", "Michael"],
     ]),
@@ -148,13 +131,10 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What is Harvey's surname?", "Specter"],
       ["What title does Jessica hold at the start?", "Managing partner"],
-      ["What law school did Mike pretend to attend?", "Harvard"],
-      ["What is Louis's surname?", "Litt"],
       ["What wall object does Harvey love throwing a ball at?", "Painting"],
     ]),
     600: qa([
       ["What does Louis shout when he's excited about victory?", "You just got Litt up"],
-      ["What is Donna's surname?", "Paulsen"],
       ["What is Harvey's mother first name?", "Lily"],
       ["What New York district is the firm's office set in?", "Manhattan"],
       ["What business titan becomes Harvey's client and rival friend?", "Charles Forstman"],
@@ -166,20 +146,16 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What is Rita's last name before marrying Dexter?", "Bennett"],
       ["What job does Debra eventually rise to hold?", "Lieutenant"],
       ["What is the Trinity Killer's real surname?", "Mitchell"],
-      ["What is Dexter's son's name?", "Harrison"],
     ]),
     600: qa([
       ["What is the name of Dexter's first major mentor target in season 3?", "Miguel Prado"],
       ["What is the Ice Truck Killer's relationship to Dexter?", "Brother"],
-      ["What forensic specialty does Dexter work in?", "Blood spatter"],
       ["What killer is nicknamed the Bay Harbor Butcher?", "Dexter Morgan"],
       ["What woman poisons Dexter's life in season 5 with Jordan Chase's group?", "Lumen Pierce"],
     ]),
   },
   vikings: {
     400: qa([
-      ["What monk becomes Ragnar's close friend?", "Athelstan"],
-      ["What is Ragnar's eldest son called?", "Bjorn"],
       ["What city do the Vikings repeatedly raid in England?", "Wessex"],
       ["What is Ivar's mother called?", "Aslaug"],
     ]),
@@ -187,7 +163,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What son of Ragnar explores and settles Iceland?", "Floki"],
       ["What bishop becomes Lagertha's lover and ally?", "Heahmund"],
       ["What Rus prince invades Scandinavia in later seasons?", "Oleg"],
-      ["What Paris river do Ragnar's forces sail up?", "Seine"],
       ["What kingdom does Ubbe dream of settling in?", "North America"],
     ]),
   },
@@ -197,23 +172,19 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What codename does Nora West-Allen use?", "XS"],
       ["What alias does Cisco use as a hero?", "Vibe"],
       ["What giant psychic gorilla becomes one of Barry's enemies?", "Grodd"],
-      ["What mirror-based villain traps Iris?", "Eva McCulloch"],
     ]),
     600: qa([
       ["What is Caitlin's mother's surname?", "Snow"],
       ["What speedster villain is Barry's daughter from the future hunted by?", "Cicada"],
-      ["What is Barry's newspaper job?", "Forensic scientist"],
       ["What prison does Eobard Thawne manipulate events from in season 5?", "Iron Heights"],
       ["What force counterpart opposes the Speed Force in season 7?", "Still Force"],
     ]),
   },
   marvel: {
     400: qa([
-      ["What is the hidden African nation in Black Panther?", "Wakanda"],
       ["What is the name of Peter Quill's team?", "Guardians of the Galaxy"],
       ["What is Monica Rambeau's first MCU hero codename?", "Photon"],
       ["What is the magical book Wanda studies?", "Darkhold"],
-      ["What is the giant celestial protruding from Earth called?", "Tiamut"],
     ]),
     600: qa([
       ["What restaurant chain does Scott Lang work at after prison?", "Baskin-Robbins"],
@@ -224,7 +195,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   dc: {
     400: qa([
-      ["What city does Superman protect?", "Metropolis"],
       ["What prison houses dangerous criminals in The Dark Knight?", "Arkham Asylum"],
       ["What weapon does Harley Quinn famously use?", "Baseball bat"],
       ["What is Black Adam's human title in Kahndaq?", "Champion"],
@@ -239,17 +209,14 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   star_wars: {
     400: qa([
-      ["What is Han Solo's co-pilot species?", "Wookiee"],
       ["What armored bounty hunter protects Grogu?", "The Mandalorian"],
       ["What is Obi-Wan's birth surname?", "Kenobi"],
-      ["What city-planet is the galactic capital?", "Coruscant"],
       ["What is Princess Leia's adoptive surname?", "Organa"],
     ]),
     600: qa([
       ["What droid says 'Never tell me the odds' to C-3PO's worry?", "Han Solo"],
       ["What rebel pilot later becomes a spice runner in Andor?", "Cassian Andor"],
       ["What criminal runs Cloud City operations before Lando goes legit?", "Lando Calrissian"],
-      ["What clone captain is known as Rex?", "Captain Rex"],
       ["What Jedi temple world do Luke's final lessons happen on in The Last Jedi?", "Ahch-To"],
     ]),
   },
@@ -262,7 +229,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What green villain fights Tobey Maguire's Spider-Man first?", "Green Goblin"],
     ]),
     600: qa([
-      ["What is MJ's full first name in the MCU?", "Michelle"],
       ["What scientist creates The Lizard in The Amazing Spider-Man?", "Curt Connors"],
       ["What is the symbiote newspaper photographer rival to Peter called?", "Eddie Brock"],
     ]),
@@ -272,15 +238,11 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What fish-headed hero is on the Guardians of the Globe?", "Aquarus"],
       ["What speedster hero dies in Omni-Man's massacre?", "Red Rush"],
       ["What teen team member shrinks and grows?", "Dupli-Kate"],
-      ["What is Mark's mother called?", "Debbie"],
       ["What blue alien ally keeps returning to Earth?", "Allen"],
     ]),
     600: qa([
       ["What is Monster Girl's curse side effect?", "She gets younger"],
-      ["What is the demon detective called?", "Damien Darkblood"],
       ["What is Omni-Man's mission on Earth?", "Prepare it for Viltrum"],
-      ["What planet does Mark help repel insects on with Nolan?", "Thraxa"],
-      ["What name does Robot later use in a human body?", "Rudy"],
     ]),
   },
   the_boys: {
@@ -289,7 +251,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What is Billy Butcher's wife called?", "Becca"],
       ["What giant sea creature-themed Seven member loves Deep Sea fame?", "The Deep"],
       ["What fake patriotic slogan is tied to Homelander?", "America's greatest superhero"],
-      ["What is Starlight's pageant-stage first name?", "Annie"],
     ]),
     600: qa([
       ["What supe manipulates minds through touch and suggestion in season 4?", "Sister Sage"],
@@ -301,7 +262,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   harry_potter: {
     400: qa([
-      ["What platform does the Hogwarts Express leave from?", "Platform 9¾"],
       ["What broom model does Harry receive from McGonagall?", "Nimbus 2000"],
       ["What map reveals secret passages at Hogwarts?", "Marauder's Map"],
       ["What village sits beside Hogwarts?", "Hogsmeade"],
@@ -332,9 +292,7 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   disney: {
     400: qa([
-      ["What is the name of Anna and Elsa's kingdom?", "Arendelle"],
       ["What is the magic house in Encanto called?", "Casita"],
-      ["What is the kingdom in Tangled?", "Corona"],
       ["What is the name of Aladdin's monkey?", "Abu"],
       ["What toy belongs to Sid in Toy Story?", "Mutant toys"],
     ]),
@@ -347,7 +305,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   anime: {
     400: qa([
-      ["What village is Naruto from?", "Hidden Leaf"],
       ["What is the profession of Light Yagami's rival L?", "Detective"],
       ["What organization hunts tailed beasts in Naruto?", "Akatsuki"],
       ["What mask-wearing teacher trains Team 7?", "Kakashi"],
@@ -361,9 +318,7 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
   },
   dragon_ball: {
     400: qa([
-      ["What is the wish-granting dragon called on Earth?", "Shenron"],
       ["What race is Frieza?", "Alien"],
-      ["What fusion of Goku and Vegeta uses dance steps?", "Gogeta"],
       ["What martial arts tournament recurs through the series?", "World Tournament"],
       ["What is Piccolo originally connected to?", "King Piccolo"],
     ]),
@@ -371,7 +326,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What object stores Master Roshi's sealing technique?", "Mafuba container"],
       ["What android pair are siblings?", "Android 17 and 18"],
       ["What is Gohan's scholarly profession later in life?", "Researcher"],
-      ["What warrior race does Vegeta come from?", "Saiyans"],
       ["What move does Vegeta often shout before firing a beam?", "Final Flash"],
     ]),
   },
@@ -379,8 +333,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What fruit gives Luffy his rubber powers?", "Gum-Gum Fruit"],
       ["What body part defines Sanji's fighting style?", "Legs"],
-      ["What pirate hunter joins Luffy first?", "Zoro"],
-      ["What is Usopp's home village called?", "Syrup Village"],
       ["What chef owns the Baratie?", "Zeff"],
     ]),
     600: qa([
@@ -395,22 +347,17 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What is Sung Jin-Woo's job at the start?", "Hunter"],
       ["What color rank is Jin-Woo first classified as?", "E-rank"],
-      ["What island ant disaster becomes a major arc?", "Jeju Island"],
       ["What is Jin-Woo's mother's condition called in the series?", "Eternal slumber"],
       ["What hidden stat lets Jin-Woo keep leveling?", "The System"],
     ]),
     600: qa([
-      ["What shadow soldier was once the Ant King?", "Beru"],
-      ["What red knight becomes a key shadow ally early on?", "Igris"],
       ["What monarch opposes Jin-Woo with icy power?", "Frost Monarch"],
-      ["What is Jin-Woo's sister called?", "Jin-Ah"],
       ["What class upgrade does Jin-Woo receive after a job change?", "Shadow Monarch"],
     ]),
   },
   pokemon: {
     400: qa([
       ["What electric mouse is Ash's partner?", "Pikachu"],
-      ["What team constantly tries to steal Pikachu?", "Team Rocket"],
       ["What item heals a fainted Pokémon completely?", "Max Revive"],
       ["What evolution stone changes Eevee into Jolteon?", "Thunder Stone"],
       ["What professor begins Ash's journey?", "Professor Oak"],
@@ -419,23 +366,18 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
       ["What final evolution follows Bulbasaur and Ivysaur?", "Venusaur"],
       ["What fire starter evolves into Charmeleon?", "Charmander"],
       ["What dragon-like pseudo-legendary starts as Dratini?", "Dragonite"],
-      ["What ghost Pokémon is known for its grin and purple body?", "Gengar"],
       ["What item stores captured Pokémon digitally?", "PC"],
     ]),
   },
   video_games: {
     400: qa([
       ["What block game uses creepers and redstone?", "Minecraft"],
-      ["What Nintendo kart racer features blue shells?", "Mario Kart"],
       ["What stealth series stars Solid Snake?", "Metal Gear"],
       ["What console family uses Joy-Con controllers?", "Nintendo Switch"],
       ["What battle royale features a gulag comeback mechanic?", "Call of Duty: Warzone"],
     ]),
     600: qa([
-      ["What game series stars Kratos?", "God of War"],
-      ["What Capcom survival horror series stars Leon Kennedy?", "Resident Evil"],
       ["What racing series is known for Horizon festivals?", "Forza Horizon"],
-      ["What studio created The Last of Us?", "Naughty Dog"],
       ["What sandbox series features creepers, Endermen, and the Nether?", "Minecraft"],
     ]),
   },

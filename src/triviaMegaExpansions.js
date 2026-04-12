@@ -8,11 +8,9 @@ const TRIVIA_MEGA_EXPANSIONS = {
   general: {
     200: qa([
       ["What instrument tells you which direction is north?", "A compass"],
-      ["How many colors are in a rainbow?", "7"],
       ["What shape has three sides?", "Triangle"],
     ]),
     400: qa([
-      ["What does GPS stand for?", "Global Positioning System"],
       ["What is the Roman numeral for 50?", "L"],
       ["Which chess piece moves only diagonally?", "Bishop"],
     ]),
@@ -42,7 +40,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   science: {
     200: qa([
       ["What process lets plants lose water through their leaves?", "Transpiration"],
-      ["What metal is liquid at room temperature?", "Mercury"],
       ["What is the hardest part of the human tooth?", "Enamel"],
     ]),
     400: qa([
@@ -63,7 +60,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["Which wall divided Berlin during the Cold War?", "The Berlin Wall"],
     ]),
     400: qa([
-      ["Who led the Soviet Union during the Cuban Missile Crisis?", "Nikita Khrushchev"],
       ["Which civilization built Chichen Itza?", "The Maya"],
       ["Which city was hit by the first atomic bomb in war?", "Hiroshima"],
     ]),
@@ -110,13 +106,11 @@ const TRIVIA_MEGA_EXPANSIONS = {
   movies: {
     200: qa([
       ["What color pill does Neo take in The Matrix?", "Red"],
-      ["What kingdom is ruled by Elsa and Anna?", "Arendelle"],
       ["Who directed E.T. the Extra-Terrestrial?", "Steven Spielberg"],
     ]),
     400: qa([
       ["What film features the line Here's Johnny!?", "The Shining"],
       ["What is the name of the spaceship in Alien?", "The Nostromo"],
-      ["Which film won Best Picture at the 2020 Oscars?", "Parasite"],
     ]),
     600: qa([
       ["What is a dolly zoom also nicknamed?", "The Vertigo effect"],
@@ -127,7 +121,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   country_facts: {
     200: qa([
       ["This country is famous for tulips, windmills, and Amsterdam", "The Netherlands"],
-      ["This Nordic country is known for fjords and has capital Oslo", "Norway"],
       ["This country is known for maple syrup and provinces like Ontario and Quebec", "Canada"],
     ]),
     400: qa([
@@ -144,7 +137,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   marvel: {
     200: qa([
       ["What is Wanda Maximoff's brother's name in the MCU?", "Pietro Maximoff"],
-      ["What relic contains the Time Stone?", "The Eye of Agamotto"],
       ["What is the name of Peter Parker's classmate best friend?", "Ned Leeds"],
     ]),
     400: qa([
@@ -177,14 +169,11 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   star_wars: {
     200: qa([
-      ["What color is Mace Windu's lightsaber?", "Purple"],
       ["What planet is Princess Leia from?", "Alderaan"],
-      ["What is Han Solo's ship called?", "The Millennium Falcon"],
     ]),
     400: qa([
       ["Who trained Qui-Gon Jinn before Obi-Wan trained under him?", "Count Dooku"],
       ["What superweapon appears in The Force Awakens?", "Starkiller Base"],
-      ["Which bounty hunter tracks Han Solo in The Empire Strikes Back?", "Boba Fett"],
     ]),
     600: qa([
       ["What city floats above Bespin?", "Cloud City"],
@@ -194,13 +183,10 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   harry_potter: {
     200: qa([
-      ["What Hogwarts house is Luna Lovegood in?", "Ravenclaw"],
-      ["What spell disarms an opponent?", "Expelliarmus"],
       ["What is Hagrid's three-headed dog called?", "Fluffy"],
     ]),
     400: qa([
       ["What is Hermione's cat named?", "Crookshanks"],
-      ["What position does Harry play on the Quidditch team?", "Seeker"],
       ["What is the hidden map used by Harry and his friends?", "The Marauder's Map"],
     ]),
     600: qa([
@@ -211,14 +197,10 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   breaking_bad: {
     200: qa([
-      ["What fast-food chain is owned by Gus Fring?", "Los Pollos Hermanos"],
       ["What is Jesse's last name?", "Pinkman"],
-      ["What car wash do Walt and Skyler buy?", "A1A Car Wash"],
     ]),
     400: qa([
-      ["What poison does Walt use on Brock?", "Lily of the valley"],
       ["What is Hank's famous mineral hobby?", "Minerals"],
-      ["What is the name of Gus Fring's fixer?", "Mike Ehrmantraut"],
     ]),
     600: qa([
       ["What machine gun does Walt use in the final showdown?", "An M60"],
@@ -228,7 +210,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   game_thrones: {
     200: qa([
-      ["What are House Stark's words?", "Winter is Coming"],
       ["What is Jon Snow's direwolf named?", "Ghost"],
       ["Who owns the sword Needle?", "Arya Stark"],
     ]),
@@ -246,17 +227,13 @@ const TRIVIA_MEGA_EXPANSIONS = {
   friends: {
     200: qa([
       ["What is Joey's soap opera doctor name?", "Dr. Drake Ramoray"],
-      ["What instrument does Phoebe play?", "Guitar"],
-      ["What is Ross's profession?", "Paleontologist"],
     ]),
     400: qa([
-      ["What is Chandler's middle name?", "Muriel"],
       ["Who officiates Monica and Chandler's wedding?", "Joey"],
       ["What is the name of the building superintendent?", "Treeger"],
     ]),
     600: qa([
       ["What is Rachel's hairless cat called?", "Mrs. Whiskerson"],
-      ["What fake name does Phoebe often use?", "Regina Phalange"],
       ["What country does David move to for research?", "Minsk"],
     ]),
   },
@@ -267,25 +244,21 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["What is Meredith's last name?", "Palmer"],
     ]),
     400: qa([
-      ["What is the title of Michael's action movie script?", "Threat Level Midnight"],
       ["What is Jan's candle business called?", "Serenity by Jan"],
       ["What city does Pam attend art school in?", "New York"],
     ]),
     600: qa([
       ["What is Robert California's real first name?", "Bob"],
       ["What food does Kevin spill in a famous cold open?", "Chili"],
-      ["What is Dwight's middle name?", "Kurt"],
     ]),
   },
   stranger_things: {
     200: qa([
-      ["What town is the series set in?", "Hawkins"],
       ["Who runs the Hellfire Club?", "Eddie Munson"],
       ["What is Dustin's pet creature called?", "Dart"],
     ]),
     400: qa([
       ["What number is tattooed on Kali?", "008"],
-      ["What mall is central to season 3?", "Starcourt Mall"],
       ["What giant radio tower does Dustin build?", "Cerebro"],
     ]),
     600: qa([
@@ -301,9 +274,7 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["What kind of animal is Bambi?", "A deer"],
     ]),
     400: qa([
-      ["What is Mulan's dragon sidekick named?", "Mushu"],
       ["What city is Big Hero 6 set in?", "San Fransokyo"],
-      ["Who is the main villain in Tangled?", "Mother Gothel"],
     ]),
     600: qa([
       ["What is Mirabel's family surname in Encanto?", "Madrigal"],
@@ -330,17 +301,14 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   video_games: {
     200: qa([
-      ["Which company makes the Xbox?", "Microsoft"],
       ["Which princess does Mario usually rescue?", "Princess Peach"],
       ["What explosive Minecraft mob hisses before blowing up?", "Creeper"],
     ]),
     400: qa([
       ["Which company created Sonic the Hedgehog?", "Sega"],
       ["What city is Grand Theft Auto V set in?", "Los Santos"],
-      ["What studio developed Elden Ring?", "FromSoftware"],
     ]),
     600: qa([
-      ["What is Kratos's son's name in the Norse God of War games?", "Atreus"],
       ["What roguelike game stars Zagreus escaping the Underworld?", "Hades"],
       ["What city is the setting of BioShock Infinite?", "Columbia"],
     ]),
@@ -365,13 +333,10 @@ const TRIVIA_MEGA_EXPANSIONS = {
   fortnite: {
     200: qa([
       ["What tool do players use to harvest materials?", "A pickaxe"],
-      ["What is the shrinking danger zone called?", "The Storm"],
       ["What item restores shield in blue liquid form?", "Shield Potion"],
     ]),
     400: qa([
-      ["What mode removes building entirely?", "Zero Build"],
       ["What editor did Epic release for advanced creators?", "Unreal Editor for Fortnite"],
-      ["What currency buys most premium cosmetics?", "V-Bucks"],
     ]),
     600: qa([
       ["What annual top competition crowns elite teams and players?", "FNCS"],
@@ -382,8 +347,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   valorant: {
     200: qa([
       ["What device must attackers plant to win a round?", "The Spike"],
-      ["Which side plants the Spike?", "Attackers"],
-      ["What is the highest rank in Valorant?", "Radiant"],
     ]),
     400: qa([
       ["Which agent can revive teammates?", "Sage"],
@@ -398,7 +361,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   prison_break: {
     200: qa([
-      ["What prison is the setting for season 1?", "Fox River"],
       ["What is Michael's brother's name?", "Lincoln Burrows"],
       ["What is Sara's last name?", "Tancredi"],
     ]),
@@ -432,7 +394,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   brooklyn_99: {
     200: qa([
-      ["What is Captain Holt's dog named?", "Cheddar"],
       ["What is Amy's last name?", "Santiago"],
       ["What number is the precinct?", "99"],
     ]),
@@ -467,7 +428,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   invincible: {
     200: qa([
       ["What is Mark Grayson's superhero name?", "Invincible"],
-      ["What is Nolan Grayson's superhero name?", "Omni-Man"],
       ["What color is Atom Eve's energy?", "Pink"],
     ]),
     400: qa([
@@ -488,9 +448,7 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["What is Starlight's real name?", "Annie January"],
     ]),
     400: qa([
-      ["What chemical gives people powers in The Boys?", "Compound V"],
       ["What is Billy Butcher's dog named?", "Terror"],
-      ["What is the name of the superhero team Homelander leads?", "The Seven"],
     ]),
     600: qa([
       ["What temporary version of Compound V grants powers to adults?", "Temp V"],
@@ -505,7 +463,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["What villain name does Cisco give Eobard Thawne?", "Reverse-Flash"],
     ]),
     400: qa([
-      ["Who is Barry's daughter from the future?", "Nora West-Allen"],
       ["What Earth is Harry Wells from?", "Earth-2"],
       ["What scientist becomes Killer Frost?", "Caitlin Snow"],
     ]),
@@ -528,18 +485,15 @@ const TRIVIA_MEGA_EXPANSIONS = {
     ]),
     600: qa([
       ["What is the junkyard leader called before joining the Whisperers arc?", "Jadis"],
-      ["What is the name of Ezekiel's community?", "The Kingdom"],
       ["What is the armored mega-community introduced late in the show?", "The Commonwealth"],
     ]),
   },
   solo_leveling: {
     200: qa([
-      ["What rank is Sung Jin-Woo at the beginning?", "E-rank"],
       ["What mysterious interface appears only to Jin-Woo?", "The System"],
       ["What is the name of Jin-Woo's knight-like shadow soldier?", "Igris"],
     ]),
     400: qa([
-      ["What island raid features the Ant King?", "Jeju Island"],
       ["What class path does Jin-Woo first receive from the System?", "Necromancer"],
       ["What is the name of Korea's strongest female hunter who notices Jin-Woo?", "Cha Hae-In"],
     ]),
@@ -568,7 +522,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   dexter: {
     200: qa([
-      ["What police department does Dexter work for?", "Miami Metro"],
       ["What is Dexter's job?", "Blood spatter analyst"],
       ["What is Dexter's sister named?", "Debra Morgan"],
     ]),
@@ -585,7 +538,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   vikings: {
     200: qa([
-      ["Who is Ragnar's first wife?", "Lagertha"],
       ["What monastery is raided at the start of the series?", "Lindisfarne"],
       ["What cave-dwelling prophet advises Kattegat's rulers?", "The Seer"],
     ]),
@@ -620,7 +572,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   dragon_ball: {
     200: qa([
       ["What is Goku's Saiyan name?", "Kakarot"],
-      ["Who is Goku's oldest son?", "Gohan"],
       ["What dragon grants wishes on Earth?", "Shenron"],
     ]),
     400: qa([
@@ -636,7 +587,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   spider_man: {
     200: qa([
-      ["What newspaper buys Peter Parker's photos?", "The Daily Bugle"],
       ["What is MJ's full first name in the MCU?", "Michelle"],
       ["Which villain has mechanical arms in Spider-Man 2?", "Doctor Octopus"],
     ]),

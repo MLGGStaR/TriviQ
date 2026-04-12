@@ -14,13 +14,11 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What country has the capital Ulaanbaatar?", "Mongolia"], ["What sea separates Saudi Arabia from northeast Africa?", "The Red Sea"], ["What is the longest river in Asia?", "The Yangtze"]]),
   },
   science: {
-    200: qa([["Which planet is famous for its rings?", "Saturn"], ["What is the largest internal organ in the human body?", "The liver"], ["What is the process of a liquid turning into gas called?", "Evaporation"]]),
     400: qa([["What is the basic unit of heredity?", "A gene"], ["What device measures earthquakes?", "A seismograph"], ["What blood cells help your blood clot?", "Platelets"]]),
     600: qa([["What is the SI unit of force?", "The newton"], ["What branch of science studies rocks?", "Geology"], ["What is the bending of light called when it enters a new medium?", "Refraction"]]),
   },
   history: {
     200: qa([["What year did the United States declare independence?", "1776"], ["What ancient city was destroyed by Mount Vesuvius?", "Pompeii"], ["What mission first landed humans on the Moon?", "Apollo 11"]]),
-    400: qa([["Who was known as the Iron Lady?", "Margaret Thatcher"], ["What war was fought between the North and South regions of the United States?", "The American Civil War"], ["Which empire ruled Peru before the Spanish conquest?", "The Inca Empire"]]),
     600: qa([["What ship carried the Pilgrims to North America in 1620?", "The Mayflower"], ["Who was the Carthaginian general who crossed the Alps with elephants?", "Hannibal Barca"], ["What Chinese dynasty built much of the Forbidden City?", "The Ming dynasty"]]),
   },
   sports: {
@@ -61,7 +59,6 @@ const QUESTION_EXPANSIONS = {
   star_wars: {
     200: qa([["What is the name of Han Solo's Wookiee copilot?", "Chewbacca"], ["What planet is famous for Ewoks?", "Endor"], ["What weapon do Jedi traditionally use?", "Lightsabers"]]),
     400: qa([["What is Anakin Skywalker's apprentice called?", "Ahsoka Tano"], ["What is the capital planet of the Galactic Republic?", "Coruscant"], ["What is the black-bladed saber of Mandalore called?", "The Darksaber"]]),
-    600: qa([["Who created the Rule of Two for the Sith?", "Darth Bane"], ["What is the hidden Sith planet in The Rise of Skywalker?", "Exegol"], ["What is the crystal used in lightsabers called?", "Kyber crystal"]]),
   },
   harry_potter: {
     200: qa([["What house is Luna Lovegood in?", "Ravenclaw"], ["What is the name of Hagrid's giant dog?", "Fang"], ["What spell opens locked doors?", "Alohomora"]]),
@@ -69,7 +66,6 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What magical branch studies predicting the future?", "Divination"], ["What does the spell Sectumsempra do?", "It slashes the target as if by an invisible sword"], ["What is Voldemort's middle name?", "Marvolo"]]),
   },
   breaking_bad: {
-    200: qa([["What fast-food chain is Gus Fring the public face of?", "Los Pollos Hermanos"], ["What nickname does Jesse use for Walter?", "Mr. White"], ["What city is Breaking Bad set in?", "Albuquerque"]]),
     400: qa([["What fake company is used to hide the superlab laundry operation?", "Lavanderia Brillante"], ["What poison plant does Walter use on Brock?", "Lily of the Valley"], ["What is Mike Ehrmantraut's granddaughter's name?", "Kaylee"]]),
     600: qa([["What pseudonym does Saul Goodman live under after disappearing?", "Gene Takavic"], ["What German conglomerate is tied to Gus's meth operation?", "Madrigal Electromotive"], ["What title is often considered Breaking Bad's most acclaimed episode?", "Ozymandias"]]),
   },
@@ -80,12 +76,10 @@ const QUESTION_EXPANSIONS = {
   },
   friends: {
     200: qa([["What instrument does Phoebe often play?", "The guitar"], ["What is Ross's profession?", "Paleontologist"], ["What is the name of the coffee shop the gang hang out in?", "Central Perk"]]),
-    400: qa([["What is Chandler's middle name?", "Muriel"], ["What was the name of Joey's stuffed penguin?", "Hugsy"], ["What does Rachel accidentally serve in the Thanksgiving trifle?", "Beef and peas"]]),
     600: qa([["What is the name of Phoebe's half-brother?", "Frank Buffay Jr."], ["What song makes Ross and Rachel's daughter Emma laugh?", "Baby Got Back"], ["What is the name of Monica and Rachel's building superintendent?", "Treeger"]]),
   },
   the_office: {
     200: qa([["What company does The Office take place in?", "Dunder Mifflin"], ["What is Pam's maiden name?", "Beesly"], ["What school is Andy Bernard obsessed with?", "Cornell"]]),
-    400: qa([["What is Dwight's family farm called?", "Schrute Farms"], ["What is Kevin's band called?", "Scrantonicity"], ["What company briefly buys Dunder Mifflin?", "Sabre"]]),
     600: qa([["What is Creed Bratton's job title for much of the show?", "Quality assurance"], ["What is Jan's candle company called?", "Serenity by Jan"], ["What disease does Michael claim is spreading during the fun run episode?", "Rabies"]]),
   },
   stranger_things: {
@@ -104,13 +98,11 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What are the two towers usually understood to be in The Two Towers?", "Orthanc and Barad-dur"], ["What glowing gift does Galadriel give Frodo?", "The Phial of Galadriel"], ["What does the word mithril refer to?", "A rare, incredibly light and strong metal"]]),
   },
   video_games: {
-    200: qa([["What company created Mario?", "Nintendo"], ["What princess does Mario often rescue?", "Princess Peach"]]),
     400: qa([["What is the name of Kratos's son in modern God of War?", "Atreus"], ["What game series features the land of Hyrule?", "The Legend of Zelda"], ["What city is Grand Theft Auto V set in?", "Los Santos"]]),
     600: qa([["What survival horror franchise stars Leon Kennedy and Jill Valentine?", "Resident Evil"], ["What game introduced the phrase The cake is a lie?", "Portal"], ["What is Arthur Morgan's gang called in Red Dead Redemption 2?", "The Van der Linde gang"]]),
   },
   anime: {
     200: qa([["What food is Naruto obsessed with?", "Ramen"], ["What pirate crew does Luffy lead?", "The Straw Hat Pirates"]]),
-    400: qa([["What are the giant humanoid monsters in Attack on Titan called?", "Titans"], ["What is Tanjiro's sister called in Demon Slayer?", "Nezuko"], ["What school does Deku attend?", "U.A. High School"]]),
     600: qa([["What is Light Yagami's shinigami companion called?", "Ryuk"], ["What are Dragon Ball's wish-granting orbs called?", "The Dragon Balls"], ["What is Edward Elric's famous state alchemist title?", "The Fullmetal Alchemist"]]),
   },
   prison_break: {
@@ -149,7 +141,6 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What is the name of Barry and Iris's daughter from the future?", "Nora West-Allen"], ["What villain is known as the god of speed?", "Savitar"], ["What speedster title does Wally West use?", "Kid Flash"]]),
   },
   the_walking_dead: {
-    200: qa([["What are zombies usually called in the show?", "Walkers"], ["What is Rick Grimes' son's name?", "Carl"], ["What is Daryl Dixon's signature weapon?", "Crossbow"]]),
     400: qa([["What community is ruled by Ezekiel and Shiva?", "The Kingdom"], ["What is Negan's baseball bat called?", "Lucille"], ["What prison becomes a major early home base?", "The prison / West Georgia Correctional Facility"]]),
     600: qa([["Who kills Alpha?", "Negan"], ["What is the fortified community led by Deanna Monroe?", "Alexandria"], ["What skin-wearing group blends in with walkers?", "The Whisperers"]]),
   },

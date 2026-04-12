@@ -36,14 +36,10 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
     ]),
   },
   marvel: {
-    600: qa([
-      ["What hidden stronghold trains Doctor Strange and Wong?", "Kamar-Taj"],
-    ]),
+    600: qa([]),
   },
   dc: {
-    600: qa([
-      ["What island homeland does Diana leave in Wonder Woman?", "Themyscira"],
-    ]),
+    600: qa([]),
   },
   star_wars: {
     600: qa([
@@ -53,8 +49,6 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
   breaking_bad: {
     200: qa([
       ["What nickname is Walter White Jr. often called?", "Walt Jr."],
-      ["What restaurant chain is owned by Gus Fring?", "Los Pollos Hermanos"],
-      ["What color is Walt's signature meth?", "Blue"],
     ]),
     600: qa([
       ["What laundry front hides Gus Fring's superlab?", "Lavanderia Brillante"],
@@ -77,44 +71,28 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
     ]),
   },
   lord_rings: {
-    200: qa([
-      ["What race is Legolas?", "Elf"],
-      ["What is Aragorn's sword called after it is reforged?", "Anduril"],
-    ]),
+    200: qa([]),
     600: qa([
-      ["What race is Gimli?", "Dwarf"],
       ["What event do Treebeard and the ents launch against Isengard?", "The Last March of the Ents"],
     ]),
   },
   video_games: {
-    200: qa([
-      ["What series features the hero Link?", "The Legend of Zelda"],
-    ]),
+    200: qa([]),
   },
   fortnite: {
-    200: qa([
-      ["What is Fortnite's no-building mode called?", "Zero Build"],
-      ["What is the shrinking zone in a match called?", "The Storm"],
-    ]),
+    200: qa([]),
   },
   valorant: {
     200: qa([
       ["What device do attackers try to plant?", "Spike"],
-      ["Which side tries to plant the Spike?", "Attackers"],
       ["What rank comes after Diamond?", "Ascendant"],
       ["Which controller agent is from Oman?", "Omen"],
     ]),
-    400: qa([
-      ["Which healer can revive teammates?", "Sage"],
-    ]),
+    400: qa([]),
   },
   anime: {
-    400: qa([
-      ["Which anime follows Tanjiro Kamado?", "Demon Slayer"],
-    ]),
-    600: qa([
-      ["Which anime features Spike Spiegel and Jet Black?", "Cowboy Bebop"],
-    ]),
+    400: qa([]),
+    600: qa([]),
   },
   charades_general: {
     600: charades([
@@ -204,13 +182,10 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
   },
   prison_break: {
     400: qa([
-      ["What alias is Michael using in season 5?", "Kaniel Outis"],
       ["What inmate is Michael's closest friend from the start?", "Sucre"],
     ]),
     600: qa([
       ["What data set drives the season 4 conspiracy?", "Scylla"],
-      ["What Panamanian prison traps Michael in season 3?", "Sona"],
-      ["What is Lincoln's son usually called?", "L.J."],
     ]),
   },
   big_bang_theory: {
@@ -219,118 +194,63 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
     ]),
     600: qa([
       ["What document controls Sheldon's apartment rules?", "Roommate Agreement"],
-      ["What number does Sheldon call his favorite?", "73"],
-      ["What is Bernadette's field?", "Microbiology"],
       ["What is Amy's profession?", "Neuroscientist"],
     ]),
   },
   brooklyn_99: {
-    400: qa([
-      ["What is Gina's surname?", "Linetti"],
-      ["What is Terry's surname?", "Jeffords"],
-    ]),
-    600: qa([
-      ["What is the Pontiac Bandit's real name?", "Doug Judy"],
-      ["What is Hitchcock's first name?", "Michael"],
-      ["What is Scully's first name?", "Norm"],
-      ["What movie franchise does Jake constantly quote?", "Die Hard"],
-    ]),
+    400: qa([]),
+    600: qa([]),
   },
   pokemon: {
-    200: qa([
-      ["What type is Pikachu?", "Electric"],
-    ]),
-    600: qa([
-      ["Who is Ash's first professor?", "Professor Oak"],
-      ["Which starter evolves into Charmeleon?", "Charmander"],
-    ]),
+    200: qa([]),
+    600: qa([]),
   },
   invincible: {
-    400: qa([
-      ["What is Atom Eve's first name?", "Samantha"],
-      ["What is Mark's superhero name?", "Invincible"],
-      ["What is Omni-Man's human first name?", "Nolan"],
-    ]),
+    400: qa([]),
     600: qa([
       ["What undersea Guardian dies in the massacre?", "Aquarus"],
     ]),
   },
   the_boys: {
-    400: qa([
-      ["What is Hughie's surname?", "Campbell"],
-      ["What is Starlight's first name?", "Annie"],
-      ["What is Mother's Milk usually called?", "M.M."],
-    ]),
-    600: qa([
-      ["What speedster kills Robin in the pilot?", "A-Train"],
-      ["What is Frenchie's first name?", "Serge"],
-    ]),
+    400: qa([]),
+    600: qa([]),
   },
   the_flash: {
-    400: qa([
-      ["What icy alter ego does Caitlin become?", "Killer Frost"],
-    ]),
+    400: qa([]),
     600: qa([
       ["Which Earth is Zoom originally from?", "Earth-2"],
     ]),
   },
   the_walking_dead: {
-    400: qa([
-      ["What is Negan's bat called?", "Lucille"],
-    ]),
+    400: qa([]),
     600: qa([
-      ["What is Carol's missing daughter called?", "Sophia"],
       ["Who leads the Saviors?", "Negan"],
     ]),
   },
   solo_leveling: {
-    600: qa([
-      ["What is Sung Jin-Woo's father called?", "Sung Il-Hwan"],
-      ["What shadow ant king serves Jin-Woo?", "Beru"],
-      ["What is Jin-Woo's sister called?", "Jin-Ah"],
-    ]),
+    600: qa([]),
   },
   suits: {
-    600: qa([
-      ["What therapist briefly dates Harvey?", "Paula Agard"],
-      ["What city is Pearson Specter Litt based in?", "New York City"],
-    ]),
+    600: qa([]),
   },
   dexter: {
-    400: qa([
-      ["What city does Dexter work in?", "Miami"],
-      ["What is Dexter's son's name?", "Harrison"],
-    ]),
+    400: qa([]),
   },
   vikings: {
-    400: qa([
-      ["What monk becomes Ragnar's closest friend?", "Athelstan"],
-      ["Who is Ivar's mother?", "Aslaug"],
-    ]),
+    400: qa([]),
     600: qa([
-      ["What nickname is Ivar known by?", "The Boneless"],
       ["What new land does Ubbe seek at the end?", "North America"],
     ]),
   },
   one_piece_show: {
-    400: qa([
-      ["What is Nami's crew role?", "Navigator"],
-      ["What sea does Sanji dream of finding?", "All Blue"],
-    ]),
-    600: qa([
-      ["What village is Usopp from?", "Syrup Village"],
-    ]),
+    400: qa([]),
+    600: qa([]),
   },
   dragon_ball: {
-    400: qa([
-      ["What is Goku's Saiyan name?", "Kakarot"],
-      ["What race are Goku and Vegeta?", "Saiyans"],
-    ]),
+    400: qa([]),
   },
   spider_man: {
-    600: qa([
-      ["What is MJ's full first name in the MCU?", "Michelle"],
-    ]),
+    600: qa([]),
   },
   country_facts: {
     600: qa([
@@ -339,22 +259,8 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
   },
   who_footballer: {
     400: who([
-      ["Andres Iniesta", "Andr%C3%A9s_Iniesta"],
-      ["Luis Suarez", "Luis_Su%C3%A1rez"],
-      ["Robert Lewandowski", "Robert_Lewandowski"],
-      ["Franck Ribery", "Franck_Rib%C3%A9ry"],
-      ["David Villa", "David_Villa"],
     ]),
     600: who([
-      ["Robin van Persie", "Robin_van_Persie"],
-      ["Mesut Ozil", "Mesut_%C3%96zil"],
-      ["Javier Mascherano", "Javier_Mascherano"],
-      ["Carlos Tevez", "Carlos_T%C3%A9vez"],
-      ["Edinson Cavani", "Edinson_Cavani"],
-      ["Gianluigi Buffon", "Gianluigi_Buffon"],
-      ["Clarence Seedorf", "Clarence_Seedorf"],
-      ["Javier Zanetti", "Javier_Zanetti"],
-      ["Samuel Eto'o", "Samuel_Eto%27o"],
     ]),
   },
   who_tv_character: {

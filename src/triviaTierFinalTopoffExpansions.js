@@ -6,12 +6,8 @@ const TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS = {
     200: qa([
       ["What kind of fish is Nemo?", "Clownfish"],
     ]),
-    400: qa([
-      ["What pet chameleon belongs to Rapunzel?", "Pascal"],
-    ]),
-    600: qa([
-      ["What is Mirabel's family name in Encanto?", "Madrigal"],
-    ]),
+    400: qa([]),
+    600: qa([]),
   },
   lord_rings: {
     200: qa([
@@ -37,18 +33,11 @@ const TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS = {
     ]),
   },
   invincible: {
-    400: qa([
-      ["What alien race is Omni-Man from?", "Viltrumite"],
-    ]),
+    400: qa([]),
   },
   the_boys: {
-    400: qa([
-      ["What company created Compound V?", "Vought"],
-      ["What is Kimiko's brother called?", "Kenji"],
-    ]),
+    400: qa([]),
     600: qa([
-      ["What drug do Butcher and Hughie inject for temporary powers?", "Temp V"],
-      ["What is Queen Maeve's first name?", "Maggie"],
       ["What Russian nerve agent is used to subdue Soldier Boy?", "Novichok"],
       ["What facility secretly creates super terrorists in season 2?", "Sage Grove Center"],
     ]),
@@ -66,7 +55,6 @@ const TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS = {
   dexter: {
     400: qa([
       ["What is Dexter's boat called?", "Slice of Life"],
-      ["What is Arthur Mitchell's killer nickname?", "Trinity Killer"],
     ]),
   },
   one_piece_show: {
@@ -75,10 +63,7 @@ const TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS = {
     ]),
   },
   dragon_ball: {
-    400: qa([
-      ["Who created Earth's Dragon Balls?", "Kami"],
-      ["What fusion uses Potara earrings?", "Vegito"],
-    ]),
+    400: qa([]),
   },
   spider_man: {
     600: qa([
