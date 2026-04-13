@@ -4636,11 +4636,14 @@ const CSS=`
     --header-backdrop-filter:blur(8px) saturate(118%);
   }
   *{box-sizing:border-box;margin:0;padding:0;}
-  html,body,#root{
+  html{
+    width:100%;
+    height:100%;
+  }
+  body,#root{
     width:100%;
     min-height:100%;
     height:auto;
-    overflow-y:auto;
     background-color:var(--site-bg-color);
     background-image:var(--site-bg-image);
     background-position:var(--site-bg-position);
