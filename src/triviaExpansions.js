@@ -5,25 +5,19 @@ const charades = (items, prompt = "Act this out") => items.map((a) => ({ q: prom
 const QUESTION_EXPANSIONS = {
   general: {
     200: qa([["How many months have 31 days?", "7"], ["How many letters are in the English alphabet?", "26"], ["What is the currency of the United States?", "US dollar"]]),
-    400: qa([["What does WWW stand for?", "World Wide Web"], ["How many players are there in a chess game at the start?", "2"], ["What is the freezing point of water in Fahrenheit?", "32°F"]]),
-    600: qa([["What is pi rounded to three decimal places?", "3.142"], ["What does CPU stand for?", "Central Processing Unit"], ["What do the initials ATM stand for?", "Automated Teller Machine"]]),
   },
   geography: {
     200: qa([["What is the capital of Thailand?", "Bangkok"], ["What river flows through Paris?", "The Seine"], ["What is the capital of Portugal?", "Lisbon"]]),
     400: qa([["What is the capital of Kenya?", "Nairobi"], ["What is the capital of Norway?", "Oslo"], ["What is the highest waterfall in the world?", "Angel Falls"]]),
-    600: qa([["What country has the capital Ulaanbaatar?", "Mongolia"], ["What sea separates Saudi Arabia from northeast Africa?", "The Red Sea"], ["What is the longest river in Asia?", "The Yangtze"]]),
   },
   science: {
     400: qa([["What is the basic unit of heredity?", "A gene"], ["What device measures earthquakes?", "A seismograph"], ["What blood cells help your blood clot?", "Platelets"]]),
-    600: qa([["What is the SI unit of force?", "The newton"], ["What branch of science studies rocks?", "Geology"], ["What is the bending of light called when it enters a new medium?", "Refraction"]]),
   },
   history: {
     200: qa([["What year did the United States declare independence?", "1776"], ["What ancient city was destroyed by Mount Vesuvius?", "Pompeii"], ["What mission first landed humans on the Moon?", "Apollo 11"]]),
     600: qa([["What ship carried the Pilgrims to North America in 1620?", "The Mayflower"], ["Who was the Carthaginian general who crossed the Alps with elephants?", "Hannibal Barca"], ["What Chinese dynasty built much of the Forbidden City?", "The Ming dynasty"]]),
   },
   sports: {
-    200: qa([["Which country hosted the 2016 Summer Olympics?", "Brazil"], ["How many players are on the field for one baseball team?", "9"], ["Which sport awards the Stanley Cup?", "Ice hockey"]]),
-    400: qa([["Which country won the 2010 FIFA World Cup?", "Spain"], ["What surface is used at Roland-Garros?", "Clay"], ["Which sport includes the pommel horse?", "Gymnastics"]]),
     600: qa([["What is three under par on a golf hole called?", "An albatross"], ["What is the Davis Cup?", "International men's team tennis competition"], ["In cricket, how many runs do you score for hitting the ball over the boundary on the full?", "6"]]),
   },
   music: {
@@ -32,13 +26,10 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What is syncopation?", "Emphasizing off-beats or unexpected beats"], ["What is an arpeggio?", "The notes of a chord played one after another"], ["What is the circle of fifths used for?", "Showing relationships between keys and key signatures"]]),
   },
   movies: {
-    200: qa([["What is the name of the blue alien people in Avatar?", "The Na'vi"], ["Who directed Titanic?", "James Cameron"], ["Who is Nemo's father in Finding Nemo?", "Marlin"]]),
     400: qa([["What film features the word Rosebud as a key clue?", "Citizen Kane"], ["What is the name of the hotel in The Shining?", "The Overlook Hotel"], ["What movie introduced Jack Skellington?", "The Nightmare Before Christmas"]]),
     600: qa([["What does ADR stand for in filmmaking?", "Automated Dialogue Replacement"], ["Which Akira Kurosawa film inspired A Fistful of Dollars?", "Yojimbo"], ["What horror film popularized found-footage in 1999?", "The Blair Witch Project"]]),
   },
   country_facts: {
-    200: qa([["This country is known as the Land of the Long White Cloud and has capital Wellington", "New Zealand"], ["This country is home to Petra and its capital is Amman", "Jordan"], ["This island nation is famous for volcanoes, geysers, and geothermal energy - capital Reykjavik", "Iceland"]]),
-    400: qa([["This is the only African country with Spanish as an official language", "Equatorial Guinea"], ["This country is home to both the Serengeti and Mount Kilimanjaro", "Tanzania"], ["This country has capital Tbilisi and sits between Europe and Asia", "Georgia"]]),
     600: qa([["This Himalayan kingdom measures success with Gross National Happiness", "Bhutan"], ["This country is home to the Okavango Delta and capital Gaborone", "Botswana"], ["This Horn of Africa nation has capital Asmara", "Eritrea"]]),
   },
   songs: {
@@ -165,13 +156,10 @@ const QUESTION_EXPANSIONS = {
     600: qa([["What huge invasion of England is launched by Ragnar's sons?", "The Great Heathen Army"], ["What land does Floki eventually settle?", "Iceland"], ["Who becomes the first Duke of Normandy after settling in France?", "Rollo"]]),
   },
   one_piece_show: {
-    200: qa([["What fruit gives Luffy his rubber body?", "The Gomu Gomu no Mi"], ["Who is the navigator of the Straw Hats?", "Nami"], ["What is Zoro's dream?", "To become the world's greatest swordsman"]]),
     400: qa([["What power system has Observation, Armament, and Conqueror's forms?", "Haki"], ["What title is given to the world's four most powerful pirates?", "The Yonko / Four Emperors"], ["Who can read the ancient Poneglyphs for the Straw Hats?", "Nico Robin"]]),
     600: qa([["What is the hidden true identity of Luffy's fruit?", "The Hito Hito no Mi, Model: Nika"], ["What is the final island at the end of the Grand Line called?", "Laugh Tale"], ["What erased 100-year period is central to the world's mystery?", "The Void Century"]]),
   },
   dragon_ball: {
-    200: qa([["What race are Goku and Vegeta?", "Saiyans"], ["What attack is Goku famous for charging with cupped hands?", "Kamehameha"], ["How many Dragon Balls are needed to summon Shenron?", "7"]]),
-    400: qa([["What room lets fighters train for a year in a single day?", "The Hyperbolic Time Chamber"], ["What transformation first appears when Goku fights Frieza?", "Super Saiyan"], ["What android later marries Krillin?", "Android 18"]]),
     600: qa([["What godly state lets Goku move without conscious thought?", "Ultra Instinct"], ["What tournament puts multiple universes at risk of erasure?", "The Tournament of Power"], ["What ruler can erase universes instantly?", "Zeno"]]),
   },
   spider_man: {

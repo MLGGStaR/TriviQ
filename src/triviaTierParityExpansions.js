@@ -24,7 +24,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What is a polygon with 10 sides called?", "Decagon"],
       ["What instrument measures atmospheric pressure?", "Barometer"],
       ["What branch of math studies chance?", "Probability"],
-      ["What does PDF stand for?", "Portable Document Format"],
       ["What is a word made from the initials of a phrase called?", "Acronym"],
     ]),
   },
@@ -115,7 +114,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What symbol cancels a sharp or flat?", "Natural"],
       ["What does a fermata tell a musician to do?", "Hold the note"],
       ["What family does the trombone belong to?", "Brass"],
-      ["What is the relative minor of C major?", "A minor"],
       ["What is a piece for one performer called?", "Solo"],
       ["What does allegro usually mean?", "Fast"],
       ["What is the line system written for music called?", "Staff"],
@@ -130,7 +128,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["Which film introduced the character Furiosa?", "Mad Max: Fury Road"],
       ["What is the ship called in The Life Aquatic with Steve Zissou?", "Belafonte"],
       ["What is the name of the hotel in John Wick?", "The Continental"],
-      ["Who directed Reservoir Dogs?", "Quentin Tarantino"],
       ["What is the island park called in Jurassic Park?", "Isla Nublar"],
       ["What is the name of the rabbit in Donnie Darko?", "Frank"],
       ["What is the AI in Ex Machina called?", "Ava"],
@@ -140,17 +137,10 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
   country_facts: {
     400: qa([
       ["This country borders Austria and Hungary and was once part of Czechoslovakia", "Slovakia"],
-      ["This country is known for the ancient city of Petra", "Jordan"],
-      ["This country is home to Mount Kilimanjaro and Zanzibar", "Tanzania"],
       ["This country sits between Brazil and Argentina on the Atlantic coast", "Uruguay"],
-      ["This country is known for the Dead Sea and the city of Tel Aviv", "Israel"],
     ]),
     600: qa([
-      ["This country is famous for measuring Gross National Happiness instead of GDP", "Bhutan"],
-      ["This country sits between Europe and Asia in the Caucasus region", "Georgia"],
       ["This country lies on South America's Atlantic coast and was a Dutch colony", "Suriname"],
-      ["This country is known for vast steppes and nomadic culture", "Mongolia"],
-      ["This country is one of the world's oldest Christian nations in the Caucasus", "Armenia"],
     ]),
   },
   movie_show_emoji: {
@@ -227,7 +217,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What is T-Bag's first name?", "Theodore"],
       ["What is Michael's wife figure called?", "Sara"],
       ["What state is Fox River in?", "Illinois"],
-      ["What is Veronica Donovan's profession?", "Lawyer"],
       ["What is Michael's scarred enemy from Fox River called?", "T-Bag"],
       ["What city is Ogygia prison located near?", "Sana'a"],
     ]),
@@ -295,11 +284,9 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
   suits: {
     400: qa([
       ["What is Mike's best friend from his old life called?", "Trevor"],
-      ["What city is the firm based in?", "New York"],
     ]),
     600: qa([
       ["What is Alex Williams's role at the firm?", "Senior partner"],
-      ["What is Robert Zane's profession?", "Lawyer"],
       ["What is Samantha Wheeler's role at the firm?", "Partner"],
       ["What is Louis's cat called?", "Bruno"],
       ["What college did Rachel attend?", "Columbia"],
@@ -458,7 +445,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
     400: qa([
       ["What toy says 'To infinity and beyond'?", "Buzz Lightyear"],
       ["What number is Lightning McQueen famous for?", "95"],
-      ["What robot falls in love with EVE?", "WALL-E"],
       ["What Scottish princess is the heroine of Brave?", "Merida"],
       ["What emotion leads Riley's mind first?", "Joy"],
     ]),
@@ -472,7 +458,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["What planet is WALL-E left to clean?", "Earth"],
       ["What giant bird carries the house in Up?", "Kevin"],
       ["What city do Riley's emotions move to?", "San Francisco"],
-      ["What witch turns Merida's mother into a bear?", "The Witch"],
       ["What rat dreams of becoming a chef?", "Remy"],
     ]),
   },
@@ -523,7 +508,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
   },
   solo_leveling: {
     400: qa([
-      ["What system message makes Jin-Woo stronger?", "The System"],
       ["What red knight becomes one of his first elite shadows?", "Igris"],
       ["What profession are dungeon fighters called?", "Hunters"],
       ["What daily quest keeps rewarding Jin-Woo?", "Workout quest"],

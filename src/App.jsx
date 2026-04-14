@@ -12,6 +12,7 @@ import SONG_CLIP_BANK from "./songClips.js";
 import SONG_CLIP_ADDITIONS from "./songClipAdditions.js";
 import EMOJI_GUESS_CATEGORIES from "./emojiGuessCategories.js";
 import NEW_CATEGORIES_BANK from "./newCategoriesBank.js";
+import NEW_CATEGORIES_PACK_2 from "./newCategoriesPack2.js";
 import LOGO_CATEGORIES_BANK from "./logoCategoriesBank.js";
 import LOGO_CLEAN_MANIFEST from "./logoCleanManifest.js";
 // Logo manifest removed — logos now use the Who Am I image system via wiki keys.
@@ -370,20 +371,18 @@ const COUNTRY_MAP_BANK = Object.fromEntries(
 const RAW_BANK = {
   ...EMOJI_GUESS_CATEGORIES,
   ...NEW_CATEGORIES_BANK,
+  ...NEW_CATEGORIES_PACK_2,
   ...LOGO_CATEGORIES_BANK,
   general:{ label:"General Knowledge",icon:"\u{1F9E0}",color:"#F59E0B",
     200:[
-      {q:"What is the capital of France?",a:"Paris"},
       {q:"How many days in a leap year?",a:"366"},
       {q:"Largest ocean on Earth?",a:"Pacific Ocean"},
       {q:"How many sides does a hexagon have?",a:"6"},
       {q:"Chemical symbol for water?",a:"H₂O"},
-      {q:"What color do blue and yellow make?",a:"Green"},
       {q:"How many continents are there?",a:"7"},
       {q:"Boiling point of water in Celsius?",a:"100°C"},
       {q:"Capital of the United Kingdom?",a:"London"},
       {q:"How many hours in a week?",a:"168"},
-      {q:"Largest planet in our solar system?",a:"Jupiter"},
       {q:"National language of Brazil?",a:"Portuguese"},
       {q:"How many strings does a standard guitar have?",a:"6"},
       {q:"Collective noun for a group of lions?",a:"A pride"},
@@ -399,23 +398,18 @@ const RAW_BANK = {
       {q:"Most widely eaten grain in the world?",a:"Rice"},
       {q:"How many zeros in one million?",a:"6"},
       {q:"Normal human body temperature?",a:"37°C / 98.6°F"},
-      {q:"Capital of Germany?",a:"Berlin"},
       {q:"National animal of Australia?",a:"Kangaroo (and emu)"},
       {q:"How many days in February (non-leap year)?",a:"28"},
       {q:"Tallest animal in the world?",a:"Giraffe"},
       {q:"How many sides does an octagon have?",a:"8"},
       {q:"Currency of the UK?",a:"Pound sterling (£)"},
-      {q:"Capital of Japan?",a:"Tokyo"},
       {q:"How many weeks in a year?",a:"52"},
     ],
     400:[
-      {q:"World's most widely spoken language by total speakers?",a:"English"},
-      {q:"Hardest natural substance on Earth?",a:"Diamond"},
       {q:"Planet closest in size to Earth?",a:"Venus"},
       {q:"How many bones in the adult human body?",a:"206"},
       {q:"Smallest country in the world by area?",a:"Vatican City"},
       {q:"Square root of 144?",a:"12"},
-      {q:"Year the Berlin Wall fell?",a:"1989"},
       {q:"What organ produces insulin?",a:"Pancreas"},
       {q:"Adult human teeth count including wisdom teeth?",a:"32"},
       {q:"Currency of Japan?",a:"Yen"},
@@ -431,8 +425,6 @@ const RAW_BANK = {
       {q:"Speed of sound in air at sea level?",a:"~343 m/s"},
       {q:"What is a palindrome?",a:"A word or phrase that reads the same forwards and backwards"},
       {q:"Roman numeral for 1000?",a:"M"},
-      {q:"How many chambers does a human heart have?",a:"4"},
-      {q:"Powerhouse of the cell?",a:"Mitochondria"},
       {q:"Scientific name for the North Star?",a:"Polaris"},
       {q:"Difference between an atom and a molecule?",a:"An atom is the smallest unit of an element; a molecule is two or more atoms bonded together"},
       {q:"What is the Coriolis effect?",a:"The deflection of objects by Earth's rotation — affects weather patterns"},
@@ -460,7 +452,6 @@ const RAW_BANK = {
       {q:"What is the Standard Model in physics?",a:"Theory describing fundamental particles and forces (except gravity) that make up the universe"},
       {q:"What is the Higgs boson?",a:"The particle that gives other particles mass — confirmed in 2012 at CERN's Large Hadron Collider"},
       {q:"What is dark energy?",a:"A mysterious force (~68% of universe) driving its accelerating expansion"},
-      {q:"What does the Heisenberg Uncertainty Principle state?",a:"You cannot simultaneously know the exact position and momentum of a particle"},
       {q:"What is quantum tunnelling?",a:"Particles passing through energy barriers that classical physics says they cannot cross"},
       {q:"What is entropy in thermodynamics?",a:"A measure of disorder in a system — always increases in a closed system (Second Law)"},
       {q:"What is the Chandrasekhar limit?",a:"~1.4 solar masses — the maximum mass of a stable white dwarf star"},
@@ -472,10 +463,8 @@ const RAW_BANK = {
       {q:"Capital of Japan?",a:"Tokyo"},
       {q:"Longest river in the world?",a:"The Nile"},
       {q:"Which continent is Egypt on?",a:"Africa"},
-      {q:"Smallest continent?",a:"Australia"},
       {q:"Ocean between the USA and Europe?",a:"Atlantic Ocean"},
       {q:"Capital of Australia?",a:"Canberra"},
-      {q:"Country with the largest population?",a:"India"},
       {q:"Tallest mountain in the world?",a:"Mount Everest"},
       {q:"Capital of Italy?",a:"Rome"},
       {q:"Capital of Germany?",a:"Berlin"},
@@ -485,16 +474,13 @@ const RAW_BANK = {
       {q:"Body of water separating Europe from Africa?",a:"Mediterranean Sea"},
       {q:"Capital of Russia?",a:"Moscow"},
       {q:"Capital of the USA?",a:"Washington D.C."},
-      {q:"Largest country in South America?",a:"Brazil"},
       {q:"Capital of Mexico?",a:"Mexico City"},
-      {q:"Country with the longest coastline?",a:"Canada"},
       {q:"Capital of India?",a:"New Delhi"},
       {q:"Which continent has the most countries?",a:"Africa (54 countries)"},
       {q:"Capital of Egypt?",a:"Cairo"},
       {q:"Mountain range in Switzerland?",a:"The Alps"},
       {q:"Capital of South Korea?",a:"Seoul"},
       {q:"Largest city in the world by population?",a:"Tokyo"},
-      {q:"Which country does the Amazon mostly flow through?",a:"Brazil"},
       {q:"Capital of Turkey?",a:"Ankara"},
       {q:"Body of water between Russia and Alaska?",a:"Bering Strait"},
       {q:"Capital of South Africa?",a:"Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)"},
@@ -504,7 +490,6 @@ const RAW_BANK = {
     ],
     400:[
       {q:"Capital of Brazil?",a:"Brasília"},
-      {q:"Largest country in the world by area?",a:"Russia"},
       {q:"Mountain range separating Europe and Asia?",a:"Ural Mountains"},
       {q:"Most populated country in Africa?",a:"Nigeria"},
       {q:"How many countries share a border with China?",a:"14"},
@@ -521,7 +506,6 @@ const RAW_BANK = {
       {q:"Capital of Philippines?",a:"Manila"},
       {q:"Country with the most volcanoes?",a:"Indonesia (over 130 active)"},
       {q:"What connects the Atlantic Ocean to the Mediterranean?",a:"Strait of Gibraltar"},
-      {q:"Which country is home to Machu Picchu?",a:"Peru"},
       {q:"Capital of Ethiopia?",a:"Addis Ababa"},
       {q:"What is the Fertile Crescent?",a:"A region of the Middle East often called the cradle of civilization"},
       {q:"Country with highest altitude capital?",a:"Bolivia — La Paz at ~3,640m"},
@@ -531,7 +515,6 @@ const RAW_BANK = {
       {q:"Deepest lake in the world?",a:"Lake Baikal (Russia) — 1,642 metres deep"},
       {q:"Longest land border between two countries?",a:"USA and Canada (~8,891 km)"},
       {q:"What is the Mariana Trench?",a:"The deepest part of the world's oceans — about 11,000 metres in the Pacific"},
-      {q:"Country entirely surrounded by South Africa?",a:"Lesotho"},
       {q:"Capital of Myanmar?",a:"Naypyidaw"},
     ],
     600:[
@@ -660,7 +643,6 @@ const RAW_BANK = {
       {q:"First man to walk on the Moon?",a:"Neil Armstrong"},
       {q:"What empire did Genghis Khan rule?",a:"The Mongol Empire"},
       {q:"Year World War I began?",a:"1914"},
-      {q:"Country that dropped atomic bombs on Japan?",a:"United States"},
       {q:"Ancient structure across northern China?",a:"Great Wall of China"},
       {q:"Who was Cleopatra?",a:"Last active ruler of the Ptolemaic Kingdom of Egypt"},
       {q:"Year WWI ended?",a:"1918"},
@@ -743,7 +725,6 @@ const RAW_BANK = {
   sports:{ label:"Sports",icon:"\u26BD",color:"#EF4444",
     200:[
       {q:"Most FIFA World Cups won?",a:"Brazil (5 times)"},
-      {q:"Basketball players on court per team?",a:"5"},
       {q:"What is zero called in tennis?",a:"Love"},
       {q:"Length of a marathon?",a:"42.195 km"},
       {q:"Rings on the Olympic flag?",a:"5"},
@@ -839,7 +820,6 @@ const RAW_BANK = {
       {q:"Who composed the Four Seasons?",a:"Antonio Vivaldi"},
       {q:"Band behind Hotel California?",a:"Eagles"},
       {q:"Who sang Shape of You?",a:"Ed Sheeran"},
-      {q:"Elton John's famous instrument?",a:"Piano"},
       {q:"Which band is Freddie Mercury from?",a:"Queen"},
       {q:"What nationality is Adele?",a:"British (English)"},
       {q:"Who sang Blinding Lights?",a:"The Weeknd"},
@@ -848,9 +828,7 @@ const RAW_BANK = {
       {q:"Queen of Pop?",a:"Madonna"},
       {q:"Who sang Someone Like You?",a:"Adele"},
       {q:"Band behind We Will Rock You?",a:"Queen"},
-      {q:"Who sang Hello (2015)?",a:"Adele"},
       {q:"Who sang Uptown Funk?",a:"Bruno Mars (featuring Mark Ronson)"},
-      {q:"Instrument with 88 keys?",a:"Piano"},
       {q:"Who sang Bad Guy?",a:"Billie Eilish"},
       {q:"Who sang Stairway to Heaven?",a:"Led Zeppelin"},
       {q:"What does a conductor do?",a:"Leads and coordinates the musicians, interpreting the music"},
@@ -859,7 +837,6 @@ const RAW_BANK = {
       {q:"Who sang Lose Yourself?",a:"Eminem"},
       {q:"Who sang All I Want for Christmas Is You?",a:"Mariah Carey"},
       {q:"What is AC/DC's most famous song?",a:"Back in Black (or Highway to Hell)"},
-      {q:"Who sang Thriller?",a:"Michael Jackson"},
       {q:"Country music capital of the world?",a:"Nashville, Tennessee"},
     ],
     400:[
@@ -934,7 +911,6 @@ const RAW_BANK = {
       {q:"Film featuring Let It Go?",a:"Frozen (2013)"},
       {q:"Film with the quote Why so serious??",a:"The Dark Knight (2008)"},
       {q:"Who played Hannibal Lecter in Silence of the Lambs?",a:"Anthony Hopkins"},
-      {q:"Fictional country in Black Panther?",a:"Wakanda"},
       {q:"Film with the line I see dead people?",a:"The Sixth Sense (1999)"},
       {q:"Who plays Hermione Granger in Harry Potter?",a:"Emma Watson"},
       {q:"Film about a stranded astronaut on Mars?",a:"The Martian (2015)"},
@@ -1778,7 +1754,6 @@ const RAW_BANK = {
       {q:"What is the best-selling video game of all time?",a:"Minecraft (238+ million copies)"},
       {q:"Who is the main character in Zelda?",a:"Link (not Zelda — she is the princess)"},
       {q:"What year was Super Mario Bros. released?",a:"1985"},
-      {q:"Who makes Fortnite?",a:"Epic Games"},
       {q:"What does NPC stand for?",a:"Non-Player Character"},
       {q:"What is Pac-Man's goal?",a:"To eat all the dots while avoiding ghosts"},
       {q:"Who is Sonic's enemy?",a:"Dr. Eggman (Dr. Robotnik)"},
@@ -1966,7 +1941,6 @@ const RAW_BANK = {
     200:[
       {q:"Who is the protagonist in Naruto?",a:"Naruto Uzumaki"},
       {q:"What is the name of the pirate crew in One Piece?",a:"The Straw Hat Pirates"},
-      {q:"What are the giant beings that eat humans in Attack on Titan?",a:"Titans"},
       {q:"What is Tanjiro's goal in Demon Slayer?",a:"To cure his sister Nezuko who was turned into a demon"},
       {q:"What is the power system in My Hero Academia called?",a:"Quirks"},
       {q:"What does the Death Note do?",a:"Kills anyone whose name is written in it"},
@@ -2072,7 +2046,6 @@ const RAW_BANK = {
   charades_movies:{ label:"Charades: Movies & TV",icon:"\u{1F3AC}",color:"#A855F7",isCharades:true,
     200:[
       {q:"Act out this movie or TV show!",a:"Titanic"},{q:"Act out this movie or TV show!",a:"Spider-Man"},
-      {q:"Act out this movie or TV show!",a:"The Lion King"},{q:"Act out this movie or TV show!",a:"Frozen"},
       {q:"Act out this movie or TV show!",a:"Harry Potter"},{q:"Act out this movie or TV show!",a:"Jurassic Park"},
       {q:"Act out this movie or TV show!",a:"The Avengers"},{q:"Act out this movie or TV show!",a:"Finding Nemo"},
       {q:"Act out this movie or TV show!",a:"Home Alone"},{q:"Act out this movie or TV show!",a:"Batman"},
@@ -2093,7 +2066,6 @@ const RAW_BANK = {
       {q:"Act out this movie or TV show!",a:"The Jungle Book"},{q:"Act out this movie or TV show!",a:"Scooby-Doo"},
     ],
     400:[
-      {q:"Act out this movie or TV show!",a:"Breaking Bad"},{q:"Act out this movie or TV show!",a:"Stranger Things"},
       {q:"Act out this movie or TV show!",a:"The Dark Knight"},{q:"Act out this movie or TV show!",a:"Interstellar"},
       {q:"Act out this movie or TV show!",a:"Prison Break"},{q:"Act out this movie or TV show!",a:"Pirates of the Caribbean"},
       {q:"Act out this movie or TV show!",a:"Mission Impossible"},{q:"Act out this movie or TV show!",a:"Gladiator"},
@@ -2673,7 +2645,6 @@ const RAW_BANK = {
     {q:"Who is Aunt May?",a:"Peter's guardian who raised him after his parents' death — she doesn't know his secret for years"},
     {q:"Who is the Green Goblin?",a:"Norman Osborn — a scientist who becomes unhinged after taking an experimental formula"},
     {q:"What studio produces Spider-Man films?",a:"Sony owns the rights, but Marvel Studios co-produced the MCU Spider-Man films with Tom Holland"},
-    {q:"Who plays Spider-Man in the MCU?",a:"Tom Holland"},
     {q:"What is the Daily Bugle?",a:"The newspaper where Peter works as a photographer — run by J. Jonah Jameson"},
   ],
   400:[
@@ -2710,54 +2681,26 @@ const RAW_BANK = {
   country_facts:{label:"Country Facts",icon:"\u{1F310}",color:"#0891B2",
   200:[
     {q:"This country has the most pyramids in the world — more than Egypt",a:"Sudan"},
-    {q:"This country is home to the Amazon rainforest and the largest country in South America",a:"Brazil"},
-    {q:"This country invented pizza, pasta, and is famous for the Colosseum and leaning tower in Pisa",a:"Italy"},
-    {q:"This is the most visited country in the world — home to the Eiffel Tower and the Louvre museum",a:"France"},
-    {q:"This country is the birthplace of the Olympic Games and democracy",a:"Greece"},
-    {q:"This country has the world's longest coastline — it also contains more lakes than any other country",a:"Canada"},
     {q:"This tiny country is completely surrounded by Italy — home to the smallest republic in the world",a:"San Marino"},
-    {q:"This country's flag features a maple leaf — it spans from the Atlantic to the Pacific and has two official languages",a:"Canada"},
-    {q:"This country is both a continent and a country — the only nation to occupy an entire continent",a:"Australia"},
-    {q:"This country invented chess, yoga, Buddhism, and Hinduism",a:"India"},
-    {q:"This is the world's most populous country as of 2023 — it overtook China",a:"India"},
-    {q:"This country has the highest peak on Earth — Mount Everest — and is between China and India",a:"Nepal"},
-    {q:"This country is completely below sea level in significant parts — known for tulips, windmills, and cycling",a:"Netherlands"},
     {q:"This country is where the World Cup was held in 2022 — known for its futuristic skyline and extreme wealth",a:"Qatar"},
-    {q:"This country is a federation of seven emirates on the Arabian Peninsula",a:"United Arab Emirates"},
   ],
   400:[
-    {q:"This country has the most time zones in the world — 12 including overseas territories",a:"France"},
-    {q:"This country is home to the world's largest salt flat — Salar de Uyuni — and is landlocked in South America",a:"Bolivia"},
-    {q:"This country is the birthplace of the internet's creator Tim Berners-Lee and home to the Magna Carta",a:"United Kingdom"},
-    {q:"This country has the most UNESCO World Heritage Sites in the world",a:"Italy"},
-    {q:"This country has never been colonised in modern history and uses its own calendar — Horn of Africa",a:"Ethiopia"},
-    {q:"This country has the most billionaires per capita in the world — a city-state in Southeast Asia",a:"Singapore"},
     {q:"This is the only country with two capital cities — one for parliament, one for executive government",a:"South Africa (Cape Town and Pretoria, plus Bloemfontein)"},
     {q:"This is the world's only country whose name begins and ends with the same letter",a:"Qatar"},
-    {q:"This country is famous for its fjords and midnight sun",a:"Norway"},
-    {q:"This country is home to CERN, where the World Wide Web was invented",a:"Switzerland"},
-    {q:"This is the world's oldest continuously inhabited country — with over 5,000 years of recorded history",a:"China"},
-    {q:"This country has the world's longest high-speed rail network — it also has more pandas than any other country",a:"China"},
     {q:"This small African country is the only one completely surrounded by South Africa — a kingdom in the mountains",a:"Lesotho"},
     {q:"This country produces 40% of the world's chocolate",a:"Ivory Coast (Côte d'Ivoire)"},
     {q:"This country has the most islands of any nation in the world — over 220,000",a:"Sweden"},
   ],
   600:[
-    {q:"This country has the highest average elevation of any independent country and is completely surrounded by South Africa",a:"Lesotho"},
-    {q:"This country has 11 official languages and three capital cities",a:"South Africa"},
     {q:"This tiny island nation in the Pacific was the first country to be almost entirely submerged due to climate change",a:"Tuvalu"},
     {q:"This island nation is famous for Ceylon tea and was formerly known as Ceylon",a:"Sri Lanka"},
     {q:"This country has the highest percentage of forest cover — over 97% of the land is forested",a:"Suriname"},
     {q:"This island nation in the Indian Ocean is known for luxury resorts and is the world's lowest-lying country",a:"Maldives"},
-    {q:"This country has the most vending machines per capita in the world — including ones selling hot meals and live crabs",a:"Japan"},
     {q:"This country recently changed its official name from Swaziland to its current name in 2018",a:"Eswatini"},
-    {q:"This country has the largest number of active volcanoes in the world — over 130",a:"Indonesia"},
     {q:"This tiny nation completely surrounded by Switzerland and Austria is one of only two doubly landlocked countries",a:"Liechtenstein"},
-    {q:"This country is the only sovereign state with a non-rectangular national flag",a:"Nepal"},
     {q:"This country has the highest murder rate in the world and is known as the most dangerous nation not at war",a:"Honduras (varies by year — often El Salvador or Honduras)"},
     {q:"This country introduced the first national park in the world — in 1872",a:"United States (Yellowstone)"},
     {q:"This island nation in East Africa has more species of lemur than anywhere else on Earth — they are found nowhere else",a:"Madagascar"},
-    {q:"This independent country is the only one in the world with a dragon on its national flag",a:"Bhutan"},
   ],
   },
   flags:{label:"Flags",icon:"\u{1F6A9}",color:"#DC2626",
@@ -2889,7 +2832,6 @@ const RAW_BANK = {
     {q:"I'm a brilliant but misanthropic doctor who diagnoses impossible cases using a cane",a:"Gregory House",wiki:"Gregory_House"},
   ],
   400:[
-    {q:"I'm a chemistry teacher's wife who eventually helps launder drug money, and my husband's secret destroys our family",a:"Skyler White",wiki:"Skyler_White"},
     {q:"I lead the army of the dead, ride an undead dragon, and bring the Long Night to Westeros",a:"The Night King",wiki:"Night_King"},
     {q:"I'm a paralegal turned lawyer from Suits, and I eventually marry Mike Ross",a:"Rachel Zane",wiki:"Rachel_Zane"},
     {q:"I'm an FBI agent hunting escaped convicts, secretly linked to the Company, and I become an uneasy ally",a:"Agent Mahone",wiki:"Alexander_Mahone"},
@@ -2902,7 +2844,6 @@ const RAW_BANK = {
     {q:"I'm the foul-mouthed antihero of The Boys, and I want Homelander dead more than anything",a:"Billy Butcher",wiki:"Billy_Butcher"},
     {q:"I wield a bat with nails, wear sailor scoops gear, and become one of Hawkins' bravest heroes",a:"Steve Harrington",wiki:"Steve_Harrington"},
     {q:"I wear a trucker cap, love pudding, and survive every nightmare Hawkins throws at me",a:"Dustin Henderson",wiki:"Dustin_Henderson"},
-    {q:"I work reception at Dunder Mifflin, paint murals, and marry Jim",a:"Pam Beesly",wiki:"Pam_Beesly"},
     {q:"I stare into the camera, prank Dwight, and somehow charm the entire office",a:"Jim Halpert",wiki:"Jim_Halpert"},
     {q:"I'm the high-powered defense attorney who says 'Better Call Saul'",a:"Jimmy McGill",wiki:"Jimmy_McGill"},
     {q:"I run a motel with my mother's corpse in the basement",a:"Norman Bates",wiki:"Norman_Bates"},
@@ -2922,7 +2863,6 @@ const RAW_BANK = {
     {q:"I'm obsessively organized, fiercely competitive, and the chef of the Friends group",a:"Monica Geller",wiki:"Monica_Geller"},
     {q:"I'm delightfully weird, sing about smelly cats, and think outside every possible box",a:"Phoebe Buffay",wiki:"Phoebe_Buffay"},
     {q:"I'm a paleontologist who says we were on a break, and I'm the brother in the group",a:"Ross Geller",wiki:"Ross_Geller"},
-    {q:"How you doin'? I'm the struggling actor of the group who loves sandwiches and auditioning",a:"Joey Tribbiani",wiki:"Joey_Tribbiani"},
     {q:"I started as the girl across the hall and ended up becoming one of the group's sharpest voices",a:"Penny",wiki:"Penny_(The_Big_Bang_Theory)"},
     {q:"I'm an architect who tells the long story of how I met your mother",a:"Ted Mosby",wiki:"Ted_Mosby"},
   ],
@@ -2993,7 +2933,6 @@ const RAW_BANK = {
     {q:"I'm the lion prince of the Pride Lands, and I return home to reclaim my kingdom",a:"Simba",wiki:"Simba"},
     {q:"I'm a practically perfect nanny who flies with an umbrella and changes a family's life",a:"Mary Poppins",wiki:"Mary_Poppins_(character)"},
     {q:"I'm a green ogre from a swamp, and I remind everyone that ogres have layers",a:"Shrek",wiki:"Shrek_(character)"},
-    {q:"I'm the cowboy toy who feels threatened when Buzz arrives in Andy's room",a:"Woody",wiki:"Woody_(Toy_Story)"},
     {q:"I'm the girl chosen by the ocean to sail across the sea and restore Te Fiti's heart",a:"Moana",wiki:"Moana_(Disney)"},
     {q:"I'm a lonely trash-compacting robot who finds purpose after meeting EVE",a:"WALL-E",wiki:"WALL-E_(character)"},
     {q:"I believe wiping out half the universe is mercy, and I wear the Infinity Gauntlet",a:"Thanos",wiki:"Thanos"},
@@ -3041,6 +2980,298 @@ const RAW_BANK = {
     {q:"I return every 27 years to feed on fear and often wear a clown's smile",a:"Pennywise",wiki:"Pennywise_(character)"},
     {q:"I build an empire out of newspapers, vanity, and one word: Rosebud",a:"Charles Foster Kane",wiki:"Charles_Foster_Kane"},
     {q:"Yippee-ki-yay - I'm the cop who keeps surviving impossible situations in the wrong place at the wrong time",a:"John McClane",wiki:"John_McClane"},
+  ],
+  },
+
+  who_country_landmark:{label:"Which Country Am I?",icon:"\uD83C\uDFDB\uFE0F",color:"#0EA5E9",isWhoAmI:true,landmarkMode:true,
+  200:[
+    {q:"Guess the country from the landmark",a:"United Kingdom",wiki:"Big_Ben"},
+    {q:"Guess the country from the landmark",a:"France",wiki:"Eiffel_Tower"},
+    {q:"Guess the country from the landmark",a:"Italy",wiki:"Colosseum"},
+    {q:"Guess the country from the landmark",a:"United States",wiki:"Statue_of_Liberty"},
+    {q:"Guess the country from the landmark",a:"Egypt",wiki:"Giza_pyramid_complex"},
+    {q:"Guess the country from the landmark",a:"China",wiki:"Great_Wall_of_China"},
+    {q:"Guess the country from the landmark",a:"India",wiki:"Taj_Mahal"},
+    {q:"Guess the country from the landmark",a:"Australia",wiki:"Sydney_Opera_House"},
+    {q:"Guess the country from the landmark",a:"Germany",wiki:"Brandenburg_Gate"},
+    {q:"Guess the country from the landmark",a:"Brazil",wiki:"Christ_the_Redeemer_(statue)"},
+    {q:"Guess the country from the landmark",a:"Peru",wiki:"Machu_Picchu"},
+    {q:"Guess the country from the landmark",a:"Japan",wiki:"Mount_Fuji"},
+    {q:"Guess the country from the landmark",a:"Mexico",wiki:"Chichen_Itza"},
+    {q:"Guess the country from the landmark",a:"United Arab Emirates",wiki:"Burj_Khalifa"},
+    {q:"Guess the country from the landmark",a:"Russia",wiki:"Saint_Basil%27s_Cathedral"},
+    {q:"Guess the country from the landmark",a:"Jordan",wiki:"Petra"},
+    {q:"Guess the country from the landmark",a:"Turkey",wiki:"Hagia_Sophia"},
+    {q:"Guess the country from the landmark",a:"Cambodia",wiki:"Angkor_Wat"},
+    {q:"Guess the country from the landmark",a:"Nepal",wiki:"Mount_Everest"},
+    {q:"Guess the country from the landmark",a:"Tanzania",wiki:"Mount_Kilimanjaro"},
+    {q:"Guess the country from the landmark",a:"Spain",wiki:"Sagrada_Fam%C3%ADlia"},
+    {q:"Guess the country from the landmark",a:"Greece",wiki:"Parthenon"},
+    {q:"Guess the country from the landmark",a:"South Africa",wiki:"Table_Mountain"},
+    {q:"Guess the country from the landmark",a:"Canada",wiki:"Niagara_Falls"},
+  ],
+  400:[
+    {q:"Guess the country from the landmark",a:"Vietnam",wiki:"H%E1%BA%A1_Long_Bay"},
+    {q:"Guess the country from the landmark",a:"Germany",wiki:"Neuschwanstein_Castle"},
+    {q:"Guess the country from the landmark",a:"Indonesia",wiki:"Borobudur"},
+    {q:"Guess the country from the landmark",a:"Iceland",wiki:"Blue_Lagoon_(geothermal_spa)"},
+    {q:"Guess the country from the landmark",a:"Malaysia",wiki:"Petronas_Towers"},
+    {q:"Guess the country from the landmark",a:"Singapore",wiki:"Marina_Bay_Sands"},
+    {q:"Guess the country from the landmark",a:"Thailand",wiki:"Wat_Arun"},
+    {q:"Guess the country from the landmark",a:"Argentina",wiki:"Iguazu_Falls"},
+    {q:"Guess the country from the landmark",a:"Belgium",wiki:"Atomium"},
+    {q:"Guess the country from the landmark",a:"Croatia",wiki:"Plitvice_Lakes_National_Park"},
+    {q:"Guess the country from the landmark",a:"Slovenia",wiki:"Lake_Bled"},
+    {q:"Guess the country from the landmark",a:"Turkey",wiki:"Cappadocia"},
+    {q:"Guess the country from the landmark",a:"New Zealand",wiki:"Milford_Sound"},
+    {q:"Guess the country from the landmark",a:"Norway",wiki:"Preikestolen"},
+    {q:"Guess the country from the landmark",a:"Switzerland",wiki:"Matterhorn"},
+    {q:"Guess the country from the landmark",a:"Austria",wiki:"Sch%C3%B6nbrunn_Palace"},
+    {q:"Guess the country from the landmark",a:"Romania",wiki:"Bran_Castle"},
+    {q:"Guess the country from the landmark",a:"Czech Republic",wiki:"Charles_Bridge"},
+    {q:"Guess the country from the landmark",a:"Israel",wiki:"Dome_of_the_Rock"},
+    {q:"Guess the country from the landmark",a:"Chile",wiki:"Easter_Island"},
+    {q:"Guess the country from the landmark",a:"Hungary",wiki:"Hungarian_Parliament_Building"},
+    {q:"Guess the country from the landmark",a:"Portugal",wiki:"Bel%C3%A9m_Tower"},
+    {q:"Guess the country from the landmark",a:"Netherlands",wiki:"Rijksmuseum"},
+    {q:"Guess the country from the landmark",a:"Ireland",wiki:"Cliffs_of_Moher"},
+    {q:"Guess the country from the landmark",a:"Zambia",wiki:"Victoria_Falls"},
+    {q:"Guess the country from the landmark",a:"Ireland",wiki:"Skellig_Michael"},
+    {q:"Guess the country from the landmark",a:"Turkey",wiki:"Pamukkale"},
+    {q:"Guess the country from the landmark",a:"Cuba",wiki:"Havana"},
+    {q:"Guess the country from the landmark",a:"Argentina",wiki:"Perito_Moreno_Glacier"},
+  ],
+  600:[
+    {q:"Guess the country from the landmark",a:"Iran",wiki:"Persepolis"},
+    {q:"Guess the country from the landmark",a:"Syria",wiki:"Palmyra"},
+    {q:"Guess the country from the landmark",a:"Lebanon",wiki:"Baalbek"},
+    {q:"Guess the country from the landmark",a:"Morocco",wiki:"A%C3%AFt_Benhaddou"},
+    {q:"Guess the country from the landmark",a:"Ethiopia",wiki:"Lalibela"},
+    {q:"Guess the country from the landmark",a:"Zimbabwe",wiki:"Great_Zimbabwe"},
+    {q:"Guess the country from the landmark",a:"Mali",wiki:"Great_Mosque_of_Djenn%C3%A9"},
+    {q:"Guess the country from the landmark",a:"Yemen",wiki:"Socotra"},
+    {q:"Guess the country from the landmark",a:"Bolivia",wiki:"Salar_de_Uyuni"},
+    {q:"Guess the country from the landmark",a:"Myanmar",wiki:"Bagan"},
+    {q:"Guess the country from the landmark",a:"Bhutan",wiki:"Paro_Taktsang"},
+    {q:"Guess the country from the landmark",a:"Sri Lanka",wiki:"Sigiriya"},
+    {q:"Guess the country from the landmark",a:"Guatemala",wiki:"Tikal"},
+    {q:"Guess the country from the landmark",a:"Mongolia",wiki:"Gobi_Desert"},
+    {q:"Guess the country from the landmark",a:"Philippines",wiki:"Chocolate_Hills"},
+    {q:"Guess the country from the landmark",a:"Uzbekistan",wiki:"Registan"},
+    {q:"Guess the country from the landmark",a:"Azerbaijan",wiki:"Flame_Towers"},
+    {q:"Guess the country from the landmark",a:"Kazakhstan",wiki:"Bayterek"},
+    {q:"Guess the country from the landmark",a:"Georgia",wiki:"Narikala"},
+    {q:"Guess the country from the landmark",a:"Armenia",wiki:"Tatev_Monastery"},
+    {q:"Guess the country from the landmark",a:"Madagascar",wiki:"Avenue_of_the_Baobabs"},
+    {q:"Guess the country from the landmark",a:"Kenya",wiki:"Maasai_Mara"},
+    {q:"Guess the country from the landmark",a:"Namibia",wiki:"Sossusvlei"},
+    {q:"Guess the country from the landmark",a:"Tunisia",wiki:"Carthage"},
+    {q:"Guess the country from the landmark",a:"Laos",wiki:"Pha_That_Luang"},
+    {q:"Guess the country from the landmark",a:"Eritrea",wiki:"Fiat_Tagliero_Building"},
+    {q:"Guess the country from the landmark",a:"Sudan",wiki:"Nubian_pyramids"},
+    {q:"Guess the country from the landmark",a:"Kyrgyzstan",wiki:"Burana_Tower"},
+    {q:"Guess the country from the landmark",a:"Tajikistan",wiki:"Iskanderkul"},
+    {q:"Guess the country from the landmark",a:"Mauritania",wiki:"Chinguetti"},
+    {q:"Guess the country from the landmark",a:"Oman",wiki:"Jebel_Shams"},
+    {q:"Guess the country from the landmark",a:"Bahrain",wiki:"Tree_of_Life_(Bahrain)"},
+  ],
+  },
+
+  who_dinosaur:{label:"Which Dinosaur Am I?",icon:"\u{1F996}",color:"#84CC16",isWhoAmI:true,
+  200:[
+    {q:"Guess the dinosaur from the image",a:"Tyrannosaurus Rex",wiki:"Tyrannosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Velociraptor",wiki:"Velociraptor"},
+    {q:"Guess the dinosaur from the image",a:"Triceratops",wiki:"Triceratops"},
+    {q:"Guess the dinosaur from the image",a:"Stegosaurus",wiki:"Stegosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Brachiosaurus",wiki:"Brachiosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Pterodactyl",wiki:"Pterodactylus"},
+    {q:"Guess the dinosaur from the image",a:"Spinosaurus",wiki:"Spinosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Ankylosaurus",wiki:"Ankylosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Diplodocus",wiki:"Diplodocus"},
+    {q:"Guess the dinosaur from the image",a:"Pachycephalosaurus",wiki:"Pachycephalosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Parasaurolophus",wiki:"Parasaurolophus"},
+    {q:"Guess the dinosaur from the image",a:"Allosaurus",wiki:"Allosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Gallimimus",wiki:"Gallimimus"},
+    {q:"Guess the dinosaur from the image",a:"Apatosaurus",wiki:"Apatosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Iguanodon",wiki:"Iguanodon"},
+    {q:"Guess the dinosaur from the image",a:"Plesiosaurus",wiki:"Plesiosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Mosasaurus",wiki:"Mosasaurus"},
+    {q:"Guess the dinosaur from the image",a:"Pteranodon",wiki:"Pteranodon"},
+    {q:"Guess the dinosaur from the image",a:"Compsognathus",wiki:"Compsognathus"},
+    {q:"Guess the dinosaur from the image",a:"Dilophosaurus",wiki:"Dilophosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Carnotaurus",wiki:"Carnotaurus"},
+    {q:"Guess the dinosaur from the image",a:"Giganotosaurus",wiki:"Giganotosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Deinonychus",wiki:"Deinonychus"},
+    {q:"Guess the dinosaur from the image",a:"Oviraptor",wiki:"Oviraptor"},
+    {q:"Guess the dinosaur from the image",a:"Therizinosaurus",wiki:"Therizinosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Argentinosaurus",wiki:"Argentinosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Utahraptor",wiki:"Utahraptor"},
+    {q:"Guess the dinosaur from the image",a:"Ceratosaurus",wiki:"Ceratosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Styracosaurus",wiki:"Styracosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Troodon",wiki:"Troodon"},
+  ],
+  400:[
+    {q:"Guess the dinosaur from the image",a:"Baryonyx",wiki:"Baryonyx"},
+    {q:"Guess the dinosaur from the image",a:"Megalosaurus",wiki:"Megalosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Corythosaurus",wiki:"Corythosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Protoceratops",wiki:"Protoceratops"},
+    {q:"Guess the dinosaur from the image",a:"Maiasaura",wiki:"Maiasaura"},
+    {q:"Guess the dinosaur from the image",a:"Edmontosaurus",wiki:"Edmontosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Dimetrodon",wiki:"Dimetrodon"},
+    {q:"Guess the dinosaur from the image",a:"Kentrosaurus",wiki:"Kentrosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Coelophysis",wiki:"Coelophysis"},
+    {q:"Guess the dinosaur from the image",a:"Hadrosaurus",wiki:"Hadrosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Euoplocephalus",wiki:"Euoplocephalus"},
+    {q:"Guess the dinosaur from the image",a:"Stygimoloch",wiki:"Stygimoloch"},
+    {q:"Guess the dinosaur from the image",a:"Majungasaurus",wiki:"Majungasaurus"},
+    {q:"Guess the dinosaur from the image",a:"Saurolophus",wiki:"Saurolophus"},
+    {q:"Guess the dinosaur from the image",a:"Suchomimus",wiki:"Suchomimus"},
+    {q:"Guess the dinosaur from the image",a:"Yutyrannus",wiki:"Yutyrannus"},
+    {q:"Guess the dinosaur from the image",a:"Pentaceratops",wiki:"Pentaceratops"},
+    {q:"Guess the dinosaur from the image",a:"Torosaurus",wiki:"Torosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Lambeosaurus",wiki:"Lambeosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Camarasaurus",wiki:"Camarasaurus"},
+    {q:"Guess the dinosaur from the image",a:"Acrocanthosaurus",wiki:"Acrocanthosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Mapusaurus",wiki:"Mapusaurus"},
+    {q:"Guess the dinosaur from the image",a:"Tarbosaurus",wiki:"Tarbosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Albertosaurus",wiki:"Albertosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Daspletosaurus",wiki:"Daspletosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Gorgosaurus",wiki:"Gorgosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Einiosaurus",wiki:"Einiosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Chasmosaurus",wiki:"Chasmosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Centrosaurus",wiki:"Centrosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Ouranosaurus",wiki:"Ouranosaurus"},
+  ],
+  600:[
+    {q:"Guess the dinosaur from the image",a:"Qianzhousaurus",wiki:"Qianzhousaurus"},
+    {q:"Guess the dinosaur from the image",a:"Amargasaurus",wiki:"Amargasaurus"},
+    {q:"Guess the dinosaur from the image",a:"Huayangosaurus",wiki:"Huayangosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Nodosaurus",wiki:"Nodosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Borealopelta",wiki:"Borealopelta"},
+    {q:"Guess the dinosaur from the image",a:"Microraptor",wiki:"Microraptor"},
+    {q:"Guess the dinosaur from the image",a:"Sinosauropteryx",wiki:"Sinosauropteryx"},
+    {q:"Guess the dinosaur from the image",a:"Caudipteryx",wiki:"Caudipteryx"},
+    {q:"Guess the dinosaur from the image",a:"Archaeopteryx",wiki:"Archaeopteryx"},
+    {q:"Guess the dinosaur from the image",a:"Psittacosaurus",wiki:"Psittacosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Leaellynasaura",wiki:"Leaellynasaura"},
+    {q:"Guess the dinosaur from the image",a:"Muttaburrasaurus",wiki:"Muttaburrasaurus"},
+    {q:"Guess the dinosaur from the image",a:"Scutellosaurus",wiki:"Scutellosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Dracorex",wiki:"Dracorex"},
+    {q:"Guess the dinosaur from the image",a:"Dreadnoughtus",wiki:"Dreadnoughtus"},
+    {q:"Guess the dinosaur from the image",a:"Patagotitan",wiki:"Patagotitan"},
+    {q:"Guess the dinosaur from the image",a:"Mamenchisaurus",wiki:"Mamenchisaurus"},
+    {q:"Guess the dinosaur from the image",a:"Shunosaurus",wiki:"Shunosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Rebbachisaurus",wiki:"Rebbachisaurus"},
+    {q:"Guess the dinosaur from the image",a:"Concavenator",wiki:"Concavenator"},
+    {q:"Guess the dinosaur from the image",a:"Shantungosaurus",wiki:"Shantungosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Segnosaurus",wiki:"Segnosaurus"},
+    {q:"Guess the dinosaur from the image",a:"Alxasaurus",wiki:"Alxasaurus"},
+    {q:"Guess the dinosaur from the image",a:"Jeholornis",wiki:"Jeholornis"},
+    {q:"Guess the dinosaur from the image",a:"Yi qi",wiki:"Yi_qi"},
+    {q:"Guess the dinosaur from the image",a:"Anzu",wiki:"Anzu_(dinosaur)"},
+    {q:"Guess the dinosaur from the image",a:"Kosmoceratops",wiki:"Kosmoceratops"},
+    {q:"Guess the dinosaur from the image",a:"Sinoceratops",wiki:"Sinoceratops"},
+    {q:"Guess the dinosaur from the image",a:"Nasutoceratops",wiki:"Nasutoceratops"},
+    {q:"Guess the dinosaur from the image",a:"Yinlong",wiki:"Yinlong"},
+  ],
+  },
+
+  who_influencer:{label:"Which Influencer Am I?",icon:"\u{1F4F1}",color:"#EC4899",isWhoAmI:true,
+  200:[
+    {q:"Guess the influencer from the image",a:"MrBeast",wiki:"MrBeast"},
+    {q:"Guess the influencer from the image",a:"PewDiePie",wiki:"PewDiePie"},
+    {q:"Guess the influencer from the image",a:"KSI",wiki:"KSI"},
+    {q:"Guess the influencer from the image",a:"Logan Paul",wiki:"Logan_Paul"},
+    {q:"Guess the influencer from the image",a:"Jake Paul",wiki:"Jake_Paul"},
+    {q:"Guess the influencer from the image",a:"Markiplier",wiki:"Markiplier"},
+    {q:"Guess the influencer from the image",a:"Ninja",wiki:"Ninja_(streamer)"},
+    {q:"Guess the influencer from the image",a:"Jacksepticeye",wiki:"Jacksepticeye"},
+    {q:"Guess the influencer from the image",a:"Ryan Reynolds",wiki:"Ryan_Reynolds"},
+    {q:"Guess the influencer from the image",a:"Kim Kardashian",wiki:"Kim_Kardashian"},
+    {q:"Guess the influencer from the image",a:"Kylie Jenner",wiki:"Kylie_Jenner"},
+    {q:"Guess the influencer from the image",a:"Addison Rae",wiki:"Addison_Rae"},
+    {q:"Guess the influencer from the image",a:"Charli D'Amelio",wiki:"Charli_D%27Amelio"},
+    {q:"Guess the influencer from the image",a:"Bella Poarch",wiki:"Bella_Poarch"},
+    {q:"Guess the influencer from the image",a:"Khaby Lame",wiki:"Khaby_Lame"},
+    {q:"Guess the influencer from the image",a:"James Charles",wiki:"James_Charles_(Internet_personality)"},
+    {q:"Guess the influencer from the image",a:"Jeffree Star",wiki:"Jeffree_Star"},
+    {q:"Guess the influencer from the image",a:"Shane Dawson",wiki:"Shane_Dawson"},
+    {q:"Guess the influencer from the image",a:"David Dobrik",wiki:"David_Dobrik"},
+    {q:"Guess the influencer from the image",a:"Liza Koshy",wiki:"Liza_Koshy"},
+    {q:"Guess the influencer from the image",a:"Emma Chamberlain",wiki:"Emma_Chamberlain"},
+    {q:"Guess the influencer from the image",a:"Bretman Rock",wiki:"Bretman_Rock"},
+    {q:"Guess the influencer from the image",a:"Lilly Singh",wiki:"Lilly_Singh"},
+    {q:"Guess the influencer from the image",a:"Zach King",wiki:"Zach_King"},
+    {q:"Guess the influencer from the image",a:"Dude Perfect",wiki:"Dude_Perfect"},
+    {q:"Guess the influencer from the image",a:"Casey Neistat",wiki:"Casey_Neistat"},
+    {q:"Guess the influencer from the image",a:"Shroud",wiki:"Shroud_(gamer)"},
+    {q:"Guess the influencer from the image",a:"xQc",wiki:"XQc"},
+    {q:"Guess the influencer from the image",a:"Pokimane",wiki:"Pokimane"},
+    {q:"Guess the influencer from the image",a:"Valkyrae",wiki:"Valkyrae"},
+  ],
+  400:[
+    {q:"Guess the influencer from the image",a:"DanTDM",wiki:"DanTDM"},
+    {q:"Guess the influencer from the image",a:"Dream",wiki:"Dream_(YouTuber)"},
+    {q:"Guess the influencer from the image",a:"Technoblade",wiki:"Technoblade"},
+    {q:"Guess the influencer from the image",a:"Corpse Husband",wiki:"Corpse_Husband"},
+    {q:"Guess the influencer from the image",a:"Sykkuno",wiki:"Sykkuno"},
+    {q:"Guess the influencer from the image",a:"Disguised Toast",wiki:"Disguised_Toast"},
+    {q:"Guess the influencer from the image",a:"Hasan Piker",wiki:"Hasan_Piker"},
+    {q:"Guess the influencer from the image",a:"Amouranth",wiki:"Amouranth"},
+    {q:"Guess the influencer from the image",a:"Asmongold",wiki:"Asmongold"},
+    {q:"Guess the influencer from the image",a:"Adin Ross",wiki:"Adin_Ross"},
+    {q:"Guess the influencer from the image",a:"Kai Cenat",wiki:"Kai_Cenat"},
+    {q:"Guess the influencer from the image",a:"IShowSpeed",wiki:"IShowSpeed"},
+    {q:"Guess the influencer from the image",a:"Sommer Ray",wiki:"Sommer_Ray"},
+    {q:"Guess the influencer from the image",a:"Amanda Cerny",wiki:"Amanda_Cerny"},
+    {q:"Guess the influencer from the image",a:"Lele Pons",wiki:"Lele_Pons"},
+    {q:"Guess the influencer from the image",a:"Chiara Ferragni",wiki:"Chiara_Ferragni"},
+    {q:"Guess the influencer from the image",a:"Zoella",wiki:"Zoella"},
+    {q:"Guess the influencer from the image",a:"Huda Kattan",wiki:"Huda_Kattan"},
+    {q:"Guess the influencer from the image",a:"Michelle Phan",wiki:"Michelle_Phan"},
+    {q:"Guess the influencer from the image",a:"Nikkie Tutorials",wiki:"NikkieTutorials"},
+    {q:"Guess the influencer from the image",a:"Jeffrey Marsh",wiki:"Jeffrey_Marsh"},
+    {q:"Guess the influencer from the image",a:"Tana Mongeau",wiki:"Tana_Mongeau"},
+    {q:"Guess the influencer from the image",a:"Trisha Paytas",wiki:"Trisha_Paytas"},
+    {q:"Guess the influencer from the image",a:"Bretman Rock",wiki:"Bretman_Rock"},
+    {q:"Guess the influencer from the image",a:"Jenna Marbles",wiki:"Jenna_Marbles"},
+    {q:"Guess the influencer from the image",a:"Rhett & Link",wiki:"Rhett_and_Link"},
+    {q:"Guess the influencer from the image",a:"Smosh",wiki:"Smosh"},
+    {q:"Guess the influencer from the image",a:"VanossGaming",wiki:"VanossGaming"},
+    {q:"Guess the influencer from the image",a:"Ali-A",wiki:"Ali-A"},
+    {q:"Guess the influencer from the image",a:"Joey Graceffa",wiki:"Joey_Graceffa"},
+  ],
+  600:[
+    {q:"Guess the influencer from the image",a:"Vsauce",wiki:"Vsauce"},
+    {q:"Guess the influencer from the image",a:"CGP Grey",wiki:"CGP_Grey"},
+    {q:"Guess the influencer from the image",a:"Kurzgesagt",wiki:"Kurzgesagt"},
+    {q:"Guess the influencer from the image",a:"Veritasium",wiki:"Veritasium"},
+    {q:"Guess the influencer from the image",a:"MatPat",wiki:"MatPat"},
+    {q:"Guess the influencer from the image",a:"Hank Green",wiki:"Hank_Green"},
+    {q:"Guess the influencer from the image",a:"John Green",wiki:"John_Green"},
+    {q:"Guess the influencer from the image",a:"Natalie Wynn",wiki:"ContraPoints"},
+    {q:"Guess the influencer from the image",a:"Philip DeFranco",wiki:"Philip_DeFranco"},
+    {q:"Guess the influencer from the image",a:"Hannah Hart",wiki:"Hannah_Hart"},
+    {q:"Guess the influencer from the image",a:"Grace Helbig",wiki:"Grace_Helbig"},
+    {q:"Guess the influencer from the image",a:"Tyler Oakley",wiki:"Tyler_Oakley"},
+    {q:"Guess the influencer from the image",a:"Michelle Khare",wiki:"Michelle_Khare"},
+    {q:"Guess the influencer from the image",a:"Safiya Nygaard",wiki:"Safiya_Nygaard"},
+    {q:"Guess the influencer from the image",a:"Gabbie Hanna",wiki:"Gabbie_Hanna"},
+    {q:"Guess the influencer from the image",a:"Colleen Ballinger",wiki:"Colleen_Ballinger"},
+    {q:"Guess the influencer from the image",a:"Bart Baker",wiki:"Bart_Baker"},
+    {q:"Guess the influencer from the image",a:"Nigahiga",wiki:"Nigahiga"},
+    {q:"Guess the influencer from the image",a:"Gigi Gorgeous",wiki:"Gigi_Gorgeous"},
+    {q:"Guess the influencer from the image",a:"Tati Westbrook",wiki:"Tati_Westbrook"},
+    {q:"Guess the influencer from the image",a:"Laura Lee",wiki:"Laura_Lee_(YouTuber)"},
+    {q:"Guess the influencer from the image",a:"Manny MUA",wiki:"Manny_Gutierrez"},
+    {q:"Guess the influencer from the image",a:"Patrick Starrr",wiki:"Patrick_Starrr"},
+    {q:"Guess the influencer from the image",a:"Jackie Aina",wiki:"Jackie_Aina"},
+    {q:"Guess the influencer from the image",a:"Grav3yardgirl",wiki:"Grav3yardgirl"},
+    {q:"Guess the influencer from the image",a:"MunchingBrotato",wiki:"MunchingBrotato"},
+    {q:"Guess the influencer from the image",a:"Alfie Deyes",wiki:"Alfie_Deyes"},
+    {q:"Guess the influencer from the image",a:"Caspar Lee",wiki:"Caspar_Lee"},
+    {q:"Guess the influencer from the image",a:"Jack Maynard",wiki:"Jack_Maynard"},
+    {q:"Guess the influencer from the image",a:"Conor Maynard",wiki:"Conor_Maynard"},
   ],
   },
 
@@ -3366,6 +3597,9 @@ const NON_TRIVIA_STYLE_CATEGORIES = new Set([
   "who_tv_character",
   "who_anime_character",
   "who_movie_character",
+  "who_country_landmark",
+  "who_dinosaur",
+  "who_influencer",
   "logos",
 ]);
 
@@ -3687,12 +3921,12 @@ const BANK = sanitizeBank(
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
-  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","movie_scenes","songs","flags","country_facts","country_map","logos"] },
+  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","movie_scenes","songs","flags","country_facts","country_map","logos"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
   { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
   { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant","ark_survival","minecraft"] },
-  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal"] },
+  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal","who_country_landmark","who_dinosaur","who_influencer"] },
   { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies","charades_scenarios"] },
 ];
 
@@ -3746,7 +3980,7 @@ const CATEGORY_PREVIEWS = {
   who_tv_character:{src:"/whoami/walter-white-breaking-bad-f9425159.png",fit:"cover",caption:"Guess the face"},
   who_anime_character:{src:"/whoami/naruto-uzumaki-1522810d.png",boardSrc:"/board-center-images/who_anime_character.png",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Anime guess"},
   who_movie_character:{src:"/whoami/han-solo-2b971bca.jpg",fit:"cover",cardPosition:"center top",caption:"Movie guess"},
-  charades_general:{src:"/category-previews/charades_general.svg",boardSrc:"/board-center-images/charades_general.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Scan and perform"},
+  charades_general:{src:"/category-previews/charades_bicycle.jpg",boardSrc:"/category-previews/charades_bicycle.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Scan and perform"},
   charades_movies:{src:"/whoami/woody-toy-story-f844064a.jpg",boardSrc:"/board-center-images/charades_movies.png",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Movie charades"},
   pop_culture:{src:"/category-previews/pop_culture.jpg",fit:"cover",cardPosition:"center top",caption:"Trends & icons"},
   technology:{src:"/category-previews/technology.jpg",fit:"cover",cardPosition:"center",caption:"Gadgets & code"},
@@ -3758,8 +3992,14 @@ const CATEGORY_PREVIEWS = {
   ark_survival:{src:"/category-previews/ark_survival.jpg",fit:"cover",cardPosition:"center",caption:"Tame and survive"},
   minecraft:{src:"/category-previews/minecraft.jpg",fit:"cover",cardPosition:"center",caption:"Mine and craft"},
   who_historic_figure:{src:"/category-previews/who_historic_figure.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",caption:"Guess the legend"},
-  who_animal:{src:"/whoami/scar-the-lion-king-3bd03190.png",fit:"cover",cardPosition:"center top",caption:"Guess the creature"},
-  charades_scenarios:{src:"/category-previews/charades_general.svg",fit:"cover",caption:"Act out the scene"},
+  who_animal:{src:"/whoami/lion-9f19d4dc.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the creature"},
+  who_country_landmark:{src:"/whoami/big-ben-2a8438ae.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the country"},
+  who_dinosaur:{src:"/category-previews/who_dinosaur.jpg",boardSrc:"/category-previews/who_dinosaur.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the dinosaur"},
+  who_influencer:{src:"/category-previews/who_influencer.jpg",boardSrc:"/category-previews/who_influencer.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the creator"},
+  space:{src:"/category-previews/space.jpg",boardSrc:"/category-previews/space.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",caption:"Planets and stars"},
+  math:{src:"/category-previews/math.jpg",boardSrc:"/category-previews/math.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",caption:"Solve the problem"},
+  language:{src:"/category-previews/language.png",boardSrc:"/category-previews/language.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#F8FAFC",caption:"Name the language"},
+  charades_scenarios:{src:"/category-previews/charades_slipping.jpg",boardSrc:"/category-previews/charades_slipping.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Act out the scene"},
   logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
 };
 
@@ -4665,6 +4905,11 @@ const CSS=`
   @keyframes pop{from{transform:scale(.85);opacity:0}to{transform:scale(1);opacity:1}}
   .fadein{animation:fadein .3s ease both;}
   @keyframes fadein{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  .page-enter{animation:pageEnter .36s cubic-bezier(.22,.8,.26,1) both;will-change:opacity,transform;}
+  @keyframes pageEnter{from{opacity:0;transform:translateY(14px) scale(.995)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion: reduce){
+    .page-enter{animation:none;}
+  }
   ::-webkit-scrollbar{width:4px;height:4px;}
   ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
   /* All devices: document scrolls naturally, no fixed-height traps. */
@@ -4864,6 +5109,9 @@ export default function App(){
   const [showAns,setShowAns]=useState(false);
   const [showWord,setShowWord]=useState(false);
   const [curTeam,setCurTeam]=useState(0);
+  const [lifelines,setLifelines]=useState(()=>teams.map(()=>({twoGuesses:false,phoneAFriend:false,doublePoints:false,pauseTimer:false})));
+  const [activeDoublePoints,setActiveDoublePoints]=useState(false);
+  const [timerPaused,setTimerPaused]=useState(false);
   const [usageReady,setUsageReady]=useState(false);
   const [isSyncingUsage,setIsSyncingUsage]=useState(false);
   const usedQuestionIdsRef=useRef(usedQuestionIds);
@@ -5063,6 +5311,9 @@ export default function App(){
     setBoard(makeBoard(cats,gameMode));
     setSelCats(cats);
     setScores(teams.map(()=>0));
+    setLifelines(teams.map(()=>({twoGuesses:false,phoneAFriend:false,doublePoints:false,pauseTimer:false})));
+    setActiveDoublePoints(false);
+    setTimerPaused(false);
     setCurTeam(0);
     setScreen("board");
   }
@@ -5079,7 +5330,17 @@ export default function App(){
     setActiveTile(null);
     setShowAns(false);
     setShowWord(false);
+    setActiveDoublePoints(false);
+    setTimerPaused(false);
     setScreen("board");
+  }
+  function useLifeline(kind){
+    setLifelines(prev=>{
+      const next=prev.map((l,i)=>i===curTeam?{...l,[kind]:true}:l);
+      return next;
+    });
+    if(kind==="doublePoints") setActiveDoublePoints(true);
+    if(kind==="pauseTimer") setTimerPaused(true);
   }
 
   function getTileReservationKey(catId, pts, idx){
@@ -5153,7 +5414,17 @@ export default function App(){
 
   function afterQ(winnerIdx,pts){
     consumeActiveTile();
-    if(winnerIdx!=null){setScores(prev=>{const s=[...prev];s[winnerIdx]+=pts;return s;});setCurTeam((winnerIdx+1)%teams.length);}
+    const multiplier=activeDoublePoints&&winnerIdx===curTeam?2:1;
+    const finalPts=pts*multiplier;
+    if(winnerIdx!=null){
+      setScores(prev=>{const s=[...prev];s[winnerIdx]+=finalPts;return s;});
+      setCurTeam((winnerIdx+1)%teams.length);
+    } else {
+      // Pass — advance turn to next team
+      setCurTeam((curTeam+1)%teams.length);
+    }
+    setActiveDoublePoints(false);
+    setTimerPaused(false);
     setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);
   }
   const wrongPenalty=gameMode==="ffa"?activeTile?.pts:Math.round((activeTile?.pts||0)/2);
@@ -5162,7 +5433,7 @@ export default function App(){
   const cat=activeTile&&BANK[activeTile.catId];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
   const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>(
-    <div style={{position:"relative",minHeight:"100vh",width:"100%"}}>
+    <div key={`scr-${screen}`} className="page-enter" style={{position:"relative",minHeight:"100vh",width:"100%"}}>
       {!hideToggles&&<div style={{position:"absolute",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
         <ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>
         <LanguageToggle language={language} onChange={setLanguage} themeMode={themeMode}/>
@@ -5183,7 +5454,7 @@ export default function App(){
   if(screen==="categories") return renderWithGlobalThemeToggle(<CategoryScreen selCats={selCats} setSelCats={setSelCats} onStart={startGame} onBack={()=>setScreen("setup")} usageReady={usageReady} isSyncingUsage={isSyncingUsage} themeMode={themeMode}/>);
   if(screen==="board") return renderWithGlobalThemeToggle(<BoardScreen teams={teams} scores={scores} curTeam={curTeam} board={board} selCats={selCats} onPick={pickTile} onGameOver={()=>setScreen("gameover")} onAdjustScore={adjustScore} themeMode={themeMode} gameMode={gameMode}/>,{hideToggles:true});
   if(screen==="question"){
-    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard,gameMode};
+    const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard,gameMode,lifelines,onUseLifeline:useLifeline,activeDoublePoints,timerPaused};
     if(ttype==="whoami") return renderWithGlobalThemeToggle(<WhoAmIScreen {...p}/>,{hideToggles:true});
     if(ttype==="countrymap") return renderWithGlobalThemeToggle(<CountryMapScreen {...p}/>,{hideToggles:true});
     if(ttype==="moviescene") return renderWithGlobalThemeToggle(<MovieSceneScreen {...p}/>,{hideToggles:true});
@@ -5195,7 +5466,7 @@ export default function App(){
   return null;
 }
 
-function ScoreBar({teams,scores,curTeam,onAdjustScore}){
+function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
   const viewport=useViewportSize();
   const isPhone=viewport.width<700;
   const padX=isPhone?8:16;
@@ -5207,8 +5478,9 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore}){
   const scoreFont=isPhone?20:26;
   const scoreMinW=isPhone?28:40;
   const innerGap=isPhone?5:8;
+  const turnColor=TEAM_COLORS[curTeam%TEAM_COLORS.length];
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",alignItems:"center",justifyContent:"space-between",padding:`${isPhone?6:10}px ${padX}px`,borderBottom:"1px solid #D7EAF2",minHeight:isPhone?44:54,maxWidth:"100vw",overflow:"hidden"}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",display:"flex",alignItems:"center",justifyContent:"space-between",padding:`${isPhone?(showTurnText?12:6):(showTurnText?18:10)}px ${padX}px`,borderBottom:"1px solid #D7EAF2",minHeight:isPhone?(showTurnText?64:44):(showTurnText?80:54),maxWidth:"100vw",overflow:"hidden"}}>
       {teams.map((t,i)=>(
         <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,minWidth:0,gap:isPhone?4:8}}>
           <div style={{
@@ -5236,7 +5508,13 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore}){
           </div>
         </div>
       ))}
-      <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:`0 ${isPhone?4:8}px`}}>VS</div>
+      {showTurnText?(
+        <div style={{position:"absolute",left:"50%",top:"50%",transform:"translate(-50%,-50%)",fontSize:isPhone?22:40,fontWeight:900,color:turnColor,letterSpacing:.5,fontFamily:SF_STACK,whiteSpace:"nowrap",pointerEvents:"none",textShadow:`0 2px 10px ${turnColor}33`}}>
+          {teams[curTeam]}'s Turn
+        </div>
+      ):(
+        <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:`0 ${isPhone?4:8}px`}}>VS</div>
+      )}
     </div>
   );
 }
@@ -5259,7 +5537,7 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
   const scoreGap=isPhone?6:14;
   const colGapV=isPhone?6:12;
   const vsFont=isPhone?"clamp(22px,6vw,32px)":"clamp(56px,7vw,88px)";
-  const turnFont=isPhone?12:18;
+  const turnFont=isPhone?22:44;
   const centerMinW=isPhone?0:140;
   return(
     <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:headerPad,maxWidth:"100vw",overflow:"hidden"}}>
@@ -5271,7 +5549,7 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
               {i>0&&<div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:isPhone?2:6,minWidth:isPhone?30:centerMinW,flex:"0 0 auto"}}>
                 <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:teams.length>2?(isPhone?"16px":"clamp(20px,3vw,32px)"):vsFont,lineHeight:.82,color:isDark?"#E5E7EB":"#0F172A",letterSpacing:isPhone?1:2}}>VS</div>
                 {i===teams.length-1&&<>
-                  <div style={{fontSize:turnFont,fontWeight:900,color:TEAM_COLORS[curTeam%TEAM_COLORS.length],textAlign:"center",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",maxWidth:isPhone?60:160}}>{teams[curTeam]}'s turn</div>
+                  <div style={{fontSize:turnFont,fontWeight:900,color:TEAM_COLORS[curTeam%TEAM_COLORS.length],textAlign:"center",whiteSpace:"nowrap",letterSpacing:.5,textShadow:`0 2px 10px ${TEAM_COLORS[curTeam%TEAM_COLORS.length]}33`,fontFamily:SF_STACK}}>{teams[curTeam]}'s turn</div>
                   {allDone&&<button className="tap" onClick={onGameOver} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:isPhone?11:13,padding:isPhone?"6px 10px":"8px 14px",borderRadius:999})}>RESULTS</button>}
                 </>}
               </div>}
@@ -6316,7 +6594,50 @@ function LogoImage({domain}){
   );
 }
 
-function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
+const LIFELINE_DEFS=[
+  {key:"twoGuesses",icon:"2\u00D7\u2713",label:"2 Guesses",tint:"#F59E0B"},
+  {key:"phoneAFriend",icon:"\u260E\uFE0F",label:"Phone a Friend",tint:"#2563EB"},
+  {key:"doublePoints",icon:"2x",label:"Double Points",tint:"#7C3AED"},
+  {key:"pauseTimer",icon:"\u23F8",label:"Pause Timer",tint:"#16A34A"},
+];
+
+function LifelineRail({lifelines,curTeam,onUseLifeline,activeDoublePoints,timerPaused,showAns}){
+  const teamLifelines=lifelines?.[curTeam]||{};
+  return(
+    <div style={{position:"absolute",left:"calc(100% + clamp(8px, 1.2vw, 20px))",top:"50%",transform:"translateY(-50%)",display:"grid",gridTemplateColumns:"repeat(2, auto)",gap:"clamp(6px,1vw,12px)",zIndex:3}}>
+      {LIFELINE_DEFS.map(def=>{
+        const used=teamLifelines[def.key];
+        const active=(def.key==="doublePoints"&&activeDoublePoints)||(def.key==="pauseTimer"&&timerPaused);
+        const hidden=used&&!active;
+        return(
+          <button
+            key={def.key}
+            className="tap"
+            disabled={used||showAns}
+            onClick={()=>!used&&!showAns&&onUseLifeline?.(def.key)}
+            title={def.label}
+            style={{
+              width:48,height:48,borderRadius:14,
+              border:`2px solid ${def.tint}`,
+              background:active?def.tint:"#fff",
+              color:active?"#fff":def.tint,
+              fontSize:16,fontWeight:900,
+              boxShadow:`0 4px 10px ${def.tint}33`,
+              cursor:used||showAns?"default":"pointer",
+              opacity:hidden?0:(used||showAns?.55:1),
+              visibility:hidden?"hidden":"visible",
+              display:"flex",alignItems:"center",justifyContent:"center",
+              fontFamily:SF_STACK,
+              padding:0,
+            }}
+          >{def.icon}</button>
+        );
+      })}
+    </div>
+  );
+}
+
+function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
@@ -6327,18 +6648,19 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={isTouch?{...QUESTION_BODY_CENTER_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_CENTER_STYLE}>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore} showTurnText/>
+      <div style={{position:"relative",...(isTouch?{...QUESTION_BODY_CENTER_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_CENTER_STYLE)}}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
-            <QuestionTimer tile={tile} paused={showAns}/>
+            <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
-            <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
+            <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
+          <div style={{position:"relative",width:"100%",maxWidth:820,margin:"0 auto"}}>
           <QuestionPanel className="pop fadein" maxWidth={820} padding={isFlag||isEmojiGuess||isLogoGuess?"34px 28px 36px":"46px 40px"}>
             {isLogoGuess ? (
               <LogoImage domain={tile.q}/>
@@ -6356,6 +6678,8 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
               <div style={{fontSize:"clamp(24px,4.6vw,38px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{displayQuestion}</div>
             )}
           </QuestionPanel>
+          <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
+          </div>
           {showAns?(
             <QuestionPanel className="pop" maxWidth={760} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
               <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
@@ -6364,9 +6688,9 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
-          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+          {!showAns&&<div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
-          </div>
+          </div>}
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
@@ -6375,7 +6699,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
 }
 
 // Who Am I - image-based character prompt
-function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
+function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const catLabel=BANK[tile.catId].label;
@@ -6383,21 +6707,24 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore} showTurnText/>
+      <div style={{position:"relative",...(isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE)}}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
-            <QuestionTimer tile={tile} paused={showAns}/>
+            <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{catLabel}</div>
-            <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
+            <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
-          <div style={{fontSize:15,fontWeight:800,color:"#64748B",letterSpacing:1.2,textTransform:"uppercase"}}>Who Am I?</div>
+          <div style={{fontSize:15,fontWeight:800,color:"#64748B",letterSpacing:1.2,textTransform:"uppercase"}}>{BANK[tile.catId]?.landmarkMode?"Which Country Am I?":"Who Am I?"}</div>
+          <div style={{position:"relative",display:"inline-block"}}>
           <CharacterArt name={tile.a} wiki={tile.wiki}/>
-          <div style={QUESTION_HINT_STYLE}>Guess the character from the image</div>
+          <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
+          </div>
+          <div style={QUESTION_HINT_STYLE}>{BANK[tile.catId]?.landmarkMode?"Guess the country from the landmark":"Guess the character from the image"}</div>
           {showAns?(
             <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
               <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
@@ -6406,9 +6733,9 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
-          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+          {!showAns&&<div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
-          </div>
+          </div>}
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
@@ -6417,26 +6744,29 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
 }
 
 // Country Map - local world-map SVG asset
-function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
+function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore} showTurnText/>
+      <div style={{position:"relative",...(isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE)}}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
-            <QuestionTimer tile={tile} paused={showAns}/>
+            <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{"\u{1F5FA}\uFE0F"}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>Country Map</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
+          <div style={{position:"relative",display:"inline-block"}}>
           <CountryMapSVG code={tile.code} country={tile.a}/>
+          <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
+          </div>
           <div style={QUESTION_HINT_STYLE}>{"\u{1F30D} Which country is highlighted in red?"}</div>
           {showAns?(
             <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
@@ -6446,9 +6776,9 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
-          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+          {!showAns&&<div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
-          </div>
+          </div>}
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
@@ -6456,26 +6786,29 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
   );
 }
 
-function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
+function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore} showTurnText/>
+      <div style={{position:"relative",...(isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE)}}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
-            <QuestionTimer tile={tile} paused={showAns}/>
+            <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
+          <div style={{position:"relative",display:"inline-block"}}>
           <MovieScenePlayer tile={tile}/>
+          <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
+          </div>
           <div style={QUESTION_HINT_STYLE}>Guess the movie from the clip</div>
           {showAns?(
             <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
@@ -6485,9 +6818,9 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
-          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+          {!showAns&&<div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
-          </div>
+          </div>}
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
@@ -6495,26 +6828,29 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
   );
 }
 
-function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
+function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE}>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore} showTurnText/>
+      <div style={{position:"relative",...(isTouch?{...QUESTION_BODY_SCROLL_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_SCROLL_STYLE)}}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
-            <QuestionTimer tile={tile} paused={showAns}/>
+            <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
+          <div style={{position:"relative",display:"inline-block"}}>
           <SongClipPlayer tile={tile}/>
+          <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
+          </div>
           <div style={QUESTION_HINT_STYLE}>Guess the song from the clip</div>
           {showAns?(
             <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
@@ -6525,9 +6861,9 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
-          <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
+          {!showAns&&<div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
-          </div>
+          </div>}
           {showAns&&<AwardRow tile={tile} teams={teams} curTeam={curTeam} onAward={onAward} onWrong={onWrong} onPass={onPass} gameMode={gameMode}/>}
         </div>
       </div>
@@ -6535,29 +6871,32 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   );
 }
 
-function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode}){
+function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const qrSearchUrl=`https://www.google.com/search?q=${encodeURIComponent(tile.a)}`;
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
-      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore}/>
-      <div style={isTouch?{...QUESTION_BODY_CENTER_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_CENTER_STYLE}>
+      <ScoreBar teams={teams} scores={scores} curTeam={curTeam} onAdjustScore={onAdjustScore} showTurnText/>
+      <div style={{position:"relative",...(isTouch?{...QUESTION_BODY_CENTER_STYLE,...TOUCH_BODY_STYLE_OVERRIDE}:QUESTION_BODY_CENTER_STYLE)}}>
         <QuestionDecor accent={pc}/>
         <div style={QUESTION_STAGE_STYLE}>
           <div style={QUESTION_TIMER_SLOT_STYLE}>
-            <QuestionTimer tile={tile} paused={false} manualStart/>
+            <QuestionTimer tile={tile} paused={timerPaused} manualStart/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
-            <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
+            <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
+          <div style={{position:"relative",width:"100%",maxWidth:470,margin:"0 auto"}}>
           <QuestionPanel maxWidth={470} padding="22px 22px 24px">
             <div style={{fontSize:12,fontWeight:800,color:"#64748B",letterSpacing:1.1,marginBottom:12}}>ACTOR - SCAN QR TO GOOGLE YOUR WORD</div>
             <QRCode text={qrSearchUrl} size={180}/>
           </QuestionPanel>
+          <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={false}/>
+          </div>
           {showWord?(
             <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
               <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>WORD (HOST ONLY)</div>

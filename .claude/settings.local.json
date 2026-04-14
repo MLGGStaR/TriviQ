@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "Bash",
       "Bash(sed -i '445d' c:/Users/S0000005749/Desktop/adih/src/App.jsx)",
       "Bash(sed -n '443,447p' c:/Users/S0000005749/Desktop/adih/src/App.jsx)"
     ]

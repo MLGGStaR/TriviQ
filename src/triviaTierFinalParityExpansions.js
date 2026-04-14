@@ -218,7 +218,6 @@ const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
   the_flash: {
     400: qa([]),
     600: qa([
-      ["Which Earth is Zoom originally from?", "Earth-2"],
     ]),
   },
   the_walking_dead: {

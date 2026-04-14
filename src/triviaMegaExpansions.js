@@ -73,7 +73,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
     200: qa([
       ["What sport uses a scrum?", "Rugby"],
       ["How many points is a safety in American football?", "2"],
-      ["Which country invented judo?", "Japan"],
     ]),
     400: qa([
       ["What golf tournament awards the green jacket?", "The Masters"],
@@ -105,7 +104,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
   },
   movies: {
     200: qa([
-      ["What color pill does Neo take in The Matrix?", "Red"],
       ["Who directed E.T. the Extra-Terrestrial?", "Steven Spielberg"],
     ]),
     400: qa([
@@ -121,15 +119,12 @@ const TRIVIA_MEGA_EXPANSIONS = {
   country_facts: {
     200: qa([
       ["This country is famous for tulips, windmills, and Amsterdam", "The Netherlands"],
-      ["This country is known for maple syrup and provinces like Ontario and Quebec", "Canada"],
     ]),
     400: qa([
       ["This country is famous for gorilla trekking and has capital Kigali", "Rwanda"],
       ["This Balkan country has capital Podgorica", "Montenegro"],
-      ["This country is home to Angkor Wat and has capital Phnom Penh", "Cambodia"],
     ]),
     600: qa([
-      ["This country is home to the Namib Desert and has capital Windhoek", "Namibia"],
       ["This South American country has capital Paramaribo", "Suriname"],
       ["This Balkan country has capital Skopje", "North Macedonia"],
     ]),
@@ -163,7 +158,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
     ]),
     600: qa([
       ["What prison holds the captured metahumans in Arrow season 7?", "Slabside"],
-      ["What island is Oliver Queen stranded on after the Queen's Gambit sinks?", "Lian Yu"],
       ["What event unites the Justice League against Steppenwolf in Zack Snyder's Justice League?", "The Unity"],
     ]),
   },
@@ -200,7 +194,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["What is Jesse's last name?", "Pinkman"],
     ]),
     400: qa([
-      ["What is Hank's famous mineral hobby?", "Minerals"],
     ]),
     600: qa([
       ["What machine gun does Walt use in the final showdown?", "An M60"],
@@ -463,7 +456,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
       ["What villain name does Cisco give Eobard Thawne?", "Reverse-Flash"],
     ]),
     400: qa([
-      ["What Earth is Harry Wells from?", "Earth-2"],
       ["What scientist becomes Killer Frost?", "Caitlin Snow"],
     ]),
     600: qa([
@@ -517,7 +509,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
     600: qa([
       ["What is Harvey's therapist's first name?", "Paula"],
       ["What rival attorney keeps returning to challenge Harvey?", "Travis Tanner"],
-      ["What is Donna's AI assistant product called?", "The Donna"],
     ]),
   },
   dexter: {

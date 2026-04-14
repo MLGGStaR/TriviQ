@@ -249,7 +249,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     400: qa([
       ["What speedster of the Seven kills Robin?", "A-Train"],
       ["What is Billy Butcher's wife called?", "Becca"],
-      ["What giant sea creature-themed Seven member loves Deep Sea fame?", "The Deep"],
       ["What fake patriotic slogan is tied to Homelander?", "America's greatest superhero"],
     ]),
     600: qa([
@@ -311,7 +310,6 @@ const TRIVIA_TIER_BALANCE_EXPANSIONS = {
     ]),
     600: qa([
       ["What is Eren's hometown district?", "Shiganshina"],
-      ["What title is given to humanity's strongest soldier in Attack on Titan?", "Levi Ackerman"],
       ["What is Tanjiro's sister called?", "Nezuko"],
       ["What title does Naruto dream of becoming?", "Hokage"],
     ]),

@@ -338,7 +338,6 @@ const TRIVIA_ULTRA_EXPANSIONS = {
     400: qa([
       ["What title does Jin-Woo inherit from Ashborn?", "Shadow Monarch"],
       ["What island raid changes Korea's hunter world?", "Jeju Island Raid"],
-      ["What system lets Jin-Woo level up?", "The System"],
     ]),
     600: qa([
       ["What is Jin-Woo's sister's name?", "Jin-Ah"],

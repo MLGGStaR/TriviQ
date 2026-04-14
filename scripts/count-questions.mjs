@@ -10,6 +10,7 @@ import { QUESTION_REFINEMENT_ADDITIONS as QRA } from '../src/questionRefinements
 import NCB from '../src/newCategoriesBank.js';
 import MNE from '../src/megaNewExpansions.js';
 import MTE from '../src/moreTriviaExpansions.js';
+import NCB2 from '../src/newCategoriesPack2.js';
 import LCB from '../src/logoCategoriesBank.js';
 import EMOJI from '../src/emojiGuessCategories.js';
 import MOVIE from '../src/movieScenes.js';
@@ -36,15 +37,15 @@ while ((m = catRe.exec(app)) !== null) {
     const tierRe = new RegExp('\\b' + pts + ':\\[([\\s\\S]*?)\\](?=,|\\s*\\})');
     const tm = body.match(tierRe);
     if (!tm) continue;
-    const itemRe = /\{q:"((?:[^"\\]|\\.)*)",a:"((?:[^"\\]|\\.)*)"/g;
+    const itemRe = /\{q:"((?:[^"\\]|\\.)*)",a:"((?:[^"\\]|\\.)*)"(?:,wiki:"((?:[^"\\]|\\.)*)")?/g;
     let im;
     while ((im = itemRe.exec(tm[1])) !== null) {
-      add(id, pts, { q: im[1], a: im[2] });
+      add(id, pts, { q: im[1], a: im[2], wiki: im[3] });
     }
   }
 }
 
-const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, EMOJI, MNE, MTE, LCB];
+const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, NCB2, EMOJI, MNE, MTE, LCB];
 banks.forEach(b => {
   Object.entries(b).forEach(([cat, obj]) => {
     [200, 400, 600].forEach(p => {
@@ -70,7 +71,7 @@ for (const cat of Object.keys(cats).sort()) {
       if (!q) continue;
       if (BAD_Q.test(q)) continue;
       if (MULTIPART_Q.test(q)) continue;
-      const key = (q + '|' + (e.a || '')).toLowerCase().replace(/\s+/g, ' ').trim();
+      const key = (q + '|' + (e.a || '') + '|' + (e.wiki || e.videoId || '')).toLowerCase().replace(/\s+/g, ' ').trim();
       if (seen.has(key)) continue;
       seen.add(key);
       counts[p]++;
