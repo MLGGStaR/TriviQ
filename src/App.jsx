@@ -4667,63 +4667,7 @@ const CSS=`
   @keyframes fadein{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
   ::-webkit-scrollbar{width:4px;height:4px;}
   ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
-  /* Touch devices: <html class="touch-device"> is set at runtime by App. */
-  html.touch-device,
-  html.touch-device body{
-    height:auto !important;
-    min-height:100% !important;
-    max-height:none !important;
-    overflow-x:hidden !important;
-    overflow-y:auto !important;
-    -webkit-overflow-scrolling:touch;
-    overscroll-behavior-y:auto !important;
-  }
-  html.touch-device #root{
-    height:auto !important;
-    min-height:100% !important;
-    max-height:none !important;
-    overflow:visible !important;
-    display:block !important;
-  }
-  html.touch-device #root > div,
-  html.touch-device #root > div > div,
-  html.touch-device #root > div > div > div{
-    overflow:visible !important;
-    overflow-y:visible !important;
-    max-height:none !important;
-    height:auto !important;
-  }
-  html.touch-device #root > div{
-    min-height:100% !important;
-  }
-  /* Pure CSS fallback: if device has no hover (touch-only), force scroll. */
-  @media (hover: none){
-    html, body{
-      height:auto !important;
-      min-height:100% !important;
-      max-height:none !important;
-      overflow-x:hidden !important;
-      overflow-y:auto !important;
-      -webkit-overflow-scrolling:touch;
-      overscroll-behavior-y:auto !important;
-    }
-    #root{
-      height:auto !important;
-      min-height:100% !important;
-      max-height:none !important;
-      overflow:visible !important;
-      display:block !important;
-    }
-    #root > div, #root > div > div, #root > div > div > div{
-      overflow:visible !important;
-      overflow-y:visible !important;
-      max-height:none !important;
-      height:auto !important;
-    }
-    #root > div{
-      min-height:100% !important;
-    }
-  }
+  /* All devices: document scrolls naturally, no fixed-height traps. */
 `;
 
 const SITE_BACKGROUND_STYLE={
@@ -4771,66 +4715,9 @@ export default function App(){
       }catch{}
       return false;
     };
-    const clearForcedStyles=()=>{
-      const html=document.documentElement;
-      const body=document.body;
-      html.style.height="";
-      html.style.minHeight="";
-      html.style.maxHeight="";
-      html.style.overflowX="";
-      html.style.overflowY="";
-      html.style.overscrollBehaviorY="";
-      if(body){
-        body.style.height="";
-        body.style.minHeight="";
-        body.style.maxHeight="";
-        body.style.overflowX="";
-        body.style.overflowY="";
-        body.style.webkitOverflowScrolling="";
-        body.style.overscrollBehaviorY="";
-      }
-      const root=document.getElementById("root");
-      if(root){
-        root.style.height="";
-        root.style.minHeight="";
-        root.style.maxHeight="";
-        root.style.overflow="";
-        root.style.display="";
-      }
-    };
     const apply=()=>{
       const isTouch=detect();
-      const html=document.documentElement;
-      const body=document.body;
-      if(isTouch){
-        html.classList.add("touch-device");
-        html.style.height="auto";
-        html.style.minHeight="100%";
-        html.style.maxHeight="none";
-        html.style.overflowX="hidden";
-        html.style.overflowY="auto";
-        html.style.overscrollBehaviorY="auto";
-        if(body){
-          body.style.height="auto";
-          body.style.minHeight="100%";
-          body.style.maxHeight="none";
-          body.style.overflowX="hidden";
-          body.style.overflowY="auto";
-          body.style.webkitOverflowScrolling="touch";
-          body.style.overscrollBehaviorY="auto";
-        }
-        const root=document.getElementById("root");
-        if(root){
-          root.style.height="auto";
-          root.style.minHeight="100%";
-          root.style.maxHeight="none";
-          root.style.overflow="visible";
-          root.style.display="block";
-        }
-      }else{
-        html.classList.remove("touch-device");
-        clearForcedStyles();
-      }
+      document.documentElement.classList.toggle("touch-device",isTouch);
     };
     apply();
     window.addEventListener("resize",apply);
@@ -5275,13 +5162,13 @@ export default function App(){
   const cat=activeTile&&BANK[activeTile.catId];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
   const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>(
-    <>
-      {!hideToggles&&<div style={{position:"fixed",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
+    <div style={{position:"relative",minHeight:"100vh",width:"100%"}}>
+      {!hideToggles&&<div style={{position:"absolute",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
         <ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>
         <LanguageToggle language={language} onChange={setLanguage} themeMode={themeMode}/>
       </div>}
       {content}
-    </>
+    </div>
   );
 
   if(!authReady) return renderWithGlobalThemeToggle(
@@ -6076,22 +5963,8 @@ const QUESTION_BACK_BUTTON_WRAP_STYLE={
   marginTop:14,
 };
 
-const TOUCH_SCREEN_STYLE_OVERRIDE={
-  height:"auto",
-  minHeight:0,
-  maxHeight:"none",
-  overflow:"visible",
-  overflowX:"visible",
-  overflowY:"visible",
-};
+const TOUCH_SCREEN_STYLE_OVERRIDE={};
 const TOUCH_BODY_STYLE_OVERRIDE={
-  overflow:"visible",
-  overflowX:"visible",
-  overflowY:"visible",
-  minHeight:0,
-  height:"auto",
-  maxHeight:"none",
-  flex:"none",
   paddingBottom:120,
 };
 
