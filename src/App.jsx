@@ -5434,10 +5434,10 @@ export default function App(){
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
   const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>(
     <div key={`scr-${screen}`} className="page-enter" style={{position:"relative",minHeight:"100vh",width:"100%"}}>
-      {!hideToggles&&<div style={{position:"absolute",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
-        <ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>
+      <div style={{position:"fixed",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
         <LanguageToggle language={language} onChange={setLanguage} themeMode={themeMode}/>
-      </div>}
+        {!hideToggles&&<ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>}
+      </div>
       {content}
     </div>
   );
