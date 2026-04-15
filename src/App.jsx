@@ -3600,6 +3600,8 @@ const NON_TRIVIA_STYLE_CATEGORIES = new Set([
   "who_country_landmark",
   "who_dinosaur",
   "who_influencer",
+  "who_movie",
+  "who_tv_show",
   "logos",
 ]);
 
@@ -3921,12 +3923,12 @@ const BANK = sanitizeBank(
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
-  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","movie_scenes","songs","flags","country_facts","country_map","logos"] },
+  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","movie_scenes","songs","flags","country_facts","country_map","logos"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
-  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow"] },
+  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow","cobra_kai"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
   { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant","ark_survival","minecraft"] },
-  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal","who_country_landmark","who_dinosaur","who_influencer"] },
+  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal","who_country_landmark","who_dinosaur","who_influencer","who_movie","who_tv_show"] },
   { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies","charades_scenarios"] },
 ];
 
@@ -4000,6 +4002,11 @@ const CATEGORY_PREVIEWS = {
   math:{src:"/category-previews/math.jpg",boardSrc:"/category-previews/math.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",caption:"Solve the problem"},
   language:{src:"/category-previews/language.png",boardSrc:"/category-previews/language.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#F8FAFC",caption:"Name the language"},
   charades_scenarios:{src:"/category-previews/charades_slipping.jpg",boardSrc:"/category-previews/charades_slipping.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Act out the scene"},
+  cobra_kai:{src:"/category-previews/cobra_kai.png",boardSrc:"/category-previews/cobra_kai.png",fit:"contain",cardFit:"cover",cardPosition:"center",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Strike first, strike hard"},
+  uae:{src:"/whoami/burj-khalifa-7dc3b1a0.jpg",boardSrc:"/whoami/burj-khalifa-7dc3b1a0.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Deserts and towers"},
+  guess_footballer:{src:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",boardSrc:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Four facts, one player"},
+  who_movie:{src:"/whoami/the-dark-knight-9372b09d.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the movie"},
+  who_tv_show:{src:"/whoami/breaking-bad-8a6538c3.png",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the show"},
   logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
 };
 

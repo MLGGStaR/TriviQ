@@ -10,6 +10,7 @@ import TRIVIA_TIER_PARITY_EXPANSIONS from "../src/triviaTierParityExpansions.js"
 import TRIVIA_TIER_FINAL_PARITY_EXPANSIONS from "../src/triviaTierFinalParityExpansions.js";
 import TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS from "../src/triviaTierFinalTopoffExpansions.js";
 import NEW_CATEGORIES_BANK from "../src/newCategoriesBank.js";
+import NEW_CATEGORIES_PACK_2 from "../src/newCategoriesPack2.js";
 import LOGO_CATEGORIES_BANK from "../src/logoCategoriesBank.js";
 import MORE_TRIVIA_EXPANSIONS from "../src/moreTriviaExpansions.js";
 
@@ -272,6 +273,7 @@ const entries = [
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_PARITY_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(TRIVIA_TIER_FINAL_TOPOFF_EXPANSIONS),
       ...collectExpandedWhoAmIEntries(NEW_CATEGORIES_BANK),
+      ...collectExpandedWhoAmIEntries(NEW_CATEGORIES_PACK_2),
       ...collectExpandedWhoAmIEntries(LOGO_CATEGORIES_BANK),
       ...collectExpandedWhoAmIEntries(MORE_TRIVIA_EXPANSIONS),
     ].map((entry) => [entry.wiki, entry]),
