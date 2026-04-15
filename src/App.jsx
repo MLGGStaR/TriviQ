@@ -4005,8 +4005,8 @@ const CATEGORY_PREVIEWS = {
   cobra_kai:{src:"/category-previews/cobra_kai.png",boardSrc:"/category-previews/cobra_kai.png",fit:"contain",cardFit:"cover",cardPosition:"center",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Strike first, strike hard"},
   uae:{src:"/whoami/burj-khalifa-7dc3b1a0.jpg",boardSrc:"/whoami/burj-khalifa-7dc3b1a0.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Deserts and towers"},
   guess_footballer:{src:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",boardSrc:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Four facts, one player"},
-  who_movie:{src:"/whoami/the-dark-knight-9372b09d.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the movie"},
-  who_tv_show:{src:"/whoami/breaking-bad-8a6538c3.png",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the show"},
+  who_movie:{src:"/category-previews/interstellar_poster.jpg",boardSrc:"/category-previews/interstellar_poster.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the movie"},
+  who_tv_show:{src:"/category-previews/got_poster.jpg",boardSrc:"/category-previews/got_poster.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the show"},
   logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
 };
 
@@ -4721,7 +4721,7 @@ function BoardCategoryArt({id, category, radius}){
           alt=""
           loading="lazy"
           decoding="async"
-          style={{width:"100%",height:"100%",objectFit:preview.boardFit||preview.fit||"cover",objectPosition:preview.boardPosition||preview.position||"center"}}
+          style={{width:"100%",height:"100%",objectFit:"cover",objectPosition:"center"}}
         />
       </div>
     );
