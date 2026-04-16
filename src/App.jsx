@@ -5486,8 +5486,8 @@ function FitToViewport({children}){
     const update=()=>{
       cancelAnimationFrame(raf);
       raf=requestAnimationFrame(()=>{
-        const vw=window.innerWidth;
-        const vh=window.innerHeight;
+        const vw=window.visualViewport?.width||window.innerWidth;
+        const vh=window.visualViewport?.height||window.innerHeight;
         const cw=el.offsetWidth;
         const ch=el.offsetHeight;
         if(!cw||!ch) return;
@@ -5498,12 +5498,13 @@ function FitToViewport({children}){
     update();
     window.addEventListener("resize",update);
     window.addEventListener("orientationchange",update);
+    window.visualViewport?.addEventListener("resize",update);
     const ro=new ResizeObserver(update);
     ro.observe(el);
-    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);ro.disconnect();};
+    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);window.visualViewport?.removeEventListener("resize",update);ro.disconnect();};
   },[]);
   return(
-    <div style={{position:"fixed",inset:0,overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start"}}>
+    <div style={{position:"fixed",inset:0,overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start",height:"100dvh"}}>
       <div ref={contentRef} style={{width:"100vw",transform:`scale(${scale})`,transformOrigin:"top center"}}>
         {children}
       </div>
