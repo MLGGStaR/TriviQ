@@ -5439,15 +5439,18 @@ export default function App(){
 
   const cat=activeTile&&BANK[activeTile.catId];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
-  const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>(
-    <div key={`scr-${screen}`} className="page-enter" style={{position:"relative",minHeight:"100vh",width:"100%"}}>
-      <div style={{position:"fixed",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
-        <LanguageToggle language={language} onChange={setLanguage} themeMode={themeMode}/>
-        {!hideToggles&&<ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>}
+  const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>{
+    const fitToScreen=screen!=="categories";
+    return(
+      <div key={`scr-${screen}`} className="page-enter" style={{position:"relative",minHeight:"100vh",width:"100%"}}>
+        <div style={{position:"fixed",top:18,left:18,zIndex:5000,display:"flex",gap:10,alignItems:"center"}}>
+          <LanguageToggle language={language} onChange={setLanguage} themeMode={themeMode}/>
+          {!hideToggles&&<ThemeModeToggle themeMode={themeMode} onChange={setThemeMode}/>}
+        </div>
+        {fitToScreen?<FitToViewport>{content}</FitToViewport>:content}
       </div>
-      {content}
-    </div>
-  );
+    );
+  };
 
   if(!authReady) return renderWithGlobalThemeToggle(
     <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:18}}>
@@ -5471,6 +5474,41 @@ export default function App(){
   }
   if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();setQPointers(initPointers(selCats,new Set(latestIds),gameMode));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
   return null;
+}
+
+function FitToViewport({children}){
+  const contentRef=React.useRef(null);
+  const [scale,setScale]=React.useState(1);
+  React.useLayoutEffect(()=>{
+    const el=contentRef.current;
+    if(!el) return;
+    let raf=0;
+    const update=()=>{
+      cancelAnimationFrame(raf);
+      raf=requestAnimationFrame(()=>{
+        const vw=window.innerWidth;
+        const vh=window.innerHeight;
+        const cw=el.offsetWidth;
+        const ch=el.offsetHeight;
+        if(!cw||!ch) return;
+        const s=Math.min(1,vw/cw,vh/ch);
+        setScale(prev=>Math.abs(prev-s)<.002?prev:s);
+      });
+    };
+    update();
+    window.addEventListener("resize",update);
+    window.addEventListener("orientationchange",update);
+    const ro=new ResizeObserver(update);
+    ro.observe(el);
+    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);ro.disconnect();};
+  },[]);
+  return(
+    <div style={{position:"fixed",inset:0,overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start"}}>
+      <div ref={contentRef} style={{width:"100vw",transform:`scale(${scale})`,transformOrigin:"top center"}}>
+        {children}
+      </div>
+    </div>
+  );
 }
 
 function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
@@ -6610,8 +6648,13 @@ const LIFELINE_DEFS=[
 
 function LifelineRail({lifelines,curTeam,onUseLifeline,activeDoublePoints,timerPaused,showAns}){
   const teamLifelines=lifelines?.[curTeam]||{};
+  const viewport=useViewportSize();
+  const narrow=viewport.width<960;
+  const wrapStyle=narrow
+    ?{position:"static",display:"flex",flexWrap:"wrap",justifyContent:"center",gap:"clamp(6px,1vw,12px)",marginTop:12,zIndex:3}
+    :{position:"absolute",left:"calc(100% + clamp(8px, 1.2vw, 20px))",top:"50%",transform:"translateY(-50%)",display:"grid",gridTemplateColumns:"repeat(2, auto)",gap:"clamp(6px,1vw,12px)",zIndex:3};
   return(
-    <div style={{position:"absolute",left:"calc(100% + clamp(8px, 1.2vw, 20px))",top:"50%",transform:"translateY(-50%)",display:"grid",gridTemplateColumns:"repeat(2, auto)",gap:"clamp(6px,1vw,12px)",zIndex:3}}>
+    <div style={wrapStyle}>
       {LIFELINE_DEFS.map(def=>{
         const used=teamLifelines[def.key];
         const active=(def.key==="doublePoints"&&activeDoublePoints)||(def.key==="pauseTimer"&&timerPaused);
