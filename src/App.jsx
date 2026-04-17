@@ -3923,7 +3923,7 @@ const BANK = sanitizeBank(
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
-  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","movie_scenes","songs","flags","country_facts","country_map","logos"] },
+  { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","who_what_am_i","borders_country","movie_scenes","songs","flags","country_facts","country_map","logos"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
   { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow","cobra_kai"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
@@ -4007,6 +4007,8 @@ const CATEGORY_PREVIEWS = {
   guess_footballer:{src:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",boardSrc:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Four facts, one player"},
   who_movie:{src:"/category-previews/interstellar_poster.jpg",boardSrc:"/category-previews/interstellar_poster.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the movie"},
   who_tv_show:{src:"/category-previews/got_poster.jpg",boardSrc:"/category-previews/got_poster.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the show"},
+  who_what_am_i:{src:"/category-previews/who_what_am_i.svg",boardSrc:"/category-previews/who_what_am_i.svg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#1e1b4b",caption:"Solve the riddle"},
+  borders_country:{src:"/category-previews/borders_country.svg",boardSrc:"/category-previews/borders_country.svg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#064e3b",caption:"Name the neighbors"},
   logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
 };
 
