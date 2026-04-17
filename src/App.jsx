@@ -5147,7 +5147,7 @@ export default function App(){
     const prevBodyHeight=body.style.height;
     const prevRootOverflow=root?.style.overflow ?? "";
     const prevRootHeight=root?.style.height ?? "";
-    const shouldScroll=screen==="categories";
+    const shouldScroll=true;
 
     html.style.height="100%";
     body.style.height="100%";
@@ -5158,6 +5158,9 @@ export default function App(){
     if(root){
       root.style.height="100%";
       root.style.overflow=shouldScroll?"auto":"hidden";
+    }
+    if(!shouldScroll){
+      try{window.scrollTo(0,0);}catch{}
     }
 
     return()=>{
@@ -5479,6 +5482,7 @@ export default function App(){
 function FitToViewport({children}){
   const contentRef=React.useRef(null);
   const [scale,setScale]=React.useState(1);
+  const [offsetTop,setOffsetTop]=React.useState(0);
   React.useLayoutEffect(()=>{
     const el=contentRef.current;
     if(!el) return;
@@ -5486,25 +5490,30 @@ function FitToViewport({children}){
     const update=()=>{
       cancelAnimationFrame(raf);
       raf=requestAnimationFrame(()=>{
-        const vw=window.visualViewport?.width||window.innerWidth;
-        const vh=window.visualViewport?.height||window.innerHeight;
+        const vv=window.visualViewport;
+        const vw=vv?.width||window.innerWidth;
+        const vh=vv?.height||window.innerHeight;
         const cw=el.offsetWidth;
         const ch=el.offsetHeight;
         if(!cw||!ch) return;
         const s=Math.min(1,vw/cw,vh/ch);
         setScale(prev=>Math.abs(prev-s)<.002?prev:s);
+        const top=vv?.offsetTop||0;
+        setOffsetTop(prev=>Math.abs(prev-top)<.5?prev:top);
+        try{window.scrollTo(0,0);}catch{}
       });
     };
     update();
     window.addEventListener("resize",update);
     window.addEventListener("orientationchange",update);
     window.visualViewport?.addEventListener("resize",update);
+    window.visualViewport?.addEventListener("scroll",update);
     const ro=new ResizeObserver(update);
     ro.observe(el);
-    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);window.visualViewport?.removeEventListener("resize",update);ro.disconnect();};
+    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);window.visualViewport?.removeEventListener("resize",update);window.visualViewport?.removeEventListener("scroll",update);ro.disconnect();};
   },[]);
   return(
-    <div style={{position:"fixed",inset:0,overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start",height:"100dvh"}}>
+    <div style={{position:"fixed",left:0,right:0,top:offsetTop,height:"100dvh",overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start"}}>
       <div ref={contentRef} style={{width:"100vw",transform:`scale(${scale})`,transformOrigin:"top center"}}>
         {children}
       </div>
