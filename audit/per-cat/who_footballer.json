@@ -1,0 +1,752 @@
+{
+  "200": [
+    {
+      "q": "English midfielder, joined Real Madrid from Dortmund and quickly became one of the world's best young stars",
+      "a": "Jude Bellingham",
+      "wiki": "Jude_Bellingham",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "English Arsenal winger, left-footed, explosive, and a star for England",
+      "a": "Bukayo Saka",
+      "wiki": "Bukayo_Saka",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Spanish Barcelona midfielder, teenage playmaker, Golden Boy winner",
+      "a": "Pedri",
+      "wiki": "Pedri",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Spanish midfield genius from Barcelona, won the World Cup and scored in the 2010 final",
+      "a": "Andres Iniesta",
+      "wiki": "Andres_Iniesta",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Spanish defender with a warrior beard, captained Real Madrid and scored huge headers",
+      "a": "Sergio Ramos",
+      "wiki": "Sergio_Ramos",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "French striker who won the Ballon d'Or after leading Real Madrid's attack",
+      "a": "Karim Benzema",
+      "wiki": "Karim_Benzema",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "English forward, Manchester United legend, all-time scorer for club and country for years",
+      "a": "Wayne Rooney",
+      "wiki": "Wayne_Rooney",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Portuguese-born Benfica legend, one of the greatest scorers ever, nicknamed the Black Panther",
+      "a": "Eusebio",
+      "wiki": "Eusebio",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "English World Cup-winning legend, Manchester United icon, known as Sir Bobby",
+      "a": "Bobby Charlton",
+      "wiki": "Bobby_Charlton",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Italian playmaker with a ponytail, famous for his penalty miss in the 1994 World Cup final",
+      "a": "Roberto Baggio",
+      "wiki": "Roberto_Baggio",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Brazilian right-back and 2002 World Cup winner, captain of AC Milan and Brazil",
+      "a": "Cafu",
+      "wiki": "Cafu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch superstar with dreadlocks, Ballon d'Or winner, starred for Milan and Chelsea",
+      "a": "Ruud Gullit",
+      "wiki": "Ruud_Gullit",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch Arsenal legend known for sublime control and elegant finishing",
+      "a": "Dennis Bergkamp",
+      "wiki": "Dennis_Bergkamp",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch striker who scored endlessly for Manchester United and Real Madrid",
+      "a": "Ruud van Nistelrooy",
+      "wiki": "Ruud_van_Nistelrooy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Spanish midfield controller turned elite coach, starred for Liverpool, Real Madrid, and Spain",
+      "a": "Xabi Alonso",
+      "wiki": "Xabi_Alonso",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch winger famous for cutting inside onto his left foot from the right wing",
+      "a": "Arjen Robben",
+      "wiki": "Arjen_Robben",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Spanish holding midfielder, Barcelona icon, master of positioning and calmness",
+      "a": "Sergio Busquets",
+      "wiki": "Sergio_Busquets",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Brazilian winger, Real Madrid star, dances after goals, often called Vini",
+      "a": "Vinicius Junior",
+      "wiki": "Vin%C3%ADcius_J%C3%BAnior",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "English midfielder, teenage superstar who played for Dortmund then Real Madrid",
+      "a": "Jude Bellingham",
+      "wiki": "Jude_Bellingham",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "South Korean forward, Tottenham captain, famous for two-footed finishing",
+      "a": "Son Heung-min",
+      "wiki": "Son_Heung-min",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Portuguese winger, 5x Ballon d'Or winner, known for his free kicks and physique",
+      "a": "Cristiano Ronaldo",
+      "wiki": "Cristiano_Ronaldo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Argentine forward, 8x Ballon d'Or winner, world's greatest dribbler, plays with his left foot",
+      "a": "Lionel Messi",
+      "wiki": "Lionel_Messi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French striker, FIFA World Cup winner at 19 in 2018, plays for Real Madrid, lightning fast",
+      "a": "Kylian Mbappé",
+      "wiki": "Kylian_Mbapp%C3%A9",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Norwegian striker, broke the Premier League scoring record in his first season at Man City",
+      "a": "Erling Haaland",
+      "wiki": "Erling_Haaland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Egyptian winger, Liverpool's all-time top scorer, won the Africa Cup of Nations with Egypt",
+      "a": "Mohamed Salah",
+      "wiki": "Mohamed_Salah",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Belgian midfielder, considered one of the best playmakers ever, plays for Man City",
+      "a": "Kevin De Bruyne",
+      "wiki": "Kevin_De_Bruyne",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian striker, played for PSG and Barcelona, known for his skill and flair",
+      "a": "Neymar",
+      "wiki": "Neymar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Senegalese winger, won the Premier League and Champions League with Liverpool, moved to Bayern",
+      "a": "Sadio Mané",
+      "wiki": "Sadio_Man%C3%A9",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French playmaker, won the 1998 and 2006 World Cups, headbutted Materazzi in the final",
+      "a": "Zinedine Zidane",
+      "wiki": "Zinedine_Zidane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian R9, won the World Cup in 2002, scored twice in the final, one of the greatest strikers",
+      "a": "Ronaldo (R9)",
+      "wiki": "Ronaldo_(Brazilian_footballer)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dutch striker, won the 1988 European Championship with Netherlands, AC Milan legend",
+      "a": "Marco van Basten",
+      "wiki": "Marco_van_Basten",
+      "file": "App.jsx"
+    },
+    {
+      "q": "German keeper, widely considered the best in his generation, won the 2014 World Cup",
+      "a": "Manuel Neuer",
+      "wiki": "Manuel_Neuer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French striker, Arsenal legend, won the Treble with Barcelona, nicknamed Va Va Voom",
+      "a": "Thierry Henry",
+      "wiki": "Thierry_Henry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Welsh winger, 4x Champions League winner with Real Madrid, known to love golf",
+      "a": "Gareth Bale",
+      "wiki": "Gareth_Bale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Liberian striker, won the Ballon d'Or in 1995, later became President of Liberia",
+      "a": "George Weah",
+      "wiki": "George_Weah",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Brazilian left-back known for thunderous free kicks and outside-of-the-foot crosses",
+      "a": "Roberto Carlos",
+      "wiki": "Roberto_Carlos",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Italian defender and AC Milan legend, one of the greatest defenders ever",
+      "a": "Paolo Maldini",
+      "wiki": "Paolo_Maldini",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Italian deep-lying playmaker known for elegance, long passing, and free kicks",
+      "a": "Andrea Pirlo",
+      "wiki": "Andrea_Pirlo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Dutch winger with a devastating left-foot cut inside, famous at Bayern and Real Madrid",
+      "a": "Arjen Robben",
+      "wiki": "Arjen_Robben",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Italian deep-lying playmaker with elegance and long passes, nicknamed The Architect",
+      "a": "Andrea Pirlo",
+      "wiki": "Andrea_Pirlo",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Italian defender who spent almost his whole career with Milan and captained them for years",
+      "a": "Paolo Maldini",
+      "wiki": "Paolo_Maldini",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ronaldinho",
+      "wiki": "Ronaldinho",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Andres Iniesta",
+      "wiki": "Andr%C3%A9s_Iniesta",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Wayne Rooney",
+      "wiki": "Wayne_Rooney",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Luis Suarez",
+      "wiki": "Luis_Su%C3%A1rez",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Robert Lewandowski",
+      "wiki": "Robert_Lewandowski",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Sergio Ramos",
+      "wiki": "Sergio_Ramos",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Xavi",
+      "wiki": "Xavi",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Andrea Pirlo",
+      "wiki": "Andrea_Pirlo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Arjen Robben",
+      "wiki": "Arjen_Robben",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Franck Ribery",
+      "wiki": "Franck_Rib%C3%A9ry",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "David Villa",
+      "wiki": "David_Villa",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Sergio Busquets",
+      "wiki": "Sergio_Busquets",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Robin van Persie",
+      "wiki": "Robin_van_Persie",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Mesut Ozil",
+      "wiki": "Mesut_%C3%96zil",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Javier Mascherano",
+      "wiki": "Javier_Mascherano",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Carlos Tevez",
+      "wiki": "Carlos_T%C3%A9vez",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Edinson Cavani",
+      "wiki": "Edinson_Cavani",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Antoine Griezmann",
+      "wiki": "Antoine_Griezmann",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Riyad Mahrez",
+      "wiki": "Riyad_Mahrez",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Casemiro",
+      "wiki": "Casemiro",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Thomas Muller",
+      "wiki": "Thomas_M%C3%BCller",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Nemanja Vidic",
+      "wiki": "Nemanja_Vidi%C4%87",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Swedish striker, known for his bicycle kicks and arrogance, played for Barcelona and Man United",
+      "a": "Zlatan Ibrahimovic",
+      "wiki": "Zlatan_Ibrahimovi%C4%87",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Argentine striker, Man City legend, scored the famous 93:20 goal against QPR to win the league",
+      "a": "Sergio Agüero",
+      "wiki": "Sergio_Ag%C3%BCero",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Portuguese midfielder at Man United, known for his long shots and leadership, brother of Bernardo",
+      "a": "Bruno Fernandes",
+      "wiki": "Bruno_Fernandes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "English midfielder, captained England, married a Spice Girl, known for his pinpoint crossing",
+      "a": "David Beckham",
+      "wiki": "David_Beckham",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dutch football philosopher, invented Total Football, won three European Cups with Ajax",
+      "a": "Johan Cruyff",
+      "wiki": "Johan_Cruyff",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian fullback, most decorated club footballer ever, played for Barcelona, PSG, Juventus",
+      "a": "Dani Alves",
+      "wiki": "Dani_Alves",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Italian legend, rarely left Roma despite massive offers, nicknamed Il Gladiatore",
+      "a": "Francesco Totti",
+      "wiki": "Francesco_Totti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "German striker, nicknamed The Bomber, scored 68 goals for West Germany, 1972 Ballon d'Or",
+      "a": "Gerd Müller",
+      "wiki": "Gerd_M%C3%BCller",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Spanish goalkeeper, Real Madrid's No. 1 for decades, won the 2010 World Cup",
+      "a": "Iker Casillas",
+      "wiki": "Iker_Casillas",
+      "file": "App.jsx"
+    },
+    {
+      "q": "English striker at Spurs and Bayern Munich, England's all-time top scorer",
+      "a": "Harry Kane",
+      "wiki": "Harry_Kane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Argentine winger, won the 2022 World Cup, scored in major finals, and is nicknamed El Fideo",
+      "a": "Angel Di María",
+      "wiki": "%C3%81ngel_Di_Mar%C3%ADa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French defender, won the 2018 World Cup, known as one of the greatest defenders of his era, Juventus and Man United",
+      "a": "Raphaël Varane",
+      "wiki": "Rapha%C3%ABl_Varane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian right-back, played for Barcelona, known for his long throws and attacking runs",
+      "a": "Dani Alves",
+      "wiki": "Dani_Alves",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Real Madrid's legendary striker, all-time top scorer before Ronaldo, Spanish, nicknamed The White Arrow",
+      "a": "Raúl",
+      "wiki": "Ra%C3%BAl_(footballer)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Croatian midfielder, 6x Champions League winner with Real Madrid, won the 2018 Ballon d'Or",
+      "a": "Luka Modrić",
+      "wiki": "Luka_Modri%C4%87",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Brazilian magician with a huge smile, won the Ballon d'Or and made street-football flair global",
+      "a": "Ronaldinho",
+      "wiki": "Ronaldinho",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Soviet goalkeeper nicknamed the Black Spider and the only keeper to win the Ballon d'Or",
+      "a": "Lev Yashin",
+      "wiki": "Lev_Yashin",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "German legend nicknamed Der Kaiser who dominated as a sweeper",
+      "a": "Franz Beckenbauer",
+      "wiki": "Franz_Beckenbauer",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Soviet goalkeeper in black, the only keeper to win the Ballon d'Or",
+      "a": "Lev Yashin",
+      "wiki": "Lev_Yashin",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Brazilian icon nicknamed the White Pele and famed for Flamengo and flair",
+      "a": "Zico",
+      "wiki": "Zico",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "German midfielder who won the 1990 World Cup and the Ballon d'Or in the same year",
+      "a": "Lothar Matthaus",
+      "wiki": "Lothar_Matth%C3%A4us",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Gianluigi Buffon",
+      "wiki": "Gianluigi_Buffon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Clarence Seedorf",
+      "wiki": "Clarence_Seedorf",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Javier Zanetti",
+      "wiki": "Javier_Zanetti",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Lothar Matthaus",
+      "wiki": "Lothar_Matth%C3%A4us",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Roberto Baggio",
+      "wiki": "Roberto_Baggio",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ruud Gullit",
+      "wiki": "Ruud_Gullit",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Gheorghe Hagi",
+      "wiki": "Gheorghe_Hagi",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Dennis Bergkamp",
+      "wiki": "Dennis_Bergkamp",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Michael Laudrup",
+      "wiki": "Michael_Laudrup",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Hristo Stoichkov",
+      "wiki": "Hristo_Stoichkov",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Pavel Nedved",
+      "wiki": "Pavel_Nedv%C4%9Bd",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Roberto Carlos",
+      "wiki": "Roberto_Carlos",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Cafu",
+      "wiki": "Cafu",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Didier Drogba",
+      "wiki": "Didier_Drogba",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Samuel Eto'o",
+      "wiki": "Samuel_Eto%27o",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Fabio Cannavaro",
+      "wiki": "Fabio_Cannavaro",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Philipp Lahm",
+      "wiki": "Philipp_Lahm",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Edgar Davids",
+      "wiki": "Edgar_Davids",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Romario",
+      "wiki": "Rom%C3%A1rio",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Garrincha",
+      "wiki": "Garrincha",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Juan Roman Riquelme",
+      "wiki": "Juan_Rom%C3%A1n_Riquelme",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Davor Suker",
+      "wiki": "Davor_%C5%A0uker",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Fernando Redondo",
+      "wiki": "Fernando_Redondo",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Michael Ballack",
+      "wiki": "Michael_Ballack",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Henrik Larsson",
+      "wiki": "Henrik_Larsson",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Alessandro Nesta",
+      "wiki": "Alessandro_Nesta",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Patrick Vieira",
+      "wiki": "Patrick_Vieira",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Rivaldo",
+      "wiki": "Rivaldo",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "David Trezeguet",
+      "wiki": "David_Trezeguet",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Miroslav Klose",
+      "wiki": "Miroslav_Klose",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Argentine forward, won the World Cup in 1978 and 1986, scored the Hand of God and Goal of the Century in the same match",
+      "a": "Diego Maradona",
+      "wiki": "Diego_Maradona",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian legend, won three World Cups, scored over 1,200 goals, known by just one name meaning King",
+      "a": "Pelé",
+      "wiki": "Pel%C3%A9",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Hungarian striker, scored 84 international goals, was the world record holder for decades",
+      "a": "Ferenc Puskás",
+      "wiki": "Ferenc_Pusk%C3%A1s",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dutch defender, Premier League icon, captain of Liverpool who lifted the Champions League",
+      "a": "Virgil van Dijk",
+      "wiki": "Virgil_van_Dijk",
+      "file": "App.jsx"
+    },
+    {
+      "q": "German striker, won the 1974 World Cup, scored 68 goals for West Germany, Bundesliga legend",
+      "a": "Gerd Müller",
+      "wiki": "Gerd_M%C3%BCller",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ivory Coast legend, plays for Chelsea, won Africa Cup of Nations, known for his strength",
+      "a": "Didier Drogba",
+      "wiki": "Didier_Drogba",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Liberian striker, 1995 Ballon d'Or, scored 22 World Cup qualifying goals for Liberia, later president",
+      "a": "George Weah",
+      "wiki": "George_Weah",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Iranian striker, held the men's international goals record before Ronaldo, scored 109 goals",
+      "a": "Ali Daei",
+      "wiki": "Ali_Daei",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Real Madrid legend, Argentine-Spanish, arguably the greatest player before Pelé and Maradona",
+      "a": "Alfredo Di Stéfano",
+      "wiki": "Alfredo_Di_St%C3%A9fano",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Spanish playmaker, won 4 Champions Leagues with Real Madrid, known for his vision and passing",
+      "a": "Xavi Hernández",
+      "wiki": "Xavi",
+      "file": "App.jsx"
+    }
+  ]
+}

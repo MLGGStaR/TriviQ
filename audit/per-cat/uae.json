@@ -1,0 +1,473 @@
+{
+  "200": [
+    {
+      "q": "What is the capital of the UAE?",
+      "a": "Abu Dhabi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the tallest building in the world, located in Dubai?",
+      "a": "Burj Khalifa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the national language of the UAE?",
+      "a": "Arabic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What currency is used in the UAE?",
+      "a": "Dirham (AED)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the main religion in the UAE?",
+      "a": "Islam",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How many emirates make up the UAE?",
+      "a": "7",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year was the UAE founded?",
+      "a": "1971",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of Dubai's man-made palm-shaped island?",
+      "a": "Palm Jumeirah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What iconic sail-shaped luxury hotel is in Dubai?",
+      "a": "Burj Al Arab",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the founding father of the UAE called?",
+      "a": "Sheikh Zayed bin Sultan Al Nahyan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which mega-event did Dubai host from 2021 to 2022?",
+      "a": "Expo 2020",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate is the largest by area?",
+      "a": "Abu Dhabi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE's flagship airline based in Abu Dhabi?",
+      "a": "Etihad Airways",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Dubai's flagship airline called?",
+      "a": "Emirates",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What body of water borders the UAE on the north?",
+      "a": "Persian Gulf",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE's most important natural resource?",
+      "a": "Oil",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the indoor ski slope in Dubai?",
+      "a": "Ski Dubai",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the largest mall in the UAE?",
+      "a": "Dubai Mall",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What famous dancing fountain show is at the base of Burj Khalifa?",
+      "a": "The Dubai Fountain",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What UAE theme park is branded around a car maker?",
+      "a": "Ferrari World",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which island hosts both Ferrari World and Yas Marina Circuit?",
+      "a": "Yas Island",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE national sport involving trained birds of prey?",
+      "a": "Falconry",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What traditional UAE sport involves racing animals through the desert?",
+      "a": "Camel racing",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE's parliamentary body called?",
+      "a": "Federal National Council",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate has the Sheikh Zayed Grand Mosque?",
+      "a": "Abu Dhabi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What are the four colors of the UAE flag?",
+      "a": "Red, green, white, black",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What famous bird is the national symbol of the UAE?",
+      "a": "The falcon",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who currently serves as President of the UAE (as of 2024)?",
+      "a": "Sheikh Mohamed bin Zayed Al Nahyan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What traditional outer garment do Emirati men wear?",
+      "a": "Kandura",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What traditional black outer cloak do Emirati women wear?",
+      "a": "Abaya",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the official language of the UAE?",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which emirate is the UAE's capital located in?",
+      "a": "Abu Dhabi",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "What famous art museum opened in Abu Dhabi in 2017 as a partner institution?",
+      "a": "Louvre Abu Dhabi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate sits on the Gulf of Oman coast?",
+      "a": "Fujairah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year was the Burj Khalifa officially opened?",
+      "a": "2010",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who was the first UAE astronaut to travel to the ISS?",
+      "a": "Hazza Al Mansouri",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "In which year did Hazza Al Mansouri go to space?",
+      "a": "2019",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was Dubai's main economic activity before oil?",
+      "a": "Pearl diving and trade",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which UAE city is the cultural capital known for museums?",
+      "a": "Sharjah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What archipelago off Dubai's coast is shaped like a world map?",
+      "a": "The World Islands",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What F1 circuit hosts the season finale in Abu Dhabi?",
+      "a": "Yas Marina Circuit",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the highest mountain peak in the UAE?",
+      "a": "Jebel Jais",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which mountain-range emirate is famous for Jebel Jais?",
+      "a": "Ras Al Khaimah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What famous photo frame structure opened in Dubai in 2018?",
+      "a": "Dubai Frame",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What highway connects Abu Dhabi to Dubai?",
+      "a": "Sheikh Zayed Road",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the UAE Mars probe launched in 2020?",
+      "a": "Hope Probe (Al-Amal)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year did the UAE's Hope probe enter Mars orbit?",
+      "a": "2021",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What major free-trade zone operates near Jebel Ali port?",
+      "a": "JAFZA (Jebel Ali Free Zone)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which island near Abu Dhabi is developed as a cultural destination?",
+      "a": "Saadiyat Island",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE's largest natural oasis?",
+      "a": "Al Ain Oasis",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Where is the annual Dubai World Cup horse race held?",
+      "a": "Meydan Racecourse",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "In which year was Sheikh Zayed Grand Mosque completed?",
+      "a": "2007",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What traditional Emirati dance involves chanting and sticks?",
+      "a": "Al-Ayyala",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What region of Abu Dhabi Emirate is known for date farms and dunes?",
+      "a": "Al Dhafra (Liwa area)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate is the smallest by area?",
+      "a": "Ajman",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What emirate has Khor Fakkan as an exclave on the east coast?",
+      "a": "Sharjah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What global financial district operates within Dubai?",
+      "a": "Dubai International Financial Centre (DIFC)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What emirate borders both Saudi Arabia and Oman?",
+      "a": "Abu Dhabi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What rail-transit system opened in Dubai in 2009?",
+      "a": "Dubai Metro",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the bridge connecting Abu Dhabi Island to the mainland built by Zaha Hadid?",
+      "a": "Sheikh Zayed Bridge",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE's oldest known mosque?",
+      "a": "Al Bidya Mosque",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "In which emirate is Al Bidya Mosque?",
+      "a": "Fujairah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the mosque in Abu Dhabi with over 80 domes?",
+      "a": "Sheikh Zayed Grand Mosque",
+      "file": "qualityBackfill"
+    }
+  ],
+  "600": [
+    {
+      "q": "What UNESCO-listed historic fort is in Al Ain?",
+      "a": "Al Jahili Fort",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Approximately what percentage of UAE residents are foreign nationals?",
+      "a": "About 88%",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the approximate total population of the UAE as of the mid-2020s?",
+      "a": "About 10 million",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What nuclear power plant began commercial operations in Al Dhafra in 2020?",
+      "a": "Barakah Nuclear Power Plant",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the UAE's main space centre in Dubai?",
+      "a": "Mohammed bin Rashid Space Centre",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who was announced in 2021 as the first Arab woman selected for astronaut training?",
+      "a": "Nora Al Matrooshi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What financial free-zone operates on Al Maryah Island?",
+      "a": "Abu Dhabi Global Market",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What ancient archaeological site in Sharjah dates back over 5,000 years?",
+      "a": "Mleiha",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What mountain range runs through the UAE and Oman?",
+      "a": "The Hajar Mountains",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What desert region in Abu Dhabi Emirate is known for giant crescent dunes?",
+      "a": "Rub' al Khali (Empty Quarter)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What traditional wooden ship is used for pearl diving and trade?",
+      "a": "The dhow",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What UAE festival features camel beauty contests and falconry?",
+      "a": "Al Dhafra Festival",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the UAE's stock exchange in Abu Dhabi called?",
+      "a": "Abu Dhabi Securities Exchange (ADX)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What dish of spiced rice with meat is a UAE national staple?",
+      "a": "Machboos",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What sticky date-based sweet is served during Ramadan?",
+      "a": "Luqaimat",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the traditional Emirati coffee served from a long-spouted pot?",
+      "a": "Gahwa (Arabic coffee)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was the first settlement of modern Dubai, founded by the Bani Yas tribe?",
+      "a": "Bur Dubai (Shindagha area)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year did Dubai's Metro open Red Line service?",
+      "a": "2009",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What geological formations in western Abu Dhabi look like stone trees?",
+      "a": "Fossil Dunes",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate is home to the historic Hatta enclave?",
+      "a": "Dubai",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was the UAE called before unification?",
+      "a": "Trucial States (Trucial Oman)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which treaty ended the Trucial States' maritime truce with Britain?",
+      "a": "The 1971 Treaty of Friendship",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who succeeded Sheikh Zayed as UAE president?",
+      "a": "Sheikh Khalifa bin Zayed",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year did Sheikh Khalifa become UAE president?",
+      "a": "2004",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year did Sheikh Khalifa pass away?",
+      "a": "2022",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Where is the UAE's oldest archaeological settlement near Jebel Buhais?",
+      "a": "Sharjah Emirate",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate's former ruler was Sheikh Sultan bin Mohammed Al Qasimi, a noted historian?",
+      "a": "Sharjah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What ancient trade empire was based in UAE's Umm Al Quwain region 2,000 years ago?",
+      "a": "Ed-Dur",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What Bronze Age culture ruled the Oman Peninsula including UAE?",
+      "a": "Magan civilisation",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which emirate produced the famous pearl known as 'La Peregrina'?",
+      "a": "Pearls came from the Gulf generally — no single emirate definitively",
+      "file": "newCategoriesPack2"
+    }
+  ]
+}

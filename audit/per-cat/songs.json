@@ -1,0 +1,308 @@
+{
+  "200": [
+    {
+      "q": "A 2008 pop hit by Lady Gaga inviting someone to just dance",
+      "a": "Just Dance by Lady Gaga",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 1999 Britney Spears debut built around Hit Me Baby One More Time",
+      "a": "...Baby One More Time by Britney Spears",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 2000 Coldplay song about yellow stars and devotion",
+      "a": "Yellow by Coldplay",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 1985 a-ha track with an iconic animated music video",
+      "a": "Take On Me by a-ha",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "A 1976 Eagles song opening with 'On a dark desert highway'",
+      "a": "Hotel California by Eagles",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "A Michael Jackson song asking 'Annie, are you okay?'",
+      "a": "Smooth Criminal by Michael Jackson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "A 2011 LMFAO anthem about shuffling every day",
+      "a": "Party Rock Anthem by LMFAO",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "A 2014 Hozier hit comparing love to religion",
+      "a": "Take Me to Church by Hozier",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "A 1995 Oasis singalong asking if you'll be somebody's wonderwall",
+      "a": "Wonderwall by Oasis",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "A 2013 pop song by a young Australian singer about being 22 years old, from the Red era",
+      "a": "22 by Taylor Swift",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2011 anthem where a singer tells a bully their friend-betrayer he should've known better — someone Like You",
+      "a": "Someone Like You by Adele",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The most streamed song of 2019 by The Weeknd featuring post-80s synths and obsessive love",
+      "a": "Blinding Lights by The Weeknd",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Eminem's 2002 song about seizing one single opportunity in life — you only get one shot",
+      "a": "Lose Yourself by Eminem",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2021 song from Encanto that people DO NOT talk about — features a fast-paced ensemble number",
+      "a": "We Don't Talk About Bruno by Lin-Manuel Miranda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Queen's 1975 six-minute rock opera that is completely unlike any other song — operatic sections included",
+      "a": "Bohemian Rhapsody by Queen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2013 song about a golden era of youth, dancing all night — Forever Young vibes — by Avicii",
+      "a": "Wake Me Up by Avicii",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1982 Michael Jackson song about a supernatural thriller — features a famous Vincent Price monologue",
+      "a": "Thriller by Michael Jackson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1971 John Lennon song imagining a world with no countries, religions, or possessions",
+      "a": "Imagine by John Lennon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The 2016 hit that opens with 'Hey, I was doing just fine before I met you'",
+      "a": "Closer by The Chainsmokers featuring Halsey",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Drake song from 2016 featuring his famous Hotline Bling dance music video",
+      "a": "Hotline Bling by Drake",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2013 song by Pharrell Williams used in Despicable Me 2 — the word happy repeated endlessly",
+      "a": "Happy by Pharrell Williams",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1977 ABBA song about surviving heartbreak after the end of a relationship — The Winner Takes It All era",
+      "a": "Dancing Queen by ABBA",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ed Sheeran's 2017 record-breaking love song featuring the lyric about loving your curves and edges",
+      "a": "Shape of You by Ed Sheeran",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Dua Lipa 2020 song where she outlines new rules for getting over an ex",
+      "a": "Don't Start Now by Dua Lipa",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "A 2003 OutKast song built around infectious hey ya shout-alongs",
+      "a": "Hey Ya! by OutKast",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 1971 Led Zeppelin epic that climbs from acoustic folk to hard rock thunder",
+      "a": "Stairway to Heaven by Led Zeppelin",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 2006 Gnarls Barkley song asking if you think you're crazy",
+      "a": "Crazy by Gnarls Barkley",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 2005 Kanye West hit featuring Jamie Foxx and built around a Ray Charles sample",
+      "a": "Gold Digger by Kanye West",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1994 Notorious B.I.G. track about the dangers of going from nothing to something — hypnotic strings",
+      "a": "Juicy by The Notorious B.I.G.",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1982 song by Toto about Africa and missing someone while being far away — received renewed fame in 2018",
+      "a": "Africa by Toto",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2012 Gotye song about a failed relationship where both parties reflect — she is now Somebody That I Used to Know",
+      "a": "Somebody That I Used to Know by Gotye",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Kendrick Lamar track from DAMN where he criticises people who are not humble enough",
+      "a": "HUMBLE. by Kendrick Lamar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2017 Post Malone song about rockstar lifestyle that made him a household name — featuring 21 Savage",
+      "a": "rockstar by Post Malone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2018 song by Billie Eilish recorded in her bedroom at age 13 — about a bad guy she is obsessed with",
+      "a": "bad guy by Billie Eilish",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1975 song by Queen where Freddie asks Mama if he has just killed a man",
+      "a": "Bohemian Rhapsody by Queen — but the lyric is 'Mama, just killed a man' within the song",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1965 Bob Dylan song where Mr. Jones is hopelessly out of touch",
+      "a": "Ballad of a Thin Man by Bob Dylan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Beyoncé song from Lemonade with a country-pop crossover style",
+      "a": "Daddy Lessons by Beyoncé",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Lady Gaga hit about going out, forgetting your worries, and just dancing",
+      "a": "Just Dance by Lady Gaga",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1991 Nirvana track that became the anthem of Generation X with a baby in a pool on the cover",
+      "a": "Smells Like Teen Spirit — but that's the song. The album was Nevermind",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Childish Gambino 2018 song featuring an intense, violent music video critiquing gun violence and racism in America",
+      "a": "This Is America by Childish Gambino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2020 The Weeknd title track about obsession and driving late at night to someone's house",
+      "a": "After Hours by The Weeknd",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1977 Fleetwood Mac song written during their most turbulent period — references rolling thunder",
+      "a": "The Chain by Fleetwood Mac",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "A 1965 Rolling Stones song often shortened to Satisfaction",
+      "a": "(I Can't Get No) Satisfaction by The Rolling Stones",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 1980 Joy Division classic about a relationship tearing itself apart",
+      "a": "Love Will Tear Us Apart by Joy Division",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 2015 Kendrick Lamar track declaring we gon' be alright",
+      "a": "Alright by Kendrick Lamar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "A 1979 Talking Heads song about a large domestic house and questioning how one arrived at their life",
+      "a": "Once in a Lifetime by Talking Heads",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1980 Joy Division song featuring a simple bass line and Ian Curtis's haunting voice — released after his death",
+      "a": "Love Will Tear Us Apart by Joy Division",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1974 Bob Marley song about standing firm despite adversity — became one of reggae's defining songs",
+      "a": "No Woman No Cry by Bob Marley",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Miles Davis 1959 modal jazz composition that changed the direction of jazz music",
+      "a": "So What by Miles Davis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1966 Beach Boys track featuring a bicycle bell, dogs barking, and Brian Wilson's most ambitious production",
+      "a": "Good Vibrations by The Beach Boys",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Radiohead song from OK Computer about a self-satisfied man who doesn't know he's out of touch — Fitter Happier era",
+      "a": "Karma Police by Radiohead",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1965 The Rolling Stones song featuring Keith Richards's most iconic riff — about not getting what you want",
+      "a": "Satisfaction by The Rolling Stones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1993 Smashing Pumpkins single from Siamese Dream that sounds bright but hides bleak lyrics",
+      "a": "Today by The Smashing Pumpkins",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1987 U2 anthem written about a troubled relationship where Bono's personal life merged with the lyrics",
+      "a": "With or Without You by U2",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1958 Chuck Berry song that became the blueprint for rock and roll guitar playing",
+      "a": "Johnny B. Goode by Chuck Berry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A Frank Ocean track from Channel Orange about unrequited love for a man — quietly groundbreaking for R&B",
+      "a": "Thinkin Bout You by Frank Ocean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2003 Outkast track where one half sings about a former girlfriend and the other raps — completely split in tone",
+      "a": "Hey Ya! by OutKast",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 1969 Led Zeppelin track with an acoustic opening that slowly builds to a thunderous electric climax",
+      "a": "Stairway to Heaven by Led Zeppelin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2010 Arcade Fire track that won the Grammy for Album of the Year surprising almost everyone — about suburban ennui",
+      "a": "The Suburbs by Arcade Fire (or Ready to Start)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "A 2017 Kendrick Lamar track from DAMN built around pride, aggression, and inherited traits",
+      "a": "DNA. by Kendrick Lamar",
+      "file": "App.jsx"
+    }
+  ]
+}

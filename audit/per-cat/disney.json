@@ -1,0 +1,658 @@
+{
+  "200": [
+    {
+      "q": "What does Cinderella leave behind at the ball?",
+      "a": "A glass slipper",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What kind of animal is Dumbo?",
+      "a": "An elephant",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Ariel's fish friend called?",
+      "a": "Flounder",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Jasmine's pet tiger's name?",
+      "a": "Rajah",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Stitch's experiment number?",
+      "a": "626",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Belle's father?",
+      "a": "Maurice",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the teacup in Beauty and the Beast?",
+      "a": "Chip",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who kills Mufasa?",
+      "a": "Scar",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What kind of animal is Thumper?",
+      "a": "Rabbit",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What object does Aladdin rub to summon Genie?",
+      "a": "A magic lamp",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Ariel's fish friend named?",
+      "a": "Flounder",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is the wooden puppet who wants to be a real boy?",
+      "a": "Pinocchio",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What kind of animal is Bambi?",
+      "a": "A deer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What kind of fish is Nemo?",
+      "a": "Clownfish",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What princess has the longest hair?",
+      "a": "Rapunzel",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the snowman in Frozen?",
+      "a": "Olaf",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Disney princess lives under the sea?",
+      "a": "Ariel",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What film features a magic carpet ride?",
+      "a": "Aladdin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Pinocchio's conscience?",
+      "a": "Jiminy Cricket",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What film features the song 'A Whole New World'?",
+      "a": "Aladdin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What princess pricks her finger on a spindle?",
+      "a": "Aurora (Sleeping Beauty)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Nemo's father?",
+      "a": "Marlin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What kind of animal is Bambi?",
+      "a": "Deer",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Disney character has ice powers?",
+      "a": "Elsa",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Moana's demigod companion?",
+      "a": "Maui",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Simba's father?",
+      "a": "Mufasa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Hakuna Matata mean?",
+      "a": "No worries (in Swahili)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who voices Buzz Lightyear?",
+      "a": "Tim Allen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What type of fish is Nemo?",
+      "a": "A clownfish",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in The Little Mermaid?",
+      "a": "Ursula",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the name of Elsa's kingdom?",
+      "a": "Arendelle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in The Lion King?",
+      "a": "Scar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the toy cowboy in Toy Story?",
+      "a": "Woody",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Elsa's sister in Frozen?",
+      "a": "Anna",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the name of Aladdin's genie?",
+      "a": "The Genie — voiced by Robin Williams",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Pinocchio want more than anything?",
+      "a": "To be a real boy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is WALL-E's job?",
+      "a": "He is a robot that compacts trash on an abandoned Earth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Mulan do in the film?",
+      "a": "She disguises herself as a man to take her father's place in the army",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in Frozen?",
+      "a": "Hans — Prince of the Southern Isles, revealed in the twist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Coco about?",
+      "a": "A boy named Miguel travels to the Land of the Dead on Día de los Muertos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Joy in Inside Out?",
+      "a": "The lead emotion in Riley's head — she desperately wants Riley to be happy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Moana about?",
+      "a": "A young Polynesian chief's daughter who sails to return a stolen relic to the goddess Te Fiti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in Sleeping Beauty?",
+      "a": "Maleficent",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the story of Up?",
+      "a": "An elderly widower flies his house to South America using thousands of balloons",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the name of the kingdom in Tangled?",
+      "a": "Corona",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the villain in The Princess and the Frog?",
+      "a": "Dr. Facilier",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Mulan's dragon companion called?",
+      "a": "Mushu",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city is Big Hero 6 set in?",
+      "a": "San Fransokyo",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Moana's rooster called?",
+      "a": "Heihei",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the magic house in Encanto called?",
+      "a": "Casita",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the name of Aladdin's monkey?",
+      "a": "Abu",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What toy belongs to Sid in Toy Story?",
+      "a": "Mutant toys",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What toy says 'To infinity and beyond'?",
+      "a": "Buzz Lightyear",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What number is Lightning McQueen famous for?",
+      "a": "95",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What Scottish princess is the heroine of Brave?",
+      "a": "Merida",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What emotion leads Riley's mind first?",
+      "a": "Joy",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What year did the first Disney animated feature release?",
+      "a": "1937 (Snow White)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the castle in Disney theme parks?",
+      "a": "Cinderella Castle (Magic Kingdom)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Pixar film is set inside a girl's mind?",
+      "a": "Inside Out",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who voiced Genie in the original Aladdin?",
+      "a": "Robin Williams",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is WALL-E's job?",
+      "a": "Waste compactor robot",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the villain in Tangled?",
+      "a": "Mother Gothel",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Pixar film features the Land of the Dead?",
+      "a": "Coco",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the dragon in Mulan?",
+      "a": "Mushu",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed the music for The Lion King (film)?",
+      "a": "Hans Zimmer (Elton John songs)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the fire spirit in Frozen 2?",
+      "a": "Bruni",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the main character in Brave?",
+      "a": "Merida",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Pixar film features a house lifted by balloons?",
+      "a": "Up",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Ariel's father?",
+      "a": "King Triton",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What villain wants 101 Dalmatian puppies?",
+      "a": "Cruella de Vil",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is WALL-E an acronym for?",
+      "a": "Waste Allocation Load Lifter: Earth-Class",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Miguel's real great-great-grandfather in Coco?",
+      "a": "Héctor Rivera",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was Walt Disney's first synchronized sound cartoon?",
+      "a": "Steamboat Willie (1928)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in Mulan?",
+      "a": "Shan Yu — leader of the Hun army",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Monsters Inc.'s power source?",
+      "a": "Children's screams — later switched to laughter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pixar A113 Easter egg?",
+      "a": "The CalArts classroom number where many Pixar animators studied — appears in almost every Pixar film",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the opening of Up?",
+      "a": "A wordless 4-minute montage of Carl and Ellie's life — considered one of the most emotional film sequences ever",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the twist villain in Frozen?",
+      "a": "Hans — appears to be the love interest but is revealed as the villain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Toy Story 3?",
+      "a": "The toys nearly face destruction in an incinerator — one of Pixar's most emotional moments",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who voices the Genie in Aladdin?",
+      "a": "Robin Williams — his improvisational performance was groundbreaking",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Soul (2020) about?",
+      "a": "A jazz musician who nearly dies and travels to the Great Before, exploring what makes life worth living",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Encanto about?",
+      "a": "A Colombian family with magical gifts — except Mirabel — whose magical house is losing power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Tamatoa in Moana?",
+      "a": "A giant narcissistic crab who collects shiny treasures — voiced by Jemaine Clement",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the message of The Incredibles?",
+      "a": "The danger of suppressing what makes you special — and mediocrity vs excellence",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Turning Red about?",
+      "a": "Meilin turns into a giant red panda when emotional — a metaphor for puberty and cultural expectations",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the name of the island where Moana lives?",
+      "a": "Motunui",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the city in Big Hero 6?",
+      "a": "San Fransokyo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Rapunzel's horse?",
+      "a": "Maximus",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Mirabel's family surname in Encanto?",
+      "a": "Madrigal",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What Disney film features Judge Frollo?",
+      "a": "The Hunchback of Notre Dame",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What starship do the heroes sail on in Treasure Planet?",
+      "a": "The RLS Legacy",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Rapunzel's chameleon called?",
+      "a": "Pascal",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the toy store in Toy Story 2 called?",
+      "a": "Al's Toy Barn",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What city do the monsters live in in Monsters, Inc.?",
+      "a": "Monstropolis",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the name of Miguel's dog in Coco?",
+      "a": "Dante",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What fish tank city does Nemo end up in?",
+      "a": "Sydney",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Baymax built to be?",
+      "a": "Healthcare companion",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What surname does Lightning McQueen's rival Chick use?",
+      "a": "Hicks",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What daycare is the main setting in Toy Story 3?",
+      "a": "Sunnyside",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What sea witch tricks Ariel?",
+      "a": "Ursula",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What town do Lightning McQueen's friends live in?",
+      "a": "Radiator Springs",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Boo's real first name in Monsters, Inc.?",
+      "a": "Mary",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What emperor becomes a llama?",
+      "a": "Kuzco",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What river spirit horse appears in Frozen II?",
+      "a": "Nokk",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What planet is WALL-E left to clean?",
+      "a": "Earth",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What giant bird carries the house in Up?",
+      "a": "Kevin",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What city do Riley's emotions move to?",
+      "a": "San Francisco",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What rat dreams of becoming a chef?",
+      "a": "Remy",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What Disney film was the first to use the multiplane camera?",
+      "a": "The Old Mill (1937 short)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'The Nightmare Before Christmas'?",
+      "a": "Henry Selick (produced by Tim Burton)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Pixar theory?",
+      "a": "A fan theory that all Pixar films share one universe/timeline",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed the score for 'Up'?",
+      "a": "Michael Giacchino",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the first Disney Renaissance film?",
+      "a": "The Little Mermaid (1989)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the pizza restaurant in Toy Story?",
+      "a": "Pizza Planet",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the villain in Encanto?",
+      "a": "There is no traditional villain",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What A113 reference appears in most Pixar films?",
+      "a": "A CalArts classroom number",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Disney film was the first to earn over $1 billion?",
+      "a": "Toy Story 3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'Ratatouille'?",
+      "a": "Brad Bird",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the oldest Disney princess?",
+      "a": "Snow White (character: 14; film: 1937)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Pixar short film features a tiny bird on a beach?",
+      "a": "Piper",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the antagonist in Zootopia?",
+      "a": "Assistant Mayor Bellwether",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the emotion that is new in Inside Out 2?",
+      "a": "Anxiety",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What real psychological theory is the basis for Inside Out?",
+      "a": "Paul Ekman's theory of basic universal emotions — developed with psychologist Dacher Keltner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who originally designed Mickey Mouse?",
+      "a": "Ub Iwerks alongside Walt Disney — originally called Mortimer Mouse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the squash and stretch animation principle?",
+      "a": "Objects deform when moving to give a sense of weight and flexibility — one of Disney's 12 principles of animation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Multiplane Camera?",
+      "a": "Walt Disney's invention creating depth in 2D animation by placing artwork on multiple planes at different distances",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the deeper message of Zootopia?",
+      "a": "A metaphor for racism — fear of the other is manufactured and perpetuated for political control",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Bambi's mother's death?",
+      "a": "Unprecedented emotional darkness for a 1942 children's film — the off-screen death traumatised generations",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the ending of Toy Story 4?",
+      "a": "Woody chooses to stay with Bo Peep rather than return to Bonnie — a bittersweet goodbye to the franchise",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pixar Theory?",
+      "a": "A fan theory that all Pixar films exist in the same universe in chronological order",
+      "file": "App.jsx"
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "200": [
+    {
+      "q": "What company does The Office take place in?",
+      "a": "Dunder Mifflin",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Pam's maiden name?",
+      "a": "Beesly",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What school is Andy Bernard obsessed with?",
+      "a": "Cornell",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city is the Dunder Mifflin branch in?",
+      "a": "Scranton",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What crop does Dwight grow on his farm?",
+      "a": "Beets",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who briefly replaces Michael Scott after he leaves?",
+      "a": "Deangelo Vickers",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Creed's last name?",
+      "a": "Bratton",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who grows beets on a farm?",
+      "a": "Dwight",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Meredith's last name?",
+      "a": "Palmer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What company do the characters work for?",
+      "a": "Dunder Mifflin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the receptionist in season 1?",
+      "a": "Pam Beesly",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Dunder Mifflin sell?",
+      "a": "Paper",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Michael's main rival at work?",
+      "a": "Toby Flenderson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Dwight Schrute?",
+      "a": "Rainn Wilson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who does Jim eventually marry?",
+      "a": "Pam",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Dwight's farm called?",
+      "a": "Schrute Farms",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Kevin's famous chili scene about?",
+      "a": "He spills the chili",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who becomes regional manager after Michael leaves?",
+      "a": "Andy Bernard (later Dwight)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Angela's favorite animal?",
+      "a": "Cats",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is 'The Office' comedian known for 'That's what she said'?",
+      "a": "Michael Scott",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What state is Scranton in?",
+      "a": "Pennsylvania",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company is The Office set at?",
+      "a": "Dunder Mifflin Paper Company",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the regional manager?",
+      "a": "Michael Scott",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dwight's actual title?",
+      "a": "Assistant TO the Regional Manager",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Jim's classic prank on Dwight?",
+      "a": "Putting Dwight's belongings in Jell-O",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Jim marry?",
+      "a": "Pam Beesly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Michael Scott's catchphrase?",
+      "a": "That's what she said",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where is The Office set?",
+      "a": "Scranton, Pennsylvania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Michael Scott?",
+      "a": "Steve Carell",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Dundies?",
+      "a": "Michael's annual awards ceremony at Chili's — he gives out made-up awards",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Kevin Malone?",
+      "a": "The lovable accountant famous for his chili and love of food",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Ryan Howard start as?",
+      "a": "A temp — he becomes VP, goes to jail, and ends up back as a temp",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Dwight Schrute?",
+      "a": "The intense, loyal Assistant TO the Regional Manager and beet farmer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dwight's farm called?",
+      "a": "Schrute Farms — a beet farm and bed and breakfast",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Toby Flenderson?",
+      "a": "The HR representative — Michael's nemesis despite Toby being completely inoffensive",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Dwight end up with?",
+      "a": "Angela Martin — they secretly dated for years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What paper company did Michael start?",
+      "a": "The Michael Scott Paper Company",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Creed Bratton?",
+      "a": "The quality assurance rep — says bizarre things and has a mysterious criminal past",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Pam want to be?",
+      "a": "An artist — she eventually becomes an office administrator and later achieves design work",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is David Wallace?",
+      "a": "The CFO of Dunder Mifflin — frequently baffled by the Scranton branch's chaos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Bears. Beets. Battlestar Galactica?",
+      "a": "Jim impersonating Dwight — Dwight calls it identity theft is not a joke",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is Jan's candle business called?",
+      "a": "Serenity by Jan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city does Pam attend art school in?",
+      "a": "New York",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What office game does Jim put Dwight's things in Jell-O over?",
+      "a": "Prank",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Angela's husband's first name?",
+      "a": "Robert",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What branch manager replaces Michael after his departure?",
+      "a": "Andy Bernard",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What company buys Dunder Mifflin?",
+      "a": "Sabre",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Dwight's family surname?",
+      "a": "Schrute",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Meredith's son's name?",
+      "a": "Jake",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Dwight's middle name?",
+      "a": "Kurt",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the warehouse foreman?",
+      "a": "Darryl Philbin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Darryl?",
+      "a": "Craig Robinson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Ryan Howard's nickname after his promotion?",
+      "a": "Ryan the Temp (then exec)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Andy Bernard?",
+      "a": "Ed Helms",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What a cappella group was Andy in at Cornell?",
+      "a": "Here Comes Treble",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Stanley's favorite day of the week?",
+      "a": "Pretzel Day",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Michael's movie he tries to make?",
+      "a": "Threat Level Midnight",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the Scranton Strangler?",
+      "a": "Never confirmed (suspected Toby)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Creed's role at Dunder Mifflin?",
+      "a": "Quality assurance",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who does Dwight marry in the finale?",
+      "a": "Angela",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the spin-off character who moves to Florida?",
+      "a": "None aired (attempted)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Kevin's famous dish?",
+      "a": "Kevin's Famous Chili — he spills the entire pot on the floor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What holiday does Dwight celebrate?",
+      "a": "Belsnickel Day — a Schrute family tradition",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Threat Level Midnight?",
+      "a": "Michael Scott's self-directed action film starring himself as agent Michael Scarn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ryan's startup called?",
+      "a": "WUPHF.com — a social media platform that sends messages to every device",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Andy Bernard do at the end?",
+      "a": "He posts a viral a cappella video and becomes a Cornell graduate advisor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Pretzel Day?",
+      "a": "A day when a pretzel cart comes to Dunder Mifflin — Michael calls it the best day of the year",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Darryl Philbin?",
+      "a": "The warehouse manager who gets closer to the main group and lands a tech company job",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sabre?",
+      "a": "A printer company that acquires Dunder Mifflin — led by Jo Bennett (Kathy Bates)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Casino Night?",
+      "a": "Season 2 finale — Jim confesses his love to Pam and kisses her. She says she can't",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Robert California?",
+      "a": "A mysterious man who talks his way into becoming CEO of Sabre — played by James Spader",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Finer Things Club?",
+      "a": "Pam, Oscar, and Toby — an exclusive book and culture club that excludes Jim",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Karen Filippelli?",
+      "a": "Jim's girlfriend during Season 3 — she transfers from the Stamford branch",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Dwight's character arc?",
+      "a": "He goes from obsequious assistant to respected manager who finally marries Angela",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mose Schrute?",
+      "a": "Dwight's cousin who lives and works at Schrute Farms — appears with bizarre behaviour",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Merger arc?",
+      "a": "Season 3 — Stamford branch merges into Scranton, bringing Jim, Karen, Andy, and others",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Jim Halpert?",
+      "a": "John Krasinski",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Scranton Strangler?",
+      "a": "A serial killer in Scranton — Toby sits on the jury and later doubts he helped convict the right man",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is Creed Bratton's job title for much of the show?",
+      "a": "Quality assurance",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Jan's candle company called?",
+      "a": "Serenity by Jan",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What disease does Michael claim is spreading during the fun run episode?",
+      "a": "Rabies",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Robert California's real first name?",
+      "a": "Bob",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What food does Kevin spill in a famous cold open?",
+      "a": "Chili",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of Michael's action hero alter ego?",
+      "a": "Michael Scarn",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Creed's real first name?",
+      "a": "William",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Pam's maiden name?",
+      "a": "Beesly",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Angela's cat called that Dwight kills?",
+      "a": "Sprinkles",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Jan's assistant's name in her music story line?",
+      "a": "Hunter",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the documentary crew filming called within the show?",
+      "a": "PBS documentary crew",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Dwight's volunteer sheriff title?",
+      "a": "Volunteer sheriff's deputy",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What game does Michael invent at the office Olympics?",
+      "a": "Flonkerton",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Erin's real first name?",
+      "a": "Kelly",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the name of Jim and Pam's daughter?",
+      "a": "Cecelia",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Darryl's daughter called?",
+      "a": "Jada",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Kelly's surname?",
+      "a": "Kapoor",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the name of Jim and Pam's son?",
+      "a": "Philip",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What year did The Office premiere?",
+      "a": "2005",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who created the US version of The Office?",
+      "a": "Greg Daniels",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What episode is considered the best Office episode by many fans?",
+      "a": "Stress Relief",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Kelly Kapoor?",
+      "a": "Mindy Kaling",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Jim and Pam's first child?",
+      "a": "Cecelia (CeCe)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Kevin's band called?",
+      "a": "Scrantonicity",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the voice of Siri that Dwight dates (in-show)?",
+      "a": "No — he dates an app named 'GIRL' — skip. Actually: Angela",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Oscar's last name?",
+      "a": "Martinez",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What flavor of cake does Michael try to cancel for Meredith?",
+      "a": "Chocolate",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who replaces Michael as regional manager first?",
+      "a": "Deangelo Vickers (Will Ferrell)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Holly Flax's ex?",
+      "a": "AJ",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What British show is The Office based on?",
+      "a": "The Office (UK) by Ricky Gervais",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does WUPHF stand for (Ryan's startup)?",
+      "a": "Washington University Public Health Fund (joke)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Holly Flax?",
+      "a": "Amy Ryan",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the last character to speak in The Office?",
+      "a": "Dwight: I feel like all my kids grew up, and then they married each other. It's every parent's dream",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the documentary's final impact?",
+      "a": "It airs on PBS — Michael returns for Dwight's wedding, Jim and Pam fix their marriage",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is The Michael Scott Paper Company arc?",
+      "a": "Michael, Pam, and Ryan start a rival company — they sell it back to Dunder Mifflin for jobs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the origin of the US Office?",
+      "a": "An adaptation of Ricky Gervais and Stephen Merchant's UK version — Greg Daniels adapted it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the mockumentary's meta-commentary?",
+      "a": "The documentary crew witnesses extraordinary moments in ordinary lives — their presence changes how people behave",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens to Dunder Mifflin at the end?",
+      "a": "David Wallace buys it back and runs it successfully — a rare happy ending for the company",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who designed the opening sequence?",
+      "a": "It uses real footage of the actual Scranton, Pennsylvania — creating authenticity for the mockumentary",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the commentary on American work culture?",
+      "a": "The show satirises corporate bureaucracy, meaningless work, management incompetence, and strange office intimacy",
+      "file": "App.jsx"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "200": [
+    {
+      "q": "What is 12 + 8?",
+      "a": "20",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 15 × 3?",
+      "a": "45",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 100 − 37?",
+      "a": "63",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 144 ÷ 12?",
+      "a": "12",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 7 squared?",
+      "a": "49",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the square root of 81?",
+      "a": "9",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 25% of 80?",
+      "a": "20",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 1/2 + 1/4?",
+      "a": "3/4",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 3 × 7 × 2?",
+      "a": "42",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 9 × 11?",
+      "a": "99",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 17 + 23?",
+      "a": "40",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 6 factorial?",
+      "a": "720",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 2 + 2 × 3 (order of operations)?",
+      "a": "8",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the sum of angles in a triangle?",
+      "a": "180 degrees",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 1000 − 1?",
+      "a": "999",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 8 × 8?",
+      "a": "64",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is half of 100?",
+      "a": "50",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 3 to the power of 4?",
+      "a": "81",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 15 + 25 + 35?",
+      "a": "75",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the perimeter of a square with side 5?",
+      "a": "20",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the area of a rectangle with width 4 and length 7?",
+      "a": "28",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 50 × 50?",
+      "a": "2500",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 0 factorial?",
+      "a": "1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 11 × 12?",
+      "a": "132",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 28 ÷ 7?",
+      "a": "4",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 10% of 200?",
+      "a": "20",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What number comes next: 2, 4, 8, 16?",
+      "a": "32",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What number comes next: 1, 1, 2, 3, 5, 8?",
+      "a": "13",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How many degrees is a right angle?",
+      "a": "90",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 13 × 13?",
+      "a": "169",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 9 times 7?",
+      "a": "63",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees are in a straight line?",
+      "a": "180",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 15% of 200?",
+      "a": "30",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is 7 × 13?",
+      "a": "91",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the square root of 144?",
+      "a": "12",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Solve: 2x + 4 = 16, find x.",
+      "a": "6",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the circumference of a circle with radius 7 (use π ≈ 3.14)?",
+      "a": "43.96",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the derivative of x squared?",
+      "a": "2x",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is sin(90 degrees)?",
+      "a": "1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is cos(0)?",
+      "a": "1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is log base 10 of 100?",
+      "a": "2",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 2^3 × 2^4?",
+      "a": "128",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 5! / 3!?",
+      "a": "20",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the area of a triangle with base 10 and height 6?",
+      "a": "30",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is π rounded to 4 decimals?",
+      "a": "3.1416",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Slope of a line perpendicular to y = 2x + 3?",
+      "a": "−1/2",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Hypotenuse of a right triangle with legs 3 and 4?",
+      "a": "5",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is e rounded to 3 decimals?",
+      "a": "2.718",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the volume of a cube with side 4?",
+      "a": "64",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Probability of rolling a 6 on a fair die?",
+      "a": "1/6",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 40% of 250?",
+      "a": "100",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the mean of 2, 4, 6, 8, 10?",
+      "a": "6",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the median of 1, 3, 5, 7, 9?",
+      "a": "5",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is log base 2 of 8?",
+      "a": "3",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the sum of the first 10 natural numbers?",
+      "a": "55",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How many ways to choose 2 from 12 (12 choose 2)?",
+      "a": "66",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the discriminant of x² + 4x + 4?",
+      "a": "0",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Write the quadratic formula.",
+      "a": "x = (−b ± √(b² − 4ac)) / 2a",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 15% of 80?",
+      "a": "12",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is tan(45 degrees)?",
+      "a": "1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 2^10?",
+      "a": "1024",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Simplify: 6/9.",
+      "a": "2/3",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "If a triangle has angles 60 and 70, what is the third?",
+      "a": "50 degrees",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the derivative of sin(x)?",
+      "a": "cos(x)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the integral of 1/x?",
+      "a": "ln|x| + C",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the limit of sin(x)/x as x approaches 0?",
+      "a": "1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Write Euler's identity.",
+      "a": "e^(iπ) + 1 = 0",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What famous conjecture concerns the zeros of the zeta function?",
+      "a": "The Riemann Hypothesis",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "State Fermat's Last Theorem in one sentence.",
+      "a": "No positive integers a, b, c satisfy a^n + b^n = c^n for n > 2",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which theorem states any strong formal system has undecidable statements?",
+      "a": "Gödel's Incompleteness Theorem",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What does the Fundamental Theorem of Calculus connect?",
+      "a": "Differentiation and integration",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What paradox uses the axiom of choice to split a sphere into two copies?",
+      "a": "Banach–Tarski paradox",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is i²?",
+      "a": "−1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the value of the golden ratio (3 decimals)?",
+      "a": "1.618",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the 10th Fibonacci number?",
+      "a": "55",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the integral of e^x dx?",
+      "a": "e^x + C",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Give the prime factorization of 84.",
+      "a": "2^2 × 3 × 7",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the determinant of the 2×2 matrix [[1,2],[3,4]]?",
+      "a": "−2",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How many permutations of 3 from 5 items (5P3)?",
+      "a": "60",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the limit as x approaches infinity of (1 + 1/x)^x?",
+      "a": "e",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Best strategy in the Monty Hall problem?",
+      "a": "Always switch (wins 2/3 of the time)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the cardinality of the real numbers denoted by?",
+      "a": "א_1 or 2^א_0",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What function grows faster than any primitive recursive function?",
+      "a": "The Ackermann function",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What does Euler's totient function φ(n) count?",
+      "a": "Integers up to n coprime with n",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the integral of cos(x) dx?",
+      "a": "sin(x) + C",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the derivative of ln(x)?",
+      "a": "1/x",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the sum 1 + 1/2 + 1/4 + 1/8 ... to infinity?",
+      "a": "2",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What are the 3 Pythagorean triples in (3,4,_), (5,12,_), (8,15,_)?",
+      "a": "5, 13, 17",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Solve for x: log_2(x) = 5.",
+      "a": "32",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the derivative of x^n?",
+      "a": "n · x^(n−1)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the sum of interior angles of an n-sided polygon?",
+      "a": "(n − 2) × 180 degrees",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What does the Cauchy–Schwarz inequality relate?",
+      "a": "Inner products and norms of vectors",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the volume of a sphere of radius r?",
+      "a": "(4/3) π r³",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the value of the golden ratio to two decimal places?",
+      "a": "1.62",
+      "file": "qualityBackfill"
+    }
+  ]
+}

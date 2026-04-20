@@ -1,0 +1,614 @@
+{
+  "200": [
+    {
+      "q": "I led India to independence through nonviolent resistance.",
+      "a": "Mahatma Gandhi",
+      "wiki": "Mahatma_Gandhi",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Roman dictator stabbed on the Ides of March.",
+      "a": "Julius Caesar",
+      "wiki": "Julius_Caesar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I painted the Mona Lisa.",
+      "a": "Leonardo da Vinci",
+      "wiki": "Leonardo_da_Vinci",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I formulated the theory of relativity and the equation E=mc².",
+      "a": "Albert Einstein",
+      "wiki": "Albert_Einstein",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the first U.S. President.",
+      "a": "George Washington",
+      "wiki": "George_Washington",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I led the Allied forces in WWII as British Prime Minister.",
+      "a": "Winston Churchill",
+      "wiki": "Winston_Churchill",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a French general who became Emperor and lost at Waterloo.",
+      "a": "Napoleon Bonaparte",
+      "wiki": "Napoleon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I gave the 'I Have a Dream' speech in 1963.",
+      "a": "Martin Luther King Jr.",
+      "wiki": "Martin_Luther_King_Jr.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the queen of England during the defeat of the Spanish Armada in 1588.",
+      "a": "Elizabeth I",
+      "wiki": "Elizabeth_I",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the long-reigning queen of the British Empire in the 19th century.",
+      "a": "Queen Victoria",
+      "wiki": "Queen_Victoria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I sailed across the Atlantic in 1492.",
+      "a": "Christopher Columbus",
+      "wiki": "Christopher_Columbus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the 16th U.S. President and ended slavery.",
+      "a": "Abraham Lincoln",
+      "wiki": "Abraham_Lincoln",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an inventor known for the light bulb and phonograph.",
+      "a": "Thomas Edison",
+      "wiki": "Thomas_Edison",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German-born theoretical physicist with wild white hair.",
+      "a": "Albert Einstein",
+      "wiki": "Albert_Einstein",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Greek philosopher and student of Plato.",
+      "a": "Aristotle",
+      "wiki": "Aristotle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Italian astronomer who supported heliocentrism.",
+      "a": "Galileo Galilei",
+      "wiki": "Galileo_Galilei",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of Facebook.",
+      "a": "Mark Zuckerberg",
+      "wiki": "Mark_Zuckerberg",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the third U.S. President and author of the Declaration of Independence.",
+      "a": "Thomas Jefferson",
+      "wiki": "Thomas_Jefferson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Spanish painter known for melting clocks.",
+      "a": "Salvador Dalí",
+      "wiki": "Salvador_Dal%C3%AD",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Mexican painter known for self-portraits and unibrow.",
+      "a": "Frida Kahlo",
+      "wiki": "Frida_Kahlo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I founded Microsoft with Paul Allen.",
+      "a": "Bill Gates",
+      "wiki": "Bill_Gates",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German-born physicist who developed quantum theory.",
+      "a": "Max Planck",
+      "wiki": "Max_Planck",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a co-founder of Apple with Steve Wozniak.",
+      "a": "Steve Jobs",
+      "wiki": "Steve_Jobs",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Tibetan spiritual leader awarded the Nobel Peace Prize in 1989.",
+      "a": "Dalai Lama",
+      "wiki": "14th_Dalai_Lama",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English playwright who wrote Romeo and Juliet.",
+      "a": "William Shakespeare",
+      "wiki": "William_Shakespeare",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Greek philosopher who drank hemlock.",
+      "a": "Socrates",
+      "wiki": "Socrates",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Dutch painter who cut off part of my ear.",
+      "a": "Vincent van Gogh",
+      "wiki": "Vincent_van_Gogh",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of modern psychoanalysis.",
+      "a": "Sigmund Freud",
+      "wiki": "Sigmund_Freud",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Jewish girl who wrote a famous diary while hiding from Nazis.",
+      "a": "Anne Frank",
+      "wiki": "Anne_Frank",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a deaf and blind American author and activist.",
+      "a": "Helen Keller",
+      "wiki": "Helen_Keller",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the first woman to fly solo across the Atlantic.",
+      "a": "Amelia Earhart",
+      "wiki": "Amelia_Earhart",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I refused to give up my seat on a bus and sparked a civil rights movement.",
+      "a": "Rosa Parks",
+      "wiki": "Rosa_Parks",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German philosopher and co-author of 'The Communist Manifesto.'",
+      "a": "Karl Marx",
+      "wiki": "Karl_Marx",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Mongol warrior-emperor known as the conqueror of Asia.",
+      "a": "Kublai Khan",
+      "wiki": "Kublai_Khan",
+      "file": "newCategoriesBank"
+    }
+  ],
+  "400": [
+    {
+      "q": "I was a Macedonian king who built an empire stretching to India.",
+      "a": "Alexander the Great",
+      "wiki": "Alexander_the_Great",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I discovered penicillin.",
+      "a": "Alexander Fleming",
+      "wiki": "Alexander_Fleming",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the last Tsar of Russia.",
+      "a": "Nicholas II",
+      "wiki": "Nicholas_II_of_Russia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I led the Soviet Union during WWII.",
+      "a": "Joseph Stalin",
+      "wiki": "Joseph_Stalin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Polish-French scientist who won two Nobel Prizes for radioactivity work.",
+      "a": "Marie Curie",
+      "wiki": "Marie_Curie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I formulated the laws of motion and universal gravitation.",
+      "a": "Isaac Newton",
+      "wiki": "Isaac_Newton",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of the Mongol Empire.",
+      "a": "Genghis Khan",
+      "wiki": "Genghis_Khan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I led the French Revolution as a Jacobin and was executed by guillotine.",
+      "a": "Maximilien Robespierre",
+      "wiki": "Maximilien_Robespierre",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a famous Egyptian queen who allied with Caesar and Mark Antony.",
+      "a": "Cleopatra",
+      "wiki": "Cleopatra",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of Buddhism.",
+      "a": "Siddhartha Gautama",
+      "wiki": "Gautama_Buddha",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Chinese revolutionary who founded the People's Republic in 1949.",
+      "a": "Mao Zedong",
+      "wiki": "Mao_Zedong",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English physicist whose work on cosmology was renowned despite ALS.",
+      "a": "Stephen Hawking",
+      "wiki": "Stephen_Hawking",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an American jazz trumpeter known as Satchmo.",
+      "a": "Louis Armstrong",
+      "wiki": "Louis_Armstrong",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Russian chemist who created the periodic table.",
+      "a": "Dmitri Mendeleev",
+      "wiki": "Dmitri_Mendeleev",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Indian leader and one of the founders of the Indian National Congress.",
+      "a": "Jawaharlal Nehru",
+      "wiki": "Jawaharlal_Nehru",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Roman emperor known as the Stoic philosopher who wrote 'Meditations.'",
+      "a": "Marcus Aurelius",
+      "wiki": "Marcus_Aurelius",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Austrian-born American conductor and composer of musicals.",
+      "a": "Leonard Bernstein",
+      "wiki": "Leonard_Bernstein",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English nurse who founded modern nursing during the Crimean War.",
+      "a": "Florence Nightingale",
+      "wiki": "Florence_Nightingale",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the U.S. President assassinated in Dallas in 1963.",
+      "a": "John F. Kennedy",
+      "wiki": "John_F._Kennedy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a French scientist who proved the germ theory of disease.",
+      "a": "Louis Pasteur",
+      "wiki": "Louis_Pasteur",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Soviet leader who introduced 'glasnost' and 'perestroika.'",
+      "a": "Mikhail Gorbachev",
+      "wiki": "Mikhail_Gorbachev",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a U.S. President during the Civil War.",
+      "a": "Abraham Lincoln",
+      "wiki": "Abraham_Lincoln",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German-born physicist who developed the atomic bomb's design as part of the Manhattan Project.",
+      "a": "J. Robert Oppenheimer",
+      "wiki": "J._Robert_Oppenheimer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Romanian-born Israeli writer and Holocaust survivor who wrote 'Night.'",
+      "a": "Elie Wiesel",
+      "wiki": "Elie_Wiesel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Mughal emperor who built the Taj Mahal.",
+      "a": "Shah Jahan",
+      "wiki": "Shah_Jahan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English naturalist who proposed the theory of evolution by natural selection.",
+      "a": "Charles Darwin",
+      "wiki": "Charles_Darwin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a French painter and sculptor, founder of cubism with Braque.",
+      "a": "Pablo Picasso",
+      "wiki": "Pablo_Picasso",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Italian astronomer and engineer who improved the telescope.",
+      "a": "Galileo Galilei",
+      "wiki": "Galileo_Galilei",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of Standard Oil and one of the wealthiest Americans of all time.",
+      "a": "John D. Rockefeller",
+      "wiki": "John_D._Rockefeller",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the first female British Prime Minister.",
+      "a": "Margaret Thatcher",
+      "wiki": "Margaret_Thatcher",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an African American civil rights activist and Muslim minister.",
+      "a": "Malcolm X",
+      "wiki": "Malcolm_X",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Argentine revolutionary who fought alongside Fidel Castro.",
+      "a": "Che Guevara",
+      "wiki": "Che_Guevara",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an American boxer known as 'The Greatest.'",
+      "a": "Muhammad Ali",
+      "wiki": "Muhammad_Ali",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Pakistani activist who survived being shot by the Taliban and won the Nobel Peace Prize.",
+      "a": "Malala Yousafzai",
+      "wiki": "Malala_Yousafzai",
+      "file": "newCategoriesBank"
+    }
+  ],
+  "600": [
+    {
+      "q": "I was a Carthaginian general who crossed the Alps with elephants.",
+      "a": "Hannibal Barca",
+      "wiki": "Hannibal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Persian king who invaded Greece and was repelled at Salamis.",
+      "a": "Xerxes I",
+      "wiki": "Xerxes_I",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Florentine political philosopher who wrote 'The Prince.'",
+      "a": "Niccolò Machiavelli",
+      "wiki": "Niccol%C3%B2_Machiavelli",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Spanish conquistador who toppled the Aztec Empire.",
+      "a": "Hernán Cortés",
+      "wiki": "Hern%C3%A1n_Cort%C3%A9s",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German monk whose 95 Theses sparked the Reformation.",
+      "a": "Martin Luther",
+      "wiki": "Martin_Luther",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English physicist and chemist who pioneered electromagnetism.",
+      "a": "Michael Faraday",
+      "wiki": "Michael_Faraday",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Soviet cosmonaut, first human in space.",
+      "a": "Yuri Gagarin",
+      "wiki": "Yuri_Gagarin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Polish astronomer who placed the Sun at the center of the universe.",
+      "a": "Nicolaus Copernicus",
+      "wiki": "Nicolaus_Copernicus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Indian emperor who built the Taj Mahal as a tomb for my wife.",
+      "a": "Shah Jahan",
+      "wiki": "Shah_Jahan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Roman general turned emperor, the founder of the Empire.",
+      "a": "Augustus",
+      "wiki": "Augustus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Italian explorer whose name appears on the American continents.",
+      "a": "Amerigo Vespucci",
+      "wiki": "Amerigo_Vespucci",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Russian author of 'War and Peace.'",
+      "a": "Leo Tolstoy",
+      "wiki": "Leo_Tolstoy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a French chemist and biologist who developed pasteurization.",
+      "a": "Louis Pasteur",
+      "wiki": "Louis_Pasteur",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Hungarian-American physicist known as the 'father of the hydrogen bomb.'",
+      "a": "Edward Teller",
+      "wiki": "Edward_Teller",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Serbian-American inventor and pioneer of alternating current.",
+      "a": "Nikola Tesla",
+      "wiki": "Nikola_Tesla",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English mathematician who broke Nazi codes at Bletchley Park.",
+      "a": "Alan Turing",
+      "wiki": "Alan_Turing",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Spanish painter known for 'Guernica' and surreal cubist work.",
+      "a": "Pablo Picasso",
+      "wiki": "Pablo_Picasso",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Russian author of 'Crime and Punishment.'",
+      "a": "Fyodor Dostoevsky",
+      "wiki": "Fyodor_Dostoevsky",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Bohemian-born Austrian composer of 'Symphony No. 9.'",
+      "a": "Gustav Mahler",
+      "wiki": "Gustav_Mahler",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a French author of 'Les Misérables.'",
+      "a": "Victor Hugo",
+      "wiki": "Victor_Hugo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Russian revolutionary who led the Bolsheviks to power in 1917.",
+      "a": "Vladimir Lenin",
+      "wiki": "Vladimir_Lenin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of psychoanalytic theory in Vienna.",
+      "a": "Sigmund Freud",
+      "wiki": "Sigmund_Freud",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English author of 'A Christmas Carol.'",
+      "a": "Charles Dickens",
+      "wiki": "Charles_Dickens",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German composer who wrote nine symphonies despite being deaf.",
+      "a": "Ludwig van Beethoven",
+      "wiki": "Ludwig_van_Beethoven",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Austrian composer who wrote 'The Magic Flute.'",
+      "a": "Wolfgang Amadeus Mozart",
+      "wiki": "Wolfgang_Amadeus_Mozart",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Macedonian-born Catholic nun who served in Calcutta.",
+      "a": "Mother Teresa",
+      "wiki": "Mother_Teresa",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the South African leader who became president after years in prison.",
+      "a": "Nelson Mandela",
+      "wiki": "Nelson_Mandela",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Polish-born scientist who discovered radium.",
+      "a": "Marie Curie",
+      "wiki": "Marie_Curie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Roman general who said 'Veni, vidi, vici.'",
+      "a": "Julius Caesar",
+      "wiki": "Julius_Caesar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English author of 'Pride and Prejudice.'",
+      "a": "Jane Austen",
+      "wiki": "Jane_Austen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Ottoman Sultan who besieged Vienna in 1529.",
+      "a": "Suleiman the Magnificent",
+      "wiki": "Suleiman_the_Magnificent",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Russian empress nicknamed 'the Great' who ruled in the 18th century.",
+      "a": "Catherine the Great",
+      "wiki": "Catherine_the_Great",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Prussian king famous for militarizing and modernizing the state.",
+      "a": "Frederick the Great",
+      "wiki": "Frederick_the_Great",
+      "file": "newCategoriesBank"
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "200": [
+    {
+      "q": "What precinct is the show centered on?",
+      "a": "The 99th precinct",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Jake's favorite movie franchise?",
+      "a": "Die Hard",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Jake's eventual wife?",
+      "a": "Amy Santiago",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Amy's last name?",
+      "a": "Santiago",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Terry's last name?",
+      "a": "Jeffords",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Charles's last name?",
+      "a": "Boyle",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Captain Holt's first name?",
+      "a": "Raymond",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Hitchcock's longtime partner?",
+      "a": "Scully",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What annual competition does the squad play?",
+      "a": "The Halloween Heist",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Jake's last name?",
+      "a": "Peralta",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What alias does Jake use in Florida?",
+      "a": "Larry Sherbert",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What job does Rosa do after leaving the force?",
+      "a": "Private investigator",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Charles's ex-wife's name?",
+      "a": "Eleanor",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the Vulture's job?",
+      "a": "Detective",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Jake's best friend in the precinct?",
+      "a": "Charles Boyle",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Amy obsessed with organizing?",
+      "a": "Binders",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Amy's last name?",
+      "a": "Santiago",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What number is the precinct?",
+      "a": "99",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Rosa's surname?",
+      "a": "Diaz",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What precinct does the show take place in?",
+      "a": "99th precinct of the NYPD",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the serious captain who joins in the pilot?",
+      "a": "Raymond Holt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the sarcastic assistant obsessed with herself?",
+      "a": "Gina Linetti",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What food does Charles Boyle obsess over?",
+      "a": "Gourmet and exotic food",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What rank is Terry Jeffords?",
+      "a": "Sergeant",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Amy Santiago?",
+      "a": "Melissa Fumero",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Raymond Holt?",
+      "a": "Andre Braugher",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Rosa Diaz?",
+      "a": "Stephanie Beatriz",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Amy Santiago's biggest professional fear?",
+      "a": "Disappointing Holt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the title TV show parodied in the pilot?",
+      "a": "Serpico",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Boyle's best friend besides Jake?",
+      "a": "Hitchcock and Scully",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What iconic NYC borough is the show named after?",
+      "a": "Brooklyn",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Jake's arch-nemesis detective?",
+      "a": "The Vulture",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "What does Holt call his dog?",
+      "a": "Cheddar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Terry Jeffords obsessed with drinking?",
+      "a": "Yogurt",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the squad's annual competition called?",
+      "a": "The Halloween Heist",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What borough does the Nine-Nine serve?",
+      "a": "Brooklyn",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Gina call her fanbase?",
+      "a": "The G-Hive",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What rank does Raymond Holt hold at the start of the series?",
+      "a": "Captain",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the title of the annual competition among the squad?",
+      "a": "Halloween Heist",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Gina's last name?",
+      "a": "Linetti",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Holt's husband's name?",
+      "a": "Kevin",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is Jake's best criminal frenemy?",
+      "a": "Doug Judy",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What food does Terry obsess over?",
+      "a": "Yogurt",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What annual contest do the detectives obsess over?",
+      "a": "Halloween Heist",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Boyle's son's name?",
+      "a": "Nikolaj",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Amy's favorite kind of organization tool?",
+      "a": "Binders",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Rosa's motorcycle-riding love interest called?",
+      "a": "Pimento",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What city is the precinct in?",
+      "a": "Brooklyn",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Jake's father's first name?",
+      "a": "Roger",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Pimento's first name?",
+      "a": "Adrian",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What subject does Kevin Cozner teach?",
+      "a": "Classics",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What pet does Captain Holt own?",
+      "a": "A corgi named Cheddar",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Jake's go-to three-word catchphrase?",
+      "a": "Cool cool cool",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Hitchcock and Scully's favorite food?",
+      "a": "Anything free / sandwiches",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Terry's wife's name?",
+      "a": "Sharon",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What are Terry's three daughters' names?",
+      "a": "Cagney, Lacey, and Ava",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What recurring holiday event does the squad compete in?",
+      "a": "The Halloween Heist",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Boyle?",
+      "a": "Joe Lo Truglio",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Terry?",
+      "a": "Terry Crews",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What board game does Jake steal from a criminal?",
+      "a": "A rare comic book",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the food truck guy always at the precinct?",
+      "a": "Scully's brother-in-law",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Jake's father's profession?",
+      "a": "Airline pilot",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What holiday does the squad also compete on starting in later seasons?",
+      "a": "The Jimmy Jab Games",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Amy's sister called?",
+      "a": "Maria",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is Captain Holt's husband's name?",
+      "a": "Kevin Cozner",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What witness-protection style alias does Jake use in Florida?",
+      "a": "Larry Sherbert",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the Pontiac Bandit?",
+      "a": "Doug Judy",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Amy and Jake's son named?",
+      "a": "Mac",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Holt's longtime rival's full name?",
+      "a": "Madeline Wuntch",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What nickname does Jake use for Doug Judy?",
+      "a": "The Pontiac Bandit",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Rosa's real first name?",
+      "a": "Alicia",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Boyle's first name?",
+      "a": "Charles",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Amy's maiden surname?",
+      "a": "Santiago",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Gina's dance group called?",
+      "a": "Floorgasm",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Scully's first name?",
+      "a": "Norm",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Hitchcock's first name?",
+      "a": "Michael",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Vulture's real surname?",
+      "a": "Pembroke",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Kevin's profession?",
+      "a": "Professor",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Pontiac Bandit's first name?",
+      "a": "Doug",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Terry's fantasy novel title?",
+      "a": "Skyfire",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Holt's bureaucratic rival's surname?",
+      "a": "Wuntch",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Jake's middle name?",
+      "a": "Sherlock",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What is Gina's daughter's name?",
+      "a": "Iggy",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What is the Disco Strangler's gimmick?",
+      "a": "Killing to 1970s disco music",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Adrian Pimento?",
+      "a": "Jason Mantzoukas",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What network first aired the show?",
+      "a": "Fox",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What rival bar does the precinct visit?",
+      "a": "Shaw's Bar",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Rosa's girlfriend in later seasons?",
+      "a": "Jocelyn",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Jake's nickname for his corgi gag?",
+      "a": "Cheddar",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What was Jake's undercover mafia family?",
+      "a": "The Iannucci family",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the former captain before Holt?",
+      "a": "Captain McGintley",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Jake's childhood idol he gets to work with in season 2?",
+      "a": "John McClane-style detective",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What opera does Holt famously enjoy?",
+      "a": "Madama Butterfly",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the nickname for Boyle's ex-wife Eleanor?",
+      "a": "The Vulture of Boyle",
+      "file": "moreTriviaExpansions"
+    }
+  ]
+}

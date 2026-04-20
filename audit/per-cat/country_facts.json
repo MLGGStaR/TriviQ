@@ -1,0 +1,578 @@
+{
+  "200": [
+    {
+      "q": "This African nation known as the Land of a Thousand Hills has capital Kigali",
+      "a": "Rwanda",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "This Gulf country has capital Muscat",
+      "a": "Oman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "This Baltic country with capital Tallinn is famous for digital government",
+      "a": "Estonia",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "This Pacific island nation has capital Suva and is famous for rugby",
+      "a": "Fiji",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "This country is famous for tulips, windmills, and Amsterdam",
+      "a": "The Netherlands",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which country is shaped like a boot?",
+      "a": "Italy",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for the Great Barrier Reef?",
+      "a": "Australia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the pyramids at Giza?",
+      "a": "Egypt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for its tango music and dance?",
+      "a": "Argentina",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for the Eiffel Tower?",
+      "a": "France",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country uses the yen as its currency?",
+      "a": "Japan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the world's largest producer of coffee beans?",
+      "a": "Brazil",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for tulips, windmills, and wooden clogs?",
+      "a": "Netherlands",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Inca ruins of Machu Picchu?",
+      "a": "Peru",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country gave the world sushi and anime?",
+      "a": "Japan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for the Sphinx and hieroglyphs?",
+      "a": "Egypt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the world's largest by land area?",
+      "a": "Russia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the most natural lakes?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for cheese and wine and has the Alps to the east?",
+      "a": "France",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to Bollywood?",
+      "a": "India",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country's flag is a red circle on white?",
+      "a": "Japan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country gave the world tacos and tequila?",
+      "a": "Mexico",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country shares the longest border with the United States?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Amazon rainforest (mostly)?",
+      "a": "Brazil",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for the Acropolis and democracy's origins?",
+      "a": "Greece",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for flamenco dancing?",
+      "a": "Spain",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Maasai Mara reserve?",
+      "a": "Kenya",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for Oktoberfest?",
+      "a": "Germany",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the world's smallest independent state by area?",
+      "a": "Vatican City",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the world's longest coastline?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for fjords and midnight sun?",
+      "a": "Norway",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country hosts the annual Rio Carnival?",
+      "a": "Brazil",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for mozzarella and Vespa scooters?",
+      "a": "Italy",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country's flag bears a red maple leaf?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Taj Mahal?",
+      "a": "India",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known as the Land of a Thousand Lakes?",
+      "a": "Finland",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for its vodka and matryoshka dolls?",
+      "a": "Russia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "This country has the most pyramids in the world — more than Egypt",
+      "a": "Sudan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This tiny country is completely surrounded by Italy — home to the smallest republic in the world",
+      "a": "San Marino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country is where the World Cup was held in 2022 — known for its futuristic skyline and extreme wealth",
+      "a": "Qatar",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "This country is famous for gorilla trekking and has capital Kigali",
+      "a": "Rwanda",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "This Balkan country has capital Podgorica",
+      "a": "Montenegro",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "This country borders Austria and Hungary and was once part of Czechoslovakia",
+      "a": "Slovakia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "This country sits between Brazil and Argentina on the Atlantic coast",
+      "a": "Uruguay",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which European country has the euro but is not in the EU?",
+      "a": "Montenegro",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which African country was formerly known as Abyssinia?",
+      "a": "Ethiopia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Great Barrier Reef?",
+      "a": "Australia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which Southeast Asian country is shaped like an S?",
+      "a": "Vietnam",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has two landlocked enclaves inside South Africa?",
+      "a": "Eswatini and Lesotho",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is both in Europe and Asia with capital Istanbul (historically)?",
+      "a": "Turkey",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to Mount Kilimanjaro?",
+      "a": "Tanzania",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for the Dead Sea on its coast?",
+      "a": "Jordan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country produces the most cocoa beans worldwide?",
+      "a": "Ivory Coast",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for the film industry called Nollywood?",
+      "a": "Nigeria",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the ancient city of Petra?",
+      "a": "Jordan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country's flag has a cedar tree on it?",
+      "a": "Lebanon",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country gave the world origami and sumo wrestling?",
+      "a": "Japan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the city of Havana as its capital?",
+      "a": "Cuba",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for the Atacama Desert?",
+      "a": "Chile",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is landlocked and known for yodeling and chocolate?",
+      "a": "Switzerland",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for sauna culture and Angry Birds?",
+      "a": "Finland",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the city of Marrakech?",
+      "a": "Morocco",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to Angkor Wat temples?",
+      "a": "Cambodia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country's people are famous for flamenco and paella?",
+      "a": "Spain",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the most populous in Africa?",
+      "a": "Nigeria",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country hosts Wimbledon tennis?",
+      "a": "United Kingdom",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country was formed from the breakup of Yugoslavia and has capital Zagreb?",
+      "a": "Croatia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Moai statues?",
+      "a": "Chile",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "This is the only country with two capital cities — one for parliament, one for executive government",
+      "a": "South Africa (Cape Town and Pretoria, plus Bloemfontein)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This is the world's only country whose name begins and ends with the same letter",
+      "a": "Qatar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This small African country is the only one completely surrounded by South Africa — a kingdom in the mountains",
+      "a": "Lesotho",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country produces 40% of the world's chocolate",
+      "a": "Ivory Coast (Côte d'Ivoire)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country has the most islands of any nation in the world — over 220,000",
+      "a": "Sweden",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "This Himalayan kingdom measures success with Gross National Happiness",
+      "a": "Bhutan",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "This country is home to the Okavango Delta and capital Gaborone",
+      "a": "Botswana",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "This Horn of Africa nation has capital Asmara",
+      "a": "Eritrea",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "This South American country has capital Paramaribo",
+      "a": "Suriname",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "This Balkan country has capital Skopje",
+      "a": "North Macedonia",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "This country lies on South America's Atlantic coast and was a Dutch colony",
+      "a": "Suriname",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "This Caucasus nation has the capital Tbilisi",
+      "a": "Georgia",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Which Pacific island nation has the ISO code NR?",
+      "a": "Nauru",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the most spoken languages in the world?",
+      "a": "Papua New Guinea",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has three capital cities?",
+      "a": "South Africa",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the only one named after a woman?",
+      "a": "Saint Lucia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the oldest continuously operating parliament (the Althing)?",
+      "a": "Iceland",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the only one whose flag is not rectangular?",
+      "a": "Nepal",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the highest number of Nobel Prize winners per capita?",
+      "a": "Sweden",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country straddles the Caucasus with capital Tbilisi?",
+      "a": "Georgia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country's currency is the tugrik?",
+      "a": "Mongolia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country was formerly British Honduras?",
+      "a": "Belize",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Rano Raraku volcano?",
+      "a": "Chile",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the most UNESCO World Heritage Sites?",
+      "a": "Italy",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the smallest in mainland Africa?",
+      "a": "Gambia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has a dragon on its national flag?",
+      "a": "Bhutan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which landlocked country is completely surrounded by Italy other than San Marino?",
+      "a": "Vatican City",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country consumes the most coffee per capita?",
+      "a": "Finland",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is the world's longest from north to south?",
+      "a": "Chile",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the lowest point on dry land (Dead Sea)?",
+      "a": "Jordan (and Israel)",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country owns Easter Island?",
+      "a": "Chile",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which tiny country is doubly landlocked with Switzerland and Austria?",
+      "a": "Liechtenstein",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which African country is the most linguistically diverse?",
+      "a": "Nigeria",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for kava ceremonies and bungee jumping's origin?",
+      "a": "Vanuatu",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the world's highest life expectancy?",
+      "a": "Monaco",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country's name means 'equator' in Spanish?",
+      "a": "Ecuador",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for blue city Chefchaouen?",
+      "a": "Morocco",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "This tiny island nation in the Pacific was the first country to be almost entirely submerged due to climate change",
+      "a": "Tuvalu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This island nation is famous for Ceylon tea and was formerly known as Ceylon",
+      "a": "Sri Lanka",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country has the highest percentage of forest cover — over 97% of the land is forested",
+      "a": "Suriname",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This island nation in the Indian Ocean is known for luxury resorts and is the world's lowest-lying country",
+      "a": "Maldives",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country recently changed its official name from Swaziland to its current name in 2018",
+      "a": "Eswatini",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This tiny nation completely surrounded by Switzerland and Austria is one of only two doubly landlocked countries",
+      "a": "Liechtenstein",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country has the highest murder rate in the world and is known as the most dangerous nation not at war",
+      "a": "Honduras (varies by year — often El Salvador or Honduras)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country introduced the first national park in the world — in 1872",
+      "a": "United States (Yellowstone)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This island nation in East Africa has more species of lemur than anywhere else on Earth — they are found nowhere else",
+      "a": "Madagascar",
+      "file": "App.jsx"
+    }
+  ]
+}

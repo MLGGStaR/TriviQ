@@ -1,0 +1,583 @@
+{
+  "200": [
+    {
+      "q": "What city does Wonder Woman come from?",
+      "a": "Themyscira",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Superman's cousin?",
+      "a": "Supergirl",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Batman's company?",
+      "a": "Wayne Enterprises",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city does Clark Kent work in for the Daily Planet?",
+      "a": "Metropolis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What kingdom does Aquaman rule?",
+      "a": "Atlantis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What word does Billy Batson say to transform?",
+      "a": "Shazam",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Batman's real name?",
+      "a": "Bruce Wayne",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Superman's weakness?",
+      "a": "Kryptonite",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Batman's nemesis?",
+      "a": "The Joker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Superman's home planet?",
+      "a": "Krypton",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does DC stand for?",
+      "a": "Detective Comics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Batman's butler?",
+      "a": "Alfred Pennyworth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Aquaman's real name?",
+      "a": "Arthur Curry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "City Superman protects?",
+      "a": "Metropolis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Batman's sidekick?",
+      "a": "Robin (Dick Grayson was first)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The Flash's superpower?",
+      "a": "Super speed — fastest man alive",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lex Luthor?",
+      "a": "Superman's arch-nemesis — brilliant but ruthless billionaire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Green Lantern's power source?",
+      "a": "Willpower",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Batman in the Nolan trilogy?",
+      "a": "Christian Bale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Wonder Woman's weapon?",
+      "a": "The Lasso of Truth — and Amazonian sword and shield",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Batman's city?",
+      "a": "Gotham City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Bat-Signal?",
+      "a": "A large searchlight in Gotham used to summon Batman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Darkseid?",
+      "a": "The ruler of Apokolips — DC's most powerful villain, seeking the Anti-Life Equation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created Superman?",
+      "a": "Jerry Siegel and Joe Shuster — first appeared in Action Comics #1 in 1938",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Cyborg?",
+      "a": "Victor Stone — athlete whose body was partially replaced with cybernetic technology",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is kryptonite?",
+      "a": "Radioactive material from Superman's home planet — weakens and can kill him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Catwoman?",
+      "a": "Selina Kyle — a skilled thief with a complicated romantic history with Batman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Batmobile?",
+      "a": "Batman's armoured high-performance vehicle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Superman's Kryptonian name?",
+      "a": "Kal-El",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nightwing?",
+      "a": "Dick Grayson — the original Robin who grew up and became his own hero",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Poison Ivy?",
+      "a": "A villain obsessed with plants using pheromones and toxins — often linked with Harley Quinn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Justice League?",
+      "a": "DC's superhero team — Batman, Superman, Wonder Woman, Flash, Aquaman, Cyborg, Green Lantern",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Batcave?",
+      "a": "Bruce Wayne's secret underground headquarters beneath Wayne Manor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Harley Quinn's love interest?",
+      "a": "The Joker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Amanda Waller?",
+      "a": "The ruthless government official who runs Task Force X (Suicide Squad)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Shazam?",
+      "a": "Billy Batson — a young boy who transforms into a superhero by saying SHAZAM!",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What yellow weakness affects Green Lantern power rings?",
+      "a": "Fear",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the main sidekick turned independent hero known as Nightwing?",
+      "a": "Dick Grayson",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Superman's bottled city from Krypton?",
+      "a": "Kandor",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Batman's armored vehicle in The Dark Knight trilogy?",
+      "a": "The Tumbler",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What planet does Darkseid rule in DC films and shows?",
+      "a": "Apokolips",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What 1984 artifact grants wishes in Wonder Woman 1984?",
+      "a": "The Dreamstone",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Harley Quinn's real first name?",
+      "a": "Harleen",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What prison houses dangerous criminals in The Dark Knight?",
+      "a": "Arkham Asylum",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What weapon does Harley Quinn famously use?",
+      "a": "Baseball bat",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Black Adam's human title in Kahndaq?",
+      "a": "Champion",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Wonder Woman's civilian name?",
+      "a": "Diana Prince",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Batman's real first name?",
+      "a": "Bruce",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who is the main villain in Justice League (2017)?",
+      "a": "Steppenwolf",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Flash's real name?",
+      "a": "Barry Allen — a forensic scientist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Phantom Zone?",
+      "a": "A dimensional prison used by Kryptonians — created by Jor-El",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Darkseid's goal?",
+      "a": "To find the Anti-Life Equation and control all sentient life in the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Green Lantern Corps?",
+      "a": "An intergalactic police force created by the Guardians of the Universe on Oa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Speed Force?",
+      "a": "A unique extradimensional energy that all speedsters draw power from",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Brainiac?",
+      "a": "An alien villain who miniaturizes and collects cities from across the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Reverse Flash?",
+      "a": "Eobard Thawne — a future villain who killed Barry Allen's mother",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the New 52?",
+      "a": "A 2011 DC initiative that rebooted the entire DC Universe into a new continuity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Zatanna?",
+      "a": "A powerful sorceress in the Justice League — she speaks spells backwards",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Blackest Night?",
+      "a": "A DC storyline where dead heroes and villains are reanimated as Black Lanterns who consume emotion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Deathstroke?",
+      "a": "Slade Wilson — one of DC's most formidable assassins, with enhanced abilities and tactical genius",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Injustice storyline?",
+      "a": "Superman becomes a dictator after the Joker kills Lois Lane — Batman leads a resistance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Martian Manhunter?",
+      "a": "J'onn J'onzz — a Martian superhero with telepathy, shapeshifting, and strength",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Anti-Life Equation?",
+      "a": "A mathematical formula Darkseid seeks that would give him control over all sentient life",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Crisis on Infinite Earths?",
+      "a": "A 1985 DC storyline collapsing the multiverse — killing the original Supergirl and Barry Allen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the New Gods concept?",
+      "a": "Jack Kirby's Fourth World mythology — beings from New Genesis and Apokolips representing good and evil",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Parallax?",
+      "a": "An ancient yellow fear entity that can possess Green Lanterns — it possessed Hal Jordan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Watchmen for DC?",
+      "a": "A 1986-87 deconstruction of the superhero genre — set the template for darker superhero stories",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mister Mxyzptlk?",
+      "a": "A fifth-dimensional imp only defeated by tricking him into saying his name backwards — a Superman villain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Black Adam?",
+      "a": "An ancient Egyptian anti-hero with powers similar to Shazam — played by Dwayne Johnson in 2022",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Death of Superman?",
+      "a": "Superman is killed by Doomsday in 1992 — a landmark event that became major news",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Flashpoint?",
+      "a": "Barry goes back to save his mother — creating an alternate timeline that led to the New 52 reboot",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Barbara Gordon?",
+      "a": "Commissioner Gordon's daughter — Batgirl, then Oracle after being shot by the Joker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Question?",
+      "a": "Vic Sage — a faceless detective vigilante who inspired Watchmen's Rorschach",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Infinite Crisis?",
+      "a": "A 2005 DC storyline involving conflicts between alternate Earths and a rogue Superboy-Prime",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Earth-2 in DC?",
+      "a": "A parallel universe with older Golden Age versions of DC heroes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Tim Drake?",
+      "a": "The third Robin — often considered the most intelligent, who deduced Batman's identity as a child",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Tower of Babel storyline?",
+      "a": "Batman's files are stolen — revealing his contingency plans to defeat every Justice League member",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Perpetua in DC?",
+      "a": "The cosmic mother of the multiverse — a villain in Scott Snyder's Justice League run",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the antihero team led by Amanda Waller?",
+      "a": "The Suicide Squad / Task Force X",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What world does Darkseid rule?",
+      "a": "Apokolips",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the evil Justice League from Earth-3?",
+      "a": "The Crime Syndicate",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What prison holds the captured metahumans in Arrow season 7?",
+      "a": "Slabside",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What event unites the Justice League against Steppenwolf in Zack Snyder's Justice League?",
+      "a": "The Unity",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Peacemaker's surname?",
+      "a": "Smith",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What nation does Black Adam rule?",
+      "a": "Kahndaq",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What body is Doomsday created from in Batman v Superman?",
+      "a": "General Zod",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What codename does Billy Batson's foster brother Freddy admire?",
+      "a": "Captain Every Power",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What prison island holds villains in The Suicide Squad?",
+      "a": "Corto Maltese",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What creature kills Superman in Batman v Superman?",
+      "a": "Doomsday",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the shark-headed squad member called?",
+      "a": "King Shark",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What city does Shazam protect with his foster family?",
+      "a": "Philadelphia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Harley Quinn's surname?",
+      "a": "Quinzel",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What city is Arthur Curry tied to on land?",
+      "a": "Amnesty Bay",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What mercenary leads the team in The Suicide Squad?",
+      "a": "Bloodsport",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain does Robert Pattinson's Batman hunt with ciphers?",
+      "a": "Riddler",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Doomsday Clock storyline?",
+      "a": "Watchmen characters (especially Dr. Manhattan) cross into the main DC universe — connecting both canons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pre-Crisis vs Post-Crisis Superman?",
+      "a": "Pre-Crisis: omnipotent, could move planets. Post-Crisis (1985): more human and relatable",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Omega Effect?",
+      "a": "Darkseid's signature power — energy beams pursuing their target across dimensions and time",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of No Man's Land in Batman?",
+      "a": "Gotham is cut off after a massive earthquake — an entire year of Batman comics in a lawless isolated city",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Swamp Thing?",
+      "a": "Alec Holland — a scientist reborn as a plant elemental, connected to the Green (force of all plant life)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Grant Morrison's contribution to Batman?",
+      "a": "Morrison introduced all Batman stories as canon — including 1950s sci-fi stories — as psychological trauma",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Red Son storyline?",
+      "a": "An Elseworlds tale where Superman's rocket lands in Soviet Ukraine instead of Kansas",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sinestro Corps War?",
+      "a": "Sinestro creates his own fear-wielding corps — the first major GL crossover event",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Seagrin in the New Gods?",
+      "a": "One of the Forever People — the New Gods' young team who seek adventure on Earth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of The Long Halloween?",
+      "a": "A 13-issue Batman story by Jeph Loeb depicting his early career and the rise of Two-Face",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Knightfall storyline?",
+      "a": "Bane breaks Batman's back — Jean-Paul Valley (Azrael) takes over as Batman before Bruce recovers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Geo-Force?",
+      "a": "Brion Markov — a prince with earth-manipulation powers, member of the Outsiders",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Final Crisis?",
+      "a": "Darkseid achieves the Anti-Life Equation and enslaves the Earth — Batman shoots Darkseid with a god-killing bullet",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ultra-Man?",
+      "a": "The evil Superman of Earth-3 — a member of the Crime Syndicate",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Hypertime?",
+      "a": "A DC concept allowing all previously published DC stories to be technically canon in branching realities",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Arion?",
+      "a": "An ancient Atlantean sorcerer from 45,000 years ago — one of DC's oldest heroes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Superman's death and resurrection?",
+      "a": "His death in 1992 was unprecedented — it caused media frenzy. His four replacements explored what Superman means",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Nth metal in DC Comics?",
+      "a": "A mysterious metal from Thanagar that defies physics — worn by Hawkman in his anti-gravity harness",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Bat-Mite?",
+      "a": "A fifth-dimensional imp who idolizes Batman and often causes chaos while trying to help him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Crisis on Infinite Earths vs Infinite Crisis?",
+      "a": "CoIE (1985): destroyed the multiverse, created one universe. IC (2005): the multiverse reasserted itself",
+      "file": "App.jsx"
+    }
+  ]
+}

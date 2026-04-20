@@ -1,0 +1,643 @@
+{
+  "200": [
+    {
+      "q": "What is the main character of Minecraft commonly called?",
+      "a": "Steve",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What hostile mob explodes when it gets close to you?",
+      "a": "Creeper",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What tool do you need to mine stone?",
+      "a": "Pickaxe",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the alternate dimension full of fire and lava?",
+      "a": "The Nether",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What block do you mine to get diamonds?",
+      "a": "Diamond ore",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What animal gives you wool when sheared?",
+      "a": "Sheep",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many sticks are required to craft a sword in Minecraft?",
+      "a": "1",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What happens when night falls in survival mode?",
+      "a": "Hostile mobs spawn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What company developed Minecraft originally?",
+      "a": "Mojang",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What boss do you find in the End dimension?",
+      "a": "Ender Dragon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created Minecraft?",
+      "a": "Markus 'Notch' Persson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What year was Minecraft officially released (1.0)?",
+      "a": "2011",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What animal moos in Minecraft?",
+      "a": "Cow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What animal oinks in Minecraft?",
+      "a": "Pig",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What hostile mob shoots arrows at you?",
+      "a": "Skeleton",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What food can you make from wheat?",
+      "a": "Bread",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What tool do you use to break dirt fastest?",
+      "a": "Shovel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What tool do you use to chop wood fastest?",
+      "a": "Axe",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item lights up dark areas to prevent monster spawns?",
+      "a": "Torch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What sound does a creeper make right before exploding?",
+      "a": "A hissing/fuse sound",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What mob says 'hmmmm' and trades emeralds with you?",
+      "a": "Villager",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What block is used to make a crafting table?",
+      "a": "Wood (planks)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does the player do to defeat the Ender Dragon's regeneration?",
+      "a": "Destroy the End crystals",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What dimension is the home of Endermen?",
+      "a": "The End",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What block is used to build a Nether portal frame?",
+      "a": "Obsidian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item lights a Nether portal?",
+      "a": "Flint and steel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What food do you get from killing a chicken?",
+      "a": "Chicken (raw)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What do you mine to get coal?",
+      "a": "Coal ore",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mob gives you leather?",
+      "a": "Cow",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What do you make a bed from?",
+      "a": "Wool and planks",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What liquid destroys items?",
+      "a": "Lava",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What block lets you enchant items?",
+      "a": "Enchanting table",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What do you use to fish?",
+      "a": "Fishing rod",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What dimension has chorus fruit?",
+      "a": "The End",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mob is a horse skeleton?",
+      "a": "Skeleton horse",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What block can you use to dye?",
+      "a": "Any dyeable block (wool, concrete powder)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What ore is needed for a compass?",
+      "a": "Iron",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What block grows on mycelium?",
+      "a": "Mushrooms",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What item lets you breathe underwater?",
+      "a": "Turtle shell helmet (or Potion of Water Breathing)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What crop grows fastest in Minecraft?",
+      "a": "Sugar cane",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the command to switch to creative mode?",
+      "a": "/gamemode creative",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "400": [
+    {
+      "q": "Which company bought Mojang in 2014?",
+      "a": "Microsoft",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How much did Microsoft pay for Mojang?",
+      "a": "$2.5 billion",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item do you throw to find a stronghold?",
+      "a": "Eye of Ender",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What mob drops string when killed?",
+      "a": "Spider",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the rare ore used to craft Netherite?",
+      "a": "Ancient Debris",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss found in the Nether (added in 1.4)?",
+      "a": "Wither",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many Wither Skeleton skulls are needed to build a Wither?",
+      "a": "3",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the rare ore in the Overworld besides diamond?",
+      "a": "Emerald",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum enchantment level on most Minecraft items at a table?",
+      "a": "30",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the 1.13 update?",
+      "a": "Update Aquatic",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the 1.16 update?",
+      "a": "Nether Update",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the 1.17 update?",
+      "a": "Caves & Cliffs",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the structure where you can find the End portal?",
+      "a": "Stronghold",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many pieces of Netherite do you need to upgrade a full set of diamond armor and tools?",
+      "a": "9",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the snowy biome friendly mob with horns added in 1.17?",
+      "a": "Goat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the underground city structure added in 1.19?",
+      "a": "Ancient City",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss-like mob found in Ancient Cities?",
+      "a": "Warden",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was the original working name of Minecraft during development?",
+      "a": "Cave Game",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the floating black hostile mob that teleports?",
+      "a": "Enderman",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What block is used to brew potions?",
+      "a": "Brewing stand",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item is required to make a brewing stand?",
+      "a": "Blaze rod",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What dimension contains Blazes?",
+      "a": "The Nether",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the iron-block-shaped construct you can build to fight mobs?",
+      "a": "Iron golem",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What blocks do you need to build an iron golem?",
+      "a": "4 iron blocks and a carved pumpkin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the snow construct you can build?",
+      "a": "Snow golem",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What food gives the highest saturation level in vanilla Minecraft?",
+      "a": "Golden carrot",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which item must be paired with fireworks to fly in Survival mode?",
+      "a": "Elytra",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item allows you to glide in Survival mode?",
+      "a": "Elytra",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum level of Sharpness enchantment?",
+      "a": "5",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mob can you ride with a saddle?",
+      "a": "Horse (also pig with carrot on a stick)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What biome has mesa/terracotta?",
+      "a": "Badlands",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What potion makes you invisible?",
+      "a": "Potion of Invisibility",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is needed to make an end crystal?",
+      "a": "Eye of Ender, glass, and ghast tear",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What block is blast-resistant and found in the End?",
+      "a": "End stone",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What enchantment lets you walk on water (frozen)?",
+      "a": "Frost Walker",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the rarest biome in Minecraft?",
+      "a": "Mushroom Island (or Modified Jungle Edge)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What do you need to cure a zombie villager?",
+      "a": "Splash Potion of Weakness and a Golden Apple",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mob attacks in the Nether and shoots fireballs?",
+      "a": "Ghast",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What item lets you copy maps?",
+      "a": "Cartography table",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What enchantment lets pickaxes mine faster?",
+      "a": "Efficiency",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What structure spawns in the Nether with blazes?",
+      "a": "Nether Fortress",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What item do you use to leash animals?",
+      "a": "Lead",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the name of the 1.18 update?",
+      "a": "Caves & Cliffs Part II",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the 1.19 update?",
+      "a": "The Wild Update",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the 1.20 update?",
+      "a": "Trails & Tales",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the 1.21 update?",
+      "a": "Tricky Trials",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum stack size for most items in Minecraft?",
+      "a": "64",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum world height as of 1.18?",
+      "a": "320 blocks above bedrock",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the deepest Y level of the Overworld as of 1.18?",
+      "a": "-64",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the rarest natural diamond ore Y level for highest spawn?",
+      "a": "Y=-59",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the new wood type added in 1.20?",
+      "a": "Cherry",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the wood type added in 1.16?",
+      "a": "Crimson and Warped",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item does a creeper drop when killed by a skeleton's arrow?",
+      "a": "A music disc",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the music disc found only in Ancient Cities?",
+      "a": "Disc 5",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the friendly cetacean mob in oceans?",
+      "a": "Dolphin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which mob can be tamed by feeding it bones?",
+      "a": "Wolf",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which mob can be tamed by feeding it raw cod or salmon?",
+      "a": "Cat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the mob added in 1.19 from a vote?",
+      "a": "Allay",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was the runner-up to the Allay in the mob vote?",
+      "a": "Glare",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item dropped by goats in Caves & Cliffs lets you summon noises?",
+      "a": "Goat horn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the new structure added in 1.21 with trial spawners?",
+      "a": "Trial Chambers",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item drops from defeating the Ender Dragon?",
+      "a": "Dragon egg",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many obsidian End Crystals heal the Ender Dragon during its boss fight?",
+      "a": "10",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the temporary buff effect from a Conduit?",
+      "a": "Conduit Power",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the dolphin-given buff?",
+      "a": "Dolphin's Grace",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What block do you use to summon the Wither?",
+      "a": "Soul sand",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum number of bookshelves needed for the highest enchantment table tier?",
+      "a": "15",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the current Minecraft game director at Mojang?",
+      "a": "Agnes Larsson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Minecraft education-focused edition?",
+      "a": "Minecraft: Education Edition",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Minecraft spinoff game by Mojang in 2020?",
+      "a": "Minecraft Dungeons",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Minecraft spinoff strategy game released in 2024?",
+      "a": "Minecraft Legends",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is a Sculk Shrieker?",
+      "a": "A block that summons the Warden after being triggered",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum render distance in Java Edition?",
+      "a": "32 chunks",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What enchantment lets a trident return after throwing?",
+      "a": "Loyalty",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Comparator used for?",
+      "a": "Reading container fullness and redstone signal strength",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum number of bees in a beehive?",
+      "a": "3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does a Beacon require to activate?",
+      "a": "A pyramid of iron/gold/diamond/emerald/netherite blocks",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Wither's health in Java Edition?",
+      "a": "300 HP (150 hearts)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What update added the Deep Dark?",
+      "a": "1.19 (The Wild Update)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mob was voted in by the community in 2020?",
+      "a": "Glow Squid",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Redstone Repeater's maximum delay?",
+      "a": "4 ticks",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the rarest structure in Minecraft?",
+      "a": "Woodland Mansion",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What version added copper?",
+      "a": "1.17 (Caves & Cliffs Part I)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum level of Fortune enchantment?",
+      "a": "3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many End Cities spawn per End dimension?",
+      "a": "Multiple (procedurally generated)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Calibrated Sculk Sensor?",
+      "a": "A sculk sensor that only detects specific vibration frequencies",
+      "file": "megaNewExpansions"
+    }
+  ]
+}

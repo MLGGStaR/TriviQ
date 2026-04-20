@@ -1,0 +1,558 @@
+{
+  "200": [
+    {
+      "q": "What newspaper does Peter Parker work for?",
+      "a": "The Daily Bugle",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Peter Parker's aunt?",
+      "a": "Aunt May",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What villain is Norman Osborn?",
+      "a": "The Green Goblin",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who raised Peter after his parents died?",
+      "a": "Aunt May and Uncle Ben",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who runs the Daily Bugle?",
+      "a": "J. Jonah Jameson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What villain is Norman Osborn?",
+      "a": "The Green Goblin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What villain is Otto Octavius?",
+      "a": "Doctor Octopus",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Peter's red-haired love interest?",
+      "a": "Mary Jane Watson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Peter's first great love in comics?",
+      "a": "Gwen Stacy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What borough is Peter Parker from?",
+      "a": "Queens",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What team of villains often unite against Spider-Man?",
+      "a": "The Sinister Six",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who becomes Venom?",
+      "a": "Eddie Brock",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What villain is Quentin Beck?",
+      "a": "Mysterio",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Miles Morales?",
+      "a": "Another Spider-Man",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Aaron Davis in Spider-Man stories?",
+      "a": "The Prowler",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What black alien costume changes Peter's behavior?",
+      "a": "The symbiote suit",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What quote defines Spider-Man's life?",
+      "a": "With great power comes great responsibility",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the futuristic Spider-Man of 2099?",
+      "a": "Miguel O'Hara",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What mob boss often opposes Spider-Man and Daredevil?",
+      "a": "Kingpin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What device does Peter usually invent to shoot webs?",
+      "a": "Web-shooters",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What multiverse concept links many Spider heroes?",
+      "a": "The Spider-Verse",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What event is famous for the death of Gwen Stacy?",
+      "a": "The Night Gwen Stacy Died",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is MJ's full first name in the MCU?",
+      "a": "Michelle",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which villain has mechanical arms in Spider-Man 2?",
+      "a": "Doctor Octopus",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What high-tech suit does Peter wear in Infinity War?",
+      "a": "The Iron Spider suit",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What AI glasses does Tony leave Peter in Far From Home?",
+      "a": "E.D.I.T.H.",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What is Peter Parker's aunt's first name?",
+      "a": "May",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What is Spider-Man's real name?",
+      "a": "Peter Parker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How did Peter get his powers?",
+      "a": "A radioactive spider bite during a school field trip",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Spider-Man's most famous quote?",
+      "a": "With great power comes great responsibility — said by Uncle Ben",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mary Jane Watson?",
+      "a": "Peter's most famous love interest — a model and actress",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gwen Stacy?",
+      "a": "Peter's first love — her death is one of the most impactful moments in comics history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Aunt May?",
+      "a": "Peter's guardian who raised him after his parents' death — she doesn't know his secret for years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Green Goblin?",
+      "a": "Norman Osborn — a scientist who becomes unhinged after taking an experimental formula",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What studio produces Spider-Man films?",
+      "a": "Sony owns the rights, but Marvel Studios co-produced the MCU Spider-Man films with Tom Holland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Daily Bugle?",
+      "a": "The newspaper where Peter works as a photographer — run by J. Jonah Jameson",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Who is Miles Morales?",
+      "a": "Another Spider-Man from another universe",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What team of villains often unites against Spider-Man?",
+      "a": "The Sinister Six",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who becomes Venom?",
+      "a": "Eddie Brock",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What villain is Adrian Toomes?",
+      "a": "The Vulture",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What cat burglar often becomes Peter's ally and love interest?",
+      "a": "Black Cat",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What clone identity of Peter Parker is also called the Scarlet Spider?",
+      "a": "Ben Reilly",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What police captain is Gwen Stacy's father?",
+      "a": "George Stacy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What school does Peter Parker famously attend in many versions?",
+      "a": "Midtown High School",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What villain identity does Mac Gargan adopt?",
+      "a": "Scorpion",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which villain says The power of the sun in the palm of my hand?",
+      "a": "Doctor Octopus",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is Miles Morales's uncle in Into the Spider-Verse?",
+      "a": "Aaron Davis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What police department does Gwen Stacy's father work for in The Amazing Spider-Man?",
+      "a": "The NYPD",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What company builds the collider in Spider-Verse?",
+      "a": "Alchemax",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What university does Peter hope to attend in No Way Home?",
+      "a": "MIT",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What alias does Gwen Stacy use in Spider-Verse?",
+      "a": "Spider-Woman",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What villain in Homecoming is also Liz's father?",
+      "a": "Vulture",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What newspaper does Peter work for in Raimi's films?",
+      "a": "Daily Bugle",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Miles Morales's father's name?",
+      "a": "Jefferson Davis",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What does Gwen call Miles in Across the Spider-Verse at the Guggenheim spot?",
+      "a": "A mistake",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What green villain fights Tobey Maguire's Spider-Man first?",
+      "a": "Green Goblin",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What villain manipulates Peter with drones in Far From Home?",
+      "a": "Mysterio",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What high school does Peter attend in the MCU?",
+      "a": "Midtown School of Science and Technology",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Miles Morales's uncle's villain name?",
+      "a": "Prowler",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain is Adrian Toomes better known as?",
+      "a": "Vulture",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What animated sequel follows Into the Spider-Verse?",
+      "a": "Across the Spider-Verse",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What fake hero name does Peter use in Europe?",
+      "a": "Night Monkey",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain controls electricity in No Way Home?",
+      "a": "Electro",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What black-suited rival photographer appears in Spider-Man 3?",
+      "a": "Eddie Brock",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villains does Mysterio pretend are attacking Europe?",
+      "a": "The Elementals",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "Who is Miles Morales?",
+      "a": "The second Spider-Man — a Black and Puerto Rican teenager from Brooklyn who was bitten in an alternate universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Doctor Octopus?",
+      "a": "Otto Octavius — a scientist with mechanical tentacle arms who is one of Spider-Man's greatest foes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sinister Six?",
+      "a": "A team of six of Spider-Man's deadliest villains working together to destroy him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the black symbiote suit?",
+      "a": "An alien symbiote that enhances Peter's powers but increases his aggression — it bonds with Eddie Brock to become Venom",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Venom?",
+      "a": "Eddie Brock bonded with the symbiote — one of Spider-Man's most complex enemies",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mysterio in the MCU?",
+      "a": "Quentin Beck — a former Stark employee who creates illusions. He nearly exposes Peter's identity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of No Way Home?",
+      "a": "All three live-action Spider-Men unite — Tobey Maguire, Andrew Garfield, and Tom Holland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Prowler?",
+      "a": "Aaron Davis — Miles Morales's uncle and a villain in the Spider-Verse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Silk?",
+      "a": "Cindy Moon — bitten by the same spider as Peter, she has silk-spinning abilities",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Spider-Verse?",
+      "a": "The multiverse concept centred on Spider-People — all versions of Spider-Man across parallel dimensions",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What controversial Spider-Man story erased Peter and MJ's marriage?",
+      "a": "One More Day",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who becomes Superior Spider-Man after taking Peter's body?",
+      "a": "Doctor Octopus / Otto Octavius",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What event is often called the end of the Silver Age for Spider-Man?",
+      "a": "The death of Gwen Stacy",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What antidote cures Norman Osborn in No Way Home?",
+      "a": "The Goblin serum antidote",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of the villain who tears holes across space in Across the Spider-Verse?",
+      "a": "The Spot",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What scientist mentor becomes the Spot?",
+      "a": "Jonathan Ohnn",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who casts the memory spell in No Way Home?",
+      "a": "Doctor Strange",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What building hosts the final battle in No Way Home?",
+      "a": "Statue of Liberty",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What Stark tech glasses does Peter inherit?",
+      "a": "E.D.I.T.H.",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What group recruits Miles in Across the Spider-Verse?",
+      "a": "Spider Society",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What scientist creates The Lizard in The Amazing Spider-Man?",
+      "a": "Curt Connors",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the symbiote newspaper photographer rival to Peter called?",
+      "a": "Eddie Brock",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What charity does Aunt May work with in No Way Home?",
+      "a": "FEAST",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What machine powers the collider in Into the Spider-Verse?",
+      "a": "Super-collider",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What university does Doc Ock work at in Spider-Man 2?",
+      "a": "Columbia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain says 'the power of the sun' in Spider-Man 2?",
+      "a": "Doc Ock",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain's true name is Flint Marko?",
+      "a": "Sandman",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What spider-powered suit does Peter receive in Infinity War?",
+      "a": "Iron Spider",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain is Norman Osborn better known as?",
+      "a": "Green Goblin",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Miles Morales's father's first name?",
+      "a": "Jefferson",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What multiverse of heroes and villains collides around Miles?",
+      "a": "Spider-Verse",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain in No Way Home is Dr. Curt Connors?",
+      "a": "Lizard",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What school does Miles attend in Into the Spider-Verse?",
+      "a": "Brooklyn Visions Academy",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What landmark becomes the final battlefield in No Way Home?",
+      "a": "The Statue of Liberty",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What machine does Kingpin use beneath Brooklyn in Into the Spider-Verse?",
+      "a": "A super-collider",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What is the Clone Saga?",
+      "a": "A 1990s comics arc where Peter discovers he might be a clone of himself — a controversial but significant storyline",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the One More Day controversy?",
+      "a": "Peter makes a deal with Mephisto erasing his marriage to MJ — widely considered the worst Spider-Man story ever told",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Superior Spider-Man?",
+      "a": "Otto Octavius takes over Peter's body — he becomes Spider-Man with a superior but villainous approach",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Gwen Stacy's death?",
+      "a": "Often considered the end of the Silver Age of comics — her neck was snapped by the sudden stop of the web catching her",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Kingpin's connection to Spider-Man?",
+      "a": "Wilson Fisk controls much of New York's crime — his schemes frequently put Peter's loved ones at risk",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Spider-Man of 2099?",
+      "a": "Miguel O'Hara — a futuristic Spider-Man in a dystopian New York who appears in the Spider-Verse films",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Kaine Parker?",
+      "a": "A degenerated clone of Peter with a touch of death ability — later becomes the Scarlet Spider",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Symkarian Spider-Man (Silver Sable)?",
+      "a": "She represents how Spider-Man's world intersects with international politics and mercenaries",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Great Web?",
+      "a": "In Spider-Verse lore — the metaphysical structure connecting all Spider-Totems across dimensions",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the deeper theme of Spider-Man?",
+      "a": "Responsibility, sacrifice, and the cost of power — Peter perpetually sacrifices personal happiness for the greater good",
+      "file": "App.jsx"
+    }
+  ]
+}

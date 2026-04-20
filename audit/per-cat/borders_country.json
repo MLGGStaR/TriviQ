@@ -1,0 +1,463 @@
+{
+  "200": [
+    {
+      "q": "What countries border Canada?",
+      "a": "United States",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Portugal?",
+      "a": "Spain",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Ireland?",
+      "a": "United Kingdom",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Monaco?",
+      "a": "France",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Vatican City?",
+      "a": "Italy",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Denmark?",
+      "a": "Germany",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border South Korea?",
+      "a": "North Korea",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Haiti?",
+      "a": "Dominican Republic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border North Korea?",
+      "a": "China, Russia, South Korea",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Mexico?",
+      "a": "United States, Guatemala, Belize",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Spain?",
+      "a": "Portugal, France, Andorra",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border United Kingdom?",
+      "a": "Ireland",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Israel?",
+      "a": "Lebanon, Syria, Jordan, Egypt",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Egypt?",
+      "a": "Libya, Sudan, Israel",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Saudi Arabia?",
+      "a": "Jordan, Iraq, Kuwait, Qatar, UAE, Oman, Yemen",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Italy?",
+      "a": "France, Switzerland, Austria, Slovenia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Netherlands?",
+      "a": "Germany, Belgium",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Belgium?",
+      "a": "Netherlands, Germany, Luxembourg, France",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Sweden?",
+      "a": "Norway, Finland",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Norway?",
+      "a": "Sweden, Finland, Russia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Finland?",
+      "a": "Sweden, Norway, Russia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Greece?",
+      "a": "Albania, North Macedonia, Bulgaria, Turkey",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Turkey?",
+      "a": "Greece, Bulgaria, Georgia, Armenia, Azerbaijan, Iran, Iraq, Syria",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border India?",
+      "a": "Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Pakistan?",
+      "a": "India, Iran, Afghanistan, China",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Argentina?",
+      "a": "Chile, Bolivia, Paraguay, Brazil, Uruguay",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Brazil?",
+      "a": "French Guiana, Suriname, Guyana, Venezuela, Colombia, Peru, Bolivia, Paraguay, Argentina, Uruguay",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Chile?",
+      "a": "Peru, Bolivia, Argentina",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Colombia?",
+      "a": "Panama, Venezuela, Brazil, Peru, Ecuador",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Peru?",
+      "a": "Ecuador, Colombia, Brazil, Bolivia, Chile",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "400": [
+    {
+      "q": "What countries border France?",
+      "a": "Spain, Andorra, Monaco, Italy, Switzerland, Germany, Luxembourg, Belgium",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Germany?",
+      "a": "Denmark, Netherlands, Belgium, Luxembourg, France, Switzerland, Austria, Czech Republic, Poland",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Poland?",
+      "a": "Germany, Czech Republic, Slovakia, Ukraine, Belarus, Lithuania, Russia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Ukraine?",
+      "a": "Russia, Belarus, Poland, Slovakia, Hungary, Romania, Moldova",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Russia?",
+      "a": "Norway, Finland, Estonia, Latvia, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia, North Korea, Lithuania, Poland",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border China?",
+      "a": "Mongolia, Russia, North Korea, Vietnam, Laos, Myanmar, India, Bhutan, Nepal, Pakistan, Afghanistan, Tajikistan, Kyrgyzstan, Kazakhstan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Iran?",
+      "a": "Iraq, Turkey, Azerbaijan, Armenia, Turkmenistan, Afghanistan, Pakistan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Iraq?",
+      "a": "Turkey, Iran, Kuwait, Saudi Arabia, Jordan, Syria",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Syria?",
+      "a": "Turkey, Iraq, Jordan, Israel, Lebanon",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Lebanon?",
+      "a": "Syria, Israel",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Switzerland?",
+      "a": "France, Germany, Austria, Liechtenstein, Italy",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Austria?",
+      "a": "Germany, Czech Republic, Slovakia, Hungary, Slovenia, Italy, Switzerland, Liechtenstein",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Hungary?",
+      "a": "Austria, Slovakia, Ukraine, Romania, Serbia, Croatia, Slovenia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Croatia?",
+      "a": "Slovenia, Hungary, Serbia, Bosnia and Herzegovina, Montenegro",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Serbia?",
+      "a": "Hungary, Romania, Bulgaria, North Macedonia, Kosovo, Montenegro, Bosnia and Herzegovina, Croatia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Bulgaria?",
+      "a": "Romania, Serbia, North Macedonia, Greece, Turkey",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Romania?",
+      "a": "Ukraine, Moldova, Bulgaria, Serbia, Hungary",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Czech Republic?",
+      "a": "Germany, Poland, Slovakia, Austria",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Slovakia?",
+      "a": "Poland, Ukraine, Hungary, Austria, Czech Republic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Belarus?",
+      "a": "Latvia, Lithuania, Poland, Ukraine, Russia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Lithuania?",
+      "a": "Latvia, Belarus, Poland, Russia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Estonia?",
+      "a": "Latvia, Russia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Latvia?",
+      "a": "Estonia, Russia, Belarus, Lithuania",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Kazakhstan?",
+      "a": "Russia, China, Kyrgyzstan, Uzbekistan, Turkmenistan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Afghanistan?",
+      "a": "Iran, Turkmenistan, Uzbekistan, Tajikistan, China, Pakistan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Vietnam?",
+      "a": "China, Laos, Cambodia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Thailand?",
+      "a": "Myanmar, Laos, Cambodia, Malaysia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Malaysia?",
+      "a": "Thailand, Indonesia, Brunei",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Indonesia?",
+      "a": "Malaysia, Papua New Guinea, Timor-Leste",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Ethiopia?",
+      "a": "Eritrea, Djibouti, Somalia, Kenya, South Sudan, Sudan",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "600": [
+    {
+      "q": "What countries border Tajikistan?",
+      "a": "Uzbekistan, Kyrgyzstan, China, Afghanistan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Kyrgyzstan?",
+      "a": "Kazakhstan, Uzbekistan, Tajikistan, China",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Uzbekistan?",
+      "a": "Kazakhstan, Kyrgyzstan, Tajikistan, Afghanistan, Turkmenistan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Turkmenistan?",
+      "a": "Kazakhstan, Uzbekistan, Afghanistan, Iran",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Georgia?",
+      "a": "Russia, Azerbaijan, Armenia, Turkey",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Azerbaijan?",
+      "a": "Russia, Georgia, Armenia, Iran, Turkey",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Armenia?",
+      "a": "Georgia, Azerbaijan, Iran, Turkey",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Bhutan?",
+      "a": "China, India",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Nepal?",
+      "a": "China, India",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Bangladesh?",
+      "a": "India, Myanmar",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Myanmar?",
+      "a": "India, Bangladesh, China, Laos, Thailand",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Laos?",
+      "a": "Myanmar, China, Vietnam, Cambodia, Thailand",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Cambodia?",
+      "a": "Thailand, Laos, Vietnam",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Moldova?",
+      "a": "Romania, Ukraine",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border North Macedonia?",
+      "a": "Kosovo, Serbia, Bulgaria, Greece, Albania",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Albania?",
+      "a": "Montenegro, Kosovo, North Macedonia, Greece",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Bosnia and Herzegovina?",
+      "a": "Croatia, Serbia, Montenegro",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Kosovo?",
+      "a": "Serbia, North Macedonia, Albania, Montenegro",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Slovenia?",
+      "a": "Italy, Austria, Hungary, Croatia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Luxembourg?",
+      "a": "Belgium, Germany, France",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Andorra?",
+      "a": "Spain, France",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Liechtenstein?",
+      "a": "Switzerland, Austria",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border San Marino?",
+      "a": "Italy",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Mongolia?",
+      "a": "Russia, China",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Jordan?",
+      "a": "Syria, Iraq, Saudi Arabia, Israel",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Yemen?",
+      "a": "Saudi Arabia, Oman",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Oman?",
+      "a": "Saudi Arabia, UAE, Yemen",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Qatar?",
+      "a": "Saudi Arabia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Eritrea?",
+      "a": "Sudan, Ethiopia, Djibouti",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Niger?",
+      "a": "Algeria, Libya, Chad, Nigeria, Benin, Burkina Faso, Mali",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Paraguay?",
+      "a": "Bolivia, Brazil, Argentina",
+      "file": "qualityBackfill"
+    }
+  ]
+}

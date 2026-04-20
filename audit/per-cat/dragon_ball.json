@@ -1,0 +1,513 @@
+{
+  "200": [
+    {
+      "q": "How many Dragon Balls summon Shenron?",
+      "a": "7",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Namekian mentor of Gohan?",
+      "a": "Piccolo",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What galactic tyrant destroys Planet Vegeta?",
+      "a": "Frieza",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What android marries Krillin?",
+      "a": "Android 18",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What company is run by Bulma's family?",
+      "a": "Capsule Corporation",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What pink magical villain dominates the Buu Saga?",
+      "a": "Majin Buu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What earring method also fuses two warriors?",
+      "a": "Potara Fusion",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What god of destruction loves food and naps?",
+      "a": "Beerus",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What tournament risks entire universes in Dragon Ball Super?",
+      "a": "The Tournament of Power",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What childlike ruler can erase universes?",
+      "a": "Zeno",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Saiyan power-up happens after recovering from near death?",
+      "a": "Zenkai boost",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Goku's Saiyan name?",
+      "a": "Kakarot",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What dragon grants wishes on Earth?",
+      "a": "Shenron",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What planet was Goku sent from?",
+      "a": "Planet Vegeta",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Goku's Saiyan birth name?",
+      "a": "Kakarot",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What planet are Goku and Vegeta from?",
+      "a": "Planet Vegeta",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Goku's best friend since childhood?",
+      "a": "Krillin",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who raises Goku on Earth?",
+      "a": "Grandpa Gohan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What color is Piccolo's skin?",
+      "a": "Green",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Goku's wife?",
+      "a": "Chi-Chi",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Goku's wife's name?",
+      "a": "Chi-Chi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Goku's oldest son?",
+      "a": "Gohan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the green Namekian friend of Goku called?",
+      "a": "Piccolo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Dragon Balls must you collect to summon Shenron?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the Dragon Balls?",
+      "a": "Seven magic balls — when gathered, they summon a dragon that grants wishes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Goku?",
+      "a": "Earth's greatest hero — a Saiyan raised on Earth who repeatedly saves the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Vegeta?",
+      "a": "The prince of the Saiyan race — Goku's rival who becomes an ally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Saiyan?",
+      "a": "A warrior alien race — Goku and Vegeta's species — they grow stronger after near-death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Goku's first transformation?",
+      "a": "Super Saiyan — triggered by rage over Krillin's death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Frieza?",
+      "a": "A galactic tyrant who destroyed Planet Vegeta — the primary villain of the Namek arc",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gohan?",
+      "a": "Goku's son — he defeats Cell and briefly becomes the strongest character in DBZ",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Kamehameha?",
+      "a": "Goku's signature energy beam attack",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Z Fighters?",
+      "a": "The group of heroes protecting Earth — Goku, Gohan, Vegeta, Krillin, Piccolo, etc.",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Spirit Bomb?",
+      "a": "Goku's ultimate technique — he gathers energy from all living things into a massive ball",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What fusion of Goku and Vegeta uses the Fusion Dance?",
+      "a": "Gogeta",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What guardian originally creates Earth's Dragon Balls?",
+      "a": "Kami",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fusion of Goku and Vegeta uses Potara earrings?",
+      "a": "Vegito",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What android absorbs 17 and 18?",
+      "a": "Cell",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What planet was Vegeta prince of?",
+      "a": "Planet Vegeta",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What device measures power levels?",
+      "a": "Scouter",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What red-haired god form does Goku achieve first?",
+      "a": "Super Saiyan God",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What race is Frieza?",
+      "a": "Alien",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What martial arts tournament recurs through the series?",
+      "a": "World Tournament",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Piccolo originally connected to?",
+      "a": "King Piccolo",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What company does Bulma's family run?",
+      "a": "Capsule Corp",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Gohan's wife called?",
+      "a": "Videl",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What tournament often decides Earth's strongest fighters?",
+      "a": "World Martial Arts Tournament",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What are the magical orbs that grant wishes called?",
+      "a": "Dragon Balls",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the wish-granting dragon on Earth?",
+      "a": "Shenron",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What room accelerates training a year per day?",
+      "a": "The Hyperbolic Time Chamber",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What fusion dance creates Gogeta?",
+      "a": "Metamoran Fusion",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Goku's martial arts master?",
+      "a": "Master Roshi",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What island does Master Roshi live on?",
+      "a": "Kame Island",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Goku's first son?",
+      "a": "Gohan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Trunks' mother's name?",
+      "a": "Bulma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Cell?",
+      "a": "An android created from the DNA of the strongest fighters — he seeks to absorb Androids 17 and 18 to reach his perfect form",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Cell Games?",
+      "a": "Cell's tournament where he fights Earth's warriors one by one",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Majin Buu?",
+      "a": "An ancient magical being of immense power — initially a pink, childlike creature that becomes increasingly dangerous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hyperbolic Time Chamber?",
+      "a": "A room where one year passes for every day outside — used for intense training",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Android 18?",
+      "a": "One of Dr. Gero's androids — she later marries Krillin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is fusion?",
+      "a": "Two warriors merging into one — Potara Fusion (earrings) and Fusion Dance (hand technique)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Gohan's Ultimate/Mystic form?",
+      "a": "A power-up unlocked by Elder Kai — it gives Gohan his full potential without transforming",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Piccolo?",
+      "a": "A Namekian who was initially Goku's enemy — he becomes Gohan's mentor and a Z Fighter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What killed Goku the first time?",
+      "a": "He uses his instant transmission to take Cell to King Kai's planet when Cell is about to explode",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Broly?",
+      "a": "A Legendary Super Saiyan of immense power — the movie villain whose power level is incomprehensible",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What godly state lets Goku move without conscious thought?",
+      "a": "Ultra Instinct",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What tournament puts multiple universes at risk of erasure?",
+      "a": "The Tournament of Power",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What ruler can erase universes instantly?",
+      "a": "Zeno",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What technique boosts Goku's power after King Kai's training?",
+      "a": "Kaioken",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Beerus's divine title?",
+      "a": "God of Destruction",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the fusion of Goten and Trunks called?",
+      "a": "Gotenks",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Goku's father's name?",
+      "a": "Bardock",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Future Trunks's mentor's name in his timeline?",
+      "a": "Gohan",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What angel trains Goku and Vegeta?",
+      "a": "Whis",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Vegeta's younger brother called?",
+      "a": "Tarble",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What object stores Master Roshi's sealing technique?",
+      "a": "Mafuba container",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What android pair are siblings?",
+      "a": "Android 17 and 18",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Gohan's scholarly profession later in life?",
+      "a": "Researcher",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What move does Vegeta often shout before firing a beam?",
+      "a": "Final Flash",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Frieza's father called?",
+      "a": "King Cold",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What destroyer god loves pudding?",
+      "a": "Beerus",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What android scientist creates Cell?",
+      "a": "Dr. Gero",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Namekian wish dragon called?",
+      "a": "Porunga",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Trunks's mother called?",
+      "a": "Bulma",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What form does Gohan unlock in Super Hero?",
+      "a": "Beast",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What earring method creates Vegito?",
+      "a": "Potara fusion",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the Namekian wish dragon?",
+      "a": "Porunga",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the race that Frieza rules over?",
+      "a": "The Frieza Force / Cold Empire",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Z Fighter trains Gohan through the early Z saga?",
+      "a": "Piccolo",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Trunks's mother's profession?",
+      "a": "Scientist / CEO of Capsule Corp",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Goku's signature defensive stance?",
+      "a": "Turtle School martial arts",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Ultra Instinct?",
+      "a": "A godly technique where the body moves automatically without thought — Goku achieves it against Jiren in Super",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Tournament of Power?",
+      "a": "A battle royale between the strongest warriors of eight universes — losers' universes are erased",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Vegeta's Saiyan pride?",
+      "a": "His pride is his greatest strength and weakness — his arc is learning to fight for others, not just pride",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Zenkai boost?",
+      "a": "The Saiyan ability to grow stronger after nearly dying — it explains their exponential power scaling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jiren?",
+      "a": "The most powerful mortal in the multiverse — he forced Goku to unlock Ultra Instinct",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Grand Priest?",
+      "a": "The father of the Angels — the most powerful being below the Omni-Kings",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Omni-King Zeno?",
+      "a": "The ruler of all universes — a childlike being of absolute power who erases universes casually",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Gohan's decline in power?",
+      "a": "He stopped training after Cell — in Buu saga he has to rush to reclaim his power. A critique of talent wasted by complacency",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the legendary significance of the Raditz fight?",
+      "a": "It introduced power levels as a concept — changing how audiences understood strength in anime",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dragon Ball GT vs Super controversy?",
+      "a": "GT was a non-canon sequel made without Toriyama's involvement; Super is the official continuation but fans debate quality",
+      "file": "App.jsx"
+    }
+  ]
+}

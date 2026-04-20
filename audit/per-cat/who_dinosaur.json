@@ -1,0 +1,548 @@
+{
+  "200": [
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Tyrannosaurus Rex",
+      "wiki": "Tyrannosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Velociraptor",
+      "wiki": "Velociraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Triceratops",
+      "wiki": "Triceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Stegosaurus",
+      "wiki": "Stegosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Brachiosaurus",
+      "wiki": "Brachiosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pterodactyl",
+      "wiki": "Pterodactylus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Spinosaurus",
+      "wiki": "Spinosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Ankylosaurus",
+      "wiki": "Ankylosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Diplodocus",
+      "wiki": "Diplodocus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pachycephalosaurus",
+      "wiki": "Pachycephalosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Parasaurolophus",
+      "wiki": "Parasaurolophus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Allosaurus",
+      "wiki": "Allosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Gallimimus",
+      "wiki": "Gallimimus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Apatosaurus",
+      "wiki": "Apatosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Iguanodon",
+      "wiki": "Iguanodon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Plesiosaurus",
+      "wiki": "Plesiosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Mosasaurus",
+      "wiki": "Mosasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pteranodon",
+      "wiki": "Pteranodon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Compsognathus",
+      "wiki": "Compsognathus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Dilophosaurus",
+      "wiki": "Dilophosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Carnotaurus",
+      "wiki": "Carnotaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Giganotosaurus",
+      "wiki": "Giganotosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Deinonychus",
+      "wiki": "Deinonychus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Oviraptor",
+      "wiki": "Oviraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Therizinosaurus",
+      "wiki": "Therizinosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Argentinosaurus",
+      "wiki": "Argentinosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Utahraptor",
+      "wiki": "Utahraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Ceratosaurus",
+      "wiki": "Ceratosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Styracosaurus",
+      "wiki": "Styracosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Troodon",
+      "wiki": "Troodon",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Baryonyx",
+      "wiki": "Baryonyx",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Megalosaurus",
+      "wiki": "Megalosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Corythosaurus",
+      "wiki": "Corythosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Protoceratops",
+      "wiki": "Protoceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Maiasaura",
+      "wiki": "Maiasaura",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Edmontosaurus",
+      "wiki": "Edmontosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Dimetrodon",
+      "wiki": "Dimetrodon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Kentrosaurus",
+      "wiki": "Kentrosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Coelophysis",
+      "wiki": "Coelophysis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Hadrosaurus",
+      "wiki": "Hadrosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Euoplocephalus",
+      "wiki": "Euoplocephalus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Stygimoloch",
+      "wiki": "Stygimoloch",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Majungasaurus",
+      "wiki": "Majungasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Saurolophus",
+      "wiki": "Saurolophus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Suchomimus",
+      "wiki": "Suchomimus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Yutyrannus",
+      "wiki": "Yutyrannus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pentaceratops",
+      "wiki": "Pentaceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Torosaurus",
+      "wiki": "Torosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Lambeosaurus",
+      "wiki": "Lambeosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Camarasaurus",
+      "wiki": "Camarasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Acrocanthosaurus",
+      "wiki": "Acrocanthosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Mapusaurus",
+      "wiki": "Mapusaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Tarbosaurus",
+      "wiki": "Tarbosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Albertosaurus",
+      "wiki": "Albertosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Daspletosaurus",
+      "wiki": "Daspletosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Gorgosaurus",
+      "wiki": "Gorgosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Einiosaurus",
+      "wiki": "Einiosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Chasmosaurus",
+      "wiki": "Chasmosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Centrosaurus",
+      "wiki": "Centrosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Ouranosaurus",
+      "wiki": "Ouranosaurus",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Qianzhousaurus",
+      "wiki": "Qianzhousaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Amargasaurus",
+      "wiki": "Amargasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Huayangosaurus",
+      "wiki": "Huayangosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Nodosaurus",
+      "wiki": "Nodosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Borealopelta",
+      "wiki": "Borealopelta",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Microraptor",
+      "wiki": "Microraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Sinosauropteryx",
+      "wiki": "Sinosauropteryx",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Caudipteryx",
+      "wiki": "Caudipteryx",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Archaeopteryx",
+      "wiki": "Archaeopteryx",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Psittacosaurus",
+      "wiki": "Psittacosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Leaellynasaura",
+      "wiki": "Leaellynasaura",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Muttaburrasaurus",
+      "wiki": "Muttaburrasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Scutellosaurus",
+      "wiki": "Scutellosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Dracorex",
+      "wiki": "Dracorex",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Dreadnoughtus",
+      "wiki": "Dreadnoughtus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Patagotitan",
+      "wiki": "Patagotitan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Mamenchisaurus",
+      "wiki": "Mamenchisaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Shunosaurus",
+      "wiki": "Shunosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Rebbachisaurus",
+      "wiki": "Rebbachisaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Concavenator",
+      "wiki": "Concavenator",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Shantungosaurus",
+      "wiki": "Shantungosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Segnosaurus",
+      "wiki": "Segnosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Alxasaurus",
+      "wiki": "Alxasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Jeholornis",
+      "wiki": "Jeholornis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Yi qi",
+      "wiki": "Yi_qi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Anzu",
+      "wiki": "Anzu_(dinosaur)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Kosmoceratops",
+      "wiki": "Kosmoceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Sinoceratops",
+      "wiki": "Sinoceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Nasutoceratops",
+      "wiki": "Nasutoceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Yinlong",
+      "wiki": "Yinlong",
+      "file": "App.jsx"
+    }
+  ]
+}

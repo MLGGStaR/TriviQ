@@ -1,0 +1,548 @@
+{
+  "200": [
+    {
+      "q": "🧛‍♂️ 🧄 🌙",
+      "a": "Twilight",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "❄️ 👭 👑",
+      "a": "Frozen",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🦇 🃏 🌃",
+      "a": "The Dark Knight",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "👨‍🚀🌌🧐",
+      "a": "Interstellar",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🧔⚡🔩",
+      "a": "Thor",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🦁👑🌅",
+      "a": "The Lion King",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🦁 👑 🌅",
+      "a": "The Lion King",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "❄️ 👭 👑",
+      "a": "Frozen",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🕷️ 🧑 🏙️",
+      "a": "Spider-Man",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚢 💎 🌊",
+      "a": "Titanic",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🤠 🚀 🧸",
+      "a": "Toy Story",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦖 🏝️ ⚡",
+      "a": "Jurassic Park",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧙 ⚡ 🦉",
+      "a": "Harry Potter",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦈 🏖️ 🌊",
+      "a": "Jaws",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐀 👨‍🍳 🍝",
+      "a": "Ratatouille",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐠 🔍 🌊",
+      "a": "Finding Nemo",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👻 🚫 🚒",
+      "a": "Ghostbusters",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏹 🔥 🍞",
+      "a": "The Hunger Games",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👬 ☕ 🛋️",
+      "a": "Friends",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏢 📎 😐",
+      "a": "The Office",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍🏫 🧪 💀",
+      "a": "Breaking Bad",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👧 🧇 🔬",
+      "a": "Stranger Things",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦇 🌃 🃏",
+      "a": "Batman",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🛡️ 🔨 🦸",
+      "a": "The Avengers",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚀 ⭐ ⚔️",
+      "a": "Star Wars",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧅 👹 👸",
+      "a": "Shrek",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏠 👦 🎄",
+      "a": "Home Alone",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚗 🏁 ⚡",
+      "a": "Cars",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌊 ⛵ 🌺",
+      "a": "Moana",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧽 🍍 🌊",
+      "a": "SpongeBob SquarePants",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧟‍♂️ 🏹 👮",
+      "a": "The Walking Dead",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐉 👑 🗡️",
+      "a": "Game of Thrones",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚡ 🏃 ⏱️",
+      "a": "The Flash",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💊 🕶️ 🖥️",
+      "a": "The Matrix",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏴‍☠️ 🧭 🌊",
+      "a": "Pirates of the Caribbean",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍👩‍👧‍👦 🍩 🟡",
+      "a": "The Simpsons",
+      "file": "emojiGuessCategories"
+    }
+  ],
+  "400": [
+    {
+      "q": "💼 ⚖️ 👔",
+      "a": "Suits",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🕵️‍♂️ 🎻 🔎",
+      "a": "Sherlock",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🍗 🧪 💀",
+      "a": "Breaking Bad",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🧪👨‍🏫💊",
+      "a": "Breaking Bad",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🕷️👨‍🎓🗽",
+      "a": "Spider-Man",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "👑🐉🗡️",
+      "a": "Game of Thrones",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🏛️ ⚔️ 👑",
+      "a": "Gladiator",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "✈️ 😎 🎯",
+      "a": "Top Gun",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚗 ⚡ 🕒",
+      "a": "Back to the Future",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🃏 🦇 🌃",
+      "a": "The Dark Knight",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌍 💙 🌿",
+      "a": "Avatar",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧜‍♀️ 🐚 🎤",
+      "a": "The Little Mermaid",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦸‍♂️ 👨‍👩‍👧‍👦 🔥",
+      "a": "The Incredibles",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐾 👑 ⚫",
+      "a": "Black Panther",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚀 🦝 🌌",
+      "a": "Guardians of the Galaxy",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐶 🔫 🕴️",
+      "a": "John Wick",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🔪 🍩 🕵️",
+      "a": "Knives Out",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎰 🤵 🔫",
+      "a": "Casino Royale",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎩 🪄 ⚡",
+      "a": "The Prestige",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🤖 🔥 🕶️",
+      "a": "Terminator 2: Judgment Day",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧱 🗺️ 🏃",
+      "a": "Prison Break",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍🔬 👨‍🔬 🛋️",
+      "a": "The Big Bang Theory",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💼 ⚖️ 👔",
+      "a": "Suits",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🩸 🔬 🌴",
+      "a": "Dexter",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪓 ⛵ 👑",
+      "a": "Vikings",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👮 9️⃣9️⃣ 😎",
+      "a": "Brooklyn Nine-Nine",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💍 🌋 🧝",
+      "a": "The Lord of the Rings",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👶 🛸 🪖",
+      "a": "The Mandalorian",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚬 🧢 🔪",
+      "a": "Peaky Blinders",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🕵️ 🎻 🔎",
+      "a": "Sherlock",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "✈️ 🏝️ ❓",
+      "a": "Lost",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏥 ❤️ 👩‍⚕️",
+      "a": "Grey's Anatomy",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦸‍♂️ 🧪 😈",
+      "a": "The Boys",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👦 🦸 🩸",
+      "a": "Invincible",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚔️ 🐺 🧙",
+      "a": "The Witcher",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚀 🪐 ⌛",
+      "a": "Interstellar",
+      "file": "emojiGuessCategories"
+    }
+  ],
+  "600": [
+    {
+      "q": "🧠 📺 🚪",
+      "a": "The Truman Show",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🏨 🍰 🔔",
+      "a": "The Grand Budapest Hotel",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🚚 🔥 🏜️",
+      "a": "Mad Max: Fury Road",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🧥🧠🔪",
+      "a": "Dexter",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🧑‍🚀🌽🪐",
+      "a": "Interstellar",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🖤📺🧠",
+      "a": "Black Mirror",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🥁 👨‍🏫 😤",
+      "a": "Whiplash",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏥 🏝️ 🧠",
+      "a": "Shutter Island",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👦 👻 🤫",
+      "a": "The Sixth Sense",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📺 🌍 🚪",
+      "a": "The Truman Show",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎹 🌃 💃",
+      "a": "La La Land",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛵ ✈️ 🔥",
+      "a": "Dunkirk",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪖 🏃 🌫️",
+      "a": "1917",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐻 ❄️ 🏹",
+      "a": "The Revenant",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💍 📓 🕵️",
+      "a": "Gone Girl",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏎️ 🐎 🔧",
+      "a": "Ford v Ferrari",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧠 🔐 💻",
+      "a": "The Imitation Game",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛏️ 🌧️ 🧱",
+      "a": "The Shawshank Redemption",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚚 🔥 🏜️",
+      "a": "Mad Max: Fury Road",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⏱️ 👽 🔁",
+      "a": "Edge of Tomorrow",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🩰 🦢 🩸",
+      "a": "Black Swan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💼 🌵 🔫",
+      "a": "No Country for Old Men",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🤖 🌆 🦄",
+      "a": "Blade Runner 2049",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏨 🧳 🍰",
+      "a": "The Grand Budapest Hotel",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚖️ 📞 💼",
+      "a": "Better Call Saul",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍⚕️ 🩼 🏥",
+      "a": "House",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🤖 🤠 🎢",
+      "a": "Westworld",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📱 📺 ⚫",
+      "a": "Black Mirror",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍝 🦆 👔",
+      "a": "The Sopranos",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍🍳 🐻 🍽️",
+      "a": "The Bear",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧠 🕵️ 🔪",
+      "a": "Mindhunter",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍👦 💼 💰",
+      "a": "Succession",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐉 🔥 👑",
+      "a": "House of the Dragon",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍄 🌎 👧",
+      "a": "The Last of Us",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌴 🏨 💀",
+      "a": "The White Lotus",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌵 🪱 👑",
+      "a": "Dune",
+      "file": "emojiGuessCategories"
+    }
+  ]
+}

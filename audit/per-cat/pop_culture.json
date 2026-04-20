@@ -1,0 +1,518 @@
+{
+  "200": [
+    {
+      "q": "Which app is famous for short dance videos?",
+      "a": "TikTok",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Beyoncé's husband?",
+      "a": "Jay-Z",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which streaming service has the red 'N' logo?",
+      "a": "Netflix",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which boy band sang 'I Want It That Way'?",
+      "a": "Backstreet Boys",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Kardashian sister founded the brand 'SKIMS'?",
+      "a": "Kim Kardashian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer released 'Bad Guy' in 2019?",
+      "a": "Billie Eilish",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the platform formerly known as Twitter?",
+      "a": "X",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which famous Italian fashion brand has a Medusa logo?",
+      "a": "Versace",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which video site is the largest in the world?",
+      "a": "YouTube",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which app's logo is a yellow ghost on a yellow background?",
+      "a": "Snapchat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Disney movie features Elsa and Anna?",
+      "a": "Frozen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which app uses a pink-and-white camera logo?",
+      "a": "Instagram",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer married Justin Bieber?",
+      "a": "Hailey Baldwin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which animated franchise features a yellow sponge?",
+      "a": "SpongeBob SquarePants",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the lead singer of Coldplay?",
+      "a": "Chris Martin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which fast food chain has golden arches?",
+      "a": "McDonald's",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which game show host hosted 'Wheel of Fortune' for decades?",
+      "a": "Pat Sajak",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer is known as 'Slim Shady'?",
+      "a": "Eminem",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Apple product is a smartphone?",
+      "a": "iPhone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which sport is Tom Brady famous for?",
+      "a": "American football",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What social media platform has a bird (now X) logo?",
+      "a": "Twitter (X)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the most followed person on Instagram?",
+      "a": "Cristiano Ronaldo",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What dating app do you swipe right on?",
+      "a": "Tinder",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What band sang 'Yesterday'?",
+      "a": "The Beatles",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most streamed song on Spotify of all time?",
+      "a": "Blinding Lights (The Weeknd)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the most subscribed YouTuber (channel)?",
+      "a": "MrBeast",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What singer is known as 'Riri'?",
+      "a": "Rihanna",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What reality show sends contestants to find love on an island?",
+      "a": "Love Island",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What platform is known for short-form vertical videos?",
+      "a": "TikTok",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What comic book character is 'the Dark Knight'?",
+      "a": "Batman",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What pop star has an 'Eras Tour'?",
+      "a": "Taylor Swift",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Which social app is known for short dance and lip-sync videos that went viral in 2020?",
+      "a": "TikTok",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "Which reality show launched the Kardashians?",
+      "a": "Keeping Up with the Kardashians",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who played Joey on Friends?",
+      "a": "Matt LeBlanc",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which boy band did Harry Styles belong to?",
+      "a": "One Direction",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded Apple alongside Steve Jobs?",
+      "a": "Steve Wozniak",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which talk show host gave away cars to her audience?",
+      "a": "Oprah Winfrey",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which actress starred in 'Pretty Woman'?",
+      "a": "Julia Roberts",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which rapper released 'The Marshall Mathers LP'?",
+      "a": "Eminem",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What year did MTV first air?",
+      "a": "1981",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer's real name is Stefani Germanotta?",
+      "a": "Lady Gaga",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which actress played Wednesday in the 2022 Netflix series?",
+      "a": "Jenna Ortega",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which YouTuber is the most-subscribed individual creator?",
+      "a": "MrBeast",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer headlined the 2024 Super Bowl halftime show?",
+      "a": "Usher",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which couple are nicknamed 'Bennifer'?",
+      "a": "Ben Affleck and Jennifer Lopez",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which actress founded the production company Hello Sunshine?",
+      "a": "Reese Witherspoon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer wore a meat dress to the 2010 VMAs?",
+      "a": "Lady Gaga",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which fashion designer founded Fenty Beauty?",
+      "a": "Rihanna",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which K-pop group performed at the United Nations in 2018?",
+      "a": "BTS",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer is dating NFL star Travis Kelce?",
+      "a": "Taylor Swift",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which streaming service produced 'The Crown'?",
+      "a": "Netflix",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which talk show host ended her 19-year daytime show in 2022?",
+      "a": "Ellen DeGeneres",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer released the album '1989' in 2014?",
+      "a": "Taylor Swift",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which TV show features the character Eleven with telekinetic powers?",
+      "a": "Stranger Things",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which YouTuber-turned-boxer is known as 'KSI'?",
+      "a": "Olajide Olatunji",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which model and actress is on the cover of British Vogue and known as 'Bella'?",
+      "a": "Bella Hadid",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Drake's son?",
+      "a": "Adonis",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did Instagram launch?",
+      "a": "2010",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What TV show features Sheldon Cooper?",
+      "a": "The Big Bang Theory",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Netflix series is about a chess prodigy?",
+      "a": "The Queen's Gambit",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What movie featured the 'Barbenheimer' phenomenon?",
+      "a": "Barbie and Oppenheimer (released same day)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What singer won Album of the Year 4 times at the Grammys?",
+      "a": "Taylor Swift",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What reality competition has Gordon Ramsay as a judge?",
+      "a": "MasterChef / Hell's Kitchen",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the richest person in the world (as of 2024)?",
+      "a": "Elon Musk / Bernard Arnault",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What streaming service produced 'Wednesday'?",
+      "a": "Netflix",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What film became the highest-grossing film of 2023?",
+      "a": "Barbie",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most-liked photo on Instagram?",
+      "a": "A photo of an egg (World Record Egg)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What animated series features Morty and his grandfather?",
+      "a": "Rick and Morty",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "Who was the first artist to have a music video on MTV?",
+      "a": "The Buggles",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which magazine names the 'Person of the Year' annually?",
+      "a": "Time",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who wrote and recorded 'Imagine' in 1971?",
+      "a": "John Lennon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which rapper founded Roc-A-Fella Records with Damon Dash?",
+      "a": "Jay-Z",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who painted the Marilyn Diptych?",
+      "a": "Andy Warhol",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which couple were known as 'Brangelina'?",
+      "a": "Brad Pitt and Angelina Jolie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who hosted 'The Daily Show' from 1999 to 2015?",
+      "a": "Jon Stewart",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which fashion designer founded the brand YSL?",
+      "a": "Yves Saint Laurent",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which TV show ended with the phrase 'Live long and prosper'?",
+      "a": "Star Trek",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created Spider-Man with Steve Ditko?",
+      "a": "Stan Lee",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which actor has won the most Best Actor Oscars (3 wins)?",
+      "a": "Daniel Day-Lewis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which actor won Best Actor at the 2023 Oscars for 'The Whale'?",
+      "a": "Brendan Fraser",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which 2023 film became Universal's highest-grossing animated film?",
+      "a": "The Super Mario Bros. Movie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which novel by Colleen Hoover topped 2022 bestseller lists?",
+      "a": "It Ends with Us",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Netflix documentary featured Taylor Swift in 2020?",
+      "a": "Miss Americana",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which director made 'The Dark Knight'?",
+      "a": "Christopher Nolan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded the Met Gala fundraising tradition?",
+      "a": "Eleanor Lambert",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which fashion magazine is run by Anna Wintour?",
+      "a": "Vogue",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Beatle was assassinated in 1980?",
+      "a": "John Lennon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which film won Best Animated Feature at the 2024 Oscars?",
+      "a": "The Boy and the Heron",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Princess Fiona in Shrek?",
+      "a": "Cameron Diaz",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who wrote the 'Harry Potter' book series?",
+      "a": "J.K. Rowling",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which actress holds the record for most Best Actress Oscar nominations?",
+      "a": "Meryl Streep",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Beyoncé's visual album released in 2016?",
+      "a": "Lemonade",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Netflix documentary exposed tiger breeding in the US?",
+      "a": "Tiger King",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'Everything Everywhere All At Once'?",
+      "a": "Daniel Kwan and Daniel Scheinert (Daniels)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What podcast became the most downloaded in Spotify history?",
+      "a": "The Joe Rogan Experience",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did TikTok launch internationally?",
+      "a": "2017 (as TikTok; Musical.ly merged 2018)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What artist broke the record for most Grammy wins in a single night?",
+      "a": "Beyoncé (2023)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most expensive film ever made?",
+      "a": "Pirates of the Caribbean: On Stranger Tides (~$379M)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What phenomenon caused GameStop stock to surge in 2021?",
+      "a": "Reddit's r/WallStreetBets short squeeze",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What 2024 film featured Ryan Gosling as Ken?",
+      "a": "Barbie (2023, but continued through awards)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most-watched YouTube video of all time?",
+      "a": "Baby Shark Dance",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What platform acquired Twitch in 2014?",
+      "a": "Amazon",
+      "file": "megaNewExpansions"
+    }
+  ]
+}

@@ -1,0 +1,623 @@
+{
+  "200": [
+    {
+      "q": "What is Jesse's last name?",
+      "a": "Pinkman",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What nickname is Walter White Jr. often called?",
+      "a": "Walt Jr.",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What state is Breaking Bad set in?",
+      "a": "New Mexico",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Jesse Pinkman's catchphrase?",
+      "a": "Yeah, science!",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Walter White cook?",
+      "a": "Methamphetamine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many seasons does Breaking Bad have?",
+      "a": "5",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the car wash the Whites buy?",
+      "a": "A1A Car Wash",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What fast food restaurant does Gus Fring own?",
+      "a": "Los Pollos Hermanos",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Walter's son's name?",
+      "a": "Walter Jr. (Flynn)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did Breaking Bad premiere?",
+      "a": "2008",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Walter White's alias?",
+      "a": "Heisenberg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What subject does Walter White teach?",
+      "a": "Chemistry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What color is their signature meth?",
+      "a": "Blue",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What disease does Walter have?",
+      "a": "Lung cancer (Stage 3A, inoperable)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Jesse's catchphrase?",
+      "a": "Yeah, science! / Yeah, bitch!",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Walter's wife's name?",
+      "a": "Skyler White",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the lawyer's name?",
+      "a": "Saul Goodman (real name Jimmy McGill)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where does Breaking Bad take place?",
+      "a": "Albuquerque, New Mexico",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Walter's son's name?",
+      "a": "Walter White Jr. — goes by Flynn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Walter cook?",
+      "a": "Crystal methamphetamine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Hank's job?",
+      "a": "DEA agent",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Los Pollos Hermanos?",
+      "a": "Gus Fring's fried chicken restaurant chain — a front for his drug empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Walter White?",
+      "a": "Bryan Cranston",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Jesse Pinkman?",
+      "a": "Aaron Paul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What car does Walter buy impulsively after first cook?",
+      "a": "A Pontiac Aztek — later a Dodge Challenger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the DEA?",
+      "a": "Drug Enforcement Administration — the federal agency Hank works for",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What series prequel spinoff is Breaking Bad known for?",
+      "a": "Better Call Saul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Walter ultimately die trying to save?",
+      "a": "Jesse Pinkman — he rescues him from neo-Nazis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Combo?",
+      "a": "One of Jesse's friends who is shot while selling meth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Badger?",
+      "a": "Brandon Mayhew — one of Jesse's goofy friends",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Walt's business partner before the show?",
+      "a": "Elliot Schwartz — co-founder of Gray Matter Technologies",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Breaking Bad mean?",
+      "a": "A Southern US expression meaning to go wrong or deviate from the straight and narrow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Andrea Cantillo?",
+      "a": "Jesse's girlfriend who is killed by Todd as a message to Jesse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Skinny Pete?",
+      "a": "One of Jesse's friends — a surprisingly skilled pianist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where does Walt bury his money?",
+      "a": "In the desert, coordinated using lottery ticket GPS coordinates",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What fake company is used to hide the superlab laundry operation?",
+      "a": "Lavanderia Brillante",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What poison plant does Walter use on Brock?",
+      "a": "Lily of the Valley",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Mike Ehrmantraut's granddaughter's name?",
+      "a": "Kaylee",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Saul Goodman's real surname?",
+      "a": "McGill",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Walter White's car at the start of the series?",
+      "a": "Pontiac Aztek",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What company extermination front does Walt use to cook in houses?",
+      "a": "Vamonos Pest",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Skyler and Walt's daughter named?",
+      "a": "Holly",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Gus Fring's full name?",
+      "a": "Gustavo Fring",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Gus Fring?",
+      "a": "Giancarlo Esposito",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What kills Gus Fring?",
+      "a": "A pipe bomb (attached to Hector's wheelchair)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Mike's granddaughter?",
+      "a": "Kaylee",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Tuco Salamanca's uncle's name?",
+      "a": "Hector Salamanca",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What song does Walter sing when he's in the crawl space?",
+      "a": "He laughs maniacally",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What RV brand do Walt and Jesse cook in?",
+      "a": "Fleetwood Bounder",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Jesse's girlfriend who dies of overdose?",
+      "a": "Jane Margolis",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Hank collect as a hobby?",
+      "a": "Minerals (rocks)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the law firm where Saul works?",
+      "a": "Saul Goodman & Associates",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What pseudonym does Walter Jr. use?",
+      "a": "Flynn",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who kills Hank Schrader?",
+      "a": "Jack Welker",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Walter's brother-in-law?",
+      "a": "Hank Schrader — a DEA agent who unknowingly hunts his own family",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Walter's former business worth billions?",
+      "a": "Gray Matter Technologies — he sold his share for $5,000",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How does Gus Fring die?",
+      "a": "A pipe bomb rigged under Hector Salamanca's wheelchair",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What acid does Walter use to dissolve bodies?",
+      "a": "Hydrofluoric acid (HF)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who kills Mike Ehrmantraut?",
+      "a": "Walter White — in a fit of rage by the river",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the fate of Walter White?",
+      "a": "He dies from a gunshot wound after rescuing Jesse and exposing the neo-Nazis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the blue meth's purity?",
+      "a": "99.1% pure — almost impossibly high quality",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gustavo Fring?",
+      "a": "A powerful drug kingpin hiding behind his Pollos Hermanos restaurant chain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the fly episode?",
+      "a": "Walter becomes obsessed with a fly — symbolising guilt, contamination, and loss of control",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What did Walter do to Jane?",
+      "a": "He watched her choke to death without intervening — one of his most damning acts",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Walter's final confession to Skyler?",
+      "a": "I did it for me. I liked it. I was good at it. And I was really... I was alive",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lydia Rodarte-Quayle?",
+      "a": "A Madrigal Electromotive executive connecting Gus's operation to an international supply chain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How does Hank die?",
+      "a": "He is shot by Jack Welker in the desert after being captured",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the vacuum cleaner man?",
+      "a": "Ed Galbraith — a man who creates new identities and helps people disappear",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Vamonos Pest arc?",
+      "a": "Walter and Mike use a pest control company as a front — tenting houses as mobile meth labs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Tio Salamanca?",
+      "a": "Hector Salamanca — a wheelchair-bound former cartel boss who communicates by ringing a bell",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the poisoning of Brock about?",
+      "a": "Walter uses Lily of the Valley to poison Brock — to manipulate Jesse into helping kill Gus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who inherits Walter's money at the end?",
+      "a": "Walter Jr. receives it through the Schwartz trust — blood money Walter tries to make right",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens to Jesse at the end?",
+      "a": "He escapes, driving away screaming — his story continues in El Camino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the neo-Nazi uncle?",
+      "a": "Jack Welker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the White Supremacist gang?",
+      "a": "Jack Welker and Todd take over the cook — imprisoning Jesse as their slave cook",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the methylamine used for?",
+      "a": "The key precursor chemical for Walter's unique blue meth synthesis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Saul Goodman really?",
+      "a": "Jimmy McGill — later runs a Cinnabon in Omaha as Gene Takavic (Better Call Saul)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Vamonos Pest front?",
+      "a": "A pest control company used as cover — they tent houses and cook meth inside",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Why does Walter's cancer return in Season 5?",
+      "a": "His cancer progresses again — giving him little time to live and nothing left to lose",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What pseudonym does Saul Goodman live under after disappearing?",
+      "a": "Gene Takavic",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What German conglomerate is tied to Gus's meth operation?",
+      "a": "Madrigal Electromotive",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What title is often considered Breaking Bad's most acclaimed episode?",
+      "a": "Ozymandias",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What machine gun does Walt use in the final showdown?",
+      "a": "An M60",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What company did Walt help found before teaching?",
+      "a": "Gray Matter",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who kills Gus Fring?",
+      "a": "Hector Salamanca",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of the vacuum repairman who disappears people?",
+      "a": "Ed Galbraith",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Who poisons Brock Cantillo?",
+      "a": "Walter White",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the underground lab chemist Walt replaces named?",
+      "a": "Gale",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the model of the RV used for early cooks?",
+      "a": "Fleetwood Bounder",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What song plays during the prison hit montage?",
+      "a": "Pick Yourself Up",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What song does Gale sing in the lab video?",
+      "a": "Major Tom",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Todd Alquist's uncle's first name?",
+      "a": "Jack",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the name of the nursing home where Hector lives?",
+      "a": "Casa Tranquila",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What laundry front hides Gus Fring's superlab?",
+      "a": "Lavanderia Brillante",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What junkyard owner helps Walt and Jesse destroy evidence?",
+      "a": "Old Joe",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What name does Saul give the laser tag owner he recommends?",
+      "a": "Danny",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the name of the final episode?",
+      "a": "Felina",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What song plays during the final scene?",
+      "a": "Baby Blue by Badfinger",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What ricin-laced item does Walter use in the finale?",
+      "a": "Stevia packet (for Lydia)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the pest control company Walt cooks under?",
+      "a": "Vamonos Pest",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Lydia Rodarte-Quayle's preferred drink?",
+      "a": "Chamomile tea with stevia",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does the name 'Felina' reference?",
+      "a": "Fe-Li-Na = Iron, Lithium, Sodium (blood, meth, tears)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed the pilot of Breaking Bad?",
+      "a": "Vince Gilligan",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum purity Walter's meth reaches?",
+      "a": "99.1%",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What spin-off series follows Saul Goodman?",
+      "a": "Better Call Saul",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the cartel don who Gus kills?",
+      "a": "Don Eladio",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What poison does Walter use on Brock?",
+      "a": "Lily of the Valley",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What fake name does Walter use to buy a gun?",
+      "a": "Mr. Lambert",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What confession does Walter make in the finale?",
+      "a": "He did it for himself, because he liked it",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the only Salamanca cousin to survive?",
+      "a": "None (both die)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year does the series finale take place?",
+      "a": "2010 (in-show timeline)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What chemistry makes their meth blue?",
+      "a": "Their P2P reductive amination synthesis produces a racemic mixture — the unique route gives it a blue tint",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Heisenberg name reference?",
+      "a": "Werner Heisenberg — quantum physicist famous for the Uncertainty Principle, reflecting Walt's unpredictability",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is El Camino about?",
+      "a": "Jesse gets money from a safe, buys a new identity from Ed the disappearer, and moves to Alaska",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Walter's hat symbolise?",
+      "a": "The porkpie hat symbolises his transformation from mild teacher to criminal kingpin — the Heisenberg identity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the pink teddy bear's significance in Season 2?",
+      "a": "It connects to a Wayfarer airline crash — caused by Jane's grief-stricken father — all consequences of Walter's choices",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How does Walter poison Brock?",
+      "a": "Using Lily of the Valley berries — after Huell pickpockets Jesse's ricin cigarette; Walter blames Gus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the full arc of Jesse Pinkman?",
+      "a": "From small-time meth cook to enslaved cook to free man — a journey of trauma, guilt, and liberation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Ozymandias episode about?",
+      "a": "The fallout of the desert shootout — Hank's death, Walt's empire collapsing, the family's destruction",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What philosophical concept does Breaking Bad illustrate?",
+      "a": "The banality of evil — an ordinary man makes rationalised choices that lead to becoming genuinely evil",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the neo-Nazi cook vs Walt's cook?",
+      "a": "Todd can cook but can't replicate the blue — his meth is inferior, forcing them to keep Jesse alive",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Huell and what is his most famous moment?",
+      "a": "Saul's bodyguard — famous for lying sprawled on Walter's money, grinning contentedly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Gus Fring's backstory?",
+      "a": "His partner Max was killed by the Salamancas — his entire drug empire was built around revenge against Don Eladio",
+      "file": "App.jsx"
+    }
+  ]
+}

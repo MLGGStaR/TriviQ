@@ -1,0 +1,758 @@
+{
+  "200": [
+    {
+      "q": "What is the name of Han Solo's Wookiee copilot?",
+      "a": "Chewbacca",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What planet is famous for Ewoks?",
+      "a": "Endor",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What weapon do Jedi traditionally use?",
+      "a": "Lightsabers",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What planet is Princess Leia from?",
+      "a": "Alderaan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is Luke Skywalker's father?",
+      "a": "Darth Vader",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the weapon of a Jedi?",
+      "a": "Lightsaber",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the small green Jedi Master?",
+      "a": "Yoda",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Han Solo's ship?",
+      "a": "Millennium Falcon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Han Solo in the original trilogy?",
+      "a": "Harrison Ford",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the evil empire called?",
+      "a": "Galactic Empire",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Luke's twin sister?",
+      "a": "Leia Organa",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the signature phrase 'May the ___ be with you'?",
+      "a": "Force",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who shot first in the cantina?",
+      "a": "Han Solo (original version)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What furry creatures live on Endor?",
+      "a": "Ewoks",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed the original Star Wars (1977)?",
+      "a": "George Lucas",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Darth Vader's real name?",
+      "a": "Anakin Skywalker",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the bounty hunter who captures Han Solo?",
+      "a": "Boba Fett",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Luke Skywalker's father?",
+      "a": "Darth Vader (Anakin Skywalker)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Han Solo's ship?",
+      "a": "The Millennium Falcon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Color of Mace Windu's lightsaber?",
+      "a": "Purple",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Species of Chewbacca?",
+      "a": "Wookiee",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who says Do or do not, there is no try?",
+      "a": "Yoda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Planet destroyed by the Death Star?",
+      "a": "Alderaan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Baby Yoda's real name?",
+      "a": "Grogu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who trained Obi-Wan Kenobi?",
+      "a": "Qui-Gon Jinn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Force?",
+      "a": "An energy field created by all living things that binds the galaxy together",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Color of Darth Vader's lightsaber?",
+      "a": "Red",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Luke's home planet?",
+      "a": "Tatooine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Empire's massive superweapon?",
+      "a": "The Death Star",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who voices Darth Vader?",
+      "a": "James Earl Jones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Emperor?",
+      "a": "Palpatine / Darth Sidious — the Sith Lord ruling the Galactic Empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are X-Wings?",
+      "a": "The main starfighter used by the Rebel Alliance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Jedi?",
+      "a": "A Force-sensitive member of the peacekeeping order serving the light side",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sith?",
+      "a": "An ancient order of Force users serving the dark side — fueled by passion and anger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jabba the Hutt?",
+      "a": "A powerful crime lord on Tatooine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a lightsaber made of?",
+      "a": "A plasma blade powered by a kyber crystal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Yoda?",
+      "a": "A legendary Jedi Grand Master — one of the oldest and most powerful Jedi ever",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rebel Alliance?",
+      "a": "The resistance movement fighting against the Galactic Empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What built C-3PO?",
+      "a": "Anakin Skywalker built him as a child on Tatooine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lando Calrissian?",
+      "a": "A charming scoundrel, former owner of the Millennium Falcon, general in the Rebel Alliance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Stormtroopers?",
+      "a": "The Empire's infantry soldiers in white armour",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Galactic Empire?",
+      "a": "The authoritarian government that controls the galaxy after the fall of the Republic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Princess Leia?",
+      "a": "A leader of the Rebel Alliance and later the Resistance — played by Carrie Fisher",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Order 66?",
+      "a": "A secret command that programmed clone troopers to simultaneously kill all Jedi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the two suns on Tatooine called?",
+      "a": "Tatoo I and Tatoo II",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ahsoka Tano?",
+      "a": "Anakin Skywalker's former Padawan — she left the Order and became an independent Force user",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Rogue One?",
+      "a": "It shows how the Rebel Alliance stole the Death Star plans — filling the gap before A New Hope",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is Anakin Skywalker's apprentice called?",
+      "a": "Ahsoka Tano",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the capital planet of the Galactic Republic?",
+      "a": "Coruscant",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the black-bladed saber of Mandalore called?",
+      "a": "The Darksaber",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who trained Qui-Gon Jinn before Obi-Wan trained under him?",
+      "a": "Count Dooku",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What superweapon appears in The Force Awakens?",
+      "a": "Starkiller Base",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What planet is Rey from?",
+      "a": "Jakku",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Kylo Ren's birth name?",
+      "a": "Ben Solo",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What armored bounty hunter protects Grogu?",
+      "a": "The Mandalorian",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Obi-Wan's birth surname?",
+      "a": "Kenobi",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Princess Leia's adoptive surname?",
+      "a": "Organa",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Order 66?",
+      "a": "The command to kill all Jedi",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the Emperor of the Galactic Empire?",
+      "a": "Emperor Palpatine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What planet is the Rebel base on in A New Hope?",
+      "a": "Yavin 4",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the trash compactor scene in?",
+      "a": "A New Hope (Death Star)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does AT-AT stand for?",
+      "a": "All Terrain Armored Transport",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Kylo Ren's mother?",
+      "a": "Leia Organa",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What clone commander executes Order 66 against Obi-Wan?",
+      "a": "Commander Cody",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Mandalorian's real name?",
+      "a": "Din Djarin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What planet is the Jedi Temple on?",
+      "a": "Coruscant",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who kills Jabba the Hutt?",
+      "a": "Leia (strangles with chain)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was 'The Empire Strikes Back' released?",
+      "a": "1980",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Kessel Run?",
+      "a": "A smuggling route — Han claims to have made it in less than 12 parsecs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Planet where Yoda hid in exile?",
+      "a": "Dagobah",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are midi-chlorians?",
+      "a": "Microscopic life forms that allow Force-sensitive beings to connect to the Force",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Darksaber?",
+      "a": "An ancient black-bladed lightsaber — the wielder is rightful ruler of Mandalore",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Darth Sidious's Sith master?",
+      "a": "Darth Plagueis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Planet the Galactic Senate is on?",
+      "a": "Coruscant",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Mandalorian?",
+      "a": "Din Djarin — a Mandalorian bounty hunter and guardian of Grogu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sith Rule of Two?",
+      "a": "There can only ever be two Sith — a master and an apprentice",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Inquisitors?",
+      "a": "Former Jedi turned to the dark side who hunt surviving Jedi for the Empire after Order 66",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the World between Worlds?",
+      "a": "A mystical plane connecting all time and space — accessible through the Jedi Temple on Lothal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Clone Wars?",
+      "a": "A galaxy-wide war between the Galactic Republic and Separatists, fought by clone armies and Jedi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Boba Fett?",
+      "a": "A Mandalorian bounty hunter — clone of Jango Fett, one of the most feared in the galaxy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Grand Admiral Thrawn?",
+      "a": "A brilliant Chiss Imperial tactician who studies enemy art to predict their behavior",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Prophecy of the Chosen One?",
+      "a": "An ancient Jedi prophecy — a being would bring balance to the Force, believed to be Anakin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Padmé Amidala?",
+      "a": "Queen then Senator of Naboo — mother of Luke and Leia, wife of Anakin Skywalker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a kyber crystal?",
+      "a": "The focusing crystal at the heart of every lightsaber — Force-sensitive, they choose their Jedi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Bespin?",
+      "a": "A gas giant home to Cloud City — where Han is frozen and Luke loses his hand to Vader",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Count Dooku?",
+      "a": "A former Jedi Master who became Darth Tyranus — Darth Sidious's apprentice",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Exegol?",
+      "a": "The hidden Sith world where Emperor Palpatine survived and rebuilt his Final Order fleet",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jyn Erso?",
+      "a": "Protagonist of Rogue One — daughter of Galen Erso, leads the mission to steal the Death Star plans",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Anakin's high midi-chlorian count?",
+      "a": "Highest ever recorded — believed to be the Chosen One destined to bring balance to the Force",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Galactic Civil War?",
+      "a": "The conflict between the Rebel Alliance and the Galactic Empire — central to the original trilogy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Bad Batch?",
+      "a": "A group of elite clone troopers with unique genetic mutations — the focus of The Bad Batch series",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Force Dyad?",
+      "a": "A rare Force bond between two beings who are one in the Force — Rey and Kylo Ren form one",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Mandalorian beskar armour?",
+      "a": "Beskar (Mandalorian iron) is nearly indestructible — it can deflect a lightsaber blade",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who built C-3PO?",
+      "a": "Anakin Skywalker built him as a child on Tatooine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Tragedy of Darth Plagueis the Wise?",
+      "a": "A Sith tale Palpatine tells Anakin — Plagueis learned to prevent death but was killed by his apprentice (Palpatine)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Whills?",
+      "a": "Mysterious beings — the Journal of the Whills frames the entire Star Wars saga",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mortis in The Clone Wars?",
+      "a": "A realm strong with the Force where the Father, Son, and Daughter represent the balance of light and dark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Darth Revan?",
+      "a": "An ancient Sith Lord from the Old Republic era — protagonist of Knights of the Old Republic",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What city floats above Bespin?",
+      "a": "Cloud City",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What powers a lightsaber blade?",
+      "a": "Kyber crystal",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What clone captain serves beside Anakin in The Clone Wars?",
+      "a": "Captain Rex",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What species is Ahsoka Tano?",
+      "a": "Togruta",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What are the raiders on Tatooine called?",
+      "a": "Tusken Raiders",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Obi-Wan's Jedi master called?",
+      "a": "Qui-Gon Jinn",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What prison world is central to Andor?",
+      "a": "Narkina 5",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What metal defines Mandalorian armor?",
+      "a": "Beskar",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What droid says 'Never tell me the odds' to C-3PO's worry?",
+      "a": "Han Solo",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What rebel pilot later becomes a spice runner in Andor?",
+      "a": "Cassian Andor",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What criminal runs Cloud City operations before Lando goes legit?",
+      "a": "Lando Calrissian",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What Jedi temple world do Luke's final lessons happen on in The Last Jedi?",
+      "a": "Ahch-To",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What order does Ahsoka leave during The Clone Wars?",
+      "a": "Jedi Order",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Grogu called by fans before his name is revealed?",
+      "a": "Baby Yoda",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What planet hosts the Death Star plans battle in Rogue One?",
+      "a": "Scarif",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What clone captain fights beside Ahsoka?",
+      "a": "Rex",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What floating city belongs to Lando in The Empire Strikes Back?",
+      "a": "Cloud City",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the significance of Ahsoka's white lightsabers?",
+      "a": "They represent neutrality (neither Jedi nor Sith)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed the Star Wars film scores?",
+      "a": "John Williams",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Darksaber?",
+      "a": "A unique black-bladed lightsaber (Mandalorian weapon)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who built C-3PO?",
+      "a": "Anakin Skywalker",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Count Dooku's Sith title?",
+      "a": "Darth Tyranus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What are Midi-chlorians?",
+      "a": "Microscopic organisms that connect beings to the Force",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the World Between Worlds?",
+      "a": "A Force dimension connecting all time and space",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who discovered the path to Force immortality?",
+      "a": "Qui-Gon Jinn",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What battle ended the Clone Wars?",
+      "a": "Battle of Coruscant (or Order 66 / Siege of Mandalore)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is carbonite freezing?",
+      "a": "A process that encases someone in carbonite (Han Solo)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Rule of Two?",
+      "a": "Only two Sith at any time — a master and an apprentice",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who established the Rule of Two?",
+      "a": "Darth Bane",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Palpatine's Sith name?",
+      "a": "Darth Sidious",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What ancient Sith planet is Palpatine hiding on in Rise of Skywalker?",
+      "a": "Exegol",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the title of the animated show set between Episodes III and IV?",
+      "a": "Star Wars Rebels",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Difference between light side and dark side of the Force?",
+      "a": "Light side: peace, knowledge, serenity. Dark side: passion, power, strength — fueled by anger and fear",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who built the flaw into the Death Star?",
+      "a": "Galen Erso — he built a thermal exhaust port that Luke destroys the Death Star through",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rule of Two's origin?",
+      "a": "Created by Darth Bane ~1,000 years before the films — to concentrate Sith power and avoid self-destruction",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Vergence in the Force?",
+      "a": "A concentrated point of Force energy — Anakin Skywalker was believed to have been conceived by one",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hundred-Year Darkness?",
+      "a": "A conflict ~7,000 years before the films when a Jedi splinter group first used dark side alchemy — creating the Sith",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Exar Kun?",
+      "a": "An ancient Sith Lord who discovered Sith magic and nearly destroyed the Jedi Order 4,000 years before the films",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the High Republic era?",
+      "a": "A golden age of the Jedi about 200 years before the prequels — explored in books and comics from 2021",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Force Ghost?",
+      "a": "The ability for a deceased Jedi to preserve their consciousness — first achieved by Qui-Gon Jinn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Obi-Wan's sacrifice in A New Hope?",
+      "a": "He allows Vader to strike him down, becoming one with the Force — guiding Luke from beyond death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sith's relationship with emotion?",
+      "a": "The Sith use emotion as power — the dark side is fueled by fear, anger, hatred, and suffering",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Anakin killing the Tusken Raiders?",
+      "a": "His mother's death at their hands is his first major step toward the dark side",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Doctor Aphra?",
+      "a": "An amoral archaeologist in the comics — companion to Darth Vader, one of the most popular new EU characters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of R2-D2 throughout the saga?",
+      "a": "He holds key information in every trilogy — he contained the complete map to the Jedi temples",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the difference between a Jedi Knight and a Jedi Master?",
+      "a": "A Knight completes training; a Master shows exceptional skill, wisdom, and usually trains a Padawan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Darth Vader NO in Revenge of the Sith?",
+      "a": "When Vader learns Padmé is dead, his anguished NO became a famous meme — representing his complete transformation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hundred-Year Darkness connection to Sith history?",
+      "a": "The creation of the Sith race through dark side alchemy — a group of fallen Jedi were exiled to Moraband",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Force Chosen One prophecy's ultimate fulfillment?",
+      "a": "Anakin destroys Darth Sidious (both in Return of the Jedi and The Rise of Skywalker) — bringing balance to the Force",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Zeffo?",
+      "a": "An ancient alien civilization — important in Jedi: Fallen Order — they explored the galaxy seeking connection with the Force",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the World between Worlds in Rebels?",
+      "a": "Ezra pulls Ahsoka out of death — suggesting Force-sensitive beings can transcend time and death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Midi-chlorian controversy?",
+      "a": "Many fans disliked The Phantom Menace's explanation that Force sensitivity is biological — contradicting its mystical nature",
+      "file": "App.jsx"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "200": [
+    {
+      "q": "What food is Naruto obsessed with?",
+      "a": "Ramen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What pirate crew does Luffy lead?",
+      "a": "The Straw Hat Pirates",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What anime follows bounty hunter Spike Spiegel?",
+      "a": "Cowboy Bebop",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What mecha anime stars Shinji Ikari?",
+      "a": "Neon Genesis Evangelion",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What energy do ninjas use in Naruto?",
+      "a": "Chakra",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What sport is central to Haikyuu!!?",
+      "a": "Volleyball",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title does Vegeta hold?",
+      "a": "Prince of the Saiyans",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Edward Elric's brother's name?",
+      "a": "Alphonse Elric",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What pirate cook serves on the Straw Hats?",
+      "a": "Sanji",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What anime follows Tanjiro Kamado fighting demons?",
+      "a": "Demon Slayer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What anime centers on giant mechs fighting Angels?",
+      "a": "Neon Genesis Evangelion",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What volleyball anime stars Hinata Shoyo?",
+      "a": "Haikyuu!!",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What village is Naruto from?",
+      "a": "Hidden Leaf",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What anime features a rubber pirate named Luffy?",
+      "a": "One Piece",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Goku's signature attack?",
+      "a": "Kamehameha",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a notebook that kills?",
+      "a": "Death Note",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the protagonist of Dragon Ball Z?",
+      "a": "Goku",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Ash Ketchum's first Pokémon?",
+      "a": "Pikachu",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features alchemist brothers?",
+      "a": "Fullmetal Alchemist",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a boy who becomes the #1 hero?",
+      "a": "My Hero Academia",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a volleyball team at Karasuno?",
+      "a": "Haikyuu!!",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the protagonist in Naruto?",
+      "a": "Naruto Uzumaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the name of the pirate crew in One Piece?",
+      "a": "The Straw Hat Pirates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Tanjiro's goal in Demon Slayer?",
+      "a": "To cure his sister Nezuko who was turned into a demon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the power system in My Hero Academia called?",
+      "a": "Quirks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does the Death Note do?",
+      "a": "Kills anyone whose name is written in it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created Dragon Ball?",
+      "a": "Akira Toriyama",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What transformation does Goku first achieve?",
+      "a": "Super Saiyan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the mascot Pokémon?",
+      "a": "Pikachu — Ash's electric mouse partner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Spike Spiegel?",
+      "a": "The laid-back bounty hunter protagonist of Cowboy Bebop",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Light Yagami?",
+      "a": "A genius student who finds the Death Note and becomes the vigilante Kira",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Edward Elric?",
+      "a": "A young State Alchemist in Fullmetal Alchemist who lost his arm and leg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Spirited Away about?",
+      "a": "A 10-year-old girl enters the spirit world and must work in a bathhouse to rescue her parents",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Shonen anime?",
+      "a": "Anime aimed at young male audiences — featuring action, friendship, and self-improvement",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is All Might?",
+      "a": "The Symbol of Peace in My Hero Academia — he passes his Quirk to Izuku",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the premise of Death Note?",
+      "a": "A high school student uses a notebook that kills anyone whose name is written in it to become Kira",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is an OVA?",
+      "a": "Original Video Animation — anime released directly on video, not broadcast on TV",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Vegeta?",
+      "a": "Goku's rival in Dragon Ball Z — prince of the Saiyan race who becomes an ally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Jujutsu Kaisen about?",
+      "a": "A student eats a cursed finger and joins a school of sorcerers who fight Cursed Spirits",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does tsundere mean?",
+      "a": "A character who starts cold toward their love interest but gradually becomes warmer",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What anime follows Edward and Alphonse Elric?",
+      "a": "Fullmetal Alchemist",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What space western follows the Bebop crew?",
+      "a": "Cowboy Bebop",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What anime features cursed sorcerers and Sukuna?",
+      "a": "Jujutsu Kaisen",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What notebook does Light Yagami use?",
+      "a": "Death Note",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What breathing style does Tanjiro first master?",
+      "a": "Water Breathing",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Luffy's pirate crew called?",
+      "a": "Straw Hat Pirates",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the profession of Light Yagami's rival L?",
+      "a": "Detective",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What organization hunts tailed beasts in Naruto?",
+      "a": "Akatsuki",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What mask-wearing teacher trains Team 7?",
+      "a": "Kakashi",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What city is Eren Yeager from?",
+      "a": "Shiganshina",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What hidden village is Naruto from?",
+      "a": "Leaf Village",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What school does Deku attend?",
+      "a": "U.A. High",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the name of the Survey Corps in Attack on Titan?",
+      "a": "Scout Regiment (Survey Corps)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Luffy's Devil Fruit power?",
+      "a": "Gum-Gum Fruit (Gomu Gomu no Mi)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the main antagonist of Death Note?",
+      "a": "Light Yagami (or L, depending on perspective)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Bankai in Bleach?",
+      "a": "The final release of a Zanpakutō",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Nen in Hunter x Hunter?",
+      "a": "A life energy system used for special abilities",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What studio animated Attack on Titan?",
+      "a": "Wit Studio (later MAPPA)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Naruto's nine-tailed fox?",
+      "a": "Kurama",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a game called Greed Island?",
+      "a": "Hunter x Hunter",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Eren Yeager's Titan form?",
+      "a": "Attack Titan",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the main character of Jujutsu Kaisen?",
+      "a": "Yuji Itadori",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Sharingan in Naruto?",
+      "a": "A special eye ability of the Uchiha clan",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a boy who trains with 100 push-ups per day?",
+      "a": "One Punch Man",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is All Might's real name?",
+      "a": "Toshinori Yagi",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Gon's father in HxH?",
+      "a": "Ging Freecss",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the power system in Hunter x Hunter?",
+      "a": "Nen — manipulating life energy in six types: Enhancement, Emission, Transmutation, Manipulation, Conjuration, Specialization",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What did Luffy eat to get his powers?",
+      "a": "The Gomu Gomu no Mi Devil Fruit — making his body rubber",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Law of Equivalent Exchange?",
+      "a": "To obtain something, something of equal value must be sacrificed — from Fullmetal Alchemist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Nine Titans in Attack on Titan?",
+      "a": "Nine inheritable Titan powers including the Attack, Armored, Colossal, Beast, and Founding Titans",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sharingan?",
+      "a": "A special eye ability of the Uchiha clan — copies techniques, predicts movement, casts genjutsu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Haki in One Piece?",
+      "a": "Spiritual energy — three types: Observation, Armament, and Conqueror's Haki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rumbling in Attack on Titan?",
+      "a": "Eren unleashes millions of Wall Titans to flatten the world outside Paradis Island",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is L in Death Note?",
+      "a": "The world's greatest detective hired to catch Kira",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What themes does Neon Genesis Evangelion explore?",
+      "a": "Loneliness, existentialism, depression, self-worth — Anno's personal psychological struggles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gon Freecss?",
+      "a": "A cheerful boy who becomes a Hunter to find his legendary father Ging",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the One Piece?",
+      "a": "The legendary treasure left by the Pirate King — finding it makes you King of the Pirates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Killua Zoldyck?",
+      "a": "Gon's best friend in HxH — a trained assassin from a family of killers who uses electricity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Chimera Ant arc in HxH?",
+      "a": "The longest and most complex arc — exploring what it means to be human through an ant who develops emotion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Itachi Uchiha?",
+      "a": "He massacred his clan — but was secretly acting on orders to prevent a coup and protect his brother Sasuke",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Isekai?",
+      "a": "A genre where a character is transported to another world — Re:Zero, Sword Art Online, Slime",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Devil Fruits in One Piece?",
+      "a": "Grant powers at the cost of the ability to swim — three types: Paramecia, Zoan, and Logia",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is Light Yagami's shinigami companion called?",
+      "a": "Ryuk",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What are Dragon Ball's wish-granting orbs called?",
+      "a": "The Dragon Balls",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Edward Elric's famous state alchemist title?",
+      "a": "The Fullmetal Alchemist",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What anime follows Johan Liebert as its central villain?",
+      "a": "Monster",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What dark fantasy anime features Guts and Griffith?",
+      "a": "Berserk",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What anime takes place in Academy City with Index and espers?",
+      "a": "A Certain Magical Index",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What district lies outside Wall Maria in Attack on Titan?",
+      "a": "Shiganshina",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Spike Spiegel's ship called?",
+      "a": "Swordfish II",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What division protects Soul Society in Bleach?",
+      "a": "Gotei 13",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What exam defines Naruto's early arc?",
+      "a": "Chunin Exams",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Eren's hometown district?",
+      "a": "Shiganshina",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Tanjiro's sister called?",
+      "a": "Nezuko",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What title does Naruto dream of becoming?",
+      "a": "Hokage",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What ship do Spike and Jet travel on?",
+      "a": "Bebop",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What brothers seek their bodies back through alchemy?",
+      "a": "Elric brothers",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What volleyball anime stars Hinata Shoyo?",
+      "a": "Haikyu!!",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What assassin family is Killua from?",
+      "a": "Zoldyck family",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What cursed spirit does Yuji host?",
+      "a": "Sukuna",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Rumbling in Attack on Titan?",
+      "a": "Eren unleashing millions of Wall Titans to flatten the world",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Gear 5 in One Piece?",
+      "a": "Luffy's awakened Devil Fruit form (Sun God Nika)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Domain Expansion in Jujutsu Kaisen?",
+      "a": "A technique that creates a pocket dimension with guaranteed hits",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the author of Berserk?",
+      "a": "Kentaro Miura",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Eclipse in Berserk?",
+      "a": "A sacrificial event where Griffith sacrifices the Band of the Hawk",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Conqueror's Haki in One Piece?",
+      "a": "The ability to dominate the will of others",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Zero Requiem in Code Geass?",
+      "a": "Lelouch's plan to unite the world against him, then be killed",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What studio produced 'Demon Slayer: Mugen Train'?",
+      "a": "Ufotable",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Phantom Troupe in HxH?",
+      "a": "A group of thieves led by Chrollo Lucilfer",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Evangelion's Human Instrumentality Project?",
+      "a": "A plan to merge all human consciousness into one being",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime coined the term 'isekai' as a genre?",
+      "a": "Sword Art Online (popularized it; genre older)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the god-like entity in Solo Leveling?",
+      "a": "The Absolute Being",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Void Century in One Piece?",
+      "a": "A 100-year gap in history erased by the World Government",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the strongest character in Dragon Ball Super?",
+      "a": "Zeno (Grand Priest serves him)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Stands system in JoJo's Bizarre Adventure?",
+      "a": "Physical manifestations of life energy — named after tarot cards and musicians, each with unique powers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What themes does Evangelion explore?",
+      "a": "Loneliness, existentialism, depression, self-worth — Anno's personal struggles became the show's core",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the author of Berserk?",
+      "a": "Kentaro Miura — one of the most influential manga ever for its art quality and mature themes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Battle Shonen formula?",
+      "a": "Young male protagonist with special power who surpasses limits through friendship and willpower",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Satoshi Kon?",
+      "a": "A director who made Perfect Blue, Paprika — psychological anime that influenced Christopher Nolan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Void Century in One Piece?",
+      "a": "A 100-year gap in world history that the World Government erased — the truth is the ultimate secret",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Demon Slayer's animation?",
+      "a": "Ufotable's visual style — particularly the Hinokami Kagura sequences — set a new standard for anime animation quality",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the philosophical significance of Code Geass?",
+      "a": "Lelouch uses absolute power (Geass) to liberate the world — culminating in a controversial self-sacrifice",
+      "file": "App.jsx"
+    }
+  ]
+}

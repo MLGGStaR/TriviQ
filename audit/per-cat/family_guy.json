@@ -1,0 +1,493 @@
+{
+  "200": [
+    {
+      "q": "What is the name of the Griffin family's talking dog?",
+      "a": "Brian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Griffin baby?",
+      "a": "Stewie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What town do the Griffins live in?",
+      "a": "Quahog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Peter Griffin's wife's name?",
+      "a": "Lois",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created Family Guy?",
+      "a": "Seth MacFarlane",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter and Lois's daughter?",
+      "a": "Meg",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What state is Quahog located in?",
+      "a": "Rhode Island",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's older son?",
+      "a": "Chris",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of animal is Brian?",
+      "a": "Dog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In what fictional state university did Peter and Lois meet?",
+      "a": "Brown University",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network airs Family Guy?",
+      "a": "Fox",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the bar where Peter and his friends drink?",
+      "a": "The Drunken Clam",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's wheelchair-using friend?",
+      "a": "Joe Swanson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the perverted neighbor with the catchphrase 'Giggity'?",
+      "a": "Glenn Quagmire",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Quagmire's catchphrase?",
+      "a": "Giggity",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's African-American friend who got a spinoff?",
+      "a": "Cleveland Brown",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Stewie's teddy bear?",
+      "a": "Rupert",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Stewie usually want to do to Lois (his mother)?",
+      "a": "Kill her",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What language can Brian speak?",
+      "a": "English",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does Lois teach?",
+      "a": "Piano",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the news anchor on Quahog 5 News?",
+      "a": "Tom Tucker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Joe Swanson's wife?",
+      "a": "Bonnie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Cleveland's spinoff series called?",
+      "a": "The Cleveland Show",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is Quahog modeled after?",
+      "a": "Providence (Rhode Island)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Peter, Brian, and Stewie?",
+      "a": "Seth MacFarlane",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of glasses does Peter wear?",
+      "a": "Round black glasses",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What town is the show set in?",
+      "a": "Quahog, Rhode Island",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the mayor in the show?",
+      "a": "Mayor Adam West",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays most male voices and created the show?",
+      "a": "Seth MacFarlane",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Stewie's primary catchphrase target?",
+      "a": "Lois (his mother)",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Peter's African-American best friend with a spinoff?",
+      "a": "Cleveland Brown",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Peter's wheelchair-using cop friend?",
+      "a": "Joe Swanson",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is Peter's job at the Pawtucket Brewery?",
+      "a": "Safety inspector",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the brewery's signature beer?",
+      "a": "Pawtucket Patriot Ale",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's father?",
+      "a": "Francis Griffin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Lois's maiden name?",
+      "a": "Pewterschmidt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Lois's wealthy father?",
+      "a": "Carter Pewterschmidt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Lois's mother?",
+      "a": "Babs Pewterschmidt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the giant chicken Peter regularly fights?",
+      "a": "Ernie the Giant Chicken",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cleveland's son?",
+      "a": "Cleveland Brown Jr.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Stewie's main weapon of choice in cutaways?",
+      "a": "Ray gun",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the elderly creepy neighbor voiced by Mike Henry?",
+      "a": "Herbert",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Jewish pharmacist character?",
+      "a": "Mort Goldman",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Quagmire's profession?",
+      "a": "Airline pilot",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Quagmire's sister?",
+      "a": "Brenda",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Brenda's abusive boyfriend?",
+      "a": "Jeff Fecalman",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Lois Griffin?",
+      "a": "Alex Borstein",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Meg Griffin?",
+      "a": "Mila Kunis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the local news co-anchor with Tom Tucker?",
+      "a": "Diane Simmons",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Tom Tucker's son?",
+      "a": "Jake Tucker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Jake Tucker's distinctive feature?",
+      "a": "Upside-down face",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's autistic-coded next-door neighbor with a wife and kid that has a deep voice?",
+      "a": "Joe Swanson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Joe Swanson's profession?",
+      "a": "Police officer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cleveland's first wife (mother of Cleveland Jr.)?",
+      "a": "Loretta",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cleveland's second wife in the spinoff?",
+      "a": "Donna",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Peter's mother's name?",
+      "a": "Thelma Griffin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Star Wars film did Family Guy parody first?",
+      "a": "A New Hope",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was the title of Family Guy's Star Wars parody special?",
+      "a": "Blue Harvest",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Catholic priest character in Quahog?",
+      "a": "Father John",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Asian reporter character?",
+      "a": "Tricia Takanawa",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Peter's wife's maiden name?",
+      "a": "Lois Pewterschmidt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What college did Brian attend?",
+      "a": "Brown University",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Peter's gravelly-voiced Jewish friend?",
+      "a": "Mort Goldman",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Quagmire's catchphrase?",
+      "a": "Giggity",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "In what year did Family Guy first premiere?",
+      "a": "1999",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Brian's novel called?",
+      "a": "Faster Than the Speed of Love",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Brian's son introduced in the show?",
+      "a": "Dylan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which character briefly died and was replaced by Vinny the dog?",
+      "a": "Brian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the cleaning lady character voiced by Seth MacFarlane?",
+      "a": "Consuela",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Consuela's catchphrase?",
+      "a": "No, no",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Quagmire's father, who later transitions and is named Ida?",
+      "a": "Dan Quagmire",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's evil twin brother in 'The Tan Aquatic with Steve Zissou'?",
+      "a": "Thaddeus Griffin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of the episode where Brian dies (season 12)?",
+      "a": "Life of Brian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Stewie's half-brother (Brian's son)?",
+      "a": "Dylan Flannigan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of Family Guy's Empire Strikes Back parody?",
+      "a": "Something, Something, Something, Dark Side",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of Family Guy's Return of the Jedi parody?",
+      "a": "It's a Trap!",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was the title of Seth MacFarlane's original animated short that became Family Guy?",
+      "a": "The Life of Larry",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the local TV anchor played by Adam West (the mayor)?",
+      "a": "Mayor Adam West",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the rich British neighbor in 'No Chris Left Behind'?",
+      "a": "Buzz Killington",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Quagmire's full first name?",
+      "a": "Glenn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the dog that fills in for Brian after his death?",
+      "a": "Vinny",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Vinny the dog?",
+      "a": "Tony Sirico",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the talk show parodied in 'Tom Tucker: The Man and His Dream'?",
+      "a": "Tom Tucker show",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Peter's favorite TV show within the show?",
+      "a": "Gumbel 2 Gumbel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the obese man Peter befriends in 'McStroke'?",
+      "a": "Skip",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's gay cousin?",
+      "a": "Jasper",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the actor that voices the Greased-Up Deaf Guy?",
+      "a": "Seth MacFarlane",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the rooster Peter fights in season 3's 'Da Boom'?",
+      "a": "Ernie the Giant Chicken",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What episode introduced Stewie's time machine?",
+      "a": "The Big Bang Theory",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Cleveland Brown originally?",
+      "a": "Mike Henry",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network briefly cancelled Family Guy before reviving it due to DVD sales?",
+      "a": "Fox",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What year did Family Guy originally debut?",
+      "a": "1999",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which character is introduced as Brian's girlfriend played by Cate Blanchett's-type actress?",
+      "a": "Jillian",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the Giant Chicken recurring rival?",
+      "a": "Ernie the Giant Chicken",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Peter's mentally disabled brother-in-law?",
+      "a": "Patrick Pewterschmidt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Quagmire's sister who had an abusive boyfriend arc?",
+      "a": "Brenda Quagmire",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Quagmire's father who came out as transgender?",
+      "a": "Ida Davis",
+      "file": "qualityBackfill"
+    }
+  ]
+}

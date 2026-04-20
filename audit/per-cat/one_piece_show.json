@@ -1,0 +1,483 @@
+{
+  "200": [
+    {
+      "q": "Who is the Straw Hats' doctor?",
+      "a": "Tony Tony Chopper",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Straw Hats' archaeologist?",
+      "a": "Nico Robin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Straw Hats' shipwright?",
+      "a": "Franky",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Straw Hats' musician?",
+      "a": "Brook",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What dangerous sea holds the One Piece?",
+      "a": "The Grand Line",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What are mysterious fruits that grant powers called?",
+      "a": "Devil Fruits",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title is given to the four strongest pirates?",
+      "a": "The Yonko",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What ship do the Straw Hats use after the Going Merry?",
+      "a": "The Thousand Sunny",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the lost century called?",
+      "a": "The Void Century",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What stones record the ancient history?",
+      "a": "Poneglyphs",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What island lies at the end of the Grand Line?",
+      "a": "Laugh Tale",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What hidden true model is Luffy's fruit?",
+      "a": "Hito Hito no Mi, Model: Nika",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the World Government's hidden ruler called?",
+      "a": "Im",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who inspired Luffy by giving him the straw hat?",
+      "a": "Shanks",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Zoro's dream?",
+      "a": "To become the world's greatest swordsman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fruit gives Luffy his rubber powers in the live-action show?",
+      "a": "The Gum-Gum Fruit",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which swordsman joins Luffy first?",
+      "a": "Zoro",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which chef joins the crew from the Baratie?",
+      "a": "Sanji",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Luffy's favorite food?",
+      "a": "Meat",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Luffy's crew?",
+      "a": "The Straw Hat Pirates",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Monkey D. Luffy?",
+      "a": "The captain of the Straw Hat Pirates — his dream is to find the One Piece and become King of the Pirates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What did Luffy eat?",
+      "a": "The Gomu Gomu no Mi — making his body rubber",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Roronoa Zoro?",
+      "a": "The swordsman of the crew — he uses three swords and aims to be the world's greatest swordsman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the One Piece?",
+      "a": "The legendary treasure left by the Pirate King Gol D. Roger — its true nature is revealed in late arcs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nami?",
+      "a": "The navigator of the Straw Hat Pirates — she can predict weather and uses a clima-tact",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created One Piece?",
+      "a": "Eiichiro Oda — one of the best-selling manga authors in history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Grand Line?",
+      "a": "The dangerous ocean where the most powerful pirates operate — where the One Piece is hidden",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Shanks?",
+      "a": "A legendary Yonko pirate — he inspired Luffy and gave him his straw hat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Devil Fruits?",
+      "a": "Mysterious fruits that grant powers but take away the ability to swim — three types: Paramecia, Zoan, Logia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Tony Tony Chopper?",
+      "a": "The crew's doctor — a reindeer who ate the Human-Human Devil Fruit",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What power system has Observation, Armament, and Conqueror's forms?",
+      "a": "Haki",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What title is given to the world's four most powerful pirates?",
+      "a": "The Yonko / Four Emperors",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who can read the ancient Poneglyphs for the Straw Hats?",
+      "a": "Nico Robin",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Luffy's grandfather and legendary Marine hero?",
+      "a": "Monkey D. Garp",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What prison must be infiltrated to save Ace?",
+      "a": "Impel Down",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the fleet admiral known as Akainu?",
+      "a": "Sakazuki",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What village is Nami from?",
+      "a": "Cocoyasi Village",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which marine hero is revealed as Luffy's grandfather?",
+      "a": "Garp",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which clown pirate rules Orange Town?",
+      "a": "Buggy",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What pirate inspires Luffy to set sail?",
+      "a": "Shanks",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What sea does Sanji dream of finding?",
+      "a": "All Blue",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Nami's role on the crew?",
+      "a": "Navigator",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What fruit gives Luffy his rubber powers?",
+      "a": "Gum-Gum Fruit",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What body part defines Sanji's fighting style?",
+      "a": "Legs",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What chef owns the Baratie?",
+      "a": "Zeff",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Straw Hats' ship called?",
+      "a": "Going Merry",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Zoro's dream?",
+      "a": "World's greatest swordsman",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Usopp's father's name?",
+      "a": "Yasopp",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What Devil Fruit lets Buggy split apart?",
+      "a": "Chop-Chop Fruit",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What does Luffy's rubber body come from?",
+      "a": "The Gum-Gum Fruit",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the Straw Hats' cook?",
+      "a": "Sanji",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Haki?",
+      "a": "Spiritual energy all living beings have — three types: Observation, Armament, and Conqueror's",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Will of D?",
+      "a": "A mystery connecting people with the initial D in their names — related to the Void Century and the ancient enemy of the World Government",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Yonko?",
+      "a": "The Four Emperors — the most powerful pirates in the world: Shanks, Kaido, Big Mom, and Blackbeard",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Void Century?",
+      "a": "A 100-year period erased from world history — its truth would overturn the World Government",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nico Robin?",
+      "a": "The crew's archaeologist — the only person who can read Poneglyphs, the ancient stones holding history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Straw Hat Crew's ship?",
+      "a": "The Thousand Sunny — with a lion figurehead, built by Franky",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Marineford?",
+      "a": "The Marine headquarters — site of the Paramount War where Ace dies and the world order changes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Portgas D. Ace?",
+      "a": "Luffy's older brother — commander of Whitebeard's second division — he dies at Marineford",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Fishman Island arc about?",
+      "a": "The crew arrives at the underwater kingdom — exploring racism, discrimination, and Arlong's legacy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Dracule Mihawk?",
+      "a": "The greatest swordsman in the world — Zoro's ultimate goal is to defeat him",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the hidden true identity of Luffy's fruit?",
+      "a": "The Hito Hito no Mi, Model: Nika",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the final island at the end of the Grand Line called?",
+      "a": "Laugh Tale",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What erased 100-year period is central to the world's mystery?",
+      "a": "The Void Century",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What restaurant does Zeff run?",
+      "a": "The Baratie",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who gifts the Going Merry to the Straw Hats?",
+      "a": "Kaya",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which fish-man terrorizes Nami's home?",
+      "a": "Arlong",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Usopp's home village called?",
+      "a": "Syrup Village",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What restaurant ship does Sanji work on?",
+      "a": "Baratie",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What title does Mihawk hold?",
+      "a": "World's Greatest Swordsman",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What species is Arlong?",
+      "a": "Fish-Man",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What does the Going Merry figurehead resemble?",
+      "a": "Sheep",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What tyrant rules the Fish-Man area in East Blue?",
+      "a": "Arlong",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What clown-faced pirate is one of Luffy's earliest enemies?",
+      "a": "Buggy",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What map does Nami dream of drawing?",
+      "a": "A map of the world",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What marine officer chases the Straw Hats in the live action early on?",
+      "a": "Garp",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What food part does Sanji refuse to waste under Zeff's teachings?",
+      "a": "Any food",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What chef mentor loses a leg and trains Sanji?",
+      "a": "Zeff",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What execution platform stands in Loguetown?",
+      "a": "Roger's platform",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What pirate king's full name inspires Luffy?",
+      "a": "Gol D. Roger",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What marine captain traps Zoro at Shells Town?",
+      "a": "Morgan",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What marine officer trains under Garp in the live action?",
+      "a": "Koby",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What fighting style does Sanji use?",
+      "a": "Black Leg",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What sea where the story starts is called?",
+      "a": "East Blue",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What title is given to the four most powerful pirates?",
+      "a": "The Yonko",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the true nature of the Gomu Gomu no Mi?",
+      "a": "It is actually the Hito Hito no Mi: Mythical Zoan, Model: Nika — the Sun God fruit, suppressed by the World Government",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sun God Nika?",
+      "a": "An ancient figure who brought joy and freedom — the one who made people laugh. Luffy embodies this",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Joy Boy?",
+      "a": "An ancient figure from 800 years ago who promised to return — Luffy is the new Joy Boy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Poneglyphs' secret?",
+      "a": "Ancient stones inscribed with history the World Government wants suppressed — the Road Poneglyphs lead to Laugh Tale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Laugh Tale?",
+      "a": "The island at the end of the Grand Line where Gol D. Roger found the One Piece and learned the truth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Gol D. Roger's execution?",
+      "a": "Rather than crushing piracy, his final words about the One Piece sparked the Great Pirate Era",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Im?",
+      "a": "The mysterious supreme ruler sitting on the Empty Throne — the true power behind the World Government",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Ancient Weapon Pluton?",
+      "a": "A warship capable of destroying an island — its blueprints were given to Franky and he memorised and burned them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Egghead arc's significance?",
+      "a": "Vegapunk reveals the world's true history — and is killed for it, sending his message to the world",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Shanks giving Luffy his hat?",
+      "a": "It represents a promise — give it back when you become a great pirate. It defines Luffy's entire journey",
+      "file": "App.jsx"
+    }
+  ]
+}

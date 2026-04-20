@@ -1,0 +1,1448 @@
+{
+  "200": [
+    {
+      "q": "Act this out",
+      "a": "riding a bicycle",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "brushing your teeth",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "washing dishes",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "taking a selfie",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "walking a dog",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "doing yoga",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "changing a lightbulb",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "opening a stubborn jar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "putting on sunscreen at the beach",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to catch a mosquito in your room",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "building flat-pack furniture",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "getting shampoo in your eyes",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to unlock your phone with wet hands",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "carrying too many grocery bags at once",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "chasing a runaway balloon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to untangle headphones",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "filling a car with gas for the first time",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "burning your tongue on hot coffee",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to fold a fitted sheet",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "swatting at a fly during dinner",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "painting a wall and stepping in the tray",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "testing if rain has started outside",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "sneaking snacks into a movie theater",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to parallel park while someone watches",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "using chopsticks for the first time",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "getting locked out of your house",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "taking a group selfie that keeps failing",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "walking on sand with shoes full of pebbles",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying not to laugh in class",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "putting in contact lenses for the first time",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "getting your hoodie stuck while taking it off",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "struggling to open an umbrella in the wind",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "walk on a tightrope",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "juggle invisible balls",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ride a mechanical bull",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "escape quicksand",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "catch a huge fish",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "break a pinata",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Swimming",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Sleeping",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Cooking",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Flying",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Dancing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Brushing teeth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Riding a bicycle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Eating spaghetti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Driving a car",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Taking a selfie",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Playing football",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Sneezing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Reading a book",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Lifting weights",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Rowing a boat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Baking a cake",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Playing guitar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Washing dishes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Jumping on a trampoline",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Painting a wall",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Walking a dog",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Eating ice cream",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Typing on a keyboard",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Opening a present",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Climbing a ladder",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Taking a shower",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Bowling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Playing tennis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Skipping rope",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Surfing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Yoga",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Knitting",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Vacuuming",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Rock climbing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Snorkeling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Ice skating",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Playing drums",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Skateboarding",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Doing laundry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Gardening",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Taking a nap",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Act this out",
+      "a": "missing the bus",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to parallel park",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "being stuck in an elevator",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "winning the lottery",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "stepping on Lego",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "arguing with customer service",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "ordering at a drive-thru",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "surviving a roller coaster",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "being the last person alive in a game of hide and seek",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a waiter dropping an entire tray of drinks",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to act normal after tripping in public",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a tourist completely lost in a new city",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "someone realizing their mic was on the whole time",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "winning an argument in the shower hours later",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "getting caught singing dramatically in the car",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a lifeguard spotting trouble from far away",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to assemble a tent with missing instructions",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "an airport passenger hearing final boarding call",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "realizing your phone is slipping into the toilet",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a student bluffing through a presentation they didn't prepare",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to catch a glass before it falls",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a chef pretending the burned dish was intentional",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "someone discovering they sat on wet paint",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "being on hold with customer service forever",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "trying to walk calmly after stubbing your toe",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "someone pretending they understand modern art",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a referee making a dramatic bad call",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "an office worker trying not to sneeze in silence",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a parent stepping on toys in the dark",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "someone finding a spider in the shower",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a dog owner being pulled by an excited dog",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a gamer losing on the final level",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "win a spelling bee",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "open a secret vault",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "freeze in a spotlight",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "argue with a mirror",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "hide from a dinosaur",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "race a shopping cart",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "pilot emergency landing",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "chef on fire",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ghost in mirror",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "robot low battery",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "detective finds clue",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "villain escapes prison",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Getting struck by lightning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Astronaut",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Volcano erupting",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Walking on a tightrope",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Pickpocket",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Catching a fish",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Building IKEA furniture",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being stuck in quicksand",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Getting a brain freeze",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being chased by a swarm of bees",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Conducting an orchestra",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Sleepwalker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Teaching a class",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Defusing a bomb",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Walking on the moon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Giving someone CPR",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Ventriloquist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Getting an injection at the doctor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Pulling a rabbit from a hat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Sommelier",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being a traffic cop",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Cutting hair at a salon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Taking an X-ray",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Puppeteer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Speed dating",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Parallel parking",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Opening a very stuck jar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Contortionist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being a referee at a match",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Doing a magic trick",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Paparazzi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Mime",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Auditioning for a show",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Negotiating in sign language",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being a flight attendant",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Act this out",
+      "a": "time traveler landing in the future",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "pirate searching for buried treasure",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "news anchor during breaking news",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "magician whose trick goes wrong",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "astronaut doing a spacewalk",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "detective solving a murder",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "chef in a cooking competition",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "spy sneaking through lasers",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this out",
+      "a": "an alien trying to understand how humans order food",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a medieval knight using modern technology for the first time",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a superhero with powers that keep glitching",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a detective interrogating a very suspicious penguin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a fashion model stuck in quicksand",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a zombie trying to fit into normal office life",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a dragon attempting to blow out birthday candles",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a secret agent whose cover is falling apart mid-mission",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a pirate trying to use GPS instead of a treasure map",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a horror movie victim hearing a strange noise upstairs",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a time traveler trying to explain the internet to cavemen",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a villain giving a speech before slipping on a banana peel",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a wizard whose wand only works at the worst moments",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "an astronaut realizing something is floating loose in the station",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a game show host revealing the worst possible prize",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a movie stunt double trying to look cool after a failed jump",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a spy disguising themselves badly at a fancy gala",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a superhero team arguing about who gets the credit",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a treasure hunter triggering every trap in the temple",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a reality TV contestant overreacting to being eliminated",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a sorcerer summoning the wrong creature entirely",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a king trying to sit on a painfully uncomfortable throne",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a mad scientist presenting a machine that instantly explodes",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this out",
+      "a": "a heist crew realizing they forgot the actual bag for the money",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "spy in disguise",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "alien at school",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "pirate reads map",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "wizard loses wand",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ninja in traffic",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "vampire at dentist",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "astronaut on beach",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "time traveler confused",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "superhero with cold",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "cowboy at casino",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "mime misses bus",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "chef wins contest",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ghost hates sunlight",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "scientist spills potion",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "king forgets crown",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "teacher breaks desk",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "gamer finds treasure",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "pilot sees UFO",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "artist paints wall",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "doctor in panic",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "alien learns golf",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "chef drops wedding cake",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "pirate misses treasure",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "wizard breaks wand",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ninja in traffic",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ghost needs coffee",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "robot loses Wi-Fi",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "cowboy on rollerblades",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "teacher forgets lesson",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "doctor loses patient",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "vampire hates garlic",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "astronaut forgets helmet",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "superhero misses bus",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "king loses throne",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "astronaut drops flag",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "detective loses badge",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "pirate finds mermaid",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "chef drops pasta",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "robot needs charging",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "vampire misses coffin",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ninja loses sword",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "ghost scares lifeguard",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "cowboy hates horses",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "wizard sneezes sparks",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "doctor forgets patient",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "alien eats pizza",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "surfer sees shark",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "teacher fails quiz",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "king fears mouse",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "gamer breaks controller",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "spy loses earpiece",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "mime trapped outside",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "pilot spills coffee",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "thief hears sirens",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "runner trips finish",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "magician loses rabbit",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "mermaid learns walking",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "farmer chases chicken",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "artist paints ceiling",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "judge drops hammer",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "boxer dodges punch",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "lifeguard spots jellyfish",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "tourist misses train",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "archer misses target",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "camper sees bear",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "scientist freezes potion",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "driver misses exit",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Scan the QR and act it out",
+      "a": "clown loses balloon",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Explaining something to a baby",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being in a slow-motion action scene",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Democracy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Landing on the moon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Bureaucracy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Getting pulled over by the police",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Overthinking",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Presenting a TED Talk",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Procrastination",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Winning an Oscar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Negotiating a hostage situation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being in a silent film",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Existentialism",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Running late for something very important",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being interviewed on live TV",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Cryptocurrency",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Operating a submarine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being a royal at a public appearance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Finding out terrible news in a public place",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Algorithm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Trying to stay awake during a very boring lecture",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Running a marathon with a blister",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Gaslighting",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Teaching a toddler a very difficult concept",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being stuck in a time loop",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this word!",
+      "a": "Impersonation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Trying to get WiFi signal in a bad spot",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Being ignored by everyone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Explaining the internet to your grandparents",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this phrase!",
+      "a": "Making a very important decision",
+      "file": "App.jsx"
+    }
+  ]
+}

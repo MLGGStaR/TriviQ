@@ -1,0 +1,274 @@
+{
+  "remove": [
+    { "cat": "country_facts", "tier": "600", "q": "What country has the most islands?" },
+    { "cat": "science", "tier": "600", "q": "What is the approximate age of the Earth?" },
+    { "cat": "sports", "tier": "600", "q": "Which NFL team is based in Green Bay?" },
+    { "cat": "sports", "tier": "600", "q": "Which golfer has the most career PGA wins?" },
+    { "cat": "space", "tier": "600", "q": "Who discovered that the universe is expanding?" },
+    { "cat": "space", "tier": "200", "q": "What is the name of Earth's natural satellite?" },
+    { "cat": "star_wars", "tier": "600", "q": "What is the name of Anakin's ship in The Phantom Menace pod race?" },
+    { "cat": "star_wars", "tier": "600", "q": "What planet does Grogu train with Luke Skywalker on?" },
+    { "cat": "star_wars", "tier": "600", "q": "What is the name of the Jedi Master who trained Yoda?" },
+    { "cat": "dc", "tier": "600", "q": "Who is the fourth Robin?" },
+    { "cat": "harry_potter", "tier": "600", "q": "Which wizard founded the Holyhead Harpies?" },
+    { "cat": "harry_potter", "tier": "600", "q": "What is the name of the tournament briefly mentioned that preceded the Triwizard and had high fatality rates?" },
+    { "cat": "pop_culture", "tier": "600", "q": "What is the name of the famous 2017 eclipse-style wedding for Hailey and Justin?" }
+  ],
+  "replace": [
+    {
+      "cat": "geography", "tier": "600",
+      "oldQ": "Which strait connects the Mediterranean to the Black Sea?",
+      "newQ": "Which strait connects the Sea of Marmara to the Black Sea?",
+      "newA": "Bosphorus"
+    },
+    {
+      "cat": "country_facts", "tier": "600",
+      "oldQ": "What country has 17 time zones (mainland)?",
+      "newQ": "What country has 11 time zones?",
+      "newA": "Russia"
+    },
+    {
+      "cat": "country_facts", "tier": "600",
+      "oldQ": "What country's flag is just green?",
+      "newQ": "What country's flag was solid green from 1977 to 2011?",
+      "newA": "Libya"
+    },
+    {
+      "cat": "country_facts", "tier": "600",
+      "oldQ": "What country is Machu Picchu in what mountain range?",
+      "newQ": "What mountain range is Machu Picchu in?",
+      "newA": "Andes"
+    },
+    {
+      "cat": "science", "tier": "600",
+      "oldQ": "What is the name of the largest asteroid in our solar system?",
+      "newQ": "Which dwarf planet in the asteroid belt was visited by NASA's Dawn mission in 2015?",
+      "newA": "Ceres"
+    },
+    {
+      "cat": "science", "tier": "600",
+      "oldQ": "What is the fifth state of matter (besides plasma)?",
+      "newQ": "What fifth state of matter was first produced in a lab in 1995?",
+      "newA": "Bose-Einstein condensate"
+    },
+    {
+      "cat": "sports", "tier": "400",
+      "oldQ": "Who is the all-time leading scorer in Formula 1 history?",
+      "newQ": "Who holds the record for most career points in Formula 1?",
+      "newA": "Lewis Hamilton"
+    },
+    {
+      "cat": "math", "tier": "600",
+      "oldQ": "Who discovered the law of averages?",
+      "newQ": "Who proved the Law of Large Numbers?",
+      "newA": "Jacob Bernoulli"
+    },
+    {
+      "cat": "math", "tier": "600",
+      "oldQ": "What mathematician has a constant named g?",
+      "newQ": "Which mathematician has Euler's identity named after him?",
+      "newA": "Leonhard Euler"
+    },
+    {
+      "cat": "math", "tier": "600",
+      "oldQ": "What is 24 factorial roughly as magnitude?",
+      "newQ": "What is 10 factorial?",
+      "newA": "3628800"
+    },
+    {
+      "cat": "space", "tier": "600",
+      "oldQ": "Who first landed a probe on a comet?",
+      "newQ": "What lander touched down on comet 67P in 2014?",
+      "newA": "Philae"
+    },
+    {
+      "cat": "space", "tier": "600",
+      "oldQ": "What was Voyager 1 launched to do?",
+      "newQ": "In what year was Voyager 1 launched?",
+      "newA": "1977"
+    },
+    {
+      "cat": "space", "tier": "200",
+      "oldQ": "What do you call an object that orbits a planet?",
+      "newQ": "What do you call a natural object that orbits a planet?",
+      "newA": "Satellite"
+    },
+    {
+      "cat": "general", "tier": "600",
+      "oldQ": "What is the most common surname in the world?",
+      "newQ": "What is the most common surname in China?",
+      "newA": "Wang"
+    },
+    {
+      "cat": "general", "tier": "400",
+      "oldQ": "What animal has the longest lifespan?",
+      "newQ": "What is the longest-lived vertebrate species?",
+      "newA": "Greenland shark"
+    },
+    {
+      "cat": "general", "tier": "400",
+      "oldQ": "What is the longest-living tree species?",
+      "newQ": "Which tree species holds the oldest individual non-clonal tree?",
+      "newA": "Bristlecone pine"
+    },
+    {
+      "cat": "technology", "tier": "600",
+      "oldQ": "Who founded Intel?",
+      "newQ": "Who co-founded Intel alongside Robert Noyce?",
+      "newA": "Gordon Moore"
+    },
+    {
+      "cat": "technology", "tier": "600",
+      "oldQ": "Who wrote the first version of BASIC?",
+      "newQ": "Which Dartmouth professor co-created BASIC with Thomas Kurtz?",
+      "newA": "John Kemeny"
+    },
+    {
+      "cat": "marvel", "tier": "600",
+      "oldQ": "Who is the lead singer of the band named Kraven in What If...? — trick question; name the lead Celestial instead",
+      "newQ": "Who is the lead Celestial seen in Eternals?",
+      "newA": "Arishem the Judge"
+    },
+    {
+      "cat": "star_wars", "tier": "600",
+      "oldQ": "What is the name of the Zabrak warrior princess voiced by Sarah Michelle Gellar?",
+      "newQ": "Which Inquisitor was voiced by Sarah Michelle Gellar in Star Wars Rebels?",
+      "newA": "Seventh Sister"
+    },
+    {
+      "cat": "star_wars", "tier": "600",
+      "oldQ": "Who voices Admiral Ackbar?",
+      "newQ": "Who voiced Admiral Ackbar in the original trilogy?",
+      "newA": "Erik Bauersfeld"
+    },
+    {
+      "cat": "star_wars", "tier": "600",
+      "oldQ": "What is the name of Ahsoka's white lightsabers' origin?",
+      "newQ": "How did Ahsoka obtain her white lightsaber crystals?",
+      "newA": "Purified from an Inquisitor"
+    },
+    {
+      "cat": "dc", "tier": "600",
+      "oldQ": "Who created the Flash?",
+      "newQ": "Who co-created the original Flash with Harry Lampert?",
+      "newA": "Gardner Fox"
+    },
+    {
+      "cat": "dc", "tier": "600",
+      "oldQ": "Who created Hal Jordan's Green Lantern?",
+      "newQ": "Who co-created Hal Jordan's Green Lantern with Gil Kane?",
+      "newA": "John Broome"
+    },
+    {
+      "cat": "harry_potter", "tier": "600",
+      "oldQ": "Who was the original owner of the Elder Wand's phoenix feather core?",
+      "newQ": "What is the core of the Elder Wand?",
+      "newA": "Thestral tail hair"
+    },
+    {
+      "cat": "harry_potter", "tier": "600",
+      "oldQ": "What is the incantation for the Fidelius Charm revealing unknown, but the charm's purpose is to hide a secret in whose soul?",
+      "newQ": "Inside whom is the secret of a Fidelius Charm concealed?",
+      "newA": "The Secret-Keeper"
+    },
+    {
+      "cat": "harry_potter", "tier": "600",
+      "oldQ": "Which character is revealed to be an Animagus stag, dog, rat, and wolf in the Marauders' group (which one is NOT an Animagus)?",
+      "newQ": "Which Marauder is a werewolf rather than an Animagus?",
+      "newA": "Remus Lupin"
+    },
+    {
+      "cat": "harry_potter", "tier": "600",
+      "oldQ": "In what year was Hogwarts founded, approximately?",
+      "newQ": "In what century was Hogwarts founded?",
+      "newA": "10th century"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Who played Marge in the live-action 'Wednesday' Netflix series?",
+      "newQ": "Who played Morticia Addams in the Wednesday Netflix series?",
+      "newA": "Catherine Zeta-Jones"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Which NBA star retired after winning his fourth title with the Lakers in 2020?",
+      "newQ": "Which NBA star won his fourth championship with the Lakers in 2020?",
+      "newA": "LeBron James"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Which novel did 'Normal People' adaptation originate from?",
+      "newQ": "Who wrote the novel that 'Normal People' was adapted from?",
+      "newA": "Sally Rooney"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Who won 'The Bachelor' Season 26?",
+      "newQ": "Who was the lead of The Bachelor Season 26?",
+      "newA": "Clayton Echard"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Who is the British DJ behind 'Lean On' with Major Lazer?",
+      "newQ": "Which French DJ co-produced 'Lean On' with Major Lazer?",
+      "newA": "DJ Snake"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Which CEO stepped down from Twitter before Elon Musk took over?",
+      "newQ": "Who was Twitter's CEO when Elon Musk acquired the company in 2022?",
+      "newA": "Parag Agrawal"
+    },
+    {
+      "cat": "pop_culture", "tier": "600",
+      "oldQ": "Who created the 'It's Corn' viral meme via song remix?",
+      "newQ": "Who was the child in the viral 'It's Corn' interview clip?",
+      "newA": "Tariq"
+    },
+    {
+      "cat": "movies", "tier": "600",
+      "oldQ": "What is the name of the fictional Dogme 95 movement founder?",
+      "newQ": "Who co-founded the Dogme 95 film movement with Thomas Vinterberg?",
+      "newA": "Lars von Trier"
+    },
+    {
+      "cat": "music", "tier": "600",
+      "oldQ": "Which hip-hop album is 'Midnight Marauders'?",
+      "newQ": "Which hip-hop group released 'Midnight Marauders'?",
+      "newA": "A Tribe Called Quest"
+    },
+    {
+      "cat": "music", "tier": "600",
+      "oldQ": "Who is the founder of Motown's Miracles group lead?",
+      "newQ": "Who was the lead singer of The Miracles?",
+      "newA": "Smokey Robinson"
+    },
+    {
+      "cat": "geography", "tier": "600",
+      "oldQ": "Which Canadian province is the largest by area?",
+      "newQ": "Which Canadian province (not territory) is the largest by area?",
+      "newA": "Quebec"
+    },
+    {
+      "cat": "space", "tier": "600",
+      "oldQ": "What mission landed the first probe on Titan?",
+      "newQ": "What probe landed on Titan in 2005?",
+      "newA": "Huygens"
+    }
+  ],
+  "move": [
+    { "cat": "history", "fromTier": "600", "toTier": "200", "q": "Who assassinated Abraham Lincoln?" },
+    { "cat": "history", "fromTier": "600", "toTier": "200", "q": "What year did Japan attack Pearl Harbor?" },
+    { "cat": "math", "fromTier": "600", "toTier": "200", "q": "What is the only even prime?" },
+    { "cat": "math", "fromTier": "600", "toTier": "200", "q": "What branch of math studies change?" },
+    { "cat": "math", "fromTier": "600", "toTier": "200", "q": "What branch of math deals with shapes and space?" },
+    { "cat": "math", "fromTier": "600", "toTier": "200", "q": "What number is represented by M in Roman numerals?" },
+    { "cat": "math", "fromTier": "600", "toTier": "400", "q": "What is 256 divided by 16?" },
+    { "cat": "space", "fromTier": "600", "toTier": "200", "q": "What is the name of the 1986 space shuttle disaster?" },
+    { "cat": "space", "fromTier": "600", "toTier": "200", "q": "What is the name of Jupiter's volcanic moon?" },
+    { "cat": "general", "fromTier": "600", "toTier": "200", "q": "Who wrote '1984'?" },
+    { "cat": "general", "fromTier": "600", "toTier": "200", "q": "What number is a baker's dozen?" },
+    { "cat": "music", "fromTier": "600", "toTier": "200", "q": "Who is the lead singer of Led Zeppelin?" },
+    { "cat": "movies", "fromTier": "600", "toTier": "400", "q": "Which film features the Ludovico Technique?" }
+  ]
+}

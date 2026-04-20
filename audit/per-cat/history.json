@@ -1,0 +1,758 @@
+{
+  "200": [
+    {
+      "q": "What year did the United States declare independence?",
+      "a": "1776",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What ancient city was destroyed by Mount Vesuvius?",
+      "a": "Pompeii",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What mission first landed humans on the Moon?",
+      "a": "Apollo 11",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which English king had six wives?",
+      "a": "Henry VIII",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What year did the Western Roman Empire fall?",
+      "a": "476 AD",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which wall divided Berlin during the Cold War?",
+      "a": "The Berlin Wall",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who discovered the tomb of Tutankhamun?",
+      "a": "Howard Carter",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What empire was ruled by Julius Caesar?",
+      "a": "Roman Empire",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who discovered America in 1492?",
+      "a": "Christopher Columbus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What document begins with 'We the People'?",
+      "a": "The U.S. Constitution",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the name of the ship the Pilgrims sailed on?",
+      "a": "Mayflower",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was known as the Iron Lady?",
+      "a": "Margaret Thatcher",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What war was fought between the North and South in the US?",
+      "a": "Civil War",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Cold War primarily between?",
+      "a": "USA and USSR",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who founded the first major Chinese dynasty?",
+      "a": "Qin Shi Huang",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Year the Apollo 11 Moon landing happened?",
+      "a": "1969",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "First President of the United States?",
+      "a": "George Washington",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year World War II ended?",
+      "a": "1945",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which civilization built the pyramids?",
+      "a": "Ancient Egyptians",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which ship sank in 1912?",
+      "a": "The Titanic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year Columbus first reached the Americas?",
+      "a": "1492",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First man to walk on the Moon?",
+      "a": "Neil Armstrong",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What empire did Genghis Khan rule?",
+      "a": "The Mongol Empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year World War I began?",
+      "a": "1914",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ancient structure across northern China?",
+      "a": "Great Wall of China",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Cleopatra?",
+      "a": "Last active ruler of the Ptolemaic Kingdom of Egypt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year WWI ended?",
+      "a": "1918",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who invented the telephone?",
+      "a": "Alexander Graham Bell (1876)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the French Revolution began?",
+      "a": "1789",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was apartheid?",
+      "a": "System of institutionalised racial segregation in South Africa (1948–1991)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First Emperor of China?",
+      "a": "Qin Shi Huang",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year Neil Armstrong landed on the Moon?",
+      "a": "1969",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Primary author of the Declaration of Independence?",
+      "a": "Thomas Jefferson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Magna Carta was signed?",
+      "a": "1215",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Mahatma Gandhi?",
+      "a": "Indian lawyer who led India's nonviolent independence movement against British rule",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Soviet Union collapsed?",
+      "a": "1991",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First woman to fly solo across the Atlantic?",
+      "a": "Amelia Earhart (1932)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Cold War?",
+      "a": "Geopolitical tension between the USA and Soviet Union from 1947 to 1991",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who built the Colosseum?",
+      "a": "The Roman Empire — under Emperor Vespasian, completed 80 AD",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Berlin Wall fell?",
+      "a": "1989",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Napoleon Bonaparte?",
+      "a": "French military leader and emperor who dominated Europe in the early 19th century",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Renaissance?",
+      "a": "European cultural movement from 14th to 17th century meaning 'rebirth'",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Julius Caesar?",
+      "a": "Roman general and statesman assassinated on the Ides of March, 44 BC",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Titanic sank?",
+      "a": "1912",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the first artificial satellite?",
+      "a": "Sputnik 1 (1957, Soviet Union)",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Which civilization built Chichen Itza?",
+      "a": "The Maya",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which city was hit by the first atomic bomb in war?",
+      "a": "Hiroshima",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who was the first man in space?",
+      "a": "Yuri Gagarin",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What empire was ruled by Suleiman the Magnificent?",
+      "a": "Ottoman Empire",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who was the first Tudor king of England?",
+      "a": "Henry VII",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which war was fought between the North and South in the United States?",
+      "a": "American Civil War",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who was the longest-reigning British monarch?",
+      "a": "Elizabeth II",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What treaty ended World War I?",
+      "a": "Treaty of Versailles",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was assassinated in Sarajevo in 1914, sparking WWI?",
+      "a": "Archduke Franz Ferdinand",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What empire was Genghis Khan the founder of?",
+      "a": "Mongol Empire",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What event began on D-Day, June 6, 1944?",
+      "a": "Allied invasion of Normandy",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Manhattan Project?",
+      "a": "Development of the atomic bomb",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who led the Soviet Union during the Cuban Missile Crisis?",
+      "a": "Nikita Khrushchev",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Renaissance?",
+      "a": "A cultural rebirth in Europe from the 14th-17th century",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Spanish Armada?",
+      "a": "A fleet sent by Spain to invade England in 1588",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What city was the capital of the Byzantine Empire?",
+      "a": "Constantinople",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was the first female Prime Minister of the UK?",
+      "a": "Margaret Thatcher",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What revolution began in Russia in 1917?",
+      "a": "Bolshevik Revolution",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Which country was first to give women the vote?",
+      "a": "New Zealand (1893)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Last Pharaoh of ancient Egypt?",
+      "a": "Cleopatra VII",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year India gained independence?",
+      "a": "1947",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which civilization built Machu Picchu?",
+      "a": "The Inca Empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who painted the Sistine Chapel ceiling?",
+      "a": "Michelangelo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Manhattan Project?",
+      "a": "US-led WWII research project that produced the first nuclear weapons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Silk Road?",
+      "a": "An ancient network of trade routes connecting China to the Mediterranean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Black Death?",
+      "a": "Devastating plague pandemic (1347–1351) killing ~1/3 of Europe's population",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Boston Tea Party?",
+      "a": "1773 political protest — American colonists threw British tea into Boston Harbor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Nelson Mandela?",
+      "a": "South Africa's first Black president — spent 27 years in prison fighting apartheid",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Battle of Thermopylae?",
+      "a": "480 BC — 300 Spartans held off a massive Persian army for three days",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was Operation Overlord?",
+      "a": "The codename for the D-Day invasion of Normandy, June 6, 1944",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who built the Taj Mahal?",
+      "a": "Mughal Emperor Shah Jahan — built in memory of his wife Mumtaz Mahal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Scramble for Africa?",
+      "a": "Rapid colonisation of Africa by European powers between 1881 and 1914",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who wrote The Communist Manifesto?",
+      "a": "Karl Marx and Friedrich Engels (1848)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Meiji Restoration?",
+      "a": "Japan's rapid industrialisation and modernisation under Emperor Meiji from 1868",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Battle of Waterloo?",
+      "a": "Napoleon's final defeat in 1815 — ending the Napoleonic Wars and his rule",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Simón Bolívar?",
+      "a": "South American leader who led independence movements against Spain in the early 1800s",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Cultural Revolution in China?",
+      "a": "Mao Zedong's 1966–1976 campaign to purge capitalist and traditional elements from Chinese society",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Alexander the Great?",
+      "a": "Macedonian king who conquered one of the largest empires in history by age 30",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Transatlantic Slave Trade?",
+      "a": "Transportation of enslaved Africans to the Americas between the 16th and 19th centuries",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Treaty of Versailles?",
+      "a": "1919 peace treaty that ended World War I and imposed harsh penalties on Germany",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Joan of Arc?",
+      "a": "French heroine who led forces to victory at Orléans (1429) — burned at the stake",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Rwandan Genocide?",
+      "a": "1994 mass slaughter of ~800,000 Tutsi people by Hutu-led government in 100 days",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Battle of Hastings?",
+      "a": "1066 — William the Conqueror defeated King Harold II, beginning Norman rule of England",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Genghis Khan?",
+      "a": "Founder of the Mongol Empire — the largest contiguous land empire in history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Haitian Revolution?",
+      "a": "1791–1804 slave rebellion making Haiti the first Black republic and first nation to permanently abolish slavery",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Gutenberg Bible?",
+      "a": "First major book printed with movable type (c.1455) — revolutionised the spread of information in Europe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Suleiman the Magnificent?",
+      "a": "Tenth Ottoman Sultan (1520–1566) who presided over the empire's golden age",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Partition of India?",
+      "a": "1947 division of British India into two independent nations — India and Pakistan",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What ship carried the Pilgrims to North America in 1620?",
+      "a": "The Mayflower",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who was the Carthaginian general who crossed the Alps with elephants?",
+      "a": "Hannibal Barca",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What Chinese dynasty built much of the Forbidden City?",
+      "a": "The Ming dynasty",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which 1783 treaty ended the American Revolutionary War?",
+      "a": "The Treaty of Paris",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which English king was executed in 1649?",
+      "a": "Charles I",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What Newton book laid the foundation of classical mechanics in 1687?",
+      "a": "Principia Mathematica",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What treaty ended the Thirty Years' War in 1648?",
+      "a": "Peace of Westphalia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who led the Soviet Union after Lenin?",
+      "a": "Joseph Stalin",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What civilization used cuneiform writing?",
+      "a": "Sumerians",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which city fell to the Ottomans in 1453?",
+      "a": "Constantinople",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who was the British prime minister for most of World War II?",
+      "a": "Winston Churchill",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What year did the Battle of Hastings happen?",
+      "a": "1066",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which Chinese dynasty built much of the present Great Wall?",
+      "a": "Ming dynasty",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who was the queen of Egypt allied with Julius Caesar and Mark Antony?",
+      "a": "Cleopatra",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What rebellion was led by Spartacus?",
+      "a": "Third Servile War",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who was the first emperor of Rome?",
+      "a": "Augustus",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which empire controlled present-day Peru before the Spanish conquest?",
+      "a": "Inca Empire",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who wrote the Ninety-five Theses?",
+      "a": "Martin Luther",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which battle in 1815 ended Napoleon's rule for good?",
+      "a": "Waterloo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who was the last tsar of Russia?",
+      "a": "Nicholas II",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which dynasty ruled China during Zheng He's voyages?",
+      "a": "Ming dynasty",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Who was the Sun King of France?",
+      "a": "Louis XIV",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Taiping Rebellion?",
+      "a": "A massive civil war in China (1850-1864)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Congress of Vienna?",
+      "a": "1814-1815 conference to reorganize Europe after Napoleon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was Saladin?",
+      "a": "Muslim leader who recaptured Jerusalem from the Crusaders",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Meiji Restoration?",
+      "a": "1868 political revolution modernizing Japan",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Scramble for Africa?",
+      "a": "European colonization of Africa in the late 1800s",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Dreyfus Affair?",
+      "a": "A French political scandal involving anti-Semitism (1894)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was Hatshepsut?",
+      "a": "One of the few female pharaohs of Egypt",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the War of the Roses?",
+      "a": "English civil wars between House of Lancaster and York (1455-1487)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did Constantinople fall to the Ottomans?",
+      "a": "1453",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who led the Haitian Revolution?",
+      "a": "Toussaint Louverture",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the Boxer Rebellion?",
+      "a": "Anti-foreign uprising in China (1899-1901)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who founded the Ottoman Empire?",
+      "a": "Osman I",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the significance of the Battle of Tours (732)?",
+      "a": "Charles Martel halted Muslim expansion into Europe",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was the Byzantine Emperor who codified Roman law?",
+      "a": "Emperor Justinian I (Corpus Juris Civilis)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Shogun in Japanese history?",
+      "a": "Military dictator who wielded actual power while the Emperor was a ceremonial figurehead",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Genghis Khan's most famous grandson?",
+      "a": "Kublai Khan — who founded the Yuan dynasty in China",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Long March?",
+      "a": "Mao Zedong's 1934–1935 strategic retreat of Chinese Communist forces — ~6,000 miles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Nicolaus Copernicus?",
+      "a": "Renaissance astronomer who first proposed the Sun, not Earth, is the centre of the solar system",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Thirty Years War?",
+      "a": "A devastating Central European war (1618–1648) starting as religious conflict then political",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Sykes-Picot Agreement?",
+      "a": "1916 secret agreement between Britain and France dividing the Middle East — its borders still cause conflict",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Rosetta Stone?",
+      "a": "A 196 BC decree in three scripts — it allowed scholars to decode Egyptian hieroglyphics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Spanish Inquisition?",
+      "a": "Tribunal established in 1478 to maintain Catholic orthodoxy — known for torture and persecution",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Opium War?",
+      "a": "Two wars (1839–1842, 1856–1860) where Britain and France forced China to open trade and legalise opium",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Ivan the Terrible?",
+      "a": "Russia's first Tsar (1547–1584) — modernised Russia but killed his own son in rage",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Council of Nicaea?",
+      "a": "325 AD — first ecumenical Christian council, established the Nicene Creed and standardised doctrine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Taiping Rebellion?",
+      "a": "Massive civil war in China (1850–1864) — 20–30 million deaths, one of history's deadliest conflicts",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Black Death's long-term impact?",
+      "a": "Killed 30–60% of Europe — led to labour shortages, peasant uprisings, decline of feudalism, eventually the Renaissance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Simon de Montfort?",
+      "a": "Earl of Leicester who created England's first Parliament in 1265 — often called father of Parliament",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Library of Alexandria?",
+      "a": "One of the largest libraries of the ancient world — containing scrolls from across the known world",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the 1905 Russian Revolution?",
+      "a": "A wave of mass unrest and strikes that forced Tsar Nicholas II to create a constitution and parliament",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Korean War?",
+      "a": "A 1950–1953 conflict where North Korea (Chinese-backed) fought South Korea (UN/US-backed) — ended in armistice",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was Operation Barbarossa?",
+      "a": "Nazi Germany's massive invasion of the Soviet Union in June 1941 — the largest military operation in history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of 1453 in history?",
+      "a": "The fall of Constantinople to the Ottoman Turks — ending the Byzantine Empire and the Middle Ages",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Cleopatra's relationship with Roman leaders?",
+      "a": "She had relationships with Julius Caesar and Mark Antony — strategic alliances to protect Egypt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the significance of the Peace of Westphalia (1648)?",
+      "a": "It ended the Thirty Years War and established the modern concept of state sovereignty",
+      "file": "App.jsx"
+    }
+  ]
+}

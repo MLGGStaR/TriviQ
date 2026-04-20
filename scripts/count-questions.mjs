@@ -16,6 +16,8 @@ import EMOJI from '../src/emojiGuessCategories.js';
 import MOVIE from '../src/movieScenes.js';
 import SONG from '../src/songClips.js';
 import SONGADD from '../src/songClipAdditions.js';
+import { isBlacklisted } from '../src/qualityBlacklist.js';
+import QBACKFILL from '../src/qualityBackfill.js';
 import fs from 'node:fs';
 
 const cats = {};
@@ -45,7 +47,7 @@ while ((m = catRe.exec(app)) !== null) {
   }
 }
 
-const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, NCB2, EMOJI, MNE, MTE, LCB];
+const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, NCB2, EMOJI, MNE, MTE, LCB, QBACKFILL];
 banks.forEach(b => {
   Object.entries(b).forEach(([cat, obj]) => {
     [200, 400, 600].forEach(p => {
@@ -71,6 +73,7 @@ for (const cat of Object.keys(cats).sort()) {
       if (!q) continue;
       if (BAD_Q.test(q)) continue;
       if (MULTIPART_Q.test(q)) continue;
+      if (isBlacklisted(cat, q, e.a || '')) continue;
       const key = (q + '|' + (e.a || '') + '|' + (e.wiki || e.videoId || '')).toLowerCase().replace(/\s+/g, ' ').trim();
       if (seen.has(key)) continue;
       seen.add(key);

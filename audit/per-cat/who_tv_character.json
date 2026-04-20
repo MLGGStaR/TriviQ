@@ -1,0 +1,680 @@
+{
+  "200": [
+    {
+      "q": "I am the witty single mother at the center of Gilmore Girls, powered by coffee and sarcasm",
+      "a": "Lorelai Gilmore",
+      "wiki": "Lorelai_Gilmore",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am Lorelai's bookish daughter growing up in Stars Hollow",
+      "a": "Rory Gilmore",
+      "wiki": "Rory_Gilmore",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am Ted Mosby's giant-hearted best friend and a lawyer from Minnesota",
+      "a": "Marshall Eriksen",
+      "wiki": "Marshall_Eriksen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the radio psychiatrist who moved from Cheers to lead my own Seattle sitcom",
+      "a": "Frasier Crane",
+      "wiki": "Frasier_Crane",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the advertising genius at the center of Mad Men",
+      "a": "Don Draper",
+      "wiki": "Don_Draper",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the shotgun-toting stickup man from The Wire with a code of my own",
+      "a": "Omar Little",
+      "wiki": "Omar_Little",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the razor-sharp gang leader of Peaky Blinders",
+      "a": "Tommy Shelby",
+      "wiki": "Tommy_Shelby",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the detective from Law & Order: SVU played by Mariska Hargitay",
+      "a": "Olivia Benson",
+      "wiki": "Olivia_Benson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Everybody lies. I am the cynical medical genius Dr. House",
+      "a": "Gregory House",
+      "wiki": "Gregory_House",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the ambitious secretary-turned-copywriter from Mad Men",
+      "a": "Peggy Olson",
+      "wiki": "Peggy_Olson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the queen bee of Gossip Girl with impeccable fashion and schemes",
+      "a": "Blair Waldorf",
+      "wiki": "Blair_Waldorf",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the teenage private investigator from Neptune, California",
+      "a": "Veronica Mars",
+      "wiki": "Veronica_Mars",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the over-the-top matriarch with wigs and wine from Schitt's Creek",
+      "a": "Moira Rose",
+      "wiki": "Moira_Rose",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the obsessive detective with countless phobias from Monk",
+      "a": "Adrian Monk",
+      "wiki": "Adrian_Monk",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I'm the chemistry student turned meth cook's loyal partner, and I say Yeah science!",
+      "a": "Jesse Pinkman",
+      "wiki": "Jesse_Pinkman",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I solve strange murders in Nevermore with a deadpan stare and braids",
+      "a": "Wednesday Addams",
+      "wiki": "Wednesday_Addams",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I track walkers with a crossbow and barely waste words doing it",
+      "a": "Daryl Dixon",
+      "wiki": "Daryl_Dixon",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I make blue meth, I say I am the danger, I have a porkpie hat, my alias is Heisenberg",
+      "a": "Walter White",
+      "wiki": "Walter_White_(Breaking_Bad)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I tattooed prison blueprints on my body to break my innocent brother out of Fox River",
+      "a": "Michael Scofield",
+      "wiki": "Michael_Scofield",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I have three dragons, my family's words are Fire and Blood, I am the last Targaryen",
+      "a": "Daenerys Targaryen",
+      "wiki": "Daenerys_Targaryen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I have a spot on the couch, I say Bazinga when I joke, I am a theoretical physicist",
+      "a": "Sheldon Cooper",
+      "wiki": "Sheldon_Cooper",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a blood spatter analyst who secretly kills killers following my father's Code",
+      "a": "Dexter Morgan",
+      "wiki": "Dexter_Morgan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a Norse farmer who raids England, I navigate by the sun's position, and my wife is Lagertha",
+      "a": "Ragnar Lothbrok",
+      "wiki": "Ragnar_Lothbrok",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a forensic scientist struck by lightning who later becomes the Flash in Central City",
+      "a": "Barry Allen",
+      "wiki": "Barry_Allen_(Arrowverse)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wake from a coma into a zombie apocalypse, I'm a sheriff's deputy, and I find my family in Atlanta",
+      "a": "Rick Grimes",
+      "wiki": "Rick_Grimes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm New York's best closer, I wear expensive suits, and Donna is my right hand",
+      "a": "Harvey Specter",
+      "wiki": "Harvey_Specter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I run the Walking Dead's most brutal antagonist group, and my weapon is a barbed-wire bat called Lucille",
+      "a": "Negan",
+      "wiki": "Negan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a teenage girl raised in a government lab, and I fight monsters from the Upside Down",
+      "a": "Eleven",
+      "wiki": "Eleven_(Stranger_Things)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the bastard of Winterfell who becomes Lord Commander and later King in the North",
+      "a": "Jon Snow",
+      "wiki": "Jon_Snow_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I manage Dunder Mifflin, declare bankruptcy by shouting it, and think I'm the world's best boss",
+      "a": "Michael Scott",
+      "wiki": "Michael_Scott_(The_Office)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I farm beets, love bears, and serve as assistant to the regional manager",
+      "a": "Dwight Schrute",
+      "wiki": "Dwight_Schrute",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a colorful lawyer with a loud wardrobe and an even louder mouth who works for Albuquerque's criminals",
+      "a": "Saul Goodman",
+      "wiki": "Saul_Goodman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a sardonic FBI agent who sees the supernatural truth nobody else believes",
+      "a": "Fox Mulder",
+      "wiki": "Fox_Mulder",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a brilliant but misanthropic doctor who diagnoses impossible cases using a cane",
+      "a": "Gregory House",
+      "wiki": "Gregory_House",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "I am the physicist from The Big Bang Theory who lives with Sheldon and dates Penny",
+      "a": "Leonard Hofstadter",
+      "wiki": "Leonard_Hofstadter",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the foul-mouthed kid in a red jacket from South Park",
+      "a": "Eric Cartman",
+      "wiki": "Eric_Cartman",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the genius drunk scientist who drags my grandson across dimensions",
+      "a": "Rick Sanchez",
+      "wiki": "Rick_Sanchez",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I'm the ambitious lawyer who becomes Saul's most important partner and moral test",
+      "a": "Kim Wexler",
+      "wiki": "Kim_Wexler",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the fashion-obsessed queen bee of Manhattan's Upper East Side",
+      "a": "Blair Waldorf",
+      "wiki": "Blair_Waldorf",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I am the terrifying hitman from Killing Eve who turns every scene into a game",
+      "a": "Villanelle",
+      "wiki": "Villanelle_(Killing_Eve)",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Buffy Summers",
+      "wiki": "Buffy_Summers",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Frasier Crane",
+      "wiki": "Frasier_Crane",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ted Lasso",
+      "wiki": "Ted_Lasso",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "I lead the army of the dead, ride an undead dragon, and bring the Long Night to Westeros",
+      "a": "The Night King",
+      "wiki": "Night_King",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a paralegal turned lawyer from Suits, and I eventually marry Mike Ross",
+      "a": "Rachel Zane",
+      "wiki": "Rachel_Zane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an FBI agent hunting escaped convicts, secretly linked to the Company, and I become an uneasy ally",
+      "a": "Agent Mahone",
+      "wiki": "Alexander_Mahone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a physicist from Caltech who couldn't talk to women without alcohol for years",
+      "a": "Raj Koothrappali",
+      "wiki": "Raj_Koothrappali",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I was once One at Hawkins Lab, and now I haunt minds from the Upside Down",
+      "a": "Vecna",
+      "wiki": "Vecna_(Stranger_Things)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I run Los Pollos Hermanos, smile politely, and build a ruthless drug empire in secret",
+      "a": "Gus Fring",
+      "wiki": "Gus_Fring",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the witty youngest Lannister, and I survive by thinking faster than everyone else",
+      "a": "Tyrion Lannister",
+      "wiki": "Tyrion_Lannister",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I blow up the Sept of Baelor and rule King's Landing with fear and wildfire",
+      "a": "Cersei Lannister",
+      "wiki": "Cersei_Lannister",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I start as a pawn in royal politics and end as Queen in the North",
+      "a": "Sansa Stark",
+      "wiki": "Sansa_Stark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the foul-mouthed antihero of The Boys, and I want Homelander dead more than anything",
+      "a": "Billy Butcher",
+      "wiki": "Billy_Butcher",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wield a bat with nails, wear sailor scoops gear, and become one of Hawkins' bravest heroes",
+      "a": "Steve Harrington",
+      "wiki": "Steve_Harrington",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wear a trucker cap, love pudding, and survive every nightmare Hawkins throws at me",
+      "a": "Dustin Henderson",
+      "wiki": "Dustin_Henderson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I stare into the camera, prank Dwight, and somehow charm the entire office",
+      "a": "Jim Halpert",
+      "wiki": "Jim_Halpert",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the high-powered defense attorney who says 'Better Call Saul'",
+      "a": "Jimmy McGill",
+      "wiki": "Jimmy_McGill",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I run a motel with my mother's corpse in the basement",
+      "a": "Norman Bates",
+      "wiki": "Norman_Bates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the Iron Throne's cruel boy-king from a famous fantasy series",
+      "a": "Joffrey Baratheon",
+      "wiki": "Joffrey_Baratheon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the lovable meth dealer turned friend of Walter White",
+      "a": "Jesse Pinkman",
+      "wiki": "Jesse_Pinkman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the Pawnee parks director who hates Leslie Knope's optimism",
+      "a": "Ron Swanson",
+      "wiki": "Ron_Swanson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the private detective who solved cases in 1980s Miami with my mustache and Hawaiian shirts",
+      "a": "Thomas Magnum",
+      "wiki": "Thomas_Magnum",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an idealistic White House staffer serving President Bartlet",
+      "a": "Josh Lyman",
+      "wiki": "Josh_Lyman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a former Marine turned suburban mom who sells marijuana in a gated community",
+      "a": "Nancy Botwin",
+      "wiki": "Nancy_Botwin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I command the USS Enterprise and seek out new life and civilizations",
+      "a": "James T. Kirk",
+      "wiki": "James_T._Kirk",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "I am the kingpin of West Baltimore from The Wire, polished and ruthless",
+      "a": "Stringer Bell",
+      "wiki": "Stringer_Bell",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the FBI agent obsessed with the paranormal in The X-Files",
+      "a": "Fox Mulder",
+      "wiki": "Fox_Mulder",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the vampire slayer from Sunnydale",
+      "a": "Buffy Summers",
+      "wiki": "Buffy_Summers",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I'm the cynical detective from True Detective season 1 who talks about time as a flat circle",
+      "a": "Rust Cohle",
+      "wiki": "Rust_Cohle",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the ruthless media heir who keeps crashing upward inside Waystar Royco",
+      "a": "Kendall Roy",
+      "wiki": "Kendall_Roy",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the vice president turned president whose insults are legendary in Veep",
+      "a": "Selina Meyer",
+      "wiki": "Selina_Meyer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Omar Little",
+      "wiki": "Omar_Little",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Fox Mulder",
+      "wiki": "Fox_Mulder",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Dana Scully",
+      "wiki": "Dana_Scully",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Villanelle",
+      "wiki": "Villanelle_(character)",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Adrian Monk",
+      "wiki": "Adrian_Monk",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Moira Rose",
+      "wiki": "Moira_Rose",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Veronica Mars",
+      "wiki": "Veronica_Mars",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Rust Cohle",
+      "wiki": "Rust_Cohle",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Stringer Bell",
+      "wiki": "Stringer_Bell",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Tommy Shelby",
+      "wiki": "Thomas_Shelby",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Tony Soprano",
+      "wiki": "Tony_Soprano",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Saul Berenson",
+      "wiki": "Saul_Berenson",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Bender",
+      "wiki": "Bender_(Futurama)",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Leslie Knope",
+      "wiki": "Leslie_Knope",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Don Draper",
+      "wiki": "Don_Draper",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Olivia Benson",
+      "wiki": "Olivia_Benson",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Gregory House",
+      "wiki": "Gregory_House",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Peggy Olson",
+      "wiki": "Peggy_Olson",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kendall Roy",
+      "wiki": "Kendall_Roy",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Selina Meyer",
+      "wiki": "Selina_Meyer",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Wednesday Addams",
+      "wiki": "Wednesday_Addams",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kim Wexler",
+      "wiki": "Kim_Wexler",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Lorelai Gilmore",
+      "wiki": "Lorelai_Gilmore",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Jack Bauer",
+      "wiki": "Jack_Bauer",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Carrie Mathison",
+      "wiki": "Carrie_Mathison",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Nandor the Relentless",
+      "wiki": "Nandor_the_Relentless",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "BoJack Horseman",
+      "wiki": "BoJack_Horseman",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Malcolm",
+      "wiki": "Malcolm_(Malcolm_in_the_Middle)",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Annalise Keating",
+      "wiki": "Annalise_Keating",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Alicia Florrick",
+      "wiki": "Alicia_Florrick",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Rebecca Pearson",
+      "wiki": "Rebecca_Pearson",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Jax Teller",
+      "wiki": "Jax_Teller",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "I moved from Canada to New York, became a news anchor, and somehow dated two best friends",
+      "a": "Robin Scherbatsky",
+      "wiki": "Robin_Scherbatsky",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I love waffles, public service, and the city of Pawnee more than almost anyone alive",
+      "a": "Leslie Knope",
+      "wiki": "Leslie_Knope",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a fixer with a code, a parking booth, and a stare that makes everyone nervous",
+      "a": "Mike Ehrmantraut",
+      "wiki": "Mike_Ehrmantraut",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I use sarcasm as a survival mechanism, hate Thanksgiving in a box, and once lived in a box",
+      "a": "Chandler Bing",
+      "wiki": "Chandler_Bing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm obsessively organized, fiercely competitive, and the chef of the Friends group",
+      "a": "Monica Geller",
+      "wiki": "Monica_Geller",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm delightfully weird, sing about smelly cats, and think outside every possible box",
+      "a": "Phoebe Buffay",
+      "wiki": "Phoebe_Buffay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a paleontologist who says we were on a break, and I'm the brother in the group",
+      "a": "Ross Geller",
+      "wiki": "Ross_Geller",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I started as the girl across the hall and ended up becoming one of the group's sharpest voices",
+      "a": "Penny",
+      "wiki": "Penny_(The_Big_Bang_Theory)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an architect who tells the long story of how I met your mother",
+      "a": "Ted Mosby",
+      "wiki": "Ted_Mosby",
+      "file": "App.jsx"
+    }
+  ]
+}

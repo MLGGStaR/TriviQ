@@ -1,0 +1,513 @@
+{
+  "200": [
+    {
+      "q": "What is Homelander's corporate superhero team called?",
+      "a": "The Seven",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What company manages superheroes in The Boys?",
+      "a": "Vought",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Starlight's real first name?",
+      "a": "Annie",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Billy Butcher's wife's name?",
+      "a": "Becca Butcher",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Starlight's surname?",
+      "a": "January",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Mother's Milk's first name?",
+      "a": "Marvin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Kimiko often called by the Boys?",
+      "a": "The Female",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What event is the infamous superhero orgy called?",
+      "a": "Herogasm",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What aquatic member of The Seven talks to sea life?",
+      "a": "The Deep",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What WWII-era supe is brought back in season 3?",
+      "a": "Soldier Boy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What temporary superpower serum do Butcher and Hughie use?",
+      "a": "Temp V",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Black Noir known for rarely doing?",
+      "a": "Speaking",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Annie January's superhero name?",
+      "a": "Starlight",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What secret chemical created superheroes?",
+      "a": "Compound V",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What anti-supe politician becomes a major target in later seasons?",
+      "a": "Victoria Neuman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of Starlight's ex-boyfriend in season 3?",
+      "a": "Supersonic",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What was Stormfront originally called decades earlier?",
+      "a": "Liberty",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Hughie's surname?",
+      "a": "Campbell",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What company manages The Seven?",
+      "a": "Vought",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who kills Hughie's girlfriend in the first episode?",
+      "a": "A-Train",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Starlight's real name?",
+      "a": "Annie January",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of the corporation that created the superheroes?",
+      "a": "Vought",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Homelander?",
+      "a": "The most powerful and most dangerous supe — the leader of The Seven, a psychopathic narcissist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Billy Butcher?",
+      "a": "The leader of The Boys — motivated by his wife's assault by Homelander",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Vought International?",
+      "a": "The corporation that creates, manages, and monetises superheroes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Compound V?",
+      "a": "The chemical compound that gives people superpowers — secretly administered to babies",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Starlight?",
+      "a": "Annie January — a genuine hero who joins The Seven and eventually fights against Vought",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Homelander?",
+      "a": "Antony Starr",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is The Deep's power?",
+      "a": "He can breathe underwater and communicate with sea creatures",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Hughie Campbell?",
+      "a": "A regular guy who joins The Boys after his girlfriend is accidentally killed by A-Train",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Black Noir?",
+      "a": "A silent, masked member of The Seven — later revealed to be a clone of Homelander",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does A-Train do to Robin?",
+      "a": "He runs through her at full speed — killing her instantly",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What substance gives supes their powers?",
+      "a": "Compound V",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Homelander's son?",
+      "a": "Ryan",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What aquatic member of The Seven talks to sea life?",
+      "a": "The Deep",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What invisible member of the Seven does Butcher's team capture first?",
+      "a": "Translucent",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What university becomes the focus of Gen V and trains young supes?",
+      "a": "Godolkin University",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Queen Maeve's real name?",
+      "a": "Maggie Shaw",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Payback member uses an explosive energy blast and red costume?",
+      "a": "Crimson Countess",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Billy Butcher's dog named?",
+      "a": "Terror",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Starlight's real first name?",
+      "a": "Annie",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Mother's Milk usually called?",
+      "a": "M.M.",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What team was Soldier Boy part of before the Seven era?",
+      "a": "Payback",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What speedster of the Seven kills Robin?",
+      "a": "A-Train",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Billy Butcher's wife called?",
+      "a": "Becca",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What fake patriotic slogan is tied to Homelander?",
+      "a": "America's greatest superhero",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Homelander's company called?",
+      "a": "Vought",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Butcher's first name?",
+      "a": "Billy",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What pageant hero joins the Seven from Iowa?",
+      "a": "Starlight",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Kimiko's nickname in the team?",
+      "a": "The Female",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What giant celebrity supe corporation runs the show?",
+      "a": "Vought",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the superhero team in the show called?",
+      "a": "The Seven",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What company manufactures and controls the supes?",
+      "a": "Vought International",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What secret chemical gives supes their powers?",
+      "a": "Compound V",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the V24 compound?",
+      "a": "A temporary version of Compound V that gives regular people powers for 24 hours — used by The Boys",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Soldier Boy?",
+      "a": "The original superhero of the golden age — Homelander's genetic father — played by Jensen Ackles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Homelander and Maeve's relationship?",
+      "a": "They were a couple — Maeve knows his darkest secrets and eventually helps bring him down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Stan Edgar?",
+      "a": "The cold, calculating CEO of Vought — the only person Homelander fears",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is The Seven?",
+      "a": "Vought's premier superhero team — analogous to the Justice League — mostly corrupt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Temp V?",
+      "a": "V24 — a short-acting version of Compound V used by Butcher and Hughie to fight supes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Noir's face?",
+      "a": "He hides horrific burns and scars — in Season 3 it's revealed he is a Homelander clone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Sister Sage?",
+      "a": "The smartest person on Earth — introduced in Season 4 as Homelander's new strategist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Firecracker?",
+      "a": "A Infowars-style supe influencer who becomes Homelander's devoted follower in Season 4",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Boys' main weapon against supes?",
+      "a": "Compound V antidote and finding leverage — they rarely win in direct combat",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What temporary version of Compound V do the Boys experiment with?",
+      "a": "Temp V / V24",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the World War II-era supe brought back in season 3?",
+      "a": "Soldier Boy",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What speedster kills Robin in episode 1?",
+      "a": "A-Train",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What temporary version of Compound V grants powers to adults?",
+      "a": "Temp V",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Homelander's son's name?",
+      "a": "Ryan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What church-like group does The Deep join?",
+      "a": "The Church of the Collective",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Queen Maeve's first name?",
+      "a": "Maggie",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What temporary super-drug do the Boys use?",
+      "a": "Temp V",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Kimiko's brother called?",
+      "a": "Kenji",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What job does Victoria Neuman hold before running for vice president?",
+      "a": "Congresswoman",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What supe manipulates minds through touch and suggestion in season 4?",
+      "a": "Sister Sage",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Frenchie's first name?",
+      "a": "Serge",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Kimiko's surname?",
+      "a": "Miyashiro",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What company scientist creates Compound V?",
+      "a": "Vought",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What superhero reality show launches new heroes?",
+      "a": "American Hero",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the main celebrity supe team called?",
+      "a": "The Seven",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does Compound V create?",
+      "a": "Superpowers",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What supe shrinks and explodes a body from within?",
+      "a": "Termite",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What strategist joins Homelander in season 4?",
+      "a": "Sister Sage",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Ryan's father called?",
+      "a": "Homelander",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What media division controls supe branding?",
+      "a": "Vought Studios",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Queen Maeve's public title in the Seven?",
+      "a": "Warrior queen",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What church-backed supe scandal hits the Deep?",
+      "a": "The Church of the Collective",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What Russian nerve agent is used to subdue Soldier Boy?",
+      "a": "Novichok",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What facility secretly creates super terrorists in season 2?",
+      "a": "Sage Grove Center",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Who played Soldier Boy in season 3?",
+      "a": "Jensen Ackles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the leader of Payback, the original super team?",
+      "a": "Soldier Boy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the satire target of The Boys?",
+      "a": "Corporate superhero culture, American exceptionalism, celebrity worship, and unchecked power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Stormfront?",
+      "a": "A Nazi from WWII kept young by Compound V — Homelander's manipulative love interest in S2",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Homelander's origin?",
+      "a": "He was raised in a Vought lab with no human contact — explaining his psychological damage and need for approval",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the real meaning of Translucent's death?",
+      "a": "Hughie kills him — a nobody killing a powerful supe — establishing that The Boys can fight back",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Supe Terrorist arc?",
+      "a": "Vought manufactures supe villains to keep demand for their heroes high — staged terrorism for profit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Queen Maeve's arc?",
+      "a": "From genuine hero to jaded cynic to redemptive sacrifice — she fakes her death after destroying Soldier Boy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does The Boys say about media and perception?",
+      "a": "Vought controls narrative completely — heroes are products, and public perception is more important than reality",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Grace Mallory?",
+      "a": "A former CIA operative who founded The Boys — she has history with Butcher and Soldier Boy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of A-Train's arc?",
+      "a": "A Black superhero who ignores racial justice to maintain his status — eventually forced to confront his complicity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ryan Butcher's significance?",
+      "a": "Homelander and Becca's son — he has his father's powers. His choices will define the show's endgame",
+      "file": "App.jsx"
+    }
+  ]
+}

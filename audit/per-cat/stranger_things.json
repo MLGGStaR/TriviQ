@@ -1,0 +1,533 @@
+{
+  "200": [
+    {
+      "q": "What town is Stranger Things set in?",
+      "a": "Hawkins",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Eleven's favorite food?",
+      "a": "Eggo waffles",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What game do the boys often play together?",
+      "a": "Dungeons & Dragons",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Hopper's first name?",
+      "a": "Jim",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Max's stepbrother's name?",
+      "a": "Billy Hargrove",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What ice cream shop do Steve and Robin work at?",
+      "a": "Scoops Ahoy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What California town do the Byers move to?",
+      "a": "Lenora Hills",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Robin's last name?",
+      "a": "Buckley",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What roller rink does Eleven get bullied at?",
+      "a": "Rink-O-Mania",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What newspaper does Nancy work for in season 3?",
+      "a": "The Hawkins Post",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who runs the Hellfire Club?",
+      "a": "Eddie Munson",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Dustin's pet creature called?",
+      "a": "Dart",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What game inspires the show's monster names?",
+      "a": "Dungeons & Dragons",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What tabletop game do the boys obsess over in season 1?",
+      "a": "Dungeons and Dragons",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the alternate dimension called?",
+      "a": "The Upside Down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the main villain in Season 4?",
+      "a": "Vecna (Henry Creel / One)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What game do the boys play?",
+      "a": "Dungeons & Dragons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Eleven's main power?",
+      "a": "Telekinesis and telepathy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Eleven?",
+      "a": "Millie Bobby Brown",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where does Stranger Things take place?",
+      "a": "Hawkins, Indiana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who goes missing in Season 1?",
+      "a": "Will Byers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What song is associated with Vecna in Season 4?",
+      "a": "Running Up That Hill by Kate Bush",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Eleven's best friend?",
+      "a": "Mike Wheeler",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Demogorgon?",
+      "a": "A predatory creature from the Upside Down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Eleven call Dr. Brenner?",
+      "a": "Papa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Max Mayfield?",
+      "a": "A new girl in Hawkins who becomes part of the group",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Mind Flayer?",
+      "a": "A massive psychic entity from the Upside Down that hive-minds creatures",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Steve Harrington?",
+      "a": "Originally a popular jock who becomes one of the most beloved group members",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What year is Season 1 set in?",
+      "a": "1983",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Joyce Byers?",
+      "a": "Will's mother — she is the first to believe Will is communicating through the lights",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jim Hopper?",
+      "a": "Chief of Police in Hawkins — later held captive in Russia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Eddie Munson?",
+      "a": "The leader of the Hellfire Club in Season 4 — he dies heroically distracting the bats",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hellfire Club?",
+      "a": "The Dungeons & Dragons club at Hawkins High School — Eddie Munson's group",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Robin Buckley?",
+      "a": "Steve's coworker who is gay — she becomes a core member of the group in Season 3",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What shopping mall becomes a major season 3 setting?",
+      "a": "Starcourt Mall",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Dustin's pet from the Upside Down called?",
+      "a": "Dart",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What song do Dustin and Suzie sing together?",
+      "a": "The NeverEnding Story",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What number is tattooed on Kali?",
+      "a": "008",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What giant radio tower does Dustin build?",
+      "a": "Cerebro",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What song helps Max escape Vecna?",
+      "a": "Running Up That Hill",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What club does Eddie Munson lead?",
+      "a": "Hellfire Club",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What arcade game tops season 2?",
+      "a": "Dragon's Lair",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Lucas's sister called?",
+      "a": "Erica",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What psychic project restores Eleven's powers?",
+      "a": "Nina Project",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Hopper's adopted daughter's name?",
+      "a": "Eleven",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Steve's job at Starcourt Mall?",
+      "a": "Scoops Ahoy",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Jonathan Byers's hobby?",
+      "a": "Photography",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the doctor's nickname used by the children?",
+      "a": "Papa",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who is the police chief of Hawkins?",
+      "a": "Jim Hopper",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What government lab created Eleven's powers?",
+      "a": "Hawkins National Laboratory",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What shopping mall is central to Season 3?",
+      "a": "Starcourt Mall",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Jonathan Byers's hobby?",
+      "a": "Photography",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What state is Hawkins located in?",
+      "a": "Indiana",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Max's older stepbrother who dies in season 3?",
+      "a": "Billy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the role of Robin in the show?",
+      "a": "Maya Hawke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chain of stores is the Starcourt Mall home to?",
+      "a": "Scoops Ahoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What facility experimented on Eleven?",
+      "a": "Hawkins National Laboratory",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Eleven's Papa?",
+      "a": "Dr. Martin Brenner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Scoops Ahoy?",
+      "a": "The ice cream shop where Steve and Robin work in Season 3 at Starcourt Mall",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the real name of 001?",
+      "a": "Henry Creel — who becomes Vecna",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens to Hopper?",
+      "a": "Thought dead, transported to Russia — rescued by Joyce and Murray in Season 4",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Running Up That Hill in Season 4?",
+      "a": "The song anchors Max to reality as Vecna attacks her — it reached #1 in multiple countries after the episode",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happened in the Rainbow Room?",
+      "a": "Young Henry Creel killed all the other test children — Eleven expelled him into the Upside Down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Kamchatka prison?",
+      "a": "The Russian facility where Hopper is held — the Russians are experimenting with the Upside Down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Upside Down's time freeze?",
+      "a": "It's frozen at 1983 — the moment Eleven first opened the gate — even though years have passed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Max's fate at end of Season 4?",
+      "a": "She is in a coma — Vecna almost killed her, El briefly revives her but she remains unconscious",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Vecna's plan?",
+      "a": "To kill four victims to create four gates and merge the Upside Down with Hawkins permanently",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How does Eddie Munson die?",
+      "a": "He sacrifices himself playing guitar to distract the Upside Down bats for the others to complete the mission",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the demobat?",
+      "a": "Bat-like creatures from the Upside Down — they serve the Mind Flayer and attack in swarms",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Hawkins cracking in Season 4?",
+      "a": "Vecna's four gates merge — Hawkins literally cracks and begins merging with the Upside Down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the American in the Season 3 post-credits Russia scene?",
+      "a": "Hopper — whose survival was teased before being confirmed in Season 4",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What was Vecna's original human designation at Hawkins Lab?",
+      "a": "One",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Eddie Munson's D&D club called?",
+      "a": "Hellfire Club",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the alternate world full of vines and monsters called?",
+      "a": "The Upside Down",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Victor Creel's son's full name?",
+      "a": "Henry Creel",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What pizza place helps restore Eleven's strength?",
+      "a": "Surfer Boy Pizza",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What element repeatedly weakens creatures from the Upside Down?",
+      "a": "Fire",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What number is tattooed on Eleven's arm?",
+      "a": "011",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What lab nickname is given to Henry Creel?",
+      "a": "One",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What video store does Robin work at?",
+      "a": "Family Video",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What name does Hopper use for his Russian prison ally?",
+      "a": "Enzo",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Eleven's birth name?",
+      "a": "Jane",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What newspaper does Nancy work for in season 3?",
+      "a": "Hawkins Post",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What alias does Murray pretend to be at Yuri's warehouse?",
+      "a": "Yakov",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the high school basketball team called?",
+      "a": "Hawkins Tigers",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What cheerleader is Vecna's first season 4 victim?",
+      "a": "Chrissy Cunningham",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the pizza shop employee helping Argyle called?",
+      "a": "Eden",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Max's brother's name?",
+      "a": "Billy",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What song does Dustin sing with Suzie over the radio?",
+      "a": "The NeverEnding Story",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Byers' dog called in season 1?",
+      "a": "Chester",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Robin's crush at Family Video called?",
+      "a": "Vickie",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What name does Eleven use while hiding with Hopper?",
+      "a": "Jane Hopper",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What region of Russia is Hopper imprisoned in?",
+      "a": "Kamchatka",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What song helps Max escape Vecna?",
+      "a": "Running Up That Hill",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What was Vecna's original human designation?",
+      "a": "One",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What D&D club does Eddie Munson lead?",
+      "a": "Hellfire Club",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the laboratory where Eleven was experimented on?",
+      "a": "Hawkins National Laboratory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Vecna select his victims?",
+      "a": "He targets people with severe trauma and guilt — their pain allows him to create gates into Hawkins",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the MKUltra connection?",
+      "a": "Hawkins Lab draws on real CIA experiments — conducting psychic research on children during the Cold War",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Vecna's full backstory?",
+      "a": "Henry Creel killed his family as a child, became Brenner's test subject 001, was exiled to the Upside Down by Eleven",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the biological nature of the hive mind?",
+      "a": "The Mind Flayer connects all creatures through shared consciousness — they feel what it feels",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Nina Project?",
+      "a": "Brenner's program to restore Eleven's memories using a sensory deprivation tank to reawaken her powers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the full arc of Steve Harrington?",
+      "a": "Season 1: bully/jock. Season 2: protector. Seasons 3-4: fan-favourite dad figure who can't move on from Nancy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the deeper metaphor of the Upside Down?",
+      "a": "Depression, trauma, and how darkness invades ordinary life — the shadow world represents unseen psychological threats",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Eleven losing her powers?",
+      "a": "She loses them at Season 3's end — in S4 she must relive traumatic memories to reawaken them",
+      "file": "App.jsx"
+    }
+  ]
+}

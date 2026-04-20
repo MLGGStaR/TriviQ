@@ -1,0 +1,478 @@
+{
+  "200": [
+    {
+      "q": "Who plays Raymond 'Red' Reddington?",
+      "a": "James Spader",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What government agency does Red work with?",
+      "a": "FBI",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the FBI profiler Red insists on working with?",
+      "a": "Elizabeth Keen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Elizabeth Keen?",
+      "a": "Megan Boone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the list Red helps the FBI hunt down?",
+      "a": "The Blacklist",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network airs The Blacklist?",
+      "a": "NBC",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What hat is Red famously associated with?",
+      "a": "Fedora",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's job title at the start of the show?",
+      "a": "FBI profiler",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's nickname (used by Red)?",
+      "a": "Lizzy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Red's bodyguard?",
+      "a": "Dembe Zuma",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Liz's first husband?",
+      "a": "Tom Keen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Tom Keen?",
+      "a": "Ryan Eggold",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the FBI Assistant Director who oversees the task force?",
+      "a": "Harold Cooper",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Harold Cooper?",
+      "a": "Harry Lennix",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In what year did The Blacklist premiere?",
+      "a": "2013",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's daughter's name?",
+      "a": "Agnes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the FBI agent partnered with Liz played by Diego Klattenhoff?",
+      "a": "Donald Ressler",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Mossad agent on the task force?",
+      "a": "Samar Navabi",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Red's preferred drink?",
+      "a": "Wine",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Tom's secret occupation?",
+      "a": "Spy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Red's primary occupation?",
+      "a": "Criminal broker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is the show primarily set in?",
+      "a": "Washington, D.C.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created The Blacklist?",
+      "a": "Jon Bokenkamp",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many seasons of The Blacklist aired?",
+      "a": "10",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Aram Mojtabai on the task force?",
+      "a": "Amir Arison",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who turns himself in to the FBI in the pilot episode?",
+      "a": "Raymond 'Red' Reddington",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays the lead criminal informant?",
+      "a": "James Spader",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the rookie FBI profiler Red demands to work with?",
+      "a": "Elizabeth Keen",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Aram's role on the task force?",
+      "a": "Cyber/tech specialist",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who leads the FBI task force?",
+      "a": "Harold Cooper",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the first name of Liz's secretive husband?",
+      "a": "Tom",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the name of Red's bodyguard played by Hisham Tawfiq?",
+      "a": "Dembe Zuma",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Tom Keen's secret occupation?",
+      "a": "Spy/operative",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Red's cooking hobby on the show?",
+      "a": "Gourmet cooking",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's biological mother's name?",
+      "a": "Katarina Rostova",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What nationality is Katarina Rostova?",
+      "a": "Russian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Tom Keen's real name?",
+      "a": "Jacob Phelps",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the cleaner Red employs played by Susan Blommaert?",
+      "a": "Mr. Kaplan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the show's spin-off?",
+      "a": "The Blacklist: Redemption",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Liz's adoptive father?",
+      "a": "Sam Milhoan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the FBI tech analyst on the task force?",
+      "a": "Aram Mojtabai",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many people are originally on the FBI Blacklist task force?",
+      "a": "5",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Red's daughter that Liz turned out to be (initially believed)?",
+      "a": "Masha Rostova",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Dembe Zuma?",
+      "a": "Hisham Tawfiq",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the prison Red frequents in the early seasons?",
+      "a": "Black site",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Red's favorite type of music?",
+      "a": "Jazz / classical",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the criminal organization led by 'The Major'?",
+      "a": "The Major's network",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Red's old associate played by Alan Alda?",
+      "a": "Alan Fitch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the briefcase Red guards full of secrets?",
+      "a": "The Fulcrum",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Samar Navabi?",
+      "a": "Mozhan Marnò",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Donald Ressler?",
+      "a": "Diego Klattenhoff",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the task force's HQ called?",
+      "a": "The Post Office",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is the FBI 'Post Office' headquarters located in?",
+      "a": "Washington, D.C.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the character Mr. Kaplan?",
+      "a": "Susan Blommaert",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Red's profession before becoming a criminal (his former Navy rank)?",
+      "a": "Naval officer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Liz's sister later introduced?",
+      "a": "Jennifer Reddington",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the lead character of the spinoff Blacklist: Redemption?",
+      "a": "Tom Keen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Dembe to Red?",
+      "a": "His loyal bodyguard and confidant",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which task force member is a former Mossad agent?",
+      "a": "Samar Navabi",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Cold War-era agent is Liz's biological mother?",
+      "a": "Katarina Rostova",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the mysterious list Red brings to the FBI?",
+      "a": "The Blacklist",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What does Red's cleaner 'Mr. Kaplan' specialize in?",
+      "a": "Disposing of evidence and bodies",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the name of the leader of the Cabal known as 'The Director'?",
+      "a": "Peter Kotsiopolis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's full name?",
+      "a": "Elizabeth Scott Keen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which character dies in the season 8 finale?",
+      "a": "Elizabeth Keen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many episodes does the original Blacklist series have in total?",
+      "a": "218",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Red's pilot character played in early seasons?",
+      "a": "Edward",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Katarina Rostova?",
+      "a": "Lotte Verbeek",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Russian agent and Liz's mother's lover?",
+      "a": "Ilya Koslov",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of the season 1 finale?",
+      "a": "Berlin: Conclusion",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the character played by Edi Gathegi?",
+      "a": "Matias Solomon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Matias Solomon's role?",
+      "a": "Mercenary working for the Cabal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the person Tom is hired to investigate before meeting Liz?",
+      "a": "Liz herself",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Tom's adoptive mother who is also a spy?",
+      "a": "Susan 'Scottie' Hargrave",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Susan 'Scottie' Hargrave in the spinoff?",
+      "a": "Famke Janssen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Tom Keen's cover job in season 1?",
+      "a": "Substitute teacher",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the assassin who claims his payment in cash on shipping containers in season 1?",
+      "a": "The Courier",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the character Cooper's wife?",
+      "a": "Charlene Cooper",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Charlene Cooper?",
+      "a": "Valarie Pettiford",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the older Katarina Rostova revealed in season 7?",
+      "a": "Laila Robins",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Tom's biological father's name (revealed in spinoff)?",
+      "a": "Howard Hargrave",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Howard Hargrave?",
+      "a": "Terry O'Quinn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the character Red's lawyer?",
+      "a": "Marvin Gerard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Marvin Gerard?",
+      "a": "Fisher Stevens",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In which episode does Mr. Kaplan turn against Red?",
+      "a": "Mr. Kaplan: Conclusion",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What number on the Blacklist is the assassin known as The Freelancer?",
+      "a": "145",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the task force agent introduced in later seasons played by Anya Banerjee?",
+      "a": "Siya Malik",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Siya Malik?",
+      "a": "Anya Banerjee",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's biological grandfather's name?",
+      "a": "Dom Wilkinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Dom Wilkinson?",
+      "a": "Brian Dennehy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the recurring assassin known as Garvey?",
+      "a": "Jonny Coyne",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Liz's daughter Agnes's father?",
+      "a": "Tom Keen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Red's fulcrum file contain?",
+      "a": "Blackmail on the Cabal's leaders",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who orchestrates Tom Keen's marriage to Liz?",
+      "a": "Red",
+      "file": "moreTriviaExpansions"
+    }
+  ]
+}

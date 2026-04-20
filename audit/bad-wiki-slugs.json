@@ -1,0 +1,7758 @@
+{
+  "badEntries": [
+    {
+      "cat": "who_movie_character",
+      "tier": 400,
+      "q": "I am the Roman general who becomes a gladiator seeking vengeance",
+      "a": "Maximus",
+      "wiki": "Maximus_Decimus_Meridius",
+      "file": "triviaExpansions",
+      "reason": "redirects to \"Gladiator (2000 film)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "I was reincarnated as a slime and built my own nation",
+      "a": "Rimuru Tempest",
+      "wiki": "Rimuru_Tempest",
+      "file": "triviaMinimums",
+      "reason": "redirects to \"List of That Time I Got Reincarnated as a Slime characters\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 200,
+      "q": "I am the split-personality anarchist of Fight Club",
+      "a": "Tyler Durden",
+      "wiki": "Tyler_Durden",
+      "file": "triviaMinimums",
+      "reason": "redirects to \"The Narrator (Fight Club)\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_character",
+      "tier": 400,
+      "q": "I am the terrifying hitman from Killing Eve who turns every scene into a game",
+      "a": "Villanelle",
+      "wiki": "Villanelle_(Killing_Eve)",
+      "file": "triviaMegaExpansions",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "I sleep to unlock my power and scream constantly in Demon Slayer",
+      "a": "Zenitsu Agatsuma",
+      "wiki": "Zenitsu_Agatsuma",
+      "file": "triviaMegaExpansions",
+      "reason": "redirects to \"List of Demon Slayer: Kimetsu no Yaiba characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "I'm the smiling monster behind countless tragedies in Monster",
+      "a": "Johan Liebert",
+      "wiki": "Johan_Liebert",
+      "file": "triviaMegaExpansions",
+      "reason": "redirects to \"List of Monster characters\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 400,
+      "q": "I'm the anarchic alter ego behind soap, fights, and mayhem",
+      "a": "Tyler Durden",
+      "wiki": "Tyler_Durden",
+      "file": "triviaMegaExpansions",
+      "reason": "redirects to \"The Narrator (Fight Club)\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "I drink milkshakes and crush rivals in There Will Be Blood",
+      "a": "Daniel Plainview",
+      "wiki": "Daniel_Plainview",
+      "file": "triviaMegaExpansions",
+      "reason": "redirects to \"There Will Be Blood\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Saul Berenson",
+      "wiki": "Saul_Berenson",
+      "file": "triviaTierParityExpansions",
+      "reason": "redirects to \"List of Homeland characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Hisoka",
+      "wiki": "Hisoka",
+      "file": "triviaTierParityExpansions",
+      "reason": "redirects to \"List of Hunter × Hunter characters\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Tyler Durden",
+      "wiki": "Tyler_Durden",
+      "file": "triviaTierParityExpansions",
+      "reason": "redirects to \"The Narrator (Fight Club)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Rimuru Tempest",
+      "wiki": "Rimuru_Tempest",
+      "file": "triviaTierFinalParityExpansions",
+      "reason": "redirects to \"List of That Time I Got Reincarnated as a Slime characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Johan Liebert",
+      "wiki": "Johan_Liebert",
+      "file": "triviaTierFinalParityExpansions",
+      "reason": "redirects to \"List of Monster characters\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Maximus Decimus Meridius",
+      "wiki": "Maximus_Decimus_Meridius",
+      "file": "triviaTierFinalParityExpansions",
+      "reason": "redirects to \"Gladiator (2000 film)\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Nandor the Relentless",
+      "wiki": "Nandor_the_Relentless",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_tv_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Rebecca Pearson",
+      "wiki": "Rebecca_Pearson",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of This Is Us characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess from the image",
+      "a": "Inosuke Hashibira",
+      "wiki": "Inosuke_Hashibira",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Demon Slayer: Kimetsu no Yaiba characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess from the image",
+      "a": "Trafalgar Law",
+      "wiki": "Trafalgar_D._Water_Law",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"World Government (One Piece)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Ken Kaneki",
+      "wiki": "Ken_Kaneki",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Tokyo Ghoul characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Chrollo Lucilfer",
+      "wiki": "Chrollo_Lucilfer",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Hunter × Hunter characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Yoko Littner",
+      "wiki": "Yoko_Littner",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Gurren Lagann characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Riza Hawkeye",
+      "wiki": "Riza_Hawkeye",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Fullmetal Alchemist characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Kaori Miyazono",
+      "wiki": "Kaori_Miyazono",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Olivier Mira Armstrong",
+      "wiki": "Olivier_Mira_Armstrong",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Fullmetal Alchemist characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Korosensei",
+      "wiki": "Korosensei",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Maka Albarn",
+      "wiki": "Maka_Albarn",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"List of Soul Eater characters\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Andy Dufresne",
+      "wiki": "Andy_Dufresne",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"The Shawshank Redemption\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Leon",
+      "wiki": "L%C3%A9on_(character)",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Marge Gunderson",
+      "wiki": "Marge_Gunderson",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"Fargo (1996 film)\" (unrelated)"
+    },
+    {
+      "cat": "who_movie_character",
+      "tier": 600,
+      "q": "Guess from the image",
+      "a": "Chihiro Ogino",
+      "wiki": "Chihiro_Ogino",
+      "file": "triviaTierFinalTopoffExpansions",
+      "reason": "redirects to \"Spirited Away\" (unrelated)"
+    },
+    {
+      "cat": "who_historic_figure",
+      "tier": 400,
+      "q": "I was the founder of Buddhism.",
+      "a": "Siddhartha Gautama",
+      "wiki": "Gautama_Buddha",
+      "file": "newCategoriesBank",
+      "reason": "redirects to \"The Buddha\" (unrelated)"
+    },
+    {
+      "cat": "who_animal",
+      "tier": 200,
+      "q": "I am a long slithering reptile, sometimes green, that lives in trees.",
+      "a": "Snake",
+      "wiki": "Green_tree_python",
+      "file": "newCategoriesBank",
+      "reason": "redirects to \"Green tree python\" (unrelated)"
+    },
+    {
+      "cat": "who_country_landmark",
+      "tier": 400,
+      "q": "Guess the country from the landmark",
+      "a": "Hungary",
+      "wiki": "Chain_Bridge,_Budapest",
+      "file": "moreTriviaExpansions",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_movie",
+      "tier": 400,
+      "q": "Guess the movie from the image",
+      "a": "It",
+      "wiki": "It_(2017_film)",
+      "file": "newCategoriesPack2",
+      "reason": "redirects to \"It (2017 film)\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 400,
+      "q": "Guess the TV show from the image",
+      "a": "Homeland",
+      "wiki": "Homeland_(American_TV_series)",
+      "file": "newCategoriesPack2",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 400,
+      "q": "Guess the TV show from the image",
+      "a": "ER",
+      "wiki": "ER_(TV_series)",
+      "file": "newCategoriesPack2",
+      "reason": "redirects to \"ER (TV series)\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 600,
+      "q": "Guess the TV show from the image",
+      "a": "The Borgias",
+      "wiki": "The_Borgias",
+      "file": "newCategoriesPack2",
+      "reason": "redirects to \"Borgia (disambiguation)\" (unrelated)"
+    },
+    {
+      "cat": "who_country_landmark",
+      "tier": 400,
+      "q": "Guess the country from the landmark",
+      "a": "Latvia",
+      "wiki": "House_of_the_Blackheads,_Riga",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 400,
+      "q": "Guess the influencer from the image",
+      "a": "Binging with Babish",
+      "wiki": "Andrew_Rea",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Andrew Rea\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 400,
+      "q": "Guess the influencer from the image",
+      "a": "Peter McKinnon",
+      "wiki": "Peter_McKinnon",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 400,
+      "q": "Guess the influencer from the image",
+      "a": "Chase Hudson",
+      "wiki": "Chase_Hudson",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Huddy (musician)\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 400,
+      "q": "Guess the influencer from the image",
+      "a": "Griffin Johnson",
+      "wiki": "Griffin_Johnson",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"The Armchair Historian\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 400,
+      "q": "Guess the influencer from the image",
+      "a": "Ranboo",
+      "wiki": "Ranboo",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Dream SMP\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "H3H3 Productions",
+      "wiki": "H3H3Productions",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"H3h3Productions\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Ethan Klein",
+      "wiki": "Ethan_Klein",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"H3h3Productions\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Hila Klein",
+      "wiki": "Hila_Klein",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"H3h3Productions\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Keith Habersberger",
+      "wiki": "Keith_Habersberger",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"The Try Guys\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Zack Kornfeld",
+      "wiki": "Zack_Kornfeld",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Nathan Zed",
+      "wiki": "Nathan_Zed",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Tyler Blevins",
+      "wiki": "Ninja_(gamer)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Ninja (gamer)\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Philosophy Tube",
+      "wiki": "Philosophy_Tube",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Abigail Thorn\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Folding Ideas",
+      "wiki": "Dan_Olson_(filmmaker)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Leafy",
+      "wiki": "Leafy_(YouTuber)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "FilthyFrank",
+      "wiki": "Joji_(musician)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Joji (musician)\" (unrelated)"
+    },
+    {
+      "cat": "who_influencer",
+      "tier": 600,
+      "q": "Guess the influencer from the image",
+      "a": "Boogie2988",
+      "wiki": "Steven_Jay_Williford",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_movie",
+      "tier": 600,
+      "q": "Guess the movie from the image",
+      "a": "Us",
+      "wiki": "Us_(2019_film)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Us (2019 film)\" (unrelated)"
+    },
+    {
+      "cat": "who_movie",
+      "tier": 600,
+      "q": "Guess the movie from the image",
+      "a": "Pi",
+      "wiki": "Pi_(film)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Pi (film)\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 400,
+      "q": "Guess the TV show from the image",
+      "a": "The Undoing",
+      "wiki": "The_Undoing_(TV_series)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 600,
+      "q": "Guess the TV show from the image",
+      "a": "Oz",
+      "wiki": "Oz_(TV_series)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Oz (TV series)\" (unrelated)"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 600,
+      "q": "Guess the TV show from the image",
+      "a": "Review",
+      "wiki": "Review_(American_TV_series)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 600,
+      "q": "Guess the TV show from the image",
+      "a": "Rubicon",
+      "wiki": "Rubicon_(American_TV_series)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_tv_show",
+      "tier": 600,
+      "q": "Guess the TV show from the image",
+      "a": "Catastrophe",
+      "wiki": "Catastrophe_(British_TV_series)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_footballer",
+      "tier": 400,
+      "q": "Guess the footballer from the image",
+      "a": "Pablo Gavira",
+      "wiki": "Gavi_(footballer)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Gavi (footballer)\" (unrelated)"
+    },
+    {
+      "cat": "who_footballer",
+      "tier": 600,
+      "q": "Guess the footballer from the image",
+      "a": "Falcão",
+      "wiki": "Falc%C3%A3o_(footballer,_born_1953)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_footballer",
+      "tier": 600,
+      "q": "Guess the footballer from the image",
+      "a": "Gérson",
+      "wiki": "G%C3%A9rson_(footballer,_born_1941)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_footballer",
+      "tier": 600,
+      "q": "Guess the footballer from the image",
+      "a": "Chicharito",
+      "wiki": "Javier_Hern%C3%A1ndez",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Javier Hernández\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Minato Namikaze",
+      "wiki": "Minato_Namikaze",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Naruto characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Armin Arlert",
+      "wiki": "Armin_Arlert",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Attack on Titan characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Historia Reiss",
+      "wiki": "Historia_Reiss",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Attack on Titan characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Zeke Yeager",
+      "wiki": "Zeke_Yeager",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Attack on Titan characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Uryu Ishida",
+      "wiki": "Uryu_Ishida",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Bleach characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Ulquiorra Cifer",
+      "wiki": "Ulquiorra_Cifer",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Hollows in Bleach\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Portgas D. Ace",
+      "wiki": "Portgas_D._Ace",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Four Emperors (One Piece)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Edward Newgate",
+      "wiki": "Edward_Newgate",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Four Emperors (One Piece)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Boa Hancock",
+      "wiki": "Boa_Hancock",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"World Government (One Piece)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Tenya Iida",
+      "wiki": "Tenya_Iida",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Rem",
+      "wiki": "List_of_Re:Zero_%E2%88%92_Starting_Life_in_Another_World_characters",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Re:Zero characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 200,
+      "q": "Guess the anime character from the image",
+      "a": "Gogeta",
+      "wiki": "Gogeta",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Dragon Ball characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Conan Edogawa",
+      "wiki": "Conan_Edogawa",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Jimmy Kudo\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Chihiro",
+      "wiki": "Chihiro_Ogino",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Spirited Away\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Howl",
+      "wiki": "Howl_(Howl%27s_Moving_Castle)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Princess Mononoke",
+      "wiki": "San_(Princess_Mononoke)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Sheeta",
+      "wiki": "Castle_in_the_Sky",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Castle in the Sky\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Faye Valentine",
+      "wiki": "Faye_Valentine",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Cowboy Bebop characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Jet Black",
+      "wiki": "Jet_Black_(Cowboy_Bebop)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Cowboy Bebop characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Ed",
+      "wiki": "Edward_Wong_Hau_Pepelu_Tivrusky_IV",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Cowboy Bebop characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Kuwabara",
+      "wiki": "Kazuma_Kuwabara",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of YuYu Hakusho characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Hao Asakura",
+      "wiki": "Hao_Asakura",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Shaman King characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Van Hohenheim",
+      "wiki": "Van_Hohenheim",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Fullmetal Alchemist characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Rock",
+      "wiki": "Rokuro_Okajima",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Black Lagoon characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Seras Victoria",
+      "wiki": "Seras_Victoria",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Hellsing characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Botan",
+      "wiki": "Botan_(Yu_Yu_Hakusho)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 400,
+      "q": "Guess the anime character from the image",
+      "a": "Balalaika",
+      "wiki": "Balalaika_(Black_Lagoon)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Black Lagoon characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Accelerator",
+      "wiki": "Accelerator_(A_Certain_Magical_Index)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Touma Kamijou",
+      "wiki": "Toma_Kamijo",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Toma Kamijo\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Kyon",
+      "wiki": "Kyon_(character)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Yuki Nagato",
+      "wiki": "Yuki_Nagato",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Haruhi Suzumiya characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Nagisa Furukawa",
+      "wiki": "List_of_Clannad_characters",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Clannad (video game)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Tomoyo Sakagami",
+      "wiki": "List_of_Clannad_characters",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Clannad (video game)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Tetsuo Shima",
+      "wiki": "Tetsuo_Shima",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Akira (manga)\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Kamille Bidan",
+      "wiki": "Kamille_Bidan",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Mobile Suit Zeta Gundam characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Domon Kasshu",
+      "wiki": "Domon_Kasshu",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Mobile Fighter G Gundam characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Simon",
+      "wiki": "Simon_(Gurren_Lagann)",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Gurren Lagann characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Nia Teppelin",
+      "wiki": "Nia_Teppelin",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of Gurren Lagann characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Taki Tachibana",
+      "wiki": "Your_Name",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Your Name\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Mitsuha Miyamizu",
+      "wiki": "Your_Name",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Your Name\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Hodaka Morishima",
+      "wiki": "Weathering_with_You",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Weathering with You\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Tsukasa Shishio",
+      "wiki": "Dr._Stone",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Dr. Stone\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Shinra Kusakabe",
+      "wiki": "Fire_Force",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Fire Force\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Tatsumaki",
+      "wiki": "Tatsumaki",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"List of One-Punch Man characters\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Garou",
+      "wiki": "Garou_(One-Punch_Man)",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Mob",
+      "wiki": "Shigeo_Kageyama",
+      "file": "qualityBackfill",
+      "reason": "redirects to \"Shigeo Kageyama\" (unrelated)"
+    },
+    {
+      "cat": "who_anime_character",
+      "tier": 600,
+      "q": "Guess the anime character from the image",
+      "a": "Reigen Arataka",
+      "wiki": "Reigen_Arataka",
+      "file": "qualityBackfill",
+      "reason": "wiki page does not exist"
+    }
+  ],
+  "slugStatus": {
+    "Jude_Bellingham": {
+      "exists": true,
+      "final": "Jude Bellingham",
+      "redirected": true
+    },
+    "Bukayo_Saka": {
+      "exists": true,
+      "final": "Bukayo Saka",
+      "redirected": true
+    },
+    "Pedri": {
+      "exists": true,
+      "final": "Pedri",
+      "redirected": false
+    },
+    "Roberto_Carlos": {
+      "exists": true,
+      "final": "Roberto Carlos",
+      "redirected": true
+    },
+    "Paolo_Maldini": {
+      "exists": true,
+      "final": "Paolo Maldini",
+      "redirected": true
+    },
+    "Andrea_Pirlo": {
+      "exists": true,
+      "final": "Andrea Pirlo",
+      "redirected": true
+    },
+    "Ronaldinho": {
+      "exists": true,
+      "final": "Ronaldinho",
+      "redirected": false
+    },
+    "Lev_Yashin": {
+      "exists": true,
+      "final": "Lev Yashin",
+      "redirected": true
+    },
+    "Franz_Beckenbauer": {
+      "exists": true,
+      "final": "Franz Beckenbauer",
+      "redirected": true
+    },
+    "Lorelai_Gilmore": {
+      "exists": true,
+      "final": "Lorelai Gilmore",
+      "redirected": true
+    },
+    "Rory_Gilmore": {
+      "exists": true,
+      "final": "Rory Gilmore",
+      "redirected": true
+    },
+    "Marshall_Eriksen": {
+      "exists": true,
+      "final": "Marshall Eriksen",
+      "redirected": true
+    },
+    "Leonard_Hofstadter": {
+      "exists": true,
+      "final": "Leonard Hofstadter",
+      "redirected": true
+    },
+    "Eric_Cartman": {
+      "exists": true,
+      "final": "Eric Cartman",
+      "redirected": true
+    },
+    "Rick_Sanchez": {
+      "exists": true,
+      "final": "Rick Sanchez",
+      "redirected": true
+    },
+    "Stringer_Bell": {
+      "exists": true,
+      "final": "Stringer Bell",
+      "redirected": true
+    },
+    "Fox_Mulder": {
+      "exists": true,
+      "final": "Fox Mulder",
+      "redirected": true
+    },
+    "Buffy_Summers": {
+      "exists": true,
+      "final": "Buffy Summers",
+      "redirected": true
+    },
+    "Ash_Ketchum": {
+      "exists": true,
+      "final": "Ash Ketchum",
+      "redirected": true
+    },
+    "Inuyasha_(character)": {
+      "exists": true,
+      "final": "Inuyasha (character)",
+      "redirected": true
+    },
+    "Sailor_Moon": {
+      "exists": true,
+      "final": "Sailor Moon",
+      "redirected": true
+    },
+    "Kenshiro": {
+      "exists": true,
+      "final": "Kenshiro",
+      "redirected": false
+    },
+    "Alucard_(Hellsing)": {
+      "exists": true,
+      "final": "Alucard (Hellsing)",
+      "redirected": true
+    },
+    "Yusuke_Urameshi": {
+      "exists": true,
+      "final": "Yusuke Urameshi",
+      "redirected": true
+    },
+    "Natsu_Dragneel": {
+      "exists": true,
+      "final": "Natsu Dragneel",
+      "redirected": true
+    },
+    "Spike_Spiegel": {
+      "exists": true,
+      "final": "Spike Spiegel",
+      "redirected": true
+    },
+    "Asuka_Langley_Soryu": {
+      "exists": true,
+      "final": "Asuka Langley Soryu",
+      "redirected": true
+    },
+    "Forrest_Gump": {
+      "exists": true,
+      "final": "Forrest Gump",
+      "redirected": true
+    },
+    "Hermione_Granger": {
+      "exists": true,
+      "final": "Hermione Granger",
+      "redirected": true
+    },
+    "Captain_Jack_Sparrow": {
+      "exists": true,
+      "final": "Jack Sparrow",
+      "redirected": true
+    },
+    "The_Bride_(Kill_Bill)": {
+      "exists": true,
+      "final": "The Bride (Kill Bill)",
+      "redirected": true
+    },
+    "Mia_Wallace": {
+      "exists": true,
+      "final": "Mia Wallace",
+      "redirected": true
+    },
+    "Maximus_Decimus_Meridius": {
+      "exists": true,
+      "final": "Gladiator (2000 film)",
+      "redirected": true
+    },
+    "T-1000": {
+      "exists": true,
+      "final": "T-1000",
+      "redirected": false
+    },
+    "Jack_Torrance": {
+      "exists": true,
+      "final": "Jack Torrance",
+      "redirected": true
+    },
+    "Princess_Leia": {
+      "exists": true,
+      "final": "Princess Leia",
+      "redirected": true
+    },
+    "Andres_Iniesta": {
+      "exists": true,
+      "final": "Andrés Iniesta",
+      "redirected": true
+    },
+    "Sergio_Ramos": {
+      "exists": true,
+      "final": "Sergio Ramos",
+      "redirected": true
+    },
+    "Karim_Benzema": {
+      "exists": true,
+      "final": "Karim Benzema",
+      "redirected": true
+    },
+    "Wayne_Rooney": {
+      "exists": true,
+      "final": "Wayne Rooney",
+      "redirected": true
+    },
+    "Eusebio": {
+      "exists": true,
+      "final": "Eusébio",
+      "redirected": true
+    },
+    "Bobby_Charlton": {
+      "exists": true,
+      "final": "Bobby Charlton",
+      "redirected": true
+    },
+    "Roberto_Baggio": {
+      "exists": true,
+      "final": "Roberto Baggio",
+      "redirected": true
+    },
+    "Cafu": {
+      "exists": true,
+      "final": "Cafu",
+      "redirected": false
+    },
+    "Ruud_Gullit": {
+      "exists": true,
+      "final": "Ruud Gullit",
+      "redirected": true
+    },
+    "Dennis_Bergkamp": {
+      "exists": true,
+      "final": "Dennis Bergkamp",
+      "redirected": true
+    },
+    "Ruud_van_Nistelrooy": {
+      "exists": true,
+      "final": "Ruud van Nistelrooy",
+      "redirected": true
+    },
+    "Xabi_Alonso": {
+      "exists": true,
+      "final": "Xabi Alonso",
+      "redirected": true
+    },
+    "Arjen_Robben": {
+      "exists": true,
+      "final": "Arjen Robben",
+      "redirected": true
+    },
+    "Sergio_Busquets": {
+      "exists": true,
+      "final": "Sergio Busquets",
+      "redirected": true
+    },
+    "Frasier_Crane": {
+      "exists": true,
+      "final": "Frasier Crane",
+      "redirected": true
+    },
+    "Don_Draper": {
+      "exists": true,
+      "final": "Don Draper",
+      "redirected": true
+    },
+    "Omar_Little": {
+      "exists": true,
+      "final": "Omar Little",
+      "redirected": true
+    },
+    "Tommy_Shelby": {
+      "exists": true,
+      "final": "Tommy Shelby",
+      "redirected": true
+    },
+    "Olivia_Benson": {
+      "exists": true,
+      "final": "Olivia Benson",
+      "redirected": true
+    },
+    "Gregory_House": {
+      "exists": true,
+      "final": "Gregory House",
+      "redirected": true
+    },
+    "Peggy_Olson": {
+      "exists": true,
+      "final": "Peggy Olson",
+      "redirected": true
+    },
+    "Blair_Waldorf": {
+      "exists": true,
+      "final": "Blair Waldorf",
+      "redirected": true
+    },
+    "Veronica_Mars": {
+      "exists": true,
+      "final": "Veronica Mars",
+      "redirected": true
+    },
+    "Moira_Rose": {
+      "exists": true,
+      "final": "Moira Rose",
+      "redirected": true
+    },
+    "Adrian_Monk": {
+      "exists": true,
+      "final": "Adrian Monk",
+      "redirected": true
+    },
+    "Vash_the_Stampede": {
+      "exists": true,
+      "final": "Vash the Stampede",
+      "redirected": true
+    },
+    "Rei_Ayanami": {
+      "exists": true,
+      "final": "Rei Ayanami",
+      "redirected": true
+    },
+    "Motoko_Kusanagi": {
+      "exists": true,
+      "final": "Motoko Kusanagi",
+      "redirected": true
+    },
+    "Yugi_Muto": {
+      "exists": true,
+      "final": "Yugi Mutou",
+      "redirected": true
+    },
+    "Seto_Kaiba": {
+      "exists": true,
+      "final": "Seto Kaiba",
+      "redirected": true
+    },
+    "Bulma": {
+      "exists": true,
+      "final": "Bulma",
+      "redirected": false
+    },
+    "Sanji_(One_Piece)": {
+      "exists": true,
+      "final": "Sanji (One Piece)",
+      "redirected": true
+    },
+    "Gintoki_Sakata": {
+      "exists": true,
+      "final": "Gintoki Sakata",
+      "redirected": true
+    },
+    "Rimuru_Tempest": {
+      "exists": true,
+      "final": "List of That Time I Got Reincarnated as a Slime characters",
+      "redirected": true
+    },
+    "Sailor_Mars": {
+      "exists": true,
+      "final": "Sailor Mars",
+      "redirected": true
+    },
+    "Shinji_Ikari": {
+      "exists": true,
+      "final": "Shinji Ikari",
+      "redirected": true
+    },
+    "Sakura_Kinomoto": {
+      "exists": true,
+      "final": "Sakura Kinomoto",
+      "redirected": true
+    },
+    "Ranma_Saotome": {
+      "exists": true,
+      "final": "Ranma Saotome",
+      "redirected": true
+    },
+    "Saber_(Fate)": {
+      "exists": true,
+      "final": "Saber (Fate/Stay Night)",
+      "redirected": true
+    },
+    "Tony_Montana": {
+      "exists": true,
+      "final": "Tony Montana",
+      "redirected": true
+    },
+    "Travis_Bickle": {
+      "exists": true,
+      "final": "Travis Bickle",
+      "redirected": true
+    },
+    "Dorothy_Gale": {
+      "exists": true,
+      "final": "Dorothy Gale",
+      "redirected": true
+    },
+    "Willy_Wonka": {
+      "exists": true,
+      "final": "Willy Wonka",
+      "redirected": true
+    },
+    "Ferris_Bueller": {
+      "exists": true,
+      "final": "Ferris Bueller's Day Off",
+      "redirected": true
+    },
+    "Patrick_Bateman": {
+      "exists": true,
+      "final": "Patrick Bateman",
+      "redirected": true
+    },
+    "Amelie_Poulain": {
+      "exists": true,
+      "final": "Amélie",
+      "redirected": true
+    },
+    "Trinity_(The_Matrix)": {
+      "exists": true,
+      "final": "Trinity (The Matrix)",
+      "redirected": true
+    },
+    "Scar_(The_Lion_King)": {
+      "exists": true,
+      "final": "Scar (The Lion King)",
+      "redirected": true
+    },
+    "Sarah_Connor_(Terminator)": {
+      "exists": true,
+      "final": "Sarah Connor (Terminator)",
+      "redirected": true
+    },
+    "Tyler_Durden": {
+      "exists": true,
+      "final": "The Narrator (Fight Club)",
+      "redirected": true
+    },
+    "Regina_George": {
+      "exists": true,
+      "final": "Regina George",
+      "redirected": true
+    },
+    "Princess_Fiona": {
+      "exists": true,
+      "final": "Princess Fiona",
+      "redirected": true
+    },
+    "Lisbeth_Salander": {
+      "exists": true,
+      "final": "Lisbeth Salander",
+      "redirected": true
+    },
+    "Randle_McMurphy": {
+      "exists": true,
+      "final": "Randle McMurphy",
+      "redirected": true
+    },
+    "Vin%C3%ADcius_J%C3%BAnior": {
+      "exists": true,
+      "final": "Vinícius Júnior",
+      "redirected": true
+    },
+    "Son_Heung-min": {
+      "exists": true,
+      "final": "Son Heung-min",
+      "redirected": true
+    },
+    "Zico": {
+      "exists": true,
+      "final": "Zico",
+      "redirected": false
+    },
+    "Lothar_Matth%C3%A4us": {
+      "exists": true,
+      "final": "Lothar Matthäus",
+      "redirected": true
+    },
+    "Jesse_Pinkman": {
+      "exists": true,
+      "final": "Jesse Pinkman",
+      "redirected": true
+    },
+    "Wednesday_Addams": {
+      "exists": true,
+      "final": "Wednesday Addams",
+      "redirected": true
+    },
+    "Daryl_Dixon": {
+      "exists": true,
+      "final": "Daryl Dixon",
+      "redirected": true
+    },
+    "Kim_Wexler": {
+      "exists": true,
+      "final": "Kim Wexler",
+      "redirected": true
+    },
+    "Villanelle_(Killing_Eve)": {
+      "exists": false,
+      "final": "Villanelle (Killing Eve)",
+      "redirected": true
+    },
+    "Rust_Cohle": {
+      "exists": true,
+      "final": "Rust Cohle",
+      "redirected": true
+    },
+    "Kendall_Roy": {
+      "exists": true,
+      "final": "Kendall Roy",
+      "redirected": true
+    },
+    "Selina_Meyer": {
+      "exists": true,
+      "final": "Selina Meyer",
+      "redirected": true
+    },
+    "Izuku_Midoriya": {
+      "exists": true,
+      "final": "Izuku Midoriya",
+      "redirected": true
+    },
+    "Anya_Forger": {
+      "exists": true,
+      "final": "Anya Forger",
+      "redirected": true
+    },
+    "Zenitsu_Agatsuma": {
+      "exists": true,
+      "final": "List of Demon Slayer: Kimetsu no Yaiba characters",
+      "redirected": true
+    },
+    "Satoru_Gojo": {
+      "exists": true,
+      "final": "Satoru Gojo",
+      "redirected": true
+    },
+    "Yor_Forger": {
+      "exists": true,
+      "final": "Yor Forger",
+      "redirected": true
+    },
+    "Shoto_Todoroki": {
+      "exists": true,
+      "final": "Shoto Todoroki",
+      "redirected": true
+    },
+    "Johan_Liebert": {
+      "exists": true,
+      "final": "List of Monster characters",
+      "redirected": true
+    },
+    "Kamina": {
+      "exists": true,
+      "final": "Kamina",
+      "redirected": false
+    },
+    "Homura_Akemi": {
+      "exists": true,
+      "final": "Homura Akemi",
+      "redirected": true
+    },
+    "Buzz_Lightyear": {
+      "exists": true,
+      "final": "Buzz Lightyear",
+      "redirected": true
+    },
+    "Mulan_(Disney_character)": {
+      "exists": true,
+      "final": "Mulan (Disney character)",
+      "redirected": true
+    },
+    "Max_Rockatansky": {
+      "exists": true,
+      "final": "Max Rockatansky",
+      "redirected": true
+    },
+    "Jack_Skellington": {
+      "exists": true,
+      "final": "Jack Skellington",
+      "redirected": true
+    },
+    "Rick_Deckard": {
+      "exists": true,
+      "final": "Rick Deckard",
+      "redirected": true
+    },
+    "Daniel_Plainview": {
+      "exists": true,
+      "final": "There Will Be Blood",
+      "redirected": true
+    },
+    "Andr%C3%A9s_Iniesta": {
+      "exists": true,
+      "final": "Andrés Iniesta",
+      "redirected": true
+    },
+    "Luis_Su%C3%A1rez": {
+      "exists": true,
+      "final": "Luis Suárez",
+      "redirected": true
+    },
+    "Robert_Lewandowski": {
+      "exists": true,
+      "final": "Robert Lewandowski",
+      "redirected": true
+    },
+    "Xavi": {
+      "exists": true,
+      "final": "Xavi",
+      "redirected": false
+    },
+    "Franck_Rib%C3%A9ry": {
+      "exists": true,
+      "final": "Franck Ribéry",
+      "redirected": true
+    },
+    "David_Villa": {
+      "exists": true,
+      "final": "David Villa",
+      "redirected": true
+    },
+    "Robin_van_Persie": {
+      "exists": true,
+      "final": "Robin van Persie",
+      "redirected": true
+    },
+    "Mesut_%C3%96zil": {
+      "exists": true,
+      "final": "Mesut Özil",
+      "redirected": true
+    },
+    "Javier_Mascherano": {
+      "exists": true,
+      "final": "Javier Mascherano",
+      "redirected": true
+    },
+    "Carlos_T%C3%A9vez": {
+      "exists": true,
+      "final": "Carlos Tevez",
+      "redirected": true
+    },
+    "Edinson_Cavani": {
+      "exists": true,
+      "final": "Edinson Cavani",
+      "redirected": true
+    },
+    "Gianluigi_Buffon": {
+      "exists": true,
+      "final": "Gianluigi Buffon",
+      "redirected": true
+    },
+    "Clarence_Seedorf": {
+      "exists": true,
+      "final": "Clarence Seedorf",
+      "redirected": true
+    },
+    "Javier_Zanetti": {
+      "exists": true,
+      "final": "Javier Zanetti",
+      "redirected": true
+    },
+    "Gheorghe_Hagi": {
+      "exists": true,
+      "final": "Gheorghe Hagi",
+      "redirected": true
+    },
+    "Michael_Laudrup": {
+      "exists": true,
+      "final": "Michael Laudrup",
+      "redirected": true
+    },
+    "Hristo_Stoichkov": {
+      "exists": true,
+      "final": "Hristo Stoichkov",
+      "redirected": true
+    },
+    "Pavel_Nedv%C4%9Bd": {
+      "exists": true,
+      "final": "Pavel Nedvěd",
+      "redirected": true
+    },
+    "Didier_Drogba": {
+      "exists": true,
+      "final": "Didier Drogba",
+      "redirected": true
+    },
+    "Samuel_Eto%27o": {
+      "exists": true,
+      "final": "Samuel Eto'o",
+      "redirected": true
+    },
+    "Fabio_Cannavaro": {
+      "exists": true,
+      "final": "Fabio Cannavaro",
+      "redirected": true
+    },
+    "Philipp_Lahm": {
+      "exists": true,
+      "final": "Philipp Lahm",
+      "redirected": true
+    },
+    "Edgar_Davids": {
+      "exists": true,
+      "final": "Edgar Davids",
+      "redirected": true
+    },
+    "Rom%C3%A1rio": {
+      "exists": true,
+      "final": "Romário",
+      "redirected": false
+    },
+    "Garrincha": {
+      "exists": true,
+      "final": "Garrincha",
+      "redirected": false
+    },
+    "Juan_Rom%C3%A1n_Riquelme": {
+      "exists": true,
+      "final": "Juan Román Riquelme",
+      "redirected": true
+    },
+    "Dana_Scully": {
+      "exists": true,
+      "final": "Dana Scully",
+      "redirected": true
+    },
+    "Villanelle_(character)": {
+      "exists": true,
+      "final": "Villanelle (character)",
+      "redirected": true
+    },
+    "Thomas_Shelby": {
+      "exists": true,
+      "final": "Thomas Shelby",
+      "redirected": true
+    },
+    "Tony_Soprano": {
+      "exists": true,
+      "final": "Tony Soprano",
+      "redirected": true
+    },
+    "Saul_Berenson": {
+      "exists": true,
+      "final": "List of Homeland characters",
+      "redirected": true
+    },
+    "Bender_(Futurama)": {
+      "exists": true,
+      "final": "Bender (Futurama)",
+      "redirected": true
+    },
+    "Leslie_Knope": {
+      "exists": true,
+      "final": "Leslie Knope",
+      "redirected": true
+    },
+    "Hisoka": {
+      "exists": true,
+      "final": "List of Hunter × Hunter characters",
+      "redirected": true
+    },
+    "Elle_Woods": {
+      "exists": true,
+      "final": "Elle Woods",
+      "redirected": true
+    },
+    "Anton_Chigurh": {
+      "exists": true,
+      "final": "Anton Chigurh",
+      "redirected": true
+    },
+    "Ellen_Ripley": {
+      "exists": true,
+      "final": "Ellen Ripley",
+      "redirected": true
+    },
+    "Clarice_Starling": {
+      "exists": true,
+      "final": "Clarice Starling",
+      "redirected": true
+    },
+    "Beatrix_Kiddo": {
+      "exists": true,
+      "final": "The Bride (Kill Bill)",
+      "redirected": true
+    },
+    "Gohan": {
+      "exists": true,
+      "final": "Gohan",
+      "redirected": false
+    },
+    "Guts_(Berserk)": {
+      "exists": true,
+      "final": "Guts (Berserk)",
+      "redirected": true
+    },
+    "Griffith_(Berserk)": {
+      "exists": true,
+      "final": "Griffith (Berserk)",
+      "redirected": true
+    },
+    "Denji_(Chainsaw_Man)": {
+      "exists": true,
+      "final": "Denji (Chainsaw Man)",
+      "redirected": true
+    },
+    "Mikasa_Ackerman": {
+      "exists": true,
+      "final": "Mikasa Ackerman",
+      "redirected": true
+    },
+    "Marty_McFly": {
+      "exists": true,
+      "final": "Marty McFly",
+      "redirected": true
+    },
+    "Antoine_Griezmann": {
+      "exists": true,
+      "final": "Antoine Griezmann",
+      "redirected": true
+    },
+    "Riyad_Mahrez": {
+      "exists": true,
+      "final": "Riyad Mahrez",
+      "redirected": true
+    },
+    "Casemiro": {
+      "exists": true,
+      "final": "Casemiro",
+      "redirected": false
+    },
+    "Thomas_M%C3%BCller": {
+      "exists": true,
+      "final": "Thomas Müller",
+      "redirected": true
+    },
+    "Nemanja_Vidi%C4%87": {
+      "exists": true,
+      "final": "Nemanja Vidić",
+      "redirected": true
+    },
+    "Davor_%C5%A0uker": {
+      "exists": true,
+      "final": "Davor Šuker",
+      "redirected": true
+    },
+    "Fernando_Redondo": {
+      "exists": true,
+      "final": "Fernando Redondo",
+      "redirected": true
+    },
+    "Michael_Ballack": {
+      "exists": true,
+      "final": "Michael Ballack",
+      "redirected": true
+    },
+    "Henrik_Larsson": {
+      "exists": true,
+      "final": "Henrik Larsson",
+      "redirected": true
+    },
+    "Alessandro_Nesta": {
+      "exists": true,
+      "final": "Alessandro Nesta",
+      "redirected": true
+    },
+    "Patrick_Vieira": {
+      "exists": true,
+      "final": "Patrick Vieira",
+      "redirected": true
+    },
+    "Rivaldo": {
+      "exists": true,
+      "final": "Rivaldo",
+      "redirected": false
+    },
+    "David_Trezeguet": {
+      "exists": true,
+      "final": "David Trezeguet",
+      "redirected": true
+    },
+    "Miroslav_Klose": {
+      "exists": true,
+      "final": "Miroslav Klose",
+      "redirected": true
+    },
+    "Ted_Lasso": {
+      "exists": true,
+      "final": "Ted Lasso",
+      "redirected": true
+    },
+    "Jack_Bauer": {
+      "exists": true,
+      "final": "Jack Bauer",
+      "redirected": true
+    },
+    "Carrie_Mathison": {
+      "exists": true,
+      "final": "Carrie Mathison",
+      "redirected": true
+    },
+    "Nandor_the_Relentless": {
+      "exists": false,
+      "final": "Nandor the Relentless",
+      "redirected": true
+    },
+    "BoJack_Horseman": {
+      "exists": true,
+      "final": "BoJack Horseman",
+      "redirected": true
+    },
+    "Malcolm_(Malcolm_in_the_Middle)": {
+      "exists": true,
+      "final": "List of Malcolm in the Middle characters",
+      "redirected": true
+    },
+    "Annalise_Keating": {
+      "exists": true,
+      "final": "Annalise Keating",
+      "redirected": true
+    },
+    "Alicia_Florrick": {
+      "exists": true,
+      "final": "Alicia Florrick",
+      "redirected": true
+    },
+    "Rebecca_Pearson": {
+      "exists": true,
+      "final": "List of This Is Us characters",
+      "redirected": true
+    },
+    "Jax_Teller": {
+      "exists": true,
+      "final": "Jax Teller",
+      "redirected": true
+    },
+    "Goku": {
+      "exists": true,
+      "final": "Goku",
+      "redirected": false
+    },
+    "Nezuko_Kamado": {
+      "exists": true,
+      "final": "Nezuko Kamado",
+      "redirected": true
+    },
+    "Inosuke_Hashibira": {
+      "exists": true,
+      "final": "List of Demon Slayer: Kimetsu no Yaiba characters",
+      "redirected": true
+    },
+    "Kurapika": {
+      "exists": true,
+      "final": "Kurapika",
+      "redirected": false
+    },
+    "Tony_Tony_Chopper": {
+      "exists": true,
+      "final": "Tony Tony Chopper",
+      "redirected": true
+    },
+    "Trafalgar_D._Water_Law": {
+      "exists": true,
+      "final": "World Government (One Piece)",
+      "redirected": true
+    },
+    "Gaara": {
+      "exists": true,
+      "final": "Gaara",
+      "redirected": false
+    },
+    "Megumi_Fushiguro": {
+      "exists": true,
+      "final": "Megumi Fushiguro",
+      "redirected": true
+    },
+    "Nobara_Kugisaki": {
+      "exists": true,
+      "final": "Nobara Kugisaki",
+      "redirected": true
+    },
+    "Ken_Kaneki": {
+      "exists": true,
+      "final": "List of Tokyo Ghoul characters",
+      "redirected": true
+    },
+    "Thorfinn_(Vinland_Saga)": {
+      "exists": true,
+      "final": "Thorfinn (Vinland Saga)",
+      "redirected": true
+    },
+    "Revy_(Black_Lagoon)": {
+      "exists": true,
+      "final": "Revy (Black Lagoon)",
+      "redirected": true
+    },
+    "Baki_Hanma": {
+      "exists": true,
+      "final": "List of Baki the Grappler characters",
+      "redirected": true
+    },
+    "Hiei": {
+      "exists": true,
+      "final": "Hiei",
+      "redirected": false
+    },
+    "Chrollo_Lucilfer": {
+      "exists": true,
+      "final": "List of Hunter × Hunter characters",
+      "redirected": true
+    },
+    "Yoko_Littner": {
+      "exists": true,
+      "final": "List of Gurren Lagann characters",
+      "redirected": true
+    },
+    "Riza_Hawkeye": {
+      "exists": true,
+      "final": "List of Fullmetal Alchemist characters",
+      "redirected": true
+    },
+    "Kaori_Miyazono": {
+      "exists": false,
+      "final": "Kaori Miyazono",
+      "redirected": true
+    },
+    "Olivier_Mira_Armstrong": {
+      "exists": true,
+      "final": "List of Fullmetal Alchemist characters",
+      "redirected": true
+    },
+    "Kallen_Stadtfeld": {
+      "exists": true,
+      "final": "Kallen Stadtfeld",
+      "redirected": true
+    },
+    "Kenpachi_Zaraki": {
+      "exists": true,
+      "final": "Kenpachi Zaraki",
+      "redirected": true
+    },
+    "Korosensei": {
+      "exists": false,
+      "final": "Korosensei",
+      "redirected": false
+    },
+    "Maka_Albarn": {
+      "exists": true,
+      "final": "List of Soul Eater characters",
+      "redirected": true
+    },
+    "Asta_(Black_Clover)": {
+      "exists": true,
+      "final": "Asta (Black Clover)",
+      "redirected": true
+    },
+    "Andy_Dufresne": {
+      "exists": true,
+      "final": "The Shawshank Redemption",
+      "redirected": true
+    },
+    "L%C3%A9on_(character)": {
+      "exists": false,
+      "final": "Léon (character)",
+      "redirected": true
+    },
+    "Marge_Gunderson": {
+      "exists": true,
+      "final": "Fargo (1996 film)",
+      "redirected": true
+    },
+    "Chihiro_Ogino": {
+      "exists": true,
+      "final": "Spirited Away",
+      "redirected": true
+    },
+    "Norman_Bates": {
+      "exists": true,
+      "final": "Norman Bates",
+      "redirected": true
+    },
+    "Juno_MacGuff": {
+      "exists": true,
+      "final": "Juno (film)",
+      "redirected": true
+    },
+    "Mahatma_Gandhi": {
+      "exists": true,
+      "final": "Mahatma Gandhi",
+      "redirected": true
+    },
+    "Julius_Caesar": {
+      "exists": true,
+      "final": "Julius Caesar",
+      "redirected": true
+    },
+    "Leonardo_da_Vinci": {
+      "exists": true,
+      "final": "Leonardo da Vinci",
+      "redirected": true
+    },
+    "Albert_Einstein": {
+      "exists": true,
+      "final": "Albert Einstein",
+      "redirected": true
+    },
+    "George_Washington": {
+      "exists": true,
+      "final": "George Washington",
+      "redirected": true
+    },
+    "Winston_Churchill": {
+      "exists": true,
+      "final": "Winston Churchill",
+      "redirected": true
+    },
+    "Napoleon": {
+      "exists": true,
+      "final": "Napoleon",
+      "redirected": false
+    },
+    "Martin_Luther_King_Jr.": {
+      "exists": true,
+      "final": "Martin Luther King Jr.",
+      "redirected": true
+    },
+    "Elizabeth_I": {
+      "exists": true,
+      "final": "Elizabeth I",
+      "redirected": true
+    },
+    "Queen_Victoria": {
+      "exists": true,
+      "final": "Queen Victoria",
+      "redirected": true
+    },
+    "Christopher_Columbus": {
+      "exists": true,
+      "final": "Christopher Columbus",
+      "redirected": true
+    },
+    "Abraham_Lincoln": {
+      "exists": true,
+      "final": "Abraham Lincoln",
+      "redirected": true
+    },
+    "Thomas_Edison": {
+      "exists": true,
+      "final": "Thomas Edison",
+      "redirected": true
+    },
+    "Aristotle": {
+      "exists": true,
+      "final": "Aristotle",
+      "redirected": false
+    },
+    "Galileo_Galilei": {
+      "exists": true,
+      "final": "Galileo Galilei",
+      "redirected": true
+    },
+    "Mark_Zuckerberg": {
+      "exists": true,
+      "final": "Mark Zuckerberg",
+      "redirected": true
+    },
+    "Thomas_Jefferson": {
+      "exists": true,
+      "final": "Thomas Jefferson",
+      "redirected": true
+    },
+    "Salvador_Dal%C3%AD": {
+      "exists": true,
+      "final": "Salvador Dalí",
+      "redirected": true
+    },
+    "Frida_Kahlo": {
+      "exists": true,
+      "final": "Frida Kahlo",
+      "redirected": true
+    },
+    "Bill_Gates": {
+      "exists": true,
+      "final": "Bill Gates",
+      "redirected": true
+    },
+    "Max_Planck": {
+      "exists": true,
+      "final": "Max Planck",
+      "redirected": true
+    },
+    "Steve_Jobs": {
+      "exists": true,
+      "final": "Steve Jobs",
+      "redirected": true
+    },
+    "14th_Dalai_Lama": {
+      "exists": true,
+      "final": "14th Dalai Lama",
+      "redirected": true
+    },
+    "William_Shakespeare": {
+      "exists": true,
+      "final": "William Shakespeare",
+      "redirected": true
+    },
+    "Socrates": {
+      "exists": true,
+      "final": "Socrates",
+      "redirected": false
+    },
+    "Vincent_van_Gogh": {
+      "exists": true,
+      "final": "Vincent van Gogh",
+      "redirected": true
+    },
+    "Sigmund_Freud": {
+      "exists": true,
+      "final": "Sigmund Freud",
+      "redirected": true
+    },
+    "Anne_Frank": {
+      "exists": true,
+      "final": "Anne Frank",
+      "redirected": true
+    },
+    "Helen_Keller": {
+      "exists": true,
+      "final": "Helen Keller",
+      "redirected": true
+    },
+    "Amelia_Earhart": {
+      "exists": true,
+      "final": "Amelia Earhart",
+      "redirected": true
+    },
+    "Rosa_Parks": {
+      "exists": true,
+      "final": "Rosa Parks",
+      "redirected": true
+    },
+    "Karl_Marx": {
+      "exists": true,
+      "final": "Karl Marx",
+      "redirected": true
+    },
+    "Kublai_Khan": {
+      "exists": true,
+      "final": "Kublai Khan",
+      "redirected": true
+    },
+    "Alexander_the_Great": {
+      "exists": true,
+      "final": "Alexander the Great",
+      "redirected": true
+    },
+    "Alexander_Fleming": {
+      "exists": true,
+      "final": "Alexander Fleming",
+      "redirected": true
+    },
+    "Nicholas_II_of_Russia": {
+      "exists": true,
+      "final": "Nicholas II",
+      "redirected": true
+    },
+    "Joseph_Stalin": {
+      "exists": true,
+      "final": "Joseph Stalin",
+      "redirected": true
+    },
+    "Marie_Curie": {
+      "exists": true,
+      "final": "Marie Curie",
+      "redirected": true
+    },
+    "Isaac_Newton": {
+      "exists": true,
+      "final": "Isaac Newton",
+      "redirected": true
+    },
+    "Genghis_Khan": {
+      "exists": true,
+      "final": "Genghis Khan",
+      "redirected": true
+    },
+    "Maximilien_Robespierre": {
+      "exists": true,
+      "final": "Maximilien Robespierre",
+      "redirected": true
+    },
+    "Cleopatra": {
+      "exists": true,
+      "final": "Cleopatra",
+      "redirected": false
+    },
+    "Gautama_Buddha": {
+      "exists": true,
+      "final": "The Buddha",
+      "redirected": true
+    },
+    "Mao_Zedong": {
+      "exists": true,
+      "final": "Mao Zedong",
+      "redirected": true
+    },
+    "Stephen_Hawking": {
+      "exists": true,
+      "final": "Stephen Hawking",
+      "redirected": true
+    },
+    "Louis_Armstrong": {
+      "exists": true,
+      "final": "Louis Armstrong",
+      "redirected": true
+    },
+    "Dmitri_Mendeleev": {
+      "exists": true,
+      "final": "Dmitri Mendeleev",
+      "redirected": true
+    },
+    "Jawaharlal_Nehru": {
+      "exists": true,
+      "final": "Jawaharlal Nehru",
+      "redirected": true
+    },
+    "Marcus_Aurelius": {
+      "exists": true,
+      "final": "Marcus Aurelius",
+      "redirected": true
+    },
+    "Leonard_Bernstein": {
+      "exists": true,
+      "final": "Leonard Bernstein",
+      "redirected": true
+    },
+    "Florence_Nightingale": {
+      "exists": true,
+      "final": "Florence Nightingale",
+      "redirected": true
+    },
+    "John_F._Kennedy": {
+      "exists": true,
+      "final": "John F. Kennedy",
+      "redirected": true
+    },
+    "Louis_Pasteur": {
+      "exists": true,
+      "final": "Louis Pasteur",
+      "redirected": true
+    },
+    "Mikhail_Gorbachev": {
+      "exists": true,
+      "final": "Mikhail Gorbachev",
+      "redirected": true
+    },
+    "J._Robert_Oppenheimer": {
+      "exists": true,
+      "final": "J. Robert Oppenheimer",
+      "redirected": true
+    },
+    "Elie_Wiesel": {
+      "exists": true,
+      "final": "Elie Wiesel",
+      "redirected": true
+    },
+    "Shah_Jahan": {
+      "exists": true,
+      "final": "Shah Jahan",
+      "redirected": true
+    },
+    "Charles_Darwin": {
+      "exists": true,
+      "final": "Charles Darwin",
+      "redirected": true
+    },
+    "Pablo_Picasso": {
+      "exists": true,
+      "final": "Pablo Picasso",
+      "redirected": true
+    },
+    "John_D._Rockefeller": {
+      "exists": true,
+      "final": "John D. Rockefeller",
+      "redirected": true
+    },
+    "Margaret_Thatcher": {
+      "exists": true,
+      "final": "Margaret Thatcher",
+      "redirected": true
+    },
+    "Malcolm_X": {
+      "exists": true,
+      "final": "Malcolm X",
+      "redirected": true
+    },
+    "Che_Guevara": {
+      "exists": true,
+      "final": "Che Guevara",
+      "redirected": true
+    },
+    "Muhammad_Ali": {
+      "exists": true,
+      "final": "Muhammad Ali",
+      "redirected": true
+    },
+    "Malala_Yousafzai": {
+      "exists": true,
+      "final": "Malala Yousafzai",
+      "redirected": true
+    },
+    "Hannibal": {
+      "exists": true,
+      "final": "Hannibal",
+      "redirected": false
+    },
+    "Xerxes_I": {
+      "exists": true,
+      "final": "Xerxes I",
+      "redirected": true
+    },
+    "Niccol%C3%B2_Machiavelli": {
+      "exists": true,
+      "final": "Niccolò Machiavelli",
+      "redirected": true
+    },
+    "Hern%C3%A1n_Cort%C3%A9s": {
+      "exists": true,
+      "final": "Hernán Cortés",
+      "redirected": true
+    },
+    "Martin_Luther": {
+      "exists": true,
+      "final": "Martin Luther",
+      "redirected": true
+    },
+    "Michael_Faraday": {
+      "exists": true,
+      "final": "Michael Faraday",
+      "redirected": true
+    },
+    "Yuri_Gagarin": {
+      "exists": true,
+      "final": "Yuri Gagarin",
+      "redirected": true
+    },
+    "Nicolaus_Copernicus": {
+      "exists": true,
+      "final": "Nicolaus Copernicus",
+      "redirected": true
+    },
+    "Augustus": {
+      "exists": true,
+      "final": "Augustus",
+      "redirected": false
+    },
+    "Amerigo_Vespucci": {
+      "exists": true,
+      "final": "Amerigo Vespucci",
+      "redirected": true
+    },
+    "Leo_Tolstoy": {
+      "exists": true,
+      "final": "Leo Tolstoy",
+      "redirected": true
+    },
+    "Edward_Teller": {
+      "exists": true,
+      "final": "Edward Teller",
+      "redirected": true
+    },
+    "Nikola_Tesla": {
+      "exists": true,
+      "final": "Nikola Tesla",
+      "redirected": true
+    },
+    "Alan_Turing": {
+      "exists": true,
+      "final": "Alan Turing",
+      "redirected": true
+    },
+    "Fyodor_Dostoevsky": {
+      "exists": true,
+      "final": "Fyodor Dostoevsky",
+      "redirected": true
+    },
+    "Gustav_Mahler": {
+      "exists": true,
+      "final": "Gustav Mahler",
+      "redirected": true
+    },
+    "Victor_Hugo": {
+      "exists": true,
+      "final": "Victor Hugo",
+      "redirected": true
+    },
+    "Vladimir_Lenin": {
+      "exists": true,
+      "final": "Vladimir Lenin",
+      "redirected": true
+    },
+    "Charles_Dickens": {
+      "exists": true,
+      "final": "Charles Dickens",
+      "redirected": true
+    },
+    "Ludwig_van_Beethoven": {
+      "exists": true,
+      "final": "Ludwig van Beethoven",
+      "redirected": true
+    },
+    "Wolfgang_Amadeus_Mozart": {
+      "exists": true,
+      "final": "Wolfgang Amadeus Mozart",
+      "redirected": true
+    },
+    "Mother_Teresa": {
+      "exists": true,
+      "final": "Mother Teresa",
+      "redirected": true
+    },
+    "Nelson_Mandela": {
+      "exists": true,
+      "final": "Nelson Mandela",
+      "redirected": true
+    },
+    "Jane_Austen": {
+      "exists": true,
+      "final": "Jane Austen",
+      "redirected": true
+    },
+    "Suleiman_the_Magnificent": {
+      "exists": true,
+      "final": "Suleiman the Magnificent",
+      "redirected": true
+    },
+    "Catherine_the_Great": {
+      "exists": true,
+      "final": "Catherine the Great",
+      "redirected": true
+    },
+    "Frederick_the_Great": {
+      "exists": true,
+      "final": "Frederick the Great",
+      "redirected": true
+    },
+    "Lion": {
+      "exists": true,
+      "final": "Lion",
+      "redirected": false
+    },
+    "African_bush_elephant": {
+      "exists": true,
+      "final": "African bush elephant",
+      "redirected": true
+    },
+    "Zebra": {
+      "exists": true,
+      "final": "Zebra",
+      "redirected": false
+    },
+    "Giraffe": {
+      "exists": true,
+      "final": "Giraffe",
+      "redirected": false
+    },
+    "Blue_whale": {
+      "exists": true,
+      "final": "Blue whale",
+      "redirected": true
+    },
+    "Kangaroo": {
+      "exists": true,
+      "final": "Kangaroo",
+      "redirected": false
+    },
+    "Giant_panda": {
+      "exists": true,
+      "final": "Giant panda",
+      "redirected": true
+    },
+    "Cheetah": {
+      "exists": true,
+      "final": "Cheetah",
+      "redirected": false
+    },
+    "Common_ostrich": {
+      "exists": true,
+      "final": "Common ostrich",
+      "redirected": true
+    },
+    "Chameleon": {
+      "exists": true,
+      "final": "Chameleon",
+      "redirected": false
+    },
+    "Polar_bear": {
+      "exists": true,
+      "final": "Polar bear",
+      "redirected": true
+    },
+    "Frog": {
+      "exists": true,
+      "final": "Frog",
+      "redirected": false
+    },
+    "Green_tree_python": {
+      "exists": true,
+      "final": "Green tree python",
+      "redirected": true
+    },
+    "Dog": {
+      "exists": true,
+      "final": "Dog",
+      "redirected": false
+    },
+    "Cat": {
+      "exists": true,
+      "final": "Cat",
+      "redirected": false
+    },
+    "Donkey": {
+      "exists": true,
+      "final": "Donkey",
+      "redirected": false
+    },
+    "Pig": {
+      "exists": true,
+      "final": "Pig",
+      "redirected": false
+    },
+    "Chicken": {
+      "exists": true,
+      "final": "Chicken",
+      "redirected": false
+    },
+    "Sailfish": {
+      "exists": true,
+      "final": "Sailfish",
+      "redirected": false
+    },
+    "Sea_lion": {
+      "exists": true,
+      "final": "Sea lion",
+      "redirected": true
+    },
+    "Tortoise": {
+      "exists": true,
+      "final": "Tortoise",
+      "redirected": false
+    },
+    "Western_honey_bee": {
+      "exists": true,
+      "final": "Western honey bee",
+      "redirected": true
+    },
+    "Bald_eagle": {
+      "exists": true,
+      "final": "Bald eagle",
+      "redirected": true
+    },
+    "Orca": {
+      "exists": true,
+      "final": "Orca",
+      "redirected": false
+    },
+    "Koala": {
+      "exists": true,
+      "final": "Koala",
+      "redirected": false
+    },
+    "Rabbit": {
+      "exists": true,
+      "final": "Rabbit",
+      "redirected": false
+    },
+    "Wolf": {
+      "exists": true,
+      "final": "Wolf",
+      "redirected": false
+    },
+    "Duck": {
+      "exists": true,
+      "final": "Duck",
+      "redirected": false
+    },
+    "Cattle": {
+      "exists": true,
+      "final": "Cattle",
+      "redirected": false
+    },
+    "Sheep": {
+      "exists": true,
+      "final": "Sheep",
+      "redirected": false
+    },
+    "Owl": {
+      "exists": true,
+      "final": "Owl",
+      "redirected": false
+    },
+    "Swan": {
+      "exists": true,
+      "final": "Swan",
+      "redirected": false
+    },
+    "Penguin": {
+      "exists": true,
+      "final": "Penguin",
+      "redirected": false
+    },
+    "Tiger": {
+      "exists": true,
+      "final": "Tiger",
+      "redirected": false
+    },
+    "Orangutan": {
+      "exists": true,
+      "final": "Orangutan",
+      "redirected": false
+    },
+    "Saltwater_crocodile": {
+      "exists": true,
+      "final": "Saltwater crocodile",
+      "redirected": true
+    },
+    "Emu": {
+      "exists": true,
+      "final": "Emu",
+      "redirected": false
+    },
+    "North_American_beaver": {
+      "exists": true,
+      "final": "North American beaver",
+      "redirected": true
+    },
+    "Chimpanzee": {
+      "exists": true,
+      "final": "Chimpanzee",
+      "redirected": false
+    },
+    "Bat": {
+      "exists": true,
+      "final": "Bat",
+      "redirected": false
+    },
+    "Common_bottlenose_dolphin": {
+      "exists": true,
+      "final": "Common bottlenose dolphin",
+      "redirected": true
+    },
+    "Grizzly_bear": {
+      "exists": true,
+      "final": "Grizzly bear",
+      "redirected": true
+    },
+    "Fennec_fox": {
+      "exists": true,
+      "final": "Fennec fox",
+      "redirected": true
+    },
+    "Kiwi_(bird)": {
+      "exists": true,
+      "final": "Kiwi (bird)",
+      "redirected": true
+    },
+    "Green_anaconda": {
+      "exists": true,
+      "final": "Green anaconda",
+      "redirected": true
+    },
+    "White_rhinoceros": {
+      "exists": true,
+      "final": "White rhinoceros",
+      "redirected": true
+    },
+    "Gorilla": {
+      "exists": true,
+      "final": "Gorilla",
+      "redirected": false
+    },
+    "Flamingo": {
+      "exists": true,
+      "final": "Flamingo",
+      "redirected": false
+    },
+    "Sea_turtle": {
+      "exists": true,
+      "final": "Sea turtle",
+      "redirected": true
+    },
+    "Walrus": {
+      "exists": true,
+      "final": "Walrus",
+      "redirected": false
+    },
+    "Cougar": {
+      "exists": true,
+      "final": "Cougar",
+      "redirected": false
+    },
+    "Greater_kudu": {
+      "exists": true,
+      "final": "Greater kudu",
+      "redirected": true
+    },
+    "Spotted_hyena": {
+      "exists": true,
+      "final": "Spotted hyena",
+      "redirected": true
+    },
+    "Octopus": {
+      "exists": true,
+      "final": "Octopus",
+      "redirected": false
+    },
+    "Golden_eagle": {
+      "exists": true,
+      "final": "Golden eagle",
+      "redirected": true
+    },
+    "Sloth": {
+      "exists": true,
+      "final": "Sloth",
+      "redirected": false
+    },
+    "Whale_shark": {
+      "exists": true,
+      "final": "Whale shark",
+      "redirected": true
+    },
+    "Indian_cobra": {
+      "exists": true,
+      "final": "Indian cobra",
+      "redirected": true
+    },
+    "Tasmanian_devil": {
+      "exists": true,
+      "final": "Tasmanian devil",
+      "redirected": true
+    },
+    "Parrot": {
+      "exists": true,
+      "final": "Parrot",
+      "redirected": false
+    },
+    "Komodo_dragon": {
+      "exists": true,
+      "final": "Komodo dragon",
+      "redirected": true
+    },
+    "Crab": {
+      "exists": true,
+      "final": "Crab",
+      "redirected": false
+    },
+    "Seahorse": {
+      "exists": true,
+      "final": "Seahorse",
+      "redirected": false
+    },
+    "Lobster": {
+      "exists": true,
+      "final": "Lobster",
+      "redirected": false
+    },
+    "Hippopotamus": {
+      "exists": true,
+      "final": "Hippopotamus",
+      "redirected": false
+    },
+    "Okapi": {
+      "exists": true,
+      "final": "Okapi",
+      "redirected": false
+    },
+    "Platypus": {
+      "exists": true,
+      "final": "Platypus",
+      "redirected": false
+    },
+    "Quokka": {
+      "exists": true,
+      "final": "Quokka",
+      "redirected": false
+    },
+    "Capybara": {
+      "exists": true,
+      "final": "Capybara",
+      "redirected": false
+    },
+    "Vicu%C3%B1a": {
+      "exists": true,
+      "final": "Vicuña",
+      "redirected": false
+    },
+    "Emperor_penguin": {
+      "exists": true,
+      "final": "Emperor penguin",
+      "redirected": true
+    },
+    "Giant_squid": {
+      "exists": true,
+      "final": "Giant squid",
+      "redirected": true
+    },
+    "Greater_rhea": {
+      "exists": true,
+      "final": "Greater rhea",
+      "redirected": true
+    },
+    "Sugar_glider": {
+      "exists": true,
+      "final": "Sugar glider",
+      "redirected": true
+    },
+    "Reindeer": {
+      "exists": true,
+      "final": "Reindeer",
+      "redirected": false
+    },
+    "Chinese_giant_salamander": {
+      "exists": true,
+      "final": "Chinese giant salamander",
+      "redirected": true
+    },
+    "Fossa_(animal)": {
+      "exists": true,
+      "final": "Fossa (animal)",
+      "redirected": true
+    },
+    "Gila_monster": {
+      "exists": true,
+      "final": "Gila monster",
+      "redirected": true
+    },
+    "Ring-tailed_lemur": {
+      "exists": true,
+      "final": "Ring-tailed lemur",
+      "redirected": true
+    },
+    "Shrimp": {
+      "exists": true,
+      "final": "Shrimp",
+      "redirected": false
+    },
+    "Manatee": {
+      "exists": true,
+      "final": "Manatee",
+      "redirected": false
+    },
+    "Hedgehog": {
+      "exists": true,
+      "final": "Hedgehog",
+      "redirected": false
+    },
+    "American_paddlefish": {
+      "exists": true,
+      "final": "American paddlefish",
+      "redirected": true
+    },
+    "Narwhal": {
+      "exists": true,
+      "final": "Narwhal",
+      "redirected": false
+    },
+    "Meerkat": {
+      "exists": true,
+      "final": "Meerkat",
+      "redirected": false
+    },
+    "Anglerfish": {
+      "exists": true,
+      "final": "Anglerfish",
+      "redirected": false
+    },
+    "Cassowary": {
+      "exists": true,
+      "final": "Cassowary",
+      "redirected": false
+    },
+    "Mudskipper": {
+      "exists": true,
+      "final": "Mudskipper",
+      "redirected": false
+    },
+    "Japanese_spider_crab": {
+      "exists": true,
+      "final": "Japanese spider crab",
+      "redirected": true
+    },
+    "Coati": {
+      "exists": true,
+      "final": "Coati",
+      "redirected": false
+    },
+    "Gaur": {
+      "exists": true,
+      "final": "Gaur",
+      "redirected": false
+    },
+    "Krill": {
+      "exists": true,
+      "final": "Krill",
+      "redirected": false
+    },
+    "Pangolin": {
+      "exists": true,
+      "final": "Pangolin",
+      "redirected": false
+    },
+    "Tapir": {
+      "exists": true,
+      "final": "Tapir",
+      "redirected": false
+    },
+    "Sumatran_orangutan": {
+      "exists": true,
+      "final": "Sumatran orangutan",
+      "redirected": true
+    },
+    "Dugong": {
+      "exists": true,
+      "final": "Dugong",
+      "redirected": false
+    },
+    "Roseate_spoonbill": {
+      "exists": true,
+      "final": "Roseate spoonbill",
+      "redirected": true
+    },
+    "Cone_snail": {
+      "exists": true,
+      "final": "Cone snail",
+      "redirected": true
+    },
+    "Markhor": {
+      "exists": true,
+      "final": "Markhor",
+      "redirected": false
+    },
+    "Cologne_Cathedral": {
+      "exists": true,
+      "final": "Cologne Cathedral",
+      "redirected": true
+    },
+    "Moscow_Kremlin": {
+      "exists": true,
+      "final": "Kremlin",
+      "redirected": true
+    },
+    "Mount_Rushmore": {
+      "exists": true,
+      "final": "Mount Rushmore",
+      "redirected": true
+    },
+    "Palace_of_Versailles": {
+      "exists": true,
+      "final": "Palace of Versailles",
+      "redirected": true
+    },
+    "Piazza_San_Marco": {
+      "exists": true,
+      "final": "Piazza San Marco",
+      "redirected": true
+    },
+    "Buckingham_Palace": {
+      "exists": true,
+      "final": "Buckingham Palace",
+      "redirected": true
+    },
+    "Amsterdam": {
+      "exists": true,
+      "final": "Amsterdam",
+      "redirected": false
+    },
+    "St._Stephen%27s_Cathedral,_Vienna": {
+      "exists": true,
+      "final": "St. Stephen's Cathedral, Vienna",
+      "redirected": true
+    },
+    "Tokyo_Tower": {
+      "exists": true,
+      "final": "Tokyo Tower",
+      "redirected": true
+    },
+    "Gyeongbokgung": {
+      "exists": true,
+      "final": "Gyeongbokgung",
+      "redirected": false
+    },
+    "Wat_Phra_Kaew": {
+      "exists": true,
+      "final": "Wat Phra Kaew",
+      "redirected": true
+    },
+    "Gateway_of_India": {
+      "exists": true,
+      "final": "Gateway of India",
+      "redirected": true
+    },
+    "Mykonos": {
+      "exists": true,
+      "final": "Mykonos",
+      "redirected": false
+    },
+    "Pena_Palace": {
+      "exists": true,
+      "final": "Pena Palace",
+      "redirected": true
+    },
+    "Chain_Bridge,_Budapest": {
+      "exists": false,
+      "final": "Chain Bridge, Budapest",
+      "redirected": true
+    },
+    "Prague_Castle": {
+      "exists": true,
+      "final": "Prague Castle",
+      "redirected": true
+    },
+    "Wawel_Castle": {
+      "exists": true,
+      "final": "Wawel Castle",
+      "redirected": true
+    },
+    "Grand_Place,_Brussels": {
+      "exists": true,
+      "final": "Grand-Place",
+      "redirected": true
+    },
+    "Nyhavn": {
+      "exists": true,
+      "final": "Nyhavn",
+      "redirected": false
+    },
+    "Gamla_stan": {
+      "exists": true,
+      "final": "Gamla Stan",
+      "redirected": true
+    },
+    "Door_to_Hell": {
+      "exists": true,
+      "final": "Gates of hell",
+      "redirected": true
+    },
+    "Ziggurat_of_Ur": {
+      "exists": true,
+      "final": "Ziggurat of Ur",
+      "redirected": true
+    },
+    "Cartagena,_Colombia": {
+      "exists": true,
+      "final": "Cartagena, Colombia",
+      "redirected": true
+    },
+    "Panama_Canal": {
+      "exists": true,
+      "final": "Panama Canal",
+      "redirected": true
+    },
+    "The_Dark_Knight": {
+      "exists": true,
+      "final": "The Dark Knight",
+      "redirected": true
+    },
+    "Avatar:_The_Way_of_Water": {
+      "exists": true,
+      "final": "Avatar: The Way of Water",
+      "redirected": true
+    },
+    "Gladiator_II": {
+      "exists": true,
+      "final": "Gladiator II",
+      "redirected": true
+    },
+    "Dune_(2021_film)": {
+      "exists": true,
+      "final": "Dune (2021 film)",
+      "redirected": true
+    },
+    "Oppenheimer_(film)": {
+      "exists": true,
+      "final": "Oppenheimer (film)",
+      "redirected": true
+    },
+    "Everything_Everywhere_All_at_Once": {
+      "exists": true,
+      "final": "Everything Everywhere All at Once",
+      "redirected": true
+    },
+    "Top_Gun": {
+      "exists": true,
+      "final": "Top Gun",
+      "redirected": true
+    },
+    "The_Empire_Strikes_Back": {
+      "exists": true,
+      "final": "The Empire Strikes Back",
+      "redirected": true
+    },
+    "Star_Wars:_The_Force_Awakens": {
+      "exists": true,
+      "final": "Star Wars: The Force Awakens",
+      "redirected": true
+    },
+    "Raiders_of_the_Lost_Ark": {
+      "exists": true,
+      "final": "Raiders of the Lost Ark",
+      "redirected": true
+    },
+    "E.T._the_Extra-Terrestrial": {
+      "exists": true,
+      "final": "E.T. the Extra-Terrestrial",
+      "redirected": true
+    },
+    "The_Hangover": {
+      "exists": true,
+      "final": "The Hangover",
+      "redirected": true
+    },
+    "Superbad": {
+      "exists": true,
+      "final": "Superbad",
+      "redirected": false
+    },
+    "Mean_Girls": {
+      "exists": true,
+      "final": "Mean Girls",
+      "redirected": true
+    },
+    "Legally_Blonde": {
+      "exists": true,
+      "final": "Legally Blonde",
+      "redirected": true
+    },
+    "The_Devil_Wears_Prada_(film)": {
+      "exists": true,
+      "final": "The Devil Wears Prada (film)",
+      "redirected": true
+    },
+    "The_Notebook_(film)": {
+      "exists": true,
+      "final": "The Notebook",
+      "redirected": true
+    },
+    "Love_Actually": {
+      "exists": true,
+      "final": "Love Actually",
+      "redirected": true
+    },
+    "Pretty_Woman": {
+      "exists": true,
+      "final": "Pretty Woman",
+      "redirected": true
+    },
+    "Twilight_(2008_film)": {
+      "exists": true,
+      "final": "Twilight (2008 film)",
+      "redirected": true
+    },
+    "The_Hunger_Games:_Catching_Fire": {
+      "exists": true,
+      "final": "The Hunger Games: Catching Fire",
+      "redirected": true
+    },
+    "Inside_Out_(2015_film)": {
+      "exists": true,
+      "final": "Inside Out",
+      "redirected": true
+    },
+    "Coco_(2017_film)": {
+      "exists": true,
+      "final": "Coco (2017 film)",
+      "redirected": true
+    },
+    "Encanto_(film)": {
+      "exists": true,
+      "final": "Encanto",
+      "redirected": true
+    },
+    "Soul_(2020_film)": {
+      "exists": true,
+      "final": "Soul (2020 film)",
+      "redirected": true
+    },
+    "Tangled": {
+      "exists": true,
+      "final": "Tangled",
+      "redirected": false
+    },
+    "Bohemian_Rhapsody_(film)": {
+      "exists": true,
+      "final": "Bohemian Rhapsody (film)",
+      "redirected": true
+    },
+    "Rocketman_(film)": {
+      "exists": true,
+      "final": "Rocketman (film)",
+      "redirected": true
+    },
+    "Braveheart": {
+      "exists": true,
+      "final": "Braveheart",
+      "redirected": false
+    },
+    "The_Wolf_of_Wall_Street_(2013_film)": {
+      "exists": true,
+      "final": "The Wolf of Wall Street (2013 film)",
+      "redirected": true
+    },
+    "Schindler%27s_List": {
+      "exists": true,
+      "final": "Schindler's List",
+      "redirected": true
+    },
+    "Django_Unchained": {
+      "exists": true,
+      "final": "Django Unchained",
+      "redirected": true
+    },
+    "Inglourious_Basterds": {
+      "exists": true,
+      "final": "Inglourious Basterds",
+      "redirected": true
+    },
+    "Reservoir_Dogs": {
+      "exists": true,
+      "final": "Reservoir Dogs",
+      "redirected": true
+    },
+    "Kill_Bill:_Volume_1": {
+      "exists": true,
+      "final": "Kill Bill: Volume 1",
+      "redirected": true
+    },
+    "Once_Upon_a_Time_in_Hollywood": {
+      "exists": true,
+      "final": "Once Upon a Time in Hollywood",
+      "redirected": true
+    },
+    "Saving_Private_Ryan": {
+      "exists": true,
+      "final": "Saving Private Ryan",
+      "redirected": true
+    },
+    "Enemy_at_the_Gates": {
+      "exists": true,
+      "final": "Enemy at the Gates",
+      "redirected": true
+    },
+    "Black_Hawk_Down_(film)": {
+      "exists": true,
+      "final": "Black Hawk Down (film)",
+      "redirected": true
+    },
+    "The_Thin_Red_Line_(1998_film)": {
+      "exists": true,
+      "final": "The Thin Red Line (1998 film)",
+      "redirected": true
+    },
+    "The_King%27s_Speech": {
+      "exists": true,
+      "final": "The King's Speech",
+      "redirected": true
+    },
+    "12_Years_a_Slave_(film)": {
+      "exists": true,
+      "final": "12 Years a Slave (film)",
+      "redirected": true
+    },
+    "Slumdog_Millionaire": {
+      "exists": true,
+      "final": "Slumdog Millionaire",
+      "redirected": true
+    },
+    "Spotlight_(film)": {
+      "exists": true,
+      "final": "Spotlight (film)",
+      "redirected": true
+    },
+    "The_Imitation_Game": {
+      "exists": true,
+      "final": "The Imitation Game",
+      "redirected": true
+    },
+    "The_Theory_of_Everything_(2014_film)": {
+      "exists": true,
+      "final": "The Theory of Everything (2014 film)",
+      "redirected": true
+    },
+    "Green_Book_(film)": {
+      "exists": true,
+      "final": "Green Book (film)",
+      "redirected": true
+    },
+    "Life_of_Pi_(film)": {
+      "exists": true,
+      "final": "Life of Pi (film)",
+      "redirected": true
+    },
+    "Birdman_(film)": {
+      "exists": true,
+      "final": "Birdman (film)",
+      "redirected": true
+    },
+    "Moonlight_(2016_film)": {
+      "exists": true,
+      "final": "Moonlight (2016 film)",
+      "redirected": true
+    },
+    "Halloween_(1978_film)": {
+      "exists": true,
+      "final": "Halloween (1978 film)",
+      "redirected": true
+    },
+    "Scream_(1996_film)": {
+      "exists": true,
+      "final": "Scream (1996 film)",
+      "redirected": true
+    },
+    "Saw_(2004_film)": {
+      "exists": true,
+      "final": "Saw (film)",
+      "redirected": true
+    },
+    "It_(2017_film)": {
+      "exists": true,
+      "final": "It (2017 film)",
+      "redirected": true
+    },
+    "The_Lighthouse_(2019_film)": {
+      "exists": true,
+      "final": "The Lighthouse (2019 film)",
+      "redirected": true
+    },
+    "The_Exorcist": {
+      "exists": true,
+      "final": "The Exorcist",
+      "redirected": true
+    },
+    "Close_Encounters_of_the_Third_Kind": {
+      "exists": true,
+      "final": "Close Encounters of the Third Kind",
+      "redirected": true
+    },
+    "A_Clockwork_Orange_(film)": {
+      "exists": true,
+      "final": "A Clockwork Orange (film)",
+      "redirected": true
+    },
+    "Dr._Strangelove": {
+      "exists": true,
+      "final": "Dr. Strangelove",
+      "redirected": true
+    },
+    "Am%C3%A9lie": {
+      "exists": true,
+      "final": "Amélie",
+      "redirected": false
+    },
+    "Eraserhead": {
+      "exists": true,
+      "final": "Eraserhead",
+      "redirected": false
+    },
+    "Stalker_(1979_film)": {
+      "exists": true,
+      "final": "Stalker (1979 film)",
+      "redirected": true
+    },
+    "Andrei_Rublev_(film)": {
+      "exists": true,
+      "final": "Andrei Rublev (film)",
+      "redirected": true
+    },
+    "Persona_(1966_film)": {
+      "exists": true,
+      "final": "Persona (1966 film)",
+      "redirected": true
+    },
+    "The_Seventh_Seal": {
+      "exists": true,
+      "final": "The Seventh Seal",
+      "redirected": true
+    },
+    "Wild_Strawberries_(film)": {
+      "exists": true,
+      "final": "Wild Strawberries (film)",
+      "redirected": true
+    },
+    "8%C2%BD": {
+      "exists": true,
+      "final": "8½",
+      "redirected": false
+    },
+    "Tokyo_Story": {
+      "exists": true,
+      "final": "Tokyo Story",
+      "redirected": true
+    },
+    "Seven_Samurai": {
+      "exists": true,
+      "final": "Seven Samurai",
+      "redirected": true
+    },
+    "Rashomon": {
+      "exists": true,
+      "final": "Rashomon",
+      "redirected": false
+    },
+    "Ran_(film)": {
+      "exists": true,
+      "final": "Ran (film)",
+      "redirected": true
+    },
+    "Sunset_Boulevard_(film)": {
+      "exists": true,
+      "final": "Sunset Boulevard (film)",
+      "redirected": true
+    },
+    "Psycho_(1960_film)": {
+      "exists": true,
+      "final": "Psycho (1960 film)",
+      "redirected": true
+    },
+    "Vertigo_(film)": {
+      "exists": true,
+      "final": "Vertigo (film)",
+      "redirected": true
+    },
+    "Rear_Window": {
+      "exists": true,
+      "final": "Rear Window",
+      "redirected": true
+    },
+    "12_Angry_Men": {
+      "exists": true,
+      "final": "12 Angry Men",
+      "redirected": true
+    },
+    "To_Kill_a_Mockingbird_(film)": {
+      "exists": true,
+      "final": "To Kill a Mockingbird (film)",
+      "redirected": true
+    },
+    "Fanny_and_Alexander": {
+      "exists": true,
+      "final": "Fanny and Alexander",
+      "redirected": true
+    },
+    "Pan%27s_Labyrinth": {
+      "exists": true,
+      "final": "Pan's Labyrinth",
+      "redirected": true
+    },
+    "City_of_God_(2002_film)": {
+      "exists": true,
+      "final": "City of God (2002 film)",
+      "redirected": true
+    },
+    "The_Intouchables": {
+      "exists": true,
+      "final": "The Intouchables",
+      "redirected": true
+    },
+    "The_Lives_of_Others": {
+      "exists": true,
+      "final": "The Lives of Others",
+      "redirected": true
+    },
+    "Belfast_(film)": {
+      "exists": true,
+      "final": "Belfast (film)",
+      "redirected": true
+    },
+    "Drive_My_Car_(film)": {
+      "exists": true,
+      "final": "Drive My Car (film)",
+      "redirected": true
+    },
+    "Decision_to_Leave": {
+      "exists": true,
+      "final": "Decision to Leave",
+      "redirected": true
+    },
+    "The_Salesman_(2016_film)": {
+      "exists": true,
+      "final": "The Salesman (2016 film)",
+      "redirected": true
+    },
+    "Oldboy_(2003_film)": {
+      "exists": true,
+      "final": "Oldboy (2003 film)",
+      "redirected": true
+    },
+    "In_the_Mood_for_Love": {
+      "exists": true,
+      "final": "In the Mood for Love",
+      "redirected": true
+    },
+    "There_Will_Be_Blood": {
+      "exists": true,
+      "final": "There Will Be Blood",
+      "redirected": true
+    },
+    "Portrait_of_a_Lady_on_Fire": {
+      "exists": true,
+      "final": "Portrait of a Lady on Fire",
+      "redirected": true
+    },
+    "Breaking_Bad": {
+      "exists": true,
+      "final": "Breaking Bad",
+      "redirected": true
+    },
+    "Game_of_Thrones": {
+      "exists": true,
+      "final": "Game of Thrones",
+      "redirected": true
+    },
+    "Stranger_Things": {
+      "exists": true,
+      "final": "Stranger Things",
+      "redirected": true
+    },
+    "Friends": {
+      "exists": true,
+      "final": "Friends",
+      "redirected": false
+    },
+    "The_Office_(American_TV_series)": {
+      "exists": true,
+      "final": "The Office (American TV series)",
+      "redirected": true
+    },
+    "Seinfeld": {
+      "exists": true,
+      "final": "Seinfeld",
+      "redirected": false
+    },
+    "The_Simpsons": {
+      "exists": true,
+      "final": "The Simpsons",
+      "redirected": true
+    },
+    "SpongeBob_SquarePants": {
+      "exists": true,
+      "final": "SpongeBob SquarePants",
+      "redirected": true
+    },
+    "South_Park": {
+      "exists": true,
+      "final": "South Park",
+      "redirected": true
+    },
+    "The_Big_Bang_Theory": {
+      "exists": true,
+      "final": "The Big Bang Theory",
+      "redirected": true
+    },
+    "How_I_Met_Your_Mother": {
+      "exists": true,
+      "final": "How I Met Your Mother",
+      "redirected": true
+    },
+    "The_Sopranos": {
+      "exists": true,
+      "final": "The Sopranos",
+      "redirected": true
+    },
+    "Lost_(TV_series)": {
+      "exists": true,
+      "final": "Lost (TV series)",
+      "redirected": true
+    },
+    "Prison_Break": {
+      "exists": true,
+      "final": "Prison Break",
+      "redirected": true
+    },
+    "Money_Heist": {
+      "exists": true,
+      "final": "Money Heist",
+      "redirected": true
+    },
+    "Squid_Game": {
+      "exists": true,
+      "final": "Squid Game",
+      "redirected": true
+    },
+    "Peaky_Blinders_(TV_series)": {
+      "exists": true,
+      "final": "Peaky Blinders (TV series)",
+      "redirected": true
+    },
+    "The_Walking_Dead_(TV_series)": {
+      "exists": true,
+      "final": "The Walking Dead (TV series)",
+      "redirected": true
+    },
+    "The_Bear_(TV_series)": {
+      "exists": true,
+      "final": "The Bear (TV series)",
+      "redirected": true
+    },
+    "Narcos": {
+      "exists": true,
+      "final": "Narcos",
+      "redirected": false
+    },
+    "Dexter_(TV_series)": {
+      "exists": true,
+      "final": "Dexter (TV series)",
+      "redirected": true
+    },
+    "Suits_(American_TV_series)": {
+      "exists": true,
+      "final": "Suits (American TV series)",
+      "redirected": true
+    },
+    "Wednesday_(TV_series)": {
+      "exists": true,
+      "final": "Wednesday (TV series)",
+      "redirected": true
+    },
+    "Westworld_(TV_series)": {
+      "exists": true,
+      "final": "Westworld (TV series)",
+      "redirected": true
+    },
+    "Black_Mirror": {
+      "exists": true,
+      "final": "Black Mirror",
+      "redirected": true
+    },
+    "The_Last_of_Us_(TV_series)": {
+      "exists": true,
+      "final": "The Last of Us (TV series)",
+      "redirected": true
+    },
+    "Yellowstone_(American_TV_series)": {
+      "exists": true,
+      "final": "Yellowstone (TV series)",
+      "redirected": true
+    },
+    "Only_Murders_in_the_Building": {
+      "exists": true,
+      "final": "Only Murders in the Building",
+      "redirected": true
+    },
+    "Euphoria_(American_TV_series)": {
+      "exists": true,
+      "final": "Euphoria (American TV series)",
+      "redirected": true
+    },
+    "The_Crown_(TV_series)": {
+      "exists": true,
+      "final": "The Crown (TV series)",
+      "redirected": true
+    },
+    "The_Wire": {
+      "exists": true,
+      "final": "The Wire",
+      "redirected": true
+    },
+    "Deadwood_(TV_series)": {
+      "exists": true,
+      "final": "Deadwood (TV series)",
+      "redirected": true
+    },
+    "Six_Feet_Under_(TV_series)": {
+      "exists": true,
+      "final": "Six Feet Under (TV series)",
+      "redirected": true
+    },
+    "The_Shield": {
+      "exists": true,
+      "final": "The Shield",
+      "redirected": true
+    },
+    "Band_of_Brothers_(miniseries)": {
+      "exists": true,
+      "final": "Band of Brothers (miniseries)",
+      "redirected": true
+    },
+    "Chernobyl_(miniseries)": {
+      "exists": true,
+      "final": "Chernobyl (miniseries)",
+      "redirected": true
+    },
+    "Ozark_(TV_series)": {
+      "exists": true,
+      "final": "Ozark (TV series)",
+      "redirected": true
+    },
+    "Fleabag": {
+      "exists": true,
+      "final": "Fleabag",
+      "redirected": false
+    },
+    "Succession_(TV_series)": {
+      "exists": true,
+      "final": "Succession (TV series)",
+      "redirected": true
+    },
+    "Shrinking_(TV_series)": {
+      "exists": true,
+      "final": "Shrinking (TV series)",
+      "redirected": true
+    },
+    "Reservation_Dogs": {
+      "exists": true,
+      "final": "Reservation Dogs",
+      "redirected": true
+    },
+    "Silicon_Valley_(TV_series)": {
+      "exists": true,
+      "final": "Silicon Valley (TV series)",
+      "redirected": true
+    },
+    "Veep": {
+      "exists": true,
+      "final": "Veep",
+      "redirected": false
+    },
+    "Curb_Your_Enthusiasm": {
+      "exists": true,
+      "final": "Curb Your Enthusiasm",
+      "redirected": true
+    },
+    "30_Rock": {
+      "exists": true,
+      "final": "30 Rock",
+      "redirected": true
+    },
+    "Arrested_Development": {
+      "exists": true,
+      "final": "Arrested Development",
+      "redirected": true
+    },
+    "Parks_and_Recreation": {
+      "exists": true,
+      "final": "Parks and Recreation",
+      "redirected": true
+    },
+    "Community_(TV_series)": {
+      "exists": true,
+      "final": "Community (TV series)",
+      "redirected": true
+    },
+    "Boardwalk_Empire": {
+      "exists": true,
+      "final": "Boardwalk Empire",
+      "redirected": true
+    },
+    "The_Americans": {
+      "exists": true,
+      "final": "The Americans",
+      "redirected": true
+    },
+    "Homeland_(American_TV_series)": {
+      "exists": false,
+      "final": "Homeland (American TV series)",
+      "redirected": true
+    },
+    "Sons_of_Anarchy": {
+      "exists": true,
+      "final": "Sons of Anarchy",
+      "redirected": true
+    },
+    "Grey%27s_Anatomy": {
+      "exists": true,
+      "final": "Grey's Anatomy",
+      "redirected": true
+    },
+    "ER_(TV_series)": {
+      "exists": true,
+      "final": "ER (TV series)",
+      "redirected": true
+    },
+    "The_West_Wing": {
+      "exists": true,
+      "final": "The West Wing",
+      "redirected": true
+    },
+    "Frasier": {
+      "exists": true,
+      "final": "Frasier",
+      "redirected": false
+    },
+    "Cheers": {
+      "exists": true,
+      "final": "Cheers",
+      "redirected": false
+    },
+    "Twin_Peaks": {
+      "exists": true,
+      "final": "Twin Peaks",
+      "redirected": true
+    },
+    "The_X-Files": {
+      "exists": true,
+      "final": "The X-Files",
+      "redirected": true
+    },
+    "Mr._Robot": {
+      "exists": true,
+      "final": "Mr. Robot",
+      "redirected": true
+    },
+    "Archer_(2009_TV_series)": {
+      "exists": true,
+      "final": "Archer (2009 TV series)",
+      "redirected": true
+    },
+    "Avatar:_The_Last_Airbender": {
+      "exists": true,
+      "final": "Avatar: The Last Airbender",
+      "redirected": true
+    },
+    "Samurai_Champloo": {
+      "exists": true,
+      "final": "Samurai Champloo",
+      "redirected": true
+    },
+    "Steins;Gate": {
+      "exists": true,
+      "final": "Steins;Gate",
+      "redirected": false
+    },
+    "Fullmetal_Alchemist:_Brotherhood": {
+      "exists": true,
+      "final": "Fullmetal Alchemist: Brotherhood",
+      "redirected": true
+    },
+    "I_May_Destroy_You": {
+      "exists": true,
+      "final": "I May Destroy You",
+      "redirected": true
+    },
+    "The_Leftovers_(TV_series)": {
+      "exists": true,
+      "final": "The Leftovers (TV series)",
+      "redirected": true
+    },
+    "Hannibal_(TV_series)": {
+      "exists": true,
+      "final": "Hannibal (TV series)",
+      "redirected": true
+    },
+    "The_Borgias": {
+      "exists": true,
+      "final": "Borgia (disambiguation)",
+      "redirected": true
+    },
+    "Utopia_(British_TV_series)": {
+      "exists": true,
+      "final": "Utopia (British TV series)",
+      "redirected": true
+    },
+    "Dark_(TV_series)": {
+      "exists": true,
+      "final": "Dark (TV series)",
+      "redirected": true
+    },
+    "Babylon_Berlin": {
+      "exists": true,
+      "final": "Babylon Berlin",
+      "redirected": true
+    },
+    "Gomorrah_(TV_series)": {
+      "exists": true,
+      "final": "Gomorrah (TV series)",
+      "redirected": true
+    },
+    "My_Brilliant_Friend_(TV_series)": {
+      "exists": true,
+      "final": "My Brilliant Friend (TV series)",
+      "redirected": true
+    },
+    "Broadchurch": {
+      "exists": true,
+      "final": "Broadchurch",
+      "redirected": false
+    },
+    "Top_of_the_Lake": {
+      "exists": true,
+      "final": "Top of the Lake",
+      "redirected": true
+    },
+    "Mare_of_Easttown": {
+      "exists": true,
+      "final": "Mare of Easttown",
+      "redirected": true
+    },
+    "Pose_(TV_series)": {
+      "exists": true,
+      "final": "Pose (TV series)",
+      "redirected": true
+    },
+    "Severance_(TV_series)": {
+      "exists": true,
+      "final": "Severance (TV series)",
+      "redirected": true
+    },
+    "The_OA": {
+      "exists": true,
+      "final": "The OA",
+      "redirected": true
+    },
+    "Sense8": {
+      "exists": true,
+      "final": "Sense8",
+      "redirected": false
+    },
+    "Battlestar_Galactica_(2004_TV_series)": {
+      "exists": true,
+      "final": "Battlestar Galactica (2004 TV series)",
+      "redirected": true
+    },
+    "Firefly_(TV_series)": {
+      "exists": true,
+      "final": "Firefly (TV series)",
+      "redirected": true
+    },
+    "The_Expanse_(TV_series)": {
+      "exists": true,
+      "final": "The Expanse (TV series)",
+      "redirected": true
+    },
+    "Russian_Doll_(TV_series)": {
+      "exists": true,
+      "final": "Russian Doll (TV series)",
+      "redirected": true
+    },
+    "Sharp_Objects_(miniseries)": {
+      "exists": true,
+      "final": "Sharp Objects (miniseries)",
+      "redirected": true
+    },
+    "Arcane_(TV_series)": {
+      "exists": true,
+      "final": "Arcane (TV series)",
+      "redirected": true
+    },
+    "True_Detective": {
+      "exists": true,
+      "final": "True Detective",
+      "redirected": true
+    },
+    "Fargo_(TV_series)": {
+      "exists": true,
+      "final": "Fargo (TV series)",
+      "redirected": true
+    },
+    "Mad_Men": {
+      "exists": true,
+      "final": "Mad Men",
+      "redirected": true
+    },
+    "Angel_Falls": {
+      "exists": true,
+      "final": "Angel Falls",
+      "redirected": true
+    },
+    "Gal%C3%A1pagos_Islands": {
+      "exists": true,
+      "final": "Galápagos Islands",
+      "redirected": true
+    },
+    "Arenal_Volcano": {
+      "exists": true,
+      "final": "Arenal Volcano",
+      "redirected": true
+    },
+    "Cop%C3%A1n": {
+      "exists": true,
+      "final": "Copán",
+      "redirected": false
+    },
+    "Le%C3%B3n_Cathedral,_Nicaragua": {
+      "exists": true,
+      "final": "León Cathedral, Nicaragua",
+      "redirected": true
+    },
+    "Tallinn": {
+      "exists": true,
+      "final": "Tallinn",
+      "redirected": false
+    },
+    "House_of_the_Blackheads,_Riga": {
+      "exists": false,
+      "final": "House of the Blackheads, Riga",
+      "redirected": true
+    },
+    "Trakai_Island_Castle": {
+      "exists": true,
+      "final": "Trakai Island Castle",
+      "redirected": true
+    },
+    "Rila_Monastery": {
+      "exists": true,
+      "final": "Rila Monastery",
+      "redirected": true
+    },
+    "Kalemegdan": {
+      "exists": true,
+      "final": "Kalemegdan Park",
+      "redirected": true
+    },
+    "Stari_Most": {
+      "exists": true,
+      "final": "Stari Most",
+      "redirected": true
+    },
+    "Bay_of_Kotor": {
+      "exists": true,
+      "final": "Bay of Kotor",
+      "redirected": true
+    },
+    "Berat": {
+      "exists": true,
+      "final": "Berat",
+      "redirected": false
+    },
+    "Mdina": {
+      "exists": true,
+      "final": "Mdina",
+      "redirected": false
+    },
+    "Kyrenia_Castle": {
+      "exists": true,
+      "final": "Kyrenia Castle",
+      "redirected": true
+    },
+    "Mada%27in_Saleh": {
+      "exists": true,
+      "final": "Hegra",
+      "redirected": true
+    },
+    "Museum_of_Islamic_Art,_Doha": {
+      "exists": true,
+      "final": "Museum of Islamic Art, Doha",
+      "redirected": true
+    },
+    "Badshahi_Mosque": {
+      "exists": true,
+      "final": "Badshahi Mosque",
+      "redirected": true
+    },
+    "Minaret_of_Jam": {
+      "exists": true,
+      "final": "Minaret of Jam",
+      "redirected": true
+    },
+    "Leptis_Magna": {
+      "exists": true,
+      "final": "Leptis Magna",
+      "redirected": true
+    },
+    "Timgad": {
+      "exists": true,
+      "final": "Timgad",
+      "redirected": false
+    },
+    "African_Renaissance_Monument": {
+      "exists": true,
+      "final": "African Renaissance Monument",
+      "redirected": true
+    },
+    "Kasubi_Tombs": {
+      "exists": true,
+      "final": "Kasubi Tombs",
+      "redirected": true
+    },
+    "Volcanoes_National_Park": {
+      "exists": true,
+      "final": "Volcanoes National Park",
+      "redirected": true
+    },
+    "Okavango_Delta": {
+      "exists": true,
+      "final": "Okavango Delta",
+      "redirected": true
+    },
+    "Island_of_Mozambique": {
+      "exists": true,
+      "final": "Island of Mozambique",
+      "redirected": true
+    },
+    "Cape_Coast_Castle": {
+      "exists": true,
+      "final": "Cape Coast Castle",
+      "redirected": true
+    },
+    "Zuma_Rock": {
+      "exists": true,
+      "final": "Zuma Rock",
+      "redirected": true
+    },
+    "Kokoda_Track": {
+      "exists": true,
+      "final": "Kokoda Track",
+      "redirected": true
+    },
+    "Sri_Siva_Subramaniya_Temple": {
+      "exists": true,
+      "final": "Sri Siva Subramaniya Temple",
+      "redirected": true
+    },
+    "Juche_Tower": {
+      "exists": true,
+      "final": "Juche Tower",
+      "redirected": true
+    },
+    "Nigersaurus": {
+      "exists": true,
+      "final": "Nigersaurus",
+      "redirected": false
+    },
+    "Abelisaurus": {
+      "exists": true,
+      "final": "Abelisaurus",
+      "redirected": false
+    },
+    "Amargatitanis": {
+      "exists": true,
+      "final": "Amargatitanis",
+      "redirected": false
+    },
+    "Anchisaurus": {
+      "exists": true,
+      "final": "Anchisaurus",
+      "redirected": false
+    },
+    "Aralosaurus": {
+      "exists": true,
+      "final": "Aralosaurus",
+      "redirected": false
+    },
+    "Austrocheirus": {
+      "exists": true,
+      "final": "Austrocheirus",
+      "redirected": false
+    },
+    "Saurophaganax": {
+      "exists": true,
+      "final": "Saurophaganax",
+      "redirected": false
+    },
+    "Nothronychus": {
+      "exists": true,
+      "final": "Nothronychus",
+      "redirected": false
+    },
+    "Cryolophosaurus": {
+      "exists": true,
+      "final": "Cryolophosaurus",
+      "redirected": false
+    },
+    "Dimorphodon": {
+      "exists": true,
+      "final": "Dimorphodon",
+      "redirected": false
+    },
+    "Rhamphorhynchus": {
+      "exists": true,
+      "final": "Rhamphorhynchus",
+      "redirected": false
+    },
+    "Quetzalcoatlus": {
+      "exists": true,
+      "final": "Quetzalcoatlus",
+      "redirected": false
+    },
+    "Elasmosaurus": {
+      "exists": true,
+      "final": "Elasmosaurus",
+      "redirected": false
+    },
+    "Liopleurodon": {
+      "exists": true,
+      "final": "Liopleurodon",
+      "redirected": false
+    },
+    "Tylosaurus": {
+      "exists": true,
+      "final": "Tylosaurus",
+      "redirected": false
+    },
+    "Kronosaurus": {
+      "exists": true,
+      "final": "Kronosaurus",
+      "redirected": false
+    },
+    "Ichthyosaurus": {
+      "exists": true,
+      "final": "Ichthyosaurus",
+      "redirected": false
+    },
+    "Mei_(dinosaur)": {
+      "exists": true,
+      "final": "Mei long",
+      "redirected": true
+    },
+    "Supersaurus": {
+      "exists": true,
+      "final": "Supersaurus",
+      "redirected": false
+    },
+    "Diplodocus": {
+      "exists": true,
+      "final": "Diplodocus",
+      "redirected": false
+    },
+    "Brontosaurus": {
+      "exists": true,
+      "final": "Brontosaurus",
+      "redirected": false
+    },
+    "Cetiosaurus": {
+      "exists": true,
+      "final": "Cetiosaurus",
+      "redirected": false
+    },
+    "Plateosaurus": {
+      "exists": true,
+      "final": "Plateosaurus",
+      "redirected": false
+    },
+    "Camarillasaurus": {
+      "exists": true,
+      "final": "Camarillasaurus",
+      "redirected": false
+    },
+    "Megaraptor": {
+      "exists": true,
+      "final": "Megaraptor",
+      "redirected": false
+    },
+    "Austroraptor": {
+      "exists": true,
+      "final": "Austroraptor",
+      "redirected": false
+    },
+    "Tsintaosaurus": {
+      "exists": true,
+      "final": "Tsintaosaurus",
+      "redirected": false
+    },
+    "Sauropelta": {
+      "exists": true,
+      "final": "Sauropelta",
+      "redirected": false
+    },
+    "Saurornitholestes": {
+      "exists": true,
+      "final": "Saurornitholestes",
+      "redirected": false
+    },
+    "Dakotaraptor": {
+      "exists": true,
+      "final": "Dakotaraptor",
+      "redirected": false
+    },
+    "Eoraptor": {
+      "exists": true,
+      "final": "Eoraptor",
+      "redirected": false
+    },
+    "Herrerasaurus": {
+      "exists": true,
+      "final": "Herrerasaurus",
+      "redirected": false
+    },
+    "Liaoningosaurus": {
+      "exists": true,
+      "final": "Liaoningosaurus",
+      "redirected": false
+    },
+    "Siats": {
+      "exists": true,
+      "final": "Siats",
+      "redirected": false
+    },
+    "Torvosaurus": {
+      "exists": true,
+      "final": "Torvosaurus",
+      "redirected": false
+    },
+    "Sauroposeidon": {
+      "exists": true,
+      "final": "Sauroposeidon",
+      "redirected": false
+    },
+    "Isanosaurus": {
+      "exists": true,
+      "final": "Isanosaurus",
+      "redirected": false
+    },
+    "Kaatedocus": {
+      "exists": true,
+      "final": "Kaatedocus",
+      "redirected": false
+    },
+    "Amphicoelias": {
+      "exists": true,
+      "final": "Amphicoelias",
+      "redirected": false
+    },
+    "Scelidosaurus": {
+      "exists": true,
+      "final": "Scelidosaurus",
+      "redirected": false
+    },
+    "Agujaceratops": {
+      "exists": true,
+      "final": "Agujaceratops",
+      "redirected": false
+    },
+    "Avaceratops": {
+      "exists": true,
+      "final": "Avaceratops",
+      "redirected": false
+    },
+    "Bambiraptor": {
+      "exists": true,
+      "final": "Bambiraptor",
+      "redirected": false
+    },
+    "Beipiaosaurus": {
+      "exists": true,
+      "final": "Beipiaosaurus",
+      "redirected": false
+    },
+    "Camptosaurus": {
+      "exists": true,
+      "final": "Camptosaurus",
+      "redirected": false
+    },
+    "Ceratopsipes": {
+      "exists": true,
+      "final": "Ceratopsipes",
+      "redirected": false
+    },
+    "Citipati": {
+      "exists": true,
+      "final": "Citipati",
+      "redirected": false
+    },
+    "Coelurus": {
+      "exists": true,
+      "final": "Coelurus",
+      "redirected": false
+    },
+    "Cryptoclidus": {
+      "exists": true,
+      "final": "Cryptoclidus",
+      "redirected": false
+    },
+    "Dacentrurus": {
+      "exists": true,
+      "final": "Dacentrurus",
+      "redirected": false
+    },
+    "Diabloceratops": {
+      "exists": true,
+      "final": "Diabloceratops",
+      "redirected": false
+    },
+    "Dracopelta": {
+      "exists": true,
+      "final": "Dracopelta",
+      "redirected": false
+    },
+    "Dryosaurus": {
+      "exists": true,
+      "final": "Dryosaurus",
+      "redirected": false
+    },
+    "Elaphrosaurus": {
+      "exists": true,
+      "final": "Elaphrosaurus",
+      "redirected": false
+    },
+    "Europasaurus": {
+      "exists": true,
+      "final": "Europasaurus",
+      "redirected": false
+    },
+    "Fukuiraptor": {
+      "exists": true,
+      "final": "Fukuiraptor",
+      "redirected": false
+    },
+    "Gasparinisaura": {
+      "exists": true,
+      "final": "Gasparinisaura",
+      "redirected": false
+    },
+    "Gigantoraptor": {
+      "exists": true,
+      "final": "Gigantoraptor",
+      "redirected": false
+    },
+    "Hypsilophodon": {
+      "exists": true,
+      "final": "Hypsilophodon",
+      "redirected": false
+    },
+    "Iguanacolossus": {
+      "exists": true,
+      "final": "Iguanacolossus",
+      "redirected": false
+    },
+    "Incisivosaurus": {
+      "exists": true,
+      "final": "Incisivosaurus",
+      "redirected": false
+    },
+    "Kileskus": {
+      "exists": true,
+      "final": "Kileskus",
+      "redirected": false
+    },
+    "Kulindadromeus": {
+      "exists": true,
+      "final": "Kulindadromeus",
+      "redirected": false
+    },
+    "Leptoceratops": {
+      "exists": true,
+      "final": "Leptoceratops",
+      "redirected": false
+    },
+    "Lesothosaurus": {
+      "exists": true,
+      "final": "Lesothosaurus",
+      "redirected": false
+    },
+    "Lythronax": {
+      "exists": true,
+      "final": "Lythronax",
+      "redirected": false
+    },
+    "Masiakasaurus": {
+      "exists": true,
+      "final": "Masiakasaurus",
+      "redirected": false
+    },
+    "Megapnosaurus": {
+      "exists": true,
+      "final": "Megapnosaurus",
+      "redirected": false
+    },
+    "Mononykus": {
+      "exists": true,
+      "final": "Mononykus",
+      "redirected": false
+    },
+    "Nanotyrannus": {
+      "exists": true,
+      "final": "Nanotyrannus",
+      "redirected": false
+    },
+    "Neovenator": {
+      "exists": true,
+      "final": "Neovenator",
+      "redirected": false
+    },
+    "Ornithomimus": {
+      "exists": true,
+      "final": "Ornithomimus",
+      "redirected": false
+    },
+    "Pisanosaurus": {
+      "exists": true,
+      "final": "Pisanosaurus",
+      "redirected": false
+    },
+    "Prenocephale": {
+      "exists": true,
+      "final": "Prenocephale",
+      "redirected": false
+    },
+    "Proceratosaurus": {
+      "exists": true,
+      "final": "Proceratosaurus",
+      "redirected": false
+    },
+    "Saltasaurus": {
+      "exists": true,
+      "final": "Saltasaurus",
+      "redirected": false
+    },
+    "Shuvuuia": {
+      "exists": true,
+      "final": "Shuvuuia",
+      "redirected": false
+    },
+    "Struthiomimus": {
+      "exists": true,
+      "final": "Struthiomimus",
+      "redirected": false
+    },
+    "Tenontosaurus": {
+      "exists": true,
+      "final": "Tenontosaurus",
+      "redirected": false
+    },
+    "Wuerhosaurus": {
+      "exists": true,
+      "final": "Wuerhosaurus",
+      "redirected": false
+    },
+    "Aerosteon": {
+      "exists": true,
+      "final": "Aerosteon",
+      "redirected": false
+    },
+    "Agilisaurus": {
+      "exists": true,
+      "final": "Agilisaurus",
+      "redirected": false
+    },
+    "Alvarezsaurus": {
+      "exists": true,
+      "final": "Alvarezsaurus",
+      "redirected": false
+    },
+    "Anchiornis": {
+      "exists": true,
+      "final": "Anchiornis",
+      "redirected": false
+    },
+    "Antetonitrus": {
+      "exists": true,
+      "final": "Antetonitrus",
+      "redirected": false
+    },
+    "Apatoraptor": {
+      "exists": true,
+      "final": "Apatoraptor",
+      "redirected": false
+    },
+    "Aquilops": {
+      "exists": true,
+      "final": "Aquilops",
+      "redirected": false
+    },
+    "Atrociraptor": {
+      "exists": true,
+      "final": "Atrociraptor",
+      "redirected": false
+    },
+    "Aucasaurus": {
+      "exists": true,
+      "final": "Aucasaurus",
+      "redirected": false
+    },
+    "Avimimus": {
+      "exists": true,
+      "final": "Avimimus",
+      "redirected": false
+    },
+    "Balaur_(dinosaur)": {
+      "exists": true,
+      "final": "Balaur bondoc",
+      "redirected": true
+    },
+    "Buitreraptor": {
+      "exists": true,
+      "final": "Buitreraptor",
+      "redirected": false
+    },
+    "Carcharodontosaurus": {
+      "exists": true,
+      "final": "Carcharodontosaurus",
+      "redirected": false
+    },
+    "Cedarpelta": {
+      "exists": true,
+      "final": "Cedarpelta",
+      "redirected": false
+    },
+    "Changyuraptor": {
+      "exists": true,
+      "final": "Changyuraptor",
+      "redirected": false
+    },
+    "Microraptor": {
+      "exists": true,
+      "final": "Microraptor",
+      "redirected": false
+    },
+    "Deinocheirus": {
+      "exists": true,
+      "final": "Deinocheirus",
+      "redirected": false
+    },
+    "Dilong_(dinosaur)": {
+      "exists": true,
+      "final": "Dilong paradoxus",
+      "redirected": true
+    },
+    "Epidexipteryx": {
+      "exists": true,
+      "final": "Epidexipteryx",
+      "redirected": false
+    },
+    "Erlikosaurus": {
+      "exists": true,
+      "final": "Erlikosaurus",
+      "redirected": false
+    },
+    "Eustreptospondylus": {
+      "exists": true,
+      "final": "Eustreptospondylus",
+      "redirected": false
+    },
+    "Falcarius": {
+      "exists": true,
+      "final": "Falcarius",
+      "redirected": false
+    },
+    "Futalognkosaurus": {
+      "exists": true,
+      "final": "Futalognkosaurus",
+      "redirected": false
+    },
+    "Gasosaurus": {
+      "exists": true,
+      "final": "Gasosaurus",
+      "redirected": false
+    },
+    "Gryposaurus": {
+      "exists": true,
+      "final": "Gryposaurus",
+      "redirected": false
+    },
+    "Hagryphus": {
+      "exists": true,
+      "final": "Hagryphus",
+      "redirected": false
+    },
+    "Harpymimus": {
+      "exists": true,
+      "final": "Harpymimus",
+      "redirected": false
+    },
+    "Hesperonychus": {
+      "exists": true,
+      "final": "Hesperonychus",
+      "redirected": false
+    },
+    "Homalocephale": {
+      "exists": true,
+      "final": "Homalocephale",
+      "redirected": false
+    },
+    "Ichthyovenator": {
+      "exists": true,
+      "final": "Ichthyovenator",
+      "redirected": false
+    },
+    "Irritator": {
+      "exists": true,
+      "final": "Irritator",
+      "redirected": false
+    },
+    "Khaan": {
+      "exists": true,
+      "final": "Khaan",
+      "redirected": false
+    },
+    "Linhenykus": {
+      "exists": true,
+      "final": "Linhenykus",
+      "redirected": false
+    },
+    "Magnapaulia": {
+      "exists": true,
+      "final": "Magnapaulia",
+      "redirected": false
+    },
+    "Minmi_paravertebra": {
+      "exists": true,
+      "final": "Minmi paravertebra",
+      "redirected": true
+    },
+    "Nanuqsaurus": {
+      "exists": true,
+      "final": "Nanuqsaurus",
+      "redirected": false
+    },
+    "Ornithocheirus": {
+      "exists": true,
+      "final": "Ornithocheirus",
+      "redirected": false
+    },
+    "Pawpawsaurus": {
+      "exists": true,
+      "final": "Pawpawsaurus",
+      "redirected": false
+    },
+    "Saichania": {
+      "exists": true,
+      "final": "Saichania",
+      "redirected": false
+    },
+    "Talarurus": {
+      "exists": true,
+      "final": "Talarurus",
+      "redirected": false
+    },
+    "Chris_Brown": {
+      "exists": true,
+      "final": "Chris Brown",
+      "redirected": true
+    },
+    "Jennifer_Lopez": {
+      "exists": true,
+      "final": "Jennifer Lopez",
+      "redirected": true
+    },
+    "Selena_Gomez": {
+      "exists": true,
+      "final": "Selena Gomez",
+      "redirected": true
+    },
+    "Dwayne_Johnson": {
+      "exists": true,
+      "final": "Dwayne Johnson",
+      "redirected": true
+    },
+    "Kendall_Jenner": {
+      "exists": true,
+      "final": "Kendall Jenner",
+      "redirected": true
+    },
+    "Khlo%C3%A9_Kardashian": {
+      "exists": true,
+      "final": "Khloé Kardashian",
+      "redirected": true
+    },
+    "Kourtney_Kardashian": {
+      "exists": true,
+      "final": "Kourtney Kardashian",
+      "redirected": true
+    },
+    "Gigi_Hadid": {
+      "exists": true,
+      "final": "Gigi Hadid",
+      "redirected": true
+    },
+    "Bella_Hadid": {
+      "exists": true,
+      "final": "Bella Hadid",
+      "redirected": true
+    },
+    "Cardi_B": {
+      "exists": true,
+      "final": "Cardi B",
+      "redirected": true
+    },
+    "Ariana_Grande": {
+      "exists": true,
+      "final": "Ariana Grande",
+      "redirected": true
+    },
+    "Justin_Bieber": {
+      "exists": true,
+      "final": "Justin Bieber",
+      "redirected": true
+    },
+    "Billie_Eilish": {
+      "exists": true,
+      "final": "Billie Eilish",
+      "redirected": true
+    },
+    "Shakira": {
+      "exists": true,
+      "final": "Shakira",
+      "redirected": false
+    },
+    "Beyonc%C3%A9": {
+      "exists": true,
+      "final": "Beyoncé",
+      "redirected": false
+    },
+    "Rihanna": {
+      "exists": true,
+      "final": "Rihanna",
+      "redirected": false
+    },
+    "Taylor_Swift": {
+      "exists": true,
+      "final": "Taylor Swift",
+      "redirected": true
+    },
+    "Virat_Kohli": {
+      "exists": true,
+      "final": "Virat Kohli",
+      "redirected": true
+    },
+    "Neymar": {
+      "exists": true,
+      "final": "Neymar",
+      "redirected": false
+    },
+    "Cristiano_Ronaldo": {
+      "exists": true,
+      "final": "Cristiano Ronaldo",
+      "redirected": true
+    },
+    "Lionel_Messi": {
+      "exists": true,
+      "final": "Lionel Messi",
+      "redirected": true
+    },
+    "LeBron_James": {
+      "exists": true,
+      "final": "LeBron James",
+      "redirected": true
+    },
+    "Kevin_Hart": {
+      "exists": true,
+      "final": "Kevin Hart",
+      "redirected": true
+    },
+    "Will_Smith": {
+      "exists": true,
+      "final": "Will Smith",
+      "redirected": true
+    },
+    "Ellen_DeGeneres": {
+      "exists": true,
+      "final": "Ellen DeGeneres",
+      "redirected": true
+    },
+    "Oprah_Winfrey": {
+      "exists": true,
+      "final": "Oprah Winfrey",
+      "redirected": true
+    },
+    "Gordon_Ramsay": {
+      "exists": true,
+      "final": "Gordon Ramsay",
+      "redirected": true
+    },
+    "Paris_Hilton": {
+      "exists": true,
+      "final": "Paris Hilton",
+      "redirected": true
+    },
+    "Zendaya": {
+      "exists": true,
+      "final": "Zendaya",
+      "redirected": false
+    },
+    "Dua_Lipa": {
+      "exists": true,
+      "final": "Dua Lipa",
+      "redirected": true
+    },
+    "Drake_(musician)": {
+      "exists": true,
+      "final": "Drake (musician)",
+      "redirected": true
+    },
+    "Snoop_Dogg": {
+      "exists": true,
+      "final": "Snoop Dogg",
+      "redirected": true
+    },
+    "Ed_Sheeran": {
+      "exists": true,
+      "final": "Ed Sheeran",
+      "redirected": true
+    },
+    "Kevin_Durant": {
+      "exists": true,
+      "final": "Kevin Durant",
+      "redirected": true
+    },
+    "Stephen_Curry": {
+      "exists": true,
+      "final": "Stephen Curry",
+      "redirected": true
+    },
+    "David_Beckham": {
+      "exists": true,
+      "final": "David Beckham",
+      "redirected": true
+    },
+    "Victoria_Beckham": {
+      "exists": true,
+      "final": "Victoria Beckham",
+      "redirected": true
+    },
+    "Miley_Cyrus": {
+      "exists": true,
+      "final": "Miley Cyrus",
+      "redirected": true
+    },
+    "Nicki_Minaj": {
+      "exists": true,
+      "final": "Nicki Minaj",
+      "redirected": true
+    },
+    "Vin_Diesel": {
+      "exists": true,
+      "final": "Vin Diesel",
+      "redirected": true
+    },
+    "Andrew_Rea": {
+      "exists": true,
+      "final": "Andrew Rea",
+      "redirected": true
+    },
+    "Lindsey_Stirling": {
+      "exists": true,
+      "final": "Lindsey Stirling",
+      "redirected": true
+    },
+    "Chloe_Ting": {
+      "exists": true,
+      "final": "Chloe Ting",
+      "redirected": true
+    },
+    "Pamela_Reif": {
+      "exists": true,
+      "final": "Pamela Reif",
+      "redirected": true
+    },
+    "Alex_Cooper": {
+      "exists": true,
+      "final": "Alex Cooper",
+      "redirected": true
+    },
+    "Andrew_Tate": {
+      "exists": true,
+      "final": "Andrew Tate",
+      "redirected": true
+    },
+    "Joe_Rogan": {
+      "exists": true,
+      "final": "Joe Rogan",
+      "redirected": true
+    },
+    "Lex_Fridman": {
+      "exists": true,
+      "final": "Lex Fridman",
+      "redirected": true
+    },
+    "Theo_Von": {
+      "exists": true,
+      "final": "Theo Von",
+      "redirected": true
+    },
+    "Bobby_Lee": {
+      "exists": true,
+      "final": "Bobby Lee",
+      "redirected": true
+    },
+    "Andrew_Schulz": {
+      "exists": true,
+      "final": "Andrew Schulz",
+      "redirected": true
+    },
+    "Hannah_Stocking": {
+      "exists": true,
+      "final": "Hannah Stocking",
+      "redirected": true
+    },
+    "Rudy_Mancuso": {
+      "exists": true,
+      "final": "Rudy Mancuso",
+      "redirected": true
+    },
+    "Anwar_Jibawi": {
+      "exists": true,
+      "final": "Anwar Jibawi",
+      "redirected": true
+    },
+    "King_Bach": {
+      "exists": true,
+      "final": "King Bach",
+      "redirected": true
+    },
+    "Brent_Rivera": {
+      "exists": true,
+      "final": "Brent Rivera",
+      "redirected": true
+    },
+    "Hailey_Bieber": {
+      "exists": true,
+      "final": "Hailey Bieber",
+      "redirected": true
+    },
+    "Madison_Beer": {
+      "exists": true,
+      "final": "Madison Beer",
+      "redirected": true
+    },
+    "Nessa_Barrett": {
+      "exists": true,
+      "final": "Nessa Barrett",
+      "redirected": true
+    },
+    "Kalen_Allen": {
+      "exists": true,
+      "final": "Kalen Allen",
+      "redirected": true
+    },
+    "Peter_McKinnon": {
+      "exists": false,
+      "final": "Peter McKinnon",
+      "redirected": true
+    },
+    "Marques_Brownlee": {
+      "exists": true,
+      "final": "Marques Brownlee",
+      "redirected": true
+    },
+    "Linus_Sebastian": {
+      "exists": true,
+      "final": "Linus Sebastian",
+      "redirected": true
+    },
+    "Unbox_Therapy": {
+      "exists": true,
+      "final": "Unbox Therapy",
+      "redirected": true
+    },
+    "Austin_Evans_(YouTuber)": {
+      "exists": true,
+      "final": "Austin Evans (YouTuber)",
+      "redirected": true
+    },
+    "SSSniperWolf": {
+      "exists": true,
+      "final": "SSSniperWolf",
+      "redirected": false
+    },
+    "JoJo_Siwa": {
+      "exists": true,
+      "final": "JoJo Siwa",
+      "redirected": true
+    },
+    "Piper_Rockelle": {
+      "exists": true,
+      "final": "Piper Rockelle",
+      "redirected": true
+    },
+    "Dixie_D%27Amelio": {
+      "exists": true,
+      "final": "Dixie D'Amelio",
+      "redirected": true
+    },
+    "Avani_Gregg": {
+      "exists": true,
+      "final": "Avani Gregg",
+      "redirected": true
+    },
+    "Chase_Hudson": {
+      "exists": true,
+      "final": "Huddy (musician)",
+      "redirected": true
+    },
+    "Noah_Beck": {
+      "exists": true,
+      "final": "Noah Beck",
+      "redirected": true
+    },
+    "Larray": {
+      "exists": true,
+      "final": "Larray",
+      "redirected": false
+    },
+    "Josh_Richards": {
+      "exists": true,
+      "final": "Josh Richards",
+      "redirected": true
+    },
+    "Griffin_Johnson": {
+      "exists": true,
+      "final": "The Armchair Historian",
+      "redirected": true
+    },
+    "Bryce_Hall": {
+      "exists": true,
+      "final": "Bryce Hall",
+      "redirected": true
+    },
+    "Quackity": {
+      "exists": true,
+      "final": "Quackity",
+      "redirected": false
+    },
+    "Ranboo": {
+      "exists": true,
+      "final": "Dream SMP",
+      "redirected": true
+    },
+    "Mia_Khalifa": {
+      "exists": true,
+      "final": "Mia Khalifa",
+      "redirected": true
+    },
+    "Rebecca_Zamolo": {
+      "exists": true,
+      "final": "Rebecca Zamolo",
+      "redirected": true
+    },
+    "TimTheTatman": {
+      "exists": true,
+      "final": "TimTheTatman",
+      "redirected": false
+    },
+    "Nick_Eh_30": {
+      "exists": true,
+      "final": "Nick Eh 30",
+      "redirected": true
+    },
+    "TommyInnit": {
+      "exists": true,
+      "final": "TommyInnit",
+      "redirected": false
+    },
+    "Tubbo": {
+      "exists": true,
+      "final": "Tubbo",
+      "redirected": false
+    },
+    "Wilbur_Soot": {
+      "exists": true,
+      "final": "Wilbur Soot",
+      "redirected": true
+    },
+    "GeorgeNotFound": {
+      "exists": true,
+      "final": "GeorgeNotFound",
+      "redirected": false
+    },
+    "Sapnap": {
+      "exists": true,
+      "final": "Sapnap",
+      "redirected": false
+    },
+    "Karl_Jacobs": {
+      "exists": true,
+      "final": "Karl Jacobs",
+      "redirected": true
+    },
+    "Jacksfilms": {
+      "exists": true,
+      "final": "Jacksfilms",
+      "redirected": false
+    },
+    "H3H3Productions": {
+      "exists": true,
+      "final": "H3h3Productions",
+      "redirected": true
+    },
+    "Ethan_Klein": {
+      "exists": true,
+      "final": "H3h3Productions",
+      "redirected": true
+    },
+    "Hila_Klein": {
+      "exists": true,
+      "final": "H3h3Productions",
+      "redirected": true
+    },
+    "The_Try_Guys": {
+      "exists": true,
+      "final": "The Try Guys",
+      "redirected": true
+    },
+    "Eugene_Lee_Yang": {
+      "exists": true,
+      "final": "Eugene Lee Yang",
+      "redirected": true
+    },
+    "Keith_Habersberger": {
+      "exists": true,
+      "final": "The Try Guys",
+      "redirected": true
+    },
+    "Zack_Kornfeld": {
+      "exists": false,
+      "final": "Zack Kornfeld",
+      "redirected": true
+    },
+    "Matt_Stonie": {
+      "exists": true,
+      "final": "Matt Stonie",
+      "redirected": true
+    },
+    "Joey_Chestnut": {
+      "exists": true,
+      "final": "Joey Chestnut",
+      "redirected": true
+    },
+    "Nathan_Zed": {
+      "exists": false,
+      "final": "Nathan Zed",
+      "redirected": true
+    },
+    "Ninja_(gamer)": {
+      "exists": true,
+      "final": "Ninja (gamer)",
+      "redirected": true
+    },
+    "ContraPoints": {
+      "exists": true,
+      "final": "ContraPoints",
+      "redirected": false
+    },
+    "Philosophy_Tube": {
+      "exists": true,
+      "final": "Abigail Thorn",
+      "redirected": true
+    },
+    "Lindsay_Ellis": {
+      "exists": true,
+      "final": "Lindsay Ellis",
+      "redirected": true
+    },
+    "Hbomberguy": {
+      "exists": true,
+      "final": "Hbomberguy",
+      "redirected": false
+    },
+    "Dan_Olson_(filmmaker)": {
+      "exists": false,
+      "final": "Dan Olson (filmmaker)",
+      "redirected": true
+    },
+    "Rebecca_Watson": {
+      "exists": true,
+      "final": "Rebecca Watson",
+      "redirected": true
+    },
+    "Destiny_(streamer)": {
+      "exists": true,
+      "final": "Destiny (streamer)",
+      "redirected": true
+    },
+    "Vaush": {
+      "exists": true,
+      "final": "Vaush",
+      "redirected": false
+    },
+    "Onision": {
+      "exists": true,
+      "final": "Onision",
+      "redirected": false
+    },
+    "Leafy_(YouTuber)": {
+      "exists": false,
+      "final": "Leafy (YouTuber)",
+      "redirected": true
+    },
+    "IDubbbz": {
+      "exists": true,
+      "final": "IDubbbz",
+      "redirected": false
+    },
+    "Joji_(musician)": {
+      "exists": true,
+      "final": "Joji (musician)",
+      "redirected": true
+    },
+    "Steven_Jay_Williford": {
+      "exists": false,
+      "final": "Steven Jay Williford",
+      "redirected": true
+    },
+    "RiceGum": {
+      "exists": true,
+      "final": "RiceGum",
+      "redirected": false
+    },
+    "Anthony_Padilla": {
+      "exists": true,
+      "final": "Anthony Padilla",
+      "redirected": true
+    },
+    "Ryan_Kaji": {
+      "exists": true,
+      "final": "Ryan's World",
+      "redirected": true
+    },
+    "Captain_Disillusion": {
+      "exists": true,
+      "final": "Captain Disillusion",
+      "redirected": true
+    },
+    "Tom_Scott_(entertainer)": {
+      "exists": true,
+      "final": "Tom Scott (presenter)",
+      "redirected": true
+    },
+    "Simone_Giertz": {
+      "exists": true,
+      "final": "Simone Giertz",
+      "redirected": true
+    },
+    "Pulp_Fiction": {
+      "exists": true,
+      "final": "Pulp Fiction",
+      "redirected": true
+    },
+    "Titanic_(1997_film)": {
+      "exists": true,
+      "final": "Titanic (1997 film)",
+      "redirected": true
+    },
+    "Jurassic_Park_(film)": {
+      "exists": true,
+      "final": "Jurassic Park",
+      "redirected": true
+    },
+    "Avatar_(2009_film)": {
+      "exists": true,
+      "final": "Avatar (2009 film)",
+      "redirected": true
+    },
+    "The_Godfather": {
+      "exists": true,
+      "final": "The Godfather",
+      "redirected": true
+    },
+    "The_Shawshank_Redemption": {
+      "exists": true,
+      "final": "The Shawshank Redemption",
+      "redirected": true
+    },
+    "The_Matrix": {
+      "exists": true,
+      "final": "The Matrix",
+      "redirected": true
+    },
+    "Inception": {
+      "exists": true,
+      "final": "Inception",
+      "redirected": false
+    },
+    "Interstellar_(film)": {
+      "exists": true,
+      "final": "Interstellar (film)",
+      "redirected": true
+    },
+    "Gladiator_(2000_film)": {
+      "exists": true,
+      "final": "Gladiator (2000 film)",
+      "redirected": true
+    },
+    "The_Lion_King": {
+      "exists": true,
+      "final": "The Lion King",
+      "redirected": true
+    },
+    "Finding_Nemo": {
+      "exists": true,
+      "final": "Finding Nemo",
+      "redirected": true
+    },
+    "Toy_Story": {
+      "exists": true,
+      "final": "Toy Story",
+      "redirected": true
+    },
+    "Shrek": {
+      "exists": true,
+      "final": "Shrek",
+      "redirected": false
+    },
+    "Frozen_(2013_film)": {
+      "exists": true,
+      "final": "Frozen (2013 film)",
+      "redirected": true
+    },
+    "Aladdin_(1992_Disney_film)": {
+      "exists": true,
+      "final": "Aladdin (1992 Disney film)",
+      "redirected": true
+    },
+    "Beauty_and_the_Beast_(1991_film)": {
+      "exists": true,
+      "final": "Beauty and the Beast (1991 film)",
+      "redirected": true
+    },
+    "The_Little_Mermaid_(1989_film)": {
+      "exists": true,
+      "final": "The Little Mermaid (1989 film)",
+      "redirected": true
+    },
+    "Home_Alone": {
+      "exists": true,
+      "final": "Home Alone",
+      "redirected": true
+    },
+    "Jaws_(film)": {
+      "exists": true,
+      "final": "Jaws (film)",
+      "redirected": true
+    },
+    "Rocky": {
+      "exists": true,
+      "final": "Rocky",
+      "redirected": false
+    },
+    "The_Terminator": {
+      "exists": true,
+      "final": "The Terminator",
+      "redirected": true
+    },
+    "Terminator_2:_Judgment_Day": {
+      "exists": true,
+      "final": "Terminator 2: Judgment Day",
+      "redirected": true
+    },
+    "Die_Hard": {
+      "exists": true,
+      "final": "Die Hard",
+      "redirected": true
+    },
+    "Ghostbusters": {
+      "exists": true,
+      "final": "Ghostbusters",
+      "redirected": false
+    },
+    "Back_to_the_Future": {
+      "exists": true,
+      "final": "Back to the Future",
+      "redirected": true
+    },
+    "Star_Wars_(film)": {
+      "exists": true,
+      "final": "Star Wars (film)",
+      "redirected": true
+    },
+    "Return_of_the_Jedi": {
+      "exists": true,
+      "final": "Return of the Jedi",
+      "redirected": true
+    },
+    "The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring": {
+      "exists": true,
+      "final": "The Lord of the Rings: The Fellowship of the Ring",
+      "redirected": true
+    },
+    "The_Lord_of_the_Rings:_The_Two_Towers": {
+      "exists": true,
+      "final": "The Lord of the Rings: The Two Towers",
+      "redirected": true
+    },
+    "The_Lord_of_the_Rings:_The_Return_of_the_King": {
+      "exists": true,
+      "final": "The Lord of the Rings: The Return of the King",
+      "redirected": true
+    },
+    "Harry_Potter_and_the_Philosopher%27s_Stone_(film)": {
+      "exists": true,
+      "final": "Harry Potter and the Philosopher's Stone (film)",
+      "redirected": true
+    },
+    "The_Avengers_(2012_film)": {
+      "exists": true,
+      "final": "The Avengers (2012 film)",
+      "redirected": true
+    },
+    "Iron_Man_(2008_film)": {
+      "exists": true,
+      "final": "Iron Man (2008 film)",
+      "redirected": true
+    },
+    "Spider-Man:_No_Way_Home": {
+      "exists": true,
+      "final": "Spider-Man: No Way Home",
+      "redirected": true
+    },
+    "Black_Panther_(film)": {
+      "exists": true,
+      "final": "Black Panther (film)",
+      "redirected": true
+    },
+    "Joker_(2019_film)": {
+      "exists": true,
+      "final": "Joker (2019 film)",
+      "redirected": true
+    },
+    "The_Dark_Knight_Rises": {
+      "exists": true,
+      "final": "The Dark Knight Rises",
+      "redirected": true
+    },
+    "Guardians_of_the_Galaxy_(film)": {
+      "exists": true,
+      "final": "Guardians of the Galaxy (film)",
+      "redirected": true
+    },
+    "Whiplash_(2014_film)": {
+      "exists": true,
+      "final": "Whiplash (2014 film)",
+      "redirected": true
+    },
+    "La_La_Land": {
+      "exists": true,
+      "final": "La La Land",
+      "redirected": true
+    },
+    "Nomadland": {
+      "exists": true,
+      "final": "Nomadland",
+      "redirected": false
+    },
+    "CODA_(2021_film)": {
+      "exists": true,
+      "final": "CODA (2021 film)",
+      "redirected": true
+    },
+    "Parasite_(2019_film)": {
+      "exists": true,
+      "final": "Parasite (2019 film)",
+      "redirected": true
+    },
+    "Room_(2015_film)": {
+      "exists": true,
+      "final": "Room (2015 film)",
+      "redirected": true
+    },
+    "Manchester_by_the_Sea_(film)": {
+      "exists": true,
+      "final": "Manchester by the Sea (film)",
+      "redirected": true
+    },
+    "Arrival_(film)": {
+      "exists": true,
+      "final": "Arrival (film)",
+      "redirected": true
+    },
+    "Hell_or_High_Water_(film)": {
+      "exists": true,
+      "final": "Hell or High Water (film)",
+      "redirected": true
+    },
+    "Lion_(2016_film)": {
+      "exists": true,
+      "final": "Lion (2016 film)",
+      "redirected": true
+    },
+    "Three_Billboards_Outside_Ebbing,_Missouri": {
+      "exists": true,
+      "final": "Three Billboards Outside Ebbing, Missouri",
+      "redirected": true
+    },
+    "The_Shape_of_Water": {
+      "exists": true,
+      "final": "The Shape of Water",
+      "redirected": true
+    },
+    "Call_Me_by_Your_Name_(film)": {
+      "exists": true,
+      "final": "Call Me by Your Name (film)",
+      "redirected": true
+    },
+    "Lady_Bird_(film)": {
+      "exists": true,
+      "final": "Lady Bird (film)",
+      "redirected": true
+    },
+    "The_Big_Short_(film)": {
+      "exists": true,
+      "final": "The Big Short (film)",
+      "redirected": true
+    },
+    "The_Revenant_(2015_film)": {
+      "exists": true,
+      "final": "The Revenant (2015 film)",
+      "redirected": true
+    },
+    "Mad_Max:_Fury_Road": {
+      "exists": true,
+      "final": "Mad Max: Fury Road",
+      "redirected": true
+    },
+    "Boyhood_(film)": {
+      "exists": true,
+      "final": "Boyhood",
+      "redirected": true
+    },
+    "The_Grand_Budapest_Hotel": {
+      "exists": true,
+      "final": "The Grand Budapest Hotel",
+      "redirected": true
+    },
+    "Gravity_(2013_film)": {
+      "exists": true,
+      "final": "Gravity (2013 film)",
+      "redirected": true
+    },
+    "Argo_(2012_film)": {
+      "exists": true,
+      "final": "Argo (2012 film)",
+      "redirected": true
+    },
+    "Zero_Dark_Thirty": {
+      "exists": true,
+      "final": "Zero Dark Thirty",
+      "redirected": true
+    },
+    "The_Artist_(film)": {
+      "exists": true,
+      "final": "The Artist (film)",
+      "redirected": true
+    },
+    "The_Fighter": {
+      "exists": true,
+      "final": "The Fighter",
+      "redirected": true
+    },
+    "Fruitvale_Station": {
+      "exists": true,
+      "final": "Fruitvale Station",
+      "redirected": true
+    },
+    "Prisoners_(2013_film)": {
+      "exists": true,
+      "final": "Prisoners (2013 film)",
+      "redirected": true
+    },
+    "Sicario_(2015_film)": {
+      "exists": true,
+      "final": "Sicario (2015 film)",
+      "redirected": true
+    },
+    "Blade_Runner_2049": {
+      "exists": true,
+      "final": "Blade Runner 2049",
+      "redirected": true
+    },
+    "Dunkirk_(2017_film)": {
+      "exists": true,
+      "final": "Dunkirk (2017 film)",
+      "redirected": true
+    },
+    "1917_(2019_film)": {
+      "exists": true,
+      "final": "1917 (2019 film)",
+      "redirected": true
+    },
+    "Ford_v_Ferrari": {
+      "exists": true,
+      "final": "Ford v Ferrari",
+      "redirected": true
+    },
+    "The_Social_Network": {
+      "exists": true,
+      "final": "The Social Network",
+      "redirected": true
+    },
+    "Black_Swan_(film)": {
+      "exists": true,
+      "final": "Black Swan (film)",
+      "redirected": true
+    },
+    "Foxcatcher": {
+      "exists": true,
+      "final": "Foxcatcher",
+      "redirected": false
+    },
+    "Brooklyn_(film)": {
+      "exists": true,
+      "final": "Brooklyn (film)",
+      "redirected": true
+    },
+    "Carol_(film)": {
+      "exists": true,
+      "final": "Carol (film)",
+      "redirected": true
+    },
+    "Roma_(2018_film)": {
+      "exists": true,
+      "final": "Roma (2018 film)",
+      "redirected": true
+    },
+    "A_Star_Is_Born_(2018_film)": {
+      "exists": true,
+      "final": "A Star Is Born (2018 film)",
+      "redirected": true
+    },
+    "Marriage_Story": {
+      "exists": true,
+      "final": "Marriage Story",
+      "redirected": true
+    },
+    "The_Master_(2012_film)": {
+      "exists": true,
+      "final": "The Master (2012 film)",
+      "redirected": true
+    },
+    "Memento_(film)": {
+      "exists": true,
+      "final": "Memento (film)",
+      "redirected": true
+    },
+    "In_Bruges": {
+      "exists": true,
+      "final": "In Bruges",
+      "redirected": true
+    },
+    "The_Lobster": {
+      "exists": true,
+      "final": "The Lobster",
+      "redirected": true
+    },
+    "Ex_Machina_(film)": {
+      "exists": true,
+      "final": "Ex Machina (film)",
+      "redirected": true
+    },
+    "Annihilation_(film)": {
+      "exists": true,
+      "final": "Annihilation (film)",
+      "redirected": true
+    },
+    "Under_the_Skin_(2013_film)": {
+      "exists": true,
+      "final": "Under the Skin (2013 film)",
+      "redirected": true
+    },
+    "Enemy_(2013_film)": {
+      "exists": true,
+      "final": "Enemy (2013 film)",
+      "redirected": true
+    },
+    "Nightcrawler_(film)": {
+      "exists": true,
+      "final": "Nightcrawler (film)",
+      "redirected": true
+    },
+    "Uncut_Gems": {
+      "exists": true,
+      "final": "Uncut Gems",
+      "redirected": true
+    },
+    "Good_Time": {
+      "exists": true,
+      "final": "Good Time",
+      "redirected": true
+    },
+    "The_Witch_(2015_film)": {
+      "exists": true,
+      "final": "The Witch (2015 film)",
+      "redirected": true
+    },
+    "Hereditary_(film)": {
+      "exists": true,
+      "final": "Hereditary (film)",
+      "redirected": true
+    },
+    "Midsommar": {
+      "exists": true,
+      "final": "Midsommar",
+      "redirected": false
+    },
+    "Get_Out": {
+      "exists": true,
+      "final": "Get Out",
+      "redirected": true
+    },
+    "Us_(2019_film)": {
+      "exists": true,
+      "final": "Us (2019 film)",
+      "redirected": true
+    },
+    "The_Babadook": {
+      "exists": true,
+      "final": "The Babadook",
+      "redirected": true
+    },
+    "It_Follows": {
+      "exists": true,
+      "final": "It Follows",
+      "redirected": true
+    },
+    "A_Ghost_Story": {
+      "exists": true,
+      "final": "A Ghost Story",
+      "redirected": true
+    },
+    "Moon_(2009_film)": {
+      "exists": true,
+      "final": "Moon (2009 film)",
+      "redirected": true
+    },
+    "Primer_(film)": {
+      "exists": true,
+      "final": "Primer (film)",
+      "redirected": true
+    },
+    "Coherence_(film)": {
+      "exists": true,
+      "final": "Coherence (film)",
+      "redirected": true
+    },
+    "Donnie_Darko": {
+      "exists": true,
+      "final": "Donnie Darko",
+      "redirected": true
+    },
+    "Requiem_for_a_Dream": {
+      "exists": true,
+      "final": "Requiem for a Dream",
+      "redirected": true
+    },
+    "Pi_(film)": {
+      "exists": true,
+      "final": "Pi (film)",
+      "redirected": true
+    },
+    "Mulholland_Drive_(film)": {
+      "exists": true,
+      "final": "Mulholland Drive (film)",
+      "redirected": true
+    },
+    "Blue_Velvet_(film)": {
+      "exists": true,
+      "final": "Blue Velvet (film)",
+      "redirected": true
+    },
+    "Lost_Highway_(film)": {
+      "exists": true,
+      "final": "Lost Highway (film)",
+      "redirected": true
+    },
+    "Synecdoche,_New_York": {
+      "exists": true,
+      "final": "Synecdoche, New York",
+      "redirected": true
+    },
+    "Being_John_Malkovich": {
+      "exists": true,
+      "final": "Being John Malkovich",
+      "redirected": true
+    },
+    "Adaptation_(film)": {
+      "exists": true,
+      "final": "Adaptation (film)",
+      "redirected": true
+    },
+    "Eternal_Sunshine_of_the_Spotless_Mind": {
+      "exists": true,
+      "final": "Eternal Sunshine of the Spotless Mind",
+      "redirected": true
+    },
+    "The_Florida_Project": {
+      "exists": true,
+      "final": "The Florida Project",
+      "redirected": true
+    },
+    "American_Honey_(film)": {
+      "exists": true,
+      "final": "American Honey (film)",
+      "redirected": true
+    },
+    "Minari_(film)": {
+      "exists": true,
+      "final": "Minari",
+      "redirected": true
+    },
+    "Past_Lives_(film)": {
+      "exists": true,
+      "final": "Past Lives (film)",
+      "redirected": true
+    },
+    "Aftersun": {
+      "exists": true,
+      "final": "Aftersun",
+      "redirected": false
+    },
+    "The_Worst_Person_in_the_World": {
+      "exists": true,
+      "final": "The Worst Person in the World",
+      "redirected": true
+    },
+    "Burning_(2018_film)": {
+      "exists": true,
+      "final": "Burning (2018 film)",
+      "redirected": true
+    },
+    "Shoplifters_(film)": {
+      "exists": true,
+      "final": "Shoplifters (film)",
+      "redirected": true
+    },
+    "A_Separation": {
+      "exists": true,
+      "final": "A Separation",
+      "redirected": true
+    },
+    "The_Mandalorian": {
+      "exists": true,
+      "final": "The Mandalorian",
+      "redirected": true
+    },
+    "House_of_the_Dragon": {
+      "exists": true,
+      "final": "House of the Dragon",
+      "redirected": true
+    },
+    "The_Boys_(2019_TV_series)": {
+      "exists": true,
+      "final": "The Boys (TV series)",
+      "redirected": true
+    },
+    "Cobra_Kai": {
+      "exists": true,
+      "final": "Cobra Kai",
+      "redirected": true
+    },
+    "Better_Call_Saul": {
+      "exists": true,
+      "final": "Better Call Saul",
+      "redirected": true
+    },
+    "The_Handmaid%27s_Tale_(TV_series)": {
+      "exists": true,
+      "final": "The Handmaid's Tale (TV series)",
+      "redirected": true
+    },
+    "Vikings_(2013_TV_series)": {
+      "exists": true,
+      "final": "Vikings (TV series)",
+      "redirected": true
+    },
+    "House_(TV_series)": {
+      "exists": true,
+      "final": "House (TV series)",
+      "redirected": true
+    },
+    "NCIS_(TV_series)": {
+      "exists": true,
+      "final": "NCIS (TV series)",
+      "redirected": true
+    },
+    "CSI:_Miami": {
+      "exists": true,
+      "final": "CSI: Miami",
+      "redirected": true
+    },
+    "Two_and_a_Half_Men": {
+      "exists": true,
+      "final": "Two and a Half Men",
+      "redirected": true
+    },
+    "Family_Guy": {
+      "exists": true,
+      "final": "Family Guy",
+      "redirected": true
+    },
+    "American_Dad!": {
+      "exists": true,
+      "final": "American Dad!",
+      "redirected": true
+    },
+    "Rick_and_Morty": {
+      "exists": true,
+      "final": "Rick and Morty",
+      "redirected": true
+    },
+    "The_Flash_(2014_TV_series)": {
+      "exists": true,
+      "final": "The Flash (2014 TV series)",
+      "redirected": true
+    },
+    "Arrow_(TV_series)": {
+      "exists": true,
+      "final": "Arrow (TV series)",
+      "redirected": true
+    },
+    "Supernatural_(American_TV_series)": {
+      "exists": true,
+      "final": "Supernatural (American TV series)",
+      "redirected": true
+    },
+    "Doctor_Who": {
+      "exists": true,
+      "final": "Doctor Who",
+      "redirected": true
+    },
+    "Sherlock_(TV_series)": {
+      "exists": true,
+      "final": "Sherlock (TV series)",
+      "redirected": true
+    },
+    "Downton_Abbey": {
+      "exists": true,
+      "final": "Downton Abbey",
+      "redirected": true
+    },
+    "Full_House": {
+      "exists": true,
+      "final": "Full House",
+      "redirected": true
+    },
+    "Saved_by_the_Bell": {
+      "exists": true,
+      "final": "Saved by the Bell",
+      "redirected": true
+    },
+    "The_Fresh_Prince_of_Bel-Air": {
+      "exists": true,
+      "final": "The Fresh Prince of Bel-Air",
+      "redirected": true
+    },
+    "Boy_Meets_World": {
+      "exists": true,
+      "final": "Boy Meets World",
+      "redirected": true
+    },
+    "That_%2770s_Show": {
+      "exists": true,
+      "final": "That '70s Show",
+      "redirected": true
+    },
+    "Scrubs_(TV_series)": {
+      "exists": true,
+      "final": "Scrubs (TV series)",
+      "redirected": true
+    },
+    "Gossip_Girl": {
+      "exists": true,
+      "final": "Gossip Girl",
+      "redirected": true
+    },
+    "The_O.C.": {
+      "exists": true,
+      "final": "The O.C.",
+      "redirected": true
+    },
+    "One_Tree_Hill_(TV_series)": {
+      "exists": true,
+      "final": "One Tree Hill (TV series)",
+      "redirected": true
+    },
+    "Gilmore_Girls": {
+      "exists": true,
+      "final": "Gilmore Girls",
+      "redirected": true
+    },
+    "Desperate_Housewives": {
+      "exists": true,
+      "final": "Desperate Housewives",
+      "redirected": true
+    },
+    "The_Good_Place": {
+      "exists": true,
+      "final": "The Good Place",
+      "redirected": true
+    },
+    "Brooklyn_Nine-Nine": {
+      "exists": true,
+      "final": "Brooklyn Nine-Nine",
+      "redirected": true
+    },
+    "Modern_Family": {
+      "exists": true,
+      "final": "Modern Family",
+      "redirected": true
+    },
+    "New_Girl": {
+      "exists": true,
+      "final": "New Girl",
+      "redirected": true
+    },
+    "Schitt%27s_Creek": {
+      "exists": true,
+      "final": "Schitt's Creek",
+      "redirected": true
+    },
+    "Grace_and_Frankie": {
+      "exists": true,
+      "final": "Grace and Frankie",
+      "redirected": true
+    },
+    "13_Reasons_Why": {
+      "exists": true,
+      "final": "13 Reasons Why",
+      "redirected": true
+    },
+    "Halt_and_Catch_Fire_(TV_series)": {
+      "exists": true,
+      "final": "Halt and Catch Fire (TV series)",
+      "redirected": true
+    },
+    "Hell_on_Wheels_(TV_series)": {
+      "exists": true,
+      "final": "Hell on Wheels (TV series)",
+      "redirected": true
+    },
+    "Justified_(TV_series)": {
+      "exists": true,
+      "final": "Justified (TV series)",
+      "redirected": true
+    },
+    "Rectify": {
+      "exists": true,
+      "final": "Rectify",
+      "redirected": false
+    },
+    "Rome_(TV_series)": {
+      "exists": true,
+      "final": "Rome (TV series)",
+      "redirected": true
+    },
+    "Spartacus_(TV_series)": {
+      "exists": true,
+      "final": "Spartacus (TV series)",
+      "redirected": true
+    },
+    "The_Tudors": {
+      "exists": true,
+      "final": "The Tudors",
+      "redirected": true
+    },
+    "The_Knick": {
+      "exists": true,
+      "final": "The Knick",
+      "redirected": true
+    },
+    "Better_Things_(TV_series)": {
+      "exists": true,
+      "final": "Better Things (TV series)",
+      "redirected": true
+    },
+    "Atlanta_(TV_series)": {
+      "exists": true,
+      "final": "Atlanta (TV series)",
+      "redirected": true
+    },
+    "Insecure_(TV_series)": {
+      "exists": true,
+      "final": "Insecure (TV series)",
+      "redirected": true
+    },
+    "Master_of_None": {
+      "exists": true,
+      "final": "Master of None",
+      "redirected": true
+    },
+    "GLOW_(TV_series)": {
+      "exists": true,
+      "final": "GLOW (TV series)",
+      "redirected": true
+    },
+    "Barry_(TV_series)": {
+      "exists": true,
+      "final": "Barry (TV series)",
+      "redirected": true
+    },
+    "The_Marvelous_Mrs._Maisel": {
+      "exists": true,
+      "final": "The Marvelous Mrs. Maisel",
+      "redirected": true
+    },
+    "Bridgerton": {
+      "exists": true,
+      "final": "Bridgerton",
+      "redirected": false
+    },
+    "The_Queen%27s_Gambit_(miniseries)": {
+      "exists": true,
+      "final": "The Queen's Gambit (miniseries)",
+      "redirected": true
+    },
+    "Mindhunter": {
+      "exists": true,
+      "final": "Mindhunter",
+      "redirected": false
+    },
+    "Narcos:_Mexico": {
+      "exists": true,
+      "final": "Narcos: Mexico",
+      "redirected": true
+    },
+    "The_Killing_(American_TV_series)": {
+      "exists": true,
+      "final": "The Killing (American TV series)",
+      "redirected": true
+    },
+    "Happy_Valley_(TV_series)": {
+      "exists": true,
+      "final": "Happy Valley (TV series)",
+      "redirected": true
+    },
+    "Line_of_Duty": {
+      "exists": true,
+      "final": "Line of Duty",
+      "redirected": true
+    },
+    "Luther_(TV_series)": {
+      "exists": true,
+      "final": "Luther (TV series)",
+      "redirected": true
+    },
+    "The_Fall_(TV_series)": {
+      "exists": true,
+      "final": "The Fall (TV series)",
+      "redirected": true
+    },
+    "The_Missing_(TV_series)": {
+      "exists": true,
+      "final": "Missing",
+      "redirected": true
+    },
+    "Bodyguard_(TV_series)": {
+      "exists": true,
+      "final": "Bodyguard (disambiguation)",
+      "redirected": true
+    },
+    "The_Night_Manager_(TV_series)": {
+      "exists": true,
+      "final": "The Night Manager (disambiguation)",
+      "redirected": true
+    },
+    "The_Night_Of": {
+      "exists": true,
+      "final": "The Night Of",
+      "redirected": true
+    },
+    "The_Undoing_(TV_series)": {
+      "exists": false,
+      "final": "The Undoing (TV series)",
+      "redirected": true
+    },
+    "Big_Little_Lies_(TV_series)": {
+      "exists": true,
+      "final": "Big Little Lies (TV series)",
+      "redirected": true
+    },
+    "The_White_Lotus": {
+      "exists": true,
+      "final": "The White Lotus",
+      "redirected": true
+    },
+    "Hacks_(TV_series)": {
+      "exists": true,
+      "final": "Hacks",
+      "redirected": true
+    },
+    "Yellowjackets_(TV_series)": {
+      "exists": true,
+      "final": "Yellowjackets (TV series)",
+      "redirected": true
+    },
+    "The_Righteous_Gemstones": {
+      "exists": true,
+      "final": "The Righteous Gemstones",
+      "redirected": true
+    },
+    "Ramy_(TV_series)": {
+      "exists": true,
+      "final": "Ramy (TV series)",
+      "redirected": true
+    },
+    "Pachinko_(TV_series)": {
+      "exists": true,
+      "final": "Pachinko (TV series)",
+      "redirected": true
+    },
+    "Tokyo_Vice_(TV_series)": {
+      "exists": true,
+      "final": "Tokyo Vice (TV series)",
+      "redirected": true
+    },
+    "Slow_Horses": {
+      "exists": true,
+      "final": "Slow Horses",
+      "redirected": true
+    },
+    "Slings_and_Arrows": {
+      "exists": true,
+      "final": "Slings & Arrows",
+      "redirected": true
+    },
+    "Dead_to_Me_(TV_series)": {
+      "exists": true,
+      "final": "Dead to Me (TV series)",
+      "redirected": true
+    },
+    "Oz_(TV_series)": {
+      "exists": true,
+      "final": "Oz (TV series)",
+      "redirected": true
+    },
+    "Carniv%C3%A0le": {
+      "exists": true,
+      "final": "Carnivàle",
+      "redirected": false
+    },
+    "Enlightened_(TV_series)": {
+      "exists": true,
+      "final": "Enlightened (TV series)",
+      "redirected": true
+    },
+    "Terriers_(TV_series)": {
+      "exists": true,
+      "final": "Terriers (TV series)",
+      "redirected": true
+    },
+    "Lodge_49": {
+      "exists": true,
+      "final": "Lodge 49",
+      "redirected": true
+    },
+    "Patriot_(TV_series)": {
+      "exists": true,
+      "final": "Patriot (TV series)",
+      "redirected": true
+    },
+    "Search_Party_(TV_series)": {
+      "exists": true,
+      "final": "Search Party (TV series)",
+      "redirected": true
+    },
+    "Review_(American_TV_series)": {
+      "exists": false,
+      "final": "Review (American TV series)",
+      "redirected": true
+    },
+    "Nathan_for_You": {
+      "exists": true,
+      "final": "Nathan for You",
+      "redirected": true
+    },
+    "The_Rehearsal_(TV_series)": {
+      "exists": true,
+      "final": "The Rehearsal (TV series)",
+      "redirected": true
+    },
+    "Documentary_Now!": {
+      "exists": true,
+      "final": "Documentary Now!",
+      "redirected": true
+    },
+    "I_Think_You_Should_Leave_with_Tim_Robinson": {
+      "exists": true,
+      "final": "I Think You Should Leave with Tim Robinson",
+      "redirected": true
+    },
+    "Detectorists": {
+      "exists": true,
+      "final": "Detectorists",
+      "redirected": false
+    },
+    "Fresh_Meat_(TV_series)": {
+      "exists": true,
+      "final": "Fresh Meat (TV series)",
+      "redirected": true
+    },
+    "Peep_Show_(British_TV_series)": {
+      "exists": true,
+      "final": "Peep Show (British TV series)",
+      "redirected": true
+    },
+    "The_Thick_of_It": {
+      "exists": true,
+      "final": "The Thick of It",
+      "redirected": true
+    },
+    "The_Inbetweeners": {
+      "exists": true,
+      "final": "The Inbetweeners",
+      "redirected": true
+    },
+    "This_Is_England_%2786": {
+      "exists": true,
+      "final": "This Is England '86",
+      "redirected": true
+    },
+    "The_End_of_the_F***ing_World": {
+      "exists": true,
+      "final": "The End of the F***ing World",
+      "redirected": true
+    },
+    "Black_Books": {
+      "exists": true,
+      "final": "Black Books",
+      "redirected": true
+    },
+    "The_IT_Crowd": {
+      "exists": true,
+      "final": "The IT Crowd",
+      "redirected": true
+    },
+    "Garth_Marenghi%27s_Darkplace": {
+      "exists": true,
+      "final": "Garth Marenghi's Darkplace",
+      "redirected": true
+    },
+    "Spaced": {
+      "exists": true,
+      "final": "Spaced",
+      "redirected": false
+    },
+    "Rubicon_(American_TV_series)": {
+      "exists": false,
+      "final": "Rubicon (American TV series)",
+      "redirected": true
+    },
+    "Treme_(TV_series)": {
+      "exists": true,
+      "final": "Treme (TV series)",
+      "redirected": true
+    },
+    "Generation_Kill": {
+      "exists": true,
+      "final": "Generation Kill",
+      "redirected": true
+    },
+    "Show_Me_a_Hero": {
+      "exists": true,
+      "final": "Show Me a Hero",
+      "redirected": true
+    },
+    "Olive_Kitteridge_(miniseries)": {
+      "exists": true,
+      "final": "Olive Kitteridge (miniseries)",
+      "redirected": true
+    },
+    "The_Pacific_(miniseries)": {
+      "exists": true,
+      "final": "The Pacific (miniseries)",
+      "redirected": true
+    },
+    "John_Adams_(miniseries)": {
+      "exists": true,
+      "final": "John Adams (miniseries)",
+      "redirected": true
+    },
+    "Angels_in_America_(miniseries)": {
+      "exists": true,
+      "final": "Angels in America (miniseries)",
+      "redirected": true
+    },
+    "The_Comeback_(TV_series)": {
+      "exists": true,
+      "final": "The Comeback (TV series)",
+      "redirected": true
+    },
+    "Party_Down": {
+      "exists": true,
+      "final": "Party Down",
+      "redirected": true
+    },
+    "Flight_of_the_Conchords_(TV_series)": {
+      "exists": true,
+      "final": "Flight of the Conchords (TV series)",
+      "redirected": true
+    },
+    "Getting_On_(American_TV_series)": {
+      "exists": true,
+      "final": "Getting On (American TV series)",
+      "redirected": true
+    },
+    "High_Maintenance_(TV_series)": {
+      "exists": true,
+      "final": "High Maintenance",
+      "redirected": true
+    },
+    "Looking_(TV_series)": {
+      "exists": true,
+      "final": "Looking (TV series)",
+      "redirected": true
+    },
+    "Justified:_City_Primeval": {
+      "exists": true,
+      "final": "Justified: City Primeval",
+      "redirected": true
+    },
+    "Catastrophe_(British_TV_series)": {
+      "exists": false,
+      "final": "Catastrophe (British TV series)",
+      "redirected": true
+    },
+    "The_Crazy_Ones": {
+      "exists": true,
+      "final": "The Crazy Ones",
+      "redirected": true
+    },
+    "Toni_Kroos": {
+      "exists": true,
+      "final": "Toni Kroos",
+      "redirected": true
+    },
+    "Sergio_Ag%C3%BCero": {
+      "exists": true,
+      "final": "Sergio Agüero",
+      "redirected": true
+    },
+    "Philippe_Coutinho": {
+      "exists": true,
+      "final": "Philippe Coutinho",
+      "redirected": true
+    },
+    "Marcelo_(footballer,_born_1988)": {
+      "exists": true,
+      "final": "Marcelo (footballer, born 1988)",
+      "redirected": true
+    },
+    "Kak%C3%A1": {
+      "exists": true,
+      "final": "Kaká",
+      "redirected": false
+    },
+    "David_de_Gea": {
+      "exists": true,
+      "final": "David de Gea",
+      "redirected": true
+    },
+    "Alisson_Becker": {
+      "exists": true,
+      "final": "Alisson Becker",
+      "redirected": true
+    },
+    "Ederson_(footballer,_born_1993)": {
+      "exists": true,
+      "final": "Ederson (footballer, born 1993)",
+      "redirected": true
+    },
+    "Trent_Alexander-Arnold": {
+      "exists": true,
+      "final": "Trent Alexander-Arnold",
+      "redirected": true
+    },
+    "Andrew_Robertson_(footballer)": {
+      "exists": true,
+      "final": "Andy Robertson",
+      "redirected": true
+    },
+    "Declan_Rice": {
+      "exists": true,
+      "final": "Declan Rice",
+      "redirected": true
+    },
+    "Phil_Foden": {
+      "exists": true,
+      "final": "Phil Foden",
+      "redirected": true
+    },
+    "Marcus_Rashford": {
+      "exists": true,
+      "final": "Marcus Rashford",
+      "redirected": true
+    },
+    "Jack_Grealish": {
+      "exists": true,
+      "final": "Jack Grealish",
+      "redirected": true
+    },
+    "Raheem_Sterling": {
+      "exists": true,
+      "final": "Raheem Sterling",
+      "redirected": true
+    },
+    "Harry_Maguire": {
+      "exists": true,
+      "final": "Harry Maguire",
+      "redirected": true
+    },
+    "Jordan_Henderson": {
+      "exists": true,
+      "final": "Jordan Henderson",
+      "redirected": true
+    },
+    "Steven_Gerrard": {
+      "exists": true,
+      "final": "Steven Gerrard",
+      "redirected": true
+    },
+    "Frank_Lampard": {
+      "exists": true,
+      "final": "Frank Lampard",
+      "redirected": true
+    },
+    "Rio_Ferdinand": {
+      "exists": true,
+      "final": "Rio Ferdinand",
+      "redirected": true
+    },
+    "John_Terry": {
+      "exists": true,
+      "final": "John Terry",
+      "redirected": true
+    },
+    "Paul_Scholes": {
+      "exists": true,
+      "final": "Paul Scholes",
+      "redirected": true
+    },
+    "Ryan_Giggs": {
+      "exists": true,
+      "final": "Ryan Giggs",
+      "redirected": true
+    },
+    "Eric_Cantona": {
+      "exists": true,
+      "final": "Eric Cantona",
+      "redirected": true
+    },
+    "Peter_Schmeichel": {
+      "exists": true,
+      "final": "Peter Schmeichel",
+      "redirected": true
+    },
+    "Alan_Shearer": {
+      "exists": true,
+      "final": "Alan Shearer",
+      "redirected": true
+    },
+    "Michael_Owen": {
+      "exists": true,
+      "final": "Michael Owen",
+      "redirected": true
+    },
+    "Gary_Lineker": {
+      "exists": true,
+      "final": "Gary Lineker",
+      "redirected": true
+    },
+    "Paul_Gascoigne": {
+      "exists": true,
+      "final": "Paul Gascoigne",
+      "redirected": true
+    },
+    "Gerard_Piqu%C3%A9": {
+      "exists": true,
+      "final": "Gerard Piqué",
+      "redirected": true
+    },
+    "Jordi_Alba": {
+      "exists": true,
+      "final": "Jordi Alba",
+      "redirected": true
+    },
+    "Sergi_Roberto": {
+      "exists": true,
+      "final": "Sergi Roberto",
+      "redirected": true
+    },
+    "Eden_Hazard": {
+      "exists": true,
+      "final": "Eden Hazard",
+      "redirected": true
+    },
+    "Achraf_Hakimi": {
+      "exists": true,
+      "final": "Achraf Hakimi",
+      "redirected": true
+    },
+    "Roberto_Firmino": {
+      "exists": true,
+      "final": "Roberto Firmino",
+      "redirected": true
+    },
+    "Thibaut_Courtois": {
+      "exists": true,
+      "final": "Thibaut Courtois",
+      "redirected": true
+    },
+    "Jo%C3%ABl_Matip": {
+      "exists": true,
+      "final": "Joël Matip",
+      "redirected": true
+    },
+    "Paul_Pogba": {
+      "exists": true,
+      "final": "Paul Pogba",
+      "redirected": true
+    },
+    "N%27Golo_Kant%C3%A9": {
+      "exists": true,
+      "final": "N'Golo Kanté",
+      "redirected": true
+    },
+    "Hugo_Lloris": {
+      "exists": true,
+      "final": "Hugo Lloris",
+      "redirected": true
+    },
+    "Olivier_Giroud": {
+      "exists": true,
+      "final": "Olivier Giroud",
+      "redirected": true
+    },
+    "Kingsley_Coman": {
+      "exists": true,
+      "final": "Kingsley Coman",
+      "redirected": true
+    },
+    "Presnel_Kimpembe": {
+      "exists": true,
+      "final": "Presnel Kimpembe",
+      "redirected": true
+    },
+    "Ousmane_Demb%C3%A9l%C3%A9": {
+      "exists": true,
+      "final": "Ousmane Dembélé",
+      "redirected": true
+    },
+    "Rodri": {
+      "exists": true,
+      "final": "Rodri",
+      "redirected": false
+    },
+    "Gavi_(footballer)": {
+      "exists": true,
+      "final": "Gavi (footballer)",
+      "redirected": true
+    },
+    "Ferran_Torres": {
+      "exists": true,
+      "final": "Ferran Torres",
+      "redirected": true
+    },
+    "%C3%81lvaro_Morata": {
+      "exists": true,
+      "final": "Álvaro Morata",
+      "redirected": true
+    },
+    "Thiago_Alc%C3%A2ntara": {
+      "exists": true,
+      "final": "Thiago Alcântara",
+      "redirected": true
+    },
+    "Koke_(footballer,_born_1992)": {
+      "exists": true,
+      "final": "Koke (footballer, born 1992)",
+      "redirected": true
+    },
+    "Lautaro_Mart%C3%ADnez": {
+      "exists": true,
+      "final": "Lautaro Martínez",
+      "redirected": true
+    },
+    "Emiliano_Mart%C3%ADnez": {
+      "exists": true,
+      "final": "Emiliano Martínez",
+      "redirected": true
+    },
+    "Rodrigo_De_Paul": {
+      "exists": true,
+      "final": "Rodrigo De Paul",
+      "redirected": true
+    },
+    "Paulo_Dybala": {
+      "exists": true,
+      "final": "Paulo Dybala",
+      "redirected": true
+    },
+    "Vin%C3%ADcius_Tobias": {
+      "exists": true,
+      "final": "Vinicius Tobias",
+      "redirected": true
+    },
+    "Rodrygo": {
+      "exists": true,
+      "final": "Rodrygo",
+      "redirected": false
+    },
+    "Fabinho_(footballer,_born_1993)": {
+      "exists": true,
+      "final": "Fabinho (footballer, born 1993)",
+      "redirected": true
+    },
+    "Thiago_Silva": {
+      "exists": true,
+      "final": "Thiago Silva",
+      "redirected": true
+    },
+    "David_Luiz": {
+      "exists": true,
+      "final": "David Luiz",
+      "redirected": true
+    },
+    "Fernandinho_(footballer,_born_1985)": {
+      "exists": true,
+      "final": "Fernandinho",
+      "redirected": true
+    },
+    "Joshua_Kimmich": {
+      "exists": true,
+      "final": "Joshua Kimmich",
+      "redirected": true
+    },
+    "Leon_Goretzka": {
+      "exists": true,
+      "final": "Leon Goretzka",
+      "redirected": true
+    },
+    "Leroy_San%C3%A9": {
+      "exists": true,
+      "final": "Leroy Sané",
+      "redirected": true
+    },
+    "Serge_Gnabry": {
+      "exists": true,
+      "final": "Serge Gnabry",
+      "redirected": true
+    },
+    "Kai_Havertz": {
+      "exists": true,
+      "final": "Kai Havertz",
+      "redirected": true
+    },
+    "Timo_Werner": {
+      "exists": true,
+      "final": "Timo Werner",
+      "redirected": true
+    },
+    "Marco_Reus": {
+      "exists": true,
+      "final": "Marco Reus",
+      "redirected": true
+    },
+    "Mario_G%C3%B6tze": {
+      "exists": true,
+      "final": "Mario Götze",
+      "redirected": true
+    },
+    "Bastian_Schweinsteiger": {
+      "exists": true,
+      "final": "Bastian Schweinsteiger",
+      "redirected": true
+    },
+    "Matthias_Sammer": {
+      "exists": true,
+      "final": "Matthias Sammer",
+      "redirected": true
+    },
+    "Oliver_Kahn": {
+      "exists": true,
+      "final": "Oliver Kahn",
+      "redirected": true
+    },
+    "Antonio_R%C3%BCdiger": {
+      "exists": true,
+      "final": "Antonio Rüdiger",
+      "redirected": true
+    },
+    "Aur%C3%A9lien_Tchouam%C3%A9ni": {
+      "exists": true,
+      "final": "Aurélien Tchouaméni",
+      "redirected": true
+    },
+    "%C3%89der_Milit%C3%A3o": {
+      "exists": true,
+      "final": "Éder Militão",
+      "redirected": true
+    },
+    "J%C3%A9r%C3%B4me_Boateng": {
+      "exists": true,
+      "final": "Jérôme Boateng",
+      "redirected": true
+    },
+    "Gabriel_Batistuta": {
+      "exists": true,
+      "final": "Gabriel Batistuta",
+      "redirected": true
+    },
+    "Hern%C3%A1n_Crespo": {
+      "exists": true,
+      "final": "Hernán Crespo",
+      "redirected": true
+    },
+    "Juan_Sebasti%C3%A1n_Ver%C3%B3n": {
+      "exists": true,
+      "final": "Juan Sebastián Verón",
+      "redirected": true
+    },
+    "Walter_Samuel": {
+      "exists": true,
+      "final": "Walter Samuel",
+      "redirected": true
+    },
+    "Javier_Saviola": {
+      "exists": true,
+      "final": "Javier Saviola",
+      "redirected": true
+    },
+    "Mario_Kempes": {
+      "exists": true,
+      "final": "Mario Kempes",
+      "redirected": true
+    },
+    "Daniel_Passarella": {
+      "exists": true,
+      "final": "Daniel Passarella",
+      "redirected": true
+    },
+    "Ossie_Ardiles": {
+      "exists": true,
+      "final": "Osvaldo Ardiles",
+      "redirected": true
+    },
+    "Rivellino": {
+      "exists": true,
+      "final": "Rivellino",
+      "redirected": false
+    },
+    "S%C3%B3crates": {
+      "exists": true,
+      "final": "Sócrates",
+      "redirected": false
+    },
+    "Falc%C3%A3o_(footballer,_born_1953)": {
+      "exists": false,
+      "final": "Falcão (footballer, born 1953)",
+      "redirected": true
+    },
+    "Jairzinho": {
+      "exists": true,
+      "final": "Jairzinho",
+      "redirected": false
+    },
+    "Tost%C3%A3o": {
+      "exists": true,
+      "final": "Tostão",
+      "redirected": false
+    },
+    "G%C3%A9rson_(footballer,_born_1941)": {
+      "exists": false,
+      "final": "Gérson (footballer, born 1941)",
+      "redirected": true
+    },
+    "Bebeto": {
+      "exists": true,
+      "final": "Bebeto",
+      "redirected": false
+    },
+    "Gianni_Rivera": {
+      "exists": true,
+      "final": "Gianni Rivera",
+      "redirected": true
+    },
+    "Giuseppe_Meazza": {
+      "exists": true,
+      "final": "Giuseppe Meazza",
+      "redirected": true
+    },
+    "Paolo_Rossi": {
+      "exists": true,
+      "final": "Paolo Rossi",
+      "redirected": true
+    },
+    "Luigi_Riva": {
+      "exists": true,
+      "final": "Gigi Riva",
+      "redirected": true
+    },
+    "Sandro_Mazzola": {
+      "exists": true,
+      "final": "Sandro Mazzola",
+      "redirected": true
+    },
+    "Dino_Zoff": {
+      "exists": true,
+      "final": "Dino Zoff",
+      "redirected": true
+    },
+    "Gaetano_Scirea": {
+      "exists": true,
+      "final": "Gaetano Scirea",
+      "redirected": true
+    },
+    "Franco_Baresi": {
+      "exists": true,
+      "final": "Franco Baresi",
+      "redirected": true
+    },
+    "Marco_Tardelli": {
+      "exists": true,
+      "final": "Marco Tardelli",
+      "redirected": true
+    },
+    "Filippo_Inzaghi": {
+      "exists": true,
+      "final": "Filippo Inzaghi",
+      "redirected": true
+    },
+    "Alessandro_Del_Piero": {
+      "exists": true,
+      "final": "Alessandro Del Piero",
+      "redirected": true
+    },
+    "Eus%C3%A9bio": {
+      "exists": true,
+      "final": "Eusébio",
+      "redirected": false
+    },
+    "Lu%C3%ADs_Figo": {
+      "exists": true,
+      "final": "Luís Figo",
+      "redirected": true
+    },
+    "Rui_Costa": {
+      "exists": true,
+      "final": "Rui Costa",
+      "redirected": true
+    },
+    "Deco": {
+      "exists": true,
+      "final": "Deco",
+      "redirected": false
+    },
+    "Pepe_(footballer,_born_1983)": {
+      "exists": true,
+      "final": "Pepe (footballer, born 1983)",
+      "redirected": true
+    },
+    "Ricardo_Carvalho": {
+      "exists": true,
+      "final": "Ricardo Carvalho",
+      "redirected": true
+    },
+    "Nuno_Gomes": {
+      "exists": true,
+      "final": "Nuno Gomes",
+      "redirected": true
+    },
+    "Fernando_Torres": {
+      "exists": true,
+      "final": "Fernando Torres",
+      "redirected": true
+    },
+    "David_Silva": {
+      "exists": true,
+      "final": "David Silva",
+      "redirected": true
+    },
+    "Andr%C3%A9s_Guardado": {
+      "exists": true,
+      "final": "Andrés Guardado",
+      "redirected": true
+    },
+    "Rafael_M%C3%A1rquez": {
+      "exists": true,
+      "final": "Rafael Márquez",
+      "redirected": true
+    },
+    "Hugo_S%C3%A1nchez": {
+      "exists": true,
+      "final": "Hugo Sánchez",
+      "redirected": true
+    },
+    "Javier_Hern%C3%A1ndez": {
+      "exists": true,
+      "final": "Javier Hernández",
+      "redirected": true
+    },
+    "Carlos_Valderrama": {
+      "exists": true,
+      "final": "Carlos Valderrama",
+      "redirected": true
+    },
+    "Piccolo_(Dragon_Ball)": {
+      "exists": true,
+      "final": "Piccolo (Dragon Ball)",
+      "redirected": true
+    },
+    "Trunks_(Dragon_Ball)": {
+      "exists": true,
+      "final": "Trunks (Dragon Ball)",
+      "redirected": true
+    },
+    "Broly": {
+      "exists": true,
+      "final": "Broly",
+      "redirected": false
+    },
+    "Frieza": {
+      "exists": true,
+      "final": "Frieza",
+      "redirected": false
+    },
+    "Majin_Buu": {
+      "exists": true,
+      "final": "Majin Buu",
+      "redirected": true
+    },
+    "Krillin": {
+      "exists": true,
+      "final": "Krillin",
+      "redirected": false
+    },
+    "Master_Roshi": {
+      "exists": true,
+      "final": "Master Roshi",
+      "redirected": true
+    },
+    "Hinata_Hyuga": {
+      "exists": true,
+      "final": "Hinata Hyuga",
+      "redirected": true
+    },
+    "Sakura_Haruno": {
+      "exists": true,
+      "final": "Sakura Haruno",
+      "redirected": true
+    },
+    "Itachi_Uchiha": {
+      "exists": true,
+      "final": "Itachi Uchiha",
+      "redirected": true
+    },
+    "Jiraiya_(Naruto)": {
+      "exists": true,
+      "final": "Jiraiya (Naruto)",
+      "redirected": true
+    },
+    "Tsunade": {
+      "exists": true,
+      "final": "Tsunade",
+      "redirected": false
+    },
+    "Orochimaru_(Naruto)": {
+      "exists": true,
+      "final": "Orochimaru (Naruto)",
+      "redirected": true
+    },
+    "Minato_Namikaze": {
+      "exists": true,
+      "final": "List of Naruto characters",
+      "redirected": true
+    },
+    "Boruto_Uzumaki": {
+      "exists": true,
+      "final": "Boruto Uzumaki",
+      "redirected": true
+    },
+    "Armin_Arlert": {
+      "exists": true,
+      "final": "List of Attack on Titan characters",
+      "redirected": true
+    },
+    "Historia_Reiss": {
+      "exists": true,
+      "final": "List of Attack on Titan characters",
+      "redirected": true
+    },
+    "Zeke_Yeager": {
+      "exists": true,
+      "final": "List of Attack on Titan characters",
+      "redirected": true
+    },
+    "Rukia_Kuchiki": {
+      "exists": true,
+      "final": "Rukia Kuchiki",
+      "redirected": true
+    },
+    "Uryu_Ishida": {
+      "exists": true,
+      "final": "List of Bleach characters",
+      "redirected": true
+    },
+    "Byakuya_Kuchiki": {
+      "exists": true,
+      "final": "Byakuya Kuchiki",
+      "redirected": true
+    },
+    "Ulquiorra_Cifer": {
+      "exists": true,
+      "final": "List of Hollows in Bleach",
+      "redirected": true
+    },
+    "Shanks": {
+      "exists": true,
+      "final": "Shanks",
+      "redirected": false
+    },
+    "Portgas_D._Ace": {
+      "exists": true,
+      "final": "Four Emperors (One Piece)",
+      "redirected": true
+    },
+    "Edward_Newgate": {
+      "exists": true,
+      "final": "Four Emperors (One Piece)",
+      "redirected": true
+    },
+    "Nico_Robin": {
+      "exists": true,
+      "final": "Nico Robin",
+      "redirected": true
+    },
+    "Usopp": {
+      "exists": true,
+      "final": "Usopp",
+      "redirected": false
+    },
+    "Franky_(One_Piece)": {
+      "exists": true,
+      "final": "Franky (One Piece)",
+      "redirected": true
+    },
+    "Brook_(One_Piece)": {
+      "exists": true,
+      "final": "Brook (One Piece)",
+      "redirected": true
+    },
+    "Boa_Hancock": {
+      "exists": true,
+      "final": "World Government (One Piece)",
+      "redirected": true
+    },
+    "Ochaco_Uraraka": {
+      "exists": true,
+      "final": "Ochaco Uraraka",
+      "redirected": true
+    },
+    "Tenya_Iida": {
+      "exists": false,
+      "final": "Tenya Iida",
+      "redirected": true
+    },
+    "Katsuki_Bakugo": {
+      "exists": true,
+      "final": "Katsuki Bakugo",
+      "redirected": true
+    },
+    "Misa_Amane": {
+      "exists": true,
+      "final": "Misa Amane",
+      "redirected": true
+    },
+    "Ryuk_(Death_Note)": {
+      "exists": true,
+      "final": "Ryuk (Death Note)",
+      "redirected": true
+    },
+    "Kirito": {
+      "exists": true,
+      "final": "Kirito",
+      "redirected": false
+    },
+    "Asuna_(Sword_Art_Online)": {
+      "exists": true,
+      "final": "Asuna (Sword Art Online)",
+      "redirected": true
+    },
+    "List_of_Re:Zero_%E2%88%92_Starting_Life_in_Another_World_characters": {
+      "exists": true,
+      "final": "List of Re:Zero characters",
+      "redirected": true
+    },
+    "Subaru_Natsuki": {
+      "exists": true,
+      "final": "Subaru Natsuki",
+      "redirected": true
+    },
+    "Gogeta": {
+      "exists": true,
+      "final": "List of Dragon Ball characters",
+      "redirected": true
+    },
+    "Shinichi_Kudo": {
+      "exists": true,
+      "final": "Jimmy Kudo",
+      "redirected": true
+    },
+    "Conan_Edogawa": {
+      "exists": true,
+      "final": "Jimmy Kudo",
+      "redirected": true
+    },
+    "Lupin_III": {
+      "exists": true,
+      "final": "Lupin the Third",
+      "redirected": true
+    },
+    "Doraemon": {
+      "exists": true,
+      "final": "Doraemon",
+      "redirected": false
+    },
+    "Astro_Boy": {
+      "exists": true,
+      "final": "Astro Boy",
+      "redirected": true
+    },
+    "Speed_Racer": {
+      "exists": true,
+      "final": "Speed Racer",
+      "redirected": true
+    },
+    "Totoro": {
+      "exists": true,
+      "final": "Totoro",
+      "redirected": false
+    },
+    "Howl_(Howl%27s_Moving_Castle)": {
+      "exists": false,
+      "final": "Howl (Howl's Moving Castle)",
+      "redirected": true
+    },
+    "San_(Princess_Mononoke)": {
+      "exists": false,
+      "final": "San (Princess Mononoke)",
+      "redirected": true
+    },
+    "Porco_Rosso": {
+      "exists": true,
+      "final": "Porco Rosso",
+      "redirected": true
+    },
+    "Ponyo": {
+      "exists": true,
+      "final": "Ponyo",
+      "redirected": false
+    },
+    "Kiki_(Kiki%27s_Delivery_Service)": {
+      "exists": true,
+      "final": "Kiki's Delivery Service",
+      "redirected": true
+    },
+    "Castle_in_the_Sky": {
+      "exists": true,
+      "final": "Castle in the Sky",
+      "redirected": true
+    },
+    "Faye_Valentine": {
+      "exists": true,
+      "final": "List of Cowboy Bebop characters",
+      "redirected": true
+    },
+    "Jet_Black_(Cowboy_Bebop)": {
+      "exists": true,
+      "final": "List of Cowboy Bebop characters",
+      "redirected": true
+    },
+    "Edward_Wong_Hau_Pepelu_Tivrusky_IV": {
+      "exists": true,
+      "final": "List of Cowboy Bebop characters",
+      "redirected": true
+    },
+    "Android_18": {
+      "exists": true,
+      "final": "Android 18",
+      "redirected": true
+    },
+    "Android_17": {
+      "exists": true,
+      "final": "Android version history",
+      "redirected": true
+    },
+    "Vegeta_(Dragon_Ball)": {
+      "exists": true,
+      "final": "Vegeta",
+      "redirected": true
+    },
+    "Videl": {
+      "exists": true,
+      "final": "Videl",
+      "redirected": false
+    },
+    "Chi-Chi_(Dragon_Ball)": {
+      "exists": true,
+      "final": "Chi-Chi (Dragon Ball)",
+      "redirected": true
+    },
+    "Kazuma_Kuwabara": {
+      "exists": true,
+      "final": "List of YuYu Hakusho characters",
+      "redirected": true
+    },
+    "Kurama_(Yu_Yu_Hakusho)": {
+      "exists": true,
+      "final": "Kurama (YuYu Hakusho)",
+      "redirected": true
+    },
+    "Yoh_Asakura": {
+      "exists": true,
+      "final": "Yoh Asakura",
+      "redirected": true
+    },
+    "Hao_Asakura": {
+      "exists": true,
+      "final": "List of Shaman King characters",
+      "redirected": true
+    },
+    "Nura:_Rise_of_the_Yokai_Clan": {
+      "exists": true,
+      "final": "Nura: Rise of the Yokai Clan",
+      "redirected": true
+    },
+    "Allen_Walker": {
+      "exists": true,
+      "final": "Allen Walker",
+      "redirected": true
+    },
+    "Alphonse_Elric": {
+      "exists": true,
+      "final": "Alphonse Elric",
+      "redirected": true
+    },
+    "Winry_Rockbell": {
+      "exists": true,
+      "final": "Winry Rockbell",
+      "redirected": true
+    },
+    "Scar_(Fullmetal_Alchemist)": {
+      "exists": true,
+      "final": "Scar (Fullmetal Alchemist)",
+      "redirected": true
+    },
+    "Van_Hohenheim": {
+      "exists": true,
+      "final": "List of Fullmetal Alchemist characters",
+      "redirected": true
+    },
+    "Nicholas_D._Wolfwood": {
+      "exists": true,
+      "final": "Nicholas D. Wolfwood",
+      "redirected": true
+    },
+    "Rokuro_Okajima": {
+      "exists": true,
+      "final": "List of Black Lagoon characters",
+      "redirected": true
+    },
+    "Seras_Victoria": {
+      "exists": true,
+      "final": "List of Hellsing characters",
+      "redirected": true
+    },
+    "Integra_Hellsing": {
+      "exists": true,
+      "final": "List of Hellsing characters",
+      "redirected": true
+    },
+    "Botan_(Yu_Yu_Hakusho)": {
+      "exists": false,
+      "final": "Botan (Yu Yu Hakusho)",
+      "redirected": true
+    },
+    "Balalaika_(Black_Lagoon)": {
+      "exists": true,
+      "final": "List of Black Lagoon characters",
+      "redirected": true
+    },
+    "Batou": {
+      "exists": true,
+      "final": "Batou",
+      "redirected": false
+    },
+    "Accelerator_(A_Certain_Magical_Index)": {
+      "exists": false,
+      "final": "Accelerator (A Certain Magical Index)",
+      "redirected": true
+    },
+    "Toma_Kamijo": {
+      "exists": true,
+      "final": "Toma Kamijo",
+      "redirected": true
+    },
+    "Mikoto_Misaka": {
+      "exists": true,
+      "final": "Mikoto Misaka",
+      "redirected": true
+    },
+    "Kyon_(character)": {
+      "exists": false,
+      "final": "Kyon (character)",
+      "redirected": true
+    },
+    "Haruhi_Suzumiya_(character)": {
+      "exists": true,
+      "final": "Haruhi Suzumiya (character)",
+      "redirected": true
+    },
+    "Yuki_Nagato": {
+      "exists": true,
+      "final": "List of Haruhi Suzumiya characters",
+      "redirected": true
+    },
+    "List_of_Clannad_characters": {
+      "exists": true,
+      "final": "Clannad (video game)",
+      "redirected": true
+    },
+    "Toradora!": {
+      "exists": true,
+      "final": "Toradora!",
+      "redirected": false
+    },
+    "FLCL": {
+      "exists": true,
+      "final": "FLCL",
+      "redirected": false
+    },
+    "Lain_Iwakura": {
+      "exists": true,
+      "final": "Serial Experiments Lain",
+      "redirected": true
+    },
+    "Tetsuo_Shima": {
+      "exists": true,
+      "final": "Akira (manga)",
+      "redirected": true
+    },
+    "Shotaro_Kaneda_(Akira)": {
+      "exists": true,
+      "final": "Shotaro Kaneda",
+      "redirected": true
+    },
+    "Char_Aznable": {
+      "exists": true,
+      "final": "Char Aznable",
+      "redirected": true
+    },
+    "Amuro_Ray": {
+      "exists": true,
+      "final": "Amuro Ray",
+      "redirected": true
+    },
+    "Heero_Yuy": {
+      "exists": true,
+      "final": "Heero Yuy",
+      "redirected": true
+    },
+    "Setsuna_F._Seiei": {
+      "exists": true,
+      "final": "Setsuna F. Seiei",
+      "redirected": true
+    },
+    "Kamille_Bidan": {
+      "exists": true,
+      "final": "List of Mobile Suit Zeta Gundam characters",
+      "redirected": true
+    },
+    "Domon_Kasshu": {
+      "exists": true,
+      "final": "List of Mobile Fighter G Gundam characters",
+      "redirected": true
+    },
+    "Simon_(Gurren_Lagann)": {
+      "exists": true,
+      "final": "List of Gurren Lagann characters",
+      "redirected": true
+    },
+    "Nia_Teppelin": {
+      "exists": true,
+      "final": "List of Gurren Lagann characters",
+      "redirected": true
+    },
+    "Madoka_Kaname": {
+      "exists": true,
+      "final": "Madoka Kaname",
+      "redirected": true
+    },
+    "Sayaka_Miki": {
+      "exists": true,
+      "final": "Sayaka Miki",
+      "redirected": true
+    },
+    "Kyubey": {
+      "exists": true,
+      "final": "Kyubey",
+      "redirected": false
+    },
+    "Makoto_Shinkai": {
+      "exists": true,
+      "final": "Makoto Shinkai",
+      "redirected": true
+    },
+    "Your_Name": {
+      "exists": true,
+      "final": "Your Name",
+      "redirected": true
+    },
+    "Weathering_with_You": {
+      "exists": true,
+      "final": "Weathering with You",
+      "redirected": true
+    },
+    "Senku_Ishigami": {
+      "exists": true,
+      "final": "Senku Ishigami",
+      "redirected": true
+    },
+    "Dr._Stone": {
+      "exists": true,
+      "final": "Dr. Stone",
+      "redirected": true
+    },
+    "Fire_Force": {
+      "exists": true,
+      "final": "Fire Force",
+      "redirected": true
+    },
+    "Tatsumaki": {
+      "exists": true,
+      "final": "List of One-Punch Man characters",
+      "redirected": true
+    },
+    "Genos": {
+      "exists": true,
+      "final": "Genos",
+      "redirected": false
+    },
+    "Garou_(One-Punch_Man)": {
+      "exists": false,
+      "final": "Garou (One-Punch Man)",
+      "redirected": true
+    },
+    "Shigeo_Kageyama": {
+      "exists": true,
+      "final": "Shigeo Kageyama",
+      "redirected": true
+    },
+    "Reigen_Arataka": {
+      "exists": false,
+      "final": "Reigen Arataka",
+      "redirected": true
+    },
+    "Kusuo_Saiki": {
+      "exists": true,
+      "final": "Kusuo Saiki",
+      "redirected": true
+    },
+    "Eikichi_Onizuka": {
+      "exists": true,
+      "final": "List of Great Teacher Onizuka characters",
+      "redirected": true
+    }
+  }
+}

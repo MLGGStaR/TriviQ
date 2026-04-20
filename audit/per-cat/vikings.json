@@ -1,0 +1,503 @@
+{
+  "200": [
+    {
+      "q": "Who is Ragnar's first wife?",
+      "a": "Lagertha",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who builds Ragnar's revolutionary boats?",
+      "a": "Floki",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What English monastery does Ragnar raid first?",
+      "a": "Lindisfarne",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Ragnar's eccentric boat-builder friend?",
+      "a": "Floki",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What monastery does Ragnar raid first?",
+      "a": "Lindisfarne",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which son of Ragnar is called Ironside?",
+      "a": "Bjorn",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What French city do the Vikings besiege?",
+      "a": "Paris",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the Norse afterlife for warriors called?",
+      "a": "Valhalla",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What brutal execution is associated with Norse vengeance?",
+      "a": "The blood eagle",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What kingdom in England is ruled by King Ecbert?",
+      "a": "Wessex",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What city is the Vikings' home base for much of the show?",
+      "a": "Kattegat",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who becomes the first Duke of Normandy?",
+      "a": "Rollo",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title is given to women warriors like Lagertha?",
+      "a": "Shieldmaiden",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who wants to unite all Norway?",
+      "a": "Harald Finehair",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the Norse public assembly called?",
+      "a": "The Thing",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which son of Ragnar sails west to new lands late in the story?",
+      "a": "Ubbe",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What monastery is raided at the start of the series?",
+      "a": "Lindisfarne",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What cave-dwelling prophet advises Kattegat's rulers?",
+      "a": "The Seer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What Norse god does Ragnar claim descent from?",
+      "a": "Odin",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Ragnar Lothbrok?",
+      "a": "Travis Fimmel",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Ragnar's first wife on the show?",
+      "a": "Lagertha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ragnar Lothbrok?",
+      "a": "A Norse farmer who rises to become King of Denmark and the most famous Viking raider",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lagertha?",
+      "a": "Ragnar's first wife — a shieldmaiden and eventually an earl and queen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Floki?",
+      "a": "Ragnar's eccentric best friend — a legendary boat builder devoted to the Norse gods",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the first place Ragnar raids in the West?",
+      "a": "Lindisfarne — a monastery in England — in 793 AD",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rollo?",
+      "a": "Ragnar's brother — a powerful warrior who eventually sides against him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Bjorn Ironside?",
+      "a": "Ragnar's son — who becomes a legendary Viking leader in his own right",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Thing?",
+      "a": "The Norse assembly where free men gather to make decisions and settle disputes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are berserkers?",
+      "a": "Viking warriors who enter a trance-like battle fury — associated with Odin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Athelstan?",
+      "a": "An Anglo-Saxon monk taken captive by Ragnar — they form a complex spiritual friendship",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Valhalla?",
+      "a": "The Norse afterlife for warriors who die in battle — ruled by Odin",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Who kills Ragnar by throwing him into a pit of snakes?",
+      "a": "King Aelle",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city do the Vikings famously besiege in France?",
+      "a": "Paris",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which son of Ragnar becomes known as the Boneless?",
+      "a": "Ivar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which son of Ragnar struggles with faith and later converts to Christianity?",
+      "a": "Hvitserk",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Rus prince and major late-series villain?",
+      "a": "Oleg of Novgorod",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Bjorn's famous nickname?",
+      "a": "Ironside",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title does Lagertha eventually hold after ruling Kattegat?",
+      "a": "Queen",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which brother of Ragnar becomes ruler in Frankia?",
+      "a": "Rollo",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which son of Ragnar is known as Boneless?",
+      "a": "Ivar",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What priest becomes Ragnar's close friend?",
+      "a": "Athelstan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city becomes the show's main Norse stronghold?",
+      "a": "Kattegat",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What city do the Vikings repeatedly raid in England?",
+      "a": "Wessex",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Ivar's mother called?",
+      "a": "Aslaug",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Harald's nickname?",
+      "a": "Finehair",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Floki's wife called?",
+      "a": "Helga",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Ragnar's red-haired son called?",
+      "a": "Sigurd",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Bjorn's wife called later in the series?",
+      "a": "Gunnhild",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Lagertha's role in the early seasons?",
+      "a": "Shieldmaiden and Ragnar's first wife",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Ragnar's eldest son called?",
+      "a": "Björn Ironside",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What English monk becomes Ragnar's close friend?",
+      "a": "Athelstan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What kingdom do the Vikings repeatedly raid early on?",
+      "a": "Wessex",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Norse settlement serves as Ragnar's home base?",
+      "a": "Kattegat",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What city do the Vikings famously raid in the first season?",
+      "a": "Lindisfarne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ragnar's elder brother who betrays him?",
+      "a": "Rollo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is King Ecbert?",
+      "a": "The ambitious King of Wessex — one of the most politically sophisticated characters in the show",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Paris and why is it significant?",
+      "a": "The Vikings besiege Paris in Seasons 3-4 — a historically based major event",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Aslaug?",
+      "a": "Ragnar's second wife — a völva (seer) and princess of legendary descent",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ivar the Boneless?",
+      "a": "Ragnar's most vicious son — he is carried due to a physical condition but becomes the most ruthless leader",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Rollo settling in France?",
+      "a": "He becomes the first Duke of Normandy — ancestor of William the Conqueror",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is King Aelle?",
+      "a": "The King of Northumbria who captures and kills Ragnar via the blood eagle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the blood eagle?",
+      "a": "A brutal Norse execution ritual — the ribs are cut from the spine and lungs pulled out to form wings",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Halfdan the Black?",
+      "a": "Harald Finehair's wild brother — a fearless raider who explores the world with Bjorn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who kills Ragnar Lothbrok?",
+      "a": "King Aelle — he throws Ragnar into a pit of snakes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the aftermath of Ragnar's death?",
+      "a": "His sons launch the Great Heathen Army to avenge him — invading England",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What huge invasion of England is launched by Ragnar's sons?",
+      "a": "The Great Heathen Army",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What land does Floki eventually settle?",
+      "a": "Iceland",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who becomes the first Duke of Normandy after settling in France?",
+      "a": "Rollo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What land does Floki discover in the west?",
+      "a": "Iceland",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which king of Wessex becomes Ragnar's uneasy ally?",
+      "a": "King Ecbert",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What epithet is Bjorn known by?",
+      "a": "Ironside",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Ivar's nickname?",
+      "a": "The Boneless",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Ragnar's second wife called?",
+      "a": "Aslaug",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Floki's trade?",
+      "a": "Boat builder",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the name of Lagertha's earldom?",
+      "a": "Hedeby",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What English king becomes Ragnar's uneasy ally?",
+      "a": "Ecbert",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What son of Ragnar explores and settles Iceland?",
+      "a": "Floki",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What bishop becomes Lagertha's lover and ally?",
+      "a": "Heahmund",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What Rus prince invades Scandinavia in later seasons?",
+      "a": "Oleg",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What kingdom does Ubbe dream of settling in?",
+      "a": "North America",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What English kingdom is granted to Viking settlers?",
+      "a": "East Anglia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the ritual execution called?",
+      "a": "Blood eagle",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Ragnar's daughter called?",
+      "a": "Gyda",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What new land does Ubbe seek at the end?",
+      "a": "North America",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is Ivar the Boneless's disability?",
+      "a": "Brittle bone disease",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What English king is Ragnar's complex ally?",
+      "a": "King Ecbert",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What boat builder joins Ragnar's early raids?",
+      "a": "Floki",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Ragnar's second wife?",
+      "a": "Aslaug",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What ritual execution is used on captives?",
+      "a": "The Blood Eagle",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the Great Heathen Army?",
+      "a": "A massive Viking invasion of England in 865 AD — led by Ragnar's sons — historically documented",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Floki sailing to Iceland?",
+      "a": "He discovers a land he believes is the home of the gods — the Vikings settle Iceland in the later seasons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the connection between Vikings and Vikings: Valhalla?",
+      "a": "Valhalla is a Netflix sequel set 100 years later — featuring Leif Eriksson and Harald Sigurdsson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Harald Finehair?",
+      "a": "King of Norway who seeks to unite all Norse kingdoms — an ally and rival to Bjorn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the historical accuracy level of the show?",
+      "a": "It uses real historical figures and events but takes significant liberties — it inspired popular interest in Norse history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Prince Oleg of Novgorod?",
+      "a": "A Byzantine-influenced Russian ruler — the primary villain of Seasons 5-6, enemies with Ivar then Bjorn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Hvitserk's arc?",
+      "a": "Ragnar's most troubled son — he converts to Christianity and struggles with addiction and guilt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Ubbe?",
+      "a": "He fulfils Ragnar's dream by sailing to North America — settling Vinland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the legacy of Ragnar Lothbrok in real history?",
+      "a": "A semi-legendary Norse hero — his sons' Great Heathen Army is historically documented; his existence is debated",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Judith?",
+      "a": "Athelstan's lover and Aethelwulf's wife — she plays a major political role in the later seasons",
+      "file": "App.jsx"
+    }
+  ]
+}

@@ -1,0 +1,503 @@
+{
+  "200": [
+    {
+      "q": "What prison does Michael break Lincoln out of in season 1?",
+      "a": "Fox River",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Michael's doctor love interest?",
+      "a": "Sara Tancredi",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Lincoln Burrows' nickname?",
+      "a": "Linc",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Lincoln Burrows' son's name?",
+      "a": "LJ Burrows",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the warden of Fox River?",
+      "a": "Henry Pope",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the vice president tied to the conspiracy?",
+      "a": "Caroline Reynolds",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What alias does Michael use in Yemen?",
+      "a": "Kaniel Outis",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Michael and Lincoln's father?",
+      "a": "Aldo Burrows",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who becomes Michael's wife?",
+      "a": "Sara Tancredi",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Sucre's girlfriend's name?",
+      "a": "Maricruz",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is C-Note's real name?",
+      "a": "Benjamin Miles Franklin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the FBI agent hunting the Fox River Eight?",
+      "a": "Alexander Mahone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is T-Bag's son's nickname?",
+      "a": "Whip",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the device holding the Company's secrets called?",
+      "a": "Scylla",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the villain known as Poseidon?",
+      "a": "Jacob Ness",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Where is Michael's escape plan hidden?",
+      "a": "In his tattoos",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Brad Bellick's job at Fox River?",
+      "a": "Correctional officer",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What lawyer and childhood friend tries to clear Lincoln's name?",
+      "a": "Veronica Donovan",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What alias does T-Bag use at GATE?",
+      "a": "Cole Pfeiffer",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Michael and Lincoln's mother's name?",
+      "a": "Christina Scofield",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Michael's brother's name?",
+      "a": "Lincoln Burrows",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Sara's last name?",
+      "a": "Tancredi",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is Michael Scofield?",
+      "a": "A structural engineer who tattoos prison blueprints on his body to break his brother out",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What prison is Season 1 set in?",
+      "a": "Fox River State Penitentiary in Illinois",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Michael Scofield?",
+      "a": "Wentworth Miller",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Lincoln accused of?",
+      "a": "Assassinating the Vice President's brother",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is T-Bag?",
+      "a": "Theodore Bagwell — a dangerous, manipulative criminal who forces his way into the escape",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Sucre?",
+      "a": "Michael's cellmate and closest ally in the escape",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What conspiracy frames Lincoln?",
+      "a": "The Company — a shadowy organisation controlling the US government",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Sara Tancredi?",
+      "a": "The prison doctor who falls in love with Michael",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Lincoln Burrows?",
+      "a": "Dominic Purcell",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is special about Michael's tattoo?",
+      "a": "It contains the full blueprints of Fox River hidden in the design",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What secret organization drives much of the conspiracy?",
+      "a": "The Company",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What prison is featured in Panama?",
+      "a": "Sona",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the data system everyone chases in season 4?",
+      "a": "Scylla",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What shadow organization hunts the escapees?",
+      "a": "The Company",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What nickname is Theodore Bagwell known by?",
+      "a": "T-Bag",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which country is Sona prison in?",
+      "a": "Panama",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What agent becomes Michael's rival and later ally?",
+      "a": "Alexander Mahone",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What object contains The Company's data in later seasons?",
+      "a": "Scylla",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Bellick's first name?",
+      "a": "Brad",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What doctor is Lincoln and Michael's father figure connected to?",
+      "a": "Sara Tancredi",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Michael Scofield's profession before prison?",
+      "a": "Structural engineer",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is T-Bag's first name?",
+      "a": "Theodore",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Michael's wife figure called?",
+      "a": "Sara",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What state is Fox River in?",
+      "a": "Illinois",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Michael's scarred enemy from Fox River called?",
+      "a": "T-Bag",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What city is Ogygia prison located near?",
+      "a": "Sana'a",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What inmate is Michael's closest friend from the start?",
+      "a": "Sucre",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is Michael Scofield's profession before prison?",
+      "a": "Structural engineer",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What state is Fox River located in?",
+      "a": "Illinois",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What FBI agent hunts the escapees?",
+      "a": "Alexander Mahone",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Panamanian prison houses Michael in season 3?",
+      "a": "Sona",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Michael's Russian contact in season 5?",
+      "a": "Poseidon",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What gang does T-Bag lead inside Fox River?",
+      "a": "Alliance for Purity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Michael's medical condition revealed in later seasons?",
+      "a": "Low latent inhibition",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Agent Mahone?",
+      "a": "An FBI agent hunting the escapees — secretly working for The Company",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Company's main goal?",
+      "a": "To maintain control over the US government by eliminating anyone who threatens them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is General Jonathan Krantz?",
+      "a": "The head of The Company — the primary villain of later seasons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Scylla?",
+      "a": "A data card containing dirt on the Company's leaders — the main MacGuffin of Season 3-4",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gretchen Morgan?",
+      "a": "A ruthless Company operative who becomes a recurring villain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where is Season 3 set?",
+      "a": "Sona prison in Panama — a lawless prison with no guards inside",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens to Sara Tancredi in Season 2?",
+      "a": "She is apparently beheaded — though this is later retconned and she returns",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is GATE?",
+      "a": "The company that is a front for The Company's operations",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Paul Kellerman?",
+      "a": "A Secret Service agent working for the VP who later helps Michael",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the origami crane?",
+      "a": "Michael makes origami cranes — a symbol of his meticulous planning",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the name of the prison in Yemen in the revival season?",
+      "a": "Ogygia",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who becomes one of Michael's most valuable allies after first hunting him?",
+      "a": "Alexander Mahone",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Fernando Sucre's girlfriend called?",
+      "a": "Maricruz",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Mahone's first name?",
+      "a": "Alexander",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Whistler's first name?",
+      "a": "James",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the General's real name?",
+      "a": "Jonathan Krantz",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What prison is season 3 set in?",
+      "a": "Sona",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is C-Note's first name?",
+      "a": "Benjamin",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Who is the prison doctor Michael falls in love with?",
+      "a": "Sara Tancredi",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is T-Bag's real surname?",
+      "a": "Bagwell",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Sucre's first name?",
+      "a": "Fernando",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What secret service man leads the hunt for Scylla?",
+      "a": "Don Self",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Gretchen Morgan's alias in season 3?",
+      "a": "Susan B. Anthony",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Michael's mother called?",
+      "a": "Christina Rose Scofield",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the name of Lincoln's son?",
+      "a": "L.J.",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What tattoo artist skill helps Michael plan escapes?",
+      "a": "Structural design",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What secret service agent turns on the team in season 4?",
+      "a": "Don Self",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Gretchen Morgan's real first name?",
+      "a": "Emily",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Sara's father's name?",
+      "a": "Frank",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What bird-themed book helps unlock Scylla?",
+      "a": "Bird book",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Paul Kellerman's agency background?",
+      "a": "Secret Service",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Whip's relationship to T-Bag?",
+      "a": "Son",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What data set drives the season 4 conspiracy?",
+      "a": "Scylla",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is Michael's medical condition?",
+      "a": "Low Latent Inhibition — he perceives and processes far more details than normal people",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the meaning of Michael's tattoo removal?",
+      "a": "In Season 4 he has it removed — symbolising shedding his identity as the planner/rescuer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Michael's mother?",
+      "a": "Christina Rose Scofield — revealed to be alive and working for The Company",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the number 5?",
+      "a": "Michael's shoe size is a clue in many of his encoded messages",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is GATE's connection to the Vice President?",
+      "a": "Caroline Reynolds — the VP — is the face of The Company's political control",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How does Michael die?",
+      "a": "He sacrifices himself by overloading a generator to destroy the Company's submarine door — dying of a brain tumour",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the final season about?",
+      "a": "Michael is alive, working for a black ops group called Poseidon — forced to run elaborate heists",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Ithaca?",
+      "a": "Michael's code name in the revival — referencing Odysseus's long journey home",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rule of Silence in Sona?",
+      "a": "In Season 3's Sona prison, speaking the wrong thing to the wrong person means death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who kills T-Bag at the end?",
+      "a": "Michael stabs T-Bag in the heart during the final confrontation",
+      "file": "App.jsx"
+    }
+  ]
+}

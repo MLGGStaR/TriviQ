@@ -1,0 +1,629 @@
+{
+  "issues": [
+    {
+      "cat": "geography",
+      "tier": "600",
+      "q": "Which strait connects the Mediterranean to the Black Sea?",
+      "a": "Dardanelles",
+      "issue": "Factually wrong. The Dardanelles connects the Aegean Sea to the Sea of Marmara. The Bosphorus is the strait that connects the Sea of Marmara to the Black Sea; neither single strait connects the Mediterranean directly to the Black Sea.",
+      "fix": "Change to: 'Which strait connects the Sea of Marmara to the Black Sea?' with answer 'Bosphorus'."
+    },
+    {
+      "cat": "country_facts",
+      "tier": "600",
+      "q": "What country has 17 time zones (mainland)?",
+      "a": "Russia",
+      "issue": "Factually wrong. Russia has 11 time zones. No country has 17 mainland time zones.",
+      "fix": "Change to 'What country has 11 time zones?' -> 'Russia'."
+    },
+    {
+      "cat": "country_facts",
+      "tier": "600",
+      "q": "What country's flag is just green?",
+      "a": "Libya (old)",
+      "issue": "Outdated/ambiguous. Libya's all-green flag was replaced in 2011. As currently phrased it implies a current country.",
+      "fix": "Reword: 'What country's flag was just solid green from 1977-2011?' -> 'Libya'."
+    },
+    {
+      "cat": "country_facts",
+      "tier": "600",
+      "q": "What country is Machu Picchu in what mountain range?",
+      "a": "Andes",
+      "issue": "Broken English. Double 'what' in the question.",
+      "fix": "'What mountain range is Machu Picchu in?' -> 'Andes'."
+    },
+    {
+      "cat": "country_facts",
+      "tier": "600",
+      "q": "What country has the most islands?",
+      "a": "Sweden",
+      "issue": "Ambiguous. Depending on counting (lakes vs coastal), Finland, Sweden, Norway, and Canada are all cited. Not a single agreed answer.",
+      "fix": null
+    },
+    {
+      "cat": "country_facts",
+      "tier": "600",
+      "q": "What country's official name includes Plurinational?",
+      "a": "Bolivia",
+      "issue": "Correct but very easy phrasing; this is fine.",
+      "fix": null
+    },
+    {
+      "cat": "science",
+      "tier": "600",
+      "q": "What is the name of the largest asteroid in our solar system?",
+      "a": "Ceres",
+      "issue": "Outdated/ambiguous. Ceres has been classified as a dwarf planet (not an asteroid) since 2006. By mass, the largest asteroid today is Vesta (or 4 Vesta); by size it's debated.",
+      "fix": "Change to 'What was reclassified from the largest asteroid to a dwarf planet in 2006?' -> 'Ceres', or ask for Vesta as largest asteroid."
+    },
+    {
+      "cat": "science",
+      "tier": "600",
+      "q": "What is the approximate age of the Earth?",
+      "a": "About 4.54 billion years",
+      "issue": "Duplicate in same tier with a later question 'What is the age of the Earth approximately?' / '4.5 billion years'.",
+      "fix": "Remove one duplicate."
+    },
+    {
+      "cat": "science",
+      "tier": "600",
+      "q": "What is the fifth state of matter (besides plasma)?",
+      "a": "Bose-Einstein condensate",
+      "issue": "Phrasing confusing ('besides plasma' is odd since plasma is typically the 4th state). BEC is normally considered the 5th, which is what they want; clean up phrasing.",
+      "fix": "'What is the fifth state of matter, discovered in 1995?' -> 'Bose-Einstein condensate'."
+    },
+    {
+      "cat": "history",
+      "tier": "600",
+      "q": "Who assassinated Abraham Lincoln?",
+      "a": "John Wilkes Booth",
+      "issue": "Tier mismatch. Elementary-level fact, belongs in 200 (same answer is effectively also in history 200 via 'Who was assassinated at Ford's Theatre?').",
+      "fix": "Move to 200 or replace with harder question."
+    },
+    {
+      "cat": "history",
+      "tier": "600",
+      "q": "What year did Japan attack Pearl Harbor?",
+      "a": "1941",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "sports",
+      "tier": "600",
+      "q": "Which NFL team is based in Green Bay?",
+      "a": "Green Bay Packers",
+      "issue": "LEAK (answer contains 'Green Bay' from question) and extremely easy for 600.",
+      "fix": "Remove or replace."
+    },
+    {
+      "cat": "sports",
+      "tier": "600",
+      "q": "Which golfer has the most career PGA wins?",
+      "a": "Sam Snead",
+      "issue": "Ambiguous/outdated. Tiger Woods tied Sam Snead at 82 PGA Tour wins in 2019. Both are tied for most all-time.",
+      "fix": "'Sam Snead (tied with Tiger Woods at 82)' or reword to 'who held the record before Tiger Woods tied it'."
+    },
+    {
+      "cat": "sports",
+      "tier": "600",
+      "q": "Who is the all-time leading goalscorer in international soccer?",
+      "a": "Cristiano Ronaldo",
+      "issue": "Fact-check: true (Ronaldo holds the FIFA-recognized record as of 2026). Confirm answer stays updated if overtaken.",
+      "fix": null
+    },
+    {
+      "cat": "sports",
+      "tier": "400",
+      "q": "Who is the all-time leading scorer in Formula 1 history?",
+      "a": "Lewis Hamilton",
+      "issue": "Ambiguous phrasing. 'Leading scorer' in F1 usually means 'most career points'; Hamilton holds that. OK but phrase as 'most career points' to avoid confusion with race wins/championships.",
+      "fix": "'Who holds the record for most career points in Formula 1?' -> 'Lewis Hamilton'."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What is the only even prime?",
+      "a": "2",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What branch of math studies change?",
+      "a": "Calculus",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What branch of math deals with shapes and space?",
+      "a": "Geometry",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What number is represented by M in Roman numerals?",
+      "a": "1000",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What is 256 divided by 16?",
+      "a": "16",
+      "issue": "Tier mismatch. Too easy for 600; also a simple arithmetic fact.",
+      "fix": "Move to 200/400 or replace."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "Who discovered the law of averages?",
+      "a": "Jacob Bernoulli",
+      "issue": "Factually wrong. Bernoulli formulated the Law of Large Numbers. 'Law of averages' is a popular misnomer, not a recognized theorem.",
+      "fix": "'Who proved the Law of Large Numbers?' -> 'Jacob Bernoulli'."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What mathematician has a constant named g?",
+      "a": "Gauss",
+      "issue": "Ambiguous. Gauss's constant is typically G (capital). The gravitational constant (g) is a physics constant (Earth's surface gravity).",
+      "fix": "Replace with clearer question about the Gauss constant."
+    },
+    {
+      "cat": "math",
+      "tier": "600",
+      "q": "What is 24 factorial roughly as magnitude?",
+      "a": "Septillion",
+      "issue": "Awkward phrasing. 24! ≈ 6.2 × 10^23, which is actually in the 100-septillion / 10^23 range (short scale: septillion = 10^24). Technically 24! is slightly less than a septillion.",
+      "fix": "Replace with 'What is 10! exactly?' -> '3628800' or similar."
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "Who first landed a probe on a comet?",
+      "a": "Rosetta",
+      "issue": "Awkward. The landing craft on comet 67P was Philae (deployed from Rosetta). Question asks 'who' but Rosetta is a spacecraft, not a person/agency.",
+      "fix": "'What lander touched down on Comet 67P in 2014?' -> 'Philae' (from the Rosetta mission)."
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "Who discovered that the universe is expanding?",
+      "a": "Hubble",
+      "issue": "Duplicate. Earlier in the same tier: 'Who discovered the expansion of the universe?' / 'Edwin Hubble'.",
+      "fix": "Remove the duplicate."
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "What is the name of the 1986 space shuttle disaster?",
+      "a": "Challenger",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "What is the name of Jupiter's volcanic moon?",
+      "a": "Io",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "What was Voyager 1 launched to do?",
+      "a": "Study outer planets",
+      "issue": "Vague/subjective answer.",
+      "fix": "Replace with 'In what year was Voyager 1 launched?' -> '1977'."
+    },
+    {
+      "cat": "space",
+      "tier": "200",
+      "q": "What is the name of Earth's natural satellite?",
+      "a": "The Moon",
+      "issue": "Duplicate of 'What is the name of our natural satellite?' / 'Moon' in the same tier.",
+      "fix": "Remove one."
+    },
+    {
+      "cat": "space",
+      "tier": "200",
+      "q": "What do you call an object that orbits a planet?",
+      "a": "Moon",
+      "issue": "Ambiguous. 'Satellite' is the more general term; 'moon' is one kind (natural satellite). Many planets have artificial satellites too.",
+      "fix": "'Satellite' (or accept both)."
+    },
+    {
+      "cat": "general",
+      "tier": "600",
+      "q": "What is the most common surname in the world?",
+      "a": "Wang",
+      "issue": "Ambiguous. Often cited as Wang, but depending on romanization some sources say Li or Zhang. Safer to specify 'most common Chinese surname' or cite a source.",
+      "fix": "'Most common surname in China (by count)?' -> 'Wang'."
+    },
+    {
+      "cat": "general",
+      "tier": "600",
+      "q": "Who wrote '1984'?",
+      "a": "George Orwell",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "general",
+      "tier": "600",
+      "q": "What number is a baker's dozen?",
+      "a": "13",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "general",
+      "tier": "400",
+      "q": "What animal has the longest lifespan?",
+      "a": "Greenland shark",
+      "issue": "Ambiguous. Immortal jellyfish (Turritopsis dohrnii) is biologically immortal; ocean quahog clams have lived 500+ years. Greenland shark is the longest-lived vertebrate, not longest-lived animal overall.",
+      "fix": "'What is the longest-lived vertebrate?' -> 'Greenland shark'."
+    },
+    {
+      "cat": "general",
+      "tier": "400",
+      "q": "What is the only mammal that cannot jump?",
+      "a": "Elephant",
+      "issue": "Commonly stated 'fact' but disputed — rhinos, hippos, and sloths also cannot jump in the conventional sense. Widely accepted though.",
+      "fix": "Leave as is or reword 'one of the only large mammals that cannot jump'."
+    },
+    {
+      "cat": "general",
+      "tier": "400",
+      "q": "What is the longest-living tree species?",
+      "a": "Bristlecone pine",
+      "issue": "Ambiguous. Bristlecone has oldest individual (Methuselah), but clonal colonies like Pando (quaking aspen) are older as organisms.",
+      "fix": "'Which tree species contains the oldest individual non-clonal tree?' -> 'Bristlecone pine'."
+    },
+    {
+      "cat": "technology",
+      "tier": "600",
+      "q": "Who founded Intel?",
+      "a": "Gordon Moore",
+      "issue": "Incomplete. Intel was co-founded by Robert Noyce and Gordon Moore. Singular 'founded' is misleading.",
+      "fix": "'Who co-founded Intel along with Robert Noyce?' -> 'Gordon Moore' (or list both)."
+    },
+    {
+      "cat": "technology",
+      "tier": "600",
+      "q": "What company was originally called Blue Ribbon Sports before becoming a brand?",
+      "a": "Nike",
+      "issue": "Category mismatch. Nike is not a technology company; this belongs in general/pop_culture.",
+      "fix": "Move to general or pop_culture."
+    },
+    {
+      "cat": "marvel",
+      "tier": "600",
+      "q": "Who is the lead singer of the band named Kraven in What If...? — trick question; name the lead Celestial instead",
+      "a": "Arishem the Judge",
+      "issue": "Broken/awkward question. Meta 'trick question' phrasing is confusing and belongs to no natural quiz flow.",
+      "fix": "'Who is the lead Celestial seen in Eternals?' -> 'Arishem the Judge'."
+    },
+    {
+      "cat": "star_wars",
+      "tier": "600",
+      "q": "What is the name of the Zabrak warrior princess voiced by Sarah Michelle Gellar?",
+      "a": "The Seventh Sister — voiced by Sarah Michelle Gellar",
+      "issue": "Factually wrong AND leaks. The Seventh Sister is Mirialan, not Zabrak. She is also an Inquisitor, not a 'warrior princess'. The answer also echoes the actress from the question (leak).",
+      "fix": "'Who voices the Seventh Sister in Star Wars Rebels?' -> 'Sarah Michelle Gellar' or 'Which Inquisitor was voiced by Sarah Michelle Gellar?' -> 'The Seventh Sister'."
+    },
+    {
+      "cat": "star_wars",
+      "tier": "600",
+      "q": "Who voices Admiral Ackbar?",
+      "a": "Tim Rose performed him; voiced by Erik Bauersfeld",
+      "issue": "Awkward dual answer.",
+      "fix": "'Who voiced Admiral Ackbar in the original trilogy?' -> 'Erik Bauersfeld'."
+    },
+    {
+      "cat": "star_wars",
+      "tier": "600",
+      "q": "What is the name of Ahsoka's white lightsabers' origin?",
+      "a": "Purified from Sixth Brother Inquisitor's crystals",
+      "issue": "Awkward phrasing; also her sabers were purified from crystals of the Sixth Brother and another Inquisitor.",
+      "fix": "'How did Ahsoka obtain her white lightsaber crystals?' -> 'By purifying crystals from a defeated Inquisitor (the Sixth Brother)'."
+    },
+    {
+      "cat": "star_wars",
+      "tier": "600",
+      "q": "What is the name of Anakin's ship in The Phantom Menace pod race?",
+      "a": "His podracer (no unique craft name)",
+      "issue": "Awkward. Answer basically admits there's no name. Better to remove.",
+      "fix": "Replace."
+    },
+    {
+      "cat": "star_wars",
+      "tier": "600",
+      "q": "What planet does Grogu train with Luke Skywalker on?",
+      "a": "Ossus (in Book of Boba Fett)",
+      "issue": "Uncertain canon. The planet of Luke's Jedi temple where Grogu trains has not been explicitly named as Ossus in canon; Ossus is from Legends.",
+      "fix": "Remove or ask 'What Jedi Master trains Grogu briefly after the events of Season 2 of The Mandalorian?' -> 'Luke Skywalker'."
+    },
+    {
+      "cat": "dc",
+      "tier": "600",
+      "q": "Who created the Flash?",
+      "a": "Gardner Fox",
+      "issue": "Incomplete. Jay Garrick Flash was co-created by Gardner Fox and Harry Lampert.",
+      "fix": "Gardner Fox and Harry Lampert."
+    },
+    {
+      "cat": "dc",
+      "tier": "600",
+      "q": "Who created Hal Jordan's Green Lantern?",
+      "a": "John Broome",
+      "issue": "Incomplete. Hal Jordan was created by John Broome and Gil Kane.",
+      "fix": "John Broome and Gil Kane."
+    },
+    {
+      "cat": "dc",
+      "tier": "600",
+      "q": "Who is the fourth Robin?",
+      "a": "Stephanie Brown",
+      "issue": "Ambiguous. Damian Wayne is sometimes listed as the fourth Robin; Stephanie Brown had a brief, disputed run. Order depends on source.",
+      "fix": "Remove or clarify as 'briefly served as Robin between Tim Drake and Damian Wayne'."
+    },
+    {
+      "cat": "harry_potter",
+      "tier": "600",
+      "q": "Who was the original owner of the Elder Wand's phoenix feather core?",
+      "a": "It has a Thestral tail hair core",
+      "issue": "Broken question. Question falsely presupposes a phoenix-feather core; the answer merely corrects it. Not a valid quiz item.",
+      "fix": "'What is the core of the Elder Wand?' -> 'Thestral tail hair'."
+    },
+    {
+      "cat": "harry_potter",
+      "tier": "600",
+      "q": "Which wizard founded the Holyhead Harpies?",
+      "a": "Gwenog Jones captains them — founded by Glynnis Griffiths era unclear",
+      "issue": "Uncertain/awkward answer; essentially says we don't know. Remove.",
+      "fix": "Replace."
+    },
+    {
+      "cat": "harry_potter",
+      "tier": "600",
+      "q": "What is the incantation for the Fidelius Charm revealing unknown, but the charm's purpose is to hide a secret in whose soul?",
+      "a": "The Secret-Keeper's soul",
+      "issue": "Broken English. Run-on with extraneous clauses.",
+      "fix": "'Inside whom is the secret of a Fidelius Charm concealed?' -> 'The Secret-Keeper'."
+    },
+    {
+      "cat": "harry_potter",
+      "tier": "600",
+      "q": "Which character is revealed to be an Animagus stag, dog, rat, and wolf in the Marauders' group (which one is NOT an Animagus)?",
+      "a": "Remus Lupin (he is a werewolf, not an Animagus)",
+      "issue": "Convoluted phrasing with inline answer hint; also wolf is a werewolf not an Animagus form — misleading.",
+      "fix": "'Which Marauder is a werewolf rather than an Animagus?' -> 'Remus Lupin'."
+    },
+    {
+      "cat": "harry_potter",
+      "tier": "600",
+      "q": "What is the name of the tournament briefly mentioned that preceded the Triwizard and had high fatality rates?",
+      "a": "The original Triwizard Tournament itself (discontinued due to deaths)",
+      "issue": "Self-contradictory. Question asks for tournament that 'preceded the Triwizard', answer says it IS the Triwizard.",
+      "fix": "Remove."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Who played Marge in the live-action 'Wednesday' Netflix series?",
+      "a": "Catherine Zeta-Jones",
+      "issue": "Factually wrong name. In Wednesday, Catherine Zeta-Jones plays Morticia Addams, not 'Marge'.",
+      "fix": "'Who played Morticia Addams in the Wednesday Netflix series?' -> 'Catherine Zeta-Jones'."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Which NBA star retired after winning his fourth title with the Lakers in 2020?",
+      "a": "LeBron James",
+      "issue": "Factually wrong. LeBron won his fourth ring in 2020 but did not retire — he is still active in 2026.",
+      "fix": "'Which NBA star won his fourth title with the Lakers in 2020?' -> 'LeBron James'."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Which novel did 'Normal People' adaptation originate from?",
+      "a": "Sally Rooney",
+      "issue": "Category error. The novel is 'Normal People' (by Sally Rooney); the answer gives the author, not the novel. Also question contains the novel title (leak for the correct answer).",
+      "fix": "'Who wrote the novel Normal People?' -> 'Sally Rooney'."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "What is the name of the famous 2017 eclipse-style wedding for Hailey and Justin?",
+      "a": "Justin Bieber and Hailey Baldwin",
+      "issue": "Leak (question names 'Hailey and Justin'; answer repeats them) and factually wrong date (the Biebers' legal wedding was 2018, religious ceremony 2019).",
+      "fix": "Remove."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Who won 'The Bachelor' Season 26?",
+      "a": "Clayton Echard chose none",
+      "issue": "Awkward answer; also question asks 'who won' which is hard to answer since Clayton selected no one. Reword.",
+      "fix": "'Who was the lead of The Bachelor Season 26?' -> 'Clayton Echard'."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Who is the British DJ behind 'Lean On' with Major Lazer?",
+      "a": "MO",
+      "issue": "Factually wrong. 'Lean On' is by Major Lazer and DJ Snake (featuring MØ). MØ is a Danish singer, not a British DJ. Most likely intended answer is DJ Snake (French).",
+      "fix": "'Who is the DJ/producer who co-produced Lean On with Major Lazer?' -> 'DJ Snake'."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Which CEO stepped down from Twitter before Elon Musk took over?",
+      "a": "Parag Agrawal",
+      "issue": "Slight factual/phrasing issue. Agrawal was ousted by Musk, not 'stepped down' voluntarily; 'stepped down before Elon Musk took over' suggests a resignation. Phrasing misleading.",
+      "fix": "'Who was Twitter's CEO when Elon Musk acquired the company in 2022?' -> 'Parag Agrawal'."
+    },
+    {
+      "cat": "pop_culture",
+      "tier": "600",
+      "q": "Who created the 'It's Corn' viral meme via song remix?",
+      "a": "Tariq the Corn Kid",
+      "issue": "Ambiguous credit. The Corn Kid (Tariq) was interviewed; Schmoyoho (The Gregory Brothers) made the famous remix. Answer credits only Tariq.",
+      "fix": "'Who (the child) went viral in the It's Corn clip?' -> 'Tariq (the Corn Kid)' or credit Gregory Brothers for the song remix."
+    },
+    {
+      "cat": "movies",
+      "tier": "600",
+      "q": "What is the name of the fictional Dogme 95 movement founder?",
+      "a": "Lars von Trier",
+      "issue": "Factually wrong. Dogme 95 is a real film movement (not fictional) founded by Lars von Trier and Thomas Vinterberg in 1995.",
+      "fix": "'Who co-founded the Dogme 95 movement with Thomas Vinterberg?' -> 'Lars von Trier'."
+    },
+    {
+      "cat": "movies",
+      "tier": "600",
+      "q": "Which film features the Ludovico Technique?",
+      "a": "A Clockwork Orange",
+      "issue": "Tier mismatch. Well-known to general audiences; closer to 400.",
+      "fix": "Move to 400."
+    },
+    {
+      "cat": "music",
+      "tier": "600",
+      "q": "Who is the lead singer of Led Zeppelin?",
+      "a": "Robert Plant",
+      "issue": "Tier mismatch. Too easy for 600.",
+      "fix": "Move to 200/400."
+    },
+    {
+      "cat": "music",
+      "tier": "600",
+      "q": "Which hip-hop album is 'Midnight Marauders'?",
+      "a": "A Tribe Called Quest",
+      "issue": "Broken phrasing. Question asks which album; answer gives the band. 'Midnight Marauders' IS the album name.",
+      "fix": "'Which hip-hop group released Midnight Marauders?' -> 'A Tribe Called Quest'."
+    },
+    {
+      "cat": "music",
+      "tier": "600",
+      "q": "Who is the founder of Motown's Miracles group lead?",
+      "a": "Smokey Robinson",
+      "issue": "Broken English.",
+      "fix": "'Who was the lead singer of The Miracles?' -> 'Smokey Robinson'."
+    },
+    {
+      "cat": "music",
+      "tier": "600",
+      "q": "Which album did Fiona Apple release in 2020?",
+      "a": "Fetch the Bolt Cutters",
+      "issue": "Correct and fine.",
+      "fix": null
+    },
+    {
+      "cat": "science",
+      "tier": "600",
+      "q": "What is the only letter not appearing on the periodic table?",
+      "a": "J",
+      "issue": "Correct but also near the same question in general 600 ('only letter not in any US state name' -> Q). Watch for duplicates across categories but this one is OK.",
+      "fix": null
+    },
+    {
+      "cat": "geography",
+      "tier": "600",
+      "q": "Which Canadian province is the largest by area?",
+      "a": "Quebec",
+      "issue": "Correct (excluding territories). Consider clarifying province vs territory (Nunavut is a territory and larger).",
+      "fix": "'Which Canadian province (not territory) is the largest by area?' -> 'Quebec'."
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "What type of galaxy is Messier 87 (M87)?",
+      "a": "Elliptical",
+      "issue": "Correct. Note.",
+      "fix": null
+    },
+    {
+      "cat": "space",
+      "tier": "600",
+      "q": "What mission landed the first probe on Titan?",
+      "a": "Huygens",
+      "issue": "Awkward: Huygens is the probe (on the Cassini-Huygens mission); the mission name is Cassini-Huygens.",
+      "fix": "'What probe landed on Titan in 2005?' -> 'Huygens'."
+    },
+    {
+      "cat": "harry_potter",
+      "tier": "600",
+      "q": "In what year was Hogwarts founded, approximately?",
+      "a": "Around 990 AD",
+      "issue": "Correct per Rowling, but the fuzzy answer 'Around 990 AD' may cause grading issues. Accept 990 AD.",
+      "fix": "Tighten to '990 AD' or range 'c. 990s AD'."
+    },
+    {
+      "cat": "marvel",
+      "tier": "600",
+      "q": "What is the name of Phase 4's first theatrical MCU film?",
+      "a": "Black Widow",
+      "issue": "Ambiguous. Shang-Chi is sometimes cited as Phase 4's first standalone film; Black Widow is the first theatrical release after Phase 3. Keep but note.",
+      "fix": null
+    },
+    {
+      "cat": "history",
+      "tier": "600",
+      "q": "Who was the first Prime Minister of Britain?",
+      "a": "Robert Walpole",
+      "issue": "Commonly cited, but 'Prime Minister' title was not formally established until later; Walpole is considered the first de facto PM.",
+      "fix": "'Who is considered the first Prime Minister of Britain (de facto)?' -> 'Robert Walpole'."
+    },
+    {
+      "cat": "history",
+      "tier": "600",
+      "q": "Who was the last king of France?",
+      "a": "Louis Philippe I",
+      "issue": "Ambiguous. Louis Philippe I (King of the French, abdicated 1848) is the standard answer, but Napoleon III was Emperor (not king) after. Louis Philippe is the answer, confirm accepted.",
+      "fix": null
+    },
+    {
+      "cat": "technology",
+      "tier": "600",
+      "q": "What did eBay's founder first sell on the site?",
+      "a": "Laser pointer",
+      "issue": "Correct — a broken laser pointer. Clarify 'broken' if wanted.",
+      "fix": null
+    },
+    {
+      "cat": "technology",
+      "tier": "600",
+      "q": "Who wrote the first version of BASIC?",
+      "a": "Kemeny Kurtz",
+      "issue": "Phrasing issue. Should be 'Kemeny and Kurtz' (John Kemeny and Thomas Kurtz).",
+      "fix": "'John Kemeny and Thomas Kurtz'."
+    },
+    {
+      "cat": "music",
+      "tier": "600",
+      "q": "Who is the producer of 'Songs in the Key of Life'?",
+      "a": "Stevie Wonder",
+      "issue": "Correct — Stevie Wonder produced it — but he is also the artist; question may seem like a trivia puzzle. OK.",
+      "fix": null
+    },
+    {
+      "cat": "star_wars",
+      "tier": "600",
+      "q": "What is the name of the Jedi Master who trained Yoda?",
+      "a": "N'Kata Del Gormo",
+      "issue": "Legends (Expanded Universe) fact, not canon. As of Disney canon, Yoda's master is unnamed. Answer is from Legends.",
+      "fix": "Mark as Legends or remove."
+    }
+  ],
+  "notes": "Sampled tier-600 of: general, geography, science, history, sports, country_facts, space, math (fact-heavy priorities). Also sampled ~100-150 entries each of harry_potter, marvel, dc, star_wars, movies, music, pop_culture, technology tier-600, and peeked at tier-200/400 of a few for duplicates and tier-mismatches. Biggest recurring patterns: (1) tier-600 questions that are trivially easy for that tier (Lincoln assassin, Pearl Harbor year, '1984' author, Io, Challenger, 'only even prime', Roman numeral M, 256/16, Robert Plant as LZ singer, Green Bay Packers — these feel like leftover gap-fills not curated); (2) broken/awkward quiz-show phrasing in pop_culture, harry_potter, and star_wars with meta 'trick question' framing, parenthetical answer hints, or run-on questions; (3) outdated celebrity facts (LeBron 'retired', Wednesday/'Marge' naming error, MØ mis-attributed); (4) multi-creator works given only one creator (Intel, Flash/Gardner Fox, Hal Jordan/John Broome, BASIC) — consider accepting both names; (5) a handful of duplicates within the same tier (Earth's age twice in science 600, 'universe expanding' twice in space 600, natural satellite in space 200). Most 200/400 tiers scanned looked clean. Geography 600 had one clear factual error (Dardanelles/Black Sea). Country_facts 600 had a flat factual error (17 Russian time zones — should be 11)."
+}

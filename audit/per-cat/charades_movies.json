@@ -1,0 +1,1483 @@
+{
+  "200": [
+    {
+      "q": "Act this movie",
+      "a": "The Lion King",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Frozen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Toy Story",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Finding Nemo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Shrek",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Spider-Man",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Titanic",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Avengers",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Jurassic Park",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Back to the Future",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Home Alone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Aladdin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Coco",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Mask",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Jaws",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Cars",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Monsters, Inc.",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "E.T. the Extra-Terrestrial",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Little Mermaid",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Kung Fu Panda",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Despicable Me",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Karate Kid",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Frozen II",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Wreck-It Ralph",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Moana",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Up",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Jungle Book",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Zootopia",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "How to Train Your Dragon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Ratatouille",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Spider-Man: Homecoming",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Lego Movie",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Mask",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Up",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Speed",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Twister",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Coco",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Moana",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Cars",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Home Alone",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Lion King",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Jumanji",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Finding Dory",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Titanic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Spider-Man",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Harry Potter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Jurassic Park",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Avengers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Finding Nemo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Home Alone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Batman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Simpsons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Toy Story",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Friends",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Game of Thrones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Star Wars",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Aladdin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Beauty and the Beast",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Shrek",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Little Mermaid",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Cinderella",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Moana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Office",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "SpongeBob SquarePants",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Tom and Jerry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Madagascar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Kung Fu Panda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Ice Age",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Despicable Me",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Incredibles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Up",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "WALL-E",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Monsters Inc.",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Cars",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Mulan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Ratatouille",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Coco",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Brave",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Lilo and Stitch",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Jungle Book",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Scooby-Doo",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Act this movie",
+      "a": "The Dark Knight",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Pirates of the Caribbean",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Hunger Games",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Matrix",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Harry Potter",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Incredibles",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Forrest Gump",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Gladiator",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Breaking Bad",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Game of Thrones",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Stranger Things",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Office",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Friends",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Walking Dead",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Mandalorian",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Avatar: The Last Airbender",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Lord of the Rings",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Wizard of Oz",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mission: Impossible",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Wolf of Wall Street",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Shutter Island",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Truman Show",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mean Girls",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Devil Wears Prada",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Doctor Strange",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Black Panther",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Deadpool",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Hunger Games: Catching Fire",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Guardians of the Galaxy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Simpsons",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Brooklyn Nine-Nine",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Squid Game",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "True Detective",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Breaking Bad",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Blade Runner",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "La La Land",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mad Max",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Interstellar",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Kill Bill",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Matrix",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Batman",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "John Wick",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Top Gun",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Mask",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Dark Knight",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Interstellar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Prison Break",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Pirates of the Caribbean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Mission Impossible",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Gladiator",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Walking Dead",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Peaky Blinders",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Sherlock",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Inception",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Mandalorian",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Black Mirror",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Squid Game",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Money Heist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Narcos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Witcher",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Wednesday",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Ozark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Boys",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "House of the Dragon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Last of Us",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Avatar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Matrix",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "John Wick",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Top Gun",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Indiana Jones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Back to the Future",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Forrest Gump",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Godfather",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Pulp Fiction",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Yellowstone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Mindhunter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Better Call Saul",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Act this movie",
+      "a": "Inception",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Wolf of Wall Street",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Mad Max: Fury Road",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Silence of the Lambs",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "No Country for Old Men",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Pulp Fiction",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Godfather",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Interstellar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Nope",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Get Out",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Parasite",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Whiplash",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "There Will Be Blood",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Grand Budapest Hotel",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Everything Everywhere All at Once",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Banshees of Inisherin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Revenant",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Blade Runner 2049",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "A Clockwork Orange",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Inglourious Basterds",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Oldboy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Prisoners",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Arrival",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Memento",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Black Mirror",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "True Detective",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Peaky Blinders",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Better Call Saul",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Last of Us",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Succession",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "House of the Dragon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mindhunter",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mad Men",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Whiplash",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Shutter Island",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Donnie Darko",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Ford v Ferrari",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Prisoners",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Prestige",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Arrival",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Dune",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Revenant",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Nightcrawler",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Ex Machina",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Moneyball",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Bear",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Succession",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Andor",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "House of the Dragon",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The White Lotus",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mindhunter",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Peaky Blinders",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Social Network",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "There Will Be Blood",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Grand Budapest Hotel",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Shawshank Redemption",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Silence of the Lambs",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Truman Show",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "No Country for Old Men",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Eternal Sunshine",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "A Quiet Place",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Hunger Games",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mission Impossible",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Dark Knight",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Wolf of Wall Street",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "How I Met Your Mother",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Only Murders in the Building",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Devil Wears Prada",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Oppenheimer",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Gladiator",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Titanic",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Departed",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Casino Royale",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "La La Land",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Social Network",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Spotlight",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Her",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Birdman",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Zodiac",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Heat",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Collateral",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Sicario",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Drive",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Joker",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Inside Man",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Fighter",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Little Women",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Martian",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Logan",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "District 9",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Baby Driver",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Gone Baby Gone",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Holdovers",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Knives Out",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "John Wick Chapter 4",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Mission Impossible Fallout",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Dead Poets Society",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "A Few Good Men",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Skyfall",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Town",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Bourne Ultimatum",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Imitation Game",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Batman",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Nice Guys",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Hacksaw Ridge",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "Ford v Ferrari",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie or show",
+      "a": "The Truman Show",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Schindler's List",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "No Country for Old Men",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "2001: A Space Odyssey",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Apocalypse Now",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Parasite",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "A Clockwork Orange",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Shining",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Blade Runner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Lawrence of Arabia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Godfather Part II",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Westworld",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Succession",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Wire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Mad Men",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Twin Peaks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Sopranos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Dexter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Mr. Robot",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "True Detective",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Fargo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Taxi Driver",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Citizen Kane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "There Will Be Blood",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "12 Angry Men",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "The Silence of the Lambs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Fight Club",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Se7en",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Requiem for a Dream",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Mulholland Drive",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Act out this movie or TV show!",
+      "a": "Roma",
+      "file": "App.jsx"
+    }
+  ]
+}

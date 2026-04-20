@@ -1,0 +1,543 @@
+{
+  "200": [
+    {
+      "q": "What type is Pikachu?",
+      "a": "Electric",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What item do trainers throw to catch Pokemon?",
+      "a": "A Poke Ball",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What type is Squirtle?",
+      "a": "Water",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What type is Bulbasaur?",
+      "a": "Grass and Poison",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What type is Charmander?",
+      "a": "Fire",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What region is Ash from?",
+      "a": "Kanto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which duo chase Pikachu for Team Rocket?",
+      "a": "Jessie and James",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon was created from Mew's DNA?",
+      "a": "Mewtwo",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What item evolves Eevee into Jolteon?",
+      "a": "A Thunder Stone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What item evolves Eevee into Flareon?",
+      "a": "A Fire Stone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What professor studies Pokemon in Johto?",
+      "a": "Professor Elm",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What sleeping Normal-type Pokemon blocks roads?",
+      "a": "Snorlax",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What type is Gyarados?",
+      "a": "Water and Flying",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fossil Pokemon can be revived from the Helix Fossil?",
+      "a": "Omanyte",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Pikachu's evolved form?",
+      "a": "Raichu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What island houses the Pokemon League in Kanto?",
+      "a": "Indigo Plateau",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What legendary Pokemon controls time?",
+      "a": "Dialga",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What legendary Pokemon controls space?",
+      "a": "Palkia",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What trio includes Squirtle, Charmander, and Bulbasaur?",
+      "a": "Kanto starters",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What type is Jigglypuff?",
+      "a": "Normal and Fairy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon is known for carrying a bone club?",
+      "a": "Cubone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What ball is guaranteed to catch a Pokemon?",
+      "a": "Master Ball",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon can transform into other Pokemon?",
+      "a": "Ditto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon number in the original Pokedex is Mew?",
+      "a": "151",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What number in the Pokedex is Pikachu?",
+      "a": "25",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What type is Squirtle?",
+      "a": "Water",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What device stores most Pokemon?",
+      "a": "A Poke Ball",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What item catches Pokémon?",
+      "a": "Poké Ball",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What type is Eevee?",
+      "a": "Normal",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What does Pikachu evolve into?",
+      "a": "Raichu — using a Thunder Stone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the three starter types?",
+      "a": "Fire, Water, and Grass",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ash's main rival in the original series?",
+      "a": "Gary Oak",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pokédex?",
+      "a": "A device that records information about every Pokémon encountered",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mewtwo?",
+      "a": "A genetically engineered Pokémon created from Mew's DNA — one of the most powerful Pokémon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Team Rocket want?",
+      "a": "To steal rare Pokémon for their boss Giovanni",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the three legendary birds?",
+      "a": "Articuno, Zapdos, and Moltres",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the move Thunderbolt?",
+      "a": "Pikachu's signature special Electric attack",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Professor Oak?",
+      "a": "The Pokémon professor who gives trainers their first Pokémon and Pokédex",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is an evolution stone?",
+      "a": "A special stone that triggers evolution in certain Pokémon — e.g. Fire Stone, Water Stone",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What Pokemon evolves into Charizard?",
+      "a": "Charmeleon",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What professor lives in Pallet Town?",
+      "a": "Professor Oak",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What region was introduced in Gold and Silver?",
+      "a": "Johto",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which Eeveelution is Water-type?",
+      "a": "Vaporeon",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which professor gives the Kanto starters?",
+      "a": "Professor Oak",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What item fully heals HP and status conditions?",
+      "a": "Full Restore",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city does Ash begin in?",
+      "a": "Pallet Town",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What device records Pokémon data?",
+      "a": "Pokédex",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What trio constantly hunts Pikachu?",
+      "a": "Team Rocket",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What electric mouse is Ash's partner?",
+      "a": "Pikachu",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What item heals a fainted Pokémon completely?",
+      "a": "Max Revive",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What evolution stone changes Eevee into Jolteon?",
+      "a": "Thunder Stone",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What professor begins Ash's journey?",
+      "a": "Professor Oak",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What ball is red and white?",
+      "a": "Poké Ball",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What stone evolves Pikachu into Raichu?",
+      "a": "Thunder Stone",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What water starter evolves into Wartortle?",
+      "a": "Squirtle",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What grass starter evolves into Ivysaur?",
+      "a": "Bulbasaur",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What nurse appears in almost every Pokémon Center?",
+      "a": "Nurse Joy",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What item heals 20 HP in many games?",
+      "a": "Potion",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What professor leads Sinnoh research?",
+      "a": "Professor Rowan",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What role is Brock best known for?",
+      "a": "Gym Leader",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What region is Pokémon Ruby and Sapphire set in?",
+      "a": "Hoenn",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Pokémon type is super-effective against water?",
+      "a": "Grass or Electric",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Ash Ketchum's main rival in the original series?",
+      "a": "Gary Oak",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the difference between a Pokémon's HP and PP?",
+      "a": "HP is health points — when 0, Pokémon faints. PP is the number of times a move can be used",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Elite Four?",
+      "a": "Four powerful trainers who must be defeated before challenging the Pokémon League Champion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lance?",
+      "a": "The Dragon-type trainer — Pokémon League Champion in Gold/Silver",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a shiny Pokémon?",
+      "a": "An extremely rare colour variant with different palette — odds are 1 in 4096",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the GTS?",
+      "a": "Global Trade System — allowing players to trade Pokémon with anyone worldwide",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mega Evolution?",
+      "a": "A temporary transformation available in X and Y — powerfully enhancing a Pokémon's stats mid-battle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the mythical Pokémon Mew?",
+      "a": "A rare Pokémon said to contain the DNA of every Pokémon — source of Mewtwo's creation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a held item?",
+      "a": "An object a Pokémon carries into battle — it can boost stats, restore HP, or affect moves",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is STAB in Pokémon?",
+      "a": "Same Type Attack Bonus — a 50% damage boost when a Pokémon uses a move matching its own type",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Eevee?",
+      "a": "It can evolve into eight different Pokémon (Eevolutions) depending on conditions or stones used",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What item evolves Eevee into Vaporeon?",
+      "a": "A Water Stone",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What legendary trio includes Articuno, Zapdos, and Moltres?",
+      "a": "The Legendary Birds",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What Pokemon says its own name and joins Team Rocket in the anime?",
+      "a": "Meowth",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What move leaves a target with at least 1 HP?",
+      "a": "False Swipe",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What item evolves Onix into Steelix when traded?",
+      "a": "Metal Coat",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What trio includes Raikou, Entei, and Suicune?",
+      "a": "The legendary beasts",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What region is Scarlet and Violet set in?",
+      "a": "Paldea",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What ghost Pokémon is known for its purple grin?",
+      "a": "Gengar",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What Eevee evolution uses a Water Stone?",
+      "a": "Vaporeon",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What final evolution follows Bulbasaur and Ivysaur?",
+      "a": "Venusaur",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What fire starter evolves into Charmeleon?",
+      "a": "Charmander",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What dragon-like pseudo-legendary starts as Dratini?",
+      "a": "Dragonite",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What item stores captured Pokémon digitally?",
+      "a": "PC",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What evolution item turns Eevee into Vaporeon?",
+      "a": "Water Stone",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Red's rival called?",
+      "a": "Blue",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What bird trio includes Zapdos and Moltres?",
+      "a": "Legendary birds",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the first Pokémon in the National Pokédex?",
+      "a": "Bulbasaur",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What orange dragon-like evolution follows Charmander?",
+      "a": "Charmeleon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What ball is better for bug and water Pokémon?",
+      "a": "Net Ball",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What item prevents evolution?",
+      "a": "Everstone",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What plateau houses the Kanto Elite Four?",
+      "a": "Indigo Plateau",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What elite trainer title is Cynthia famous for?",
+      "a": "Champion",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which Pokémon is number 150 in the Kanto Pokédex?",
+      "a": "Mewtwo",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Giovanni's team?",
+      "a": "Team Rocket",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is EV training?",
+      "a": "Effort Value training — defeating specific Pokémon to maximise stats through hidden values",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pokémon lore behind the creation of the universe?",
+      "a": "Arceus created the universe; Dialga (time), Palkia (space), and Giratina (antimatter) were born from it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Red in the games?",
+      "a": "The original protagonist — he appears as the final boss in Gold/Silver, representing the hardest challenge",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Nuzlocke Challenge?",
+      "a": "A self-imposed ruleset: only catch the first Pokémon per route, and fainted Pokémon are permanently dead",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the difference between Legendary and Mythical Pokémon?",
+      "a": "Legendaries can be caught in the game; Mythicals are distributed through events only",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hidden Ability system?",
+      "a": "Each Pokémon species has a rare ability not normally obtainable — only through special events or Ability Patches",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the deepest lore of Pokémon's origins?",
+      "a": "The anime and games hint at a world that was reshaped by Arceus and nearly destroyed by Groudon, Kyogre, and Rayquaza's conflict",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is IVs in competitive Pokémon?",
+      "a": "Individual Values — hidden stats from 0-31 in each stat category, determining a Pokémon's maximum potential",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Pokémon GO's significance?",
+      "a": "Released 2016 — it became a global phenomenon with augmented reality catching, breaking download records",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Ultra Beast concept?",
+      "a": "Extradimensional Pokémon from Ultra Space introduced in Sun/Moon — they behave like invasive organisms",
+      "file": "App.jsx"
+    }
+  ]
+}

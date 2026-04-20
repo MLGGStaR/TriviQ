@@ -1,0 +1,743 @@
+{
+  "200": [
+    {
+      "q": "What house is Luna Lovegood in?",
+      "a": "Ravenclaw",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Hagrid's giant dog?",
+      "a": "Fang",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What spell opens locked doors?",
+      "a": "Alohomora",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Hagrid's three-headed dog called?",
+      "a": "Fluffy",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What school does Harry attend?",
+      "a": "Hogwarts",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What sport is played on broomsticks?",
+      "a": "Quidditch",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the headmaster of Hogwarts?",
+      "a": "Albus Dumbledore",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What platform does the Hogwarts Express leave from?",
+      "a": "Platform 9¾",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Harry's enemy at school?",
+      "a": "Draco Malfoy",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the villain?",
+      "a": "Lord Voldemort",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Harry Potter in the films?",
+      "a": "Daniel Radcliffe",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Hermione's last name?",
+      "a": "Granger",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Hagrid's pet dragon?",
+      "a": "Norbert",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the magical map called?",
+      "a": "Marauder's Map",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What house is known for cunning and ambition?",
+      "a": "Slytherin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Harry Potter's Hogwarts house?",
+      "a": "Gryffindor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Name of Harry's owl?",
+      "a": "Hedwig",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Spell that disarms an opponent?",
+      "a": "Expelliarmus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Lumos do?",
+      "a": "Lights up the tip of your wand",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The wizarding prison?",
+      "a": "Azkaban",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harry's Quidditch position?",
+      "a": "Seeker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harry's godfather?",
+      "a": "Sirius Black",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Form of Hermione's Patronus?",
+      "a": "An otter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harry's best friend?",
+      "a": "Ron Weasley",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dumbledore's role at Hogwarts?",
+      "a": "Headmaster",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Train to Hogwarts?",
+      "a": "The Hogwarts Express — from Platform 9¾",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Neville Longbottom?",
+      "a": "A fellow Gryffindor who kills Nagini with the Sword of Gryffindor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Horcrux?",
+      "a": "An object containing a fragment of a dark wizard's soul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Golden Snitch?",
+      "a": "A small winged ball — catching it ends the Quidditch match and scores 150 points",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Diagon Alley?",
+      "a": "A hidden wizarding shopping street in London",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are house elves?",
+      "a": "Magical creatures bound to serve wizarding families — Dobby is the most famous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Voldemort?",
+      "a": "The Dark Lord — born Tom Marvolo Riddle — who killed Harry's parents",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Muggle?",
+      "a": "A non-magical person",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Levitation spell?",
+      "a": "Wingardium Leviosa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Four Hogwarts houses?",
+      "a": "Gryffindor, Slytherin, Ravenclaw, and Hufflepuff",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rubeus Hagrid?",
+      "a": "Keeper of Keys and Grounds at Hogwarts — Harry's first connection to the wizarding world",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Accio do?",
+      "a": "Summons an object to the caster — a Summoning Charm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is butterbeer?",
+      "a": "A popular wizarding drink served at the Three Broomsticks — slightly warming",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sorting Hat?",
+      "a": "A magical hat that places new students into their Hogwarts house",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Professor McGonagall?",
+      "a": "Deputy Headmistress, Transfiguration teacher, and head of Gryffindor house",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Forbidden Forest?",
+      "a": "A dark, dangerous forest on Hogwarts grounds — home to centaurs, unicorns, and giant spiders",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Polyjuice Potion?",
+      "a": "A potion temporarily transforming the drinker into another person's physical appearance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Chamber of Secrets?",
+      "a": "A hidden chamber in Hogwarts created by Salazar Slytherin — home to the Basilisk",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ron's rat's real identity?",
+      "a": "Peter Pettigrew (Wormtail) — hiding in Animagus form for 12 years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does a Boggart transform into?",
+      "a": "The viewer's greatest fear",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Who teaches Potions after Snape moves to Defense Against the Dark Arts?",
+      "a": "Horace Slughorn",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the violent tree on the Hogwarts grounds called?",
+      "a": "The Whomping Willow",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What creature can only be seen by people who have witnessed death?",
+      "a": "Thestrals",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Hermione's cat named?",
+      "a": "Crookshanks",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the hidden map used by Harry and his friends?",
+      "a": "The Marauder's Map",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What map shows everyone at Hogwarts?",
+      "a": "Marauder's Map",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What giant spider belongs to Hagrid?",
+      "a": "Aragog",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What broom model does Harry receive from McGonagall?",
+      "a": "Nimbus 2000",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What map reveals secret passages at Hogwarts?",
+      "a": "Marauder's Map",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What village sits beside Hogwarts?",
+      "a": "Hogsmeade",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What creature guards the Chamber of Secrets?",
+      "a": "Basilisk",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is a Horcrux?",
+      "a": "An object containing a piece of a soul",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many Horcruxes did Voldemort make?",
+      "a": "7 (intentionally 6 + Harry)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the Weasley's house?",
+      "a": "The Burrow",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What are the three Deathly Hallows?",
+      "a": "Elder Wand, Resurrection Stone, Cloak of Invisibility",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Voldemort's snake?",
+      "a": "Nagini",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What magical creature guards Gringotts vaults?",
+      "a": "Dragons",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who kills Dumbledore?",
+      "a": "Snape",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Patronus charm used for?",
+      "a": "Repelling Dementors",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What form does Harry's Patronus take?",
+      "a": "A stag",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the gamekeeper at Hogwarts?",
+      "a": "Rubeus Hagrid",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Three Deathly Hallows?",
+      "a": "The Elder Wand, the Resurrection Stone, and the Invisibility Cloak",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Core of Harry's wand?",
+      "a": "A phoenix feather from Dumbledore's phoenix Fawkes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Half-Blood Prince?",
+      "a": "Severus Snape",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the four founders of Hogwarts?",
+      "a": "Godric Gryffindor, Salazar Slytherin, Rowena Ravenclaw, Helga Hufflepuff",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Parseltongue?",
+      "a": "The language of snakes — a rare and dark-associated ability",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Marauders?",
+      "a": "James Potter (Prongs), Sirius Black (Padfoot), Remus Lupin (Moony), Peter Pettigrew (Wormtail)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Muggle vs Squib difference?",
+      "a": "A Muggle has no magic; a Squib is born to a magical family but has no powers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Bellatrix Lestrange?",
+      "a": "Voldemort's most loyal follower — cousin of Sirius Black",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Room of Requirement?",
+      "a": "A magical room that appears when needed, providing whatever is required",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Dobby?",
+      "a": "A house-elf who becomes fiercely loyal to Harry and is freed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Pensieve?",
+      "a": "A stone basin used to review memories — Dumbledore uses one with Harry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The three Unforgivable Curses?",
+      "a": "Avada Kedavra (death), Crucio (torture), Imperio (mind control)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Order of the Phoenix?",
+      "a": "A secret organisation founded by Dumbledore to fight Voldemort and the Death Eaters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the full prophecy?",
+      "a": "Neither can live while the other survives — linking Harry and Voldemort's fates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mad-Eye Moody?",
+      "a": "Alastor Moody — a retired Auror famous for his magical eye and constant vigilance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Hogwarts motto?",
+      "a": "Draco dormiens nunquam titillandus — Never tickle a sleeping dragon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Patronus?",
+      "a": "A positive force conjured to repel Dementors — takes the shape of an animal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sword of Gryffindor?",
+      "a": "A goblin-made sword that imbibes what makes it stronger — used to destroy Horcruxes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Luna Lovegood?",
+      "a": "An eccentric Ravenclaw who becomes one of Harry's closest friends",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Marauder's Map?",
+      "a": "A magical map of Hogwarts showing every person's location in real time",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Dark Mark?",
+      "a": "Voldemort's symbol — a skull with a serpent tongue — cast when Death Eaters kill",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gilderoy Lockhart?",
+      "a": "The fraudulent DADA teacher in Year 2 — takes credit for others' achievements",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nymphadora Tonks?",
+      "a": "A Metamorphmagus Auror and Order of the Phoenix member — she marries Remus Lupin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Arithmancy?",
+      "a": "A Hogwarts course studying magical properties of numbers — Hermione's favourite subject",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who guards Azkaban?",
+      "a": "Dementors — soul-sucking creatures that feed on happiness",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Professor Quirrell?",
+      "a": "DADA teacher in Year 1 — secretly hosting Voldemort's spirit on the back of his head",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Mirror of Erised?",
+      "a": "A mirror showing the viewer's deepest desire — Erised is 'desire' spelled backwards",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nicolas Flamel?",
+      "a": "A real historical alchemist — in HP he created the only known Philosopher's Stone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Occlumency?",
+      "a": "Magically defending the mind against external penetration — opposite of Legilimency",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Elder Wand's allegiance?",
+      "a": "The wand's true master is whoever disarmed the previous master — Draco unknowingly became master, then Harry",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What magical branch studies predicting the future?",
+      "a": "Divination",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What does the spell Sectumsempra do?",
+      "a": "It slashes the target as if by an invisible sword",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Voldemort's middle name?",
+      "a": "Marvolo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Snape's mother's maiden name?",
+      "a": "Prince",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What Gringotts vault temporarily held the Philosopher's Stone?",
+      "a": "Vault 713",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the motto of the Black family?",
+      "a": "Toujours Pur",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What spell unlocks doors?",
+      "a": "Alohomora",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Dumbledore's phoenix called?",
+      "a": "Fawkes",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What charm summons objects?",
+      "a": "Accio",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What helps Harry breathe underwater in the Triwizard Tournament?",
+      "a": "Gillyweed",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the room that appears when needed called?",
+      "a": "Room of Requirement",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What object stores Slughorn's altered memory?",
+      "a": "Pensieve memory",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What spell destroys a Horcrux with a fang in the Chamber?",
+      "a": "Basilisk venom",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What dragon does Harry face in the first Triwizard task?",
+      "a": "Hungarian Horntail",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What station does Harry return to after death in Deathly Hallows Part 2?",
+      "a": "King's Cross",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What shop does Ollivander own in Diagon Alley?",
+      "a": "Wand shop",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the core of Harry's wand?",
+      "a": "Phoenix feather",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What phoenix provides feathers for Harry's and Voldemort's wands?",
+      "a": "Fawkes",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What spell kills?",
+      "a": "Avada Kedavra",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was the original owner of the Elder Wand (in legend)?",
+      "a": "Antioch Peverell",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Room of Requirement?",
+      "a": "A room that appears when someone needs it",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is R.A.B.?",
+      "a": "Regulus Arcturus Black",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What did Snape's Patronus reveal?",
+      "a": "A doe — his love for Lily Potter",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Hermione's middle name?",
+      "a": "Jean",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Neville's parents?",
+      "a": "Frank and Alice Longbottom",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who destroys the last Horcrux (Nagini)?",
+      "a": "Neville Longbottom",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Felix Felicis do?",
+      "a": "Grants good luck",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was the Battle of Hogwarts?",
+      "a": "1998",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the true master of the Elder Wand at the end?",
+      "a": "Harry Potter",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Voldemort's real name?",
+      "a": "Tom Marvolo Riddle",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who became Minister for Magic after the war?",
+      "a": "Kingsley Shacklebolt",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "List all Horcruxes and how they were destroyed.",
+      "a": "Diary: Basilisk fang. Ring: Sword. Locket: Ron/Sword. Cup: Hermione/Basilisk fang. Diadem: Fiendfyre. Nagini: Neville/Sword. Harry: Voldemort's own Killing Curse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the full prophecy linking Harry and Voldemort?",
+      "a": "The one with the power to vanquish the Dark Lord approaches... neither can live while the other survives",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Original owner of the Elder Wand before Dumbledore?",
+      "a": "Gellert Grindelwald (who took it from Gregorovitch)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Fidelius Charm?",
+      "a": "It conceals a secret inside a person's soul — only the Secret-Keeper can reveal it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Why is Harry being a Horcrux significant?",
+      "a": "Voldemort accidentally made Harry a Horcrux — Harry had to let Voldemort kill him to destroy that soul fragment",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dumbledore's full name?",
+      "a": "Albus Percival Wulfric Brian Dumbledore",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Why did the Sorting Hat consider putting Harry in Slytherin?",
+      "a": "He had Slytherin qualities — partly because he carried a piece of Voldemort's soul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Lily Potter's sacrifice?",
+      "a": "Her love-based sacrifice created magical protection that deflected Voldemort's Killing Curse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Animagus transformation?",
+      "a": "A wizard who can transform into an animal — James (stag), Sirius (dog), Peter (rat), McGonagall (cat)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the nature of Voldemort's soul at the end?",
+      "a": "So fragmented from creating Horcruxes, his soul becomes a stunted, damaged, baby-like form seen in King's Cross",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Why could Neville Longbottom have been the Chosen One?",
+      "a": "The prophecy fit him too — but Voldemort chose Harry, marking him as his equal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the wizarding economy?",
+      "a": "Based on Galleons (gold), Sickles (silver), and Knuts (bronze) — Gringotts is the goblins' bank",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Credence Barebone?",
+      "a": "An Obscurial in Fantastic Beasts — later controversially revealed as Aurelius Dumbledore",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is wandlore?",
+      "a": "Wands choose the wizard — made from wood and a magical core, each combination creates unique properties",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Triwizard Tournament?",
+      "a": "A dangerous competition between Hogwarts, Beauxbatons, and Durmstrang — minimum age 17",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the difference between Harry's wand and Voldemort's?",
+      "a": "Both have cores from the same phoenix (Fawkes) — causing Priori Incantatem when they duel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Time-Turner in Prisoner of Azkaban?",
+      "a": "Harry and Hermione use it to go back three hours — saving Buckbeak and Sirius Black",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dumbledore's backstory with Grindelwald?",
+      "a": "He was once close friends and shared Grindelwald's vision of wizard supremacy — until Ariana's death changed him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Deathly Hallows symbol?",
+      "a": "A triangle (cloak) enclosing a circle (stone) with a line (wand) — also used by Grindelwald as his mark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Snape's always?",
+      "a": "Snape's Patronus was always a doe — the same as Lily Potter's — revealing his lifelong love for her",
+      "file": "App.jsx"
+    }
+  ]
+}

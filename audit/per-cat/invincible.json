@@ -1,0 +1,503 @@
+{
+  "200": [
+    {
+      "q": "What is Invincible's real name?",
+      "a": "Mark Grayson",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What species is Omni-Man?",
+      "a": "Viltrumite",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Mark's father?",
+      "a": "Omni-Man / Nolan Grayson",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Omni-Man's real first name?",
+      "a": "Nolan",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Mark's mother's name?",
+      "a": "Debbie Grayson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What species are Omni-Man and Mark?",
+      "a": "Viltrumites",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Mark's girlfriend in season 1?",
+      "a": "Amber Bennett",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What government agency does Cecil run?",
+      "a": "The Global Defense Agency",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the demon detective investigating Omni-Man?",
+      "a": "Damien Darkblood",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Robot's human original name?",
+      "a": "Rudy Connors",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Mark's best friend?",
+      "a": "William Clockwell",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of Mark's half-brother?",
+      "a": "Oliver",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the warrior princess-style hero on the original Guardians?",
+      "a": "War Woman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the hero who shrinks and duplicates?",
+      "a": "Dupli-Kate",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the cursed young hero who turns old when she shrinks?",
+      "a": "Monster Girl",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What alien champion loves fighting strong opponents?",
+      "a": "Battle Beast",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the martian-like telepath on the original Guardians?",
+      "a": "Martian Man",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the speedster on the original Guardians?",
+      "a": "Red Rush",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the fish-man king allied with Cecil?",
+      "a": "Aquarus",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Mark Grayson's superhero name?",
+      "a": "Invincible",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What color is Atom Eve's energy?",
+      "a": "Pink",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is Mark Grayson?",
+      "a": "The son of Omni-Man who becomes the superhero Invincible",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Omni-Man?",
+      "a": "Mark's father — the world's most powerful hero who is secretly a Viltrumite conqueror",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What planet are the Viltrumites from?",
+      "a": "Viltrum — a planet of superhumans with a conquering empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Atom Eve?",
+      "a": "A superhero who can manipulate matter at an atomic level — Mark's love interest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Cecil Stedman?",
+      "a": "The morally grey head of the Global Defense Agency",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is William?",
+      "a": "Mark's best friend who is gay and dates Rick Sheridan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What show is Invincible based on?",
+      "a": "The Image Comics series by Robert Kirkman — creator of The Walking Dead",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Nolan Grayson's hero name?",
+      "a": "Omni-Man",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Amber?",
+      "a": "Mark's high school girlfriend who eventually learns his secret",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What makes Invincible's fight scenes distinctive?",
+      "a": "They are incredibly brutal and bloody — characters sustain serious, realistic damage",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What superhero team does Mark first idolize?",
+      "a": "The Guardians of the Globe",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the demon detective investigating the massacre?",
+      "a": "Damien Darkblood",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Atom Eve's real first name?",
+      "a": "Samantha",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What alien race is Nolan really from?",
+      "a": "Viltrumite",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What young hero group does Mark join early on?",
+      "a": "Teen Team",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What fast-aging aliens keep attacking Earth from another dimension?",
+      "a": "The Flaxans",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Atom Eve's real first name?",
+      "a": "Samantha",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What agency does Cecil run?",
+      "a": "GDA",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What fish-headed hero is on the Guardians of the Globe?",
+      "a": "Aquarus",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What speedster hero dies in Omni-Man's massacre?",
+      "a": "Red Rush",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What teen team member shrinks and grows?",
+      "a": "Dupli-Kate",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What blue alien ally keeps returning to Earth?",
+      "a": "Allen",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What teen hero can duplicate herself?",
+      "a": "Dupli-Kate",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What alien empire wants Earth?",
+      "a": "Viltrum Empire",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Mark's father better known as?",
+      "a": "Omni-Man",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What alien empire does Omni-Man secretly serve?",
+      "a": "Viltrum Empire",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Atom Eve's first name?",
+      "a": "Samantha",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What government agency does Cecil run?",
+      "a": "The Global Defense Agency",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What teen heroine can duplicate herself?",
+      "a": "Dupli-Kate",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What blue-skinned alien repeatedly returns to Earth?",
+      "a": "Allen the Alien",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What demon detective investigates Omni-Man?",
+      "a": "Damien Darkblood",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What alien species repeatedly invades Earth with time distortion?",
+      "a": "The Flaxans",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the leader of the Guardians of the Globe before he is killed?",
+      "a": "Immortal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rex Splode's power?",
+      "a": "He can charge any object with explosive energy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Viltrumite conquest plan?",
+      "a": "Viltrumites embed themselves on planets, weaken them, then bring in the empire — Omni-Man's mission on Earth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Angstrom Levy?",
+      "a": "A villain who can travel between dimensions — he absorbs the memories of alternate Marks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Immortal?",
+      "a": "A resurrectable superhero who keeps dying and coming back — one of the original Guardians",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sequids?",
+      "a": "An alien hive-mind parasitic species that nearly conquers Earth through Rus Livingston",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Robot?",
+      "a": "A genius hero who creates a body for himself — secretly manipulative and eventually villainous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Omni-Man's fight with Mark?",
+      "a": "Nolan beats Mark nearly to death before flying away — the show's most harrowing and emotionally complex scene",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rex Splode?",
+      "a": "An explosive-powered hero who dates Atom Eve — later sacrifices himself heroically",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Multi-Paul situation?",
+      "a": "Duplicate Man creates thousands of copies of himself who all have distinct lives — they stage a protest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is D.A. Sinclair?",
+      "a": "A scientist who turns humans into Reanimen — cybernetic zombie soldiers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Thragg?",
+      "a": "The grand regent of Viltrum — the most powerful Viltrumite and primary later villain",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What alien species repeatedly invades Earth in time-skipping bursts?",
+      "a": "The Flaxans",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Nolan's later son?",
+      "a": "Oliver",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What agency does Cecil Stedman run?",
+      "a": "The Global Defense Agency",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What blue-skinned scientist creates the ReAnimen?",
+      "a": "D.A. Sinclair",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What crime boss has a giant cybernetic jaw?",
+      "a": "Machine Head",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What alien ally repeatedly checks on Earth and Mark?",
+      "a": "Allen the Alien",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Omni-Man's human name?",
+      "a": "Nolan Grayson",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Robot's human clone called?",
+      "a": "Rudy",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What alien planet does Mark visit with Nolan?",
+      "a": "Thraxa",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Allen the Alien's species?",
+      "a": "Unopan",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Cecil's full surname?",
+      "a": "Stedman",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the immortal ruler of Atlantis called?",
+      "a": "Aquarus",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Monster Girl's curse side effect?",
+      "a": "She gets younger",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Omni-Man's mission on Earth?",
+      "a": "Prepare it for Viltrum",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What planet does Nolan later live on with a new family?",
+      "a": "Thraxa",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What insectoid world does Mark help defend with Nolan?",
+      "a": "Thraxa",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the half-Viltrumite baby called?",
+      "a": "Oliver",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain builds Reanimen from corpses?",
+      "a": "D.A. Sinclair",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What empire does Omni-Man secretly serve?",
+      "a": "Viltrum Empire",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What kaiju-like parasite threat attacks Earth repeatedly?",
+      "a": "Sequids",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What red-armored Viltrumite woman confronts Mark later on?",
+      "a": "Anissa",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What undersea Guardian dies in the massacre?",
+      "a": "Aquarus",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the name of Cecil's predecessor hero leader's team?",
+      "a": "The Guardians of the Globe",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What scientist creates Reanimen from corpses?",
+      "a": "D.A. Sinclair",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the deeper theme of Omni-Man's arc?",
+      "a": "Can love for your family override the ideology you were raised with — Nolan ultimately chooses Mark over Viltrum",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Invincible's brutality vs other superhero media?",
+      "a": "It deconstructs the idea that heroes emerge from fights unscathed — consequences are visceral and real",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Viltrumite weakness?",
+      "a": "A specific sound frequency — and the Scourge Virus that was nearly extinct from their population",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Allen the Alien?",
+      "a": "A Champion Evaluation Officer who becomes Mark's ally — eventually one of the most powerful beings in the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Coalition of Planets?",
+      "a": "An alliance of worlds fighting the Viltrumite Empire — Allen becomes their leader",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Omni-Man's monologue Think, Mark?",
+      "a": "He lists the spans of human civilisations to show their brevity compared to Viltrumite lifespan — chilling and famous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Battle Beast?",
+      "a": "An alien warrior who only wants to fight worthy opponents — one of the most terrifying beings in the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Immortal's political arc in later comics?",
+      "a": "He runs for President of the United States — symbolising heroes seeking legitimate power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Conquest?",
+      "a": "An old, battle-scarred Viltrumite general sent to replace Omni-Man — nearly kills Mark and Eve",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Robot's arc?",
+      "a": "He becomes a global dictator believing he knows best — Invincible must fight his former ally",
+      "file": "App.jsx"
+    }
+  ]
+}

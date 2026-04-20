@@ -1,0 +1,503 @@
+{
+  "200": [
+    {
+      "q": "What is the name of the family patriarch played by Ed O'Neill?",
+      "a": "Jay Pritchett",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Jay's young Colombian wife's name?",
+      "a": "Gloria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Gloria?",
+      "a": "Sofía Vergara",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Gloria's son from her first marriage?",
+      "a": "Manny",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Phil Dunphy's wife?",
+      "a": "Claire",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Mitchell and Cameron's adopted daughter?",
+      "a": "Lily",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Mitchell Pritchett's partner's name?",
+      "a": "Cameron",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Jay's dog's name?",
+      "a": "Stella",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is the show set in?",
+      "a": "Los Angeles",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of dog is Stella?",
+      "a": "French bulldog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Phil Dunphy?",
+      "a": "Ty Burrell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Claire Dunphy?",
+      "a": "Julie Bowen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Cameron?",
+      "a": "Eric Stonestreet",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Mitchell?",
+      "a": "Jesse Tyler Ferguson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Phil Dunphy's profession?",
+      "a": "Real estate agent",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Phil and Claire's three children?",
+      "a": "Haley, Alex, and Luke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the eldest Dunphy child?",
+      "a": "Haley",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the middle Dunphy child?",
+      "a": "Alex",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the youngest Dunphy child?",
+      "a": "Luke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network aired Modern Family?",
+      "a": "ABC",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What style is the show filmed in?",
+      "a": "Mockumentary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many years did Modern Family run?",
+      "a": "11 (seasons)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the eldest Pritchett-Tucker child?",
+      "a": "Lily",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Manny's biological father?",
+      "a": "Javier",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Gloria's home country?",
+      "a": "Colombia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What language does Gloria speak besides English?",
+      "a": "Spanish",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the patriarch of the blended Pritchett family?",
+      "a": "Jay Pritchett",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Jay's Colombian wife?",
+      "a": "Sofía Vergara",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What dog does Jay adore?",
+      "a": "Stella (French bulldog)",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Phil Dunphy?",
+      "a": "Ty Burrell",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Phil Dunphy's profession?",
+      "a": "Real estate agent",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Claire Dunphy's maiden name?",
+      "a": "Pritchett",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "How many Dunphy children are there?",
+      "a": "Three",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Cameron and Mitchell's adopted daughter?",
+      "a": "Lily",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is Cameron's profession?",
+      "a": "Music teacher",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Cameron's previous job before teaching music?",
+      "a": "PE coach (football coach)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Mitchell's profession?",
+      "a": "Lawyer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the baby Jay and Gloria have together?",
+      "a": "Joe",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What state is Cameron originally from?",
+      "a": "Missouri",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many seasons of Modern Family aired?",
+      "a": "11",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Haley's eventual husband?",
+      "a": "Dylan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does Dylan play?",
+      "a": "Guitar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What university does Alex Dunphy attend?",
+      "a": "Caltech",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cameron's clown alter-ego?",
+      "a": "Fizbo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Claire's maiden name?",
+      "a": "Pritchett",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Jay's ex-wife and mother of Claire and Mitchell?",
+      "a": "DeDe",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Jay's company called?",
+      "a": "Pritchett's Closets & Blinds",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Cameron's last name?",
+      "a": "Tucker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Mitchell's last name?",
+      "a": "Pritchett",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Phil's father?",
+      "a": "Frank Dunphy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Phil's father, Frank Dunphy?",
+      "a": "Fred Willard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Manny's biological father's name?",
+      "a": "Javier Delgado",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What university does Haley eventually attend?",
+      "a": "Community college",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cam's sister?",
+      "a": "Pameron",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cameron's mother?",
+      "a": "Barb",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cameron's father?",
+      "a": "Merle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Manny's grandmother (Gloria's mother)?",
+      "a": "Pilar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Phil's university where he became a cheerleader?",
+      "a": "University of Wisconsin (UW)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What hobby is Phil obsessed with that involves close-up tricks?",
+      "a": "Magic",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Jay's golf course buddy and rival?",
+      "a": "Shorty",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Manny's favorite sport (older interest)?",
+      "a": "Fencing",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What language do Gloria and her family often speak?",
+      "a": "Spanish",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Lily call Cam to upset him in early seasons?",
+      "a": "Mom",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does Manny famously play?",
+      "a": "Accordion",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Haley's job in later seasons?",
+      "a": "Lifestyle blogger / assistant",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What show-within-a-show career does Mitchell pursue?",
+      "a": "Environmental lawyer",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "In what year did Modern Family premiere?",
+      "a": "2009",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In what year did Modern Family end?",
+      "a": "2020",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many Emmy Awards did Modern Family win for Outstanding Comedy Series?",
+      "a": "5",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created Modern Family?",
+      "a": "Christopher Lloyd and Steven Levitan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the twins Haley has at the end of the series?",
+      "a": "Poppy and George",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the father of Haley's twins?",
+      "a": "Dylan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Cam's twin sister played by Eric Stonestreet?",
+      "a": "Pameron",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Phil's catchphrase about being a 'cool dad'?",
+      "a": "I'm a cool dad",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the soap opera Gloria appears in (in-universe)?",
+      "a": "Fuego",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "At which California school does Manny first attend college?",
+      "a": "Caltech",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the older Lily Tucker-Pritchett?",
+      "a": "Aubrey Anderson-Emmons",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What U.S. agency does Alex Dunphy intern at in later seasons?",
+      "a": "NASA",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What state does the Dunphy-Pritchett family go on a dude-ranch vacation to in season 3?",
+      "a": "Wyoming",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Where do Mitchell and Cameron get married in season 5?",
+      "a": "Their backyard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In which season do Mitchell and Cameron get married?",
+      "a": "5",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the theme of the rehearsal dinner Cam plans for his wedding?",
+      "a": "The Wizard of Oz",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Phil's real-estate mentor played by Stephen Merchant?",
+      "a": "Tom",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Where does Haley work after being hired as Nathan Fillion's character's assistant?",
+      "a": "A lifestyle website",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Manny Delgado's biological father, Javier?",
+      "a": "Benjamin Bratt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Cameron's overbearing mother, Barb?",
+      "a": "Celia Weston",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Phil's brother?",
+      "a": "Wayne",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does Phil play in front of his children to embarrass them?",
+      "a": "Banjo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Gloria's hometown in Colombia?",
+      "a": "Barranquilla",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does Cameron play that he often brags about?",
+      "a": "Saxophone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Manny Delgado?",
+      "a": "Rico Rodriguez",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Luke Dunphy?",
+      "a": "Nolan Gould",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Alex Dunphy?",
+      "a": "Ariel Winter",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Haley Dunphy?",
+      "a": "Sarah Hyland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What country is Gloria originally from?",
+      "a": "Colombia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What state is Cam's farm from?",
+      "a": "Missouri",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Jay's closet-business partner?",
+      "a": "Shorty",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the Pritchett family business?",
+      "a": "Pritchett's Closets & Blinds",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What university does Alex Dunphy attend?",
+      "a": "Caltech",
+      "file": "moreTriviaExpansions"
+    }
+  ]
+}

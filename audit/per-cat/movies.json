@@ -1,0 +1,653 @@
+{
+  "200": [
+    {
+      "q": "Who directed E.T. the Extra-Terrestrial?",
+      "a": "Steven Spielberg",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the highest-grossing film of all time?",
+      "a": "Avatar",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'Titanic'?",
+      "a": "James Cameron",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What movie franchise features Dominic Toretto?",
+      "a": "Fast and Furious",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Wolverine in the X-Men films?",
+      "a": "Hugh Jackman",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What animated film features a rat who wants to cook?",
+      "a": "Ratatouille",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What superhero movie made over $2 billion in 2019?",
+      "a": "Avengers: Endgame",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who voices Shrek?",
+      "a": "Mike Myers",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Batman's butler?",
+      "a": "Alfred",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Director of The Godfather?",
+      "a": "Francis Ford Coppola",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who voiced Woody in Toy Story?",
+      "a": "Tom Hanks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Forrest Gump?",
+      "a": "Tom Hanks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First Disney animated feature film?",
+      "a": "Snow White and the Seven Dwarfs (1937)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Tony Montana in Scarface?",
+      "a": "Al Pacino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the first Star Wars film released?",
+      "a": "1977",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring Katniss Everdeen?",
+      "a": "The Hunger Games",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Iron Man in the MCU?",
+      "a": "Robert Downey Jr.",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film set on planet Pandora?",
+      "a": "Avatar (2009)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Director of Jurassic Park?",
+      "a": "Steven Spielberg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring Let It Go?",
+      "a": "Frozen (2013)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film with the quote Why so serious??",
+      "a": "The Dark Knight (2008)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Hannibal Lecter in Silence of the Lambs?",
+      "a": "Anthony Hopkins",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film with the line I see dead people?",
+      "a": "The Sixth Sense (1999)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Hermione Granger in Harry Potter?",
+      "a": "Emma Watson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film about a stranded astronaut on Mars?",
+      "a": "The Martian (2015)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Jack in Titanic?",
+      "a": "Leonardo DiCaprio",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring the Parr family?",
+      "a": "The Incredibles (2004)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Neo in The Matrix?",
+      "a": "Keanu Reeves",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film with the quote You had me at hello?",
+      "a": "Jerry Maguire (1996)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played the Joker in the 2019 film?",
+      "a": "Joaquin Phoenix",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year Titanic was released?",
+      "a": "1997",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Thor in the MCU?",
+      "a": "Chris Hemsworth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed the Nolan Batman trilogy?",
+      "a": "Christopher Nolan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Animated film featuring the rat chef Remy?",
+      "a": "Ratatouille (2007)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Maximus in Gladiator?",
+      "a": "Russell Crowe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First Pixar film?",
+      "a": "Toy Story (1995)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film franchise featuring Dominic Toretto?",
+      "a": "Fast & Furious",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed Pulp Fiction?",
+      "a": "Quentin Tarantino",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What film features the word Rosebud as a key clue?",
+      "a": "Citizen Kane",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the hotel in The Shining?",
+      "a": "The Overlook Hotel",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What movie introduced Jack Skellington?",
+      "a": "The Nightmare Before Christmas",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What film features the line Here's Johnny!?",
+      "a": "The Shining",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of the spaceship in Alien?",
+      "a": "The Nostromo",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the shark in Jaws nicknamed behind the scenes?",
+      "a": "Bruce",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What film won Best Picture at the 2020 Oscars?",
+      "a": "Parasite",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays the Joker in 'The Dark Knight'?",
+      "a": "Heath Ledger",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What film features the line 'You can't handle the truth!'?",
+      "a": "A Few Good Men",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays the lead in 'Gladiator'?",
+      "a": "Russell Crowe",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What studio produced 'Toy Story'?",
+      "a": "Pixar",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What 1999 film stars Keanu Reeves as 'The One'?",
+      "a": "The Matrix",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What animated film features the song 'Let It Go'?",
+      "a": "Frozen",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Film with joint record for most Oscars (11)?",
+      "a": "Ben-Hur (1959), Titanic (1997), Return of the King (2003)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed Inception and Interstellar?",
+      "a": "Christopher Nolan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First film to earn over $1 billion?",
+      "a": "Titanic (1997)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Highest-grossing film of all time?",
+      "a": "Avatar (2009/re-release)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What film features HAL 9000?",
+      "a": "2001: A Space Odyssey (1968)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed Schindler's List?",
+      "a": "Steven Spielberg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Clarice in Silence of the Lambs?",
+      "a": "Jodie Foster",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What film features the Corleone family?",
+      "a": "The Godfather",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed Fight Club?",
+      "a": "David Fincher",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Stanley Kubrick film featuring Alex DeLarge?",
+      "a": "A Clockwork Orange (1971)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What won the first Academy Award for Best Picture?",
+      "a": "Wings (1927)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "1975 Spielberg film considered the first modern blockbuster?",
+      "a": "Jaws",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Mark Watney in The Martian?",
+      "a": "Matt Damon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What film features I am your father?",
+      "a": "Star Wars: The Empire Strikes Back",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Director of The Silence of the Lambs?",
+      "a": "Jonathan Demme",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring Travis Bickle?",
+      "a": "Taxi Driver (1976)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What film featured a revolutionary bullet-dodging scene?",
+      "a": "The Matrix (1999)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "1994 film with Tim Robbins as a wrongly imprisoned banker?",
+      "a": "The Shawshank Redemption",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Captain Jack Sparrow?",
+      "a": "Johnny Depp",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed The Shining?",
+      "a": "Stanley Kubrick",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Animated film with a chef rat named Remy?",
+      "a": "Ratatouille (2007)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring character Travis Bickle?",
+      "a": "Taxi Driver (1976)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays James Bond in the Craig era?",
+      "a": "Daniel Craig",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Director of Parasite?",
+      "a": "Bong Joon-ho",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film where Ethan Hunt leads IMF missions?",
+      "a": "Mission: Impossible",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Maximus in Gladiator?",
+      "a": "Russell Crowe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Director of Spirited Away?",
+      "a": "Hayao Miyazaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring Forrest Gump's box of chocolates quote?",
+      "a": "Forrest Gump (1994)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed The Godfather?",
+      "a": "Francis Ford Coppola",
+      "file": "App.jsx"
+    },
+    {
+      "q": "1922 horror film unauthorised adaptation of Dracula?",
+      "a": "Nosferatu (F.W. Murnau)",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What does ADR stand for in filmmaking?",
+      "a": "Automated Dialogue Replacement",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which Akira Kurosawa film inspired A Fistful of Dollars?",
+      "a": "Yojimbo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What horror film popularized found-footage in 1999?",
+      "a": "The Blair Witch Project",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is a dolly zoom also nicknamed?",
+      "a": "The Vertigo effect",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which film features the Odessa Steps sequence?",
+      "a": "Battleship Potemkin",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who directed 8½?",
+      "a": "Federico Fellini",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of the hotel in The Shining?",
+      "a": "Overlook Hotel",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which film introduced the character Furiosa?",
+      "a": "Mad Max: Fury Road",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the ship called in The Life Aquatic with Steve Zissou?",
+      "a": "Belafonte",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the name of the hotel in John Wick?",
+      "a": "The Continental",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the island park called in Jurassic Park?",
+      "a": "Isla Nublar",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the name of the rabbit in Donnie Darko?",
+      "a": "Frank",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the AI in Ex Machina called?",
+      "a": "Ava",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the company in Alien that owns the Nostromo?",
+      "a": "Weyland-Yutani",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What film is based on Philip K. Dick's 'Do Androids Dream of Electric Sheep?'?",
+      "a": "Blade Runner",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed the score for 'Inception'?",
+      "a": "Hans Zimmer",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was Alfred Hitchcock's last film?",
+      "a": "Family Plot (1976)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What film won the Palme d'Or at Cannes in 2019?",
+      "a": "Parasite",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'Mulholland Drive'?",
+      "a": "David Lynch",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What film features the character 'HAL 9000'?",
+      "a": "2001: A Space Odyssey",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'The Grand Budapest Hotel'?",
+      "a": "Wes Anderson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What 1982 sci-fi film was directed by Ridley Scott?",
+      "a": "Blade Runner",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who starred in 'Taxi Driver' (1976)?",
+      "a": "Robert De Niro",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What French New Wave director made 'Breathless'?",
+      "a": "Jean-Luc Godard",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was 'Citizen Kane' released?",
+      "a": "1941",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'There Will Be Blood'?",
+      "a": "Paul Thomas Anderson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Hitchcock film shot in under three weeks on a TV budget?",
+      "a": "Psycho (1960)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Longest runtime Best Picture winner?",
+      "a": "Gone with the Wind (1939) at 3h 58m",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is mise-en-scène?",
+      "a": "Arrangement of everything that appears in a shot — actors, lighting, sets, props, costumes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Kuleshov Effect?",
+      "a": "Audience emotion is shaped by the shot preceding an actor's neutral face — a key editing discovery",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does auteur theory mean?",
+      "a": "A film director is the primary creative author, imprinting their personal vision across their work",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is German Expressionism in film?",
+      "a": "A 1920s movement using distorted sets and dramatic lighting — e.g. Nosferatu, The Cabinet of Dr. Caligari",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What film pioneered CGI for organic creatures?",
+      "a": "Jurassic Park (1993)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a MacGuffin?",
+      "a": "An object motivating characters but ultimately unimportant — a Hitchcock concept",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Bechdel Test?",
+      "a": "Two women must talk to each other about something other than a man — a measure of female representation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which film did Orson Welles direct at age 25?",
+      "a": "Citizen Kane (1941)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is French New Wave cinema?",
+      "a": "1950s–60s French film movement rejecting traditional conventions — directors include Godard and Truffaut",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the 180-degree rule?",
+      "a": "Two characters must always have the same left-right relationship — crossing it confuses the audience",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Italian Neorealism?",
+      "a": "Post-WWII film movement using non-professional actors and real locations — e.g. Bicycle Thieves",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a tracking shot?",
+      "a": "Camera physically moves through the scene following the subject",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dogme 95?",
+      "a": "A filmmaking manifesto by Lars von Trier and Thomas Vinterberg — rejecting special effects, requiring location shooting",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who invented the close-up shot?",
+      "a": "D.W. Griffith is often credited — he popularised it in early silent cinema",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Soviet Montage theory?",
+      "a": "The collision of images creates new meaning beyond each individual image — developed in 1920s Soviet cinema",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Spielberg face?",
+      "a": "A reaction shot where a character looks at something off-screen with wonder, letting audience project emotion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is neo-noir?",
+      "a": "A genre updating classic noir conventions to modern settings — e.g. Blade Runner, Chinatown, L.A. Confidential",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is ludonarrative dissonance?",
+      "a": "The conflict between a story and gameplay mechanics — popularized in film criticism too",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a diegetic sound in film?",
+      "a": "Sound that comes from within the film's world — characters can hear it (music from a radio, footsteps)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Stanley Kubrick?",
+      "a": "A perfectionist director known for 2001, Full Metal Jacket, The Shining — known for groundbreaking visual style",
+      "file": "App.jsx"
+    }
+  ]
+}

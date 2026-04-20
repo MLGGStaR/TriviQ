@@ -1,0 +1,633 @@
+{
+  "200": [
+    {
+      "q": "What does 'CPU' stand for?",
+      "a": "Central Processing Unit",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company makes the iPhone?",
+      "a": "Apple",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'WWW' stand for?",
+      "a": "World Wide Web",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which search engine is the most popular worldwide?",
+      "a": "Google",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'PDF' stand for?",
+      "a": "Portable Document Format",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'USB' stand for?",
+      "a": "Universal Serial Bus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the brain of a computer called?",
+      "a": "CPU",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which messaging app uses a green speech bubble logo and was bought by Facebook?",
+      "a": "WhatsApp",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'Wi-Fi' allow you to do?",
+      "a": "Connect to the internet wirelessly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'AI' stand for?",
+      "a": "Artificial Intelligence",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company owns Instagram?",
+      "a": "Meta (Facebook)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is 'app' short for?",
+      "a": "Application",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company makes the Galaxy line of phones?",
+      "a": "Samsung",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'ROM' stand for?",
+      "a": "Read-Only Memory",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'RAM' stand for?",
+      "a": "Random Access Memory",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Apple's voice assistant?",
+      "a": "Siri",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company makes Pixel phones?",
+      "a": "Google",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the most popular video conferencing app launched in 2011 starting with 'Z'?",
+      "a": "Zoom",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which device do you use to point and click on a computer screen?",
+      "a": "Mouse",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Microsoft's web browser launched in 2015?",
+      "a": "Microsoft Edge",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'GB' stand for in storage?",
+      "a": "Gigabyte",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company makes the MacBook?",
+      "a": "Apple",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the famous open-source operating system kernel created by Linus Torvalds?",
+      "a": "Linux",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'Bluetooth' connect?",
+      "a": "Devices wirelessly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'OS' stand for?",
+      "a": "Operating System",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'GPS' stand for?",
+      "a": "Global Positioning System",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most popular programming language in the world?",
+      "a": "JavaScript (or Python)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'LED' stand for?",
+      "a": "Light Emitting Diode",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company makes the MacBook?",
+      "a": "Apple",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is cloud computing?",
+      "a": "Storing and accessing data over the internet",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does a router do?",
+      "a": "Directs network traffic between devices",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most-used web browser?",
+      "a": "Chrome",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company makes Alexa?",
+      "a": "Amazon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'FAQ' stand for?",
+      "a": "Frequently Asked Questions",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a firewall?",
+      "a": "Security system that monitors network traffic",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'NFC' stand for?",
+      "a": "Near Field Communication",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What device reads QR codes?",
+      "a": "Smartphone camera",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'HDMI' stand for?",
+      "a": "High-Definition Multimedia Interface",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the cloud?",
+      "a": "Remote servers accessed over the internet",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was the iPad first released?",
+      "a": "2010",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "400": [
+    {
+      "q": "Who founded Microsoft with Paul Allen?",
+      "a": "Bill Gates",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'HTML' stand for?",
+      "a": "HyperText Markup Language",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company developed the Android operating system?",
+      "a": "Google",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which programming language shares its name with an Indonesian island?",
+      "a": "Java",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What year was the first iPhone released?",
+      "a": "2007",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded Tesla and SpaceX?",
+      "a": "Elon Musk",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'GPU' stand for?",
+      "a": "Graphics Processing Unit",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'IP' stand for in 'IP address'?",
+      "a": "Internet Protocol",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which website did Mark Zuckerberg found in 2004?",
+      "a": "Facebook",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'SSD' stand for?",
+      "a": "Solid State Drive",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Google's web browser?",
+      "a": "Chrome",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'VPN' stand for?",
+      "a": "Virtual Private Network",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company created the GeForce line of graphics cards?",
+      "a": "Nvidia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What programming language is named after a snake?",
+      "a": "Python",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'URL' stand for?",
+      "a": "Uniform Resource Locator",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the cryptocurrency created by Satoshi Nakamoto?",
+      "a": "Bitcoin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company developed the Mac OS?",
+      "a": "Apple",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'LAN' stand for?",
+      "a": "Local Area Network",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'HDD' stand for?",
+      "a": "Hard Disk Drive",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company makes the Kindle e-reader?",
+      "a": "Amazon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which programming language was developed by Brendan Eich at Netscape in 1995?",
+      "a": "JavaScript",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'IoT' stand for?",
+      "a": "Internet of Things",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company developed the cloud platform AWS?",
+      "a": "Amazon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Microsoft's cloud platform?",
+      "a": "Azure",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company owns YouTube?",
+      "a": "Google",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Apple device launched in 2010 was the first major tablet?",
+      "a": "iPad",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'JPG' stand for?",
+      "a": "Joint Photographic Experts Group",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'CSS' stand for?",
+      "a": "Cascading Style Sheets",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the CEO of Apple (as of 2024)?",
+      "a": "Tim Cook",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'DNS' stand for?",
+      "a": "Domain Name System",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Moore's Law?",
+      "a": "Transistor count doubles roughly every two years",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company developed ChatGPT?",
+      "a": "OpenAI",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Tesla's humanoid robot?",
+      "a": "Optimus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'SDK' stand for?",
+      "a": "Software Development Kit",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What protocol is used for secure web browsing?",
+      "a": "HTTPS",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is containerization in software?",
+      "a": "Packaging software with its dependencies (e.g., Docker)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company makes the Pixel phone?",
+      "a": "Google",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'OTA' update stand for?",
+      "a": "Over-The-Air",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is machine learning?",
+      "a": "AI that learns patterns from data without explicit programming",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a DDoS attack?",
+      "a": "Distributed Denial of Service — overwhelming a server with traffic",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'SSH' stand for?",
+      "a": "Secure Shell",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "Who is considered the inventor of the World Wide Web?",
+      "a": "Tim Berners-Lee",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What year was Google founded?",
+      "a": "1998",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which protocol does email use to send messages?",
+      "a": "SMTP",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'HTTP' stand for?",
+      "a": "HyperText Transfer Protocol",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who co-founded Apple alongside Steve Jobs and Steve Wozniak?",
+      "a": "Ronald Wayne",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which programming language was created by Guido van Rossum?",
+      "a": "Python",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the first commercially successful microprocessor by Intel?",
+      "a": "Intel 4004",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'API' stand for?",
+      "a": "Application Programming Interface",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded Amazon?",
+      "a": "Jeff Bezos",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created the Linux kernel?",
+      "a": "Linus Torvalds",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In which year was Bitcoin first released?",
+      "a": "2009",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'JSON' stand for?",
+      "a": "JavaScript Object Notation",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded Oracle Corporation?",
+      "a": "Larry Ellison",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'SQL' stand for?",
+      "a": "Structured Query Language",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which protocol secures HTTPS connections?",
+      "a": "TLS",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the version control system created by Linus Torvalds?",
+      "a": "Git",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company manufactures the H100 AI GPU?",
+      "a": "Nvidia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded OpenAI alongside Sam Altman?",
+      "a": "Elon Musk",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the AI chatbot launched by OpenAI in November 2022?",
+      "a": "ChatGPT",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Google's AI chatbot launched in 2023?",
+      "a": "Bard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded Dell Technologies?",
+      "a": "Michael Dell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company developed the Unreal Engine?",
+      "a": "Epic Games",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who founded Twitter alongside Jack Dorsey?",
+      "a": "Biz Stone, Evan Williams, and Noah Glass",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Apple co-founder was the first to leave the company (1976)?",
+      "a": "Ronald Wayne",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which programming language was created by Bjarne Stroustrup?",
+      "a": "C++",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Facebook's parent company since 2021?",
+      "a": "Meta",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which company developed the React JavaScript library?",
+      "a": "Facebook (Meta)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which Intel CEO led the company through the 1990s PC boom?",
+      "a": "Andy Grove",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'TCP' stand for in TCP/IP?",
+      "a": "Transmission Control Protocol",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is quantum computing?",
+      "a": "Computing using quantum bits (qubits) that can be 0 and 1 simultaneously",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Google's quantum processor?",
+      "a": "Sycamore",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'RISC' stand for in CPU architecture?",
+      "a": "Reduced Instruction Set Computer",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is WebAssembly?",
+      "a": "A binary instruction format for stack-based virtual machines in browsers",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company created the Transformer architecture used in GPT?",
+      "a": "Google Brain",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is FPGA?",
+      "a": "Field-Programmable Gate Array",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was the World Wide Web made publicly available?",
+      "a": "1991",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is homomorphic encryption?",
+      "a": "Encryption that allows computation on encrypted data",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the CAP theorem in distributed systems?",
+      "a": "Consistency, Availability, Partition tolerance — pick two",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'ASIC' stand for?",
+      "a": "Application-Specific Integrated Circuit",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What programming paradigm does Haskell use?",
+      "a": "Functional programming",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is zero-knowledge proof?",
+      "a": "Proving you know something without revealing the information itself",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who invented the concept of the universal Turing machine?",
+      "a": "Alan Turing",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is edge computing?",
+      "a": "Processing data near the source instead of in a central data center",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Apple's custom chip series for Macs?",
+      "a": "M-series (M1, M2, M3, M4)",
+      "file": "megaNewExpansions"
+    }
+  ]
+}

@@ -1,0 +1,498 @@
+{
+  "200": [
+    {
+      "q": "🍿 🎬",
+      "a": "Movie night",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "📚 🧠",
+      "a": "Studying",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "✈️ 🧳",
+      "a": "Travel",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🎂🥳🎚",
+      "a": "Birthday party",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🧠 💡",
+      "a": "Brainstorm",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "🎈 ☁️",
+      "a": "Hot air balloon",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎂 🎉",
+      "a": "Birthday party",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📽️ 🍿",
+      "a": "Movie theater",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🗺️ 💰 📦",
+      "a": "Treasure chest",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🔥 🪵",
+      "a": "Campfire",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧳 📘",
+      "a": "Passport",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌞 🌚",
+      "a": "Solar eclipse",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎤 📰",
+      "a": "News reporter",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧠 ❄️",
+      "a": "Brain freeze",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "☕ ⏸️",
+      "a": "Coffee break",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚗 🛣️",
+      "a": "Road trip",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📱 🎥 👋",
+      "a": "Video call",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌙 🦉",
+      "a": "Night owl",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📚 🪱",
+      "a": "Bookworm",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "❄️ 🌍",
+      "a": "Snow globe",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌊 💡 🏠",
+      "a": "Lighthouse",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👨‍👩‍👧‍👦 ✈️ 🏖️",
+      "a": "Family vacation",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏦 🔫",
+      "a": "Bank robbery",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏗️ 👷",
+      "a": "Construction worker",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐠 🤿",
+      "a": "Scuba diving",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧪 ⚗️ 👨‍🔬",
+      "a": "Science experiment",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧠 ⛈️",
+      "a": "Brainstorm",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏖️ 🏰",
+      "a": "Sandcastle",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚗 🔧",
+      "a": "Car mechanic",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💌 📬",
+      "a": "Mailbox",
+      "file": "emojiGuessCategories"
+    }
+  ],
+  "400": [
+    {
+      "q": "🧠 ⚡ 💡",
+      "a": "Brainstorm",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "⏰ 💥 😵",
+      "a": "Wake-up call",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "📉 😬 💸",
+      "a": "Bad investment",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🔍🕵️‍♂️🧩",
+      "a": "Detective",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🚗 🚗 🚗 ⛔",
+      "a": "Traffic jam",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💡 ❌",
+      "a": "Power outage",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌦️ 📱",
+      "a": "Weather forecast",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏔️ 🧗",
+      "a": "Mountain climber",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎤 😰",
+      "a": "Stage fright",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🛋️ 🥔",
+      "a": "Couch potato",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎓 🎤 📊",
+      "a": "Class presentation",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧳 🛂 ✈️",
+      "a": "Airport security",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛺ 🌧️ 😩",
+      "a": "Camping disaster",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪂 🌬️",
+      "a": "Parachuting",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎧 🎶 🔊",
+      "a": "Noise-canceling headphones",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍔 🚗 🪟",
+      "a": "Drive-thru",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📸 🤳 👥",
+      "a": "Group selfie",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎮 😡",
+      "a": "Rage quit",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🛒 🧾",
+      "a": "Grocery shopping",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🕵️ 🧩",
+      "a": "Private investigator",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧑‍🍳 🔥 😱",
+      "a": "Kitchen fire",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💍 💒",
+      "a": "Wedding ceremony",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏊 ⏱️",
+      "a": "Swimming race",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏃 🏅 🏁",
+      "a": "Marathon",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎤 🕺 💃",
+      "a": "Dance battle",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📦 🚚 🏠",
+      "a": "House move",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐶 🦴 🐕‍🦺",
+      "a": "Dog training",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🛏️ ⏰ 😴",
+      "a": "Oversleeping",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎁 🎄",
+      "a": "Christmas present",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧼 🫧 🚗",
+      "a": "Car wash",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💳 🛍️ 🧾",
+      "a": "Online shopping",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🔒 📱 😬",
+      "a": "Forgot phone password",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧽 🍽️",
+      "a": "Doing the dishes",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "☔ 🌬️ 😖",
+      "a": "Umbrella in the wind",
+      "file": "emojiGuessCategories"
+    }
+  ],
+  "600": [
+    {
+      "q": "🧊 🧠 😎",
+      "a": "Keep your cool",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🪞 😬",
+      "a": "Self-conscious",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🚪 🐘",
+      "a": "Elephant in the room",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🧲⚡🔬",
+      "a": "Electromagnetism",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🧊 🤝",
+      "a": "Break the ice",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍵 🫗",
+      "a": "Spill the tea",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "☁️ 9️⃣",
+      "a": "On cloud nine",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🔵 🌙",
+      "a": "Once in a blue moon",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎂 🥄",
+      "a": "Piece of cake",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚪 🛣️",
+      "a": "Hit the road",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐘 🏠",
+      "a": "The elephant in the room",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌧️ 🐈 🐕",
+      "a": "Raining cats and dogs",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧺 🥚",
+      "a": "Don't put all your eggs in one basket",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪡 🌾",
+      "a": "Needle in a haystack",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪑 🪑 🪑",
+      "a": "Musical chairs",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪞 😈",
+      "a": "Face your demons",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌙 🛢️ 🔥",
+      "a": "Burning the midnight oil",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧊 🌦️",
+      "a": "Under the weather",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐕 🌳 ❌",
+      "a": "Bark up the wrong tree",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏳️ 🧻",
+      "a": "Throw in the towel",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧍 🪵",
+      "a": "Sitting on the fence",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐦 🪨 2️⃣",
+      "a": "Kill two birds with one stone",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍎 👁️",
+      "a": "Apple of my eye",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📖 ❤️",
+      "a": "Open book",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🥶 👤",
+      "a": "Cold shoulder",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦴 🐶",
+      "a": "Bone to pick",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧵 💭",
+      "a": "Train of thought",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌪️ ☕",
+      "a": "Storm in a teacup",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💀 🚪",
+      "a": "Skeleton in the closet",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐴 🚫",
+      "a": "Hold your horses",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧱 🪨",
+      "a": "Between a rock and a hard place",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🥤 1️⃣",
+      "a": "The last straw",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐈 🎒 🚪",
+      "a": "Let the cat out of the bag",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛽ 🔥",
+      "a": "Add fuel to the fire",
+      "file": "emojiGuessCategories"
+    }
+  ]
+}

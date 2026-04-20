@@ -1,0 +1,518 @@
+{
+  "200": [
+    {
+      "q": "🌷 🚲 🧀",
+      "a": "The Netherlands",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🍁 🏒 ❄️",
+      "a": "Canada",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🍕 🍝 🛵",
+      "a": "Italy",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "☘️🍺🎻",
+      "a": "Ireland",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "🍁 🏒 🧊",
+      "a": "Canada",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦅 🗽 🍔",
+      "a": "United States",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌮 🌵 🎸",
+      "a": "Mexico",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚽ 🎉 🌴",
+      "a": "Brazil",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🥩 ⚽ 💃",
+      "a": "Argentina",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🗼 🥖 🧀",
+      "a": "France",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍕 🍝 🏛️",
+      "a": "Italy",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍺 🥨 🚗",
+      "a": "Germany",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💃 🐂 ☀️",
+      "a": "Spain",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👑 ☕ 🌧️",
+      "a": "United Kingdom",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "☘️ 🍺 🎻",
+      "a": "Ireland",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦘 🏄 ☀️",
+      "a": "Australia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🥝 🐑 🏉",
+      "a": "New Zealand",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍣 🗻 🌸",
+      "a": "Japan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐉 🥢 🏯",
+      "a": "China",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🕌 🍛 🪷",
+      "a": "India",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📱 🎤 💄",
+      "a": "South Korea",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐪 🔺 ☀️",
+      "a": "Egypt",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏛️ 🏺 🌊",
+      "a": "Greece",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🕌 🐪 🛢️",
+      "a": "Saudi Arabia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏙️ 🏎️ 🛍️",
+      "a": "United Arab Emirates",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦁 🏉 🌈",
+      "a": "South Africa",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦁 🏃 🦒",
+      "a": "Kenya",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎶 🛢️ 🌍",
+      "a": "Nigeria",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧿 🐪 🫖",
+      "a": "Morocco",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏖️ 🥊 🐘",
+      "a": "Thailand",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🪑 🎵 ❄️",
+      "a": "Sweden",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛷️ ❄️ 🌊",
+      "a": "Norway",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚽ 🍷 🌊",
+      "a": "Portugal",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐻 ❄️ ⛪",
+      "a": "Russia",
+      "file": "emojiGuessCategories"
+    }
+  ],
+  "400": [
+    {
+      "q": "🧀 ⌚ 🏔️",
+      "a": "Switzerland",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🕌 🛢️ 🏜️",
+      "a": "Saudi Arabia",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🗿 🌶️ ⛰️",
+      "a": "Chile",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🦘🏏🏖️",
+      "a": "Australia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🧀 ⌚ ⛰️",
+      "a": "Switzerland",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎻 ☕ ⛰️",
+      "a": "Austria",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚲 🌷 🌬️",
+      "a": "Netherlands",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍫 🍟 🧇",
+      "a": "Belgium",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🥟 🏰 🎻",
+      "a": "Poland",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍺 🏰 🌉",
+      "a": "Czechia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌶️ 🛁 🎻",
+      "a": "Hungary",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧛 ⛰️ 🏰",
+      "a": "Romania",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "📱 🌲 ❄️",
+      "a": "Finland",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧜‍♀️ 🚲 👑",
+      "a": "Denmark",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌋 ♨️ ❄️",
+      "a": "Iceland",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "✡️ 🥙 🌊",
+      "a": "Israel",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏔️ 🏏 🍛",
+      "a": "Pakistan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🧵 🌊 👕",
+      "a": "Bangladesh",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌋 🏝️ 🐉",
+      "a": "Indonesia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🛵 🍜 🌾",
+      "a": "Vietnam",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏝️ 🎤 🥭",
+      "a": "Philippines",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏙️ 🌴 🛕",
+      "a": "Malaysia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦁 🏙️ 💰",
+      "a": "Singapore",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "☕ ⛰️ 💃",
+      "a": "Colombia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌶️ 🏔️ 🌊",
+      "a": "Chile",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦙 🏔️ 🥔",
+      "a": "Peru",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "✈️ 🏟️ 🐪",
+      "a": "Qatar",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "☕ 🏃 ⛰️",
+      "a": "Ethiopia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦓 🐘 🌋",
+      "a": "Tanzania",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌴 🎶 🏃",
+      "a": "Jamaica",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚬 🚗 🎺",
+      "a": "Cuba",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚽ 🌊 🏰",
+      "a": "Croatia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🎾 🏀 🏰",
+      "a": "Serbia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏞️ ⛰️ 🚣",
+      "a": "Slovenia",
+      "file": "emojiGuessCategories"
+    }
+  ],
+  "600": [
+    {
+      "q": "🏔️ 🙏 🥾",
+      "a": "Nepal",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🌲 💻 ❄️",
+      "a": "Estonia",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🏜️ 🦊 📜",
+      "a": "Jordan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "🧀⌚🏔️",
+      "a": "Switzerland",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "🐉 ⛰️ 🙏",
+      "a": "Bhutan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏔️ 🥾 🛕",
+      "a": "Nepal",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦁 🍵 🏝️",
+      "a": "Sri Lanka",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🐎 🏹 ⛰️",
+      "a": "Mongolia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🕌 🍉 ☀️",
+      "a": "Uzbekistan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛰️ 🏇 🦅",
+      "a": "Kyrgyzstan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏀 🌲 🌊",
+      "a": "Lithuania",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌲 🏒 🌊",
+      "a": "Latvia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💻 🌲 ❄️",
+      "a": "Estonia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⛰️ 🏰 🚗",
+      "a": "Slovakia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌲 🧆 🌊",
+      "a": "Lebanon",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏜️ 🧿 🏛️",
+      "a": "Jordan",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏜️ ⛵ 🕌",
+      "a": "Oman",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏎️ 🏝️ 🛢️",
+      "a": "Bahrain",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏙️ 🛢️ 🌊",
+      "a": "Kuwait",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏔️ 🦙 🧂",
+      "a": "Bolivia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚽ 🌿 ☀️",
+      "a": "Paraguay",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚽ 🌿 🌊",
+      "a": "Uruguay",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🌋 🐢 🍌",
+      "a": "Ecuador",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "⚾ 🏝️ 🎶",
+      "a": "Dominican Republic",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏜️ 🦊 🕌",
+      "a": "Algeria",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏛️ 🏖️ 🌶️",
+      "a": "Tunisia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💎 🦓 ☀️",
+      "a": "Botswana",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🦎 🌴 🐒",
+      "a": "Madagascar",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏝️ 🐠 ☀️",
+      "a": "Maldives",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🏰 ⛵ ☀️",
+      "a": "Malta",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "💶 🏰 🌲",
+      "a": "Luxembourg",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "👑 ⛰️ 🏦",
+      "a": "Liechtenstein",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🍷 ⛰️ 🥟",
+      "a": "Georgia",
+      "file": "emojiGuessCategories"
+    },
+    {
+      "q": "🚀 🐎 ⛰️",
+      "a": "Kazakhstan",
+      "file": "emojiGuessCategories"
+    }
+  ]
+}

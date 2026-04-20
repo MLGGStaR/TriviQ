@@ -1,0 +1,638 @@
+{
+  "200": [
+    {
+      "q": "What is the capital of Thailand?",
+      "a": "Bangkok",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What river flows through Paris?",
+      "a": "The Seine",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the capital of Portugal?",
+      "a": "Lisbon",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Capital of Sweden?",
+      "a": "Stockholm",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What river flows through London?",
+      "a": "The Thames",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Capital of Poland?",
+      "a": "Warsaw",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What ocean lies between Africa and Australia?",
+      "a": "Indian Ocean",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What river runs through Paris?",
+      "a": "Seine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What desert is the largest hot desert?",
+      "a": "Sahara",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What strait separates Asia from North America?",
+      "a": "Bering Strait",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the longest wall in the world?",
+      "a": "Great Wall of China",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Capital of Japan?",
+      "a": "Tokyo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Longest river in the world?",
+      "a": "The Nile",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which continent is Egypt on?",
+      "a": "Africa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ocean between the USA and Europe?",
+      "a": "Atlantic Ocean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Australia?",
+      "a": "Canberra",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tallest mountain in the world?",
+      "a": "Mount Everest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Italy?",
+      "a": "Rome",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Germany?",
+      "a": "Berlin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Land of the Rising Sun?",
+      "a": "Japan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Spain?",
+      "a": "Madrid",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest continent by area?",
+      "a": "Asia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Body of water separating Europe from Africa?",
+      "a": "Mediterranean Sea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Russia?",
+      "a": "Moscow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of the USA?",
+      "a": "Washington D.C.",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Mexico?",
+      "a": "Mexico City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of India?",
+      "a": "New Delhi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which continent has the most countries?",
+      "a": "Africa (54 countries)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Egypt?",
+      "a": "Cairo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mountain range in Switzerland?",
+      "a": "The Alps",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of South Korea?",
+      "a": "Seoul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest city in the world by population?",
+      "a": "Tokyo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Turkey?",
+      "a": "Ankara",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Body of water between Russia and Alaska?",
+      "a": "Bering Strait",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of South Africa?",
+      "a": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Canada?",
+      "a": "Ottawa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which country is Iceland closest to geographically?",
+      "a": "Greenland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Saudi Arabia?",
+      "a": "Riyadh",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the capital of Kenya?",
+      "a": "Nairobi",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the capital of Norway?",
+      "a": "Oslo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the highest waterfall in the world?",
+      "a": "Angel Falls",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Capital of Vietnam?",
+      "a": "Hanoi",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which mountain range runs along western South America?",
+      "a": "The Andes",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What African country has the capital Accra?",
+      "a": "Ghana",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Capital of Norway?",
+      "a": "Oslo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Croatia?",
+      "a": "Zagreb",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the driest continent on Earth?",
+      "a": "Antarctica",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the deepest lake in the world?",
+      "a": "Lake Baikal",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What European capital stands on the Danube?",
+      "a": "Budapest (or Vienna)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the tallest waterfall in the world?",
+      "a": "Angel Falls",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the only country that spans four hemispheres?",
+      "a": "Kiribati",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the capital of New Zealand?",
+      "a": "Wellington",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What canal connects the Atlantic and Pacific?",
+      "a": "Panama Canal",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What river is the longest in Europe?",
+      "a": "Volga",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the largest island in the world?",
+      "a": "Greenland",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Capital of Brazil?",
+      "a": "Brasília",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mountain range separating Europe and Asia?",
+      "a": "Ural Mountains",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most populated country in Africa?",
+      "a": "Nigeria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many countries share a border with China?",
+      "a": "14",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest desert in the world?",
+      "a": "Antarctica (Sahara is largest hot desert)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Saltiest body of water on Earth?",
+      "a": "Dead Sea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which river flows through Cairo?",
+      "a": "The Nile",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country with the most islands?",
+      "a": "Sweden (over 220,000)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest lake in Africa?",
+      "a": "Lake Victoria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Pakistan?",
+      "a": "Islamabad",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Longest river in Europe?",
+      "a": "The Volga",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Ring of Fire?",
+      "a": "A path around the Pacific Ocean with 75% of the world's volcanoes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Ukraine?",
+      "a": "Kyiv",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Approximate size of the Sahara Desert in km²?",
+      "a": "~9.2 million km²",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Philippines?",
+      "a": "Manila",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country with the most volcanoes?",
+      "a": "Indonesia (over 130 active)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What connects the Atlantic Ocean to the Mediterranean?",
+      "a": "Strait of Gibraltar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Ethiopia?",
+      "a": "Addis Ababa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Fertile Crescent?",
+      "a": "A region of the Middle East often called the cradle of civilization",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country with highest altitude capital?",
+      "a": "Bolivia — La Paz at ~3,640m",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What makes the Atacama Desert unique?",
+      "a": "It's the driest non-polar desert on Earth — some areas have never recorded rain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Kazakhstan?",
+      "a": "Astana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Strait of Hormuz?",
+      "a": "Connects the Persian Gulf to the Gulf of Oman — critical oil shipping lane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Deepest lake in the world?",
+      "a": "Lake Baikal (Russia) — 1,642 metres deep",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Longest land border between two countries?",
+      "a": "USA and Canada (~8,891 km)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Mariana Trench?",
+      "a": "The deepest part of the world's oceans — about 11,000 metres in the Pacific",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Myanmar?",
+      "a": "Naypyidaw",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What country has the capital Bishkek?",
+      "a": "Kyrgyzstan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Capital of Slovenia?",
+      "a": "Ljubljana",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What sea borders Jordan to the west?",
+      "a": "The Dead Sea",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Capital of Bolivia's constitutional capital?",
+      "a": "Sucre",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Kyrgyzstan?",
+      "a": "Bishkek",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Latvia?",
+      "a": "Riga",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Estonia?",
+      "a": "Tallinn",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Iceland?",
+      "a": "Reykjavik",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Paraguay?",
+      "a": "Asuncion",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Laos?",
+      "a": "Vientiane",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Madagascar?",
+      "a": "Antananarivo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Tanzania?",
+      "a": "Dodoma",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Capital of Montenegro?",
+      "a": "Podgorica",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the highest capital city in the world?",
+      "a": "La Paz, Bolivia",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What two countries share the longest border?",
+      "a": "Canada and the United States",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most remote inhabited island?",
+      "a": "Tristan da Cunha",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What river forms the border between Texas and Mexico?",
+      "a": "Rio Grande",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the oldest continuously inhabited city?",
+      "a": "Damascus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the southernmost capital city in the world?",
+      "a": "Wellington, New Zealand",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the only country that borders both France and the UK?",
+      "a": "None (Channel Tunnel connects, no land border)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the second-longest river in Africa?",
+      "a": "Congo River",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "The five Central Asian Stan countries?",
+      "a": "Kazakhstan, Uzbekistan, Kyrgyzstan, Tajikistan, Turkmenistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Bhutan?",
+      "a": "Thimphu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sundarbans?",
+      "a": "World's largest mangrove forest in Bangladesh/India — home to Bengal tigers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Great Rift Valley?",
+      "a": "A ~6,000 km geological fault system through East Africa — home to many lakes and early human fossils",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Bosphorus Strait?",
+      "a": "Narrow strait in Turkey connecting the Black Sea to the Sea of Marmara — dividing Europe and Asia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Azores?",
+      "a": "A Portuguese archipelago of nine volcanic islands in the mid-Atlantic Ocean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Approximate population of the UAE?",
+      "a": "About 9-10 million (of which ~90% are expatriates)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country with the most UNESCO World Heritage Sites?",
+      "a": "Italy (58 sites)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country with the most natural lakes?",
+      "a": "Canada (over 2 million lakes)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Maghreb region?",
+      "a": "Northwest Africa — Morocco, Algeria, Tunisia, Libya and Mauritania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Mozambique?",
+      "a": "Maputo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a fjord?",
+      "a": "A long, narrow sea inlet between tall cliffs — formed by glacial erosion, common in Norway",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Name the Scandinavian countries.",
+      "a": "Norway, Sweden, and Denmark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Serengeti?",
+      "a": "A vast ecosystem in Tanzania/Kenya famous for the Great Migration of wildebeest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which country has the most freshwater?",
+      "a": "Brazil — home to the Amazon basin holding ~20% of Earth's surface freshwater",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Maldives known for geographically?",
+      "a": "The world's lowest-lying country — average elevation of 1.5 metres above sea level",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Empty Quarter (Rub' al Khali)?",
+      "a": "The world's largest continuous sand desert — spanning Saudi Arabia, Oman, UAE, and Yemen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Suez Canal?",
+      "a": "An artificial waterway in Egypt connecting the Mediterranean to the Red Sea — opened in 1869",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Eritrea?",
+      "a": "Asmara",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Galapagos Islands known for?",
+      "a": "The unique wildlife that inspired Darwin's theory of evolution — part of Ecuador",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Nile's total length?",
+      "a": "~6,650 km — flowing through 11 countries",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Strait of Malacca?",
+      "a": "A narrow waterway between Malaysia and Indonesia — one of the world's most important shipping lanes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Timor-Leste?",
+      "a": "Dili — one of Asia's youngest countries, independent since 2002",
+      "file": "App.jsx"
+    }
+  ]
+}

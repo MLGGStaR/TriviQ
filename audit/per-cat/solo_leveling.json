@@ -1,0 +1,488 @@
+{
+  "200": [
+    {
+      "q": "What rank is Sung Jin-Woo at the very start of the story?",
+      "a": "E-rank",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What shadow soldier was once the Ant King?",
+      "a": "Beru",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What are people who fight inside gates called?",
+      "a": "Hunters",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Sung Jin-Woo's sister's name?",
+      "a": "Sung Jinah",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Sung Jin-Woo's mother's name?",
+      "a": "Park Kyung-Hye",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Jin-Woo's father's name?",
+      "a": "Sung Il-Hwan",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the ant shadow soldier?",
+      "a": "Beru",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Korean hunters organization appears constantly in the story?",
+      "a": "The Korean Hunters Association",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What island raid becomes a national crisis?",
+      "a": "Jeju Island",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What hidden trap at the start changes Jin-Woo's life?",
+      "a": "The Double Dungeon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What job do people with powers in Solo Leveling have?",
+      "a": "Hunters",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What do portals full of monsters appear as?",
+      "a": "Gates",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the title of the power Jin-Woo ultimately inherits?",
+      "a": "Shadow Monarch",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What two cosmic factions are fighting?",
+      "a": "The Rulers and the Monarchs",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What item lets time be turned back near the end?",
+      "a": "The Cup of Reincarnation",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the chairman's name who believes in Jin-Woo early?",
+      "a": "Go Gun-Hee",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of Jin-Woo's giant orc shadow?",
+      "a": "Tusk",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the title of the strongest American hunter Jin-Woo defeats?",
+      "a": "Thomas Andre",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Jin-Woo create from fallen enemies?",
+      "a": "Shadow soldiers",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What mysterious interface appears only to Jin-Woo?",
+      "a": "The System",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of Jin-Woo's knight-like shadow soldier?",
+      "a": "Igris",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is Sung Jin-Woo?",
+      "a": "The weakest E-rank hunter who is reborn as the world's only player — able to level up endlessly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Hunter in Solo Leveling?",
+      "a": "A person who can enter magical dungeons called Gates to fight monsters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Gates?",
+      "a": "Dimensional rifts that appear worldwide — hunters must clear them or monsters escape and destroy cities",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Double Dungeon?",
+      "a": "The dangerous hidden dungeon where Jin-Woo dies and is reborn as a Player",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Cha Hae-In?",
+      "a": "The top S-rank hunter of Korea who later becomes Jin-Woo's love interest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What rank is Jin-Woo at the start?",
+      "a": "E-rank — the absolute weakest level of hunter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What system does Jin-Woo receive?",
+      "a": "The System — a game-like interface that gives him quests and lets him level up his stats",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Shadow Soldiers?",
+      "a": "Jin-Woo's army of reanimated monster and human corpses under his command",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Igris?",
+      "a": "Jin-Woo's first and most loyal shadow soldier — a powerful knight",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the webtoon based on?",
+      "a": "A Korean web novel by Chugong — adapted into a webtoon, then an anime",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What island raid nearly collapses South Korea before Jin-Woo intervenes?",
+      "a": "Jeju Island",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the chairman of the Korean Hunters Association?",
+      "a": "Go Gun-Hee",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Jin-Woo's father's name?",
+      "a": "Sung Il-Hwan",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What rank hunter is Cha Hae-In?",
+      "a": "S-rank",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What guild master can transform into a white tiger beast form?",
+      "a": "Baek Yoonho",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Korean S-rank healer dies during the Jeju Island operation?",
+      "a": "Min Byung-Gyu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title is Jin-Woo mocked with before becoming powerful?",
+      "a": "The world's weakest hunter",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What class path does Jin-Woo first receive from the System?",
+      "a": "Necromancer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of Korea's strongest female hunter who notices Jin-Woo?",
+      "a": "Cha Hae-In",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What title does Jin-Woo inherit from Ashborn?",
+      "a": "Shadow Monarch",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What island raid changes Korea's hunter world?",
+      "a": "Jeju Island Raid",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Sung Jin-Woo's job at the start?",
+      "a": "Hunter",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What color rank is Jin-Woo first classified as?",
+      "a": "E-rank",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Jin-Woo's mother's condition called in the series?",
+      "a": "Eternal slumber",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What hidden stat lets Jin-Woo keep leveling?",
+      "a": "The System",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What red knight becomes one of his first elite shadows?",
+      "a": "Igris",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What profession are dungeon fighters called?",
+      "a": "Hunters",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What daily quest keeps rewarding Jin-Woo?",
+      "a": "Workout quest",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What title traps Jin-Woo in a deadly tutorial?",
+      "a": "Double dungeon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What hidden stat allows Jin-Woo to keep growing?",
+      "a": "Level",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who is the Monarch of Shadows?",
+      "a": "The true form Jin-Woo inherits — one of the most powerful beings in existence",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rulers vs Monarchs war?",
+      "a": "An ancient cosmic conflict between Rulers (angels of light) and Monarchs (kings of darkness)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Ant King?",
+      "a": "The most powerful monster Jin-Woo defeats — he almost kills Jin-Woo but is ultimately defeated and revived as a shadow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Jeju Island raid?",
+      "a": "A national crisis where Korea's top hunters fail to clear a high-level dungeon — Jin-Woo saves the mission",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Sung Il-Hwan?",
+      "a": "Jin-Woo's father — a missing hunter who was actually fighting on another world against monsters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Double Dungeon?",
+      "a": "A trap dungeon hidden inside a regular dungeon — extremely rare and deadly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Player system's final purpose?",
+      "a": "The Absolute Being created it to forge a weapon powerful enough to defeat the Monarchs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Beru?",
+      "a": "The Ant King shadow soldier — becomes one of Jin-Woo's most powerful generals, speaks in old Korean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the S-rank gate that changed Korea?",
+      "a": "The Jeju Island A-rank gate that upgraded — the ants from it nearly destroyed Korea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Go Gun-Hee?",
+      "a": "The chairman of the Korean Hunter Association — he recognises Jin-Woo's potential early on",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What monarch's power does Jin-Woo inherit?",
+      "a": "The Shadow Monarch's",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who was the previous Shadow Monarch before Jin-Woo?",
+      "a": "Ashborn",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What cosmic factions are at war above humanity?",
+      "a": "The Rulers and the Monarchs",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who created the System to train Jin-Woo?",
+      "a": "The Architect",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the true name of the Shadow Monarch before Jin-Woo inherits it?",
+      "a": "Ashborn",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What country is National Level Hunter Thomas Andre from?",
+      "a": "The United States",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Jin-Woo's sister's name?",
+      "a": "Jin-Ah",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Which ant king later serves Jin-Woo?",
+      "a": "Beru",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What monarch attacks using ice powers?",
+      "a": "Frost Monarch",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What monarch opposes Jin-Woo with icy power?",
+      "a": "Frost Monarch",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What class upgrade does Jin-Woo receive after a job change?",
+      "a": "Shadow Monarch",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What beastly enemy monarch opposes Jin-Woo?",
+      "a": "Beast Monarch",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What giant stone statue nearly kills Jin-Woo first?",
+      "a": "God Statue",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What castle dungeon arc powers Jin-Woo up?",
+      "a": "Demon Castle",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What demon noble becomes Jin-Woo's ally there?",
+      "a": "Esil",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What Korean guild master leads the Hunters Guild?",
+      "a": "Choi Jong-In",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What war between rulers and monarchs drives the story?",
+      "a": "War of the monarchs",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What kingly predecessor chose Jin-Woo as successor?",
+      "a": "Ashborn",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What was Tusk's original name before becoming a shadow?",
+      "a": "Kargalgan",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What true title does Jin-Woo inherit from Ashborn?",
+      "a": "Shadow Monarch",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the island raid that changes everything?",
+      "a": "Jeju Island",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the architect that designed the System?",
+      "a": "The Architect of the System",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Jin-Woo's first elite shadow knight?",
+      "a": "Igris",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the Rulers' sworn enemies?",
+      "a": "The Monarchs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which hunter guild does Baek Yoon-ho lead?",
+      "a": "White Tiger Guild",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Absolute Being?",
+      "a": "The creator of the System — a god-like entity who manipulated both Rulers and Monarchs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the true nature of Jin-Woo's power?",
+      "a": "He is the vessel chosen to inherit the Shadow Monarch's power — Ashborn's successor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Jin-Woo resetting time?",
+      "a": "After winning the final battle, Jin-Woo uses a stone to travel back 10 years — to prevent all suffering",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ashborn?",
+      "a": "The Shadow Monarch — a Ruler who defected and became a Monarch, creating the shadow army system",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the cosmic significance of the Player System?",
+      "a": "The Absolute Being created Jin-Woo specifically as a weapon to end the Ruler-Monarch war permanently",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are S-rank hunters?",
+      "a": "The top tier of hunters — there are only a handful per country. Jin-Woo eventually surpasses all of them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Sung Jin-Woo's title National Level Hunter?",
+      "a": "He is classified beyond national — as a threat or asset equivalent to a nation-state's military",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the International Guild Conference?",
+      "a": "A gathering showing that Jin-Woo's power is now a global political issue — every major nation wants him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Thomas Andre?",
+      "a": "The strongest American hunter — a National Level hunter who fights Jin-Woo and loses conclusively",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the final enemy in Solo Leveling?",
+      "a": "The Monarchs collectively invade Earth — Jin-Woo fights all of them",
+      "file": "App.jsx"
+    }
+  ]
+}

@@ -1,0 +1,758 @@
+{
+  "200": [
+    {
+      "q": "What is Peter Quill's alias?",
+      "a": "Star-Lord",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Scott Lang?",
+      "a": "Ant-Man",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Natasha Romanoff's superhero name?",
+      "a": "Black Widow",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Wanda Maximoff's brother's name in the MCU?",
+      "a": "Pietro Maximoff",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of Peter Parker's classmate best friend?",
+      "a": "Ned Leeds",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who snapped to destroy Thanos's army in Endgame?",
+      "a": "Tony Stark / Iron Man",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What infinity stone is in Vision's forehead?",
+      "a": "Mind Stone",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the first Avenger?",
+      "a": "Captain America",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Thanos?",
+      "a": "Josh Brolin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many Infinity Stones are there?",
+      "a": "6",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Hawkeye's real name?",
+      "a": "Clint Barton",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'The Avengers' (2012)?",
+      "a": "Joss Whedon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Black Widow's real name?",
+      "a": "Natasha Romanoff",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Tony Stark's superhero name?",
+      "a": "Iron Man",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Thor's hammer name?",
+      "a": "Mjolnir",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Real name of the Hulk?",
+      "a": "Dr. Bruce Banner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Peter Parker?",
+      "a": "Spider-Man",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Thor's home world?",
+      "a": "Asgard",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Villain in the first Avengers movie?",
+      "a": "Loki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Infinity Stone in Vision's forehead?",
+      "a": "The Mind Stone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Spider-Man in the MCU?",
+      "a": "Tom Holland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Black Panther's country?",
+      "a": "Wakanda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Nick Fury?",
+      "a": "Samuel L. Jackson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Groot's only phrase?",
+      "a": "I am Groot",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What color is Iron Man's suit?",
+      "a": "Red and gold",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Infinity Gauntlet?",
+      "a": "A glove holding all six Infinity Stones, granting near-omnipotent power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Vibranium?",
+      "a": "Fictional metal found in Wakanda — absorbs kinetic energy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Black Widow?",
+      "a": "Natasha Romanoff — former Soviet spy turned Avenger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does HYDRA want?",
+      "a": "World domination — a villainous organization from within SHIELD",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Hawkeye?",
+      "a": "Clint Barton — expert archer and founding Avenger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Infinity Stones?",
+      "a": "Six powerful gems controlling Space, Mind, Reality, Power, Time, and Soul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Vision?",
+      "a": "An android created by Ultron using the Mind Stone, Vibranium, and Tony's JARVIS AI",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Bifrost?",
+      "a": "A rainbow bridge in Asgard enabling travel between the Nine Realms",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Doctor Strange?",
+      "a": "Benedict Cumberbatch",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Captain Marvel?",
+      "a": "Carol Danvers — former US Air Force pilot with cosmic energy powers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ant-Man's ability?",
+      "a": "He can shrink to microscopic size or grow to enormous size using a special suit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the raccoon in Guardians of the Galaxy?",
+      "a": "Rocket Raccoon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Black Panther?",
+      "a": "Chadwick Boseman (first three films)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Thanos?",
+      "a": "A powerful cosmic villain who wants to wipe out half of all life in the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Captain America's shield made of?",
+      "a": "Vibranium",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Name the three Spider-Men in No Way Home.",
+      "a": "Tom Holland, Andrew Garfield, and Tobey Maguire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Quantum Realm?",
+      "a": "A subatomic dimension — key to time travel in Endgame",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Thor's axe in Infinity War called?",
+      "a": "Stormbreaker",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the name of Thor's mischievous adopted brother?",
+      "a": "Loki",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Peter Parker's best friend's name in the MCU?",
+      "a": "Ned Leeds",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who becomes the new Captain America at the end of Endgame?",
+      "a": "Sam Wilson",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What song plays during Peter Quill's opening dance in Guardians of the Galaxy?",
+      "a": "Come and Get Your Love",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What realm traps Janet van Dyne for decades?",
+      "a": "The Quantum Realm",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What agency monitors enhanced damage in Ms. Marvel and No Way Home?",
+      "a": "Damage Control",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What fake town traps Wanda in WandaVision?",
+      "a": "Westview",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Shang-Chi's sister called?",
+      "a": "Xialing",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the name of Peter Quill's team?",
+      "a": "Guardians of the Galaxy",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Monica Rambeau's first MCU hero codename?",
+      "a": "Photon",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the magical book Wanda studies?",
+      "a": "Darkhold",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Who is the sorcerer who guards the Time Stone?",
+      "a": "Doctor Strange",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What metal is Wolverine's skeleton coated in?",
+      "a": "Adamantium",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the real name of the Winter Soldier?",
+      "a": "Bucky Barnes",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Captain America in the MCU?",
+      "a": "Chris Evans",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What organization does Nick Fury lead?",
+      "a": "S.H.I.E.L.D.",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who created Ultron?",
+      "a": "Tony Stark and Bruce Banner",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Quantum Realm?",
+      "a": "A microscopic dimension below atoms",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What country is Scarlet Witch from?",
+      "a": "Sokovia",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the villain in Black Panther (2018)?",
+      "a": "Erik Killmonger",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Ant-Man's alter ego?",
+      "a": "Scott Lang",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does S.H.I.E.L.D. stand for?",
+      "a": "Strategic Homeland Intervention, Enforcement and Logistics Division",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tony Stark's AI assistant?",
+      "a": "J.A.R.V.I.S. (Just A Rather Very Intelligent System)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who trained Black Widow?",
+      "a": "The Red Room (Soviet training program)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Real name of the Scarlet Witch?",
+      "a": "Wanda Maximoff",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created Ultron in the MCU?",
+      "a": "Tony Stark and Bruce Banner using the Mind Stone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What planet does Thanos come from?",
+      "a": "Titan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Soul Stone's requirement?",
+      "a": "You must sacrifice someone you love to obtain it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who kills Thanos first in Endgame?",
+      "a": "Thor — he decapitates the weakened Thanos in 2023",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Significance of Tony's I am Iron Man in Endgame?",
+      "a": "Echoes the first Iron Man film — here he uses all six Stones, sacrificing himself",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Kang the Conqueror?",
+      "a": "A time-travelling conqueror — the primary villain of the Multiverse Saga",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Ten Rings?",
+      "a": "An ancient organization led by the Mandarin — appears in Iron Man 3 and Shang-Chi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sokovia Accords?",
+      "a": "A UN agreement requiring enhanced individuals to register under government oversight",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Raft?",
+      "a": "A maximum-security underwater prison for superhumans",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Shuri?",
+      "a": "T'Challa's sister and Wakanda's genius chief scientist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Time Stone also called?",
+      "a": "The Eye of Agamotto",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Nebula?",
+      "a": "Karen Gillan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Name of the Guardians' ship?",
+      "a": "The Milano",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Moon Knight?",
+      "a": "Marc Spector — a mercenary who becomes the avatar of Egyptian moon god Khonshu, with DID",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Multiverse Saga?",
+      "a": "MCU Phases 4, 5, 6 — exploring alternate realities with Kang as the primary threat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Miles Morales?",
+      "a": "The second Spider-Man — a Black and Puerto Rican teenager from Brooklyn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the House of M storyline?",
+      "a": "Wanda reshapes reality so mutants rule — she ends it saying No more mutants, depowering most X-Men",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Illuminati in Marvel comics?",
+      "a": "A secret group including Iron Man, Mr. Fantastic, Professor X, Doctor Strange, Namor, Black Bolt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Black Order?",
+      "a": "Thanos's elite generals: Proxima Midnight, Corvus Glaive, Cull Obsidian, and Ebony Maw",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Kree-Skrull War?",
+      "a": "An ancient interstellar war between two alien races — backdrop to Captain Marvel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Adam Warlock?",
+      "a": "A perfect artificial being created by the Sovereign — has a complex comics history with Thanos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happened to Steve Rogers at the end of Endgame?",
+      "a": "He went back in time to be with Peggy Carter, growing old and returning to give Sam the shield",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Civil War in Marvel comics?",
+      "a": "Iron Man supports the Superhuman Registration Act; Cap opposes it — heroes fight each other",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Beyonder in Marvel Comics?",
+      "a": "An incredibly powerful cosmic entity from outside the Marvel universe — responsible for Secret Wars",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Living Tribunal?",
+      "a": "A cosmic entity overseeing balance in the Marvel multiverse — above the Infinity Stones in power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Savage Land?",
+      "a": "A tropical environment hidden in Antarctica where dinosaurs and prehistoric creatures survived",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What does TVA stand for in Loki?",
+      "a": "Time Variance Authority",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the prison in Guardians of the Galaxy where the team first forms?",
+      "a": "The Kyln",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the comic name of the symbiote god introduced in modern Marvel?",
+      "a": "Knull",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the Celestial emerging from Earth in Eternals?",
+      "a": "Tiamut",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What phrase does Captain America finally say before the Endgame charge?",
+      "a": "Avengers, assemble",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What artificial intelligence becomes Vision after being uploaded from Tony's system?",
+      "a": "J.A.R.V.I.S.",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What ocean kingdom does Namor rule in the MCU?",
+      "a": "Talokan",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the hidden training refuge in Doctor Strange called?",
+      "a": "Kamar-Taj",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the villain's name in Thor: Love and Thunder?",
+      "a": "Gorr",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the High Evolutionary obsessed with creating?",
+      "a": "The perfect species",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What agency arrests variants in Loki?",
+      "a": "TVA",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What restaurant chain does Scott Lang work at after prison?",
+      "a": "Baskin-Robbins",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Black Widow training program called?",
+      "a": "Red Room",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What planet imprisons Thor in Ragnarok?",
+      "a": "Sakaar",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What organization hunts Skrulls in Secret Invasion?",
+      "a": "SABER",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What Avengers base is destroyed in Endgame's final act?",
+      "a": "Avengers Compound",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What alien race does Carol Danvers fight in Captain Marvel?",
+      "a": "Kree",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the undersea nation in Wakanda Forever called?",
+      "a": "Talokan",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What authority polices timelines in Loki?",
+      "a": "TVA",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What prison is used for enhanced inmates in Civil War?",
+      "a": "The Raft",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Kamala Khan's superhero name?",
+      "a": "Ms. Marvel",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Vibranium's main source in the MCU?",
+      "a": "Wakanda (a meteorite)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Kang the Conqueror?",
+      "a": "A time-traveling villain (Nathaniel Richards)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What are the six Infinity Stones?",
+      "a": "Space, Mind, Reality, Power, Time, Soul",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the Celestial that appears in Eternals?",
+      "a": "Arishem the Judge",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the TVA?",
+      "a": "Time Variance Authority",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'Avengers: Endgame'?",
+      "a": "The Russo Brothers",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Darkhold?",
+      "a": "A book of dark magic (Book of the Damned)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the original Captain Marvel in the comics?",
+      "a": "Mar-Vell",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did the MCU begin with Iron Man?",
+      "a": "2008",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who kills Thanos in Endgame?",
+      "a": "Thor (and Tony uses the stones)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Blip?",
+      "a": "The 5-year period when half of life was snapped away",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Shang-Chi's father?",
+      "a": "Xu Wenwu (The Mandarin)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Wanda's hex in WandaVision?",
+      "a": "A reality-altering bubble over Westview",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the creator of the Super Soldier Serum?",
+      "a": "Dr. Abraham Erskine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What ancient entity created the symbiotes in the comics?",
+      "a": "Knull",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What are all six Infinity Stones?",
+      "a": "Space, Mind, Reality, Power, Time, and Soul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Phoenix Force?",
+      "a": "A cosmic entity bonding with a mutant host — most famously Jean Grey — granting near-unlimited power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Significance of Steve Rogers picking up Mjolnir in Endgame?",
+      "a": "He was deemed worthy — Thor suspected this in Age of Ultron when Steve slightly budged it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Eternals' true mission?",
+      "a": "Created by Celestials to allow life to grow and energy to accumulate — for the Emergence: a new Celestial born inside Earth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Galactus?",
+      "a": "The Devourer of Worlds — a cosmic being who consumes planets for sustenance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Negative Zone?",
+      "a": "An anti-matter universe accessible through a portal — first explored by Mr. Fantastic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Molecule Man?",
+      "a": "Owen Reece — can manipulate matter and energy at a molecular level — lynchpin of the entire multiverse in some storylines",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Significance of the first Iron Man post-credits scene?",
+      "a": "Nick Fury tells Tony he's not alone — the first hint of a shared Marvel Cinematic Universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Infinity War Decimation?",
+      "a": "Thanos snapping with all six Infinity Stones, instantly wiping out 50% of all life in the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the concept of a Nexus Being?",
+      "a": "A being who is a focal point of the universe's energy — Wanda Maximoff is the Nexus Being of Earth-616",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Multiverse in MCU terms and what opened it?",
+      "a": "An infinite set of parallel universes — destabilised by the Infinity War snap and Strange's spell in No Way Home",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Secret Invasion?",
+      "a": "Skrulls have secretly replaced key figures in the Marvel universe — including heroes and politicians",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rule of X in the Krakoa era?",
+      "a": "The laws established for mutantkind on the sovereign nation Krakoa — from Jonathan Hickman's X-Men run",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Knull the God of Symbiotes?",
+      "a": "The progenitor of all symbiotes — the darkness before creation itself — a Donny Cates villain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Beyonder's Secret Wars?",
+      "a": "He transports heroes and villains to Battleworld to fight — one of Marvel's most important crossover events",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Civil War II in Marvel comics?",
+      "a": "The Inhuman Ulysses can predict the future — the debate over whether to act on future crimes splits the heroes again",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the One Above All?",
+      "a": "The supreme being of the Marvel multiverse — the equivalent of God, overseeing all existence",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the difference between Earth-616 and Earth-199999?",
+      "a": "Earth-616 is the main Marvel Comics universe; Earth-199999 is the MCU",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the snap reversal in Endgame?",
+      "a": "Hulk used the gauntlet to reverse the snap — then Thanos's army arrived, leading to the final battle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Celestials' role in Marvel cosmology?",
+      "a": "Ancient cosmic beings who seeded life across the universe and return to judge whether planets should be destroyed",
+      "file": "App.jsx"
+    }
+  ]
+}

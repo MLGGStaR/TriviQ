@@ -20,6 +20,8 @@ import { CHARADES_HARD_OVERRIDES, QUESTION_REFINEMENT_ADDITIONS } from "./questi
 import MEGA_NEW_EXPANSIONS from "./megaNewExpansions.js";
 import MORE_TRIVIA_EXPANSIONS from "./moreTriviaExpansions.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
+import { isBlacklisted } from "./qualityBlacklist.js";
+import QUALITY_BACKFILL from "./qualityBackfill.js";
 import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds } from "./questionUsage.js";
 import { getCachedAccountSession, loadAccountSession, loginAccount, logoutAccount, signupAccount } from "./accountAuth.js";
 
@@ -3077,105 +3079,6 @@ const RAW_BANK = {
   ],
   },
 
-  who_dinosaur:{label:"Which Dinosaur Am I?",icon:"\u{1F996}",color:"#84CC16",isWhoAmI:true,
-  200:[
-    {q:"Guess the dinosaur from the image",a:"Tyrannosaurus Rex",wiki:"Tyrannosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Velociraptor",wiki:"Velociraptor"},
-    {q:"Guess the dinosaur from the image",a:"Triceratops",wiki:"Triceratops"},
-    {q:"Guess the dinosaur from the image",a:"Stegosaurus",wiki:"Stegosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Brachiosaurus",wiki:"Brachiosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Pterodactyl",wiki:"Pterodactylus"},
-    {q:"Guess the dinosaur from the image",a:"Spinosaurus",wiki:"Spinosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Ankylosaurus",wiki:"Ankylosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Diplodocus",wiki:"Diplodocus"},
-    {q:"Guess the dinosaur from the image",a:"Pachycephalosaurus",wiki:"Pachycephalosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Parasaurolophus",wiki:"Parasaurolophus"},
-    {q:"Guess the dinosaur from the image",a:"Allosaurus",wiki:"Allosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Gallimimus",wiki:"Gallimimus"},
-    {q:"Guess the dinosaur from the image",a:"Apatosaurus",wiki:"Apatosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Iguanodon",wiki:"Iguanodon"},
-    {q:"Guess the dinosaur from the image",a:"Plesiosaurus",wiki:"Plesiosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Mosasaurus",wiki:"Mosasaurus"},
-    {q:"Guess the dinosaur from the image",a:"Pteranodon",wiki:"Pteranodon"},
-    {q:"Guess the dinosaur from the image",a:"Compsognathus",wiki:"Compsognathus"},
-    {q:"Guess the dinosaur from the image",a:"Dilophosaurus",wiki:"Dilophosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Carnotaurus",wiki:"Carnotaurus"},
-    {q:"Guess the dinosaur from the image",a:"Giganotosaurus",wiki:"Giganotosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Deinonychus",wiki:"Deinonychus"},
-    {q:"Guess the dinosaur from the image",a:"Oviraptor",wiki:"Oviraptor"},
-    {q:"Guess the dinosaur from the image",a:"Therizinosaurus",wiki:"Therizinosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Argentinosaurus",wiki:"Argentinosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Utahraptor",wiki:"Utahraptor"},
-    {q:"Guess the dinosaur from the image",a:"Ceratosaurus",wiki:"Ceratosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Styracosaurus",wiki:"Styracosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Troodon",wiki:"Troodon"},
-  ],
-  400:[
-    {q:"Guess the dinosaur from the image",a:"Baryonyx",wiki:"Baryonyx"},
-    {q:"Guess the dinosaur from the image",a:"Megalosaurus",wiki:"Megalosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Corythosaurus",wiki:"Corythosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Protoceratops",wiki:"Protoceratops"},
-    {q:"Guess the dinosaur from the image",a:"Maiasaura",wiki:"Maiasaura"},
-    {q:"Guess the dinosaur from the image",a:"Edmontosaurus",wiki:"Edmontosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Dimetrodon",wiki:"Dimetrodon"},
-    {q:"Guess the dinosaur from the image",a:"Kentrosaurus",wiki:"Kentrosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Coelophysis",wiki:"Coelophysis"},
-    {q:"Guess the dinosaur from the image",a:"Hadrosaurus",wiki:"Hadrosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Euoplocephalus",wiki:"Euoplocephalus"},
-    {q:"Guess the dinosaur from the image",a:"Stygimoloch",wiki:"Stygimoloch"},
-    {q:"Guess the dinosaur from the image",a:"Majungasaurus",wiki:"Majungasaurus"},
-    {q:"Guess the dinosaur from the image",a:"Saurolophus",wiki:"Saurolophus"},
-    {q:"Guess the dinosaur from the image",a:"Suchomimus",wiki:"Suchomimus"},
-    {q:"Guess the dinosaur from the image",a:"Yutyrannus",wiki:"Yutyrannus"},
-    {q:"Guess the dinosaur from the image",a:"Pentaceratops",wiki:"Pentaceratops"},
-    {q:"Guess the dinosaur from the image",a:"Torosaurus",wiki:"Torosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Lambeosaurus",wiki:"Lambeosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Camarasaurus",wiki:"Camarasaurus"},
-    {q:"Guess the dinosaur from the image",a:"Acrocanthosaurus",wiki:"Acrocanthosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Mapusaurus",wiki:"Mapusaurus"},
-    {q:"Guess the dinosaur from the image",a:"Tarbosaurus",wiki:"Tarbosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Albertosaurus",wiki:"Albertosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Daspletosaurus",wiki:"Daspletosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Gorgosaurus",wiki:"Gorgosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Einiosaurus",wiki:"Einiosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Chasmosaurus",wiki:"Chasmosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Centrosaurus",wiki:"Centrosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Ouranosaurus",wiki:"Ouranosaurus"},
-  ],
-  600:[
-    {q:"Guess the dinosaur from the image",a:"Qianzhousaurus",wiki:"Qianzhousaurus"},
-    {q:"Guess the dinosaur from the image",a:"Amargasaurus",wiki:"Amargasaurus"},
-    {q:"Guess the dinosaur from the image",a:"Huayangosaurus",wiki:"Huayangosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Nodosaurus",wiki:"Nodosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Borealopelta",wiki:"Borealopelta"},
-    {q:"Guess the dinosaur from the image",a:"Microraptor",wiki:"Microraptor"},
-    {q:"Guess the dinosaur from the image",a:"Sinosauropteryx",wiki:"Sinosauropteryx"},
-    {q:"Guess the dinosaur from the image",a:"Caudipteryx",wiki:"Caudipteryx"},
-    {q:"Guess the dinosaur from the image",a:"Archaeopteryx",wiki:"Archaeopteryx"},
-    {q:"Guess the dinosaur from the image",a:"Psittacosaurus",wiki:"Psittacosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Leaellynasaura",wiki:"Leaellynasaura"},
-    {q:"Guess the dinosaur from the image",a:"Muttaburrasaurus",wiki:"Muttaburrasaurus"},
-    {q:"Guess the dinosaur from the image",a:"Scutellosaurus",wiki:"Scutellosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Dracorex",wiki:"Dracorex"},
-    {q:"Guess the dinosaur from the image",a:"Dreadnoughtus",wiki:"Dreadnoughtus"},
-    {q:"Guess the dinosaur from the image",a:"Patagotitan",wiki:"Patagotitan"},
-    {q:"Guess the dinosaur from the image",a:"Mamenchisaurus",wiki:"Mamenchisaurus"},
-    {q:"Guess the dinosaur from the image",a:"Shunosaurus",wiki:"Shunosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Rebbachisaurus",wiki:"Rebbachisaurus"},
-    {q:"Guess the dinosaur from the image",a:"Concavenator",wiki:"Concavenator"},
-    {q:"Guess the dinosaur from the image",a:"Shantungosaurus",wiki:"Shantungosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Segnosaurus",wiki:"Segnosaurus"},
-    {q:"Guess the dinosaur from the image",a:"Alxasaurus",wiki:"Alxasaurus"},
-    {q:"Guess the dinosaur from the image",a:"Jeholornis",wiki:"Jeholornis"},
-    {q:"Guess the dinosaur from the image",a:"Yi qi",wiki:"Yi_qi"},
-    {q:"Guess the dinosaur from the image",a:"Anzu",wiki:"Anzu_(dinosaur)"},
-    {q:"Guess the dinosaur from the image",a:"Kosmoceratops",wiki:"Kosmoceratops"},
-    {q:"Guess the dinosaur from the image",a:"Sinoceratops",wiki:"Sinoceratops"},
-    {q:"Guess the dinosaur from the image",a:"Nasutoceratops",wiki:"Nasutoceratops"},
-    {q:"Guess the dinosaur from the image",a:"Yinlong",wiki:"Yinlong"},
-  ],
-  },
-
   who_influencer:{label:"Which Influencer Am I?",icon:"\u{1F4F1}",color:"#EC4899",isWhoAmI:true,
   200:[
     {q:"Guess the influencer from the image",a:"MrBeast",wiki:"MrBeast"},
@@ -3272,6 +3175,153 @@ const RAW_BANK = {
     {q:"Guess the influencer from the image",a:"Caspar Lee",wiki:"Caspar_Lee"},
     {q:"Guess the influencer from the image",a:"Jack Maynard",wiki:"Jack_Maynard"},
     {q:"Guess the influencer from the image",a:"Conor Maynard",wiki:"Conor_Maynard"},
+  ],
+  },
+
+  guess_the_price:{label:"Guess The Price",icon:"\u{1F4B0}",color:"#F59E0B",isWhoAmI:true,priceMode:true,
+  200:[
+    {q:"Guess the retail price of this product",a:"$799 (AED 2,932)",wiki:"IPhone_15"},
+    {q:"Guess the retail price of this product",a:"$499 (AED 1,832)",wiki:"PlayStation_5"},
+    {q:"Guess the retail price of this product",a:"$499 (AED 1,832)",wiki:"Xbox_Series_X_and_Series_S"},
+    {q:"Guess the retail price of this product",a:"$300 (AED 1,101)",wiki:"Nintendo_Switch"},
+    {q:"Guess the retail price of this product",a:"$350 (AED 1,285)",wiki:"Nintendo_Switch_OLED_Model"},
+    {q:"Guess the retail price of this product",a:"$249 (AED 914)",wiki:"AirPods_Pro"},
+    {q:"Guess the retail price of this product",a:"$399 (AED 1,465)",wiki:"Apple_Watch_Series_9"},
+    {q:"Guess the retail price of this product",a:"$1,299 (AED 4,770)",wiki:"MacBook_Air"},
+    {q:"Guess the retail price of this product",a:"$329 (AED 1,208)",wiki:"IPad_(10th_generation)"},
+    {q:"Guess the retail price of this product",a:"$1,199 (AED 4,403)",wiki:"IPhone_15_Pro"},
+    {q:"Guess the retail price of this product",a:"$800 (AED 2,937)",wiki:"Samsung_Galaxy_S24"},
+    {q:"Guess the retail price of this product",a:"$1,800 (AED 6,606)",wiki:"Samsung_Galaxy_Z_Fold_5"},
+    {q:"Guess the retail price of this product",a:"$700 (AED 2,570)",wiki:"Google_Pixel_8"},
+    {q:"Guess the retail price of this product",a:"$5 (AED 18)",wiki:"Big_Mac"},
+    {q:"Guess the retail price of this product",a:"$2 (AED 7)",wiki:"Coca-Cola"},
+    {q:"Guess the retail price of this product",a:"$6 (AED 22)",wiki:"Whopper"},
+    {q:"Guess the retail price of this product",a:"$180 (AED 661)",wiki:"Air_Jordan_1"},
+    {q:"Guess the retail price of this product",a:"$120 (AED 440)",wiki:"Nike_Air_Force_1"},
+    {q:"Guess the retail price of this product",a:"$100 (AED 367)",wiki:"Adidas_Samba"},
+    {q:"Guess the retail price of this product",a:"$60 (AED 220)",wiki:"Levi%27s_501"},
+    {q:"Guess the retail price of this product",a:"$20 (AED 73)",wiki:"Lego"},
+    {q:"Guess the retail price of this product",a:"$25 (AED 92)",wiki:"Monopoly_(game)"},
+    {q:"Guess the retail price of this product",a:"$15 (AED 55)",wiki:"Rubik%27s_Cube"},
+    {q:"Guess the retail price of this product",a:"$120 (AED 440)",wiki:"Amazon_Kindle"},
+    {q:"Guess the retail price of this product",a:"$50 (AED 184)",wiki:"Amazon_Echo"},
+    {q:"Guess the retail price of this product",a:"$2 (AED 7)",wiki:"Snickers"},
+    {q:"Guess the retail price of this product",a:"$2 (AED 7)",wiki:"Kit_Kat"},
+    {q:"Guess the retail price of this product",a:"$3 (AED 11)",wiki:"Pringles"},
+    {q:"Guess the retail price of this product",a:"$6 (AED 22)",wiki:"Oreo"},
+    {q:"Guess the retail price of this product",a:"$3 (AED 11)",wiki:"Red_Bull"},
+  ],
+  400:[
+    {q:"Guess the retail price of this product",a:"$140 (AED 514)",wiki:"Nike_Air_Max"},
+    {q:"Guess the retail price of this product",a:"$230 (AED 844)",wiki:"Adidas_Yeezy"},
+    {q:"Guess the retail price of this product",a:"$65 (AED 238)",wiki:"Chuck_Taylor_All-Stars"},
+    {q:"Guess the retail price of this product",a:"$110 (AED 404)",wiki:"Birkenstock"},
+    {q:"Guess the retail price of this product",a:"$170 (AED 624)",wiki:"Ray-Ban_Wayfarer"},
+    {q:"Guess the retail price of this product",a:"$2,500 (AED 9,175)",wiki:"Canon_EOS_R6"},
+    {q:"Guess the retail price of this product",a:"$2,500 (AED 9,175)",wiki:"Sony_%CE%B17_IV"},
+    {q:"Guess the retail price of this product",a:"$400 (AED 1,468)",wiki:"GoPro"},
+    {q:"Guess the retail price of this product",a:"$430 (AED 1,578)",wiki:"Dyson_(company)"},
+    {q:"Guess the retail price of this product",a:"$3,499 (AED 12,842)",wiki:"Apple_Vision_Pro"},
+    {q:"Guess the retail price of this product",a:"$499 (AED 1,832)",wiki:"Meta_Quest_3"},
+    {q:"Guess the retail price of this product",a:"$1,500 (AED 5,505)",wiki:"IMac"},
+    {q:"Guess the retail price of this product",a:"$70 (AED 257)",wiki:"The_Legend_of_Zelda:_Tears_of_the_Kingdom"},
+    {q:"Guess the retail price of this product",a:"$30 (AED 110)",wiki:"Grand_Theft_Auto_V"},
+    {q:"Guess the retail price of this product",a:"$30 (AED 110)",wiki:"Minecraft"},
+    {q:"Guess the retail price of this product",a:"$400 (AED 1,468)",wiki:"Sony_WH-1000XM5"},
+    {q:"Guess the retail price of this product",a:"$220 (AED 807)",wiki:"Sonos"},
+    {q:"Guess the retail price of this product",a:"$450 (AED 1,652)",wiki:"KitchenAid"},
+    {q:"Guess the retail price of this product",a:"$200 (AED 734)",wiki:"Nespresso"},
+    {q:"Guess the retail price of this product",a:"$50 (AED 184)",wiki:"Crocs"},
+    {q:"Guess the retail price of this product",a:"$45 (AED 165)",wiki:"Hydro_Flask"},
+    {q:"Guess the retail price of this product",a:"$160 (AED 587)",wiki:"Fitbit"},
+    {q:"Guess the retail price of this product",a:"$800 (AED 2,936)",wiki:"Garmin_Fenix"},
+    {q:"Guess the retail price of this product",a:"$250 (AED 918)",wiki:"Polaroid_SX-70"},
+    {q:"Guess the retail price of this product",a:"$160 (AED 587)",wiki:"Chanel_No._5"},
+    {q:"Guess the retail price of this product",a:"$199 (AED 730)",wiki:"Ring_(company)"},
+    {q:"Guess the retail price of this product",a:"$180 (AED 661)",wiki:"Instant_Pot"},
+    {q:"Guess the retail price of this product",a:"$90 (AED 330)",wiki:"Vans_(shoes)"},
+  ],
+  600:[
+    {q:"Guess the retail price of this product",a:"$15,000 (AED 55,050)",wiki:"Rolex_Daytona"},
+    {q:"Guess the retail price of this product",a:"$10,000 (AED 36,700)",wiki:"Rolex_Submariner"},
+    {q:"Guess the retail price of this product",a:"$10,000 (AED 36,700)",wiki:"Rolex_GMT_Master"},
+    {q:"Guess the retail price of this product",a:"$7,000 (AED 25,690)",wiki:"Omega_Speedmaster"},
+    {q:"Guess the retail price of this product",a:"$12,000 (AED 44,040)",wiki:"Cartier_Tank"},
+    {q:"Guess the retail price of this product",a:"$15,000 (AED 55,050)",wiki:"Birkin_bag"},
+    {q:"Guess the retail price of this product",a:"$10,000 (AED 36,700)",wiki:"Kelly_bag"},
+    {q:"Guess the retail price of this product",a:"$10,000 (AED 36,700)",wiki:"Chanel_2.55"},
+    {q:"Guess the retail price of this product",a:"$240,000 (AED 880,800)",wiki:"Lamborghini_Urus"},
+    {q:"Guess the retail price of this product",a:"$520,000 (AED 1,908,400)",wiki:"Ferrari_SF90_Stradale"},
+    {q:"Guess the retail price of this product",a:"$400,000 (AED 1,468,000)",wiki:"Rolls-Royce_Cullinan"},
+    {q:"Guess the retail price of this product",a:"$250,000 (AED 917,500)",wiki:"Bentley_Continental_GT"},
+    {q:"Guess the retail price of this product",a:"$230,000 (AED 844,100)",wiki:"Porsche_911"},
+    {q:"Guess the retail price of this product",a:"$90,000 (AED 330,300)",wiki:"Toyota_Land_Cruiser"},
+    {q:"Guess the retail price of this product",a:"$40,000 (AED 146,800)",wiki:"Tesla_Model_3"},
+    {q:"Guess the retail price of this product",a:"$80,000 (AED 293,600)",wiki:"Tesla_Model_S"},
+    {q:"Guess the retail price of this product",a:"$25,000 (AED 91,750)",wiki:"Harley-Davidson"},
+    {q:"Guess the retail price of this product",a:"$9,000 (AED 33,030)",wiki:"Leica_M11"},
+    {q:"Guess the retail price of this product",a:"$400 (AED 1,468)",wiki:"Amouage"},
+    {q:"Guess the retail price of this product",a:"$2,000 (AED 7,340)",wiki:"Fender_Stratocaster"},
+    {q:"Guess the retail price of this product",a:"$3,500 (AED 12,845)",wiki:"Gibson_Les_Paul"},
+    {q:"Guess the retail price of this product",a:"$150,000 (AED 550,500)",wiki:"Steinway_%26_Sons"},
+    {q:"Guess the retail price of this product",a:"$900 (AED 3,303)",wiki:"Montblanc_(company)"},
+    {q:"Guess the retail price of this product",a:"$1,800 (AED 6,606)",wiki:"Aeron_chair"},
+    {q:"Guess the retail price of this product",a:"$8,000 (AED 29,360)",wiki:"Hasselblad"},
+  ],
+  },
+
+  guess_young_celebrity:{label:"Guess The Young Celebrity",icon:"\u{1F6BC}",color:"#F472B6",isWhoAmI:true,
+  200:[
+    {q:"Guess the celebrity from this young photo",a:"Michael Jackson",wiki:"Young_Michael_Jackson"},
+    {q:"Guess the celebrity from this young photo",a:"Elvis Presley",wiki:"Young_Elvis_Presley"},
+    {q:"Guess the celebrity from this young photo",a:"Shirley Temple",wiki:"Young_Shirley_Temple"},
+    {q:"Guess the celebrity from this young photo",a:"Queen Elizabeth II",wiki:"Young_Queen_Elizabeth_II"},
+    {q:"Guess the celebrity from this young photo",a:"Steve Jobs",wiki:"Young_Steve_Jobs"},
+    {q:"Guess the celebrity from this young photo",a:"Barack Obama",wiki:"Young_Barack_Obama"},
+    {q:"Guess the celebrity from this young photo",a:"Muhammad Ali",wiki:"Young_Muhammad_Ali"},
+    {q:"Guess the celebrity from this young photo",a:"Marilyn Monroe",wiki:"Young_Marilyn_Monroe"},
+    {q:"Guess the celebrity from this young photo",a:"Elizabeth Taylor",wiki:"Young_Elizabeth_Taylor"},
+    {q:"Guess the celebrity from this young photo",a:"Michael Jordan",wiki:"Young_Michael_Jordan"},
+  ],
+  400:[
+    {q:"Guess the celebrity from this young photo",a:"Princess Diana",wiki:"Young_Princess_Diana"},
+    {q:"Guess the celebrity from this young photo",a:"John F. Kennedy",wiki:"Young_John_F_Kennedy"},
+    {q:"Guess the celebrity from this young photo",a:"Britney Spears",wiki:"Young_Britney_Spears"},
+    {q:"Guess the celebrity from this young photo",a:"Taylor Swift",wiki:"Young_Taylor_Swift"},
+    {q:"Guess the celebrity from this young photo",a:"Miley Cyrus",wiki:"Young_Miley_Cyrus"},
+    {q:"Guess the celebrity from this young photo",a:"Emma Watson",wiki:"Young_Emma_Watson"},
+    {q:"Guess the celebrity from this young photo",a:"Tom Cruise",wiki:"Young_Tom_Cruise"},
+    {q:"Guess the celebrity from this young photo",a:"Paul McCartney",wiki:"Young_Paul_McCartney"},
+    {q:"Guess the celebrity from this young photo",a:"John Lennon",wiki:"Young_John_Lennon"},
+    {q:"Guess the celebrity from this young photo",a:"Bob Marley",wiki:"Young_Bob_Marley"},
+    {q:"Guess the celebrity from this young photo",a:"Mariah Carey",wiki:"Young_Mariah_Carey"},
+    {q:"Guess the celebrity from this young photo",a:"Beyonce",wiki:"Young_Beyonce"},
+    {q:"Guess the celebrity from this young photo",a:"Jay-Z",wiki:"Young_Jay_Z"},
+    {q:"Guess the celebrity from this young photo",a:"Eminem",wiki:"Young_Eminem"},
+    {q:"Guess the celebrity from this young photo",a:"Bill Clinton",wiki:"Young_Bill_Clinton"},
+    {q:"Guess the celebrity from this young photo",a:"Donald Trump",wiki:"Young_Donald_Trump"},
+    {q:"Guess the celebrity from this young photo",a:"Oprah Winfrey",wiki:"Young_Oprah_Winfrey"},
+    {q:"Guess the celebrity from this young photo",a:"Bill Gates",wiki:"Young_Bill_Gates"},
+    {q:"Guess the celebrity from this young photo",a:"Mark Zuckerberg",wiki:"Young_Mark_Zuckerberg"},
+    {q:"Guess the celebrity from this young photo",a:"Lionel Messi",wiki:"Young_Lionel_Messi"},
+  ],
+  600:[
+    {q:"Guess the celebrity from this young photo",a:"Frank Sinatra",wiki:"Young_Frank_Sinatra"},
+    {q:"Guess the celebrity from this young photo",a:"Audrey Hepburn",wiki:"Young_Audrey_Hepburn"},
+    {q:"Guess the celebrity from this young photo",a:"Mick Jagger",wiki:"Young_Mick_Jagger"},
+    {q:"Guess the celebrity from this young photo",a:"Keith Richards",wiki:"Young_Keith_Richards"},
+    {q:"Guess the celebrity from this young photo",a:"Freddie Mercury",wiki:"Young_Freddie_Mercury"},
+    {q:"Guess the celebrity from this young photo",a:"David Bowie",wiki:"Young_David_Bowie"},
+    {q:"Guess the celebrity from this young photo",a:"Stevie Wonder",wiki:"Young_Stevie_Wonder"},
+    {q:"Guess the celebrity from this young photo",a:"Aretha Franklin",wiki:"Young_Aretha_Franklin"},
+    {q:"Guess the celebrity from this young photo",a:"Bob Dylan",wiki:"Young_Bob_Dylan"},
+    {q:"Guess the celebrity from this young photo",a:"Jimi Hendrix",wiki:"Young_Jimi_Hendrix"},
+    {q:"Guess the celebrity from this young photo",a:"Janis Joplin",wiki:"Young_Janis_Joplin"},
+    {q:"Guess the celebrity from this young photo",a:"Kurt Cobain",wiki:"Young_Kurt_Cobain"},
+    {q:"Guess the celebrity from this young photo",a:"Amy Winehouse",wiki:"Young_Amy_Winehouse"},
+    {q:"Guess the celebrity from this young photo",a:"Prince",wiki:"Young_Prince"},
+    {q:"Guess the celebrity from this young photo",a:"Rupert Grint",wiki:"Young_Rupert_Grint"},
+    {q:"Guess the celebrity from this young photo",a:"Ellen DeGeneres",wiki:"Young_Ellen_DeGeneres"},
   ],
   },
 
@@ -3598,10 +3648,9 @@ const NON_TRIVIA_STYLE_CATEGORIES = new Set([
   "who_anime_character",
   "who_movie_character",
   "who_country_landmark",
-  "who_dinosaur",
   "who_influencer",
-  "who_movie",
-  "who_tv_show",
+  "guess_the_price",
+  "guess_young_celebrity",
   "logos",
 ]);
 
@@ -3878,7 +3927,21 @@ function applyCategoryOverrides(bank, overrides){
   return next;
 }
 
+function applyQuestionBlacklist(bank){
+  const next={};
+  for (const [catId, cat] of Object.entries(bank)) {
+    const cc={...cat};
+    for (const pts of POINT_VALUES) {
+      if (!Array.isArray(cc[pts])) continue;
+      cc[pts]=cc[pts].filter((e)=>!(e&&e.q&&e.a&&isBlacklisted(catId, e.q, e.a)));
+    }
+    next[catId]=cc;
+  }
+  return next;
+}
+
 const BANK = sanitizeBank(
+  applyQuestionBlacklist(
   applyWhoAmIDifficultyOverrides(
     applyHardCharadesOverrides(
       applyQuestionStyleFilters(
@@ -3893,7 +3956,8 @@ const BANK = sanitizeBank(
                         mergeQuestionExpansions(
                           mergeQuestionExpansions(
                             mergeQuestionExpansions(
-                              mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
+                              mergeQuestionExpansions(
+                                mergeQuestionExpansions(RAW_BANK, QUESTION_EXPANSIONS),
                               QUESTION_MINIMUMS,
                             ),
                             TRIVIA_MEGA_EXPANSIONS,
@@ -3912,24 +3976,27 @@ const BANK = sanitizeBank(
               ),
               MEGA_NEW_EXPANSIONS,
             ),
-            MORE_TRIVIA_EXPANSIONS,
-          ),
+                MORE_TRIVIA_EXPANSIONS,
+              ),
+              QUALITY_BACKFILL,
+            ),
           { songs: mergeStandaloneCategory(SONG_CLIP_BANK, SONG_CLIP_ADDITIONS) },
         ),
       ),
     ),
-  ),
+  )
+  )
 );
 const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
   { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","who_what_am_i","borders_country","movie_scenes","songs","flags","country_facts","country_map","logos"] },
   { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
-  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow","cobra_kai"] },
+  { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow","cobra_kai","the_rookie"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
   { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant","ark_survival","minecraft"] },
-  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal","who_country_landmark","who_dinosaur","who_influencer","who_movie","who_tv_show"] },
-  { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies","charades_scenarios"] },
+  { label:"\u{1F5BC}\uFE0F Who Am I?", ids:["who_footballer","who_tv_character","who_anime_character","who_movie_character","who_historic_figure","who_animal","who_country_landmark","who_influencer","guess_young_celebrity","guess_the_price"] },
+  { label:"\u{1F3AD} Charades", ids:["charades_general","charades_movies","charades_scenarios","charades_countries"] },
 ];
 
 const CATEGORY_PREVIEWS = {
@@ -3996,19 +4063,20 @@ const CATEGORY_PREVIEWS = {
   who_historic_figure:{src:"/category-previews/who_historic_figure.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",caption:"Guess the legend"},
   who_animal:{src:"/whoami/lion-9f19d4dc.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the creature"},
   who_country_landmark:{src:"/whoami/big-ben-2a8438ae.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the country"},
-  who_dinosaur:{src:"/category-previews/who_dinosaur.jpg",boardSrc:"/category-previews/who_dinosaur.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the dinosaur"},
   who_influencer:{src:"/category-previews/who_influencer.jpg",boardSrc:"/category-previews/who_influencer.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",caption:"Guess the creator"},
   space:{src:"/category-previews/space.jpg",boardSrc:"/category-previews/space.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",caption:"Planets and stars"},
   math:{src:"/category-previews/math.jpg",boardSrc:"/category-previews/math.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",caption:"Solve the problem"},
   language:{src:"/category-previews/language.png",boardSrc:"/category-previews/language.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#F8FAFC",caption:"Name the language"},
   charades_scenarios:{src:"/category-previews/charades_slipping.jpg",boardSrc:"/category-previews/charades_slipping.jpg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Act out the scene"},
+  charades_countries:{src:"/category-previews/charades_countries.jpg",boardSrc:"/category-previews/charades_countries.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#000000",caption:"Act out a country"},
   cobra_kai:{src:"/category-previews/cobra_kai.png",boardSrc:"/category-previews/cobra_kai.png",fit:"contain",cardFit:"cover",cardPosition:"center",boardFit:"contain",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Strike first, strike hard"},
+  the_rookie:{src:"/category-previews/the_rookie.jpg",boardSrc:"/category-previews/the_rookie.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#000000",caption:"LAPD rookies"},
   uae:{src:"/whoami/burj-khalifa-7dc3b1a0.jpg",boardSrc:"/whoami/burj-khalifa-7dc3b1a0.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Deserts and towers"},
   guess_footballer:{src:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",boardSrc:"/whoami/ronaldo-brazilian-footballer-765da738.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Four facts, one player"},
-  who_movie:{src:"/category-previews/interstellar_poster.jpg",boardSrc:"/category-previews/interstellar_poster.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the movie"},
-  who_tv_show:{src:"/category-previews/got_poster.jpg",boardSrc:"/category-previews/got_poster.jpg",fit:"contain",cardFit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#000000",bg:"#000000",caption:"Guess the show"},
-  who_what_am_i:{src:"/category-previews/who_what_am_i.svg",boardSrc:"/category-previews/who_what_am_i.svg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#1e1b4b",caption:"Solve the riddle"},
-  borders_country:{src:"/category-previews/borders_country.svg",boardSrc:"/category-previews/borders_country.svg",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#064e3b",caption:"Name the neighbors"},
+  guess_the_price:{src:"/whoami/iphone-15-5db09a96.png",boardSrc:"/whoami/iphone-15-5db09a96.png",fit:"contain",cardFit:"cover",cardPosition:"center",boardFit:"contain",boardPosition:"center",boardBg:"#0f172a",bg:"#ffffff",caption:"Price tag challenge"},
+  guess_young_celebrity:{src:"/whoami/young-michael-jackson-86d1e82d.jpg",boardSrc:"/whoami/young-michael-jackson-86d1e82d.jpg",fit:"cover",cardPosition:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#1e1b4b",caption:"Guess the young star"},
+  who_what_am_i:{src:"/category-previews/who_what_am_i.jpg",boardSrc:"/category-previews/who_what_am_i.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#1e1b4b",caption:"Solve the riddle"},
+  borders_country:{src:"/category-previews/borders_country.jpg",boardSrc:"/category-previews/borders_country.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#0f172a",bg:"#FFFFFF",caption:"Name the neighbors"},
   logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
 };
 
@@ -4017,6 +4085,23 @@ const PT_COLORS = {100:"#059669",200:"#D97706",300:"#2563EB",400:"#DC2626",500:"
 const PT_BG = {100:"#ECFDF5",200:"#FFFBEB",300:"#EFF6FF",400:"#FFF1F2",500:"#F5F3FF",600:"#F5F3FF"};
 
 function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+// FNV-1a 32-bit string hash — used to derive a per-account, per-game seed for pool shuffling.
+function hashStr(s){let h=2166136261>>>0;const str=String(s||"");for(let i=0;i<str.length;i++){h^=str.charCodeAt(i);h=Math.imul(h,16777619)>>>0;}return h>>>0;}
+function mulberry32(seed){let t=seed>>>0;return function(){t=(t+0x6D2B79F5)>>>0;let r=t;r=Math.imul(r^(r>>>15),r|1);r^=r+Math.imul(r^(r>>>7),r|61);return((r^(r>>>14))>>>0)/4294967296;};}
+function seededShuffle(arr,seed){const a=[...arr];const rng=mulberry32(seed);for(let i=a.length-1;i>0;i--){const j=Math.floor(rng()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+// Module-level salt set at game start from `${accountId}:${resetToken}:${nonce}`. Different accounts
+// (or fresh games) get different salts → fully different pool orderings.
+let POOL_SHUFFLE_SALT="";
+function setPoolShuffleSalt(salt){POOL_SHUFFLE_SALT=String(salt||"");}
+function baseCat(id){
+  if(typeof id !== "string") return id;
+  const i=id.indexOf("#");
+  return i>=0 ? id.slice(0,i) : id;
+}
+function countInstances(list, baseId){
+  return (list||[]).filter((x)=>baseCat(x)===baseId).length;
+}
+
 function makeBoard(catIds,mode="team"){
   const pv=mode==="ffa"?FFA_POINT_VALUES:POINT_VALUES;
   const tpt=mode==="ffa"?FFA_TILES_PER_TIER:TILES_PER_TIER;
@@ -4041,11 +4126,14 @@ function isQuestionConsumed(entry, usedLookup){
   return getQuestionUsageKeys(entry).some((key)=>usedLookup.has(key));
 }
 function buildTierPool(catId, pts, usedIdsSet){
-  const fullPool = Array.isArray(BANK?.[catId]?.[pts]) ? BANK[catId][pts] : [];
+  const realCat = baseCat(catId);
+  const fullPool = Array.isArray(BANK?.[realCat]?.[pts]) ? BANK[realCat][pts] : [];
   if(fullPool.length===0) return [];
   const usedLookup=usedIdsSet instanceof Set?usedIdsSet:buildUsedQuestionLookup(usedIdsSet);
   const remainingPool = fullPool.filter((entry)=>!isQuestionConsumed(entry,usedLookup));
-  return shuffle(remainingPool.length>0?remainingPool:[...fullPool]);
+  const src=remainingPool.length>0?remainingPool:[...fullPool];
+  // Triple-shuffle with fresh Math.random entropy each call — maximum scrambling.
+  return shuffle(shuffle(shuffle(src)));
 }
 function initPointers(catIds, usedIdsSet=new Set(), mode="team"){
   const pv=mode==="ffa"?FFA_POINT_VALUES:POINT_VALUES;
@@ -4165,7 +4253,7 @@ function loadYouTubeIframeApi(){
   return youtubeIframeApiPromise;
 }
 
-function MovieScenePlayer({tile}){
+function MovieScenePlayer({tile,onClipFailed}){
   const [loaded,setLoaded]=useState(false);
   const [status,setStatus]=useState(tile.videoId?"idle":"error");
   const [playerReady,setPlayerReady]=useState(false);
@@ -4255,11 +4343,9 @@ function MovieScenePlayer({tile}){
             cc_load_policy: 0,
             showinfo: 0,
             enablejsapi: 1,
+            mute: 1, // start muted so browser autoplay policies pass; we unmute in onReady
             origin: window.location.origin,
             start,
-            // Note: 'end' is intentionally NOT set here. YouTube's native 'end'
-            // param triggers its end-screen overlay (showing video title + related).
-            // Instead, the polling interval below handles stopping the clip cleanly.
           },
           events: {
             onReady: (event)=>{
@@ -4267,8 +4353,38 @@ function MovieScenePlayer({tile}){
               setPlayerReady(true);
               setStatus("ready");
               pulseMask("▶", 900, true);
+              try {
+                const iframe = event.target.getIframe?.();
+                if (iframe) {
+                  iframe.setAttribute("allow", "autoplay; encrypted-media; picture-in-picture");
+                  iframe.setAttribute("tabindex", "-1");
+                }
+              } catch {}
               event.target.seekTo(start, true);
-              event.target.playVideo();
+              try { event.target.setVolume?.(100); } catch {}
+              try { event.target.playVideo(); } catch {}
+              // Unmute as soon as playback actually begins. This works because the
+              // browser already granted user-activation via the Play Clip click,
+              // so unmuting a playing stream within the gesture window is allowed.
+              const tryUnmute = ()=>{
+                try {
+                  const state = event.target.getPlayerState?.();
+                  if (state === window.YT.PlayerState.PLAYING) {
+                    event.target.unMute();
+                    event.target.setVolume?.(100);
+                    return true;
+                  }
+                } catch {}
+                return false;
+              };
+              // Immediate attempt, then retries over the next second
+              if (!tryUnmute()) {
+                let attempts = 0;
+                const unmuteInterval = setInterval(()=>{
+                  attempts++;
+                  if (tryUnmute() || attempts > 20) clearInterval(unmuteInterval);
+                }, 80);
+              }
             },
             onStateChange: (event)=>{
               if(cancelled||!window.YT?.PlayerState) return;
@@ -4282,11 +4398,18 @@ function MovieScenePlayer({tile}){
                 setIsPlaying(false);
               }
             },
-            onError: ()=>{
+            onError: (event)=>{
               if(cancelled) return;
               setStatus("error");
               setPlayerReady(false);
               setIsPlaying(false);
+              // YouTube error codes 100 / 101 / 150 indicate the video is
+              // unplayable in an iframe (age-restricted, removed, private, or
+              // embed-disabled). Swap to a different clip automatically.
+              const code = event?.data;
+              if(code===100 || code===101 || code===150 || code===2){
+                try { onClipFailed?.(tile.videoId); } catch {}
+              }
             },
           },
         });
@@ -4375,7 +4498,7 @@ function MovieScenePlayer({tile}){
             <div
               ref={playerMountRef}
               title={`${tile.a} movie scene clip`}
-              style={{position:"absolute",top:"-1%",left:"-1.25%",width:"102.5%",height:"102%",pointerEvents:"none",opacity:concealPlayer?0:1,transition:concealPlayer?"none":"opacity .16s ease"}}
+              style={{position:"absolute",top:"-8%",left:"-5%",width:"110%",height:"120%",pointerEvents:"none",opacity:concealPlayer?0:1,transition:concealPlayer?"none":"opacity .16s ease"}}
             />
             {flashMask&&(
               <div style={{position:"absolute",inset:0,display:"flex",alignItems:"center",justifyContent:"center",background:concealPlayer?"#000000":"rgba(15,23,42,.42)",pointerEvents:"none"}}>
@@ -4607,7 +4730,7 @@ function CategoryPreviewVisual({category, preview, badge}){
 }
 
 function CategoryPreviewCard({id, category, selected, onToggle}){
-  const preview=CATEGORY_PREVIEWS[id]||{};
+  const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
   const badge=category.isWhoAmI?"WHO AM I":category.isCharades?"CHARADES":category.isCountryMap?"MAP":category.isMovieScene?"CLIP":category.isSongClip?"AUDIO":null;
   const selectedBorderColor=lightenHex(category.color,0.58);
   const glowColor=lightenHex(category.color,0.72);
@@ -4701,7 +4824,7 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
   );
 }
 function BoardCategoryArt({id, category, radius}){
-  const preview=CATEGORY_PREVIEWS[id]||{};
+  const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
   const boardSrc = preview.boardSrc || preview.src;
   const frameStyle={
     width:"100%",
@@ -4779,66 +4902,73 @@ function getInitialLanguage(){
   }catch{return "en";}
 }
 
-// English -> Arabic UI translation map. Only short, unambiguous UI strings.
+// English -> Arabic UI translation map — Emirati/Khaleeji dialect where natural.
 // Trivia question/answer text is NOT translated.
 const AR_TRANSLATIONS={
   "TRIVIC":"تريفيك",
-  "TEAM TRIVIA":"معلومات الفريق",
-  "GAME OVER":"انتهت اللعبة",
-  "RESULTS":"النتائج",
-  "ANSWER":"الإجابة",
-  "AWARD POINTS TO:":"امنح النقاط لـ:",
-  "Reveal Answer":"اكشف الإجابة",
-  "Back to Board":"العودة إلى اللوحة",
-  "New Game":"لعبة جديدة",
-  "Pass":"تخطّي",
-  "Sign In":"تسجيل الدخول",
-  "Sign Out":"تسجيل الخروج",
-  "Create Account":"إنشاء حساب",
-  "Username":"اسم المستخدم",
-  "Password":"كلمة المرور",
-  "Login":"تسجيل الدخول",
-  "Sign up":"إنشاء حساب",
-  "Loading account...":"جارٍ تحميل الحساب...",
-  "Loading your account question history...":"جارٍ تحميل سجل أسئلتك...",
-  "Loading audio...":"جارٍ تحميل الصوت...",
-  "Loading clip...":"جارٍ تحميل المقطع...",
-  "Generating...":"جارٍ التوليد...",
-  "Play Clip":"تشغيل المقطع",
-  "Replay clip":"إعادة المقطع",
+  "TEAM TRIVIA":"لعبة الفريق",
+  "GAME OVER":"خلصت اللعبة",
+  "RESULTS":"النتايج",
+  "ANSWER":"الجواب",
+  "AWARD POINTS TO:":"عطِ النقاط لـ:",
+  "Reveal Answer":"طلّع الجواب",
+  "Back to Board":"رجع للوحة",
+  "New Game":"لعبة يديدة",
+  "Pass":"طفّر",
+  "Sign In":"ادخل",
+  "Sign Out":"اطلع",
+  "Create Account":"سوّ حساب",
+  "Username":"اليوزر",
+  "Password":"الباسورد",
+  "Login":"ادخل",
+  "Sign up":"سوّ حساب",
+  "Loading account...":"قاعد يحمّل الحساب...",
+  "Loading your account question history...":"قاعد يحمّل أسئلتك اللي عديت عليها...",
+  "Loading audio...":"قاعد يحمّل الصوت...",
+  "Loading clip...":"قاعد يحمّل المقطع...",
+  "Generating...":"قاعد يطلع...",
+  "Play Clip":"شغّل المقطع",
+  "Replay clip":"عيد المقطع",
   "Open clip in browser":"افتح المقطع في المتصفح",
-  "Clip unavailable":"المقطع غير متوفر",
-  "Clip could not be embedded":"تعذّر تضمين المقطع",
-  "Audio clip could not load":"تعذّر تحميل المقطع الصوتي",
-  "Image unavailable":"الصورة غير متوفرة",
-  "Map unavailable":"الخريطة غير متوفرة",
+  "Clip unavailable":"المقطع ما يشتغل",
+  "Clip could not be embedded":"ما قدرنا نشغّل المقطع",
+  "Audio clip could not load":"ما قدرنا نحمّل الصوت",
+  "Image unavailable":"الصورة ما تطلع",
+  "Map unavailable":"الخارطة ما تطلع",
   "QR error":"خطأ في رمز QR",
-  "Country Map":"خريطة الدولة",
-  "Movie Scene":"مشهد فيلم",
+  "Country Map":"خارطة الدولة",
+  "Movie Scene":"مشهد من فيلم",
   "Song Clip":"مقطع أغنية",
-  "Who Am I?":"من أكون؟",
-  "Which country is this flag from?":"من أي دولة هذا العلم؟",
+  "Who Am I?":"منو أنا؟",
+  "Which country is this flag from?":"العلم هذا من أي دولة؟",
   "Guess the character from the image":"خمّن الشخصية من الصورة",
   "Guess the movie from the clip":"خمّن الفيلم من المقطع",
   "Guess the song from the clip":"خمّن الأغنية من المقطع",
   "SELECT CATEGORIES":"اختر الفئات",
   "SELECT CATEGORIES ->":"اختر الفئات ←",
-  "WORD (HOST ONLY)":"الكلمة (للمضيف فقط)",
-  "SCAN TO SEE YOUR WORD":"امسح لرؤية كلمتك",
-  "ACTOR - SCAN QR TO GOOGLE YOUR WORD":"الممثل - امسح QR للبحث عن كلمتك",
-  "Seconds":"ثوانٍ",
-  "Dark":"داكن",
+  "WORD (HOST ONLY)":"الكلمة (للمسؤول بس)",
+  "SCAN TO SEE YOUR WORD":"مسح عشان تشوف كلمتك",
+  "ACTOR - SCAN QR TO GOOGLE YOUR WORD":"الممثل - امسح الكود عشان تقوقل كلمتك",
+  "Seconds":"ثواني",
+  "Dark":"غامق",
   "Light":"فاتح",
-  "Add all":"أضف الكل",
+  "Add all":"حط الكل",
+  "Remove all":"شيل الكل",
   "ALL":"الكل",
   "AUDIO":"صوت",
-  "🧠 General":"🧠 عام",
+  "REMATCH":"لعبة ثانية",
+  "START":"يالله",
+  "Act it out — no talking, no sounds!":"مثّلها — بدون كلام ولا صوت!",
+  "Show Word (Host Only)":"عرض الكلمة (للمسؤول بس)",
+  "Selected categories appear here":"الفئات المختارة بتطلع هنا",
+  "Select at least 1":"اختر وحدة على الأقل",
+  "🧠 General":"🧠 عامة",
   "🙂 Emoji Guess":"🙂 خمّن الإيموجي",
-  "🎬 Fiction":"🎬 خيال",
+  "🎬 Fiction":"🎬 أفلام ومسلسلات",
   "🌸 Anime":"🌸 أنمي",
   "🎮 Gaming":"🎮 ألعاب",
-  "🖼️ Who Am I?":"🖼️ من أكون؟",
-  "🎭 Charades":"🎭 تمثيل صامت",
+  "🖼️ Who Am I?":"🖼️ منو أنا؟",
+  "🎭 Charades":"🎭 تمثيل",
 };
 
 const CSS=`
@@ -5115,6 +5245,7 @@ export default function App(){
   const [usedQuestionIds,setUsedQuestionIds]=useState(initialQuestionUsageSnapshot.ids);
   const [questionUsageResetToken,setQuestionUsageResetToken]=useState(initialQuestionUsageSnapshot.resetToken);
   const [activeTile,setActiveTile]=useState(null);
+  const [badVideoIds,setBadVideoIds]=useState(()=>new Set());
   const [showAns,setShowAns]=useState(false);
   const [showWord,setShowWord]=useState(false);
   const [curTeam,setCurTeam]=useState(0);
@@ -5318,6 +5449,10 @@ export default function App(){
 
   async function startGame(cats){
     const latestIds=await syncQuestionUsage();
+    const accountId=accountSession?.user?.id||"guest";
+    const resetToken=questionUsageResetTokenRef.current||"initial";
+    const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;
+    setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);
     setQPointers(initPointers(cats,buildUsedQuestionLookup(latestIds),gameMode));
     setPendingTileQuestions({});
     setBoard(makeBoard(cats,gameMode));
@@ -5371,7 +5506,8 @@ export default function App(){
   async function pickTile(catId,pts,idx){
     const tileKey=getTileReservationKey(catId,pts,idx);
     const reservedQuestion=pendingTileQuestions?.[tileKey];
-    if(reservedQuestion){
+    const isBadEntry=(entry)=>entry?.videoId && badVideoIds.has(entry.videoId);
+    if(reservedQuestion && !isBadEntry(reservedQuestion)){
       setActiveTile({catId,pts,tileIdx:idx,_tileKey:tileKey,...reservedQuestion});
       setShowAns(false);
       setShowWord(false);
@@ -5383,17 +5519,46 @@ export default function App(){
     const reservedLookup=buildReservedQuestionLookup(tileKey);
     const slot=qPointers?.[catId]?.[pts];
     const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
-    let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup));
+    let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     if(sourcePool.length===0){
-      sourcePool=buildTierPool(catId, pts, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup));
+      sourcePool=buildTierPool(catId, pts, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     }
-    const q=sourcePool[0];
+    // Pick a RANDOM question from the remaining pool (not sequential) for maximum scrambling.
+    const q=sourcePool[Math.floor(Math.random()*sourcePool.length)];
     if(!q) return;
     setPendingTileQuestions(prev=>({...prev,[tileKey]:q}));
     setActiveTile({catId,pts,tileIdx:idx,_tileKey:tileKey,...q});
     setShowAns(false);
     setShowWord(false);
     setScreen("question");
+  }
+
+  // When a YouTube clip can't embed (age-restricted, removed, etc.), blacklist
+  // that videoId and swap the active tile to a different question in the same pool.
+  async function handleClipFailed(videoId){
+    if(!videoId||!activeTile) return;
+    setBadVideoIds(prev=>{const next=new Set(prev);next.add(videoId);return next;});
+    const {catId,pts,tileIdx,_tileKey}=activeTile;
+    if(_tileKey){
+      setPendingTileQuestions(prev=>{const next={...prev};delete next[_tileKey];return next;});
+    }
+    const latestIds=await syncQuestionUsage();
+    const usedIdsSet=buildUsedQuestionLookup(latestIds);
+    const reservedLookup=buildReservedQuestionLookup(_tileKey);
+    const blockedVideos=new Set(badVideoIds);blockedVideos.add(videoId);
+    const isBadEntry=(entry)=>entry?.videoId && blockedVideos.has(entry.videoId);
+    const slot=qPointers?.[catId]?.[pts];
+    const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
+    let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
+    if(sourcePool.length===0){
+      sourcePool=buildTierPool(catId, pts, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
+    }
+    const q=sourcePool[Math.floor(Math.random()*sourcePool.length)];
+    if(!q) return;
+    setPendingTileQuestions(prev=>({...prev,[_tileKey]:q}));
+    setActiveTile({catId,pts,tileIdx,_tileKey,...q});
+    setShowAns(false);
+    setShowWord(false);
   }
 
   function markUsed(){
@@ -5430,19 +5595,17 @@ export default function App(){
     const finalPts=pts*multiplier;
     if(winnerIdx!=null){
       setScores(prev=>{const s=[...prev];s[winnerIdx]+=finalPts;return s;});
-      setCurTeam((winnerIdx+1)%teams.length);
-    } else {
-      // Pass — advance turn to next team
-      setCurTeam((curTeam+1)%teams.length);
     }
+    // Turn advances to the next team after every question — regardless of who answered or if it was a pass.
+    setCurTeam((curTeam+1)%teams.length);
     setActiveDoublePoints(false);
     setTimerPaused(false);
     setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);
   }
   const wrongPenalty=gameMode==="ffa"?activeTile?.pts:Math.round((activeTile?.pts||0)/2);
-  function doWrong(){consumeActiveTile();setScores(prev=>{const s=[...prev];s[curTeam]=s[curTeam]-wrongPenalty;return s;});setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
+  function doWrong(){consumeActiveTile();setScores(prev=>{const s=[...prev];s[curTeam]=s[curTeam]-wrongPenalty;return s;});setCurTeam((curTeam+1)%teams.length);setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
 
-  const cat=activeTile&&BANK[activeTile.catId];
+  const cat=activeTile&&BANK[baseCat(activeTile.catId)];
   const ttype=cat?(cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
   const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>{
     const fitToScreen=screen!=="categories";
@@ -5472,19 +5635,18 @@ export default function App(){
     const p={tile:activeTile,teams,scores,curTeam,showAns,setShowAns,onRevealAnswer:revealActiveAnswer,onRevealWord:revealActiveWord,onAward:(i,pts)=>afterQ(i,pts),onWrong:doWrong,onPass:()=>afterQ(null,0),onAdjustScore:adjustScore,onBackToBoard:goBackToBoard,gameMode,lifelines,onUseLifeline:useLifeline,activeDoublePoints,timerPaused};
     if(ttype==="whoami") return renderWithGlobalThemeToggle(<WhoAmIScreen {...p}/>,{hideToggles:true});
     if(ttype==="countrymap") return renderWithGlobalThemeToggle(<CountryMapScreen {...p}/>,{hideToggles:true});
-    if(ttype==="moviescene") return renderWithGlobalThemeToggle(<MovieSceneScreen {...p}/>,{hideToggles:true});
+    if(ttype==="moviescene") return renderWithGlobalThemeToggle(<MovieSceneScreen {...p} onClipFailed={handleClipFailed}/>,{hideToggles:true});
     if(ttype==="songclip") return renderWithGlobalThemeToggle(<SongClipScreen {...p}/>,{hideToggles:true});
     if(ttype==="charades") return renderWithGlobalThemeToggle(<CharadesScreen {...p} showWord={showWord} setShowWord={setShowWord}/>,{hideToggles:true});
     return renderWithGlobalThemeToggle(<QuestionScreen {...p}/>,{hideToggles:true});
   }
-  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();setQPointers(initPointers(selCats,new Set(latestIds),gameMode));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
+  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();const accountId=accountSession?.user?.id||"guest";const resetToken=questionUsageResetTokenRef.current||"initial";const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);setQPointers(initPointers(selCats,new Set(latestIds),gameMode));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
   return null;
 }
 
 function FitToViewport({children}){
   const contentRef=React.useRef(null);
   const [scale,setScale]=React.useState(1);
-  const [offsetTop,setOffsetTop]=React.useState(0);
   React.useLayoutEffect(()=>{
     const el=contentRef.current;
     if(!el) return;
@@ -5492,30 +5654,29 @@ function FitToViewport({children}){
     const update=()=>{
       cancelAnimationFrame(raf);
       raf=requestAnimationFrame(()=>{
+        // If the user is pinch-zooming, skip fit-to-screen so we don't fight them.
         const vv=window.visualViewport;
-        const vw=vv?.width||window.innerWidth;
-        const vh=vv?.height||window.innerHeight;
+        if(vv && vv.scale > 1.01) return;
+        // Use the layout viewport (window.inner*) rather than visualViewport so that
+        // pinch-zoom doesn't retrigger resizing.
+        const vw=window.innerWidth;
+        const vh=window.innerHeight;
         const cw=el.offsetWidth;
         const ch=el.offsetHeight;
         if(!cw||!ch) return;
         const s=Math.min(1,vw/cw,vh/ch);
         setScale(prev=>Math.abs(prev-s)<.002?prev:s);
-        const top=vv?.offsetTop||0;
-        setOffsetTop(prev=>Math.abs(prev-top)<.5?prev:top);
-        try{window.scrollTo(0,0);}catch{}
       });
     };
     update();
     window.addEventListener("resize",update);
     window.addEventListener("orientationchange",update);
-    window.visualViewport?.addEventListener("resize",update);
-    window.visualViewport?.addEventListener("scroll",update);
     const ro=new ResizeObserver(update);
     ro.observe(el);
-    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);window.visualViewport?.removeEventListener("resize",update);window.visualViewport?.removeEventListener("scroll",update);ro.disconnect();};
+    return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);ro.disconnect();};
   },[]);
   return(
-    <div style={{position:"fixed",left:0,right:0,top:offsetTop,height:"100dvh",overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start"}}>
+    <div style={{position:"fixed",inset:0,overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start"}}>
       <div ref={contentRef} style={{width:"100vw",transform:`scale(${scale})`,transformOrigin:"top center"}}>
         {children}
       </div>
@@ -5872,7 +6033,19 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
   const previewCardWidth=viewport.width<420?110:viewport.width<768?118:viewport.width<1280?126:132;
   const selectedPreviewHeight=188;
   const selectedToolbarHeight=selectedPreviewHeight+20;
-  const toggle=id=>setSelCats(p=>p.includes(id)?p.filter(x=>x!==id):[...p,id]);
+  const toggle=baseId=>setSelCats(p=>{
+    const has=p.some(x=>baseCat(x)===baseId);
+    return has?p.filter(x=>baseCat(x)!==baseId):[...p,baseId];
+  });
+  const addInstance=baseId=>setSelCats(p=>{
+    // Find lowest unused #N suffix
+    const existing=new Set(p.filter(x=>baseCat(x)===baseId));
+    if(!existing.has(baseId)) return [...p,baseId];
+    let n=2;
+    while(existing.has(`${baseId}#${n}`)) n++;
+    return [...p,`${baseId}#${n}`];
+  });
+  const removeInstance=instanceId=>setSelCats(p=>p.filter(x=>x!==instanceId));
   return(
     <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column"}}>
       <style>{CSS}</style>
@@ -5893,15 +6066,19 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
               Selected categories appear here
             </div>
           ):selCats.map(id=>{
-            const c=BANK[id];
+            const c=BANK[baseCat(id)];
+            if(!c) return null;
             return(
-              <div key={id} style={{width:previewCardWidth,minWidth:previewCardWidth,height:selectedPreviewHeight,flex:"0 0 auto"}}>
+              <div key={id} style={{position:"relative",width:previewCardWidth,minWidth:previewCardWidth,height:selectedPreviewHeight,flex:"0 0 auto"}}>
                 <CategoryPreviewCard
-                  id={id}
+                  id={baseCat(id)}
                   category={c}
                   selected={true}
-                  onToggle={()=>toggle(id)}
+                  onToggle={()=>removeInstance(id)}
                 />
+                {id!==baseCat(id)&&(
+                  <div style={{position:"absolute",top:6,left:6,background:"#F59E0B",color:"#111827",fontSize:10,fontWeight:900,padding:"2px 6px",borderRadius:6,letterSpacing:.5,pointerEvents:"none"}}>COPY {id.slice(id.indexOf("#")+1)}</div>
+                )}
               </div>
             );
           })}
@@ -5911,28 +6088,35 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
         {CAT_GROUPS.map(group=>{
           const gCats=group.ids.filter(id=>BANK[id]);
           if(!gCats.length) return null;
-          const allSel=gCats.every(id=>selCats.includes(id));
+          const allSel=gCats.every(id=>selCats.some(x=>baseCat(x)===id));
           return(
             <div key={group.label} style={{width:"min(100%, 1500px)",padding:"0 16px",display:"flex",flexDirection:"column",alignItems:"center"}}>
               <div style={{width:"100%",minHeight:40,marginBottom:12,display:"flex",alignItems:"center",justifyContent:"center"}}>
                 <div style={{display:"inline-flex",alignItems:"center",justifyContent:"center",gap:10,flexWrap:"wrap"}}>
                   <div style={{fontSize:25,fontWeight:900,color:isDark?"#E5E7EB":"#334155",lineHeight:1.1,textAlign:"center"}}>{group.label}</div>
-                  <button onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(x))):setSelCats(p=>[...new Set([...p,...gCats])])}
+                  <button onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(baseCat(x)))):setSelCats(p=>[...p,...gCats.filter(id=>!p.some(x=>baseCat(x)===id))])}
                     style={{...getGlassButtonStyle({tint:allSel?"#EF4444":"#3B82F6",textColor:allSel?"#DC2626":"#2563EB",fontSize:10,padding:"3px 8px",borderRadius:6,subtle:true}),fontWeight:700}}>
                     {allSel?"Remove all":"Add all"}
                   </button>
                 </div>
               </div>
               <div style={{display:"flex",flexWrap:"wrap",justifyContent:"center",alignItems:"stretch",gap:10,width:"100%"}}>
-                {gCats.map(id=>{const c=BANK[id];const sel=selCats.includes(id);
+                {gCats.map(id=>{const c=BANK[id];const count=countInstances(selCats,id);const sel=count>0;
                   return(
-                    <div key={id} style={{width:previewCardWidth,flex:`0 0 ${previewCardWidth}px`}}>
+                    <div key={id} style={{position:"relative",width:previewCardWidth,flex:`0 0 ${previewCardWidth}px`}}>
                       <CategoryPreviewCard
                         id={id}
                         category={c}
                         selected={sel}
                         onToggle={()=>toggle(id)}
                       />
+                      <button
+                        onClick={(e)=>{e.stopPropagation();addInstance(id);}}
+                        title="Add another copy"
+                        style={{position:"absolute",top:6,right:6,width:26,height:26,borderRadius:"50%",border:"2px solid #0F172A",background:sel?"#10B981":"#E2E8F0",color:sel?"#fff":"#64748B",fontSize:16,fontWeight:900,display:"flex",alignItems:"center",justifyContent:"center",cursor:"pointer",zIndex:5,boxShadow:"0 4px 10px rgba(15,23,42,.18)"}}>+</button>
+                      {count>1&&(
+                        <div style={{position:"absolute",top:6,left:6,background:"#F59E0B",color:"#111827",fontSize:10,fontWeight:900,padding:"2px 6px",borderRadius:6,letterSpacing:.5,pointerEvents:"none",zIndex:5}}>×{count}</div>
+                      )}
                     </div>
                   );
                 })}
@@ -6023,7 +6207,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
             <div key={rowIdx} style={{width:"100%",minHeight:0,display:"flex",justifyContent:"center",alignItems:"stretch"}}>
               <div style={{width:getRowPixelWidth(row.length),maxWidth:"100%",minHeight:0,display:"grid",gridTemplateColumns:`repeat(${row.length}, minmax(0,1fr))`,columnGap:categoryGapX,rowGap:categoryGapY}}>
                 {row.map(catId=>{
-                  const c=BANK[catId];if(!c)return null;
+                  const c=BANK[baseCat(catId)];if(!c)return null;
                   return(
                     <div key={catId} style={{minWidth:0,minHeight:0,height:"100%",display:"grid",gridTemplateRows:`${headerHeight}px minmax(0,1fr)`,gap:headerBodyGap}}>
                       <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",textAlign:"center",padding:"4px",background:boardHeaderBg,borderRadius:tileRadius,border:"2.5px solid #0F172A",minWidth:0}}>
@@ -6373,8 +6557,9 @@ function getQuestionTimerSeconds(tile){
   if(!tile) return 60;
   const cat=BANK?.[tile.catId];
   if(cat?.isCharades){
-    if(tile.pts===400) return 75;
-    if(tile.pts===600) return 90;
+    if(tile.pts===200) return 65;
+    if(tile.pts===400) return 55;
+    if(tile.pts===600) return 45;
   }
   return 60;
 }
@@ -6703,8 +6888,8 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const isFlag = tile.catId === "flags";
-  const isEmojiGuess = Boolean(BANK[tile.catId]?.isEmojiGuess);
-  const isLogoGuess = Boolean(BANK[tile.catId]?.isLogoGuess);
+  const isEmojiGuess = Boolean(BANK[baseCat(tile.catId)]?.isEmojiGuess);
+  const isLogoGuess = Boolean(BANK[baseCat(tile.catId)]?.isLogoGuess);
   const displayQuestion = formatQuestionForDisplay(tile.q);
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
@@ -6718,8 +6903,8 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
             <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
-            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
+            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
+            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
           <div style={{position:"relative",width:"100%",maxWidth:820,margin:"0 auto"}}>
@@ -6734,7 +6919,9 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
             ) : isEmojiGuess ? (
               <>
                 <div style={{fontSize:"clamp(56px,12vw,96px)",lineHeight:1.15,letterSpacing:2,marginBottom:18,wordBreak:"break-word"}}>{tile.q}</div>
-                <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>{BANK[tile.catId]?.emojiPrompt || "Guess from the emoji clue"}</div>
+                {BANK[baseCat(tile.catId)]?.emojiPrompt ? (
+                  <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>{BANK[baseCat(tile.catId)].emojiPrompt}</div>
+                ) : null}
               </>
             ) : (
               <div style={{fontSize:"clamp(24px,4.6vw,38px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{displayQuestion}</div>
@@ -6764,7 +6951,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
 function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
-  const catLabel=BANK[tile.catId].label;
+  const catLabel=BANK[baseCat(tile.catId)].label;
   const displayAnswer = formatAnswerForDisplay(tile.a);
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
@@ -6777,16 +6964,16 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
             <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
-            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
+            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
             <div style={QUESTION_HEADER_TITLE_STYLE}>{catLabel}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
-          <div style={{fontSize:15,fontWeight:800,color:"#64748B",letterSpacing:1.2,textTransform:"uppercase"}}>{BANK[tile.catId]?.landmarkMode?"Which Country Am I?":"Who Am I?"}</div>
+          <div style={{fontSize:15,fontWeight:800,color:"#64748B",letterSpacing:1.2,textTransform:"uppercase"}}>{BANK[baseCat(tile.catId)]?.landmarkMode?"Which Country Am I?":"Who Am I?"}</div>
           <div style={{position:"relative",display:"inline-block"}}>
           <CharacterArt name={tile.a} wiki={tile.wiki}/>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
-          <div style={QUESTION_HINT_STYLE}>{BANK[tile.catId]?.landmarkMode?"Guess the country from the landmark":"Guess the character from the image"}</div>
+          <div style={QUESTION_HINT_STYLE}>{BANK[baseCat(tile.catId)]?.landmarkMode?"Guess the country from the landmark":"Guess the character from the image"}</div>
           {showAns?(
             <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
               <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
@@ -6848,7 +7035,7 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
   );
 }
 
-function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused}){
+function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,onWrong,onPass,onAdjustScore,onBackToBoard,gameMode,lifelines,onUseLifeline,activeDoublePoints,timerPaused,onClipFailed}){
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
@@ -6863,12 +7050,12 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
             <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
-            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
+            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
+            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
           <div style={{position:"relative",display:"inline-block"}}>
-          <MovieScenePlayer tile={tile}/>
+          <MovieScenePlayer tile={tile} onClipFailed={onClipFailed}/>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           <div style={QUESTION_HINT_STYLE}>Guess the movie from the clip</div>
@@ -6905,8 +7092,8 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
             <QuestionTimer tile={tile} paused={showAns||timerPaused}/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
-            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
+            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
+            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
           <div style={{position:"relative",display:"inline-block"}}>
@@ -6948,8 +7135,8 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward
             <QuestionTimer tile={tile} paused={timerPaused} manualStart/>
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
-            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[tile.catId].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[tile.catId].label}</div>
+            <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
+            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
           <div style={{position:"relative",width:"100%",maxWidth:470,margin:"0 auto"}}>

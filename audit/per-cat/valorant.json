@@ -1,0 +1,578 @@
+{
+  "200": [
+    {
+      "q": "What device must attackers plant to win a round?",
+      "a": "The Spike",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What device do attackers try to plant?",
+      "a": "Spike",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What rank comes after Diamond?",
+      "a": "Ascendant",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Which controller agent is from Oman?",
+      "a": "Omen",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the in-game currency used to buy weapons?",
+      "a": "Creds",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the objective for attackers?",
+      "a": "Plant the Spike",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many rounds do you need to win a standard match?",
+      "a": "13",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the knife called in Valorant?",
+      "a": "Knife (or melee)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What type of game is Valorant?",
+      "a": "Tactical first-person shooter",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most expensive rifle in the game?",
+      "a": "Vandal or Phantom (2,900 creds)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the cheapest pistol?",
+      "a": "Classic (free on pistol round)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent has healing abilities and is from Jamaica?",
+      "a": "Sage... wait no. Sage is Chinese. Skip — no agent from Jamaica. Use: What healer agent creates walls and can resurrect?",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the sniper that kills in one shot to the body?",
+      "a": "Operator",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent can teleport with two anchor points?",
+      "a": "Yoru",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum number of abilities each agent has?",
+      "a": "4",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What region is Valorant's competitive scene strongest in?",
+      "a": "EMEA / Americas / Pacific",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who develops VALORANT?",
+      "a": "Riot Games",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many players are on each team in a standard match?",
+      "a": "5",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the bomb-like objective in VALORANT called?",
+      "a": "The Spike",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which side plants the Spike?",
+      "a": "Attackers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which side tries to defuse the Spike?",
+      "a": "Defenders",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the in-match currency called?",
+      "a": "Credits",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent is best known for healing allies?",
+      "a": "Sage",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent uses a recon bow?",
+      "a": "Sova",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent uses fire abilities and Curveball flashes?",
+      "a": "Phoenix",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent is known for explosives and satchels?",
+      "a": "Raze",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the iconic sniper rifle called?",
+      "a": "The Operator",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which pistol do all players start with for free?",
+      "a": "The Classic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the practice map called?",
+      "a": "The Range",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent teleports and uses dark smokes?",
+      "a": "Omen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent uses poison walls and toxic clouds?",
+      "a": "Viper",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent places a turret?",
+      "a": "Killjoy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which map is famous for having three sites?",
+      "a": "Haven",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the short pre-round buying period called?",
+      "a": "The Buy Phase",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What kind of ability do kills and orbs help charge?",
+      "a": "Your ultimate",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the attackers' main objective besides getting kills?",
+      "a": "Plant and detonate the Spike",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Which agent can revive teammates?",
+      "a": "Sage",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which explosive duelist shouts Here comes the party!?",
+      "a": "Raze",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What rank comes after Platinum?",
+      "a": "Diamond",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What role is Jett classed as?",
+      "a": "Duelist",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What role is Sage classed as?",
+      "a": "Sentinel",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What agent class has the role of entry fragging?",
+      "a": "Duelist",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Jett's ultimate ability?",
+      "a": "Blade Storm",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is an 'Ace' in Valorant?",
+      "a": "Killing all 5 enemies in a round",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the anti-cheat system Valorant uses?",
+      "a": "Vanguard",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a 'Thrifty' round?",
+      "a": "Winning a round while spending significantly less than opponents",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What map has teleporters?",
+      "a": "Bind",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent was the first added after launch?",
+      "a": "Reyna",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'eco' mean?",
+      "a": "Saving money by not buying in a round",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the shotgun that can fire both barrels at once?",
+      "a": "Judge (no — Bucky has alt fire)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent can create smokes globally with an iPad-like device?",
+      "a": "Brimstone",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Chamber's ultimate sniper?",
+      "a": "Tour de Force",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was Valorant released?",
+      "a": "2020",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum number of agents on the roster (as of 2024)?",
+      "a": "24+",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What are the four main agent roles in VALORANT?",
+      "a": "Duelist, Initiator, Controller, and Sentinel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which map has rotating doors and three sites?",
+      "a": "Lotus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which map features dangerous death drops off the edges?",
+      "a": "Abyss",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which map is set in an underwater city and has no map gimmicks?",
+      "a": "Pearl",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which map starts attackers on both sides of defenders?",
+      "a": "Fracture",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent uses a Spycam and tripwires?",
+      "a": "Cypher",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent places Nanoswarm grenades and an Alarmbot?",
+      "a": "Killjoy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent calls smokes from a tactical map and has Orbital Strike?",
+      "a": "Brimstone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent can send out an Owl Drone to tag enemies?",
+      "a": "Sova",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent flashes with a hawk and sends Seekers on ultimate?",
+      "a": "Skye",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent uses teleport anchors called Rendezvous?",
+      "a": "Chamber",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent can dismiss after kills and throw Leer eyes?",
+      "a": "Reyna",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent's ultimate equips accurate throwing knives?",
+      "a": "Jett",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent can resurrect a teammate?",
+      "a": "Sage",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What special feature can defenders close on Ascent?",
+      "a": "The mechanical doors",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does an eco round mean?",
+      "a": "A round where the team saves credits by buying very little",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does a full buy mean?",
+      "a": "A round where a team buys rifles, armor, and utility",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a default plant?",
+      "a": "A safe, common Spike plant meant to support flexible post-plant play",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What do the orbs around the map grant when collected?",
+      "a": "One ultimate point",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which agent can suppress enemies with a knife?",
+      "a": "KAY/O",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What role is Omen classified as?",
+      "a": "Controller",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Viper's ultimate ability called?",
+      "a": "Viper's Pit",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of the secret group operating across the maps?",
+      "a": "The VALORANT Protocol",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Omen's ultimate called?",
+      "a": "From the Shadows",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Sova's scouting arrow called?",
+      "a": "Recon Bolt",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What initiator sends out a Tasmanian tiger?",
+      "a": "Skye",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Valorant's ranking system called?",
+      "a": "Competitive (Iron to Radiant)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the highest rank in Valorant?",
+      "a": "Radiant",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent's abilities revolve around turrets and trips?",
+      "a": "Killjoy",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Valorant team won the first Champions tournament?",
+      "a": "Acend",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is 'lurking' in Valorant?",
+      "a": "Playing away from the team to get flanks or info",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the pistol round?",
+      "a": "The first round of each half with limited money",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the maximum credits you can have?",
+      "a": "9,000",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Valorant tournament is the equivalent of the World Cup?",
+      "a": "Champions",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent controls a swarm of nanobots?",
+      "a": "KAY/O (suppresses) — Nanoswarm: Killjoy",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What map was removed and reworked first?",
+      "a": "Split",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'anti-eco' mean?",
+      "a": "Full-buying against an enemy eco round",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent's ultimate is a targeted laser across the map?",
+      "a": "Chamber (Tour de Force sniper) — correct: none. Actually Neon's ult is a lightning sprint/slide beam",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the fastest-killing weapon at close range?",
+      "a": "Judge (shotgun)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What agent uses a Boom Bot that chases enemies?",
+      "a": "Raze",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is an anti-eco round?",
+      "a": "A round where the better-equipped team plays safely against opponents on a weak buy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a bonus round?",
+      "a": "Keeping cheaper weapons after winning a round instead of immediately rebuying rifles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is trade fragging?",
+      "a": "Immediately killing the player who killed your teammate",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is crosshair placement?",
+      "a": "Keeping your aim at likely head level and common angles before enemies appear",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a wallbang?",
+      "a": "Damaging or killing an enemy through a penetrable surface",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is lurking?",
+      "a": "One player quietly taking map control away from the main group or hit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is entrying?",
+      "a": "Being the first player to take space and contact on a site hit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is post-plant play?",
+      "a": "The team setup and utility usage after the Spike has been planted",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a retake?",
+      "a": "Defenders reclaiming a site after the Spike has been planted",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is defaulting on attack?",
+      "a": "Spreading out to gather information and pressure before committing to a site",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a contact play?",
+      "a": "Approaching or hitting an area with minimal early utility or noise",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is utility dumping?",
+      "a": "Layering multiple abilities quickly to force enemies off positions",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the key difference between the Phantom and the Vandal?",
+      "a": "The Phantom is quieter and has damage drop-off, while the Vandal can one-tap heads at any range",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is first-shot accuracy?",
+      "a": "How precise a weapon's initial bullet is before spray inaccuracy takes over",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is an off-angle?",
+      "a": "An unusual holding position that punishes standard crosshair placement",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a lineup in VALORANT?",
+      "a": "A pre-planned ability trajectory, often used for post-plant denial",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Radianite in VALORANT lore?",
+      "a": "A powerful resource that fuels the world's technology and conflict",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a clutch?",
+      "a": "Winning a round alone against multiple opponents",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a swing in tactical shooter terms?",
+      "a": "A committed peek used to take a duel or trade space",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a fake in VALORANT?",
+      "a": "Selling pressure on one part of the map before quickly attacking somewhere else",
+      "file": "App.jsx"
+    }
+  ]
+}

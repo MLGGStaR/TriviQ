@@ -1,0 +1,488 @@
+{
+  "200": [
+    {
+      "q": "What is Rick Grimes' wife named?",
+      "a": "Lori Grimes",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Rick's son's name?",
+      "a": "Carl Grimes",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Rick's daughter's name?",
+      "a": "Judith",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What weapon is Daryl known for?",
+      "a": "Crossbow",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Glenn's wife named?",
+      "a": "Maggie",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What community is led by Gregory and later Maggie?",
+      "a": "Hilltop",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What cannibal settlement pretends to be a sanctuary?",
+      "a": "Terminus",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who leads the Whisperers?",
+      "a": "Alpha",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Alpha's giant enforcer?",
+      "a": "Beta",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What was Rick's job before the apocalypse?",
+      "a": "Sheriff's deputy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What prison becomes an early safe base?",
+      "a": "West Georgia Correctional Facility",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What farm owned by Hershel becomes a key refuge?",
+      "a": "Greene family farm",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of Maggie's father?",
+      "a": "Hershel Greene",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What symbol is painted by the Wolves?",
+      "a": "W",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What weapon is Daryl best known for using?",
+      "a": "A crossbow",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Rick's son's name?",
+      "a": "Carl",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What safe community is led by Deanna Monroe?",
+      "a": "Alexandria",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Rick Grimes's profession before the apocalypse?",
+      "a": "Sheriff's deputy",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What weapon does Daryl primarily use?",
+      "a": "A crossbow",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Carl's hat famously described as?",
+      "a": "A sheriff's hat",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What are the zombies called in TWD?",
+      "a": "Walkers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rick Grimes?",
+      "a": "A sheriff's deputy who wakes from a coma into the zombie apocalypse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Daryl Dixon?",
+      "a": "A crossbow-wielding survivor who becomes one of the most beloved characters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does TWD stand for?",
+      "a": "The Walking Dead",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where does Season 1 begin?",
+      "a": "Atlanta, Georgia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Negan?",
+      "a": "The charismatic, brutal leader of the Saviours — he wields a barbed wire baseball bat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Negan's bat called?",
+      "a": "Lucille — named after his late wife",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Carol?",
+      "a": "A quiet abuse survivor who becomes one of the most capable and ruthless survivors",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Governor?",
+      "a": "The leader of Woodbury — a charming but sadistic antagonist in Seasons 3-4",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the prison?",
+      "a": "The survivor group's fortified base in Seasons 3-4",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What community is ruled by Ezekiel and Shiva?",
+      "a": "The Kingdom",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Negan's baseball bat called?",
+      "a": "Lucille",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What prison becomes a major early home base?",
+      "a": "The prison / West Georgia Correctional Facility",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What scientist appears at the CDC in season 1?",
+      "a": "Edwin Jenner",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Daryl Dixon's brother's name?",
+      "a": "Merle Dixon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What junkyard group is led by Jadis?",
+      "a": "The Scavengers",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the Saviors' home base?",
+      "a": "The Sanctuary",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Ezekiel's tiger named?",
+      "a": "Shiva",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What villain group uses Lucille as its symbol of fear?",
+      "a": "The Saviors",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Maggie's family surname?",
+      "a": "Greene",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Michonne's signature weapon?",
+      "a": "Katana",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Negan's bat called?",
+      "a": "Lucille",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What masked group uses walker skins as camouflage?",
+      "a": "The Whisperers",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Hilltop's blacksmith called?",
+      "a": "Earl",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Rick's wife called?",
+      "a": "Lori",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What scientist tries to reach Washington in early seasons?",
+      "a": "Eugene Porter",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Daryl's brother called?",
+      "a": "Merle",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Alexandria leader's surname?",
+      "a": "Monroe",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the doctor at Alexandria called?",
+      "a": "Denise",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Rick's best friend from before the outbreak?",
+      "a": "Shane",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the farm owner Hershel's surname?",
+      "a": "Greene",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What walled community does Rick first settle in after the road years?",
+      "a": "Alexandria",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Who does Negan kill in the Season 7 premiere?",
+      "a": "Glenn and Abraham — with Lucille after a brutal lineup",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Saviours' system?",
+      "a": "Negan's group demands half of all supplies from communities as tribute",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Maggie?",
+      "a": "Glenn's wife — she leads the Hilltop community",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of We Are The Walking Dead?",
+      "a": "Rick says it in the comics — meaning the survivors themselves are as dangerous as the walkers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Alexandria?",
+      "a": "A walled community in Virginia that becomes the survivors' longest-lasting home",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Michonne?",
+      "a": "A katana-wielding survivor — she becomes a leader and Rick's partner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Carl Grimes?",
+      "a": "Rick's son — his death in Season 8 devastated fans and changed the show's direction",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Whisperers?",
+      "a": "A group that wears walker skin to move among the dead — led by Alpha",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Alpha?",
+      "a": "The leader of the Whisperers — she murders 10 characters and puts their heads on pikes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Hershel?",
+      "a": "A farmer with strong morals — Rick's moral compass in Seasons 2-4",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Who kills Alpha?",
+      "a": "Negan",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the fortified community led by Deanna Monroe?",
+      "a": "Alexandria",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What skin-wearing group blends in with walkers?",
+      "a": "The Whisperers",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the junkyard leader called before joining the Whisperers arc?",
+      "a": "Jadis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the armored mega-community introduced late in the show?",
+      "a": "The Commonwealth",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Carol's daughter called?",
+      "a": "Sophia",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What prison do the survivors occupy in season 3?",
+      "a": "West Georgia Correctional Facility",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Who leads Alexandria when Rick arrives?",
+      "a": "Deanna Monroe",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Maggie and Glenn's son called?",
+      "a": "Hershel",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Alpha's daughter called?",
+      "a": "Lydia",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Savior compound called?",
+      "a": "The Sanctuary",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Hershel Greene's profession?",
+      "a": "Farmer",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Carol's abusive husband called?",
+      "a": "Ed",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the spin-off city for Maggie and Negan?",
+      "a": "Manhattan",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Alpha's lieutenant called?",
+      "a": "Beta",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the dump community led by Jadis called?",
+      "a": "The Scavengers",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the villain group at the pike border called?",
+      "a": "The Whisperers",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the prison governor's real first name?",
+      "a": "Philip",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the museum worker who joins the group later called?",
+      "a": "Yumiko",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What city hosts the hospital arc in season 5?",
+      "a": "Atlanta",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Oceanside leader's name?",
+      "a": "Natania",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who leads the Saviors?",
+      "a": "Negan",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What barbed-wire baseball bat does Negan carry?",
+      "a": "Lucille",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Rick's horse-loving son called?",
+      "a": "Carl",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the deeper theme of TWD?",
+      "a": "The real monsters are other humans — the walkers are merely the backdrop for human cruelty and survival",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Rick's disappearance?",
+      "a": "He is taken by a CRM helicopter in Season 9 — leading to the Rick Grimes film trilogy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Commonwealth?",
+      "a": "A massive, class-stratified community of thousands in Season 11 — the final major antagonist group",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the connection between TWD and its spinoffs?",
+      "a": "Fear the Walking Dead, The Walking Dead: World Beyond, Daryl Dixon, Dead City, and The Ones Who Live",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Eugene's lie?",
+      "a": "He claims to know the cure for the zombie virus — he is lying, but the group follows him to Washington DC",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the tiger Shiva?",
+      "a": "Ezekiel's tiger who dies saving Carl — symbolising the loss of the Kingdom's hope",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the deeper meaning of the walker mythology?",
+      "a": "Walkers are created because everyone is already infected — the virus activates upon death regardless of bite",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Beta?",
+      "a": "Alpha's second-in-command — a massive, silent enforcer revealed to be a famous country singer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Merle Dixon?",
+      "a": "Daryl's abusive brother — his death is the moment Daryl truly commits to Rick's group",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Terminus cannibal storyline?",
+      "a": "Terminus lures survivors with a fake sanctuary message — the residents are cannibals",
+      "file": "App.jsx"
+    }
+  ]
+}

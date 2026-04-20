@@ -1,0 +1,302 @@
+{
+  "general": {
+    "blacklist": [
+      {"q": "How many letters are in the English alphabet?", "a": "26", "reason": "duplicate"},
+      {"q": "What shape has three sides?", "a": "Triangle", "reason": "too easy"},
+      {"q": "What is the closest star to Earth?", "a": "The Sun", "reason": "tautological"},
+      {"q": "How many sides does an octagon have?", "a": "8", "reason": "leak"},
+      {"q": "What shape has 8 sides?", "a": "Octagon", "reason": "duplicate"},
+      {"q": "What is the Roman numeral for 50?", "a": "L", "reason": "too easy"},
+      {"q": "What is the Roman numeral for 500?", "a": "D", "reason": "too easy"},
+      {"q": "What is a nine-sided shape called?", "a": "Nonagon", "reason": "obscure polygon"},
+      {"q": "What does ATM stand for?", "a": "Automated Teller Machine", "reason": "too easy for 400"},
+      {"q": "Longest bone in the human body?", "a": "Femur (thigh bone)", "reason": "duplicate of 600"},
+      {"q": "What bone is the longest in the human body?", "a": "Femur", "reason": "duplicate"},
+      {"q": "What is the largest known prime number category called?", "a": "Mersenne primes", "reason": "unclear"},
+      {"q": "What is the Fibonacci sequence's next number after 0,1,1,2,3,5,8?", "a": "13", "reason": "too easy"},
+      {"q": "First 7 numbers of the Fibonacci sequence?", "a": "0, 1, 1, 2, 3, 5, 8", "reason": "duplicate concept"},
+      {"q": "What is a word made from the initials of a phrase called?", "a": "Acronym", "reason": "too easy for 600"},
+      {"q": "What type of number has no positive divisors besides 1 and itself?", "a": "Prime number", "reason": "duplicate"},
+      {"q": "What is a prime number?", "a": "A number greater than 1 with no divisors other than 1 and itself", "reason": "duplicate"},
+      {"q": "Speed of light in km/s?", "a": "299,792 km/s", "reason": "duplicate"},
+      {"q": "What is the speed of light roughly in km/s?", "a": "300,000 km/s", "reason": "duplicate"},
+      {"q": "What is Euler's identity and why is it remarkable?", "a": "e^(iπ) + 1 = 0 — connects five fundamental mathematical constants in one equation", "reason": "flowery/explain"},
+      {"q": "What is the P vs NP problem?", "a": "Unsolved CS problem — whether every problem whose solution can be quickly verified can also be quickly solved", "reason": "too niche"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "How many players are on a basketball team on the court?", "a": "5"},
+        {"q": "What color do you get mixing blue and yellow?", "a": "Green"},
+        {"q": "How many sides does a pentagon have?", "a": "5"},
+        {"q": "What currency is used in most of the European Union?", "a": "Euro"},
+        {"q": "How many seconds are in a minute?", "a": "60"}
+      ],
+      "400": [
+        {"q": "What is the Roman numeral for 400?", "a": "CD"},
+        {"q": "What does SCUBA stand for?", "a": "Self-Contained Underwater Breathing Apparatus"},
+        {"q": "What is the most common element in the human body by mass?", "a": "Oxygen"},
+        {"q": "What language has the most native speakers?", "a": "Mandarin Chinese"}
+      ],
+      "600": [
+        {"q": "What is the only letter not in any US state name?", "a": "Q"},
+        {"q": "What is the atomic number of uranium?", "a": "92"},
+        {"q": "In what year did the Euro enter circulation as cash?", "a": "2002"},
+        {"q": "What is the most common surname in the world?", "a": "Wang"},
+        {"q": "What are the three primary subtractive colors?", "a": "Cyan, magenta, yellow"},
+        {"q": "What is the sum of the interior angles of a hexagon?", "a": "720 degrees"}
+      ]
+    }
+  },
+  "geography": {
+    "blacklist": [
+      {"q": "What river flows through Paris?", "a": "The Seine", "reason": "duplicate"},
+      {"q": "What river runs through Paris?", "a": "Seine", "reason": "duplicate"},
+      {"q": "What desert is the largest hot desert?", "a": "Sahara", "reason": "leak"},
+      {"q": "What is the longest wall in the world?", "a": "Great Wall of China", "reason": "leak"},
+      {"q": "Body of water between Russia and Alaska?", "a": "Bering Strait", "reason": "duplicate"},
+      {"q": "What strait separates Asia from North America?", "a": "Bering Strait", "reason": "duplicate"},
+      {"q": "Capital of Norway?", "a": "Oslo", "reason": "duplicate"},
+      {"q": "What is the capital of Norway?", "a": "Oslo", "reason": "duplicate"},
+      {"q": "What is the tallest waterfall in the world?", "a": "Angel Falls", "reason": "duplicate"},
+      {"q": "What is the deepest lake in the world?", "a": "Lake Baikal", "reason": "duplicate"},
+      {"q": "Deepest lake in the world?", "a": "Lake Baikal (Russia) — 1,642 metres deep", "reason": "duplicate"},
+      {"q": "What river is the longest in Europe?", "a": "Volga", "reason": "duplicate"},
+      {"q": "Longest river in Europe?", "a": "The Volga", "reason": "duplicate"},
+      {"q": "What is the highest capital city in the world?", "a": "La Paz, Bolivia", "reason": "duplicate"},
+      {"q": "Country with highest altitude capital?", "a": "Bolivia — La Paz at ~3,640m", "reason": "duplicate"},
+      {"q": "What two countries share the longest border?", "a": "Canada and the United States", "reason": "duplicate"},
+      {"q": "Longest land border between two countries?", "a": "USA and Canada (~8,891 km)", "reason": "duplicate"},
+      {"q": "Capital of Kyrgyzstan?", "a": "Bishkek", "reason": "duplicate"},
+      {"q": "What country has the capital Bishkek?", "a": "Kyrgyzstan", "reason": "duplicate"},
+      {"q": "What is the only country that borders both France and the UK?", "a": "None (Channel Tunnel connects, no land border)", "reason": "confusing"},
+      {"q": "What is the significance of the Suez Canal?", "a": "An artificial waterway in Egypt connecting the Mediterranean to the Red Sea — opened in 1869", "reason": "flowery"},
+      {"q": "Capital of Bolivia's constitutional capital?", "a": "Sucre", "reason": "unclear phrasing"},
+      {"q": "Largest desert in the world?", "a": "Antarctica (Sahara is largest hot desert)", "reason": "duplicate"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "What continent is Brazil on?", "a": "South America"},
+        {"q": "What country is the Great Pyramid of Giza in?", "a": "Egypt"},
+        {"q": "What is the largest country in the world by area?", "a": "Russia"}
+      ],
+      "400": [
+        {"q": "Capital of Finland?", "a": "Helsinki"},
+        {"q": "Capital of Chile?", "a": "Santiago"},
+        {"q": "What ocean is the Maldives in?", "a": "Indian Ocean"},
+        {"q": "Capital of Morocco?", "a": "Rabat"},
+        {"q": "What mountain straddles Argentina and Chile as South America's highest peak?", "a": "Aconcagua"},
+        {"q": "What is the largest country in Africa by area?", "a": "Algeria"},
+        {"q": "Capital of Belgium?", "a": "Brussels"}
+      ],
+      "600": [
+        {"q": "Capital of Suriname?", "a": "Paramaribo"},
+        {"q": "Capital of Burkina Faso?", "a": "Ouagadougou"},
+        {"q": "Which African country is completely surrounded by South Africa?", "a": "Lesotho"},
+        {"q": "What is the only double-landlocked country in Europe?", "a": "Liechtenstein"},
+        {"q": "Which country has its capital at Thimphu?", "a": "Bhutan"},
+        {"q": "What is the largest lake in South America?", "a": "Lake Titicaca"},
+        {"q": "Which country is split by the Gambia River almost entirely?", "a": "The Gambia"}
+      ]
+    }
+  },
+  "science": {
+    "blacklist": [
+      {"q": "What is H2O commonly known as?", "a": "Water", "reason": "tautological"},
+      {"q": "What is the chemical formula for table salt?", "a": "NaCl", "reason": "duplicate"},
+      {"q": "Chemical formula for table salt?", "a": "NaCl (sodium chloride)", "reason": "duplicate"},
+      {"q": "What organ filters blood?", "a": "Kidneys", "reason": "duplicate"},
+      {"q": "What organ filters blood in the human body?", "a": "Kidney", "reason": "duplicate"},
+      {"q": "Center of an atom?", "a": "The nucleus", "reason": "duplicate"},
+      {"q": "What is the center of an atom called?", "a": "Nucleus", "reason": "duplicate"},
+      {"q": "Gas making up most of the air we breathe?", "a": "Nitrogen (78%)", "reason": "duplicate"},
+      {"q": "What gas makes up most of Earth's atmosphere?", "a": "Nitrogen", "reason": "duplicate"},
+      {"q": "Water turning into steam?", "a": "Evaporation (or vaporisation)", "reason": "duplicate"},
+      {"q": "What is the process of water turning to vapor?", "a": "Evaporation", "reason": "duplicate"},
+      {"q": "What process turns liquid into gas?", "a": "Evaporation", "reason": "duplicate"},
+      {"q": "Chemical symbol for sodium?", "a": "Na (from Latin Natrium)", "reason": "duplicate"},
+      {"q": "What is the chemical symbol for sodium?", "a": "Na", "reason": "duplicate"},
+      {"q": "What blood cells help your blood clot?", "a": "Platelets", "reason": "duplicate"},
+      {"q": "What blood cells help clotting?", "a": "Platelets", "reason": "duplicate"},
+      {"q": "What device measures earthquakes?", "a": "A seismograph", "reason": "too easy for 400"},
+      {"q": "What is the Chandrasekhar limit?", "a": "1.4 solar masses (max mass for a white dwarf)", "reason": "duplicate"},
+      {"q": "What is the Chandrasekhar limit?", "a": "~1.4 solar masses — the maximum mass of a stable white dwarf", "reason": "duplicate"},
+      {"q": "What is the Heisenberg Uncertainty Principle?", "a": "You cannot simultaneously know exact position and momentum of a particle", "reason": "duplicate"},
+      {"q": "What does the Heisenberg Uncertainty Principle state?", "a": "You cannot simultaneously know the exact position and momentum of a particle", "reason": "duplicate"},
+      {"q": "What is the Doppler effect?", "a": "Change in frequency of waves relative to a moving observer", "reason": "duplicate"},
+      {"q": "What is the Doppler Effect?", "a": "Change in frequency of a wave for an observer moving relative to its source", "reason": "duplicate"},
+      {"q": "What is the wave-particle duality?", "a": "Every particle has wave properties and every wave has particle properties", "reason": "duplicate"},
+      {"q": "What is the wave-particle duality?", "a": "Light and matter exhibit both wave and particle properties", "reason": "duplicate"},
+      {"q": "What is Schrödinger's cat used to illustrate?", "a": "Quantum superposition", "reason": "duplicate"},
+      {"q": "What is Schrödinger's Cat?", "a": "A thought experiment showing quantum superposition — a cat is simultaneously alive and dead until observed", "reason": "duplicate"},
+      {"q": "What is dark energy?", "a": "A mysterious force causing the universe's accelerating expansion", "reason": "duplicate"},
+      {"q": "What is entropy in thermodynamics?", "a": "A measure of disorder in a system", "reason": "duplicate"},
+      {"q": "What is entropy and the Second Law of Thermodynamics?", "a": "Entropy (disorder) always increases in a closed system — the universe tends toward disorder", "reason": "duplicate"},
+      {"q": "What type of rock is formed by cooling lava?", "a": "Ignite (volcanic/igneous) rock", "reason": "wrong word 'Ignite'"},
+      {"q": "What is the significance of the photoelectric effect?", "a": "Einstein's explanation that light comes in discrete packets (photons) — laid the foundation for quantum mechanics", "reason": "flowery"},
+      {"q": "What is the significance of Proxima Centauri b?", "a": "A potentially habitable exoplanet orbiting Proxima Centauri — our nearest stellar neighbor", "reason": "flowery"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "What gas do humans need to breathe?", "a": "Oxygen"},
+        {"q": "What is the nearest planet to Earth?", "a": "Venus"},
+        {"q": "What body part do you hear with?", "a": "Ears"},
+        {"q": "What color is chlorophyll?", "a": "Green"},
+        {"q": "What animal class are whales in?", "a": "Mammals"}
+      ],
+      "400": [
+        {"q": "What type of igneous rock forms from cooled lava?", "a": "Basalt"},
+        {"q": "What is the unit of electrical resistance?", "a": "Ohm"},
+        {"q": "What element has atomic number 1?", "a": "Hydrogen"},
+        {"q": "What organ produces bile?", "a": "Liver"},
+        {"q": "What is the freezing point of water in Kelvin?", "a": "273.15 K"}
+      ],
+      "600": [
+        {"q": "What particle carries the electromagnetic force?", "a": "Photon"},
+        {"q": "What is the approximate age of the Earth?", "a": "About 4.54 billion years"},
+        {"q": "Who formulated the periodic law and created the periodic table?", "a": "Dmitri Mendeleev"},
+        {"q": "What is the rarest naturally occurring element on Earth?", "a": "Astatine"},
+        {"q": "What is the SI unit of magnetic flux density?", "a": "Tesla"},
+        {"q": "What subatomic particles make up a proton?", "a": "Two up quarks and one down quark"},
+        {"q": "What is the Cassini division located in?", "a": "Saturn's rings"}
+      ]
+    }
+  },
+  "history": {
+    "blacklist": [
+      {"q": "What mission first landed humans on the Moon?", "a": "Apollo 11", "reason": "duplicate"},
+      {"q": "Year the Apollo 11 Moon landing happened?", "a": "1969", "reason": "leak"},
+      {"q": "Year Neil Armstrong landed on the Moon?", "a": "1969", "reason": "duplicate"},
+      {"q": "What war was fought between the North and South in the US?", "a": "Civil War", "reason": "duplicate"},
+      {"q": "Which war was fought between the North and South in the United States?", "a": "American Civil War", "reason": "duplicate"},
+      {"q": "What empire was ruled by Julius Caesar?", "a": "Roman Empire", "reason": "duplicate"},
+      {"q": "Who was Julius Caesar?", "a": "Roman general and statesman assassinated on the Ides of March, 44 BC", "reason": "duplicate"},
+      {"q": "Who discovered America in 1492?", "a": "Christopher Columbus", "reason": "duplicate"},
+      {"q": "Year Columbus first reached the Americas?", "a": "1492", "reason": "duplicate"},
+      {"q": "What empire did Genghis Khan rule?", "a": "The Mongol Empire", "reason": "duplicate"},
+      {"q": "What empire was Genghis Khan the founder of?", "a": "Mongol Empire", "reason": "duplicate"},
+      {"q": "Who was Genghis Khan?", "a": "Founder of the Mongol Empire — the largest contiguous land empire in history", "reason": "duplicate"},
+      {"q": "First Emperor of China?", "a": "Qin Shi Huang", "reason": "duplicate"},
+      {"q": "Who founded the first major Chinese dynasty?", "a": "Qin Shi Huang", "reason": "duplicate"},
+      {"q": "What was the Manhattan Project?", "a": "Development of the atomic bomb", "reason": "duplicate"},
+      {"q": "What was the Manhattan Project?", "a": "US-led WWII research project that produced the first nuclear weapons", "reason": "duplicate"},
+      {"q": "What was the Renaissance?", "a": "A cultural rebirth in Europe from the 14th-17th century", "reason": "duplicate"},
+      {"q": "What is the Renaissance?", "a": "European cultural movement from 14th to 17th century meaning 'rebirth'", "reason": "duplicate"},
+      {"q": "What was the Scramble for Africa?", "a": "Rapid colonisation of Africa by European powers between 1881 and 1914", "reason": "duplicate"},
+      {"q": "What was the Scramble for Africa?", "a": "European colonization of Africa in the late 1800s", "reason": "duplicate"},
+      {"q": "What was the Meiji Restoration?", "a": "Japan's rapid industrialisation and modernisation under Emperor Meiji from 1868", "reason": "duplicate"},
+      {"q": "What was the Meiji Restoration?", "a": "1868 political revolution modernizing Japan", "reason": "duplicate"},
+      {"q": "What was the Taiping Rebellion?", "a": "A massive civil war in China (1850-1864)", "reason": "duplicate"},
+      {"q": "What was the Taiping Rebellion?", "a": "Massive civil war in China (1850–1864) — 20–30 million deaths, one of history's deadliest conflicts", "reason": "duplicate"},
+      {"q": "Which Chinese dynasty built much of the present Great Wall?", "a": "Ming dynasty", "reason": "duplicate"},
+      {"q": "What Chinese dynasty built much of the Forbidden City?", "a": "The Ming dynasty", "reason": "duplicate-subject"},
+      {"q": "Who was the first female Prime Minister of the UK?", "a": "Margaret Thatcher", "reason": "duplicate"},
+      {"q": "Who was known as the Iron Lady?", "a": "Margaret Thatcher", "reason": "duplicate"},
+      {"q": "What ship carried the Pilgrims to North America in 1620?", "a": "The Mayflower", "reason": "too easy for 600"},
+      {"q": "What was the name of the ship the Pilgrims sailed on?", "a": "Mayflower", "reason": "duplicate"},
+      {"q": "What was the Cold War?", "a": "Geopolitical tension between the USA and Soviet Union from 1947 to 1991", "reason": "duplicate"},
+      {"q": "What was the Cold War primarily between?", "a": "USA and USSR", "reason": "duplicate"},
+      {"q": "What is the significance of 1453 in history?", "a": "The fall of Constantinople to the Ottoman Turks — ending the Byzantine Empire and the Middle Ages", "reason": "flowery/duplicate"},
+      {"q": "What year did Constantinople fall to the Ottomans?", "a": "1453", "reason": "duplicate"},
+      {"q": "Which city fell to the Ottomans in 1453?", "a": "Constantinople", "reason": "duplicate"},
+      {"q": "Who was Cleopatra's relationship with Roman leaders?", "a": "She had relationships with Julius Caesar and Mark Antony — strategic alliances to protect Egypt", "reason": "awkward"},
+      {"q": "What was the significance of the Battle of Tours (732)?", "a": "Charles Martel halted Muslim expansion into Europe", "reason": "flowery"},
+      {"q": "What was the significance of the Peace of Westphalia (1648)?", "a": "It ended the Thirty Years War and established the modern concept of state sovereignty", "reason": "flowery"},
+      {"q": "What was the significance of the Gutenberg Bible?", "a": "First major book printed with movable type (c.1455) — revolutionised the spread of information in Europe", "reason": "flowery"},
+      {"q": "What was the significance of the Council of Nicaea?", "a": "325 AD — first ecumenical Christian council, established the Nicene Creed and standardised doctrine", "reason": "flowery"},
+      {"q": "What was the significance of the Battle of Waterloo?", "a": "Napoleon's final defeat in 1815 — ending the Napoleonic Wars and his rule", "reason": "flowery"},
+      {"q": "What was the significance of the Battle of Hastings?", "a": "1066 — William the Conqueror defeated King Harold II, beginning Norman rule of England", "reason": "flowery"},
+      {"q": "What was the significance of the Rosetta Stone?", "a": "A 196 BC decree in three scripts — it allowed scholars to decode Egyptian hieroglyphics", "reason": "flowery"},
+      {"q": "What was the significance of the Black Death's long-term impact?", "a": "Killed 30–60% of Europe — led to labour shortages, peasant uprisings, decline of feudalism, eventually the Renaissance", "reason": "flowery"},
+      {"q": "What was the significance of the 1905 Russian Revolution?", "a": "A wave of mass unrest and strikes that forced Tsar Nicholas II to create a constitution and parliament", "reason": "flowery"},
+      {"q": "What was the Haitian Revolution?", "a": "1791–1804 slave rebellion making Haiti the first Black republic and first nation to permanently abolish slavery", "reason": "duplicate"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "Who was the 16th US President?", "a": "Abraham Lincoln"},
+        {"q": "What year did the American Civil War end?", "a": "1865"},
+        {"q": "Which country dropped atomic bombs on Japan in 1945?", "a": "United States"},
+        {"q": "What was the name of Hitler's political party?", "a": "Nazi Party"},
+        {"q": "Who wrote the Declaration of Independence?", "a": "Thomas Jefferson"},
+        {"q": "What year did World War II begin?", "a": "1939"}
+      ],
+      "400": [
+        {"q": "Who was the US President during the Cuban Missile Crisis?", "a": "John F. Kennedy"},
+        {"q": "In what year did the American Revolution begin?", "a": "1775"},
+        {"q": "What European country colonized Brazil?", "a": "Portugal"},
+        {"q": "Who led the march on Washington in 1963?", "a": "Martin Luther King Jr."},
+        {"q": "What empire built Angkor Wat?", "a": "Khmer Empire"},
+        {"q": "Who was the last French king before the Revolution?", "a": "Louis XVI"}
+      ],
+      "600": [
+        {"q": "Who was the first Mughal emperor of India?", "a": "Babur"},
+        {"q": "What 17th-century English civil war general became Lord Protector?", "a": "Oliver Cromwell"},
+        {"q": "What ancient empire built Persepolis?", "a": "Achaemenid Persian Empire"},
+        {"q": "Who was the Holy Roman Emperor crowned by the Pope in 800 AD?", "a": "Charlemagne"},
+        {"q": "What year did Columbus die?", "a": "1506"},
+        {"q": "What treaty ended the Mexican-American War?", "a": "Treaty of Guadalupe Hidalgo"},
+        {"q": "Who assassinated Abraham Lincoln?", "a": "John Wilkes Booth"},
+        {"q": "What was the name of the French royal family deposed in 1792?", "a": "House of Bourbon"},
+        {"q": "Which Aztec emperor was encountered by Hernán Cortés?", "a": "Moctezuma II"},
+        {"q": "In what year was Queen Elizabeth II coronated?", "a": "1953"}
+      ]
+    }
+  },
+  "sports": {
+    "blacklist": [
+      {"q": "Most FIFA World Cups won?", "a": "Brazil (5 times)", "reason": "duplicate"},
+      {"q": "What country has won the most FIFA World Cups?", "a": "Brazil (5)", "reason": "duplicate"},
+      {"q": "Most Olympic gold medals won by one person?", "a": "Michael Phelps (23 gold medals)", "reason": "duplicate"},
+      {"q": "Who holds the record for most Olympic gold medals?", "a": "Michael Phelps (23)", "reason": "duplicate"},
+      {"q": "How many periods in an NHL hockey game?", "a": "3", "reason": "duplicate"},
+      {"q": "How many periods in an NHL hockey game?", "a": "3 periods of 20 minutes", "reason": "duplicate"},
+      {"q": "Length of an Olympic swimming pool?", "a": "50 metres", "reason": "duplicate"},
+      {"q": "What is the length of an Olympic swimming pool in meters?", "a": "50 meters", "reason": "duplicate"},
+      {"q": "How long is a marathon in miles?", "a": "26.2 miles", "reason": "duplicate"},
+      {"q": "Length of a marathon?", "a": "42.195 km", "reason": "duplicate"},
+      {"q": "What sport does LeBron James play?", "a": "Basketball", "reason": "too easy"},
+      {"q": "Events in a decathlon?", "a": "10", "reason": "leak"},
+      {"q": "What is the decathlon?", "a": "A 10-event track and field competition", "reason": "too easy for 600"},
+      {"q": "Year women were first allowed in the Olympics?", "a": "1900 (Paris Olympics)", "reason": "duplicate"},
+      {"q": "What year were women first allowed to compete in the Olympics?", "a": "1900 (Paris)", "reason": "duplicate"},
+      {"q": "What is a perfect game in baseball?", "a": "Pitcher retires all 27 batters without anyone reaching base", "reason": "duplicate"},
+      {"q": "What is a perfect game in baseball?", "a": "No batter reaches base for the entire game (27 up, 27 down)", "reason": "duplicate"},
+      {"q": "How many sets in a standard tennis match for men?", "a": "Best of 5 sets", "reason": "duplicate"},
+      {"q": "How many sets are played in a typical tennis match (men's Grand Slam)?", "a": "5", "reason": "duplicate"},
+      {"q": "What is a hat-trick in football?", "a": "Scoring three goals in a single game", "reason": "duplicate"},
+      {"q": "Who has won the most Tour de France titles?", "a": "Lance Armstrong was stripped; record: 5 by several riders", "reason": "confusing"},
+      {"q": "What is the only team sport played on horseback at the Olympics?", "a": "Polo (historically; modern: equestrian)", "reason": "wrong/ambiguous"},
+      {"q": "What is the significance of the FA Cup?", "a": "The world's oldest football competition — founded in 1871, open to any team in England", "reason": "flowery"},
+      {"q": "What is the significance of the Ashes in cricket?", "a": "A biennial series between England and Australia — the Ashes urn contains (reportedly) the burnt bails from 1882", "reason": "flowery"},
+      {"q": "What does VAR stand for in soccer?", "a": "Video Assistant Referee", "reason": "too easy for 600"},
+      {"q": "What swimming stroke is also called freestyle in races?", "a": "Front crawl", "reason": "too easy for 600"},
+      {"q": "Sport played at Wimbledon?", "a": "Tennis", "reason": "too easy"},
+      {"q": "What is the highest governing body of world football?", "a": "FIFA", "reason": "too easy for 400"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "How many players are on a basketball team on the court?", "a": "5"},
+        {"q": "Which sport is the Super Bowl the championship of?", "a": "American football"},
+        {"q": "What does NBA stand for?", "a": "National Basketball Association"},
+        {"q": "How many bases are there in baseball?", "a": "4"},
+        {"q": "How often are the Summer Olympics held?", "a": "Every 4 years"},
+        {"q": "What sport uses a bat and a wicket?", "a": "Cricket"}
+      ],
+      "400": [
+        {"q": "Which country has hosted the most Summer Olympics?", "a": "United States"},
+        {"q": "Who is the all-time leading scorer in the NBA?", "a": "LeBron James"},
+        {"q": "What country did Diego Maradona play for?", "a": "Argentina"},
+        {"q": "In what year was the first modern Summer Olympics held?", "a": "1896"},
+        {"q": "What is the name of the trophy awarded to the NHL champion?", "a": "Stanley Cup"},
+        {"q": "Which golfer is known as the Golden Bear?", "a": "Jack Nicklaus"}
+      ],
+      "600": [
+        {"q": "Who was the first gymnast to score a perfect 10 at the Olympics?", "a": "Nadia Comaneci"},
+        {"q": "What NFL quarterback holds the record for most career passing yards?", "a": "Tom Brady"},
+        {"q": "How many dimples are typically on a golf ball?", "a": "Around 336"},
+        {"q": "Who was the first Formula 1 World Champion?", "a": "Giuseppe Farina"},
+        {"q": "What year did Jesse Owens win four Olympic golds in Berlin?", "a": "1936"},
+        {"q": "Who holds the MLB record for career home runs?", "a": "Barry Bonds"}
+      ]
+    }
+  }
+}

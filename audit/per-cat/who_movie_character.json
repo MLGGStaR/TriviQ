@@ -1,0 +1,620 @@
+{
+  "200": [
+    {
+      "q": "I run across America, love Jenny, and accidentally drift through history",
+      "a": "Forrest Gump",
+      "wiki": "Forrest_Gump",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the brightest witch of my age and one of Harry Potter's closest friends",
+      "a": "Hermione Granger",
+      "wiki": "Hermione_Granger",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the pirate captain with a compass that points to what I want most",
+      "a": "Captain Jack Sparrow",
+      "wiki": "Captain_Jack_Sparrow",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Say hello to my little friend. I am the cocaine king of Scarface",
+      "a": "Tony Montana",
+      "wiki": "Tony_Montana",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "You talkin' to me? I am the unstable cab driver from Taxi Driver",
+      "a": "Travis Bickle",
+      "wiki": "Travis_Bickle",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I click my ruby slippers and dream of returning to Kansas",
+      "a": "Dorothy Gale",
+      "wiki": "Dorothy_Gale",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I own a chocolate factory and love golden tickets",
+      "a": "Willy Wonka",
+      "wiki": "Willy_Wonka",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I fake being sick to skip school in 1980s Chicago",
+      "a": "Ferris Bueller",
+      "wiki": "Ferris_Bueller",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the Wall Street killer obsessed with Huey Lewis and business cards",
+      "a": "Patrick Bateman",
+      "wiki": "Patrick_Bateman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the wide-eyed waitress from Paris in Amelie",
+      "a": "Amelie Poulain",
+      "wiki": "Amelie_Poulain",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the leather-clad ally of Neo in The Matrix",
+      "a": "Trinity",
+      "wiki": "Trinity_(The_Matrix)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the lion villain with a scar and a murderous plan to take Pride Rock",
+      "a": "Scar",
+      "wiki": "Scar_(The_Lion_King)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the survivor and mother at the heart of the Terminator films",
+      "a": "Sarah Connor",
+      "wiki": "Sarah_Connor_(Terminator)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the split-personality anarchist of Fight Club",
+      "a": "Tyler Durden",
+      "wiki": "Tyler_Durden",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I'm the space ranger toy who arrives believing I can really fly",
+      "a": "Buzz Lightyear",
+      "wiki": "Buzz_Lightyear",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the princess-turned-ogre who falls in love with Shrek",
+      "a": "Princess Fiona",
+      "wiki": "Princess_Fiona",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I hide as a man to save China in Disney's Mulan",
+      "a": "Mulan",
+      "wiki": "Mulan_(Disney_character)",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I built the Iron Man suit in a cave, I have an AI named JARVIS, and I said I am Iron Man",
+      "a": "Tony Stark",
+      "wiki": "Iron_Man_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I grew up on a moisture farm on Tatooine, discovered the Force, and learned my father was Darth Vader",
+      "a": "Luke Skywalker",
+      "wiki": "Luke_Skywalker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am a mermaid princess who traded my voice for a chance to live on land",
+      "a": "Ariel",
+      "wiki": "Ariel_(The_Little_Mermaid)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the lion prince of the Pride Lands, and I return home to reclaim my kingdom",
+      "a": "Simba",
+      "wiki": "Simba",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a practically perfect nanny who flies with an umbrella and changes a family's life",
+      "a": "Mary Poppins",
+      "wiki": "Mary_Poppins_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a green ogre from a swamp, and I remind everyone that ogres have layers",
+      "a": "Shrek",
+      "wiki": "Shrek_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the girl chosen by the ocean to sail across the sea and restore Te Fiti's heart",
+      "a": "Moana",
+      "wiki": "Moana_(Disney)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a lonely trash-compacting robot who finds purpose after meeting EVE",
+      "a": "WALL-E",
+      "wiki": "WALL-E_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I believe wiping out half the universe is mercy, and I wear the Infinity Gauntlet",
+      "a": "Thanos",
+      "wiki": "Thanos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I take the red pill, dodge bullets, and learn I am The One",
+      "a": "Neo",
+      "wiki": "Neo_(The_Matrix)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I let it go, build an ice palace, and fear hurting everyone I love",
+      "a": "Elsa",
+      "wiki": "Elsa_(Frozen)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the wise king of the Pride Lands, and I teach my son about the circle of life",
+      "a": "Mufasa",
+      "wiki": "Mufasa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wear black armor, command the Empire, and reveal one of cinema's most famous family secrets",
+      "a": "Darth Vader",
+      "wiki": "Darth_Vader",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a teenage superhero balancing school, queens, and neighborhood crime in the MCU",
+      "a": "Spider-Man",
+      "wiki": "Spider-Man_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a robotic AI suit inventor with a goatee and a taste for showmanship",
+      "a": "Tony Stark",
+      "wiki": "Iron_Man_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a boy with a lightning bolt scar raised under the Dursleys' stairs",
+      "a": "Harry Potter",
+      "wiki": "Harry_Potter_(character)",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "I am the revenge-driven bride in a yellow jumpsuit from Kill Bill",
+      "a": "The Bride",
+      "wiki": "The_Bride_(Kill_Bill)",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am Vincent Vega's unforgettable dance partner in Pulp Fiction",
+      "a": "Mia Wallace",
+      "wiki": "Mia_Wallace",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the Roman general who becomes a gladiator seeking vengeance",
+      "a": "Maximus",
+      "wiki": "Maximus_Decimus_Meridius",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I rule North Shore High, wear pink, and everyone in Mean Girls fears me",
+      "a": "Regina George",
+      "wiki": "Regina_George",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the ogre princess who can handle herself far better than any fairy-tale damsel",
+      "a": "Princess Fiona",
+      "wiki": "Princess_Fiona",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the mohawked hacker-survivor from The Girl with the Dragon Tattoo",
+      "a": "Lisbeth Salander",
+      "wiki": "Lisbeth_Salander",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I fake insanity, battle Nurse Ratched, and become the soul of One Flew Over the Cuckoo's Nest",
+      "a": "Randle McMurphy",
+      "wiki": "Randle_McMurphy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I'm the road warrior of a post-apocalyptic wasteland",
+      "a": "Max Rockatansky",
+      "wiki": "Max_Rockatansky",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the anarchic alter ego behind soap, fights, and mayhem",
+      "a": "Tyler Durden",
+      "wiki": "Tyler_Durden",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I rule over Halloweentown and sing about it dramatically",
+      "a": "Jack Skellington",
+      "wiki": "Jack_Skellington",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Elle Woods",
+      "wiki": "Elle_Woods",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "I'm a terminator sent from the future, and I tell people I'll be back",
+      "a": "The Terminator (T-800)",
+      "wiki": "Terminator_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an elite hitman whose retirement ends after my dog is killed",
+      "a": "John Wick",
+      "wiki": "John_Wick_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I hide deep in the jungle, talk about napalm in the morning, and become the dark heart of Apocalypse Now",
+      "a": "Colonel Kurtz",
+      "wiki": "Colonel_Kurtz",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a cannibal psychiatrist whose polite manners hide a terrifying mind",
+      "a": "Hannibal Lecter",
+      "wiki": "Hannibal_Lecter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an obsessive fan who traps her favorite writer in a remote house",
+      "a": "Annie Wilkes",
+      "wiki": "Annie_Wilkes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a mutant mastermind who can control metal and lead whole nations of followers",
+      "a": "Magneto",
+      "wiki": "Magneto_(film_series_character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I flip coins for fate, use a cattle gun, and walk through No Country for Old Men like death itself",
+      "a": "Anton Chigurh",
+      "wiki": "Anton_Chigurh",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I created Jurassic Park believing wonder would beat chaos, and I was very wrong",
+      "a": "John Hammond",
+      "wiki": "John_Hammond_(Jurassic_Park)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I descend into madness as Gotham embraces me, and the world knows me as Joker",
+      "a": "Arthur Fleck (Joker)",
+      "wiki": "Joker_(2019_film)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I carry a fedora, a whip, and a lifelong talent for running from giant disasters",
+      "a": "Indiana Jones",
+      "wiki": "Indiana_Jones_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I accept impossible missions, sprint across rooftops, and somehow survive every one of them",
+      "a": "Ethan Hunt",
+      "wiki": "Ethan_Hunt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I go from small-time boxer to one of cinema's most iconic underdogs",
+      "a": "Rocky Balboa",
+      "wiki": "Rocky_Balboa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I volunteer for my sister, survive the Hunger Games, and become the Mockingjay",
+      "a": "Katniss Everdeen",
+      "wiki": "Katniss_Everdeen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I mentor Neo, wear dark glasses, and explain the Matrix to the audience",
+      "a": "Morpheus",
+      "wiki": "Morpheus_(The_Matrix)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I split my soul into Horcruxes, fear love itself, and the wizarding world knows me as the Dark Lord",
+      "a": "Voldemort",
+      "wiki": "Voldemort",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a sword-swinging pirate captain with a gold tooth and a fondness for rum",
+      "a": "Jack Sparrow",
+      "wiki": "Jack_Sparrow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a Scottish warrior painted blue who cries for freedom",
+      "a": "William Wallace",
+      "wiki": "William_Wallace_(Braveheart)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I carry a chocolate factory inherited from a purple-coated genius",
+      "a": "Willy Wonka",
+      "wiki": "Willy_Wonka",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a robot assassin from the future covered in liquid metal",
+      "a": "T-1000",
+      "wiki": "T-1000",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the green half of a mutant duo who ends up in the body of a therapist",
+      "a": "Donnie Darko",
+      "wiki": "Donnie_Darko_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the girl in the yellow jumpsuit swinging a katana for revenge",
+      "a": "The Bride",
+      "wiki": "The_Bride_(Kill_Bill)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the pint-sized assassin who wears big shoes and a long coat",
+      "a": "Leon",
+      "wiki": "L%C3%A9on_Montana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a space pirate with a raccoon friend and a sentient tree for a sidekick",
+      "a": "Star-Lord",
+      "wiki": "Star-Lord",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "I am the liquid metal assassin from Terminator 2",
+      "a": "T-1000",
+      "wiki": "T-1000",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the writer descending into madness in The Shining",
+      "a": "Jack Torrance",
+      "wiki": "Jack_Torrance",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the rebel princess of Alderaan fighting the Empire",
+      "a": "Princess Leia",
+      "wiki": "Princess_Leia",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I'm the blade runner hunting replicants through rain and neon",
+      "a": "Rick Deckard",
+      "wiki": "Rick_Deckard",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the isolated writer slowly going mad at the Overlook Hotel",
+      "a": "Jack Torrance",
+      "wiki": "Jack_Torrance",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I drink milkshakes and crush rivals in There Will Be Blood",
+      "a": "Daniel Plainview",
+      "wiki": "Daniel_Plainview",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Anton Chigurh",
+      "wiki": "Anton_Chigurh",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ferris Bueller",
+      "wiki": "Ferris_Bueller",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Tyler Durden",
+      "wiki": "Tyler_Durden",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ellen Ripley",
+      "wiki": "Ellen_Ripley",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Mia Wallace",
+      "wiki": "Mia_Wallace",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Clarice Starling",
+      "wiki": "Clarice_Starling",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "The Bride",
+      "wiki": "Beatrix_Kiddo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Forrest Gump",
+      "wiki": "Forrest_Gump",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Captain Jack Sparrow",
+      "wiki": "Captain_Jack_Sparrow",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Maximus Decimus Meridius",
+      "wiki": "Maximus_Decimus_Meridius",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Tony Montana",
+      "wiki": "Tony_Montana",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Rick Deckard",
+      "wiki": "Rick_Deckard",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Marty McFly",
+      "wiki": "Marty_McFly",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Andy Dufresne",
+      "wiki": "Andy_Dufresne",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Leon",
+      "wiki": "L%C3%A9on_(character)",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Marge Gunderson",
+      "wiki": "Marge_Gunderson",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Chihiro Ogino",
+      "wiki": "Chihiro_Ogino",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Norman Bates",
+      "wiki": "Norman_Bates",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Juno MacGuff",
+      "wiki": "Juno_MacGuff",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "I am the feared patriarch of the Corleone family, and people still come to me on the day of my daughter's wedding",
+      "a": "Vito Corleone",
+      "wiki": "Vito_Corleone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I ride a hoverboard, travel through time in a DeLorean, and accidentally wreck history more than once",
+      "a": "Marty McFly",
+      "wiki": "Marty_McFly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I survive Judgment Day more than once and raise the future leader of the resistance",
+      "a": "Sarah Connor",
+      "wiki": "Sarah_Connor_(Terminator)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "In space, no one can hear me scream - I survive the xenomorph by being tougher than everyone else",
+      "a": "Ripley",
+      "wiki": "Ripley_(Alien)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I hunt Buffalo Bill with Hannibal Lecter's help and become one of the FBI's most famous agents",
+      "a": "Clarice Starling",
+      "wiki": "Clarice_Starling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I pilot the Millennium Falcon, brag about the Kessel Run, and definitely shoot first",
+      "a": "Han Solo",
+      "wiki": "Han_Solo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wield thunder, fly with a hammer, and eventually learn I was never the god of hammers",
+      "a": "Thor",
+      "wiki": "Thor_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I return every 27 years to feed on fear and often wear a clown's smile",
+      "a": "Pennywise",
+      "wiki": "Pennywise_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I build an empire out of newspapers, vanity, and one word: Rosebud",
+      "a": "Charles Foster Kane",
+      "wiki": "Charles_Foster_Kane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yippee-ki-yay - I'm the cop who keeps surviving impossible situations in the wrong place at the wrong time",
+      "a": "John McClane",
+      "wiki": "John_McClane",
+      "file": "App.jsx"
+    }
+  ]
+}

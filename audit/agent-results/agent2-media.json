@@ -1,0 +1,167 @@
+{
+  "music": {
+    "blacklist": [
+      {"q": "What genre did Elvis help popularize?", "a": "Rock and roll", "reason": "Answer leak"},
+      {"q": "Band that performed Bohemian Rhapsody?", "a": "Queen", "reason": "Duplicate"},
+      {"q": "Band behind We Will Rock You?", "a": "Queen", "reason": "Duplicate"},
+      {"q": "What does BPM measure in music?", "a": "Tempo", "reason": "Exact duplicate in 400 tier"},
+      {"q": "What does a crescendo mean?", "a": "Getting louder", "reason": "Duplicate in 400 tier"},
+      {"q": "Who is the best-selling female artist of all time?", "a": "Madonna", "reason": "Factually debated"},
+      {"q": "What is a capella singing?", "a": "Singing without instrumental accompaniment", "reason": "Too easy for 600, dup"},
+      {"q": "What is syncopation in music?", "a": "Placing emphasis on normally unaccented beats", "reason": "Duplicate in 600 tier"},
+      {"q": "What key has no sharps or flats?", "a": "C major (or A minor)", "reason": "Duplicate in 600 tier"},
+      {"q": "What is the circle of fifths used for?", "a": "Showing relationships between keys", "reason": "Duplicate in 600 tier"},
+      {"q": "What does 'fortissimo' mean in music?", "a": "Very loud", "reason": "Too easy for 600"},
+      {"q": "What does adagio indicate?", "a": "Slow tempo", "reason": "Too easy for 600"},
+      {"q": "What does allegro usually mean?", "a": "Fast", "reason": "Too easy for 600"},
+      {"q": "What does pianissimo mean?", "a": "Very soft", "reason": "Too easy for 600"},
+      {"q": "What is the line system written for music called?", "a": "Staff", "reason": "Too easy for 600"},
+      {"q": "What is a piece for one performer called?", "a": "Solo", "reason": "Too easy for 600"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "Who sang 'Rolling in the Deep'?", "a": "Adele"},
+        {"q": "What band's drummer is Ringo Starr?", "a": "The Beatles"},
+        {"q": "Who sang 'Old Town Road'?", "a": "Lil Nas X"}
+      ],
+      "400": [
+        {"q": "What is the lowest male singing voice?", "a": "Bass"},
+        {"q": "Who wrote 'The Four Seasons' concertos?", "a": "Antonio Vivaldi"}
+      ],
+      "600": [
+        {"q": "What is the Italian term for a gradual decrease in volume?", "a": "Diminuendo"},
+        {"q": "Who composed the opera 'Tristan und Isolde'?", "a": "Richard Wagner"},
+        {"q": "Who was the jazz saxophonist who composed 'Take Five'?", "a": "Paul Desmond"},
+        {"q": "What instrument did Dizzy Gillespie play?", "a": "Trumpet"},
+        {"q": "Which Russian composer wrote Pictures at an Exhibition?", "a": "Modest Mussorgsky"},
+        {"q": "Who was the lead singer of Joy Division?", "a": "Ian Curtis"},
+        {"q": "What instrument is played by Ravi Shankar?", "a": "Sitar"}
+      ]
+    }
+  },
+  "movies": {
+    "blacklist": [
+      {"q": "Who played Maximus in Gladiator?", "a": "Russell Crowe", "reason": "Duplicate in 200 and 400"},
+      {"q": "Animated film featuring the rat chef Remy?", "a": "Ratatouille (2007)", "reason": "Duplicate"},
+      {"q": "Who plays the lead in 'Gladiator'?", "a": "Russell Crowe", "reason": "Duplicate in 400"},
+      {"q": "Animated film with a chef rat named Remy?", "a": "Ratatouille (2007)", "reason": "Duplicate"},
+      {"q": "Film featuring character Travis Bickle?", "a": "Taxi Driver (1976)", "reason": "Exact duplicate"},
+      {"q": "Who directed The Godfather?", "a": "Francis Ford Coppola", "reason": "Duplicate"},
+      {"q": "What is the name of the hotel in The Shining?", "a": "Overlook Hotel", "reason": "Duplicate"},
+      {"q": "What film features the character 'HAL 9000'?", "a": "2001: A Space Odyssey", "reason": "Duplicate"},
+      {"q": "What is the highest-grossing film of all time?", "a": "Avatar", "reason": "Duplicate"},
+      {"q": "What is ludonarrative dissonance?", "a": "The conflict between a story and gameplay mechanics — popularized in film criticism too", "reason": "Not a film term"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "Who directed Avatar and Titanic?", "a": "James Cameron"},
+        {"q": "Who played Rose in Titanic?", "a": "Kate Winslet"}
+      ],
+      "400": [
+        {"q": "Who directed Reservoir Dogs?", "a": "Quentin Tarantino"},
+        {"q": "Who played Vito Corleone in The Godfather Part II?", "a": "Robert De Niro"},
+        {"q": "What film features the line 'I'll be back'?", "a": "The Terminator"},
+        {"q": "Who directed Goodfellas?", "a": "Martin Scorsese"},
+        {"q": "Who won Best Actress for La La Land?", "a": "Emma Stone"}
+      ],
+      "600": [
+        {"q": "Who wrote the screenplay for Chinatown?", "a": "Robert Towne"},
+        {"q": "What is chiaroscuro in film?", "a": "Strong contrast between light and dark"}
+      ]
+    }
+  },
+  "pop_culture": {
+    "blacklist": [
+      {"q": "Which app is famous for short dance videos?", "a": "TikTok", "reason": "Duplicate (3x TikTok)"},
+      {"q": "What platform is known for short-form vertical videos?", "a": "TikTok", "reason": "Duplicate"},
+      {"q": "Which social app is known for short dance and lip-sync videos that went viral in 2020?", "a": "TikTok", "reason": "Duplicate"},
+      {"q": "Who is the most subscribed YouTuber (channel)?", "a": "MrBeast", "reason": "Duplicate"},
+      {"q": "Which YouTuber is the most-subscribed individual creator?", "a": "MrBeast", "reason": "Duplicate"},
+      {"q": "What 2024 film featured Ryan Gosling as Ken?", "a": "Barbie (2023, but continued through awards)", "reason": "Year wrong"},
+      {"q": "Who is the richest person in the world (as of 2024)?", "a": "Elon Musk / Bernard Arnault", "reason": "Time-sensitive"},
+      {"q": "Which streaming service produced 'The Crown'?", "a": "Netflix", "reason": "Too easy for 400"},
+      {"q": "What streaming service produced 'Wednesday'?", "a": "Netflix", "reason": "Duplicate"},
+      {"q": "Which director made 'The Dark Knight'?", "a": "Christopher Nolan", "reason": "Too easy for 600"},
+      {"q": "Which Beatle was assassinated in 1980?", "a": "John Lennon", "reason": "Too easy for 600"},
+      {"q": "Who wrote the 'Harry Potter' book series?", "a": "J.K. Rowling", "reason": "Too easy for 600"},
+      {"q": "Which fashion magazine is run by Anna Wintour?", "a": "Vogue", "reason": "Too easy for 600"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "What rapper married Kim Kardashian?", "a": "Kanye West"},
+        {"q": "Which streaming service is known for original series like Stranger Things?", "a": "Netflix"},
+        {"q": "What coffee chain has a green mermaid logo?", "a": "Starbucks"}
+      ],
+      "400": [
+        {"q": "Which reality TV star became president of the United States in 2017?", "a": "Donald Trump"},
+        {"q": "Who founded the lifestyle brand Goop?", "a": "Gwyneth Paltrow"}
+      ],
+      "600": [
+        {"q": "What year did the 'Gangnam Style' music video become the first to hit 1 billion YouTube views?", "a": "2012"},
+        {"q": "Who founded the publication 'Variety'?", "a": "Sime Silverman"},
+        {"q": "Which model hosted the original 'Project Runway'?", "a": "Heidi Klum"}
+      ]
+    }
+  },
+  "technology": {
+    "blacklist": [
+      {"q": "What is the brain of a computer called?", "a": "CPU", "reason": "Duplicate in 200"},
+      {"q": "Which company makes the MacBook?", "a": "Apple", "reason": "Duplicate"},
+      {"q": "What company makes the MacBook?", "a": "Apple", "reason": "Duplicate"},
+      {"q": "What is cloud computing?", "a": "Storing and accessing data over the internet", "reason": "Duplicate"},
+      {"q": "What is the cloud?", "a": "Remote servers accessed over the internet", "reason": "Duplicate"},
+      {"q": "Which company makes Pixel phones?", "a": "Google", "reason": "Duplicate"},
+      {"q": "What company makes the Pixel phone?", "a": "Google", "reason": "Duplicate"},
+      {"q": "Who co-founded Apple alongside Steve Jobs and Steve Wozniak?", "a": "Ronald Wayne", "reason": "Duplicate"},
+      {"q": "What is the name of Google's AI chatbot launched in 2023?", "a": "Bard", "reason": "Outdated — rebranded to Gemini"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "What social network is known for professional networking?", "a": "LinkedIn"},
+        {"q": "What is the name of the online retail giant founded by Jeff Bezos?", "a": "Amazon"},
+        {"q": "What does 'SMS' stand for?", "a": "Short Message Service"}
+      ],
+      "400": [
+        {"q": "What does 'IDE' stand for in programming?", "a": "Integrated Development Environment"},
+        {"q": "Which operating system is developed by Microsoft for PCs?", "a": "Windows"}
+      ],
+      "600": [
+        {"q": "Who is considered the 'father of the computer' for his Analytical Engine design?", "a": "Charles Babbage"},
+        {"q": "What year did IBM release the first PC?", "a": "1981"},
+        {"q": "What programming language did Dennis Ritchie create?", "a": "C"}
+      ]
+    }
+  },
+  "country_facts": {
+    "blacklist": [
+      {"q": "Which country is famous for the Great Barrier Reef?", "a": "Australia", "reason": "Duplicate"},
+      {"q": "Which country is home to the Great Barrier Reef?", "a": "Australia", "reason": "Duplicate"},
+      {"q": "This country is famous for tulips, windmills, and Amsterdam", "a": "The Netherlands", "reason": "Duplicate"},
+      {"q": "This African nation known as the Land of a Thousand Hills has capital Kigali", "a": "Rwanda", "reason": "Duplicate"},
+      {"q": "Which country straddles the Caucasus with capital Tbilisi?", "a": "Georgia", "reason": "Duplicate"},
+      {"q": "Which country is both in Europe and Asia with capital Istanbul (historically)?", "a": "Turkey", "reason": "Istanbul is not Turkey's capital"},
+      {"q": "Which European country has the euro but is not in the EU?", "a": "Montenegro", "reason": "Ambiguous"},
+      {"q": "Which landlocked country is completely surrounded by Italy other than San Marino?", "a": "Vatican City", "reason": "Leak"},
+      {"q": "Which country is home to the Moai statues?", "a": "Chile", "reason": "Duplicate (Easter Island)"}
+    ],
+    "backfill": {
+      "200": [
+        {"q": "Which country is home to the Statue of Liberty?", "a": "United States"},
+        {"q": "Which country is home to Stonehenge?", "a": "United Kingdom"},
+        {"q": "Which country is famous for kangaroos and koalas?", "a": "Australia"}
+      ],
+      "400": [
+        {"q": "This country is the largest producer of olive oil in the world", "a": "Spain"},
+        {"q": "This Scandinavian country has capital Stockholm", "a": "Sweden"},
+        {"q": "This Southeast Asian country's capital is Hanoi", "a": "Vietnam"}
+      ],
+      "600": [
+        {"q": "This Central Asian country has capital Ashgabat and is known for its marble buildings", "a": "Turkmenistan"},
+        {"q": "This African nation was the only country to successfully resist European colonization in the 19th century", "a": "Ethiopia"},
+        {"q": "This country has the ISO code 'CI' and produces most of the world's cocoa", "a": "Ivory Coast"},
+        {"q": "This landlocked South American country has two capitals — La Paz and Sucre", "a": "Bolivia"},
+        {"q": "This country is home to the ancient rock-hewn churches of Lalibela", "a": "Ethiopia"}
+      ]
+    }
+  }
+}

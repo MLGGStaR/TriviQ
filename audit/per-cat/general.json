@@ -1,0 +1,673 @@
+{
+  "200": [
+    {
+      "q": "How many months have 31 days?",
+      "a": "7",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "How many letters are in the English alphabet?",
+      "a": "26",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the currency of the United States?",
+      "a": "US dollar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What instrument tells you which direction is north?",
+      "a": "A compass",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What shape has three sides?",
+      "a": "Triangle",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "How many letters are in the English alphabet?",
+      "a": "26",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What gas do plants absorb from the atmosphere?",
+      "a": "Carbon dioxide",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the freezing point of water in Fahrenheit?",
+      "a": "32°F",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What shape has 8 sides?",
+      "a": "Octagon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the closest star to Earth?",
+      "a": "The Sun",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the largest desert on Earth?",
+      "a": "Sahara (or Antarctic)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What metal is liquid at room temperature?",
+      "a": "Mercury",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the speed of light roughly in km/s?",
+      "a": "300,000 km/s",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many days in a leap year?",
+      "a": "366",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest ocean on Earth?",
+      "a": "Pacific Ocean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many sides does a hexagon have?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for water?",
+      "a": "H₂O",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many continents are there?",
+      "a": "7",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Boiling point of water in Celsius?",
+      "a": "100°C",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of the United Kingdom?",
+      "a": "London",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many hours in a week?",
+      "a": "168",
+      "file": "App.jsx"
+    },
+    {
+      "q": "National language of Brazil?",
+      "a": "Portuguese",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many strings does a standard guitar have?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Collective noun for a group of lions?",
+      "a": "A pride",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of China?",
+      "a": "Beijing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest mammal on Earth?",
+      "a": "Blue whale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players in a rugby union team?",
+      "a": "15",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Eiffel Tower was completed?",
+      "a": "1889",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Smallest ocean?",
+      "a": "Arctic Ocean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for iron?",
+      "a": "Fe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Argentina?",
+      "a": "Buenos Aires",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many minutes in a day?",
+      "a": "1,440",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Closest planet to the Sun?",
+      "a": "Mercury",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most widely eaten grain in the world?",
+      "a": "Rice",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many zeros in one million?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Normal human body temperature?",
+      "a": "37°C / 98.6°F",
+      "file": "App.jsx"
+    },
+    {
+      "q": "National animal of Australia?",
+      "a": "Kangaroo (and emu)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many days in February (non-leap year)?",
+      "a": "28",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tallest animal in the world?",
+      "a": "Giraffe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many sides does an octagon have?",
+      "a": "8",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Currency of the UK?",
+      "a": "Pound sterling (£)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many weeks in a year?",
+      "a": "52",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the Roman numeral for 50?",
+      "a": "L",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which chess piece moves only diagonally?",
+      "a": "Bishop",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the Roman numeral for 500?",
+      "a": "D",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a nine-sided shape called?",
+      "a": "Nonagon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does ATM stand for?",
+      "a": "Automated Teller Machine",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What board game uses words on a 15x15 grid?",
+      "a": "Scrabble",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What chess piece can jump over other pieces?",
+      "a": "Knight",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does CAPTCHA try to verify?",
+      "a": "That you are human",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the longest river in the world?",
+      "a": "Nile (or Amazon, disputed)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What planet has the most moons?",
+      "a": "Saturn",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who wrote 'To Kill a Mockingbird'?",
+      "a": "Harper Lee",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What blood type is the universal donor?",
+      "a": "O negative",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the main ingredient in guacamole?",
+      "a": "Avocado",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the largest lake in the world by surface area?",
+      "a": "Caspian Sea",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What vitamin does the sun provide?",
+      "a": "Vitamin D",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What instrument measures earthquakes?",
+      "a": "Seismograph",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the national animal of Scotland?",
+      "a": "Unicorn",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Planet closest in size to Earth?",
+      "a": "Venus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many bones in the adult human body?",
+      "a": "206",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Smallest country in the world by area?",
+      "a": "Vatican City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Square root of 144?",
+      "a": "12",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What organ produces insulin?",
+      "a": "Pancreas",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Adult human teeth count including wisdom teeth?",
+      "a": "32",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Currency of Japan?",
+      "a": "Yen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Longest bone in the human body?",
+      "a": "Femur (thigh bone)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many time zones on Earth?",
+      "a": "24",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Main ingredient in glass?",
+      "a": "Sand (silicon dioxide)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Approximate world population?",
+      "a": "About 8 billion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pythagorean theorem?",
+      "a": "a² + b² = c² — the square of the hypotenuse equals the sum of squares of the other two sides",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many moons does Mars have?",
+      "a": "Two — Phobos and Deimos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a prime number?",
+      "a": "A number greater than 1 with no divisors other than 1 and itself",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Approximate distance from Earth to the Sun?",
+      "a": "~150 million km (1 Astronomical Unit)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Study of fungi?",
+      "a": "Mycology",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Speed of sound in air at sea level?",
+      "a": "~343 m/s",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a palindrome?",
+      "a": "A word or phrase that reads the same forwards and backwards",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Roman numeral for 1000?",
+      "a": "M",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Scientific name for the North Star?",
+      "a": "Polaris",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Difference between an atom and a molecule?",
+      "a": "An atom is the smallest unit of an element; a molecule is two or more atoms bonded together",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Coriolis effect?",
+      "a": "The deflection of objects by Earth's rotation — affects weather patterns",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does GDP stand for?",
+      "a": "Gross Domestic Product — total value of goods and services produced",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is osmosis?",
+      "a": "Movement of water through a semi-permeable membrane from low to high solute concentration",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a catalyst?",
+      "a": "A substance that speeds up a chemical reaction without being consumed itself",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What number does XC represent in Roman numerals?",
+      "a": "90",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is a seven-sided shape called?",
+      "a": "Heptagon",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What do you call animals most active at dawn and dusk?",
+      "a": "Crepuscular",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the Roman numeral for 900?",
+      "a": "CM",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a 12-sided shape called?",
+      "a": "Dodecagon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the study of maps called?",
+      "a": "Cartography",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does RFID stand for?",
+      "a": "Radio-frequency identification",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the longest side of a right triangle called?",
+      "a": "Hypotenuse",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does ASCII stand for?",
+      "a": "American Standard Code for Information Interchange",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What type of number has no positive divisors besides 1 and itself?",
+      "a": "Prime number",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a polygon with 10 sides called?",
+      "a": "Decagon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What instrument measures atmospheric pressure?",
+      "a": "Barometer",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What branch of math studies chance?",
+      "a": "Probability",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a word made from the initials of a phrase called?",
+      "a": "Acronym",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the Fibonacci sequence's next number after 0,1,1,2,3,5,8?",
+      "a": "13",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What element has the atomic number 79?",
+      "a": "Gold",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What ancient wonder was located in Alexandria?",
+      "a": "Lighthouse of Alexandria",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who discovered the structure of DNA with Watson?",
+      "a": "Francis Crick",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the deepest point in the ocean?",
+      "a": "Mariana Trench",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What language has the most native speakers?",
+      "a": "Mandarin Chinese",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the largest known prime number category called?",
+      "a": "Mersenne primes",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What bone is the longest in the human body?",
+      "a": "Femur",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What country has the most time zones?",
+      "a": "France (12)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the rarest blood type?",
+      "a": "AB negative",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the only continent without a desert?",
+      "a": "Europe",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the youngest country in the world (as of 2024)?",
+      "a": "South Sudan (2011)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Half-life of Carbon-14?",
+      "a": "~5,730 years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Element with the highest melting point?",
+      "a": "Tungsten (3,422°C)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Closest star to our solar system?",
+      "a": "Proxima Centauri",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Speed of light in km/s?",
+      "a": "299,792 km/s",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First 7 numbers of the Fibonacci sequence?",
+      "a": "0, 1, 1, 2, 3, 5, 8",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for potassium?",
+      "a": "K (from Latin Kalium)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Mpemba effect?",
+      "a": "The observation that hot water can under some conditions freeze faster than cold water",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Boundary layer between Earth's crust and mantle?",
+      "a": "The MohoroviÄiÄ‡ discontinuity (the Moho)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Approximate age of the universe?",
+      "a": "~13.8 billion years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the P vs NP problem?",
+      "a": "Unsolved CS problem — whether every problem whose solution can be quickly verified can also be quickly solved",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Riemann hypothesis?",
+      "a": "Unsolved conjecture about the distribution of prime numbers and zeros of the Riemann zeta function",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Bell's theorem?",
+      "a": "Proves no local hidden variable theory can reproduce all predictions of quantum mechanics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Gödel's incompleteness theorem?",
+      "a": "Any consistent formal system powerful enough for arithmetic cannot prove all truths about itself",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Drake equation?",
+      "a": "A probabilistic argument estimating the number of active extraterrestrial civilizations in the Milky Way",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Schwarzschild radius?",
+      "a": "The radius at which an object becomes a black hole — the size of the event horizon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Euler's identity and why is it remarkable?",
+      "a": "e^(iπ) + 1 = 0 — connects five fundamental mathematical constants in one equation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Standard Model in physics?",
+      "a": "Theory describing fundamental particles and forces (except gravity) that make up the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Higgs boson?",
+      "a": "The particle that gives other particles mass — confirmed in 2012 at CERN's Large Hadron Collider",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is dark energy?",
+      "a": "A mysterious force (~68% of universe) driving its accelerating expansion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is quantum tunnelling?",
+      "a": "Particles passing through energy barriers that classical physics says they cannot cross",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is entropy in thermodynamics?",
+      "a": "A measure of disorder in a system — always increases in a closed system (Second Law)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Chandrasekhar limit?",
+      "a": "~1.4 solar masses — the maximum mass of a stable white dwarf star",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Schrödinger's Cat thought experiment?",
+      "a": "Illustrates quantum superposition — a cat is simultaneously alive and dead until observed",
+      "file": "App.jsx"
+    }
+  ]
+}

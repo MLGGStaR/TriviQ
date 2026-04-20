@@ -1,0 +1,508 @@
+{
+  "200": [
+    {
+      "q": "What family says Hear Me Roar?",
+      "a": "House Lannister",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the ancestral Stark sword called?",
+      "a": "Ice",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city is the capital of the Seven Kingdoms?",
+      "a": "King's Landing",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Jon Snow's direwolf named?",
+      "a": "Ghost",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who owns the sword Needle?",
+      "a": "Arya Stark",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What noble house has the direwolf as its sigil?",
+      "a": "House Stark",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Daenerys's house sigil?",
+      "a": "A three-headed dragon",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is House Stark's motto?",
+      "a": "Winter is Coming",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who killed Joffrey?",
+      "a": "Olenna Tyrell — she poisoned the wine at the Purple Wedding",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Name Daenerys's three dragons.",
+      "a": "Drogon, Rhaegal, and Viserion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sits on the Iron Throne at the end?",
+      "a": "Bran Stark (the Broken)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Arya Stark's sword called?",
+      "a": "Needle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Jon Snow's real parentage?",
+      "a": "He is Aegon Targaryen — son of Rhaegar Targaryen and Lyanna Stark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who kills the Night King?",
+      "a": "Arya Stark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Valar Morghulis mean?",
+      "a": "All men must die (in High Valyrian)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Night King?",
+      "a": "The leader of the White Walkers — created by the Children of the Forest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Iron Throne made of?",
+      "a": "Swords of defeated enemies — melted and fused with dragon fire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ned Stark?",
+      "a": "Lord of Winterfell — beheaded in Season 1 after being accused of treason",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Red Wedding?",
+      "a": "A massacre at Walder Frey's castle where Robb Stark and allies are slaughtered",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Hodor?",
+      "a": "Bran's gentle giant servant — his entire life leads to the tragic moment of Hold the door",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Valyrian steel?",
+      "a": "An extremely rare sharp metal — one of the only materials that kills White Walkers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Tyrion Lannister?",
+      "a": "Cersei's younger brother — the imp, known for his intelligence and wit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Wall?",
+      "a": "A massive ice barrier in the North protecting the Seven Kingdoms from what lies beyond",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Bran Stark's power?",
+      "a": "He is a warg and greenseer — able to see past, present, and future events",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Petyr Baelish?",
+      "a": "Littlefinger — a cunning political schemer who orchestrated much of the chaos in Westeros",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jaime Lannister?",
+      "a": "The Kingslayer — who killed the Mad King and is conflicted throughout the series",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sansa Stark's arc?",
+      "a": "From naive girl to shrewd political operator — she ends as Queen in the North",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Melisandre?",
+      "a": "The Red Priestess who serves the Lord of Light — she resurrects Jon Snow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is dragonglass?",
+      "a": "Obsidian — one of the only materials that kills White Walkers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Stannis Baratheon?",
+      "a": "Robert's brother who claims the Iron Throne — a rigid leader who burns his own daughter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ghost?",
+      "a": "Jon Snow's albino direwolf",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is House Lannister's unofficial motto?",
+      "a": "A Lannister always pays his debts",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the poison used to kill Joffrey commonly called?",
+      "a": "The Strangler",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is known as the Onion Knight?",
+      "a": "Davos Seaworth",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the seat of House Arryn?",
+      "a": "The Eyrie",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Brienne's full title after she is knighted?",
+      "a": "Ser Brienne of Tarth",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city is the seat of House Tyrell?",
+      "a": "Highgarden",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which dragon is Daenerys's largest and fiercest?",
+      "a": "Drogon",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What castle is the ancestral seat of House Arryn?",
+      "a": "The Eyrie",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What metal can kill White Walkers as discovered by Sam?",
+      "a": "Dragonglass",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What title does Tyrion hold under Daenerys?",
+      "a": "Hand of the Queen",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the name of Arya's Faceless Man trainer?",
+      "a": "Jaqen H'ghar",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Who betrayed Robb Stark at the Red Wedding?",
+      "a": "Roose Bolton and Walder Frey — orchestrated by Tywin Lannister",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What house motto is We Do Not Sow?",
+      "a": "House Greyjoy of the Iron Islands",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was the Mad King?",
+      "a": "Aerys II Targaryen — killed by Jaime Lannister",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the origin of the Night King?",
+      "a": "A First Man transformed by the Children of the Forest with a dragonglass dagger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Cersei's children's real father?",
+      "a": "Jaime Lannister — her twin brother",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Battle of the Bastards?",
+      "a": "Jon Snow vs Ramsay Bolton — won by the Knights of the Vale arriving at the last moment",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ramsay Bolton?",
+      "a": "The sadistic son of Roose Bolton — he captures and tortures Theon, and rapes Sansa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sept of Baelor explosion?",
+      "a": "Cersei uses wildfire to destroy her enemies — killing Margaery, the High Sparrow, and many others",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Three-Eyed Raven?",
+      "a": "An ancient being who holds all memories of the world — Bran becomes the new one",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Samwell Tarly?",
+      "a": "Jon's best friend — discovers dragonglass kills White Walkers and uncovers Jon's true parentage",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happened to Daenerys in the final season?",
+      "a": "She burns King's Landing — Jon kills her, Drogon destroys the Iron Throne",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Euron Greyjoy?",
+      "a": "Cersei's pirate-king ally — he commands the Iron Fleet and kills two of Daenerys's dragons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Tower of Joy flashback?",
+      "a": "Reveals Jon is not Ned's son — he is the son of Rhaegar Targaryen and Lyanna Stark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Varys's role?",
+      "a": "The Spider — spymaster who ultimately tries to betray Daenerys to Jon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Olenna Tyrell?",
+      "a": "The Queen of Thorns — matriarch of House Tyrell known for her wit and cunning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens to the Iron Throne?",
+      "a": "Drogon melts it after Jon kills Daenerys — it is destroyed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Theon Greyjoy's arc?",
+      "a": "He betrays Robb Stark, is tortured by Ramsay as Reek, then redeems himself at the Battle of Winterfell",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Loot Train Attack?",
+      "a": "Daenerys attacks the Lannister forces with Drogon and the Dothraki — they are devastated",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jorah Mormont?",
+      "a": "Daenerys's loyal protector who loves her — he dies protecting her at Winterfell",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Catspaw dagger?",
+      "a": "The Valyrian steel dagger Arya uses to kill the Night King",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Faceless Men?",
+      "a": "A guild of assassins from Braavos who serve the Many-Faced God — Arya trains with them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Iron Bank of Braavos?",
+      "a": "The most powerful financial institution in the world — it backed Stannis and later Cersei",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Lord of Light?",
+      "a": "R'hllor — the god worshipped by Melisandre and Thoros, associated with fire and resurrection",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Free Folk?",
+      "a": "People who live beyond the Wall, also called Wildlings — Jon brings them south of the Wall",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is House Targaryen's words?",
+      "a": "Fire and Blood",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What are the words of House Martell?",
+      "a": "Unbowed, Unbent, Unbroken",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What valyrian steel dagger starts many major plotlines?",
+      "a": "The catspaw dagger",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city does Daenerys rule before sailing to Westeros?",
+      "a": "Meereen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Hodor's real name?",
+      "a": "Wylis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What island seat belongs to House Greyjoy?",
+      "a": "Pyke",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What Valyrian steel blade kills the Night King?",
+      "a": "The catspaw dagger",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What are House Greyjoy's words?",
+      "a": "We Do Not Sow",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the ancestral Stark sword called?",
+      "a": "Ice",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What island fortress becomes Daenerys's base in season 7?",
+      "a": "Dragonstone",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the Valyrian steel dagger used against Bran later known for killing?",
+      "a": "The Night King",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What family holds the Twins?",
+      "a": "House Frey",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the name of Sansa's direwolf?",
+      "a": "Lady",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What order protects the Wall?",
+      "a": "Night's Watch",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Hound's real first name?",
+      "a": "Sandor",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What free city is famous for its canals and Faceless Men?",
+      "a": "Braavos",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What mercenary company does Daario Naharis lead?",
+      "a": "Second Sons",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is revealed as the Kingslayer?",
+      "a": "Jaime Lannister",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Bran Stark's direwolf?",
+      "a": "Summer",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Valyrian steel dagger triggers many plotlines?",
+      "a": "The catspaw dagger",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Arya Stark's sword?",
+      "a": "Needle",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What poisonous substance kills Joffrey?",
+      "a": "The Strangler",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Name all members of Ned Stark's Small Council in Season 1.",
+      "a": "Hand: Ned Stark; Coin: Littlefinger; Whisperers: Varys; Grand Maester: Pycelle; Ships: Stannis; Laws: Renly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Azor Ahai legend?",
+      "a": "Azor Ahai forged Lightbringer by plunging it into his wife's heart — linked to the hero defeating the Long Night",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What prophecy haunts Cersei?",
+      "a": "The Valonqar: a younger sibling will wrap hands around her pale white throat and choke the life from her",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Daenerys's Targaryen madness?",
+      "a": "The show implies madness runs in Targaryen blood — she shows it by burning King's Landing despite them surrendering",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Long Night?",
+      "a": "An ancient winter lasting a generation — the first war against the White Walkers thousands of years ago",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Bloodraven?",
+      "a": "Brynden Rivers — a bastard of House Targaryen who became a ranger then the Three-Eyed Raven",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Valyrian Doom?",
+      "a": "A cataclysmic event that destroyed the Valyrian Freehold — the Targaryens escaped because they had a prophecy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the meaning of Dracarys?",
+      "a": "Dragonfire in High Valyrian — the command Daenerys uses to order her dragons to breathe fire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Faceless Men's true belief?",
+      "a": "All gods are faces of the Many-Faced God of Death — and they serve by giving the gift of death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Prince That Was Promised prophecy?",
+      "a": "A hero born of smoke and salt who will save the world — both Jon and Daenerys are possible candidates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Cersei destroying the Sept?",
+      "a": "She eliminates all her political enemies at once — but loses Tommen (her last child) who jumps from a window in grief",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Night King's ultimate goal?",
+      "a": "To destroy the Three-Eyed Raven and erase all human memory, then overwhelm the world with his undead army",
+      "file": "App.jsx"
+    }
+  ]
+}

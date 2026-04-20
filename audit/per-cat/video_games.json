@@ -1,0 +1,578 @@
+{
+  "200": [
+    {
+      "q": "What exploding hostile mob is found in Minecraft?",
+      "a": "Creeper",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What city is BioShock set in?",
+      "a": "Rapture",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Link usually trying to save?",
+      "a": "Princess Zelda",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which princess does Mario usually rescue?",
+      "a": "Princess Peach",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What explosive Minecraft mob hisses before blowing up?",
+      "a": "Creeper",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the best-selling video game of all time?",
+      "a": "Minecraft",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What company makes Mario games?",
+      "a": "Nintendo",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game features a character named Link saving Princess Zelda?",
+      "a": "The Legend of Zelda",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has players drop onto an island and fight to be last standing?",
+      "a": "Fortnite (or PUBG)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What gaming console did Sony release in 2020?",
+      "a": "PlayStation 5",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What block-building survival game was created by Mojang?",
+      "a": "Minecraft",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mobile game has players catching creatures in the real world?",
+      "a": "Pokémon GO",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the main character in The Legend of Zelda?",
+      "a": "Link",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What handheld console did Nintendo release in 2017?",
+      "a": "Nintendo Switch",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has a character named Steve who mines blocks?",
+      "a": "Minecraft",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the best-selling video game of all time?",
+      "a": "Minecraft (238+ million copies)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the main character in Zelda?",
+      "a": "Link (not Zelda — she is the princess)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What year was Super Mario Bros. released?",
+      "a": "1985",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does NPC stand for?",
+      "a": "Non-Player Character",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Pac-Man's goal?",
+      "a": "To eat all the dots while avoiding ghosts",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Sonic's enemy?",
+      "a": "Dr. Eggman (Dr. Robotnik)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What game franchise features Master Chief?",
+      "a": "Halo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What game features the Creeper enemy?",
+      "a": "Minecraft",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created Super Mario?",
+      "a": "Shigeru Miyamoto",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Battle Royale game?",
+      "a": "Many players fight until only one remains — popularized by PUBG and Fortnite",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What gaming company makes PlayStation?",
+      "a": "Sony",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Kratos?",
+      "a": "The protagonist of God of War — a Spartan warrior who kills Greek and Norse gods",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a DLC?",
+      "a": "Downloadable Content — additional game content sold separately after release",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is eSports?",
+      "a": "Competitive video gaming at a professional level — with tournaments and prize money",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does GG mean in gaming?",
+      "a": "Good Game",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a boss fight?",
+      "a": "A climactic battle against a powerful enemy — usually at the end of a level",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a sandbox game?",
+      "a": "A game with an open world letting players create and explore freely — like Minecraft",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mario's brother?",
+      "a": "Luigi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does RPG stand for?",
+      "a": "Role-Playing Game",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the name of Kratos's son in modern God of War?",
+      "a": "Atreus",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What game series features the land of Hyrule?",
+      "a": "The Legend of Zelda",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city is Grand Theft Auto V set in?",
+      "a": "Los Santos",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which company created Sonic the Hedgehog?",
+      "a": "Sega",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city is Grand Theft Auto V set in?",
+      "a": "Los Santos",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What green-clad hero stars in Hyrule?",
+      "a": "Link",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What handheld monster-catching series has Gym Leaders?",
+      "a": "Pokémon",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What block game uses creepers and redstone?",
+      "a": "Minecraft",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What stealth series stars Solid Snake?",
+      "a": "Metal Gear",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What console family uses Joy-Con controllers?",
+      "a": "Nintendo Switch",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What battle royale features a gulag comeback mechanic?",
+      "a": "Call of Duty: Warzone",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What plumber stars in Nintendo's flagship series?",
+      "a": "Mario",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What game features an open world called Hyrule?",
+      "a": "The Legend of Zelda: Breath of the Wild",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the battle royale game by Respawn?",
+      "a": "Apex Legends",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What MMO has been running since 2004 by Blizzard?",
+      "a": "World of Warcraft",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What 2018 game features Kratos and his son Atreus?",
+      "a": "God of War",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What rhythm game uses plastic guitars?",
+      "a": "Guitar Hero (or Rock Band)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the first commercially successful home console?",
+      "a": "Atari 2600",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game features Nathan Drake as a treasure hunter?",
+      "a": "Uncharted",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What open-world crime game franchise is made by Rockstar?",
+      "a": "Grand Theft Auto",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has the player fight colossi in an empty landscape?",
+      "a": "Shadow of the Colossus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game popularized the 'auto-battler' genre?",
+      "a": "Dota Auto Chess (or Teamfight Tactics)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What racing game series features blue shells?",
+      "a": "Mario Kart",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has the tagline 'War never changes'?",
+      "a": "Fallout",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game features Geralt of Rivia as a monster hunter?",
+      "a": "The Witcher 3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What fighting game features characters like Ryu and Ken?",
+      "a": "Street Fighter",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has players survive on a raft in the ocean?",
+      "a": "Raft (or Subnautica)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game features The cake is a lie?",
+      "a": "Portal (2007) by Valve",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Nathan Drake's franchise?",
+      "a": "Uncharted (by Naughty Dog)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the main currency in Zelda?",
+      "a": "Rupees",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Konami Code?",
+      "a": "Up, Up, Down, Down, Left, Right, Left, Right, B, A",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the villain in the Halo series?",
+      "a": "The Covenant — and later the Gravemind and Didact",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dark Souls known for?",
+      "a": "Punishing difficulty, deliberate stamina-based combat, and minimal hand-holding",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is The Last of Us about?",
+      "a": "Joel escorts immune girl Ellie across post-apocalyptic USA overrun by a fungal zombie pandemic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a speedrun?",
+      "a": "Completing a game as fast as possible — often using glitches and optimized routes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created The Legend of Zelda?",
+      "a": "Shigeru Miyamoto and Takashi Tezuka — published by Nintendo in 1986",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the story of Half-Life?",
+      "a": "A physicist at Black Mesa fights aliens and government soldiers after a failed experiment",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a roguelike game?",
+      "a": "A game with procedurally generated levels and permadeath — like Hades, Spelunky",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Doom (1993)?",
+      "a": "It defined the FPS genre and popularised PC gaming — so popular it was used to test hardware performance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Witcher series about?",
+      "a": "Geralt of Rivia — a monster hunter navigating a morally complex medieval fantasy world",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is God of War (2018) about?",
+      "a": "Kratos moves to Norse mythology — he raises his son Atreus while confronting Norse gods and his past",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Elden Ring?",
+      "a": "A FromSoftware open-world action RPG created with George R.R. Martin — released 2022",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Among Us?",
+      "a": "A social deduction game where crewmates must find imposters sabotaging their spaceship",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Tetris?",
+      "a": "One of the best-selling games ever — its simple block-stacking gameplay is almost universally understood",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What survival horror franchise stars Leon Kennedy and Jill Valentine?",
+      "a": "Resident Evil",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What game introduced the phrase The cake is a lie?",
+      "a": "Portal",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Arthur Morgan's gang called in Red Dead Redemption 2?",
+      "a": "The Van der Linde gang",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What roguelike game stars Zagreus escaping the Underworld?",
+      "a": "Hades",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city is the setting of BioShock Infinite?",
+      "a": "Columbia",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What franchise uses hidden blades and Animus memories?",
+      "a": "Assassin's Creed",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What fantasy game stars the Dragonborn?",
+      "a": "Skyrim",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What console line is made by Sony?",
+      "a": "PlayStation",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What racing series is known for Horizon festivals?",
+      "a": "Forza Horizon",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What sandbox series features creepers, Endermen, and the Nether?",
+      "a": "Minecraft",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What city does GTA V mainly depict?",
+      "a": "Los Santos",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What company publishes The Legend of Zelda?",
+      "a": "Nintendo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What stealth game stars Agent 47?",
+      "a": "Hitman",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What series features a hunter named Geralt?",
+      "a": "The Witcher",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What game popularized the roguelike genre in recent years?",
+      "a": "Hades",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the AI in the Portal games?",
+      "a": "GLaDOS",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was the original Doom released?",
+      "a": "1993",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game features a character named Solaire who praises the sun?",
+      "a": "Dark Souls",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the best-selling console of all time?",
+      "a": "PlayStation 2",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What indie game features a skeleton named Sans?",
+      "a": "Undertale",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What studio developed 'The Last of Us'?",
+      "a": "Naughty Dog",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has the player manage a city on Mars?",
+      "a": "Surviving Mars",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game features the line 'Would you kindly?'",
+      "a": "BioShock",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the protagonist in Half-Life?",
+      "a": "Gordon Freeman",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game won Game of the Year at The Game Awards 2023?",
+      "a": "Baldur's Gate 3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game engine did Valve create?",
+      "a": "Source Engine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game has players explore procedurally generated planets?",
+      "a": "No Man's Sky",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What developer made 'Elden Ring'?",
+      "a": "FromSoftware",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is emergent gameplay?",
+      "a": "Gameplay arising organically from player interaction with systems — not scripted, created by player creativity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who invented the first commercially successful home console?",
+      "a": "Magnavox Odyssey (1972) — designed by Ralph Baer, the Father of Video Games",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is soulslike?",
+      "a": "A subgenre with punishing difficulty and deliberate combat — originated by Demon's Souls (2009) by FromSoftware",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is ludonarrative dissonance?",
+      "a": "The conflict between a game's story and gameplay — e.g. a caring hero who kills thousands in gameplay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Video Game Crash of 1983?",
+      "a": "The collapse of the North American market due to oversaturation — Nintendo revived the industry with the NES",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the concept behind Shadow of the Colossus?",
+      "a": "You hunt and kill 16 colossi — the game questions whether you are the hero or the villain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Video Game crash of 1983 caused by?",
+      "a": "Market oversaturation, too many low-quality games, and the collapse of consumer trust in home consoles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the narrative innovation of Undertale?",
+      "a": "It remembers your choices even if you reset — manipulating game conventions to create meaning and guilt",
+      "file": "App.jsx"
+    }
+  ]
+}

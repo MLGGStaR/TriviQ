@@ -1,0 +1,648 @@
+{
+  "200": [
+    {
+      "q": "What kind of creatures can you tame in ARK?",
+      "a": "Dinosaurs",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What developer created ARK: Survival Evolved?",
+      "a": "Studio Wildcard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the basic resource you punch trees for?",
+      "a": "Wood",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What flying dinosaur is one of the most iconic mounts?",
+      "a": "Pteranodon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What large carnivore is featured prominently on the cover?",
+      "a": "Tyrannosaurus Rex",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is Studio Wildcard headquartered in?",
+      "a": "Bellevue, Washington",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What food source restores hunger most reliably for early players?",
+      "a": "Cooked meat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item do you craft first to start a fire?",
+      "a": "Campfire",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What do you place to mark your respawn point?",
+      "a": "Bed",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the first map released?",
+      "a": "The Island",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the most basic firearm in ARK?",
+      "a": "Simple Pistol",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of armor is the most basic in ARK?",
+      "a": "Cloth armor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What stat do you increase to carry more items?",
+      "a": "Weight",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What stat increases how much damage you do?",
+      "a": "Melee Damage",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What dinosaur is famous for its frill and acid spit?",
+      "a": "Dilophosaurus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What animal is the most common early-game tame for berry gathering?",
+      "a": "Triceratops",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the small lizard you can tame and put on your shoulder?",
+      "a": "Compsognathus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What basic shelter piece do you craft first to build a hut?",
+      "a": "Thatch foundation",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What plant on Scorched Earth do you eat for water?",
+      "a": "Cactus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does the engram system let you do?",
+      "a": "Unlock crafting recipes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How do you typically tame a carnivore?",
+      "a": "Knock it out and feed it meat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does the torpor stat measure?",
+      "a": "Unconsciousness level",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which ranged weapon is the earliest available?",
+      "a": "Bow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which tool do you use to harvest meat efficiently from a corpse?",
+      "a": "Metal hatchet",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the giant snail that produces cementing paste?",
+      "a": "Achatina",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What dinosaur is most known for its three horns?",
+      "a": "Triceratops",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum player level on default settings?",
+      "a": "105 (plus Chibi and Ascension bonuses)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What item stores water for drinking?",
+      "a": "Waterskin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What flying mount is available earliest?",
+      "a": "Pteranodon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What structure protects from weather and spawns?",
+      "a": "Thatch/wood/stone house",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What berry restores stamina?",
+      "a": "Stimberry",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What tame is best for early-game egg collection?",
+      "a": "Oviraptor",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What resource do you get from rocks with a pickaxe?",
+      "a": "Stone (and flint)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does a mortar and pestle craft?",
+      "a": "Narcotics and other recipes",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the default damage multiplier for a Rex?",
+      "a": "62 base damage",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What creature is best for collecting chitin?",
+      "a": "Megatherium (or Sabertooth)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What tool harvests the most thatch from trees?",
+      "a": "Pickaxe",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What tool harvests the most wood from trees?",
+      "a": "Hatchet",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the command to spawn items?",
+      "a": "admincheat GiveItem",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What food tames a Raptor fastest?",
+      "a": "Raw Mutton (or Kibble)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the implant in your arm?",
+      "a": "Specimen Implant",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the name of the giant gorilla boss on The Island?",
+      "a": "Megapithecus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which expansion map features a Norse mythology theme with wyverns?",
+      "a": "Ragnarok",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which expansion is set in a futuristic alien environment?",
+      "a": "Extinction",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the alpha dinosaur variant of the T-Rex?",
+      "a": "Alpha T-Rex",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What resource is used to craft most metal tools?",
+      "a": "Metal ingot",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What flying creature is large enough to carry a platform saddle?",
+      "a": "Quetzal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What stat increases when you feed narcoberries to a creature?",
+      "a": "Torpor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What aquatic creature is one of the largest in the game?",
+      "a": "Tusoteuthis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the small monkey-like creature you can tame?",
+      "a": "Mesopithecus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What in-game material is needed to craft a saddle?",
+      "a": "Hide and fiber",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the desert-themed map?",
+      "a": "Scorched Earth",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the underwater/cave-themed expansion?",
+      "a": "Aberration",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the giant scorpion creature?",
+      "a": "Pulmonoscorpius",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the rideable creature unique to Aberration with glider abilities?",
+      "a": "Rock Drake",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the giant snake creature found on Scorched Earth?",
+      "a": "Titanoboa",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss arena on The Island for the Spider boss?",
+      "a": "Broodmother Lysrix",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which fire-themed mythical creature is found on Scorched Earth?",
+      "a": "Phoenix",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which armored mammal-like creature is best for collecting stone passively?",
+      "a": "Doedicurus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the largest land carnivore tameable on The Island?",
+      "a": "Giganotosaurus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the small flying creature used for early-game flying?",
+      "a": "Pteranodon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What creature in Aberration glows and can be used as a portable light?",
+      "a": "Bulbdog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What deep zone on Aberration is filled with radiation?",
+      "a": "The Radiation Zone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which large theropod is the best source of prime meat?",
+      "a": "Tyrannosaurus Rex",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the iconic 'big cat' creature in ARK?",
+      "a": "Sabertooth",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which creature is a giant beaver capable of building dams?",
+      "a": "Castoroides",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the large rideable bird flightless on The Island that can be used as a sprinter?",
+      "a": "Terror Bird",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What's the name of the creature you can ride to gather berries efficiently?",
+      "a": "Trike",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the Obelisk used for in ARK?",
+      "a": "Uploading tames, items, and transferring servers",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What creature on Extinction drops Element Dust?",
+      "a": "Enforcers and Tek creatures",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the boss on The Center?",
+      "a": "The same bosses as The Island",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What resource is crafted from chitin and stone?",
+      "a": "Cementing Paste",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mount is considered the best all-rounder?",
+      "a": "Argentavis",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What structure holds large amounts of items?",
+      "a": "Vault",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Industrial Forge used for?",
+      "a": "Smelting large amounts of metal quickly",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Tek Replicator?",
+      "a": "An end-game crafting station for Tek items",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What kibble system was reworked in the TLC update?",
+      "a": "The tiered kibble system (Basic to Extraordinary)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is an Imprint bonus?",
+      "a": "Stat bonuses gained from caring for raised babies",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What underwater mount has sonar abilities?",
+      "a": "Basilosaurus or Ichthyosaurus (basic) — Diplocaulus for oxygen",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What creature in Genesis Part 1 can teleport?",
+      "a": "Ferox (or Bloodstalker grapple)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the purpose of Cryopods?",
+      "a": "Storing tamed dinos for transport",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What structure protects against lightning on Scorched Earth?",
+      "a": "Lightning Rod",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Mutation Breeding?",
+      "a": "Breeding tames for random stat/color mutations",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "What year was ARK: Survival Evolved fully released (1.0)?",
+      "a": "2017",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was the original early access release year?",
+      "a": "2015",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the final boss on Genesis Part 2?",
+      "a": "Rockwell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the AI companion in Genesis Part 1?",
+      "a": "HLN-A",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum wild dinosaur level on default settings?",
+      "a": "150",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Tek-tier energy resource from boss arenas?",
+      "a": "Element",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the largest creature in the game, capable of carrying a mobile base?",
+      "a": "Titanosaur",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the season-pass storyline expansion released in 2019?",
+      "a": "Genesis Part 1",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the futuristic biome map?",
+      "a": "Genesis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which expansion features procedurally generated missions?",
+      "a": "Genesis Part 1",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of ARK 2's protagonist actor?",
+      "a": "Vin Diesel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Vin Diesel's character in ARK 2?",
+      "a": "Santiago",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the developer behind ARK 2?",
+      "a": "Studio Wildcard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the engine ARK 2 is being built on?",
+      "a": "Unreal Engine 5",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does a Cryopod do to a tamed creature?",
+      "a": "Puts it into stasis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the highest tier of structure in ARK?",
+      "a": "Tek tier",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss-fight item that the Overseer drops on The Island?",
+      "a": "Element",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the strongest wyvern on Ragnarok?",
+      "a": "Ice Wyvern",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which colored Wyvern shoots lightning?",
+      "a": "Lightning Wyvern",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which colored Wyvern shoots fire?",
+      "a": "Fire Wyvern",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which colored Wyvern shoots poison?",
+      "a": "Poison Wyvern",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss on Aberration?",
+      "a": "Rockwell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss on Extinction?",
+      "a": "Forest Titan, Desert Titan, Ice Titan, King Titan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the boss on Scorched Earth?",
+      "a": "Manticore",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the resource gathered from poop?",
+      "a": "Fertilizer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item is required to craft the Cryopod itself?",
+      "a": "Tek-tier components",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What item is placed on a redwood tree to harvest sap?",
+      "a": "Tree Sap Tap",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which crab-like creature in Aberration produces organic polymer?",
+      "a": "Karkinos",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the unique boss added on the Valguero map?",
+      "a": "The Forsaken Oasis",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the maximum imprint percentage on a perfectly raised baby?",
+      "a": "100%",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the Overseer?",
+      "a": "The final boss of The Island, guarding ascension",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What happens when you ascend on The Island?",
+      "a": "Your character levels up to a new max and is transferred",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Alpha King Titan?",
+      "a": "The hardest boss in Extinction, requires all three Titans",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Corrupted Master Controller?",
+      "a": "The final boss of Genesis Part 1",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Astrodelphis?",
+      "a": "A space dolphin mount exclusive to Genesis Part 2",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Reaper King?",
+      "a": "A creature from Aberration that implants a baby in the player",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Maewing?",
+      "a": "A platypus-like creature from Genesis Part 2 that nurses babies",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Stryder?",
+      "a": "A Tek creature in Genesis Part 2 used for harvesting and scanning",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many Tekgrams are available in the game?",
+      "a": "30+ (varies by map)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the R-variant of a creature?",
+      "a": "A Genesis-exclusive variant with different stats/colors",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What happens if a baby's food reaches 0?",
+      "a": "It dies",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the mutation cap per stat?",
+      "a": "20 mutations per side (maternal/paternal)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the level cap for wild tamed creatures after taming bonus?",
+      "a": "224 (150 wild + 74 taming bonus on perfect tame)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Noglin?",
+      "a": "A brain parasite creature from Genesis Part 2",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the max tribe member limit on official servers?",
+      "a": "No hard cap (up to server player limit)",
+      "file": "megaNewExpansions"
+    }
+  ]
+}

@@ -1,0 +1,728 @@
+{
+  "200": [
+    {
+      "q": "How many lines are on a standard music staff?",
+      "a": "5",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What instrument was Louis Armstrong famous for playing?",
+      "a": "Trumpet",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which band released Wonderwall?",
+      "a": "Oasis",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What symbol raises a note by a semitone?",
+      "a": "A sharp",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is known as the Boss in rock music?",
+      "a": "Bruce Springsteen",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What family of instruments does the clarinet belong to?",
+      "a": "Woodwind",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who sang 'Bohemian Rhapsody'?",
+      "a": "Queen / Freddie Mercury",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is known as the 'King of Rock and Roll'?",
+      "a": "Elvis Presley",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What genre of music originated in Jamaica?",
+      "a": "Reggae",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What boy band released 'Bye Bye Bye'?",
+      "a": "NSYNC",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What instrument is Jimi Hendrix famous for?",
+      "a": "Electric guitar",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many strings does a standard violin have?",
+      "a": "4",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What female artist sang 'Like a Virgin'?",
+      "a": "Madonna",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What genre did Elvis help popularize?",
+      "a": "Rock and roll",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What country is K-pop from?",
+      "a": "South Korea",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the lead vocalist of Maroon 5?",
+      "a": "Adam Levine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Band that performed Bohemian Rhapsody?",
+      "a": "Queen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "King of Pop?",
+      "a": "Michael Jackson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Best-selling album of all time?",
+      "a": "Thriller by Michael Jackson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Halo and Single Ladies?",
+      "a": "Beyoncé",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who composed the Four Seasons?",
+      "a": "Antonio Vivaldi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Band behind Hotel California?",
+      "a": "Eagles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Shape of You?",
+      "a": "Ed Sheeran",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which band is Freddie Mercury from?",
+      "a": "Queen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What nationality is Adele?",
+      "a": "British (English)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Blinding Lights?",
+      "a": "The Weeknd",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Taylor Swift's debut album?",
+      "a": "Taylor Swift (self-titled, 2006)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Band behind Smells Like Teen Spirit?",
+      "a": "Nirvana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Queen of Pop?",
+      "a": "Madonna",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Someone Like You?",
+      "a": "Adele",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Band behind We Will Rock You?",
+      "a": "Queen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Uptown Funk?",
+      "a": "Bruno Mars (featuring Mark Ronson)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Bad Guy?",
+      "a": "Billie Eilish",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Stairway to Heaven?",
+      "a": "Led Zeppelin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does a conductor do?",
+      "a": "Leads and coordinates the musicians, interpreting the music",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Despacito?",
+      "a": "Luis Fonsi (featuring Daddy Yankee)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a duet?",
+      "a": "A musical performance by two performers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Lose Yourself?",
+      "a": "Eminem",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang All I Want for Christmas Is You?",
+      "a": "Mariah Carey",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is AC/DC's most famous song?",
+      "a": "Back in Black (or Highway to Hell)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country music capital of the world?",
+      "a": "Nashville, Tennessee",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What does crescendo mean in music?",
+      "a": "Gradually getting louder",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who composed Swan Lake?",
+      "a": "Tchaikovsky",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What does BPM measure in music?",
+      "a": "Tempo",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What does legato mean in music?",
+      "a": "Smooth and connected",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who composed The Nutcracker?",
+      "a": "Tchaikovsky",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What does BPM measure in music?",
+      "a": "Tempo",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What clef is commonly used for lower-pitched instruments?",
+      "a": "Bass clef",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does a crescendo mean?",
+      "a": "Getting louder",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who wrote the opera 'The Marriage of Figaro'?",
+      "a": "Mozart",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What band was Mick Jagger the lead singer of?",
+      "a": "The Rolling Stones",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What genre combines rock and electronic music?",
+      "a": "Electronic rock (or synth-rock)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did Elvis Presley die?",
+      "a": "1977",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What genre did Bob Marley popularize worldwide?",
+      "a": "Reggae",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the best-selling female artist of all time?",
+      "a": "Madonna",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What instrument does Kenny G play?",
+      "a": "Soprano saxophone",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was The Beatles' first #1 hit in the US?",
+      "a": "I Want to Hold Your Hand",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What DJ is known as 'the king of EDM'?",
+      "a": "Tiësto (or David Guetta)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Kanye West's first album called?",
+      "a": "The College Dropout",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed 'Moonlight Sonata'?",
+      "a": "Beethoven",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Band that released Dark Side of the Moon?",
+      "a": "Pink Floyd",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who holds the record for most Grammy wins?",
+      "a": "Beyoncé (32 Grammys as of 2024)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which Beatle wrote Yesterday?",
+      "a": "Paul McCartney",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does forte mean in music?",
+      "a": "Loud (Italian)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Queen of Soul?",
+      "a": "Aretha Franklin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yo-Yo Ma's famous instrument?",
+      "a": "Cello",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nationality of Beethoven?",
+      "a": "German",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Highest voice type in opera?",
+      "a": "Soprano",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a metronome?",
+      "a": "A device producing a steady beat at a set tempo to help musicians keep time",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who produced many Michael Jackson albums?",
+      "a": "Quincy Jones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Time signature of a waltz?",
+      "a": "3/4 time",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who wrote the musical Hamilton?",
+      "a": "Lin-Manuel Miranda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is perfect pitch?",
+      "a": "The rare ability to identify or reproduce a musical note without a reference tone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a chord?",
+      "a": "Three or more notes played simultaneously",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Father of rock and roll?",
+      "a": "Chuck Berry (or Little Richard, debated)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is MIDI in music?",
+      "a": "Musical Instrument Digital Interface — protocol allowing electronic instruments to communicate",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the blues?",
+      "a": "American music genre from the Deep South, characterized by blue notes and call-and-response",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is sampling in music?",
+      "a": "Using a portion of a recorded sound as an instrument in a new recording",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Difference between major and minor keys?",
+      "a": "Major: generally happy/bright. Minor: generally sad/dark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the bridge in a song?",
+      "a": "A contrasting section appearing once — typically between the second chorus and final chorus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a cappella music?",
+      "a": "Singing without any instrumental accompaniment",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Cavern Club?",
+      "a": "The Liverpool venue where the Beatles first became famous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bob Dylan's literary achievement?",
+      "a": "He won the 2016 Nobel Prize in Literature for his poetic songwriting",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the time signature of most pop songs?",
+      "a": "4/4 time (common time)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a key signature in music?",
+      "a": "Sharps or flats at the start of a staff indicating the key of the piece",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is polyphony?",
+      "a": "Two or more independent melodic lines played simultaneously",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a record label?",
+      "a": "A company managing the production, distribution, and promotion of music for artists",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is considered the father of classical music?",
+      "a": "Johann Sebastian Bach",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the highest note a tenor can typically sing?",
+      "a": "High C (C5)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a riff in rock music?",
+      "a": "A repeated chord progression or refrain used as the basis of a rock piece",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is syncopation?",
+      "a": "Emphasizing off-beats or unexpected beats",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is an arpeggio?",
+      "a": "The notes of a chord played one after another",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the circle of fifths used for?",
+      "a": "Showing relationships between keys and key signatures",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is a diminished fifth also called?",
+      "a": "A tritone",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which composer wrote the Ring cycle?",
+      "a": "Richard Wagner",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What Miles Davis album includes So What?",
+      "a": "Kind of Blue",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What does opus mean in classical music cataloging?",
+      "a": "Work",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What key has no sharps and no flats?",
+      "a": "C major",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does adagio indicate?",
+      "a": "Slow tempo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a group of three notes played together called?",
+      "a": "Triad",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does pianissimo mean?",
+      "a": "Very soft",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What female voice type is lower than soprano?",
+      "a": "Alto",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What symbol cancels a sharp or flat?",
+      "a": "Natural",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does a fermata tell a musician to do?",
+      "a": "Hold the note",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What family does the trombone belong to?",
+      "a": "Brass",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a piece for one performer called?",
+      "a": "Solo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does allegro usually mean?",
+      "a": "Fast",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the line system written for music called?",
+      "a": "Staff",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a capella singing?",
+      "a": "Singing without instrumental accompaniment",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is syncopation in music?",
+      "a": "Placing emphasis on normally unaccented beats",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed 'Rite of Spring'?",
+      "a": "Igor Stravinsky",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What key has no sharps or flats?",
+      "a": "C major (or A minor)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the lowest female voice type?",
+      "a": "Contralto",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is considered the father of hip-hop?",
+      "a": "DJ Kool Herc",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a tritone also known as?",
+      "a": "The devil's interval",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What jazz musician was known as 'Bird'?",
+      "a": "Charlie Parker",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'fortissimo' mean in music?",
+      "a": "Very loud",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What scale is used in most blues music?",
+      "a": "Pentatonic blues scale",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed 'The Planets' orchestral suite?",
+      "a": "Gustav Holst",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the circle of fifths used for?",
+      "a": "Showing relationships between keys",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What rapper released 'Illmatic' in 1994?",
+      "a": "Nas",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is known as the 'Godfather of Soul'?",
+      "a": "James Brown",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Opera by Puccini where Mimi and Rodolfo fall in love?",
+      "a": "La Bohème",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a tritone in music theory?",
+      "a": "An interval of three whole tones — historically called diabolus in musica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who composed The Magic Flute?",
+      "a": "Wolfgang Amadeus Mozart",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does sforzando (sfz) mean?",
+      "a": "A sudden, strong accent on a note or chord",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Köchel catalogue?",
+      "a": "A chronological catalogue of Mozart's compositions with assigned K. numbers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who invented the theremin?",
+      "a": "Léon Theremin (1920)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is serialism?",
+      "a": "A compositional technique using a fixed series of pitches — pioneered by Schoenberg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rite of Spring and why was it controversial?",
+      "a": "Stravinsky's 1913 ballet — its premiere caused a riot due to dissonant music and primitive themes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is musique concrète?",
+      "a": "Music made from recorded real-world sounds — pioneered by Pierre Schaeffer in the 1940s",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was John Coltrane?",
+      "a": "Legendary jazz saxophonist known for A Love Supreme — pushed the boundaries of improvisation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is twelve-tone technique?",
+      "a": "Schoenberg's method of composing with all 12 chromatic scale notes treated equally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Castrato?",
+      "a": "A male singer castrated before puberty to preserve a high voice — common in Baroque opera",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Difference between a symphony and a concerto?",
+      "a": "Symphony: for full orchestra. Concerto: features a solo instrument accompanied by orchestra",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hungarian Rhapsody?",
+      "a": "Piano compositions by Franz Liszt based on Hungarian folk themes — No. 2 is most famous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Miles Davis and why is he significant?",
+      "a": "Jazz trumpeter who led multiple revolutions — from bebop to modal jazz to fusion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Beethoven's most remarkable symphony achievement?",
+      "a": "The 9th Symphony — composed when Beethoven was completely deaf",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is counterpoint?",
+      "a": "The art of combining two or more independent melodic lines — Bach was the master",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Baroque vs Classical vs Romantic periods?",
+      "a": "Baroque (1600–1750): ornate, polyphonic. Classical (1750–1820): balanced. Romantic (1820–1900): emotional",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the 432Hz vs 440Hz debate?",
+      "a": "440Hz is standard concert pitch; 432Hz proponents claim it sounds more natural — no scientific basis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Impressionist music?",
+      "a": "Late 19th century style evoking mood through colour and texture — Debussy and Ravel are key composers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a fugue?",
+      "a": "A contrapuntal composition in which a subject is introduced by one voice and imitated by others",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Gamelan?",
+      "a": "A traditional ensemble music of Java and Bali — uses metallophones, xylophones, and gongs",
+      "file": "App.jsx"
+    }
+  ]
+}

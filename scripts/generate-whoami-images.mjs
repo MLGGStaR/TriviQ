@@ -13,6 +13,8 @@ import NEW_CATEGORIES_BANK from "../src/newCategoriesBank.js";
 import NEW_CATEGORIES_PACK_2 from "../src/newCategoriesPack2.js";
 import LOGO_CATEGORIES_BANK from "../src/logoCategoriesBank.js";
 import MORE_TRIVIA_EXPANSIONS from "../src/moreTriviaExpansions.js";
+import MEGA_NEW_EXPANSIONS from "../src/megaNewExpansions.js";
+import QUALITY_BACKFILL from "../src/qualityBackfill.js";
 
 const APP_PATH = path.join(process.cwd(), "src", "App.jsx");
 const OUTPUT_DIR = path.join(process.cwd(), "public", "whoami");
@@ -34,6 +36,52 @@ const DIRECT_URL_OVERRIDES = {
     "https://static.wikia.nocookie.net/villains/images/3/33/Johan_adult.png/revision/latest?cb=20250211193323",
   Korosensei:
     "https://www.pngkit.com/png/detail/819-8194281_korosensei-assassination-classroom-koro-sensei.png",
+  Young_Michael_Jackson: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jackson_5_1972.JPG",
+  Young_Elvis_Presley: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Elvis_Presley_first_national_television_appearance_1956.jpg",
+  Young_Shirley_Temple: "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shirley_Temple_in_%22Bright_Eyes%22_with_James_Dunn.jpg",
+  Young_Queen_Elizabeth_II: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Queen_Elizabeth_II_on_her_Coronation_Day_%28cropped%29.jpg",
+  Young_Steve_Jobs: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg",
+  Young_Barack_Obama: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Barack_Obama_luncheon_in_Cairo%2C_Illinois_%28April_15%2C_2004%29.jpg",
+  Young_Muhammad_Ali: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cassius_Clay_%281960%2C_JO%29.jpg",
+  Young_Marilyn_Monroe: "https://upload.wikimedia.org/wikipedia/commons/3/32/Marilyn_Monroe_as_Norma_Jean_Dougherty.jpg",
+  Young_Elizabeth_Taylor: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Elizabeth_Taylor-1945.JPG",
+  Young_Michael_Jordan: "https://upload.wikimedia.org/wikipedia/commons/2/26/Michael_Jordan_-_1984_%282%29.jpg",
+  Young_Princess_Diana: "https://upload.wikimedia.org/wikipedia/commons/4/40/Princess_Diana_dancing_with_John_Travolta_in_Cross_Hall_at_the_White_House.jpg",
+  Young_John_F_Kennedy: "https://upload.wikimedia.org/wikipedia/commons/0/0e/Congressman_John_F._Kennedy_1947.JPG",
+  Young_Britney_Spears: "https://upload.wikimedia.org/wikipedia/commons/3/37/Britney_Spears_1999.jpg",
+  Young_Taylor_Swift: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Taylor_Swift_%282007%29_retouched.jpg",
+  Young_Miley_Cyrus: "https://upload.wikimedia.org/wikipedia/commons/3/36/Miley_Cyrus_as_Hannah_Montana.jpg",
+  Young_Emma_Watson: "https://upload.wikimedia.org/wikipedia/commons/4/48/Emma_Watson_GoF_Premiere_Crop.jpg",
+  Young_Tom_Cruise: "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tom_cruise_1989.jpg",
+  Young_Paul_McCartney: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Paul_McCartney_1964.jpg",
+  Young_John_Lennon: "https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Lennon_1964.jpg",
+  Young_Bob_Marley: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bob_Marley_performing_in_1976.jpg",
+  Young_Mariah_Carey: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mariah_Carey_1990.jpg",
+  Young_Beyonce: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Beyonce_Knowles_at_age_19_%28cropped%29.jpeg",
+  Young_Jay_Z: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jay-Z-01-mika.jpg",
+  Young_Eminem: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Eminem-01-mika.jpg",
+  Young_Bill_Clinton: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bill_Clinton_1978.jpg",
+  Young_Donald_Trump: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Donald_Trump_in_the_1980s_%28cropped%29.jpg",
+  Young_Oprah_Winfrey: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Oprah_Winfrey%2C_Akosua_Busia_and_Margaret_Avery%2C_1986.jpg",
+  Young_Bill_Gates: "https://upload.wikimedia.org/wikipedia/commons/9/91/Bill_Gates_1977.png",
+  Young_Mark_Zuckerberg: "https://upload.wikimedia.org/wikipedia/commons/f/fc/MarkZuckerberg-crop.jpg",
+  Young_Lionel_Messi: "https://upload.wikimedia.org/wikipedia/commons/2/26/Leo_messi_barce_2005.jpg",
+  Young_Frank_Sinatra: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Frank_Sinatra_%281944_World-Telegram_file_photo%29.jpg",
+  Young_Audrey_Hepburn: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Audrey_Hepburn_1953.jpg",
+  Young_Mick_Jagger: "https://upload.wikimedia.org/wikipedia/commons/1/16/Mick-Jagger-1965-Turku.jpg",
+  Young_Keith_Richards: "https://upload.wikimedia.org/wikipedia/commons/3/3b/Keith_Richards_%281965%29.jpg",
+  Young_Freddie_Mercury: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
+  Young_David_Bowie: "https://upload.wikimedia.org/wikipedia/commons/6/68/David_Bowie_1974.JPG",
+  Young_Stevie_Wonder: "https://upload.wikimedia.org/wikipedia/commons/4/4a/Stevie_Wonder_1967_%281%29.jpg",
+  Young_Aretha_Franklin: "https://upload.wikimedia.org/wikipedia/commons/9/99/Aretha_franklin_1960s_cropped_retouched.jpg",
+  Young_Bob_Dylan: "https://upload.wikimedia.org/wikipedia/commons/6/68/Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg",
+  Young_Jimi_Hendrix: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg",
+  Young_Janis_Joplin: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Janis_Joplin_1969.JPG",
+  Young_Kurt_Cobain: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kurt_Cobain_1992.jpg",
+  Young_Amy_Winehouse: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Amy_winehouse_2007.jpg",
+  Young_Prince: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Prince_from_Under_the_Cherry_Moon%2C_1986.png",
+  Young_Rupert_Grint: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rupert_Grint_%28cropped%29.JPG",
+  Young_Ellen_DeGeneres: "https://upload.wikimedia.org/wikipedia/commons/8/83/Ellen_DeGeneres_at_Emmys.jpg",
 };
 
 function parseWhoAmIEntries(source) {
@@ -42,7 +90,7 @@ function parseWhoAmIEntries(source) {
   let currentCategory = null;
 
   for (const line of lines) {
-    const categoryMatch = line.match(/^\s*((?:who|logo)_[a-z_]+):\{.*isWhoAmI:true/);
+    const categoryMatch = line.match(/^\s*((?:who|logo|guess)_[a-z_]+):\{.*isWhoAmI:true/);
     if (categoryMatch) {
       currentCategory = categoryMatch[1];
       continue;
@@ -73,7 +121,7 @@ function parseWhoAmIEntries(source) {
 function collectExpandedWhoAmIEntries(expansions) {
   const entries = [];
   for (const [category, categoryBank] of Object.entries(expansions)) {
-    if (!category.startsWith("who_") && !category.startsWith("logo_")) continue;
+    if (!category.startsWith("who_") && !category.startsWith("logo_") && !category.startsWith("guess_")) continue;
     for (const tier of [200, 400, 600]) {
       for (const entry of categoryBank?.[tier] || []) {
         if (!entry?.wiki) continue;
@@ -276,6 +324,8 @@ const entries = [
       ...collectExpandedWhoAmIEntries(NEW_CATEGORIES_PACK_2),
       ...collectExpandedWhoAmIEntries(LOGO_CATEGORIES_BANK),
       ...collectExpandedWhoAmIEntries(MORE_TRIVIA_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(MEGA_NEW_EXPANSIONS),
+      ...collectExpandedWhoAmIEntries(QUALITY_BACKFILL),
     ].map((entry) => [entry.wiki, entry]),
   ).values(),
 ];

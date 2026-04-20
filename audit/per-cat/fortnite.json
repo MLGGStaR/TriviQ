@@ -1,0 +1,573 @@
+{
+  "200": [
+    {
+      "q": "What tool do players use to harvest materials?",
+      "a": "A pickaxe",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What item restores shield in blue liquid form?",
+      "a": "Shield Potion",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "How many players are in a standard Fortnite match?",
+      "a": "100",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What happens when the storm closes in?",
+      "a": "Players take damage",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the rarest weapon color in Fortnite?",
+      "a": "Gold (Legendary)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What vehicle was first added for traversal?",
+      "a": "Shopping Cart",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What dance is the most iconic Fortnite emote?",
+      "a": "Default Dance",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What material is weakest for building?",
+      "a": "Wood",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What do you drop from at the start of a match?",
+      "a": "Battle Bus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is V-Bucks?",
+      "a": "Fortnite's in-game currency",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Victory Royale?",
+      "a": "Winning a match (last player/team standing)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What weapon is the sniper rifle with the most damage?",
+      "a": "Heavy Sniper",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Tilted Towers?",
+      "a": "A popular POI (Point of Interest)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What can you find in treasure chests?",
+      "a": "Weapons, ammo, and items",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who develops Fortnite?",
+      "a": "Epic Games",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Fortnite's last-player-standing mode called?",
+      "a": "Battle Royale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What vehicle do players jump from at the start of a match?",
+      "a": "The Battle Bus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the shrinking deadly zone called?",
+      "a": "The Storm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What tool do you use to harvest materials?",
+      "a": "A pickaxe (harvesting tool)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What currency is used to buy many cosmetics and passes?",
+      "a": "V-Bucks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What phrase appears when you win a match?",
+      "a": "Victory Royale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What mode removes building and adds Overshield?",
+      "a": "Zero Build",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What van can bring eliminated teammates back?",
+      "a": "A Reboot Van",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What animal-shaped supply container is iconic in Fortnite?",
+      "a": "A Loot Llama",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the three main building materials?",
+      "a": "Wood, stone (brick), and metal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does POI stand for?",
+      "a": "Point of Interest",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What mode lets players build their own islands and game types?",
+      "a": "Creative",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Fortnite's original PvE mode called?",
+      "a": "Save the World",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What color is Legendary rarity loot?",
+      "a": "Gold",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What color is Uncommon rarity loot?",
+      "a": "Green",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What big blue bottle restores shield?",
+      "a": "A Shield Potion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What simple white healing item restores health over time?",
+      "a": "Bandages",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the zombie-like enemies in Save the World called?",
+      "a": "Husks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the popular nickname of the default blond male character?",
+      "a": "Jonesy",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What editor did Epic release for advanced creators?",
+      "a": "Unreal Editor for Fortnite",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What in-game currency buys skins?",
+      "a": "V-Bucks",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What editor lets creators build custom islands?",
+      "a": "UEFN",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What season introduced the first battle pass?",
+      "a": "Season 2",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the cube that appeared in Season 5?",
+      "a": "Kevin the Cube",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What collaboration brought Thanos to Fortnite?",
+      "a": "Marvel / Avengers: Infinity War",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mythic weapon came from Midas?",
+      "a": "Midas' Drum Gun",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the IO in Fortnite's lore?",
+      "a": "Imagined Order",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Zero Point?",
+      "a": "A reality-warping energy source at the center of the island",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What rapper held a virtual concert in Fortnite?",
+      "a": "Travis Scott",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the Chapter 2 Season 2 spy base POI?",
+      "a": "The Agency",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Reboot Card used for?",
+      "a": "Reviving eliminated teammates",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What Season added the first vehicles that could be driven?",
+      "a": "Chapter 2 Season 3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the main character in Fortnite's story?",
+      "a": "Jonesy (Agent Jones)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What item lets you become invisible briefly?",
+      "a": "Shadow Stone (or Shadow Bomb)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the max shield you can have?",
+      "a": "200 (100 health + 100 shield)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What item gives 50 shield?",
+      "a": "Small Shield Potion (25) — Big Shield gives 50",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Creative mode?",
+      "a": "A sandbox mode where players build custom maps",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What mode was Fortnite first released as before Battle Royale exploded in popularity?",
+      "a": "Save the World",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the maximum normal combined total of health and shield?",
+      "a": "200",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does cracked mean in Fortnite slang?",
+      "a": "An enemy's shield has been broken",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does hitting a harvesting weak point do?",
+      "a": "It deals bonus damage and gathers materials more efficiently",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Launch Pad mainly used for?",
+      "a": "To send players into the air for fast movement and gliding",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Victory Crown?",
+      "a": "A crown won by recent winners that can be carried into the next match",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What must you pick up to reboot an eliminated teammate?",
+      "a": "Their Reboot Card",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens if a teammate's Reboot Card expires?",
+      "a": "They can no longer be rebooted",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does third partying mean?",
+      "a": "Attacking players who are already fighting each other",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does rotating mean in Fortnite?",
+      "a": "Moving and repositioning toward the next safe zone or stronger position",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which building material has the highest durability?",
+      "a": "Metal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Overshield do in Zero Build?",
+      "a": "It gives players extra regenerating protection",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Battle Pass?",
+      "a": "A seasonal progression track filled with unlockable rewards",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are NPCs in Fortnite?",
+      "a": "Non-player characters that can sell items, give quests, or interact with players",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does UEFN stand for?",
+      "a": "Unreal Editor for Fortnite",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does editing a build piece allow you to do?",
+      "a": "Change its shape or openings for movement, defense, or shots",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What advantage does high ground usually give?",
+      "a": "Better angles and vertical control in fights",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is siphon in Fortnite?",
+      "a": "Health or shield gained after getting an elimination in certain modes or rulesets",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does boxed up mean?",
+      "a": "A player is enclosed inside structures for protection",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a hot drop?",
+      "a": "Landing immediately at a crowded, contested location",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What annual top competition crowns elite teams and players?",
+      "a": "FNCS",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What music-focused rhythm mode launched inside Fortnite?",
+      "a": "Fortnite Festival",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What LEGO survival mode was added inside Fortnite?",
+      "a": "LEGO Fortnite",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What machine revives teammates using their cards?",
+      "a": "Reboot Van",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the name of Fortnite's victory banner?",
+      "a": "Victory Royale",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What healing item is often nicknamed a big pot?",
+      "a": "Shield Potion",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What purple movement weapon was tied to Mega City?",
+      "a": "Kinetic Blade",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What year did Fortnite Battle Royale launch?",
+      "a": "2017",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was the black hole event?",
+      "a": "End of Chapter 1 — the entire game went offline",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What music artist's skins have appeared most in Fortnite?",
+      "a": "Marshmello / Travis Scott / Eminem",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What game engine does Fortnite run on?",
+      "a": "Unreal Engine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What was Fortnite's original mode before BR?",
+      "a": "Save the World (PvE)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is UEFN?",
+      "a": "Unreal Editor for Fortnite (custom content tool)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a Mythic Goldfish?",
+      "a": "The rarest item — a throwable that eliminates instantly",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What season introduced the first live in-game event?",
+      "a": "Season 4 (rocket launch)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many chapters has Fortnite had (as of 2024)?",
+      "a": "5",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the OG Season that brought back the old map?",
+      "a": "Chapter 4 Season OG",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What weapon was vaulted the most times?",
+      "a": "Drum Gun",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What competitive format does Fortnite use for tournaments?",
+      "a": "Arena / FNCS",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the highest arena rank?",
+      "a": "Champion",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What crossover introduced lightsabers to Fortnite?",
+      "a": "Star Wars",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Zero Point in Fortnite lore?",
+      "a": "A powerful reality-warping energy nexus tied to the island and the multiverse",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Agent Jones?",
+      "a": "An Imagined Order agent, often called Jones, who became central to the island's reality storyline",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What organization secretly controlled the island for years?",
+      "a": "The Imagined Order",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are The Seven?",
+      "a": "A group opposing the Imagined Order and trying to break the Loop",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Loop in Fortnite lore?",
+      "a": "A repeating, memory-wiping cycle that traps contestants on the island",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What event connected Chapter 1 and Chapter 2?",
+      "a": "The Black Hole event (The End)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does piece control mean?",
+      "a": "Claiming the builds around an opponent to limit their movement and options",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is tarping in competitive Fortnite?",
+      "a": "Building protective tunnels to rotate safely through crowded zones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is box fighting?",
+      "a": "Close-range fighting centered around small structures, edits, and tight peeks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Storm Surge?",
+      "a": "A competitive mechanic that damages players if lobbies are too stacked and teams have dealt too little damage",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a right-hand peek?",
+      "a": "Using an angle that exposes less of your body because of camera positioning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does deadside mean during a rotation?",
+      "a": "The quieter side of zone with fewer opponents nearby",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a full box?",
+      "a": "Completely surrounding a player with your own structures",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does taking height mean?",
+      "a": "Winning vertical control over an opponent in a fight",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Why are edit resets important?",
+      "a": "They let you close your build back up after opening it for a shot or peek",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a refresh in late-game Fortnite?",
+      "a": "An elimination or pickup that gives you extra mats, heals, or loot to keep surviving",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does phasing through builds mean?",
+      "a": "Moving through structures due to momentum, timing, or collision quirks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does tunneling mean in endgame?",
+      "a": "Chaining protective builds together while moving through zone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Why is mats management so important in build modes?",
+      "a": "Running out of materials removes your main defense and mobility tool",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a surge tag?",
+      "a": "Damage dealt mainly to help stay above Storm Surge thresholds",
+      "file": "App.jsx"
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "200": [
+    {
+      "q": "What process lets plants lose water through their leaves?",
+      "a": "Transpiration",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the hardest part of the human tooth?",
+      "a": "Enamel",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What gas makes up most of Earth's atmosphere?",
+      "a": "Nitrogen",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many colors are in a rainbow?",
+      "a": "7",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is H2O commonly known as?",
+      "a": "Water",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What part of the body pumps blood?",
+      "a": "Heart",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the chemical formula for table salt?",
+      "a": "NaCl",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the hottest planet in our solar system?",
+      "a": "Venus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What type of animal is a frog?",
+      "a": "Amphibian",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What organ is protected by the skull?",
+      "a": "Brain",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the center of an atom called?",
+      "a": "Nucleus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What vitamin do oranges provide?",
+      "a": "Vitamin C",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the study of stars called?",
+      "a": "Astronomy",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Gas humans need to breathe?",
+      "a": "Oxygen",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What planet is known as the Red Planet?",
+      "a": "Mars",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Gas plants absorb during photosynthesis?",
+      "a": "Carbon dioxide (CO₂)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many chambers does the human heart have?",
+      "a": "4",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Powerhouse of the cell?",
+      "a": "Mitochondria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest planet in our solar system?",
+      "a": "Jupiter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Force that keeps us on the ground?",
+      "a": "Gravity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many chromosomes do humans normally have?",
+      "a": "46",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does DNA stand for?",
+      "a": "Deoxyribonucleic Acid",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for gold?",
+      "a": "Au",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What organ filters blood?",
+      "a": "Kidneys",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Boiling point of water in Fahrenheit?",
+      "a": "212°F",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Study of living organisms?",
+      "a": "Biology",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for oxygen?",
+      "a": "O",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Hardest natural substance?",
+      "a": "Diamond",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many bones in the human hand?",
+      "a": "27",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest organ in the human body?",
+      "a": "Skin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What causes thunder?",
+      "a": "Rapid expansion of air heated by lightning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical formula for table salt?",
+      "a": "NaCl (sodium chloride)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Gas making up most of the air we breathe?",
+      "a": "Nitrogen (78%)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Unit of measuring electrical current?",
+      "a": "Ampere (amp)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Center of an atom?",
+      "a": "The nucleus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a herbivore?",
+      "a": "An animal that only eats plants",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for carbon?",
+      "a": "C",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Water turning into steam?",
+      "a": "Evaporation (or vaporisation)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is photosynthesis?",
+      "a": "Process by which plants convert sunlight, CO₂ and water into glucose and oxygen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many planets in our solar system?",
+      "a": "8",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a black hole?",
+      "a": "A region of spacetime with gravity so strong nothing — not even light — can escape",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the function of red blood cells?",
+      "a": "Carrying oxygen from the lungs to the rest of the body",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the three states of matter?",
+      "a": "Solid, liquid, and gas (plasma is the fourth)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a neutron?",
+      "a": "A subatomic particle in the nucleus with no electric charge",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the basic unit of heredity?",
+      "a": "A gene",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What device measures earthquakes?",
+      "a": "A seismograph",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What blood cells help your blood clot?",
+      "a": "Platelets",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What cell structure contains chlorophyll?",
+      "a": "Chloroplast",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What acid is found in the stomach?",
+      "a": "Hydrochloric acid",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What scale is commonly used to rate tornado strength?",
+      "a": "The Enhanced Fujita scale",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What part of the atom has a positive charge?",
+      "a": "Proton",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the pH of pure water?",
+      "a": "7",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What particle has a negative charge?",
+      "a": "Electron",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Newton's first law also known as?",
+      "a": "Law of Inertia",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What gas do humans exhale?",
+      "a": "Carbon dioxide",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How long does light from the Sun take to reach Earth?",
+      "a": "About 8 minutes",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the chemical symbol for sodium?",
+      "a": "Na",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the hardest mineral on the Mohs scale?",
+      "a": "Diamond (10)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What type of rock is formed by cooling lava?",
+      "a": "Ignite (volcanic/igneous) rock",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the process of water turning to vapor?",
+      "a": "Evaporation",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What metal is the best conductor of electricity?",
+      "a": "Silver",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most abundant element in the universe?",
+      "a": "Hydrogen",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the galaxy we live in?",
+      "a": "Milky Way",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What organ filters blood in the human body?",
+      "a": "Kidney",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What scientist proposed the three laws of motion?",
+      "a": "Isaac Newton",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Atomic number of carbon?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Planet with the most moons?",
+      "a": "Saturn (146 confirmed)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What type of wave is light?",
+      "a": "Electromagnetic wave",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most common blood type?",
+      "a": "O positive (O+)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Unit of electric resistance?",
+      "a": "Ohm (Î©)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who developed general relativity?",
+      "a": "Albert Einstein",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for sodium?",
+      "a": "Na (from Latin Natrium)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Newton's Third Law?",
+      "a": "For every action there is an equal and opposite reaction",
+      "file": "App.jsx"
+    },
+    {
+      "q": "pH of pure water?",
+      "a": "7 (neutral)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Absolute zero in Celsius?",
+      "a": "−273.15°C",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Atmosphere layer closest to Earth?",
+      "a": "Troposphere",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does E=mc² mean?",
+      "a": "Energy equals mass times the speed of light squared — mass and energy are equivalent",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Doppler Effect?",
+      "a": "Change in frequency of a wave for an observer moving relative to its source",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Function of the liver?",
+      "a": "Filtering toxins, producing bile, metabolizing nutrients — over 500 functions",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Difference between virus and bacterium?",
+      "a": "Bacteria are living organisms; viruses are not — they need a host cell to replicate",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is CRISPR-Cas9?",
+      "a": "Gene-editing technology that can precisely cut and modify DNA sequences",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Function of white blood cells?",
+      "a": "Fight infection and disease as part of the immune system",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is nuclear fission?",
+      "a": "Splitting of a heavy atomic nucleus into smaller ones, releasing enormous energy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Goldilocks Zone?",
+      "a": "The habitable zone around a star where liquid water can exist on a planet's surface",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the carbon cycle?",
+      "a": "Process by which carbon moves through Earth's systems — atmosphere, oceans, land, and organisms",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the electromagnetic spectrum?",
+      "a": "The range of all electromagnetic radiation — from radio waves to gamma rays including visible light",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a supernova?",
+      "a": "An enormous stellar explosion when a massive star exhausts its fuel and collapses",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the continental drift theory?",
+      "a": "Continents were once joined as Pangaea and slowly moved apart over millions of years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Newton's First Law?",
+      "a": "An object at rest stays at rest; an object in motion stays in motion unless acted on by an external force",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is bioluminescence?",
+      "a": "Production and emission of light by a living organism through chemical reactions",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is epigenetics?",
+      "a": "Study of heritable changes in gene expression that don't involve changes to the DNA sequence",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the wave-particle duality?",
+      "a": "Every particle has wave properties and every wave has particle properties",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a neutron star?",
+      "a": "An incredibly dense stellar remnant — a teaspoon would weigh billions of tonnes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is CERN?",
+      "a": "European Organization for Nuclear Research — home of the Large Hadron Collider in Geneva",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the immune system's role?",
+      "a": "Protect the body against pathogens through a network of cells and proteins",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What law links gas pressure and volume inversely?",
+      "a": "Boyle's law",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the SI unit of frequency?",
+      "a": "Hertz",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What branch of science studies the atmosphere and weather?",
+      "a": "Meteorology",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the study of fossils called?",
+      "a": "Paleontology",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What force opposes motion between surfaces?",
+      "a": "Friction",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What blood cells help clotting?",
+      "a": "Platelets",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What part of the brain controls balance?",
+      "a": "Cerebellum",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the SI unit of power?",
+      "a": "Watt",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What gas do red blood cells carry away from the body?",
+      "a": "Carbon dioxide",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What organelle contains a cell's genetic material?",
+      "a": "Nucleus",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What branch of biology studies insects?",
+      "a": "Entomology",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What process turns liquid into gas?",
+      "a": "Evaporation",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the common name for sodium bicarbonate?",
+      "a": "Baking soda",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Schrödinger's cat used to illustrate?",
+      "a": "Quantum superposition",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the speed of sound in air at sea level?",
+      "a": "343 m/s (about 767 mph)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What force holds the nucleus of an atom together?",
+      "a": "Strong nuclear force",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Chandrasekhar limit?",
+      "a": "1.4 solar masses (max mass for a white dwarf)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Heisenberg Uncertainty Principle?",
+      "a": "You cannot simultaneously know exact position and momentum of a particle",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Doppler effect?",
+      "a": "Change in frequency of waves relative to a moving observer",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Krebs cycle?",
+      "a": "A series of chemical reactions in cellular respiration",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Avogadro's number?",
+      "a": "6.022 × 10²³",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does CRISPR stand for?",
+      "a": "Clustered Regularly Interspaced Short Palindromic Repeats",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the wave-particle duality?",
+      "a": "Light and matter exhibit both wave and particle properties",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is dark energy?",
+      "a": "A mysterious force causing the universe's accelerating expansion",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Oort Cloud?",
+      "a": "A theoretical shell of icy objects surrounding the solar system",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the difference between fission and fusion?",
+      "a": "Fission splits atoms; fusion combines them",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is entropy in thermodynamics?",
+      "a": "A measure of disorder in a system",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is quantum entanglement?",
+      "a": "A phenomenon where linked particles affect each other across distance",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What does the Heisenberg Uncertainty Principle state?",
+      "a": "You cannot simultaneously know the exact position and momentum of a particle",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Chandrasekhar limit?",
+      "a": "~1.4 solar masses — the maximum mass of a stable white dwarf",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is quantum tunnelling?",
+      "a": "Particles pass through energy barriers that classical physics says they cannot cross",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Standard Model in physics?",
+      "a": "Theory describing fundamental particles and forces except gravity",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is dark matter?",
+      "a": "Undetected matter (~27% of universe) that doesn't interact with light",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Schrödinger's Cat?",
+      "a": "A thought experiment showing quantum superposition — a cat is simultaneously alive and dead until observed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pauli Exclusion Principle?",
+      "a": "No two identical fermions can occupy the same quantum state simultaneously",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the theory of punctuated equilibrium?",
+      "a": "Evolution occurs in rapid bursts separated by long periods of stability",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the cosmological constant?",
+      "a": "Einstein's term added to his equations — now linked to dark energy driving expansion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Hubble constant?",
+      "a": "The rate at which the universe is expanding — approximately 70 km/s per megaparsec",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is nuclear fusion?",
+      "a": "Combining light atomic nuclei to release energy — the process powering stars",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Maxwell's demon?",
+      "a": "Thought experiment proposing a demon could violate thermodynamics by sorting molecules — information theory resolves it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is DNA's double helix?",
+      "a": "The spiral structure of DNA — discovered by Watson and Crick using Rosalind Franklin's X-ray data in 1953",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the photoelectric effect?",
+      "a": "Einstein's explanation that light comes in discrete packets (photons) — laid the foundation for quantum mechanics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Higgs boson?",
+      "a": "The particle that gives other particles mass — confirmed in 2012 at CERN",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the measurement problem in QM?",
+      "a": "Why quantum measurements produce definite outcomes when QM describes states as superpositions",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Bell's theorem?",
+      "a": "Proves no local hidden variable theory can reproduce all quantum mechanical predictions",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a quasar?",
+      "a": "An extremely luminous active galactic nucleus powered by a supermassive black hole",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Stern-Gerlach experiment?",
+      "a": "Proved particles have quantized angular momentum (spin) — key proof of quantum mechanics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Banach-Tarski paradox?",
+      "a": "A mathematical theorem that a sphere can be decomposed and reassembled into two identical spheres",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is entropy and the Second Law of Thermodynamics?",
+      "a": "Entropy (disorder) always increases in a closed system — the universe tends toward disorder",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Proxima Centauri b?",
+      "a": "A potentially habitable exoplanet orbiting Proxima Centauri — our nearest stellar neighbor",
+      "file": "App.jsx"
+    }
+  ]
+}

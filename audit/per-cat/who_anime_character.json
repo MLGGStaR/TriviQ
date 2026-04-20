@@ -1,0 +1,824 @@
+{
+  "200": [
+    {
+      "q": "I travel the world with Pikachu aiming to become a Pokemon Master",
+      "a": "Ash Ketchum",
+      "wiki": "Ash_Ketchum",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am a silver-haired half-demon with a giant sword searching for jewel shards",
+      "a": "Inuyasha",
+      "wiki": "Inuyasha_(character)",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I fight evil by moonlight and my civilian name is Usagi Tsukino",
+      "a": "Sailor Moon",
+      "wiki": "Sailor_Moon",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the red-coated gunman from Trigun with a giant bounty on my head",
+      "a": "Vash the Stampede",
+      "wiki": "Vash_the_Stampede",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the quiet blue-haired pilot of EVA Unit-00",
+      "a": "Rei Ayanami",
+      "wiki": "Rei_Ayanami",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the cybernetic major from Ghost in the Shell",
+      "a": "Motoko Kusanagi",
+      "wiki": "Motoko_Kusanagi",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "It's time to duel. I solve games and wield the Millennium Puzzle",
+      "a": "Yugi Muto",
+      "wiki": "Yugi_Muto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am Yugi's rich rival who loves Blue-Eyes White Dragon",
+      "a": "Seto Kaiba",
+      "wiki": "Seto_Kaiba",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the brilliant inventor and mother of Trunks in Dragon Ball",
+      "a": "Bulma",
+      "wiki": "Bulma",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the cigarette-loving Straw Hat cook in a black suit",
+      "a": "Sanji",
+      "wiki": "Sanji_(One_Piece)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the samurai parody hero with silver hair from Gintama",
+      "a": "Gintoki Sakata",
+      "wiki": "Gintoki_Sakata",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I was reincarnated as a slime and built my own nation",
+      "a": "Rimuru Tempest",
+      "wiki": "Rimuru_Tempest",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the laid-back bounty hunter from Cowboy Bebop",
+      "a": "Spike Spiegel",
+      "wiki": "Spike_Spiegel",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the fiery shrine maiden Sailor Scout with attack powers from Mars",
+      "a": "Sailor Mars",
+      "wiki": "Sailor_Mars",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I inherit One For All, study at U.A., and dream of becoming the greatest hero",
+      "a": "Izuku Midoriya",
+      "wiki": "Izuku_Midoriya",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm a telepathic little girl who loves peanuts and chaos",
+      "a": "Anya Forger",
+      "wiki": "Anya_Forger",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I sleep to unlock my power and scream constantly in Demon Slayer",
+      "a": "Zenitsu Agatsuma",
+      "wiki": "Zenitsu_Agatsuma",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Bulma",
+      "wiki": "Bulma",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Sanji",
+      "wiki": "Sanji_(One_Piece)",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Natsu Dragneel",
+      "wiki": "Natsu_Dragneel",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Yugi Muto",
+      "wiki": "Yugi_Muto",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Gohan",
+      "wiki": "Gohan",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Anya Forger",
+      "wiki": "Anya_Forger",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Izuku Midoriya",
+      "wiki": "Izuku_Midoriya",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Sailor Mars",
+      "wiki": "Sailor_Mars",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Asuka Langley Soryu",
+      "wiki": "Asuka_Langley_Soryu",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Goku",
+      "wiki": "Goku",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Nezuko Kamado",
+      "wiki": "Nezuko_Kamado",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Inosuke Hashibira",
+      "wiki": "Inosuke_Hashibira",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kurapika",
+      "wiki": "Kurapika",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Tony Tony Chopper",
+      "wiki": "Tony_Tony_Chopper",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Trafalgar Law",
+      "wiki": "Trafalgar_D._Water_Law",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Gaara",
+      "wiki": "Gaara",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Megumi Fushiguro",
+      "wiki": "Megumi_Fushiguro",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Nobara Kugisaki",
+      "wiki": "Nobara_Kugisaki",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "I defeated a monster in one punch and lost all my hair from training too hard - I'm a hero for fun",
+      "a": "Saitama",
+      "wiki": "Saitama_(One-Punch_Man)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a ninja who contains a nine-tailed fox, I eat ramen, and I want to be Hokage",
+      "a": "Naruto Uzumaki",
+      "wiki": "Naruto_Uzumaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a student who found a book that kills anyone whose name I write, and I call myself a god of justice",
+      "a": "Light Yagami",
+      "wiki": "Light_Yagami",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the Attack Titan, and my pursuit of freedom turns me into the world's greatest threat",
+      "a": "Eren Yeager",
+      "wiki": "Eren_Yeager",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm humanity's strongest soldier, I clean obsessively, and I never waste words",
+      "a": "Levi Ackerman",
+      "wiki": "Levi_Ackerman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a demon slayer with a checkered haori, and my sister became a demon",
+      "a": "Tanjiro Kamado",
+      "wiki": "Tanjiro_Kamado",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the proud prince of all Saiyans, and my rivalry with Goku defines my life",
+      "a": "Vegeta",
+      "wiki": "Vegeta_(Dragon_Ball)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I swallowed a cursed finger and became the vessel of the King of Curses",
+      "a": "Yuji Itadori",
+      "wiki": "Yuji_Itadori",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the Symbol of Peace, and I pass my power to a quirkless student",
+      "a": "All Might",
+      "wiki": "All_Might",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a pirate captain with a straw hat, a rubber body, and a dream of becoming Pirate King",
+      "a": "Monkey D. Luffy",
+      "wiki": "Monkey_D._Luffy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a substitute Soul Reaper with orange hair and a giant sword",
+      "a": "Ichigo Kurosaki",
+      "wiki": "Ichigo_Kurosaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an assassin from the Zoldyck family, and electricity is one of my favorite ways to fight",
+      "a": "Killua Zoldyck",
+      "wiki": "Killua_Zoldyck",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a young Hunter searching for my father while finding monsters far worse than him",
+      "a": "Gon Freecss",
+      "wiki": "Gon_Freecss",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the three-sword style master of the Straw Hats, and I aim to become the world's greatest swordsman",
+      "a": "Roronoa Zoro",
+      "wiki": "Roronoa_Zoro",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the navigator of the Straw Hats, and weather itself becomes my weapon",
+      "a": "Nami",
+      "wiki": "Nami_(One_Piece)",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "I am the scarred martial artist hero of Fist of the North Star",
+      "a": "Kenshiro",
+      "wiki": "Kenshiro",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the red-coated vampire from Hellsing serving Integra",
+      "a": "Alucard",
+      "wiki": "Alucard_(Hellsing)",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the spirit detective with a Spirit Gun in Yu Yu Hakusho",
+      "a": "Yusuke Urameshi",
+      "wiki": "Yusuke_Urameshi",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I pilot Eva Unit-01 and spend much of my story trying not to run away",
+      "a": "Shinji Ikari",
+      "wiki": "Shinji_Ikari",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I capture Clow Cards, skate through battles, and everyone knows me as Cardcaptor Sakura",
+      "a": "Sakura Kinomoto",
+      "wiki": "Sakura_Kinomoto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I switch between martial arts chaos and cursed transformations in a Chinese training spring storyline",
+      "a": "Ranma Saotome",
+      "wiki": "Ranma_Saotome",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I wield Excalibur as the iconic servant of Fate/stay night",
+      "a": "Saber",
+      "wiki": "Saber_(Fate)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I'm a white-haired sorcerer with Six Eyes and overwhelming confidence",
+      "a": "Satoru Gojo",
+      "wiki": "Satoru_Gojo",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm a deadly assassin-mother in Spy x Family, balancing family life with secret missions",
+      "a": "Yor Forger",
+      "wiki": "Yor_Forger",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the fire-and-ice student from My Hero Academia",
+      "a": "Shoto Todoroki",
+      "wiki": "Shoto_Todoroki",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I am the Chimera Ant king who learned humanity through a board game and a blind girl",
+      "a": "Meruem",
+      "wiki": "Meruem",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I destroyed Konoha to teach the world pain and believed suffering was the path to peace",
+      "a": "Pain (Nagato)",
+      "wiki": "Nagato_(Naruto)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am a god of destruction who sleeps often, eats well, and can erase planets casually",
+      "a": "Beerus",
+      "wiki": "Beerus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am Goku's eldest son, and my hidden potential makes me terrifying when fully unleashed",
+      "a": "Gohan",
+      "wiki": "Gohan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the Flame Hashira whose final stand aboard the Mugen Train broke everyone's heart",
+      "a": "Kyojuro Rengoku",
+      "wiki": "Kyojuro_Rengoku",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the strongest jujutsu sorcerer alive, and my blindfold hides the Six Eyes",
+      "a": "Satoru Gojo",
+      "wiki": "Satoru_Gojo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a wandering swordsman of the Meiji era who vowed never to kill again",
+      "a": "Kenshin Himura",
+      "wiki": "Kenshin_Himura",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the King of Curses, and even inside another body I dominate every room I enter",
+      "a": "Ryomen Sukuna",
+      "wiki": "Ryomen_Sukuna",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am Zero, the exiled prince who gains a power that can command anyone once",
+      "a": "Lelouch vi Britannia",
+      "wiki": "Lelouch_vi_Britannia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am a bio-engineered monster made from the cells of the strongest fighters in Dragon Ball",
+      "a": "Cell",
+      "wiki": "Cell_(Dragon_Ball)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the gentleman hero of JoJo Part 1, and my battle style channels sunlight through breathing",
+      "a": "Jonathan Joestar",
+      "wiki": "Jonathan_Joestar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I lost limbs, armor, and my childhood body because of alchemy, and I search for the Philosopher's Stone",
+      "a": "Edward Elric",
+      "wiki": "Edward_Elric",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I copy a thousand jutsu, hide one Sharingan under my headband, and read romance novels constantly",
+      "a": "Kakashi Hatake",
+      "wiki": "Kakashi_Hatake",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wear a long coat, a cap fused to my hair, and my Stand can stop time",
+      "a": "Jotaro Kujo",
+      "wiki": "Jotaro_Kujo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the bloodthirsty devil hunter who loves chaos, cats, and causing exactly the wrong kind of trouble",
+      "a": "Power",
+      "wiki": "Power_(Chainsaw_Man)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the Survey Corps commander who trades everything for humanity's freedom",
+      "a": "Erwin Smith",
+      "wiki": "Erwin_Smith",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a gentle giant titan shifter who helps restore walls",
+      "a": "Reiner Braun",
+      "wiki": "Reiner_Braun",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I summon my Stand 'The World' to freeze time",
+      "a": "Dio Brando",
+      "wiki": "Dio_Brando",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the world's strongest man and Captain of the Night Raid",
+      "a": "Akame",
+      "wiki": "Akame_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the pink-haired fire dragon slayer from Fairy Tail",
+      "a": "Natsu Dragneel",
+      "wiki": "Natsu_Dragneel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a transfer student who becomes an S-class mage at Fairy Tail",
+      "a": "Lucy Heartfilia",
+      "wiki": "Lucy_Heartfilia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the ice-breath alchemist of Fullmetal Alchemist",
+      "a": "Roy Mustang",
+      "wiki": "Roy_Mustang",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the gentle giant samurai with a scarred cheek from Rurouni Kenshin",
+      "a": "Sanosuke Sagara",
+      "wiki": "Sanosuke_Sagara",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "I am the fire dragon slayer from Fairy Tail",
+      "a": "Natsu Dragneel",
+      "wiki": "Natsu_Dragneel",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the laid-back bounty hunter from Cowboy Bebop with amazing hair and even better aim",
+      "a": "Spike Spiegel",
+      "wiki": "Spike_Spiegel",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the fiery EVA pilot often called the Second Child",
+      "a": "Asuka Langley Soryu",
+      "wiki": "Asuka_Langley_Soryu",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I'm the smiling monster behind countless tragedies in Monster",
+      "a": "Johan Liebert",
+      "wiki": "Johan_Liebert",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the loud believer in Spiral Power from Gurren Lagann",
+      "a": "Kamina",
+      "wiki": "Kamina",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I endlessly rewind time for one friend in Madoka Magica",
+      "a": "Homura Akemi",
+      "wiki": "Homura_Akemi",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Shinji Ikari",
+      "wiki": "Shinji_Ikari",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Sailor Moon",
+      "wiki": "Sailor_Moon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Spike Spiegel",
+      "wiki": "Spike_Spiegel",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Vash the Stampede",
+      "wiki": "Vash_the_Stampede",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Motoko Kusanagi",
+      "wiki": "Motoko_Kusanagi",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Hisoka",
+      "wiki": "Hisoka",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Satoru Gojo",
+      "wiki": "Satoru_Gojo",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kenshiro",
+      "wiki": "Kenshiro",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Alucard",
+      "wiki": "Alucard_(Hellsing)",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Yusuke Urameshi",
+      "wiki": "Yusuke_Urameshi",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Rimuru Tempest",
+      "wiki": "Rimuru_Tempest",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Guts",
+      "wiki": "Guts_(Berserk)",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Griffith",
+      "wiki": "Griffith_(Berserk)",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Denji",
+      "wiki": "Denji_(Chainsaw_Man)",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Mikasa Ackerman",
+      "wiki": "Mikasa_Ackerman",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Rei Ayanami",
+      "wiki": "Rei_Ayanami",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Johan Liebert",
+      "wiki": "Johan_Liebert",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kamina",
+      "wiki": "Kamina",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Homura Akemi",
+      "wiki": "Homura_Akemi",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Sakura Kinomoto",
+      "wiki": "Sakura_Kinomoto",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ranma Saotome",
+      "wiki": "Ranma_Saotome",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Saber",
+      "wiki": "Saber_(Fate)",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Ken Kaneki",
+      "wiki": "Ken_Kaneki",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Thorfinn",
+      "wiki": "Thorfinn_(Vinland_Saga)",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Revy",
+      "wiki": "Revy_(Black_Lagoon)",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Baki Hanma",
+      "wiki": "Baki_Hanma",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Hiei",
+      "wiki": "Hiei",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Chrollo Lucilfer",
+      "wiki": "Chrollo_Lucilfer",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Yoko Littner",
+      "wiki": "Yoko_Littner",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Riza Hawkeye",
+      "wiki": "Riza_Hawkeye",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kaori Miyazono",
+      "wiki": "Kaori_Miyazono",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Olivier Mira Armstrong",
+      "wiki": "Olivier_Mira_Armstrong",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kallen Stadtfeld",
+      "wiki": "Kallen_Stadtfeld",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Kenpachi Zaraki",
+      "wiki": "Kenpachi_Zaraki",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Korosensei",
+      "wiki": "Korosensei",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Maka Albarn",
+      "wiki": "Maka_Albarn",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Guess from the image",
+      "a": "Asta",
+      "wiki": "Asta_(Black_Clover)",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "I am a legendary Pokemon said to have shaped the universe itself",
+      "a": "Arceus",
+      "wiki": "Arceus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I came from a cruel family, rejected my humanity, and became JoJo's most infamous vampire",
+      "a": "Dio Brando",
+      "wiki": "Dio_Brando",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I manipulated the entire shinobi world from the shadows and declared the Infinite Tsukuyomi",
+      "a": "Madara Uchiha",
+      "wiki": "Madara_Uchiha",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I betrayed Soul Society with perfect calm, and my zanpakuto turns perception itself into a trap",
+      "a": "Sosuke Aizen",
+      "wiki": "Sosuke_Aizen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I was once the White Hawk, and my ambition turned me into something monstrous",
+      "a": "Griffith",
+      "wiki": "Griffith_(Berserk)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I carry a massive sword, a branded destiny, and more trauma than almost any hero in manga",
+      "a": "Guts",
+      "wiki": "Guts_(Berserk)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I fuse with a chainsaw devil and chase the simplest dreams in the bloodiest possible world",
+      "a": "Denji",
+      "wiki": "Denji_(Chainsaw_Man)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am fiercely loyal to Eren, unmatched with ODM gear, and one of humanity's deadliest soldiers",
+      "a": "Mikasa Ackerman",
+      "wiki": "Mikasa_Ackerman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I sit crouched, eat sweets, and outthink nearly everyone in Death Note",
+      "a": "L",
+      "wiki": "L_(Death_Note)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I carry the curse of the Uchiha clan, seek power through revenge, and eventually fight beside Naruto again",
+      "a": "Sasuke Uchiha",
+      "wiki": "Sasuke_Uchiha",
+      "file": "App.jsx"
+    }
+  ]
+}

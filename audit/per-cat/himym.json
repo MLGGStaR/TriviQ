@@ -1,0 +1,498 @@
+{
+  "200": [
+    {
+      "q": "Who is the main narrator of the show?",
+      "a": "Ted Mosby",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Ted's best friend who loves suits?",
+      "a": "Barney Stinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Barney Stinson?",
+      "a": "Neil Patrick Harris",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marshall's wife's name?",
+      "a": "Lily",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the bar the gang hangs out at?",
+      "a": "MacLaren's",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Barney's catchphrase about something being awesome?",
+      "a": "Legendary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Ted's profession?",
+      "a": "Architect",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of Barney's published rulebook?",
+      "a": "The Bro Code",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Ted Mosby?",
+      "a": "Josh Radnor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Marshall?",
+      "a": "Jason Segel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Robin?",
+      "a": "Cobie Smulders",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Lily?",
+      "a": "Alyson Hannigan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Lily's profession?",
+      "a": "Kindergarten teacher",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marshall's last name?",
+      "a": "Eriksen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What state is Marshall from?",
+      "a": "Minnesota",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many seasons did How I Met Your Mother run?",
+      "a": "9",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Ted telling the story of meeting their mother to?",
+      "a": "His kids",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network aired How I Met Your Mother?",
+      "a": "CBS",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Barney say when he wants Ted to change clothes?",
+      "a": "Suit up",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the womanizer of the group?",
+      "a": "Barney Stinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of journalist is Robin?",
+      "a": "TV news anchor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Marshall's college a cappella group called?",
+      "a": "The Funky Bunch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Ted's last name?",
+      "a": "Mosby",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Lily's maiden name?",
+      "a": "Aldrin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Marshall call himself when bowling with the Fiero?",
+      "a": "Big Fudge",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is narrating the story to his kids?",
+      "a": "Future Ted Mosby",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What bar does the group always meet at?",
+      "a": "MacLaren's Pub",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the womanizing suit-lover?",
+      "a": "Barney Stinson",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Barney Stinson?",
+      "a": "Neil Patrick Harris",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who does Marshall marry?",
+      "a": "Lily Aldrin",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Ted looking for throughout the show?",
+      "a": "The Mother of his children",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What city is How I Met Your Mother set in?",
+      "a": "New York City",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "What was Robin's secret pop star past identity?",
+      "a": "Robin Sparkles",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Robin Sparkles' famous song?",
+      "a": "Let's Go to the Mall",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many kids do Marshall and Lily have by the show's end?",
+      "a": "3",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Marshall and Lily's first child?",
+      "a": "Marvin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marvin named after?",
+      "a": "Marshall's father (Marvin Eriksen)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What bank does Barney work at for most of the series?",
+      "a": "Goliath National Bank",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Ted's would-be pun-themed bar concept in season 8?",
+      "a": "Puzzles",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Ted's ex-fiancée from the pilot's name?",
+      "a": "Stella",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Stella?",
+      "a": "Sarah Chalke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the dermatologist Ted dates and almost marries?",
+      "a": "Stella Zinman",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marshall's father's name?",
+      "a": "Marvin Eriksen Sr.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Lily's high school boyfriend who keeps reappearing?",
+      "a": "Scooter",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Marshall's beloved car?",
+      "a": "The Fiero",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Barney's half-brother?",
+      "a": "James Stinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is revealed to be Barney's father?",
+      "a": "Jerome Whittaker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Robin's coworker and ex who works as a doctor in season 3 onwards?",
+      "a": "Don Frank",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Ted's pretentious college ex who reappears as his girlfriend in season 3?",
+      "a": "Laura Prepon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Marshall's law firm?",
+      "a": "Honeywell and Cootes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What footwear does Ted wear that the gang openly mocks?",
+      "a": "Red cowboy boots",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Marshall's rival lawyer (the one Ted dates)?",
+      "a": "Brad",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What field of law does Marshall really want to practice?",
+      "a": "Environmental law",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Ted's most famous catchphrase?",
+      "a": "True story",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Barney's favorite catch-phrase number game?",
+      "a": "Have you met Ted?",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Robin's strict father from season 6 onward?",
+      "a": "Ray Wise",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the strip club Barney frequents?",
+      "a": "The Lusty Leopard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What season is Barney's catchphrase 'suit up' first used?",
+      "a": "Season 1",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Lily's grandmother who appears in flashbacks?",
+      "a": "Lola",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Marshall's father, Marvin Sr.?",
+      "a": "Bill Fagerbakke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the wedding chapel Barney and Robin get married at?",
+      "a": "Farhampton Inn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What embarrassing teen pop persona did Robin have?",
+      "a": "Robin Sparkles",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the Mother's real name?",
+      "a": "Tracy McConnell",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What instrument does the Mother play?",
+      "a": "Bass guitar",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the name of the Mother?",
+      "a": "Tracy McConnell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the Mother?",
+      "a": "Cristin Milioti",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does the Mother play?",
+      "a": "Bass guitar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What yellow item does the Mother carry that Ted spots?",
+      "a": "A yellow umbrella",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many slaps did Marshall get to give Barney in the original slap bet?",
+      "a": "5",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the second Robin Sparkles song revealed?",
+      "a": "Sandcastles in the Sand",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who guest starred in 'Sandcastles in the Sand' as Robin's love interest?",
+      "a": "James Van Der Beek",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of Robin Sparkles' grunge alter ego revealed later?",
+      "a": "Robin Daggers",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Barney's mother?",
+      "a": "Loretta Stinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Barney's mother?",
+      "a": "Frances Conroy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What year does the show begin (in the framing story)?",
+      "a": "2030",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the eco-conscious lawyer Marshall idolizes and works for at Nicholson, Hewitt & West?",
+      "a": "Garrison Cootes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the show's creators?",
+      "a": "Carter Bays and Craig Thomas",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the opening theme song's band?",
+      "a": "The Solids",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marshall's nickname based on his last name?",
+      "a": "The Marshmallow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the play Lily directs in season 3?",
+      "a": "The Wedding Bride",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of the in-universe movie that mocks Ted?",
+      "a": "The Wedding Bride",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the Captain (Zoey's husband)?",
+      "a": "Kyle MacLachlan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Ted's main season 6 girlfriend (Zoey's friend)?",
+      "a": "Zoey Pierson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Zoey?",
+      "a": "Jennifer Morrison",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the building Ted designs and Zoey wants to save?",
+      "a": "The Arcadian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Marshall's father's restaurant?",
+      "a": "Big Fudge's",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the location Barney and Robin's wedding takes place?",
+      "a": "Farhampton Inn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Barney's father, Jerome Whittaker?",
+      "a": "John Lithgow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Ted's son?",
+      "a": "Luke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Ted's daughter?",
+      "a": "Penny",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How does the Mother die?",
+      "a": "Of an illness",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Ted do at the end of the series after the Mother's death?",
+      "a": "Pursues Robin again",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the show's spin-off?",
+      "a": "How I Met Your Father",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who stars in 'How I Met Your Father'?",
+      "a": "Hilary Duff",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who does Robin end up with in the finale?",
+      "a": "Ted",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What year does the show's narrator begin telling the story?",
+      "a": "2030",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Barney's slang book called?",
+      "a": "The Bro Code",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What hand-gesture game does Marshall constantly initiate?",
+      "a": "Slap Bet",
+      "file": "moreTriviaExpansions"
+    }
+  ]
+}

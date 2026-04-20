@@ -1,0 +1,493 @@
+{
+  "200": [
+    {
+      "q": "What department does Dexter work for?",
+      "a": "Miami Metro",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What does Dexter analyze at crime scenes?",
+      "a": "Blood spatter",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Dexter's sister's name?",
+      "a": "Debra Morgan",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What does Dexter analyze?",
+      "a": "Blood spatter",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Dexter's adoptive father's name?",
+      "a": "Harry Morgan",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Dexter call his urge to kill?",
+      "a": "The Dark Passenger",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Dexter's wife?",
+      "a": "Rita Bennett",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What name does the FBI give Dexter's murder case?",
+      "a": "The Bay Harbor Butcher",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What material covers Dexter's kill room?",
+      "a": "Plastic wrap",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the poisoner Dexter falls in love with?",
+      "a": "Hannah McKay",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the detective who always suspects Dexter?",
+      "a": "Doakes",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What serial killer dominates season 4?",
+      "a": "Arthur Mitchell / the Trinity Killer",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Dexter's lieutenant boss who later suspects him?",
+      "a": "LaGuerta",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Dexter's forensic co-worker and eventual rival detective called?",
+      "a": "Quinn",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Harry teach Dexter to follow?",
+      "a": "The Code",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Dexter's job?",
+      "a": "Blood spatter analyst",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Dexter's sister named?",
+      "a": "Debra Morgan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city does Dexter work in?",
+      "a": "Miami",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Dexter's surname?",
+      "a": "Morgan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Dexter's profession at Miami Metro?",
+      "a": "Blood spatter analyst",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Dexter's sister's first name?",
+      "a": "Debra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dexter Morgan?",
+      "a": "A blood spatter analyst for Miami Metro Police who is secretly a serial killer — he only kills killers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Dark Passenger?",
+      "a": "Dexter's term for his compulsion to kill",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Dexter's sister?",
+      "a": "Debra Morgan — a foul-mouthed but dedicated detective",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Ice Truck Killer?",
+      "a": "Brian Moser — revealed to be Dexter's biological brother",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What city is Dexter set in?",
+      "a": "Miami, Florida",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Harry Morgan?",
+      "a": "Dexter's adoptive father who taught him the Code — a set of rules for killing only killers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Code of Harry?",
+      "a": "Only kill people who deserve it and who have slipped through the justice system — and never get caught",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Trinity Killer?",
+      "a": "Arthur Mitchell — a family man who is secretly a meticulous serial killer — played by John Lithgow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Dexter marry?",
+      "a": "Rita Bennett — a sweet, fragile woman who is murdered by the Trinity Killer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Dexter Morgan?",
+      "a": "Michael C. Hall",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What serial killer is responsible for Rita's death?",
+      "a": "The Trinity Killer",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What name does the FBI give Dexter's dumping-ground case?",
+      "a": "The Bay Harbor Butcher",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Dexter's biological brother?",
+      "a": "Brian Moser",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What are Rita's two children named?",
+      "a": "Astor and Cody",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Batista's first name?",
+      "a": "Angel",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What job does Dexter take after faking his death in the original finale?",
+      "a": "Lumberjack",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the truck stop serial killer in New Blood?",
+      "a": "Kurt Caldwell",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Harrison's mother's name?",
+      "a": "Rita",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Dexter keep from his victims as trophies?",
+      "a": "Blood slides",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Dexter's son's name?",
+      "a": "Harrison",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What killer nickname belongs to Dexter's brother Brian?",
+      "a": "The Ice Truck Killer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Dexter's sister's name?",
+      "a": "Debra",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the name of Dexter's adoptive father?",
+      "a": "Harry",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the nickname of Dexter's serial killer identity's urge?",
+      "a": "Dark Passenger",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Rita's last name before marrying Dexter?",
+      "a": "Bennett",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What job does Debra eventually rise to hold?",
+      "a": "Lieutenant",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Trinity Killer's real surname?",
+      "a": "Mitchell",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Dexter's surname?",
+      "a": "Morgan",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Rita's first husband's name?",
+      "a": "Paul",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Dexter's stepdaughter called?",
+      "a": "Astor",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the villain in season 4 nicknamed?",
+      "a": "Trinity Killer",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Dexter's boat called?",
+      "a": "Slice of Life",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What is the significance of Dexter's kill room?",
+      "a": "He wraps victims in plastic wrap on a kill table, forces them to confront their crimes, then kills and disposes of them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lumen Pierce?",
+      "a": "A trauma survivor who becomes Dexter's partner in killing her abusers — Season 5",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is LaGuerta's arc?",
+      "a": "She becomes suspicious that Dexter is the Bay Harbour Butcher — she is killed by Debra to protect him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Doomsday Killer?",
+      "a": "Professor James Gellar and Travis Marshall — religious fanatics recreating apocalyptic tableaus — Season 6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Debra-Dexter dynamic in later seasons?",
+      "a": "Debra discovers Dexter is a serial killer — she chooses to protect him, which destroys her morally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rudy Cooper?",
+      "a": "Brian Moser — the Ice Truck Killer — Dexter's biological brother whom Dexter ultimately kills",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Season 4 ending?",
+      "a": "Trinity kills Rita — Dexter finds Harrison in a pool of blood, mirroring his own childhood trauma",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Detective Quinn?",
+      "a": "A morally flexible detective who becomes suspicious of Dexter but is never able to prove anything",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dexter: New Blood?",
+      "a": "A 2021 revival set in a small New York town where Dexter has been hiding as Jim Lindsay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Doakes?",
+      "a": "Sergeant Doakes always suspected Dexter — he is framed as the Bay Harbour Butcher and killed",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What alias does Dexter use in New Blood?",
+      "a": "Jim Lindsay",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who ultimately kills Dexter in New Blood?",
+      "a": "Harrison",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Dexter's compulsion to kill called by him?",
+      "a": "The Dark Passenger",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the Trinity Killer's real name?",
+      "a": "Arthur Mitchell",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Miguel's last name?",
+      "a": "Prado",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Harrison's last name?",
+      "a": "Morgan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the Ice Truck Killer's real name?",
+      "a": "Brian Moser",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What blood analyst tries to expose Dexter in season 2?",
+      "a": "James Doakes",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Dexter's mother's first name?",
+      "a": "Laura",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What code guides Dexter's kills?",
+      "a": "Harry's Code",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is the name of Dexter's first major mentor target in season 3?",
+      "a": "Miguel Prado",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the Ice Truck Killer's relationship to Dexter?",
+      "a": "Brother",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What killer is nicknamed the Bay Harbor Butcher?",
+      "a": "Dexter Morgan",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What woman poisons Dexter's life in season 5 with Jordan Chase's group?",
+      "a": "Lumen Pierce",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What serial killer targets women in season 3's side arc?",
+      "a": "Skinner",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What killer nicknames himself with prophecy in season 6?",
+      "a": "Doomsday Killer",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Dexter's brother's surname at birth?",
+      "a": "Moser",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Arthur Mitchell's nickname?",
+      "a": "Trinity Killer",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What survivor does Dexter help after Jordan Chase's group?",
+      "a": "Lumen",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What season 8 neuropsychiatrist knows Dexter's past?",
+      "a": "Vogel",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What box does Dexter store his blood slides in?",
+      "a": "Wooden box",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Masuka's first name?",
+      "a": "Vince",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the vigilante label for Dexter in season 2?",
+      "a": "Bay Harbor Butcher",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What killer is Brian Moser better known as?",
+      "a": "Ice Truck Killer",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the psychological complexity of the Code?",
+      "a": "Dexter channels his psychopathic urges into a moral framework — but the show questions whether this makes him heroic or just a more selective monster",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the final fate of Dexter in the original series?",
+      "a": "He fakes his death and becomes a lumberjack in Oregon — one of TV's most controversial finales",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Harrison in New Blood?",
+      "a": "Dexter's son inherited the Dark Passenger — forcing Dexter to confront what he has passed on",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who kills Dexter in New Blood?",
+      "a": "Harrison — his own son shoots him after Dexter kills Kurt Caldwell and confesses everything",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Bay Harbour Butcher case?",
+      "a": "The FBI investigation into a series of dumped bodies in the bay — they are Dexter's victims",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the deeper parallel between Dexter and Harry?",
+      "a": "Harry trained Dexter to be a weapon against evil — but Harry killed himself when he saw what he had created",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the plastic wrap and kill table?",
+      "a": "It is a ritual — precise, controlled, and intimate. It allows Dexter to feel connected to his victims",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Hannah McKay?",
+      "a": "A poisoner Dexter falls in love with in Season 7 — she flees with Harrison in the finale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the theme of the show's title sequence?",
+      "a": "Dexter's morning routine — shaving, cooking eggs, tying shoelaces — all filmed to look like murder preparation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Showtime revival's critical reception?",
+      "a": "Dexter: New Blood was praised as a redemption after the original finale — Harrison's killing of Dexter was seen as fitting",
+      "file": "App.jsx"
+    }
+  ]
+}

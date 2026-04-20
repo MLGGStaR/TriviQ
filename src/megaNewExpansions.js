@@ -9,7 +9,7 @@ const MEGA_NEW_EXPANSIONS = {
       ["What is the freezing point of water in Fahrenheit?","32°F"],
       ["What shape has 8 sides?","Octagon"],
       ["What is the closest star to Earth?","The Sun"],
-      ["What is the largest desert on Earth?","Sahara (or Antarctic)"],
+      ["What is the largest desert on Earth?","Antarctica"],
       ["What metal is liquid at room temperature?","Mercury"],
       ["What is the speed of light roughly in km/s?","300,000 km/s"],
     ]),

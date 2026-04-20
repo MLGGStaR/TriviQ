@@ -1,0 +1,458 @@
+{
+  "200": [
+    {
+      "q": "Portuguese forward. 5x Ballon d'Or winner. Famous Siuuu celebration. Currently plays for Al-Nassr.",
+      "a": "Cristiano Ronaldo",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine forward. 8x Ballon d'Or winner. Left-footed dribbler. Lifted the 2022 World Cup.",
+      "a": "Lionel Messi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Brazilian forward. Spent time at Barcelona and PSG. Dazzling skill moves. Wears 10 for his country.",
+      "a": "Neymar",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French forward. Won the World Cup at age 19. Plays for Real Madrid. Explosive sprinting speed.",
+      "a": "Kylian Mbappé",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Norwegian striker. Shattered Premier League goal records. Son of a former Leeds defender. Plays for Manchester City.",
+      "a": "Erling Haaland",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Egyptian winger. Liverpool's Premier League era top scorer. Left-footed. Known as the Egyptian King.",
+      "a": "Mohamed Salah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Belgian playmaker. Manchester City midfielder. Pinpoint crosses and through balls. Famous red hair.",
+      "a": "Kevin De Bruyne",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French striker. Scored in the 1998 World Cup final. Arsenal's all-time top scorer. Nicknamed Titi.",
+      "a": "Thierry Henry",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English striker. Former Tottenham captain now at Bayern Munich. Three Lions skipper. England's all-time top scorer.",
+      "a": "Harry Kane",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Welsh winger. Four Champions League trophies at Real Madrid. Keen golfer. Scored a bicycle kick in the 2018 final.",
+      "a": "Gareth Bale",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Senegalese forward. Premier League and UCL winner at Liverpool. Later moved to Bayern Munich. Africa Cup of Nations winner.",
+      "a": "Sadio Mané",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "German goalkeeper. Lifted the 2014 World Cup. Sweeper-keeper pioneer. Longtime Bayern Munich number one.",
+      "a": "Manuel Neuer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French midfielder. Head-butted Materazzi in the 2006 final. Won three straight UCLs as Real Madrid coach. Elegant playmaker.",
+      "a": "Zinédine Zidane",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Brazilian striker. Won the 2002 World Cup. Scored twice in that final. Known as R9.",
+      "a": "Ronaldo Nazário",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Swedish striker. Famous bicycle kick against England. Played for Barca, Milan, and Manchester United. Enormous ego.",
+      "a": "Zlatan Ibrahimović",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English midfielder. Married a Spice Girl. Pinpoint crosses from deep. Wore 7 at Manchester United.",
+      "a": "David Beckham",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Dutch total-football icon. Won three European Cups with Ajax. Gave his name to a famous turn. Later managed Barcelona.",
+      "a": "Johan Cruyff",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Italian forward. Roma legend. Nicknamed Il Gladiatore. Spent his entire career at his hometown club.",
+      "a": "Francesco Totti",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine striker. Manchester City legend. Scored the 93:20 Premier League winner vs QPR. Former partner of Maradona's daughter.",
+      "a": "Sergio Agüero",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Spanish goalkeeper. Real Madrid number one for over a decade. Lifted the 2010 World Cup as captain. Nicknamed San Iker.",
+      "a": "Iker Casillas",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Croatian midfielder. 2018 Ballon d'Or winner. Six UCL titles at Real Madrid. Small-framed maestro.",
+      "a": "Luka Modrić",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Portuguese midfielder. Manchester United captain. Long-range shots and leadership. Known for set-piece deliveries.",
+      "a": "Bruno Fernandes",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine winger. 2022 World Cup winner. Scored in Champions League and Copa America finals. Nicknamed El Fideo.",
+      "a": "Ángel Di María",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French defender. 2018 World Cup winner. Former Madrid and Manchester United center-back. Shaved head.",
+      "a": "Raphaël Varane",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Spanish striker. Real Madrid legend. All-time club top scorer before a Portuguese passed him. Wore 7 at the Bernabeu.",
+      "a": "Raúl",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine forward. Two World Cup trophies. Scored the Hand of God and the Goal of the Century. Napoli icon.",
+      "a": "Diego Maradona",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Brazilian forward. Three World Cup titles. Scored over 1,200 career goals. Crowned The King.",
+      "a": "Pelé",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English midfielder. Liverpool captain. 2005 Istanbul comeback hero. Slipped vs Chelsea in 2014.",
+      "a": "Steven Gerrard",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English midfielder. Chelsea's all-time top scorer. Played alongside Terry and Cole. Disallowed goal vs Germany in 2010.",
+      "a": "Frank Lampard",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Welsh winger. Manchester United legend. Most decorated English league player. Left-footed wing wizard.",
+      "a": "Ryan Giggs",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "400": [
+    {
+      "q": "German goal machine. Scored 68 times for West Germany. Nicknamed Der Bomber. 1974 World Cup winner.",
+      "a": "Gerd Müller",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Dutch striker. Won Euro 1988 for his country. AC Milan legend. Retired early from ankle injuries.",
+      "a": "Marco van Basten",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Liberian striker. 1995 Ballon d'Or winner. Later elected president of his country. Milan icon of the 1990s.",
+      "a": "George Weah",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Ivorian midfielder. Barcelona La Liga winner before Manchester City. Powerhouse long-range shots. Three PL titles at City.",
+      "a": "Yaya Touré",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Croatian striker. 2018 World Cup finalist. Juventus trophy winner. Classic volley against France in that final.",
+      "a": "Mario Mandžukić",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "German midfielder. 2014 World Cup winner. Bayern Munich stalwart. Later married tennis star Ana Ivanovic.",
+      "a": "Bastian Schweinsteiger",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Spanish defender. Euro 2008 and 2010 World Cup winner. Barcelona captain. Long curly hair.",
+      "a": "Carles Puyol",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Colombian playmaker. 2014 World Cup Golden Boot. Moved to Real Madrid that summer. Wore number 10.",
+      "a": "James Rodríguez",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Hungarian forward. Real Madrid star of the 1950s. Scored 84 international goals. Nicknamed The Galloping Major.",
+      "a": "Ferenc Puskás",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine-Spanish forward. Real Madrid legend. Won five straight European Cups. Nicknamed the Blond Arrow.",
+      "a": "Alfredo Di Stéfano",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Dutch defender. Liverpool captain. Champions League winner in 2019. Ballon d'Or runner-up that year.",
+      "a": "Virgil van Dijk",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Brazilian right-back. Most decorated player in football history. Played for Barcelona and PSG. Samba celebrations.",
+      "a": "Dani Alves",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English striker. 2001 Ballon d'Or winner. Liverpool and Real Madrid. Rode racehorses after retiring.",
+      "a": "Michael Owen",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English striker. Premier League all-time top scorer. Newcastle United legend. Match of the Day pundit.",
+      "a": "Alan Shearer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English midfielder. Manchester United midfielder. Famous red-headed long-range shots. Rarely gave interviews.",
+      "a": "Paul Scholes",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Irish midfielder. Manchester United captain. Fiery temperament. Feuded with Mick McCarthy in 2002.",
+      "a": "Roy Keane",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English defender. Manchester United and Leeds. Drug-test ban in 2003. Later a TV pundit.",
+      "a": "Rio Ferdinand",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English defender. Chelsea captain. Slipped taking the 2008 UCL final penalty. Record trophy haul at Stamford Bridge.",
+      "a": "John Terry",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English defender. Manchester United right-back. Sky Sports pundit. Brother Phil also played for United.",
+      "a": "Gary Neville",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Italian midfielder. AC Milan's combative enforcer. 2006 World Cup winner. Intimidating glare on the pitch.",
+      "a": "Gennaro Gattuso",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Ukrainian striker. 2004 Ballon d'Or winner. Dynamo Kyiv and AC Milan. Missed the decisive penalty in the 2005 UCL final.",
+      "a": "Andriy Shevchenko",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Dutch defender. Scored a famous free kick in the 1992 European Cup final. Later Barcelona and Netherlands coach.",
+      "a": "Ronald Koeman",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Dutch goalkeeper. Manchester United and Ajax. Won Champions Leagues in 1995 and 2008. Towering reach.",
+      "a": "Edwin van der Sar",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Italian striker. 1982 World Cup Golden Boot and Golden Ball. Scored a hat trick vs Brazil that tournament. Died in 2020.",
+      "a": "Paolo Rossi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine forward. Long flowing blond hair. Scored vs Brazil in 1990 World Cup last 16. Played alongside Maradona.",
+      "a": "Claudio Caniggia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine midfielder. Manchester United and Chelsea. Nicknamed La Brujita. Lazio Serie A winner.",
+      "a": "Juan Sebastián Verón",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine striker. Fiorentina and Roma legend. All-time Argentina top scorer before Messi. Nicknamed Batigol.",
+      "a": "Gabriel Batistuta",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine striker. Scored twice in the 2005 UCL final for Milan. Parma, Lazio, Inter, Chelsea. Copa America finalist.",
+      "a": "Hernán Crespo",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Portuguese playmaker. Fiorentina and AC Milan. Portuguese Golden Generation. Number 10 elegance.",
+      "a": "Rui Costa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Portuguese striker. Benfica legend. Represented his country at multiple Euros. Known for aerial ability.",
+      "a": "Nuno Gomes",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "600": [
+    {
+      "q": "Argentine midfielder. 1978 World Cup winner. Long Tottenham spell. Later managed the Spurs.",
+      "a": "Osvaldo Ardiles",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Italian defender. Inter Milan center-back. Provoked a famous head-butt in 2006. Iron-willed enforcer.",
+      "a": "Marco Materazzi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine goalkeeper. 2022 World Cup winner. Aston Villa number one. Made an infamous celebration with the Golden Glove.",
+      "a": "Emiliano Martínez",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Jamaican-born English winger. Liverpool forward of the 1980s. Rapped on the World in Motion song. Solo goal against Brazil in 1984.",
+      "a": "John Barnes",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Danish goalkeeper. Manchester United record-breaker. 1992 Euros winner. His son Kasper also keeps goal.",
+      "a": "Peter Schmeichel",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Turkish striker. Galatasaray legend. UEFA Cup winner in 2000. Scored 11 seconds into the 2002 World Cup third-place match.",
+      "a": "Hakan Şükür",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Japanese midfielder. One of the first Japanese players in Serie A. Roma Scudetto winner. Retired at 29.",
+      "a": "Hidetoshi Nakata",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Colombian midfielder. Huge blond afro. Three World Cup appearances. Later played in MLS.",
+      "a": "Carlos Valderrama",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Croatian midfielder. AC Milan Serie A winner. Kicked a policeman at Dinamo Zagreb in 1990. Croatia's 1998 World Cup third-place run.",
+      "a": "Zvonimir Boban",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Ghanaian midfielder. Chelsea midfielder. Mourinho called him The Bison. 2012 UCL winner.",
+      "a": "Michael Essien",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Iranian striker. Held the men's international goals record before Ronaldo passed him. Scored 109 for his country. Former national team coach.",
+      "a": "Ali Daei",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Chilean striker. Wore 1+8 at Inter Milan. Real Madrid Pichichi winner. Played at the 1998 World Cup.",
+      "a": "Iván Zamorano",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Ghanaian-born French defender. 1998 World Cup and Euro 2000 winner. Milan and Chelsea. Nicknamed The Rock.",
+      "a": "Marcel Desailly",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English striker. Towering 6'7\" frame. Robot goal celebration. Liverpool and Spurs spells.",
+      "a": "Peter Crouch",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "German libero. 1996 Ballon d'Or winner. Euro 96 champion. Later Borussia Dortmund sporting director.",
+      "a": "Matthias Sammer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French defender. 1998 World Cup and Euro 2000 winner. Juventus and Parma. His country's most capped player for years.",
+      "a": "Lilian Thuram",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French forward. 1958 Ballon d'Or winner. Stade de Reims and Real Madrid. Won three straight European Cups.",
+      "a": "Raymond Kopa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French midfielder. Three consecutive Ballons d'Or in the 1980s. Euro 1984 top scorer. Later banned from FIFA.",
+      "a": "Michel Platini",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Italian striker. Cagliari legend. His country's all-time top scorer for decades. Scored 35 in 42 internationals.",
+      "a": "Luigi Riva",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "German striker. 1980 and 1981 Ballon d'Or winner. Bayern Munich forward. Later Bayern CEO.",
+      "a": "Karl-Heinz Rummenigge",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Italian goalkeeper. 1982 World Cup winner as captain at age 40. Juventus legend. Later national team coach.",
+      "a": "Dino Zoff",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Spanish forward. Nicknamed El Buitre. Leader of Real Madrid's Quinta del Buitre. Scored 4 vs Denmark at the 1986 World Cup.",
+      "a": "Emilio Butragueño",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "German midfielder. Played for Barcelona, Real Madrid and Atletico Madrid. Euro 1980 winner. Creative playmaker.",
+      "a": "Bernd Schuster",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English midfielder. Famous tears at Italia 90. Scored a volley against Scotland at Euro 96. Dentist's chair celebration.",
+      "a": "Paul Gascoigne",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Welsh striker. Liverpool's all-time top scorer. FA Cup final goals specialist. Trademark moustache.",
+      "a": "Ian Rush",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Scottish forward. Liverpool player and manager. Nicknamed King. Celtic legend before his Anfield move.",
+      "a": "Kenny Dalglish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "English striker. 1986 World Cup Golden Boot winner. Never booked in his career. Hosts Match of the Day.",
+      "a": "Gary Lineker",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Nigerian striker. Played for Ajax, Arsenal and Portsmouth. Olympic gold in 1996. Survived a heart condition scare mid-career.",
+      "a": "Nwankwo Kanu",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Nigerian midfielder. Dazzling skills at Bolton Wanderers. Also turned out for PSG and Fenerbahce. Africa Cup of Nations 1994 winner.",
+      "a": "Jay-Jay Okocha",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Cameroonian striker. Famous corner-flag dance. Oldest World Cup goalscorer at age 42. Italia 90 star.",
+      "a": "Roger Milla",
+      "file": "newCategoriesPack2"
+    }
+  ]
+}

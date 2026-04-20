@@ -1,0 +1,468 @@
+{
+  "200": [
+    {
+      "q": "Which planet is closest to the Sun?",
+      "a": "Mercury",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "a": "Mars",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet has the most visible rings?",
+      "a": "Saturn",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which is the largest planet in our solar system?",
+      "a": "Jupiter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What star is at the center of our solar system?",
+      "a": "The Sun",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which galaxy do we live in?",
+      "a": "The Milky Way",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who was the first human to walk on the Moon?",
+      "a": "Neil Armstrong",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How long does it take light from the Sun to reach Earth?",
+      "a": "About 8 minutes",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet is famous for its Great Red Spot?",
+      "a": "Jupiter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What do we call a collection of stars forming a pattern?",
+      "a": "A constellation",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet is tilted on its side?",
+      "a": "Uranus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the North Star?",
+      "a": "Polaris",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which is the outermost planet in our solar system?",
+      "a": "Neptune",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a light-year?",
+      "a": "The distance light travels in one year",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What company founded by Elon Musk runs private space launches?",
+      "a": "SpaceX",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was the first artificial satellite?",
+      "a": "Sputnik 1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet has a day longer than its year?",
+      "a": "Venus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a shooting star really?",
+      "a": "A meteor",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which celestial body causes ocean tides on Earth?",
+      "a": "The Moon",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What pulls objects toward the center of a planet?",
+      "a": "Gravity",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Earth's closest planetary neighbor on one side?",
+      "a": "Venus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Earth's closest planetary neighbor on the other side?",
+      "a": "Mars",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet rotates the fastest?",
+      "a": "Jupiter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How many planets are in our solar system?",
+      "a": "8",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of our own moon?",
+      "a": "Luna",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which mission first landed humans on the Moon?",
+      "a": "Apollo 11",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What do astronauts wear to survive outside a spacecraft?",
+      "a": "A spacesuit",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a solar eclipse?",
+      "a": "When the Moon blocks the Sun's light from Earth",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the phase when we see no Moon at all?",
+      "a": "New moon",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which U.S. space agency put people on the Moon?",
+      "a": "NASA",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the largest moon of Saturn?",
+      "a": "Titan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who was the second person to walk on the Moon?",
+      "a": "Buzz Aldrin",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which asteroid belt lies between two planets?",
+      "a": "Between Mars and Jupiter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of our nearest stellar neighbor beyond the Sun?",
+      "a": "Proxima Centauri",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What type of matter makes up about 27% of the universe?",
+      "a": "Dark matter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Approximately how old is the universe?",
+      "a": "13.8 billion years",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What space station has been continuously occupied since 2000?",
+      "a": "International Space Station",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which NASA rover landed on Mars in 2021?",
+      "a": "Perseverance",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the largest volcano in our solar system?",
+      "a": "Olympus Mons",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which galaxy is on a collision course with the Milky Way?",
+      "a": "Andromeda Galaxy",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What telescope was launched in 2021 to succeed Hubble's role?",
+      "a": "James Webb Space Telescope",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the first probe to leave the solar system called?",
+      "a": "Voyager 1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the icy region beyond Neptune filled with small bodies?",
+      "a": "The Kuiper Belt",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which object was reclassified from planet to dwarf planet in 2006?",
+      "a": "Pluto",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the Sun's outermost atmospheric layer called?",
+      "a": "The corona",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What type of galaxy is the Milky Way?",
+      "a": "Barred spiral",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a star explosion at the end of a massive star's life?",
+      "a": "Supernova",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the hottest planet in our solar system?",
+      "a": "Venus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What causes the aurora borealis?",
+      "a": "Solar wind particles interacting with Earth's magnetic field",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which year was the Hubble Space Telescope launched?",
+      "a": "1990",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who formulated the laws of planetary motion?",
+      "a": "Johannes Kepler",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who described universal gravitation in the 1600s?",
+      "a": "Isaac Newton",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a pulsar?",
+      "a": "A rapidly rotating neutron star that emits beams of radiation",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the remnant of a collapsed massive star with huge density?",
+      "a": "A neutron star",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which Apollo mission famously returned safely after an onboard explosion?",
+      "a": "Apollo 13",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the Sun's main fuel source?",
+      "a": "Hydrogen (fused into helium)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the first space tourist company's suborbital vehicle by Bezos?",
+      "a": "New Shepard",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet has the most moons currently known?",
+      "a": "Saturn",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What causes a total solar eclipse?",
+      "a": "The Moon perfectly covering the Sun from Earth's view",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What spacecraft photographed Pluto closely in 2015?",
+      "a": "New Horizons",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the telescope launched in 2021 to replace Hubble?",
+      "a": "James Webb",
+      "file": "qualityBackfill"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the boundary of a black hole beyond which nothing escapes?",
+      "a": "The event horizon",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What hypothetical cloud of icy bodies surrounds the outer solar system?",
+      "a": "The Oort Cloud",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What radiation is theoretically emitted by black holes?",
+      "a": "Hawking radiation",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is normal matter made of protons and neutrons called?",
+      "a": "Baryonic matter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the theory of a rapid early expansion of the universe called?",
+      "a": "Inflationary theory",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What five special points exist in a two-body orbital system?",
+      "a": "Lagrange points",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What type of supernova results from a white dwarf exceeding its mass limit?",
+      "a": "Type Ia",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Whose equation estimates the number of contactable civilizations in our galaxy?",
+      "a": "Frank Drake's equation",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What brief intense bursts of radio waves come from distant space?",
+      "a": "Fast radio bursts",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which crater is linked to the dinosaur extinction event?",
+      "a": "Chicxulub",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which triple star system is nearest to the Sun?",
+      "a": "Alpha Centauri",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which scale rates civilizations by energy use (Type I, II, III)?",
+      "a": "The Kardashev scale",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What paradox asks why we haven't found alien civilizations yet?",
+      "a": "The Fermi paradox",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a neutron star with an extremely strong magnetic field called?",
+      "a": "A magnetar",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the habitable zone around a star sometimes nicknamed?",
+      "a": "The Goldilocks Zone",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What relic radiation from the early universe was discovered in 1964?",
+      "a": "Cosmic microwave background",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was the first exoplanet discovered orbiting a Sun-like star?",
+      "a": "51 Pegasi b",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is an object too massive to be a planet but too light to fuse hydrogen?",
+      "a": "A brown dwarf",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "In what year was the first direct image of a black hole released?",
+      "a": "2019",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What bends light from distant objects near a massive body?",
+      "a": "Gravitational lensing",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What stretching effect happens near a black hole's singularity?",
+      "a": "Spaghettification",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What rotating disk forms around a compact object as matter falls in?",
+      "a": "An accretion disk",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was the largest telescope in the Canaries before being surpassed?",
+      "a": "Gran Telescopio Canarias",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which Jovian moon has a subsurface ocean and is a prime target for life?",
+      "a": "Europa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which Saturnian moon shoots water geysers from its south pole?",
+      "a": "Enceladus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which is the fastest spacecraft ever launched?",
+      "a": "Parker Solar Probe",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which astronomer discovered four of Jupiter's moons in 1610?",
+      "a": "Galileo Galilei",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which theory describes gravity as curvature of spacetime?",
+      "a": "General relativity",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the discovered minimum distance two black holes merge at?",
+      "a": "Schwarzschild radius boundary",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the approximate temperature of the cosmic microwave background?",
+      "a": "2.725 Kelvin",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the rocky, airless moon of Mars closest to the planet?",
+      "a": "Phobos",
+      "file": "qualityBackfill"
+    }
+  ]
+}

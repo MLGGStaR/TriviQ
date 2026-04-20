@@ -1,0 +1,523 @@
+{
+  "200": [
+    {
+      "q": "Who is the main character of Arrow?",
+      "a": "Oliver Queen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Oliver Queen?",
+      "a": "Stephen Amell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city does Arrow protect?",
+      "a": "Star City",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Star City originally called?",
+      "a": "Starling City",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What weapon does the Arrow primarily use?",
+      "a": "Bow and arrow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Oliver's tech-savvy ally and love interest with blonde hair?",
+      "a": "Felicity Smoak",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Felicity Smoak?",
+      "a": "Emily Bett Rickards",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What island was Oliver stranded on before becoming Arrow?",
+      "a": "Lian Yu",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network aired Arrow?",
+      "a": "The CW",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Oliver's sister?",
+      "a": "Thea Queen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Oliver's bodyguard turned best friend?",
+      "a": "John Diggle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays John Diggle?",
+      "a": "David Ramsey",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Diggle's superhero alias?",
+      "a": "Spartan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In what year did Arrow premiere?",
+      "a": "2012",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Oliver's mother?",
+      "a": "Moira Queen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Oliver's father's name?",
+      "a": "Robert Queen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the comic book character Arrow is based on?",
+      "a": "Green Arrow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many seasons of Arrow aired?",
+      "a": "8",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created Arrow (with Greg Berlanti and Andrew Kreisberg)?",
+      "a": "Marc Guggenheim",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What family-owned company does Oliver inherit?",
+      "a": "Queen Consolidated",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Oliver's best friend (the other rich playboy)?",
+      "a": "Tommy Merlyn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Tommy Merlyn's father's name?",
+      "a": "Malcolm Merlyn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What organization is Malcolm Merlyn the leader of?",
+      "a": "League of Assassins",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Felicity's job at Queen Consolidated?",
+      "a": "IT specialist",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What weapon does the Black Canary use?",
+      "a": "Sonic device (Canary Cry)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Sara Lance's sister?",
+      "a": "Laurel Lance",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city does Oliver Queen protect?",
+      "a": "Star City",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What weapon is Oliver most famous for?",
+      "a": "Bow and arrow",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays the title vigilante?",
+      "a": "Stephen Amell",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Oliver's computer-genius sidekick?",
+      "a": "Felicity Smoak",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Oliver's bodyguard turned partner?",
+      "a": "John Diggle",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What catchphrase does Oliver say about failing his city?",
+      "a": "You have failed this city",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Oliver's younger sister's name?",
+      "a": "Thea Queen",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the name of Oliver and Felicity's son?",
+      "a": "William",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the assassin who is Ra's al Ghul's daughter?",
+      "a": "Nyssa al Ghul",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the League of Assassins leader?",
+      "a": "Ra's al Ghul",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Laurel Lance's vigilante alias?",
+      "a": "Black Canary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Laurel Lance?",
+      "a": "Katie Cassidy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Laurel's father, the police detective?",
+      "a": "Quentin Lance",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Slade Wilson's villain alias?",
+      "a": "Deathstroke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Thea's vigilante alias?",
+      "a": "Speedy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Thea Queen?",
+      "a": "Willa Holland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Roy Harper's vigilante alias?",
+      "a": "Arsenal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Roy Harper?",
+      "a": "Colton Haynes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Sara Lance's vigilante alias?",
+      "a": "White Canary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Sara Lance?",
+      "a": "Caity Lotz",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Diggle's wife's name?",
+      "a": "Lyla Michaels",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What organization does Lyla Michaels work for?",
+      "a": "A.R.G.U.S.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the Big Bad of Season 1?",
+      "a": "Malcolm Merlyn",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the Big Bad of Season 2?",
+      "a": "Slade Wilson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the Big Bad of Season 3?",
+      "a": "Ra's al Ghul",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the Big Bad of Season 4?",
+      "a": "Damien Darhk",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Damien Darhk?",
+      "a": "Neal McDonough",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Malcolm Merlyn's alias?",
+      "a": "Dark Archer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Malcolm Merlyn?",
+      "a": "John Barrowman",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Oliver's first vigilante hideout?",
+      "a": "The Foundry",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Felicity's mother's name?",
+      "a": "Donna Smoak",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Donna Smoak?",
+      "a": "Charlotte Ross",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Diggle's brother who was killed?",
+      "a": "Andy Diggle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the news reporter on the show?",
+      "a": "Susan Williams",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What island became Slade Wilson's prison after the events of Season 2?",
+      "a": "Lian Yu",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Quentin Lance's wife (and Laurel's mother)?",
+      "a": "Dinah Lance",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What season introduces Mr. Terrific?",
+      "a": "Season 4",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who does Oliver eventually marry?",
+      "a": "Felicity Smoak",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What was Oliver's first vigilante hideout called?",
+      "a": "The Foundry",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Oliver's first mentor on Lian Yu?",
+      "a": "Yao Fei",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Slade Wilson's villain alias?",
+      "a": "Deathstroke",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Malcolm Merlyn?",
+      "a": "John Barrowman",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Thea Queen's hero alter ego?",
+      "a": "Speedy",
+      "file": "qualityBackfill"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is Malcolm Merlyn's plan called in Season 1?",
+      "a": "The Undertaking",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Suicide Squad team Diggle joined briefly?",
+      "a": "Task Force X",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the spin-off featuring time travelers?",
+      "a": "Legends of Tomorrow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the crossover event where Oliver dies?",
+      "a": "Crisis on Infinite Earths",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays the new Black Canary in later seasons (Dinah Drake)?",
+      "a": "Juliana Harkavy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the new Mr. Terrific introduced in Season 4?",
+      "a": "Curtis Holt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Curtis Holt?",
+      "a": "Echo Kellum",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the villain who is Oliver's half-brother revealed in Season 6?",
+      "a": "Emiko Queen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Emiko Queen?",
+      "a": "Sea Shimooka",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Arrow Cave's first nickname before becoming the Bunker?",
+      "a": "The Foundry",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the show's first crossover with The Flash?",
+      "a": "Flash vs. Arrow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In which episode is Tommy Merlyn killed?",
+      "a": "Sacrifice (Season 1 finale)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Sara Lance's death scene weapon (her killer in Season 3)?",
+      "a": "Three arrows",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is revealed to have killed Sara Lance in Season 3?",
+      "a": "Thea Queen (under Malcolm's influence)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the criminal organization Emiko Queen leads?",
+      "a": "The Ninth Circle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Prometheus, the Season 5 villain, in his civilian identity?",
+      "a": "Adrian Chase",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Adrian Chase?",
+      "a": "Josh Segarra",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Oliver's son's mother?",
+      "a": "Samantha Clayton",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was the name of Felicity's hacker alias?",
+      "a": "Overwatch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of John Diggle's daughter?",
+      "a": "Sara",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the alternate Earth Diggle visits?",
+      "a": "Earth-2",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Oliver's stepfather?",
+      "a": "Walter Steele",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Walter Steele?",
+      "a": "Colin Salmon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the future setting in the Season 7+ flash-forwards?",
+      "a": "Star City 2040",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Oliver's daughter introduced in flash-forwards?",
+      "a": "Mia Smoak",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Mia Smoak?",
+      "a": "Katherine McNamara",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Tommy Merlyn?",
+      "a": "Colin Donnell",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the show's final episode?",
+      "a": "Fadeout",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which season does Felicity leave the show?",
+      "a": "Season 7",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What alias does Oliver take in later seasons?",
+      "a": "Green Arrow",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Malcolm Merlyn's vigilante alias?",
+      "a": "Dark Archer",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Ra's al Ghul's healing pool?",
+      "a": "Lazarus Pit",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who sacrifices himself in the Crisis crossover?",
+      "a": "Oliver Queen",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What spinoff show features time-traveling heroes?",
+      "a": "Legends of Tomorrow",
+      "file": "moreTriviaExpansions"
+    }
+  ]
+}

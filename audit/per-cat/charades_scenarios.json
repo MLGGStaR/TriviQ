@@ -1,0 +1,918 @@
+{
+  "200": [
+    {
+      "q": "Act out this scenario!",
+      "a": "Brushing your teeth in the morning",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Walking a dog on a leash",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating spaghetti",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tying your shoelaces",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Drinking a hot cup of coffee",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a bicycle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Swimming in a pool",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sleeping and snoring",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneezing loudly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Painting a wall",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Reading a newspaper",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Taking a selfie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating an ice cream cone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Putting on a coat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cooking a pancake",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Washing your hands",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Combing your hair",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Watching TV on the couch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Vacuuming the floor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tying a tie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Driving a car",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Texting on a phone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Shoveling snow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Carrying heavy grocery bags",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Putting on makeup",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating popcorn at the movies",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Brushing a pet cat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Blowing out birthday candles",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Opening a present",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Yawning and stretching",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tying a bow",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Making a sandwich",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pouring a glass of water",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Singing into a hairbrush",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Doing jumping jacks",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Swatting a fly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating a slice of pizza",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stirring a pot of soup",
+      "file": "newCategoriesBank"
+    }
+  ],
+  "400": [
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to start a stubborn lawn mower",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing you forgot your wallet at a restaurant",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking past a sleeping baby",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Surfing a giant wave and wiping out",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Reacting to spicy food at a restaurant",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Catching a fly with chopsticks",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Searching for your keys in a dark room",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to open a stuck pickle jar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Walking on hot sand at the beach",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Reading a really sad book and crying",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stuck in an elevator with a stranger",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting caught in a sudden rainstorm",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Putting together a complicated bookshelf",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing you sat in chewing gum",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying not to laugh at a funeral",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Bargaining at a flea market",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Walking into a glass door",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to take a group selfie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Catching a bouquet at a wedding",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking food during a diet",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to swat a mosquito at night",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Carrying a wedding cake across a room",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Receiving a surprise birthday party",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to whisper a secret in a loud bar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tasting something that has gone bad",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Hailing a taxi in the rain",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to open a child-proof bottle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing your zipper is down in public",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Burning yourself on hot pizza cheese",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stepping on a Lego brick barefoot",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to parallel park",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing you replied-all by accident",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Forgetting someone's name during a hello",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Watching a horror movie alone",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cleaning up a spilled drink quickly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to find your seat in a dark theater",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Squeezing into a crowded subway",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Spilling coffee on a white shirt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneezing into your elbow during a meeting",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing you missed the bus stop",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Mistaking a mannequin for a real person",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tripping while going up stairs",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to enjoy a bad gift",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Discovering your phone is at 1% battery",
+      "file": "newCategoriesBank"
+    }
+  ],
+  "600": [
+    {
+      "q": "Act out this scenario!",
+      "a": "Defusing a fake bomb under pressure",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Negotiating with a hostage taker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Performing surgery as the lights flicker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tightrope walking between two skyscrapers",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking out of a museum after closing time",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Surviving a zombie attack in a supermarket",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Convincing a cat to take a bath",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Picking a lock while hearing footsteps approach",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Auditioning for a Broadway musical",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Conducting a symphony orchestra during an earthquake",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Proposing marriage and being rejected",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Catching a runaway bride",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Wrestling an alligator in a swamp",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Climbing Mount Everest in flip-flops",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Saving a kitten from a burning building",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Discovering a winning lottery ticket in your old jeans",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being stuck in traffic running late to a job interview",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking past a guard dog in a junkyard",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to teach grandma how to use TikTok",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Performing CPR on a mannequin in front of judges",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a mechanical bull at a rodeo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being abducted by aliens and taken to their ship",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Defending yourself in court without a lawyer",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting trapped in a haunted house overnight",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Becoming a chef on a cooking competition",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Bungee jumping for the first time",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Discovering your double in a mirror world",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to win a hot dog eating contest",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a unicycle through a busy market",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Babysitting triplets who refuse to sleep",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Hosting a magic show that goes wrong",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Surviving a shipwreck on a deserted island",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Performing an exorcism on a possessed laptop",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Hijacking a hot air balloon by accident",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stuck on a roller coaster mid-loop",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking into a five-star restaurant in pajamas",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Skydiving without a parachute opening",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to be a museum statue when guards walk by",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Wrestling a python in the jungle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Conducting an interview with a celebrity who hates you",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stealing the crown jewels from a museum vault",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being chased by paparazzi through a hotel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Calming down a panicked horse in a stable",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to fix a broken time machine",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Taming a lion in a circus ring",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a runaway shopping cart down a hill",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting your tie caught in an office shredder",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Solving a Rubik's cube while skydiving",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Conducting a séance that summons something real",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to escape from a straightjacket underwater",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking through laser security beams",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Crashing a royal wedding in disguise",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to hold in a sneeze during a chess tournament",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Performing the Heimlich maneuver on a stranger",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Convincing a vampire to become a vegan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to be invisible at a party",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Surviving a bear attack while camping",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Operating a fighter jet for the first time",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to be a robot to fool a sensor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Negotiating peace between two warring tribes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to tame a wild horse on a ranch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Saving a sinking lifeboat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Carrying glass sculptures through a windstorm",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to convince a judge of your alien origin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Whispering a confession in a confession booth",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to sneak a cake past airport security",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tightrope walking with an umbrella over a canyon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Reciting Shakespeare to a herd of cows",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being chosen as Santa at the last minute",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cracking a safe in under sixty seconds",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to be a mannequin in a shop window",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Climbing through an air vent in an action movie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to land a plane after the pilot faints",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a hoverboard for the first time",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Persuading a yeti to come down from the mountain",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Performing on a karaoke stage with stage fright",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Hosting a wedding ceremony with no script",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being a contestant on a survival reality show",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to escape an escape room using only mime",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Auditioning to be a stunt double",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Convincing a dragon to give back stolen gold",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being a juror trying to decide a verdict",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to enjoy a horror movie while terrified",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stealing back your own car from a tow lot",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking onto a moving train",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a wild bull at a rodeo for prize money",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to charm a snake out of a basket",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Conducting a magic potion experiment that explodes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking through a haunted graveyard at midnight",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Becoming the world's worst hairdresser by accident",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to keep a secret from a mind reader",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Doing a TED talk after losing your notes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Climbing the side of a cliff with only ropes",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to win a dance battle with two left feet",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Performing brain surgery in a moving ambulance",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to reach the cookie jar on the highest shelf",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Defending the Earth from an alien invasion",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to outsmart a polygraph test",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being a referee in a heated soccer final",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking past a sleeping dragon to steal an egg",
+      "file": "newCategoriesBank"
+    }
+  ]
+}

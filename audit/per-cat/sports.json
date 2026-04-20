@@ -1,0 +1,658 @@
+{
+  "200": [
+    {
+      "q": "What sport uses a scrum?",
+      "a": "Rugby",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "How many points is a safety in American football?",
+      "a": "2",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What color is the middle ring of the Olympic flag?",
+      "a": "Black",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the highest score in a single frame of bowling?",
+      "a": "30 (strike in 10th frame)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How long is a marathon in miles?",
+      "a": "26.2 miles",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many sets are played in a typical tennis match (men's Grand Slam)?",
+      "a": "5",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What sport does LeBron James play?",
+      "a": "Basketball",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Most FIFA World Cups won?",
+      "a": "Brazil (5 times)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is zero called in tennis?",
+      "a": "Love",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Length of a marathon?",
+      "a": "42.195 km",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Rings on the Olympic flag?",
+      "a": "5",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sport played at Wimbledon?",
+      "a": "Tennis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Points for a try in rugby union?",
+      "a": "5",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Maximum score in a bowling game?",
+      "a": "300",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players on a soccer team?",
+      "a": "11",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sport using a shuttlecock?",
+      "a": "Badminton",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Events in a decathlon?",
+      "a": "10",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a hat-trick in football?",
+      "a": "Scoring three goals in a single game",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Length of an Olympic swimming pool?",
+      "a": "50 metres",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many holes in a golf round?",
+      "a": "18",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country that invented basketball?",
+      "a": "United States (Dr. James Naismith, 1891)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Points for a field goal in American football?",
+      "a": "3",
+      "file": "App.jsx"
+    },
+    {
+      "q": "National sport of Japan?",
+      "a": "Sumo wrestling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sport of the Tour de France?",
+      "a": "Cycling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Points for a touchdown in American football?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players on a volleyball team?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a birdie in golf?",
+      "a": "One stroke under par on a hole",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the offside rule in football?",
+      "a": "A player nearer to the opponent's goal than both the ball and the second-to-last opponent when the ball is played to them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sport played at the Augusta National?",
+      "a": "Golf (the Masters Tournament)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many periods in an NHL hockey game?",
+      "a": "3 periods of 20 minutes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does the yellow jersey mean in Tour de France?",
+      "a": "The overall race leader wears it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a grand slam in tennis?",
+      "a": "Winning all four major tournaments in one year",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players on an American football team on field?",
+      "a": "11",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does LBW stand for in cricket?",
+      "a": "Leg Before Wicket",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What sport uses a puck?",
+      "a": "Ice hockey",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a penalty shootout?",
+      "a": "Teams alternate penalty kicks to decide a tied match",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What golf tournament awards the green jacket?",
+      "a": "The Masters",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which country won the first Cricket World Cup in 1975?",
+      "a": "West Indies",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city hosts the Indy 500?",
+      "a": "Indianapolis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What country has won the most FIFA World Cups?",
+      "a": "Brazil (5)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who holds the record for most Olympic gold medals?",
+      "a": "Michael Phelps (23)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What country invented cricket?",
+      "a": "England",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many Grand Slam tennis tournaments are there per year?",
+      "a": "4",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What boxing weight class is the heaviest?",
+      "a": "Heavyweight",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many periods in an NHL hockey game?",
+      "a": "3",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the length of an Olympic swimming pool in meters?",
+      "a": "50 meters",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who has won the most Tour de France titles?",
+      "a": "Lance Armstrong was stripped; record: 5 by several riders",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the national sport of Canada?",
+      "a": "Lacrosse (summer) / Ice hockey (winter)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What city hosted the first modern Olympics?",
+      "a": "Athens (1896)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the highest governing body of world football?",
+      "a": "FIFA",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Most Olympic gold medals won by one person?",
+      "a": "Michael Phelps (23 gold medals)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many Grand Slams did Roger Federer win?",
+      "a": "20",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Golfer with the most majors?",
+      "a": "Jack Nicklaus (18 majors)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "All-time top scorer in the UEFA Champions League?",
+      "a": "Cristiano Ronaldo (140+ goals)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Team with the most Premier League titles?",
+      "a": "Manchester United (20 titles)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Djokovic's Grand Slam title count?",
+      "a": "24 (the all-time record as of 2024)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most Ballon d'Or awards won?",
+      "a": "Lionel Messi (8 times)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does DRS stand for in F1?",
+      "a": "Drag Reduction System — a movable rear wing to help overtaking",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Fosbury Flop?",
+      "a": "High jump technique jumping backwards — Dick Fosbury, 1968 Olympics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Maximum break in snooker?",
+      "a": "147",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Rugby World Cup most wins?",
+      "a": "South Africa (4 times as of 2023)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sumo wrestling's highest rank?",
+      "a": "Yokozuna",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Elo rating system?",
+      "a": "A method of calculating relative skill levels — originally developed for chess",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Standard height of a basketball hoop?",
+      "a": "10 feet (3.05 metres)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most F1 World Championships?",
+      "a": "Lewis Hamilton and Michael Schumacher — both with 7 titles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a perfect game in baseball?",
+      "a": "Pitcher retires all 27 batters without anyone reaching base",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Origin of the term hat-trick?",
+      "a": "From cricket — a bowler given a new hat for three wickets in consecutive balls in the 1800s",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Rugby World Cup first winner?",
+      "a": "New Zealand (1987)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many sets in a standard tennis match for men?",
+      "a": "Best of 5 sets",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a hat-trick in cricket?",
+      "a": "Taking three wickets in consecutive deliveries",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the offside rule in ice hockey?",
+      "a": "A player cannot enter the attacking zone before the puck does",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a green card in football?",
+      "a": "Used in some competitions for a temporary 10-minute sin bin suspension — not widely adopted",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the four golf major championships?",
+      "a": "The Masters, US Open, The Open Championship, and PGA Championship",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most capped international rugby player?",
+      "a": "Richie McCaw (New Zealand, 148 caps) — has since been surpassed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Distance of a 400m race?",
+      "a": "One full lap of a standard athletics track",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the polka dot jersey in Tour de France?",
+      "a": "Worn by the best climber / King of the Mountains",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the slam dunk in basketball?",
+      "a": "Jumping and forcing the ball directly through the basket — worth 2 points",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many points is a converted try worth in rugby union?",
+      "a": "7 (5 for the try + 2 for the conversion kick)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a wild card in sports?",
+      "a": "A team that qualifies for a tournament without winning their division or group",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Olympic rings' colors?",
+      "a": "Blue, yellow, black, green, and red — representing the five inhabited continents",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is three under par on a golf hole called?",
+      "a": "An albatross",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the Davis Cup?",
+      "a": "International men's team tennis competition",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "In cricket, how many runs do you score for hitting the ball over the boundary on the full?",
+      "a": "6",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which race is the final leg of the US Triple Crown?",
+      "a": "The Belmont Stakes",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "In fencing sabre, what is the target area?",
+      "a": "Everything above the waist",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What does VAR stand for in soccer?",
+      "a": "Video Assistant Referee",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the maximum score with one dart in standard darts?",
+      "a": "60",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "How many points is a drop goal in rugby union?",
+      "a": "3",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What race opens cycling's Grand Tours season calendar?",
+      "a": "Giro d'Italia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What swimming stroke is also called freestyle in races?",
+      "a": "Front crawl",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is a turkey in bowling?",
+      "a": "Three strikes in a row",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "How many players are on the field for one baseball team on defense?",
+      "a": "9",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Which football award is given to the world's best player annually?",
+      "a": "Ballon d'Or",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What color jersey does the Tour de France leader wear?",
+      "a": "Yellow",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "How many rounds are in a professional championship boxing fight?",
+      "a": "12",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What country won the first FIFA World Cup in 1930?",
+      "a": "Uruguay",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the fastest recorded tennis serve speed?",
+      "a": "Over 163 mph (John Isner)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Ryder Cup a competition in?",
+      "a": "Golf",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the only team sport played on horseback at the Olympics?",
+      "a": "Polo (historically; modern: equestrian)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year were women first allowed to compete in the Olympics?",
+      "a": "1900 (Paris)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a perfect game in baseball?",
+      "a": "No batter reaches base for the entire game (27 up, 27 down)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who holds the record for most goals in FIFA World Cup history?",
+      "a": "Miroslav Klose (16)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the oldest Grand Slam tennis tournament?",
+      "a": "Wimbledon (1877)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the decathlon?",
+      "a": "A 10-event track and field competition",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was the first African nation to reach a World Cup semifinal?",
+      "a": "Morocco (2022)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of New Zealand's rugby team?",
+      "a": "All Blacks",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What martial art became an Olympic sport in 2020?",
+      "a": "Karate",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the highest altitude at which a FIFA World Cup qualifier has been played?",
+      "a": "La Paz, Bolivia (~3,600m)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Diameter of a basketball hoop in inches?",
+      "a": "18 inches",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year women were first allowed in the Olympics?",
+      "a": "1900 (Paris Olympics)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Queensberry Rules?",
+      "a": "The code of rules governing modern boxing, established in 1867",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Match play vs stroke play in golf?",
+      "a": "Match play: player wins each hole. Stroke play: fewest total strokes wins the tournament",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who invented the rules of football (soccer)?",
+      "a": "The Football Association in England in 1863",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the false 9 position in football?",
+      "a": "A striker who drops deep to create space — made famous by Messi under Pep Guardiola",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The three-point line in basketball — when introduced?",
+      "a": "In the NBA in the 1979–80 season",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the Miracle on Ice?",
+      "a": "1980 Winter Olympics — US amateur hockey team defeated the heavily favoured Soviet Union",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Moneyball concept?",
+      "a": "Using statistical analysis to find undervalued players — popularised by Oakland Athletics GM Billy Beane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What makes the Monaco Grand Prix unique?",
+      "a": "Runs on public streets through Monte Carlo — extremely narrow, low-speed, and very hard to overtake",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the FA Cup?",
+      "a": "The world's oldest football competition — founded in 1871, open to any team in England",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a VORP in analytics?",
+      "a": "Value Over Replacement Player — how much better a player is than a freely available replacement",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the maximum number of clubs allowed in a golf bag?",
+      "a": "14 clubs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a perfect score in gymnastics?",
+      "a": "10.0 — achieved famously by Nadia Comaneci in 1976 Olympics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How long is extra time in football?",
+      "a": "Two 15-minute halves (30 minutes total)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Duckworth-Lewis-Stern method?",
+      "a": "A mathematical formula used to reset targets in rain-interrupted cricket matches",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who holds the 100m world record and what is it?",
+      "a": "Usain Bolt — 9.58 seconds (2009 World Championships)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the purpose of a pace car in NASCAR?",
+      "a": "Controls the speed during caution periods (accidents, debris) — field bunches behind it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Corinthian spirit?",
+      "a": "The amateur ideal of competing for love of the game — named after Corinthian FC",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many calories does an average marathon runner burn?",
+      "a": "~2,500–3,500 calories depending on weight and pace",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a technical knockout (TKO) in boxing?",
+      "a": "The referee stops the fight due to one fighter being unable to defend themselves — counts as a knockout",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Ashes in cricket?",
+      "a": "A biennial series between England and Australia — the Ashes urn contains (reportedly) the burnt bails from 1882",
+      "file": "App.jsx"
+    }
+  ]
+}

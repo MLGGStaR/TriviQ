@@ -1,0 +1,533 @@
+{
+  "200": [
+    {
+      "q": "What accident gives Barry Allen his powers?",
+      "a": "A particle accelerator explosion and lightning strike",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Barry Allen's job before becoming the Flash?",
+      "a": "Forensic scientist",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Cisco Ramon's hero name?",
+      "a": "Vibe",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Barry Allen's adoptive father figure?",
+      "a": "Joe West",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Iris West's profession for much of the series?",
+      "a": "Journalist",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Barry's father's name?",
+      "a": "Henry Allen",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the source of speedster powers called?",
+      "a": "The Speed Force",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Caitlin Snow's icy alter ego called?",
+      "a": "Killer Frost",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Cisco Ramon's superhero name?",
+      "a": "Vibe",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Barry's season 1 nemesis?",
+      "a": "Reverse-Flash",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What timeline event happens when Barry saves his mother?",
+      "a": "Flashpoint",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What gorilla villain has telepathic powers?",
+      "a": "Gorilla Grodd",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What speedster villain is Hunter Zolomon?",
+      "a": "Zoom",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What speedster villain calls himself the god of speed?",
+      "a": "Savitar",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Wally West's hero name?",
+      "a": "Kid Flash",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Barry's job before becoming the Flash?",
+      "a": "Forensic scientist",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the AI assistant in STAR Labs?",
+      "a": "Gideon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the Thinker's real name?",
+      "a": "Clifford DeVoe",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What organization does Joe West work for?",
+      "a": "Central City Police Department",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What newspaper does Iris eventually help run?",
+      "a": "Central City Citizen",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What multiverse Earth is Jesse Quick from?",
+      "a": "Earth-2",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What lab serves as Team Flash's headquarters?",
+      "a": "STAR Labs",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What police department does Joe West work for?",
+      "a": "CCPD",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What lab is Barry's team based in?",
+      "a": "STAR Labs",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What villain name does Cisco give Eobard Thawne?",
+      "a": "Reverse-Flash",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What company built the particle accelerator?",
+      "a": "STAR Labs",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Who is Barry Allen?",
+      "a": "A forensic scientist who gains super-speed after being struck by lightning during a particle accelerator explosion",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is STAR Labs?",
+      "a": "The scientific facility where Barry's team helps him fight metahumans",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Iris West?",
+      "a": "Barry's love interest and eventual wife — a journalist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Speed Force?",
+      "a": "The energy dimension that powers all speedsters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Reverse Flash?",
+      "a": "Eobard Thawne — a future villain who killed Barry's mother",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Barry Allen?",
+      "a": "Grant Gustin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Cisco Ramon?",
+      "a": "A STAR Labs engineer who names the metahumans — later revealed to be the meta Vibe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Caitlin Snow?",
+      "a": "A STAR Labs scientist who eventually develops cold powers and becomes Killer Frost",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What city does Barry protect?",
+      "a": "Central City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Harrison Wells?",
+      "a": "The identity used by Reverse Flash while secretly mentoring Barry",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Who is Barry's main season 1 enemy revealed to be a reverse speedster?",
+      "a": "Eobard Thawne / Reverse-Flash",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Barry's altered timeline event called?",
+      "a": "Flashpoint",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Caitlin Snow's icy alter ego called?",
+      "a": "Killer Frost",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who becomes the stretchy hero Elongated Man?",
+      "a": "Ralph Dibny",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Cisco Ramon's brother named?",
+      "a": "Dante Ramon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What speedster from Earth-2 becomes Barry's ally and Wally's love interest?",
+      "a": "Jesse Quick",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What scientist becomes Killer Frost?",
+      "a": "Caitlin Snow",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What nickname does Cisco give Barry?",
+      "a": "The Scarlet Speedster",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What metahuman prison sits beneath STAR Labs?",
+      "a": "The Pipeline",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What villain controls the city from the shadows using dark matter and mind games in season 6A?",
+      "a": "Bloodwork",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What codename does Nora West-Allen use?",
+      "a": "XS",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What alias does Cisco use as a hero?",
+      "a": "Vibe",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What giant psychic gorilla becomes one of Barry's enemies?",
+      "a": "Grodd",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What villain uses cold guns?",
+      "a": "Captain Cold",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Joe West's job?",
+      "a": "Detective",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What giant gorilla attacks Central City?",
+      "a": "Grodd",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What scientist creates the Thinking Cap arc?",
+      "a": "DeVoe",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain is also called Bloodwork?",
+      "a": "Ramsey Rosso",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What prison houses metahumans in the city?",
+      "a": "Iron Heights",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the source of Barry Allen's powers?",
+      "a": "The Speed Force",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What company built the particle accelerator?",
+      "a": "STAR Labs",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What icy identity does Caitlin become?",
+      "a": "Killer Frost",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What is Flashpoint?",
+      "a": "Barry travels back in time to save his mother — creating an alternate timeline with catastrophic consequences",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Zoom?",
+      "a": "Hunter Zolomon — a serial killer from Earth-2 who steals Barry's speed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Multiverse in The Flash?",
+      "a": "Multiple parallel Earths — the show heavily uses Earth-2 and other Earths from the beginning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Savitar?",
+      "a": "A time remnant of Barry Allen who becomes evil after being rejected by his team",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the newspaper headline?",
+      "a": "A future newspaper predicts the Flash vanishes in a crisis — a recurring plot thread",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Kid Flash?",
+      "a": "Wally West — Iris's brother who gains speed powers and becomes Barry's partner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Crisis on Infinite Earths crossover?",
+      "a": "A massive Arrowverse event where Barry apparently sacrifices himself — but survives with a new power level",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Godspeed?",
+      "a": "August Heart — a villain speedster who appears in later seasons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Barry's ring?",
+      "a": "The ring contains his compressed Flash suit — a nod to the comics",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Joe West?",
+      "a": "Barry's adoptive father and police detective — the emotional anchor of the show",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What is the name of Barry and Iris's daughter from the future?",
+      "a": "Nora West-Allen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What villain is known as the god of speed?",
+      "a": "Savitar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What speedster title does Wally West use?",
+      "a": "Kid Flash",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Cicada's real name?",
+      "a": "Orlin Dwyer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the mirror villain's name in season 6?",
+      "a": "Eva McCulloch",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What does Savitar turn out to be?",
+      "a": "A time remnant of Barry Allen",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Zoom's real name?",
+      "a": "Hunter Zolomon",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Reverse-Flash's real name?",
+      "a": "Eobard Thawne",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What does Savitar turn out to be?",
+      "a": "Barry's time remnant",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What future headline haunts Barry for years?",
+      "a": "Flash Vanishes in Crisis",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What force powers Nora and Bart?",
+      "a": "Speed Force",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Caitlin's mother's surname?",
+      "a": "Snow",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What speedster villain is Barry's daughter from the future hunted by?",
+      "a": "Cicada",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What prison does Eobard Thawne manipulate events from in season 5?",
+      "a": "Iron Heights",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What force counterpart opposes the Speed Force in season 7?",
+      "a": "Still Force",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the first metahuman Barry captures called?",
+      "a": "Clyde Mardon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Barry and Iris's daughter from the future called?",
+      "a": "Nora",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What scientist first merges with Ronnie as Firestorm?",
+      "a": "Martin Stein",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain hunts metas with a lightning-shaped dagger scar?",
+      "a": "Cicada",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What AI guides Barry from the future in the lab?",
+      "a": "Gideon",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Reverse-Flash's real name?",
+      "a": "Eobard Thawne",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Zoom's real name?",
+      "a": "Hunter Zolomon",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What alternate Earth is Harrison Wells from originally?",
+      "a": "Earth-2",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the alternate Earth's dark version of Flash?",
+      "a": "Savitar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Zoom's time remnants storyline actor?",
+      "a": "Teddy Sears",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What artificial speed drug nearly kills speedsters?",
+      "a": "Velocity 9",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What event names Barry the Paragon of Love?",
+      "a": "Crisis on Infinite Earths",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What is the paradox of Reverse Flash?",
+      "a": "Thawne's hatred of Barry creates Barry's motivation to become the Flash — a temporal loop with no beginning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Black Flash?",
+      "a": "The embodiment of death for speedsters — it hunts aberrant speedsters",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Speed Force prison?",
+      "a": "A prison made of Speed Force energy — Jay Garrick was trapped there for decades",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Barry dying in the comics Crisis?",
+      "a": "In the 1985 comic he runs himself to death destroying the Anti-Monitor's weapon — the definitive hero sacrifice",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Negative Speed Force?",
+      "a": "An anti-Speed Force created by Thawne — the source of the Negative Reverse Flash's red lightning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the tachyon device?",
+      "a": "It allows Barry to temporarily achieve speeds beyond his normal limits — used to fight Zoom",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Spectre and what is Barry's role?",
+      "a": "In Crisis, Ollie Queen becomes the Spectre — Barry becomes the Paragon of Love",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the stillness of the future?",
+      "a": "A concept in later seasons — the moment where all speed stops, revealing a fundamental truth about the Speed Force",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What makes The Flash unique in the Arrowverse?",
+      "a": "It introduced the Multiverse concept to the Arrowverse — and its tone is the lightest and most optimistic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the original Flash Jay Garrick?",
+      "a": "The Golden Age Flash from Earth-3 — he becomes a mentor to Barry",
+      "file": "App.jsx"
+    }
+  ]
+}

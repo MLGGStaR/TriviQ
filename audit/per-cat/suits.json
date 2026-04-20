@@ -1,0 +1,523 @@
+{
+  "200": [
+    {
+      "q": "What is Donna's last name?",
+      "a": "Paulsen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What elite law school does the firm obsess over?",
+      "a": "Harvard",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the managing partner at the start of the series?",
+      "a": "Jessica Pearson",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Mike Ross pretending to have from Harvard?",
+      "a": "A law degree",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the managing partner at the start?",
+      "a": "Jessica Pearson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What law school does the firm obsess over?",
+      "a": "Harvard",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Rachel's father?",
+      "a": "Robert Zane",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What unusual spa activity does Louis love?",
+      "a": "Mudding",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who returns repeatedly to try to take over the firm?",
+      "a": "Daniel Hardman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What role does Donna eventually become?",
+      "a": "COO",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Katrina's surname?",
+      "a": "Bennett",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What partner joins from a rival firm late in the series?",
+      "a": "Alex Williams",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fierce name partner joins later alongside Alex?",
+      "a": "Samantha Wheeler",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What sentence sends Mike to prison?",
+      "a": "Pleading guilty to fraud",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Gretchen's job at the firm?",
+      "a": "Secretary",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What law school does Mike Ross pretend he attended?",
+      "a": "Harvard",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Harvey Specter's secretary named?",
+      "a": "Donna",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Louis's last name?",
+      "a": "Litt",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Mike Ross pretending to have from Harvard?",
+      "a": "A law degree",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Donna's surname?",
+      "a": "Paulsen",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Louis's surname?",
+      "a": "Litt",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the managing partner at the start?",
+      "a": "Jessica Pearson",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Rachel's father's profession?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Pearson Hardman managing partner who hires Mike?",
+      "a": "Harvey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug does Mike deal before joining the firm?",
+      "a": "Marijuana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Harvey Specter?",
+      "a": "New York's best closer — a slick, brilliant senior partner at Pearson Hardman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mike Ross?",
+      "a": "A brilliant college dropout with a photographic memory who pretends to be a Harvard Law grad",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mike's secret?",
+      "a": "He never attended Harvard or passed the bar — he is a fraud practising law illegally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Donna Paulsen?",
+      "a": "Harvey's fiercely loyal and intuitive legal secretary",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Louis Litt?",
+      "a": "A neurotic but brilliant senior partner — Harvey's rival and frenemy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What law firm is the show set at?",
+      "a": "Pearson Hardman (later Pearson Specter Litt)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jessica Pearson?",
+      "a": "The managing partner — a powerful, calculating lawyer who runs the firm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What city is Suits set in?",
+      "a": "New York City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Harvey Specter?",
+      "a": "Gabriel Macht",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rachel Zane?",
+      "a": "A paralegal who wants to be a lawyer — Mike's love interest and eventually wife",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is Louis Litt's famous spa obsession called?",
+      "a": "Mudding",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the firm originally called?",
+      "a": "Pearson Hardman",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Rachel Zane's father?",
+      "a": "Robert Zane",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What therapist helps Harvey confront his panic attacks?",
+      "a": "Paula Agard",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What exam does Mike never take before secretly practicing law?",
+      "a": "The bar exam",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What city does Jessica move into politics in after leaving the firm?",
+      "a": "Chicago",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What role does Mike eventually become legitimately after prison?",
+      "a": "Lawyer",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What law school does Louis constantly revere because of the firm's hiring obsession?",
+      "a": "Harvard Law School",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Jessica's last name?",
+      "a": "Pearson",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What career does Rachel Zane want most?",
+      "a": "Lawyer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What test can Mike ace for other people?",
+      "a": "The LSAT",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What firm does Jessica lead at the start?",
+      "a": "Pearson Hardman",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What exam does Mike pretend to have passed?",
+      "a": "The bar",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Rachel's surname?",
+      "a": "Zane",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Harvey's surname?",
+      "a": "Specter",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What title does Jessica hold at the start?",
+      "a": "Managing partner",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What wall object does Harvey love throwing a ball at?",
+      "a": "Painting",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Mike's best friend from his old life called?",
+      "a": "Trevor",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is the firm's original name?",
+      "a": "Pearson Hardman",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What unique memory ability does Mike have?",
+      "a": "Photographic memory",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Rachel's profession at the firm initially?",
+      "a": "Paralegal",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Harvey Specter?",
+      "a": "Gabriel Macht",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the central legal tension of Suits?",
+      "a": "Harvey and Jessica know Mike is a fraud — they constantly manage the risk of exposure",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Daniel Hardman?",
+      "a": "The firm's co-founder who was pushed out for embezzlement — he returns to reclaim control",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mike's photographic memory called in the show?",
+      "a": "Just a photographic memory — he can recall anything he has read perfectly",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Katrina Bennett?",
+      "a": "Louis's protégé — she becomes a skilled associate and eventually partner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Harvey's therapy arc?",
+      "a": "He goes to Dr. Agard to deal with abandonment issues — his emotional walls slowly come down",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Robert Zane?",
+      "a": "Rachel's father — a rival name partner at a competing firm who eventually joins Pearson Specter Litt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens when Mike's fraud is exposed?",
+      "a": "He goes to prison in Season 5 — he pleads guilty to protect everyone at the firm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Specter Litt Wheeler Williams firm?",
+      "a": "The firm after Jessica leaves and the partners change — the final iteration of the main firm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Samantha Wheeler?",
+      "a": "A tough, ruthless female name partner who joins the firm after Jessica leaves",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Alex Williams?",
+      "a": "A partner Harvey recruits from a rival firm — a skilled deal-maker who becomes a key character",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Who is Louis Litt's eventual wife?",
+      "a": "Sheila Sazs",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city does Jessica move to after leaving the firm?",
+      "a": "Chicago",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What executive role does Donna eventually hold?",
+      "a": "COO",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Harvey's therapist's first name?",
+      "a": "Paula",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What rival attorney keeps returning to challenge Harvey?",
+      "a": "Travis Tanner",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What investment banker mentors Mike later on?",
+      "a": "Jonathan Sidwell",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Louis obsessed with outside the office?",
+      "a": "Mudding",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Mike's key mental ability called?",
+      "a": "Photographic memory",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What does Louis shout when he's excited about victory?",
+      "a": "You just got Litt up",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Harvey's mother first name?",
+      "a": "Lily",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What New York district is the firm's office set in?",
+      "a": "Manhattan",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What business titan becomes Harvey's client and rival friend?",
+      "a": "Charles Forstman",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Alex Williams's role at the firm?",
+      "a": "Senior partner",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Samantha Wheeler's role at the firm?",
+      "a": "Partner",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Louis's cat called?",
+      "a": "Bruno",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What college did Rachel attend?",
+      "a": "Columbia",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What does Louis shout when excited?",
+      "a": "You just got Litt up",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Harvey's mother's first name?",
+      "a": "Lily",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Louis Litt?",
+      "a": "Rick Hoffman",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What investment banker mentors Mike later?",
+      "a": "Jonathan Sidwell",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Donna Paulsen?",
+      "a": "Sarah Rafferty",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Jessica Pearson?",
+      "a": "Gina Torres",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Chicago firm does the finale move to?",
+      "a": "Pearson Specter Litt (Chicago)",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who replaces Jessica as managing partner when she leaves?",
+      "a": "Harvey Specter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What university did Harvey go to for his undergrad?",
+      "a": "NYU",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Harvey's secretary before Donna?",
+      "a": "Norma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the deeper theme of Suits?",
+      "a": "Loyalty vs self-interest — every character faces moments where protecting others conflicts with their own survival",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Harvard mythology in the show?",
+      "a": "Harvard Law is treated as the ultimate qualifier — Mike's lack of it represents how credentials can overshadow talent",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What happens to Harvey and Donna?",
+      "a": "They finally get together in the final season — confirming what fans waited years for",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Canadian spinoff?",
+      "a": "Suits: Harvey returns to help a Toronto firm — a brief continuation exploring new territory",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the legal resolution of Mike's fraud?",
+      "a": "After prison, he gets his GED and eventually passes the bar — legitimately becoming a lawyer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Sheila Sazs?",
+      "a": "Louis's on-off girlfriend who works at Harvard — the relationship is a running comedic thread",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the CM&A firm?",
+      "a": "Rand Kaldor Cahill — a rival firm that repeatedly tries to poach and destroy Pearson Specter Litt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Gretchen?",
+      "a": "Louis's secretary after Norma retires — she is protective and surprisingly intimidating",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Season 7 conflict?",
+      "a": "Harvey and Louis fight for control of the firm while managing Robert Zane's entry and Donna's new role as COO",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Benjamin?",
+      "a": "The firm's IT specialist and tech genius — Louis recruits him for a side business in tech",
+      "file": "App.jsx"
+    }
+  ]
+}

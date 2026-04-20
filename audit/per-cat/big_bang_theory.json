@@ -1,0 +1,498 @@
+{
+  "200": [
+    {
+      "q": "What is Penny's job at the start of the series?",
+      "a": "Waitress",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What university do Leonard and Sheldon work at?",
+      "a": "Caltech",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Howard's profession?",
+      "a": "Engineer",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Leonard's last name?",
+      "a": "Hofstadter",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What catchphrase does Sheldon say after jokes?",
+      "a": "Bazinga",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Raj's full first name?",
+      "a": "Rajesh",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Penny's dream profession at the start?",
+      "a": "Actress",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What dog belongs to Raj?",
+      "a": "Cinnamon",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What instrument does Sheldon play during one meltdown?",
+      "a": "Bongos",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Raj need in early seasons to talk to women?",
+      "a": "Alcohol",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Howard's mother's first name?",
+      "a": "Debbie",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What does Sheldon call his place on the couch?",
+      "a": "My spot",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What branch of physics does Sheldon study?",
+      "a": "Theoretical physics",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What branch of physics does Leonard study?",
+      "a": "Experimental physics",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What field does Raj work in?",
+      "a": "Astrophysics",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What comic book store do the gang often visit?",
+      "a": "The Comic Center of Pasadena",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Bernadette's maiden name?",
+      "a": "Rostenkowski",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who wins the Nobel Prize with Sheldon?",
+      "a": "Amy Farrah Fowler",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What city is the show set in?",
+      "a": "Pasadena",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What university do the main characters work at?",
+      "a": "Caltech",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Howard's last name?",
+      "a": "Wolowitz",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What job does Penny have at The Cheesecake Factory early on?",
+      "a": "Waitress",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Penny's surname after marriage?",
+      "a": "Hofstadter",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Who are the four main male scientists?",
+      "a": "Sheldon Cooper, Leonard Hofstadter, Howard Wolowitz, and Raj Koothrappali",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sheldon's spot on the couch?",
+      "a": "The middle seat on the left — it has the optimal sightlines and he never gives it up",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Sheldon Cooper?",
+      "a": "Jim Parsons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sheldon's catchphrase?",
+      "a": "Bazinga! — his way of saying he was joking",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Penny?",
+      "a": "The pretty but not academically inclined neighbour who becomes Leonard's girlfriend and wife",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Leonard do for work?",
+      "a": "He is an experimental physicist at Caltech",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Howard's notable distinction?",
+      "a": "He is the only one without a PhD — he has a Masters in Engineering",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sheldon's field?",
+      "a": "Theoretical physics — specifically string theory and later super-asymmetry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Howard marry?",
+      "a": "Bernadette Rostenkowski",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Amy Farrah Fowler?",
+      "a": "A neurobiologist who becomes Sheldon's girlfriend and eventually wife",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is Bernadette's profession?",
+      "a": "Microbiologist / pharmaceutical scientist",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Raj unable to do around women in early seasons?",
+      "a": "Speak to them without alcohol",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Amy Farrah Fowler's field?",
+      "a": "Neurobiology",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Howard and Bernadette's son?",
+      "a": "Neil Michael",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fantasy card game does the gang obsess over?",
+      "a": "Mystic Warlords of Ka'a",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Sheldon's mother's first name?",
+      "a": "Mary",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What field of science makes Bernadette wealthy?",
+      "a": "Pharmaceutical microbiology",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Bernadette's profession?",
+      "a": "Microbiologist",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Amy's field of study?",
+      "a": "Neurobiology",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Sheldon's favorite number?",
+      "a": "73",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What instrument does Sheldon sometimes play?",
+      "a": "Theremin",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Raj's dog called?",
+      "a": "Cinnamon",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What card game does the group play with fantasy decks?",
+      "a": "Magic: The Gathering",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What song does Sheldon want when sick?",
+      "a": "Soft Kitty",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Sheldon's favorite superhero?",
+      "a": "The Flash",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Amy's surname?",
+      "a": "Fowler",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Raj's surname?",
+      "a": "Koothrappali",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Penny's terrible movie title?",
+      "a": "Serial Ape-ist",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Leonard's mother's first name?",
+      "a": "Beverly",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Stuart's comic store job?",
+      "a": "Owner",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What board game does Sheldon famously over-explain?",
+      "a": "Settlers of Catan",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is Sheldon's roommate agreement?",
+      "a": "A document outlining all rules and obligations of living with Sheldon — dozens of clauses",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Caltech?",
+      "a": "The California Institute of Technology — where the main characters work",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Stuart?",
+      "a": "The comic book store owner who becomes close to the group",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sheldon's IQ?",
+      "a": "He claims 187 — though the show never officially confirms it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What Nobel Prize do Sheldon and Amy win?",
+      "a": "The Nobel Prize in Physics — for their discovery of super-asymmetry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Raj's dog?",
+      "a": "Cinnamon — a Yorkshire Terrier he treats as his child",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Soft Kitty?",
+      "a": "A song Sheldon wants sung to him when he is sick — Warm kitty, soft kitty, little ball of fur",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Howard's achievement?",
+      "a": "He is the only one of the group to go to space — aboard the International Space Station",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Raj's selective mutism prevent him from doing?",
+      "a": "Talking to women he is not related to — unless he has alcohol (or thinks he does)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Wil Wheaton in the show?",
+      "a": "A recurring version of himself — initially Sheldon's nemesis, later a friend",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What document controls Leonard and Sheldon's apartment life?",
+      "a": "The Roommate Agreement",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Howard's mother's first name?",
+      "a": "Debbie",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What Nobel-winning theory do Sheldon and Amy develop?",
+      "a": "Super-asymmetry",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Raj's dog named?",
+      "a": "Cinnamon",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city is Penny from?",
+      "a": "Omaha",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Howard and Bernadette's first child named?",
+      "a": "Halley",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Bernadette's field of science?",
+      "a": "Microbiology",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What card game does Wil Wheaton use to torment Sheldon?",
+      "a": "Mystic Warlords of Ka'a",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Sheldon's apartment number?",
+      "a": "4A",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Sheldon's online game alter ego called?",
+      "a": "Sheldon the Conqueror",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What does Howard go to space in?",
+      "a": "Space Shuttle",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What comic store owner often hangs out with the group?",
+      "a": "Stuart",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Sheldon's sister named?",
+      "a": "Missy",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What Nobel category do Sheldon and Amy win?",
+      "a": "Physics",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is Bert's field of science?",
+      "a": "Geology",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What train hobby does Sheldon obsess over?",
+      "a": "Model trains",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Raj unable to do around women early on?",
+      "a": "Speak",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Wil Wheaton famous for within the show?",
+      "a": "Star Trek",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Penny's home state?",
+      "a": "Nebraska",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Stuart's surname?",
+      "a": "Bloom",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What instrument does Amy play?",
+      "a": "Harp",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What is Sheldon's childhood nickname from his meemaw?",
+      "a": "Moonpie",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What document controls Sheldon's apartment rules?",
+      "a": "Roommate Agreement",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is Amy's profession?",
+      "a": "Neuroscientist",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the significance of the train set in Sheldon's childhood?",
+      "a": "It represents the moment Sheldon's innocence was broken — he walked in on his father cheating",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sheldon's relationship with his faith?",
+      "a": "His mother is deeply religious; Sheldon is atheist — a recurring tension in the show",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Young Sheldon connection?",
+      "a": "A prequel spin-off showing Sheldon's childhood in Texas — it ran 7 seasons",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Big Bang Theory's most-watched episode?",
+      "a": "The finale with 23 million viewers — when Sheldon and Amy win the Nobel Prize",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Sheldon's three knocks?",
+      "a": "He always knocks three times and says the person's name three times — a childhood anxiety habit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Bernadette's dynamic with Howard?",
+      "a": "She is the dominant partner — highly educated, assertive, and earns more than Howard",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Dungeons and Dragons dynamic in the show?",
+      "a": "They play D&D regularly — it becomes a metaphor for their escapism and friendship",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the elevator being broken?",
+      "a": "The elevator is out of service for the entire show — finally fixed in the finale, symbolising change",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What scientific concept does Sheldon explain most famously?",
+      "a": "He frequently references string theory, Schrödinger's cat, and the theory of everything",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Sheldon's relationship with food?",
+      "a": "He has specific food days — Thai food on Mondays, pizza on Fridays — any change distresses him",
+      "file": "App.jsx"
+    }
+  ]
+}

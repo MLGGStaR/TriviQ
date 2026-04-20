@@ -1,0 +1,425 @@
+[
+  {
+    "name": "Michael Jackson",
+    "title": "File:Jackson 5 1972.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jackson_5_1972.JPG",
+    "desc": "Jackson 5 TV appearance 1972 (MJ age ~14)",
+    "tier": 200,
+    "dims": "563x703",
+    "license": "Public domain"
+  },
+  {
+    "name": "Elvis Presley",
+    "title": "File:Elvis Presley first national television appearance 1956.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Elvis_Presley_first_national_television_appearance_1956.jpg",
+    "desc": "Elvis on TV 1956 (age 21)",
+    "tier": 200,
+    "dims": "567x741",
+    "license": "Public domain"
+  },
+  {
+    "name": "Princess Diana",
+    "title": "File:Princess Diana dancing with John Travolta in Cross Hall at the White House.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Princess_Diana_dancing_with_John_Travolta_in_Cross_Hall_at_the_White_House.jpg",
+    "desc": "Diana at White House 1985 (age 24)",
+    "tier": 400,
+    "dims": "4000x2667",
+    "license": "Public domain"
+  },
+  {
+    "name": "Queen Elizabeth II",
+    "title": "File:Philip de László - Princess Elizabeth of York - 1933.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/54/Philip_de_L%C3%A1szl%C3%B3_-_Princess_Elizabeth_of_York_-_1933.jpg",
+    "desc": "Princess Elizabeth portrait 1933 (age 7)",
+    "tier": 200,
+    "dims": "8860x11522",
+    "license": "Public domain"
+  },
+  {
+    "name": "John F. Kennedy",
+    "title": "File:Congressman John F. Kennedy 1947.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Congressman_John_F._Kennedy_1947.JPG",
+    "desc": "Congressman JFK 1947 (age 30)",
+    "tier": 400,
+    "dims": "737x934",
+    "license": "Public domain"
+  },
+  {
+    "name": "Elizabeth Taylor",
+    "title": "File:Elizabeth Taylor-1945.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Elizabeth_Taylor-1945.JPG",
+    "desc": "Elizabeth Taylor 1945 (age 13, National Velvet era)",
+    "tier": 400,
+    "dims": "769x933",
+    "license": "Public domain"
+  },
+  {
+    "name": "Shirley Temple",
+    "title": "File:Shirley Temple in \"Bright Eyes\" with James Dunn.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shirley_Temple_in_%22Bright_Eyes%22_with_James_Dunn.jpg",
+    "desc": "Shirley Temple 1934 Bright Eyes (age 6)",
+    "tier": 200,
+    "dims": "1600x1272",
+    "license": "Public domain"
+  },
+  {
+    "name": "Britney Spears",
+    "title": "File:Britney Spears 1999.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Britney_Spears_1999.jpg",
+    "desc": "Britney Spears 1999 era (age ~17)",
+    "tier": 400,
+    "dims": "412x477",
+    "license": "CC BY 2.0"
+  },
+  {
+    "name": "Michael Jordan",
+    "title": "File:Michael Jordan - 1984 (2).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Michael_Jordan_-_1984_%282%29.jpg",
+    "desc": "Michael Jordan 1984 rookie year",
+    "tier": 400,
+    "dims": "1080x1350",
+    "license": "Public domain"
+  },
+  {
+    "name": "Muhammad Ali",
+    "title": "File:Cassius Clay (1960, JO).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cassius_Clay_%281960%2C_JO%29.jpg",
+    "desc": "Cassius Clay 1960 Olympics (age 18)",
+    "tier": 400,
+    "dims": "461x577",
+    "license": "Public domain"
+  },
+  {
+    "name": "Frank Sinatra",
+    "title": "File:Frank Sinatra (1944 World-Telegram file photo).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Frank_Sinatra_%281944_World-Telegram_file_photo%29.jpg",
+    "desc": "Frank Sinatra 1944 (age ~28)",
+    "tier": 600,
+    "dims": "717x1119",
+    "license": "Public domain"
+  },
+  {
+    "name": "Marilyn Monroe",
+    "title": "File:Marilyn Monroe as Norma Jean Dougherty.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Marilyn_Monroe_as_Norma_Jean_Dougherty.jpg",
+    "desc": "Norma Jean 1945 (Marilyn age 19)",
+    "tier": 400,
+    "dims": "250x301",
+    "license": "Public domain"
+  },
+  {
+    "name": "Audrey Hepburn",
+    "title": "File:Audrey Hepburn 1953.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Audrey_Hepburn_1953.jpg",
+    "desc": "Audrey Hepburn 1953 (age 24)",
+    "tier": 400,
+    "dims": "500x646",
+    "license": "CC0"
+  },
+  {
+    "name": "Lionel Messi",
+    "title": "File:Leo messi barce 2005.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Leo_messi_barce_2005.jpg",
+    "desc": "Messi at Barcelona 2005 (age 18)",
+    "tier": 600,
+    "dims": "1100x1567",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "name": "Taylor Swift",
+    "title": "File:Taylor Swift (2007) retouched.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Taylor_Swift_%282007%29_retouched.jpg",
+    "desc": "Taylor Swift 2007 country era (age 17)",
+    "tier": 400,
+    "dims": "1866x1870",
+    "license": "CC BY 2.0"
+  },
+  {
+    "name": "Miley Cyrus",
+    "title": "File:Miley Cyrus as Hannah Montana.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Miley_Cyrus_as_Hannah_Montana.jpg",
+    "desc": "Miley as Hannah Montana 2007 (age 14)",
+    "tier": 400,
+    "dims": "1600x1200",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "name": "Emma Watson",
+    "title": "File:Emma Watson GoF Premiere Crop.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Emma_Watson_GoF_Premiere_Crop.jpg",
+    "desc": "Emma Watson Goblet of Fire premiere 2005 (age 15)",
+    "tier": 400,
+    "dims": "184x262",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "name": "Rupert Grint",
+    "title": "File:Rupert Grint (cropped).JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rupert_Grint_%28cropped%29.JPG",
+    "desc": "Rupert Grint 2007 (age 18)",
+    "tier": 600,
+    "dims": "187x269",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "name": "Tom Cruise",
+    "title": "File:Tom cruise 1989.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tom_cruise_1989.jpg",
+    "desc": "Tom Cruise 1989 (age 26)",
+    "tier": 400,
+    "dims": "582x852",
+    "license": "CC BY 2.0"
+  },
+  {
+    "name": "Paul McCartney",
+    "title": "File:Paul McCartney 1964.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Paul_McCartney_1964.jpg",
+    "desc": "Paul McCartney 1964 Beatlemania (age 22)",
+    "tier": 400,
+    "dims": "224x354",
+    "license": "Public domain"
+  },
+  {
+    "name": "John Lennon",
+    "title": "File:John Lennon 1964.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Lennon_1964.jpg",
+    "desc": "John Lennon 1964 Beatlemania (age 23)",
+    "tier": 400,
+    "dims": "600x750",
+    "license": "Public domain"
+  },
+  {
+    "name": "Mick Jagger",
+    "title": "File:Mick-Jagger-1965-Turku.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mick-Jagger-1965-Turku.jpg",
+    "desc": "Mick Jagger 1965 Finland (age 22)",
+    "tier": 600,
+    "dims": "3488x5197",
+    "license": "Public domain"
+  },
+  {
+    "name": "Freddie Mercury",
+    "title": "File:Freddie Mercury performing in New Haven, CT, November 1977.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
+    "desc": "Freddie Mercury 1977 concert (age 31)",
+    "tier": 600,
+    "dims": "3534x5244",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "name": "David Bowie",
+    "title": "File:David Bowie 1974.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/David_Bowie_1974.JPG",
+    "desc": "David Bowie 1974 Young Americans era (age 27)",
+    "tier": 600,
+    "dims": "1091x1421",
+    "license": "Public domain"
+  },
+  {
+    "name": "Stevie Wonder",
+    "title": "File:Stevie Wonder 1967 (1).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Stevie_Wonder_1967_%281%29.jpg",
+    "desc": "Stevie Wonder 1967 (age 17)",
+    "tier": 600,
+    "dims": "2406x3648",
+    "license": "CC0"
+  },
+  {
+    "name": "Aretha Franklin",
+    "title": "File:Aretha franklin 1960s cropped retouched.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Aretha_franklin_1960s_cropped_retouched.jpg",
+    "desc": "Aretha Franklin 1967 (age 25)",
+    "tier": 600,
+    "dims": "769x977",
+    "license": "CC0"
+  },
+  {
+    "name": "Bob Marley",
+    "title": "File:Bob Marley performing in 1976.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bob_Marley_performing_in_1976.jpg",
+    "desc": "Bob Marley 1976 concert (age 31)",
+    "tier": 400,
+    "dims": "1416x1005",
+    "license": "Public domain"
+  },
+  {
+    "name": "Bob Dylan",
+    "title": "File:Bob Dylan 1963 promo photo by Don Hunstein.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg",
+    "desc": "Bob Dylan 1963 promo (age 22)",
+    "tier": 600,
+    "dims": "8872x11280",
+    "license": "Public domain"
+  },
+  {
+    "name": "Jimi Hendrix",
+    "title": "File:Jimi Hendrix (1967) (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg",
+    "desc": "Jimi Hendrix 1967 (age 24)",
+    "tier": 600,
+    "dims": "1335x1900",
+    "license": "Public domain"
+  },
+  {
+    "name": "Kurt Cobain",
+    "title": "File:Kurt Cobain 1992.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kurt_Cobain_1992.jpg",
+    "desc": "Kurt Cobain 1992 (age 25, Nirvana peak)",
+    "tier": 600,
+    "dims": "139x264",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "name": "Amy Winehouse",
+    "title": "File:Amy winehouse 2007.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Amy_winehouse_2007.jpg",
+    "desc": "Amy Winehouse 2007 (age 23)",
+    "tier": 600,
+    "dims": "2112x2816",
+    "license": "CC BY 2.0"
+  },
+  {
+    "name": "Prince",
+    "title": "File:Prince from Under the Cherry Moon, 1986.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Prince_from_Under_the_Cherry_Moon%2C_1986.png",
+    "desc": "Prince 1986 Under the Cherry Moon (age 28)",
+    "tier": 600,
+    "dims": "944x1437",
+    "license": "Public domain"
+  },
+  {
+    "name": "Mariah Carey",
+    "title": "File:Mariah Carey 1990.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mariah_Carey_1990.jpg",
+    "desc": "Mariah Carey 1990 debut (age 20)",
+    "tier": 400,
+    "dims": "554x800",
+    "license": "CC BY-SA 2.0"
+  },
+  {
+    "name": "Beyonce",
+    "title": "File:Beyonce Knowles at age 19 (cropped).jpeg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Beyonce_Knowles_at_age_19_%28cropped%29.jpeg",
+    "desc": "Beyonce age 19, 2001 (Destiny's Child era)",
+    "tier": 400,
+    "dims": "1336x2004",
+    "license": "CC BY 2.0"
+  },
+  {
+    "name": "Jay-Z",
+    "title": "File:Jay-Z-01-mika.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jay-Z-01-mika.jpg",
+    "desc": "Jay-Z 2000 (age 30)",
+    "tier": 400,
+    "dims": "901x1345",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "name": "Eminem",
+    "title": "File:Eminem-01-mika.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Eminem-01-mika.jpg",
+    "desc": "Eminem 1999 (age 27)",
+    "tier": 400,
+    "dims": "1350x905",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "name": "Barack Obama",
+    "title": "File:Barack Obama luncheon in Cairo, Illinois (April 15, 2004).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Barack_Obama_luncheon_in_Cairo%2C_Illinois_%28April_15%2C_2004%29.jpg",
+    "desc": "Obama Illinois Senate campaign 2004 (age 42)",
+    "tier": 200,
+    "dims": "500x333",
+    "license": "Public domain"
+  },
+  {
+    "name": "Bill Clinton",
+    "title": "File:Bill Clinton 1978.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bill_Clinton_1978.jpg",
+    "desc": "Bill Clinton 1978 as AR Governor (age 32)",
+    "tier": 400,
+    "dims": "2952x1987",
+    "license": "Public domain"
+  },
+  {
+    "name": "Donald Trump",
+    "title": "File:Donald Trump in the 1980s (cropped).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Donald_Trump_in_the_1980s_%28cropped%29.jpg",
+    "desc": "Donald Trump 1980s (age ~35)",
+    "tier": 400,
+    "dims": "1865x2445",
+    "license": "Public domain"
+  },
+  {
+    "name": "Hillary Clinton",
+    "title": "File:Hillary Rodham Clinton accepts Intrepid Freedom Award.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Hillary_Rodham_Clinton_accepts_Intrepid_Freedom_Award.jpg",
+    "desc": "Hillary Clinton 2004 receiving award",
+    "tier": 400,
+    "dims": "300x290",
+    "license": "Public domain"
+  },
+  {
+    "name": "Oprah Winfrey",
+    "title": "File:Oprah Winfrey, Akosua Busia and Margaret Avery, 1986.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Oprah_Winfrey%2C_Akosua_Busia_and_Margaret_Avery%2C_1986.jpg",
+    "desc": "Oprah Winfrey 1986 Color Purple era (age 32)",
+    "tier": 400,
+    "dims": "3905x2624",
+    "license": "CC BY 4.0"
+  },
+  {
+    "name": "Steve Jobs",
+    "title": "File:Steve Jobs and Macintosh computer, January 1984, by Bernard Gotfryd - edited.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg",
+    "desc": "Steve Jobs 1984 Macintosh launch (age 28)",
+    "tier": 200,
+    "dims": "3340x4918",
+    "license": "Public domain"
+  },
+  {
+    "name": "Bill Gates",
+    "title": "File:Bill Gates 1977.png",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bill_Gates_1977.png",
+    "desc": "Bill Gates 1977 mugshot (age 22)",
+    "tier": 400,
+    "dims": "172x217",
+    "license": "Public domain"
+  },
+  {
+    "name": "Mark Zuckerberg",
+    "title": "File:MarkZuckerberg-crop.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/MarkZuckerberg-crop.jpg",
+    "desc": "Mark Zuckerberg 2005 (age 21)",
+    "tier": 400,
+    "dims": "399x341",
+    "license": "CC BY 2.5"
+  },
+  {
+    "name": "Keith Richards",
+    "title": "File:Keith Richards (1965).jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Keith_Richards_%281965%29.jpg",
+    "desc": "Keith Richards 1965 (age 21)",
+    "tier": 600,
+    "dims": "750x750",
+    "license": "Public domain"
+  },
+  {
+    "name": "Janis Joplin",
+    "title": "File:Janis Joplin 1969.JPG",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Janis_Joplin_1969.JPG",
+    "desc": "Janis Joplin 1969 (age 26)",
+    "tier": 600,
+    "dims": "555x816",
+    "license": "Public domain"
+  },
+  {
+    "name": "Ellen DeGeneres",
+    "title": "File:Ellen DeGeneres at Emmys.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ellen_DeGeneres_at_Emmys.jpg",
+    "desc": "Ellen DeGeneres 1995 Emmys (age 37)",
+    "tier": 600,
+    "dims": "440x988",
+    "license": "CC BY 2.0"
+  }
+]

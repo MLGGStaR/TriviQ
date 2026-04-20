@@ -1,0 +1,458 @@
+{
+  "200": [
+    {
+      "q": "\"Hola, ¿cómo estás?\"",
+      "a": "Spanish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Bonjour, comment allez-vous?\"",
+      "a": "French",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Guten Tag, wie geht's?\"",
+      "a": "German",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Ciao, come stai?\"",
+      "a": "Italian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Olá, como está?\"",
+      "a": "Portuguese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"こんにちは\" (Konnichiwa)",
+      "a": "Japanese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"你好\" (Nĭ hǎo)",
+      "a": "Mandarin Chinese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"안녕하세요\" (Annyeonghaseyo)",
+      "a": "Korean",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Hallo, hoe gaat het?\"",
+      "a": "Dutch",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Hej, hur mår du?\"",
+      "a": "Swedish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Cześć, jak się masz?\"",
+      "a": "Polish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Привет, как дела?\" (Privet, kak dela?)",
+      "a": "Russian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Merhaba, nasılsın?\"",
+      "a": "Turkish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"مرحبا، كيف حالك؟\"",
+      "a": "Arabic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Γεια σας\" (Yia sas)",
+      "a": "Greek",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Hej, hvordan har du det?\"",
+      "a": "Danish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Hei, hvordan har du det?\"",
+      "a": "Norwegian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Hei, mitä kuuluu?\"",
+      "a": "Finnish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Au revoir!\"",
+      "a": "French",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Danke schön.\"",
+      "a": "German",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Grazie mille!\"",
+      "a": "Italian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Obrigado.\"",
+      "a": "Portuguese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"ありがとう\" (Arigatou)",
+      "a": "Japanese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"谢谢\" (Xièxie)",
+      "a": "Mandarin Chinese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"감사합니다\" (Gamsahamnida)",
+      "a": "Korean",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Спасибо\" (Spasibo)",
+      "a": "Russian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Je t'aime.\"",
+      "a": "French",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Te amo.\"",
+      "a": "Spanish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Ich liebe dich.\"",
+      "a": "German",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"¡Buenos días!\"",
+      "a": "Spanish",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "400": [
+    {
+      "q": "\"Dobrodošli!\" (welcome)",
+      "a": "Croatian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Děkuji\"",
+      "a": "Czech",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Köszönöm\"",
+      "a": "Hungarian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Mulțumesc\"",
+      "a": "Romanian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Благодаря\" (Blagodarya)",
+      "a": "Bulgarian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Dobrodošel, što radiš?\"",
+      "a": "Serbian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Dobrý deň\"",
+      "a": "Slovak",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Labas rytas\"",
+      "a": "Lithuanian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sveiki\"",
+      "a": "Latvian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Tere, kuidas sul läheb?\"",
+      "a": "Estonian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"שלום, מה נשמע?\" (Shalom, ma nishma?)",
+      "a": "Hebrew",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sawubona\"",
+      "a": "Zulu",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"नमस्ते\" (Namaste)",
+      "a": "Hindi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Jambo!\"",
+      "a": "Swahili",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"สวัสดีครับ\" (Sawasdee khrap)",
+      "a": "Thai",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Xin chào\"",
+      "a": "Vietnamese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Selamat pagi\"",
+      "a": "Indonesian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Kumusta ka?\"",
+      "a": "Filipino (Tagalog)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Ma'a as-salaama\"",
+      "a": "Arabic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Saluton, mia amiko!\"",
+      "a": "Esperanto",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Dia dhuit\"",
+      "a": "Irish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Bore da\"",
+      "a": "Welsh",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Hola, què tal?\"",
+      "a": "Catalan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Kaixo, zer moduz?\"",
+      "a": "Basque",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Πώς σε λένε;\" (How are you called?)",
+      "a": "Greek",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Salaam, chetori?\"",
+      "a": "Persian (Farsi)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Ni hao ma?\"",
+      "a": "Mandarin Chinese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"सुप्रभात\" (Suprabhat - good morning)",
+      "a": "Hindi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Jak leci?\" (how's it going?)",
+      "a": "Polish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"สวัสดีค่ะ\" (Sawatdee ka)",
+      "a": "Thai",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "600": [
+    {
+      "q": "\"Nda woye, nde ghin bo?\"",
+      "a": "Yoruba",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Akwaaba!\" (welcome)",
+      "a": "Twi (Akan)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Barka da zuwa\"",
+      "a": "Hausa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Selamat datang\"",
+      "a": "Malay",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Mìngalar bà\"",
+      "a": "Burmese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sawatdee pi mai\" (happy new year)",
+      "a": "Lao",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Ayubowan\"",
+      "a": "Sinhala",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Vanakkam\"",
+      "a": "Tamil",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"নমস্কার\" (Nomoshkar)",
+      "a": "Bengali",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Swastika, namaskar\"",
+      "a": "Nepali",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Minggalarba\"",
+      "a": "Burmese",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Chum reap suor\"",
+      "a": "Khmer (Cambodian)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sat sri akal\"",
+      "a": "Punjabi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Kem cho?\"",
+      "a": "Gujarati",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Halo, apa kabar?\"",
+      "a": "Indonesian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Kia ora\"",
+      "a": "Māori",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Aloha\"",
+      "a": "Hawaiian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Talofa\"",
+      "a": "Samoan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Malo e lelei\"",
+      "a": "Tongan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Bulä!\"",
+      "a": "Fijian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Goeiedag!\"",
+      "a": "Afrikaans",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Molo\"",
+      "a": "Xhosa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sannu\"",
+      "a": "Hausa",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Oo\"",
+      "a": "Oromo",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Selam\"",
+      "a": "Amharic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Salom, yakhshimisiz?\"",
+      "a": "Uzbek",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Salam, sənin adın nədir?\"",
+      "a": "Azerbaijani",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Gamardjoba\"",
+      "a": "Georgian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Barev dzez\"",
+      "a": "Armenian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sănătate!\" (cheers)",
+      "a": "Romanian",
+      "file": "newCategoriesPack2"
+    }
+  ]
+}

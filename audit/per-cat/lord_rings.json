@@ -1,0 +1,503 @@
+{
+  "200": [
+    {
+      "q": "What race is Legolas?",
+      "a": "Elf",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Gandalf's horse called?",
+      "a": "Shadowfax",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the home of the hobbits called?",
+      "a": "The Shire",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What creature does Gandalf fight in Moria?",
+      "a": "Balrog",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What land do Frodo and Bilbo sail to at the end?",
+      "a": "The Undying Lands",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What creature bites off Frodo's finger?",
+      "a": "Gollum",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What forest is home to the Ents?",
+      "a": "Fangorn Forest",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What inn do the hobbits reach in Bree?",
+      "a": "The Prancing Pony",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What creature calls the Ring 'my precious'?",
+      "a": "Gollum",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What race are Frodo and Sam?",
+      "a": "Hobbits",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Who is the ring-bearer of the One Ring?",
+      "a": "Frodo Baggins",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who destroys the One Ring?",
+      "a": "Gollum — he bites it from Frodo and falls into Mount Doom",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Dark Lord of Mordor?",
+      "a": "Sauron",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Frodo's elvish blade?",
+      "a": "Sting — it glows blue when Orcs are near",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What creature is Gollum?",
+      "a": "A Stoor Hobbit originally named Sméagol",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gandalf's horse?",
+      "a": "Shadowfax",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many members in the Fellowship?",
+      "a": "Nine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Aragorn's heritage?",
+      "a": "Heir of Isildur — rightful King of Gondor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Legolas?",
+      "a": "An Elf of Mirkwood — an expert archer and member of the Fellowship",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the One Ring's famous inscription?",
+      "a": "One Ring to rule them all — in the Black Speech of Mordor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Samwise Gamgee?",
+      "a": "Frodo's loyal gardener and closest friend — he carries Frodo up Mount Doom",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Shire?",
+      "a": "The peaceful homeland of Hobbits in northwest Middle-earth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Boromir?",
+      "a": "Son of the Steward of Gondor — he tries to take the Ring but dies protecting Merry and Pippin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Saruman?",
+      "a": "The White Wizard who betrays the order and allies with Sauron",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Éowyn?",
+      "a": "The shieldmaiden of Rohan who kills the Witch-King — No living man am I!",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Rohan?",
+      "a": "The kingdom of horse-lords — allied with Gondor, ruled by King Théoden",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Bilbo Baggins?",
+      "a": "Frodo's uncle who found the Ring during The Hobbit — he carries it for 60 years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mirkwood?",
+      "a": "The vast forest kingdom of the Elves under King Thranduil",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Treebeard?",
+      "a": "The oldest Ent — he leads the Ents to destroy Isengard",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of the Grey Havens?",
+      "a": "The port where Elves sail to the Undying Lands — where Frodo departs at the end",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Faramir?",
+      "a": "Boromir's younger brother — he shows wisdom by not taking the Ring",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "What creature attacks Frodo near Cirith Ungol?",
+      "a": "Shelob",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Aragorn's reforged sword called?",
+      "a": "Anduril",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is the steward of Gondor during Return of the King?",
+      "a": "Denethor",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Aragorn's reforged sword called?",
+      "a": "Anduril",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What glowing gift helps Frodo against Shelob?",
+      "a": "The Phial of Galadriel",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is the Steward of Gondor during the war?",
+      "a": "Denethor",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city does Gondor defend in Return of the King?",
+      "a": "Minas Tirith",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What race is Gimli?",
+      "a": "Dwarf",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What mountain pass does the Fellowship fail to cross before Moria?",
+      "a": "Caradhras",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What river separates the Fellowship before Boromir's fall?",
+      "a": "Anduin",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What rider race serves Rohan?",
+      "a": "Rohirrim",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What city do Frodo and Sam try to reach inside Mordor?",
+      "a": "Mount Doom",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What title does Galadriel hold in Lothlorien?",
+      "a": "Lady of the Wood",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What creature attacks the Fellowship outside Moria's gate?",
+      "a": "Watcher in the Water",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Who is Frodo's most loyal companion?",
+      "a": "Samwise Gamgee",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the wizard who sends Frodo on his quest?",
+      "a": "Gandalf",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the dwarf in the Fellowship?",
+      "a": "Gimli",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the elf archer in the Fellowship?",
+      "a": "Legolas",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Legolas's father?",
+      "a": "Thranduil, King of the Woodland Realm of Mirkwood",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many Ringwraiths are there?",
+      "a": "Nine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Gandalf's sword called?",
+      "a": "Glamdring (also called the Foe-hammer)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Ents?",
+      "a": "Ancient tree shepherds — Treebeard is the oldest living creature in Middle-earth",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Anduril?",
+      "a": "The sword reforged from the shards of Narsil — Aragorn's weapon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many Rings of Power total?",
+      "a": "20: 3 for Elves, 7 for Dwarves, 9 for Men, and the One Ring",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Dead Men of Dunharrow?",
+      "a": "An army of oathbreakers — Aragorn commands them to fulfill their oath and destroy Sauron's fleet",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Shelob?",
+      "a": "An ancient giant spider in Cirith Ungol — she stings Frodo, apparently killing him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Mines of Moria?",
+      "a": "An ancient Dwarf realm — now full of Orcs and the Balrog — the Fellowship passes through",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Denethor?",
+      "a": "The Steward of Gondor — he goes mad with grief, ordering Faramir to certain death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Balrog?",
+      "a": "An ancient fire demon from the Elder Days — Gandalf fights it on the Bridge of Khazad-dûm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Rivendell?",
+      "a": "The Elvish refuge of Elrond — where the Fellowship is formed",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Palantíri?",
+      "a": "Seeing stones allowing distant communication — Sauron corrupted Saruman and Denethor through them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Galadriel?",
+      "a": "The Lady of Lothlórien — one of the most powerful Elves, who resists the temptation of the Ring",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Sam carrying Frodo?",
+      "a": "At Mount Doom, Frodo can no longer walk — Sam carries him up in one of literature's greatest acts of friendship",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the War of the Last Alliance?",
+      "a": "Ancient war shown at the start of Fellowship — Elves and Men united, resulting in Isildur cutting off Sauron's finger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Boromir's death?",
+      "a": "He dies protecting Merry and Pippin — My brother... my captain... my king — a powerful redemption",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "What are the two towers usually understood to be in The Two Towers?",
+      "a": "Orthanc and Barad-dur",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What glowing gift does Galadriel give Frodo?",
+      "a": "The Phial of Galadriel",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What does the word mithril refer to?",
+      "a": "A rare, incredibly light and strong metal",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What alias does Aragorn use in Bree?",
+      "a": "Strider",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What city do the Ring-bearers leave from to sail west?",
+      "a": "The Grey Havens",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What creature attacks the Fellowship outside Moria's doors?",
+      "a": "The Watcher in the Water",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What mountain must the Ring be destroyed in?",
+      "a": "Mount Doom",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What light does Galadriel give Frodo?",
+      "a": "Phial of Galadriel",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What is Saruman's tower called?",
+      "a": "Orthanc",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What forest do the Ents live in?",
+      "a": "Fangorn",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "What king of Rohan is under Saruman's influence?",
+      "a": "Theoden",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What signal lights call Gondor for aid?",
+      "a": "Beacons of Gondor",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What is the name of Aragorn's horse?",
+      "a": "Brego",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What tower holds Sauron's eye?",
+      "a": "Barad-dur",
+      "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What mountain range must the Fellowship cross before Moria?",
+      "a": "Misty Mountains",
+      "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What event do Treebeard and the ents launch against Isengard?",
+      "a": "The Last March of the Ents",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What elven bread do the travelers carry?",
+      "a": "Lembas",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What is the original name of Gollum?",
+      "a": "Sméagol",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Where was the One Ring forged?",
+      "a": "Mount Doom",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Aragorn's sword reforged?",
+      "a": "Andúril",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Bilbo's original name for his elven blade?",
+      "a": "Sting",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Ent leads the assault on Isengard?",
+      "a": "Treebeard",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Gandalf's sword?",
+      "a": "Glamdring",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the Witch-king of Angmar's greatest fear?",
+      "a": "No man can kill him (killed by Éowyn)",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Tom Bombadil?",
+      "a": "A mysterious ancient being in the Old Forest unaffected by the Ring — his nature is never explained",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What language inspired Tolkien's Quenya Elvish?",
+      "a": "Finnish (Quenya); Sindarin was inspired by Welsh",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Silmarillion?",
+      "a": "Tolkien's mythological history covering the creation of the world through all ages",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Valar?",
+      "a": "God-like beings who shaped Middle-earth — the highest power below Ilúvatar (the creator)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Morgoth?",
+      "a": "The first Dark Lord — Sauron was originally his lieutenant. Morgoth was cast into the Void at the end of the First Age",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Isildur keeping the Ring?",
+      "a": "Rather than destroying it as Elrond urges, Isildur keeps it — setting in motion 3,000 years of catastrophe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Akallabêth?",
+      "a": "The tale of the downfall of Númenor — a great island kingdom swallowed by the sea after rebelling against the Valar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the significance of Gandalf being a Maia?",
+      "a": "He is an angelic being sent to guide and inspire — not dominate. His restrictions explain why he doesn't simply overpower evil",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the One Ring's fundamental nature?",
+      "a": "It is an extension of Sauron's will — it seeks to return to its master and corrupts its bearers with desire for power",
+      "file": "App.jsx"
+    }
+  ]
+}

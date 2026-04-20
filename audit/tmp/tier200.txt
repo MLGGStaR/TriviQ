@@ -1,0 +1,691 @@
+=== general ===
+{"q":"How many months have 31 days?","a":"7"}
+{"q":"How many letters are in the English alphabet?","a":"26"}
+{"q":"What is the currency of the United States?","a":"US dollar"}
+{"q":"What instrument tells you which direction is north?","a":"A compass"}
+{"q":"What shape has three sides?","a":"Triangle"}
+{"q":"How many letters are in the English alphabet?","a":"26"}
+{"q":"What gas do plants absorb from the atmosphere?","a":"Carbon dioxide"}
+{"q":"What is the freezing point of water in Fahrenheit?","a":"32°F"}
+{"q":"What shape has 8 sides?","a":"Octagon"}
+{"q":"What is the closest star to Earth?","a":"The Sun"}
+{"q":"What is the largest desert on Earth?","a":"Sahara (or Antarctic)"}
+{"q":"What metal is liquid at room temperature?","a":"Mercury"}
+{"q":"What is the speed of light roughly in km/s?","a":"300,000 km/s"}
+{"q":"How many days in a leap year?","a":"366"}
+{"q":"Largest ocean on Earth?","a":"Pacific Ocean"}
+{"q":"How many sides does a hexagon have?","a":"6"}
+{"q":"Chemical symbol for water?","a":"H₂O"}
+{"q":"How many continents are there?","a":"7"}
+{"q":"Boiling point of water in Celsius?","a":"100°C"}
+{"q":"Capital of the United Kingdom?","a":"London"}
+{"q":"How many hours in a week?","a":"168"}
+{"q":"National language of Brazil?","a":"Portuguese"}
+{"q":"How many strings does a standard guitar have?","a":"6"}
+{"q":"Collective noun for a group of lions?","a":"A pride"}
+{"q":"Capital of China?","a":"Beijing"}
+{"q":"Largest mammal on Earth?","a":"Blue whale"}
+{"q":"Players in a rugby union team?","a":"15"}
+{"q":"Year the Eiffel Tower was completed?","a":"1889"}
+{"q":"Smallest ocean?","a":"Arctic Ocean"}
+{"q":"Chemical symbol for iron?","a":"Fe"}
+{"q":"Capital of Argentina?","a":"Buenos Aires"}
+{"q":"How many minutes in a day?","a":"1,440"}
+{"q":"Closest planet to the Sun?","a":"Mercury"}
+{"q":"Most widely eaten grain in the world?","a":"Rice"}
+{"q":"How many zeros in one million?","a":"6"}
+{"q":"Normal human body temperature?","a":"37°C / 98.6°F"}
+{"q":"National animal of Australia?","a":"Kangaroo (and emu)"}
+{"q":"How many days in February (non-leap year)?","a":"28"}
+{"q":"Tallest animal in the world?","a":"Giraffe"}
+{"q":"How many sides does an octagon have?","a":"8"}
+{"q":"Currency of the UK?","a":"Pound sterling (£)"}
+{"q":"How many weeks in a year?","a":"52"}
+=== geography ===
+{"q":"What is the capital of Thailand?","a":"Bangkok"}
+{"q":"What river flows through Paris?","a":"The Seine"}
+{"q":"What is the capital of Portugal?","a":"Lisbon"}
+{"q":"Capital of Sweden?","a":"Stockholm"}
+{"q":"What river flows through London?","a":"The Thames"}
+{"q":"Capital of Poland?","a":"Warsaw"}
+{"q":"What ocean lies between Africa and Australia?","a":"Indian Ocean"}
+{"q":"What river runs through Paris?","a":"Seine"}
+{"q":"What desert is the largest hot desert?","a":"Sahara"}
+{"q":"What strait separates Asia from North America?","a":"Bering Strait"}
+{"q":"What is the longest wall in the world?","a":"Great Wall of China"}
+{"q":"Capital of Japan?","a":"Tokyo"}
+{"q":"Longest river in the world?","a":"The Nile"}
+{"q":"Which continent is Egypt on?","a":"Africa"}
+{"q":"Ocean between the USA and Europe?","a":"Atlantic Ocean"}
+{"q":"Capital of Australia?","a":"Canberra"}
+{"q":"Tallest mountain in the world?","a":"Mount Everest"}
+{"q":"Capital of Italy?","a":"Rome"}
+{"q":"Capital of Germany?","a":"Berlin"}
+{"q":"Land of the Rising Sun?","a":"Japan"}
+{"q":"Capital of Spain?","a":"Madrid"}
+{"q":"Largest continent by area?","a":"Asia"}
+{"q":"Body of water separating Europe from Africa?","a":"Mediterranean Sea"}
+{"q":"Capital of Russia?","a":"Moscow"}
+{"q":"Capital of the USA?","a":"Washington D.C."}
+{"q":"Capital of Mexico?","a":"Mexico City"}
+{"q":"Capital of India?","a":"New Delhi"}
+{"q":"Which continent has the most countries?","a":"Africa (54 countries)"}
+{"q":"Capital of Egypt?","a":"Cairo"}
+{"q":"Mountain range in Switzerland?","a":"The Alps"}
+{"q":"Capital of South Korea?","a":"Seoul"}
+{"q":"Largest city in the world by population?","a":"Tokyo"}
+{"q":"Capital of Turkey?","a":"Ankara"}
+{"q":"Body of water between Russia and Alaska?","a":"Bering Strait"}
+{"q":"Capital of South Africa?","a":"Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)"}
+{"q":"Capital of Canada?","a":"Ottawa"}
+{"q":"Which country is Iceland closest to geographically?","a":"Greenland"}
+{"q":"Capital of Saudi Arabia?","a":"Riyadh"}
+=== science ===
+{"q":"What process lets plants lose water through their leaves?","a":"Transpiration"}
+{"q":"What is the hardest part of the human tooth?","a":"Enamel"}
+{"q":"What gas makes up most of Earth's atmosphere?","a":"Nitrogen"}
+{"q":"How many colors are in a rainbow?","a":"7"}
+{"q":"What is H2O commonly known as?","a":"Water"}
+{"q":"What part of the body pumps blood?","a":"Heart"}
+{"q":"What is the chemical formula for table salt?","a":"NaCl"}
+{"q":"What is the hottest planet in our solar system?","a":"Venus"}
+{"q":"What type of animal is a frog?","a":"Amphibian"}
+{"q":"What organ is protected by the skull?","a":"Brain"}
+{"q":"What is the center of an atom called?","a":"Nucleus"}
+{"q":"What vitamin do oranges provide?","a":"Vitamin C"}
+{"q":"What is the study of stars called?","a":"Astronomy"}
+{"q":"Gas humans need to breathe?","a":"Oxygen"}
+{"q":"What planet is known as the Red Planet?","a":"Mars"}
+{"q":"Gas plants absorb during photosynthesis?","a":"Carbon dioxide (CO₂)"}
+{"q":"How many chambers does the human heart have?","a":"4"}
+{"q":"Powerhouse of the cell?","a":"Mitochondria"}
+{"q":"Largest planet in our solar system?","a":"Jupiter"}
+{"q":"Force that keeps us on the ground?","a":"Gravity"}
+{"q":"How many chromosomes do humans normally have?","a":"46"}
+{"q":"What does DNA stand for?","a":"Deoxyribonucleic Acid"}
+{"q":"Chemical symbol for gold?","a":"Au"}
+{"q":"What organ filters blood?","a":"Kidneys"}
+{"q":"Boiling point of water in Fahrenheit?","a":"212°F"}
+{"q":"Study of living organisms?","a":"Biology"}
+{"q":"Chemical symbol for oxygen?","a":"O"}
+{"q":"Hardest natural substance?","a":"Diamond"}
+{"q":"How many bones in the human hand?","a":"27"}
+{"q":"Largest organ in the human body?","a":"Skin"}
+{"q":"What causes thunder?","a":"Rapid expansion of air heated by lightning"}
+{"q":"Chemical formula for table salt?","a":"NaCl (sodium chloride)"}
+{"q":"Gas making up most of the air we breathe?","a":"Nitrogen (78%)"}
+{"q":"Unit of measuring electrical current?","a":"Ampere (amp)"}
+{"q":"Center of an atom?","a":"The nucleus"}
+{"q":"What is a herbivore?","a":"An animal that only eats plants"}
+{"q":"Chemical symbol for carbon?","a":"C"}
+{"q":"Water turning into steam?","a":"Evaporation (or vaporisation)"}
+{"q":"What is photosynthesis?","a":"Process by which plants convert sunlight, CO₂ and water into glucose and oxygen"}
+{"q":"How many planets in our solar system?","a":"8"}
+{"q":"What is a black hole?","a":"A region of spacetime with gravity so strong nothing — not even light — can escape"}
+{"q":"What is the function of red blood cells?","a":"Carrying oxygen from the lungs to the rest of the body"}
+{"q":"What are the three states of matter?","a":"Solid, liquid, and gas (plasma is the fourth)"}
+{"q":"What is a neutron?","a":"A subatomic particle in the nucleus with no electric charge"}
+=== history ===
+{"q":"What year did the United States declare independence?","a":"1776"}
+{"q":"What ancient city was destroyed by Mount Vesuvius?","a":"Pompeii"}
+{"q":"What mission first landed humans on the Moon?","a":"Apollo 11"}
+{"q":"Which English king had six wives?","a":"Henry VIII"}
+{"q":"What year did the Western Roman Empire fall?","a":"476 AD"}
+{"q":"Which wall divided Berlin during the Cold War?","a":"The Berlin Wall"}
+{"q":"Who discovered the tomb of Tutankhamun?","a":"Howard Carter"}
+{"q":"What empire was ruled by Julius Caesar?","a":"Roman Empire"}
+{"q":"Who discovered America in 1492?","a":"Christopher Columbus"}
+{"q":"What document begins with 'We the People'?","a":"The U.S. Constitution"}
+{"q":"What was the name of the ship the Pilgrims sailed on?","a":"Mayflower"}
+{"q":"Who was known as the Iron Lady?","a":"Margaret Thatcher"}
+{"q":"What war was fought between the North and South in the US?","a":"Civil War"}
+{"q":"What was the Cold War primarily between?","a":"USA and USSR"}
+{"q":"Who founded the first major Chinese dynasty?","a":"Qin Shi Huang"}
+{"q":"Year the Apollo 11 Moon landing happened?","a":"1969"}
+{"q":"First President of the United States?","a":"George Washington"}
+{"q":"Year World War II ended?","a":"1945"}
+{"q":"Which civilization built the pyramids?","a":"Ancient Egyptians"}
+{"q":"Which ship sank in 1912?","a":"The Titanic"}
+{"q":"Year Columbus first reached the Americas?","a":"1492"}
+{"q":"First man to walk on the Moon?","a":"Neil Armstrong"}
+{"q":"What empire did Genghis Khan rule?","a":"The Mongol Empire"}
+{"q":"Year World War I began?","a":"1914"}
+{"q":"Ancient structure across northern China?","a":"Great Wall of China"}
+{"q":"Who was Cleopatra?","a":"Last active ruler of the Ptolemaic Kingdom of Egypt"}
+{"q":"Year WWI ended?","a":"1918"}
+{"q":"Who invented the telephone?","a":"Alexander Graham Bell (1876)"}
+{"q":"Year the French Revolution began?","a":"1789"}
+{"q":"What was apartheid?","a":"System of institutionalised racial segregation in South Africa (1948–1991)"}
+{"q":"First Emperor of China?","a":"Qin Shi Huang"}
+{"q":"Year Neil Armstrong landed on the Moon?","a":"1969"}
+{"q":"Primary author of the Declaration of Independence?","a":"Thomas Jefferson"}
+{"q":"Year the Magna Carta was signed?","a":"1215"}
+{"q":"Who was Mahatma Gandhi?","a":"Indian lawyer who led India's nonviolent independence movement against British rule"}
+{"q":"Year the Soviet Union collapsed?","a":"1991"}
+{"q":"First woman to fly solo across the Atlantic?","a":"Amelia Earhart (1932)"}
+{"q":"What was the Cold War?","a":"Geopolitical tension between the USA and Soviet Union from 1947 to 1991"}
+{"q":"Who built the Colosseum?","a":"The Roman Empire — under Emperor Vespasian, completed 80 AD"}
+{"q":"Year the Berlin Wall fell?","a":"1989"}
+{"q":"Who was Napoleon Bonaparte?","a":"French military leader and emperor who dominated Europe in the early 19th century"}
+{"q":"What is the Renaissance?","a":"European cultural movement from 14th to 17th century meaning 'rebirth'"}
+{"q":"Who was Julius Caesar?","a":"Roman general and statesman assassinated on the Ides of March, 44 BC"}
+{"q":"Year the Titanic sank?","a":"1912"}
+{"q":"What was the first artificial satellite?","a":"Sputnik 1 (1957, Soviet Union)"}
+=== sports ===
+{"q":"What sport uses a scrum?","a":"Rugby"}
+{"q":"How many points is a safety in American football?","a":"2"}
+{"q":"What color is the middle ring of the Olympic flag?","a":"Black"}
+{"q":"What is the highest score in a single frame of bowling?","a":"30 (strike in 10th frame)"}
+{"q":"How long is a marathon in miles?","a":"26.2 miles"}
+{"q":"How many sets are played in a typical tennis match (men's Grand Slam)?","a":"5"}
+{"q":"What sport does LeBron James play?","a":"Basketball"}
+{"q":"Most FIFA World Cups won?","a":"Brazil (5 times)"}
+{"q":"What is zero called in tennis?","a":"Love"}
+{"q":"Length of a marathon?","a":"42.195 km"}
+{"q":"Rings on the Olympic flag?","a":"5"}
+{"q":"Sport played at Wimbledon?","a":"Tennis"}
+{"q":"Points for a try in rugby union?","a":"5"}
+{"q":"Maximum score in a bowling game?","a":"300"}
+{"q":"Players on a soccer team?","a":"11"}
+{"q":"Sport using a shuttlecock?","a":"Badminton"}
+{"q":"Events in a decathlon?","a":"10"}
+{"q":"What is a hat-trick in football?","a":"Scoring three goals in a single game"}
+{"q":"Length of an Olympic swimming pool?","a":"50 metres"}
+{"q":"How many holes in a golf round?","a":"18"}
+{"q":"Country that invented basketball?","a":"United States (Dr. James Naismith, 1891)"}
+{"q":"Points for a field goal in American football?","a":"3"}
+{"q":"National sport of Japan?","a":"Sumo wrestling"}
+{"q":"Sport of the Tour de France?","a":"Cycling"}
+{"q":"Points for a touchdown in American football?","a":"6"}
+{"q":"Players on a volleyball team?","a":"6"}
+{"q":"What is a birdie in golf?","a":"One stroke under par on a hole"}
+{"q":"What is the offside rule in football?","a":"A player nearer to the opponent's goal than both the ball and the second-to-last opponent when the ball is played to them"}
+{"q":"Sport played at the Augusta National?","a":"Golf (the Masters Tournament)"}
+{"q":"How many periods in an NHL hockey game?","a":"3 periods of 20 minutes"}
+{"q":"What does the yellow jersey mean in Tour de France?","a":"The overall race leader wears it"}
+{"q":"What is a grand slam in tennis?","a":"Winning all four major tournaments in one year"}
+{"q":"Players on an American football team on field?","a":"11"}
+{"q":"What does LBW stand for in cricket?","a":"Leg Before Wicket"}
+{"q":"What sport uses a puck?","a":"Ice hockey"}
+{"q":"What is a penalty shootout?","a":"Teams alternate penalty kicks to decide a tied match"}
+=== country_facts ===
+{"q":"This African nation known as the Land of a Thousand Hills has capital Kigali","a":"Rwanda"}
+{"q":"This Gulf country has capital Muscat","a":"Oman"}
+{"q":"This Baltic country with capital Tallinn is famous for digital government","a":"Estonia"}
+{"q":"This Pacific island nation has capital Suva and is famous for rugby","a":"Fiji"}
+{"q":"This country is famous for tulips, windmills, and Amsterdam","a":"The Netherlands"}
+{"q":"Which country is shaped like a boot?","a":"Italy"}
+{"q":"Which country is famous for the Great Barrier Reef?","a":"Australia"}
+{"q":"Which country is home to the pyramids at Giza?","a":"Egypt"}
+{"q":"Which country is famous for its tango music and dance?","a":"Argentina"}
+{"q":"Which country is known for the Eiffel Tower?","a":"France"}
+{"q":"Which country uses the yen as its currency?","a":"Japan"}
+{"q":"Which country is the world's largest producer of coffee beans?","a":"Brazil"}
+{"q":"Which country is known for tulips, windmills, and wooden clogs?","a":"Netherlands"}
+{"q":"Which country is home to the Inca ruins of Machu Picchu?","a":"Peru"}
+{"q":"Which country gave the world sushi and anime?","a":"Japan"}
+{"q":"Which country is known for the Sphinx and hieroglyphs?","a":"Egypt"}
+{"q":"Which country is the world's largest by land area?","a":"Russia"}
+{"q":"Which country has the most natural lakes?","a":"Canada"}
+{"q":"Which country is famous for cheese and wine and has the Alps to the east?","a":"France"}
+{"q":"Which country is home to Bollywood?","a":"India"}
+{"q":"Which country's flag is a red circle on white?","a":"Japan"}
+{"q":"Which country gave the world tacos and tequila?","a":"Mexico"}
+{"q":"Which country shares the longest border with the United States?","a":"Canada"}
+{"q":"Which country is home to the Amazon rainforest (mostly)?","a":"Brazil"}
+{"q":"Which country is known for the Acropolis and democracy's origins?","a":"Greece"}
+{"q":"Which country is famous for flamenco dancing?","a":"Spain"}
+{"q":"Which country is home to the Maasai Mara reserve?","a":"Kenya"}
+{"q":"Which country is known for Oktoberfest?","a":"Germany"}
+{"q":"Which country is the world's smallest independent state by area?","a":"Vatican City"}
+{"q":"Which country has the world's longest coastline?","a":"Canada"}
+{"q":"Which country is famous for fjords and midnight sun?","a":"Norway"}
+{"q":"Which country hosts the annual Rio Carnival?","a":"Brazil"}
+{"q":"Which country is famous for mozzarella and Vespa scooters?","a":"Italy"}
+{"q":"Which country's flag bears a red maple leaf?","a":"Canada"}
+{"q":"Which country is home to the Taj Mahal?","a":"India"}
+{"q":"Which country is known as the Land of a Thousand Lakes?","a":"Finland"}
+{"q":"Which country is famous for its vodka and matryoshka dolls?","a":"Russia"}
+{"q":"This country has the most pyramids in the world — more than Egypt","a":"Sudan"}
+{"q":"This tiny country is completely surrounded by Italy — home to the smallest republic in the world","a":"San Marino"}
+{"q":"This country is where the World Cup was held in 2022 — known for its futuristic skyline and extreme wealth","a":"Qatar"}
+=== space ===
+{"q":"Which planet is closest to the Sun?","a":"Mercury"}
+{"q":"Which planet is known as the Red Planet?","a":"Mars"}
+{"q":"Which planet has the most visible rings?","a":"Saturn"}
+{"q":"Which is the largest planet in our solar system?","a":"Jupiter"}
+{"q":"What star is at the center of our solar system?","a":"The Sun"}
+{"q":"Which galaxy do we live in?","a":"The Milky Way"}
+{"q":"Who was the first human to walk on the Moon?","a":"Neil Armstrong"}
+{"q":"How long does it take light from the Sun to reach Earth?","a":"About 8 minutes"}
+{"q":"Which planet is famous for its Great Red Spot?","a":"Jupiter"}
+{"q":"What do we call a collection of stars forming a pattern?","a":"A constellation"}
+{"q":"Which planet is tilted on its side?","a":"Uranus"}
+{"q":"What is the name of the North Star?","a":"Polaris"}
+{"q":"Which is the outermost planet in our solar system?","a":"Neptune"}
+{"q":"What is a light-year?","a":"The distance light travels in one year"}
+{"q":"What company founded by Elon Musk runs private space launches?","a":"SpaceX"}
+{"q":"What was the first artificial satellite?","a":"Sputnik 1"}
+{"q":"Which planet has a day longer than its year?","a":"Venus"}
+{"q":"What is a shooting star really?","a":"A meteor"}
+{"q":"Which celestial body causes ocean tides on Earth?","a":"The Moon"}
+{"q":"What pulls objects toward the center of a planet?","a":"Gravity"}
+{"q":"What is Earth's closest planetary neighbor on one side?","a":"Venus"}
+{"q":"What is Earth's closest planetary neighbor on the other side?","a":"Mars"}
+{"q":"Which planet rotates the fastest?","a":"Jupiter"}
+{"q":"How many planets are in our solar system?","a":"8"}
+{"q":"What is the name of our own moon?","a":"Luna"}
+{"q":"Which mission first landed humans on the Moon?","a":"Apollo 11"}
+{"q":"What do astronauts wear to survive outside a spacecraft?","a":"A spacesuit"}
+{"q":"What is a solar eclipse?","a":"When the Moon blocks the Sun's light from Earth"}
+{"q":"What is the phase when we see no Moon at all?","a":"New moon"}
+{"q":"Which U.S. space agency put people on the Moon?","a":"NASA"}
+=== math ===
+{"q":"What is 12 + 8?","a":"20"}
+{"q":"What is 15 × 3?","a":"45"}
+{"q":"What is 100 − 37?","a":"63"}
+{"q":"What is 144 ÷ 12?","a":"12"}
+{"q":"What is 7 squared?","a":"49"}
+{"q":"What is the square root of 81?","a":"9"}
+{"q":"What is 25% of 80?","a":"20"}
+{"q":"What is 1/2 + 1/4?","a":"3/4"}
+{"q":"What is 3 × 7 × 2?","a":"42"}
+{"q":"What is 9 × 11?","a":"99"}
+{"q":"What is 17 + 23?","a":"40"}
+{"q":"What is 6 factorial?","a":"720"}
+{"q":"What is 2 + 2 × 3 (order of operations)?","a":"8"}
+{"q":"What is the sum of angles in a triangle?","a":"180 degrees"}
+{"q":"What is 1000 − 1?","a":"999"}
+{"q":"What is 8 × 8?","a":"64"}
+{"q":"What is half of 100?","a":"50"}
+{"q":"What is 3 to the power of 4?","a":"81"}
+{"q":"What is 15 + 25 + 35?","a":"75"}
+{"q":"What is the perimeter of a square with side 5?","a":"20"}
+{"q":"What is the area of a rectangle with width 4 and length 7?","a":"28"}
+{"q":"What is 50 × 50?","a":"2500"}
+{"q":"What is 0 factorial?","a":"1"}
+{"q":"What is 11 × 12?","a":"132"}
+{"q":"What is 28 ÷ 7?","a":"4"}
+{"q":"What is 10% of 200?","a":"20"}
+{"q":"What number comes next: 2, 4, 8, 16?","a":"32"}
+{"q":"What number comes next: 1, 1, 2, 3, 5, 8?","a":"13"}
+{"q":"How many degrees is a right angle?","a":"90"}
+{"q":"What is 13 × 13?","a":"169"}
+{"q":"What is 9 times 7?","a":"63"}
+{"q":"How many degrees are in a straight line?","a":"180"}
+{"q":"What is 15% of 200?","a":"30"}
+=== music ===
+{"q":"How many lines are on a standard music staff?","a":"5"}
+{"q":"What instrument was Louis Armstrong famous for playing?","a":"Trumpet"}
+{"q":"Which band released Wonderwall?","a":"Oasis"}
+{"q":"What symbol raises a note by a semitone?","a":"A sharp"}
+{"q":"Who is known as the Boss in rock music?","a":"Bruce Springsteen"}
+{"q":"What family of instruments does the clarinet belong to?","a":"Woodwind"}
+{"q":"Who sang 'Bohemian Rhapsody'?","a":"Queen / Freddie Mercury"}
+{"q":"Who is known as the 'King of Rock and Roll'?","a":"Elvis Presley"}
+{"q":"What genre of music originated in Jamaica?","a":"Reggae"}
+{"q":"What boy band released 'Bye Bye Bye'?","a":"NSYNC"}
+{"q":"What instrument is Jimi Hendrix famous for?","a":"Electric guitar"}
+{"q":"How many strings does a standard violin have?","a":"4"}
+{"q":"What female artist sang 'Like a Virgin'?","a":"Madonna"}
+{"q":"What genre did Elvis help popularize?","a":"Rock and roll"}
+{"q":"What country is K-pop from?","a":"South Korea"}
+{"q":"Who is the lead vocalist of Maroon 5?","a":"Adam Levine"}
+{"q":"Band that performed Bohemian Rhapsody?","a":"Queen"}
+{"q":"King of Pop?","a":"Michael Jackson"}
+{"q":"Best-selling album of all time?","a":"Thriller by Michael Jackson"}
+{"q":"Who sang Halo and Single Ladies?","a":"Beyoncé"}
+{"q":"Who composed the Four Seasons?","a":"Antonio Vivaldi"}
+{"q":"Band behind Hotel California?","a":"Eagles"}
+{"q":"Who sang Shape of You?","a":"Ed Sheeran"}
+{"q":"Which band is Freddie Mercury from?","a":"Queen"}
+{"q":"What nationality is Adele?","a":"British (English)"}
+{"q":"Who sang Blinding Lights?","a":"The Weeknd"}
+{"q":"Taylor Swift's debut album?","a":"Taylor Swift (self-titled, 2006)"}
+{"q":"Band behind Smells Like Teen Spirit?","a":"Nirvana"}
+{"q":"Queen of Pop?","a":"Madonna"}
+{"q":"Who sang Someone Like You?","a":"Adele"}
+{"q":"Band behind We Will Rock You?","a":"Queen"}
+{"q":"Who sang Uptown Funk?","a":"Bruno Mars (featuring Mark Ronson)"}
+{"q":"Who sang Bad Guy?","a":"Billie Eilish"}
+{"q":"Who sang Stairway to Heaven?","a":"Led Zeppelin"}
+{"q":"What does a conductor do?","a":"Leads and coordinates the musicians, interpreting the music"}
+{"q":"Who sang Despacito?","a":"Luis Fonsi (featuring Daddy Yankee)"}
+{"q":"What is a duet?","a":"A musical performance by two performers"}
+{"q":"Who sang Lose Yourself?","a":"Eminem"}
+{"q":"Who sang All I Want for Christmas Is You?","a":"Mariah Carey"}
+{"q":"What is AC/DC's most famous song?","a":"Back in Black (or Highway to Hell)"}
+{"q":"Country music capital of the world?","a":"Nashville, Tennessee"}
+=== movies ===
+{"q":"Who directed E.T. the Extra-Terrestrial?","a":"Steven Spielberg"}
+{"q":"What is the highest-grossing film of all time?","a":"Avatar"}
+{"q":"Who directed 'Titanic'?","a":"James Cameron"}
+{"q":"What movie franchise features Dominic Toretto?","a":"Fast and Furious"}
+{"q":"Who plays Wolverine in the X-Men films?","a":"Hugh Jackman"}
+{"q":"What animated film features a rat who wants to cook?","a":"Ratatouille"}
+{"q":"What superhero movie made over $2 billion in 2019?","a":"Avengers: Endgame"}
+{"q":"Who voices Shrek?","a":"Mike Myers"}
+{"q":"What is the name of Batman's butler?","a":"Alfred"}
+{"q":"Director of The Godfather?","a":"Francis Ford Coppola"}
+{"q":"Who voiced Woody in Toy Story?","a":"Tom Hanks"}
+{"q":"Who played Forrest Gump?","a":"Tom Hanks"}
+{"q":"First Disney animated feature film?","a":"Snow White and the Seven Dwarfs (1937)"}
+{"q":"Who plays Tony Montana in Scarface?","a":"Al Pacino"}
+{"q":"Year the first Star Wars film released?","a":"1977"}
+{"q":"Film featuring Katniss Everdeen?","a":"The Hunger Games"}
+{"q":"Who played Iron Man in the MCU?","a":"Robert Downey Jr."}
+{"q":"Film set on planet Pandora?","a":"Avatar (2009)"}
+{"q":"Director of Jurassic Park?","a":"Steven Spielberg"}
+{"q":"Film featuring Let It Go?","a":"Frozen (2013)"}
+{"q":"Film with the quote Why so serious??","a":"The Dark Knight (2008)"}
+{"q":"Who played Hannibal Lecter in Silence of the Lambs?","a":"Anthony Hopkins"}
+{"q":"Film with the line I see dead people?","a":"The Sixth Sense (1999)"}
+{"q":"Who plays Hermione Granger in Harry Potter?","a":"Emma Watson"}
+{"q":"Film about a stranded astronaut on Mars?","a":"The Martian (2015)"}
+{"q":"Who played Jack in Titanic?","a":"Leonardo DiCaprio"}
+{"q":"Film featuring the Parr family?","a":"The Incredibles (2004)"}
+{"q":"Who played Neo in The Matrix?","a":"Keanu Reeves"}
+{"q":"Film with the quote You had me at hello?","a":"Jerry Maguire (1996)"}
+{"q":"Who played the Joker in the 2019 film?","a":"Joaquin Phoenix"}
+{"q":"Year Titanic was released?","a":"1997"}
+{"q":"Who plays Thor in the MCU?","a":"Chris Hemsworth"}
+{"q":"Who directed the Nolan Batman trilogy?","a":"Christopher Nolan"}
+{"q":"Animated film featuring the rat chef Remy?","a":"Ratatouille (2007)"}
+{"q":"Who played Maximus in Gladiator?","a":"Russell Crowe"}
+{"q":"First Pixar film?","a":"Toy Story (1995)"}
+{"q":"Film franchise featuring Dominic Toretto?","a":"Fast & Furious"}
+{"q":"Who directed Pulp Fiction?","a":"Quentin Tarantino"}
+=== technology ===
+{"q":"What does 'CPU' stand for?","a":"Central Processing Unit"}
+{"q":"Which company makes the iPhone?","a":"Apple"}
+{"q":"What does 'WWW' stand for?","a":"World Wide Web"}
+{"q":"Which search engine is the most popular worldwide?","a":"Google"}
+{"q":"What does 'PDF' stand for?","a":"Portable Document Format"}
+{"q":"What does 'USB' stand for?","a":"Universal Serial Bus"}
+{"q":"What is the brain of a computer called?","a":"CPU"}
+{"q":"Which messaging app uses a green speech bubble logo and was bought by Facebook?","a":"WhatsApp"}
+{"q":"What does 'Wi-Fi' allow you to do?","a":"Connect to the internet wirelessly"}
+{"q":"What does 'AI' stand for?","a":"Artificial Intelligence"}
+{"q":"Which company owns Instagram?","a":"Meta (Facebook)"}
+{"q":"What is 'app' short for?","a":"Application"}
+{"q":"Which company makes the Galaxy line of phones?","a":"Samsung"}
+{"q":"What does 'ROM' stand for?","a":"Read-Only Memory"}
+{"q":"What does 'RAM' stand for?","a":"Random Access Memory"}
+{"q":"What is the name of Apple's voice assistant?","a":"Siri"}
+{"q":"Which company makes Pixel phones?","a":"Google"}
+{"q":"What is the name of the most popular video conferencing app launched in 2011 starting with 'Z'?","a":"Zoom"}
+{"q":"Which device do you use to point and click on a computer screen?","a":"Mouse"}
+{"q":"What is the name of Microsoft's web browser launched in 2015?","a":"Microsoft Edge"}
+{"q":"What does 'GB' stand for in storage?","a":"Gigabyte"}
+{"q":"Which company makes the MacBook?","a":"Apple"}
+{"q":"What is the name of the famous open-source operating system kernel created by Linus Torvalds?","a":"Linux"}
+{"q":"What does 'Bluetooth' connect?","a":"Devices wirelessly"}
+{"q":"What does 'OS' stand for?","a":"Operating System"}
+{"q":"What does 'GPS' stand for?","a":"Global Positioning System"}
+{"q":"What is the most popular programming language in the world?","a":"JavaScript (or Python)"}
+{"q":"What does 'LED' stand for?","a":"Light Emitting Diode"}
+{"q":"What company makes the MacBook?","a":"Apple"}
+{"q":"What is cloud computing?","a":"Storing and accessing data over the internet"}
+{"q":"What does a router do?","a":"Directs network traffic between devices"}
+{"q":"What is the most-used web browser?","a":"Chrome"}
+{"q":"What company makes Alexa?","a":"Amazon"}
+{"q":"What does 'FAQ' stand for?","a":"Frequently Asked Questions"}
+{"q":"What is a firewall?","a":"Security system that monitors network traffic"}
+{"q":"What does 'NFC' stand for?","a":"Near Field Communication"}
+{"q":"What device reads QR codes?","a":"Smartphone camera"}
+{"q":"What does 'HDMI' stand for?","a":"High-Definition Multimedia Interface"}
+{"q":"What is the cloud?","a":"Remote servers accessed over the internet"}
+{"q":"What year was the iPad first released?","a":"2010"}
+=== pop_culture ===
+{"q":"Which app is famous for short dance videos?","a":"TikTok"}
+{"q":"Who is Beyoncé's husband?","a":"Jay-Z"}
+{"q":"Which streaming service has the red 'N' logo?","a":"Netflix"}
+{"q":"Which boy band sang 'I Want It That Way'?","a":"Backstreet Boys"}
+{"q":"Which Kardashian sister founded the brand 'SKIMS'?","a":"Kim Kardashian"}
+{"q":"Which singer released 'Bad Guy' in 2019?","a":"Billie Eilish"}
+{"q":"What is the name of the platform formerly known as Twitter?","a":"X"}
+{"q":"Which famous Italian fashion brand has a Medusa logo?","a":"Versace"}
+{"q":"Which video site is the largest in the world?","a":"YouTube"}
+{"q":"Which app's logo is a yellow ghost on a yellow background?","a":"Snapchat"}
+{"q":"Which Disney movie features Elsa and Anna?","a":"Frozen"}
+{"q":"Which app uses a pink-and-white camera logo?","a":"Instagram"}
+{"q":"Which singer married Justin Bieber?","a":"Hailey Baldwin"}
+{"q":"Which animated franchise features a yellow sponge?","a":"SpongeBob SquarePants"}
+{"q":"Who is the lead singer of Coldplay?","a":"Chris Martin"}
+{"q":"Which fast food chain has golden arches?","a":"McDonald's"}
+{"q":"Which game show host hosted 'Wheel of Fortune' for decades?","a":"Pat Sajak"}
+{"q":"Which singer is known as 'Slim Shady'?","a":"Eminem"}
+{"q":"Which Apple product is a smartphone?","a":"iPhone"}
+{"q":"Which sport is Tom Brady famous for?","a":"American football"}
+{"q":"What social media platform has a bird (now X) logo?","a":"Twitter (X)"}
+{"q":"Who is the most followed person on Instagram?","a":"Cristiano Ronaldo"}
+{"q":"What dating app do you swipe right on?","a":"Tinder"}
+{"q":"What band sang 'Yesterday'?","a":"The Beatles"}
+{"q":"What is the most streamed song on Spotify of all time?","a":"Blinding Lights (The Weeknd)"}
+{"q":"Who is the most subscribed YouTuber (channel)?","a":"MrBeast"}
+{"q":"What singer is known as 'Riri'?","a":"Rihanna"}
+{"q":"What reality show sends contestants to find love on an island?","a":"Love Island"}
+{"q":"What platform is known for short-form vertical videos?","a":"TikTok"}
+{"q":"What comic book character is 'the Dark Knight'?","a":"Batman"}
+{"q":"What pop star has an 'Eras Tour'?","a":"Taylor Swift"}
+{"q":"Which social app is known for short dance and lip-sync videos that went viral in 2020?","a":"TikTok"}
+=== marvel ===
+{"q":"What is Peter Quill's alias?","a":"Star-Lord"}
+{"q":"Who is Scott Lang?","a":"Ant-Man"}
+{"q":"What is Natasha Romanoff's superhero name?","a":"Black Widow"}
+{"q":"What is Wanda Maximoff's brother's name in the MCU?","a":"Pietro Maximoff"}
+{"q":"What is the name of Peter Parker's classmate best friend?","a":"Ned Leeds"}
+{"q":"Who snapped to destroy Thanos's army in Endgame?","a":"Tony Stark / Iron Man"}
+{"q":"What infinity stone is in Vision's forehead?","a":"Mind Stone"}
+{"q":"Who is the first Avenger?","a":"Captain America"}
+{"q":"Who plays Thanos?","a":"Josh Brolin"}
+{"q":"How many Infinity Stones are there?","a":"6"}
+{"q":"What is Hawkeye's real name?","a":"Clint Barton"}
+{"q":"Who directed 'The Avengers' (2012)?","a":"Joss Whedon"}
+{"q":"What is Black Widow's real name?","a":"Natasha Romanoff"}
+{"q":"Tony Stark's superhero name?","a":"Iron Man"}
+{"q":"Thor's hammer name?","a":"Mjolnir"}
+{"q":"Real name of the Hulk?","a":"Dr. Bruce Banner"}
+{"q":"Who is Peter Parker?","a":"Spider-Man"}
+{"q":"Thor's home world?","a":"Asgard"}
+{"q":"Villain in the first Avengers movie?","a":"Loki"}
+{"q":"Infinity Stone in Vision's forehead?","a":"The Mind Stone"}
+{"q":"Who plays Spider-Man in the MCU?","a":"Tom Holland"}
+{"q":"Black Panther's country?","a":"Wakanda"}
+{"q":"Who plays Nick Fury?","a":"Samuel L. Jackson"}
+{"q":"Groot's only phrase?","a":"I am Groot"}
+{"q":"What color is Iron Man's suit?","a":"Red and gold"}
+{"q":"What is the Infinity Gauntlet?","a":"A glove holding all six Infinity Stones, granting near-omnipotent power"}
+{"q":"What is Vibranium?","a":"Fictional metal found in Wakanda — absorbs kinetic energy"}
+{"q":"Who is Black Widow?","a":"Natasha Romanoff — former Soviet spy turned Avenger"}
+{"q":"What does HYDRA want?","a":"World domination — a villainous organization from within SHIELD"}
+{"q":"Who is Hawkeye?","a":"Clint Barton — expert archer and founding Avenger"}
+{"q":"What are the Infinity Stones?","a":"Six powerful gems controlling Space, Mind, Reality, Power, Time, and Soul"}
+{"q":"Who is Vision?","a":"An android created by Ultron using the Mind Stone, Vibranium, and Tony's JARVIS AI"}
+{"q":"What is the Bifrost?","a":"A rainbow bridge in Asgard enabling travel between the Nine Realms"}
+{"q":"Who plays Doctor Strange?","a":"Benedict Cumberbatch"}
+{"q":"Who is Captain Marvel?","a":"Carol Danvers — former US Air Force pilot with cosmic energy powers"}
+{"q":"What is Ant-Man's ability?","a":"He can shrink to microscopic size or grow to enormous size using a special suit"}
+{"q":"Who is the raccoon in Guardians of the Galaxy?","a":"Rocket Raccoon"}
+{"q":"Who plays Black Panther?","a":"Chadwick Boseman (first three films)"}
+{"q":"Who is Thanos?","a":"A powerful cosmic villain who wants to wipe out half of all life in the universe"}
+{"q":"What is Captain America's shield made of?","a":"Vibranium"}
+{"q":"Name the three Spider-Men in No Way Home.","a":"Tom Holland, Andrew Garfield, and Tobey Maguire"}
+{"q":"What is the Quantum Realm?","a":"A subatomic dimension — key to time travel in Endgame"}
+{"q":"What is Thor's axe in Infinity War called?","a":"Stormbreaker"}
+=== harry_potter ===
+{"q":"What house is Luna Lovegood in?","a":"Ravenclaw"}
+{"q":"What is the name of Hagrid's giant dog?","a":"Fang"}
+{"q":"What spell opens locked doors?","a":"Alohomora"}
+{"q":"What is Hagrid's three-headed dog called?","a":"Fluffy"}
+{"q":"What school does Harry attend?","a":"Hogwarts"}
+{"q":"What sport is played on broomsticks?","a":"Quidditch"}
+{"q":"Who is the headmaster of Hogwarts?","a":"Albus Dumbledore"}
+{"q":"What platform does the Hogwarts Express leave from?","a":"Platform 9¾"}
+{"q":"Who is Harry's enemy at school?","a":"Draco Malfoy"}
+{"q":"What is the name of the villain?","a":"Lord Voldemort"}
+{"q":"Who plays Harry Potter in the films?","a":"Daniel Radcliffe"}
+{"q":"What is Hermione's last name?","a":"Granger"}
+{"q":"What is the name of Hagrid's pet dragon?","a":"Norbert"}
+{"q":"What is the magical map called?","a":"Marauder's Map"}
+{"q":"What house is known for cunning and ambition?","a":"Slytherin"}
+{"q":"Harry Potter's Hogwarts house?","a":"Gryffindor"}
+{"q":"Name of Harry's owl?","a":"Hedwig"}
+{"q":"Spell that disarms an opponent?","a":"Expelliarmus"}
+{"q":"What does Lumos do?","a":"Lights up the tip of your wand"}
+{"q":"The wizarding prison?","a":"Azkaban"}
+{"q":"Harry's Quidditch position?","a":"Seeker"}
+{"q":"Harry's godfather?","a":"Sirius Black"}
+{"q":"Form of Hermione's Patronus?","a":"An otter"}
+{"q":"Harry's best friend?","a":"Ron Weasley"}
+{"q":"Dumbledore's role at Hogwarts?","a":"Headmaster"}
+{"q":"Train to Hogwarts?","a":"The Hogwarts Express — from Platform 9¾"}
+{"q":"Who is Neville Longbottom?","a":"A fellow Gryffindor who kills Nagini with the Sword of Gryffindor"}
+{"q":"What is a Horcrux?","a":"An object containing a fragment of a dark wizard's soul"}
+{"q":"What is the Golden Snitch?","a":"A small winged ball — catching it ends the Quidditch match and scores 150 points"}
+{"q":"What is Diagon Alley?","a":"A hidden wizarding shopping street in London"}
+{"q":"What are house elves?","a":"Magical creatures bound to serve wizarding families — Dobby is the most famous"}
+{"q":"Who is Voldemort?","a":"The Dark Lord — born Tom Marvolo Riddle — who killed Harry's parents"}
+{"q":"What is a Muggle?","a":"A non-magical person"}
+{"q":"Levitation spell?","a":"Wingardium Leviosa"}
+{"q":"Four Hogwarts houses?","a":"Gryffindor, Slytherin, Ravenclaw, and Hufflepuff"}
+{"q":"Who is Rubeus Hagrid?","a":"Keeper of Keys and Grounds at Hogwarts — Harry's first connection to the wizarding world"}
+{"q":"What does Accio do?","a":"Summons an object to the caster — a Summoning Charm"}
+{"q":"What is butterbeer?","a":"A popular wizarding drink served at the Three Broomsticks — slightly warming"}
+{"q":"What is the Sorting Hat?","a":"A magical hat that places new students into their Hogwarts house"}
+{"q":"Who is Professor McGonagall?","a":"Deputy Headmistress, Transfiguration teacher, and head of Gryffindor house"}
+{"q":"What is the Forbidden Forest?","a":"A dark, dangerous forest on Hogwarts grounds — home to centaurs, unicorns, and giant spiders"}
+{"q":"What is Polyjuice Potion?","a":"A potion temporarily transforming the drinker into another person's physical appearance"}
+{"q":"What is the Chamber of Secrets?","a":"A hidden chamber in Hogwarts created by Salazar Slytherin — home to the Basilisk"}
+{"q":"Ron's rat's real identity?","a":"Peter Pettigrew (Wormtail) — hiding in Animagus form for 12 years"}
+{"q":"What does a Boggart transform into?","a":"The viewer's greatest fear"}
+=== star_wars ===
+{"q":"What is the name of Han Solo's Wookiee copilot?","a":"Chewbacca"}
+{"q":"What planet is famous for Ewoks?","a":"Endor"}
+{"q":"What weapon do Jedi traditionally use?","a":"Lightsabers"}
+{"q":"What planet is Princess Leia from?","a":"Alderaan"}
+{"q":"Who is Luke Skywalker's father?","a":"Darth Vader"}
+{"q":"What is the weapon of a Jedi?","a":"Lightsaber"}
+{"q":"Who is the small green Jedi Master?","a":"Yoda"}
+{"q":"What is the name of Han Solo's ship?","a":"Millennium Falcon"}
+{"q":"Who plays Han Solo in the original trilogy?","a":"Harrison Ford"}
+{"q":"What is the evil empire called?","a":"Galactic Empire"}
+{"q":"Who is Luke's twin sister?","a":"Leia Organa"}
+{"q":"What is the signature phrase 'May the ___ be with you'?","a":"Force"}
+{"q":"Who shot first in the cantina?","a":"Han Solo (original version)"}
+{"q":"What furry creatures live on Endor?","a":"Ewoks"}
+{"q":"Who directed the original Star Wars (1977)?","a":"George Lucas"}
+{"q":"What is Darth Vader's real name?","a":"Anakin Skywalker"}
+{"q":"What is the bounty hunter who captures Han Solo?","a":"Boba Fett"}
+{"q":"Luke Skywalker's father?","a":"Darth Vader (Anakin Skywalker)"}
+{"q":"Han Solo's ship?","a":"The Millennium Falcon"}
+{"q":"Color of Mace Windu's lightsaber?","a":"Purple"}
+{"q":"Species of Chewbacca?","a":"Wookiee"}
+{"q":"Who says Do or do not, there is no try?","a":"Yoda"}
+{"q":"Planet destroyed by the Death Star?","a":"Alderaan"}
+{"q":"Baby Yoda's real name?","a":"Grogu"}
+{"q":"Who trained Obi-Wan Kenobi?","a":"Qui-Gon Jinn"}
+{"q":"What is the Force?","a":"An energy field created by all living things that binds the galaxy together"}
+{"q":"Color of Darth Vader's lightsaber?","a":"Red"}
+{"q":"Luke's home planet?","a":"Tatooine"}
+{"q":"Empire's massive superweapon?","a":"The Death Star"}
+{"q":"Who voices Darth Vader?","a":"James Earl Jones"}
+{"q":"Who is the Emperor?","a":"Palpatine / Darth Sidious — the Sith Lord ruling the Galactic Empire"}
+{"q":"What are X-Wings?","a":"The main starfighter used by the Rebel Alliance"}
+{"q":"What is a Jedi?","a":"A Force-sensitive member of the peacekeeping order serving the light side"}
+{"q":"What is the Sith?","a":"An ancient order of Force users serving the dark side — fueled by passion and anger"}
+{"q":"Who is Jabba the Hutt?","a":"A powerful crime lord on Tatooine"}
+{"q":"What is a lightsaber made of?","a":"A plasma blade powered by a kyber crystal"}
+{"q":"Who is Yoda?","a":"A legendary Jedi Grand Master — one of the oldest and most powerful Jedi ever"}
+{"q":"What is the Rebel Alliance?","a":"The resistance movement fighting against the Galactic Empire"}
+{"q":"What built C-3PO?","a":"Anakin Skywalker built him as a child on Tatooine"}
+{"q":"Who is Lando Calrissian?","a":"A charming scoundrel, former owner of the Millennium Falcon, general in the Rebel Alliance"}
+{"q":"What are Stormtroopers?","a":"The Empire's infantry soldiers in white armour"}
+{"q":"What is the Galactic Empire?","a":"The authoritarian government that controls the galaxy after the fall of the Republic"}
+{"q":"Who is Princess Leia?","a":"A leader of the Rebel Alliance and later the Resistance — played by Carrie Fisher"}
+{"q":"What is Order 66?","a":"A secret command that programmed clone troopers to simultaneously kill all Jedi"}
+{"q":"What are the two suns on Tatooine called?","a":"Tatoo I and Tatoo II"}
+{"q":"Who is Ahsoka Tano?","a":"Anakin Skywalker's former Padawan — she left the Order and became an independent Force user"}
+{"q":"What is the significance of Rogue One?","a":"It shows how the Rebel Alliance stole the Death Star plans — filling the gap before A New Hope"}
+=== dc ===
+{"q":"What city does Wonder Woman come from?","a":"Themyscira"}
+{"q":"Who is Superman's cousin?","a":"Supergirl"}
+{"q":"What is the name of Batman's company?","a":"Wayne Enterprises"}
+{"q":"What city does Clark Kent work in for the Daily Planet?","a":"Metropolis"}
+{"q":"What kingdom does Aquaman rule?","a":"Atlantis"}
+{"q":"What word does Billy Batson say to transform?","a":"Shazam"}
+{"q":"Batman's real name?","a":"Bruce Wayne"}
+{"q":"Superman's weakness?","a":"Kryptonite"}
+{"q":"Batman's nemesis?","a":"The Joker"}
+{"q":"Superman's home planet?","a":"Krypton"}
+{"q":"What does DC stand for?","a":"Detective Comics"}
+{"q":"Batman's butler?","a":"Alfred Pennyworth"}
+{"q":"Aquaman's real name?","a":"Arthur Curry"}
+{"q":"City Superman protects?","a":"Metropolis"}
+{"q":"Batman's sidekick?","a":"Robin (Dick Grayson was first)"}
+{"q":"The Flash's superpower?","a":"Super speed — fastest man alive"}
+{"q":"Who is Lex Luthor?","a":"Superman's arch-nemesis — brilliant but ruthless billionaire"}
+{"q":"Green Lantern's power source?","a":"Willpower"}
+{"q":"Who plays Batman in the Nolan trilogy?","a":"Christian Bale"}
+{"q":"Wonder Woman's weapon?","a":"The Lasso of Truth — and Amazonian sword and shield"}
+{"q":"Batman's city?","a":"Gotham City"}
+{"q":"What is the Bat-Signal?","a":"A large searchlight in Gotham used to summon Batman"}
+{"q":"Who is Darkseid?","a":"The ruler of Apokolips — DC's most powerful villain, seeking the Anti-Life Equation"}
+{"q":"Who created Superman?","a":"Jerry Siegel and Joe Shuster — first appeared in Action Comics #1 in 1938"}
+{"q":"Who is Cyborg?","a":"Victor Stone — athlete whose body was partially replaced with cybernetic technology"}
+{"q":"What is kryptonite?","a":"Radioactive material from Superman's home planet — weakens and can kill him"}
+{"q":"Who is Catwoman?","a":"Selina Kyle — a skilled thief with a complicated romantic history with Batman"}
+{"q":"What is the Batmobile?","a":"Batman's armoured high-performance vehicle"}
+{"q":"Superman's Kryptonian name?","a":"Kal-El"}
+{"q":"Who is Nightwing?","a":"Dick Grayson — the original Robin who grew up and became his own hero"}
+{"q":"Who is Poison Ivy?","a":"A villain obsessed with plants using pheromones and toxins — often linked with Harley Quinn"}
+{"q":"What is the Justice League?","a":"DC's superhero team — Batman, Superman, Wonder Woman, Flash, Aquaman, Cyborg, Green Lantern"}
+{"q":"What is the Batcave?","a":"Bruce Wayne's secret underground headquarters beneath Wayne Manor"}
+{"q":"Who is Harley Quinn's love interest?","a":"The Joker"}
+{"q":"Who is Amanda Waller?","a":"The ruthless government official who runs Task Force X (Suicide Squad)"}
+{"q":"Who is Shazam?","a":"Billy Batson — a young boy who transforms into a superhero by saying SHAZAM!"}
+=== disney ===
+{"q":"What does Cinderella leave behind at the ball?","a":"A glass slipper"}
+{"q":"What kind of animal is Dumbo?","a":"An elephant"}
+{"q":"What is Ariel's fish friend called?","a":"Flounder"}
+{"q":"What is Jasmine's pet tiger's name?","a":"Rajah"}
+{"q":"What is Stitch's experiment number?","a":"626"}
+{"q":"Who is Belle's father?","a":"Maurice"}
+{"q":"What is the name of the teacup in Beauty and the Beast?","a":"Chip"}
+{"q":"Who kills Mufasa?","a":"Scar"}
+{"q":"What kind of animal is Thumper?","a":"Rabbit"}
+{"q":"What object does Aladdin rub to summon Genie?","a":"A magic lamp"}
+{"q":"What is Ariel's fish friend named?","a":"Flounder"}
+{"q":"Who is the wooden puppet who wants to be a real boy?","a":"Pinocchio"}
+{"q":"What kind of animal is Bambi?","a":"A deer"}
+{"q":"What kind of fish is Nemo?","a":"Clownfish"}
+{"q":"What princess has the longest hair?","a":"Rapunzel"}
+{"q":"What is the name of the snowman in Frozen?","a":"Olaf"}
+{"q":"What Disney princess lives under the sea?","a":"Ariel"}
+{"q":"What film features a magic carpet ride?","a":"Aladdin"}
+{"q":"What is the name of Pinocchio's conscience?","a":"Jiminy Cricket"}
+{"q":"What film features the song 'A Whole New World'?","a":"Aladdin"}
+{"q":"What princess pricks her finger on a spindle?","a":"Aurora (Sleeping Beauty)"}
+{"q":"Who is Nemo's father?","a":"Marlin"}
+{"q":"What kind of animal is Bambi?","a":"Deer"}
+{"q":"What Disney character has ice powers?","a":"Elsa"}
+{"q":"What is the name of Moana's demigod companion?","a":"Maui"}
+{"q":"What is the name of Simba's father?","a":"Mufasa"}
+{"q":"What does Hakuna Matata mean?","a":"No worries (in Swahili)"}
+{"q":"Who voices Buzz Lightyear?","a":"Tim Allen"}
+{"q":"What type of fish is Nemo?","a":"A clownfish"}
+{"q":"Who is the villain in The Little Mermaid?","a":"Ursula"}
+{"q":"What is the name of Elsa's kingdom?","a":"Arendelle"}
+{"q":"Who is the villain in The Lion King?","a":"Scar"}
+{"q":"Who is the toy cowboy in Toy Story?","a":"Woody"}
+{"q":"Who is Elsa's sister in Frozen?","a":"Anna"}
+{"q":"What is the name of Aladdin's genie?","a":"The Genie — voiced by Robin Williams"}
+{"q":"What does Pinocchio want more than anything?","a":"To be a real boy"}
+{"q":"What is WALL-E's job?","a":"He is a robot that compacts trash on an abandoned Earth"}
+{"q":"What does Mulan do in the film?","a":"She disguises herself as a man to take her father's place in the army"}
+{"q":"Who is the villain in Frozen?","a":"Hans — Prince of the Southern Isles, revealed in the twist"}
+{"q":"What is Coco about?","a":"A boy named Miguel travels to the Land of the Dead on Día de los Muertos"}
+{"q":"Who is Joy in Inside Out?","a":"The lead emotion in Riley's head — she desperately wants Riley to be happy"}
+{"q":"What is Moana about?","a":"A young Polynesian chief's daughter who sails to return a stolen relic to the goddess Te Fiti"}
+{"q":"Who is the villain in Sleeping Beauty?","a":"Maleficent"}
+{"q":"What is the story of Up?","a":"An elderly widower flies his house to South America using thousands of balloons"}

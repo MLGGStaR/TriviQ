@@ -1,0 +1,378 @@
+{
+  "category": "guess_young_celebrity",
+  "description": "Young/early-career photos of celebrities hosted on Wikimedia Commons. All URLs resolved via the Commons MediaWiki imageinfo API and confirmed to be hotlinkable upload.wikimedia.org/wikipedia/commons/... URLs. Every file is public domain or CC-licensed.",
+  "generatedAt": "2026-04-20",
+  "celebrities": [
+    {
+      "name": "Michael Jackson",
+      "wiki": "Michael_Jackson",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Jackson_5_1972.JPG",
+      "description": "Jackson 5 television special 1972 (Michael age ~14)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Elvis Presley",
+      "wiki": "Elvis_Presley",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Elvis_Presley_first_national_television_appearance_1956.jpg",
+      "description": "Elvis's first national TV appearance, January 1956 (age 21)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Shirley Temple",
+      "wiki": "Shirley_Temple",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Shirley_Temple_in_%22Bright_Eyes%22_with_James_Dunn.jpg",
+      "description": "Shirley Temple in 'Bright Eyes' 1934 (age 6, peak child-star era)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Queen Elizabeth II",
+      "wiki": "Elizabeth_II",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Queen_Elizabeth_II_on_her_Coronation_Day_%28cropped%29.jpg",
+      "description": "Queen Elizabeth II on her Coronation Day, 2 June 1953 (age 27)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Steve Jobs",
+      "wiki": "Steve_Jobs",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Steve_Jobs_and_Macintosh_computer%2C_January_1984%2C_by_Bernard_Gotfryd_-_edited.jpg",
+      "description": "Steve Jobs at the Macintosh launch, January 1984 (age 28)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Barack Obama",
+      "wiki": "Barack_Obama",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Barack_Obama_luncheon_in_Cairo%2C_Illinois_%28April_15%2C_2004%29.jpg",
+      "description": "Barack Obama during 2004 Illinois Senate campaign (age 42, pre-presidential)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Muhammad Ali",
+      "wiki": "Muhammad_Ali",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cassius_Clay_%281960%2C_JO%29.jpg",
+      "description": "Cassius Clay at the 1960 Rome Olympics (age 18), before becoming Muhammad Ali",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Marilyn Monroe",
+      "wiki": "Marilyn_Monroe",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/32/Marilyn_Monroe_as_Norma_Jean_Dougherty.jpg",
+      "description": "Marilyn Monroe as Norma Jean Dougherty, 1945 (age 19, pre-fame modeling era)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Elizabeth Taylor",
+      "wiki": "Elizabeth_Taylor",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Elizabeth_Taylor-1945.JPG",
+      "description": "Elizabeth Taylor 1945 (age 13, National Velvet child-star era)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Michael Jordan",
+      "wiki": "Michael_Jordan",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Michael_Jordan_-_1984_%282%29.jpg",
+      "description": "Michael Jordan in 1984 (age 21, rookie year)",
+      "license": "Public domain",
+      "tier": 200
+    },
+
+    {
+      "name": "Princess Diana",
+      "wiki": "Diana,_Princess_of_Wales",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Princess_Diana_dancing_with_John_Travolta_in_Cross_Hall_at_the_White_House.jpg",
+      "description": "Diana at the White House dancing with John Travolta, 1985 (age 24, early royal years)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "John F. Kennedy",
+      "wiki": "John_F._Kennedy",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Congressman_John_F._Kennedy_1947.JPG",
+      "description": "Congressman John F. Kennedy, 1947 (age 30, before presidency)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Britney Spears",
+      "wiki": "Britney_Spears",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/37/Britney_Spears_1999.jpg",
+      "description": "Britney Spears at a meet-and-greet, early career circa 1999-2000 (age ~18)",
+      "license": "CC BY 2.0",
+      "tier": 400
+    },
+    {
+      "name": "Taylor Swift",
+      "wiki": "Taylor_Swift",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Taylor_Swift_%282007%29_retouched.jpg",
+      "description": "Taylor Swift in 2007 (age 17, debut country album era)",
+      "license": "CC BY 2.0",
+      "tier": 400
+    },
+    {
+      "name": "Miley Cyrus",
+      "wiki": "Miley_Cyrus",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/Miley_Cyrus_as_Hannah_Montana.jpg",
+      "description": "Miley Cyrus as Hannah Montana, 2007 (age 14)",
+      "license": "CC BY-SA 2.0",
+      "tier": 400
+    },
+    {
+      "name": "Emma Watson",
+      "wiki": "Emma_Watson",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Emma_Watson_GoF_Premiere_Crop.jpg",
+      "description": "Emma Watson at Goblet of Fire premiere, November 2005 (age 15)",
+      "license": "CC BY-SA 3.0",
+      "tier": 400
+    },
+    {
+      "name": "Tom Cruise",
+      "wiki": "Tom_Cruise",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Tom_cruise_1989.jpg",
+      "description": "Tom Cruise in 1989 (age 26, Top Gun / Rain Man era)",
+      "license": "CC BY 2.0",
+      "tier": 400
+    },
+    {
+      "name": "Paul McCartney",
+      "wiki": "Paul_McCartney",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Paul_McCartney_1964.jpg",
+      "description": "Paul McCartney in 1964 (age 22, Beatlemania)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "John Lennon",
+      "wiki": "John_Lennon",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/John_Lennon_1964.jpg",
+      "description": "John Lennon in 1964 (age 23, Beatlemania)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Bob Marley",
+      "wiki": "Bob_Marley",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bob_Marley_performing_in_1976.jpg",
+      "description": "Bob Marley performing in 1976 (age 31)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Mariah Carey",
+      "wiki": "Mariah_Carey",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Mariah_Carey_1990.jpg",
+      "description": "Mariah Carey in August 1990 (age 20, debut-album era)",
+      "license": "CC BY-SA 2.0",
+      "tier": 400
+    },
+    {
+      "name": "Beyonce",
+      "wiki": "Beyonc%C3%A9",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Beyonce_Knowles_at_age_19_%28cropped%29.jpeg",
+      "description": "Beyoncé at age 19, November 2001 (Destiny's Child era)",
+      "license": "CC BY 2.0",
+      "tier": 400
+    },
+    {
+      "name": "Jay-Z",
+      "wiki": "Jay-Z",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jay-Z-01-mika.jpg",
+      "description": "Jay-Z in June 2000 (age 30, early Roc-A-Fella era)",
+      "license": "CC BY-SA 3.0",
+      "tier": 400
+    },
+    {
+      "name": "Eminem",
+      "wiki": "Eminem",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Eminem-01-mika.jpg",
+      "description": "Eminem in October 1999 (age 27, Slim Shady LP era)",
+      "license": "CC BY-SA 3.0",
+      "tier": 400
+    },
+    {
+      "name": "Bill Clinton",
+      "wiki": "Bill_Clinton",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Bill_Clinton_1978.jpg",
+      "description": "Bill Clinton in 1978 (age 32, Arkansas Attorney General)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Donald Trump",
+      "wiki": "Donald_Trump",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Donald_Trump_in_the_1980s_%28cropped%29.jpg",
+      "description": "Donald Trump in the 1980s (age ~35, NYC real-estate era)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Oprah Winfrey",
+      "wiki": "Oprah_Winfrey",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Oprah_Winfrey%2C_Akosua_Busia_and_Margaret_Avery%2C_1986.jpg",
+      "description": "Oprah Winfrey in 1986 (age 32, Color Purple / Oprah Winfrey Show launch era)",
+      "license": "CC BY 4.0",
+      "tier": 400
+    },
+    {
+      "name": "Bill Gates",
+      "wiki": "Bill_Gates",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bill_Gates_1977.png",
+      "description": "Bill Gates 1977 arrest mugshot, Albuquerque NM (age 22, early Microsoft)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "wiki": "Mark_Zuckerberg",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/fc/MarkZuckerberg-crop.jpg",
+      "description": "Mark Zuckerberg November 2005 (age 21, Facebook's first year out of Harvard)",
+      "license": "CC BY 2.5",
+      "tier": 400
+    },
+    {
+      "name": "Lionel Messi",
+      "wiki": "Lionel_Messi",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/26/Leo_messi_barce_2005.jpg",
+      "description": "Lionel Messi at Barcelona, October 2005 (age 18, first breakthrough season)",
+      "license": "CC BY-SA 4.0",
+      "tier": 400
+    },
+
+    {
+      "name": "Frank Sinatra",
+      "wiki": "Frank_Sinatra",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Frank_Sinatra_%281944_World-Telegram_file_photo%29.jpg",
+      "description": "Frank Sinatra 1944 (age ~28, teen-idol crooner era)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Audrey Hepburn",
+      "wiki": "Audrey_Hepburn",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Audrey_Hepburn_1953.jpg",
+      "description": "Audrey Hepburn in 1953 (age 24, Roman Holiday breakthrough)",
+      "license": "CC0",
+      "tier": 600
+    },
+    {
+      "name": "Mick Jagger",
+      "wiki": "Mick_Jagger",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mick-Jagger-1965-Turku.jpg",
+      "description": "Mick Jagger in Turku, Finland, June 1965 (age 22)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Keith Richards",
+      "wiki": "Keith_Richards",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Keith_Richards_%281965%29.jpg",
+      "description": "Keith Richards in 1965 (age 21, early Rolling Stones)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Freddie Mercury",
+      "wiki": "Freddie_Mercury",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
+      "description": "Freddie Mercury performing in New Haven, November 1977 (age 31, News of the World tour)",
+      "license": "CC BY-SA 3.0",
+      "tier": 600
+    },
+    {
+      "name": "David Bowie",
+      "wiki": "David_Bowie",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/David_Bowie_1974.JPG",
+      "description": "David Bowie in 1974 (age 27, Diamond Dogs / Young Americans era)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Stevie Wonder",
+      "wiki": "Stevie_Wonder",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Stevie_Wonder_1967_%281%29.jpg",
+      "description": "Stevie Wonder in October 1967 (age 17)",
+      "license": "CC0",
+      "tier": 600
+    },
+    {
+      "name": "Aretha Franklin",
+      "wiki": "Aretha_Franklin",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Aretha_franklin_1960s_cropped_retouched.jpg",
+      "description": "Aretha Franklin in July 1967 (age 25, 'Respect' era)",
+      "license": "CC0",
+      "tier": 600
+    },
+    {
+      "name": "Bob Dylan",
+      "wiki": "Bob_Dylan",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Bob_Dylan_1963_promo_photo_by_Don_Hunstein.jpg",
+      "description": "Bob Dylan 1963 Columbia Records promo photo by Don Hunstein (age 22)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Jimi Hendrix",
+      "wiki": "Jimi_Hendrix",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Jimi_Hendrix_%281967%29_%28cropped%29.jpg",
+      "description": "Jimi Hendrix May 1967 (age 24, 'Are You Experienced' era)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Janis Joplin",
+      "wiki": "Janis_Joplin",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Janis_Joplin_1969.JPG",
+      "description": "Janis Joplin in 1969 (age 26, Kozmic Blues Band era)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Kurt Cobain",
+      "wiki": "Kurt_Cobain",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kurt_Cobain_1992.jpg",
+      "description": "Kurt Cobain in September 1992 (age 25, Nirvana peak)",
+      "license": "CC BY-SA 2.0",
+      "tier": 600
+    },
+    {
+      "name": "Amy Winehouse",
+      "wiki": "Amy_Winehouse",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Amy_winehouse_2007.jpg",
+      "description": "Amy Winehouse in May 2007 (age 23, Back to Black era)",
+      "license": "CC BY 2.0",
+      "tier": 600
+    },
+    {
+      "name": "Prince",
+      "wiki": "Prince_(musician)",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Prince_from_Under_the_Cherry_Moon%2C_1986.png",
+      "description": "Prince in 1986, from 'Under the Cherry Moon' (age 28, Parade era)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Rupert Grint",
+      "wiki": "Rupert_Grint",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Rupert_Grint_%28cropped%29.JPG",
+      "description": "Rupert Grint in July 2007 (age 18, Order of the Phoenix era)",
+      "license": "CC BY-SA 2.0",
+      "tier": 600
+    },
+    {
+      "name": "Ellen DeGeneres",
+      "wiki": "Ellen_DeGeneres",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ellen_DeGeneres_at_Emmys.jpg",
+      "description": "Ellen DeGeneres at the 1995 Emmys (age 37, sitcom era pre-coming out)",
+      "license": "CC BY 2.0",
+      "tier": 600
+    }
+  ],
+  "notes": "Found 46 verified young-photo entries (tiers: 10 at 200 / 21 at 400 / 15 at 600). URLs resolved directly via Commons MediaWiki imageinfo API so they are guaranteed to be real Commons-hosted files, all public domain or CC/CC0 licensed. Celebrities SKIPPED due to no suitable young photo on Commons: Madonna (only album-cover art and religious 'Madonna' paintings turn up), David Beckham (no pre-fame Commons photos), Cristiano Ronaldo (only statues/museum shots of his youth, no photos), Justin Timberlake (only later-era NSYNC / solo photos, no teenage Mickey Mouse Club), Macaulay Culkin (no Home Alone-era photos on Commons — copyright-locked), Leonardo DiCaprio (no Growing Pains/Titanic-era Commons photos), Brad Pitt (no pre-2000 Commons photos), Jennifer Aniston (no Commons photos of her young), Julia Roberts (only a 1990 image with unusual composition, borderline), Whitney Houston (only 1991 Welcome Home Heroes — close to adult peak, borderline), Rihanna (no pre-2011 photos), Drake (no Degrassi / pre-2010 photos), Kanye West (only 2005 tour photos at age 28, not early enough), Daniel Radcliffe (no young-era photos came up reliably in Commons search). For celebrities whose only young Commons photo is already close to their famous adult appearance (e.g. Tom Cruise 1989, JFK 1947, Diana 1985, Bill Clinton 1978, Donald Trump 1980s), tier is set to 400 rather than 200 because the visual gap from adult is modest. Tier 600 is reserved for celebs whose young photo requires era-specific fandom to ID (Sinatra 1944, Hendrix 1967, Dylan 1963, Keith Richards 1965, etc.). Every entry was verified by direct Commons API imageinfo lookup of the file title, so the upload.wikimedia.org URL reflects the actual current file-content hash path."
+}
