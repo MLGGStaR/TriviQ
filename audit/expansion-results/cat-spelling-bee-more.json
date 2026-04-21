@@ -1,0 +1,370 @@
+{
+  "spelling_bee": {
+    "200": [
+      {
+        "q": "Spell this word",
+        "a": "Tuesday"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Thursday"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Library"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Restaurant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Calendar"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Exercise"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Surprise"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Grammar"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Separate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Definitely"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Apparently"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Recommend"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Address"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vacuum"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Broccoli"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Breakfast"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chocolate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Elephant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Believe"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Achieve"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Although"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Between"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Familiar"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Forward"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Government"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Guarantee"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Height"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Honest"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hungry"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Happened"
+      }
+    ],
+    "400": [
+      {
+        "q": "Spell this word",
+        "a": "Cemetery"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Colonel"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Connoisseur"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Enthusiasm"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Exaggerate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Exhilarate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fluorescent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Foreign"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gauge"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Grievance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Harass"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Indispensable"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Inoculate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Intelligence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Leisure"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Memento"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Miniature"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Miscellaneous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Noticeable"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Occasion"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Occurrence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Parliament"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Perseverance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Possession"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Prejudice"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Reservoir"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ricochet"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Supersede"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Surveillance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Weird"
+      }
+    ],
+    "600": [
+      {
+        "q": "Spell this word",
+        "a": "Anachronism"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Antediluvian"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Archipelago"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Beleaguer"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bioluminescence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Demagoguery"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Dichotomy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Disingenuous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Egregious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ephemeral"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Euphemism"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Exacerbate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Facsimile"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Garrulous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gregarious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Iconoclast"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Juggernaut"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Kaleidoscope"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Loquacious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Malfeasance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Misanthrope"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Obfuscate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Obsequious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ostentatious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Palimpsest"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Paradigm"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pusillanimous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Recalcitrant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sycophant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vicissitude"
+      }
+    ]
+  }
+}
