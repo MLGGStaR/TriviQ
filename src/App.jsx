@@ -5983,8 +5983,10 @@ export default function App(){
     setUsageReady(false);
   }
 
-  async function startGame(cats){
-    const latestIds=await syncQuestionUsage();
+  function startGame(cats){
+    // Use cached usage for instant game start; background-sync for freshness next time.
+    const latestIds=usedQuestionIdsRef.current;
+    syncQuestionUsage().catch(()=>{});
     const accountId=accountSession?.user?.id||"guest";
     const resetToken=questionUsageResetTokenRef.current||"initial";
     const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;
@@ -6039,7 +6041,7 @@ export default function App(){
     return buildUsedQuestionLookup(ids);
   }
 
-  async function pickTile(catId,pts,idx){
+  function pickTile(catId,pts,idx){
     const tileKey=getTileReservationKey(catId,pts,idx);
     const reservedQuestion=pendingTileQuestions?.[tileKey];
     const isBadEntry=(entry)=>entry?.videoId && badVideoIds.has(entry.videoId);
@@ -6050,8 +6052,10 @@ export default function App(){
       setScreen("question");
       return;
     }
-    const latestIds=await syncQuestionUsage();
-    const usedIdsSet=buildUsedQuestionLookup(latestIds);
+    // Use the cached usage state for an instant click. Kick a background sync
+    // so the next click (or background write) sees fresh data without blocking UX.
+    const usedIdsSet=buildUsedQuestionLookup(usedQuestionIdsRef.current);
+    syncQuestionUsage().catch(()=>{});
     const reservedLookup=buildReservedQuestionLookup(tileKey);
     const slot=qPointers?.[catId]?.[pts];
     const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
@@ -6071,15 +6075,15 @@ export default function App(){
 
   // When a YouTube clip can't embed (age-restricted, removed, etc.), blacklist
   // that videoId and swap the active tile to a different question in the same pool.
-  async function handleClipFailed(videoId){
+  function handleClipFailed(videoId){
     if(!videoId||!activeTile) return;
     setBadVideoIds(prev=>{const next=new Set(prev);next.add(videoId);return next;});
     const {catId,pts,tileIdx,_tileKey}=activeTile;
     if(_tileKey){
       setPendingTileQuestions(prev=>{const next={...prev};delete next[_tileKey];return next;});
     }
-    const latestIds=await syncQuestionUsage();
-    const usedIdsSet=buildUsedQuestionLookup(latestIds);
+    const usedIdsSet=buildUsedQuestionLookup(usedQuestionIdsRef.current);
+    syncQuestionUsage().catch(()=>{});
     const reservedLookup=buildReservedQuestionLookup(_tileKey);
     const blockedVideos=new Set(badVideoIds);blockedVideos.add(videoId);
     const isBadEntry=(entry)=>entry?.videoId && blockedVideos.has(entry.videoId);
@@ -6177,7 +6181,7 @@ export default function App(){
     if(ttype==="spellingbee") return renderWithGlobalThemeToggle(<SpellingBeeScreen {...p}/>,{hideToggles:true});
     return renderWithGlobalThemeToggle(<QuestionScreen {...p}/>,{hideToggles:true});
   }
-  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={async()=>{const latestIds=await syncQuestionUsage();const accountId=accountSession?.user?.id||"guest";const resetToken=questionUsageResetTokenRef.current||"initial";const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);setQPointers(initPointers(selCats,new Set(latestIds),gameMode));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
+  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={()=>{const latestIds=usedQuestionIdsRef.current;syncQuestionUsage().catch(()=>{});const accountId=accountSession?.user?.id||"guest";const resetToken=questionUsageResetTokenRef.current||"initial";const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);setQPointers(initPointers(selCats,new Set(latestIds),gameMode));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
   return null;
 }
 
