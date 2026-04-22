@@ -1,0 +1,1257 @@
+{
+  "flagged": [
+    {
+      "cat": "big_bang_theory",
+      "q": "What board game does Sheldon famously over-explain?",
+      "a": "Settlers of Catan",
+      "reason": "essay/multipart pattern",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "cat": "who_historic_figure",
+      "q": "I was an English physicist whose work on cosmology was renowned despite ALS.",
+      "a": "Stephen Hawking",
+      "reason": "essay/multipart pattern",
+      "file": "newCategoriesBank"
+    },
+    {
+      "cat": "science",
+      "q": "What is the difference between fission and fusion?",
+      "a": "Fission splits atoms; fusion combines them",
+      "reason": "essay/multipart pattern",
+      "file": "megaNewExpansions"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Battle of Tours (732)?",
+      "a": "Charles Martel halted Muslim expansion into Europe",
+      "reason": "essay/multipart pattern",
+      "file": "megaNewExpansions"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Ahsoka's white lightsabers?",
+      "a": "They represent neutrality (neither Jedi nor Sith)",
+      "reason": "essay/multipart pattern",
+      "file": "megaNewExpansions"
+    },
+    {
+      "cat": "dexter",
+      "q": "What condition does Dexter describe himself as having?",
+      "a": "Sociopath",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which YouTuber faced the 'Suicide Forest' controversy?",
+      "a": "Logan Paul",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "solo_leveling",
+      "q": "What makes Jin-Woo unique among hunters?",
+      "a": "He levels up",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "What catchphrase does Jesse use to describe things he likes?",
+      "a": "Yeah, bitch",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "Difference between an atom and a molecule?",
+      "a": "An atom is the smallest unit of an element; a molecule is two or more atoms bonded together",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "general",
+      "q": "What is Euler's identity and why is it remarkable?",
+      "a": "e^(iπ) + 1 = 0 — connects five fundamental mathematical constants in one equation",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "geography",
+      "q": "What makes the Atacama Desert unique?",
+      "a": "It's the driest non-polar desert on Earth — some areas have never recorded rain",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "geography",
+      "q": "What is the significance of the Suez Canal?",
+      "a": "An artificial waterway in Egypt connecting the Mediterranean to the Red Sea — opened in 1869",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "science",
+      "q": "Difference between virus and bacterium?",
+      "a": "Bacteria are living organisms; viruses are not — they need a host cell to replicate",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "science",
+      "q": "What is the significance of the photoelectric effect?",
+      "a": "Einstein's explanation that light comes in discrete packets (photons) — laid the foundation for quantum mechanics",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "science",
+      "q": "What is the significance of Proxima Centauri b?",
+      "a": "A potentially habitable exoplanet orbiting Proxima Centauri — our nearest stellar neighbor",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Battle of Waterloo?",
+      "a": "Napoleon's final defeat in 1815 — ending the Napoleonic Wars and his rule",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Battle of Hastings?",
+      "a": "1066 — William the Conqueror defeated King Harold II, beginning Norman rule of England",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Gutenberg Bible?",
+      "a": "First major book printed with movable type (c.1455) — revolutionised the spread of information in Europe",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Rosetta Stone?",
+      "a": "A 196 BC decree in three scripts — it allowed scholars to decode Egyptian hieroglyphics",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Council of Nicaea?",
+      "a": "325 AD — first ecumenical Christian council, established the Nicene Creed and standardised doctrine",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Black Death's long-term impact?",
+      "a": "Killed 30–60% of Europe — led to labour shortages, peasant uprisings, decline of feudalism, eventually the Renaissance",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Library of Alexandria?",
+      "a": "One of the largest libraries of the ancient world — containing scrolls from across the known world",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the 1905 Russian Revolution?",
+      "a": "A wave of mass unrest and strikes that forced Tsar Nicholas II to create a constitution and parliament",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What is the significance of 1453 in history?",
+      "a": "The fall of Constantinople to the Ottoman Turks — ending the Byzantine Empire and the Middle Ages",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "history",
+      "q": "What was the significance of the Peace of Westphalia (1648)?",
+      "a": "It ended the Thirty Years War and established the modern concept of state sovereignty",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "sports",
+      "q": "What makes the Monaco Grand Prix unique?",
+      "a": "Runs on public streets through Monte Carlo — extremely narrow, low-speed, and very hard to overtake",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "sports",
+      "q": "What is the significance of the FA Cup?",
+      "a": "The world's oldest football competition — founded in 1871, open to any team in England",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "sports",
+      "q": "Who holds the 100m world record and what is it?",
+      "a": "Usain Bolt — 9.58 seconds (2009 World Championships)",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "sports",
+      "q": "What is the significance of the Ashes in cricket?",
+      "a": "A biennial series between England and Australia — the Ashes urn contains (reportedly) the burnt bails from 1882",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "music",
+      "q": "Difference between major and minor keys?",
+      "a": "Major: generally happy/bright. Minor: generally sad/dark",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "music",
+      "q": "What is the Rite of Spring and why was it controversial?",
+      "a": "Stravinsky's 1913 ballet — its premiere caused a riot due to dissonant music and primitive themes",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "music",
+      "q": "Difference between a symphony and a concerto?",
+      "a": "Symphony: for full orchestra. Concerto: features a solo instrument accompanied by orchestra",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "music",
+      "q": "Who is Miles Davis and why is he significant?",
+      "a": "Jazz trumpeter who led multiple revolutions — from bebop to modal jazz to fusion",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "music",
+      "q": "What is the significance of the 432Hz vs 440Hz debate?",
+      "a": "440Hz is standard concert pitch; 432Hz proponents claim it sounds more natural — no scientific basis",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "Significance of Tony's I am Iron Man in Endgame?",
+      "a": "Echoes the first Iron Man film — here he uses all six Stones, sacrificing himself",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "Significance of Steve Rogers picking up Mjolnir in Endgame?",
+      "a": "He was deemed worthy — Thor suspected this in Age of Ultron when Steve slightly budged it",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "Significance of the first Iron Man post-credits scene?",
+      "a": "Nick Fury tells Tony he's not alone — the first hint of a shared Marvel Cinematic Universe",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the Multiverse in MCU terms and what opened it?",
+      "a": "An infinite set of parallel universes — destabilised by the Infinity War snap and Strange's spell in No Way Home",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the significance of the Civil War II in Marvel comics?",
+      "a": "The Inhuman Ulysses can predict the future — the debate over whether to act on future crimes splits the heroes again",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the difference between Earth-616 and Earth-199999?",
+      "a": "Earth-616 is the main Marvel Comics universe; Earth-199999 is the MCU",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the significance of the snap reversal in Endgame?",
+      "a": "Hulk used the gauntlet to reverse the snap — then Thanos's army arrived, leading to the final battle",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the Celestials' role in Marvel cosmology?",
+      "a": "Ancient cosmic beings who seeded life across the universe and return to judge whether planets should be destroyed",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of Watchmen for DC?",
+      "a": "A 1986-87 deconstruction of the superhero genre — set the template for darker superhero stories",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of the Death of Superman?",
+      "a": "Superman is killed by Doomsday in 1992 — a landmark event that became major news",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of No Man's Land in Batman?",
+      "a": "Gotham is cut off after a massive earthquake — an entire year of Batman comics in a lawless isolated city",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is Grant Morrison's contribution to Batman?",
+      "a": "Morrison introduced all Batman stories as canon — including 1950s sci-fi stories — as psychological trauma",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of The Long Halloween?",
+      "a": "A 13-issue Batman story by Jeph Loeb depicting his early career and the rise of Two-Face",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of Final Crisis?",
+      "a": "Darkseid achieves the Anti-Life Equation and enslaves the Earth — Batman shoots Darkseid with a god-killing bullet",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of Hypertime?",
+      "a": "A DC concept allowing all previously published DC stories to be technically canon in branching realities",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of Superman's death and resurrection?",
+      "a": "His death in 1992 was unprecedented — it caused media frenzy. His four replacements explored what Superman means",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of Crisis on Infinite Earths vs Infinite Crisis?",
+      "a": "CoIE (1985): destroyed the multiverse, created one universe. IC (2005): the multiverse reasserted itself",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Rogue One?",
+      "a": "It shows how the Rebel Alliance stole the Death Star plans — filling the gap before A New Hope",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Bespin?",
+      "a": "A gas giant home to Cloud City — where Han is frozen and Luke loses his hand to Vader",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Exegol?",
+      "a": "The hidden Sith world where Emperor Palpatine survived and rebuilt his Final Order fleet",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Anakin's high midi-chlorian count?",
+      "a": "Highest ever recorded — believed to be the Chosen One destined to bring balance to the Force",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Mandalorian beskar armour?",
+      "a": "Beskar (Mandalorian iron) is nearly indestructible — it can deflect a lightsaber blade",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of the Tragedy of Darth Plagueis the Wise?",
+      "a": "A Sith tale Palpatine tells Anakin — Plagueis learned to prevent death but was killed by his apprentice (Palpatine)",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Difference between light side and dark side of the Force?",
+      "a": "Light side: peace, knowledge, serenity. Dark side: passion, power, strength — fueled by anger and fear",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of the Vergence in the Force?",
+      "a": "A concentrated point of Force energy — Anakin Skywalker was believed to have been conceived by one",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of the High Republic era?",
+      "a": "A golden age of the Jedi about 200 years before the prequels — explored in books and comics from 2021",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Obi-Wan's sacrifice in A New Hope?",
+      "a": "He allows Vader to strike him down, becoming one with the Force — guiding Luke from beyond death",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of Anakin killing the Tusken Raiders?",
+      "a": "His mother's death at their hands is his first major step toward the dark side",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of R2-D2 throughout the saga?",
+      "a": "He holds key information in every trilogy — he contained the complete map to the Jedi temples",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the difference between a Jedi Knight and a Jedi Master?",
+      "a": "A Knight completes training; a Master shows exceptional skill, wisdom, and usually trains a Padawan",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of the Darth Vader NO in Revenge of the Sith?",
+      "a": "When Vader learns Padmé is dead, his anguished NO became a famous meme — representing his complete transformation",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the significance of the World between Worlds in Rebels?",
+      "a": "Ezra pulls Ahsoka out of death — suggesting Force-sensitive beings can transcend time and death",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the Midi-chlorian controversy?",
+      "a": "Many fans disliked The Phantom Menace's explanation that Force sensitivity is biological — contradicting its mystical nature",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the significance of the Elder Wand's allegiance?",
+      "a": "The wand's true master is whoever disarmed the previous master — Draco unknowingly became master, then Harry",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Why is Harry being a Horcrux significant?",
+      "a": "Voldemort accidentally made Harry a Horcrux — Harry had to let Voldemort kill him to destroy that soul fragment",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the significance of Lily Potter's sacrifice?",
+      "a": "Her love-based sacrifice created magical protection that deflected Voldemort's Killing Curse",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the difference between Harry's wand and Voldemort's?",
+      "a": "Both have cores from the same phoenix (Fawkes) — causing Priori Incantatem when they duel",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the significance of the Time-Turner in Prisoner of Azkaban?",
+      "a": "Harry and Hermione use it to go back three hours — saving Buckbeak and Sirius Black",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the significance of Snape's always?",
+      "a": "Snape's Patronus was always a doe — the same as Lily Potter's — revealing his lifelong love for her",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "What is the significance of the fly episode?",
+      "a": "Walter becomes obsessed with a fly — symbolising guilt, contamination, and loss of control",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "What is the significance of the White Supremacist gang?",
+      "a": "Jack Welker and Todd take over the cook — imprisoning Jesse as their slave cook",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "What is the pink teddy bear's significance in Season 2?",
+      "a": "It connects to a Wayfarer airline crash — caused by Jane's grief-stricken father — all consequences of Walter's choices",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "Who is Huell and what is his most famous moment?",
+      "a": "Saul's bodyguard — famous for lying sprawled on Walter's money, grinning contentedly",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "game_thrones",
+      "q": "What is the significance of the Battle of the Bastards?",
+      "a": "Jon Snow vs Ramsay Bolton — won by the Knights of the Vale arriving at the last moment",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "game_thrones",
+      "q": "What is the significance of the Tower of Joy flashback?",
+      "a": "Reveals Jon is not Ned's son — he is the son of Rhaegar Targaryen and Lyanna Stark",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "game_thrones",
+      "q": "What is the significance of Daenerys's Targaryen madness?",
+      "a": "The show implies madness runs in Targaryen blood — she shows it by burning King's Landing despite them surrendering",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "game_thrones",
+      "q": "What is the meaning of Dracarys?",
+      "a": "Dragonfire in High Valyrian — the command Daenerys uses to order her dragons to breathe fire",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "game_thrones",
+      "q": "What is the significance of Cersei destroying the Sept?",
+      "a": "She eliminates all her political enemies at once — but loses Tommen (her last child) who jumps from a window in grief",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "friends",
+      "q": "What is the significance of the Season 3 bottle episode?",
+      "a": "The One Where No One Is Ready — real-time chaos in Monica's apartment before a charity event",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "friends",
+      "q": "What is the deeper theme of Friends?",
+      "a": "Family you choose — the six friends create a found family that supports each other through every major life event",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_office",
+      "q": "What is the significance of Casino Night?",
+      "a": "Season 2 finale — Jim confesses his love to Pam and kisses her. She says she can't",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_office",
+      "q": "What is the significance of Dwight's character arc?",
+      "a": "He goes from obsequious assistant to respected manager who finally marries Angela",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "stranger_things",
+      "q": "What is the significance of Running Up That Hill in Season 4?",
+      "a": "The song anchors Max to reality as Vecna attacks her — it reached #1 in multiple countries after the episode",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "stranger_things",
+      "q": "What is the significance of the Upside Down's time freeze?",
+      "a": "It's frozen at 1983 — the moment Eleven first opened the gate — even though years have passed",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "stranger_things",
+      "q": "What is the significance of Hawkins cracking in Season 4?",
+      "a": "Vecna's four gates merge — Hawkins literally cracks and begins merging with the Upside Down",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "stranger_things",
+      "q": "What is the significance of the Nina Project?",
+      "a": "Brenner's program to restore Eleven's memories using a sensory deprivation tank to reawaken her powers",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "stranger_things",
+      "q": "What is the significance of Eleven losing her powers?",
+      "a": "She loses them at Season 3's end — in S4 she must relive traumatic memories to reawaken them",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "disney",
+      "q": "What is the significance of the opening of Up?",
+      "a": "A wordless 4-minute montage of Carl and Ellie's life — considered one of the most emotional film sequences ever",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "disney",
+      "q": "What is the significance of Toy Story 3?",
+      "a": "The toys nearly face destruction in an incinerator — one of Pixar's most emotional moments",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "disney",
+      "q": "What real psychological theory is the basis for Inside Out?",
+      "a": "Paul Ekman's theory of basic universal emotions — developed with psychologist Dacher Keltner",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "disney",
+      "q": "What is the significance of Bambi's mother's death?",
+      "a": "Unprecedented emotional darkness for a 1942 children's film — the off-screen death traumatised generations",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "disney",
+      "q": "What is the significance of the ending of Toy Story 4?",
+      "a": "Woody chooses to stay with Bo Peep rather than return to Bonnie — a bittersweet goodbye to the franchise",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "lord_rings",
+      "q": "What is the significance of the Grey Havens?",
+      "a": "The port where Elves sail to the Undying Lands — where Frodo departs at the end",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "lord_rings",
+      "q": "What is the significance of Sam carrying Frodo?",
+      "a": "At Mount Doom, Frodo can no longer walk — Sam carries him up in one of literature's greatest acts of friendship",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "lord_rings",
+      "q": "What is the significance of Boromir's death?",
+      "a": "He dies protecting Merry and Pippin — My brother... my captain... my king — a powerful redemption",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "lord_rings",
+      "q": "What is the significance of Isildur keeping the Ring?",
+      "a": "Rather than destroying it as Elrond urges, Isildur keeps it — setting in motion 3,000 years of catastrophe",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "lord_rings",
+      "q": "What is the significance of Gandalf being a Maia?",
+      "a": "He is an angelic being sent to guide and inspire — not dominate. His restrictions explain why he doesn't simply overpower evil",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "video_games",
+      "q": "What is the significance of Doom (1993)?",
+      "a": "It defined the FPS genre and popularised PC gaming — so popular it was used to test hardware performance",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "video_games",
+      "q": "What is the significance of Tetris?",
+      "a": "One of the best-selling games ever — its simple block-stacking gameplay is almost universally understood",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "fortnite",
+      "q": "Why is mats management so important in build modes?",
+      "a": "Running out of materials removes your main defense and mobility tool",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "valorant",
+      "q": "What is the key difference between the Phantom and the Vandal?",
+      "a": "The Phantom is quieter and has damage drop-off, while the Vandal can one-tap heads at any range",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the significance of the Chimera Ant arc in HxH?",
+      "a": "The longest and most complex arc — exploring what it means to be human through an ant who develops emotion",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the significance of Satoshi Kon?",
+      "a": "A director who made Perfect Blue, Paprika — psychological anime that influenced Christopher Nolan",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the significance of Demon Slayer's animation?",
+      "a": "Ufotable's visual style — particularly the Hinokami Kagura sequences — set a new standard for anime animation quality",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the philosophical significance of Code Geass?",
+      "a": "Lelouch uses absolute power (Geass) to liberate the world — culminating in a controversial self-sacrifice",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "prison_break",
+      "q": "What is the significance of the origami crane?",
+      "a": "Michael makes origami cranes — a symbol of his meticulous planning",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "prison_break",
+      "q": "What is the meaning of Michael's tattoo removal?",
+      "a": "In Season 4 he has it removed — symbolising shedding his identity as the planner/rescuer",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "prison_break",
+      "q": "What is the significance of the number 5?",
+      "a": "Michael's shoe size is a clue in many of his encoded messages",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "prison_break",
+      "q": "What is the significance of Ithaca?",
+      "a": "Michael's code name in the revival — referencing Odysseus's long journey home",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "big_bang_theory",
+      "q": "What is the significance of the train set in Sheldon's childhood?",
+      "a": "It represents the moment Sheldon's innocence was broken — he walked in on his father cheating",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "big_bang_theory",
+      "q": "What is the significance of Sheldon's three knocks?",
+      "a": "He always knocks three times and says the person's name three times — a childhood anxiety habit",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "big_bang_theory",
+      "q": "What is the significance of the elevator being broken?",
+      "a": "The elevator is out of service for the entire show — finally fixed in the finale, symbolising change",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "big_bang_theory",
+      "q": "What scientific concept does Sheldon explain most famously?",
+      "a": "He frequently references string theory, Schrödinger's cat, and the theory of everything",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the difference between a Pokémon's HP and PP?",
+      "a": "HP is health points — when 0, Pokémon faints. PP is the number of times a move can be used",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the significance of the GTS?",
+      "a": "Global Trade System — allowing players to trade Pokémon with anyone worldwide",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the significance of Eevee?",
+      "a": "It can evolve into eight different Pokémon (Eevolutions) depending on conditions or stones used",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the significance of Red in the games?",
+      "a": "The original protagonist — he appears as the final boss in Gold/Silver, representing the hardest challenge",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the difference between Legendary and Mythical Pokémon?",
+      "a": "Legendaries can be caught in the game; Mythicals are distributed through events only",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the deepest lore of Pokémon's origins?",
+      "a": "The anime and games hint at a world that was reshaped by Arceus and nearly destroyed by Groudon, Kyogre, and Rayquaza's conflict",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is Pokémon GO's significance?",
+      "a": "Released 2016 — it became a global phenomenon with augmented reality catching, breaking download records",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is the significance of Omni-Man's fight with Mark?",
+      "a": "Nolan beats Mark nearly to death before flying away — the show's most harrowing and emotionally complex scene",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is the deeper theme of Omni-Man's arc?",
+      "a": "Can love for your family override the ideology you were raised with — Nolan ultimately chooses Mark over Viltrum",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is the significance of Invincible's brutality vs other superhero media?",
+      "a": "It deconstructs the idea that heroes emerge from fights unscathed — consequences are visceral and real",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is the significance of Omni-Man's monologue Think, Mark?",
+      "a": "He lists the spans of human civilisations to show their brevity compared to Viltrumite lifespan — chilling and famous",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is the significance of Robot's arc?",
+      "a": "He becomes a global dictator believing he knows best — Invincible must fight his former ally",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the significance of Homelander and Maeve's relationship?",
+      "a": "They were a couple — Maeve knows his darkest secrets and eventually helps bring him down",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the significance of Noir's face?",
+      "a": "He hides horrific burns and scars — in Season 3 it's revealed he is a Homelander clone",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the satire target of The Boys?",
+      "a": "Corporate superhero culture, American exceptionalism, celebrity worship, and unchecked power",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the significance of Homelander's origin?",
+      "a": "He was raised in a Vought lab with no human contact — explaining his psychological damage and need for approval",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the real meaning of Translucent's death?",
+      "a": "Hughie kills him — a nobody killing a powerful supe — establishing that The Boys can fight back",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the significance of A-Train's arc?",
+      "a": "A Black superhero who ignores racial justice to maintain his status — eventually forced to confront his complicity",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is Ryan Butcher's significance?",
+      "a": "Homelander and Becca's son — he has his father's powers. His choices will define the show's endgame",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_flash",
+      "q": "What is the significance of the newspaper headline?",
+      "a": "A future newspaper predicts the Flash vanishes in a crisis — a recurring plot thread",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_flash",
+      "q": "What is the significance of Barry's ring?",
+      "a": "The ring contains his compressed Flash suit — a nod to the comics",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_flash",
+      "q": "What is the significance of Barry dying in the comics Crisis?",
+      "a": "In the 1985 comic he runs himself to death destroying the Anti-Monitor's weapon — the definitive hero sacrifice",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_flash",
+      "q": "What is the significance of the tachyon device?",
+      "a": "It allows Barry to temporarily achieve speeds beyond his normal limits — used to fight Zoom",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_flash",
+      "q": "Who is the Spectre and what is Barry's role?",
+      "a": "In Crisis, Ollie Queen becomes the Spectre — Barry becomes the Paragon of Love",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_flash",
+      "q": "What makes The Flash unique in the Arrowverse?",
+      "a": "It introduced the Multiverse concept to the Arrowverse — and its tone is the lightest and most optimistic",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "What is the significance of We Are The Walking Dead?",
+      "a": "Rick says it in the comics — meaning the survivors themselves are as dangerous as the walkers",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "What is the deeper theme of TWD?",
+      "a": "The real monsters are other humans — the walkers are merely the backdrop for human cruelty and survival",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "What is the significance of Rick's disappearance?",
+      "a": "He is taken by a CRM helicopter in Season 9 — leading to the Rick Grimes film trilogy",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "What is the significance of the tiger Shiva?",
+      "a": "Ezekiel's tiger who dies saving Carl — symbolising the loss of the Kingdom's hope",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "What is the significance of Merle Dixon?",
+      "a": "Daryl's abusive brother — his death is the moment Daryl truly commits to Rick's group",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "solo_leveling",
+      "q": "What is the significance of Jin-Woo resetting time?",
+      "a": "After winning the final battle, Jin-Woo uses a stone to travel back 10 years — to prevent all suffering",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "solo_leveling",
+      "q": "What is the cosmic significance of the Player System?",
+      "a": "The Absolute Being created Jin-Woo specifically as a weapon to end the Ruler-Monarch war permanently",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "solo_leveling",
+      "q": "What is the significance of Sung Jin-Woo's title National Level Hunter?",
+      "a": "He is classified beyond national — as a threat or asset equivalent to a nation-state's military",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "suits",
+      "q": "What is the significance of Harvey's therapy arc?",
+      "a": "He goes to Dr. Agard to deal with abandonment issues — his emotional walls slowly come down",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "suits",
+      "q": "What is the deeper theme of Suits?",
+      "a": "Loyalty vs self-interest — every character faces moments where protecting others conflicts with their own survival",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "suits",
+      "q": "What is the significance of the Harvard mythology in the show?",
+      "a": "Harvard Law is treated as the ultimate qualifier — Mike's lack of it represents how credentials can overshadow talent",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "suits",
+      "q": "What is the significance of Gretchen?",
+      "a": "Louis's secretary after Norma retires — she is protective and surprisingly intimidating",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dexter",
+      "q": "What is the significance of Dexter's kill room?",
+      "a": "He wraps victims in plastic wrap on a kill table, forces them to confront their crimes, then kills and disposes of them",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dexter",
+      "q": "What is the significance of Doakes?",
+      "a": "Sergeant Doakes always suspected Dexter — he is framed as the Bay Harbour Butcher and killed",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dexter",
+      "q": "What is the psychological complexity of the Code?",
+      "a": "Dexter channels his psychopathic urges into a moral framework — but the show questions whether this makes him heroic or just a more selective monster",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dexter",
+      "q": "What is the significance of Harrison in New Blood?",
+      "a": "Dexter's son inherited the Dark Passenger — forcing Dexter to confront what he has passed on",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dexter",
+      "q": "What is the significance of the plastic wrap and kill table?",
+      "a": "It is a ritual — precise, controlled, and intimate. It allows Dexter to feel connected to his victims",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dexter",
+      "q": "What is the Showtime revival's critical reception?",
+      "a": "Dexter: New Blood was praised as a redemption after the original finale — Harrison's killing of Dexter was seen as fitting",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "vikings",
+      "q": "What is Paris and why is it significant?",
+      "a": "The Vikings besiege Paris in Seasons 3-4 — a historically based major event",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "vikings",
+      "q": "What is the significance of Rollo settling in France?",
+      "a": "He becomes the first Duke of Normandy — ancestor of William the Conqueror",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "vikings",
+      "q": "What is the significance of Floki sailing to Iceland?",
+      "a": "He discovers a land he believes is the home of the gods — the Vikings settle Iceland in the later seasons",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "vikings",
+      "q": "What is the historical accuracy level of the show?",
+      "a": "It uses real historical figures and events but takes significant liberties — it inspired popular interest in Norse history",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "vikings",
+      "q": "What is the significance of Ubbe?",
+      "a": "He fulfils Ragnar's dream by sailing to North America — settling Vinland",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What is the significance of Gol D. Roger's execution?",
+      "a": "Rather than crushing piracy, his final words about the One Piece sparked the Great Pirate Era",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What is the Egghead arc's significance?",
+      "a": "Vegapunk reveals the world's true history — and is killed for it, sending his message to the world",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What is the significance of Shanks giving Luffy his hat?",
+      "a": "It represents a promise — give it back when you become a great pirate. It defines Luffy's entire journey",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is the significance of Vegeta's Saiyan pride?",
+      "a": "His pride is his greatest strength and weakness — his arc is learning to fight for others, not just pride",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is the significance of Gohan's decline in power?",
+      "a": "He stopped training after Cell — in Buu saga he has to rush to reclaim his power. A critique of talent wasted by complacency",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is the legendary significance of the Raditz fight?",
+      "a": "It introduced power levels as a concept — changing how audiences understood strength in anime",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is Dragon Ball GT vs Super controversy?",
+      "a": "GT was a non-canon sequel made without Toriyama's involvement; Super is the official continuation but fans debate quality",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is the significance of No Way Home?",
+      "a": "All three live-action Spider-Men unite — Tobey Maguire, Andrew Garfield, and Tom Holland",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is the One More Day controversy?",
+      "a": "Peter makes a deal with Mephisto erasing his marriage to MJ — widely considered the worst Spider-Man story ever told",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is the significance of Gwen Stacy's death?",
+      "a": "Often considered the end of the Silver Age of comics — her neck was snapped by the sudden stop of the web catching her",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is the significance of the Symkarian Spider-Man (Silver Sable)?",
+      "a": "She represents how Spider-Man's world intersects with international politics and mercenaries",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is the deeper theme of Spider-Man?",
+      "a": "Responsibility, sacrifice, and the cost of power — Peter perpetually sacrifices personal happiness for the greater good",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    },
+    {
+      "cat": "who_movie_character",
+      "q": "I mentor Neo, wear dark glasses, and explain the Matrix to the audience",
+      "a": "Morpheus",
+      "reason": "essay/multipart pattern",
+      "file": "App.jsx"
+    }
+  ]
+}

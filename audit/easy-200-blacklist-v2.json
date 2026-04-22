@@ -1,0 +1,2397 @@
+{
+  "_meta": {
+    "purpose": "Second aggressive pass — user complained AGAIN about too-easy tier-200 questions after first 233-entry removal. Be stricter.",
+    "rule": "Any question a 5-year-old, a casual adult, or anyone who has briefly consumed the media would know instantly.",
+    "exempt": "Capital-of-mid-tier-country Qs (kept), chemical symbols for common elements, historical-era basics requiring school knowledge, fandom basics that require having consumed the media (but not the most iconic surface-level facts)."
+  },
+  "tooEasy": [
+    {
+      "cat": "general",
+      "q": "How many months have 31 days?",
+      "a": "7",
+      "reason": "too easy: elementary school fact"
+    },
+    {
+      "cat": "general",
+      "q": "What instrument tells you which direction is north?",
+      "a": "A compass",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "What gas do plants absorb from the atmosphere?",
+      "a": "Carbon dioxide",
+      "reason": "too easy: basic science a 5-year-old knows"
+    },
+    {
+      "cat": "general",
+      "q": "What is the freezing point of water in Fahrenheit?",
+      "a": "32°F",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "What is the largest desert on Earth?",
+      "a": "Sahara (or Antarctic)",
+      "reason": "too easy: elementary school fact"
+    },
+    {
+      "cat": "general",
+      "q": "What metal is liquid at room temperature?",
+      "a": "Mercury",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "How many hours in a week?",
+      "a": "168",
+      "reason": "too easy: trivial math 24*7"
+    },
+    {
+      "cat": "general",
+      "q": "National language of Brazil?",
+      "a": "Portuguese",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "How many strings does a standard guitar have?",
+      "a": "6",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "Collective noun for a group of lions?",
+      "a": "A pride",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "Capital of China?",
+      "a": "Beijing",
+      "reason": "too easy: universal knowledge (major world capital)"
+    },
+    {
+      "cat": "general",
+      "q": "Year the Eiffel Tower was completed?",
+      "a": "1889",
+      "reason": "too easy: well-known year tied to Paris"
+    },
+    {
+      "cat": "general",
+      "q": "Smallest ocean?",
+      "a": "Arctic Ocean",
+      "reason": "too easy: elementary school fact"
+    },
+    {
+      "cat": "general",
+      "q": "How many minutes in a day?",
+      "a": "1,440",
+      "reason": "too easy: trivial math 24*60"
+    },
+    {
+      "cat": "general",
+      "q": "Most widely eaten grain in the world?",
+      "a": "Rice",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "Normal human body temperature?",
+      "a": "37°C / 98.6°F",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "National animal of Australia?",
+      "a": "Kangaroo (and emu)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "general",
+      "q": "Currency of the UK?",
+      "a": "Pound sterling (£)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "geography",
+      "q": "Body of water separating Europe from Africa?",
+      "a": "Mediterranean Sea",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "geography",
+      "q": "Which continent has the most countries?",
+      "a": "Africa (54 countries)",
+      "reason": "too easy: common geography fact"
+    },
+    {
+      "cat": "geography",
+      "q": "Largest city in the world by population?",
+      "a": "Tokyo",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "geography",
+      "q": "Which country is Iceland closest to geographically?",
+      "a": "Greenland",
+      "reason": "too easy: Ice/Green pairing is iconic"
+    },
+    {
+      "cat": "science",
+      "q": "What is the hottest planet in our solar system?",
+      "a": "Venus",
+      "reason": "too easy: elementary school fact"
+    },
+    {
+      "cat": "science",
+      "q": "Gas plants absorb during photosynthesis?",
+      "a": "Carbon dioxide (CO₂)",
+      "reason": "too easy: basic science"
+    },
+    {
+      "cat": "science",
+      "q": "Powerhouse of the cell?",
+      "a": "Mitochondria",
+      "reason": "too easy: classic meme-level biology basic"
+    },
+    {
+      "cat": "science",
+      "q": "What does DNA stand for?",
+      "a": "Deoxyribonucleic Acid",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "science",
+      "q": "Study of living organisms?",
+      "a": "Biology",
+      "reason": "too easy: tautological/obvious"
+    },
+    {
+      "cat": "science",
+      "q": "What is a herbivore?",
+      "a": "An animal that only eats plants",
+      "reason": "too easy: kindergarten-level"
+    },
+    {
+      "cat": "science",
+      "q": "What are the three states of matter?",
+      "a": "Solid, liquid, and gas (plasma is the fourth)",
+      "reason": "too easy: elementary school fact"
+    },
+    {
+      "cat": "math",
+      "q": "What is 1/2 + 1/4?",
+      "a": "3/4",
+      "reason": "too easy: basic fraction arithmetic"
+    },
+    {
+      "cat": "math",
+      "q": "What is 2 + 2 × 3 (order of operations)?",
+      "a": "8",
+      "reason": "too easy: trivial order of operations"
+    },
+    {
+      "cat": "math",
+      "q": "What is the sum of angles in a triangle?",
+      "a": "180 degrees",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "math",
+      "q": "What is 3 to the power of 4?",
+      "a": "81",
+      "reason": "too easy: basic math"
+    },
+    {
+      "cat": "math",
+      "q": "What is 15 + 25 + 35?",
+      "a": "75",
+      "reason": "too easy: basic arithmetic"
+    },
+    {
+      "cat": "math",
+      "q": "What is the area of a rectangle with width 4 and length 7?",
+      "a": "28",
+      "reason": "too easy: trivial multiplication"
+    },
+    {
+      "cat": "math",
+      "q": "What is 11 × 12?",
+      "a": "132",
+      "reason": "too easy: basic multiplication"
+    },
+    {
+      "cat": "math",
+      "q": "What number comes next: 2, 4, 8, 16?",
+      "a": "32",
+      "reason": "too easy: trivial doubling pattern"
+    },
+    {
+      "cat": "math",
+      "q": "What is 13 × 13?",
+      "a": "169",
+      "reason": "too easy: basic multiplication"
+    },
+    {
+      "cat": "math",
+      "q": "What is 15% of 200?",
+      "a": "30",
+      "reason": "too easy: basic percentage"
+    },
+    {
+      "cat": "space",
+      "q": "How long does it take light from the Sun to reach Earth?",
+      "a": "About 8 minutes",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "space",
+      "q": "Which planet is famous for its Great Red Spot?",
+      "a": "Jupiter",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "space",
+      "q": "What do we call a collection of stars forming a pattern?",
+      "a": "A constellation",
+      "reason": "too easy: obvious"
+    },
+    {
+      "cat": "space",
+      "q": "What is a light-year?",
+      "a": "The distance light travels in one year",
+      "reason": "too easy: name literally explains it"
+    },
+    {
+      "cat": "space",
+      "q": "What company founded by Elon Musk runs private space launches?",
+      "a": "SpaceX",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "space",
+      "q": "What is the name of our own moon?",
+      "a": "Luna",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "space",
+      "q": "What is a solar eclipse?",
+      "a": "When the Moon blocks the Sun's light from Earth",
+      "reason": "too easy: name explains it"
+    },
+    {
+      "cat": "space",
+      "q": "What is the phase when we see no Moon at all?",
+      "a": "New moon",
+      "reason": "too easy: obvious/kindergarten-level"
+    },
+    {
+      "cat": "history",
+      "q": "What ancient city was destroyed by Mount Vesuvius?",
+      "a": "Pompeii",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Who discovered the tomb of Tutankhamun?",
+      "a": "Howard Carter",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "What document begins with 'We the People'?",
+      "a": "The U.S. Constitution",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Year WWI ended?",
+      "a": "1918",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Who invented the telephone?",
+      "a": "Alexander Graham Bell (1876)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Primary author of the Declaration of Independence?",
+      "a": "Thomas Jefferson",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Who was Mahatma Gandhi?",
+      "a": "Indian lawyer who led India's nonviolent independence movement against British rule",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Year the Soviet Union collapsed?",
+      "a": "1991",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "First woman to fly solo across the Atlantic?",
+      "a": "Amelia Earhart (1932)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Year the Berlin Wall fell?",
+      "a": "1989",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Who was Napoleon Bonaparte?",
+      "a": "French military leader and emperor who dominated Europe in the early 19th century",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "What was the first artificial satellite?",
+      "a": "Sputnik 1 (1957, Soviet Union)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Who was Cleopatra?",
+      "a": "Last active ruler of the Ptolemaic Kingdom of Egypt",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "history",
+      "q": "Year the Magna Carta was signed?",
+      "a": "1215",
+      "reason": "too easy: famous school-textbook date"
+    },
+    {
+      "cat": "history",
+      "q": "Year the French Revolution began?",
+      "a": "1789",
+      "reason": "too easy: famous school-textbook date"
+    },
+    {
+      "cat": "sports",
+      "q": "What sport uses a scrum?",
+      "a": "Rugby",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "Maximum score in a bowling game?",
+      "a": "300",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "National sport of Japan?",
+      "a": "Sumo wrestling",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "Points for a touchdown in American football?",
+      "a": "6",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "Players on a volleyball team?",
+      "a": "6",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "Sport played at the Augusta National?",
+      "a": "Golf (the Masters Tournament)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "What does the yellow jersey mean in Tour de France?",
+      "a": "The overall race leader wears it",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "sports",
+      "q": "What is a penalty shootout?",
+      "a": "Teams alternate penalty kicks to decide a tied match",
+      "reason": "too easy: name explains itself"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is famous for its tango music and dance?",
+      "a": "Argentina",
+      "reason": "too easy: universal knowledge (tango=Argentina)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is known for tulips, windmills, and wooden clogs?",
+      "a": "Netherlands",
+      "reason": "too easy: iconic triple cliché"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is home to the Inca ruins of Machu Picchu?",
+      "a": "Peru",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country has the most natural lakes?",
+      "a": "Canada",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is famous for cheese and wine and has the Alps to the east?",
+      "a": "France",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country shares the longest border with the United States?",
+      "a": "Canada",
+      "reason": "too easy: obvious"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country has the world's longest coastline?",
+      "a": "Canada",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is famous for fjords and midnight sun?",
+      "a": "Norway",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country hosts the annual Rio Carnival?",
+      "a": "Brazil",
+      "reason": "too easy: Rio is in Brazil — leak"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is famous for mozzarella and Vespa scooters?",
+      "a": "Italy",
+      "reason": "too easy: iconic Italian cliché"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is known as the Land of a Thousand Lakes?",
+      "a": "Finland",
+      "reason": "too easy: well-known nickname"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is famous for its vodka and matryoshka dolls?",
+      "a": "Russia",
+      "reason": "too easy: iconic Russian cliché"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is home to the Maasai Mara reserve?",
+      "a": "Kenya",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'CPU' stand for?",
+      "a": "Central Processing Unit",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'PDF' stand for?",
+      "a": "Portable Document Format",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'USB' stand for?",
+      "a": "Universal Serial Bus",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'Wi-Fi' allow you to do?",
+      "a": "Connect to the internet wirelessly",
+      "reason": "too easy: tautological"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'ROM' stand for?",
+      "a": "Read-Only Memory",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'RAM' stand for?",
+      "a": "Random Access Memory",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What is the name of the most popular video conferencing app launched in 2011 starting with 'Z'?",
+      "a": "Zoom",
+      "reason": "too easy: letter Z leak"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'Bluetooth' connect?",
+      "a": "Devices wirelessly",
+      "reason": "too easy: obvious"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'OS' stand for?",
+      "a": "Operating System",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'GPS' stand for?",
+      "a": "Global Positioning System",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'LED' stand for?",
+      "a": "Light Emitting Diode",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "technology",
+      "q": "What device reads QR codes?",
+      "a": "Smartphone camera",
+      "reason": "too easy: obvious"
+    },
+    {
+      "cat": "technology",
+      "q": "What does 'HDMI' stand for?",
+      "a": "High-Definition Multimedia Interface",
+      "reason": "too easy: universal tech acronym"
+    },
+    {
+      "cat": "technology",
+      "q": "What year was the iPad first released?",
+      "a": "2010",
+      "reason": "too easy: well-known tech launch"
+    },
+    {
+      "cat": "music",
+      "q": "How many lines are on a standard music staff?",
+      "a": "5",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What instrument was Louis Armstrong famous for playing?",
+      "a": "Trumpet",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Which band released Wonderwall?",
+      "a": "Oasis",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who is known as the Boss in rock music?",
+      "a": "Bruce Springsteen",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What family of instruments does the clarinet belong to?",
+      "a": "Woodwind",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What genre of music originated in Jamaica?",
+      "a": "Reggae",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What instrument is Jimi Hendrix famous for?",
+      "a": "Electric guitar",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "How many strings does a standard violin have?",
+      "a": "4",
+      "reason": "too easy: basic music"
+    },
+    {
+      "cat": "music",
+      "q": "What female artist sang 'Like a Virgin'?",
+      "a": "Madonna",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Halo and Single Ladies?",
+      "a": "Beyoncé",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Band behind Hotel California?",
+      "a": "Eagles",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Shape of You?",
+      "a": "Ed Sheeran",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What nationality is Adele?",
+      "a": "British (English)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Blinding Lights?",
+      "a": "The Weeknd",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Band behind Smells Like Teen Spirit?",
+      "a": "Nirvana",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Someone Like You?",
+      "a": "Adele",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Bad Guy?",
+      "a": "Billie Eilish",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Stairway to Heaven?",
+      "a": "Led Zeppelin",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang All I Want for Christmas Is You?",
+      "a": "Mariah Carey",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Country music capital of the world?",
+      "a": "Nashville, Tennessee",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who is the lead vocalist of Maroon 5?",
+      "a": "Adam Levine",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What boy band released 'Bye Bye Bye'?",
+      "a": "NSYNC",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "What symbol raises a note by a semitone?",
+      "a": "A sharp",
+      "reason": "too easy: basic music theory everyone knows"
+    },
+    {
+      "cat": "music",
+      "q": "What is a duet?",
+      "a": "A musical performance by two performers",
+      "reason": "too easy: duet=two, definition"
+    },
+    {
+      "cat": "music",
+      "q": "What does a conductor do?",
+      "a": "Leads and coordinates the musicians, interpreting the music",
+      "reason": "too easy: obvious"
+    },
+    {
+      "cat": "music",
+      "q": "Who composed the Four Seasons?",
+      "a": "Antonio Vivaldi",
+      "reason": "too easy: universal classical knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Uptown Funk?",
+      "a": "Bruno Mars (featuring Mark Ronson)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Despacito?",
+      "a": "Luis Fonsi (featuring Daddy Yankee)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Who sang Lose Yourself?",
+      "a": "Eminem",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "music",
+      "q": "Taylor Swift's debut album?",
+      "a": "Taylor Swift (self-titled, 2006)",
+      "reason": "too easy: self-titled, name leak"
+    },
+    {
+      "cat": "movies",
+      "q": "Who directed E.T. the Extra-Terrestrial?",
+      "a": "Steven Spielberg",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Who directed 'Titanic'?",
+      "a": "James Cameron",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "What superhero movie made over $2 billion in 2019?",
+      "a": "Avengers: Endgame",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Who voices Shrek?",
+      "a": "Mike Myers",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Director of The Godfather?",
+      "a": "Francis Ford Coppola",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "First Disney animated feature film?",
+      "a": "Snow White and the Seven Dwarfs (1937)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Year the first Star Wars film released?",
+      "a": "1977",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Film featuring Katniss Everdeen?",
+      "a": "The Hunger Games",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Who played Hannibal Lecter in Silence of the Lambs?",
+      "a": "Anthony Hopkins",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Year Titanic was released?",
+      "a": "1997",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Who directed the Nolan Batman trilogy?",
+      "a": "Christopher Nolan",
+      "reason": "too easy: Nolan in the question — leak"
+    },
+    {
+      "cat": "movies",
+      "q": "First Pixar film?",
+      "a": "Toy Story (1995)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Who directed Pulp Fiction?",
+      "a": "Quentin Tarantino",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "What animated film features a rat who wants to cook?",
+      "a": "Ratatouille",
+      "reason": "too easy: iconic plot point"
+    },
+    {
+      "cat": "movies",
+      "q": "Film with the quote Why so serious??",
+      "a": "The Dark Knight (2008)",
+      "reason": "too easy: iconic quote"
+    },
+    {
+      "cat": "movies",
+      "q": "Who plays Tony Montana in Scarface?",
+      "a": "Al Pacino",
+      "reason": "too easy: universal movie knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Who played the Joker in the 2019 film?",
+      "a": "Joaquin Phoenix",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "movies",
+      "q": "Film about a stranded astronaut on Mars?",
+      "a": "The Martian (2015)",
+      "reason": "too easy: title=The Martian"
+    },
+    {
+      "cat": "movies",
+      "q": "Film with the line I see dead people?",
+      "a": "The Sixth Sense (1999)",
+      "reason": "too easy: iconic movie quote"
+    },
+    {
+      "cat": "movies",
+      "q": "Film with the quote You had me at hello?",
+      "a": "Jerry Maguire (1996)",
+      "reason": "too easy: iconic movie quote"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Who is Beyoncé's husband?",
+      "a": "Jay-Z",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which boy band sang 'I Want It That Way'?",
+      "a": "Backstreet Boys",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which singer released 'Bad Guy' in 2019?",
+      "a": "Billie Eilish",
+      "reason": "too easy: duplicate of music category"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which famous Italian fashion brand has a Medusa logo?",
+      "a": "Versace",
+      "reason": "too easy: iconic logo"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which app uses a pink-and-white camera logo?",
+      "a": "Instagram",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which singer married Justin Bieber?",
+      "a": "Hailey Baldwin",
+      "reason": "too easy: universal pop-culture knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Who is the lead singer of Coldplay?",
+      "a": "Chris Martin",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which singer is known as 'Slim Shady'?",
+      "a": "Eminem",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which sport is Tom Brady famous for?",
+      "a": "American football",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Who is the most followed person on Instagram?",
+      "a": "Cristiano Ronaldo",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Who is the most subscribed YouTuber (channel)?",
+      "a": "MrBeast",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "What pop star has an 'Eras Tour'?",
+      "a": "Taylor Swift",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "What singer is known as 'Riri'?",
+      "a": "Rihanna",
+      "reason": "too easy: Riri=Rihanna nickname"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "What is the most streamed song on Spotify of all time?",
+      "a": "Blinding Lights (The Weeknd)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What house is Luna Lovegood in?",
+      "a": "Ravenclaw",
+      "reason": "too easy: fandom surface knowledge"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the name of Hagrid's giant dog?",
+      "a": "Fang",
+      "reason": "too easy: fandom surface knowledge"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What spell opens locked doors?",
+      "a": "Alohomora",
+      "reason": "too easy: iconic spell"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Spell that disarms an opponent?",
+      "a": "Expelliarmus",
+      "reason": "too easy: iconic spell"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What does Lumos do?",
+      "a": "Lights up the tip of your wand",
+      "reason": "too easy: iconic spell — Lumos=light"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "The wizarding prison?",
+      "a": "Azkaban",
+      "reason": "too easy: iconic location"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Harry's Quidditch position?",
+      "a": "Seeker",
+      "reason": "too easy: iconic fandom fact"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Harry's godfather?",
+      "a": "Sirius Black",
+      "reason": "too easy: iconic fandom fact"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Train to Hogwarts?",
+      "a": "The Hogwarts Express — from Platform 9¾",
+      "reason": "too easy: iconic fandom fact"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Levitation spell?",
+      "a": "Wingardium Leviosa",
+      "reason": "too easy: iconic spell"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is Diagon Alley?",
+      "a": "A hidden wizarding shopping street in London",
+      "reason": "too easy: surface fandom knowledge"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the Sorting Hat?",
+      "a": "A magical hat that places new students into their Hogwarts house",
+      "reason": "too easy: name explains it"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Who is Voldemort?",
+      "a": "The Dark Lord — born Tom Marvolo Riddle — who killed Harry's parents",
+      "reason": "too easy: surface fandom knowledge"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is the magical map called?",
+      "a": "Marauder's Map",
+      "reason": "too easy: iconic HP fact"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What house is known for cunning and ambition?",
+      "a": "Slytherin",
+      "reason": "too easy: iconic HP house trait"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "What is Hagrid's three-headed dog called?",
+      "a": "Fluffy",
+      "reason": "too easy: iconic HP creature"
+    },
+    {
+      "cat": "harry_potter",
+      "q": "Who is Rubeus Hagrid?",
+      "a": "Keeper of Keys and Grounds at Hogwarts — Harry's first connection to the wizarding world",
+      "reason": "too easy: definition of major HP character"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is Peter Quill's alias?",
+      "a": "Star-Lord",
+      "reason": "too easy: surface MCU knowledge"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who is Scott Lang?",
+      "a": "Ant-Man",
+      "reason": "too easy: surface MCU knowledge"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is Natasha Romanoff's superhero name?",
+      "a": "Black Widow",
+      "reason": "too easy: duplicate of existing Black Widow Qs"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who snapped to destroy Thanos's army in Endgame?",
+      "a": "Tony Stark / Iron Man",
+      "reason": "too easy: iconic MCU moment"
+    },
+    {
+      "cat": "marvel",
+      "q": "How many Infinity Stones are there?",
+      "a": "6",
+      "reason": "too easy: universal MCU knowledge"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is Hawkeye's real name?",
+      "a": "Clint Barton",
+      "reason": "too easy: surface MCU knowledge"
+    },
+    {
+      "cat": "marvel",
+      "q": "Villain in the first Avengers movie?",
+      "a": "Loki",
+      "reason": "too easy: surface MCU knowledge"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Doctor Strange?",
+      "a": "Benedict Cumberbatch",
+      "reason": "too easy: universal MCU casting"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is Vibranium?",
+      "a": "Fictional metal found in Wakanda — absorbs kinetic energy",
+      "reason": "too easy: duplicate (Captain America shield)"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who is Hawkeye?",
+      "a": "Clint Barton — expert archer and founding Avenger",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Black Panther?",
+      "a": "Chadwick Boseman (first three films)",
+      "reason": "too easy: universal MCU casting"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who is Thanos?",
+      "a": "A powerful cosmic villain who wants to wipe out half of all life in the universe",
+      "reason": "too easy: surface MCU knowledge"
+    },
+    {
+      "cat": "marvel",
+      "q": "Name the three Spider-Men in No Way Home.",
+      "a": "Tom Holland, Andrew Garfield, and Tobey Maguire",
+      "reason": "too easy: iconic MCU moment"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is Thor's axe in Infinity War called?",
+      "a": "Stormbreaker",
+      "reason": "too easy: iconic MCU item"
+    },
+    {
+      "cat": "marvel",
+      "q": "What infinity stone is in Vision's forehead?",
+      "a": "Mind Stone",
+      "reason": "too easy: obvious from imagery"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who is the raccoon in Guardians of the Galaxy?",
+      "a": "Rocket Raccoon",
+      "reason": "too easy: Rocket Raccoon is literally the answer (raccoon=Rocket)"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the Infinity Gauntlet?",
+      "a": "A glove holding all six Infinity Stones, granting near-omnipotent power",
+      "reason": "too easy: definition question"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is Ant-Man's ability?",
+      "a": "He can shrink to microscopic size or grow to enormous size using a special suit",
+      "reason": "too easy: Ant=small, universal knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "What city does Wonder Woman come from?",
+      "a": "Themyscira",
+      "reason": "too easy: surface DC knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "Who is Superman's cousin?",
+      "a": "Supergirl",
+      "reason": "too easy: name leak (super)"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the name of Batman's company?",
+      "a": "Wayne Enterprises",
+      "reason": "too easy: Wayne Enterprises is universal"
+    },
+    {
+      "cat": "dc",
+      "q": "What city does Clark Kent work in for the Daily Planet?",
+      "a": "Metropolis",
+      "reason": "too easy: duplicate (Superman's city)"
+    },
+    {
+      "cat": "dc",
+      "q": "What kingdom does Aquaman rule?",
+      "a": "Atlantis",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "Aquaman's real name?",
+      "a": "Arthur Curry",
+      "reason": "too easy: surface DC knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "Batman's sidekick?",
+      "a": "Robin (Dick Grayson was first)",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "Wonder Woman's weapon?",
+      "a": "The Lasso of Truth — and Amazonian sword and shield",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "What is kryptonite?",
+      "a": "Radioactive material from Superman's home planet — weakens and can kill him",
+      "reason": "too easy: duplicate of Superman's weakness"
+    },
+    {
+      "cat": "dc",
+      "q": "Superman's Kryptonian name?",
+      "a": "Kal-El",
+      "reason": "too easy: surface DC knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the Justice League?",
+      "a": "DC's superhero team — Batman, Superman, Wonder Woman, Flash, Aquaman, Cyborg, Green Lantern",
+      "reason": "too easy: definition question"
+    },
+    {
+      "cat": "dc",
+      "q": "Green Lantern's power source?",
+      "a": "Willpower",
+      "reason": "too easy: surface DC knowledge"
+    },
+    {
+      "cat": "dc",
+      "q": "Who is Catwoman?",
+      "a": "Selina Kyle — a skilled thief with a complicated romantic history with Batman",
+      "reason": "too easy: Cat+woman=name explains"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What planet is famous for Ewoks?",
+      "a": "Endor",
+      "reason": "too easy: duplicate — Endor/Ewoks link in existing blacklist"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What planet is Princess Leia from?",
+      "a": "Alderaan",
+      "reason": "too easy: surface SW knowledge"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the evil empire called?",
+      "a": "Galactic Empire",
+      "reason": "too easy: name is in question"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who is Luke's twin sister?",
+      "a": "Leia Organa",
+      "reason": "too easy: universal SW knowledge"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the bounty hunter who captures Han Solo?",
+      "a": "Boba Fett",
+      "reason": "too easy: iconic SW fact"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Color of Mace Windu's lightsaber?",
+      "a": "Purple",
+      "reason": "too easy: iconic purple saber"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who says Do or do not, there is no try?",
+      "a": "Yoda",
+      "reason": "too easy: iconic Yoda quote"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Planet destroyed by the Death Star?",
+      "a": "Alderaan",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who voices Darth Vader?",
+      "a": "James Earl Jones",
+      "reason": "too easy: universal SW knowledge"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What are Stormtroopers?",
+      "a": "The Empire's infantry soldiers in white armour",
+      "reason": "too easy: universal SW knowledge"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who is Princess Leia?",
+      "a": "A leader of the Rebel Alliance and later the Resistance — played by Carrie Fisher",
+      "reason": "too easy: universal SW knowledge"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the Rebel Alliance?",
+      "a": "The resistance movement fighting against the Galactic Empire",
+      "reason": "too easy: name explains it"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who shot first in the cantina?",
+      "a": "Han Solo (original version)",
+      "reason": "too easy: iconic SW meme/debate"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is a Jedi?",
+      "a": "A Force-sensitive member of the peacekeeping order serving the light side",
+      "reason": "too easy: definition question"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the Force?",
+      "a": "An energy field created by all living things that binds the galaxy together",
+      "reason": "too easy: iconic quote"
+    },
+    {
+      "cat": "star_wars",
+      "q": "What is the Galactic Empire?",
+      "a": "The authoritarian government that controls the galaxy after the fall of the Republic",
+      "reason": "too easy: definition question"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who is Yoda?",
+      "a": "A legendary Jedi Grand Master — one of the oldest and most powerful Jedi ever",
+      "reason": "too easy: universal SW knowledge"
+    },
+    {
+      "cat": "disney",
+      "q": "What does Hakuna Matata mean?",
+      "a": "No worries (in Swahili)",
+      "reason": "too easy: iconic Lion King phrase"
+    },
+    {
+      "cat": "disney",
+      "q": "What is the name of Aladdin's genie?",
+      "a": "The Genie — voiced by Robin Williams",
+      "reason": "too easy: name is literally Genie"
+    },
+    {
+      "cat": "disney",
+      "q": "What does Pinocchio want more than anything?",
+      "a": "To be a real boy",
+      "reason": "too easy: central plot point everyone knows"
+    },
+    {
+      "cat": "disney",
+      "q": "Who is Nemo's father?",
+      "a": "Marlin",
+      "reason": "too easy: surface Disney knowledge"
+    },
+    {
+      "cat": "disney",
+      "q": "What princess pricks her finger on a spindle?",
+      "a": "Aurora (Sleeping Beauty)",
+      "reason": "too easy: name leak (Sleeping Beauty in answer)"
+    },
+    {
+      "cat": "disney",
+      "q": "Who is the villain in Sleeping Beauty?",
+      "a": "Maleficent",
+      "reason": "too easy: universal Disney knowledge"
+    },
+    {
+      "cat": "disney",
+      "q": "What is Jasmine's pet tiger's name?",
+      "a": "Rajah",
+      "reason": "too easy: surface Disney knowledge"
+    },
+    {
+      "cat": "disney",
+      "q": "Who is Belle's father?",
+      "a": "Maurice",
+      "reason": "too easy: surface Disney knowledge"
+    },
+    {
+      "cat": "disney",
+      "q": "What is the name of the teacup in Beauty and the Beast?",
+      "a": "Chip",
+      "reason": "too easy: surface Disney knowledge"
+    },
+    {
+      "cat": "disney",
+      "q": "What does Mulan do in the film?",
+      "a": "She disguises herself as a man to take her father's place in the army",
+      "reason": "too easy: universal Disney plot"
+    },
+    {
+      "cat": "disney",
+      "q": "What is Stitch's experiment number?",
+      "a": "626",
+      "reason": "too easy: iconic Lilo & Stitch fact"
+    },
+    {
+      "cat": "anime",
+      "q": "What food is Naruto obsessed with?",
+      "a": "Ramen",
+      "reason": "too easy: surface anime knowledge"
+    },
+    {
+      "cat": "anime",
+      "q": "What pirate crew does Luffy lead?",
+      "a": "The Straw Hat Pirates",
+      "reason": "too easy: surface anime knowledge"
+    },
+    {
+      "cat": "anime",
+      "q": "What energy do ninjas use in Naruto?",
+      "a": "Chakra",
+      "reason": "too easy: surface anime knowledge"
+    },
+    {
+      "cat": "anime",
+      "q": "What sport is central to Haikyuu!!?",
+      "a": "Volleyball",
+      "reason": "too easy: in existing references"
+    },
+    {
+      "cat": "anime",
+      "q": "What anime follows Tanjiro Kamado fighting demons?",
+      "a": "Demon Slayer",
+      "reason": "too easy: name explains it (Demon+demons)"
+    },
+    {
+      "cat": "anime",
+      "q": "What anime features a rubber pirate named Luffy?",
+      "a": "One Piece",
+      "reason": "too easy: Luffy leak"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the name of Goku's signature attack?",
+      "a": "Kamehameha",
+      "reason": "too easy: iconic DBZ attack"
+    },
+    {
+      "cat": "anime",
+      "q": "What anime features a notebook that kills?",
+      "a": "Death Note",
+      "reason": "too easy: name leak (Death Note=notebook)"
+    },
+    {
+      "cat": "anime",
+      "q": "Who is the protagonist of Dragon Ball Z?",
+      "a": "Goku",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the name of Ash Ketchum's first Pokémon?",
+      "a": "Pikachu",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "anime",
+      "q": "What anime features a boy who becomes the #1 hero?",
+      "a": "My Hero Academia",
+      "reason": "too easy: name leak (Hero/#1)"
+    },
+    {
+      "cat": "anime",
+      "q": "What anime features a volleyball team at Karasuno?",
+      "a": "Haikyuu!!",
+      "reason": "too easy: duplicate of central Haikyuu Q"
+    },
+    {
+      "cat": "anime",
+      "q": "Who is the protagonist in Naruto?",
+      "a": "Naruto Uzumaki",
+      "reason": "too easy: name=show title"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the name of the pirate crew in One Piece?",
+      "a": "The Straw Hat Pirates",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "anime",
+      "q": "What does the Death Note do?",
+      "a": "Kills anyone whose name is written in it",
+      "reason": "too easy: name leak"
+    },
+    {
+      "cat": "anime",
+      "q": "What is the mascot Pokémon?",
+      "a": "Pikachu — Ash's electric mouse partner",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "anime",
+      "q": "What is Shonen anime?",
+      "a": "Anime aimed at young male audiences — featuring action, friendship, and self-improvement",
+      "reason": "too easy: definition question"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "How many Dragon Balls summon Shenron?",
+      "a": "7",
+      "reason": "too easy: iconic DBZ fact"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What planet was Goku sent from?",
+      "a": "Planet Vegeta",
+      "reason": "too easy: surface DBZ knowledge"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "Who is Goku's best friend since childhood?",
+      "a": "Krillin",
+      "reason": "too easy: surface DBZ knowledge"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is Goku's wife's name?",
+      "a": "Chi-Chi",
+      "reason": "too easy: surface DBZ knowledge"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "Who is Goku's oldest son?",
+      "a": "Gohan",
+      "reason": "too easy: surface DBZ knowledge"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is the green Namekian friend of Goku called?",
+      "a": "Piccolo",
+      "reason": "too easy: duplicate of Piccolo Q"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "How many Dragon Balls must you collect to summon Shenron?",
+      "a": "Seven",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is Goku's first transformation?",
+      "a": "Super Saiyan — triggered by rage over Krillin's death",
+      "reason": "too easy: iconic transformation"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "What is the Kamehameha?",
+      "a": "Goku's signature energy beam attack",
+      "reason": "too easy: duplicate across anime/DB"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What is the name of Luffy's crew?",
+      "a": "The Straw Hat Pirates",
+      "reason": "too easy: duplicate across cats"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What is Luffy's favorite food?",
+      "a": "Meat",
+      "reason": "too easy: surface One Piece knowledge"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What fruit gives Luffy his rubber powers in the live-action show?",
+      "a": "The Gum-Gum Fruit",
+      "reason": "too easy: name leak (rubber=Gum-Gum)"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "Which swordsman joins Luffy first?",
+      "a": "Zoro",
+      "reason": "too easy: universal One Piece knowledge"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "Which chef joins the crew from the Baratie?",
+      "a": "Sanji",
+      "reason": "too easy: surface One Piece knowledge"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "Who is Monkey D. Luffy?",
+      "a": "The captain of the Straw Hat Pirates — his dream is to find the One Piece and become King of the Pirates",
+      "reason": "too easy: name is in title"
+    },
+    {
+      "cat": "one_piece_show",
+      "q": "What did Luffy eat?",
+      "a": "The Gomu Gomu no Mi — making his body rubber",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What type is Pikachu?",
+      "a": "Electric",
+      "reason": "too easy: universal Pokemon knowledge"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What type is Charmander?",
+      "a": "Fire",
+      "reason": "too easy: Char=fire, name leak"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What region is Ash from?",
+      "a": "Kanto",
+      "reason": "too easy: surface Pokemon knowledge"
+    },
+    {
+      "cat": "pokemon",
+      "q": "Which duo chase Pikachu for Team Rocket?",
+      "a": "Jessie and James",
+      "reason": "too easy: iconic Team Rocket duo"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is Pikachu's evolved form?",
+      "a": "Raichu",
+      "reason": "too easy: surface Pokemon knowledge"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What sleeping Normal-type Pokemon blocks roads?",
+      "a": "Snorlax",
+      "reason": "too easy: iconic Snorlax"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What ball is guaranteed to catch a Pokemon?",
+      "a": "Master Ball",
+      "reason": "too easy: universal Pokemon fact"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What Pokemon can transform into other Pokemon?",
+      "a": "Ditto",
+      "reason": "too easy: iconic Ditto fact"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What Pokemon number in the original Pokedex is Mew?",
+      "a": "151",
+      "reason": "too easy: iconic Mew fact"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What does Pikachu evolve into?",
+      "a": "Raichu — using a Thunder Stone",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What are the three starter types?",
+      "a": "Fire, Water, and Grass",
+      "reason": "too easy: universal Pokemon knowledge"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What trio includes Squirtle, Charmander, and Bulbasaur?",
+      "a": "Kanto starters",
+      "reason": "too easy: the three starters leak"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the move Thunderbolt?",
+      "a": "Pikachu's signature special Electric attack",
+      "reason": "too easy: obvious"
+    },
+    {
+      "cat": "pokemon",
+      "q": "Who is Ash's main rival in the original series?",
+      "a": "Gary Oak",
+      "reason": "too easy: surface Pokemon knowledge"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is the Pokédex?",
+      "a": "A device that records information about every Pokémon encountered",
+      "reason": "too easy: definition"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What is Mewtwo?",
+      "a": "A genetically engineered Pokémon created from Mew's DNA — one of the most powerful Pokémon",
+      "reason": "too easy: duplicate of Mewtwo fact"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What does Team Rocket want?",
+      "a": "To steal rare Pokémon for their boss Giovanni",
+      "reason": "too easy: universal Pokemon fact"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What Pokemon was created from Mew's DNA?",
+      "a": "Mewtwo",
+      "reason": "too easy: Mew+two=Mewtwo, name leak"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What Pokemon is known for carrying a bone club?",
+      "a": "Cubone",
+      "reason": "too easy: name leak (Cu+bone=Cubone)"
+    },
+    {
+      "cat": "friends",
+      "q": "What is the name of the coffee shop the gang hang out in?",
+      "a": "Central Perk",
+      "reason": "too easy: iconic Friends location"
+    },
+    {
+      "cat": "friends",
+      "q": "What is Chandler's last name?",
+      "a": "Bing",
+      "reason": "too easy: surface Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "How many friends are in the main group?",
+      "a": "6",
+      "reason": "too easy: basic Friends count"
+    },
+    {
+      "cat": "friends",
+      "q": "Who does Ross marry in Vegas?",
+      "a": "Rachel",
+      "reason": "too easy: iconic Friends plot"
+    },
+    {
+      "cat": "friends",
+      "q": "What is Joey's catchphrase?",
+      "a": "How you doin'?",
+      "reason": "too easy: iconic Joey catchphrase"
+    },
+    {
+      "cat": "friends",
+      "q": "What is Monica's brother's name?",
+      "a": "Ross",
+      "reason": "too easy: universal Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "Who is Chandler's wife?",
+      "a": "Monica",
+      "reason": "too easy: surface Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "Who plays Monica Geller?",
+      "a": "Courteney Cox",
+      "reason": "too easy: universal Friends casting"
+    },
+    {
+      "cat": "friends",
+      "q": "Who plays Rachel Green?",
+      "a": "Jennifer Aniston",
+      "reason": "too easy: universal Friends casting"
+    },
+    {
+      "cat": "friends",
+      "q": "Who says How you doin?",
+      "a": "Joey Tribbiani",
+      "reason": "too easy: iconic catchphrase = Joey"
+    },
+    {
+      "cat": "friends",
+      "q": "What is Monica's job?",
+      "a": "Chef",
+      "reason": "too easy: surface Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "What is Phoebe's most famous song?",
+      "a": "Smelly Cat",
+      "reason": "too easy: iconic Phoebe song"
+    },
+    {
+      "cat": "friends",
+      "q": "Who does Monica marry?",
+      "a": "Chandler Bing",
+      "reason": "too easy: surface Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "Which city is Friends set in?",
+      "a": "New York City (Manhattan)",
+      "reason": "too easy: universal Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "How many seasons does Friends have?",
+      "a": "10 seasons (1994-2004)",
+      "reason": "too easy: universal Friends knowledge"
+    },
+    {
+      "cat": "friends",
+      "q": "Who plays Phoebe Buffay?",
+      "a": "Lisa Kudrow",
+      "reason": "too easy: universal Friends casting"
+    },
+    {
+      "cat": "friends",
+      "q": "What instrument does Phoebe often play?",
+      "a": "The guitar",
+      "reason": "too easy: iconic Phoebe fact"
+    },
+    {
+      "cat": "friends",
+      "q": "Who is Gunther?",
+      "a": "The manager of Central Perk who is hopelessly in love with Rachel",
+      "reason": "too easy: iconic Friends side character"
+    },
+    {
+      "cat": "friends",
+      "q": "What is Joey's famous acting role?",
+      "a": "Dr. Drake Ramoray on Days of Our Lives",
+      "reason": "too easy: duplicate (Dr. Drake Ramoray already in earlier Q)"
+    },
+    {
+      "cat": "the_office",
+      "q": "What city is the Dunder Mifflin branch in?",
+      "a": "Scranton",
+      "reason": "too easy: universal Office knowledge"
+    },
+    {
+      "cat": "the_office",
+      "q": "What crop does Dwight grow on his farm?",
+      "a": "Beets",
+      "reason": "too easy: iconic Office fact"
+    },
+    {
+      "cat": "the_office",
+      "q": "What does Dunder Mifflin sell?",
+      "a": "Paper",
+      "reason": "too easy: universal Office knowledge"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who is the receptionist in season 1?",
+      "a": "Pam Beesly",
+      "reason": "too easy: universal Office knowledge"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who plays Dwight Schrute?",
+      "a": "Rainn Wilson",
+      "reason": "too easy: universal Office casting"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who does Jim eventually marry?",
+      "a": "Pam",
+      "reason": "too easy: iconic Office plot"
+    },
+    {
+      "cat": "the_office",
+      "q": "What state is Scranton in?",
+      "a": "Pennsylvania",
+      "reason": "too easy: universal US geography"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who is the regional manager?",
+      "a": "Michael Scott",
+      "reason": "too easy: universal Office knowledge"
+    },
+    {
+      "cat": "the_office",
+      "q": "What is Michael Scott's catchphrase?",
+      "a": "That's what she said",
+      "reason": "too easy: iconic Office catchphrase"
+    },
+    {
+      "cat": "the_office",
+      "q": "Where is The Office set?",
+      "a": "Scranton, Pennsylvania",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who plays Michael Scott?",
+      "a": "Steve Carell",
+      "reason": "too easy: universal Office casting"
+    },
+    {
+      "cat": "the_office",
+      "q": "What is Angela's favorite animal?",
+      "a": "Cats",
+      "reason": "too easy: iconic Angela fact"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who is Michael's main rival at work?",
+      "a": "Toby Flenderson",
+      "reason": "too easy: universal Office fact"
+    },
+    {
+      "cat": "the_office",
+      "q": "What is Jim's classic prank on Dwight?",
+      "a": "Putting Dwight's belongings in Jell-O",
+      "reason": "too easy: iconic Office cold open"
+    },
+    {
+      "cat": "the_office",
+      "q": "What is Dwight's actual title?",
+      "a": "Assistant TO the Regional Manager",
+      "reason": "too easy: iconic Office running joke"
+    },
+    {
+      "cat": "the_office",
+      "q": "What school is Andy Bernard obsessed with?",
+      "a": "Cornell",
+      "reason": "too easy: iconic Andy Bernard running joke"
+    },
+    {
+      "cat": "the_office",
+      "q": "Who is Dwight Schrute?",
+      "a": "The intense, loyal Assistant TO the Regional Manager and beet farmer",
+      "reason": "too easy: duplicate/definition"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What newspaper does Peter Parker work for?",
+      "a": "The Daily Bugle",
+      "reason": "too easy: iconic Spider-Man fact"
+    },
+    {
+      "cat": "spider_man",
+      "q": "Who is Peter Parker's aunt?",
+      "a": "Aunt May",
+      "reason": "too easy: aunt=Aunt May"
+    },
+    {
+      "cat": "spider_man",
+      "q": "Who raised Peter after his parents died?",
+      "a": "Aunt May and Uncle Ben",
+      "reason": "too easy: universal Spider-Man knowledge"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What quote defines Spider-Man's life?",
+      "a": "With great power comes great responsibility",
+      "reason": "too easy: iconic Spider-Man quote"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What device does Peter usually invent to shoot webs?",
+      "a": "Web-shooters",
+      "reason": "too easy: name=webs+shooters"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is Spider-Man's real name?",
+      "a": "Peter Parker",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "spider_man",
+      "q": "How did Peter get his powers?",
+      "a": "A radioactive spider bite during a school field trip",
+      "reason": "too easy: universal Spider-Man origin"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is Spider-Man's most famous quote?",
+      "a": "With great power comes great responsibility — said by Uncle Ben",
+      "reason": "too easy: duplicate of iconic quote"
+    },
+    {
+      "cat": "spider_man",
+      "q": "Who is Peter's red-haired love interest?",
+      "a": "Mary Jane Watson",
+      "reason": "too easy: universal Spider-Man knowledge"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What borough is Peter Parker from?",
+      "a": "Queens",
+      "reason": "too easy: universal Spider-Man knowledge"
+    },
+    {
+      "cat": "spider_man",
+      "q": "Who runs the Daily Bugle?",
+      "a": "J. Jonah Jameson",
+      "reason": "too easy: iconic Spider-Man character"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What villain is Otto Octavius?",
+      "a": "Doctor Octopus",
+      "reason": "too easy: Otto Octavius=Octopus name leak"
+    },
+    {
+      "cat": "spider_man",
+      "q": "Who is the Green Goblin?",
+      "a": "Norman Osborn — a scientist who becomes unhinged after taking an experimental formula",
+      "reason": "too easy: universal Spider-Man villain"
+    },
+    {
+      "cat": "spider_man",
+      "q": "What is the Daily Bugle?",
+      "a": "The newspaper where Peter works as a photographer — run by J. Jonah Jameson",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "himym",
+      "q": "Who is the main narrator of the show?",
+      "a": "Ted Mosby",
+      "reason": "too easy: central show premise"
+    },
+    {
+      "cat": "himym",
+      "q": "What is the name of Ted's best friend who loves suits?",
+      "a": "Barney Stinson",
+      "reason": "too easy: iconic HIMYM fact"
+    },
+    {
+      "cat": "himym",
+      "q": "What is Marshall's wife's name?",
+      "a": "Lily",
+      "reason": "too easy: surface HIMYM knowledge"
+    },
+    {
+      "cat": "himym",
+      "q": "What is the name of the bar the gang hangs out at?",
+      "a": "MacLaren's",
+      "reason": "too easy: iconic HIMYM location"
+    },
+    {
+      "cat": "himym",
+      "q": "What is Barney's catchphrase about something being awesome?",
+      "a": "Legendary",
+      "reason": "too easy: iconic Barney catchphrase"
+    },
+    {
+      "cat": "himym",
+      "q": "What is Ted's profession?",
+      "a": "Architect",
+      "reason": "too easy: surface HIMYM knowledge"
+    },
+    {
+      "cat": "himym",
+      "q": "Who is Ted telling the story of meeting their mother to?",
+      "a": "His kids",
+      "reason": "too easy: title literally tells you"
+    },
+    {
+      "cat": "himym",
+      "q": "What does Barney say when he wants Ted to change clothes?",
+      "a": "Suit up",
+      "reason": "too easy: iconic Barney catchphrase"
+    },
+    {
+      "cat": "himym",
+      "q": "Who is the womanizer of the group?",
+      "a": "Barney Stinson",
+      "reason": "too easy: iconic HIMYM character"
+    },
+    {
+      "cat": "himym",
+      "q": "What is Ted's last name?",
+      "a": "Mosby",
+      "reason": "too easy: surface HIMYM knowledge"
+    },
+    {
+      "cat": "himym",
+      "q": "Who is narrating the story to his kids?",
+      "a": "Future Ted Mosby",
+      "reason": "too easy: duplicate narrator Q"
+    },
+    {
+      "cat": "himym",
+      "q": "What bar does the group always meet at?",
+      "a": "MacLaren's Pub",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "himym",
+      "q": "Who is the womanizing suit-lover?",
+      "a": "Barney Stinson",
+      "reason": "too easy: triplicate"
+    },
+    {
+      "cat": "himym",
+      "q": "Who does Marshall marry?",
+      "a": "Lily Aldrin",
+      "reason": "too easy: duplicate"
+    },
+    {
+      "cat": "himym",
+      "q": "What is Ted looking for throughout the show?",
+      "a": "The Mother of his children",
+      "reason": "too easy: literally the show title"
+    },
+    {
+      "cat": "himym",
+      "q": "What city is How I Met Your Mother set in?",
+      "a": "New York City",
+      "reason": "too easy: surface knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is the name of the Griffin family's talking dog?",
+      "a": "Brian",
+      "reason": "too easy: iconic Family Guy character"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is the name of the Griffin baby?",
+      "a": "Stewie",
+      "reason": "too easy: iconic Family Guy character"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What town do the Griffins live in?",
+      "a": "Quahog",
+      "reason": "too easy: universal Family Guy fact"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is Peter Griffin's wife's name?",
+      "a": "Lois",
+      "reason": "too easy: surface Family Guy knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "Who created Family Guy?",
+      "a": "Seth MacFarlane",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is the name of Peter and Lois's daughter?",
+      "a": "Meg",
+      "reason": "too easy: surface Family Guy knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is the name of Peter's older son?",
+      "a": "Chris",
+      "reason": "too easy: surface Family Guy knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is Quagmire's catchphrase?",
+      "a": "Giggity",
+      "reason": "too easy: iconic Quagmire catchphrase"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is Stewie's primary catchphrase target?",
+      "a": "Lois (his mother)",
+      "reason": "too easy: surface knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "Who voices Peter, Brian, and Stewie?",
+      "a": "Seth MacFarlane",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What does Stewie usually want to do to Lois (his mother)?",
+      "a": "Kill her",
+      "reason": "too easy: iconic Stewie running gag"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What state is Quahog located in?",
+      "a": "Rhode Island",
+      "reason": "too easy: surface Family Guy knowledge"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What is the name of the perverted neighbor with the catchphrase 'Giggity'?",
+      "a": "Glenn Quagmire",
+      "reason": "too easy: Giggity=Quagmire in next Q"
+    },
+    {
+      "cat": "family_guy",
+      "q": "What network airs Family Guy?",
+      "a": "Fox",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is the name of the family patriarch played by Ed O'Neill?",
+      "a": "Jay Pritchett",
+      "reason": "too easy: central character question"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is Jay's young Colombian wife's name?",
+      "a": "Gloria",
+      "reason": "too easy: universal Modern Family fact"
+    },
+    {
+      "cat": "modern_family",
+      "q": "Who plays Gloria?",
+      "a": "Sofía Vergara",
+      "reason": "too easy: universal Modern Family casting"
+    },
+    {
+      "cat": "modern_family",
+      "q": "Who is Phil Dunphy's wife?",
+      "a": "Claire",
+      "reason": "too easy: surface Modern Family knowledge"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What city is the show set in?",
+      "a": "Los Angeles",
+      "reason": "too easy: surface Modern Family knowledge"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is the name of Cameron and Mitchell's adopted daughter?",
+      "a": "Lily",
+      "reason": "too easy: surface Modern Family knowledge"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is the name of Mitchell and Cameron's adopted daughter?",
+      "a": "Lily",
+      "reason": "too easy: duplicate of above"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is Gloria's home country?",
+      "a": "Colombia",
+      "reason": "too easy: in question (Colombian wife) — leak"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What language does Gloria speak besides English?",
+      "a": "Spanish",
+      "reason": "too easy: obvious from being Colombian"
+    },
+    {
+      "cat": "modern_family",
+      "q": "Who plays Claire Dunphy?",
+      "a": "Julie Bowen",
+      "reason": "too easy: universal Modern Family casting"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What network aired Modern Family?",
+      "a": "ABC",
+      "reason": "too easy: universal knowledge"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is the name of Phil and Claire's three children?",
+      "a": "Haley, Alex, and Luke",
+      "reason": "too easy: surface Modern Family knowledge"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is Claire Dunphy's maiden name?",
+      "a": "Pritchett",
+      "reason": "too easy: Jay Pritchett=her father, obvious"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have hands but cannot clap. I have a face but no eyes. What am I?",
+      "a": "A clock",
+      "reason": "too easy: classic kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I am tall when young and short when old. You burn me to light the dark. What am I?",
+      "a": "A candle",
+      "reason": "too easy: classic kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "The more you take, the more you leave behind. What am I?",
+      "a": "Footsteps",
+      "reason": "too easy: classic riddle everyone knows"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "What has four legs but doesn't walk?",
+      "a": "A table",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "What must be broken before you can use it?",
+      "a": "An egg",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "The more I dry, the wetter I get. What am I?",
+      "a": "A towel",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "What goes up but never comes down?",
+      "a": "Age",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I follow you all day but disappear when night falls. What am I?",
+      "a": "A shadow",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have a head and a tail but no body. What am I?",
+      "a": "A coin",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have a neck but no head. I may be filled with drink. What am I?",
+      "a": "A bottle",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have many teeth but cannot bite. I help neaten your hair. What am I?",
+      "a": "A comb",
+      "reason": "too easy: kindergarten riddle with hair leak"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have a thumb and four fingers but I am not alive. What am I?",
+      "a": "A glove",
+      "reason": "too easy: obvious (thumb+fingers=glove)"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have an eye but cannot see. I am small and pointy. What am I?",
+      "a": "A needle",
+      "reason": "too easy: classic needle riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I am full of holes but still hold water. What am I?",
+      "a": "A sponge",
+      "reason": "too easy: kindergarten riddle"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I have teeth but cannot eat. I keep clothes closed. What am I?",
+      "a": "A zipper",
+      "reason": "too easy: obvious (teeth+clothes=zipper)"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I am always in front of you but can never be seen. What am I?",
+      "a": "The future",
+      "reason": "too easy: common riddle"
+    }
+  ]
+}

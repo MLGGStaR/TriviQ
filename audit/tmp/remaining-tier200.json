@@ -1,0 +1,5368 @@
+{
+  "general": [
+    {
+      "q": "How many months have 31 days?",
+      "a": "7",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What instrument tells you which direction is north?",
+      "a": "A compass",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What gas do plants absorb from the atmosphere?",
+      "a": "Carbon dioxide",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the freezing point of water in Fahrenheit?",
+      "a": "32°F",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the largest desert on Earth?",
+      "a": "Sahara (or Antarctic)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What metal is liquid at room temperature?",
+      "a": "Mercury",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many hours in a week?",
+      "a": "168",
+      "file": "App.jsx"
+    },
+    {
+      "q": "National language of Brazil?",
+      "a": "Portuguese",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many strings does a standard guitar have?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Collective noun for a group of lions?",
+      "a": "A pride",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of China?",
+      "a": "Beijing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players in a rugby union team?",
+      "a": "15",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Eiffel Tower was completed?",
+      "a": "1889",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Smallest ocean?",
+      "a": "Arctic Ocean",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chemical symbol for iron?",
+      "a": "Fe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Argentina?",
+      "a": "Buenos Aires",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many minutes in a day?",
+      "a": "1,440",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Most widely eaten grain in the world?",
+      "a": "Rice",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Normal human body temperature?",
+      "a": "37°C / 98.6°F",
+      "file": "App.jsx"
+    },
+    {
+      "q": "National animal of Australia?",
+      "a": "Kangaroo (and emu)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Currency of the UK?",
+      "a": "Pound sterling (£)",
+      "file": "App.jsx"
+    }
+  ],
+  "geography": [
+    {
+      "q": "What is the capital of Thailand?",
+      "a": "Bangkok",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the capital of Portugal?",
+      "a": "Lisbon",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Capital of Sweden?",
+      "a": "Stockholm",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Capital of Poland?",
+      "a": "Warsaw",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Capital of Australia?",
+      "a": "Canberra",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Body of water separating Europe from Africa?",
+      "a": "Mediterranean Sea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which continent has the most countries?",
+      "a": "Africa (54 countries)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of South Korea?",
+      "a": "Seoul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Largest city in the world by population?",
+      "a": "Tokyo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Turkey?",
+      "a": "Ankara",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of South Africa?",
+      "a": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Canada?",
+      "a": "Ottawa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which country is Iceland closest to geographically?",
+      "a": "Greenland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Capital of Saudi Arabia?",
+      "a": "Riyadh",
+      "file": "App.jsx"
+    }
+  ],
+  "science": [
+    {
+      "q": "What process lets plants lose water through their leaves?",
+      "a": "Transpiration",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the hardest part of the human tooth?",
+      "a": "Enamel",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the hottest planet in our solar system?",
+      "a": "Venus",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Gas plants absorb during photosynthesis?",
+      "a": "Carbon dioxide (CO₂)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Powerhouse of the cell?",
+      "a": "Mitochondria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many chromosomes do humans normally have?",
+      "a": "46",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does DNA stand for?",
+      "a": "Deoxyribonucleic Acid",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Study of living organisms?",
+      "a": "Biology",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many bones in the human hand?",
+      "a": "27",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What causes thunder?",
+      "a": "Rapid expansion of air heated by lightning",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Unit of measuring electrical current?",
+      "a": "Ampere (amp)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a herbivore?",
+      "a": "An animal that only eats plants",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is photosynthesis?",
+      "a": "Process by which plants convert sunlight, CO₂ and water into glucose and oxygen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a black hole?",
+      "a": "A region of spacetime with gravity so strong nothing — not even light — can escape",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the function of red blood cells?",
+      "a": "Carrying oxygen from the lungs to the rest of the body",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the three states of matter?",
+      "a": "Solid, liquid, and gas (plasma is the fourth)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a neutron?",
+      "a": "A subatomic particle in the nucleus with no electric charge",
+      "file": "App.jsx"
+    }
+  ],
+  "math": [
+    {
+      "q": "What is 1/2 + 1/4?",
+      "a": "3/4",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 6 factorial?",
+      "a": "720",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 2 + 2 × 3 (order of operations)?",
+      "a": "8",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the sum of angles in a triangle?",
+      "a": "180 degrees",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 3 to the power of 4?",
+      "a": "81",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 15 + 25 + 35?",
+      "a": "75",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the area of a rectangle with width 4 and length 7?",
+      "a": "28",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 11 × 12?",
+      "a": "132",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What number comes next: 2, 4, 8, 16?",
+      "a": "32",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What number comes next: 1, 1, 2, 3, 5, 8?",
+      "a": "13",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 13 × 13?",
+      "a": "169",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is 15% of 200?",
+      "a": "30",
+      "file": "qualityBackfill"
+    }
+  ],
+  "space": [
+    {
+      "q": "How long does it take light from the Sun to reach Earth?",
+      "a": "About 8 minutes",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet is famous for its Great Red Spot?",
+      "a": "Jupiter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What do we call a collection of stars forming a pattern?",
+      "a": "A constellation",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet is tilted on its side?",
+      "a": "Uranus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of the North Star?",
+      "a": "Polaris",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a light-year?",
+      "a": "The distance light travels in one year",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What company founded by Elon Musk runs private space launches?",
+      "a": "SpaceX",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was the first artificial satellite?",
+      "a": "Sputnik 1",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet has a day longer than its year?",
+      "a": "Venus",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet rotates the fastest?",
+      "a": "Jupiter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of our own moon?",
+      "a": "Luna",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is a solar eclipse?",
+      "a": "When the Moon blocks the Sun's light from Earth",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the phase when we see no Moon at all?",
+      "a": "New moon",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "history": [
+    {
+      "q": "What ancient city was destroyed by Mount Vesuvius?",
+      "a": "Pompeii",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What year did the Western Roman Empire fall?",
+      "a": "476 AD",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who discovered the tomb of Tutankhamun?",
+      "a": "Howard Carter",
+      "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What document begins with 'We the People'?",
+      "a": "The U.S. Constitution",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was Cleopatra?",
+      "a": "Last active ruler of the Ptolemaic Kingdom of Egypt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year WWI ended?",
+      "a": "1918",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who invented the telephone?",
+      "a": "Alexander Graham Bell (1876)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the French Revolution began?",
+      "a": "1789",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was apartheid?",
+      "a": "System of institutionalised racial segregation in South Africa (1948–1991)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Primary author of the Declaration of Independence?",
+      "a": "Thomas Jefferson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Magna Carta was signed?",
+      "a": "1215",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Mahatma Gandhi?",
+      "a": "Indian lawyer who led India's nonviolent independence movement against British rule",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Soviet Union collapsed?",
+      "a": "1991",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First woman to fly solo across the Atlantic?",
+      "a": "Amelia Earhart (1932)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who built the Colosseum?",
+      "a": "The Roman Empire — under Emperor Vespasian, completed 80 AD",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the Berlin Wall fell?",
+      "a": "1989",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Napoleon Bonaparte?",
+      "a": "French military leader and emperor who dominated Europe in the early 19th century",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What was the first artificial satellite?",
+      "a": "Sputnik 1 (1957, Soviet Union)",
+      "file": "App.jsx"
+    }
+  ],
+  "sports": [
+    {
+      "q": "What sport uses a scrum?",
+      "a": "Rugby",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "How many points is a safety in American football?",
+      "a": "2",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the highest score in a single frame of bowling?",
+      "a": "30 (strike in 10th frame)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Points for a try in rugby union?",
+      "a": "5",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Maximum score in a bowling game?",
+      "a": "300",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country that invented basketball?",
+      "a": "United States (Dr. James Naismith, 1891)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Points for a field goal in American football?",
+      "a": "3",
+      "file": "App.jsx"
+    },
+    {
+      "q": "National sport of Japan?",
+      "a": "Sumo wrestling",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Points for a touchdown in American football?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players on a volleyball team?",
+      "a": "6",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a birdie in golf?",
+      "a": "One stroke under par on a hole",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the offside rule in football?",
+      "a": "A player nearer to the opponent's goal than both the ball and the second-to-last opponent when the ball is played to them",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sport played at the Augusta National?",
+      "a": "Golf (the Masters Tournament)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does the yellow jersey mean in Tour de France?",
+      "a": "The overall race leader wears it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a grand slam in tennis?",
+      "a": "Winning all four major tournaments in one year",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Players on an American football team on field?",
+      "a": "11",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does LBW stand for in cricket?",
+      "a": "Leg Before Wicket",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a penalty shootout?",
+      "a": "Teams alternate penalty kicks to decide a tied match",
+      "file": "App.jsx"
+    }
+  ],
+  "country_facts": [
+    {
+      "q": "This Gulf country has capital Muscat",
+      "a": "Oman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "This Baltic country with capital Tallinn is famous for digital government",
+      "a": "Estonia",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "This Pacific island nation has capital Suva and is famous for rugby",
+      "a": "Fiji",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which country is famous for its tango music and dance?",
+      "a": "Argentina",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known for tulips, windmills, and wooden clogs?",
+      "a": "Netherlands",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Inca ruins of Machu Picchu?",
+      "a": "Peru",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the most natural lakes?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for cheese and wine and has the Alps to the east?",
+      "a": "France",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country shares the longest border with the United States?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is home to the Maasai Mara reserve?",
+      "a": "Kenya",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country has the world's longest coastline?",
+      "a": "Canada",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for fjords and midnight sun?",
+      "a": "Norway",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country hosts the annual Rio Carnival?",
+      "a": "Brazil",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for mozzarella and Vespa scooters?",
+      "a": "Italy",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is known as the Land of a Thousand Lakes?",
+      "a": "Finland",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which country is famous for its vodka and matryoshka dolls?",
+      "a": "Russia",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "This country has the most pyramids in the world — more than Egypt",
+      "a": "Sudan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This tiny country is completely surrounded by Italy — home to the smallest republic in the world",
+      "a": "San Marino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "This country is where the World Cup was held in 2022 — known for its futuristic skyline and extreme wealth",
+      "a": "Qatar",
+      "file": "App.jsx"
+    }
+  ],
+  "technology": [
+    {
+      "q": "What does 'CPU' stand for?",
+      "a": "Central Processing Unit",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'PDF' stand for?",
+      "a": "Portable Document Format",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'USB' stand for?",
+      "a": "Universal Serial Bus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'Wi-Fi' allow you to do?",
+      "a": "Connect to the internet wirelessly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'ROM' stand for?",
+      "a": "Read-Only Memory",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'RAM' stand for?",
+      "a": "Random Access Memory",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the most popular video conferencing app launched in 2011 starting with 'Z'?",
+      "a": "Zoom",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Microsoft's web browser launched in 2015?",
+      "a": "Microsoft Edge",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the famous open-source operating system kernel created by Linus Torvalds?",
+      "a": "Linux",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'Bluetooth' connect?",
+      "a": "Devices wirelessly",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'OS' stand for?",
+      "a": "Operating System",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does 'GPS' stand for?",
+      "a": "Global Positioning System",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most popular programming language in the world?",
+      "a": "JavaScript (or Python)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'LED' stand for?",
+      "a": "Light Emitting Diode",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does a router do?",
+      "a": "Directs network traffic between devices",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is a firewall?",
+      "a": "Security system that monitors network traffic",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'NFC' stand for?",
+      "a": "Near Field Communication",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What device reads QR codes?",
+      "a": "Smartphone camera",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'HDMI' stand for?",
+      "a": "High-Definition Multimedia Interface",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year was the iPad first released?",
+      "a": "2010",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "music": [
+    {
+      "q": "How many lines are on a standard music staff?",
+      "a": "5",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What instrument was Louis Armstrong famous for playing?",
+      "a": "Trumpet",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Which band released Wonderwall?",
+      "a": "Oasis",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What symbol raises a note by a semitone?",
+      "a": "A sharp",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is known as the Boss in rock music?",
+      "a": "Bruce Springsteen",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What family of instruments does the clarinet belong to?",
+      "a": "Woodwind",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What genre of music originated in Jamaica?",
+      "a": "Reggae",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What boy band released 'Bye Bye Bye'?",
+      "a": "NSYNC",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What instrument is Jimi Hendrix famous for?",
+      "a": "Electric guitar",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many strings does a standard violin have?",
+      "a": "4",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What female artist sang 'Like a Virgin'?",
+      "a": "Madonna",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the lead vocalist of Maroon 5?",
+      "a": "Adam Levine",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who sang Halo and Single Ladies?",
+      "a": "Beyoncé",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who composed the Four Seasons?",
+      "a": "Antonio Vivaldi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Band behind Hotel California?",
+      "a": "Eagles",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Shape of You?",
+      "a": "Ed Sheeran",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What nationality is Adele?",
+      "a": "British (English)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Blinding Lights?",
+      "a": "The Weeknd",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Taylor Swift's debut album?",
+      "a": "Taylor Swift (self-titled, 2006)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Band behind Smells Like Teen Spirit?",
+      "a": "Nirvana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Someone Like You?",
+      "a": "Adele",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Uptown Funk?",
+      "a": "Bruno Mars (featuring Mark Ronson)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Bad Guy?",
+      "a": "Billie Eilish",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Stairway to Heaven?",
+      "a": "Led Zeppelin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does a conductor do?",
+      "a": "Leads and coordinates the musicians, interpreting the music",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Despacito?",
+      "a": "Luis Fonsi (featuring Daddy Yankee)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a duet?",
+      "a": "A musical performance by two performers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang Lose Yourself?",
+      "a": "Eminem",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who sang All I Want for Christmas Is You?",
+      "a": "Mariah Carey",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is AC/DC's most famous song?",
+      "a": "Back in Black (or Highway to Hell)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Country music capital of the world?",
+      "a": "Nashville, Tennessee",
+      "file": "App.jsx"
+    }
+  ],
+  "movies": [
+    {
+      "q": "Who directed E.T. the Extra-Terrestrial?",
+      "a": "Steven Spielberg",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who directed 'Titanic'?",
+      "a": "James Cameron",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What animated film features a rat who wants to cook?",
+      "a": "Ratatouille",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What superhero movie made over $2 billion in 2019?",
+      "a": "Avengers: Endgame",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who voices Shrek?",
+      "a": "Mike Myers",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Director of The Godfather?",
+      "a": "Francis Ford Coppola",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First Disney animated feature film?",
+      "a": "Snow White and the Seven Dwarfs (1937)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Tony Montana in Scarface?",
+      "a": "Al Pacino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year the first Star Wars film released?",
+      "a": "1977",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring Katniss Everdeen?",
+      "a": "The Hunger Games",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film with the quote Why so serious??",
+      "a": "The Dark Knight (2008)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played Hannibal Lecter in Silence of the Lambs?",
+      "a": "Anthony Hopkins",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film with the line I see dead people?",
+      "a": "The Sixth Sense (1999)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film about a stranded astronaut on Mars?",
+      "a": "The Martian (2015)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film featuring the Parr family?",
+      "a": "The Incredibles (2004)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Film with the quote You had me at hello?",
+      "a": "Jerry Maguire (1996)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who played the Joker in the 2019 film?",
+      "a": "Joaquin Phoenix",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Year Titanic was released?",
+      "a": "1997",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed the Nolan Batman trilogy?",
+      "a": "Christopher Nolan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "First Pixar film?",
+      "a": "Toy Story (1995)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who directed Pulp Fiction?",
+      "a": "Quentin Tarantino",
+      "file": "App.jsx"
+    }
+  ],
+  "pop_culture": [
+    {
+      "q": "Who is Beyoncé's husband?",
+      "a": "Jay-Z",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which boy band sang 'I Want It That Way'?",
+      "a": "Backstreet Boys",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer released 'Bad Guy' in 2019?",
+      "a": "Billie Eilish",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which famous Italian fashion brand has a Medusa logo?",
+      "a": "Versace",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which app uses a pink-and-white camera logo?",
+      "a": "Instagram",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer married Justin Bieber?",
+      "a": "Hailey Baldwin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the lead singer of Coldplay?",
+      "a": "Chris Martin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which game show host hosted 'Wheel of Fortune' for decades?",
+      "a": "Pat Sajak",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which singer is known as 'Slim Shady'?",
+      "a": "Eminem",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Which sport is Tom Brady famous for?",
+      "a": "American football",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the most followed person on Instagram?",
+      "a": "Cristiano Ronaldo",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the most streamed song on Spotify of all time?",
+      "a": "Blinding Lights (The Weeknd)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the most subscribed YouTuber (channel)?",
+      "a": "MrBeast",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What singer is known as 'Riri'?",
+      "a": "Rihanna",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What pop star has an 'Eras Tour'?",
+      "a": "Taylor Swift",
+      "file": "megaNewExpansions"
+    }
+  ],
+  "harry_potter": [
+    {
+      "q": "What house is Luna Lovegood in?",
+      "a": "Ravenclaw",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Hagrid's giant dog?",
+      "a": "Fang",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What spell opens locked doors?",
+      "a": "Alohomora",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Hagrid's three-headed dog called?",
+      "a": "Fluffy",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of Hagrid's pet dragon?",
+      "a": "Norbert",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the magical map called?",
+      "a": "Marauder's Map",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What house is known for cunning and ambition?",
+      "a": "Slytherin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Spell that disarms an opponent?",
+      "a": "Expelliarmus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Lumos do?",
+      "a": "Lights up the tip of your wand",
+      "file": "App.jsx"
+    },
+    {
+      "q": "The wizarding prison?",
+      "a": "Azkaban",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harry's Quidditch position?",
+      "a": "Seeker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harry's godfather?",
+      "a": "Sirius Black",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Form of Hermione's Patronus?",
+      "a": "An otter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Train to Hogwarts?",
+      "a": "The Hogwarts Express — from Platform 9¾",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Neville Longbottom?",
+      "a": "A fellow Gryffindor who kills Nagini with the Sword of Gryffindor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Golden Snitch?",
+      "a": "A small winged ball — catching it ends the Quidditch match and scores 150 points",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Diagon Alley?",
+      "a": "A hidden wizarding shopping street in London",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are house elves?",
+      "a": "Magical creatures bound to serve wizarding families — Dobby is the most famous",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Voldemort?",
+      "a": "The Dark Lord — born Tom Marvolo Riddle — who killed Harry's parents",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Levitation spell?",
+      "a": "Wingardium Leviosa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Rubeus Hagrid?",
+      "a": "Keeper of Keys and Grounds at Hogwarts — Harry's first connection to the wizarding world",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Accio do?",
+      "a": "Summons an object to the caster — a Summoning Charm",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is butterbeer?",
+      "a": "A popular wizarding drink served at the Three Broomsticks — slightly warming",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sorting Hat?",
+      "a": "A magical hat that places new students into their Hogwarts house",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Professor McGonagall?",
+      "a": "Deputy Headmistress, Transfiguration teacher, and head of Gryffindor house",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Forbidden Forest?",
+      "a": "A dark, dangerous forest on Hogwarts grounds — home to centaurs, unicorns, and giant spiders",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Polyjuice Potion?",
+      "a": "A potion temporarily transforming the drinker into another person's physical appearance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Chamber of Secrets?",
+      "a": "A hidden chamber in Hogwarts created by Salazar Slytherin — home to the Basilisk",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ron's rat's real identity?",
+      "a": "Peter Pettigrew (Wormtail) — hiding in Animagus form for 12 years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does a Boggart transform into?",
+      "a": "The viewer's greatest fear",
+      "file": "App.jsx"
+    }
+  ],
+  "marvel": [
+    {
+      "q": "What is Peter Quill's alias?",
+      "a": "Star-Lord",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Scott Lang?",
+      "a": "Ant-Man",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Natasha Romanoff's superhero name?",
+      "a": "Black Widow",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Wanda Maximoff's brother's name in the MCU?",
+      "a": "Pietro Maximoff",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the name of Peter Parker's classmate best friend?",
+      "a": "Ned Leeds",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who snapped to destroy Thanos's army in Endgame?",
+      "a": "Tony Stark / Iron Man",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What infinity stone is in Vision's forehead?",
+      "a": "Mind Stone",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Thanos?",
+      "a": "Josh Brolin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many Infinity Stones are there?",
+      "a": "6",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Hawkeye's real name?",
+      "a": "Clint Barton",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed 'The Avengers' (2012)?",
+      "a": "Joss Whedon",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Villain in the first Avengers movie?",
+      "a": "Loki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Infinity Gauntlet?",
+      "a": "A glove holding all six Infinity Stones, granting near-omnipotent power",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Vibranium?",
+      "a": "Fictional metal found in Wakanda — absorbs kinetic energy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does HYDRA want?",
+      "a": "World domination — a villainous organization from within SHIELD",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Hawkeye?",
+      "a": "Clint Barton — expert archer and founding Avenger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the Infinity Stones?",
+      "a": "Six powerful gems controlling Space, Mind, Reality, Power, Time, and Soul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Vision?",
+      "a": "An android created by Ultron using the Mind Stone, Vibranium, and Tony's JARVIS AI",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Bifrost?",
+      "a": "A rainbow bridge in Asgard enabling travel between the Nine Realms",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Doctor Strange?",
+      "a": "Benedict Cumberbatch",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Captain Marvel?",
+      "a": "Carol Danvers — former US Air Force pilot with cosmic energy powers",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ant-Man's ability?",
+      "a": "He can shrink to microscopic size or grow to enormous size using a special suit",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the raccoon in Guardians of the Galaxy?",
+      "a": "Rocket Raccoon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Black Panther?",
+      "a": "Chadwick Boseman (first three films)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Thanos?",
+      "a": "A powerful cosmic villain who wants to wipe out half of all life in the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Name the three Spider-Men in No Way Home.",
+      "a": "Tom Holland, Andrew Garfield, and Tobey Maguire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Thor's axe in Infinity War called?",
+      "a": "Stormbreaker",
+      "file": "App.jsx"
+    }
+  ],
+  "dc": [
+    {
+      "q": "What city does Wonder Woman come from?",
+      "a": "Themyscira",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Superman's cousin?",
+      "a": "Supergirl",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of Batman's company?",
+      "a": "Wayne Enterprises",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city does Clark Kent work in for the Daily Planet?",
+      "a": "Metropolis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What kingdom does Aquaman rule?",
+      "a": "Atlantis",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Aquaman's real name?",
+      "a": "Arthur Curry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Batman's sidekick?",
+      "a": "Robin (Dick Grayson was first)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lex Luthor?",
+      "a": "Superman's arch-nemesis — brilliant but ruthless billionaire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Green Lantern's power source?",
+      "a": "Willpower",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Wonder Woman's weapon?",
+      "a": "The Lasso of Truth — and Amazonian sword and shield",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Darkseid?",
+      "a": "The ruler of Apokolips — DC's most powerful villain, seeking the Anti-Life Equation",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created Superman?",
+      "a": "Jerry Siegel and Joe Shuster — first appeared in Action Comics #1 in 1938",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Cyborg?",
+      "a": "Victor Stone — athlete whose body was partially replaced with cybernetic technology",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is kryptonite?",
+      "a": "Radioactive material from Superman's home planet — weakens and can kill him",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Catwoman?",
+      "a": "Selina Kyle — a skilled thief with a complicated romantic history with Batman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Superman's Kryptonian name?",
+      "a": "Kal-El",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nightwing?",
+      "a": "Dick Grayson — the original Robin who grew up and became his own hero",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Poison Ivy?",
+      "a": "A villain obsessed with plants using pheromones and toxins — often linked with Harley Quinn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Justice League?",
+      "a": "DC's superhero team — Batman, Superman, Wonder Woman, Flash, Aquaman, Cyborg, Green Lantern",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Amanda Waller?",
+      "a": "The ruthless government official who runs Task Force X (Suicide Squad)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Shazam?",
+      "a": "Billy Batson — a young boy who transforms into a superhero by saying SHAZAM!",
+      "file": "App.jsx"
+    }
+  ],
+  "star_wars": [
+    {
+      "q": "What planet is famous for Ewoks?",
+      "a": "Endor",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What planet is Princess Leia from?",
+      "a": "Alderaan",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is the evil empire called?",
+      "a": "Galactic Empire",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Luke's twin sister?",
+      "a": "Leia Organa",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who shot first in the cantina?",
+      "a": "Han Solo (original version)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the bounty hunter who captures Han Solo?",
+      "a": "Boba Fett",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Color of Mace Windu's lightsaber?",
+      "a": "Purple",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who says Do or do not, there is no try?",
+      "a": "Yoda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Planet destroyed by the Death Star?",
+      "a": "Alderaan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who trained Obi-Wan Kenobi?",
+      "a": "Qui-Gon Jinn",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Force?",
+      "a": "An energy field created by all living things that binds the galaxy together",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who voices Darth Vader?",
+      "a": "James Earl Jones",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Emperor?",
+      "a": "Palpatine / Darth Sidious — the Sith Lord ruling the Galactic Empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are X-Wings?",
+      "a": "The main starfighter used by the Rebel Alliance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Jedi?",
+      "a": "A Force-sensitive member of the peacekeeping order serving the light side",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Sith?",
+      "a": "An ancient order of Force users serving the dark side — fueled by passion and anger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Jabba the Hutt?",
+      "a": "A powerful crime lord on Tatooine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a lightsaber made of?",
+      "a": "A plasma blade powered by a kyber crystal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Yoda?",
+      "a": "A legendary Jedi Grand Master — one of the oldest and most powerful Jedi ever",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Rebel Alliance?",
+      "a": "The resistance movement fighting against the Galactic Empire",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What built C-3PO?",
+      "a": "Anakin Skywalker built him as a child on Tatooine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Lando Calrissian?",
+      "a": "A charming scoundrel, former owner of the Millennium Falcon, general in the Rebel Alliance",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Stormtroopers?",
+      "a": "The Empire's infantry soldiers in white armour",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Galactic Empire?",
+      "a": "The authoritarian government that controls the galaxy after the fall of the Republic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Princess Leia?",
+      "a": "A leader of the Rebel Alliance and later the Resistance — played by Carrie Fisher",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the two suns on Tatooine called?",
+      "a": "Tatoo I and Tatoo II",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ahsoka Tano?",
+      "a": "Anakin Skywalker's former Padawan — she left the Order and became an independent Force user",
+      "file": "App.jsx"
+    }
+  ],
+  "disney": [
+    {
+      "q": "What is Jasmine's pet tiger's name?",
+      "a": "Rajah",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Stitch's experiment number?",
+      "a": "626",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Belle's father?",
+      "a": "Maurice",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the name of the teacup in Beauty and the Beast?",
+      "a": "Chip",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What princess pricks her finger on a spindle?",
+      "a": "Aurora (Sleeping Beauty)",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Nemo's father?",
+      "a": "Marlin",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Hakuna Matata mean?",
+      "a": "No worries (in Swahili)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the name of Aladdin's genie?",
+      "a": "The Genie — voiced by Robin Williams",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Pinocchio want more than anything?",
+      "a": "To be a real boy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Mulan do in the film?",
+      "a": "She disguises herself as a man to take her father's place in the army",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in Frozen?",
+      "a": "Hans — Prince of the Southern Isles, revealed in the twist",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Coco about?",
+      "a": "A boy named Miguel travels to the Land of the Dead on Día de los Muertos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Joy in Inside Out?",
+      "a": "The lead emotion in Riley's head — she desperately wants Riley to be happy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Moana about?",
+      "a": "A young Polynesian chief's daughter who sails to return a stolen relic to the goddess Te Fiti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the villain in Sleeping Beauty?",
+      "a": "Maleficent",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the story of Up?",
+      "a": "An elderly widower flies his house to South America using thousands of balloons",
+      "file": "App.jsx"
+    }
+  ],
+  "anime": [
+    {
+      "q": "What food is Naruto obsessed with?",
+      "a": "Ramen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What pirate crew does Luffy lead?",
+      "a": "The Straw Hat Pirates",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What anime follows bounty hunter Spike Spiegel?",
+      "a": "Cowboy Bebop",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What mecha anime stars Shinji Ikari?",
+      "a": "Neon Genesis Evangelion",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What energy do ninjas use in Naruto?",
+      "a": "Chakra",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What sport is central to Haikyuu!!?",
+      "a": "Volleyball",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title does Vegeta hold?",
+      "a": "Prince of the Saiyans",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Edward Elric's brother's name?",
+      "a": "Alphonse Elric",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What pirate cook serves on the Straw Hats?",
+      "a": "Sanji",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What anime follows Tanjiro Kamado fighting demons?",
+      "a": "Demon Slayer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What anime features a rubber pirate named Luffy?",
+      "a": "One Piece",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Goku's signature attack?",
+      "a": "Kamehameha",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a notebook that kills?",
+      "a": "Death Note",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the protagonist of Dragon Ball Z?",
+      "a": "Goku",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Ash Ketchum's first Pokémon?",
+      "a": "Pikachu",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features alchemist brothers?",
+      "a": "Fullmetal Alchemist",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a boy who becomes the #1 hero?",
+      "a": "My Hero Academia",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What anime features a volleyball team at Karasuno?",
+      "a": "Haikyuu!!",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the protagonist in Naruto?",
+      "a": "Naruto Uzumaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the name of the pirate crew in One Piece?",
+      "a": "The Straw Hat Pirates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Tanjiro's goal in Demon Slayer?",
+      "a": "To cure his sister Nezuko who was turned into a demon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the power system in My Hero Academia called?",
+      "a": "Quirks",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does the Death Note do?",
+      "a": "Kills anyone whose name is written in it",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created Dragon Ball?",
+      "a": "Akira Toriyama",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What transformation does Goku first achieve?",
+      "a": "Super Saiyan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the mascot Pokémon?",
+      "a": "Pikachu — Ash's electric mouse partner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Spike Spiegel?",
+      "a": "The laid-back bounty hunter protagonist of Cowboy Bebop",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Light Yagami?",
+      "a": "A genius student who finds the Death Note and becomes the vigilante Kira",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Edward Elric?",
+      "a": "A young State Alchemist in Fullmetal Alchemist who lost his arm and leg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Spirited Away about?",
+      "a": "A 10-year-old girl enters the spirit world and must work in a bathhouse to rescue her parents",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Shonen anime?",
+      "a": "Anime aimed at young male audiences — featuring action, friendship, and self-improvement",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is All Might?",
+      "a": "The Symbol of Peace in My Hero Academia — he passes his Quirk to Izuku",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the premise of Death Note?",
+      "a": "A high school student uses a notebook that kills anyone whose name is written in it to become Kira",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is an OVA?",
+      "a": "Original Video Animation — anime released directly on video, not broadcast on TV",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Vegeta?",
+      "a": "Goku's rival in Dragon Ball Z — prince of the Saiyan race who becomes an ally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Jujutsu Kaisen about?",
+      "a": "A student eats a cursed finger and joins a school of sorcerers who fight Cursed Spirits",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does tsundere mean?",
+      "a": "A character who starts cold toward their love interest but gradually becomes warmer",
+      "file": "App.jsx"
+    }
+  ],
+  "dragon_ball": [
+    {
+      "q": "How many Dragon Balls summon Shenron?",
+      "a": "7",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Namekian mentor of Gohan?",
+      "a": "Piccolo",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What galactic tyrant destroys Planet Vegeta?",
+      "a": "Frieza",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What company is run by Bulma's family?",
+      "a": "Capsule Corporation",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What pink magical villain dominates the Buu Saga?",
+      "a": "Majin Buu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What earring method also fuses two warriors?",
+      "a": "Potara Fusion",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What god of destruction loves food and naps?",
+      "a": "Beerus",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What tournament risks entire universes in Dragon Ball Super?",
+      "a": "The Tournament of Power",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What childlike ruler can erase universes?",
+      "a": "Zeno",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Saiyan power-up happens after recovering from near death?",
+      "a": "Zenkai boost",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Goku's Saiyan name?",
+      "a": "Kakarot",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What dragon grants wishes on Earth?",
+      "a": "Shenron",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What planet was Goku sent from?",
+      "a": "Planet Vegeta",
+      "file": "triviaUltraExpansions"
+    },
+    {
+      "q": "Who is Goku's best friend since childhood?",
+      "a": "Krillin",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who raises Goku on Earth?",
+      "a": "Grandpa Gohan",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Goku's wife's name?",
+      "a": "Chi-Chi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Goku's oldest son?",
+      "a": "Gohan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the green Namekian friend of Goku called?",
+      "a": "Piccolo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Dragon Balls must you collect to summon Shenron?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the Dragon Balls?",
+      "a": "Seven magic balls — when gathered, they summon a dragon that grants wishes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Goku?",
+      "a": "Earth's greatest hero — a Saiyan raised on Earth who repeatedly saves the universe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Vegeta?",
+      "a": "The prince of the Saiyan race — Goku's rival who becomes an ally",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Saiyan?",
+      "a": "A warrior alien race — Goku and Vegeta's species — they grow stronger after near-death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Goku's first transformation?",
+      "a": "Super Saiyan — triggered by rage over Krillin's death",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Frieza?",
+      "a": "A galactic tyrant who destroyed Planet Vegeta — the primary villain of the Namek arc",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gohan?",
+      "a": "Goku's son — he defeats Cell and briefly becomes the strongest character in DBZ",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Kamehameha?",
+      "a": "Goku's signature energy beam attack",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the Z Fighters?",
+      "a": "The group of heroes protecting Earth — Goku, Gohan, Vegeta, Krillin, Piccolo, etc.",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is a Spirit Bomb?",
+      "a": "Goku's ultimate technique — he gathers energy from all living things into a massive ball",
+      "file": "App.jsx"
+    }
+  ],
+  "one_piece_show": [
+    {
+      "q": "Who is the Straw Hats' doctor?",
+      "a": "Tony Tony Chopper",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Straw Hats' archaeologist?",
+      "a": "Nico Robin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Straw Hats' shipwright?",
+      "a": "Franky",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the Straw Hats' musician?",
+      "a": "Brook",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What dangerous sea holds the One Piece?",
+      "a": "The Grand Line",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What are mysterious fruits that grant powers called?",
+      "a": "Devil Fruits",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What title is given to the four strongest pirates?",
+      "a": "The Yonko",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What ship do the Straw Hats use after the Going Merry?",
+      "a": "The Thousand Sunny",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the lost century called?",
+      "a": "The Void Century",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What stones record the ancient history?",
+      "a": "Poneglyphs",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What island lies at the end of the Grand Line?",
+      "a": "Laugh Tale",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What hidden true model is Luffy's fruit?",
+      "a": "Hito Hito no Mi, Model: Nika",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is the World Government's hidden ruler called?",
+      "a": "Im",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who inspired Luffy by giving him the straw hat?",
+      "a": "Shanks",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Zoro's dream?",
+      "a": "To become the world's greatest swordsman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fruit gives Luffy his rubber powers in the live-action show?",
+      "a": "The Gum-Gum Fruit",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which swordsman joins Luffy first?",
+      "a": "Zoro",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which chef joins the crew from the Baratie?",
+      "a": "Sanji",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Luffy's favorite food?",
+      "a": "Meat",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Luffy's crew?",
+      "a": "The Straw Hat Pirates",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Monkey D. Luffy?",
+      "a": "The captain of the Straw Hat Pirates — his dream is to find the One Piece and become King of the Pirates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What did Luffy eat?",
+      "a": "The Gomu Gomu no Mi — making his body rubber",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Roronoa Zoro?",
+      "a": "The swordsman of the crew — he uses three swords and aims to be the world's greatest swordsman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the One Piece?",
+      "a": "The legendary treasure left by the Pirate King Gol D. Roger — its true nature is revealed in late arcs",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Nami?",
+      "a": "The navigator of the Straw Hat Pirates — she can predict weather and uses a clima-tact",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who created One Piece?",
+      "a": "Eiichiro Oda — one of the best-selling manga authors in history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Grand Line?",
+      "a": "The dangerous ocean where the most powerful pirates operate — where the One Piece is hidden",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Shanks?",
+      "a": "A legendary Yonko pirate — he inspired Luffy and gave him his straw hat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are Devil Fruits?",
+      "a": "Mysterious fruits that grant powers but take away the ability to swim — three types: Paramecia, Zoan, Logia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Tony Tony Chopper?",
+      "a": "The crew's doctor — a reindeer who ate the Human-Human Devil Fruit",
+      "file": "App.jsx"
+    }
+  ],
+  "pokemon": [
+    {
+      "q": "What type is Pikachu?",
+      "a": "Electric",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What type is Bulbasaur?",
+      "a": "Grass and Poison",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What type is Charmander?",
+      "a": "Fire",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What region is Ash from?",
+      "a": "Kanto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Which duo chase Pikachu for Team Rocket?",
+      "a": "Jessie and James",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon was created from Mew's DNA?",
+      "a": "Mewtwo",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What item evolves Eevee into Flareon?",
+      "a": "A Fire Stone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What sleeping Normal-type Pokemon blocks roads?",
+      "a": "Snorlax",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What type is Gyarados?",
+      "a": "Water and Flying",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What fossil Pokemon can be revived from the Helix Fossil?",
+      "a": "Omanyte",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Pikachu's evolved form?",
+      "a": "Raichu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What island houses the Pokemon League in Kanto?",
+      "a": "Indigo Plateau",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What legendary Pokemon controls time?",
+      "a": "Dialga",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What legendary Pokemon controls space?",
+      "a": "Palkia",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What trio includes Squirtle, Charmander, and Bulbasaur?",
+      "a": "Kanto starters",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What type is Jigglypuff?",
+      "a": "Normal and Fairy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon is known for carrying a bone club?",
+      "a": "Cubone",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What ball is guaranteed to catch a Pokemon?",
+      "a": "Master Ball",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon can transform into other Pokemon?",
+      "a": "Ditto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What Pokemon number in the original Pokedex is Mew?",
+      "a": "151",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What number in the Pokedex is Pikachu?",
+      "a": "25",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What type is Eevee?",
+      "a": "Normal",
+      "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What does Pikachu evolve into?",
+      "a": "Raichu — using a Thunder Stone",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What are the three starter types?",
+      "a": "Fire, Water, and Grass",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Ash's main rival in the original series?",
+      "a": "Gary Oak",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Pokédex?",
+      "a": "A device that records information about every Pokémon encountered",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Mewtwo?",
+      "a": "A genetically engineered Pokémon created from Mew's DNA — one of the most powerful Pokémon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Team Rocket want?",
+      "a": "To steal rare Pokémon for their boss Giovanni",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who are the three legendary birds?",
+      "a": "Articuno, Zapdos, and Moltres",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the move Thunderbolt?",
+      "a": "Pikachu's signature special Electric attack",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Professor Oak?",
+      "a": "The Pokémon professor who gives trainers their first Pokémon and Pokédex",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is an evolution stone?",
+      "a": "A special stone that triggers evolution in certain Pokémon — e.g. Fire Stone, Water Stone",
+      "file": "App.jsx"
+    }
+  ],
+  "friends": [
+    {
+      "q": "What instrument does Phoebe often play?",
+      "a": "The guitar",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is the name of the coffee shop the gang hang out in?",
+      "a": "Central Perk",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What is Joey's soap opera doctor name?",
+      "a": "Dr. Drake Ramoray",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who plays Rachel Green?",
+      "a": "Jennifer Aniston",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Chandler's last name?",
+      "a": "Bing",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many friends are in the main group?",
+      "a": "6",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who does Ross marry in Vegas?",
+      "a": "Rachel",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Joey's catchphrase?",
+      "a": "How you doin'?",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Monica's brother's name?",
+      "a": "Ross",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Chandler's wife?",
+      "a": "Monica",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Monica Geller?",
+      "a": "Courteney Cox",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who says How you doin?",
+      "a": "Joey Tribbiani",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Monica's job?",
+      "a": "Chef",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Phoebe's most famous song?",
+      "a": "Smelly Cat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Monica marry?",
+      "a": "Chandler Bing",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many times has Ross been divorced?",
+      "a": "Three (Carol, Emily, Rachel)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ross and Rachel's daughter's name?",
+      "a": "Emma",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Which city is Friends set in?",
+      "a": "New York City (Manhattan)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Phoebe's twin sister's name?",
+      "a": "Ursula Buffay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Rachel work for at the end?",
+      "a": "Louis Vuitton in Paris — but she turns it down to stay with Ross",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Ross's monkey's name?",
+      "a": "Marcel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Joey's famous acting role?",
+      "a": "Dr. Drake Ramoray on Days of Our Lives",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gunther?",
+      "a": "The manager of Central Perk who is hopelessly in love with Rachel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Ross say at his wedding to Emily?",
+      "a": "Rachel's name",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Janice?",
+      "a": "Chandler's ex-girlfriend with a distinctive nasal laugh — famous for OH MY GOD!",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How many seasons does Friends have?",
+      "a": "10 seasons (1994-2004)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Phoebe's alter-ego name?",
+      "a": "Regina Phalange",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who was Monica's famous older boyfriend?",
+      "a": "Richard Burke",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Chandler's job?",
+      "a": "Statistical analysis and data reconfiguration",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the apartment number across from Monica's?",
+      "a": "Apartment 20 (Monica) — the boys live across the hall",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is David?",
+      "a": "Phoebe's on-off love interest — a scientist who goes to Minsk",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Phoebe Buffay?",
+      "a": "Lisa Kudrow",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Unagi according to Ross?",
+      "a": "He claims it's a state of total awareness — it's actually a type of freshwater eel",
+      "file": "App.jsx"
+    }
+  ],
+  "the_office": [
+    {
+      "q": "What school is Andy Bernard obsessed with?",
+      "a": "Cornell",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "What city is the Dunder Mifflin branch in?",
+      "a": "Scranton",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What crop does Dwight grow on his farm?",
+      "a": "Beets",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who briefly replaces Michael Scott after he leaves?",
+      "a": "Deangelo Vickers",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is Creed's last name?",
+      "a": "Bratton",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What is Meredith's last name?",
+      "a": "Palmer",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Who is the receptionist in season 1?",
+      "a": "Pam Beesly",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Dunder Mifflin sell?",
+      "a": "Paper",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is Michael's main rival at work?",
+      "a": "Toby Flenderson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who plays Dwight Schrute?",
+      "a": "Rainn Wilson",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who does Jim eventually marry?",
+      "a": "Pam",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Kevin's famous chili scene about?",
+      "a": "He spills the chili",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is Angela's favorite animal?",
+      "a": "Cats",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "What state is Scranton in?",
+      "a": "Pennsylvania",
+      "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is the regional manager?",
+      "a": "Michael Scott",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Dwight's actual title?",
+      "a": "Assistant TO the Regional Manager",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Jim's classic prank on Dwight?",
+      "a": "Putting Dwight's belongings in Jell-O",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Michael Scott's catchphrase?",
+      "a": "That's what she said",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Where is The Office set?",
+      "a": "Scranton, Pennsylvania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who plays Michael Scott?",
+      "a": "Steve Carell",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Dundies?",
+      "a": "Michael's annual awards ceremony at Chili's — he gives out made-up awards",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Kevin Malone?",
+      "a": "The lovable accountant famous for his chili and love of food",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Ryan Howard start as?",
+      "a": "A temp — he becomes VP, goes to jail, and ends up back as a temp",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Dwight Schrute?",
+      "a": "The intense, loyal Assistant TO the Regional Manager and beet farmer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Toby Flenderson?",
+      "a": "The HR representative — Michael's nemesis despite Toby being completely inoffensive",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who does Dwight end up with?",
+      "a": "Angela Martin — they secretly dated for years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What paper company did Michael start?",
+      "a": "The Michael Scott Paper Company",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Creed Bratton?",
+      "a": "The quality assurance rep — says bizarre things and has a mysterious criminal past",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What does Pam want to be?",
+      "a": "An artist — she eventually becomes an office administrator and later achieves design work",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is David Wallace?",
+      "a": "The CFO of Dunder Mifflin — frequently baffled by the Scranton branch's chaos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Bears. Beets. Battlestar Galactica?",
+      "a": "Jim impersonating Dwight — Dwight calls it identity theft is not a joke",
+      "file": "App.jsx"
+    }
+  ],
+  "spider_man": [
+    {
+      "q": "What newspaper does Peter Parker work for?",
+      "a": "The Daily Bugle",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who is Peter Parker's aunt?",
+      "a": "Aunt May",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Who raised Peter after his parents died?",
+      "a": "Aunt May and Uncle Ben",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who runs the Daily Bugle?",
+      "a": "J. Jonah Jameson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What villain is Otto Octavius?",
+      "a": "Doctor Octopus",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Peter's red-haired love interest?",
+      "a": "Mary Jane Watson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Peter's first great love in comics?",
+      "a": "Gwen Stacy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What borough is Peter Parker from?",
+      "a": "Queens",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What villain is Quentin Beck?",
+      "a": "Mysterio",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is Aaron Davis in Spider-Man stories?",
+      "a": "The Prowler",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What black alien costume changes Peter's behavior?",
+      "a": "The symbiote suit",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What quote defines Spider-Man's life?",
+      "a": "With great power comes great responsibility",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Who is the futuristic Spider-Man of 2099?",
+      "a": "Miguel O'Hara",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What mob boss often opposes Spider-Man and Daredevil?",
+      "a": "Kingpin",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What device does Peter usually invent to shoot webs?",
+      "a": "Web-shooters",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What multiverse concept links many Spider heroes?",
+      "a": "The Spider-Verse",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What event is famous for the death of Gwen Stacy?",
+      "a": "The Night Gwen Stacy Died",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "What is MJ's full first name in the MCU?",
+      "a": "Michelle",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Which villain has mechanical arms in Spider-Man 2?",
+      "a": "Doctor Octopus",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "What high-tech suit does Peter wear in Infinity War?",
+      "a": "The Iron Spider suit",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What AI glasses does Tony leave Peter in Far From Home?",
+      "a": "E.D.I.T.H.",
+      "file": "questionRefinements"
+    },
+    {
+      "q": "What is Spider-Man's real name?",
+      "a": "Peter Parker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "How did Peter get his powers?",
+      "a": "A radioactive spider bite during a school field trip",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is Spider-Man's most famous quote?",
+      "a": "With great power comes great responsibility — said by Uncle Ben",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Mary Jane Watson?",
+      "a": "Peter's most famous love interest — a model and actress",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Gwen Stacy?",
+      "a": "Peter's first love — her death is one of the most impactful moments in comics history",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is Aunt May?",
+      "a": "Peter's guardian who raised him after his parents' death — she doesn't know his secret for years",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Who is the Green Goblin?",
+      "a": "Norman Osborn — a scientist who becomes unhinged after taking an experimental formula",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What studio produces Spider-Man films?",
+      "a": "Sony owns the rights, but Marvel Studios co-produced the MCU Spider-Man films with Tom Holland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "What is the Daily Bugle?",
+      "a": "The newspaper where Peter works as a photographer — run by J. Jonah Jameson",
+      "file": "App.jsx"
+    }
+  ],
+  "himym": [
+    {
+      "q": "Who is the main narrator of the show?",
+      "a": "Ted Mosby",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Ted's best friend who loves suits?",
+      "a": "Barney Stinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marshall's wife's name?",
+      "a": "Lily",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the bar the gang hangs out at?",
+      "a": "MacLaren's",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Barney's catchphrase about something being awesome?",
+      "a": "Legendary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Ted's profession?",
+      "a": "Architect",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the title of Barney's published rulebook?",
+      "a": "The Bro Code",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Ted Mosby?",
+      "a": "Josh Radnor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Marshall?",
+      "a": "Jason Segel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Robin?",
+      "a": "Cobie Smulders",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Lily?",
+      "a": "Alyson Hannigan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Lily's profession?",
+      "a": "Kindergarten teacher",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Marshall's last name?",
+      "a": "Eriksen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What state is Marshall from?",
+      "a": "Minnesota",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many seasons did How I Met Your Mother run?",
+      "a": "9",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Ted telling the story of meeting their mother to?",
+      "a": "His kids",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network aired How I Met Your Mother?",
+      "a": "CBS",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Barney say when he wants Ted to change clothes?",
+      "a": "Suit up",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the womanizer of the group?",
+      "a": "Barney Stinson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of journalist is Robin?",
+      "a": "TV news anchor",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What was Marshall's college a cappella group called?",
+      "a": "The Funky Bunch",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Ted's last name?",
+      "a": "Mosby",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Lily's maiden name?",
+      "a": "Aldrin",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Marshall call himself when bowling with the Fiero?",
+      "a": "Big Fudge",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is narrating the story to his kids?",
+      "a": "Future Ted Mosby",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What bar does the group always meet at?",
+      "a": "MacLaren's Pub",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the womanizing suit-lover?",
+      "a": "Barney Stinson",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who does Marshall marry?",
+      "a": "Lily Aldrin",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Ted looking for throughout the show?",
+      "a": "The Mother of his children",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What city is How I Met Your Mother set in?",
+      "a": "New York City",
+      "file": "qualityBackfill"
+    }
+  ],
+  "family_guy": [
+    {
+      "q": "What is the name of the Griffin family's talking dog?",
+      "a": "Brian",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the Griffin baby?",
+      "a": "Stewie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What town do the Griffins live in?",
+      "a": "Quahog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Peter Griffin's wife's name?",
+      "a": "Lois",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who created Family Guy?",
+      "a": "Seth MacFarlane",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter and Lois's daughter?",
+      "a": "Meg",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What state is Quahog located in?",
+      "a": "Rhode Island",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's older son?",
+      "a": "Chris",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "In what fictional state university did Peter and Lois meet?",
+      "a": "Brown University",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network airs Family Guy?",
+      "a": "Fox",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the bar where Peter and his friends drink?",
+      "a": "The Drunken Clam",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's wheelchair-using friend?",
+      "a": "Joe Swanson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the perverted neighbor with the catchphrase 'Giggity'?",
+      "a": "Glenn Quagmire",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Quagmire's catchphrase?",
+      "a": "Giggity",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Peter's African-American friend who got a spinoff?",
+      "a": "Cleveland Brown",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Stewie's teddy bear?",
+      "a": "Rupert",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What does Stewie usually want to do to Lois (his mother)?",
+      "a": "Kill her",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What instrument does Lois teach?",
+      "a": "Piano",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the news anchor on Quahog 5 News?",
+      "a": "Tom Tucker",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Joe Swanson's wife?",
+      "a": "Bonnie",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Cleveland's spinoff series called?",
+      "a": "The Cleveland Show",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is Quahog modeled after?",
+      "a": "Providence (Rhode Island)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who voices Peter, Brian, and Stewie?",
+      "a": "Seth MacFarlane",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of glasses does Peter wear?",
+      "a": "Round black glasses",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the mayor in the show?",
+      "a": "Mayor Adam West",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Stewie's primary catchphrase target?",
+      "a": "Lois (his mother)",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is Peter's wheelchair-using cop friend?",
+      "a": "Joe Swanson",
+      "file": "moreTriviaExpansions"
+    }
+  ],
+  "modern_family": [
+    {
+      "q": "What is the name of the family patriarch played by Ed O'Neill?",
+      "a": "Jay Pritchett",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Jay's young Colombian wife's name?",
+      "a": "Gloria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Gloria?",
+      "a": "Sofía Vergara",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Gloria's son from her first marriage?",
+      "a": "Manny",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is Phil Dunphy's wife?",
+      "a": "Claire",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Mitchell and Cameron's adopted daughter?",
+      "a": "Lily",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Mitchell Pritchett's partner's name?",
+      "a": "Cameron",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Jay's dog's name?",
+      "a": "Stella",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What city is the show set in?",
+      "a": "Los Angeles",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What kind of dog is Stella?",
+      "a": "French bulldog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Claire Dunphy?",
+      "a": "Julie Bowen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Cameron?",
+      "a": "Eric Stonestreet",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who plays Mitchell?",
+      "a": "Jesse Tyler Ferguson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Phil and Claire's three children?",
+      "a": "Haley, Alex, and Luke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the eldest Dunphy child?",
+      "a": "Haley",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the middle Dunphy child?",
+      "a": "Alex",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of the youngest Dunphy child?",
+      "a": "Luke",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What network aired Modern Family?",
+      "a": "ABC",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What style is the show filmed in?",
+      "a": "Mockumentary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "How many years did Modern Family run?",
+      "a": "11 (seasons)",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Who is the eldest Pritchett-Tucker child?",
+      "a": "Lily",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is the name of Manny's biological father?",
+      "a": "Javier",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Gloria's home country?",
+      "a": "Colombia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What language does Gloria speak besides English?",
+      "a": "Spanish",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "What is Claire Dunphy's maiden name?",
+      "a": "Pritchett",
+      "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Cameron and Mitchell's adopted daughter?",
+      "a": "Lily",
+      "file": "qualityBackfill"
+    }
+  ],
+  "who_animal": [
+    {
+      "q": "I am the king of the jungle and live in prides.",
+      "a": "Lion",
+      "wiki": "Lion",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am the largest land animal on Earth.",
+      "a": "African elephant",
+      "wiki": "African_bush_elephant",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I have black and white stripes and live in Africa.",
+      "a": "Zebra",
+      "wiki": "Zebra",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am the tallest animal on Earth.",
+      "a": "Giraffe",
+      "wiki": "Giraffe",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am the largest mammal in the ocean.",
+      "a": "Blue whale",
+      "wiki": "Blue_whale",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I have a long trunk and large ears, and I live in Asia.",
+      "a": "Asian elephant",
+      "wiki": "Asian_elephant",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I jump using powerful hind legs and carry my young in a pouch.",
+      "a": "Kangaroo",
+      "wiki": "Kangaroo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I have a black-and-white face and eat bamboo in China.",
+      "a": "Giant panda",
+      "wiki": "Giant_panda",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am the fastest land animal.",
+      "a": "Cheetah",
+      "wiki": "Cheetah",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a large flightless bird from Africa, the heaviest of all birds.",
+      "a": "Ostrich",
+      "wiki": "Common_ostrich",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am known for changing colors and having a long tongue.",
+      "a": "Chameleon",
+      "wiki": "Chameleon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I live in the Arctic and have white fur.",
+      "a": "Polar bear",
+      "wiki": "Polar_bear",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am known for hopping and saying 'ribbit'.",
+      "a": "Frog",
+      "wiki": "Frog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a slow-moving reptile in trees in Asia, often green.",
+      "a": "Green tree python",
+      "wiki": "Green_tree_python",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am known as 'man's best friend.'",
+      "a": "Dog",
+      "wiki": "Dog",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I purr and chase mice.",
+      "a": "Cat",
+      "wiki": "Cat",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I bray and am similar to a horse but smaller.",
+      "a": "Donkey",
+      "wiki": "Donkey",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am pink and love mud baths on a farm.",
+      "a": "Pig",
+      "wiki": "Pig",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I lay eggs and cluck on a farm.",
+      "a": "Chicken",
+      "wiki": "Chicken",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am the fastest swimmer in the ocean.",
+      "a": "Sailfish",
+      "wiki": "Sailfish",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a marine mammal known for clapping flippers and balancing balls.",
+      "a": "Sea lion",
+      "wiki": "Sea_lion",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I have a hard shell and walk slowly on land.",
+      "a": "Tortoise",
+      "wiki": "Tortoise",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am tiny, fly, and produce honey.",
+      "a": "Honey bee",
+      "wiki": "Western_honey_bee",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a large bird of prey, the national symbol of the United States.",
+      "a": "Bald eagle",
+      "wiki": "Bald_eagle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a black-and-white aquatic mammal nicknamed the 'killer whale.'",
+      "a": "Orca",
+      "wiki": "Orca",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a small mammal who carries my young on my back, common in Australia.",
+      "a": "Koala",
+      "wiki": "Koala",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am known for my long ears and love carrots.",
+      "a": "Rabbit",
+      "wiki": "Rabbit",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I howl at the moon and live in packs.",
+      "a": "Wolf",
+      "wiki": "Wolf",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a waterfowl known for my 'quack' sound.",
+      "a": "Duck",
+      "wiki": "Duck",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I produce milk on farms and go 'moo.'",
+      "a": "Cow",
+      "wiki": "Cattle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a woolly farm animal and often counted to fall asleep.",
+      "a": "Sheep",
+      "wiki": "Sheep",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a nocturnal bird famous for saying 'hoo.'",
+      "a": "Owl",
+      "wiki": "Owl",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a graceful white waterbird symbolizing love.",
+      "a": "Swan",
+      "wiki": "Swan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a flightless bird that lives on icy continents.",
+      "a": "Penguin",
+      "wiki": "Penguin",
+      "file": "newCategoriesBank"
+    }
+  ],
+  "who_anime_character": [
+    {
+      "q": "I travel the world with Pikachu aiming to become a Pokemon Master",
+      "a": "Ash Ketchum",
+      "wiki": "Ash_Ketchum",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am a silver-haired half-demon with a giant sword searching for jewel shards",
+      "a": "Inuyasha",
+      "wiki": "Inuyasha_(character)",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I fight evil by moonlight and my civilian name is Usagi Tsukino",
+      "a": "Sailor Moon",
+      "wiki": "Sailor_Moon",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the red-coated gunman from Trigun with a giant bounty on my head",
+      "a": "Vash the Stampede",
+      "wiki": "Vash_the_Stampede",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the quiet blue-haired pilot of EVA Unit-00",
+      "a": "Rei Ayanami",
+      "wiki": "Rei_Ayanami",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the cybernetic major from Ghost in the Shell",
+      "a": "Motoko Kusanagi",
+      "wiki": "Motoko_Kusanagi",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "It's time to duel. I solve games and wield the Millennium Puzzle",
+      "a": "Yugi Muto",
+      "wiki": "Yugi_Muto",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am Yugi's rich rival who loves Blue-Eyes White Dragon",
+      "a": "Seto Kaiba",
+      "wiki": "Seto_Kaiba",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the brilliant inventor and mother of Trunks in Dragon Ball",
+      "a": "Bulma",
+      "wiki": "Bulma",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the cigarette-loving Straw Hat cook in a black suit",
+      "a": "Sanji",
+      "wiki": "Sanji_(One_Piece)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the samurai parody hero with silver hair from Gintama",
+      "a": "Gintoki Sakata",
+      "wiki": "Gintoki_Sakata",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the laid-back bounty hunter from Cowboy Bebop",
+      "a": "Spike Spiegel",
+      "wiki": "Spike_Spiegel",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the fiery shrine maiden Sailor Scout with attack powers from Mars",
+      "a": "Sailor Mars",
+      "wiki": "Sailor_Mars",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I inherit One For All, study at U.A., and dream of becoming the greatest hero",
+      "a": "Izuku Midoriya",
+      "wiki": "Izuku_Midoriya",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm a telepathic little girl who loves peanuts and chaos",
+      "a": "Anya Forger",
+      "wiki": "Anya_Forger",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I defeated a monster in one punch and lost all my hair from training too hard - I'm a hero for fun",
+      "a": "Saitama",
+      "wiki": "Saitama_(One-Punch_Man)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a ninja who contains a nine-tailed fox, I eat ramen, and I want to be Hokage",
+      "a": "Naruto Uzumaki",
+      "wiki": "Naruto_Uzumaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a student who found a book that kills anyone whose name I write, and I call myself a god of justice",
+      "a": "Light Yagami",
+      "wiki": "Light_Yagami",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the Attack Titan, and my pursuit of freedom turns me into the world's greatest threat",
+      "a": "Eren Yeager",
+      "wiki": "Eren_Yeager",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm humanity's strongest soldier, I clean obsessively, and I never waste words",
+      "a": "Levi Ackerman",
+      "wiki": "Levi_Ackerman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a demon slayer with a checkered haori, and my sister became a demon",
+      "a": "Tanjiro Kamado",
+      "wiki": "Tanjiro_Kamado",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the proud prince of all Saiyans, and my rivalry with Goku defines my life",
+      "a": "Vegeta",
+      "wiki": "Vegeta_(Dragon_Ball)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I swallowed a cursed finger and became the vessel of the King of Curses",
+      "a": "Yuji Itadori",
+      "wiki": "Yuji_Itadori",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the Symbol of Peace, and I pass my power to a quirkless student",
+      "a": "All Might",
+      "wiki": "All_Might",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a pirate captain with a straw hat, a rubber body, and a dream of becoming Pirate King",
+      "a": "Monkey D. Luffy",
+      "wiki": "Monkey_D._Luffy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a substitute Soul Reaper with orange hair and a giant sword",
+      "a": "Ichigo Kurosaki",
+      "wiki": "Ichigo_Kurosaki",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm an assassin from the Zoldyck family, and electricity is one of my favorite ways to fight",
+      "a": "Killua Zoldyck",
+      "wiki": "Killua_Zoldyck",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a young Hunter searching for my father while finding monsters far worse than him",
+      "a": "Gon Freecss",
+      "wiki": "Gon_Freecss",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the three-sword style master of the Straw Hats, and I aim to become the world's greatest swordsman",
+      "a": "Roronoa Zoro",
+      "wiki": "Roronoa_Zoro",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the navigator of the Straw Hats, and weather itself becomes my weapon",
+      "a": "Nami",
+      "wiki": "Nami_(One_Piece)",
+      "file": "App.jsx"
+    }
+  ],
+  "who_country_landmark": [],
+  "who_dinosaur": [
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Tyrannosaurus Rex",
+      "wiki": "Tyrannosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Velociraptor",
+      "wiki": "Velociraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Triceratops",
+      "wiki": "Triceratops",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Stegosaurus",
+      "wiki": "Stegosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Brachiosaurus",
+      "wiki": "Brachiosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pterodactyl",
+      "wiki": "Pterodactylus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Spinosaurus",
+      "wiki": "Spinosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Ankylosaurus",
+      "wiki": "Ankylosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Diplodocus",
+      "wiki": "Diplodocus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pachycephalosaurus",
+      "wiki": "Pachycephalosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Parasaurolophus",
+      "wiki": "Parasaurolophus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Allosaurus",
+      "wiki": "Allosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Gallimimus",
+      "wiki": "Gallimimus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Apatosaurus",
+      "wiki": "Apatosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Iguanodon",
+      "wiki": "Iguanodon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Plesiosaurus",
+      "wiki": "Plesiosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Mosasaurus",
+      "wiki": "Mosasaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Pteranodon",
+      "wiki": "Pteranodon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Compsognathus",
+      "wiki": "Compsognathus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Dilophosaurus",
+      "wiki": "Dilophosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Carnotaurus",
+      "wiki": "Carnotaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Giganotosaurus",
+      "wiki": "Giganotosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Deinonychus",
+      "wiki": "Deinonychus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Oviraptor",
+      "wiki": "Oviraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Therizinosaurus",
+      "wiki": "Therizinosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Argentinosaurus",
+      "wiki": "Argentinosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Utahraptor",
+      "wiki": "Utahraptor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Ceratosaurus",
+      "wiki": "Ceratosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Styracosaurus",
+      "wiki": "Styracosaurus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the dinosaur from the image",
+      "a": "Troodon",
+      "wiki": "Troodon",
+      "file": "App.jsx"
+    }
+  ],
+  "who_footballer": [
+    {
+      "q": "English midfielder, joined Real Madrid from Dortmund and quickly became one of the world's best young stars",
+      "a": "Jude Bellingham",
+      "wiki": "Jude_Bellingham",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "English Arsenal winger, left-footed, explosive, and a star for England",
+      "a": "Bukayo Saka",
+      "wiki": "Bukayo_Saka",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Spanish Barcelona midfielder, teenage playmaker, Golden Boy winner",
+      "a": "Pedri",
+      "wiki": "Pedri",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Spanish midfield genius from Barcelona, won the World Cup and scored in the 2010 final",
+      "a": "Andres Iniesta",
+      "wiki": "Andres_Iniesta",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Spanish defender with a warrior beard, captained Real Madrid and scored huge headers",
+      "a": "Sergio Ramos",
+      "wiki": "Sergio_Ramos",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "French striker who won the Ballon d'Or after leading Real Madrid's attack",
+      "a": "Karim Benzema",
+      "wiki": "Karim_Benzema",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "English forward, Manchester United legend, all-time scorer for club and country for years",
+      "a": "Wayne Rooney",
+      "wiki": "Wayne_Rooney",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Portuguese-born Benfica legend, one of the greatest scorers ever, nicknamed the Black Panther",
+      "a": "Eusebio",
+      "wiki": "Eusebio",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "English World Cup-winning legend, Manchester United icon, known as Sir Bobby",
+      "a": "Bobby Charlton",
+      "wiki": "Bobby_Charlton",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Italian playmaker with a ponytail, famous for his penalty miss in the 1994 World Cup final",
+      "a": "Roberto Baggio",
+      "wiki": "Roberto_Baggio",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Brazilian right-back and 2002 World Cup winner, captain of AC Milan and Brazil",
+      "a": "Cafu",
+      "wiki": "Cafu",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch superstar with dreadlocks, Ballon d'Or winner, starred for Milan and Chelsea",
+      "a": "Ruud Gullit",
+      "wiki": "Ruud_Gullit",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch Arsenal legend known for sublime control and elegant finishing",
+      "a": "Dennis Bergkamp",
+      "wiki": "Dennis_Bergkamp",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch striker who scored endlessly for Manchester United and Real Madrid",
+      "a": "Ruud van Nistelrooy",
+      "wiki": "Ruud_van_Nistelrooy",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Spanish midfield controller turned elite coach, starred for Liverpool, Real Madrid, and Spain",
+      "a": "Xabi Alonso",
+      "wiki": "Xabi_Alonso",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Dutch winger famous for cutting inside onto his left foot from the right wing",
+      "a": "Arjen Robben",
+      "wiki": "Arjen_Robben",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Spanish holding midfielder, Barcelona icon, master of positioning and calmness",
+      "a": "Sergio Busquets",
+      "wiki": "Sergio_Busquets",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Brazilian winger, Real Madrid star, dances after goals, often called Vini",
+      "a": "Vinicius Junior",
+      "wiki": "Vin%C3%ADcius_J%C3%BAnior",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "English midfielder, teenage superstar who played for Dortmund then Real Madrid",
+      "a": "Jude Bellingham",
+      "wiki": "Jude_Bellingham",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "South Korean forward, Tottenham captain, famous for two-footed finishing",
+      "a": "Son Heung-min",
+      "wiki": "Son_Heung-min",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "Portuguese winger, 5x Ballon d'Or winner, known for his free kicks and physique",
+      "a": "Cristiano Ronaldo",
+      "wiki": "Cristiano_Ronaldo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Argentine forward, 8x Ballon d'Or winner, world's greatest dribbler, plays with his left foot",
+      "a": "Lionel Messi",
+      "wiki": "Lionel_Messi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French striker, FIFA World Cup winner at 19 in 2018, plays for Real Madrid, lightning fast",
+      "a": "Kylian Mbappé",
+      "wiki": "Kylian_Mbapp%C3%A9",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Norwegian striker, broke the Premier League scoring record in his first season at Man City",
+      "a": "Erling Haaland",
+      "wiki": "Erling_Haaland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Egyptian winger, Liverpool's all-time top scorer, won the Africa Cup of Nations with Egypt",
+      "a": "Mohamed Salah",
+      "wiki": "Mohamed_Salah",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Belgian midfielder, considered one of the best playmakers ever, plays for Man City",
+      "a": "Kevin De Bruyne",
+      "wiki": "Kevin_De_Bruyne",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian striker, played for PSG and Barcelona, known for his skill and flair",
+      "a": "Neymar",
+      "wiki": "Neymar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Senegalese winger, won the Premier League and Champions League with Liverpool, moved to Bayern",
+      "a": "Sadio Mané",
+      "wiki": "Sadio_Man%C3%A9",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French playmaker, won the 1998 and 2006 World Cups, headbutted Materazzi in the final",
+      "a": "Zinedine Zidane",
+      "wiki": "Zinedine_Zidane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazilian R9, won the World Cup in 2002, scored twice in the final, one of the greatest strikers",
+      "a": "Ronaldo (R9)",
+      "wiki": "Ronaldo_(Brazilian_footballer)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dutch striker, won the 1988 European Championship with Netherlands, AC Milan legend",
+      "a": "Marco van Basten",
+      "wiki": "Marco_van_Basten",
+      "file": "App.jsx"
+    },
+    {
+      "q": "German keeper, widely considered the best in his generation, won the 2014 World Cup",
+      "a": "Manuel Neuer",
+      "wiki": "Manuel_Neuer",
+      "file": "App.jsx"
+    },
+    {
+      "q": "French striker, Arsenal legend, won the Treble with Barcelona, nicknamed Va Va Voom",
+      "a": "Thierry Henry",
+      "wiki": "Thierry_Henry",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Welsh winger, 4x Champions League winner with Real Madrid, known to love golf",
+      "a": "Gareth Bale",
+      "wiki": "Gareth_Bale",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Liberian striker, won the Ballon d'Or in 1995, later became President of Liberia",
+      "a": "George Weah",
+      "wiki": "George_Weah",
+      "file": "App.jsx"
+    }
+  ],
+  "who_historic_figure": [
+    {
+      "q": "I led India to independence through nonviolent resistance.",
+      "a": "Mahatma Gandhi",
+      "wiki": "Mahatma_Gandhi",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Roman dictator stabbed on the Ides of March.",
+      "a": "Julius Caesar",
+      "wiki": "Julius_Caesar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I painted the Mona Lisa.",
+      "a": "Leonardo da Vinci",
+      "wiki": "Leonardo_da_Vinci",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I formulated the theory of relativity and the equation E=mc².",
+      "a": "Albert Einstein",
+      "wiki": "Albert_Einstein",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the first U.S. President.",
+      "a": "George Washington",
+      "wiki": "George_Washington",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I led the Allied forces in WWII as British Prime Minister.",
+      "a": "Winston Churchill",
+      "wiki": "Winston_Churchill",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a French general who became Emperor and lost at Waterloo.",
+      "a": "Napoleon Bonaparte",
+      "wiki": "Napoleon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I gave the 'I Have a Dream' speech in 1963.",
+      "a": "Martin Luther King Jr.",
+      "wiki": "Martin_Luther_King_Jr.",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the queen of England during the defeat of the Spanish Armada in 1588.",
+      "a": "Elizabeth I",
+      "wiki": "Elizabeth_I",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the long-reigning queen of the British Empire in the 19th century.",
+      "a": "Queen Victoria",
+      "wiki": "Queen_Victoria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I sailed across the Atlantic in 1492.",
+      "a": "Christopher Columbus",
+      "wiki": "Christopher_Columbus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the 16th U.S. President and ended slavery.",
+      "a": "Abraham Lincoln",
+      "wiki": "Abraham_Lincoln",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an inventor known for the light bulb and phonograph.",
+      "a": "Thomas Edison",
+      "wiki": "Thomas_Edison",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German-born theoretical physicist with wild white hair.",
+      "a": "Albert Einstein",
+      "wiki": "Albert_Einstein",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Greek philosopher and student of Plato.",
+      "a": "Aristotle",
+      "wiki": "Aristotle",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an Italian astronomer who supported heliocentrism.",
+      "a": "Galileo Galilei",
+      "wiki": "Galileo_Galilei",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of Facebook.",
+      "a": "Mark Zuckerberg",
+      "wiki": "Mark_Zuckerberg",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the third U.S. President and author of the Declaration of Independence.",
+      "a": "Thomas Jefferson",
+      "wiki": "Thomas_Jefferson",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Spanish painter known for melting clocks.",
+      "a": "Salvador Dalí",
+      "wiki": "Salvador_Dal%C3%AD",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Mexican painter known for self-portraits and unibrow.",
+      "a": "Frida Kahlo",
+      "wiki": "Frida_Kahlo",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I founded Microsoft with Paul Allen.",
+      "a": "Bill Gates",
+      "wiki": "Bill_Gates",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German-born physicist who developed quantum theory.",
+      "a": "Max Planck",
+      "wiki": "Max_Planck",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a co-founder of Apple with Steve Wozniak.",
+      "a": "Steve Jobs",
+      "wiki": "Steve_Jobs",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Tibetan spiritual leader awarded the Nobel Peace Prize in 1989.",
+      "a": "Dalai Lama",
+      "wiki": "14th_Dalai_Lama",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was an English playwright who wrote Romeo and Juliet.",
+      "a": "William Shakespeare",
+      "wiki": "William_Shakespeare",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Greek philosopher who drank hemlock.",
+      "a": "Socrates",
+      "wiki": "Socrates",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Dutch painter who cut off part of my ear.",
+      "a": "Vincent van Gogh",
+      "wiki": "Vincent_van_Gogh",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the founder of modern psychoanalysis.",
+      "a": "Sigmund Freud",
+      "wiki": "Sigmund_Freud",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a Jewish girl who wrote a famous diary while hiding from Nazis.",
+      "a": "Anne Frank",
+      "wiki": "Anne_Frank",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a deaf and blind American author and activist.",
+      "a": "Helen Keller",
+      "wiki": "Helen_Keller",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the first woman to fly solo across the Atlantic.",
+      "a": "Amelia Earhart",
+      "wiki": "Amelia_Earhart",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I refused to give up my seat on a bus and sparked a civil rights movement.",
+      "a": "Rosa Parks",
+      "wiki": "Rosa_Parks",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was a German philosopher and co-author of 'The Communist Manifesto.'",
+      "a": "Karl Marx",
+      "wiki": "Karl_Marx",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I was the Mongol warrior-emperor known as the conqueror of Asia.",
+      "a": "Kublai Khan",
+      "wiki": "Kublai_Khan",
+      "file": "newCategoriesBank"
+    }
+  ],
+  "who_influencer": [
+    {
+      "q": "Guess the influencer from the image",
+      "a": "MrBeast",
+      "wiki": "MrBeast",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "PewDiePie",
+      "wiki": "PewDiePie",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "KSI",
+      "wiki": "KSI",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Logan Paul",
+      "wiki": "Logan_Paul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Jake Paul",
+      "wiki": "Jake_Paul",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Markiplier",
+      "wiki": "Markiplier",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Ninja",
+      "wiki": "Ninja_(streamer)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Jacksepticeye",
+      "wiki": "Jacksepticeye",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Ryan Reynolds",
+      "wiki": "Ryan_Reynolds",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Kim Kardashian",
+      "wiki": "Kim_Kardashian",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Kylie Jenner",
+      "wiki": "Kylie_Jenner",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Addison Rae",
+      "wiki": "Addison_Rae",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Charli D'Amelio",
+      "wiki": "Charli_D%27Amelio",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Bella Poarch",
+      "wiki": "Bella_Poarch",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Khaby Lame",
+      "wiki": "Khaby_Lame",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "James Charles",
+      "wiki": "James_Charles_(Internet_personality)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Jeffree Star",
+      "wiki": "Jeffree_Star",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Shane Dawson",
+      "wiki": "Shane_Dawson",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "David Dobrik",
+      "wiki": "David_Dobrik",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Liza Koshy",
+      "wiki": "Liza_Koshy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Emma Chamberlain",
+      "wiki": "Emma_Chamberlain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Bretman Rock",
+      "wiki": "Bretman_Rock",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Lilly Singh",
+      "wiki": "Lilly_Singh",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Zach King",
+      "wiki": "Zach_King",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Dude Perfect",
+      "wiki": "Dude_Perfect",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Casey Neistat",
+      "wiki": "Casey_Neistat",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Shroud",
+      "wiki": "Shroud_(gamer)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "xQc",
+      "wiki": "XQc",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Pokimane",
+      "wiki": "Pokimane",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guess the influencer from the image",
+      "a": "Valkyrae",
+      "wiki": "Valkyrae",
+      "file": "App.jsx"
+    }
+  ],
+  "who_movie": [
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Dark Knight",
+      "wiki": "The_Dark_Knight",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Avatar: The Way of Water",
+      "wiki": "Avatar:_The_Way_of_Water",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Gladiator II",
+      "wiki": "Gladiator_II",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Dune",
+      "wiki": "Dune_(2021_film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Oppenheimer",
+      "wiki": "Oppenheimer_(film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Everything Everywhere All at Once",
+      "wiki": "Everything_Everywhere_All_at_Once",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Top Gun",
+      "wiki": "Top_Gun",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Empire Strikes Back",
+      "wiki": "The_Empire_Strikes_Back",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Star Wars: The Force Awakens",
+      "wiki": "Star_Wars:_The_Force_Awakens",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Raiders of the Lost Ark",
+      "wiki": "Raiders_of_the_Lost_Ark",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "E.T. the Extra-Terrestrial",
+      "wiki": "E.T._the_Extra-Terrestrial",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Hangover",
+      "wiki": "The_Hangover",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Superbad",
+      "wiki": "Superbad",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Mean Girls",
+      "wiki": "Mean_Girls",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Legally Blonde",
+      "wiki": "Legally_Blonde",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Devil Wears Prada",
+      "wiki": "The_Devil_Wears_Prada_(film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Notebook",
+      "wiki": "The_Notebook_(film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Love Actually",
+      "wiki": "Love_Actually",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Pretty Woman",
+      "wiki": "Pretty_Woman",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Twilight",
+      "wiki": "Twilight_(2008_film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Hunger Games: Catching Fire",
+      "wiki": "The_Hunger_Games:_Catching_Fire",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Inside Out",
+      "wiki": "Inside_Out_(2015_film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Coco",
+      "wiki": "Coco_(2017_film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Encanto",
+      "wiki": "Encanto_(film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Soul",
+      "wiki": "Soul_(2020_film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Tangled",
+      "wiki": "Tangled",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Bohemian Rhapsody",
+      "wiki": "Bohemian_Rhapsody_(film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Rocketman",
+      "wiki": "Rocketman_(film)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "Braveheart",
+      "wiki": "Braveheart",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the movie from the image",
+      "a": "The Wolf of Wall Street",
+      "wiki": "The_Wolf_of_Wall_Street_(2013_film)",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "who_movie_character": [
+    {
+      "q": "I run across America, love Jenny, and accidentally drift through history",
+      "a": "Forrest Gump",
+      "wiki": "Forrest_Gump",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the brightest witch of my age and one of Harry Potter's closest friends",
+      "a": "Hermione Granger",
+      "wiki": "Hermione_Granger",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the pirate captain with a compass that points to what I want most",
+      "a": "Captain Jack Sparrow",
+      "wiki": "Captain_Jack_Sparrow",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "Say hello to my little friend. I am the cocaine king of Scarface",
+      "a": "Tony Montana",
+      "wiki": "Tony_Montana",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "You talkin' to me? I am the unstable cab driver from Taxi Driver",
+      "a": "Travis Bickle",
+      "wiki": "Travis_Bickle",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I click my ruby slippers and dream of returning to Kansas",
+      "a": "Dorothy Gale",
+      "wiki": "Dorothy_Gale",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I own a chocolate factory and love golden tickets",
+      "a": "Willy Wonka",
+      "wiki": "Willy_Wonka",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I fake being sick to skip school in 1980s Chicago",
+      "a": "Ferris Bueller",
+      "wiki": "Ferris_Bueller",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the Wall Street killer obsessed with Huey Lewis and business cards",
+      "a": "Patrick Bateman",
+      "wiki": "Patrick_Bateman",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the wide-eyed waitress from Paris in Amelie",
+      "a": "Amelie Poulain",
+      "wiki": "Amelie_Poulain",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the leather-clad ally of Neo in The Matrix",
+      "a": "Trinity",
+      "wiki": "Trinity_(The_Matrix)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the lion villain with a scar and a murderous plan to take Pride Rock",
+      "a": "Scar",
+      "wiki": "Scar_(The_Lion_King)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the survivor and mother at the heart of the Terminator films",
+      "a": "Sarah Connor",
+      "wiki": "Sarah_Connor_(Terminator)",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I'm the space ranger toy who arrives believing I can really fly",
+      "a": "Buzz Lightyear",
+      "wiki": "Buzz_Lightyear",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I'm the princess-turned-ogre who falls in love with Shrek",
+      "a": "Princess Fiona",
+      "wiki": "Princess_Fiona",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I hide as a man to save China in Disney's Mulan",
+      "a": "Mulan",
+      "wiki": "Mulan_(Disney_character)",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I built the Iron Man suit in a cave, I have an AI named JARVIS, and I said I am Iron Man",
+      "a": "Tony Stark",
+      "wiki": "Iron_Man_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I grew up on a moisture farm on Tatooine, discovered the Force, and learned my father was Darth Vader",
+      "a": "Luke Skywalker",
+      "wiki": "Luke_Skywalker",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am a mermaid princess who traded my voice for a chance to live on land",
+      "a": "Ariel",
+      "wiki": "Ariel_(The_Little_Mermaid)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the lion prince of the Pride Lands, and I return home to reclaim my kingdom",
+      "a": "Simba",
+      "wiki": "Simba",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a practically perfect nanny who flies with an umbrella and changes a family's life",
+      "a": "Mary Poppins",
+      "wiki": "Mary_Poppins_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a green ogre from a swamp, and I remind everyone that ogres have layers",
+      "a": "Shrek",
+      "wiki": "Shrek_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm the girl chosen by the ocean to sail across the sea and restore Te Fiti's heart",
+      "a": "Moana",
+      "wiki": "Moana_(Disney)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a lonely trash-compacting robot who finds purpose after meeting EVE",
+      "a": "WALL-E",
+      "wiki": "WALL-E_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I believe wiping out half the universe is mercy, and I wear the Infinity Gauntlet",
+      "a": "Thanos",
+      "wiki": "Thanos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I take the red pill, dodge bullets, and learn I am The One",
+      "a": "Neo",
+      "wiki": "Neo_(The_Matrix)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I let it go, build an ice palace, and fear hurting everyone I love",
+      "a": "Elsa",
+      "wiki": "Elsa_(Frozen)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the wise king of the Pride Lands, and I teach my son about the circle of life",
+      "a": "Mufasa",
+      "wiki": "Mufasa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wear black armor, command the Empire, and reveal one of cinema's most famous family secrets",
+      "a": "Darth Vader",
+      "wiki": "Darth_Vader",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a teenage superhero balancing school, queens, and neighborhood crime in the MCU",
+      "a": "Spider-Man",
+      "wiki": "Spider-Man_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a robotic AI suit inventor with a goatee and a taste for showmanship",
+      "a": "Tony Stark",
+      "wiki": "Iron_Man_(Marvel_Cinematic_Universe)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a boy with a lightning bolt scar raised under the Dursleys' stairs",
+      "a": "Harry Potter",
+      "wiki": "Harry_Potter_(character)",
+      "file": "App.jsx"
+    }
+  ],
+  "who_tv_character": [
+    {
+      "q": "I am the witty single mother at the center of Gilmore Girls, powered by coffee and sarcasm",
+      "a": "Lorelai Gilmore",
+      "wiki": "Lorelai_Gilmore",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am Lorelai's bookish daughter growing up in Stars Hollow",
+      "a": "Rory Gilmore",
+      "wiki": "Rory_Gilmore",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am Ted Mosby's giant-hearted best friend and a lawyer from Minnesota",
+      "a": "Marshall Eriksen",
+      "wiki": "Marshall_Eriksen",
+      "file": "triviaExpansions"
+    },
+    {
+      "q": "I am the radio psychiatrist who moved from Cheers to lead my own Seattle sitcom",
+      "a": "Frasier Crane",
+      "wiki": "Frasier_Crane",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the advertising genius at the center of Mad Men",
+      "a": "Don Draper",
+      "wiki": "Don_Draper",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the shotgun-toting stickup man from The Wire with a code of my own",
+      "a": "Omar Little",
+      "wiki": "Omar_Little",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the razor-sharp gang leader of Peaky Blinders",
+      "a": "Tommy Shelby",
+      "wiki": "Tommy_Shelby",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the detective from Law & Order: SVU played by Mariska Hargitay",
+      "a": "Olivia Benson",
+      "wiki": "Olivia_Benson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "Everybody lies. I am the cynical medical genius Dr. House",
+      "a": "Gregory House",
+      "wiki": "Gregory_House",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the ambitious secretary-turned-copywriter from Mad Men",
+      "a": "Peggy Olson",
+      "wiki": "Peggy_Olson",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the queen bee of Gossip Girl with impeccable fashion and schemes",
+      "a": "Blair Waldorf",
+      "wiki": "Blair_Waldorf",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the teenage private investigator from Neptune, California",
+      "a": "Veronica Mars",
+      "wiki": "Veronica_Mars",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the over-the-top matriarch with wigs and wine from Schitt's Creek",
+      "a": "Moira Rose",
+      "wiki": "Moira_Rose",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I am the obsessive detective with countless phobias from Monk",
+      "a": "Adrian Monk",
+      "wiki": "Adrian_Monk",
+      "file": "triviaMinimums"
+    },
+    {
+      "q": "I'm the chemistry student turned meth cook's loyal partner, and I say Yeah science!",
+      "a": "Jesse Pinkman",
+      "wiki": "Jesse_Pinkman",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I solve strange murders in Nevermore with a deadpan stare and braids",
+      "a": "Wednesday Addams",
+      "wiki": "Wednesday_Addams",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I track walkers with a crossbow and barely waste words doing it",
+      "a": "Daryl Dixon",
+      "wiki": "Daryl_Dixon",
+      "file": "triviaMegaExpansions"
+    },
+    {
+      "q": "I make blue meth, I say I am the danger, I have a porkpie hat, my alias is Heisenberg",
+      "a": "Walter White",
+      "wiki": "Walter_White_(Breaking_Bad)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I tattooed prison blueprints on my body to break my innocent brother out of Fox River",
+      "a": "Michael Scofield",
+      "wiki": "Michael_Scofield",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I have three dragons, my family's words are Fire and Blood, I am the last Targaryen",
+      "a": "Daenerys Targaryen",
+      "wiki": "Daenerys_Targaryen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I have a spot on the couch, I say Bazinga when I joke, I am a theoretical physicist",
+      "a": "Sheldon Cooper",
+      "wiki": "Sheldon_Cooper",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a blood spatter analyst who secretly kills killers following my father's Code",
+      "a": "Dexter Morgan",
+      "wiki": "Dexter_Morgan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a Norse farmer who raids England, I navigate by the sun's position, and my wife is Lagertha",
+      "a": "Ragnar Lothbrok",
+      "wiki": "Ragnar_Lothbrok",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a forensic scientist struck by lightning who later becomes the Flash in Central City",
+      "a": "Barry Allen",
+      "wiki": "Barry_Allen_(Arrowverse)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I wake from a coma into a zombie apocalypse, I'm a sheriff's deputy, and I find my family in Atlanta",
+      "a": "Rick Grimes",
+      "wiki": "Rick_Grimes",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm New York's best closer, I wear expensive suits, and Donna is my right hand",
+      "a": "Harvey Specter",
+      "wiki": "Harvey_Specter",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I run the Walking Dead's most brutal antagonist group, and my weapon is a barbed-wire bat called Lucille",
+      "a": "Negan",
+      "wiki": "Negan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a teenage girl raised in a government lab, and I fight monsters from the Upside Down",
+      "a": "Eleven",
+      "wiki": "Eleven_(Stranger_Things)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the bastard of Winterfell who becomes Lord Commander and later King in the North",
+      "a": "Jon Snow",
+      "wiki": "Jon_Snow_(character)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I manage Dunder Mifflin, declare bankruptcy by shouting it, and think I'm the world's best boss",
+      "a": "Michael Scott",
+      "wiki": "Michael_Scott_(The_Office)",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I farm beets, love bears, and serve as assistant to the regional manager",
+      "a": "Dwight Schrute",
+      "wiki": "Dwight_Schrute",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a colorful lawyer with a loud wardrobe and an even louder mouth who works for Albuquerque's criminals",
+      "a": "Saul Goodman",
+      "wiki": "Saul_Goodman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a sardonic FBI agent who sees the supernatural truth nobody else believes",
+      "a": "Fox Mulder",
+      "wiki": "Fox_Mulder",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I'm a brilliant but misanthropic doctor who diagnoses impossible cases using a cane",
+      "a": "Gregory House",
+      "wiki": "Gregory_House",
+      "file": "App.jsx"
+    }
+  ],
+  "who_tv_show": [
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Breaking Bad",
+      "wiki": "Breaking_Bad",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Game of Thrones",
+      "wiki": "Game_of_Thrones",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Stranger Things",
+      "wiki": "Stranger_Things",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Friends",
+      "wiki": "Friends",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Office",
+      "wiki": "The_Office_(American_TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Seinfeld",
+      "wiki": "Seinfeld",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Simpsons",
+      "wiki": "The_Simpsons",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "SpongeBob SquarePants",
+      "wiki": "SpongeBob_SquarePants",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "South Park",
+      "wiki": "South_Park",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Big Bang Theory",
+      "wiki": "The_Big_Bang_Theory",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "How I Met Your Mother",
+      "wiki": "How_I_Met_Your_Mother",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Sopranos",
+      "wiki": "The_Sopranos",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Lost",
+      "wiki": "Lost_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Prison Break",
+      "wiki": "Prison_Break",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Money Heist",
+      "wiki": "Money_Heist",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Squid Game",
+      "wiki": "Squid_Game",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Peaky Blinders",
+      "wiki": "Peaky_Blinders_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Walking Dead",
+      "wiki": "The_Walking_Dead_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Bear",
+      "wiki": "The_Bear_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Narcos",
+      "wiki": "Narcos",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Dexter",
+      "wiki": "Dexter_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Suits",
+      "wiki": "Suits_(American_TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Wednesday",
+      "wiki": "Wednesday_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Westworld",
+      "wiki": "Westworld_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Black Mirror",
+      "wiki": "Black_Mirror",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Last of Us",
+      "wiki": "The_Last_of_Us_(TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Yellowstone",
+      "wiki": "Yellowstone_(American_TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Only Murders in the Building",
+      "wiki": "Only_Murders_in_the_Building",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "Euphoria",
+      "wiki": "Euphoria_(American_TV_series)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Guess the TV show from the image",
+      "a": "The Crown",
+      "wiki": "The_Crown_(TV_series)",
+      "file": "newCategoriesPack2"
+    }
+  ],
+  "who_what_am_i": [
+    {
+      "q": "I have hands but cannot clap. I have a face but no eyes. What am I?",
+      "a": "A clock",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I am tall when young and short when old. You burn me to light the dark. What am I?",
+      "a": "A candle",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have keys but no locks. I have space but no room. You can enter but not go inside. What am I?",
+      "a": "A keyboard",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "The more you take, the more you leave behind. What am I?",
+      "a": "Footsteps",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I speak without a mouth and hear without ears. I have no body but I come alive with wind. What am I?",
+      "a": "An echo",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What has four legs but doesn't walk?",
+      "a": "A table",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What must be broken before you can use it?",
+      "a": "An egg",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "The more I dry, the wetter I get. What am I?",
+      "a": "A towel",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What goes up but never comes down?",
+      "a": "Age",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have cities but no houses. I have mountains but no trees. I have water but no fish. What am I?",
+      "a": "A map",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have an eye but cannot see. I am small and pointy. What am I?",
+      "a": "A needle",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I follow you all day but disappear when night falls. What am I?",
+      "a": "A shadow",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have a head and a tail but no body. What am I?",
+      "a": "A coin",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have a neck but no head. I may be filled with drink. What am I?",
+      "a": "A bottle",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have many teeth but cannot bite. I help neaten your hair. What am I?",
+      "a": "A comb",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I can travel around the world while staying in a corner. What am I?",
+      "a": "A stamp",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I run but never walk. I have a bed but never sleep. What am I?",
+      "a": "A river",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have a thumb and four fingers but I am not alive. What am I?",
+      "a": "A glove",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I am full of holes but still hold water. What am I?",
+      "a": "A sponge",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have roots no one sees. I am taller than trees. Up up I go and yet never grow. What am I?",
+      "a": "A mountain",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I am always in front of you but can never be seen. What am I?",
+      "a": "The future",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have branches but no fruit, trunk, or leaves. You visit me to hold your money. What am I?",
+      "a": "A bank",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "The more you have of me, the less you see. What am I?",
+      "a": "Darkness",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have one head, one foot, and four legs. Each night you sleep on me. What am I?",
+      "a": "A bed",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I am so fragile that saying my name breaks me. What am I?",
+      "a": "Silence",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Until I am measured, I am not known, yet you miss me when I have flown. What am I?",
+      "a": "Time",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have teeth but cannot eat. I keep clothes closed. What am I?",
+      "a": "A zipper",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I can fly without wings and cry without eyes. I drift across the sky. What am I?",
+      "a": "A cloud",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I have 13 hearts but no organs. I am shuffled and dealt. What am I?",
+      "a": "A deck of cards",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I grow short the more I am used. I have wood but am not a tree. What am I?",
+      "a": "A pencil",
+      "file": "newCategoriesPack2"
+    }
+  ]
+}

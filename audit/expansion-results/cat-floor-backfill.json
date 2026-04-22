@@ -1,0 +1,47 @@
+{
+  "who_animal": {
+    "200": [
+      {"q": "I have stripes and I am the largest cat in Asia.", "a": "Tiger", "wiki": "Tiger"},
+      {"q": "I carry my home on my back and move very slowly.", "a": "Snail", "wiki": "Snail"},
+      {"q": "I have a long neck that lets me reach tall tree leaves in Africa.", "a": "Giraffe", "wiki": "Giraffe"},
+      {"q": "I am a black-and-white bear native to China who eats bamboo.", "a": "Giant panda", "wiki": "Giant_panda"},
+      {"q": "I bounce on my strong back legs and carry my young in a pouch.", "a": "Kangaroo", "wiki": "Kangaroo"},
+      {"q": "I am the tallest flightless bird in the world.", "a": "Ostrich", "wiki": "Ostrich"},
+      {"q": "I am a sea mammal famous for echolocation and performing in shows.", "a": "Dolphin", "wiki": "Dolphin"},
+      {"q": "I am the fastest land animal on Earth.", "a": "Cheetah", "wiki": "Cheetah"},
+      {"q": "I have a trunk and the biggest ears in the savannah.", "a": "African elephant", "wiki": "African_bush_elephant"},
+      {"q": "I am a bird that cannot fly but swims faster than many fish.", "a": "Penguin", "wiki": "Penguin"},
+      {"q": "I build dams on rivers and have a flat scaly tail.", "a": "Beaver", "wiki": "Beaver"},
+      {"q": "I am the largest rodent in the world, native to South America.", "a": "Capybara", "wiki": "Capybara"},
+      {"q": "I hang upside down in caves and fly using skin-winged arms.", "a": "Bat", "wiki": "Bat"},
+      {"q": "I roll into a spiky ball when threatened and forage at night.", "a": "Hedgehog", "wiki": "Hedgehog"},
+      {"q": "I am the horned white whale of Arctic waters.", "a": "Narwhal", "wiki": "Narwhal"},
+      {"q": "I am a long-tailed monkey famous for my smart, silvery look in Asian temples.", "a": "Macaque", "wiki": "Macaque"},
+      {"q": "I am a small striped rodent who stuffs my cheeks with nuts.", "a": "Chipmunk", "wiki": "Chipmunk"},
+      {"q": "I am a red-feathered bird that shares my name with a baseball team.", "a": "Cardinal", "wiki": "Northern_cardinal"}
+    ]
+  },
+  "who_historic_figure": {
+    "200": [
+      {"q": "I was the queen of ancient Egypt famous for my relationships with Julius Caesar and Mark Antony.", "a": "Cleopatra", "wiki": "Cleopatra"},
+      {"q": "I was a physicist whose theory of gravity fell into place when I saw an apple drop.", "a": "Isaac Newton", "wiki": "Isaac_Newton"},
+      {"q": "I led the Soviet Union during World War II as its ruthless General Secretary.", "a": "Joseph Stalin", "wiki": "Joseph_Stalin"},
+      {"q": "I was the emperor of France who was exiled to Elba and then Saint Helena.", "a": "Napoleon Bonaparte", "wiki": "Napoleon"},
+      {"q": "I was the British wartime Prime Minister who rallied my country against Hitler.", "a": "Winston Churchill", "wiki": "Winston_Churchill"},
+      {"q": "I was a scientist who discovered radioactivity and won two Nobel Prizes.", "a": "Marie Curie", "wiki": "Marie_Curie"},
+      {"q": "I was the first U.S. President and commanded the Continental Army.", "a": "George Washington", "wiki": "George_Washington"},
+      {"q": "I led the Mongol Empire to conquer much of Asia in the 13th century.", "a": "Genghis Khan", "wiki": "Genghis_Khan"},
+      {"q": "I ended apartheid in South Africa after 27 years in prison.", "a": "Nelson Mandela", "wiki": "Nelson_Mandela"},
+      {"q": "I sailed from Spain in 1492 and reached the Americas.", "a": "Christopher Columbus", "wiki": "Christopher_Columbus"},
+      {"q": "I commanded the Red Army and led the Bolshevik Revolution in Russia.", "a": "Vladimir Lenin", "wiki": "Vladimir_Lenin"},
+      {"q": "I was the first woman to fly solo across the Atlantic Ocean.", "a": "Amelia Earhart", "wiki": "Amelia_Earhart"}
+    ]
+  },
+  "who_movie_character": {
+    "600": [
+      {"q": "I run a secret hotel for assassins where gold coins are currency.", "a": "Winston Scott", "wiki": "John_Wick"},
+      {"q": "I am a polite but violent hitman who quotes Ezekiel 25:17.", "a": "Jules Winnfield", "wiki": "Jules_Winnfield"},
+      {"q": "I am the retired Spartan king who fights 300 strong at Thermopylae.", "a": "King Leonidas", "wiki": "Leonidas_I"}
+    ]
+  }
+}

@@ -7560,6 +7560,3990 @@ const entries = [
     "q": "Guess the country from the landmark",
     "a": "Hungary",
     "reason": "bad wiki image: wiki page does not exist"
+  },
+  {
+    "cat": "big_bang_theory",
+    "q": "What board game does Sheldon famously over-explain?",
+    "a": "Settlers of Catan",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "who_historic_figure",
+    "q": "I was an English physicist whose work on cosmology was renowned despite ALS.",
+    "a": "Stephen Hawking",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "science",
+    "q": "What is the difference between fission and fusion?",
+    "a": "Fission splits atoms; fusion combines them",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Ahsoka's white lightsabers?",
+    "a": "They represent neutrality (neither Jedi nor Sith)",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What condition does Dexter describe himself as having?",
+    "a": "Sociopath",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which YouTuber faced the 'Suicide Forest' controversy?",
+    "a": "Logan Paul",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "solo_leveling",
+    "q": "What makes Jin-Woo unique among hunters?",
+    "a": "He levels up",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What catchphrase does Jesse use to describe things he likes?",
+    "a": "Yeah, bitch",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "general",
+    "q": "Difference between an atom and a molecule?",
+    "a": "An atom is the smallest unit of an element; a molecule is two or more atoms bonded together",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "geography",
+    "q": "What makes the Atacama Desert unique?",
+    "a": "It's the driest non-polar desert on Earth — some areas have never recorded rain",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "science",
+    "q": "Difference between virus and bacterium?",
+    "a": "Bacteria are living organisms; viruses are not — they need a host cell to replicate",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "history",
+    "q": "What was the significance of the Library of Alexandria?",
+    "a": "One of the largest libraries of the ancient world — containing scrolls from across the known world",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "sports",
+    "q": "What makes the Monaco Grand Prix unique?",
+    "a": "Runs on public streets through Monte Carlo — extremely narrow, low-speed, and very hard to overtake",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "sports",
+    "q": "Who holds the 100m world record and what is it?",
+    "a": "Usain Bolt — 9.58 seconds (2009 World Championships)",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "music",
+    "q": "Difference between major and minor keys?",
+    "a": "Major: generally happy/bright. Minor: generally sad/dark",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "music",
+    "q": "What is the Rite of Spring and why was it controversial?",
+    "a": "Stravinsky's 1913 ballet — its premiere caused a riot due to dissonant music and primitive themes",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "music",
+    "q": "Difference between a symphony and a concerto?",
+    "a": "Symphony: for full orchestra. Concerto: features a solo instrument accompanied by orchestra",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "music",
+    "q": "Who is Miles Davis and why is he significant?",
+    "a": "Jazz trumpeter who led multiple revolutions — from bebop to modal jazz to fusion",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "music",
+    "q": "What is the significance of the 432Hz vs 440Hz debate?",
+    "a": "440Hz is standard concert pitch; 432Hz proponents claim it sounds more natural — no scientific basis",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "Significance of Tony's I am Iron Man in Endgame?",
+    "a": "Echoes the first Iron Man film — here he uses all six Stones, sacrificing himself",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "Significance of Steve Rogers picking up Mjolnir in Endgame?",
+    "a": "He was deemed worthy — Thor suspected this in Age of Ultron when Steve slightly budged it",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "Significance of the first Iron Man post-credits scene?",
+    "a": "Nick Fury tells Tony he's not alone — the first hint of a shared Marvel Cinematic Universe",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the Multiverse in MCU terms and what opened it?",
+    "a": "An infinite set of parallel universes — destabilised by the Infinity War snap and Strange's spell in No Way Home",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the difference between Earth-616 and Earth-199999?",
+    "a": "Earth-616 is the main Marvel Comics universe; Earth-199999 is the MCU",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the significance of the snap reversal in Endgame?",
+    "a": "Hulk used the gauntlet to reverse the snap — then Thanos's army arrived, leading to the final battle",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the Celestials' role in Marvel cosmology?",
+    "a": "Ancient cosmic beings who seeded life across the universe and return to judge whether planets should be destroyed",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of Watchmen for DC?",
+    "a": "A 1986-87 deconstruction of the superhero genre — set the template for darker superhero stories",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of the Death of Superman?",
+    "a": "Superman is killed by Doomsday in 1992 — a landmark event that became major news",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of No Man's Land in Batman?",
+    "a": "Gotham is cut off after a massive earthquake — an entire year of Batman comics in a lawless isolated city",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is Grant Morrison's contribution to Batman?",
+    "a": "Morrison introduced all Batman stories as canon — including 1950s sci-fi stories — as psychological trauma",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of The Long Halloween?",
+    "a": "A 13-issue Batman story by Jeph Loeb depicting his early career and the rise of Two-Face",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of Final Crisis?",
+    "a": "Darkseid achieves the Anti-Life Equation and enslaves the Earth — Batman shoots Darkseid with a god-killing bullet",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of Hypertime?",
+    "a": "A DC concept allowing all previously published DC stories to be technically canon in branching realities",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of Superman's death and resurrection?",
+    "a": "His death in 1992 was unprecedented — it caused media frenzy. His four replacements explored what Superman means",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the significance of Crisis on Infinite Earths vs Infinite Crisis?",
+    "a": "CoIE (1985): destroyed the multiverse, created one universe. IC (2005): the multiverse reasserted itself",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Rogue One?",
+    "a": "It shows how the Rebel Alliance stole the Death Star plans — filling the gap before A New Hope",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Bespin?",
+    "a": "A gas giant home to Cloud City — where Han is frozen and Luke loses his hand to Vader",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Exegol?",
+    "a": "The hidden Sith world where Emperor Palpatine survived and rebuilt his Final Order fleet",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Anakin's high midi-chlorian count?",
+    "a": "Highest ever recorded — believed to be the Chosen One destined to bring balance to the Force",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Mandalorian beskar armour?",
+    "a": "Beskar (Mandalorian iron) is nearly indestructible — it can deflect a lightsaber blade",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of the Tragedy of Darth Plagueis the Wise?",
+    "a": "A Sith tale Palpatine tells Anakin — Plagueis learned to prevent death but was killed by his apprentice (Palpatine)",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Difference between light side and dark side of the Force?",
+    "a": "Light side: peace, knowledge, serenity. Dark side: passion, power, strength — fueled by anger and fear",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of the High Republic era?",
+    "a": "A golden age of the Jedi about 200 years before the prequels — explored in books and comics from 2021",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Obi-Wan's sacrifice in A New Hope?",
+    "a": "He allows Vader to strike him down, becoming one with the Force — guiding Luke from beyond death",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of Anakin killing the Tusken Raiders?",
+    "a": "His mother's death at their hands is his first major step toward the dark side",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of R2-D2 throughout the saga?",
+    "a": "He holds key information in every trilogy — he contained the complete map to the Jedi temples",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the difference between a Jedi Knight and a Jedi Master?",
+    "a": "A Knight completes training; a Master shows exceptional skill, wisdom, and usually trains a Padawan",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of the Darth Vader NO in Revenge of the Sith?",
+    "a": "When Vader learns Padmé is dead, his anguished NO became a famous meme — representing his complete transformation",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the significance of the World between Worlds in Rebels?",
+    "a": "Ezra pulls Ahsoka out of death — suggesting Force-sensitive beings can transcend time and death",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the Midi-chlorian controversy?",
+    "a": "Many fans disliked The Phantom Menace's explanation that Force sensitivity is biological — contradicting its mystical nature",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the significance of the Elder Wand's allegiance?",
+    "a": "The wand's true master is whoever disarmed the previous master — Draco unknowingly became master, then Harry",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Why is Harry being a Horcrux significant?",
+    "a": "Voldemort accidentally made Harry a Horcrux — Harry had to let Voldemort kill him to destroy that soul fragment",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the significance of Lily Potter's sacrifice?",
+    "a": "Her love-based sacrifice created magical protection that deflected Voldemort's Killing Curse",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the difference between Harry's wand and Voldemort's?",
+    "a": "Both have cores from the same phoenix (Fawkes) — causing Priori Incantatem when they duel",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the significance of the Time-Turner in Prisoner of Azkaban?",
+    "a": "Harry and Hermione use it to go back three hours — saving Buckbeak and Sirius Black",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the significance of Snape's always?",
+    "a": "Snape's Patronus was always a doe — the same as Lily Potter's — revealing his lifelong love for her",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What is the significance of the fly episode?",
+    "a": "Walter becomes obsessed with a fly — symbolising guilt, contamination, and loss of control",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What is the significance of the White Supremacist gang?",
+    "a": "Jack Welker and Todd take over the cook — imprisoning Jesse as their slave cook",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What is the pink teddy bear's significance in Season 2?",
+    "a": "It connects to a Wayfarer airline crash — caused by Jane's grief-stricken father — all consequences of Walter's choices",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "Who is Huell and what is his most famous moment?",
+    "a": "Saul's bodyguard — famous for lying sprawled on Walter's money, grinning contentedly",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "game_thrones",
+    "q": "What is the significance of the Battle of the Bastards?",
+    "a": "Jon Snow vs Ramsay Bolton — won by the Knights of the Vale arriving at the last moment",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "game_thrones",
+    "q": "What is the significance of the Tower of Joy flashback?",
+    "a": "Reveals Jon is not Ned's son — he is the son of Rhaegar Targaryen and Lyanna Stark",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "game_thrones",
+    "q": "What is the significance of Daenerys's Targaryen madness?",
+    "a": "The show implies madness runs in Targaryen blood — she shows it by burning King's Landing despite them surrendering",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "game_thrones",
+    "q": "What is the meaning of Dracarys?",
+    "a": "Dragonfire in High Valyrian — the command Daenerys uses to order her dragons to breathe fire",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "game_thrones",
+    "q": "What is the significance of Cersei destroying the Sept?",
+    "a": "She eliminates all her political enemies at once — but loses Tommen (her last child) who jumps from a window in grief",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "friends",
+    "q": "What is the significance of the Season 3 bottle episode?",
+    "a": "The One Where No One Is Ready — real-time chaos in Monica's apartment before a charity event",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_office",
+    "q": "What is the significance of Casino Night?",
+    "a": "Season 2 finale — Jim confesses his love to Pam and kisses her. She says she can't",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_office",
+    "q": "What is the significance of Dwight's character arc?",
+    "a": "He goes from obsequious assistant to respected manager who finally marries Angela",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "stranger_things",
+    "q": "What is the significance of Running Up That Hill in Season 4?",
+    "a": "The song anchors Max to reality as Vecna attacks her — it reached #1 in multiple countries after the episode",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "stranger_things",
+    "q": "What is the significance of the Upside Down's time freeze?",
+    "a": "It's frozen at 1983 — the moment Eleven first opened the gate — even though years have passed",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "stranger_things",
+    "q": "What is the significance of Hawkins cracking in Season 4?",
+    "a": "Vecna's four gates merge — Hawkins literally cracks and begins merging with the Upside Down",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "stranger_things",
+    "q": "What is the significance of the Nina Project?",
+    "a": "Brenner's program to restore Eleven's memories using a sensory deprivation tank to reawaken her powers",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "stranger_things",
+    "q": "What is the significance of Eleven losing her powers?",
+    "a": "She loses them at Season 3's end — in S4 she must relive traumatic memories to reawaken them",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "disney",
+    "q": "What is the significance of the opening of Up?",
+    "a": "A wordless 4-minute montage of Carl and Ellie's life — considered one of the most emotional film sequences ever",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "disney",
+    "q": "What is the significance of Toy Story 3?",
+    "a": "The toys nearly face destruction in an incinerator — one of Pixar's most emotional moments",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "disney",
+    "q": "What real psychological theory is the basis for Inside Out?",
+    "a": "Paul Ekman's theory of basic universal emotions — developed with psychologist Dacher Keltner",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "disney",
+    "q": "What is the significance of Bambi's mother's death?",
+    "a": "Unprecedented emotional darkness for a 1942 children's film — the off-screen death traumatised generations",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "disney",
+    "q": "What is the significance of the ending of Toy Story 4?",
+    "a": "Woody chooses to stay with Bo Peep rather than return to Bonnie — a bittersweet goodbye to the franchise",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "lord_rings",
+    "q": "What is the significance of the Grey Havens?",
+    "a": "The port where Elves sail to the Undying Lands — where Frodo departs at the end",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "lord_rings",
+    "q": "What is the significance of Sam carrying Frodo?",
+    "a": "At Mount Doom, Frodo can no longer walk — Sam carries him up in one of literature's greatest acts of friendship",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "lord_rings",
+    "q": "What is the significance of Boromir's death?",
+    "a": "He dies protecting Merry and Pippin — My brother... my captain... my king — a powerful redemption",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "lord_rings",
+    "q": "What is the significance of Isildur keeping the Ring?",
+    "a": "Rather than destroying it as Elrond urges, Isildur keeps it — setting in motion 3,000 years of catastrophe",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "lord_rings",
+    "q": "What is the significance of Gandalf being a Maia?",
+    "a": "He is an angelic being sent to guide and inspire — not dominate. His restrictions explain why he doesn't simply overpower evil",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "video_games",
+    "q": "What is the significance of Doom (1993)?",
+    "a": "It defined the FPS genre and popularised PC gaming — so popular it was used to test hardware performance",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "video_games",
+    "q": "What is the significance of Tetris?",
+    "a": "One of the best-selling games ever — its simple block-stacking gameplay is almost universally understood",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "fortnite",
+    "q": "Why is mats management so important in build modes?",
+    "a": "Running out of materials removes your main defense and mobility tool",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "valorant",
+    "q": "What is the key difference between the Phantom and the Vandal?",
+    "a": "The Phantom is quieter and has damage drop-off, while the Vandal can one-tap heads at any range",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the significance of the Chimera Ant arc in HxH?",
+    "a": "The longest and most complex arc — exploring what it means to be human through an ant who develops emotion",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the significance of Satoshi Kon?",
+    "a": "A director who made Perfect Blue, Paprika — psychological anime that influenced Christopher Nolan",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the significance of Demon Slayer's animation?",
+    "a": "Ufotable's visual style — particularly the Hinokami Kagura sequences — set a new standard for anime animation quality",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the philosophical significance of Code Geass?",
+    "a": "Lelouch uses absolute power (Geass) to liberate the world — culminating in a controversial self-sacrifice",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "prison_break",
+    "q": "What is the significance of the origami crane?",
+    "a": "Michael makes origami cranes — a symbol of his meticulous planning",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "prison_break",
+    "q": "What is the meaning of Michael's tattoo removal?",
+    "a": "In Season 4 he has it removed — symbolising shedding his identity as the planner/rescuer",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "prison_break",
+    "q": "What is the significance of the number 5?",
+    "a": "Michael's shoe size is a clue in many of his encoded messages",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "prison_break",
+    "q": "What is the significance of Ithaca?",
+    "a": "Michael's code name in the revival — referencing Odysseus's long journey home",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "big_bang_theory",
+    "q": "What is the significance of the train set in Sheldon's childhood?",
+    "a": "It represents the moment Sheldon's innocence was broken — he walked in on his father cheating",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "big_bang_theory",
+    "q": "What is the significance of Sheldon's three knocks?",
+    "a": "He always knocks three times and says the person's name three times — a childhood anxiety habit",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "big_bang_theory",
+    "q": "What is the significance of the elevator being broken?",
+    "a": "The elevator is out of service for the entire show — finally fixed in the finale, symbolising change",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "big_bang_theory",
+    "q": "What scientific concept does Sheldon explain most famously?",
+    "a": "He frequently references string theory, Schrödinger's cat, and the theory of everything",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the difference between a Pokémon's HP and PP?",
+    "a": "HP is health points — when 0, Pokémon faints. PP is the number of times a move can be used",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the significance of the GTS?",
+    "a": "Global Trade System — allowing players to trade Pokémon with anyone worldwide",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the significance of Eevee?",
+    "a": "It can evolve into eight different Pokémon (Eevolutions) depending on conditions or stones used",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the significance of Red in the games?",
+    "a": "The original protagonist — he appears as the final boss in Gold/Silver, representing the hardest challenge",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the difference between Legendary and Mythical Pokémon?",
+    "a": "Legendaries can be caught in the game; Mythicals are distributed through events only",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the deepest lore of Pokémon's origins?",
+    "a": "The anime and games hint at a world that was reshaped by Arceus and nearly destroyed by Groudon, Kyogre, and Rayquaza's conflict",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is Pokémon GO's significance?",
+    "a": "Released 2016 — it became a global phenomenon with augmented reality catching, breaking download records",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is the significance of Omni-Man's fight with Mark?",
+    "a": "Nolan beats Mark nearly to death before flying away — the show's most harrowing and emotionally complex scene",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is the deeper theme of Omni-Man's arc?",
+    "a": "Can love for your family override the ideology you were raised with — Nolan ultimately chooses Mark over Viltrum",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is the significance of Invincible's brutality vs other superhero media?",
+    "a": "It deconstructs the idea that heroes emerge from fights unscathed — consequences are visceral and real",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is the significance of Omni-Man's monologue Think, Mark?",
+    "a": "He lists the spans of human civilisations to show their brevity compared to Viltrumite lifespan — chilling and famous",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is the significance of Robot's arc?",
+    "a": "He becomes a global dictator believing he knows best — Invincible must fight his former ally",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the significance of Homelander and Maeve's relationship?",
+    "a": "They were a couple — Maeve knows his darkest secrets and eventually helps bring him down",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the significance of Noir's face?",
+    "a": "He hides horrific burns and scars — in Season 3 it's revealed he is a Homelander clone",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the satire target of The Boys?",
+    "a": "Corporate superhero culture, American exceptionalism, celebrity worship, and unchecked power",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the significance of Homelander's origin?",
+    "a": "He was raised in a Vought lab with no human contact — explaining his psychological damage and need for approval",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the real meaning of Translucent's death?",
+    "a": "Hughie kills him — a nobody killing a powerful supe — establishing that The Boys can fight back",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the significance of A-Train's arc?",
+    "a": "A Black superhero who ignores racial justice to maintain his status — eventually forced to confront his complicity",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is Ryan Butcher's significance?",
+    "a": "Homelander and Becca's son — he has his father's powers. His choices will define the show's endgame",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_flash",
+    "q": "What is the significance of the newspaper headline?",
+    "a": "A future newspaper predicts the Flash vanishes in a crisis — a recurring plot thread",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_flash",
+    "q": "What is the significance of Barry's ring?",
+    "a": "The ring contains his compressed Flash suit — a nod to the comics",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_flash",
+    "q": "What is the significance of Barry dying in the comics Crisis?",
+    "a": "In the 1985 comic he runs himself to death destroying the Anti-Monitor's weapon — the definitive hero sacrifice",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_flash",
+    "q": "What is the significance of the tachyon device?",
+    "a": "It allows Barry to temporarily achieve speeds beyond his normal limits — used to fight Zoom",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_flash",
+    "q": "Who is the Spectre and what is Barry's role?",
+    "a": "In Crisis, Ollie Queen becomes the Spectre — Barry becomes the Paragon of Love",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_flash",
+    "q": "What makes The Flash unique in the Arrowverse?",
+    "a": "It introduced the Multiverse concept to the Arrowverse — and its tone is the lightest and most optimistic",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "What is the significance of We Are The Walking Dead?",
+    "a": "Rick says it in the comics — meaning the survivors themselves are as dangerous as the walkers",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "What is the deeper theme of TWD?",
+    "a": "The real monsters are other humans — the walkers are merely the backdrop for human cruelty and survival",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "What is the significance of Rick's disappearance?",
+    "a": "He is taken by a CRM helicopter in Season 9 — leading to the Rick Grimes film trilogy",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "What is the significance of the tiger Shiva?",
+    "a": "Ezekiel's tiger who dies saving Carl — symbolising the loss of the Kingdom's hope",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "What is the significance of Merle Dixon?",
+    "a": "Daryl's abusive brother — his death is the moment Daryl truly commits to Rick's group",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "solo_leveling",
+    "q": "What is the significance of Jin-Woo resetting time?",
+    "a": "After winning the final battle, Jin-Woo uses a stone to travel back 10 years — to prevent all suffering",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "solo_leveling",
+    "q": "What is the cosmic significance of the Player System?",
+    "a": "The Absolute Being created Jin-Woo specifically as a weapon to end the Ruler-Monarch war permanently",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "solo_leveling",
+    "q": "What is the significance of Sung Jin-Woo's title National Level Hunter?",
+    "a": "He is classified beyond national — as a threat or asset equivalent to a nation-state's military",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "suits",
+    "q": "What is the significance of Harvey's therapy arc?",
+    "a": "He goes to Dr. Agard to deal with abandonment issues — his emotional walls slowly come down",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "suits",
+    "q": "What is the deeper theme of Suits?",
+    "a": "Loyalty vs self-interest — every character faces moments where protecting others conflicts with their own survival",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "suits",
+    "q": "What is the significance of the Harvard mythology in the show?",
+    "a": "Harvard Law is treated as the ultimate qualifier — Mike's lack of it represents how credentials can overshadow talent",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "suits",
+    "q": "What is the significance of Gretchen?",
+    "a": "Louis's secretary after Norma retires — she is protective and surprisingly intimidating",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What is the significance of Dexter's kill room?",
+    "a": "He wraps victims in plastic wrap on a kill table, forces them to confront their crimes, then kills and disposes of them",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What is the significance of Doakes?",
+    "a": "Sergeant Doakes always suspected Dexter — he is framed as the Bay Harbour Butcher and killed",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What is the psychological complexity of the Code?",
+    "a": "Dexter channels his psychopathic urges into a moral framework — but the show questions whether this makes him heroic or just a more selective monster",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What is the significance of Harrison in New Blood?",
+    "a": "Dexter's son inherited the Dark Passenger — forcing Dexter to confront what he has passed on",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What is the significance of the plastic wrap and kill table?",
+    "a": "It is a ritual — precise, controlled, and intimate. It allows Dexter to feel connected to his victims",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dexter",
+    "q": "What is the Showtime revival's critical reception?",
+    "a": "Dexter: New Blood was praised as a redemption after the original finale — Harrison's killing of Dexter was seen as fitting",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "vikings",
+    "q": "What is Paris and why is it significant?",
+    "a": "The Vikings besiege Paris in Seasons 3-4 — a historically based major event",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "vikings",
+    "q": "What is the significance of Rollo settling in France?",
+    "a": "He becomes the first Duke of Normandy — ancestor of William the Conqueror",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "vikings",
+    "q": "What is the significance of Floki sailing to Iceland?",
+    "a": "He discovers a land he believes is the home of the gods — the Vikings settle Iceland in the later seasons",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "vikings",
+    "q": "What is the historical accuracy level of the show?",
+    "a": "It uses real historical figures and events but takes significant liberties — it inspired popular interest in Norse history",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "vikings",
+    "q": "What is the significance of Ubbe?",
+    "a": "He fulfils Ragnar's dream by sailing to North America — settling Vinland",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What is the significance of Gol D. Roger's execution?",
+    "a": "Rather than crushing piracy, his final words about the One Piece sparked the Great Pirate Era",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What is the Egghead arc's significance?",
+    "a": "Vegapunk reveals the world's true history — and is killed for it, sending his message to the world",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What is the significance of Shanks giving Luffy his hat?",
+    "a": "It represents a promise — give it back when you become a great pirate. It defines Luffy's entire journey",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is the significance of Vegeta's Saiyan pride?",
+    "a": "His pride is his greatest strength and weakness — his arc is learning to fight for others, not just pride",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is the significance of Gohan's decline in power?",
+    "a": "He stopped training after Cell — in Buu saga he has to rush to reclaim his power. A critique of talent wasted by complacency",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is the legendary significance of the Raditz fight?",
+    "a": "It introduced power levels as a concept — changing how audiences understood strength in anime",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is Dragon Ball GT vs Super controversy?",
+    "a": "GT was a non-canon sequel made without Toriyama's involvement; Super is the official continuation but fans debate quality",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is the significance of No Way Home?",
+    "a": "All three live-action Spider-Men unite — Tobey Maguire, Andrew Garfield, and Tom Holland",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is the One More Day controversy?",
+    "a": "Peter makes a deal with Mephisto erasing his marriage to MJ — widely considered the worst Spider-Man story ever told",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is the significance of Gwen Stacy's death?",
+    "a": "Often considered the end of the Silver Age of comics — her neck was snapped by the sudden stop of the web catching her",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is the significance of the Symkarian Spider-Man (Silver Sable)?",
+    "a": "She represents how Spider-Man's world intersects with international politics and mercenaries",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is the deeper theme of Spider-Man?",
+    "a": "Responsibility, sacrifice, and the cost of power — Peter perpetually sacrifices personal happiness for the greater good",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "who_movie_character",
+    "q": "I mentor Neo, wear dark glasses, and explain the Matrix to the audience",
+    "a": "Morpheus",
+    "reason": "essay/multipart pattern"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Romeo and Juliet?",
+    "a": "Shakespeare",
+    "reason": "literature/authorship trivia — language is not the subject; belongs in literature/general"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Harry Potter?",
+    "a": "J.K. Rowling",
+    "reason": "pop culture/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Oliver Twist?",
+    "a": "Charles Dickens",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Adventures of Tom Sawyer?",
+    "a": "Mark Twain",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who is the author of Alice in Wonderland?",
+    "a": "Lewis Carroll",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Jungle Book?",
+    "a": "Rudyard Kipling",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote A Christmas Carol?",
+    "a": "Charles Dickens",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Animal Farm?",
+    "a": "George Orwell",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "What is a baby cat called?",
+    "a": "Kitten",
+    "reason": "animal trivia, not language"
+  },
+  {
+    "cat": "language",
+    "q": "What does WWW stand for?",
+    "a": "World Wide Web",
+    "reason": "technology trivia/acronym expansion, not about language"
+  },
+  {
+    "cat": "language",
+    "q": "What is a book of maps called?",
+    "a": "Atlas",
+    "reason": "general knowledge/geography trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Don Quixote?",
+    "a": "Cervantes",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote War and Peace?",
+    "a": "Tolstoy",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Great Gatsby?",
+    "a": "F. Scott Fitzgerald",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote 1984?",
+    "a": "George Orwell",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Pride and Prejudice?",
+    "a": "Jane Austen",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Moby Dick?",
+    "a": "Herman Melville",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Catcher in the Rye?",
+    "a": "J.D. Salinger",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Odyssey?",
+    "a": "Homer",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote To Kill a Mockingbird?",
+    "a": "Harper Lee",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Picture of Dorian Gray?",
+    "a": "Oscar Wilde",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Les Misérables?",
+    "a": "Victor Hugo",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Crime and Punishment?",
+    "a": "Dostoevsky",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Frankenstein?",
+    "a": "Mary Shelley",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Iliad?",
+    "a": "Homer",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Lord of the Flies?",
+    "a": "William Golding",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote the novel Middlemarch?",
+    "a": "George Eliot",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote the Canterbury Tales?",
+    "a": "Geoffrey Chaucer",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Ulysses in 1922?",
+    "a": "James Joyce",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Brothers Karamazov?",
+    "a": "Dostoevsky",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote One Hundred Years of Solitude?",
+    "a": "Gabriel García Márquez",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote In Search of Lost Time?",
+    "a": "Marcel Proust",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Divine Comedy?",
+    "a": "Dante Alighieri",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Madame Bovary?",
+    "a": "Gustave Flaubert",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Faust?",
+    "a": "Goethe",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote the play Hedda Gabler?",
+    "a": "Henrik Ibsen",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Anna Karenina?",
+    "a": "Tolstoy",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Stranger?",
+    "a": "Albert Camus",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Sound and the Fury?",
+    "a": "William Faulkner",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Invisible Man?",
+    "a": "Ralph Ellison",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote The Scarlet Letter?",
+    "a": "Nathaniel Hawthorne",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "language",
+    "q": "Who wrote Things Fall Apart?",
+    "a": "Chinua Achebe",
+    "reason": "literature/authorship trivia — language is not the subject"
+  },
+  {
+    "cat": "dexter",
+    "q": "How many people has Trinity killed over decades?",
+    "a": "Dozens",
+    "reason": "asked 'how many', answer has no number/quantity"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Who created the 'Shrek is Love, Shrek is Life' meme era?",
+    "a": "4chan",
+    "reason": "asked 'who <action>', answer has no named person"
+  },
+  {
+    "cat": "solo_leveling",
+    "q": "What year does Jin-Woo reset time to?",
+    "a": "Ten years prior",
+    "reason": "asked for year, answer has no digits"
+  },
+  {
+    "cat": "blacklist",
+    "q": "How many bags are shown with bones?",
+    "a": "Duffel bag",
+    "reason": "asked 'how many', answer has no number/quantity"
+  },
+  {
+    "cat": "modern_family",
+    "q": "How old is Jay compared to Gloria approximately?",
+    "a": "Much older",
+    "reason": "asked 'how old', answer has no age"
+  },
+  {
+    "cat": "ark_survival",
+    "q": "What exact amount of narcoberry knocks out most small creatures?",
+    "a": "Varies",
+    "reason": "answer is a dodge/non-answer: \"Varies\""
+  },
+  {
+    "cat": "big_bang_theory",
+    "q": "What eggnog brand does Sheldon love in one episode?",
+    "a": "None specific",
+    "reason": "answer is a dodge/non-answer: \"None specific\""
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What song does Todd's uncle Jack keep playing?",
+    "a": "No specific song",
+    "reason": "answer is a dodge/non-answer: \"No specific song\""
+  },
+  {
+    "cat": "brooklyn_99",
+    "q": "Amy's brother David is played by?",
+    "a": "None specified",
+    "reason": "answer is a dodge/non-answer: \"None specified\""
+  },
+  {
+    "cat": "cobra_kai",
+    "q": "What song plays over training montages inspired by 80s?",
+    "a": "Varies",
+    "reason": "answer is a dodge/non-answer: \"Varies\""
+  },
+  {
+    "cat": "cobra_kai",
+    "q": "Tory's foster father later appears as which character?",
+    "a": "None prominent",
+    "reason": "answer is a dodge/non-answer: \"None prominent\""
+  },
+  {
+    "cat": "cobra_kai",
+    "q": "Who were the three masters of Okinawan karate referenced in Part II?",
+    "a": "Not explicitly named; Miyagi-Do lineage",
+    "reason": "answer is a dodge/non-answer: \"Not explicitly named; Miyagi-Do lineage\""
+  },
+  {
+    "cat": "disney",
+    "q": "Who is the villain in Encanto?",
+    "a": "There is no traditional villain",
+    "reason": "answer is a dodge/non-answer: \"There is no traditional villain\""
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of Quahog's airport?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "friends",
+    "q": "What is the real cafe location used for exterior Central Perk shots?",
+    "a": "None exterior",
+    "reason": "answer is a dodge/non-answer: \"None exterior\""
+  },
+  {
+    "cat": "himym",
+    "q": "What is the name of Robin's dog she names?",
+    "a": "None famous",
+    "reason": "answer is a dodge/non-answer: \"None famous\""
+  },
+  {
+    "cat": "himym",
+    "q": "What is the name of Robin's horse shed?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "himym",
+    "q": "What is the name of Marshalls pet dog mentioned briefly?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "himym",
+    "q": "What nickname does Marshall give to the Empire State Building?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of Mitchell's law firm early on?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of Jay's mother who passes away?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the high school Haley attends?",
+    "a": "None specific",
+    "reason": "answer is a dodge/non-answer: \"None specific\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the ski lodge resort family trip location?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What fraternity was Phil in?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "Who is the French chef in an episode Jay hires?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "Who played Manny's biological grandfather?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What reality show does Haley audition for?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What airline does Jay avoid flying?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the Dunphy's street address?",
+    "a": "None specific",
+    "reason": "answer is a dodge/non-answer: \"None specific\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What team does Phil coach in little league?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "the_office",
+    "q": "What is the name of Erin's biological mother revealed late?",
+    "a": "None revealed",
+    "reason": "answer is a dodge/non-answer: \"None revealed\""
+  },
+  {
+    "cat": "the_office",
+    "q": "What is the title of Andy's a cappella album?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "the_office",
+    "q": "What real building's exterior is used for Dunder Mifflin Scranton?",
+    "a": "None real",
+    "reason": "answer is a dodge/non-answer: \"None real\""
+  },
+  {
+    "cat": "the_rookie",
+    "q": "What author wrote the in-universe book about Rosalind?",
+    "a": "Unknown author",
+    "reason": "answer is a dodge/non-answer: \"Unknown author\""
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "How many years is Negan in prison?",
+    "a": "Several",
+    "reason": "answer is a dodge/non-answer: \"Several\""
+  },
+  {
+    "cat": "anime",
+    "q": "What is the rank above S-class in One Punch Man?",
+    "a": "There isn't one",
+    "reason": "answer is a dodge/non-answer: \"There isn't one\""
+  },
+  {
+    "cat": "brooklyn_99",
+    "q": "What is the name of the restaurant Boyle's cousin runs?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "family_guy",
+    "q": "What instrument does Peter play in the band?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "family_guy",
+    "q": "What disease does Brian reveal he has in later seasons?",
+    "a": "None revealed",
+    "reason": "answer is a dodge/non-answer: \"None revealed\""
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of Stewie's half-brother from the future?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of Peters childhood invisible friend?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "friends",
+    "q": "What song does Ross play badly on keyboard?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "himym",
+    "q": "What is the name of the fictional restaurant Lily eats every week?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "himym",
+    "q": "What is Marshalls favorite monster movie?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "invincible",
+    "q": "What century did the Immortal live in?",
+    "a": "Multiple",
+    "reason": "answer is a dodge/non-answer: \"Multiple\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What town is Cam's hometown?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is Lily's middle name?",
+    "a": "None specific",
+    "reason": "answer is a dodge/non-answer: \"None specific\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "Who is Manny's high school girlfriend Sherry?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "Which friend of Claire often visits?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of Mitchells coworker who appeared several times?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "the_office",
+    "q": "What is the name of Michael's condo complex?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "valorant",
+    "q": "What is the credit given per round regardless of outcome?",
+    "a": "Varies",
+    "reason": "answer is a dodge/non-answer: \"Varies\""
+  },
+  {
+    "cat": "brooklyn_99",
+    "q": "Jake was named Detective of the Year how many times?",
+    "a": "Multiple",
+    "reason": "answer is a dodge/non-answer: \"Multiple\""
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is Joe's dog's name?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "himym",
+    "q": "What type of dance class does Lily attend?",
+    "a": "None iconic",
+    "reason": "answer is a dodge/non-answer: \"None iconic\""
+  },
+  {
+    "cat": "the_office",
+    "q": "What is the name of Michael's improv group?",
+    "a": "None official",
+    "reason": "answer is a dodge/non-answer: \"None official\""
+  },
+  {
+    "cat": "the_office",
+    "q": "What fictional character does Dwight most admire?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "the_office",
+    "q": "Which coworker always eats yogurt sensually?",
+    "a": "None specifically",
+    "reason": "answer is a dodge/non-answer: \"None specifically\""
+  },
+  {
+    "cat": "vikings",
+    "q": "What is Ragnar's eldest son who is blind initially?",
+    "a": "Ivar is paralyzed, not blind",
+    "reason": "answer denies a premise word from question (\"blind\")"
+  },
+  {
+    "cat": "general",
+    "q": "How many months have 31 days?",
+    "a": "7",
+    "reason": "too easy: elementary school fact"
+  },
+  {
+    "cat": "general",
+    "q": "What instrument tells you which direction is north?",
+    "a": "A compass",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "What gas do plants absorb from the atmosphere?",
+    "a": "Carbon dioxide",
+    "reason": "too easy: basic science a 5-year-old knows"
+  },
+  {
+    "cat": "general",
+    "q": "What is the freezing point of water in Fahrenheit?",
+    "a": "32°F",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "What is the largest desert on Earth?",
+    "a": "Sahara (or Antarctic)",
+    "reason": "too easy: elementary school fact"
+  },
+  {
+    "cat": "general",
+    "q": "What metal is liquid at room temperature?",
+    "a": "Mercury",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "How many hours in a week?",
+    "a": "168",
+    "reason": "too easy: trivial math 24*7"
+  },
+  {
+    "cat": "general",
+    "q": "National language of Brazil?",
+    "a": "Portuguese",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "How many strings does a standard guitar have?",
+    "a": "6",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "Collective noun for a group of lions?",
+    "a": "A pride",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "Capital of China?",
+    "a": "Beijing",
+    "reason": "too easy: universal knowledge (major world capital)"
+  },
+  {
+    "cat": "general",
+    "q": "Year the Eiffel Tower was completed?",
+    "a": "1889",
+    "reason": "too easy: well-known year tied to Paris"
+  },
+  {
+    "cat": "general",
+    "q": "Smallest ocean?",
+    "a": "Arctic Ocean",
+    "reason": "too easy: elementary school fact"
+  },
+  {
+    "cat": "general",
+    "q": "How many minutes in a day?",
+    "a": "1,440",
+    "reason": "too easy: trivial math 24*60"
+  },
+  {
+    "cat": "general",
+    "q": "Most widely eaten grain in the world?",
+    "a": "Rice",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "Normal human body temperature?",
+    "a": "37°C / 98.6°F",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "National animal of Australia?",
+    "a": "Kangaroo (and emu)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "general",
+    "q": "Currency of the UK?",
+    "a": "Pound sterling (£)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "geography",
+    "q": "Body of water separating Europe from Africa?",
+    "a": "Mediterranean Sea",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "geography",
+    "q": "Which continent has the most countries?",
+    "a": "Africa (54 countries)",
+    "reason": "too easy: common geography fact"
+  },
+  {
+    "cat": "geography",
+    "q": "Largest city in the world by population?",
+    "a": "Tokyo",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "geography",
+    "q": "Which country is Iceland closest to geographically?",
+    "a": "Greenland",
+    "reason": "too easy: Ice/Green pairing is iconic"
+  },
+  {
+    "cat": "science",
+    "q": "What is the hottest planet in our solar system?",
+    "a": "Venus",
+    "reason": "too easy: elementary school fact"
+  },
+  {
+    "cat": "science",
+    "q": "Gas plants absorb during photosynthesis?",
+    "a": "Carbon dioxide (CO₂)",
+    "reason": "too easy: basic science"
+  },
+  {
+    "cat": "science",
+    "q": "Powerhouse of the cell?",
+    "a": "Mitochondria",
+    "reason": "too easy: classic meme-level biology basic"
+  },
+  {
+    "cat": "science",
+    "q": "What does DNA stand for?",
+    "a": "Deoxyribonucleic Acid",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "science",
+    "q": "Study of living organisms?",
+    "a": "Biology",
+    "reason": "too easy: tautological/obvious"
+  },
+  {
+    "cat": "science",
+    "q": "What is a herbivore?",
+    "a": "An animal that only eats plants",
+    "reason": "too easy: kindergarten-level"
+  },
+  {
+    "cat": "science",
+    "q": "What are the three states of matter?",
+    "a": "Solid, liquid, and gas (plasma is the fourth)",
+    "reason": "too easy: elementary school fact"
+  },
+  {
+    "cat": "math",
+    "q": "What is 1/2 + 1/4?",
+    "a": "3/4",
+    "reason": "too easy: basic fraction arithmetic"
+  },
+  {
+    "cat": "math",
+    "q": "What is 2 + 2 × 3 (order of operations)?",
+    "a": "8",
+    "reason": "too easy: trivial order of operations"
+  },
+  {
+    "cat": "math",
+    "q": "What is the sum of angles in a triangle?",
+    "a": "180 degrees",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "math",
+    "q": "What is 3 to the power of 4?",
+    "a": "81",
+    "reason": "too easy: basic math"
+  },
+  {
+    "cat": "math",
+    "q": "What is 15 + 25 + 35?",
+    "a": "75",
+    "reason": "too easy: basic arithmetic"
+  },
+  {
+    "cat": "math",
+    "q": "What is the area of a rectangle with width 4 and length 7?",
+    "a": "28",
+    "reason": "too easy: trivial multiplication"
+  },
+  {
+    "cat": "math",
+    "q": "What is 11 × 12?",
+    "a": "132",
+    "reason": "too easy: basic multiplication"
+  },
+  {
+    "cat": "math",
+    "q": "What number comes next: 2, 4, 8, 16?",
+    "a": "32",
+    "reason": "too easy: trivial doubling pattern"
+  },
+  {
+    "cat": "math",
+    "q": "What is 13 × 13?",
+    "a": "169",
+    "reason": "too easy: basic multiplication"
+  },
+  {
+    "cat": "math",
+    "q": "What is 15% of 200?",
+    "a": "30",
+    "reason": "too easy: basic percentage"
+  },
+  {
+    "cat": "space",
+    "q": "How long does it take light from the Sun to reach Earth?",
+    "a": "About 8 minutes",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "space",
+    "q": "Which planet is famous for its Great Red Spot?",
+    "a": "Jupiter",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "space",
+    "q": "What do we call a collection of stars forming a pattern?",
+    "a": "A constellation",
+    "reason": "too easy: obvious"
+  },
+  {
+    "cat": "space",
+    "q": "What is a light-year?",
+    "a": "The distance light travels in one year",
+    "reason": "too easy: name literally explains it"
+  },
+  {
+    "cat": "space",
+    "q": "What company founded by Elon Musk runs private space launches?",
+    "a": "SpaceX",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "space",
+    "q": "What is the name of our own moon?",
+    "a": "Luna",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "space",
+    "q": "What is a solar eclipse?",
+    "a": "When the Moon blocks the Sun's light from Earth",
+    "reason": "too easy: name explains it"
+  },
+  {
+    "cat": "space",
+    "q": "What is the phase when we see no Moon at all?",
+    "a": "New moon",
+    "reason": "too easy: obvious/kindergarten-level"
+  },
+  {
+    "cat": "history",
+    "q": "What ancient city was destroyed by Mount Vesuvius?",
+    "a": "Pompeii",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Who discovered the tomb of Tutankhamun?",
+    "a": "Howard Carter",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "What document begins with 'We the People'?",
+    "a": "The U.S. Constitution",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Year WWI ended?",
+    "a": "1918",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Who invented the telephone?",
+    "a": "Alexander Graham Bell (1876)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Primary author of the Declaration of Independence?",
+    "a": "Thomas Jefferson",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Who was Mahatma Gandhi?",
+    "a": "Indian lawyer who led India's nonviolent independence movement against British rule",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Year the Soviet Union collapsed?",
+    "a": "1991",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "First woman to fly solo across the Atlantic?",
+    "a": "Amelia Earhart (1932)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Year the Berlin Wall fell?",
+    "a": "1989",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Who was Napoleon Bonaparte?",
+    "a": "French military leader and emperor who dominated Europe in the early 19th century",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "What was the first artificial satellite?",
+    "a": "Sputnik 1 (1957, Soviet Union)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Who was Cleopatra?",
+    "a": "Last active ruler of the Ptolemaic Kingdom of Egypt",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "history",
+    "q": "Year the Magna Carta was signed?",
+    "a": "1215",
+    "reason": "too easy: famous school-textbook date"
+  },
+  {
+    "cat": "history",
+    "q": "Year the French Revolution began?",
+    "a": "1789",
+    "reason": "too easy: famous school-textbook date"
+  },
+  {
+    "cat": "sports",
+    "q": "What sport uses a scrum?",
+    "a": "Rugby",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "Maximum score in a bowling game?",
+    "a": "300",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "National sport of Japan?",
+    "a": "Sumo wrestling",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "Points for a touchdown in American football?",
+    "a": "6",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "Players on a volleyball team?",
+    "a": "6",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "Sport played at the Augusta National?",
+    "a": "Golf (the Masters Tournament)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "What does the yellow jersey mean in Tour de France?",
+    "a": "The overall race leader wears it",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "sports",
+    "q": "What is a penalty shootout?",
+    "a": "Teams alternate penalty kicks to decide a tied match",
+    "reason": "too easy: name explains itself"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is famous for its tango music and dance?",
+    "a": "Argentina",
+    "reason": "too easy: universal knowledge (tango=Argentina)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is known for tulips, windmills, and wooden clogs?",
+    "a": "Netherlands",
+    "reason": "too easy: iconic triple cliché"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is home to the Inca ruins of Machu Picchu?",
+    "a": "Peru",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country has the most natural lakes?",
+    "a": "Canada",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is famous for cheese and wine and has the Alps to the east?",
+    "a": "France",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country shares the longest border with the United States?",
+    "a": "Canada",
+    "reason": "too easy: obvious"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country has the world's longest coastline?",
+    "a": "Canada",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is famous for fjords and midnight sun?",
+    "a": "Norway",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country hosts the annual Rio Carnival?",
+    "a": "Brazil",
+    "reason": "too easy: Rio is in Brazil — leak"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is famous for mozzarella and Vespa scooters?",
+    "a": "Italy",
+    "reason": "too easy: iconic Italian cliché"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is known as the Land of a Thousand Lakes?",
+    "a": "Finland",
+    "reason": "too easy: well-known nickname"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is famous for its vodka and matryoshka dolls?",
+    "a": "Russia",
+    "reason": "too easy: iconic Russian cliché"
+  },
+  {
+    "cat": "country_facts",
+    "q": "Which country is home to the Maasai Mara reserve?",
+    "a": "Kenya",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'CPU' stand for?",
+    "a": "Central Processing Unit",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'PDF' stand for?",
+    "a": "Portable Document Format",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'USB' stand for?",
+    "a": "Universal Serial Bus",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'Wi-Fi' allow you to do?",
+    "a": "Connect to the internet wirelessly",
+    "reason": "too easy: tautological"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'ROM' stand for?",
+    "a": "Read-Only Memory",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'RAM' stand for?",
+    "a": "Random Access Memory",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What is the name of the most popular video conferencing app launched in 2011 starting with 'Z'?",
+    "a": "Zoom",
+    "reason": "too easy: letter Z leak"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'Bluetooth' connect?",
+    "a": "Devices wirelessly",
+    "reason": "too easy: obvious"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'OS' stand for?",
+    "a": "Operating System",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'GPS' stand for?",
+    "a": "Global Positioning System",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'LED' stand for?",
+    "a": "Light Emitting Diode",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "technology",
+    "q": "What device reads QR codes?",
+    "a": "Smartphone camera",
+    "reason": "too easy: obvious"
+  },
+  {
+    "cat": "technology",
+    "q": "What does 'HDMI' stand for?",
+    "a": "High-Definition Multimedia Interface",
+    "reason": "too easy: universal tech acronym"
+  },
+  {
+    "cat": "technology",
+    "q": "What year was the iPad first released?",
+    "a": "2010",
+    "reason": "too easy: well-known tech launch"
+  },
+  {
+    "cat": "music",
+    "q": "How many lines are on a standard music staff?",
+    "a": "5",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What instrument was Louis Armstrong famous for playing?",
+    "a": "Trumpet",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Which band released Wonderwall?",
+    "a": "Oasis",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who is known as the Boss in rock music?",
+    "a": "Bruce Springsteen",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What family of instruments does the clarinet belong to?",
+    "a": "Woodwind",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What genre of music originated in Jamaica?",
+    "a": "Reggae",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What instrument is Jimi Hendrix famous for?",
+    "a": "Electric guitar",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "How many strings does a standard violin have?",
+    "a": "4",
+    "reason": "too easy: basic music"
+  },
+  {
+    "cat": "music",
+    "q": "What female artist sang 'Like a Virgin'?",
+    "a": "Madonna",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Halo and Single Ladies?",
+    "a": "Beyoncé",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Band behind Hotel California?",
+    "a": "Eagles",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Shape of You?",
+    "a": "Ed Sheeran",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What nationality is Adele?",
+    "a": "British (English)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Blinding Lights?",
+    "a": "The Weeknd",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Band behind Smells Like Teen Spirit?",
+    "a": "Nirvana",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Someone Like You?",
+    "a": "Adele",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Bad Guy?",
+    "a": "Billie Eilish",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Stairway to Heaven?",
+    "a": "Led Zeppelin",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang All I Want for Christmas Is You?",
+    "a": "Mariah Carey",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Country music capital of the world?",
+    "a": "Nashville, Tennessee",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who is the lead vocalist of Maroon 5?",
+    "a": "Adam Levine",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What boy band released 'Bye Bye Bye'?",
+    "a": "NSYNC",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "What symbol raises a note by a semitone?",
+    "a": "A sharp",
+    "reason": "too easy: basic music theory everyone knows"
+  },
+  {
+    "cat": "music",
+    "q": "What is a duet?",
+    "a": "A musical performance by two performers",
+    "reason": "too easy: duet=two, definition"
+  },
+  {
+    "cat": "music",
+    "q": "What does a conductor do?",
+    "a": "Leads and coordinates the musicians, interpreting the music",
+    "reason": "too easy: obvious"
+  },
+  {
+    "cat": "music",
+    "q": "Who composed the Four Seasons?",
+    "a": "Antonio Vivaldi",
+    "reason": "too easy: universal classical knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Uptown Funk?",
+    "a": "Bruno Mars (featuring Mark Ronson)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Despacito?",
+    "a": "Luis Fonsi (featuring Daddy Yankee)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Who sang Lose Yourself?",
+    "a": "Eminem",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "music",
+    "q": "Taylor Swift's debut album?",
+    "a": "Taylor Swift (self-titled, 2006)",
+    "reason": "too easy: self-titled, name leak"
+  },
+  {
+    "cat": "movies",
+    "q": "Who directed E.T. the Extra-Terrestrial?",
+    "a": "Steven Spielberg",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Who directed 'Titanic'?",
+    "a": "James Cameron",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "What superhero movie made over $2 billion in 2019?",
+    "a": "Avengers: Endgame",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Who voices Shrek?",
+    "a": "Mike Myers",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Director of The Godfather?",
+    "a": "Francis Ford Coppola",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "First Disney animated feature film?",
+    "a": "Snow White and the Seven Dwarfs (1937)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Year the first Star Wars film released?",
+    "a": "1977",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Film featuring Katniss Everdeen?",
+    "a": "The Hunger Games",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Who played Hannibal Lecter in Silence of the Lambs?",
+    "a": "Anthony Hopkins",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Year Titanic was released?",
+    "a": "1997",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Who directed the Nolan Batman trilogy?",
+    "a": "Christopher Nolan",
+    "reason": "too easy: Nolan in the question — leak"
+  },
+  {
+    "cat": "movies",
+    "q": "First Pixar film?",
+    "a": "Toy Story (1995)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Who directed Pulp Fiction?",
+    "a": "Quentin Tarantino",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "What animated film features a rat who wants to cook?",
+    "a": "Ratatouille",
+    "reason": "too easy: iconic plot point"
+  },
+  {
+    "cat": "movies",
+    "q": "Film with the quote Why so serious??",
+    "a": "The Dark Knight (2008)",
+    "reason": "too easy: iconic quote"
+  },
+  {
+    "cat": "movies",
+    "q": "Who plays Tony Montana in Scarface?",
+    "a": "Al Pacino",
+    "reason": "too easy: universal movie knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Who played the Joker in the 2019 film?",
+    "a": "Joaquin Phoenix",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "movies",
+    "q": "Film about a stranded astronaut on Mars?",
+    "a": "The Martian (2015)",
+    "reason": "too easy: title=The Martian"
+  },
+  {
+    "cat": "movies",
+    "q": "Film with the line I see dead people?",
+    "a": "The Sixth Sense (1999)",
+    "reason": "too easy: iconic movie quote"
+  },
+  {
+    "cat": "movies",
+    "q": "Film with the quote You had me at hello?",
+    "a": "Jerry Maguire (1996)",
+    "reason": "too easy: iconic movie quote"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Who is Beyoncé's husband?",
+    "a": "Jay-Z",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which boy band sang 'I Want It That Way'?",
+    "a": "Backstreet Boys",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which singer released 'Bad Guy' in 2019?",
+    "a": "Billie Eilish",
+    "reason": "too easy: duplicate of music category"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which famous Italian fashion brand has a Medusa logo?",
+    "a": "Versace",
+    "reason": "too easy: iconic logo"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which app uses a pink-and-white camera logo?",
+    "a": "Instagram",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which singer married Justin Bieber?",
+    "a": "Hailey Baldwin",
+    "reason": "too easy: universal pop-culture knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Who is the lead singer of Coldplay?",
+    "a": "Chris Martin",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which singer is known as 'Slim Shady'?",
+    "a": "Eminem",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which sport is Tom Brady famous for?",
+    "a": "American football",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Who is the most followed person on Instagram?",
+    "a": "Cristiano Ronaldo",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Who is the most subscribed YouTuber (channel)?",
+    "a": "MrBeast",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "What pop star has an 'Eras Tour'?",
+    "a": "Taylor Swift",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "What singer is known as 'Riri'?",
+    "a": "Rihanna",
+    "reason": "too easy: Riri=Rihanna nickname"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "What is the most streamed song on Spotify of all time?",
+    "a": "Blinding Lights (The Weeknd)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What house is Luna Lovegood in?",
+    "a": "Ravenclaw",
+    "reason": "too easy: fandom surface knowledge"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the name of Hagrid's giant dog?",
+    "a": "Fang",
+    "reason": "too easy: fandom surface knowledge"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What spell opens locked doors?",
+    "a": "Alohomora",
+    "reason": "too easy: iconic spell"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Spell that disarms an opponent?",
+    "a": "Expelliarmus",
+    "reason": "too easy: iconic spell"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What does Lumos do?",
+    "a": "Lights up the tip of your wand",
+    "reason": "too easy: iconic spell — Lumos=light"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "The wizarding prison?",
+    "a": "Azkaban",
+    "reason": "too easy: iconic location"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Harry's Quidditch position?",
+    "a": "Seeker",
+    "reason": "too easy: iconic fandom fact"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Harry's godfather?",
+    "a": "Sirius Black",
+    "reason": "too easy: iconic fandom fact"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Train to Hogwarts?",
+    "a": "The Hogwarts Express — from Platform 9¾",
+    "reason": "too easy: iconic fandom fact"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Levitation spell?",
+    "a": "Wingardium Leviosa",
+    "reason": "too easy: iconic spell"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is Diagon Alley?",
+    "a": "A hidden wizarding shopping street in London",
+    "reason": "too easy: surface fandom knowledge"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the Sorting Hat?",
+    "a": "A magical hat that places new students into their Hogwarts house",
+    "reason": "too easy: name explains it"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Who is Voldemort?",
+    "a": "The Dark Lord — born Tom Marvolo Riddle — who killed Harry's parents",
+    "reason": "too easy: surface fandom knowledge"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is the magical map called?",
+    "a": "Marauder's Map",
+    "reason": "too easy: iconic HP fact"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What house is known for cunning and ambition?",
+    "a": "Slytherin",
+    "reason": "too easy: iconic HP house trait"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "What is Hagrid's three-headed dog called?",
+    "a": "Fluffy",
+    "reason": "too easy: iconic HP creature"
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Who is Rubeus Hagrid?",
+    "a": "Keeper of Keys and Grounds at Hogwarts — Harry's first connection to the wizarding world",
+    "reason": "too easy: definition of major HP character"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is Peter Quill's alias?",
+    "a": "Star-Lord",
+    "reason": "too easy: surface MCU knowledge"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who is Scott Lang?",
+    "a": "Ant-Man",
+    "reason": "too easy: surface MCU knowledge"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is Natasha Romanoff's superhero name?",
+    "a": "Black Widow",
+    "reason": "too easy: duplicate of existing Black Widow Qs"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who snapped to destroy Thanos's army in Endgame?",
+    "a": "Tony Stark / Iron Man",
+    "reason": "too easy: iconic MCU moment"
+  },
+  {
+    "cat": "marvel",
+    "q": "How many Infinity Stones are there?",
+    "a": "6",
+    "reason": "too easy: universal MCU knowledge"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is Hawkeye's real name?",
+    "a": "Clint Barton",
+    "reason": "too easy: surface MCU knowledge"
+  },
+  {
+    "cat": "marvel",
+    "q": "Villain in the first Avengers movie?",
+    "a": "Loki",
+    "reason": "too easy: surface MCU knowledge"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Doctor Strange?",
+    "a": "Benedict Cumberbatch",
+    "reason": "too easy: universal MCU casting"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is Vibranium?",
+    "a": "Fictional metal found in Wakanda — absorbs kinetic energy",
+    "reason": "too easy: duplicate (Captain America shield)"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who is Hawkeye?",
+    "a": "Clint Barton — expert archer and founding Avenger",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Black Panther?",
+    "a": "Chadwick Boseman (first three films)",
+    "reason": "too easy: universal MCU casting"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who is Thanos?",
+    "a": "A powerful cosmic villain who wants to wipe out half of all life in the universe",
+    "reason": "too easy: surface MCU knowledge"
+  },
+  {
+    "cat": "marvel",
+    "q": "Name the three Spider-Men in No Way Home.",
+    "a": "Tom Holland, Andrew Garfield, and Tobey Maguire",
+    "reason": "too easy: iconic MCU moment"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is Thor's axe in Infinity War called?",
+    "a": "Stormbreaker",
+    "reason": "too easy: iconic MCU item"
+  },
+  {
+    "cat": "marvel",
+    "q": "What infinity stone is in Vision's forehead?",
+    "a": "Mind Stone",
+    "reason": "too easy: obvious from imagery"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who is the raccoon in Guardians of the Galaxy?",
+    "a": "Rocket Raccoon",
+    "reason": "too easy: Rocket Raccoon is literally the answer (raccoon=Rocket)"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the Infinity Gauntlet?",
+    "a": "A glove holding all six Infinity Stones, granting near-omnipotent power",
+    "reason": "too easy: definition question"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is Ant-Man's ability?",
+    "a": "He can shrink to microscopic size or grow to enormous size using a special suit",
+    "reason": "too easy: Ant=small, universal knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "What city does Wonder Woman come from?",
+    "a": "Themyscira",
+    "reason": "too easy: surface DC knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "Who is Superman's cousin?",
+    "a": "Supergirl",
+    "reason": "too easy: name leak (super)"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the name of Batman's company?",
+    "a": "Wayne Enterprises",
+    "reason": "too easy: Wayne Enterprises is universal"
+  },
+  {
+    "cat": "dc",
+    "q": "What city does Clark Kent work in for the Daily Planet?",
+    "a": "Metropolis",
+    "reason": "too easy: duplicate (Superman's city)"
+  },
+  {
+    "cat": "dc",
+    "q": "What kingdom does Aquaman rule?",
+    "a": "Atlantis",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "Aquaman's real name?",
+    "a": "Arthur Curry",
+    "reason": "too easy: surface DC knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "Batman's sidekick?",
+    "a": "Robin (Dick Grayson was first)",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "Wonder Woman's weapon?",
+    "a": "The Lasso of Truth — and Amazonian sword and shield",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "What is kryptonite?",
+    "a": "Radioactive material from Superman's home planet — weakens and can kill him",
+    "reason": "too easy: duplicate of Superman's weakness"
+  },
+  {
+    "cat": "dc",
+    "q": "Superman's Kryptonian name?",
+    "a": "Kal-El",
+    "reason": "too easy: surface DC knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the Justice League?",
+    "a": "DC's superhero team — Batman, Superman, Wonder Woman, Flash, Aquaman, Cyborg, Green Lantern",
+    "reason": "too easy: definition question"
+  },
+  {
+    "cat": "dc",
+    "q": "Green Lantern's power source?",
+    "a": "Willpower",
+    "reason": "too easy: surface DC knowledge"
+  },
+  {
+    "cat": "dc",
+    "q": "Who is Catwoman?",
+    "a": "Selina Kyle — a skilled thief with a complicated romantic history with Batman",
+    "reason": "too easy: Cat+woman=name explains"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What planet is famous for Ewoks?",
+    "a": "Endor",
+    "reason": "too easy: duplicate — Endor/Ewoks link in existing blacklist"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What planet is Princess Leia from?",
+    "a": "Alderaan",
+    "reason": "too easy: surface SW knowledge"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the evil empire called?",
+    "a": "Galactic Empire",
+    "reason": "too easy: name is in question"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who is Luke's twin sister?",
+    "a": "Leia Organa",
+    "reason": "too easy: universal SW knowledge"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the bounty hunter who captures Han Solo?",
+    "a": "Boba Fett",
+    "reason": "too easy: iconic SW fact"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Color of Mace Windu's lightsaber?",
+    "a": "Purple",
+    "reason": "too easy: iconic purple saber"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who says Do or do not, there is no try?",
+    "a": "Yoda",
+    "reason": "too easy: iconic Yoda quote"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Planet destroyed by the Death Star?",
+    "a": "Alderaan",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who voices Darth Vader?",
+    "a": "James Earl Jones",
+    "reason": "too easy: universal SW knowledge"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What are Stormtroopers?",
+    "a": "The Empire's infantry soldiers in white armour",
+    "reason": "too easy: universal SW knowledge"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who is Princess Leia?",
+    "a": "A leader of the Rebel Alliance and later the Resistance — played by Carrie Fisher",
+    "reason": "too easy: universal SW knowledge"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the Rebel Alliance?",
+    "a": "The resistance movement fighting against the Galactic Empire",
+    "reason": "too easy: name explains it"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who shot first in the cantina?",
+    "a": "Han Solo (original version)",
+    "reason": "too easy: iconic SW meme/debate"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is a Jedi?",
+    "a": "A Force-sensitive member of the peacekeeping order serving the light side",
+    "reason": "too easy: definition question"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the Force?",
+    "a": "An energy field created by all living things that binds the galaxy together",
+    "reason": "too easy: iconic quote"
+  },
+  {
+    "cat": "star_wars",
+    "q": "What is the Galactic Empire?",
+    "a": "The authoritarian government that controls the galaxy after the fall of the Republic",
+    "reason": "too easy: definition question"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who is Yoda?",
+    "a": "A legendary Jedi Grand Master — one of the oldest and most powerful Jedi ever",
+    "reason": "too easy: universal SW knowledge"
+  },
+  {
+    "cat": "disney",
+    "q": "What does Hakuna Matata mean?",
+    "a": "No worries (in Swahili)",
+    "reason": "too easy: iconic Lion King phrase"
+  },
+  {
+    "cat": "disney",
+    "q": "What is the name of Aladdin's genie?",
+    "a": "The Genie — voiced by Robin Williams",
+    "reason": "too easy: name is literally Genie"
+  },
+  {
+    "cat": "disney",
+    "q": "What does Pinocchio want more than anything?",
+    "a": "To be a real boy",
+    "reason": "too easy: central plot point everyone knows"
+  },
+  {
+    "cat": "disney",
+    "q": "Who is Nemo's father?",
+    "a": "Marlin",
+    "reason": "too easy: surface Disney knowledge"
+  },
+  {
+    "cat": "disney",
+    "q": "What princess pricks her finger on a spindle?",
+    "a": "Aurora (Sleeping Beauty)",
+    "reason": "too easy: name leak (Sleeping Beauty in answer)"
+  },
+  {
+    "cat": "disney",
+    "q": "Who is the villain in Sleeping Beauty?",
+    "a": "Maleficent",
+    "reason": "too easy: universal Disney knowledge"
+  },
+  {
+    "cat": "disney",
+    "q": "What is Jasmine's pet tiger's name?",
+    "a": "Rajah",
+    "reason": "too easy: surface Disney knowledge"
+  },
+  {
+    "cat": "disney",
+    "q": "Who is Belle's father?",
+    "a": "Maurice",
+    "reason": "too easy: surface Disney knowledge"
+  },
+  {
+    "cat": "disney",
+    "q": "What is the name of the teacup in Beauty and the Beast?",
+    "a": "Chip",
+    "reason": "too easy: surface Disney knowledge"
+  },
+  {
+    "cat": "disney",
+    "q": "What does Mulan do in the film?",
+    "a": "She disguises herself as a man to take her father's place in the army",
+    "reason": "too easy: universal Disney plot"
+  },
+  {
+    "cat": "disney",
+    "q": "What is Stitch's experiment number?",
+    "a": "626",
+    "reason": "too easy: iconic Lilo & Stitch fact"
+  },
+  {
+    "cat": "anime",
+    "q": "What food is Naruto obsessed with?",
+    "a": "Ramen",
+    "reason": "too easy: surface anime knowledge"
+  },
+  {
+    "cat": "anime",
+    "q": "What pirate crew does Luffy lead?",
+    "a": "The Straw Hat Pirates",
+    "reason": "too easy: surface anime knowledge"
+  },
+  {
+    "cat": "anime",
+    "q": "What energy do ninjas use in Naruto?",
+    "a": "Chakra",
+    "reason": "too easy: surface anime knowledge"
+  },
+  {
+    "cat": "anime",
+    "q": "What sport is central to Haikyuu!!?",
+    "a": "Volleyball",
+    "reason": "too easy: in existing references"
+  },
+  {
+    "cat": "anime",
+    "q": "What anime follows Tanjiro Kamado fighting demons?",
+    "a": "Demon Slayer",
+    "reason": "too easy: name explains it (Demon+demons)"
+  },
+  {
+    "cat": "anime",
+    "q": "What anime features a rubber pirate named Luffy?",
+    "a": "One Piece",
+    "reason": "too easy: Luffy leak"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the name of Goku's signature attack?",
+    "a": "Kamehameha",
+    "reason": "too easy: iconic DBZ attack"
+  },
+  {
+    "cat": "anime",
+    "q": "What anime features a notebook that kills?",
+    "a": "Death Note",
+    "reason": "too easy: name leak (Death Note=notebook)"
+  },
+  {
+    "cat": "anime",
+    "q": "Who is the protagonist of Dragon Ball Z?",
+    "a": "Goku",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the name of Ash Ketchum's first Pokémon?",
+    "a": "Pikachu",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "anime",
+    "q": "What anime features a boy who becomes the #1 hero?",
+    "a": "My Hero Academia",
+    "reason": "too easy: name leak (Hero/#1)"
+  },
+  {
+    "cat": "anime",
+    "q": "What anime features a volleyball team at Karasuno?",
+    "a": "Haikyuu!!",
+    "reason": "too easy: duplicate of central Haikyuu Q"
+  },
+  {
+    "cat": "anime",
+    "q": "Who is the protagonist in Naruto?",
+    "a": "Naruto Uzumaki",
+    "reason": "too easy: name=show title"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the name of the pirate crew in One Piece?",
+    "a": "The Straw Hat Pirates",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "anime",
+    "q": "What does the Death Note do?",
+    "a": "Kills anyone whose name is written in it",
+    "reason": "too easy: name leak"
+  },
+  {
+    "cat": "anime",
+    "q": "What is the mascot Pokémon?",
+    "a": "Pikachu — Ash's electric mouse partner",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "anime",
+    "q": "What is Shonen anime?",
+    "a": "Anime aimed at young male audiences — featuring action, friendship, and self-improvement",
+    "reason": "too easy: definition question"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "How many Dragon Balls summon Shenron?",
+    "a": "7",
+    "reason": "too easy: iconic DBZ fact"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What planet was Goku sent from?",
+    "a": "Planet Vegeta",
+    "reason": "too easy: surface DBZ knowledge"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "Who is Goku's best friend since childhood?",
+    "a": "Krillin",
+    "reason": "too easy: surface DBZ knowledge"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is Goku's wife's name?",
+    "a": "Chi-Chi",
+    "reason": "too easy: surface DBZ knowledge"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "Who is Goku's oldest son?",
+    "a": "Gohan",
+    "reason": "too easy: surface DBZ knowledge"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is the green Namekian friend of Goku called?",
+    "a": "Piccolo",
+    "reason": "too easy: duplicate of Piccolo Q"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "How many Dragon Balls must you collect to summon Shenron?",
+    "a": "Seven",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is Goku's first transformation?",
+    "a": "Super Saiyan — triggered by rage over Krillin's death",
+    "reason": "too easy: iconic transformation"
+  },
+  {
+    "cat": "dragon_ball",
+    "q": "What is the Kamehameha?",
+    "a": "Goku's signature energy beam attack",
+    "reason": "too easy: duplicate across anime/DB"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What is the name of Luffy's crew?",
+    "a": "The Straw Hat Pirates",
+    "reason": "too easy: duplicate across cats"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What is Luffy's favorite food?",
+    "a": "Meat",
+    "reason": "too easy: surface One Piece knowledge"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What fruit gives Luffy his rubber powers in the live-action show?",
+    "a": "The Gum-Gum Fruit",
+    "reason": "too easy: name leak (rubber=Gum-Gum)"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "Which swordsman joins Luffy first?",
+    "a": "Zoro",
+    "reason": "too easy: universal One Piece knowledge"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "Which chef joins the crew from the Baratie?",
+    "a": "Sanji",
+    "reason": "too easy: surface One Piece knowledge"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "Who is Monkey D. Luffy?",
+    "a": "The captain of the Straw Hat Pirates — his dream is to find the One Piece and become King of the Pirates",
+    "reason": "too easy: name is in title"
+  },
+  {
+    "cat": "one_piece_show",
+    "q": "What did Luffy eat?",
+    "a": "The Gomu Gomu no Mi — making his body rubber",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What type is Pikachu?",
+    "a": "Electric",
+    "reason": "too easy: universal Pokemon knowledge"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What type is Charmander?",
+    "a": "Fire",
+    "reason": "too easy: Char=fire, name leak"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What region is Ash from?",
+    "a": "Kanto",
+    "reason": "too easy: surface Pokemon knowledge"
+  },
+  {
+    "cat": "pokemon",
+    "q": "Which duo chase Pikachu for Team Rocket?",
+    "a": "Jessie and James",
+    "reason": "too easy: iconic Team Rocket duo"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is Pikachu's evolved form?",
+    "a": "Raichu",
+    "reason": "too easy: surface Pokemon knowledge"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What sleeping Normal-type Pokemon blocks roads?",
+    "a": "Snorlax",
+    "reason": "too easy: iconic Snorlax"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What ball is guaranteed to catch a Pokemon?",
+    "a": "Master Ball",
+    "reason": "too easy: universal Pokemon fact"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What Pokemon can transform into other Pokemon?",
+    "a": "Ditto",
+    "reason": "too easy: iconic Ditto fact"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What Pokemon number in the original Pokedex is Mew?",
+    "a": "151",
+    "reason": "too easy: iconic Mew fact"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What does Pikachu evolve into?",
+    "a": "Raichu — using a Thunder Stone",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What are the three starter types?",
+    "a": "Fire, Water, and Grass",
+    "reason": "too easy: universal Pokemon knowledge"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What trio includes Squirtle, Charmander, and Bulbasaur?",
+    "a": "Kanto starters",
+    "reason": "too easy: the three starters leak"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the move Thunderbolt?",
+    "a": "Pikachu's signature special Electric attack",
+    "reason": "too easy: obvious"
+  },
+  {
+    "cat": "pokemon",
+    "q": "Who is Ash's main rival in the original series?",
+    "a": "Gary Oak",
+    "reason": "too easy: surface Pokemon knowledge"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is the Pokédex?",
+    "a": "A device that records information about every Pokémon encountered",
+    "reason": "too easy: definition"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What is Mewtwo?",
+    "a": "A genetically engineered Pokémon created from Mew's DNA — one of the most powerful Pokémon",
+    "reason": "too easy: duplicate of Mewtwo fact"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What does Team Rocket want?",
+    "a": "To steal rare Pokémon for their boss Giovanni",
+    "reason": "too easy: universal Pokemon fact"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What Pokemon was created from Mew's DNA?",
+    "a": "Mewtwo",
+    "reason": "too easy: Mew+two=Mewtwo, name leak"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What Pokemon is known for carrying a bone club?",
+    "a": "Cubone",
+    "reason": "too easy: name leak (Cu+bone=Cubone)"
+  },
+  {
+    "cat": "friends",
+    "q": "What is the name of the coffee shop the gang hang out in?",
+    "a": "Central Perk",
+    "reason": "too easy: iconic Friends location"
+  },
+  {
+    "cat": "friends",
+    "q": "What is Chandler's last name?",
+    "a": "Bing",
+    "reason": "too easy: surface Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "How many friends are in the main group?",
+    "a": "6",
+    "reason": "too easy: basic Friends count"
+  },
+  {
+    "cat": "friends",
+    "q": "Who does Ross marry in Vegas?",
+    "a": "Rachel",
+    "reason": "too easy: iconic Friends plot"
+  },
+  {
+    "cat": "friends",
+    "q": "What is Joey's catchphrase?",
+    "a": "How you doin'?",
+    "reason": "too easy: iconic Joey catchphrase"
+  },
+  {
+    "cat": "friends",
+    "q": "What is Monica's brother's name?",
+    "a": "Ross",
+    "reason": "too easy: universal Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "Who is Chandler's wife?",
+    "a": "Monica",
+    "reason": "too easy: surface Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "Who plays Monica Geller?",
+    "a": "Courteney Cox",
+    "reason": "too easy: universal Friends casting"
+  },
+  {
+    "cat": "friends",
+    "q": "Who plays Rachel Green?",
+    "a": "Jennifer Aniston",
+    "reason": "too easy: universal Friends casting"
+  },
+  {
+    "cat": "friends",
+    "q": "Who says How you doin?",
+    "a": "Joey Tribbiani",
+    "reason": "too easy: iconic catchphrase = Joey"
+  },
+  {
+    "cat": "friends",
+    "q": "What is Monica's job?",
+    "a": "Chef",
+    "reason": "too easy: surface Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "What is Phoebe's most famous song?",
+    "a": "Smelly Cat",
+    "reason": "too easy: iconic Phoebe song"
+  },
+  {
+    "cat": "friends",
+    "q": "Who does Monica marry?",
+    "a": "Chandler Bing",
+    "reason": "too easy: surface Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "Which city is Friends set in?",
+    "a": "New York City (Manhattan)",
+    "reason": "too easy: universal Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "How many seasons does Friends have?",
+    "a": "10 seasons (1994-2004)",
+    "reason": "too easy: universal Friends knowledge"
+  },
+  {
+    "cat": "friends",
+    "q": "Who plays Phoebe Buffay?",
+    "a": "Lisa Kudrow",
+    "reason": "too easy: universal Friends casting"
+  },
+  {
+    "cat": "friends",
+    "q": "What instrument does Phoebe often play?",
+    "a": "The guitar",
+    "reason": "too easy: iconic Phoebe fact"
+  },
+  {
+    "cat": "friends",
+    "q": "Who is Gunther?",
+    "a": "The manager of Central Perk who is hopelessly in love with Rachel",
+    "reason": "too easy: iconic Friends side character"
+  },
+  {
+    "cat": "friends",
+    "q": "What is Joey's famous acting role?",
+    "a": "Dr. Drake Ramoray on Days of Our Lives",
+    "reason": "too easy: duplicate (Dr. Drake Ramoray already in earlier Q)"
+  },
+  {
+    "cat": "the_office",
+    "q": "What city is the Dunder Mifflin branch in?",
+    "a": "Scranton",
+    "reason": "too easy: universal Office knowledge"
+  },
+  {
+    "cat": "the_office",
+    "q": "What crop does Dwight grow on his farm?",
+    "a": "Beets",
+    "reason": "too easy: iconic Office fact"
+  },
+  {
+    "cat": "the_office",
+    "q": "What does Dunder Mifflin sell?",
+    "a": "Paper",
+    "reason": "too easy: universal Office knowledge"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who is the receptionist in season 1?",
+    "a": "Pam Beesly",
+    "reason": "too easy: universal Office knowledge"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who plays Dwight Schrute?",
+    "a": "Rainn Wilson",
+    "reason": "too easy: universal Office casting"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who does Jim eventually marry?",
+    "a": "Pam",
+    "reason": "too easy: iconic Office plot"
+  },
+  {
+    "cat": "the_office",
+    "q": "What state is Scranton in?",
+    "a": "Pennsylvania",
+    "reason": "too easy: universal US geography"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who is the regional manager?",
+    "a": "Michael Scott",
+    "reason": "too easy: universal Office knowledge"
+  },
+  {
+    "cat": "the_office",
+    "q": "What is Michael Scott's catchphrase?",
+    "a": "That's what she said",
+    "reason": "too easy: iconic Office catchphrase"
+  },
+  {
+    "cat": "the_office",
+    "q": "Where is The Office set?",
+    "a": "Scranton, Pennsylvania",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who plays Michael Scott?",
+    "a": "Steve Carell",
+    "reason": "too easy: universal Office casting"
+  },
+  {
+    "cat": "the_office",
+    "q": "What is Angela's favorite animal?",
+    "a": "Cats",
+    "reason": "too easy: iconic Angela fact"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who is Michael's main rival at work?",
+    "a": "Toby Flenderson",
+    "reason": "too easy: universal Office fact"
+  },
+  {
+    "cat": "the_office",
+    "q": "What is Jim's classic prank on Dwight?",
+    "a": "Putting Dwight's belongings in Jell-O",
+    "reason": "too easy: iconic Office cold open"
+  },
+  {
+    "cat": "the_office",
+    "q": "What is Dwight's actual title?",
+    "a": "Assistant TO the Regional Manager",
+    "reason": "too easy: iconic Office running joke"
+  },
+  {
+    "cat": "the_office",
+    "q": "What school is Andy Bernard obsessed with?",
+    "a": "Cornell",
+    "reason": "too easy: iconic Andy Bernard running joke"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who is Dwight Schrute?",
+    "a": "The intense, loyal Assistant TO the Regional Manager and beet farmer",
+    "reason": "too easy: duplicate/definition"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What newspaper does Peter Parker work for?",
+    "a": "The Daily Bugle",
+    "reason": "too easy: iconic Spider-Man fact"
+  },
+  {
+    "cat": "spider_man",
+    "q": "Who is Peter Parker's aunt?",
+    "a": "Aunt May",
+    "reason": "too easy: aunt=Aunt May"
+  },
+  {
+    "cat": "spider_man",
+    "q": "Who raised Peter after his parents died?",
+    "a": "Aunt May and Uncle Ben",
+    "reason": "too easy: universal Spider-Man knowledge"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What quote defines Spider-Man's life?",
+    "a": "With great power comes great responsibility",
+    "reason": "too easy: iconic Spider-Man quote"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What device does Peter usually invent to shoot webs?",
+    "a": "Web-shooters",
+    "reason": "too easy: name=webs+shooters"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is Spider-Man's real name?",
+    "a": "Peter Parker",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "spider_man",
+    "q": "How did Peter get his powers?",
+    "a": "A radioactive spider bite during a school field trip",
+    "reason": "too easy: universal Spider-Man origin"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is Spider-Man's most famous quote?",
+    "a": "With great power comes great responsibility — said by Uncle Ben",
+    "reason": "too easy: duplicate of iconic quote"
+  },
+  {
+    "cat": "spider_man",
+    "q": "Who is Peter's red-haired love interest?",
+    "a": "Mary Jane Watson",
+    "reason": "too easy: universal Spider-Man knowledge"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What borough is Peter Parker from?",
+    "a": "Queens",
+    "reason": "too easy: universal Spider-Man knowledge"
+  },
+  {
+    "cat": "spider_man",
+    "q": "Who runs the Daily Bugle?",
+    "a": "J. Jonah Jameson",
+    "reason": "too easy: iconic Spider-Man character"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What villain is Otto Octavius?",
+    "a": "Doctor Octopus",
+    "reason": "too easy: Otto Octavius=Octopus name leak"
+  },
+  {
+    "cat": "spider_man",
+    "q": "Who is the Green Goblin?",
+    "a": "Norman Osborn — a scientist who becomes unhinged after taking an experimental formula",
+    "reason": "too easy: universal Spider-Man villain"
+  },
+  {
+    "cat": "spider_man",
+    "q": "What is the Daily Bugle?",
+    "a": "The newspaper where Peter works as a photographer — run by J. Jonah Jameson",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "himym",
+    "q": "Who is the main narrator of the show?",
+    "a": "Ted Mosby",
+    "reason": "too easy: central show premise"
+  },
+  {
+    "cat": "himym",
+    "q": "What is the name of Ted's best friend who loves suits?",
+    "a": "Barney Stinson",
+    "reason": "too easy: iconic HIMYM fact"
+  },
+  {
+    "cat": "himym",
+    "q": "What is Marshall's wife's name?",
+    "a": "Lily",
+    "reason": "too easy: surface HIMYM knowledge"
+  },
+  {
+    "cat": "himym",
+    "q": "What is the name of the bar the gang hangs out at?",
+    "a": "MacLaren's",
+    "reason": "too easy: iconic HIMYM location"
+  },
+  {
+    "cat": "himym",
+    "q": "What is Barney's catchphrase about something being awesome?",
+    "a": "Legendary",
+    "reason": "too easy: iconic Barney catchphrase"
+  },
+  {
+    "cat": "himym",
+    "q": "What is Ted's profession?",
+    "a": "Architect",
+    "reason": "too easy: surface HIMYM knowledge"
+  },
+  {
+    "cat": "himym",
+    "q": "Who is Ted telling the story of meeting their mother to?",
+    "a": "His kids",
+    "reason": "too easy: title literally tells you"
+  },
+  {
+    "cat": "himym",
+    "q": "What does Barney say when he wants Ted to change clothes?",
+    "a": "Suit up",
+    "reason": "too easy: iconic Barney catchphrase"
+  },
+  {
+    "cat": "himym",
+    "q": "Who is the womanizer of the group?",
+    "a": "Barney Stinson",
+    "reason": "too easy: iconic HIMYM character"
+  },
+  {
+    "cat": "himym",
+    "q": "What is Ted's last name?",
+    "a": "Mosby",
+    "reason": "too easy: surface HIMYM knowledge"
+  },
+  {
+    "cat": "himym",
+    "q": "Who is narrating the story to his kids?",
+    "a": "Future Ted Mosby",
+    "reason": "too easy: duplicate narrator Q"
+  },
+  {
+    "cat": "himym",
+    "q": "What bar does the group always meet at?",
+    "a": "MacLaren's Pub",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "himym",
+    "q": "Who is the womanizing suit-lover?",
+    "a": "Barney Stinson",
+    "reason": "too easy: triplicate"
+  },
+  {
+    "cat": "himym",
+    "q": "Who does Marshall marry?",
+    "a": "Lily Aldrin",
+    "reason": "too easy: duplicate"
+  },
+  {
+    "cat": "himym",
+    "q": "What is Ted looking for throughout the show?",
+    "a": "The Mother of his children",
+    "reason": "too easy: literally the show title"
+  },
+  {
+    "cat": "himym",
+    "q": "What city is How I Met Your Mother set in?",
+    "a": "New York City",
+    "reason": "too easy: surface knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of the Griffin family's talking dog?",
+    "a": "Brian",
+    "reason": "too easy: iconic Family Guy character"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of the Griffin baby?",
+    "a": "Stewie",
+    "reason": "too easy: iconic Family Guy character"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What town do the Griffins live in?",
+    "a": "Quahog",
+    "reason": "too easy: universal Family Guy fact"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is Peter Griffin's wife's name?",
+    "a": "Lois",
+    "reason": "too easy: surface Family Guy knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "Who created Family Guy?",
+    "a": "Seth MacFarlane",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of Peter and Lois's daughter?",
+    "a": "Meg",
+    "reason": "too easy: surface Family Guy knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of Peter's older son?",
+    "a": "Chris",
+    "reason": "too easy: surface Family Guy knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is Quagmire's catchphrase?",
+    "a": "Giggity",
+    "reason": "too easy: iconic Quagmire catchphrase"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is Stewie's primary catchphrase target?",
+    "a": "Lois (his mother)",
+    "reason": "too easy: surface knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "Who voices Peter, Brian, and Stewie?",
+    "a": "Seth MacFarlane",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What does Stewie usually want to do to Lois (his mother)?",
+    "a": "Kill her",
+    "reason": "too easy: iconic Stewie running gag"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What state is Quahog located in?",
+    "a": "Rhode Island",
+    "reason": "too easy: surface Family Guy knowledge"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What is the name of the perverted neighbor with the catchphrase 'Giggity'?",
+    "a": "Glenn Quagmire",
+    "reason": "too easy: Giggity=Quagmire in next Q"
+  },
+  {
+    "cat": "family_guy",
+    "q": "What network airs Family Guy?",
+    "a": "Fox",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of the family patriarch played by Ed O'Neill?",
+    "a": "Jay Pritchett",
+    "reason": "too easy: central character question"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is Jay's young Colombian wife's name?",
+    "a": "Gloria",
+    "reason": "too easy: universal Modern Family fact"
+  },
+  {
+    "cat": "modern_family",
+    "q": "Who plays Gloria?",
+    "a": "Sofía Vergara",
+    "reason": "too easy: universal Modern Family casting"
+  },
+  {
+    "cat": "modern_family",
+    "q": "Who is Phil Dunphy's wife?",
+    "a": "Claire",
+    "reason": "too easy: surface Modern Family knowledge"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What city is the show set in?",
+    "a": "Los Angeles",
+    "reason": "too easy: surface Modern Family knowledge"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of Cameron and Mitchell's adopted daughter?",
+    "a": "Lily",
+    "reason": "too easy: surface Modern Family knowledge"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of Mitchell and Cameron's adopted daughter?",
+    "a": "Lily",
+    "reason": "too easy: duplicate of above"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is Gloria's home country?",
+    "a": "Colombia",
+    "reason": "too easy: in question (Colombian wife) — leak"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What language does Gloria speak besides English?",
+    "a": "Spanish",
+    "reason": "too easy: obvious from being Colombian"
+  },
+  {
+    "cat": "modern_family",
+    "q": "Who plays Claire Dunphy?",
+    "a": "Julie Bowen",
+    "reason": "too easy: universal Modern Family casting"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What network aired Modern Family?",
+    "a": "ABC",
+    "reason": "too easy: universal knowledge"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is the name of Phil and Claire's three children?",
+    "a": "Haley, Alex, and Luke",
+    "reason": "too easy: surface Modern Family knowledge"
+  },
+  {
+    "cat": "modern_family",
+    "q": "What is Claire Dunphy's maiden name?",
+    "a": "Pritchett",
+    "reason": "too easy: Jay Pritchett=her father, obvious"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have hands but cannot clap. I have a face but no eyes. What am I?",
+    "a": "A clock",
+    "reason": "too easy: classic kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I am tall when young and short when old. You burn me to light the dark. What am I?",
+    "a": "A candle",
+    "reason": "too easy: classic kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "The more you take, the more you leave behind. What am I?",
+    "a": "Footsteps",
+    "reason": "too easy: classic riddle everyone knows"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "What has four legs but doesn't walk?",
+    "a": "A table",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "What must be broken before you can use it?",
+    "a": "An egg",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "The more I dry, the wetter I get. What am I?",
+    "a": "A towel",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "What goes up but never comes down?",
+    "a": "Age",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I follow you all day but disappear when night falls. What am I?",
+    "a": "A shadow",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have a head and a tail but no body. What am I?",
+    "a": "A coin",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have a neck but no head. I may be filled with drink. What am I?",
+    "a": "A bottle",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have many teeth but cannot bite. I help neaten your hair. What am I?",
+    "a": "A comb",
+    "reason": "too easy: kindergarten riddle with hair leak"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have a thumb and four fingers but I am not alive. What am I?",
+    "a": "A glove",
+    "reason": "too easy: obvious (thumb+fingers=glove)"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have an eye but cannot see. I am small and pointy. What am I?",
+    "a": "A needle",
+    "reason": "too easy: classic needle riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I am full of holes but still hold water. What am I?",
+    "a": "A sponge",
+    "reason": "too easy: kindergarten riddle"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I have teeth but cannot eat. I keep clothes closed. What am I?",
+    "a": "A zipper",
+    "reason": "too easy: obvious (teeth+clothes=zipper)"
+  },
+  {
+    "cat": "who_what_am_i",
+    "q": "I am always in front of you but can never be seen. What am I?",
+    "a": "The future",
+    "reason": "too easy: common riddle"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What is Hector's middle name?",
+    "a": "Hector Salamanca has no revealed middle name",
+    "reason": "answer is a dodge/non-answer: \"Hector Salamanca has no revealed middle name\""
+  },
+  {
+    "cat": "harry_potter",
+    "q": "Who was the original owner of the Elder Wand's phoenix feather core?",
+    "a": "It has a Thestral tail hair core",
+    "reason": "asked 'who/which person', answer starts 'It has/is/...' (not a person)"
+  },
+  {
+    "cat": "the_office",
+    "q": "Who designed the opening sequence?",
+    "a": "It uses real footage of the actual Scranton, Pennsylvania — creating authenticity for the mockumentary",
+    "reason": "asked 'who/which person', answer starts 'It has/is/...' (not a person)"
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "Who is the tough guy Jesse befriends in rehab briefly?",
+    "a": "Jesse doesn't go to rehab with one",
+    "reason": "answer is a dodge/non-answer: \"Jesse doesn't go to rehab with one\""
+  },
+  {
+    "cat": "breaking_bad",
+    "q": "What vehicle do the cousins crawl toward in the opening shrine?",
+    "a": "They crawl to a shrine",
+    "reason": "asked 'what <noun>', answer uses pronoun + verb, doesn't name it"
   }
 ];
 

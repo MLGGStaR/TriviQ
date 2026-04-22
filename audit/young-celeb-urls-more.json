@@ -1,0 +1,407 @@
+{
+  "category": "guess_young_celebrity",
+  "description": "ADDITIONAL young/early-career photos of celebrities hosted on Wikimedia Commons. All URLs resolved via the Commons MediaWiki imageinfo API and HEAD-checked to return 200 with image/* content-type. Every file is public domain or CC-licensed. Backfill to supplement audit/young-celeb-urls.json.",
+  "generatedAt": "2026-04-22",
+  "celebrities": [
+    {
+      "name": "John Travolta",
+      "wiki": "John_Travolta",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Welcome_Back_Kotter_John_Travolta_1976.jpg",
+      "description": "John Travolta in a publicity photo for ABC's Welcome Back, Kotter in 1976 (age 21-22)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Arnold Schwarzenegger",
+      "wiki": "Arnold_Schwarzenegger",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Arnold_Schwarzenegger_1974.jpg",
+      "description": "Arnold Schwarzenegger bodybuilding in 1974 before his fifth Mr. Olympia title (age 27)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Sylvester Stallone",
+      "wiki": "Sylvester_Stallone",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sylvester_Stallone_-_1977.jpg",
+      "description": "Sylvester Stallone in 1977 at the Ken Norton vs. Duane Bobick boxing match, during the Rocky era (age 31)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Robert De Niro",
+      "wiki": "Robert_De_Niro",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Movie_trailer_screenshot_of_Robert_D_Niro_in_Mean_Streets_%281973%29.png",
+      "description": "Robert De Niro in the trailer for Mean Streets, 1973 (age 30)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Al Pacino",
+      "wiki": "Al_Pacino",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Pacino_as_Serpico_in_1973.jpg",
+      "description": "Al Pacino as Serpico in 1973 (age 33)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Jack Nicholson",
+      "wiki": "Jack_Nicholson",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Jack_Nicholson_-_1976_%28new%29.jpg",
+      "description": "Jack Nicholson in 1976 after being Oscar-nominated for One Flew Over the Cuckoo's Nest (age 38)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Jane Fonda",
+      "wiki": "Jane_Fonda",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Jane_Fonda_1963.jpg",
+      "description": "Jane Fonda publicity photo for Sunday in New York, 1963 (age 25)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Meryl Streep",
+      "wiki": "Meryl_Streep",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Meryl_Streep_%22Uncommon_Women_and_Others%22_%281978_PBS_press_photo%29.jpg",
+      "description": "Meryl Streep in the 1978 PBS Great Performances presentation of Uncommon Women and Others (age 29)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Harrison Ford",
+      "wiki": "Harrison_Ford",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7b/HarrisonFordYoung.png",
+      "description": "Harrison Ford in the late 1970s, during his original Star Wars era",
+      "license": "CC BY-SA 4.0",
+      "tier": 200
+    },
+    {
+      "name": "Clint Eastwood",
+      "wiki": "Clint_Eastwood",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Clint_Eastwood_-_1960s.JPG",
+      "description": "Clint Eastwood in a 1964 publicity photo for A Fistful of Dollars (age 34)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Sean Connery",
+      "wiki": "Sean_Connery",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Sean_Connery_1965_%28cropped_A%29.jpg",
+      "description": "Sean Connery in 1965 during production of the James Bond film Thunderball (age 35)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Paul Newman",
+      "wiki": "Paul_Newman",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Paul_Newman_1954.JPG",
+      "description": "Paul Newman studio publicity photo, 1954 (age 29)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Robert Redford",
+      "wiki": "Robert_Redford",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Robert_Redford_Barefoot_in_the_park.jpg",
+      "description": "Robert Redford in Barefoot in the Park, 1967 (age 30)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Steve McQueen",
+      "wiki": "Steve_McQueen_(actor)",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Steve-McQueen-1968.jpg",
+      "description": "Steve McQueen in The Thomas Crown Affair, 1968 (age 38)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Sugar Ray Leonard",
+      "wiki": "Sugar_Ray_Leonard",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/43/Sugar_Ray_Leonard_1989.jpg",
+      "description": "Sugar Ray Leonard training for his fight with Tommy Hearns, 1989 (age 33)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Mike Tyson",
+      "wiki": "Mike_Tyson",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/89/Mike_Tyson_in_1987_cropped.jpg",
+      "description": "Mike Tyson portrait from KO Magazine, December 1987 (age 21, heavyweight champion)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Ronald Reagan",
+      "wiki": "Ronald_Reagan",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ronald_Reagan_in_Dark_Victory_trailer.jpg",
+      "description": "Ronald Reagan in the trailer for the 1939 film Dark Victory, during his Hollywood acting career (age 28)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "JFK Jr.",
+      "wiki": "John_F._Kennedy_Jr.",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/df/JFK_Jr_in_the_1975_Collegiate_school_yearbook.jpg",
+      "description": "John F. Kennedy Jr. as a ninth grader in the 1975 Collegiate School yearbook (age 14)",
+      "license": "Public domain",
+      "tier": 200
+    },
+    {
+      "name": "Will Smith",
+      "wiki": "Will_Smith",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Will_Smith_-_Emmy_Awards_1993.jpg",
+      "description": "Will Smith on the red carpet at the 1993 Emmy Awards, during The Fresh Prince era (age 24)",
+      "license": "CC BY 2.0",
+      "tier": 200
+    },
+    {
+      "name": "Morgan Freeman",
+      "wiki": "Morgan_Freeman",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Freeman_%26_Colley-Lee.jpg",
+      "description": "Morgan Freeman with his wife and daughter at the 1990 Academy Awards, during his breakout-film era (age 52)",
+      "license": "CC BY 2.0",
+      "tier": 200
+    },
+    {
+      "name": "Stephen Hawking",
+      "wiki": "Stephen_Hawking",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg",
+      "description": "Stephen Hawking, NASA StarChild image circa 1980 (age ~38)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Nelson Mandela",
+      "wiki": "Nelson_Mandela",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Young_Mandela.jpg",
+      "description": "Nelson Mandela in Umtata at age 19, 1937",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "wiki": "Mahatma_Gandhi",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Gandhi_student_full.jpg",
+      "description": "Gandhi as a law student in London, 1890s (age ~21)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Abraham Lincoln",
+      "wiki": "Abraham_Lincoln",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Abraham_Lincoln_1860.jpg",
+      "description": "Abraham Lincoln, beardless portrait taken February 27, 1860 before his Cooper Union address (age 51, pre-presidency)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Maya Angelou",
+      "wiki": "Maya_Angelou",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Portrait_photograph_of_Maya_Angelou_by_Henry_Monroe_from_the_1969_first-edition_dust_jacket_of_I_Know_Why_the_Caged_Bird_Sings.png",
+      "description": "Maya Angelou portrait from the 1969 first-edition dust jacket of I Know Why the Caged Bird Sings (age 41)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Rosa Parks",
+      "wiki": "Rosa_Parks",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Rosa_Parks_1955.jpg",
+      "description": "Rosa Parks at Circuit Court during the Montgomery Bus Boycott, February 1956 (age 43, at her historic moment)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Angela Davis",
+      "wiki": "Angela_Davis",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Angela_Davis_enters_Royce_Hall_for_first_lecture_October_7_1969.jpg",
+      "description": "Angela Davis entering Royce Hall at UCLA for her first philosophy lecture, October 1969 (age 25)",
+      "license": "CC BY 3.0",
+      "tier": 400
+    },
+    {
+      "name": "Malcolm X",
+      "wiki": "Malcolm_X",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/11/Malcolm_X_mugshot_1944.jpg",
+      "description": "Malcolm X in his 1944 mugshot (age ~19, pre-conversion)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Che Guevara",
+      "wiki": "Che_Guevara",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Che_Guevara_-_ca._1945.jpg",
+      "description": "Ernesto 'Che' Guevara portrait circa 1945 (age ~17)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Fidel Castro",
+      "wiki": "Fidel_Castro",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Fidel_Castro_under_arrest_after_the_Moncada_attack.jpg",
+      "description": "Fidel Castro under arrest after the July 1953 Moncada Barracks attack (age 26)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "wiki": "Martin_Luther_King_Jr.",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/MLK_mugshot_birmingham.jpg",
+      "description": "Martin Luther King Jr. mugshot following his 1963 arrest in Birmingham (age 34)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Anne Frank",
+      "wiki": "Anne_Frank",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/AnneFrank1940_crop.jpg",
+      "description": "Anne Frank at the 6. Montessorischool in Amsterdam, 1940 (age 10-11)",
+      "license": "Public domain",
+      "tier": 400
+    },
+    {
+      "name": "Charlie Chaplin",
+      "wiki": "Charlie_Chaplin",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Chaplin_and_Purviance_in_Work.jpg",
+      "description": "Charlie Chaplin with Edna Purviance in the 1915 Essanay film Work (age 26)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Buster Keaton",
+      "wiki": "Buster_Keaton",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Busterkeaton_edit.jpg",
+      "description": "Buster Keaton circa 1920 (age ~25)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Orson Welles",
+      "wiki": "Orson_Welles",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Orson_Welles_1937_cr3-4.jpg",
+      "description": "Orson Welles photographed by Carl Van Vechten, March 1, 1937 (age 21, pre-Citizen Kane)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Humphrey Bogart",
+      "wiki": "Humphrey_Bogart",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Humphrey_Bogart_yearbook_photo_-_1918.jpg",
+      "description": "Humphrey Bogart in military uniform, yearbook photo taken November 1918 (age 19)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "James Dean",
+      "wiki": "James_Dean",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/James_Dean_in_Rebel_Without_a_Cause_%28HQ%29.jpg",
+      "description": "James Dean publicity still for Rebel Without a Cause, 1955 (age 24)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Marlon Brando",
+      "wiki": "Marlon_Brando",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Marlon_Brando%2C_photogaphed_by_Carl_Van_Vechten%2C_1948.jpg",
+      "description": "Marlon Brando photographed by Carl Van Vechten in A Streetcar Named Desire, December 1948 (age 24)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Laurence Olivier",
+      "wiki": "Laurence_Olivier",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/57/Laurence_Olivier_%28borders_removed%29.jpg",
+      "description": "Laurence Olivier photographed by Carl Van Vechten, June 17, 1939 (age 32)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Ingrid Bergman",
+      "wiki": "Ingrid_Bergman",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Ingrid_Bergman_at_age_14.jpg",
+      "description": "Ingrid Bergman at age 14, 1929",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Katharine Hepburn",
+      "wiki": "Katharine_Hepburn",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Katharine_Hepburn_yearbook_photo.jpg",
+      "description": "Katharine Hepburn's 1928 Bryn Mawr College yearbook photo (age 21)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Grace Kelly",
+      "wiki": "Grace_Kelly",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Grace_Kelly_-_Studio_portrait_%281953%29.png",
+      "description": "Grace Kelly studio publicity portrait for Dial M for Murder, 1953 (age 24)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Vivien Leigh",
+      "wiki": "Vivien_Leigh",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Vivien_Leigh_Gone_Wind_Restored.jpg",
+      "description": "Vivien Leigh in the trailer for Gone with the Wind, 1939 (age 26)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Rita Hayworth",
+      "wiki": "Rita_Hayworth",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Rita-Hayworth-Fox-1935.jpg",
+      "description": "Rita Hayworth (as Rita Cansino) contract player at Fox Films, June 1935 (age 16)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Lauren Bacall",
+      "wiki": "Lauren_Bacall",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lauren_Bacall_1945_press_photo.jpg",
+      "description": "Lauren Bacall 1945 press photo (age 20-21)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Judy Garland",
+      "wiki": "Judy_Garland",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Portrait_photo_of_Garland_circa_1936.png",
+      "description": "Judy Garland publicity photo for Pigskin Parade, 1936 (age 14)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Greta Garbo",
+      "wiki": "Greta_Garbo",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Greta_Garbo_in_G%C3%B6sta_Berlings_Saga_1924_cropped.jpg",
+      "description": "Greta Garbo in Gösta Berlings Saga, her first major role, 1924 (age 18-19)",
+      "license": "Public domain",
+      "tier": 600
+    },
+    {
+      "name": "Clark Gable",
+      "wiki": "Clark_Gable",
+      "youngImageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/07/Gable-Harlow.JPG",
+      "description": "Clark Gable with Jean Harlow in the 1933 film Hold Your Man (age 32)",
+      "license": "Public domain",
+      "tier": 600
+    }
+  ],
+  "skipped": [
+    {"name": "Denzel Washington", "reason": "No public-domain or CC-licensed young/early-career photo found on Wikimedia Commons"},
+    {"name": "Samuel L. Jackson", "reason": "No public-domain or CC-licensed young/early-career photo found on Wikimedia Commons"},
+    {"name": "Martin Scorsese", "reason": "No public-domain/CC young-era photo on Commons; earliest is 1990"},
+    {"name": "Francis Ford Coppola", "reason": "Only 1973 formal portrait and later; no distinctive young-era image with clear PD/CC"},
+    {"name": "George Lucas", "reason": "No young/early-career photo available on Commons (earliest is 1986)"},
+    {"name": "Steven Spielberg", "reason": "No young/early-career photo on Commons (earliest is 1982 Reagan meeting)"},
+    {"name": "Alexander the Great", "reason": "Not applicable: no authentic young photos exist (ancient figure)"},
+    {"name": "Abraham Lincoln (young)", "reason": "Earlier daguerreotype exists (1846, Nicholas Shepherd) but file title on Commons could not be verified exactly; using 1860 beardless Cooper Union portrait as pre-presidency young photo"}
+  ],
+  "countsByTier": {
+    "200": 20,
+    "400": 12,
+    "600": 16,
+    "total": 48
+  }
+}

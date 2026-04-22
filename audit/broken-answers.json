@@ -1,0 +1,517 @@
+{
+  "count": 64,
+  "broken": [
+    {
+      "cat": "ark_survival",
+      "tier": 600,
+      "q": "What exact amount of narcoberry knocks out most small creatures?",
+      "a": "Varies",
+      "reason": "answer is a dodge/non-answer: \"Varies\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "big_bang_theory",
+      "tier": 600,
+      "q": "What eggnog brand does Sheldon love in one episode?",
+      "a": "None specific",
+      "reason": "answer is a dodge/non-answer: \"None specific\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "tier": 600,
+      "q": "What is Hector's middle name?",
+      "a": "Hector Salamanca has no revealed middle name",
+      "reason": "answer is a dodge/non-answer: \"Hector Salamanca has no revealed middle name\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "tier": 600,
+      "q": "What song does Todd's uncle Jack keep playing?",
+      "a": "No specific song",
+      "reason": "answer is a dodge/non-answer: \"No specific song\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "brooklyn_99",
+      "tier": 600,
+      "q": "Amy's brother David is played by?",
+      "a": "None specified",
+      "reason": "answer is a dodge/non-answer: \"None specified\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "cobra_kai",
+      "tier": 600,
+      "q": "What song plays over training montages inspired by 80s?",
+      "a": "Varies",
+      "reason": "answer is a dodge/non-answer: \"Varies\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "cobra_kai",
+      "tier": 600,
+      "q": "Tory's foster father later appears as which character?",
+      "a": "None prominent",
+      "reason": "answer is a dodge/non-answer: \"None prominent\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "cobra_kai",
+      "tier": 600,
+      "q": "Who were the three masters of Okinawan karate referenced in Part II?",
+      "a": "Not explicitly named; Miyagi-Do lineage",
+      "reason": "answer is a dodge/non-answer: \"Not explicitly named; Miyagi-Do lineage\"",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "cat": "dexter",
+      "tier": 600,
+      "q": "How many people has Trinity killed over decades?",
+      "a": "Dozens",
+      "reason": "asked 'how many', answer has no number/quantity",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "disney",
+      "tier": 600,
+      "q": "Who is the villain in Encanto?",
+      "a": "There is no traditional villain",
+      "reason": "answer is a dodge/non-answer: \"There is no traditional villain\"",
+      "file": "megaNewExpansions"
+    },
+    {
+      "cat": "family_guy",
+      "tier": 600,
+      "q": "What is the name of Quahog's airport?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "friends",
+      "tier": 600,
+      "q": "What is the real cafe location used for exterior Central Perk shots?",
+      "a": "None exterior",
+      "reason": "answer is a dodge/non-answer: \"None exterior\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "harry_potter",
+      "tier": 600,
+      "q": "Who was the original owner of the Elder Wand's phoenix feather core?",
+      "a": "It has a Thestral tail hair core",
+      "reason": "asked 'who/which person', answer starts 'It has/is/...' (not a person)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 600,
+      "q": "What is the name of Robin's dog she names?",
+      "a": "None famous",
+      "reason": "answer is a dodge/non-answer: \"None famous\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 600,
+      "q": "What is the name of Robin's horse shed?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 600,
+      "q": "What is the name of Marshalls pet dog mentioned briefly?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 600,
+      "q": "What nickname does Marshall give to the Empire State Building?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What is the name of Mitchell's law firm early on?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What is the name of Jay's mother who passes away?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What is the high school Haley attends?",
+      "a": "None specific",
+      "reason": "answer is a dodge/non-answer: \"None specific\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What is the ski lodge resort family trip location?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What fraternity was Phil in?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "Who is the French chef in an episode Jay hires?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "Who played Manny's biological grandfather?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What reality show does Haley audition for?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What airline does Jay avoid flying?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What is the Dunphy's street address?",
+      "a": "None specific",
+      "reason": "answer is a dodge/non-answer: \"None specific\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 600,
+      "q": "What team does Phil coach in little league?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "pop_culture",
+      "tier": 600,
+      "q": "Who created the 'Shrek is Love, Shrek is Life' meme era?",
+      "a": "4chan",
+      "reason": "asked 'who <action>', answer has no named person",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "solo_leveling",
+      "tier": 600,
+      "q": "What year does Jin-Woo reset time to?",
+      "a": "Ten years prior",
+      "reason": "asked for year, answer has no digits",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 600,
+      "q": "What is the name of Erin's biological mother revealed late?",
+      "a": "None revealed",
+      "reason": "answer is a dodge/non-answer: \"None revealed\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 600,
+      "q": "What is the title of Andy's a cappella album?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 600,
+      "q": "What real building's exterior is used for Dunder Mifflin Scranton?",
+      "a": "None real",
+      "reason": "answer is a dodge/non-answer: \"None real\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 600,
+      "q": "Who designed the opening sequence?",
+      "a": "It uses real footage of the actual Scranton, Pennsylvania — creating authenticity for the mockumentary",
+      "reason": "asked 'who/which person', answer starts 'It has/is/...' (not a person)",
+      "file": "App"
+    },
+    {
+      "cat": "the_rookie",
+      "tier": 600,
+      "q": "What author wrote the in-universe book about Rosalind?",
+      "a": "Unknown author",
+      "reason": "answer is a dodge/non-answer: \"Unknown author\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_walking_dead",
+      "tier": 600,
+      "q": "How many years is Negan in prison?",
+      "a": "Several",
+      "reason": "answer is a dodge/non-answer: \"Several\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "anime",
+      "tier": 400,
+      "q": "What is the rank above S-class in One Punch Man?",
+      "a": "There isn't one",
+      "reason": "answer is a dodge/non-answer: \"There isn't one\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "blacklist",
+      "tier": 400,
+      "q": "How many bags are shown with bones?",
+      "a": "Duffel bag",
+      "reason": "asked 'how many', answer has no number/quantity",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "tier": 400,
+      "q": "Who is the tough guy Jesse befriends in rehab briefly?",
+      "a": "Jesse doesn't go to rehab with one",
+      "reason": "answer is a dodge/non-answer: \"Jesse doesn't go to rehab with one\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "tier": 400,
+      "q": "What vehicle do the cousins crawl toward in the opening shrine?",
+      "a": "They crawl to a shrine",
+      "reason": "asked 'what <noun>', answer uses pronoun + verb, doesn't name it",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "brooklyn_99",
+      "tier": 400,
+      "q": "What is the name of the restaurant Boyle's cousin runs?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "family_guy",
+      "tier": 400,
+      "q": "What instrument does Peter play in the band?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "family_guy",
+      "tier": 400,
+      "q": "What disease does Brian reveal he has in later seasons?",
+      "a": "None revealed",
+      "reason": "answer is a dodge/non-answer: \"None revealed\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "family_guy",
+      "tier": 400,
+      "q": "What is the name of Stewie's half-brother from the future?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "family_guy",
+      "tier": 400,
+      "q": "What is the name of Peters childhood invisible friend?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "friends",
+      "tier": 400,
+      "q": "What song does Ross play badly on keyboard?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 400,
+      "q": "What is the name of the fictional restaurant Lily eats every week?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 400,
+      "q": "What is Marshalls favorite monster movie?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "invincible",
+      "tier": 400,
+      "q": "What century did the Immortal live in?",
+      "a": "Multiple",
+      "reason": "answer is a dodge/non-answer: \"Multiple\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 400,
+      "q": "What town is Cam's hometown?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 400,
+      "q": "What is Lily's middle name?",
+      "a": "None specific",
+      "reason": "answer is a dodge/non-answer: \"None specific\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 400,
+      "q": "Who is Manny's high school girlfriend Sherry?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 400,
+      "q": "Which friend of Claire often visits?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 400,
+      "q": "What is the name of Mitchells coworker who appeared several times?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 400,
+      "q": "What is the name of Michael's condo complex?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "valorant",
+      "tier": 400,
+      "q": "What is the credit given per round regardless of outcome?",
+      "a": "Varies",
+      "reason": "answer is a dodge/non-answer: \"Varies\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "brooklyn_99",
+      "tier": 200,
+      "q": "Jake was named Detective of the Year how many times?",
+      "a": "Multiple",
+      "reason": "answer is a dodge/non-answer: \"Multiple\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "family_guy",
+      "tier": 200,
+      "q": "What is Joe's dog's name?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "himym",
+      "tier": 200,
+      "q": "What type of dance class does Lily attend?",
+      "a": "None iconic",
+      "reason": "answer is a dodge/non-answer: \"None iconic\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "modern_family",
+      "tier": 200,
+      "q": "How old is Jay compared to Gloria approximately?",
+      "a": "Much older",
+      "reason": "asked 'how old', answer has no age",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 200,
+      "q": "What is the name of Michael's improv group?",
+      "a": "None official",
+      "reason": "answer is a dodge/non-answer: \"None official\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 200,
+      "q": "What fictional character does Dwight most admire?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_office",
+      "tier": 200,
+      "q": "Which coworker always eats yogurt sensually?",
+      "a": "None specifically",
+      "reason": "answer is a dodge/non-answer: \"None specifically\"",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "vikings",
+      "tier": 200,
+      "q": "What is Ragnar's eldest son who is blind initially?",
+      "a": "Ivar is paralyzed, not blind",
+      "reason": "answer denies a premise word from question (\"blind\")",
+      "file": "qualityBackfill"
+    }
+  ]
+}

@@ -2982,6 +2982,9 @@ const RAW_BANK = {
     {q:"I return every 27 years to feed on fear and often wear a clown's smile",a:"Pennywise",wiki:"Pennywise_(character)"},
     {q:"I build an empire out of newspapers, vanity, and one word: Rosebud",a:"Charles Foster Kane",wiki:"Charles_Foster_Kane"},
     {q:"Yippee-ki-yay - I'm the cop who keeps surviving impossible situations in the wrong place at the wrong time",a:"John McClane",wiki:"John_McClane"},
+    {q:"I run a secret hotel for assassins where gold coins are currency.",a:"Winston Scott",wiki:"John_Wick"},
+    {q:"I am a polite but violent hitman who quotes Ezekiel 25:17.",a:"Jules Winnfield",wiki:"Jules_Winnfield"},
+    {q:"I am the retired Spartan king who fights 300 strong at Thermopylae.",a:"King Leonidas",wiki:"Leonidas_I"},
   ],
   },
 
@@ -3190,6 +3193,26 @@ const RAW_BANK = {
     {q:"Guess the celebrity from this young photo",a:"Marilyn Monroe",wiki:"Young_Marilyn_Monroe"},
     {q:"Guess the celebrity from this young photo",a:"Elizabeth Taylor",wiki:"Young_Elizabeth_Taylor"},
     {q:"Guess the celebrity from this young photo",a:"Michael Jordan",wiki:"Young_Michael_Jordan"},
+    {q:"Guess the celebrity from this young photo",a:"John Travolta",wiki:"Young_John_Travolta"},
+    {q:"Guess the celebrity from this young photo",a:"Arnold Schwarzenegger",wiki:"Young_Arnold_Schwarzenegger"},
+    {q:"Guess the celebrity from this young photo",a:"Sylvester Stallone",wiki:"Young_Sylvester_Stallone"},
+    {q:"Guess the celebrity from this young photo",a:"Robert De Niro",wiki:"Young_Robert_De_Niro"},
+    {q:"Guess the celebrity from this young photo",a:"Al Pacino",wiki:"Young_Al_Pacino"},
+    {q:"Guess the celebrity from this young photo",a:"Jack Nicholson",wiki:"Young_Jack_Nicholson"},
+    {q:"Guess the celebrity from this young photo",a:"Jane Fonda",wiki:"Young_Jane_Fonda"},
+    {q:"Guess the celebrity from this young photo",a:"Meryl Streep",wiki:"Young_Meryl_Streep"},
+    {q:"Guess the celebrity from this young photo",a:"Harrison Ford",wiki:"Young_Harrison_Ford"},
+    {q:"Guess the celebrity from this young photo",a:"Clint Eastwood",wiki:"Young_Clint_Eastwood"},
+    {q:"Guess the celebrity from this young photo",a:"Sean Connery",wiki:"Young_Sean_Connery"},
+    {q:"Guess the celebrity from this young photo",a:"Paul Newman",wiki:"Young_Paul_Newman"},
+    {q:"Guess the celebrity from this young photo",a:"Robert Redford",wiki:"Young_Robert_Redford"},
+    {q:"Guess the celebrity from this young photo",a:"Steve McQueen",wiki:"Young_Steve_McQueen"},
+    {q:"Guess the celebrity from this young photo",a:"Sugar Ray Leonard",wiki:"Young_Sugar_Ray_Leonard"},
+    {q:"Guess the celebrity from this young photo",a:"Mike Tyson",wiki:"Young_Mike_Tyson"},
+    {q:"Guess the celebrity from this young photo",a:"Ronald Reagan",wiki:"Young_Ronald_Reagan"},
+    {q:"Guess the celebrity from this young photo",a:"JFK Jr.",wiki:"Young_JFK_Jr"},
+    {q:"Guess the celebrity from this young photo",a:"Will Smith",wiki:"Young_Will_Smith"},
+    {q:"Guess the celebrity from this young photo",a:"Morgan Freeman",wiki:"Young_Morgan_Freeman"},
   ],
   400:[
     {q:"Guess the celebrity from this young photo",a:"Princess Diana",wiki:"Young_Princess_Diana"},
@@ -3212,6 +3235,18 @@ const RAW_BANK = {
     {q:"Guess the celebrity from this young photo",a:"Bill Gates",wiki:"Young_Bill_Gates"},
     {q:"Guess the celebrity from this young photo",a:"Mark Zuckerberg",wiki:"Young_Mark_Zuckerberg"},
     {q:"Guess the celebrity from this young photo",a:"Lionel Messi",wiki:"Young_Lionel_Messi"},
+    {q:"Guess the celebrity from this young photo",a:"Stephen Hawking",wiki:"Young_Stephen_Hawking"},
+    {q:"Guess the celebrity from this young photo",a:"Nelson Mandela",wiki:"Young_Nelson_Mandela"},
+    {q:"Guess the celebrity from this young photo",a:"Mahatma Gandhi",wiki:"Young_Mahatma_Gandhi"},
+    {q:"Guess the celebrity from this young photo",a:"Abraham Lincoln",wiki:"Young_Abraham_Lincoln"},
+    {q:"Guess the celebrity from this young photo",a:"Maya Angelou",wiki:"Young_Maya_Angelou"},
+    {q:"Guess the celebrity from this young photo",a:"Rosa Parks",wiki:"Young_Rosa_Parks"},
+    {q:"Guess the celebrity from this young photo",a:"Angela Davis",wiki:"Young_Angela_Davis"},
+    {q:"Guess the celebrity from this young photo",a:"Malcolm X",wiki:"Young_Malcolm_X"},
+    {q:"Guess the celebrity from this young photo",a:"Che Guevara",wiki:"Young_Che_Guevara"},
+    {q:"Guess the celebrity from this young photo",a:"Fidel Castro",wiki:"Young_Fidel_Castro"},
+    {q:"Guess the celebrity from this young photo",a:"Martin Luther King Jr.",wiki:"Young_Martin_Luther_King_Jr"},
+    {q:"Guess the celebrity from this young photo",a:"Anne Frank",wiki:"Young_Anne_Frank"},
   ],
   600:[
     {q:"Guess the celebrity from this young photo",a:"Frank Sinatra",wiki:"Young_Frank_Sinatra"},
@@ -3230,6 +3265,22 @@ const RAW_BANK = {
     {q:"Guess the celebrity from this young photo",a:"Prince",wiki:"Young_Prince"},
     {q:"Guess the celebrity from this young photo",a:"Rupert Grint",wiki:"Young_Rupert_Grint"},
     {q:"Guess the celebrity from this young photo",a:"Ellen DeGeneres",wiki:"Young_Ellen_DeGeneres"},
+    {q:"Guess the celebrity from this young photo",a:"Charlie Chaplin",wiki:"Young_Charlie_Chaplin"},
+    {q:"Guess the celebrity from this young photo",a:"Buster Keaton",wiki:"Young_Buster_Keaton"},
+    {q:"Guess the celebrity from this young photo",a:"Orson Welles",wiki:"Young_Orson_Welles"},
+    {q:"Guess the celebrity from this young photo",a:"Humphrey Bogart",wiki:"Young_Humphrey_Bogart"},
+    {q:"Guess the celebrity from this young photo",a:"James Dean",wiki:"Young_James_Dean"},
+    {q:"Guess the celebrity from this young photo",a:"Marlon Brando",wiki:"Young_Marlon_Brando"},
+    {q:"Guess the celebrity from this young photo",a:"Laurence Olivier",wiki:"Young_Laurence_Olivier"},
+    {q:"Guess the celebrity from this young photo",a:"Ingrid Bergman",wiki:"Young_Ingrid_Bergman"},
+    {q:"Guess the celebrity from this young photo",a:"Katharine Hepburn",wiki:"Young_Katharine_Hepburn"},
+    {q:"Guess the celebrity from this young photo",a:"Grace Kelly",wiki:"Young_Grace_Kelly"},
+    {q:"Guess the celebrity from this young photo",a:"Vivien Leigh",wiki:"Young_Vivien_Leigh"},
+    {q:"Guess the celebrity from this young photo",a:"Rita Hayworth",wiki:"Young_Rita_Hayworth"},
+    {q:"Guess the celebrity from this young photo",a:"Lauren Bacall",wiki:"Young_Lauren_Bacall"},
+    {q:"Guess the celebrity from this young photo",a:"Judy Garland",wiki:"Young_Judy_Garland"},
+    {q:"Guess the celebrity from this young photo",a:"Greta Garbo",wiki:"Young_Greta_Garbo"},
+    {q:"Guess the celebrity from this young photo",a:"Clark Gable",wiki:"Young_Clark_Gable"},
   ],
   },
 
@@ -3302,6 +3353,43 @@ const RAW_BANK = {
     {q:"Guess the music artist from the image",a:"Joe Jonas",wiki:"Joe_Jonas"},
     {q:"Guess the music artist from the image",a:"Sam Hunt",wiki:"Sam_Hunt"},
     {q:"Guess the music artist from the image",a:"Keith Urban",wiki:"Keith_Urban"},
+    {q:"Guess the music artist from the image",a:"Justin Timberlake",wiki:"Justin_Timberlake"},
+    {q:"Guess the music artist from the image",a:"Britney Spears",wiki:"Britney_Spears"},
+    {q:"Guess the music artist from the image",a:"Christina Aguilera",wiki:"Christina_Aguilera"},
+    {q:"Guess the music artist from the image",a:"Paul McCartney",wiki:"Paul_McCartney"},
+    {q:"Guess the music artist from the image",a:"John Lennon",wiki:"John_Lennon"},
+    {q:"Guess the music artist from the image",a:"Mick Jagger",wiki:"Mick_Jagger"},
+    {q:"Guess the music artist from the image",a:"Bono",wiki:"Bono"},
+    {q:"Guess the music artist from the image",a:"Keith Richards",wiki:"Keith_Richards"},
+    {q:"Guess the music artist from the image",a:"Sting",wiki:"Sting_(musician)"},
+    {q:"Guess the music artist from the image",a:"Phil Collins",wiki:"Phil_Collins"},
+    {q:"Guess the music artist from the image",a:"Dolly Parton",wiki:"Dolly_Parton"},
+    {q:"Guess the music artist from the image",a:"Willie Nelson",wiki:"Willie_Nelson"},
+    {q:"Guess the music artist from the image",a:"Johnny Cash",wiki:"Johnny_Cash"},
+    {q:"Guess the music artist from the image",a:"George Michael",wiki:"George_Michael"},
+    {q:"Guess the music artist from the image",a:"Michael Bublé",wiki:"Michael_Bubl%C3%A9"},
+    {q:"Guess the music artist from the image",a:"Lil Durk",wiki:"Lil_Durk"},
+    {q:"Guess the music artist from the image",a:"50 Cent",wiki:"50_Cent"},
+    {q:"Guess the music artist from the image",a:"LL Cool J",wiki:"LL_Cool_J"},
+    {q:"Guess the music artist from the image",a:"Timbaland",wiki:"Timbaland"},
+    {q:"Guess the music artist from the image",a:"Missy Elliott",wiki:"Missy_Elliott"},
+    {q:"Guess the music artist from the image",a:"Mary J. Blige",wiki:"Mary_J._Blige"},
+    {q:"Guess the music artist from the image",a:"Akon",wiki:"Akon"},
+    {q:"Guess the music artist from the image",a:"T-Pain",wiki:"T-Pain"},
+    {q:"Guess the music artist from the image",a:"Jason Derulo",wiki:"Jason_Derulo"},
+    {q:"Guess the music artist from the image",a:"Wiz Khalifa",wiki:"Wiz_Khalifa"},
+    {q:"Guess the music artist from the image",a:"Bebe Rexha",wiki:"Bebe_Rexha"},
+    {q:"Guess the music artist from the image",a:"Meghan Trainor",wiki:"Meghan_Trainor"},
+    {q:"Guess the music artist from the image",a:"Charlie Puth",wiki:"Charlie_Puth"},
+    {q:"Guess the music artist from the image",a:"Niall Horan",wiki:"Niall_Horan"},
+    {q:"Guess the music artist from the image",a:"Liam Payne",wiki:"Liam_Payne"},
+    {q:"Guess the music artist from the image",a:"Zayn Malik",wiki:"Zayn_Malik"},
+    {q:"Guess the music artist from the image",a:"Normani",wiki:"Normani"},
+    {q:"Guess the music artist from the image",a:"Demi Lovato",wiki:"Demi_Lovato"},
+    {q:"Guess the music artist from the image",a:"Nick Jonas",wiki:"Nick_Jonas"},
+    {q:"Guess the music artist from the image",a:"Joe Jonas",wiki:"Joe_Jonas"},
+    {q:"Guess the music artist from the image",a:"Sam Hunt",wiki:"Sam_Hunt"},
+    {q:"Guess the music artist from the image",a:"Keith Urban",wiki:"Keith_Urban"},
   ],
   400:[
     {q:"Guess the music artist from the image",a:"Kendrick Lamar",wiki:"Kendrick_Lamar"},
@@ -3334,6 +3422,42 @@ const RAW_BANK = {
     {q:"Guess the music artist from the image",a:"David Guetta",wiki:"David_Guetta"},
     {q:"Guess the music artist from the image",a:"Carrie Underwood",wiki:"Carrie_Underwood"},
     {q:"Guess the music artist from the image",a:"Luke Bryan",wiki:"Luke_Bryan"},
+    {q:"Guess the music artist from the image",a:"A$AP Rocky",wiki:"ASAP_Rocky"},
+    {q:"Guess the music artist from the image",a:"Young Thug",wiki:"Young_Thug"},
+    {q:"Guess the music artist from the image",a:"Playboi Carti",wiki:"Playboi_Carti"},
+    {q:"Guess the music artist from the image",a:"Future",wiki:"Future_(rapper)"},
+    {q:"Guess the music artist from the image",a:"Lil Uzi Vert",wiki:"Lil_Uzi_Vert"},
+    {q:"Guess the music artist from the image",a:"Offset",wiki:"Offset_(rapper)"},
+    {q:"Guess the music artist from the image",a:"Quavo",wiki:"Quavo"},
+    {q:"Guess the music artist from the image",a:"Takeoff",wiki:"Takeoff_(rapper)"},
+    {q:"Guess the music artist from the image",a:"Trippie Redd",wiki:"Trippie_Redd"},
+    {q:"Guess the music artist from the image",a:"Jack Harlow",wiki:"Jack_Harlow"},
+    {q:"Guess the music artist from the image",a:"Lil Baby",wiki:"Lil_Baby"},
+    {q:"Guess the music artist from the image",a:"Gunna",wiki:"Gunna_(rapper)"},
+    {q:"Guess the music artist from the image",a:"NLE Choppa",wiki:"NLE_Choppa"},
+    {q:"Guess the music artist from the image",a:"DaBaby",wiki:"DaBaby"},
+    {q:"Guess the music artist from the image",a:"Roddy Ricch",wiki:"Roddy_Ricch"},
+    {q:"Guess the music artist from the image",a:"Polo G",wiki:"Polo_G"},
+    {q:"Guess the music artist from the image",a:"Machine Gun Kelly",wiki:"Machine_Gun_Kelly_(musician)"},
+    {q:"Guess the music artist from the image",a:"Juice WRLD",wiki:"Juice_Wrld"},
+    {q:"Guess the music artist from the image",a:"XXXTentacion",wiki:"XXXTentacion"},
+    {q:"Guess the music artist from the image",a:"Mac Miller",wiki:"Mac_Miller"},
+    {q:"Guess the music artist from the image",a:"Logic",wiki:"Logic_(rapper)"},
+    {q:"Guess the music artist from the image",a:"Denzel Curry",wiki:"Denzel_Curry"},
+    {q:"Guess the music artist from the image",a:"Tyler, the Creator",wiki:"Tyler,_the_Creator"},
+    {q:"Guess the music artist from the image",a:"Frank Ocean",wiki:"Frank_Ocean"},
+    {q:"Guess the music artist from the image",a:"Anderson .Paak",wiki:"Anderson_.Paak"},
+    {q:"Guess the music artist from the image",a:"H.E.R.",wiki:"H.E.R."},
+    {q:"Guess the music artist from the image",a:"Bryson Tiller",wiki:"Bryson_Tiller"},
+    {q:"Guess the music artist from the image",a:"Jhené Aiko",wiki:"Jhen%C3%A9_Aiko"},
+    {q:"Guess the music artist from the image",a:"Solange Knowles",wiki:"Solange_Knowles"},
+    {q:"Guess the music artist from the image",a:"Kehlani",wiki:"Kehlani"},
+    {q:"Guess the music artist from the image",a:"Brandy Norwood",wiki:"Brandy_Norwood"},
+    {q:"Guess the music artist from the image",a:"Monica",wiki:"Monica_(singer)"},
+    {q:"Guess the music artist from the image",a:"Toni Braxton",wiki:"Toni_Braxton"},
+    {q:"Guess the music artist from the image",a:"Anita Baker",wiki:"Anita_Baker"},
+    {q:"Guess the music artist from the image",a:"Erykah Badu",wiki:"Erykah_Badu"},
+    {q:"Guess the music artist from the image",a:"Lauryn Hill",wiki:"Lauryn_Hill"},
     {q:"Guess the music artist from the image",a:"A$AP Rocky",wiki:"ASAP_Rocky"},
     {q:"Guess the music artist from the image",a:"Young Thug",wiki:"Young_Thug"},
     {q:"Guess the music artist from the image",a:"Playboi Carti",wiki:"Playboi_Carti"},
@@ -3447,6 +3571,51 @@ const RAW_BANK = {
     {q:"Guess the music artist from the image",a:"Kate Bush",wiki:"Kate_Bush"},
     {q:"Guess the music artist from the image",a:"Peter Gabriel",wiki:"Peter_Gabriel"},
     {q:"Guess the music artist from the image",a:"Annie Lennox",wiki:"Annie_Lennox"},
+    {q:"Guess the music artist from the image",a:"Etta James",wiki:"Etta_James"},
+    {q:"Guess the music artist from the image",a:"Sam Cooke",wiki:"Sam_Cooke"},
+    {q:"Guess the music artist from the image",a:"Ray Charles",wiki:"Ray_Charles"},
+    {q:"Guess the music artist from the image",a:"B.B. King",wiki:"B.B._King"},
+    {q:"Guess the music artist from the image",a:"Otis Redding",wiki:"Otis_Redding"},
+    {q:"Guess the music artist from the image",a:"Isaac Hayes",wiki:"Isaac_Hayes"},
+    {q:"Guess the music artist from the image",a:"Curtis Mayfield",wiki:"Curtis_Mayfield"},
+    {q:"Guess the music artist from the image",a:"Al Green",wiki:"Al_Green"},
+    {q:"Guess the music artist from the image",a:"Smokey Robinson",wiki:"Smokey_Robinson"},
+    {q:"Guess the music artist from the image",a:"Gladys Knight",wiki:"Gladys_Knight"},
+    {q:"Guess the music artist from the image",a:"Patti LaBelle",wiki:"Patti_LaBelle"},
+    {q:"Guess the music artist from the image",a:"Donna Summer",wiki:"Donna_Summer"},
+    {q:"Guess the music artist from the image",a:"Grace Jones",wiki:"Grace_Jones"},
+    {q:"Guess the music artist from the image",a:"Debbie Harry",wiki:"Debbie_Harry"},
+    {q:"Guess the music artist from the image",a:"Stevie Nicks",wiki:"Stevie_Nicks"},
+    {q:"Guess the music artist from the image",a:"Linda Ronstadt",wiki:"Linda_Ronstadt"},
+    {q:"Guess the music artist from the image",a:"Carole King",wiki:"Carole_King"},
+    {q:"Guess the music artist from the image",a:"Carly Simon",wiki:"Carly_Simon"},
+    {q:"Guess the music artist from the image",a:"James Taylor",wiki:"James_Taylor"},
+    {q:"Guess the music artist from the image",a:"Neil Young",wiki:"Neil_Young"},
+    {q:"Guess the music artist from the image",a:"Van Morrison",wiki:"Van_Morrison"},
+    {q:"Guess the music artist from the image",a:"Roy Orbison",wiki:"Roy_Orbison"},
+    {q:"Guess the music artist from the image",a:"Buddy Holly",wiki:"Buddy_Holly"},
+    {q:"Guess the music artist from the image",a:"Jerry Lee Lewis",wiki:"Jerry_Lee_Lewis"},
+    {q:"Guess the music artist from the image",a:"Fats Domino",wiki:"Fats_Domino"},
+    {q:"Guess the music artist from the image",a:"Frank Zappa",wiki:"Frank_Zappa"},
+    {q:"Guess the music artist from the image",a:"Iggy Pop",wiki:"Iggy_Pop"},
+    {q:"Guess the music artist from the image",a:"Lou Reed",wiki:"Lou_Reed"},
+    {q:"Guess the music artist from the image",a:"Patti Smith",wiki:"Patti_Smith"},
+    {q:"Guess the music artist from the image",a:"Chrissie Hynde",wiki:"Chrissie_Hynde"},
+    {q:"Guess the music artist from the image",a:"Joan Jett",wiki:"Joan_Jett"},
+    {q:"Guess the music artist from the image",a:"Pat Benatar",wiki:"Pat_Benatar"},
+    {q:"Guess the music artist from the image",a:"Ozzy Osbourne",wiki:"Ozzy_Osbourne"},
+    {q:"Guess the music artist from the image",a:"Rob Halford",wiki:"Rob_Halford"},
+    {q:"Guess the music artist from the image",a:"Robert Plant",wiki:"Robert_Plant"},
+    {q:"Guess the music artist from the image",a:"Jimmy Page",wiki:"Jimmy_Page"},
+    {q:"Guess the music artist from the image",a:"Roger Waters",wiki:"Roger_Waters"},
+    {q:"Guess the music artist from the image",a:"David Gilmour",wiki:"David_Gilmour"},
+    {q:"Guess the music artist from the image",a:"Pete Townshend",wiki:"Pete_Townshend"},
+    {q:"Guess the music artist from the image",a:"Roger Daltrey",wiki:"Roger_Daltrey"},
+    {q:"Guess the music artist from the image",a:"Rod Stewart",wiki:"Rod_Stewart"},
+    {q:"Guess the music artist from the image",a:"Morrissey",wiki:"Morrissey"},
+    {q:"Guess the music artist from the image",a:"Kate Bush",wiki:"Kate_Bush"},
+    {q:"Guess the music artist from the image",a:"Peter Gabriel",wiki:"Peter_Gabriel"},
+    {q:"Guess the music artist from the image",a:"Annie Lennox",wiki:"Annie_Lennox"},
   ],
   },
 
@@ -3482,6 +3651,36 @@ const RAW_BANK = {
     {q:"Mexico City",a:"Mexico"},
     {q:"Abu Dhabi",a:"United Arab Emirates"},
     {q:"Amsterdam",a:"Netherlands"},
+    {q:"Singapore",a:"Singapore"},
+    {q:"Luxembourg",a:"Luxembourg"},
+    {q:"Monaco",a:"Monaco"},
+    {q:"Kingston",a:"Jamaica"},
+    {q:"Havana",a:"Cuba"},
+    {q:"Pretoria (administrative capital)",a:"South Africa"},
+    {q:"Nairobi",a:"Kenya"},
+    {q:"Addis Ababa",a:"Ethiopia"},
+    {q:"Algiers",a:"Algeria"},
+    {q:"Tunis",a:"Tunisia"},
+    {q:"Tripoli",a:"Libya"},
+    {q:"Khartoum",a:"Sudan"},
+    {q:"Dakar",a:"Senegal"},
+    {q:"Accra",a:"Ghana"},
+    {q:"Abuja",a:"Nigeria"},
+    {q:"Harare",a:"Zimbabwe"},
+    {q:"Lusaka",a:"Zambia"},
+    {q:"Luanda",a:"Angola"},
+    {q:"Kampala",a:"Uganda"},
+    {q:"Dodoma",a:"Tanzania"},
+    {q:"Jerusalem",a:"Israel"},
+    {q:"Damascus",a:"Syria"},
+    {q:"Sanaa",a:"Yemen"},
+    {q:"Kabul",a:"Afghanistan"},
+    {q:"Vatican City",a:"Vatican City"},
+    {q:"San Marino",a:"San Marino"},
+    {q:"Andorra la Vella",a:"Andorra"},
+    {q:"Minsk",a:"Belarus"},
+    {q:"Taipei",a:"Taiwan"},
+    {q:"Nicosia",a:"Cyprus"},
     {q:"Singapore",a:"Singapore"},
     {q:"Luxembourg",a:"Luxembourg"},
     {q:"Monaco",a:"Monaco"},
@@ -3574,6 +3773,36 @@ const RAW_BANK = {
     {q:"Basseterre",a:"Saint Kitts and Nevis"},
     {q:"Pristina",a:"Kosovo"},
     {q:"Banjul",a:"The Gambia"},
+    {q:"Montevideo",a:"Uruguay"},
+    {q:"Georgetown",a:"Guyana"},
+    {q:"Paramaribo",a:"Suriname"},
+    {q:"La Paz (administrative capital)",a:"Bolivia"},
+    {q:"Panama City",a:"Panama"},
+    {q:"San José",a:"Costa Rica"},
+    {q:"San Salvador",a:"El Salvador"},
+    {q:"Guatemala City",a:"Guatemala"},
+    {q:"Belmopan",a:"Belize"},
+    {q:"Castries",a:"Saint Lucia"},
+    {q:"Bridgetown",a:"Barbados"},
+    {q:"Port of Spain",a:"Trinidad and Tobago"},
+    {q:"Djibouti",a:"Djibouti"},
+    {q:"Asmara",a:"Eritrea"},
+    {q:"Mogadishu",a:"Somalia"},
+    {q:"Kigali",a:"Rwanda"},
+    {q:"Gitega",a:"Burundi"},
+    {q:"Gaborone",a:"Botswana"},
+    {q:"Windhoek",a:"Namibia"},
+    {q:"Maseru",a:"Lesotho"},
+    {q:"Mbabane (administrative capital)",a:"Eswatini"},
+    {q:"Juba",a:"South Sudan"},
+    {q:"Port Louis",a:"Mauritius"},
+    {q:"Roseau",a:"Dominica"},
+    {q:"Saint George's",a:"Grenada"},
+    {q:"Kingstown",a:"Saint Vincent and the Grenadines"},
+    {q:"Saint John's",a:"Antigua and Barbuda"},
+    {q:"Basseterre",a:"Saint Kitts and Nevis"},
+    {q:"Pristina",a:"Kosovo"},
+    {q:"Banjul",a:"The Gambia"},
   ],
   600:[
     {q:"Bratislava",a:"Slovakia"},
@@ -3606,6 +3835,36 @@ const RAW_BANK = {
     {q:"Bogotá",a:"Colombia"},
     {q:"Quito",a:"Ecuador"},
     {q:"Asunción",a:"Paraguay"},
+    {q:"Pyongyang",a:"North Korea"},
+    {q:"Ulaanbaatar",a:"Mongolia"},
+    {q:"Thimphu",a:"Bhutan"},
+    {q:"Naypyidaw",a:"Myanmar"},
+    {q:"Vientiane",a:"Laos"},
+    {q:"Bandar Seri Begawan",a:"Brunei"},
+    {q:"Dili",a:"East Timor"},
+    {q:"Malé",a:"Maldives"},
+    {q:"Honiara",a:"Solomon Islands"},
+    {q:"Suva",a:"Fiji"},
+    {q:"Apia",a:"Samoa"},
+    {q:"Tarawa",a:"Kiribati"},
+    {q:"Yaren (de facto)",a:"Nauru"},
+    {q:"Funafuti",a:"Tuvalu"},
+    {q:"Port Moresby",a:"Papua New Guinea"},
+    {q:"Palikir",a:"Federated States of Micronesia"},
+    {q:"Lomé",a:"Togo"},
+    {q:"Porto-Novo",a:"Benin"},
+    {q:"Ouagadougou",a:"Burkina Faso"},
+    {q:"Niamey",a:"Niger"},
+    {q:"N'Djamena",a:"Chad"},
+    {q:"Bangui",a:"Central African Republic"},
+    {q:"Libreville",a:"Gabon"},
+    {q:"Yaoundé",a:"Cameroon"},
+    {q:"Brazzaville",a:"Republic of the Congo"},
+    {q:"Kinshasa",a:"Democratic Republic of the Congo"},
+    {q:"Malabo",a:"Equatorial Guinea"},
+    {q:"Nouakchott",a:"Mauritania"},
+    {q:"Bamako",a:"Mali"},
+    {q:"Antananarivo",a:"Madagascar"},
     {q:"Pyongyang",a:"North Korea"},
     {q:"Ulaanbaatar",a:"Mongolia"},
     {q:"Thimphu",a:"Bhutan"},
@@ -3711,6 +3970,36 @@ const RAW_BANK = {
     {q:"Spell this word",a:"Honest"},
     {q:"Spell this word",a:"Hungry"},
     {q:"Spell this word",a:"Happened"},
+    {q:"Spell this word",a:"Tuesday"},
+    {q:"Spell this word",a:"Thursday"},
+    {q:"Spell this word",a:"Library"},
+    {q:"Spell this word",a:"Restaurant"},
+    {q:"Spell this word",a:"Calendar"},
+    {q:"Spell this word",a:"Exercise"},
+    {q:"Spell this word",a:"Surprise"},
+    {q:"Spell this word",a:"Grammar"},
+    {q:"Spell this word",a:"Separate"},
+    {q:"Spell this word",a:"Definitely"},
+    {q:"Spell this word",a:"Apparently"},
+    {q:"Spell this word",a:"Recommend"},
+    {q:"Spell this word",a:"Address"},
+    {q:"Spell this word",a:"Vacuum"},
+    {q:"Spell this word",a:"Broccoli"},
+    {q:"Spell this word",a:"Breakfast"},
+    {q:"Spell this word",a:"Chocolate"},
+    {q:"Spell this word",a:"Elephant"},
+    {q:"Spell this word",a:"Believe"},
+    {q:"Spell this word",a:"Achieve"},
+    {q:"Spell this word",a:"Although"},
+    {q:"Spell this word",a:"Between"},
+    {q:"Spell this word",a:"Familiar"},
+    {q:"Spell this word",a:"Forward"},
+    {q:"Spell this word",a:"Government"},
+    {q:"Spell this word",a:"Guarantee"},
+    {q:"Spell this word",a:"Height"},
+    {q:"Spell this word",a:"Honest"},
+    {q:"Spell this word",a:"Hungry"},
+    {q:"Spell this word",a:"Happened"},
   ],
   400:[
     {q:"Spell this word",a:"Millennium"},
@@ -3783,6 +4072,36 @@ const RAW_BANK = {
     {q:"Spell this word",a:"Supersede"},
     {q:"Spell this word",a:"Surveillance"},
     {q:"Spell this word",a:"Weird"},
+    {q:"Spell this word",a:"Cemetery"},
+    {q:"Spell this word",a:"Colonel"},
+    {q:"Spell this word",a:"Connoisseur"},
+    {q:"Spell this word",a:"Enthusiasm"},
+    {q:"Spell this word",a:"Exaggerate"},
+    {q:"Spell this word",a:"Exhilarate"},
+    {q:"Spell this word",a:"Fluorescent"},
+    {q:"Spell this word",a:"Foreign"},
+    {q:"Spell this word",a:"Gauge"},
+    {q:"Spell this word",a:"Grievance"},
+    {q:"Spell this word",a:"Harass"},
+    {q:"Spell this word",a:"Indispensable"},
+    {q:"Spell this word",a:"Inoculate"},
+    {q:"Spell this word",a:"Intelligence"},
+    {q:"Spell this word",a:"Leisure"},
+    {q:"Spell this word",a:"Memento"},
+    {q:"Spell this word",a:"Miniature"},
+    {q:"Spell this word",a:"Miscellaneous"},
+    {q:"Spell this word",a:"Noticeable"},
+    {q:"Spell this word",a:"Occasion"},
+    {q:"Spell this word",a:"Occurrence"},
+    {q:"Spell this word",a:"Parliament"},
+    {q:"Spell this word",a:"Perseverance"},
+    {q:"Spell this word",a:"Possession"},
+    {q:"Spell this word",a:"Prejudice"},
+    {q:"Spell this word",a:"Reservoir"},
+    {q:"Spell this word",a:"Ricochet"},
+    {q:"Spell this word",a:"Supersede"},
+    {q:"Spell this word",a:"Surveillance"},
+    {q:"Spell this word",a:"Weird"},
   ],
   600:[
     {q:"Spell this word",a:"Onomatopoeia"},
@@ -3825,6 +4144,36 @@ const RAW_BANK = {
     {q:"Spell this word",a:"Rambunctious"},
     {q:"Spell this word",a:"Schadenfreude"},
     {q:"Spell this word",a:"Ingenuous"},
+    {q:"Spell this word",a:"Anachronism"},
+    {q:"Spell this word",a:"Antediluvian"},
+    {q:"Spell this word",a:"Archipelago"},
+    {q:"Spell this word",a:"Beleaguer"},
+    {q:"Spell this word",a:"Bioluminescence"},
+    {q:"Spell this word",a:"Demagoguery"},
+    {q:"Spell this word",a:"Dichotomy"},
+    {q:"Spell this word",a:"Disingenuous"},
+    {q:"Spell this word",a:"Egregious"},
+    {q:"Spell this word",a:"Ephemeral"},
+    {q:"Spell this word",a:"Euphemism"},
+    {q:"Spell this word",a:"Exacerbate"},
+    {q:"Spell this word",a:"Facsimile"},
+    {q:"Spell this word",a:"Garrulous"},
+    {q:"Spell this word",a:"Gregarious"},
+    {q:"Spell this word",a:"Iconoclast"},
+    {q:"Spell this word",a:"Juggernaut"},
+    {q:"Spell this word",a:"Kaleidoscope"},
+    {q:"Spell this word",a:"Loquacious"},
+    {q:"Spell this word",a:"Malfeasance"},
+    {q:"Spell this word",a:"Misanthrope"},
+    {q:"Spell this word",a:"Obfuscate"},
+    {q:"Spell this word",a:"Obsequious"},
+    {q:"Spell this word",a:"Ostentatious"},
+    {q:"Spell this word",a:"Palimpsest"},
+    {q:"Spell this word",a:"Paradigm"},
+    {q:"Spell this word",a:"Pusillanimous"},
+    {q:"Spell this word",a:"Recalcitrant"},
+    {q:"Spell this word",a:"Sycophant"},
+    {q:"Spell this word",a:"Vicissitude"},
     {q:"Spell this word",a:"Anachronism"},
     {q:"Spell this word",a:"Antediluvian"},
     {q:"Spell this word",a:"Archipelago"},
@@ -4736,8 +5085,8 @@ function CharacterArt({name, wiki}){
   }
 
   return(
-    <div style={{...frameStyle,display:"flex",alignItems:"center",justifyContent:"center",padding:14,background:"linear-gradient(180deg,#FFFFFF 0%,#F8FAFC 100%)"}}>
-      <img src={src} alt={name} style={{width:"100%",height:"100%",objectFit:"contain",objectPosition:"center"}} />
+    <div style={{...frameStyle,background:"#F8FAFC"}}>
+      <img src={src} alt={name} loading="eager" decoding="async" style={{display:"block",width:"100%",height:"100%",objectFit:"cover",objectPosition:"center top"}} />
     </div>
   );
 }
@@ -6143,7 +6492,13 @@ export default function App(){
     setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);
   }
   const wrongPenalty=gameMode==="ffa"?activeTile?.pts:Math.round((activeTile?.pts||0)/2);
-  function doWrong(){consumeActiveTile();setScores(prev=>{const s=[...prev];s[curTeam]=s[curTeam]-wrongPenalty;return s;});setCurTeam((curTeam+1)%teams.length);setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);}
+  function doWrong(targetTeamIdx){
+    consumeActiveTile();
+    const idx=typeof targetTeamIdx==="number"?targetTeamIdx:curTeam;
+    setScores(prev=>{const s=[...prev];s[idx]=s[idx]-wrongPenalty;return s;});
+    setCurTeam((curTeam+1)%teams.length);
+    setTimeout(()=>setBoard(prev=>{const rem=Object.keys(prev).some(c=>Object.values(prev[c]).some(a=>a.some(u=>!u)));setScreen(rem?"board":"gameover");return prev;}),0);
+  }
 
   const cat=activeTile&&BANK[baseCat(activeTile.catId)];
   const ttype=cat?(cat.isSpellingBee?"spellingbee":cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
@@ -6238,8 +6593,15 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
   const scoreMinW=isPhone?28:40;
   const innerGap=isPhone?5:8;
   const turnColor=TEAM_COLORS[curTeam%TEAM_COLORS.length];
+  const showTurnBanner=showTurnText&&teams.length>=2;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",display:"flex",alignItems:"center",justifyContent:"space-between",padding:`${isPhone?(showTurnText?12:6):(showTurnText?18:10)}px ${padX}px`,borderBottom:"1px solid #D7EAF2",minHeight:isPhone?(showTurnText?64:44):(showTurnText?80:54),maxWidth:"100vw",overflow:"hidden"}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",display:"flex",flexDirection:"column",padding:`${isPhone?6:10}px ${padX}px`,borderBottom:"1px solid #D7EAF2",maxWidth:"100vw",overflow:"hidden",gap:isPhone?4:6}}>
+      {showTurnBanner&&(
+        <div style={{fontSize:isPhone?14:22,fontWeight:900,color:turnColor,letterSpacing:.5,fontFamily:SF_STACK,whiteSpace:"nowrap",textAlign:"center",textShadow:`0 2px 10px ${turnColor}33`,overflow:"hidden",textOverflow:"ellipsis"}}>
+          {teams[curTeam]}'s Turn
+        </div>
+      )}
+      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",width:"100%",gap:isPhone?4:8}}>
       {teams.map((t,i)=>(
         <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,minWidth:0,gap:isPhone?4:8}}>
           <div style={{
@@ -6267,13 +6629,10 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
           </div>
         </div>
       ))}
-      {showTurnText?(
-        <div style={{position:"absolute",left:"50%",top:"50%",transform:"translate(-50%,-50%)",fontSize:isPhone?22:40,fontWeight:900,color:turnColor,letterSpacing:.5,fontFamily:SF_STACK,whiteSpace:"nowrap",pointerEvents:"none",textShadow:`0 2px 10px ${turnColor}33`}}>
-          {teams[curTeam]}'s Turn
-        </div>
-      ):(
+      {!showTurnText&&teams.length>=2&&(
         <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:`0 ${isPhone?4:8}px`}}>VS</div>
       )}
+      </div>
     </div>
   );
 }
@@ -6811,10 +7170,19 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
         })}
       </div>
       {isFfa?(
-        <div style={{display:"flex",gap:7}}>
-          <button className="tap" onClick={onWrong} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Wrong (-{tile.pts} from {teams[curTeam]})</button>
-          <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:12,padding:"10px 10px",borderRadius:16,subtle:true}),flex:1}}>Pass</button>
-        </div>
+        <>
+          <div style={{fontSize:10,fontWeight:800,color:"#B91C1C",letterSpacing:1.05,textAlign:"center",marginTop:6}}>WRONG — DEDUCT FROM:</div>
+          <div style={{display:"flex",gap:compact?5:7,flexWrap:"wrap",justifyContent:"center"}}>
+            {teams.map((t,i)=>(
+              <button key={i} className="tap" onClick={()=>onWrong(i)} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:compact?11:12,padding:compact?"9px 8px":"10px 10px",borderRadius:16,subtle:true}),flex:compact?"1 1 auto":"1",minWidth:compact?80:0,lineHeight:1.24}}>
+                {t}<br/><span style={{fontSize:compact?10:11,opacity:.88}}>-{Math.round(tile.pts/2)}</span>
+              </button>
+            ))}
+          </div>
+          <div style={{display:"flex",justifyContent:"center",marginTop:4}}>
+            <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:13,padding:"11px 36px",borderRadius:16,subtle:true})}}>Pass</button>
+          </div>
+        </>
       ):(
         <div style={{display:"flex",justifyContent:"center"}}>
           <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:800,fontSize:15,padding:"14px 48px",borderRadius:18,subtle:true}),minWidth:220}}>Pass</button>
@@ -6931,6 +7299,9 @@ const QUESTION_SCREEN_STYLE={
   display:"flex",
   flexDirection:"column",
   position:"relative",
+  overflowX:"hidden",
+  width:"100%",
+  maxWidth:"100vw",
 };
 
 const QUESTION_BODY_CENTER_STYLE={

@@ -23215,10 +23215,6 @@ const QUALITY_BACKFILL = {
         "a": "Around 990 AD"
       },
       {
-        "q": "Which wizard founded the Holyhead Harpies?",
-        "a": "Gwenog Jones captains them — founded by Glynnis Griffiths era unclear"
-      },
-      {
         "q": "What is the incantation for the Fidelius Charm revealing unknown, but the charm's purpose is to hide a secret in whose soul?",
         "a": "The Secret-Keeper's soul"
       },
