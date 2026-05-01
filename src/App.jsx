@@ -5387,6 +5387,11 @@ function MovieScenePlayer({tile,onClipFailed}){
               title={`${tile.a} movie scene clip`}
               style={{position:"absolute",top:"-14%",left:"-6%",width:"112%",height:"132%",pointerEvents:"none",opacity:concealPlayer?0:1,transition:concealPlayer?"none":"opacity .16s ease"}}
             />
+            {/* Hard black masks that cover the YouTube title bar (top) + watermark (bottom) regardless of zoom level. */}
+            <div aria-hidden style={{position:"absolute",top:0,left:0,right:0,height:"14%",background:"#000",pointerEvents:"auto",zIndex:3}}/>
+            <div aria-hidden style={{position:"absolute",bottom:0,left:0,right:0,height:"12%",background:"#000",pointerEvents:"auto",zIndex:3}}/>
+            {/* Click/hover-blocking overlay over the visible video area so YouTube never gets a hover signal that would summon its UI. */}
+            <div aria-hidden style={{position:"absolute",top:"14%",left:0,right:0,bottom:"12%",pointerEvents:"auto",zIndex:2,background:"transparent"}}/>
             {flashMask&&(
               <div style={{position:"absolute",inset:0,display:"flex",alignItems:"center",justifyContent:"center",background:concealPlayer?"#000000":"rgba(15,23,42,.42)",pointerEvents:"none"}}>
                 <div style={{display:"flex",alignItems:"center",justifyContent:"center",width:72,height:72,borderRadius:"50%",background:concealPlayer?"rgba(255,255,255,.1)":"rgba(15,23,42,.74)",backdropFilter:concealPlayer?"none":"blur(2px)",color:"#fff",fontSize:28,fontWeight:800,boxShadow:concealPlayer?"0 0 0 1px rgba(255,255,255,.08)":"0 10px 24px rgba(15,23,42,.24)"}}>

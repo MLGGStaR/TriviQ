@@ -1,6 +1,8 @@
 import fs from "node:fs";
-const audit = JSON.parse(fs.readFileSync("audit/movie-scenes-issues.json", "utf8"));
-const badIds = new Set((audit.wrongClips || []).map((c) => c.videoId));
+const sourcePath = process.argv[2] || "audit/movie-scenes-issues.json";
+const audit = JSON.parse(fs.readFileSync(sourcePath, "utf8"));
+const list = audit.wrongClips || audit.remove || [];
+const badIds = new Set(list.map((c) => c.videoId));
 let src = fs.readFileSync("src/movieScenes.js", "utf8");
 let removed = 0;
 for (const vid of badIds) {
