@@ -1,0 +1,19 @@
+import fs from "node:fs";
+const audit = JSON.parse(fs.readFileSync("audit/movie-scenes-issues.json", "utf8"));
+const badIds = new Set((audit.wrongClips || []).map((c) => c.videoId));
+let src = fs.readFileSync("src/movieScenes.js", "utf8");
+let removed = 0;
+for (const vid of badIds) {
+  const esc = vid.replace(/[-.*+?^${}()|[\]\\]/g, "\\$&");
+  const re = new RegExp(`^\\s*(?:easy|medium|hard|scene)\\("[^"]*",\\s*"${esc}".*?\\),?\\n`, "gm");
+  const before = src.length;
+  src = src.replace(re, "");
+  if (src.length < before) {
+    removed++;
+    console.log("Removed", vid);
+  } else {
+    console.log("NOT FOUND", vid);
+  }
+}
+fs.writeFileSync("src/movieScenes.js", src);
+console.log("Total removed:", removed, "/", badIds.size);

@@ -1,0 +1,874 @@
+{
+  "offTopic": [
+    {
+      "cat": "language",
+      "q": "How many letters are in the English alphabet?",
+      "a": "26",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Romeo and Juliet?",
+      "a": "Shakespeare",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the opposite of hot?",
+      "a": "Cold",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "How many vowels are in English?",
+      "a": "5",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in France?",
+      "a": "French",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a synonym for happy?",
+      "a": "Joyful",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Harry Potter?",
+      "a": "J.K. Rowling",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of child?",
+      "a": "Children",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Brazil?",
+      "a": "Portuguese",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What letter comes after M?",
+      "a": "N",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "How many letters are vowels: A, B, E, I, O?",
+      "a": "4",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the longest word ending in -able meaning nice?",
+      "a": "Agreeable",
+      "reason": "general knowledge/vocabulary trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Oliver Twist?",
+      "a": "Charles Dickens",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the opposite of big?",
+      "a": "Small",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What punctuation ends most sentences?",
+      "a": "Period",
+      "reason": "punctuation trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Japan?",
+      "a": "Japanese",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a book of maps called?",
+      "a": "Atlas",
+      "reason": "general knowledge/vocabulary trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of mouse?",
+      "a": "Mice",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Italy?",
+      "a": "Italian",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Adventures of Tom Sawyer?",
+      "a": "Mark Twain",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What does WWW stand for?",
+      "a": "World Wide Web",
+      "reason": "general knowledge/vocabulary trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What letter comes before D?",
+      "a": "C",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "How many consonants in the word cat?",
+      "a": "2",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Russia?",
+      "a": "Russian",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the opposite of wet?",
+      "a": "Dry",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a synonym for fast?",
+      "a": "Quick",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What letter is silent in knight?",
+      "a": "K",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "How many letters in the word alphabet?",
+      "a": "8",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in China?",
+      "a": "Mandarin",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who is the author of Alice in Wonderland?",
+      "a": "Lewis Carroll",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of tooth?",
+      "a": "Teeth",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is an exclamation mark also called?",
+      "a": "Bang",
+      "reason": "punctuation trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the opposite of up?",
+      "a": "Down",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Mexico?",
+      "a": "Spanish",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What letter is between G and I?",
+      "a": "H",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Jungle Book?",
+      "a": "Rudyard Kipling",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Egypt?",
+      "a": "Arabic",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of foot?",
+      "a": "Feet",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word that means the same as another?",
+      "a": "Synonym",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word opposite in meaning called?",
+      "a": "Antonym",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote A Christmas Carol?",
+      "a": "Charles Dickens",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the opposite of good?",
+      "a": "Bad",
+      "reason": "English vocabulary/synonyms — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a baby cat called?",
+      "a": "Kitten",
+      "reason": "general knowledge/vocabulary trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "How many letters in the word yes?",
+      "a": "3",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Animal Farm?",
+      "a": "George Orwell",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in India widely?",
+      "a": "Hindi",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What punctuation mark ends a question?",
+      "a": "Question mark",
+      "reason": "punctuation trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Portugal?",
+      "a": "Portuguese",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the study of word origins called?",
+      "a": "Etymology",
+      "reason": "linguistics/literary-device terminology — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Don Quixote?",
+      "a": "Cervantes",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language has the most native speakers?",
+      "a": "Mandarin",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What does the idiom bite the bullet mean?",
+      "a": "Endure hardship",
+      "reason": "English idiom — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote War and Peace?",
+      "a": "Tolstoy",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a figure of speech comparing unlike things using like or as?",
+      "a": "Simile",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of crisis?",
+      "a": "Crises",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What alphabet is used in Russian?",
+      "a": "Cyrillic",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Great Gatsby?",
+      "a": "F. Scott Fitzgerald",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language did the Romans speak?",
+      "a": "Latin",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a comparison without like or as called?",
+      "a": "Metaphor",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote 1984?",
+      "a": "George Orwell",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in the Netherlands?",
+      "a": "Dutch",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a 14-line poem called?",
+      "a": "Sonnet",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Pride and Prejudice?",
+      "a": "Jane Austen",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word that sounds like its meaning?",
+      "a": "Onomatopoeia",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is the Vatican's official language?",
+      "a": "Latin",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Moby Dick?",
+      "a": "Herman Melville",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the longest word in most dictionaries?",
+      "a": "Pneumonoultramicroscopicsilicovolcanoconiosis",
+      "reason": "general knowledge/vocabulary trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word spelled the same forwards and backwards?",
+      "a": "Palindrome",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Catcher in the Rye?",
+      "a": "J.D. Salinger",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Norway?",
+      "a": "Norwegian",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the study of languages called?",
+      "a": "Linguistics",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Odyssey?",
+      "a": "Homer",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word that has multiple meanings?",
+      "a": "Homonym",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Sweden?",
+      "a": "Swedish",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote To Kill a Mockingbird?",
+      "a": "Harper Lee",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of phenomenon?",
+      "a": "Phenomena",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Turkey?",
+      "a": "Turkish",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What does the idiom break the ice mean?",
+      "a": "Start conversation",
+      "reason": "English idiom — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Picture of Dorian Gray?",
+      "a": "Oscar Wilde",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Greece?",
+      "a": "Greek",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a three-line Japanese poem?",
+      "a": "Haiku",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Les Misérables?",
+      "a": "Victor Hugo",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Poland?",
+      "a": "Polish",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Crime and Punishment?",
+      "a": "Dostoevsky",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a deliberate exaggeration called?",
+      "a": "Hyperbole",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language has characters called kanji?",
+      "a": "Japanese",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Frankenstein?",
+      "a": "Mary Shelley",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the plural of cactus?",
+      "a": "Cacti",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is Afrikaans derived from?",
+      "a": "Dutch",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Iliad?",
+      "a": "Homer",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word formed from initials called?",
+      "a": "Acronym",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Iran?",
+      "a": "Persian",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Lord of the Flies?",
+      "a": "William Golding",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the article a or an used before vowel sounds?",
+      "a": "An",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language family does English belong to?",
+      "a": "Germanic",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a humorous play on words?",
+      "a": "Pun",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the study of sentence structure called?",
+      "a": "Syntax",
+      "reason": "linguistics/literary-device terminology — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote the novel Middlemarch?",
+      "a": "George Eliot",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Iceland?",
+      "a": "Icelandic",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language family includes Finnish and Hungarian?",
+      "a": "Uralic",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Beowulf originally in?",
+      "a": "Old English",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the oldest written language still used?",
+      "a": "Tamil",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote the Canterbury Tales?",
+      "a": "Geoffrey Chaucer",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the term for a new word entering a language?",
+      "a": "Neologism",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Ulysses in 1922?",
+      "a": "James Joyce",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the linguistic term for word meaning?",
+      "a": "Semantics",
+      "reason": "linguistics/literary-device terminology — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Ethiopia officially?",
+      "a": "Amharic",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Brothers Karamazov?",
+      "a": "Dostoevsky",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language uses the Devanagari script?",
+      "a": "Hindi",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word spelled alike but pronounced differently?",
+      "a": "Heteronym",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote One Hundred Years of Solitude?",
+      "a": "Gabriel García Márquez",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Cambodia?",
+      "a": "Khmer",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the term for a word's primary dictionary meaning?",
+      "a": "Denotation",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote In Search of Lost Time?",
+      "a": "Marcel Proust",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language family includes Swahili?",
+      "a": "Bantu",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the term for a word's implied meaning?",
+      "a": "Connotation",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Divine Comedy?",
+      "a": "Dante Alighieri",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Wales?",
+      "a": "Welsh",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word that imitates a sound?",
+      "a": "Onomatopoeia",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Madame Bovary?",
+      "a": "Gustave Flaubert",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Mongolia?",
+      "a": "Mongolian",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the study of sounds in language called?",
+      "a": "Phonetics",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Faust?",
+      "a": "Goethe",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is Esperanto classified as?",
+      "a": "Constructed language",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the correct plural of octopus in strict usage?",
+      "a": "Octopodes",
+      "reason": "English grammar/plural form — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote the play Hedda Gabler?",
+      "a": "Henrik Ibsen",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Bhutan officially?",
+      "a": "Dzongkha",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the term for giving human qualities to non-humans?",
+      "a": "Personification",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Anna Karenina?",
+      "a": "Tolstoy",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the Indo-European root language sometimes called?",
+      "a": "Proto-Indo-European",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is the oldest member of the Romance family?",
+      "a": "Latin",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Stranger?",
+      "a": "Albert Camus",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the term for repetition of consonant sounds?",
+      "a": "Alliteration",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language uses the Hangul script?",
+      "a": "Korean",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Sound and the Fury?",
+      "a": "William Faulkner",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is the term for repetition of vowel sounds?",
+      "a": "Assonance",
+      "reason": "alphabet/letter trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language did Chaucer write in?",
+      "a": "Middle English",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Invisible Man?",
+      "a": "Ralph Ellison",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a word formed by shortening a longer word?",
+      "a": "Clipping",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Kenya along with Swahili?",
+      "a": "English",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote The Scarlet Letter?",
+      "a": "Nathaniel Hawthorne",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language family does Mandarin belong to?",
+      "a": "Sino-Tibetan",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "Who wrote Things Fall Apart?",
+      "a": "Chinua Achebe",
+      "reason": "literature/authorship trivia — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What language is spoken in Malta?",
+      "a": "Maltese",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    },
+    {
+      "cat": "language",
+      "q": "What is a very long sentence in literature called?",
+      "a": "Run-on sentence",
+      "reason": "meta-question about language — not a foreign-language phrase"
+    }
+  ]
+}

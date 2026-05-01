@@ -1,0 +1,225 @@
+{
+  "youtubeUiFix": "ROOT CAUSE: src/App.jsx MovieScenePlayer (around line 5217) instantiates the YouTube player via the YT Iframe API loading from www.youtube.com (default host). Current playerVars are autoplay:1, controls:0, rel:0, modestbranding:1, playsinline:1, iv_load_policy:3, disablekb:1, fs:0, cc_load_policy:0, showinfo:0, enablejsapi:1, mute:1, origin, start. The branding still shows because (a) YouTube has IGNORED `modestbranding` and `showinfo` since 2018, and (b) the title bar / 'Watch on YouTube' overlay / channel watermark are rendered by YouTube regardless of these params. The component currently masks chrome by overscanning the iframe (top:-8%, left:-5%, width:110%, height:120%) which only crops branding visually. EXACT FIX (1) Switch to the privacy-enhanced no-cookie host. Pass `host: 'https://www.youtube-nocookie.com'` as a TOP-LEVEL option to `new window.YT.Player(...)` (not inside playerVars). The no-cookie embed renders less branding chrome. EXACT FIX (2) Increase the CSS overscan in the player container so the residual title-bar overlay (which reappears whenever the user hovers or pauses) is cropped off-screen. Change `top:'-8%'` to `top:'-12%'` and `height:'120%'` to `height:'128%'` on the playerMountRef wrapper at App.jsx ~line 5386. Keep pointerEvents:'none' so the overlay cannot be interacted with. EXACT FIX (3) Optional but recommended: keep `controls:0`, `rel:0`, `iv_load_policy:3`, `disablekb:1`, `fs:0`, `cc_load_policy:0`, `playsinline:1`, `modestbranding:1`, `showinfo:0` — they cost nothing and modestbranding still removes a small share of branding on some embeds. Add `widget_referrer: window.location.href` so YouTube treats it as an embedded play and may suppress some end-screen UI. BACKGROUND/CITATION: per YouTube IFrame API documentation, modestbranding is deprecated and YouTube reserves the right to show its logo and title in any embed. The only supported way to reduce branding further is the youtube-nocookie host plus controls:0/rel:0/iv_load_policy:3 (already present). The remaining brand chrome (top title bar on hover/pause) is intrinsic to the embed and must be cropped via CSS overscan, which the component already does — bumping the magnitude as in fix #2 will fully hide it.",
+  "summary": {
+    "totalChecked": 193,
+    "byTier": {
+      "200": {
+        "total": 65,
+        "wrong": 14
+      },
+      "400": {
+        "total": 65,
+        "wrong": 4
+      },
+      "600": {
+        "total": 63,
+        "wrong": 6
+      }
+    },
+    "wrongCount": 24,
+    "trailerCount": 0,
+    "biggestPatterns": [
+      "Sequel-instead-of-original (5 cases): Shrek→Shrek 2, Monsters Inc→Monsters University, The Terminator→Terminator Genisys, Men in Black→Men in Black 3, Moana→Moana 2, Trainspotting→T2 Trainspotting, Hercules(Disney)→Hercules(2014 Dwayne Johnson), Tarzan(Disney)→Legend of Tarzan(2016).",
+      "Wrong-movie-entirely (3 cases, all tier 600): Magnolia→Steel Magnolias, The Master→The Last Dragon, Before Sunrise→Before Sunset (which is also already in the bank under a different videoId — duplicate clip).",
+      "Title-leak via on-screen text or hashtag (4+ cases): #BoogieNights, #gonegirl, 'Will Smith - Prince Ali (From Aladdin)', 'Circle of Life (From The Lion King)' — the YouTube title text or video on-screen credits expose the movie name.",
+      "TopMovieClips channel risk: several tier-200 entries source from the TopMovieClips channel which overlays the channel/movie name on its uploads as a graphic; players may see the movie name in the clip itself. Affects Iron Man, The Avengers, Guardians of the Galaxy, Captain America First Avenger, Deadpool.",
+      "MovieVEVO music videos used as 'scenes': Aladdin and The Lion King clips are official song music videos with the movie name baked into the official VEVO video, not actual film scenes.",
+      "Trailer keyword: 0 entries have 'trailer' literally in the title. Several Rotten Tomatoes Coming Soon channel uploads exist but are clips, not trailers per the title."
+    ]
+  },
+  "wrongClips": [
+    {
+      "videoId": "eGLSPyGszjo",
+      "answer": "Aladdin",
+      "ytTitle": "Will Smith - Prince Ali (From \"Aladdin\")",
+      "author": "DisneyMusicVEVO",
+      "reason": "Answer is 'Aladdin' but YT video is 'Will Smith - Prince Ali (From Aladdin)' - the official music-video upload, not a film scene. Title and on-screen credits leak the movie name.",
+      "tier": 200
+    },
+    {
+      "videoId": "F020aNi0wS0",
+      "answer": "Captain America The First Avenger",
+      "ytTitle": "Steve Rogers Transformation Scene - Captain America: The First Avenger (2011) Movie CLIP HD",
+      "author": "TopMovieClips",
+      "reason": "Answer is 'Captain America The First Avenger' but YT title is 'Steve Rogers Transformation Scene - Captain America: The First Avenger (2011) Movie CLIP HD' from TopMovieClips - title overlay/end-card may show the movie name.",
+      "tier": 200
+    },
+    {
+      "videoId": "K8mJ_SJH4Jk",
+      "answer": "Deadpool",
+      "ytTitle": "Deadpool Bullet Countdown Scene - Deadpool (2016) Movie Clip HD",
+      "author": "TopMovieClips",
+      "reason": "Answer is 'Deadpool' but author is 'TopMovieClips' compilation channel — clip likely contains on-screen 'Deadpool' caption/branding from the channel which leaks the answer. Worth verifying.",
+      "tier": 200
+    },
+    {
+      "videoId": "mf__Ov2if9Y",
+      "answer": "Finding Nemo",
+      "ytTitle": "Channeling Nemo's energy this morning.",
+      "author": "Disney Plus",
+      "reason": "Answer is 'Finding Nemo' but YT title is 'Channeling Nemo's energy this morning.' (Disney Plus social-media short). Title gives away 'Nemo' to players who can read it.",
+      "tier": 200
+    },
+    {
+      "videoId": "rLM-bmdTuy0",
+      "answer": "Guardians of the Galaxy",
+      "ytTitle": "Star Lord \"Dance Off Bro\" Battle of Xandar Scene - Guardians of the Galaxy (2014) IMAX Movie CLIP HD",
+      "author": "TopMovieClips",
+      "reason": "Answer is 'Guardians of the Galaxy' but YT video is 'Star Lord Dance Off Bro' from TopMovieClips - same channel-overlay risk leaking the movie name.",
+      "tier": 200
+    },
+    {
+      "videoId": "-CKyYV5doCI",
+      "answer": "Iron Man",
+      "ytTitle": "Iron Man - Cave Battle Scene - MARK 1 - Iron Man (2008) Movie CLIP HD",
+      "author": "TopMovieClips",
+      "reason": "Answer is 'Iron Man' but YT video is 'Iron Man - Cave Battle Scene - MARK 1 - Iron Man (2008) Movie CLIP HD' from TopMovieClips - same channel-overlay risk.",
+      "tier": 200
+    },
+    {
+      "videoId": "bCLTAaa3qMM",
+      "answer": "Men in Black",
+      "ytTitle": "Men in Black 3 - Breaking Out Boris Scene (1/10) | Movieclips",
+      "author": "Movieclips",
+      "reason": "Answer is 'Men in Black' but YT title is 'Men in Black 3 - Breaking Out Boris'. Wrong movie (third film, not the original).",
+      "tier": 200
+    },
+    {
+      "videoId": "VVxDNUaxwl4",
+      "answer": "Moana",
+      "ytTitle": "Moana 2 Movie Clip - Little Sis (2024)",
+      "author": "Rotten Tomatoes Family",
+      "reason": "Answer is 'Moana' but YT title is 'Moana 2 Movie Clip - Little Sis (2024)'. Wrong movie (sequel, not the 2016 original).",
+      "tier": 200
+    },
+    {
+      "videoId": "qVqmJD2A3sY",
+      "answer": "Monsters Inc",
+      "ytTitle": "Library Task 📚 | Monsters University | Disney Channel UK",
+      "author": "Disney Club UK",
+      "reason": "Answer is 'Monsters Inc' but YT title is 'Library Task | Monsters University'. Wrong movie (it is the prequel Monsters University, not Monsters Inc).",
+      "tier": 200
+    },
+    {
+      "videoId": "rmpFmJfEZXs",
+      "answer": "Shrek",
+      "ytTitle": "Shrek 2 (2004) - An Awkward Dinner Scene (2/10) | Movieclips",
+      "author": "Movieclips",
+      "reason": "Answer is 'Shrek' but YT title is 'Shrek 2 (2004) - An Awkward Dinner Scene'. Wrong movie (sequel).",
+      "tier": 200
+    },
+    {
+      "videoId": "udKE1ksKWDE",
+      "answer": "The Avengers",
+      "ytTitle": "The Avengers - \"I'm Always Angry\" - Hulk SMASH Scene - Movie CLIP HD",
+      "author": "TopMovieClips",
+      "reason": "Answer is 'The Avengers' but YT video is 'I'm Always Angry - Hulk SMASH' from TopMovieClips - same channel-overlay risk.",
+      "tier": 200
+    },
+    {
+      "videoId": "GibiNy4d4gc",
+      "answer": "The Lion King",
+      "ytTitle": "Carmen Twillie, Lebo M. - Circle of Life (From \"The Lion King\")",
+      "author": "DisneyMusicVEVO",
+      "reason": "Answer is 'The Lion King' but YT video is 'Carmen Twillie, Lebo M. - Circle of Life (From The Lion King)' - the official DisneyMusicVEVO music video, not a film scene. Title and on-screen credits leak the movie name.",
+      "tier": 200
+    },
+    {
+      "videoId": "UZnkAElIe_c",
+      "answer": "The Terminator",
+      "ytTitle": "Terminator Genisys (2015) - Pops vs. the T-800 Scene (1/10) | Movieclips",
+      "author": "Movieclips",
+      "reason": "Answer is 'The Terminator' but YT title is 'Terminator Genisys (2015) - Pops vs. the T-800'. Wrong movie (Genisys, not the original 1984 Terminator).",
+      "tier": 200
+    },
+    {
+      "videoId": "50rAKjuTXbc",
+      "answer": "Wall-E",
+      "ytTitle": "PIXAR logo",
+      "author": "DesignerPIXAR",
+      "reason": "Answer is 'Wall-E' but YT title is just 'PIXAR logo' from a fan/edit channel ('DesignerPIXAR'). Generic Pixar logo, unlikely to show actual WALL-E content.",
+      "tier": 200
+    },
+    {
+      "videoId": "iJTTTgFlyqc",
+      "answer": "Hercules",
+      "ytTitle": "Hercules (2014) - The Son of Zeus Scene | Movieclips",
+      "author": "Movieclips",
+      "reason": "Answer is 'Hercules' (typically the 1997 Disney film) but YT title is 'Hercules (2014) - The Son of Zeus' - the Dwayne Johnson live-action film, a different movie.",
+      "tier": 400
+    },
+    {
+      "videoId": "9zP4EwOkFxE",
+      "answer": "Tarzan",
+      "ytTitle": "The Legend of Tarzan Movie CLIP - I Never Take the Stairs (2016) - Alexander Skarsgård Movie HD",
+      "author": "Rotten Tomatoes Coming Soon",
+      "reason": "Answer is 'Tarzan' (typically the 1999 Disney film) but YT title is 'The Legend of Tarzan Movie CLIP - I Never Take the Stairs (2016)' - the live-action 2016 reboot, a different movie.",
+      "tier": 400
+    },
+    {
+      "videoId": "cvNjYmDiV0Y",
+      "answer": "Trainspotting",
+      "ytTitle": "T2 Trainspotting (2017) - Saving Spud Scene (1/10) | Movieclips",
+      "author": "Movieclips",
+      "reason": "Answer is 'Trainspotting' but YT title is 'T2 Trainspotting (2017) - Saving Spud Scene' - the sequel, not the 1996 original.",
+      "tier": 400
+    },
+    {
+      "videoId": "ZZY-Ytrw2co",
+      "answer": "Whiplash",
+      "ytTitle": "Whiplash Amazing Final Performance (Caravan) (Part 1) | Whiplash (2014) | 1080p HD",
+      "author": "AcademyAwardClips",
+      "reason": "Answer is 'Whiplash' and YT title is 'Whiplash Amazing Final Performance (Caravan) (Part 1) | Whiplash (2014) | 1080p HD' - the title text shown in the clip likely says 'Whiplash' (final concert scene). Title leak risk.",
+      "tier": 400
+    },
+    {
+      "videoId": "Gk3MgTTHdLs",
+      "answer": "Before Sunrise",
+      "ytTitle": "Before Sunset (2/10) Movie CLIP - Did You Show Up in Vienna? (2004) HD",
+      "author": "Movieclips",
+      "reason": "Answer is 'Before Sunrise' but YT title is 'Before Sunset (2/10) Movie CLIP - Did You Show Up in Vienna?'. Wrong movie (it is the sequel Before Sunset, not Before Sunrise). Note: tier 600 also has 'Before Sunset' under videoId VhRkUhY8MlQ - duplicate clip swap.",
+      "tier": 600
+    },
+    {
+      "videoId": "A8nJBOyycC4",
+      "answer": "Boogie Nights",
+      "ytTitle": "Who else just felt the impulse to hit the gym with a margarita? 💪 #BoogieNights",
+      "author": "Paramount Plus",
+      "reason": "Answer is 'Boogie Nights' and YT title 'Who else just felt the impulse to hit the gym with a margarita? #BoogieNights' - the hashtag #BoogieNights in the title (visible in YouTube UI) leaks the answer.",
+      "tier": 600
+    },
+    {
+      "videoId": "EcW0tGDSIi0",
+      "answer": "Gone Girl",
+      "ytTitle": "maybe, just maybe, this relationship is toxic 🤔 #gonegirl",
+      "author": "Still Watching Netflix",
+      "reason": "Answer is 'Gone Girl' and YT title 'maybe, just maybe, this relationship is toxic #gonegirl' - the hashtag #gonegirl leaks the answer.",
+      "tier": 600
+    },
+    {
+      "videoId": "iZx1W6cHw-g",
+      "answer": "Magnolia",
+      "ytTitle": "Steel Magnolias (8/8) Movie CLIP - I Wanna Know Why (1989) HD",
+      "author": "Movieclips",
+      "reason": "Answer is 'Magnolia' but YT title is 'Steel Magnolias (8/8) Movie CLIP - I Wanna Know Why (1989)'. Wrong movie (Steel Magnolias is a different film entirely).",
+      "tier": 600
+    },
+    {
+      "videoId": "eP1I2fiwc2A",
+      "answer": "Roma",
+      "ytTitle": "Mother has spoken.",
+      "author": "HBO",
+      "reason": "Answer is 'Roma' but YT title is just 'Mother has spoken.' from HBO official. Title is generic; on-screen content likely fine but the clip is uncredited so verify it is actually from Roma (2018).",
+      "tier": 600
+    },
+    {
+      "videoId": "chiNyErCpAI",
+      "answer": "The Master",
+      "ytTitle": "The Last Dragon (1985) - Leroy the Master Scene | Movieclips",
+      "author": "Movieclips",
+      "reason": "Answer is 'The Master' (PT Anderson 2012) but YT title is 'The Last Dragon (1985) - Leroy the Master Scene'. Wrong movie (The Last Dragon, not The Master).",
+      "tier": 600
+    }
+  ],
+  "trailerClips": []
+}

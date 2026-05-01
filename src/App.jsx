@@ -5215,6 +5215,7 @@ function MovieScenePlayer({tile,onClipFailed}){
 
         if(playerMountRef.current) playerMountRef.current.innerHTML="";
         playerRef.current = new window.YT.Player(playerMountRef.current, {
+          host: "https://www.youtube-nocookie.com",
           videoId: tile.videoId,
           playerVars: {
             autoplay: 1,
@@ -5230,6 +5231,7 @@ function MovieScenePlayer({tile,onClipFailed}){
             enablejsapi: 1,
             mute: 1, // start muted so browser autoplay policies pass; we unmute in onReady
             origin: window.location.origin,
+            widget_referrer: window.location.href,
             start,
           },
           events: {
@@ -5383,7 +5385,7 @@ function MovieScenePlayer({tile,onClipFailed}){
             <div
               ref={playerMountRef}
               title={`${tile.a} movie scene clip`}
-              style={{position:"absolute",top:"-8%",left:"-5%",width:"110%",height:"120%",pointerEvents:"none",opacity:concealPlayer?0:1,transition:concealPlayer?"none":"opacity .16s ease"}}
+              style={{position:"absolute",top:"-14%",left:"-6%",width:"112%",height:"132%",pointerEvents:"none",opacity:concealPlayer?0:1,transition:concealPlayer?"none":"opacity .16s ease"}}
             />
             {flashMask&&(
               <div style={{position:"absolute",inset:0,display:"flex",alignItems:"center",justifyContent:"center",background:concealPlayer?"#000000":"rgba(15,23,42,.42)",pointerEvents:"none"}}>
@@ -6410,7 +6412,9 @@ export default function App(){
     const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
     let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     if(sourcePool.length===0){
-      sourcePool=buildTierPool(catId, pts, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
+      // FFA point values (100/300/500) don't exist in BANK directly — map to underlying tier.
+      const bankTier=gameMode==="ffa"?(FFA_TIER_MAP[pts]||200):pts;
+      sourcePool=buildTierPool(catId, bankTier, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     }
     // Pick a RANDOM question from the remaining pool (not sequential) for maximum scrambling.
     const q=sourcePool[Math.floor(Math.random()*sourcePool.length)];
@@ -6440,7 +6444,8 @@ export default function App(){
     const slotTail=Array.isArray(slot?.pool)?slot.pool.slice(slot.idx||0):[];
     let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     if(sourcePool.length===0){
-      sourcePool=buildTierPool(catId, pts, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
+      const bankTier=gameMode==="ffa"?(FFA_TIER_MAP[pts]||200):pts;
+      sourcePool=buildTierPool(catId, bankTier, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     }
     const q=sourcePool[Math.floor(Math.random()*sourcePool.length)];
     if(!q) return;
@@ -7175,7 +7180,7 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
           <div style={{display:"flex",gap:compact?5:7,flexWrap:"wrap",justifyContent:"center"}}>
             {teams.map((t,i)=>(
               <button key={i} className="tap" onClick={()=>onWrong(i)} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:compact?11:12,padding:compact?"9px 8px":"10px 10px",borderRadius:16,subtle:true}),flex:compact?"1 1 auto":"1",minWidth:compact?80:0,lineHeight:1.24}}>
-                {t}<br/><span style={{fontSize:compact?10:11,opacity:.88}}>-{Math.round(tile.pts/2)}</span>
+                {t}<br/><span style={{fontSize:compact?10:11,opacity:.88}}>-{tile.pts}</span>
               </button>
             ))}
           </div>
@@ -8083,41 +8088,65 @@ function SpellingBeeScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onA
   const audioRef=useRef(null);
   const spokeOnceRef=useRef(false);
 
-  // Play the word via Google Translate TTS, with SpeechSynthesis as a fallback.
-  const playWord=useCallback(()=>{
+  // Speak via Web Speech API (works on iOS, Android, desktop). Mobile Safari/Chrome
+  // require the call inside a user-gesture handler — auto-play attempt may be silent
+  // until user taps "Play Word" once. We also nudge voice list to load on iOS.
+  const speakWithSynth=useCallback(()=>{
     if(!word) return;
-    const url=`https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=${encodeURIComponent(word)}`;
+    const synth=window.speechSynthesis;
+    if(!synth) return;
     try{
-      if(audioRef.current){
-        audioRef.current.pause();
-        audioRef.current.currentTime=0;
-      }
-      const a=new Audio(url);
-      a.crossOrigin="anonymous";
-      a.onerror=()=>{
-        // Fall back to browser SpeechSynthesis if Google Translate fails (CORS, rate-limit, etc.)
-        try{
-          window.speechSynthesis?.cancel();
-          const u=new SpeechSynthesisUtterance(word);
-          u.rate=0.9;u.pitch=1;u.lang="en-US";
-          window.speechSynthesis?.speak(u);
-        }catch{}
-      };
-      audioRef.current=a;
-      a.play().catch(()=>{
-        try{
-          const u=new SpeechSynthesisUtterance(word);
-          u.rate=0.9;u.pitch=1;u.lang="en-US";
-          window.speechSynthesis?.speak(u);
-        }catch{}
-      });
+      synth.cancel();
+      const u=new SpeechSynthesisUtterance(word);
+      u.lang="en-US";
+      u.rate=0.9;
+      u.pitch=1;
+      u.volume=1;
+      // Pick an English voice if available (helps iOS voice quality).
+      const voices=synth.getVoices?.()||[];
+      const enVoice=voices.find(v=>/^en[-_]US/i.test(v.lang)&&/Google|Samantha|Alex|Daniel|Karen/i.test(v.name))
+                 ||voices.find(v=>/^en[-_]US/i.test(v.lang))
+                 ||voices.find(v=>/^en/i.test(v.lang));
+      if(enVoice) u.voice=enVoice;
+      synth.speak(u);
     }catch{}
   },[word]);
+
+  // Try Google Translate TTS first (better voice on desktop), fall back to SpeechSynthesis.
+  // On mobile, Audio() with cross-origin URLs often fails silently — rely on SpeechSynthesis.
+  const playWord=useCallback(()=>{
+    if(!word) return;
+    const isMobile=/Android|iPhone|iPad|iPod|Mobile/i.test(navigator.userAgent||"");
+    if(isMobile){
+      speakWithSynth();
+      return;
+    }
+    const url=`https://translate.google.com/translate_tts?ie=UTF-8&tl=en&client=tw-ob&q=${encodeURIComponent(word)}`;
+    try{
+      if(audioRef.current){audioRef.current.pause();audioRef.current.currentTime=0;}
+      const a=new Audio(url);
+      a.onerror=()=>speakWithSynth();
+      audioRef.current=a;
+      a.play().catch(()=>speakWithSynth());
+    }catch{
+      speakWithSynth();
+    }
+  },[word,speakWithSynth]);
+
+  // Pre-warm voice list on mount (iOS loads voices async via onvoiceschanged).
+  useEffect(()=>{
+    const synth=window.speechSynthesis;
+    if(!synth) return;
+    synth.getVoices?.();
+    const handler=()=>{synth.getVoices?.();};
+    synth.addEventListener?.("voiceschanged",handler);
+    return()=>synth.removeEventListener?.("voiceschanged",handler);
+  },[]);
 
   useEffect(()=>{
     if(spokeOnceRef.current) return;
     spokeOnceRef.current=true;
-    const t=setTimeout(playWord,250);
+    const t=setTimeout(playWord,300);
     return()=>clearTimeout(t);
   },[playWord]);
 
