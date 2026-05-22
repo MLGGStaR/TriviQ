@@ -5004,27 +5004,44 @@ function buildUsedQuestionLookup(ids){
   });
   return lookup;
 }
+function contentKeyForEntry(entry){
+  // Content-only key — used to dedupe the same question across categories.
+  // Two cats may share an identical q+a (or wiki) but each has a distinct _qid;
+  // content key catches those cross-cat repeats.
+  if(entry?.wiki) return `c:wiki:${normalizeQuestionKeyPart(entry.wiki)}`;
+  if(entry?.code) return `c:code:${normalizeQuestionKeyPart(entry.code)}`;
+  const q=normalizeQuestionKeyPart(entry?.q);
+  const a=normalizeQuestionKeyPart(entry?.a);
+  if(!q||!a) return null;
+  return `c:qa:${q}|${a}`;
+}
 function getQuestionUsageKeys(entry){
-  return [entry?._qid, entry?._qkey].filter(Boolean);
+  const keys=[entry?._qid, entry?._qkey];
+  const ck=contentKeyForEntry(entry);
+  if(ck) keys.push(ck);
+  return keys.filter(Boolean);
 }
 function isQuestionConsumed(entry, usedLookup){
   return getQuestionUsageKeys(entry).some((key)=>usedLookup.has(key));
 }
-function buildTierPool(catId, pts, usedIdsSet){
+function buildTierPool(catId, pts, usedIdsSet, onExhausted){
   const realCat = baseCat(catId);
   const fullPool = Array.isArray(BANK?.[realCat]?.[pts]) ? BANK[realCat][pts] : [];
   if(fullPool.length===0) return [];
   const usedLookup=usedIdsSet instanceof Set?usedIdsSet:buildUsedQuestionLookup(usedIdsSet);
   const remainingPool = fullPool.filter((entry)=>!isQuestionConsumed(entry,usedLookup));
-  const src=remainingPool.length>0?remainingPool:[...fullPool];
-  // Triple-shuffle with fresh Math.random entropy each call — maximum scrambling.
+  // When a tier is exhausted, signal the caller to clear that tier's used IDs so the
+  // reset is genuine (instead of recycling consumed entries every subsequent rebuild).
+  const exhausted = remainingPool.length === 0;
+  const src = exhausted ? [...fullPool] : remainingPool;
+  if(exhausted) onExhausted?.(realCat, pts, fullPool);
   return shuffle(shuffle(shuffle(src)));
 }
-function initPointers(catIds, usedIdsSet=new Set(), mode="team"){
+function initPointers(catIds, usedIdsSet=new Set(), mode="team", onExhausted){
   const pv=mode==="ffa"?FFA_POINT_VALUES:POINT_VALUES;
   const p={};catIds.forEach(id=>{p[id]={};pv.forEach(pts=>{
     const bankTier=mode==="ffa"?(FFA_TIER_MAP[pts]||200):pts;
-    p[id][pts]={pool:buildTierPool(id, bankTier, usedIdsSet),idx:0};
+    p[id][pts]={pool:buildTierPool(id, bankTier, usedIdsSet, onExhausted),idx:0};
   });});return p;
 }
 
@@ -6295,6 +6312,21 @@ export default function App(){
       setQuestionUsageResetToken(snapshot.resetToken);
     }).catch(()=>{});
   }
+  // When a (cat,tier) pool is fully exhausted, drop every stored usage id tied to that
+  // tier so the pool reset is genuine — otherwise buildTierPool would keep falling back
+  // to the full pool on every subsequent rebuild and the user sees the same recycled set.
+  function resetCatTierUsage(realCat, pts, fullPool){
+    const fullPoolKeys=new Set();
+    for(const e of fullPool||[]){
+      for(const k of getQuestionUsageKeys(e)) fullPoolKeys.add(k);
+    }
+    const prefix=`${realCat}:${pts}:`;
+    const current=usedQuestionIdsRef.current||[];
+    const next=current.filter((id)=>!id.startsWith(prefix) && !fullPoolKeys.has(id));
+    if(next.length===current.length) return;
+    usedQuestionIdsRef.current=next;
+    setUsedQuestionIds(next);
+  }
 
   async function handleAuthSubmit(e){
     e?.preventDefault?.();
@@ -6347,7 +6379,7 @@ export default function App(){
     const resetToken=questionUsageResetTokenRef.current||"initial";
     const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;
     setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);
-    setQPointers(initPointers(cats,buildUsedQuestionLookup(latestIds),gameMode));
+    setQPointers(initPointers(cats,buildUsedQuestionLookup(latestIds),gameMode,resetCatTierUsage));
     setPendingTileQuestions({});
     setBoard(makeBoard(cats,gameMode));
     setSelCats(cats);
@@ -6419,7 +6451,7 @@ export default function App(){
     if(sourcePool.length===0){
       // FFA point values (100/300/500) don't exist in BANK directly — map to underlying tier.
       const bankTier=gameMode==="ffa"?(FFA_TIER_MAP[pts]||200):pts;
-      sourcePool=buildTierPool(catId, bankTier, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
+      sourcePool=buildTierPool(catId, bankTier, usedIdsSet, resetCatTierUsage).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     }
     // Pick a RANDOM question from the remaining pool (not sequential) for maximum scrambling.
     const q=sourcePool[Math.floor(Math.random()*sourcePool.length)];
@@ -6450,7 +6482,7 @@ export default function App(){
     let sourcePool=slotTail.filter((entry)=>!isQuestionConsumed(entry,usedIdsSet)&&!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     if(sourcePool.length===0){
       const bankTier=gameMode==="ffa"?(FFA_TIER_MAP[pts]||200):pts;
-      sourcePool=buildTierPool(catId, bankTier, usedIdsSet).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
+      sourcePool=buildTierPool(catId, bankTier, usedIdsSet, resetCatTierUsage).filter((entry)=>!isQuestionConsumed(entry,reservedLookup)&&!isBadEntry(entry));
     }
     const q=sourcePool[Math.floor(Math.random()*sourcePool.length)];
     if(!q) return;
@@ -6546,7 +6578,7 @@ export default function App(){
     if(ttype==="spellingbee") return renderWithGlobalThemeToggle(<SpellingBeeScreen {...p}/>,{hideToggles:true});
     return renderWithGlobalThemeToggle(<QuestionScreen {...p}/>,{hideToggles:true});
   }
-  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={()=>{const latestIds=usedQuestionIdsRef.current;syncQuestionUsage().catch(()=>{});const accountId=accountSession?.user?.id||"guest";const resetToken=questionUsageResetTokenRef.current||"initial";const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);setQPointers(initPointers(selCats,new Set(latestIds),gameMode));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
+  if(screen==="gameover") return renderWithGlobalThemeToggle(<GameOverScreen teams={teams} scores={scores} onRematch={()=>{const latestIds=usedQuestionIdsRef.current;syncQuestionUsage().catch(()=>{});const accountId=accountSession?.user?.id||"guest";const resetToken=questionUsageResetTokenRef.current||"initial";const nonce=`${Date.now().toString(36)}.${Math.random().toString(36).slice(2,10)}`;setPoolShuffleSalt(`${accountId}:${resetToken}:${nonce}`);setQPointers(initPointers(selCats,buildUsedQuestionLookup(latestIds),gameMode,resetCatTierUsage));setPendingTileQuestions({});setBoard(makeBoard(selCats,gameMode));setScores(teams.map(()=>0));setCurTeam(0);setScreen("board");}} onNewGame={()=>setScreen("setup")}/>);
   return null;
 }
 
