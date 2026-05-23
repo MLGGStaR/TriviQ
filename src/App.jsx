@@ -4223,6 +4223,7 @@ function normalizeQuestionKeyPart(value){
     .toLowerCase()
     .normalize("NFKD")
     .replace(/[\u0300-\u036f]/g,"")
+    .replace(/[^a-z0-9]+/g," ")
     .replace(/\s+/g," ")
     .trim();
 }
@@ -4522,9 +4523,6 @@ const NON_TRIVIA_STYLE_CATEGORIES = new Set([
   "songs",
   "charades_general",
   "charades_movies",
-  "movie_show_emoji",
-  "country_emoji",
-  "general_emoji",
   "who_footballer",
   "who_tv_character",
   "who_anime_character",
@@ -4874,7 +4872,6 @@ const CAT_IDS = Object.keys(BANK);
 
 const CAT_GROUPS = [
   { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","who_what_am_i","borders_country","movie_scenes","songs","flags","country_facts","country_map","country_capitals","spelling_bee","logos"] },
-  { label:"\u{1F642} Emoji Guess", ids:["movie_show_emoji","country_emoji","general_emoji"] },
   { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow","cobra_kai","the_rookie"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
   { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant","ark_survival","minecraft"] },
@@ -4883,9 +4880,6 @@ const CAT_GROUPS = [
 ];
 
 const CATEGORY_PREVIEWS = {
-  movie_show_emoji:{src:"/category-previews/movie_show_emoji.svg",boardSrc:"/board-center-images/movie_show_emoji.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Emoji titles"},
-  country_emoji:{src:"/category-previews/country_emoji.svg",boardSrc:"/board-center-images/country_emoji.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Emoji nations"},
-  general_emoji:{src:"/category-previews/general_emoji.svg",boardSrc:"/board-center-images/general_emoji.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Emoji puzzles"},
   general:{src:"/category-previews/general.jpg",boardSrc:"/board-center-images/general.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Brain teasers"},
   geography:{src:"/category-previews/geography.jpg",boardSrc:"/board-center-images/geography.png",fit:"cover",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"World clues"},
   science:{src:"/category-previews/science.jpg",boardSrc:"/board-center-images/science.png",fit:"cover",position:"center top",boardFit:"cover",boardPosition:"center",boardBg:"#080A10",caption:"Facts & formulas"},
@@ -6165,6 +6159,14 @@ export default function App(){
   const [isSyncingUsage,setIsSyncingUsage]=useState(false);
   const usedQuestionIdsRef=useRef(usedQuestionIds);
   const questionUsageResetTokenRef=useRef(questionUsageResetToken);
+  // Session-only set of IDs that have been intentionally purged by a cat-tier reset.
+  // Any server/local sync that would re-add these must filter them out, otherwise the
+  // reset gets silently undone on the next click and the user sees recycled questions.
+  const purgedQuestionIdsRef=useRef(new Set());
+  const applyPurges=(ids)=>{
+    if(!purgedQuestionIdsRef.current.size) return Array.isArray(ids)?ids:[];
+    return (Array.isArray(ids)?ids:[]).filter((id)=>!purgedQuestionIdsRef.current.has(id));
+  };
 
   useEffect(()=>{
     if(typeof document==="undefined") return;
@@ -6263,9 +6265,10 @@ export default function App(){
       sessionToken: accountSession.sessionToken,
     }).then((snapshot)=>{
       if(cancelled) return;
-      usedQuestionIdsRef.current=snapshot.ids;
+      const filtered=applyPurges(snapshot.ids);
+      usedQuestionIdsRef.current=filtered;
       questionUsageResetTokenRef.current=snapshot.resetToken;
-      setUsedQuestionIds(snapshot.ids);
+      setUsedQuestionIds(filtered);
       setQuestionUsageResetToken(snapshot.resetToken);
       setUsageReady(true);
     }).catch(()=>{
@@ -6283,11 +6286,12 @@ export default function App(){
         accountId: accountSession.user.id,
         sessionToken: accountSession.sessionToken,
       });
-      usedQuestionIdsRef.current=snapshot.ids;
+      const filtered=applyPurges(snapshot.ids);
+      usedQuestionIdsRef.current=filtered;
       questionUsageResetTokenRef.current=snapshot.resetToken;
-      setUsedQuestionIds(snapshot.ids);
+      setUsedQuestionIds(filtered);
       setQuestionUsageResetToken(snapshot.resetToken);
-      return snapshot.ids;
+      return filtered;
     }finally{
       setUsageReady(true);
       setIsSyncingUsage(false);
@@ -6306,15 +6310,16 @@ export default function App(){
       accountId: accountSession?.user?.id,
       sessionToken: accountSession?.sessionToken,
     }).then((snapshot)=>{
-      usedQuestionIdsRef.current=snapshot.ids;
+      const filtered=applyPurges(snapshot.ids);
+      usedQuestionIdsRef.current=filtered;
       questionUsageResetTokenRef.current=snapshot.resetToken;
-      setUsedQuestionIds(snapshot.ids);
+      setUsedQuestionIds(filtered);
       setQuestionUsageResetToken(snapshot.resetToken);
     }).catch(()=>{});
   }
   // When a (cat,tier) pool is fully exhausted, drop every stored usage id tied to that
-  // tier so the pool reset is genuine — otherwise buildTierPool would keep falling back
-  // to the full pool on every subsequent rebuild and the user sees the same recycled set.
+  // tier so the pool reset is genuine. The purged IDs go into a session-only ref so
+  // any subsequent server sync that would re-merge them gets filtered.
   function resetCatTierUsage(realCat, pts, fullPool){
     const fullPoolKeys=new Set();
     for(const e of fullPool||[]){
@@ -6322,8 +6327,14 @@ export default function App(){
     }
     const prefix=`${realCat}:${pts}:`;
     const current=usedQuestionIdsRef.current||[];
-    const next=current.filter((id)=>!id.startsWith(prefix) && !fullPoolKeys.has(id));
-    if(next.length===current.length) return;
+    const stripped=[];
+    const next=current.filter((id)=>{
+      const isPurged=id.startsWith(prefix) || fullPoolKeys.has(id);
+      if(isPurged) stripped.push(id);
+      return !isPurged;
+    });
+    if(stripped.length===0) return;
+    for(const id of stripped) purgedQuestionIdsRef.current.add(id);
     usedQuestionIdsRef.current=next;
     setUsedQuestionIds(next);
   }
@@ -6366,6 +6377,7 @@ export default function App(){
     setCurTeam(0);
     usedQuestionIdsRef.current=[];
     questionUsageResetTokenRef.current="initial";
+    purgedQuestionIdsRef.current=new Set();
     setUsedQuestionIds([]);
     setQuestionUsageResetToken("initial");
     setUsageReady(false);

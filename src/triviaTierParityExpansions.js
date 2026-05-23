@@ -143,26 +143,7 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["This country lies on South America's Atlantic coast and was a Dutch colony", "Suriname"],
     ]),
   },
-  movie_show_emoji: {
-    400: qa([
-      ["🧪👨‍🏫💊", "Breaking Bad"],
-      ["🕷️👨‍🎓🗽", "Spider-Man"],
-      ["👑🐉🗡️", "Game of Thrones"],
-    ]),
-    600: qa([
-      ["🧥🧠🔪", "Dexter"],
-      ["🧑‍🚀🌽🪐", "Interstellar"],
-    ]),
-  },
-  country_emoji: {
-    400: qa([
-      ["🦘🏏🏖️", "Australia"],
-    ]),
-    600: qa([
-      ["🧀⌚🏔️", "Switzerland"],
-    ]),
-  },
-  general_emoji: {
+general_emoji: {
     400: qa([
       ["🔍🕵️‍♂️🧩", "Detective"],
     ]),

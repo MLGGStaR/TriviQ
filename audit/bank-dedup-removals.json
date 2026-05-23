@@ -1,0 +1,616 @@
+{
+  "removals": [
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Chris Brown",
+      "reason": "wiki \"Chris_Brown\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Jennifer Lopez",
+      "reason": "wiki \"Jennifer_Lopez\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Selena Gomez",
+      "reason": "wiki \"Selena_Gomez\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Cardi B",
+      "reason": "wiki \"Cardi_B\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Ariana Grande",
+      "reason": "wiki \"Ariana_Grande\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Justin Bieber",
+      "reason": "wiki \"Justin_Bieber\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Billie Eilish",
+      "reason": "wiki \"Billie_Eilish\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Shakira",
+      "reason": "wiki \"Shakira\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Beyoncé",
+      "reason": "wiki \"Beyonc%C3%A9\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Rihanna",
+      "reason": "wiki \"Rihanna\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Taylor Swift",
+      "reason": "wiki \"Taylor_Swift\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Neymar",
+      "reason": "wiki \"Neymar\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Cristiano Ronaldo",
+      "reason": "wiki \"Cristiano_Ronaldo\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Lionel Messi",
+      "reason": "wiki \"Lionel_Messi\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Dua Lipa",
+      "reason": "wiki \"Dua_Lipa\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Drake",
+      "reason": "wiki \"Drake_(musician)\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Snoop Dogg",
+      "reason": "wiki \"Snoop_Dogg\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Ed Sheeran",
+      "reason": "wiki \"Ed_Sheeran\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "David Beckham",
+      "reason": "wiki \"David_Beckham\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Miley Cyrus",
+      "reason": "wiki \"Miley_Cyrus\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "who_influencer",
+      "q": "Guess the influencer from the image",
+      "a": "Nicki Minaj",
+      "reason": "wiki \"Nicki_Minaj\" already in who_artist/who_footballer — influencer dedup"
+    },
+    {
+      "cat": "general",
+      "q": "How many players on a basketball team on court?",
+      "a": "5",
+      "reason": "same-answer cap (>3 entries with answer \"5\" in general/200)"
+    },
+    {
+      "cat": "general",
+      "q": "How many sides does an octagon have?",
+      "a": "8",
+      "reason": "same-answer cap (>3 entries with answer \"8\" in general/200)"
+    },
+    {
+      "cat": "general",
+      "q": "How many zeros in one million?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in general/200)"
+    },
+    {
+      "cat": "science",
+      "q": "What element has the atomic number 1?",
+      "a": "Hydrogen",
+      "reason": "same-answer cap (>3 entries with answer \"Hydrogen\" in science/400)"
+    },
+    {
+      "cat": "sports",
+      "q": "Points for a try in rugby union?",
+      "a": "5",
+      "reason": "same-answer cap (>3 entries with answer \"5\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "How many bases are there on a baseball diamond?",
+      "a": "4",
+      "reason": "same-answer cap (>3 entries with answer \"4\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "How many Grand Slam events does tennis have?",
+      "a": "4",
+      "reason": "same-answer cap (>3 entries with answer \"4\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "Which sport has the Claret Jug as a trophy?",
+      "a": "Golf",
+      "reason": "same-answer cap (>3 entries with answer \"Golf\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "Which sport uses the term 'bogey'?",
+      "a": "Golf",
+      "reason": "same-answer cap (>3 entries with answer \"Golf\" in sports/200)"
+    },
+    {
+      "cat": "music",
+      "q": "Band behind We Will Rock You?",
+      "a": "Queen",
+      "reason": "same-answer cap (>3 entries with answer \"Queen\" in music/200)"
+    },
+    {
+      "cat": "movies",
+      "q": "Who directed 'Schindler's List'?",
+      "a": "Steven Spielberg",
+      "reason": "same-answer cap (>3 entries with answer \"Steven Spielberg\" in movies/200)"
+    },
+    {
+      "cat": "movies",
+      "q": "Director of Jurassic Park?",
+      "a": "Steven Spielberg",
+      "reason": "same-answer cap (>3 entries with answer \"Steven Spielberg\" in movies/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country is shaped like a boot?",
+      "a": "Italy",
+      "reason": "same-answer cap (>3 entries with answer \"Italy\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country has the kangaroo?",
+      "a": "Australia",
+      "reason": "same-answer cap (>3 entries with answer \"Australia\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country is home to Mount Fuji?",
+      "a": "Japan",
+      "reason": "same-answer cap (>3 entries with answer \"Japan\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country has the most coffee production?",
+      "a": "Brazil",
+      "reason": "same-answer cap (>3 entries with answer \"Brazil\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country is the Amazon river mostly in?",
+      "a": "Brazil",
+      "reason": "same-answer cap (>3 entries with answer \"Brazil\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country's flag bears a red maple leaf?",
+      "a": "Canada",
+      "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country borders the USA to the north?",
+      "a": "Canada",
+      "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country is Toronto in?",
+      "a": "Canada",
+      "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country is shaped like a maple leaf country?",
+      "a": "Canada",
+      "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "What country is the Taj Mahal in?",
+      "a": "India",
+      "reason": "same-answer cap (>3 entries with answer \"India\" in country_facts/200)"
+    },
+    {
+      "cat": "star_wars",
+      "q": "Who plays Grand Admiral Thrawn in live action?",
+      "a": "Lars Mikkelsen",
+      "reason": "same-answer cap (>3 entries with answer \"Lars Mikkelsen\" in star_wars/600)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend marries Chandler?",
+      "a": "Monica",
+      "reason": "same-answer cap (>3 entries with answer \"Monica\" in friends/200)"
+    },
+    {
+      "cat": "stranger_things",
+      "q": "What number is the Chief's enemy at the lab introduced in season 4?",
+      "a": "One",
+      "reason": "same-answer cap (>3 entries with answer \"One\" in stranger_things/600)"
+    },
+    {
+      "cat": "video_games",
+      "q": "What game features the Creeper enemy?",
+      "a": "Minecraft",
+      "reason": "same-answer cap (>3 entries with answer \"Minecraft\" in video_games/200)"
+    },
+    {
+      "cat": "video_games",
+      "q": "What studio made Uncharted?",
+      "a": "Naughty Dog",
+      "reason": "same-answer cap (>3 entries with answer \"Naughty Dog\" in video_games/600)"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What type does Misty specialize in?",
+      "a": "Water",
+      "reason": "same-answer cap (>3 entries with answer \"Water\" in pokemon/200)"
+    },
+    {
+      "cat": "pokemon",
+      "q": "What type is Psyduck?",
+      "a": "Water",
+      "reason": "same-answer cap (>3 entries with answer \"Water\" in pokemon/200)"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is Kid Omni-Man's other nickname?",
+      "a": "Oliver",
+      "reason": "same-answer cap (>3 entries with answer \"Oliver\" in invincible/600)"
+    },
+    {
+      "cat": "invincible",
+      "q": "What planet is Omni-Man sent to after leaving Earth?",
+      "a": "Thraxa",
+      "reason": "same-answer cap (>3 entries with answer \"Thraxa\" in invincible/600)"
+    },
+    {
+      "cat": "invincible",
+      "q": "What is the name of the planet Nolan settles on in season 2?",
+      "a": "Thraxa",
+      "reason": "same-answer cap (>3 entries with answer \"Thraxa\" in invincible/600)"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What is the name of the corporation that manages superheroes?",
+      "a": "Vought",
+      "reason": "same-answer cap (>3 entries with answer \"Vought\" in the_boys/200)"
+    },
+    {
+      "cat": "the_boys",
+      "q": "What Supe joins The Seven as the first Black speedster?",
+      "a": "A-Train",
+      "reason": "same-answer cap (>3 entries with answer \"A-Train\" in the_boys/200)"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "What does Negan call his baseball bat?",
+      "a": "Lucille",
+      "reason": "same-answer cap (>3 entries with answer \"Lucille\" in the_walking_dead/400)"
+    },
+    {
+      "cat": "the_walking_dead",
+      "q": "Who does Rick exile for burning the victims?",
+      "a": "Carol",
+      "reason": "same-answer cap (>3 entries with answer \"Carol\" in the_walking_dead/600)"
+    },
+    {
+      "cat": "suits",
+      "q": "What school did Harvey attend?",
+      "a": "Harvard",
+      "reason": "same-answer cap (>3 entries with answer \"Harvard\" in suits/200)"
+    },
+    {
+      "cat": "suits",
+      "q": "Who is Harvey's mentor and boss early in the series?",
+      "a": "Jessica Pearson",
+      "reason": "same-answer cap (>3 entries with answer \"Jessica Pearson\" in suits/200)"
+    },
+    {
+      "cat": "vikings",
+      "q": "What English monastery is raided in the first season?",
+      "a": "Lindisfarne",
+      "reason": "same-answer cap (>3 entries with answer \"Lindisfarne\" in vikings/200)"
+    },
+    {
+      "cat": "charades_movies",
+      "q": "Act out this movie or TV show!",
+      "a": "Home Alone",
+      "reason": "same-answer cap (>3 entries with answer \"Home Alone\" in charades_movies/200)"
+    },
+    {
+      "cat": "charades_movies",
+      "q": "Act out this movie or TV show!",
+      "a": "Cars",
+      "reason": "same-answer cap (>3 entries with answer \"Cars\" in charades_movies/200)"
+    },
+    {
+      "cat": "charades_movies",
+      "q": "Act out this movie or TV show!",
+      "a": "Moana",
+      "reason": "same-answer cap (>3 entries with answer \"Moana\" in charades_movies/200)"
+    },
+    {
+      "cat": "charades_movies",
+      "q": "Act out this movie or TV show!",
+      "a": "Up",
+      "reason": "same-answer cap (>3 entries with answer \"Up\" in charades_movies/200)"
+    },
+    {
+      "cat": "charades_movies",
+      "q": "Act out this movie or TV show!",
+      "a": "There Will Be Blood",
+      "reason": "same-answer cap (>3 entries with answer \"There Will Be Blood\" in charades_movies/600)"
+    },
+    {
+      "cat": "pop_culture",
+      "q": "Which singer famously had a feud with Katy Perry?",
+      "a": "Taylor Swift",
+      "reason": "same-answer cap (>3 entries with answer \"Taylor Swift\" in pop_culture/400)"
+    },
+    {
+      "cat": "technology",
+      "q": "What company makes the iPhone?",
+      "a": "Apple",
+      "reason": "same-answer cap (>3 entries with answer \"Apple\" in technology/200)"
+    },
+    {
+      "cat": "technology",
+      "q": "What company owns YouTube?",
+      "a": "Google",
+      "reason": "same-answer cap (>3 entries with answer \"Google\" in technology/200)"
+    },
+    {
+      "cat": "family_guy",
+      "q": "Who voices Peter Griffin?",
+      "a": "Seth MacFarlane",
+      "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+    },
+    {
+      "cat": "family_guy",
+      "q": "Who voices Stewie?",
+      "a": "Seth MacFarlane",
+      "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+    },
+    {
+      "cat": "family_guy",
+      "q": "Who voices Brian?",
+      "a": "Seth MacFarlane",
+      "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What is the name of Mitchells coworker who appeared several times?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/400)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What fraternity was Phil in?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "Who is the French chef in an episode Jay hires?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "Who played Manny's biological grandfather?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What reality show does Haley audition for?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What airline does Jay avoid flying?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+    },
+    {
+      "cat": "modern_family",
+      "q": "What team does Phil coach in little league?",
+      "a": "None iconic",
+      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+    },
+    {
+      "cat": "arrow",
+      "q": "What is Oliver Queen's superhero alias?",
+      "a": "Green Arrow",
+      "reason": "same-answer cap (>3 entries with answer \"Green Arrow\" in arrow/200)"
+    },
+    {
+      "cat": "arrow",
+      "q": "Nyssa al Ghul is the daughter of?",
+      "a": "Ra's al Ghul",
+      "reason": "same-answer cap (>3 entries with answer \"Ra's al Ghul\" in arrow/400)"
+    },
+    {
+      "cat": "arrow",
+      "q": "Who is the magical villain of season four?",
+      "a": "Damien Darhk",
+      "reason": "same-answer cap (>3 entries with answer \"Damien Darhk\" in arrow/400)"
+    },
+    {
+      "cat": "minecraft",
+      "q": "What underground mob glows and explodes softly on tap?",
+      "a": "Creeper",
+      "reason": "same-answer cap (>3 entries with answer \"Creeper\" in minecraft/200)"
+    },
+    {
+      "cat": "space",
+      "q": "What planet is named after the god of war?",
+      "a": "Mars",
+      "reason": "same-answer cap (>3 entries with answer \"Mars\" in space/200)"
+    },
+    {
+      "cat": "space",
+      "q": "What is the largest planet?",
+      "a": "Jupiter",
+      "reason": "same-answer cap (>3 entries with answer \"Jupiter\" in space/200)"
+    },
+    {
+      "cat": "space",
+      "q": "What planet is famous for its Great Red Spot?",
+      "a": "Jupiter",
+      "reason": "same-answer cap (>3 entries with answer \"Jupiter\" in space/200)"
+    },
+    {
+      "cat": "space",
+      "q": "What is the hot ball of gas at our solar system's center?",
+      "a": "The Sun",
+      "reason": "same-answer cap (>3 entries with answer \"The Sun\" in space/200)"
+    },
+    {
+      "cat": "space",
+      "q": "What planet is known for being windy and blue?",
+      "a": "Neptune",
+      "reason": "same-answer cap (>3 entries with answer \"Neptune\" in space/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 10% of 200?",
+      "a": "20",
+      "reason": "same-answer cap (>3 entries with answer \"20\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 20 percent of 100?",
+      "a": "20",
+      "reason": "same-answer cap (>3 entries with answer \"20\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 4 plus 4 plus 4?",
+      "a": "12",
+      "reason": "same-answer cap (>3 entries with answer \"12\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 18 divided by 2?",
+      "a": "9",
+      "reason": "same-answer cap (>3 entries with answer \"9\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is double 15?",
+      "a": "30",
+      "reason": "same-answer cap (>3 entries with answer \"30\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is a quarter of 100?",
+      "a": "25",
+      "reason": "same-answer cap (>3 entries with answer \"25\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 10 times 10?",
+      "a": "100",
+      "reason": "same-answer cap (>3 entries with answer \"100\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 144 divided by 12?",
+      "a": "12",
+      "reason": "same-answer cap (>3 entries with answer \"12\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "How many edges does a cube have?",
+      "a": "12",
+      "reason": "same-answer cap (>3 entries with answer \"12\" in math/400)"
+    },
+    {
+      "cat": "uae",
+      "q": "What city is the Sheikh Zayed Grand Mosque in?",
+      "a": "Abu Dhabi",
+      "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/200)"
+    },
+    {
+      "cat": "uae",
+      "q": "What UAE emirate has the tallest mountain Jebel Jais?",
+      "a": "Ras Al Khaimah",
+      "reason": "same-answer cap (>3 entries with answer \"Ras Al Khaimah\" in uae/400)"
+    },
+    {
+      "cat": "uae",
+      "q": "Where is Yas Island located?",
+      "a": "Abu Dhabi",
+      "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/400)"
+    },
+    {
+      "cat": "uae",
+      "q": "What is the second largest emirate by area?",
+      "a": "Dubai",
+      "reason": "same-answer cap (>3 entries with answer \"Dubai\" in uae/400)"
+    },
+    {
+      "cat": "borders_country",
+      "q": "What countries border Switzerland (to the north)?",
+      "a": "Germany",
+      "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
+    },
+    {
+      "cat": "borders_country",
+      "q": "What countries border Netherlands (to the east)?",
+      "a": "Germany",
+      "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
+    }
+  ]
+}

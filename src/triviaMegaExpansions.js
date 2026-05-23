@@ -620,41 +620,7 @@ const TRIVIA_MEGA_EXPANSIONS = {
       "Act this movie or show",
     ),
   },
-  movie_show_emoji: {
-    200: [
-      guess("🧛‍♂️ 🧄 🌙", "Twilight"),
-      guess("❄️ 👭 👑", "Frozen"),
-      guess("🦇 🃏 🌃", "The Dark Knight"),
-    ],
-    400: [
-      guess("💼 ⚖️ 👔", "Suits"),
-      guess("🕵️‍♂️ 🎻 🔎", "Sherlock"),
-      guess("🍗 🧪 💀", "Breaking Bad"),
-    ],
-    600: [
-      guess("🧠 📺 🚪", "The Truman Show"),
-      guess("🏨 🍰 🔔", "The Grand Budapest Hotel"),
-      guess("🚚 🔥 🏜️", "Mad Max: Fury Road"),
-    ],
-  },
-  country_emoji: {
-    200: [
-      guess("🌷 🚲 🧀", "The Netherlands"),
-      guess("🍁 🏒 ❄️", "Canada"),
-      guess("🍕 🍝 🛵", "Italy"),
-    ],
-    400: [
-      guess("🧀 ⌚ 🏔️", "Switzerland"),
-      guess("🕌 🛢️ 🏜️", "Saudi Arabia"),
-      guess("🗿 🌶️ ⛰️", "Chile"),
-    ],
-    600: [
-      guess("🏔️ 🙏 🥾", "Nepal"),
-      guess("🌲 💻 ❄️", "Estonia"),
-      guess("🏜️ 🦊 📜", "Jordan"),
-    ],
-  },
-  general_emoji: {
+general_emoji: {
     200: [
       guess("🍿 🎬", "Movie night"),
       guess("📚 🧠", "Studying"),

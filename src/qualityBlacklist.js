@@ -5168,264 +5168,6 @@ const entries = [
     "reason": ">5 words"
   },
   {
-    "cat": "movie_show_emoji",
-    "q": "🧛‍♂️ 🧄 🌙",
-    "a": "Twilight",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "❄️ 👭 👑",
-    "a": "Frozen",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🦇 🃏 🌃",
-    "a": "The Dark Knight",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "💼 ⚖️ 👔",
-    "a": "Suits",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🕵️‍♂️ 🎻 🔎",
-    "a": "Sherlock",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🍗 🧪 💀",
-    "a": "Breaking Bad",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🧠 📺 🚪",
-    "a": "The Truman Show",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🏨 🍰 🔔",
-    "a": "The Grand Budapest Hotel",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🚚 🔥 🏜️",
-    "a": "Mad Max: Fury Road",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌷 🚲 🧀",
-    "a": "The Netherlands",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍁 🏒 ❄️",
-    "a": "Canada",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍕 🍝 🛵",
-    "a": "Italy",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧀 ⌚ 🏔️",
-    "a": "Switzerland",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🕌 🛢️ 🏜️",
-    "a": "Saudi Arabia",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🗿 🌶️ ⛰️",
-    "a": "Chile",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏔️ 🙏 🥾",
-    "a": "Nepal",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌲 💻 ❄️",
-    "a": "Estonia",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏜️ 🦊 📜",
-    "a": "Jordan",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🍿 🎬",
-    "a": "Movie night",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "📚 🧠",
-    "a": "Studying",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "✈️ 🧳",
-    "a": "Travel",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🧠 ⚡ 💡",
-    "a": "Brainstorm",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "⏰ 💥 😵",
-    "a": "Wake-up call",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "📉 😬 💸",
-    "a": "Bad investment",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🧊 🧠 😎",
-    "a": "Keep your cool",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🪞 😬",
-    "a": "Self-conscious",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🚪 🐘",
-    "a": "Elephant in the room",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🧪👨‍🏫💊",
-    "a": "Breaking Bad",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🕷️👨‍🎓🗽",
-    "a": "Spider-Man",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "👑🐉🗡️",
-    "a": "Game of Thrones",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🧥🧠🔪",
-    "a": "Dexter",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🧑‍🚀🌽🪐",
-    "a": "Interstellar",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦘🏏🏖️",
-    "a": "Australia",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧀⌚🏔️",
-    "a": "Switzerland",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🔍🕵️‍♂️🧩",
-    "a": "Detective",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "👨‍🚀🌌🧐",
-    "a": "Interstellar",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🧔⚡🔩",
-    "a": "Thor",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🦁👑🌅",
-    "a": "The Lion King",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "movie_show_emoji",
-    "q": "🖤📺🧠",
-    "a": "Black Mirror",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "☘️🍺🎻",
-    "a": "Ireland",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🎂🥳🎚",
-    "a": "Birthday party",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🧲⚡🔬",
-    "a": "Electromagnetism",
-    "reason": "legacy representational emoji"
-  },
-  {
-    "cat": "general_emoji",
-    "q": "🧠 💡",
-    "a": "Brainstorm",
-    "reason": "legacy representational emoji"
-  },
-  {
     "cat": "general",
     "q": "What is the currency of the United States?",
     "a": "US dollar",
@@ -6822,546 +6564,6 @@ const entries = [
     "q": "Who voices Buzz Lightyear?",
     "a": "Tim Allen",
     "reason": "too easy: universal Toy Story knowledge"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍁 🏒 🧊",
-    "a": "Canada",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦅 🗽 🍔",
-    "a": "United States",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌮 🌵 🎸",
-    "a": "Mexico",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⚽ 🎉 🌴",
-    "a": "Brazil",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🥩 ⚽ 💃",
-    "a": "Argentina",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🗼 🥖 🧀",
-    "a": "France",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍕 🍝 🏛️",
-    "a": "Italy",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍺 🥨 🚗",
-    "a": "Germany",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "💃 🐂 ☀️",
-    "a": "Spain",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "👑 ☕ 🌧️",
-    "a": "United Kingdom",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "☘️ 🍺 🎻",
-    "a": "Ireland",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦘 🏄 ☀️",
-    "a": "Australia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🥝 🐑 🏉",
-    "a": "New Zealand",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍣 🗻 🌸",
-    "a": "Japan",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🐉 🥢 🏯",
-    "a": "China",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🕌 🍛 🪷",
-    "a": "India",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "📱 🎤 💄",
-    "a": "South Korea",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🐪 🔺 ☀️",
-    "a": "Egypt",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏛️ 🏺 🌊",
-    "a": "Greece",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🕌 🐪 🛢️",
-    "a": "Saudi Arabia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏙️ 🏎️ 🛍️",
-    "a": "United Arab Emirates",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦁 🏉 🌈",
-    "a": "South Africa",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦁 🏃 🦒",
-    "a": "Kenya",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🎶 🛢️ 🌍",
-    "a": "Nigeria",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧿 🐪 🫖",
-    "a": "Morocco",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏖️ 🥊 🐘",
-    "a": "Thailand",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🪑 🎵 ❄️",
-    "a": "Sweden",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⛷️ ❄️ 🌊",
-    "a": "Norway",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⚽ 🍷 🌊",
-    "a": "Portugal",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🐻 ❄️ ⛪",
-    "a": "Russia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧀 ⌚ ⛰️",
-    "a": "Switzerland",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🎻 ☕ ⛰️",
-    "a": "Austria",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🚲 🌷 🌬️",
-    "a": "Netherlands",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍫 🍟 🧇",
-    "a": "Belgium",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🥟 🏰 🎻",
-    "a": "Poland",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍺 🏰 🌉",
-    "a": "Czechia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌶️ 🛁 🎻",
-    "a": "Hungary",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧛 ⛰️ 🏰",
-    "a": "Romania",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "📱 🌲 ❄️",
-    "a": "Finland",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧜‍♀️ 🚲 👑",
-    "a": "Denmark",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌋 ♨️ ❄️",
-    "a": "Iceland",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "✡️ 🥙 🌊",
-    "a": "Israel",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏔️ 🏏 🍛",
-    "a": "Pakistan",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🧵 🌊 👕",
-    "a": "Bangladesh",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌋 🏝️ 🐉",
-    "a": "Indonesia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🛵 🍜 🌾",
-    "a": "Vietnam",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏝️ 🎤 🥭",
-    "a": "Philippines",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏙️ 🌴 🛕",
-    "a": "Malaysia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦁 🏙️ 💰",
-    "a": "Singapore",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "☕ ⛰️ 💃",
-    "a": "Colombia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌶️ 🏔️ 🌊",
-    "a": "Chile",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦙 🏔️ 🥔",
-    "a": "Peru",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "✈️ 🏟️ 🐪",
-    "a": "Qatar",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "☕ 🏃 ⛰️",
-    "a": "Ethiopia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦓 🐘 🌋",
-    "a": "Tanzania",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌴 🎶 🏃",
-    "a": "Jamaica",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🚬 🚗 🎺",
-    "a": "Cuba",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⚽ 🌊 🏰",
-    "a": "Croatia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🎾 🏀 🏰",
-    "a": "Serbia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏞️ ⛰️ 🚣",
-    "a": "Slovenia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🐉 ⛰️ 🙏",
-    "a": "Bhutan",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏔️ 🥾 🛕",
-    "a": "Nepal",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦁 🍵 🏝️",
-    "a": "Sri Lanka",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🐎 🏹 ⛰️",
-    "a": "Mongolia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🕌 🍉 ☀️",
-    "a": "Uzbekistan",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⛰️ 🏇 🦅",
-    "a": "Kyrgyzstan",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏀 🌲 🌊",
-    "a": "Lithuania",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌲 🏒 🌊",
-    "a": "Latvia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "💻 🌲 ❄️",
-    "a": "Estonia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⛰️ 🏰 🚗",
-    "a": "Slovakia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌲 🧆 🌊",
-    "a": "Lebanon",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏜️ 🧿 🏛️",
-    "a": "Jordan",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏜️ ⛵ 🕌",
-    "a": "Oman",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏎️ 🏝️ 🛢️",
-    "a": "Bahrain",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏙️ 🛢️ 🌊",
-    "a": "Kuwait",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏔️ 🦙 🧂",
-    "a": "Bolivia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⚽ 🌿 ☀️",
-    "a": "Paraguay",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⚽ 🌿 🌊",
-    "a": "Uruguay",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🌋 🐢 🍌",
-    "a": "Ecuador",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "⚾ 🏝️ 🎶",
-    "a": "Dominican Republic",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏜️ 🦊 🕌",
-    "a": "Algeria",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏛️ 🏖️ 🌶️",
-    "a": "Tunisia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "💎 🦓 ☀️",
-    "a": "Botswana",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🦎 🌴 🐒",
-    "a": "Madagascar",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏝️ 🐠 ☀️",
-    "a": "Maldives",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🏰 ⛵ ☀️",
-    "a": "Malta",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "💶 🏰 🌲",
-    "a": "Luxembourg",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "👑 ⛰️ 🏦",
-    "a": "Liechtenstein",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🍷 ⛰️ 🥟",
-    "a": "Georgia",
-    "reason": "replaced by phonetic emoji set"
-  },
-  {
-    "cat": "country_emoji",
-    "q": "🚀 🐎 ⛰️",
-    "a": "Kazakhstan",
-    "reason": "replaced by phonetic emoji set"
   },
   {
     "cat": "who_movie_character",
@@ -11544,6 +10746,1722 @@ const entries = [
     "q": "What vehicle do the cousins crawl toward in the opening shrine?",
     "a": "They crawl to a shrine",
     "reason": "asked 'what <noun>', answer uses pronoun + verb, doesn't name it"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Nebula?",
+    "a": "Karen Gillan",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the Illuminati in Marvel comics?",
+    "a": "A secret group including Iron Man, Mr. Fantastic, Professor X, Doctor Strange, Namor, Black Bolt",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the Civil War in Marvel comics?",
+    "a": "Iron Man supports the Superhuman Registration Act; Cap opposes it — heroes fight each other",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who is the Beyonder in Marvel Comics?",
+    "a": "An incredibly powerful cosmic entity from outside the Marvel universe — responsible for Secret Wars",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the Beyonder's Secret Wars?",
+    "a": "He transports heroes and villains to Battleworld to fight — one of Marvel's most important crossover events",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created Superman?",
+    "a": "Jerry Siegel and Joe Shuster — first appeared in Action Comics #1 in 1938",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What is Blackest Night?",
+    "a": "A DC storyline where dead heroes and villains are reanimated as Black Lanterns who consume emotion",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What is Crisis on Infinite Earths?",
+    "a": "A 1985 DC storyline collapsing the multiverse — killing the original Supergirl and Barry Allen",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the New Gods concept?",
+    "a": "Jack Kirby's Fourth World mythology — beings from New Genesis and Apokolips representing good and evil",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What is the Nth metal in DC Comics?",
+    "a": "A mysterious metal from Thanagar that defies physics — worn by Hawkman in his anti-gravity harness",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Tony Stark / Iron Man in the MCU?",
+    "a": "Robert Downey Jr.",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Thor in the MCU?",
+    "a": "Chris Hemsworth",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Wanda Maximoff in the MCU?",
+    "a": "Elizabeth Olsen",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Scarlet Witch's synthetic love interest?",
+    "a": "Paul Bettany",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Ant-Man in the MCU?",
+    "a": "Paul Rudd",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Star-Lord in the MCU?",
+    "a": "Chris Pratt",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Hulk in the MCU?",
+    "a": "Mark Ruffalo",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Black Widow in the MCU?",
+    "a": "Scarlett Johansson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Wong in Doctor Strange?",
+    "a": "Benedict Wong",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Gamora in the MCU?",
+    "a": "Zoe Saldana",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Peggy Carter in the MCU?",
+    "a": "Hayley Atwell",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Happy Hogan in the MCU?",
+    "a": "Jon Favreau",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Pepper Potts?",
+    "a": "Gwyneth Paltrow",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Drax in Guardians of the Galaxy?",
+    "a": "Dave Bautista",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who voices Rocket?",
+    "a": "Bradley Cooper",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who voices Groot?",
+    "a": "Vin Diesel",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Hela?",
+    "a": "Cate Blanchett",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Aunt May in the MCU Spider-Man films?",
+    "a": "Marisa Tomei",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays the Vulture?",
+    "a": "Michael Keaton",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Mysterio?",
+    "a": "Jake Gyllenhaal",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Pepper Potts in the MCU?",
+    "a": "Gwyneth Paltrow",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Gamora?",
+    "a": "Zoe Saldana",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Drax?",
+    "a": "Dave Bautista",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Vision?",
+    "a": "Paul Bettany",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Loki in the MCU?",
+    "a": "Tom Hiddleston",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Hank Pym?",
+    "a": "Michael Douglas",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Daredevil in the Netflix series?",
+    "a": "Charlie Cox",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Yelena Belova?",
+    "a": "Florence Pugh",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays M'Baku?",
+    "a": "Winston Duke",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays the Grandmaster?",
+    "a": "Jeff Goldblum",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Valkyrie in the MCU?",
+    "a": "Tessa Thompson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Mantis in Guardians of the Galaxy?",
+    "a": "Pom Klementieff",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays John Walker?",
+    "a": "Wyatt Russell",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Sam Wilson?",
+    "a": "Anthony Mackie",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Kate Bishop?",
+    "a": "Hailee Steinfeld",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Bucky Barnes?",
+    "a": "Sebastian Stan",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Xu Wenwu?",
+    "a": "Tony Leung",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Ms. Marvel?",
+    "a": "Iman Vellani",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Adam Warlock?",
+    "a": "Will Poulter",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays the High Evolutionary?",
+    "a": "Chukwudi Iwuji",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Okoye?",
+    "a": "Danai Gurira",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Shuri?",
+    "a": "Letitia Wright",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Namor in Wakanda Forever?",
+    "a": "Tenoch Huerta",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays the Ancient One?",
+    "a": "Tilda Swinton",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Mordo?",
+    "a": "Chiwetel Ejiofor",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Mantis?",
+    "a": "Pom Klementieff",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Wong?",
+    "a": "Benedict Wong",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Vulture in Spider-Man: Homecoming?",
+    "a": "Michael Keaton",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Hela in Thor: Ragnarok?",
+    "a": "Cate Blanchett",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Kang / He Who Remains in the MCU?",
+    "a": "Jonathan Majors",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Moon Knight?",
+    "a": "Oscar Isaac",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Shang-Chi?",
+    "a": "Simu Liu",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Kingpin in Hawkeye?",
+    "a": "Vincent D'Onofrio",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays She-Hulk?",
+    "a": "Tatiana Maslany",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Agatha Harkness in WandaVision?",
+    "a": "Kathryn Hahn",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays White Vision?",
+    "a": "Paul Bettany",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Yon-Rogg in Captain Marvel?",
+    "a": "Jude Law",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Talos?",
+    "a": "Ben Mendelsohn",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Maria Rambeau?",
+    "a": "Lashana Lynch",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays adult Monica Rambeau?",
+    "a": "Teyonah Parris",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Ghost in Ant-Man and the Wasp?",
+    "a": "Hannah John-Kamen",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Bill Foster in Ant-Man and the Wasp?",
+    "a": "Laurence Fishburne",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Taskmaster in Black Widow?",
+    "a": "Olga Kurylenko",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Dreykov in Black Widow?",
+    "a": "Ray Winstone",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Alexei the Red Guardian?",
+    "a": "David Harbour",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Melina Vostokoff in Black Widow?",
+    "a": "Rachel Weisz",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Sersi in Eternals?",
+    "a": "Gemma Chan",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who created the character of Iron Man in the comics?",
+    "a": "Stan Lee, Larry Lieber, Don Heck, Jack Kirby",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "In which comic issue did Iron Man first appear?",
+    "a": "Tales of Suspense #39",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who was the first person in the comics to wield the Mjolnir other than Thor, Odin, or a worthy human?",
+    "a": "Beta Ray Bill",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Gilgamesh in Eternals?",
+    "a": "Don Lee",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Ikaris?",
+    "a": "Richard Madden",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Thena?",
+    "a": "Angelina Jolie",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Kingo in Eternals?",
+    "a": "Kumail Nanjiani",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Phastos?",
+    "a": "Brian Tyree Henry",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Makkari?",
+    "a": "Lauren Ridloff",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Druig?",
+    "a": "Barry Keoghan",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Sprite?",
+    "a": "Lia McHugh",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Starfox at the end of Eternals?",
+    "a": "Harry Styles",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays America Chavez?",
+    "a": "Xochitl Gomez",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who played the variant of Professor X in Multiverse of Madness?",
+    "a": "Patrick Stewart",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who played Mr Fantastic in Multiverse of Madness?",
+    "a": "John Krasinski",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who played Black Bolt in Multiverse of Madness?",
+    "a": "Anson Mount",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who played Captain Carter in Multiverse of Madness?",
+    "a": "Hayley Atwell",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Mobius in Loki?",
+    "a": "Owen Wilson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Sylvie?",
+    "a": "Sophia Di Martino",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Phil Coulson?",
+    "a": "Clark Gregg",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who played the variant of Captain Marvel (Maria Rambeau) in Multiverse of Madness?",
+    "a": "Lashana Lynch",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Kang the Conqueror / He Who Remains?",
+    "a": "Jonathan Majors",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Kamala Khan in the MCU?",
+    "a": "Iman Vellani",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Joker in The Dark Knight (2008)?",
+    "a": "Heath Ledger",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Superman in Man of Steel?",
+    "a": "Henry Cavill",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Batman in Batman v Superman?",
+    "a": "Ben Affleck",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Joker in Joker (2019)?",
+    "a": "Joaquin Phoenix",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Harley Quinn in the DCEU?",
+    "a": "Margot Robbie",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Lois Lane in Man of Steel?",
+    "a": "Amy Adams",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Alfred in The Dark Knight trilogy?",
+    "a": "Michael Caine",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays The Flash in the DCEU?",
+    "a": "Ezra Miller",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Lex Luthor in Batman v Superman?",
+    "a": "Jesse Eisenberg",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Cyborg in the DCEU?",
+    "a": "Ray Fisher",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Deadshot in Suicide Squad (2016)?",
+    "a": "Will Smith",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Mera in Aquaman?",
+    "a": "Amber Heard",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Shazam in the 2019 film?",
+    "a": "Zachary Levi",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Black Adam?",
+    "a": "Dwayne Johnson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Commissioner Gordon in The Dark Knight?",
+    "a": "Gary Oldman",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Catwoman in The Dark Knight Rises?",
+    "a": "Anne Hathaway",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Two-Face in The Dark Knight?",
+    "a": "Aaron Eckhart",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Bane in The Dark Knight Rises?",
+    "a": "Tom Hardy",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Ra's al Ghul in Batman Begins?",
+    "a": "Liam Neeson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who played the Joker in 1989's Batman?",
+    "a": "Jack Nicholson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who played Batman in 1989?",
+    "a": "Michael Keaton",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays The Batman in 2022?",
+    "a": "Robert Pattinson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "What comic publisher is DC short for?",
+    "a": "Detective Comics",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created Superman?",
+    "a": "Siegel Shuster",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created Batman?",
+    "a": "Bob Kane",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who co-created Batman with Kane?",
+    "a": "Bill Finger",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Batman in Christopher Nolan's trilogy?",
+    "a": "Christian Bale",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Joker in The Dark Knight?",
+    "a": "Heath Ledger",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Joker in Joker 2019?",
+    "a": "Joaquin Phoenix",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Wonder Woman in the DCEU?",
+    "a": "Gal Gadot",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Aquaman in the DCEU?",
+    "a": "Jason Momoa",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays The Penguin in The Batman (2022)?",
+    "a": "Colin Farrell",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays The Riddler in The Batman (2022)?",
+    "a": "Paul Dano",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Catwoman in The Batman (2022)?",
+    "a": "Zoe Kravitz",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Supergirl in the CW series?",
+    "a": "Melissa Benoist",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Peacemaker in the DCEU?",
+    "a": "John Cena",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Orm in Aquaman?",
+    "a": "Patrick Wilson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Oliver Queen on Arrow?",
+    "a": "Stephen Amell",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Flash Barry Allen on the CW?",
+    "a": "Grant Gustin",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Sara Lance on Legends of Tomorrow?",
+    "a": "Caity Lotz",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Black Canary on Arrow?",
+    "a": "Katie Cassidy",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Ray Palmer?",
+    "a": "Brandon Routh",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who played Steppenwolf in Justice League?",
+    "a": "Ciaran Hinds",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who played Supergirl in The Flash film?",
+    "a": "Sasha Calle",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Scarecrow in Batman Begins?",
+    "a": "Cillian Murphy",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who played Joker in Suicide Squad 2016?",
+    "a": "Jared Leto",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Supergirl on the CW?",
+    "a": "Melissa Benoist",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who played Cyborg in the DCEU?",
+    "a": "Ray Fisher",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Ezra Miller's character The Flash?",
+    "a": "Barry Allen",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Riddler in The Batman 2022?",
+    "a": "Paul Dano",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Catwoman in The Batman 2022?",
+    "a": "Zoe Kravitz",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Penguin in The Batman 2022?",
+    "a": "Colin Farrell",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Harley Quinn in Suicide Squad?",
+    "a": "Margot Robbie",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Batman in The Batman (2022)?",
+    "a": "Robert Pattinson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Mr. Freeze in Batman & Robin?",
+    "a": "Arnold Schwarzenegger",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays The Riddler in Batman Forever?",
+    "a": "Jim Carrey",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Two-Face in Batman Forever?",
+    "a": "Tommy Lee Jones",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Penguin in Batman Returns?",
+    "a": "Danny DeVito",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Catwoman in Batman Returns?",
+    "a": "Michelle Pfeiffer",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Selina Kyle in Catwoman (2004)?",
+    "a": "Halle Berry",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays General Zod in Man of Steel?",
+    "a": "Michael Shannon",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Jor-El in Man of Steel?",
+    "a": "Russell Crowe",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Martha Kent in Man of Steel?",
+    "a": "Diane Lane",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Jonathan Kent in Man of Steel?",
+    "a": "Kevin Costner",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Hippolyta in Wonder Woman?",
+    "a": "Connie Nielsen",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Antiope in Wonder Woman?",
+    "a": "Robin Wright",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Steve Trevor in Wonder Woman?",
+    "a": "Chris Pine",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Maxwell Lord in Wonder Woman 1984?",
+    "a": "Pedro Pascal",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Cheetah in Wonder Woman 1984?",
+    "a": "Kristen Wiig",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Hespera in Shazam! Fury of the Gods?",
+    "a": "Helen Mirren",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Kalypso in Shazam! Fury of the Gods?",
+    "a": "Lucy Liu",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Freddy Freeman in Shazam?",
+    "a": "Jack Dylan Grazer",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the wizard in Shazam?",
+    "a": "Djimon Hounsou",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Dr. Sivana in Shazam?",
+    "a": "Mark Strong",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "What issue did Superman first appear in?",
+    "a": "Action Comics 1",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What issue did Batman first appear in?",
+    "a": "Detective Comics 27",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created Wonder Woman?",
+    "a": "William Moulton Marston",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who co-created the original Flash with Harry Lampert?",
+    "a": "Gardner Fox",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created Green Lantern Alan Scott?",
+    "a": "Martin Nodell",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who co-created Hal Jordan's Green Lantern with Gil Kane?",
+    "a": "John Broome",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who wrote The Dark Knight Returns?",
+    "a": "Frank Miller",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who wrote Crisis on Infinite Earths?",
+    "a": "Marv Wolfman",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who illustrated Crisis on Infinite Earths?",
+    "a": "George Perez",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What year did Crisis on Infinite Earths publish?",
+    "a": "1985",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who dies in the original Crisis on Infinite Earths?",
+    "a": "Supergirl",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who wrote Kingdom Come?",
+    "a": "Mark Waid",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who painted Kingdom Come?",
+    "a": "Alex Ross",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "What year did Kingdom Come publish?",
+    "a": "1996",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created the Flash?",
+    "a": "Gardner Fox",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who created Hal Jordan's Green Lantern?",
+    "a": "John Broome",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays Batman in Tim Burton's Batman (1989)?",
+    "a": "Michael Keaton",
+    "reason": "actor question"
+  },
+  {
+    "cat": "dc",
+    "q": "Who plays the Joker in Tim Burton's Batman (1989)?",
+    "a": "Jack Nicholson",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Thanos?",
+    "a": "Josh Brolin",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who plays Captain America in the MCU?",
+    "a": "Chris Evans",
+    "reason": "actor question"
+  },
+  {
+    "cat": "marvel",
+    "q": "What is the comic name of the symbiote god introduced in modern Marvel?",
+    "a": "Knull",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "Who is the original Captain Marvel in the comics?",
+    "a": "Mar-Vell",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "marvel",
+    "q": "What ancient entity created the symbiotes in the comics?",
+    "a": "Knull",
+    "reason": "comic-only"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Chris Brown",
+    "reason": "wiki \"Chris_Brown\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Jennifer Lopez",
+    "reason": "wiki \"Jennifer_Lopez\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Selena Gomez",
+    "reason": "wiki \"Selena_Gomez\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Cardi B",
+    "reason": "wiki \"Cardi_B\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Ariana Grande",
+    "reason": "wiki \"Ariana_Grande\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Justin Bieber",
+    "reason": "wiki \"Justin_Bieber\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Billie Eilish",
+    "reason": "wiki \"Billie_Eilish\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Shakira",
+    "reason": "wiki \"Shakira\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Beyoncé",
+    "reason": "wiki \"Beyonc%C3%A9\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Rihanna",
+    "reason": "wiki \"Rihanna\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Taylor Swift",
+    "reason": "wiki \"Taylor_Swift\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Neymar",
+    "reason": "wiki \"Neymar\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Cristiano Ronaldo",
+    "reason": "wiki \"Cristiano_Ronaldo\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Lionel Messi",
+    "reason": "wiki \"Lionel_Messi\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Dua Lipa",
+    "reason": "wiki \"Dua_Lipa\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Drake",
+    "reason": "wiki \"Drake_(musician)\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Snoop Dogg",
+    "reason": "wiki \"Snoop_Dogg\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Ed Sheeran",
+    "reason": "wiki \"Ed_Sheeran\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "David Beckham",
+    "reason": "wiki \"David_Beckham\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Miley Cyrus",
+    "reason": "wiki \"Miley_Cyrus\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "who_influencer",
+    "q": "Guess the influencer from the image",
+    "a": "Nicki Minaj",
+    "reason": "wiki \"Nicki_Minaj\" already in who_artist/who_footballer — influencer dedup"
+  },
+  {
+    "cat": "general",
+    "q": "How many players on a basketball team on court?",
+    "a": "5",
+    "reason": "same-answer cap (>3 entries with answer \"5\" in general/200)"
+  },
+  {
+    "cat": "science",
+    "q": "What element has the atomic number 1?",
+    "a": "Hydrogen",
+    "reason": "same-answer cap (>3 entries with answer \"Hydrogen\" in science/400)"
+  },
+  {
+    "cat": "sports",
+    "q": "Points for a try in rugby union?",
+    "a": "5",
+    "reason": "same-answer cap (>3 entries with answer \"5\" in sports/200)"
+  },
+  {
+    "cat": "sports",
+    "q": "How many bases are there on a baseball diamond?",
+    "a": "4",
+    "reason": "same-answer cap (>3 entries with answer \"4\" in sports/200)"
+  },
+  {
+    "cat": "sports",
+    "q": "How many Grand Slam events does tennis have?",
+    "a": "4",
+    "reason": "same-answer cap (>3 entries with answer \"4\" in sports/200)"
+  },
+  {
+    "cat": "sports",
+    "q": "Which sport has the Claret Jug as a trophy?",
+    "a": "Golf",
+    "reason": "same-answer cap (>3 entries with answer \"Golf\" in sports/200)"
+  },
+  {
+    "cat": "sports",
+    "q": "Which sport uses the term 'bogey'?",
+    "a": "Golf",
+    "reason": "same-answer cap (>3 entries with answer \"Golf\" in sports/200)"
+  },
+  {
+    "cat": "movies",
+    "q": "Who directed 'Schindler's List'?",
+    "a": "Steven Spielberg",
+    "reason": "same-answer cap (>3 entries with answer \"Steven Spielberg\" in movies/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country is shaped like a boot?",
+    "a": "Italy",
+    "reason": "same-answer cap (>3 entries with answer \"Italy\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country has the kangaroo?",
+    "a": "Australia",
+    "reason": "same-answer cap (>3 entries with answer \"Australia\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country is home to Mount Fuji?",
+    "a": "Japan",
+    "reason": "same-answer cap (>3 entries with answer \"Japan\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country has the most coffee production?",
+    "a": "Brazil",
+    "reason": "same-answer cap (>3 entries with answer \"Brazil\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country is the Amazon river mostly in?",
+    "a": "Brazil",
+    "reason": "same-answer cap (>3 entries with answer \"Brazil\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country borders the USA to the north?",
+    "a": "Canada",
+    "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country is Toronto in?",
+    "a": "Canada",
+    "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country is shaped like a maple leaf country?",
+    "a": "Canada",
+    "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What country is the Taj Mahal in?",
+    "a": "India",
+    "reason": "same-answer cap (>3 entries with answer \"India\" in country_facts/200)"
+  },
+  {
+    "cat": "star_wars",
+    "q": "Who plays Grand Admiral Thrawn in live action?",
+    "a": "Lars Mikkelsen",
+    "reason": "same-answer cap (>3 entries with answer \"Lars Mikkelsen\" in star_wars/600)"
+  },
+  {
+    "cat": "friends",
+    "q": "Which friend marries Chandler?",
+    "a": "Monica",
+    "reason": "same-answer cap (>3 entries with answer \"Monica\" in friends/200)"
+  },
+  {
+    "cat": "stranger_things",
+    "q": "What number is the Chief's enemy at the lab introduced in season 4?",
+    "a": "One",
+    "reason": "same-answer cap (>3 entries with answer \"One\" in stranger_things/600)"
+  },
+  {
+    "cat": "video_games",
+    "q": "What game features the Creeper enemy?",
+    "a": "Minecraft",
+    "reason": "same-answer cap (>3 entries with answer \"Minecraft\" in video_games/200)"
+  },
+  {
+    "cat": "video_games",
+    "q": "What studio made Uncharted?",
+    "a": "Naughty Dog",
+    "reason": "same-answer cap (>3 entries with answer \"Naughty Dog\" in video_games/600)"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What type does Misty specialize in?",
+    "a": "Water",
+    "reason": "same-answer cap (>3 entries with answer \"Water\" in pokemon/200)"
+  },
+  {
+    "cat": "pokemon",
+    "q": "What type is Psyduck?",
+    "a": "Water",
+    "reason": "same-answer cap (>3 entries with answer \"Water\" in pokemon/200)"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is Kid Omni-Man's other nickname?",
+    "a": "Oliver",
+    "reason": "same-answer cap (>3 entries with answer \"Oliver\" in invincible/600)"
+  },
+  {
+    "cat": "invincible",
+    "q": "What planet is Omni-Man sent to after leaving Earth?",
+    "a": "Thraxa",
+    "reason": "same-answer cap (>3 entries with answer \"Thraxa\" in invincible/600)"
+  },
+  {
+    "cat": "invincible",
+    "q": "What is the name of the planet Nolan settles on in season 2?",
+    "a": "Thraxa",
+    "reason": "same-answer cap (>3 entries with answer \"Thraxa\" in invincible/600)"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What is the name of the corporation that manages superheroes?",
+    "a": "Vought",
+    "reason": "same-answer cap (>3 entries with answer \"Vought\" in the_boys/200)"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What Supe joins The Seven as the first Black speedster?",
+    "a": "A-Train",
+    "reason": "same-answer cap (>3 entries with answer \"A-Train\" in the_boys/200)"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "What does Negan call his baseball bat?",
+    "a": "Lucille",
+    "reason": "same-answer cap (>3 entries with answer \"Lucille\" in the_walking_dead/400)"
+  },
+  {
+    "cat": "the_walking_dead",
+    "q": "Who does Rick exile for burning the victims?",
+    "a": "Carol",
+    "reason": "same-answer cap (>3 entries with answer \"Carol\" in the_walking_dead/600)"
+  },
+  {
+    "cat": "suits",
+    "q": "What school did Harvey attend?",
+    "a": "Harvard",
+    "reason": "same-answer cap (>3 entries with answer \"Harvard\" in suits/200)"
+  },
+  {
+    "cat": "suits",
+    "q": "Who is Harvey's mentor and boss early in the series?",
+    "a": "Jessica Pearson",
+    "reason": "same-answer cap (>3 entries with answer \"Jessica Pearson\" in suits/200)"
+  },
+  {
+    "cat": "vikings",
+    "q": "What English monastery is raided in the first season?",
+    "a": "Lindisfarne",
+    "reason": "same-answer cap (>3 entries with answer \"Lindisfarne\" in vikings/200)"
+  },
+  {
+    "cat": "charades_movies",
+    "q": "Act out this movie or TV show!",
+    "a": "Home Alone",
+    "reason": "same-answer cap (>3 entries with answer \"Home Alone\" in charades_movies/200)"
+  },
+  {
+    "cat": "charades_movies",
+    "q": "Act out this movie or TV show!",
+    "a": "Cars",
+    "reason": "same-answer cap (>3 entries with answer \"Cars\" in charades_movies/200)"
+  },
+  {
+    "cat": "charades_movies",
+    "q": "Act out this movie or TV show!",
+    "a": "Moana",
+    "reason": "same-answer cap (>3 entries with answer \"Moana\" in charades_movies/200)"
+  },
+  {
+    "cat": "charades_movies",
+    "q": "Act out this movie or TV show!",
+    "a": "Up",
+    "reason": "same-answer cap (>3 entries with answer \"Up\" in charades_movies/200)"
+  },
+  {
+    "cat": "charades_movies",
+    "q": "Act out this movie or TV show!",
+    "a": "There Will Be Blood",
+    "reason": "same-answer cap (>3 entries with answer \"There Will Be Blood\" in charades_movies/600)"
+  },
+  {
+    "cat": "pop_culture",
+    "q": "Which singer famously had a feud with Katy Perry?",
+    "a": "Taylor Swift",
+    "reason": "same-answer cap (>3 entries with answer \"Taylor Swift\" in pop_culture/400)"
+  },
+  {
+    "cat": "technology",
+    "q": "What company makes the iPhone?",
+    "a": "Apple",
+    "reason": "same-answer cap (>3 entries with answer \"Apple\" in technology/200)"
+  },
+  {
+    "cat": "technology",
+    "q": "What company owns YouTube?",
+    "a": "Google",
+    "reason": "same-answer cap (>3 entries with answer \"Google\" in technology/200)"
+  },
+  {
+    "cat": "family_guy",
+    "q": "Who voices Peter Griffin?",
+    "a": "Seth MacFarlane",
+    "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+  },
+  {
+    "cat": "family_guy",
+    "q": "Who voices Stewie?",
+    "a": "Seth MacFarlane",
+    "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+  },
+  {
+    "cat": "family_guy",
+    "q": "Who voices Brian?",
+    "a": "Seth MacFarlane",
+    "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+  },
+  {
+    "cat": "arrow",
+    "q": "What is Oliver Queen's superhero alias?",
+    "a": "Green Arrow",
+    "reason": "same-answer cap (>3 entries with answer \"Green Arrow\" in arrow/200)"
+  },
+  {
+    "cat": "arrow",
+    "q": "Nyssa al Ghul is the daughter of?",
+    "a": "Ra's al Ghul",
+    "reason": "same-answer cap (>3 entries with answer \"Ra's al Ghul\" in arrow/400)"
+  },
+  {
+    "cat": "arrow",
+    "q": "Who is the magical villain of season four?",
+    "a": "Damien Darhk",
+    "reason": "same-answer cap (>3 entries with answer \"Damien Darhk\" in arrow/400)"
+  },
+  {
+    "cat": "minecraft",
+    "q": "What underground mob glows and explodes softly on tap?",
+    "a": "Creeper",
+    "reason": "same-answer cap (>3 entries with answer \"Creeper\" in minecraft/200)"
+  },
+  {
+    "cat": "space",
+    "q": "What planet is named after the god of war?",
+    "a": "Mars",
+    "reason": "same-answer cap (>3 entries with answer \"Mars\" in space/200)"
+  },
+  {
+    "cat": "space",
+    "q": "What is the largest planet?",
+    "a": "Jupiter",
+    "reason": "same-answer cap (>3 entries with answer \"Jupiter\" in space/200)"
+  },
+  {
+    "cat": "space",
+    "q": "What planet is famous for its Great Red Spot?",
+    "a": "Jupiter",
+    "reason": "same-answer cap (>3 entries with answer \"Jupiter\" in space/200)"
+  },
+  {
+    "cat": "space",
+    "q": "What is the hot ball of gas at our solar system's center?",
+    "a": "The Sun",
+    "reason": "same-answer cap (>3 entries with answer \"The Sun\" in space/200)"
+  },
+  {
+    "cat": "space",
+    "q": "What planet is known for being windy and blue?",
+    "a": "Neptune",
+    "reason": "same-answer cap (>3 entries with answer \"Neptune\" in space/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 20 percent of 100?",
+    "a": "20",
+    "reason": "same-answer cap (>3 entries with answer \"20\" in math/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 4 plus 4 plus 4?",
+    "a": "12",
+    "reason": "same-answer cap (>3 entries with answer \"12\" in math/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 18 divided by 2?",
+    "a": "9",
+    "reason": "same-answer cap (>3 entries with answer \"9\" in math/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is double 15?",
+    "a": "30",
+    "reason": "same-answer cap (>3 entries with answer \"30\" in math/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is a quarter of 100?",
+    "a": "25",
+    "reason": "same-answer cap (>3 entries with answer \"25\" in math/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 10 times 10?",
+    "a": "100",
+    "reason": "same-answer cap (>3 entries with answer \"100\" in math/200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 144 divided by 12?",
+    "a": "12",
+    "reason": "same-answer cap (>3 entries with answer \"12\" in math/400)"
+  },
+  {
+    "cat": "math",
+    "q": "How many edges does a cube have?",
+    "a": "12",
+    "reason": "same-answer cap (>3 entries with answer \"12\" in math/400)"
+  },
+  {
+    "cat": "uae",
+    "q": "What city is the Sheikh Zayed Grand Mosque in?",
+    "a": "Abu Dhabi",
+    "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/200)"
+  },
+  {
+    "cat": "uae",
+    "q": "What UAE emirate has the tallest mountain Jebel Jais?",
+    "a": "Ras Al Khaimah",
+    "reason": "same-answer cap (>3 entries with answer \"Ras Al Khaimah\" in uae/400)"
+  },
+  {
+    "cat": "uae",
+    "q": "Where is Yas Island located?",
+    "a": "Abu Dhabi",
+    "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/400)"
+  },
+  {
+    "cat": "uae",
+    "q": "What is the second largest emirate by area?",
+    "a": "Dubai",
+    "reason": "same-answer cap (>3 entries with answer \"Dubai\" in uae/400)"
+  },
+  {
+    "cat": "borders_country",
+    "q": "What countries border Switzerland (to the north)?",
+    "a": "Germany",
+    "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
+  },
+  {
+    "cat": "borders_country",
+    "q": "What countries border Netherlands (to the east)?",
+    "a": "Germany",
+    "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
   }
 ];
 

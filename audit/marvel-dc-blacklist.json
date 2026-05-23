@@ -1,0 +1,1246 @@
+{
+  "remove": [
+    {
+      "cat": "marvel",
+      "q": "Who plays Spider-Man in the MCU?",
+      "a": "Tom Holland",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Nick Fury?",
+      "a": "Samuel L. Jackson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Doctor Strange?",
+      "a": "Benedict Cumberbatch",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Black Panther?",
+      "a": "Chadwick Boseman (first three films)",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Name the three Spider-Men in No Way Home.",
+      "a": "Tom Holland, Andrew Garfield, and Tobey Maguire",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Nebula?",
+      "a": "Karen Gillan",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the Illuminati in Marvel comics?",
+      "a": "A secret group including Iron Man, Mr. Fantastic, Professor X, Doctor Strange, Namor, Black Bolt",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the Civil War in Marvel comics?",
+      "a": "Iron Man supports the Superhuman Registration Act; Cap opposes it — heroes fight each other",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who is the Beyonder in Marvel Comics?",
+      "a": "An incredibly powerful cosmic entity from outside the Marvel universe — responsible for Secret Wars",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the Beyonder's Secret Wars?",
+      "a": "He transports heroes and villains to Battleworld to fight — one of Marvel's most important crossover events",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the significance of the Civil War II in Marvel comics?",
+      "a": "The Inhuman Ulysses can predict the future — the debate over whether to act on future crimes splits the heroes again",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What does DC stand for?",
+      "a": "Detective Comics",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Batman in the Nolan trilogy?",
+      "a": "Christian Bale",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created Superman?",
+      "a": "Jerry Siegel and Joe Shuster — first appeared in Action Comics #1 in 1938",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What is Blackest Night?",
+      "a": "A DC storyline where dead heroes and villains are reanimated as Black Lanterns who consume emotion",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What is Crisis on Infinite Earths?",
+      "a": "A 1985 DC storyline collapsing the multiverse — killing the original Supergirl and Barry Allen",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the New Gods concept?",
+      "a": "Jack Kirby's Fourth World mythology — beings from New Genesis and Apokolips representing good and evil",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What is Grant Morrison's contribution to Batman?",
+      "a": "Morrison introduced all Batman stories as canon — including 1950s sci-fi stories — as psychological trauma",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the Nth metal in DC Comics?",
+      "a": "A mysterious metal from Thanagar that defies physics — worn by Hawkman in his anti-gravity harness",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What is the significance of Crisis on Infinite Earths vs Infinite Crisis?",
+      "a": "CoIE (1985): destroyed the multiverse, created one universe. IC (2005): the multiverse reasserted itself",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Tony Stark / Iron Man in the MCU?",
+      "a": "Robert Downey Jr.",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Thor in the MCU?",
+      "a": "Chris Hemsworth",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Wanda Maximoff in the MCU?",
+      "a": "Elizabeth Olsen",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Scarlet Witch's synthetic love interest?",
+      "a": "Paul Bettany",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Ant-Man in the MCU?",
+      "a": "Paul Rudd",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Star-Lord in the MCU?",
+      "a": "Chris Pratt",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Hulk in the MCU?",
+      "a": "Mark Ruffalo",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Black Widow in the MCU?",
+      "a": "Scarlett Johansson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Wong in Doctor Strange?",
+      "a": "Benedict Wong",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Gamora in the MCU?",
+      "a": "Zoe Saldana",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Peggy Carter in the MCU?",
+      "a": "Hayley Atwell",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Happy Hogan in the MCU?",
+      "a": "Jon Favreau",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Pepper Potts?",
+      "a": "Gwyneth Paltrow",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Drax in Guardians of the Galaxy?",
+      "a": "Dave Bautista",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who voices Rocket?",
+      "a": "Bradley Cooper",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who voices Groot?",
+      "a": "Vin Diesel",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Hela?",
+      "a": "Cate Blanchett",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Aunt May in the MCU Spider-Man films?",
+      "a": "Marisa Tomei",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays the Vulture?",
+      "a": "Michael Keaton",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Mysterio?",
+      "a": "Jake Gyllenhaal",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Pepper Potts in the MCU?",
+      "a": "Gwyneth Paltrow",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Gamora?",
+      "a": "Zoe Saldana",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Drax?",
+      "a": "Dave Bautista",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Vision?",
+      "a": "Paul Bettany",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Loki in the MCU?",
+      "a": "Tom Hiddleston",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Hank Pym?",
+      "a": "Michael Douglas",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Daredevil in the Netflix series?",
+      "a": "Charlie Cox",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Yelena Belova?",
+      "a": "Florence Pugh",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays M'Baku?",
+      "a": "Winston Duke",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays the Grandmaster?",
+      "a": "Jeff Goldblum",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Valkyrie in the MCU?",
+      "a": "Tessa Thompson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Mantis in Guardians of the Galaxy?",
+      "a": "Pom Klementieff",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays John Walker?",
+      "a": "Wyatt Russell",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Sam Wilson?",
+      "a": "Anthony Mackie",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Kate Bishop?",
+      "a": "Hailee Steinfeld",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Bucky Barnes?",
+      "a": "Sebastian Stan",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Xu Wenwu?",
+      "a": "Tony Leung",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Ms. Marvel?",
+      "a": "Iman Vellani",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Adam Warlock?",
+      "a": "Will Poulter",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays the High Evolutionary?",
+      "a": "Chukwudi Iwuji",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Okoye?",
+      "a": "Danai Gurira",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Shuri?",
+      "a": "Letitia Wright",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Namor in Wakanda Forever?",
+      "a": "Tenoch Huerta",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays the Ancient One?",
+      "a": "Tilda Swinton",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Mordo?",
+      "a": "Chiwetel Ejiofor",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Mantis?",
+      "a": "Pom Klementieff",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Wong?",
+      "a": "Benedict Wong",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Vulture in Spider-Man: Homecoming?",
+      "a": "Michael Keaton",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Hela in Thor: Ragnarok?",
+      "a": "Cate Blanchett",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Kang / He Who Remains in the MCU?",
+      "a": "Jonathan Majors",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Moon Knight?",
+      "a": "Oscar Isaac",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Shang-Chi?",
+      "a": "Simu Liu",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Kingpin in Hawkeye?",
+      "a": "Vincent D'Onofrio",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays She-Hulk?",
+      "a": "Tatiana Maslany",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Agatha Harkness in WandaVision?",
+      "a": "Kathryn Hahn",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays White Vision?",
+      "a": "Paul Bettany",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Yon-Rogg in Captain Marvel?",
+      "a": "Jude Law",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Talos?",
+      "a": "Ben Mendelsohn",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Maria Rambeau?",
+      "a": "Lashana Lynch",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays adult Monica Rambeau?",
+      "a": "Teyonah Parris",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Ghost in Ant-Man and the Wasp?",
+      "a": "Hannah John-Kamen",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Bill Foster in Ant-Man and the Wasp?",
+      "a": "Laurence Fishburne",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Taskmaster in Black Widow?",
+      "a": "Olga Kurylenko",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Dreykov in Black Widow?",
+      "a": "Ray Winstone",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Alexei the Red Guardian?",
+      "a": "David Harbour",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Melina Vostokoff in Black Widow?",
+      "a": "Rachel Weisz",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Sersi in Eternals?",
+      "a": "Gemma Chan",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who created the character of Iron Man in the comics?",
+      "a": "Stan Lee, Larry Lieber, Don Heck, Jack Kirby",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "In which comic issue did Iron Man first appear?",
+      "a": "Tales of Suspense #39",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who was the first person in the comics to wield the Mjolnir other than Thor, Odin, or a worthy human?",
+      "a": "Beta Ray Bill",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Gilgamesh in Eternals?",
+      "a": "Don Lee",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Ikaris?",
+      "a": "Richard Madden",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Thena?",
+      "a": "Angelina Jolie",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Kingo in Eternals?",
+      "a": "Kumail Nanjiani",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Phastos?",
+      "a": "Brian Tyree Henry",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Makkari?",
+      "a": "Lauren Ridloff",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Druig?",
+      "a": "Barry Keoghan",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Sprite?",
+      "a": "Lia McHugh",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Starfox at the end of Eternals?",
+      "a": "Harry Styles",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays America Chavez?",
+      "a": "Xochitl Gomez",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who played the variant of Professor X in Multiverse of Madness?",
+      "a": "Patrick Stewart",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who played Mr Fantastic in Multiverse of Madness?",
+      "a": "John Krasinski",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who played Black Bolt in Multiverse of Madness?",
+      "a": "Anson Mount",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who played Captain Carter in Multiverse of Madness?",
+      "a": "Hayley Atwell",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Mobius in Loki?",
+      "a": "Owen Wilson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Sylvie?",
+      "a": "Sophia Di Martino",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Phil Coulson?",
+      "a": "Clark Gregg",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who played the variant of Captain Marvel (Maria Rambeau) in Multiverse of Madness?",
+      "a": "Lashana Lynch",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Kang the Conqueror / He Who Remains?",
+      "a": "Jonathan Majors",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Kamala Khan in the MCU?",
+      "a": "Iman Vellani",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Joker in The Dark Knight (2008)?",
+      "a": "Heath Ledger",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Superman in Man of Steel?",
+      "a": "Henry Cavill",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Batman in Batman v Superman?",
+      "a": "Ben Affleck",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Joker in Joker (2019)?",
+      "a": "Joaquin Phoenix",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Harley Quinn in the DCEU?",
+      "a": "Margot Robbie",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Lois Lane in Man of Steel?",
+      "a": "Amy Adams",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Alfred in The Dark Knight trilogy?",
+      "a": "Michael Caine",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays The Flash in the DCEU?",
+      "a": "Ezra Miller",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Lex Luthor in Batman v Superman?",
+      "a": "Jesse Eisenberg",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Cyborg in the DCEU?",
+      "a": "Ray Fisher",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Deadshot in Suicide Squad (2016)?",
+      "a": "Will Smith",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Mera in Aquaman?",
+      "a": "Amber Heard",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Shazam in the 2019 film?",
+      "a": "Zachary Levi",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Black Adam?",
+      "a": "Dwayne Johnson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Commissioner Gordon in The Dark Knight?",
+      "a": "Gary Oldman",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Catwoman in The Dark Knight Rises?",
+      "a": "Anne Hathaway",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Two-Face in The Dark Knight?",
+      "a": "Aaron Eckhart",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Bane in The Dark Knight Rises?",
+      "a": "Tom Hardy",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Ra's al Ghul in Batman Begins?",
+      "a": "Liam Neeson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who played the Joker in 1989's Batman?",
+      "a": "Jack Nicholson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who played Batman in 1989?",
+      "a": "Michael Keaton",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays The Batman in 2022?",
+      "a": "Robert Pattinson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "What comic publisher is DC short for?",
+      "a": "Detective Comics",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created Superman?",
+      "a": "Siegel Shuster",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created Batman?",
+      "a": "Bob Kane",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who co-created Batman with Kane?",
+      "a": "Bill Finger",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Batman in Christopher Nolan's trilogy?",
+      "a": "Christian Bale",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Joker in The Dark Knight?",
+      "a": "Heath Ledger",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Joker in Joker 2019?",
+      "a": "Joaquin Phoenix",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Wonder Woman in the DCEU?",
+      "a": "Gal Gadot",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Aquaman in the DCEU?",
+      "a": "Jason Momoa",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays The Penguin in The Batman (2022)?",
+      "a": "Colin Farrell",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays The Riddler in The Batman (2022)?",
+      "a": "Paul Dano",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Catwoman in The Batman (2022)?",
+      "a": "Zoe Kravitz",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Supergirl in the CW series?",
+      "a": "Melissa Benoist",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Peacemaker in the DCEU?",
+      "a": "John Cena",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Orm in Aquaman?",
+      "a": "Patrick Wilson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Oliver Queen on Arrow?",
+      "a": "Stephen Amell",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Flash Barry Allen on the CW?",
+      "a": "Grant Gustin",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Sara Lance on Legends of Tomorrow?",
+      "a": "Caity Lotz",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Black Canary on Arrow?",
+      "a": "Katie Cassidy",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Ray Palmer?",
+      "a": "Brandon Routh",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who played Steppenwolf in Justice League?",
+      "a": "Ciaran Hinds",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who played Supergirl in The Flash film?",
+      "a": "Sasha Calle",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Scarecrow in Batman Begins?",
+      "a": "Cillian Murphy",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who played Joker in Suicide Squad 2016?",
+      "a": "Jared Leto",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Supergirl on the CW?",
+      "a": "Melissa Benoist",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who played Cyborg in the DCEU?",
+      "a": "Ray Fisher",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Ezra Miller's character The Flash?",
+      "a": "Barry Allen",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Riddler in The Batman 2022?",
+      "a": "Paul Dano",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Catwoman in The Batman 2022?",
+      "a": "Zoe Kravitz",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Penguin in The Batman 2022?",
+      "a": "Colin Farrell",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Harley Quinn in Suicide Squad?",
+      "a": "Margot Robbie",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Batman in The Batman (2022)?",
+      "a": "Robert Pattinson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Mr. Freeze in Batman & Robin?",
+      "a": "Arnold Schwarzenegger",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays The Riddler in Batman Forever?",
+      "a": "Jim Carrey",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Two-Face in Batman Forever?",
+      "a": "Tommy Lee Jones",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Penguin in Batman Returns?",
+      "a": "Danny DeVito",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Catwoman in Batman Returns?",
+      "a": "Michelle Pfeiffer",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Selina Kyle in Catwoman (2004)?",
+      "a": "Halle Berry",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays General Zod in Man of Steel?",
+      "a": "Michael Shannon",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Jor-El in Man of Steel?",
+      "a": "Russell Crowe",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Martha Kent in Man of Steel?",
+      "a": "Diane Lane",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Jonathan Kent in Man of Steel?",
+      "a": "Kevin Costner",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Hippolyta in Wonder Woman?",
+      "a": "Connie Nielsen",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Antiope in Wonder Woman?",
+      "a": "Robin Wright",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Steve Trevor in Wonder Woman?",
+      "a": "Chris Pine",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Maxwell Lord in Wonder Woman 1984?",
+      "a": "Pedro Pascal",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Cheetah in Wonder Woman 1984?",
+      "a": "Kristen Wiig",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Hespera in Shazam! Fury of the Gods?",
+      "a": "Helen Mirren",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Kalypso in Shazam! Fury of the Gods?",
+      "a": "Lucy Liu",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Freddy Freeman in Shazam?",
+      "a": "Jack Dylan Grazer",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the wizard in Shazam?",
+      "a": "Djimon Hounsou",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Dr. Sivana in Shazam?",
+      "a": "Mark Strong",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "What issue did Superman first appear in?",
+      "a": "Action Comics 1",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What issue did Batman first appear in?",
+      "a": "Detective Comics 27",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created Wonder Woman?",
+      "a": "William Moulton Marston",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who co-created the original Flash with Harry Lampert?",
+      "a": "Gardner Fox",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created Green Lantern Alan Scott?",
+      "a": "Martin Nodell",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who co-created Hal Jordan's Green Lantern with Gil Kane?",
+      "a": "John Broome",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who wrote The Dark Knight Returns?",
+      "a": "Frank Miller",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who wrote Crisis on Infinite Earths?",
+      "a": "Marv Wolfman",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who illustrated Crisis on Infinite Earths?",
+      "a": "George Perez",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What year did Crisis on Infinite Earths publish?",
+      "a": "1985",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who dies in the original Crisis on Infinite Earths?",
+      "a": "Supergirl",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who wrote Kingdom Come?",
+      "a": "Mark Waid",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who painted Kingdom Come?",
+      "a": "Alex Ross",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "What year did Kingdom Come publish?",
+      "a": "1996",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created the Flash?",
+      "a": "Gardner Fox",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who created Hal Jordan's Green Lantern?",
+      "a": "John Broome",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays Batman in Tim Burton's Batman (1989)?",
+      "a": "Michael Keaton",
+      "reason": "actor question"
+    },
+    {
+      "cat": "dc",
+      "q": "Who plays the Joker in Tim Burton's Batman (1989)?",
+      "a": "Jack Nicholson",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Thanos?",
+      "a": "Josh Brolin",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who plays Captain America in the MCU?",
+      "a": "Chris Evans",
+      "reason": "actor question"
+    },
+    {
+      "cat": "marvel",
+      "q": "What is the comic name of the symbiote god introduced in modern Marvel?",
+      "a": "Knull",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "Who is the original Captain Marvel in the comics?",
+      "a": "Mar-Vell",
+      "reason": "comic-only"
+    },
+    {
+      "cat": "marvel",
+      "q": "What ancient entity created the symbiotes in the comics?",
+      "a": "Knull",
+      "reason": "comic-only"
+    }
+  ]
+}

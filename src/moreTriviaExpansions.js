@@ -461,11 +461,7 @@ const MORE_TRIVIA_EXPANSIONS = {
     ]),
   },
 
-  general_emoji: {
-    200: [{ q: "🧠 💡", a: "Brainstorm" }],
-  },
-
-  prison_break: {
+prison_break: {
     400: qa([
       ["What is Michael Scofield's profession before prison?", "Structural engineer"],
       ["What state is Fox River located in?", "Illinois"],

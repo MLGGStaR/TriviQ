@@ -4,22 +4,7 @@ const charades = (items, prompt = "Scan the QR and act it out") =>
   items.map((a) => ({ q: prompt, a }));
 
 const TRIVIA_TIER_FINAL_PARITY_EXPANSIONS = {
-  movie_show_emoji: {
-    200: qa([
-      ["\u{1F468}\u200D\u{1F680}\u{1F30C}\u{1F9D0}", "Interstellar"],
-      ["\u{1F9D4}\u26A1\u{1F529}", "Thor"],
-      ["\u{1F981}\u{1F451}\u{1F305}", "The Lion King"],
-    ]),
-    600: qa([
-      ["\u{1F5A4}\u{1F4FA}\u{1F9E0}", "Black Mirror"],
-    ]),
-  },
-  country_emoji: {
-    200: qa([
-      ["\u2618\uFE0F\u{1F37A}\u{1F3BB}", "Ireland"],
-    ]),
-  },
-  general_emoji: {
+general_emoji: {
     200: qa([
       ["\u{1F382}\u{1F973}\u{1F39A}", "Birthday party"],
     ]),
