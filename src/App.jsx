@@ -6265,11 +6265,15 @@ export default function App(){
       sessionToken: accountSession.sessionToken,
     }).then((snapshot)=>{
       if(cancelled) return;
-      const filtered=applyPurges(snapshot.ids);
-      usedQuestionIdsRef.current=filtered;
-      questionUsageResetTokenRef.current=snapshot.resetToken;
-      setUsedQuestionIds(filtered);
-      setQuestionUsageResetToken(snapshot.resetToken);
+      // Merge with cached snapshot — never shrink. The initial cached load already set
+      // the ref; the server fetch only adds anything we don't already have.
+      const incoming=Array.isArray(snapshot?.ids)?snapshot.ids:[];
+      const filteredIncoming=applyPurges(incoming);
+      const merged=mergeQuestionUsageIds(usedQuestionIdsRef.current, filteredIncoming);
+      usedQuestionIdsRef.current=merged;
+      if(snapshot?.resetToken) questionUsageResetTokenRef.current=snapshot.resetToken;
+      setUsedQuestionIds(merged);
+      if(snapshot?.resetToken) setQuestionUsageResetToken(snapshot.resetToken);
       setUsageReady(true);
     }).catch(()=>{
       if(cancelled) return;
@@ -6286,12 +6290,18 @@ export default function App(){
         accountId: accountSession.user.id,
         sessionToken: accountSession.sessionToken,
       });
-      const filtered=applyPurges(snapshot.ids);
-      usedQuestionIdsRef.current=filtered;
-      questionUsageResetTokenRef.current=snapshot.resetToken;
-      setUsedQuestionIds(filtered);
-      setQuestionUsageResetToken(snapshot.resetToken);
-      return filtered;
+      // MERGE incoming with local — never shrink. If the server is missing IDs we
+      // consumed locally (or hasn't received our last delta yet), keep ours.
+      const incoming=Array.isArray(snapshot?.ids)?snapshot.ids:[];
+      const filteredIncoming=applyPurges(incoming);
+      const merged=mergeQuestionUsageIds(usedQuestionIdsRef.current, filteredIncoming);
+      if(snapshot?.resetToken && snapshot.resetToken!==questionUsageResetTokenRef.current){
+        questionUsageResetTokenRef.current=snapshot.resetToken;
+        setQuestionUsageResetToken(snapshot.resetToken);
+      }
+      usedQuestionIdsRef.current=merged;
+      setUsedQuestionIds(merged);
+      return merged;
     }finally{
       setUsageReady(true);
       setIsSyncingUsage(false);
@@ -6306,15 +6316,29 @@ export default function App(){
     if(nextIds.length===currentIds.length) return;
     usedQuestionIdsRef.current=nextIds;
     setUsedQuestionIds(nextIds);
+    // Fire-and-forget server append. We DO NOT overwrite local state from the response —
+    // that was causing consumed IDs to silently disappear when the server response
+    // didn't include them (transient session-token issues, retry races, etc.). Local
+    // ref / state / localStorage is the source of truth for the rest of the session;
+    // the next page reload picks the server snapshot up via the initial load.
     appendSharedQuestionUsage(currentIds,normalizedIds,questionUsageResetTokenRef.current,{
       accountId: accountSession?.user?.id,
       sessionToken: accountSession?.sessionToken,
     }).then((snapshot)=>{
-      const filtered=applyPurges(snapshot.ids);
-      usedQuestionIdsRef.current=filtered;
-      questionUsageResetTokenRef.current=snapshot.resetToken;
-      setUsedQuestionIds(filtered);
-      setQuestionUsageResetToken(snapshot.resetToken);
+      // Only adopt the new resetToken if the server actually returned one we don't have.
+      if(snapshot?.resetToken && snapshot.resetToken!==questionUsageResetTokenRef.current){
+        questionUsageResetTokenRef.current=snapshot.resetToken;
+        setQuestionUsageResetToken(snapshot.resetToken);
+      }
+      // Merge any IDs the server returned that we don't have locally — never SHRINK
+      // our set. This prevents the "consumed IDs vanish on next sync" bug.
+      const incoming=Array.isArray(snapshot?.ids)?snapshot.ids:[];
+      const filteredIncoming=applyPurges(incoming);
+      const merged=mergeQuestionUsageIds(usedQuestionIdsRef.current, filteredIncoming);
+      if(merged.length>usedQuestionIdsRef.current.length){
+        usedQuestionIdsRef.current=merged;
+        setUsedQuestionIds(merged);
+      }
     }).catch(()=>{});
   }
   // When a (cat,tier) pool is fully exhausted, drop every stored usage id tied to that
