@@ -10,6 +10,10 @@ function normalizeSnapshot(snapshot){
   return {
     ids: normalizeQuestionIds(snapshot?.ids),
     resetToken: typeof snapshot?.resetToken==="string"&&snapshot.resetToken.trim().length>0?snapshot.resetToken:DEFAULT_RESET_TOKEN,
+    // IDs purged by a tier-exhaustion reset that the server may still hold.
+    // Persisted so the reset survives page reloads; cleared once the server
+    // confirms deletion (the id stops appearing in remote snapshots).
+    purged: normalizeQuestionIds(snapshot?.purged),
   };
 }
 
@@ -59,9 +63,10 @@ async function fetchRemoteQuestionUsage(sessionToken){
   });
 }
 
-async function pushRemoteQuestionUsage(ids, resetToken, sessionToken){
+async function pushRemoteQuestionUsage(ids, resetToken, sessionToken, removeIds){
   const nextIds=normalizeQuestionIds(ids);
-  if(nextIds.length===0) return normalizeSnapshot({ ids: [], resetToken });
+  const removals=normalizeQuestionIds(removeIds);
+  if(nextIds.length===0&&removals.length===0) return normalizeSnapshot({ ids: [], resetToken });
   const res=await fetch(QUESTION_USAGE_ENDPOINT,{
     method:"POST",
     headers:{
@@ -69,7 +74,7 @@ async function pushRemoteQuestionUsage(ids, resetToken, sessionToken){
       "Content-Type":"application/json",
       ...authHeaders(sessionToken),
     },
-    body:JSON.stringify({ ids: nextIds, resetToken }),
+    body:JSON.stringify({ ids: nextIds, remove: removals, resetToken }),
   });
   if(res.status===409){
     const data=await res.json().catch(()=>null);
@@ -100,21 +105,30 @@ export async function loadSharedQuestionUsage({ accountId, sessionToken } = {}){
   try{
     const remoteSnapshot=await fetchRemoteQuestionUsage(sessionToken);
     if(remoteSnapshot.resetToken!==localSnapshot.resetToken){
+      // Global pool reset (admin token rotation): adopt remote wholesale, drop the purge ledger.
       writeLocalQuestionUsageSnapshot(accountId, remoteSnapshot);
       return remoteSnapshot;
     }
-    const mergedIds=mergeQuestionUsageIds(localSnapshot.ids, remoteSnapshot.ids);
+    // Apply the durable purge ledger: ids removed by a tier-exhaustion reset must not
+    // re-enter via the server until we've confirmed their deletion server-side.
+    const purgedSet=new Set(localSnapshot.purged);
+    const remoteEffectiveIds=remoteSnapshot.ids.filter((id)=>!purgedSet.has(id));
+    // Purge entries the server no longer returns are confirmed deleted — drop them.
+    const remoteIdSet=new Set(remoteSnapshot.ids);
+    const purgedStillOnServer=localSnapshot.purged.filter((id)=>remoteIdSet.has(id));
     const mergedSnapshot=normalizeSnapshot({
-      ids: mergedIds,
+      ids: mergeQuestionUsageIds(localSnapshot.ids, remoteEffectiveIds),
       resetToken: remoteSnapshot.resetToken,
+      purged: purgedStillOnServer,
     });
     writeLocalQuestionUsageSnapshot(accountId, mergedSnapshot);
-    const missingLocalIds=localSnapshot.ids.filter((id)=>!remoteSnapshot.ids.includes(id));
-    if(missingLocalIds.length>0){
+    const missingLocalIds=mergedSnapshot.ids.filter((id)=>!remoteIdSet.has(id));
+    if(missingLocalIds.length>0||purgedStillOnServer.length>0){
       try{
-        await pushRemoteQuestionUsage(missingLocalIds, remoteSnapshot.resetToken, sessionToken);
+        // Push local-only ids and retry deletion of still-present purged ids in one call.
+        await pushRemoteQuestionUsage(missingLocalIds, remoteSnapshot.resetToken, sessionToken, purgedStillOnServer);
       }catch{
-        // Local cache still has the merged set, so retry on the next sync point.
+        // Local cache still has the merged set + ledger, so retry on the next sync point.
       }
     }
     return mergedSnapshot;
@@ -129,7 +143,11 @@ export async function appendSharedQuestionUsage(currentIds, newIds, resetToken, 
   const current=normalizeQuestionIds(currentIds);
   const next=mergeQuestionUsageIds(current, newIds);
   const delta=next.filter((id)=>!current.includes(id));
-  const localSnapshot=normalizeSnapshot({ ids: next, resetToken });
+  // Preserve the purge ledger across writes; a freshly re-consumed id is no longer purged.
+  const stored=readLocalQuestionUsageSnapshot(accountId);
+  const deltaSet=new Set(delta);
+  const purged=stored.purged.filter((id)=>!deltaSet.has(id));
+  const localSnapshot=normalizeSnapshot({ ids: next, resetToken, purged });
   writeLocalQuestionUsageSnapshot(accountId, localSnapshot);
   if(delta.length===0) return localSnapshot;
   try{
@@ -137,11 +155,43 @@ export async function appendSharedQuestionUsage(currentIds, newIds, resetToken, 
     return normalizeSnapshot({
       ids: mergeQuestionUsageIds(next, remoteSnapshot.ids),
       resetToken: remoteSnapshot.resetToken,
+      purged,
     });
   }catch(error){
     if(error?.code==="RESET_TOKEN_MISMATCH"){
       return loadSharedQuestionUsage({ accountId, sessionToken });
     }
     return localSnapshot;
+  }
+}
+
+// Durable removal for tier-exhaustion resets: strips ids from the local snapshot,
+// records them in the persisted purge ledger, and deletes them server-side. If the
+// server call fails (offline, expired session), the ledger keeps the reset effective
+// across reloads and loadSharedQuestionUsage retries the delete on later syncs.
+export async function removeSharedQuestionUsage(idsToRemove, resetToken, { accountId, sessionToken } = {}){
+  const removals=normalizeQuestionIds(idsToRemove);
+  if(!accountId||removals.length===0) return readLocalQuestionUsageSnapshot(accountId);
+  const stored=readLocalQuestionUsageSnapshot(accountId);
+  const removalSet=new Set(removals);
+  const pendingSnapshot=normalizeSnapshot({
+    ids: stored.ids.filter((id)=>!removalSet.has(id)),
+    resetToken: resetToken||stored.resetToken,
+    purged: mergeQuestionUsageIds(stored.purged, removals),
+  });
+  writeLocalQuestionUsageSnapshot(accountId, pendingSnapshot);
+  if(!sessionToken) return pendingSnapshot;
+  try{
+    await pushRemoteQuestionUsage([], pendingSnapshot.resetToken, sessionToken, removals);
+    // Server confirmed the delete — clear these entries from the ledger.
+    const confirmed=readLocalQuestionUsageSnapshot(accountId);
+    const cleared=normalizeSnapshot({
+      ...confirmed,
+      purged: confirmed.purged.filter((id)=>!removalSet.has(id)),
+    });
+    writeLocalQuestionUsageSnapshot(accountId, cleared);
+    return cleared;
+  }catch{
+    return pendingSnapshot;
   }
 }

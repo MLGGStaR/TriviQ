@@ -173,16 +173,24 @@ export async function loadAccountSession(){
     const accounts = readLocalAccounts();
     const localUser = accounts[localAccountKey(cached.user.username)];
     if(!localUser) {
-      writeStoredSession(null);
-      return null;
+      // Server unreachable (offline / cold start) and the account was created
+      // server-side so it has no local record. Keep the cached session — a
+      // transient outage must not log the user out; the token revalidates on
+      // the next successful load.
+      return cached;
     }
     const session = normalizeSession({ sessionToken: cached.sessionToken, user: localUser });
     writeStoredSession(session);
     return session;
   }
-  if(!res.ok){
+  if(res.status===401||res.status===403){
+    // Definitive rejection — the token is actually invalid/expired.
     writeStoredSession(null);
     return null;
+  }
+  if(!res.ok){
+    // Transient server error (5xx etc.) — keep the session, revalidate later.
+    return cached;
   }
   const data = await parseJson(res);
   const session = normalizeSession({

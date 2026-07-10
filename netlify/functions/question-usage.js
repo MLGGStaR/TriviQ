@@ -69,7 +69,12 @@ export default async function handler(req){
     }
     const ids=normalizeQuestionIds(body?.ids).slice(0, 5000);
     await Promise.all(ids.map((id)=>store.set(toStoreKey(auth.user.id, id), "1")));
-    return json({ ok: true, acceptedIds: ids, resetToken: currentResetToken });
+    // Per-user removals — used when a (category, tier) pool is exhausted and the
+    // client resets that tier so its questions become fresh again. Without this the
+    // reset only lives for one browser session and exhausted tiers repeat forever.
+    const removeIds=normalizeQuestionIds(body?.remove).slice(0, 5000);
+    await Promise.all(removeIds.map((id)=>store.delete(toStoreKey(auth.user.id, id))));
+    return json({ ok: true, acceptedIds: ids, removedIds: removeIds, resetToken: currentResetToken });
   }
 
   if(req.method==="DELETE"){

@@ -22,7 +22,7 @@ import MORE_TRIVIA_EXPANSIONS from "./moreTriviaExpansions.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
 import { isBlacklisted } from "./qualityBlacklist.js";
 import QUALITY_BACKFILL from "./qualityBackfill.js";
-import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds } from "./questionUsage.js";
+import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds, removeSharedQuestionUsage } from "./questionUsage.js";
 import { getCachedAccountSession, loadAccountSession, loginAccount, logoutAccount, signupAccount } from "./accountAuth.js";
 
 const FLAG_TIERS = {
@@ -4479,6 +4479,24 @@ function questionPoolEntryKey(entry){
   return `qa:${normalizeQuestionKeyPart(entry?.q)}|${normalizeQuestionKeyPart(entry?.a)}`;
 }
 
+// Pre-punctuation-strip normalization, exactly as deployed before commit 7d2390e.
+// Used-question IDs stored under the old format must still count as consumed,
+// otherwise a key-format change silently wipes every account's question history.
+function legacyNormalizeQuestionKeyPart(value){
+  return String(value??"")
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[̀-ͯ]/g,"")
+    .replace(/\s+/g," ")
+    .trim();
+}
+
+function legacyQuestionPoolEntryKey(entry){
+  if(entry?.code) return `code:${legacyNormalizeQuestionKeyPart(entry.code)}`;
+  if(entry?.wiki) return `wiki:${legacyNormalizeQuestionKeyPart(entry.wiki)}`;
+  return `qa:${legacyNormalizeQuestionKeyPart(entry?.q)}|${legacyNormalizeQuestionKeyPart(entry?.a)}`;
+}
+
 function mergeQuestionExpansions(rawBank, expansions){
   const merged = Object.fromEntries(Object.entries(rawBank).map(([catId, cat]) => [catId, { ...cat }]));
   Object.entries(expansions).forEach(([catId, catExpansion]) => {
@@ -5015,8 +5033,25 @@ function getQuestionUsageKeys(entry){
   if(ck) keys.push(ck);
   return keys.filter(Boolean);
 }
+// Keys used for CONSUMED-CHECKS. Includes legacy-format keys (pre-punctuation-strip
+// normalization) so usage recorded before the key-format change still counts. We
+// persist only the new format, but must recognize both when filtering pools.
+function getQuestionMatchKeys(entry){
+  const keys=getQuestionUsageKeys(entry);
+  const legacyKey=legacyQuestionPoolEntryKey(entry);
+  if(legacyKey&&!keys.includes(legacyKey)){
+    keys.push(legacyKey);
+    // Legacy _qid = "<cat>:<pts>:<legacyKey>" — derive the cat:pts prefix from the
+    // current _qid, which always ends with the current _qkey.
+    if(typeof entry?._qid==="string"&&typeof entry?._qkey==="string"&&entry._qid.endsWith(entry._qkey)){
+      const prefix=entry._qid.slice(0, entry._qid.length-entry._qkey.length);
+      keys.push(`${prefix}${legacyKey}`);
+    }
+  }
+  return keys;
+}
 function isQuestionConsumed(entry, usedLookup){
-  return getQuestionUsageKeys(entry).some((key)=>usedLookup.has(key));
+  return getQuestionMatchKeys(entry).some((key)=>usedLookup.has(key));
 }
 function buildTierPool(catId, pts, usedIdsSet, onExhausted){
   const realCat = baseCat(catId);
@@ -6256,6 +6291,9 @@ export default function App(){
     const cachedSnapshot=getCachedQuestionUsageSnapshot(accountSession.user.id);
     usedQuestionIdsRef.current=cachedSnapshot.ids;
     questionUsageResetTokenRef.current=cachedSnapshot.resetToken;
+    // Seed the session purge ref from the persisted ledger so unconfirmed tier
+    // resets keep filtering server re-injections after a page reload.
+    purgedQuestionIdsRef.current=new Set(cachedSnapshot.purged||[]);
     setUsedQuestionIds(cachedSnapshot.ids);
     setQuestionUsageResetToken(cachedSnapshot.resetToken);
     setUsageReady(false);
@@ -6342,12 +6380,14 @@ export default function App(){
     }).catch(()=>{});
   }
   // When a (cat,tier) pool is fully exhausted, drop every stored usage id tied to that
-  // tier so the pool reset is genuine. The purged IDs go into a session-only ref so
-  // any subsequent server sync that would re-merge them gets filtered.
+  // tier so the pool reset is genuine. The purge is made DURABLE: ids are deleted
+  // server-side and recorded in a persisted ledger (localStorage) so the reset
+  // survives page reloads — otherwise the server re-injects the full tier next
+  // session and the tier reshuffles from scratch every time (chronic repeats).
   function resetCatTierUsage(realCat, pts, fullPool){
     const fullPoolKeys=new Set();
     for(const e of fullPool||[]){
-      for(const k of getQuestionUsageKeys(e)) fullPoolKeys.add(k);
+      for(const k of getQuestionMatchKeys(e)) fullPoolKeys.add(k);
     }
     const prefix=`${realCat}:${pts}:`;
     const current=usedQuestionIdsRef.current||[];
@@ -6361,6 +6401,11 @@ export default function App(){
     for(const id of stripped) purgedQuestionIdsRef.current.add(id);
     usedQuestionIdsRef.current=next;
     setUsedQuestionIds(next);
+    // Fire-and-forget durable removal (server delete + persisted purge ledger).
+    removeSharedQuestionUsage(stripped, questionUsageResetTokenRef.current, {
+      accountId: accountSession?.user?.id,
+      sessionToken: accountSession?.sessionToken,
+    }).catch(()=>{});
   }
 
   async function handleAuthSubmit(e){
