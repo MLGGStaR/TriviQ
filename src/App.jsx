@@ -4981,7 +4981,21 @@ const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777"
 const PT_COLORS = {100:"#059669",200:"#D97706",300:"#2563EB",400:"#DC2626",500:"#7C3AED",600:"#7C3AED"};
 const PT_BG = {100:"#ECFDF5",200:"#FFFBEB",300:"#EFF6FF",400:"#FFF1F2",500:"#F5F3FF",600:"#F5F3FF"};
 
-function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
+// Cryptographically-seeded uniform random in [0,1). Falls back to Math.random when
+// the Web Crypto API is unavailable. Used for every pool shuffle and tile draw so the
+// question order is genuinely unpredictable per account/game.
+function secureRandom(){
+  try{
+    const c=(typeof globalThis!=="undefined"&&globalThis.crypto)||null;
+    if(c?.getRandomValues){
+      const buf=new Uint32Array(1);
+      c.getRandomValues(buf);
+      return buf[0]/4294967296;
+    }
+  }catch{}
+  return Math.random();
+}
+function shuffle(arr){const a=[...arr];for(let i=a.length-1;i>0;i--){const j=Math.floor(secureRandom()*(i+1));[a[i],a[j]]=[a[j],a[i]];}return a;}
 // FNV-1a 32-bit string hash — used to derive a per-account, per-game seed for pool shuffling.
 function hashStr(s){let h=2166136261>>>0;const str=String(s||"");for(let i=0;i<str.length;i++){h^=str.charCodeAt(i);h=Math.imul(h,16777619)>>>0;}return h>>>0;}
 function mulberry32(seed){let t=seed>>>0;return function(){t=(t+0x6D2B79F5)>>>0;let r=t;r=Math.imul(r^(r>>>15),r|1);r^=r+Math.imul(r^(r>>>7),r|61);return((r^(r>>>14))>>>0)/4294967296;};}
@@ -5085,14 +5099,14 @@ function FlagImage({flag,country}){
   const [errored,setErrored]=useState(false);
   const code=/^[a-z]{2}$/i.test(flag||"")?flag.toLowerCase():flagEmojiToCode(flag);
   if(!code||errored){
-    return <div style={{fontSize:72,fontWeight:800,color:"#0F172A",letterSpacing:2,lineHeight:1,marginBottom:14}}>{code?code.toUpperCase():"FLAG"}</div>;
+    return <div style={{fontFamily:DISPLAY_STACK,fontSize:72,fontWeight:800,color:"var(--text)",letterSpacing:2,lineHeight:1,marginBottom:14}}>{code?code.toUpperCase():"FLAG"}</div>;
   }
   return(
     <img
       src={`/flags/${code}.svg`}
       alt={`${country} flag`}
       onError={()=>setErrored(true)}
-      style={{display:"block",width:"min(320px,76vw)",maxHeight:"220px",objectFit:"contain",background:"#fff",padding:14,borderRadius:22,border:"1.5px solid #E2E8F0",boxShadow:"0 18px 40px #0f172a18",margin:"0 auto 18px"}}
+      style={{...MEDIA_PLATE_STYLE,display:"block",width:"min(320px,76vw)",maxWidth:"100%",maxHeight:"220px",objectFit:"contain",padding:14,margin:"0 auto 18px"}}
     />
   );
 }
@@ -5101,14 +5115,14 @@ function FlagImage({flag,country}){
 function CountryMapSVG({code,country}){
   const [errored,setErrored]=useState(false);
   if(!code||errored){
-    return <div style={{width:"min(340px,74vw)",height:"min(360px,78vw)",background:"#FFF1F2",borderRadius:20,display:"flex",alignItems:"center",justifyContent:"center",border:"2px solid #FECDD3"}}><div style={{fontSize:16,color:"#E11D48",fontWeight:700}}>Map unavailable</div></div>;
+    return <div style={{...MEDIA_PLATE_STYLE,width:"min(340px,74vw)",height:"min(360px,78vw)",maxWidth:"100%",background:"var(--surface)",display:"flex",alignItems:"center",justifyContent:"center",border:"1px solid rgba(239,68,68,.45)"}}><div style={{fontSize:14,color:"var(--danger)",fontWeight:700,letterSpacing:".04em"}}>Map unavailable</div></div>;
   }
   return(
     <img
       src={`/country-maps/${code}.svg`}
       alt={`${country} highlighted on a world map`}
       onError={()=>setErrored(true)}
-      style={{display:"block",width:"min(340px,74vw)",height:"auto",maxHeight:"min(360px,78vw)",objectFit:"contain",borderRadius:20,border:"1.5px solid #E2E8F0",boxShadow:"0 18px 40px #0f172a16",background:"#fff"}}
+      style={{...MEDIA_PLATE_STYLE,display:"block",width:"min(340px,74vw)",maxWidth:"100%",height:"auto",maxHeight:"min(360px,78vw)",objectFit:"contain",padding:8}}
     />
   );
 }
@@ -5116,22 +5130,23 @@ function CountryMapSVG({code,country}){
 // Character image via local generated asset pack
 function CharacterArt({name, wiki}){
   const src = wiki ? WHOAMI_IMAGE_MANIFEST[wiki] : null;
-  const frameStyle={display:"block",width:"min(330px,72vw)",height:"min(360px,78vw)",borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 22px 48px #0f172a16",background:"#fff",overflow:"hidden"};
+  // Fixed-aspect frame; the image zooms to fill it (cover, anchored center top).
+  const frameStyle={display:"block",width:"min(330px,72vw)",maxWidth:"100%",height:"min(360px,78vw)",borderRadius:"var(--radius-lg)",border:"1px solid var(--border)",boxShadow:"var(--shadow-2), 0 0 0 1px rgba(255,255,255,.06) inset",background:"var(--surface-strong)",overflow:"hidden",flex:"0 0 auto"};
 
   if(!src){
     return(
-      <div style={{...frameStyle,display:"flex",alignItems:"center",justifyContent:"center",background:"linear-gradient(180deg,#FFFFFF 0%,#F8FAFC 100%)"}}>
+      <div style={{...frameStyle,display:"flex",alignItems:"center",justifyContent:"center",background:"var(--surface)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)"}}>
         <div style={{textAlign:"center",padding:"0 22px"}}>
-          <div style={{fontSize:34,marginBottom:8}}>??</div>
-          <div style={{fontSize:12,color:"#64748B",fontWeight:700,marginBottom:4}}>Image unavailable</div>
-          <div style={{fontSize:11,color:"#94A3B8",fontWeight:600}}>This character is missing from the local image pack.</div>
+          <div style={{fontFamily:DISPLAY_STACK,fontSize:34,fontWeight:800,marginBottom:8,color:"var(--text)"}}>??</div>
+          <div style={{fontSize:12,color:"var(--text)",fontWeight:700,marginBottom:4}}>Image unavailable</div>
+          <div style={{fontSize:11,color:"var(--text-muted)",fontWeight:600}}>This character is missing from the local image pack.</div>
         </div>
       </div>
     );
   }
 
   return(
-    <div style={{...frameStyle,background:"#F8FAFC"}}>
+    <div style={frameStyle}>
       <img src={src} alt={name} loading="eager" decoding="async" style={{display:"block",width:"100%",height:"100%",objectFit:"cover",objectPosition:"center top"}} />
     </div>
   );
@@ -5386,12 +5401,12 @@ function MovieScenePlayer({tile,onClipFailed}){
 
   if(!tile.videoId){
     return(
-      <div style={{display:"block",width:"min(520px,96vw)",height:"min(320px,54vw)",minHeight:240,borderRadius:18,border:"1.5px solid #E2E8F0",boxShadow:"0 16px 36px #0f172a14",background:"#fff",overflow:"hidden"}}>
-        <div style={{width:"100%",height:"100%",display:"flex",alignItems:"center",justifyContent:"center",background:"linear-gradient(180deg,#FFFFFF 0%,#F8FAFC 100%)"}}>
+      <div style={{display:"block",width:"min(520px,96vw)",maxWidth:"100%",height:"min(320px,54vw)",minHeight:240,borderRadius:"var(--radius-lg)",border:"1px solid var(--border)",boxShadow:"var(--shadow-2)",background:"var(--surface)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",overflow:"hidden"}}>
+        <div style={{width:"100%",height:"100%",display:"flex",alignItems:"center",justifyContent:"center"}}>
           <div style={{textAlign:"center",padding:"0 20px"}}>
             <div style={{fontSize:34,marginBottom:10}}>🎞️</div>
-            <div style={{fontSize:12,color:"#64748B",fontWeight:700,marginBottom:4}}>Clip unavailable</div>
-            <div style={{fontSize:11,color:"#94A3B8",fontWeight:600}}>This movie scene is missing a playable source.</div>
+            <div style={{fontSize:12,color:"var(--text)",fontWeight:700,marginBottom:4}}>Clip unavailable</div>
+            <div style={{fontSize:11,color:"var(--text-muted)",fontWeight:600}}>This movie scene is missing a playable source.</div>
           </div>
         </div>
       </div>
@@ -5425,7 +5440,7 @@ function MovieScenePlayer({tile,onClipFailed}){
 
   return(
     <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12,width:"100%",maxWidth:620}}>
-      <div style={{position:"relative",width:"100%",aspectRatio:"16 / 9",minHeight:250,borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 20px 42px #0f172a16",background:"#0F172A",overflow:"hidden"}}>
+      <div style={{position:"relative",width:"100%",aspectRatio:"16 / 9",minHeight:250,borderRadius:"var(--radius-lg)",border:"1px solid var(--border)",boxShadow:"var(--shadow-2), 0 0 0 1px rgba(255,255,255,.05) inset",background:"#0F172A",overflow:"hidden"}}>
         {loaded?(
           <>
             <div
@@ -5463,7 +5478,7 @@ function MovieScenePlayer({tile,onClipFailed}){
       <div style={{display:"flex",gap:8,flexWrap:"wrap",justifyContent:"center"}}>
         {loaded&&<button className="tap" onClick={togglePlayback} disabled={!playerReady||status==="error"} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:15,padding:"12px 18px",borderRadius:999,disabled:!playerReady||status==="error"})}>{isPlaying?"Pause":"Play"}</button>}
         {loaded&&<button className="tap" onClick={replayClip} disabled={!playerReady||status==="error"} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#334155",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,subtle:true,disabled:!playerReady||status==="error"})}>Replay clip</button>}
-        {loaded&&status==="error"&&tile.sourceUrl&&<a href={tile.sourceUrl} target="_blank" rel="noreferrer" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",background:"#FFFFFF",color:"#64748B",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,border:"1.5px solid #E2E8F0",textDecoration:"none"}}>Open clip in browser</a>}
+        {loaded&&status==="error"&&tile.sourceUrl&&<a href={tile.sourceUrl} target="_blank" rel="noreferrer" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",minHeight:44,background:"var(--surface)",color:"var(--text)",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:"var(--radius-pill)",border:"1px solid var(--border)",boxShadow:"var(--shadow-1)",textDecoration:"none"}}>Open clip in browser</a>}
       </div>
     </div>
   );
@@ -5592,7 +5607,7 @@ function SongClipPlayer({tile}){
   return(
     <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:12,width:"100%",maxWidth:620}}>
       <audio ref={audioRef} src={tile.previewUrl||""} preload="auto" />
-      <div style={{position:"relative",width:"100%",minHeight:220,borderRadius:24,border:"1.5px solid #E2E8F0",boxShadow:"0 20px 42px #0f172a16",background:"#0F172A",overflow:"hidden"}}>
+      <div style={{position:"relative",width:"100%",minHeight:220,borderRadius:"var(--radius-lg)",border:"1px solid var(--border)",boxShadow:"var(--shadow-2), 0 0 0 1px rgba(255,255,255,.05) inset",background:"#0F172A",overflow:"hidden"}}>
         <div style={{position:"absolute",inset:0,background:"radial-gradient(circle at top left, #ffffff14 0%, transparent 36%), radial-gradient(circle at bottom right, #7c3aed26 0%, transparent 30%)"}}/>
         <div style={{position:"relative",zIndex:1,width:"100%",height:"100%",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:"30px 24px",gap:18,textAlign:"center"}}>
           <div style={{fontSize:54,lineHeight:1}}>{"\u{1F3B6}"}</div>
@@ -5627,42 +5642,80 @@ function SongClipPlayer({tile}){
       <div style={{display:"flex",gap:8,flexWrap:"wrap",justifyContent:"center"}}>
         {loaded&&<button className="tap" onClick={togglePlayback} disabled={status==="error"||status==="loading"} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:15,padding:"12px 18px",borderRadius:999,disabled:status==="error"||status==="loading"})}>{isPlaying?"Pause":"Play"}</button>}
         {loaded&&<button className="tap" onClick={replayClip} disabled={status==="error"||status==="loading"} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#334155",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,subtle:true,disabled:status==="error"||status==="loading"})}>Replay clip</button>}
-        {loaded&&status==="error"&&tile.sourceUrl&&<a href={tile.sourceUrl} target="_blank" rel="noreferrer" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",background:"#FFFFFF",color:"#64748B",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:999,border:"1.5px solid #E2E8F0",textDecoration:"none"}}>Open clip in browser</a>}
+        {loaded&&status==="error"&&tile.sourceUrl&&<a href={tile.sourceUrl} target="_blank" rel="noreferrer" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",minHeight:44,background:"var(--surface)",color:"var(--text)",fontWeight:700,fontSize:14,padding:"11px 16px",borderRadius:"var(--radius-pill)",border:"1px solid var(--border)",boxShadow:"var(--shadow-1)",textDecoration:"none"}}>Open clip in browser</a>}
       </div>
     </div>
   );
 }
 
+// Full-bleed card art: cover images zoom-to-fill, flags/maps/logos sit "contain" on a white plate.
+// A bottom gradient scrim keeps the label (rendered by the card) readable on any art.
+const CATEGORY_CARD_SCRIM="linear-gradient(180deg, rgba(2,6,23,0) 30%, rgba(2,6,23,.38) 58%, rgba(2,6,23,.90) 100%)";
+const CATEGORY_CARD_BADGE_STYLE={
+  position:"absolute",
+  top:8,
+  left:8,
+  padding:"4px 8px",
+  borderRadius:999,
+  background:"rgba(2,6,23,.62)",
+  border:"1px solid rgba(255,255,255,.22)",
+  color:"#FFFFFF",
+  fontFamily:"inherit",
+  fontSize:9,
+  fontWeight:800,
+  letterSpacing:".08em",
+  textTransform:"uppercase",
+  lineHeight:1,
+  backdropFilter:"blur(6px)",
+  WebkitBackdropFilter:"blur(6px)",
+  pointerEvents:"none",
+};
 function CategoryPreviewVisual({category, preview, badge}){
-  const imageWrapStyle={position:"relative",height:88,borderRadius:12,overflow:"hidden",background:preview?.bg||"#F8FAFC",display:"flex",alignItems:"center",justifyContent:"center",border:"2px solid rgba(15,23,42,.38)"};
+  const fit=preview?.cardFit||preview?.fit||"cover";
+  const isContain=fit==="contain";
+  const frameStyle={
+    position:"absolute",
+    inset:0,
+    overflow:"hidden",
+    background:isContain?(preview?.bg||"#FFFFFF"):(preview?.bg||"#0B1020"),
+    display:"flex",
+    alignItems:"center",
+    justifyContent:"center",
+  };
   if(preview?.src){
     return(
-      <div style={imageWrapStyle}>
+      <div style={frameStyle} aria-hidden="true">
         <img
           src={preview.src}
           alt=""
           loading="lazy"
           decoding="async"
-          style={{width:"100%",height:"100%",objectFit:preview.cardFit||preview.fit||"cover",objectPosition:preview.cardPosition||preview.position||"center"}}
+          style={{
+            display:"block",
+            width:"100%",
+            height:"100%",
+            objectFit:fit,
+            objectPosition:preview.cardPosition||preview.position||(isContain?"center":"center top"),
+            padding:isContain?"12% 12% 38%":0,
+          }}
         />
+        <div style={{position:"absolute",inset:0,background:CATEGORY_CARD_SCRIM,pointerEvents:"none"}}/>
+        {badge&&<div style={CATEGORY_CARD_BADGE_STYLE}>{badge}</div>}
       </div>
     );
   }
 
   return(
-    <div style={{...imageWrapStyle,background:`linear-gradient(135deg, ${category.color} 0%, ${category.color}D9 55%, #0F172A 140%)`}}>
-      <div style={{position:"absolute",inset:0,background:"radial-gradient(circle at top left, #ffffff55 0%, transparent 38%), radial-gradient(circle at bottom right, #ffffff22 0%, transparent 34%)"}}/>
-      <div style={{position:"absolute",top:6,left:6,display:"inline-flex",alignItems:"center",gap:5,padding:"5px 7px",borderRadius:999,background:"#ffffffd9",color:"#1E293B",fontSize:10,fontWeight:800,boxShadow:"0 5px 12px #0f172a14"}}>
-        <span style={{fontSize:12,lineHeight:1}}>{category.icon}</span>
-        <span>{category.label}</span>
-      </div>
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,padding:"0 10px",textAlign:"center"}}>
-        <div style={{fontSize:32,filter:"drop-shadow(0 6px 12px rgba(15,23,42,.18))"}}>{category.icon}</div>
-        <div style={{padding:"5px 9px",borderRadius:999,background:"#ffffff1a",border:"1px solid #ffffff2f",color:"#fff",fontSize:10,fontWeight:800,letterSpacing:.35}}>
+    <div style={{...frameStyle,background:`linear-gradient(145deg, ${lightenHex(category.color,.18)} 0%, ${category.color} 48%, ${darkenHex(category.color,.45)} 100%)`}} aria-hidden="true">
+      <div style={{position:"absolute",inset:0,background:"radial-gradient(circle at 18% 12%, rgba(255,255,255,.34) 0%, transparent 42%), radial-gradient(circle at 85% 90%, rgba(255,255,255,.12) 0%, transparent 38%)",pointerEvents:"none"}}/>
+      <div style={{position:"relative",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:6,padding:"0 10px 30%",textAlign:"center"}}>
+        <div style={{fontSize:"clamp(34px,6vw,46px)",lineHeight:1,filter:"drop-shadow(0 8px 14px rgba(2,6,23,.35))"}}>{category.icon}</div>
+        <div style={{padding:"4px 9px",borderRadius:999,background:"rgba(255,255,255,.14)",border:"1px solid rgba(255,255,255,.26)",color:"#fff",fontSize:9,fontWeight:800,letterSpacing:".08em",textTransform:"uppercase",lineHeight:1}}>
           {preview?.artLabel||"Play"}
         </div>
       </div>
-      {badge&&<div style={{position:"absolute",right:6,bottom:6,padding:"4px 7px",borderRadius:999,background:"#ffffff1f",border:"1px solid #ffffff29",color:"#fff",fontSize:9,fontWeight:800,letterSpacing:.35}}>{badge}</div>}
+      <div style={{position:"absolute",inset:0,background:CATEGORY_CARD_SCRIM,pointerEvents:"none"}}/>
+      {badge&&<div style={CATEGORY_CARD_BADGE_STYLE}>{badge}</div>}
     </div>
   );
 }
@@ -5670,110 +5723,70 @@ function CategoryPreviewVisual({category, preview, badge}){
 function CategoryPreviewCard({id, category, selected, onToggle}){
   const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
   const badge=category.isWhoAmI?"WHO AM I":category.isCharades?"CHARADES":category.isCountryMap?"MAP":category.isMovieScene?"CLIP":category.isSongClip?"AUDIO":null;
-  const selectedBorderColor=lightenHex(category.color,0.58);
-  const glowColor=lightenHex(category.color,0.72);
-  const CATEGORY_CARD_ACCENT_PALETTE=[
-    ["#22D3EE","#8B5CF6"],
-    ["#F59E0B","#F43F5E"],
-    ["#34D399","#3B82F6"],
-    ["#FB7185","#A855F7"],
-    ["#2DD4BF","#F97316"],
-  ];
-  const CATEGORY_CARD_TINTS={
-    the_office:"#60A5FA",
-    prison_break:"#67E8F9",
-    the_walking_dead:"#F59E0B",
-    suits:"#38BDF8",
-    vikings:"#34D399",
-    country_map:"#14B8A6",
-    country_facts:"#06B6D4",
-    flags:"#FB7185",
-    songs:"#8B5CF6",
-    science:"#60A5FA",
-    geography:"#2DD4BF",
-    marvel:"#F87171",
-    dc:"#3B82F6",
-    invincible:"#F97316",
-    the_boys:"#EF4444",
-    star_wars:"#FBBF24",
-  };
-  const accentIndex=[...id].reduce((sum,ch)=>sum+ch.charCodeAt(0),0)%CATEGORY_CARD_ACCENT_PALETTE.length;
-  const [accentA,accentB]=CATEGORY_CARD_ACCENT_PALETTE[accentIndex];
-  const cardTint=CATEGORY_CARD_TINTS[id]||category.color;
-  const cardGlow=lightenHex(cardTint,0.54);
-  const cardBright=lightenHex(cardTint,0.34);
-  const cardSoft=lightenHex(cardTint,0.18);
-  const cardDeep=category.color;
-  const accentSoftA=lightenHex(accentA,0.14);
-  const accentSoftB=lightenHex(accentB,0.14);
+  const tint=category.color;
   return(
     <button
+      type="button"
       className="tap"
       onClick={onToggle}
+      aria-pressed={selected}
+      title={category.label}
       style={{
-        ...getGlassButtonStyle({
-          tint:category.color,
-          textColor:"#1E293B",
-          borderRadius:16,
-          padding:6,
-          fontSize:12,
-          fontWeight:800,
-          subtle:true,
-        }),
-        backgroundColor:cardTint,
-        backgroundBlendMode:"screen, screen, screen, normal",
-        background:`linear-gradient(158deg, rgba(255,255,255,.28) 0%, rgba(255,255,255,.08) 20%, rgba(255,255,255,0) 42%),
-          radial-gradient(circle at 15% 14%, ${withAlpha(accentSoftA,"FF")} 0%, ${withAlpha(accentA,"C4")} 22%, transparent 48%),
-          radial-gradient(circle at 86% 84%, ${withAlpha(accentSoftB,"FF")} 0%, ${withAlpha(accentB,"C0")} 24%, transparent 50%),
-          radial-gradient(circle at 84% 16%, ${withAlpha(cardGlow,"F5")} 0%, ${withAlpha(cardBright,"B4")} 22%, transparent 46%),
-          linear-gradient(140deg, ${cardSoft} 0%, ${cardBright} 34%, ${cardTint} 66%, ${cardDeep} 100%)`,
-        display:"flex",
-        flexDirection:"column",
-        gap:7,
-        width:"100%",
-        height:188,
         position:"relative",
+        display:"block",
+        width:"100%",
+        aspectRatio:"4 / 5",
+        minHeight:150,
+        padding:0,
+        borderRadius:"var(--radius)",
         overflow:"hidden",
         isolation:"isolate",
-        border:`2px solid ${selected?selectedBorderColor:withAlpha(cardDeep,"A6")}`,
+        background:"var(--surface-strong)",
+        border:`1px solid ${selected?"rgba(124,58,237,.9)":"var(--border)"}`,
         boxShadow:selected
-          ?`0 0 0 5px ${withAlpha(glowColor,"55")}, 0 18px 34px ${withAlpha(glowColor,"88")}, inset 0 1px 0 rgba(255,255,255,.78), inset 0 -1px 0 rgba(255,255,255,.08)`
-          :`0 16px 28px rgba(15,23,42,.18), 0 6px 18px ${withAlpha(cardGlow,"40")}, inset 0 1px 0 rgba(255,255,255,.72), inset 0 -1px 0 rgba(255,255,255,.08)`,
-        transition:"all .15s",
+          ?"0 0 0 3px var(--accent), 0 0 0 7px rgba(124,58,237,.22), var(--shadow-2)"
+          :"var(--shadow-1)",
+        color:"#FFFFFF",
+        textAlign:"left",
+        cursor:"pointer",
+        transition:"box-shadow .18s ease, border-color .18s ease",
       }}
     >
-      <div style={{position:"absolute",inset:0,pointerEvents:"none"}}>
-        <div style={{position:"absolute",top:-20,left:-14,width:"74%",height:62,borderRadius:999,background:"linear-gradient(180deg, rgba(255,255,255,.52) 0%, rgba(255,255,255,0) 100%)",filter:"blur(11px)"}}/>
-        <div style={{position:"absolute",left:-26,bottom:18,width:104,height:104,borderRadius:"50%",background:`radial-gradient(circle, ${withAlpha(accentA,"A8")} 0%, ${withAlpha(accentA,"00")} 72%)`,filter:"blur(18px)"}}/>
-        <div style={{position:"absolute",right:-22,bottom:18,width:96,height:96,borderRadius:"50%",background:`radial-gradient(circle, ${withAlpha(accentB,"B0")} 0%, ${withAlpha(accentB,"00")} 70%)`,filter:"blur(16px)"}}/>
-      </div>
-      <div style={{position:"relative",zIndex:1,display:"flex",flexDirection:"column",gap:7,height:"100%"}}>
       <CategoryPreviewVisual category={category} preview={preview} badge={badge}/>
-      <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"space-between",gap:2,padding:"0 4px 2px",textAlign:"center",flex:1}}>
-        <div style={{fontSize:12,fontWeight:800,color:"#1E293B",lineHeight:1.12,minHeight:28,display:"flex",alignItems:"center",justifyContent:"center",textWrap:"balance"}}>
-          <span style={{display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}}>{category.label}</span>
+      {/* Tile-color accent line */}
+      <div aria-hidden="true" style={{position:"absolute",top:0,left:0,right:0,height:3,background:`linear-gradient(90deg, ${tint} 0%, ${lightenHex(tint,.4)} 100%)`,opacity:selected?1:.75,pointerEvents:"none",zIndex:2}}/>
+      {/* Label block over the scrim */}
+      <div style={{position:"absolute",left:0,right:0,bottom:0,padding:"0 46px 10px 10px",display:"flex",flexDirection:"column",gap:3,pointerEvents:"none",zIndex:2}}>
+        <div style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(12px,1.4vw,14px)",lineHeight:1.15,color:"#FFFFFF",letterSpacing:"-.01em",textShadow:"0 1px 2px rgba(2,6,23,.65)",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word"}}>
+          <span aria-hidden="true" style={{marginRight:4}}>{category.icon}</span>{category.label}
         </div>
-        <div style={{fontSize:9,fontWeight:700,color:"#FFFFFF",textShadow:"0 1px 6px rgba(15,23,42,.38)",letterSpacing:.25,textTransform:"uppercase",minHeight:18,display:"flex",alignItems:"flex-start",justifyContent:"center",textWrap:"balance"}}>
+        <div style={{fontFamily:BODY_STACK,fontSize:9,fontWeight:700,letterSpacing:".08em",textTransform:"uppercase",color:"rgba(241,245,249,.78)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",textShadow:"0 1px 2px rgba(2,6,23,.55)"}}>
           {preview.caption||"Tap to select"}
         </div>
       </div>
-      </div>
+      {/* Selected check badge */}
+      {selected&&(
+        <div className="pop" aria-hidden="true" style={{position:"absolute",top:8,right:8,width:24,height:24,borderRadius:"50%",background:"var(--grad-accent)",color:"#FFFFFF",display:"flex",alignItems:"center",justifyContent:"center",fontSize:13,fontWeight:900,lineHeight:1,boxShadow:"0 0 0 2px rgba(255,255,255,.85), 0 4px 10px rgba(2,6,23,.45)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
+      )}
     </button>
   );
 }
 function BoardCategoryArt({id, category, radius}){
   const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
   const boardSrc = preview.boardSrc || preview.src;
+  // "Arena" art card: square frame, hairline border, art zooms to fill (cover).
   const frameStyle={
     width:"100%",
     height:"100%",
     borderRadius:radius,
     overflow:"hidden",
-    border:"2px solid #0F172A",
-    background:preview.boardBg||preview.bg||"#FFFFFF",
+    border:"1px solid var(--border)",
+    background:preview.boardBg||preview.bg||"var(--surface-strong)",
+    boxShadow:"var(--shadow-1), inset 0 1px 0 rgba(255,255,255,.12)",
     display:"flex",
     alignItems:"center",
     justifyContent:"center",
+    position:"relative",
   };
 
   if(boardSrc){
@@ -5784,7 +5797,7 @@ function BoardCategoryArt({id, category, radius}){
           alt=""
           loading="lazy"
           decoding="async"
-          style={{width:"100%",height:"100%",objectFit:"cover",objectPosition:"center"}}
+          style={{width:"100%",height:"100%",objectFit:"cover",objectPosition:"center",display:"block"}}
         />
       </div>
     );
@@ -5792,7 +5805,7 @@ function BoardCategoryArt({id, category, radius}){
 
   return(
     <div style={{...frameStyle,background:`linear-gradient(135deg, ${category.color} 0%, ${category.color}D9 55%, #0F172A 140%)`}}>
-      <div style={{fontSize:32,filter:"drop-shadow(0 6px 12px rgba(15,23,42,.18))"}}>{category.icon}</div>
+      <div style={{fontSize:32,filter:"drop-shadow(0 6px 12px rgba(2,6,23,.35))"}}>{category.icon}</div>
     </div>
   );
 }
@@ -5823,13 +5836,16 @@ function QRCode({text,size=190}){
     <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:6}}>
       {status==="loading"&&<div style={{width:size,height:size,background:"#F1F5F9",borderRadius:10,border:"2px solid #E2E8F0",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:11,color:"#94A3B8",fontWeight:600}}>Generating...</span></div>}
       {status==="error"&&<div style={{width:size,height:size,background:"#FFF1F2",borderRadius:10,display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:11,color:"#E11D48",fontWeight:600}}>QR error</span></div>}
-      <div ref={divRef} style={{display:status==="done"?"block":"none",borderRadius:10,overflow:"hidden",border:"2px solid #E2E8F0"}}/>
-      <div style={{fontSize:9,color:"#94A3B8",fontWeight:600,letterSpacing:1}}>SCAN TO SEE YOUR WORD</div>
+      <div ref={divRef} style={{display:status==="done"?"block":"none",borderRadius:"var(--radius-sm)",overflow:"hidden",background:"#FFFFFF",padding:6,border:"1px solid var(--border)",boxShadow:"var(--shadow-1)"}}/>
+      <div style={{fontSize:10,color:"var(--text-muted)",fontWeight:700,letterSpacing:".08em"}}>SCAN TO SEE YOUR WORD</div>
     </div>
   );
 }
 
 const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
+// "Arena" typography: Sora for display/headings, Inter for body. SF system stack stays as the fallback.
+const DISPLAY_STACK="'Sora', "+SF_STACK;
+const BODY_STACK="'Inter', "+SF_STACK;
 const THEME_STORAGE_KEY="trivic-theme-mode";
 const LANG_STORAGE_KEY="trivic-language";
 function getInitialLanguage(){
@@ -5910,53 +5926,82 @@ const AR_TRANSLATIONS={
 };
 
 const CSS=`
+  /* ---------- "Arena" design tokens (dark is the default; .theme-light overrides) ---------- */
   :root{
-    --site-bg-color:#050505;
-    --site-bg-image:url('/site-bg-glossy.png');
+    color-scheme:dark;
+    --bg:#070A12;
+    --bg-image:url('/site-bg-glossy.png');
+    --surface:rgba(17,22,36,.72);
+    --surface-strong:#121829;
+    --border:rgba(255,255,255,.10);
+    --text:#F1F5F9;
+    --text-muted:#94A3B8;
+    --accent:#7C3AED;
+    --accent-2:#06B6D4;
+    --accent-3:#F59E0B;
+    --danger:#EF4444;
+    --success:#22C55E;
+    --grad-accent:linear-gradient(135deg,#7C3AED 0%,#2563EB 50%,#06B6D4 100%);
+    --radius-sm:12px;
+    --radius:18px;
+    --radius-lg:26px;
+    --radius-pill:999px;
+    --shadow-1:0 6px 18px rgba(2,6,23,.28);
+    --shadow-2:0 18px 48px rgba(2,6,23,.38);
+    --blur:blur(14px) saturate(140%);
+    --focus-ring:0 0 0 3px rgba(124,58,237,.35);
+    --font-display:${DISPLAY_STACK};
+    --font-body:${BODY_STACK};
+
+    /* Legacy site background vars (read by SITE_BACKGROUND_STYLE) */
+    --site-bg-color:var(--bg);
+    --site-bg-image:var(--bg-image);
     --site-bg-position:center;
     --site-bg-size:cover;
     --site-bg-repeat:no-repeat;
-    --header-bg-color:#0A2A52;
-    --header-bg-image:linear-gradient(180deg, rgba(255,255,255,.18) 0%, rgba(255,255,255,.04) 16%, rgba(255,255,255,0) 30%), linear-gradient(135deg, #163E76 0%, #0D2E5D 46%, #081F43 100%), radial-gradient(circle at 18% 20%, rgba(120,214,255,.18) 0%, rgba(120,214,255,0) 30%), radial-gradient(circle at 82% 18%, rgba(255,255,255,.10) 0%, rgba(255,255,255,0) 22%), radial-gradient(circle at 50% 100%, rgba(7,18,38,.34) 0%, rgba(7,18,38,0) 44%);
-    --header-bg-position:center;
-    --header-bg-size:cover;
+
+    /* Header = slim glass strip: surface fill + 2px gradient top line + hairline bottom */
+    --header-bg-color:var(--surface);
+    --header-bg-image:linear-gradient(90deg,#7C3AED 0%,#2563EB 50%,#06B6D4 100%);
+    --header-bg-position:top left;
+    --header-bg-size:100% 2px;
     --header-bg-repeat:no-repeat;
-    --header-box-shadow:inset 0 1px 0 rgba(255,255,255,.36), inset 0 -1px 0 rgba(255,255,255,.08), inset 0 18px 28px rgba(255,255,255,.06), 0 10px 24px rgba(0,0,0,.18);
-    --header-backdrop-filter:blur(8px) saturate(118%);
-  }
-  :root.theme-light{
-    --site-bg-color:#F8FBFF;
-    --site-bg-image:url('/light-mode-white.jpg');
-    --site-bg-position:center;
-    --site-bg-size:cover;
-    --site-bg-repeat:no-repeat;
-    --header-bg-color:#D7F5FF;
-    --header-bg-image:linear-gradient(180deg, rgba(255,255,255,.40) 0%, rgba(255,255,255,.14) 28%, rgba(255,255,255,0) 62%), url('/light-mode-blue.jpg');
-    --header-bg-position:center;
-    --header-bg-size:cover;
-    --header-bg-repeat:no-repeat;
-    --header-box-shadow:inset 0 1px 0 rgba(255,255,255,.72), inset 0 -1px 0 rgba(255,255,255,.24), 0 10px 24px rgba(15,23,42,.10);
-    --header-backdrop-filter:blur(6px) saturate(106%);
+    --header-box-shadow:inset 0 -1px 0 var(--border), var(--shadow-1);
+    --header-backdrop-filter:var(--blur);
   }
   :root.theme-dark{
-    --site-bg-color:#050505;
-    --site-bg-image:url('/site-bg-glossy.png');
-    --site-bg-position:center;
-    --site-bg-size:cover;
-    --site-bg-repeat:no-repeat;
-    --header-bg-color:#0A2A52;
-    --header-bg-image:linear-gradient(180deg, rgba(255,255,255,.18) 0%, rgba(255,255,255,.04) 16%, rgba(255,255,255,0) 30%), linear-gradient(135deg, #163E76 0%, #0D2E5D 46%, #081F43 100%), radial-gradient(circle at 18% 20%, rgba(120,214,255,.18) 0%, rgba(120,214,255,0) 30%), radial-gradient(circle at 82% 18%, rgba(255,255,255,.10) 0%, rgba(255,255,255,0) 22%), radial-gradient(circle at 50% 100%, rgba(7,18,38,.34) 0%, rgba(7,18,38,0) 44%);
-    --header-bg-position:center;
-    --header-bg-size:cover;
-    --header-bg-repeat:no-repeat;
-    --header-box-shadow:inset 0 1px 0 rgba(255,255,255,.36), inset 0 -1px 0 rgba(255,255,255,.08), inset 0 18px 28px rgba(255,255,255,.06), 0 10px 24px rgba(0,0,0,.18);
-    --header-backdrop-filter:blur(8px) saturate(118%);
+    color-scheme:dark;
+    --bg:#070A12;
+    --bg-image:url('/site-bg-glossy.png');
+    --surface:rgba(17,22,36,.72);
+    --surface-strong:#121829;
+    --border:rgba(255,255,255,.10);
+    --text:#F1F5F9;
+    --text-muted:#94A3B8;
+    --shadow-1:0 6px 18px rgba(2,6,23,.28);
+    --shadow-2:0 18px 48px rgba(2,6,23,.38);
   }
+  :root.theme-light{
+    color-scheme:light;
+    --bg:#F5F7FB;
+    --bg-image:url('/light-mode-white.jpg');
+    --surface:rgba(255,255,255,.82);
+    --surface-strong:#FFFFFF;
+    --border:rgba(15,23,42,.10);
+    --text:#0F172A;
+    --text-muted:#64748B;
+    --shadow-1:0 6px 18px rgba(2,6,23,.11);
+    --shadow-2:0 18px 48px rgba(2,6,23,.15);
+  }
+
   *{box-sizing:border-box;margin:0;padding:0;}
   html{
     width:100%;
     height:100%;
   }
+  /* overflow-x:clip blocks sideways scroll WITHOUT creating a scroll container, so position:sticky
+     descendants (category top bar, setup CTA) still stick to the viewport. hidden = legacy fallback. */
+  html,body,#root{overflow-x:hidden;overflow-x:clip;max-width:100vw;}
   body,#root{
     width:100%;
     min-height:100%;
@@ -5966,18 +6011,35 @@ const CSS=`
     background-position:var(--site-bg-position);
     background-size:var(--site-bg-size);
     background-repeat:var(--site-bg-repeat);
-    font-family:${SF_STACK};
-    color:#1E293B;
+    font-family:${BODY_STACK};
+    font-size:16px;
+    line-height:1.4;
+    color:var(--text);
     text-rendering:optimizeLegibility;
     -webkit-font-smoothing:antialiased;
     -moz-osx-font-smoothing:grayscale;
     font-smooth:always;
   }
-  button{font-family:${SF_STACK};cursor:pointer;border:none;}
-  input{font-family:${SF_STACK};}
-  .tap{transition:transform .12s;}
-  .tap:hover{transform:scale(1.03);}
-  .tap:active{transform:scale(0.96);}
+  .display{font-family:${DISPLAY_STACK};font-weight:800;letter-spacing:-.01em;}
+  .label{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--text-muted);}
+  button{font-family:${BODY_STACK};cursor:pointer;border:none;-webkit-tap-highlight-color:transparent;touch-action:manipulation;}
+  button:disabled{cursor:not-allowed;}
+  input,select,textarea{font-family:${BODY_STACK};}
+  button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,a:focus-visible,[tabindex]:focus-visible{
+    outline:3px solid rgba(124,58,237,.35);
+    outline-offset:2px;
+  }
+  ::selection{background:rgba(124,58,237,.35);}
+  .tap{transition:transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, filter .18s ease;}
+  .tap:hover{transform:translateY(-1px) scale(1.02);filter:brightness(1.06);}
+  .tap:active{transform:scale(0.96);filter:brightness(.98);}
+  .tap:disabled,.tap[aria-disabled="true"]{transform:none;filter:none;}
+  /* Small round controls (score +/-, timer reset, chip ×): visual size unchanged, but on touch the
+     tappable area is padded out to >= 44px via a transparent pseudo-element. */
+  .hit44{position:relative;}
+  @media (pointer: coarse){
+    .hit44::after{content:"";position:absolute;inset:-10px;border-radius:inherit;}
+  }
   .pop{animation:pop .25s cubic-bezier(.34,1.5,.64,1) both;}
   @keyframes pop{from{transform:scale(.85);opacity:0}to{transform:scale(1);opacity:1}}
   .fadein{animation:fadein .3s ease both;}
@@ -5985,10 +6047,14 @@ const CSS=`
   .page-enter{animation:pageEnter .36s cubic-bezier(.22,.8,.26,1) both;will-change:opacity,transform;}
   @keyframes pageEnter{from{opacity:0;transform:translateY(14px) scale(.995)}to{opacity:1;transform:none}}
   @media (prefers-reduced-motion: reduce){
-    .page-enter{animation:none;}
+    .page-enter,.pop,.fadein{animation:none;}
+    .tap{transition:none;}
+    .tap:hover{transform:none;filter:none;}
   }
-  ::-webkit-scrollbar{width:4px;height:4px;}
-  ::-webkit-scrollbar-thumb{background:#CBD5E1;border-radius:4px;}
+  ::-webkit-scrollbar{width:6px;height:6px;}
+  ::-webkit-scrollbar-track{background:transparent;}
+  ::-webkit-scrollbar-thumb{background:rgba(148,163,184,.45);border-radius:999px;}
+  ::-webkit-scrollbar-thumb:hover{background:rgba(148,163,184,.7);}
   /* All devices: document scrolls naturally, no fixed-height traps. */
 `;
 
@@ -6639,10 +6705,10 @@ export default function App(){
   };
 
   if(!authReady) return renderWithGlobalThemeToggle(
-    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:18}}>
+    <div style={{...ARENA_PAGE_STYLE,justifyContent:"center",padding:24,gap:18}}>
       <style>{CSS}</style>
-      <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
-      <div style={{fontSize:16,color:"#64748B",fontWeight:800,letterSpacing:1.5}}>Loading account...</div>
+      <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(52px,14vw,88px)"}}>TRIVIC</div>
+      <div style={{...ARENA_LABEL_STYLE,fontSize:12}}>Loading account...</div>
     </div>
   );
   if(!accountSession) return renderWithGlobalThemeToggle(<AuthScreen mode={authMode} setMode={setAuthMode} username={authUsername} setUsername={setAuthUsername} password={authPassword} setPassword={setAuthPassword} error={authError} isBusy={authBusy} onSubmit={handleAuthSubmit} themeMode={themeMode}/>);
@@ -6703,57 +6769,90 @@ function FitToViewport({children}){
   );
 }
 
+// "Arena" team pill: active = solid team color + white text + 25% glow ring; inactive = outline.
+function getTeamPillStyle(tc,active,{fontSize=12,padding="6px 14px",letterSpacing=".08em",minWidth=0}={}){
+  return{
+    fontFamily:BODY_STACK,
+    fontSize,
+    fontWeight:800,
+    letterSpacing,
+    textTransform:"uppercase",
+    lineHeight:1.2,
+    color:active?"#FFFFFF":tc,
+    background:active?`linear-gradient(180deg, rgba(255,255,255,.16) 0%, rgba(255,255,255,0) 60%), ${tc}`:"transparent",
+    border:`1.5px solid ${active?tc:withAlpha(tc,"B3")}`,
+    borderRadius:999,
+    padding,
+    boxShadow:active?`0 0 0 4px ${withAlpha(tc,"40")}, 0 8px 18px ${withAlpha(tc,"33")}`:"none",
+    textShadow:active?"0 1px 1px rgba(2,6,23,.25)":"none",
+    textAlign:"center",
+    minWidth,
+    maxWidth:"100%",
+    whiteSpace:"nowrap",
+    overflow:"hidden",
+    textOverflow:"ellipsis",
+    transition:"background .18s ease, box-shadow .18s ease, color .18s ease",
+  };
+}
+
+// Score digits: display font, tabular numerals so +/- adjustments don't jitter.
+function getScoreDigitStyle(tc,active,{fontSize=26,minWidth=40}={}){
+  return{
+    fontFamily:DISPLAY_STACK,
+    fontWeight:800,
+    fontVariantNumeric:"tabular-nums",
+    fontSize,
+    lineHeight:1,
+    letterSpacing:"-.02em",
+    color:active?tc:"var(--text-muted)",
+    minWidth,
+    textAlign:"center",
+    textShadow:active?`0 0 18px ${withAlpha(tc,"40")}`:"none",
+    transition:"color .18s ease",
+  };
+}
+
 function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
   const viewport=useViewportSize();
   const isPhone=viewport.width<700;
   const padX=isPhone?8:16;
-  const pillFont=isPhone?11:13;
-  const pillPad=isPhone?"4px 8px":"6px 14px";
+  const pillFont=isPhone?11:12;
+  const pillPad=isPhone?"5px 10px":"6px 14px";
   const pillMinW=isPhone?0:92;
-  const btnSize=isPhone?22:28;
-  const btnFont=isPhone?14:18;
+  const btnSize=isPhone?28:32;
+  const btnFont=isPhone?16:18;
   const scoreFont=isPhone?20:26;
-  const scoreMinW=isPhone?28:40;
+  const scoreMinW=isPhone?30:44;
   const innerGap=isPhone?5:8;
   const turnColor=TEAM_COLORS[curTeam%TEAM_COLORS.length];
   const showTurnBanner=showTurnText&&teams.length>=2;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",display:"flex",flexDirection:"column",padding:`${isPhone?6:10}px ${padX}px`,borderBottom:"1px solid #D7EAF2",maxWidth:"100vw",overflow:"hidden",gap:isPhone?4:6}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",padding:isPhone?`8px ${padX}px 8px 74px`:`10px ${padX}px`,width:"100%",maxWidth:"100vw",overflow:"hidden",gap:isPhone?6:8}}>
       {showTurnBanner&&(
-        <div style={{fontSize:isPhone?14:22,fontWeight:900,color:turnColor,letterSpacing:.5,fontFamily:SF_STACK,whiteSpace:"nowrap",textAlign:"center",textShadow:`0 2px 10px ${turnColor}33`,overflow:"hidden",textOverflow:"ellipsis"}}>
-          {teams[curTeam]}'s Turn
-        </div>
-      )}
-      <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",width:"100%",gap:isPhone?4:8}}>
-      {teams.map((t,i)=>(
-        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,minWidth:0,gap:isPhone?4:8}}>
-          <div style={{
-            fontSize:pillFont,
-            fontWeight:900,
-            color:i===curTeam?"#fff":TEAM_COLORS[i%TEAM_COLORS.length],
-            letterSpacing:isPhone?.6:1.2,
-            textTransform:"uppercase",
-            background:i===curTeam?TEAM_COLORS[i%TEAM_COLORS.length]:"transparent",
-            border:`2px solid ${TEAM_COLORS[i%TEAM_COLORS.length]}`,
-            borderRadius:999,
-            padding:pillPad,
-            boxShadow:i===curTeam?`0 10px 18px ${withAlpha(TEAM_COLORS[i%TEAM_COLORS.length],"30")}`:"none",
-            textAlign:"center",
-            minWidth:pillMinW,
-            maxWidth:"100%",
-            whiteSpace:"nowrap",
-            overflow:"hidden",
-            textOverflow:"ellipsis",
-          }}>{t}</div>
-          <div style={{display:"flex",alignItems:"center",gap:innerGap}}>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i%TEAM_COLORS.length],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
-            <div style={{fontSize:scoreFont,fontWeight:900,color:i===curTeam?TEAM_COLORS[i%TEAM_COLORS.length]:"#94A3B8",fontFamily:SF_STACK,minWidth:scoreMinW,textAlign:"center"}}>{scores[i]}</div>
-            <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:TEAM_COLORS[i%TEAM_COLORS.length],size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
+        <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:8,minWidth:0}}>
+          <span aria-hidden="true" style={{width:8,height:8,borderRadius:999,background:turnColor,boxShadow:`0 0 0 3px ${withAlpha(turnColor,"40")}`,flex:"0 0 auto"}}/>
+          <div style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:isPhone?14:20,color:turnColor,letterSpacing:"-.01em",lineHeight:1.1,whiteSpace:"nowrap",textAlign:"center",textShadow:`0 0 18px ${withAlpha(turnColor,"55")}`,overflow:"hidden",textOverflow:"ellipsis",minWidth:0}}>
+            {teams[curTeam]}'s Turn
           </div>
         </div>
-      ))}
+      )}
+      <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between",width:"100%",gap:isPhone?4:8}}>
+      {teams.map((t,i)=>{
+        const tc=TEAM_COLORS[i%TEAM_COLORS.length];
+        const active=i===curTeam;
+        return(
+        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,minWidth:0,gap:isPhone?5:8}}>
+          <div style={getTeamPillStyle(tc,active,{fontSize:pillFont,padding:pillPad,letterSpacing:isPhone?".05em":".08em",minWidth:pillMinW})}>{t}</div>
+          <div style={{display:"flex",alignItems:"center",gap:innerGap}}>
+            <button className="tap hit44" aria-label={`${t}: minus 100`} onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:tc,size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
+            <div style={getScoreDigitStyle(tc,active,{fontSize:scoreFont,minWidth:scoreMinW})}>{scores[i]}</div>
+            <button className="tap hit44" aria-label={`${t}: plus 100`} onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:tc,size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
+          </div>
+        </div>
+        );
+      })}
       {!showTurnText&&teams.length>=2&&(
-        <div style={{fontSize:10,color:"#94A3B8",fontWeight:600,padding:`0 ${isPhone?4:8}px`}}>VS</div>
+        <div className="label" style={{fontSize:10,alignSelf:"center",padding:`0 ${isPhone?4:8}px`,flex:"0 0 auto"}}>VS</div>
       )}
       </div>
     </div>
@@ -6765,58 +6864,44 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
   const viewport=useViewportSize();
   const isPhone=viewport.width<700;
   const isNarrow=viewport.width<520;
-  const headerPad=isPhone?"10px 10px 8px":"18px 24px 16px";
-  const colGap=isPhone?8:20;
-  const pillPad=isPhone?"6px 12px":"10px 24px";
-  const pillFont=isPhone?(isNarrow?12:13):18;
-  const pillMinW=isPhone?0:160;
-  const pillLetter=isPhone?1.2:2.2;
-  const btnSize=isPhone?28:40;
-  const btnFont=isPhone?16:24;
-  const scoreFont=isPhone?"clamp(24px,8vw,34px)":"clamp(44px,6vw,66px)";
-  const scoreMinW=isPhone?34:58;
-  const scoreGap=isPhone?6:14;
-  const colGapV=isPhone?6:12;
-  const vsFont=isPhone?"clamp(22px,6vw,32px)":"clamp(56px,7vw,88px)";
-  const turnFont=isPhone?22:44;
-  const centerMinW=isPhone?0:140;
+  const many=teams.length>3;
+  // Phone: left padding clears the fixed EN toggle (18px + 44px + gap) so it never covers the first team pill.
+  const headerPad=isPhone?"10px 10px 12px 74px":"14px 24px 16px";
+  const colGap=isPhone?(many?6:10):many?16:32;
+  const pillPad=isPhone?(many?"5px 10px":"6px 14px"):many?"7px 14px":"8px 22px";
+  const pillFont=isPhone?(isNarrow?11:12):many?12:14;
+  const btnSize=isPhone?(many?28:30):many?32:40;
+  const btnFont=isPhone?16:many?18:22;
+  const scoreFont=isPhone?(many?"clamp(18px,5vw,24px)":"clamp(24px,7vw,32px)"):many?"clamp(24px,3vw,36px)":"clamp(36px,4.5vw,54px)";
+  const scoreMinW=isPhone?(many?26:34):many?40:64;
+  const scoreGap=isPhone?(many?4:6):many?8:12;
+  const colGapV=isPhone?6:10;
+  const turnColor=TEAM_COLORS[curTeam%TEAM_COLORS.length];
+  const turnFont=isPhone?"clamp(16px,4.6vw,20px)":"clamp(20px,2.4vw,28px)";
+  const showVs=teams.length===2;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,borderBottom:"1px solid #D7EAF2",padding:headerPad,maxWidth:"100vw",overflow:"hidden"}}>
-      <div style={{display:"flex",alignItems:"start",justifyContent:"center",gap:colGap,minWidth:0,flexWrap:"wrap"}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",gap:isPhone?8:10,padding:headerPad,width:"100%",maxWidth:"100vw",overflow:"hidden"}}>
+      {/* Turn banner — always stacked ABOVE the team pills, never overlaid. */}
+      <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,minWidth:0,flexWrap:"wrap"}}>
+        <span aria-hidden="true" style={{width:10,height:10,borderRadius:999,background:turnColor,boxShadow:`0 0 0 4px ${withAlpha(turnColor,"40")}`,flex:"0 0 auto"}}/>
+        <div style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:turnFont,color:turnColor,letterSpacing:"-.01em",lineHeight:1.1,whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0,maxWidth:"100%",textShadow:`0 0 22px ${withAlpha(turnColor,"55")}`}}>{teams[curTeam]}'s turn</div>
+        {allDone&&<button className="tap hit44" onClick={onGameOver} style={getGlassButtonStyle({tint:"#7C3AED",fontSize:isPhone?11:12,padding:isPhone?"7px 12px":"8px 16px",borderRadius:999,minHeight:isPhone?32:36})}>RESULTS →</button>}
+      </div>
+      <div style={{display:"flex",alignItems:"flex-start",justifyContent:"center",gap:colGap,minWidth:0,flexWrap:"wrap"}}>
         {teams.map((t,i)=>{
           const tc=TEAM_COLORS[i%TEAM_COLORS.length];
+          const active=i===curTeam;
           return(
             <React.Fragment key={i}>
-              {i>0&&<div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:isPhone?2:6,minWidth:isPhone?30:centerMinW,flex:"0 0 auto"}}>
-                <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:teams.length>2?(isPhone?"16px":"clamp(20px,3vw,32px)"):vsFont,lineHeight:.82,color:isDark?"#E5E7EB":"#0F172A",letterSpacing:isPhone?1:2}}>VS</div>
-                {i===teams.length-1&&<>
-                  <div style={{fontSize:turnFont,fontWeight:900,color:TEAM_COLORS[curTeam%TEAM_COLORS.length],textAlign:"center",whiteSpace:"nowrap",letterSpacing:.5,textShadow:`0 2px 10px ${TEAM_COLORS[curTeam%TEAM_COLORS.length]}33`,fontFamily:SF_STACK}}>{teams[curTeam]}'s turn</div>
-                  {allDone&&<button className="tap" onClick={onGameOver} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#1E293B",fontSize:isPhone?11:13,padding:isPhone?"6px 10px":"8px 14px",borderRadius:999})}>RESULTS</button>}
-                </>}
-              </div>}
-              <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:colGapV,minWidth:0,flex:"1 1 0"}}>
-                <div style={{
-                  fontSize:teams.length>3?(isPhone?10:14):pillFont,
-                  fontWeight:900,
-                  color:"#fff",
-                  letterSpacing:teams.length>3?0.8:pillLetter,
-                  textTransform:"uppercase",
-                  background:tc,
-                  border:`2px solid ${tc}`,
-                  borderRadius:999,
-                  padding:teams.length>3?(isPhone?"4px 8px":"8px 14px"):pillPad,
-                  boxShadow:`0 12px 22px ${withAlpha(tc,"35")}`,
-                  textAlign:"center",
-                  minWidth:0,
-                  maxWidth:"100%",
-                  whiteSpace:"nowrap",
-                  overflow:"hidden",
-                  textOverflow:"ellipsis",
-                }}>{t}</div>
-                <div style={{display:"flex",alignItems:"center",gap:teams.length>3?4:scoreGap,minWidth:0}}>
-                  <button className="tap" onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:tc,size:teams.length>3?(isPhone?22:28):btnSize,fontSize:teams.length>3?(isPhone?12:16):btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
-                  <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:teams.length>3?(isPhone?"clamp(18px,5vw,24px)":"clamp(24px,3vw,36px)"):scoreFont,lineHeight:.9,color:tc,minWidth:teams.length>3?24:scoreMinW,textAlign:"center"}}>{scores[i]}</div>
-                  <button className="tap" onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:tc,size:teams.length>3?(isPhone?22:28):btnSize,fontSize:teams.length>3?(isPhone?12:16):btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
+              {showVs&&i===1&&(
+                <div aria-hidden="true" className="label" style={{alignSelf:"center",fontSize:isPhone?11:13,fontFamily:DISPLAY_STACK,fontWeight:800,color:"var(--text-muted)",opacity:isDark?.9:1,flex:"0 0 auto",padding:"0 2px"}}>VS</div>
+              )}
+              <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:colGapV,minWidth:0,flex:many?"1 1 120px":"1 1 0",maxWidth:many?240:380}}>
+                <div style={getTeamPillStyle(tc,active,{fontSize:pillFont,padding:pillPad,letterSpacing:many?".06em":".1em"})}>{t}</div>
+                <div style={{display:"flex",alignItems:"center",gap:scoreGap,minWidth:0}}>
+                  <button className="tap hit44" aria-label={`${t}: minus 100`} onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:tc,size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
+                  <div style={getScoreDigitStyle(tc,active,{fontSize:scoreFont,minWidth:scoreMinW})}>{scores[i]}</div>
+                  <button className="tap hit44" aria-label={`${t}: plus 100`} onClick={()=>onAdjustScore?.(i,100)} style={getGlassCircleButtonStyle({tint:tc,size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>+</span></button>
                 </div>
               </div>
             </React.Fragment>
@@ -6827,58 +6912,48 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
   );
 }
 
+// Small round glass button shared by the top-corner toggles (theme / language).
+const ARENA_TOGGLE_BUTTON_STYLE={
+  width:44,
+  height:44,
+  borderRadius:999,
+  display:"inline-flex",
+  alignItems:"center",
+  justifyContent:"center",
+  padding:0,
+  background:"linear-gradient(180deg, rgba(255,255,255,.10) 0%, rgba(255,255,255,0) 60%), var(--surface)",
+  border:"1px solid var(--border)",
+  boxShadow:"var(--shadow-1), inset 0 1px 0 rgba(255,255,255,.12)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
+  color:"var(--text)",
+  cursor:"pointer",
+  flex:"0 0 auto",
+};
+
 function ThemeModeToggle({themeMode,onChange}){
   const isLight=themeMode==="light";
   return(
-    <div style={{
-      display:"inline-flex",
-      alignItems:"center",
-      gap:10,
-      padding:"10px 14px",
-      borderRadius:999,
-      background:isLight?"rgba(255,255,255,.88)":"rgba(15,23,42,.72)",
-      border:`1.5px solid ${isLight?"rgba(15,23,42,.12)":"rgba(255,255,255,.16)"}`,
-      boxShadow:isLight?"0 14px 28px rgba(15,23,42,.12)":"0 14px 28px rgba(0,0,0,.28)",
-      backdropFilter:"blur(12px) saturate(112%)",
-      WebkitBackdropFilter:"blur(12px) saturate(112%)",
-    }}>
-      <span style={{fontSize:12,fontWeight:800,color:isLight?"#64748B":"#E2E8F0",letterSpacing:.4}}>Dark</span>
-      <button
-        type="button"
-        className="tap"
-        aria-label={`Switch to ${isLight?"dark":"light"} mode`}
-        aria-pressed={isLight}
-        onClick={()=>onChange(isLight?"dark":"light")}
-        style={{
-          width:58,
-          height:32,
-          borderRadius:999,
-          padding:3,
-          background:isLight
-            ?"linear-gradient(135deg, #38BDF8 0%, #7DD3FC 44%, #E0F2FE 100%)"
-            :"linear-gradient(135deg, #0F172A 0%, #1D4ED8 58%, #38BDF8 100%)",
-          boxShadow:isLight
-            ?"inset 0 1px 0 rgba(255,255,255,.65), 0 8px 20px rgba(56,189,248,.26)"
-            :"inset 0 1px 0 rgba(255,255,255,.18), 0 8px 20px rgba(15,23,42,.35)",
-          display:"flex",
-          alignItems:"center",
-        }}
-      >
-        <span style={{
-          width:26,
-          height:26,
-          borderRadius:"50%",
-          background:isLight
-            ?"linear-gradient(180deg, #FFFFFF 0%, #EFF6FF 100%)"
-            :"linear-gradient(180deg, #FFFFFF 0%, #DBEAFE 100%)",
-          boxShadow:"0 4px 10px rgba(15,23,42,.22)",
-          transform:`translateX(${isLight?26:0}px)`,
-          transition:"transform .18s ease",
-          display:"block",
-        }}/>
-      </button>
-      <span style={{fontSize:12,fontWeight:800,color:isLight?"#0F172A":"#94A3B8",letterSpacing:.4}}>Light</span>
-    </div>
+    <button
+      type="button"
+      className="tap"
+      aria-label={`Switch to ${isLight?"dark":"light"} mode`}
+      title={`Switch to ${isLight?"dark":"light"} mode`}
+      aria-pressed={isLight}
+      onClick={()=>onChange(isLight?"dark":"light")}
+      style={ARENA_TOGGLE_BUTTON_STYLE}
+    >
+      {isLight?(
+        <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+          <circle cx="12" cy="12" r="4.2" fill="#F59E0B" stroke="none"/>
+          <path d="M12 2.5v2.4M12 19.1v2.4M2.5 12h2.4M19.1 12h2.4M5.3 5.3l1.7 1.7M17 17l1.7 1.7M5.3 18.7 7 17M17 7l1.7-1.7"/>
+        </svg>
+      ):(
+        <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none">
+          <path d="M20 14.6A8.5 8.5 0 0 1 9.4 4a8.5 8.5 0 1 0 10.6 10.6Z" fill="#C4B5FD" stroke="#A78BFA" strokeWidth="1.6" strokeLinejoin="round"/>
+        </svg>
+      )}
+    </button>
   );
 }
 
@@ -6886,82 +6961,171 @@ function LanguageToggle({language,onChange,themeMode}){
   const isLight=themeMode==="light";
   const isAr=language==="ar";
   return(
-    <div style={{
-      display:"inline-flex",
-      alignItems:"center",
-      gap:10,
-      padding:"10px 14px",
-      borderRadius:999,
-      background:isLight?"rgba(255,255,255,.88)":"rgba(15,23,42,.72)",
-      border:`1.5px solid ${isLight?"rgba(15,23,42,.12)":"rgba(255,255,255,.16)"}`,
-      boxShadow:isLight?"0 14px 28px rgba(15,23,42,.12)":"0 14px 28px rgba(0,0,0,.28)",
-      backdropFilter:"blur(12px) saturate(112%)",
-      WebkitBackdropFilter:"blur(12px) saturate(112%)",
-      direction:"ltr",
-    }} data-no-translate="1">
-      <span style={{fontSize:12,fontWeight:800,color:isLight?(isAr?"#64748B":"#0F172A"):(isAr?"#94A3B8":"#E2E8F0"),letterSpacing:.4}}>EN</span>
-      <button
-        type="button"
-        className="tap"
-        aria-label={`Switch language to ${isAr?"English":"Arabic"}`}
-        aria-pressed={isAr}
-        onClick={()=>onChange(isAr?"en":"ar")}
-        style={{
-          width:58,
-          height:32,
-          borderRadius:999,
-          padding:3,
-          background:isAr
-            ?"linear-gradient(135deg, #059669 0%, #10B981 58%, #6EE7B7 100%)"
-            :"linear-gradient(135deg, #1E293B 0%, #475569 58%, #94A3B8 100%)",
-          boxShadow:isAr
-            ?"inset 0 1px 0 rgba(255,255,255,.35), 0 8px 20px rgba(16,185,129,.32)"
-            :"inset 0 1px 0 rgba(255,255,255,.18), 0 8px 20px rgba(15,23,42,.35)",
-          display:"flex",
-          alignItems:"center",
-        }}
-      >
-        <span style={{
-          width:26,
-          height:26,
-          borderRadius:"50%",
-          background:"linear-gradient(180deg, #FFFFFF 0%, #E2E8F0 100%)",
-          boxShadow:"0 4px 10px rgba(15,23,42,.22)",
-          transform:`translateX(${isAr?26:0}px)`,
-          transition:"transform .18s ease",
-          display:"block",
-        }}/>
-      </button>
-      <span style={{fontSize:12,fontWeight:800,color:isLight?(isAr?"#0F172A":"#64748B"):(isAr?"#E2E8F0":"#94A3B8"),letterSpacing:.4}}>AR</span>
-    </div>
+    <button
+      type="button"
+      className="tap"
+      aria-label={`Switch language to ${isAr?"English":"Arabic"}`}
+      title={`Switch language to ${isAr?"English":"Arabic"}`}
+      aria-pressed={isAr}
+      onClick={()=>onChange(isAr?"en":"ar")}
+      data-no-translate="1"
+      style={{
+        ...ARENA_TOGGLE_BUTTON_STYLE,
+        direction:"ltr",
+        fontFamily:DISPLAY_STACK,
+        fontSize:12,
+        fontWeight:800,
+        letterSpacing:".08em",
+        color:isAr?"var(--success)":"var(--text)",
+      }}
+    >
+      {isAr?"AR":"EN"}
+    </button>
   );
+}
+
+// ---------- "Arena" shared screen styles (visual only) ----------
+const ARENA_PAGE_STYLE={
+  minHeight:"100dvh",
+  width:"100%",
+  maxWidth:"100vw",
+  overflowX:"clip",
+  ...SITE_BACKGROUND_STYLE,
+  display:"flex",
+  flexDirection:"column",
+  alignItems:"center",
+  fontFamily:BODY_STACK,
+  color:"var(--text)",
+};
+const ARENA_CARD_STYLE={
+  position:"relative",
+  width:"100%",
+  background:"var(--surface)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
+  border:"1px solid var(--border)",
+  borderRadius:"var(--radius-lg)",
+  boxShadow:"var(--shadow-2), inset 0 1px 0 rgba(255,255,255,.08)",
+  overflow:"hidden",
+};
+const ARENA_CARD_TOPLINE_STYLE={
+  position:"absolute",
+  top:0,
+  left:0,
+  right:0,
+  height:3,
+  background:"var(--grad-accent)",
+  pointerEvents:"none",
+};
+const ARENA_WORDMARK_STYLE={
+  fontFamily:DISPLAY_STACK,
+  fontWeight:800,
+  lineHeight:1,
+  letterSpacing:"-.02em",
+  backgroundImage:"var(--grad-accent)",
+  backgroundClip:"text",
+  WebkitBackgroundClip:"text",
+  color:"transparent",
+  WebkitTextFillColor:"transparent",
+  display:"inline-block",
+  paddingBottom:".06em",
+};
+const ARENA_LABEL_STYLE={
+  fontFamily:BODY_STACK,
+  fontSize:11,
+  fontWeight:700,
+  letterSpacing:".08em",
+  textTransform:"uppercase",
+  color:"var(--text-muted)",
+};
+const ARENA_INPUT_STYLE={
+  width:"100%",
+  minHeight:48,
+  padding:"12px 16px",
+  borderRadius:"var(--radius-sm)",
+  border:"1px solid var(--border)",
+  background:"var(--surface-strong)",
+  color:"var(--text)",
+  fontFamily:BODY_STACK,
+  fontSize:16,
+  fontWeight:600,
+  lineHeight:1.3,
+  boxShadow:"inset 0 1px 2px rgba(2,6,23,.12)",
+};
+const ARENA_SEGMENT_WRAP_STYLE={
+  display:"grid",
+  gap:4,
+  padding:4,
+  borderRadius:"var(--radius-pill)",
+  background:"rgba(148,163,184,.14)",
+  border:"1px solid var(--border)",
+};
+function arenaSegmentStyle(active){
+  return active
+    ?{
+      minHeight:44,
+      padding:"10px 14px",
+      borderRadius:"var(--radius-pill)",
+      background:"linear-gradient(180deg, rgba(255,255,255,.16) 0%, rgba(255,255,255,0) 55%), var(--grad-accent)",
+      color:"#FFFFFF",
+      border:"1px solid rgba(255,255,255,.18)",
+      boxShadow:"0 8px 20px rgba(79,70,229,.30), inset 0 1px 0 rgba(255,255,255,.24)",
+      fontFamily:BODY_STACK,
+      fontSize:14,
+      fontWeight:700,
+      letterSpacing:".01em",
+      textShadow:"0 1px 1px rgba(2,6,23,.25)",
+      cursor:"pointer",
+    }
+    :{
+      minHeight:44,
+      padding:"10px 14px",
+      borderRadius:"var(--radius-pill)",
+      background:"transparent",
+      color:"var(--text-muted)",
+      border:"1px solid transparent",
+      boxShadow:"none",
+      fontFamily:BODY_STACK,
+      fontSize:14,
+      fontWeight:700,
+      letterSpacing:".01em",
+      cursor:"pointer",
+    };
 }
 
 function AuthScreen({mode,setMode,username,setUsername,password,setPassword,error,isBusy,onSubmit,themeMode}){
   const isSignup=mode==="signup";
   const isDark=themeMode==="dark";
   return(
-    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:28}}>
+    <div style={{...ARENA_PAGE_STYLE,justifyContent:"center",padding:"84px 16px 32px",gap:22}}>
       <style>{CSS}</style>
-      <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:isDark?"#E5E7EB":"#1E293B",lineHeight:.9,letterSpacing:2}}>TRIVIC</div>
+      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:6}}>
+        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(52px,14vw,88px)"}}>TRIVIC</div>
+        <div style={ARENA_LABEL_STYLE}>Party trivia arena</div>
       </div>
-      <div style={{width:"100%",maxWidth:500,background:"#FFFFFF",borderRadius:28,border:"3px solid #0F172A",boxShadow:"0 24px 60px #0f172a14",padding:"24px 22px 22px",display:"flex",flexDirection:"column",gap:16}}>
-        <div style={{display:"flex",gap:10}}>
-          <button className="tap" onClick={()=>setMode("login")} style={{...getGlassButtonStyle({tint:"#2563EB",textColor:"#0F172A",fontSize:15,padding:"12px 0",borderRadius:16,subtle:false,selected:mode==="login",ringColor:withAlpha(lightenHex("#2563EB",0.52),"E6")}),flex:1}}>Sign In</button>
-          <button className="tap" onClick={()=>setMode("signup")} style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:"#0F172A",fontSize:15,padding:"12px 0",borderRadius:16,subtle:false,selected:mode==="signup",ringColor:withAlpha(lightenHex("#7C3AED",0.52),"E6")}),flex:1}}>Create Account</button>
+      <div style={{...ARENA_CARD_STYLE,maxWidth:420,padding:"24px 20px 22px",display:"flex",flexDirection:"column",gap:16}}>
+        <div style={ARENA_CARD_TOPLINE_STYLE}/>
+        <div role="tablist" aria-label="Account mode" style={{...ARENA_SEGMENT_WRAP_STYLE,gridTemplateColumns:"1fr 1fr"}}>
+          <button type="button" role="tab" aria-selected={mode==="login"} className="tap" onClick={()=>setMode("login")} style={arenaSegmentStyle(mode==="login")}>Login</button>
+          <button type="button" role="tab" aria-selected={mode==="signup"} className="tap" onClick={()=>setMode("signup")} style={arenaSegmentStyle(mode==="signup")}>Sign up</button>
         </div>
-        <div style={{fontSize:14,color:"#475569",fontWeight:600,lineHeight:1.55,textAlign:"center"}}>
+        <div style={{fontSize:14,color:"var(--text-muted)",fontWeight:500,lineHeight:1.55,textAlign:"center"}}>
           {isSignup?"Create an account and your question pool starts fresh just for you.":"Sign in once and keep your own saved question pool across refreshes and devices."}
         </div>
-        <form onSubmit={onSubmit} style={{display:"flex",flexDirection:"column",gap:14}}>
-          <input value={username} onChange={(e)=>setUsername(e.target.value)} placeholder="Username" autoComplete="username"
-            style={{width:"100%",padding:"16px 18px",borderRadius:18,border:"2px solid #CBD5E1",fontSize:18,fontWeight:700,background:"#fff",color:"#1E293B",outline:"none",textAlign:"center"}}/>
-          <input type="password" value={password} onChange={(e)=>setPassword(e.target.value)} placeholder="Password" autoComplete={isSignup?"new-password":"current-password"}
-            style={{width:"100%",padding:"16px 18px",borderRadius:18,border:"2px solid #CBD5E1",fontSize:18,fontWeight:700,background:"#fff",color:"#1E293B",outline:"none",textAlign:"center"}}/>
-          {error&&<div style={{fontSize:13,color:"#DC2626",fontWeight:800,textAlign:"center"}}>{error}</div>}
-          <button className="tap" disabled={isBusy} style={{...getGlassButtonStyle({tint:isSignup?"#7C3AED":"#2563EB",textColor:"#0F172A",fontSize:19,padding:"16px 20px",borderRadius:18,disabled:isBusy}),marginTop:4,opacity:isBusy?.7:1}}>
-            {isBusy?(isSignup?"Creating account...":"Signing in..."):(isSignup?"CREATE ACCOUNT":"SIGN IN")}
+        <form onSubmit={onSubmit} style={{display:"flex",flexDirection:"column",gap:12}}>
+          <label style={{display:"flex",flexDirection:"column",gap:6}}>
+            <span style={ARENA_LABEL_STYLE}>Username</span>
+            <input value={username} onChange={(e)=>setUsername(e.target.value)} placeholder="Username" autoComplete="username" style={ARENA_INPUT_STYLE}/>
+          </label>
+          <label style={{display:"flex",flexDirection:"column",gap:6}}>
+            <span style={ARENA_LABEL_STYLE}>Password</span>
+            <input type="password" value={password} onChange={(e)=>setPassword(e.target.value)} placeholder="Password" autoComplete={isSignup?"new-password":"current-password"} style={ARENA_INPUT_STYLE}/>
+          </label>
+          {error&&(
+            <div role="alert" style={{fontSize:13,color:"var(--danger)",fontWeight:700,textAlign:"center",padding:"10px 12px",borderRadius:"var(--radius-sm)",background:"rgba(239,68,68,.12)",border:"1px solid rgba(239,68,68,.35)"}}>{error}</div>
+          )}
+          <button className="tap" disabled={isBusy} style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:"#0F172A",fontSize:16,padding:"14px 20px",borderRadius:"var(--radius)",minHeight:52,disabled:isBusy}),width:"100%",marginTop:4,fontFamily:DISPLAY_STACK,letterSpacing:".02em"}}>
+            {isBusy?(isSignup?"Creating account...":"Signing in..."):(isSignup?"Create account":"Sign in")}
           </button>
         </form>
       </div>
@@ -6971,91 +7135,101 @@ function AuthScreen({mode,setMode,username,setUsername,password,setPassword,erro
 
 function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onLogout,themeMode}){
   const isDark=themeMode==="dark";
+  const modeCopy=gameMode==="ffa"
+    ?"Everyone plays every question. Right answers score, wrong ones cost the full tile value."
+    :"Teams take turns picking tiles. Wrong answers cost half the tile value.";
   return(
-    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:32,gap:34}}>
+    <div style={{...ARENA_PAGE_STYLE,justifyContent:"flex-start",padding:"84px 16px 0",gap:18}}>
       <style>{CSS}</style>
-      <div style={{position:"absolute",top:20,right:20,display:"flex",alignItems:"center",gap:10}}>
-        {accountUser&&<div style={{fontSize:13,fontWeight:800,color:"#475569",background:"#FFFFFF",border:"2px solid #CBD5E1",borderRadius:999,padding:"8px 14px"}}>{accountUser.username}</div>}
-        <button className="tap" onClick={onLogout} style={getGlassButtonStyle({tint:"#EF4444",textColor:"#1E293B",fontSize:13,padding:"10px 16px",borderRadius:999,subtle:true,borderWidth:2})}>Sign Out</button>
-      </div>
-      <div style={{textAlign:"center"}}>
-        <div style={{fontFamily:SF_STACK,fontSize:"clamp(64px,16vw,104px)",fontWeight:900,color:isDark?"#E5E7EB":"#3A4A67",lineHeight:.9,letterSpacing:2,textShadow:isDark?"0 1px 0 rgba(255,255,255,.04)":"0 1px 0 rgba(255,255,255,.08)"}}>TRIVIC</div>
-        <div style={{display:"flex",gap:12,marginTop:16,justifyContent:"center"}}>
-          {[["team","Team Trivia"],["ffa","FFA Trivia"]].map(([mode,label])=>(
-            <button key={mode} className="tap" onClick={()=>setGameMode(mode)}
-              style={{
-                padding:"12px 28px",
-                borderRadius:14,
-                fontSize:16,
-                fontWeight:900,
-                letterSpacing:1.5,
-                border:gameMode===mode?"3px solid #2563EB":"3px solid #CBD5E1",
-                background:gameMode===mode?"linear-gradient(135deg, #DBEAFE 0%, #EFF6FF 100%)":"rgba(255,255,255,.7)",
-                color:gameMode===mode?"#1E40AF":"#94A3B8",
-                boxShadow:gameMode===mode?"0 8px 20px rgba(37,99,235,.18)":"none",
-                cursor:"pointer",
-                textTransform:"uppercase",
-              }}>{label}</button>
-          ))}
-        </div>
-      </div>
-      <div style={{width:"100%",maxWidth:520,display:"flex",flexDirection:"column",gap:18}}>
-        {teams.map((t,i)=>{
-          const tc=TEAM_COLORS[i%TEAM_COLORS.length];
-          return(
-            <div key={i}>
-              <div style={{fontSize:14,fontWeight:800,color:tc,letterSpacing:1.8,marginBottom:8,textTransform:"uppercase",textAlign:"center",display:"flex",alignItems:"center",justifyContent:"center",gap:10}}>
-                Team {i+1}
-                {teams.length>2&&(
-                  <button className="tap" onClick={()=>{const n=teams.filter((_,j)=>j!==i);setTeams(n);}}
-                    style={{fontSize:11,fontWeight:800,color:"#EF4444",background:"#FFF1F2",border:"1.5px solid #FECACA",borderRadius:999,padding:"2px 10px",cursor:"pointer"}}>✕</button>
-                )}
-              </div>
-              <input value={t} onChange={e=>{const n=[...teams];n[i]=e.target.value;setTeams(n);}} placeholder={`Team ${i+1}`}
-                style={{
-                  width:"100%",
-                  padding:"18px 22px",
-                  borderRadius:18,
-                  border:`3px solid ${tc}`,
-                  fontSize:21,
-                  fontWeight:700,
-                  background:`linear-gradient(135deg, ${tc}55 0%, ${tc}22 18%, rgba(255,255,255,.96) 54%, ${tc}33 100%)`,
-                  boxShadow:`inset 0 1px 0 rgba(255,255,255,.92), 0 12px 28px ${tc}28`,
-                  color:"#1E293B",
-                  outline:"none",
-                  textAlign:"center"
-                }}/>
-            </div>
-          );
-        })}
-        {teams.length<TEAM_COLORS.length&&(
-          <button className="tap" onClick={()=>setTeams(prev=>[...prev,`Team ${prev.length+1}`])}
-            style={{
-              width:"100%",
-              padding:"16px 22px",
-              borderRadius:18,
-              border:"3px dashed #CBD5E1",
-              fontSize:18,
-              fontWeight:800,
-              background:"rgba(255,255,255,.7)",
-              color:"#64748B",
-              cursor:"pointer",
-              textAlign:"center",
-              letterSpacing:1,
-            }}>+ Add Team</button>
+      {/* Account chip + logout, top-right */}
+      <div style={{position:"absolute",top:18,right:16,zIndex:20,display:"flex",alignItems:"center",gap:8,maxWidth:"calc(100vw - 140px)"}}>
+        {accountUser&&(
+          <div title={accountUser.username} style={{display:"inline-flex",alignItems:"center",gap:8,minHeight:44,fontSize:13,fontWeight:700,color:"var(--text)",background:"var(--surface)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",border:"1px solid var(--border)",boxShadow:"var(--shadow-1)",borderRadius:"var(--radius-pill)",padding:"6px 14px 6px 8px",minWidth:0}}>
+            <span aria-hidden="true" style={{width:26,height:26,borderRadius:"50%",background:"var(--grad-accent)",color:"#fff",display:"inline-flex",alignItems:"center",justifyContent:"center",fontFamily:DISPLAY_STACK,fontSize:12,fontWeight:800,flex:"0 0 auto"}}>{String(accountUser.username||"?").slice(0,1).toUpperCase()}</span>
+            <span style={{overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap",maxWidth:140}}>{accountUser.username}</span>
+          </div>
         )}
+        <button className="tap" onClick={onLogout} aria-label="Sign out" style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#1E293B",fontSize:13,padding:"0 14px",borderRadius:999,minHeight:44,subtle:true,borderWidth:1}),backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",flex:"0 0 auto"}}>Sign out</button>
       </div>
-      <button className="tap" onClick={onNext} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#0F172A",fontSize:22,padding:"18px 56px",borderRadius:18})}>SELECT CATEGORIES -&gt;</button>
+
+      {/* Wordmark + heading */}
+      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:4}}>
+        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(40px,9vw,64px)"}}>TRIVIC</div>
+        <div style={ARENA_LABEL_STYLE}>Set up your game</div>
+      </div>
+
+      <div style={{width:"100%",maxWidth:560,display:"flex",flexDirection:"column",gap:14}}>
+        {/* Teams card */}
+        <section style={{...ARENA_CARD_STYLE,padding:"22px 18px 18px",display:"flex",flexDirection:"column",gap:14}}>
+          <div style={ARENA_CARD_TOPLINE_STYLE}/>
+          <div style={{display:"flex",alignItems:"baseline",justifyContent:"space-between",gap:10}}>
+            <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(20px,3.2vw,28px)",fontWeight:700,letterSpacing:"-.01em",color:"var(--text)",lineHeight:1.1}}>Teams</h2>
+            <span style={ARENA_LABEL_STYLE}>{teams.length} of {TEAM_COLORS.length}</span>
+          </div>
+          <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill, minmax(220px, 1fr))",gap:10}}>
+            {teams.map((t,i)=>{
+              const tc=TEAM_COLORS[i%TEAM_COLORS.length];
+              return(
+                <div key={i} style={{display:"flex",alignItems:"center",gap:8,minHeight:52,padding:"4px 4px 4px 12px",borderRadius:"var(--radius-pill)",background:withAlpha(tc,"24"),border:`1px solid ${withAlpha(tc,"80")}`,boxShadow:`inset 0 1px 0 rgba(255,255,255,.10), 0 0 0 0 ${withAlpha(tc,"40")}`,minWidth:0}}>
+                  <span aria-hidden="true" style={{width:12,height:12,borderRadius:"50%",background:tc,boxShadow:`0 0 0 3px ${withAlpha(tc,"40")}`,flex:"0 0 auto"}}/>
+                  <input
+                    value={t}
+                    onChange={e=>{const n=[...teams];n[i]=e.target.value;setTeams(n);}}
+                    placeholder={`Team ${i+1}`}
+                    aria-label={`Team ${i+1} name`}
+                    style={{flex:1,minWidth:0,width:"100%",minHeight:44,padding:"8px 6px",background:"transparent",border:"none",borderRadius:"var(--radius-pill)",fontFamily:BODY_STACK,fontSize:16,fontWeight:700,color:"var(--text)",textOverflow:"ellipsis"}}
+                  />
+                  {teams.length>2&&(
+                    <button
+                      className="tap"
+                      type="button"
+                      aria-label={`Remove team ${i+1}`}
+                      onClick={()=>{const n=teams.filter((_,j)=>j!==i);setTeams(n);}}
+                      style={{width:44,height:44,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",flex:"0 0 auto",background:"rgba(239,68,68,.14)",border:"1px solid rgba(239,68,68,.40)",color:"var(--danger)",fontFamily:DISPLAY_STACK,fontSize:16,fontWeight:800,lineHeight:1,cursor:"pointer"}}
+                    >×</button>
+                  )}
+                </div>
+              );
+            })}
+            {teams.length<TEAM_COLORS.length&&(
+              <button
+                className="tap"
+                type="button"
+                onClick={()=>setTeams(prev=>[...prev,`Team ${prev.length+1}`])}
+                style={{display:"inline-flex",alignItems:"center",justifyContent:"center",gap:8,minHeight:52,padding:"8px 16px",borderRadius:"var(--radius-pill)",background:"rgba(148,163,184,.10)",border:"1px dashed rgba(148,163,184,.55)",color:"var(--text-muted)",fontFamily:BODY_STACK,fontSize:15,fontWeight:700,cursor:"pointer"}}
+              >
+                <span aria-hidden="true" style={{fontFamily:DISPLAY_STACK,fontSize:18,fontWeight:800,lineHeight:1}}>+</span>
+                Add team
+              </button>
+            )}
+          </div>
+        </section>
+
+        {/* Mode card */}
+        <section style={{...ARENA_CARD_STYLE,padding:"22px 18px 18px",display:"flex",flexDirection:"column",gap:14}}>
+          <div style={ARENA_CARD_TOPLINE_STYLE}/>
+          <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(20px,3.2vw,28px)",fontWeight:700,letterSpacing:"-.01em",color:"var(--text)",lineHeight:1.1}}>Mode</h2>
+          <div role="radiogroup" aria-label="Game mode" style={{...ARENA_SEGMENT_WRAP_STYLE,gridTemplateColumns:"1fr 1fr"}}>
+            {[["team","Teams"],["ffa","Free-for-all"]].map(([mode,label])=>(
+              <button key={mode} type="button" role="radio" aria-checked={gameMode===mode} className="tap" onClick={()=>setGameMode(mode)} style={arenaSegmentStyle(gameMode===mode)}>{label}</button>
+            ))}
+          </div>
+          <p style={{fontSize:14,lineHeight:1.5,color:"var(--text-muted)",fontWeight:500}}>{modeCopy}</p>
+        </section>
+      </div>
+
+      {/* Sticky bottom CTA */}
+      <div style={{position:"sticky",bottom:0,zIndex:10,width:"100%",marginTop:"auto",padding:"14px 0 calc(16px + env(safe-area-inset-bottom, 0px))",display:"flex",justifyContent:"center",background:"linear-gradient(180deg, rgba(7,10,18,0) 0%, var(--bg) 70%)"}}>
+        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:"#0F172A",fontSize:17,padding:"14px 28px",borderRadius:"var(--radius)",minHeight:54}),width:"100%",maxWidth:560,fontFamily:DISPLAY_STACK,letterSpacing:".01em"}}>
+          Choose Categories <span aria-hidden="true">→</span>
+        </button>
+      </div>
     </div>
   );
 }
 
 function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingUsage,themeMode}){
   const viewport=useViewportSize();
-  const isDark=themeMode==="dark";
-  const previewCardWidth=viewport.width<420?110:viewport.width<768?118:viewport.width<1280?126:132;
-  const selectedPreviewHeight=188;
-  const selectedToolbarHeight=selectedPreviewHeight+20;
   const toggle=baseId=>setSelCats(p=>{
     const has=p.some(x=>baseCat(x)===baseId);
     return has?p.filter(x=>baseCat(x)!==baseId):[...p,baseId];
@@ -7069,64 +7243,130 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
     return [...p,`${baseId}#${n}`];
   });
   const removeInstance=instanceId=>setSelCats(p=>p.filter(x=>x!==instanceId));
+  const isPhone=viewport.width<480;
+  const cardMin=isPhone?120:150;
+  const canStart=selCats.length>0&&usageReady&&!isSyncingUsage;
+  const startLabel=!usageReady
+    ?(isPhone?"Loading...":"Loading account pool...")
+    :isSyncingUsage
+      ?(isPhone?"Syncing...":"Syncing question pool...")
+      :selCats.length>0
+        ?`START (${selCats.length}) →`
+        :(isPhone?"Pick 1+":"Select at least 1");
+  const COPY_BADGE_STYLE={
+    display:"inline-flex",
+    alignItems:"center",
+    padding:"3px 7px",
+    borderRadius:999,
+    background:"#F59E0B",
+    color:"#111827",
+    fontFamily:DISPLAY_STACK,
+    fontSize:9,
+    fontWeight:800,
+    letterSpacing:".08em",
+    lineHeight:1,
+    textTransform:"uppercase",
+    whiteSpace:"nowrap",
+    boxShadow:"0 2px 6px rgba(2,6,23,.35)",
+  };
+  const quickActions=[
+    ["ALL","#94A3B8",()=>setSelCats(CAT_IDS.filter(id=>BANK[id])),true],
+    ["RANDOM MIX","#7C3AED",()=>{const picks=CAT_GROUPS.map(g=>shuffle(g.ids.filter(id=>BANK[id])).slice(0,2));setSelCats([...new Set(picks.flat())]);},false],
+    ["CLEAR","#EF4444",()=>setSelCats([]),true],
+  ];
   return(
-    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column"}}>
+    <div style={{...ARENA_PAGE_STYLE,alignItems:"stretch"}}>
       <style>{CSS}</style>
-      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,padding:"14px 16px 10px",borderBottom:"1px solid #D7EAF2",display:"flex",flexDirection:"column",alignItems:"center",textAlign:"center"}}>
-        <div style={{fontFamily:SF_STACK,fontSize:26,fontWeight:900,color:isDark?"#E5E7EB":"#1E293B",letterSpacing:1}}>SELECT CATEGORIES</div>
-        <div style={{fontSize:14,color:isDark?"#CBD5E1":"#334155",fontWeight:700,marginTop:2}}>{selCats.length} selected</div>
-        {!usageReady&&<div style={{fontSize:11,color:isDark?"#E2E8F0":"#475569",fontWeight:700,marginTop:4}}>Loading your account question history...</div>}
+
+      {/* Sticky top bar: Back / title + count / START */}
+      {/* paddingLeft clears the fixed EN/theme toggle cluster (18px + 44 + 10 + 44) so Back never sits under it */}
+      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"sticky",top:0,zIndex:28,width:"100%",maxWidth:"100vw",padding:isPhone?"10px 10px 10px 122px":"12px 16px 12px 130px",display:"flex",alignItems:"center",gap:isPhone?8:12,minHeight:isPhone?64:70}}>
+        <button className="tap" onClick={onBack} aria-label="Back to setup" style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:14,padding:isPhone?"0 12px":"0 16px",borderRadius:999,minHeight:44,subtle:true,borderWidth:1}),flex:"0 0 auto",whiteSpace:"nowrap"}}>
+          <span aria-hidden="true">←</span>{!isPhone&&<span>Back</span>}
+        </button>
+        <div style={{flex:1,minWidth:0,display:"flex",flexDirection:"column",alignItems:"center",textAlign:"center",gap:2}}>
+          <div style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:"clamp(15px,2.6vw,22px)",lineHeight:1.1,letterSpacing:"-.01em",color:"var(--text)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",maxWidth:"100%"}}>Select categories</div>
+          <div style={{display:"inline-flex",alignItems:"center",gap:6,minWidth:0}}>
+            <span style={{display:"inline-flex",alignItems:"center",justifyContent:"center",minWidth:22,height:22,padding:"0 7px",borderRadius:999,background:selCats.length>0?"var(--grad-accent)":"rgba(148,163,184,.18)",color:selCats.length>0?"#FFFFFF":"var(--text-muted)",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:12,fontVariantNumeric:"tabular-nums",lineHeight:1}}>{selCats.length}</span>
+            <span style={{...ARENA_LABEL_STYLE,fontSize:10}}>selected</span>
+          </div>
+          {!usageReady&&<div style={{fontSize:11,color:"var(--text-muted)",fontWeight:600,whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",maxWidth:"100%"}}>Loading your account question history...</div>}
+        </div>
+        <button
+          className="tap"
+          onClick={()=>selCats.length>0&&usageReady&&!isSyncingUsage&&onStart(selCats)}
+          aria-disabled={!canStart}
+          style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:canStart?"#0F172A":"#C7D2E4",fontSize:isPhone?13:15,padding:isPhone?"0 14px":"0 22px",borderRadius:999,minHeight:44,disabled:!canStart}),flex:"0 0 auto",fontFamily:DISPLAY_STACK,letterSpacing:".02em",whiteSpace:"nowrap"}}
+        >
+          {startLabel}
+        </button>
       </div>
-      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,display:"flex",gap:12,padding:"10px 16px",borderBottom:"1px solid #D7EAF2",alignItems:"center",flexWrap:"nowrap",minHeight:selectedToolbarHeight,position:"sticky",top:0,zIndex:28}}>
-        <div style={{display:"flex",gap:8,flexWrap:"nowrap",alignItems:"center",flex:"0 0 auto"}}>
-          {[["ALL","#1E293B",()=>setSelCats(CAT_IDS.filter(id=>BANK[id]))],["RANDOM MIX","#7C3AED",()=>{const picks=CAT_GROUPS.map(g=>shuffle(g.ids.filter(id=>BANK[id])).slice(0,2));setSelCats([...new Set(picks.flat())]);}],["CLEAR","#EF4444",()=>setSelCats([])]].map(([lbl,col,fn])=>(
-            <button key={lbl} className="tap" onClick={fn} style={{...getGlassButtonStyle({tint:col,textColor:"#0F172A",fontSize:15,padding:"12px 20px",borderRadius:12,minHeight:48}),letterSpacing:.25}}>{lbl}</button>
+
+      {/* Quick actions + selected strip */}
+      <div style={{width:"min(100%, 1500px)",margin:"0 auto",padding:isPhone?"12px 10px 0":"14px 16px 0",display:"flex",flexDirection:"column",gap:10,minWidth:0}}>
+        <div style={{display:"flex",gap:8,flexWrap:"wrap",alignItems:"center"}}>
+          {quickActions.map(([lbl,col,fn,subtle])=>(
+            <button key={lbl} className="tap" onClick={fn} style={{...getGlassButtonStyle({tint:col,textColor:"#0F172A",fontSize:12,padding:"0 16px",borderRadius:999,minHeight:44,subtle,borderWidth:1}),fontFamily:DISPLAY_STACK,letterSpacing:".08em",flex:isPhone?"1 1 auto":"0 0 auto",whiteSpace:"nowrap"}}>{lbl}</button>
           ))}
         </div>
-        <div style={{display:"flex",alignItems:"stretch",gap:8,flex:1,minWidth:"min(100%, 320px)",height:selectedPreviewHeight,overflowX:"auto",overflowY:"hidden",paddingBottom:2}}>
+        <div style={{display:"flex",alignItems:"center",gap:8,width:"100%",maxWidth:"100%",overflowX:"auto",overflowY:"hidden",padding:"2px 0 8px",WebkitOverflowScrolling:"touch",scrollbarWidth:"thin"}}>
           {selCats.length===0?(
-            <div style={{display:"flex",alignItems:"center",justifyContent:"center",height:"100%",minWidth:260,fontSize:11,fontWeight:700,color:"#94A3B8",padding:"10px 12px",borderRadius:12,border:"1.5px dashed #CBD5E1",background:"#F8FAFC",whiteSpace:"nowrap"}}>
+            <div style={{display:"inline-flex",alignItems:"center",minHeight:44,padding:"0 16px",borderRadius:999,border:"1px dashed var(--border)",background:"var(--surface)",color:"var(--text-muted)",fontSize:12,fontWeight:600,whiteSpace:"nowrap",flex:"0 0 auto"}}>
               Selected categories appear here
             </div>
           ):selCats.map(id=>{
             const c=BANK[baseCat(id)];
             if(!c) return null;
+            const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
+            const chipFit=(preview.cardFit||preview.fit)==="contain"?"contain":"cover";
+            const isCopy=id!==baseCat(id);
             return(
-              <div key={id} style={{position:"relative",width:previewCardWidth,minWidth:previewCardWidth,height:selectedPreviewHeight,flex:"0 0 auto"}}>
-                <CategoryPreviewCard
-                  id={baseCat(id)}
-                  category={c}
-                  selected={true}
-                  onToggle={()=>removeInstance(id)}
-                />
-                {id!==baseCat(id)&&(
-                  <div style={{position:"absolute",top:6,left:6,background:"#F59E0B",color:"#111827",fontSize:10,fontWeight:900,padding:"2px 6px",borderRadius:6,letterSpacing:.5,pointerEvents:"none"}}>COPY {id.slice(id.indexOf("#")+1)}</div>
-                )}
+              <div key={id} style={{display:"inline-flex",alignItems:"center",gap:8,flex:"0 0 auto",minHeight:44,maxWidth:280,padding:"3px 3px 3px 3px",borderRadius:999,background:withAlpha(c.color,"24"),border:`1px solid ${withAlpha(c.color,"80")}`,boxShadow:"inset 0 1px 0 rgba(255,255,255,.10)",minWidth:0}}>
+                <span aria-hidden="true" style={{width:36,height:36,borderRadius:"50%",overflow:"hidden",flex:"0 0 auto",background:preview.src?(chipFit==="contain"?(preview.bg||"#FFFFFF"):(preview.bg||"#0B1020")):c.color,display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:16,border:"1px solid rgba(255,255,255,.22)"}}>
+                  {preview.src
+                    ?<img src={preview.src} alt="" loading="lazy" decoding="async" style={{display:"block",width:"100%",height:"100%",objectFit:chipFit,objectPosition:preview.cardPosition||preview.position||"center top",padding:chipFit==="contain"?4:0}}/>
+                    :c.icon}
+                </span>
+                <span style={{fontSize:13,fontWeight:700,color:"var(--text)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0}}>{c.label}</span>
+                {isCopy&&<span style={COPY_BADGE_STYLE}>COPY {id.slice(id.indexOf("#")+1)}</span>}
+                <button
+                  className="tap hit44"
+                  onClick={()=>removeInstance(id)}
+                  aria-label={`Remove ${c.label}${isCopy?" copy "+id.slice(id.indexOf("#")+1):""}`}
+                  title="Remove"
+                  style={{width:36,height:36,borderRadius:"50%",flex:"0 0 auto",border:"1px solid var(--border)",background:"rgba(148,163,184,.16)",color:"var(--text)",fontSize:18,fontWeight:800,lineHeight:1,display:"inline-flex",alignItems:"center",justifyContent:"center",cursor:"pointer",padding:0}}
+                >{"×"}</button>
               </div>
             );
           })}
         </div>
       </div>
-      <div style={{overflowY:"auto",flex:1,padding:"12px 0 18px",display:"flex",flexDirection:"column",gap:20,alignItems:"center"}}>
+
+      {/* Group sections */}
+      <div style={{flex:1,width:"100%",padding:isPhone?"12px 10px 32px":"14px 16px 40px",display:"flex",flexDirection:"column",gap:isPhone?22:28,alignItems:"center",minWidth:0}}>
         {CAT_GROUPS.map(group=>{
           const gCats=group.ids.filter(id=>BANK[id]);
           if(!gCats.length) return null;
           const allSel=gCats.every(id=>selCats.some(x=>baseCat(x)===id));
+          const selInGroup=gCats.filter(id=>selCats.some(x=>baseCat(x)===id)).length;
           return(
-            <div key={group.label} style={{width:"min(100%, 1500px)",padding:"0 16px",display:"flex",flexDirection:"column",alignItems:"center"}}>
-              <div style={{width:"100%",minHeight:40,marginBottom:12,display:"flex",alignItems:"center",justifyContent:"center"}}>
-                <div style={{display:"inline-flex",alignItems:"center",justifyContent:"center",gap:10,flexWrap:"wrap"}}>
-                  <div style={{fontSize:25,fontWeight:900,color:isDark?"#E5E7EB":"#334155",lineHeight:1.1,textAlign:"center"}}>{group.label}</div>
-                  <button onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(baseCat(x)))):setSelCats(p=>[...p,...gCats.filter(id=>!p.some(x=>baseCat(x)===id))])}
-                    style={{...getGlassButtonStyle({tint:allSel?"#EF4444":"#3B82F6",textColor:allSel?"#DC2626":"#2563EB",fontSize:10,padding:"3px 8px",borderRadius:6,subtle:true}),fontWeight:700}}>
-                    {allSel?"Remove all":"Add all"}
-                  </button>
+            <section key={group.label} style={{width:"min(100%, 1500px)",display:"flex",flexDirection:"column",gap:12,minWidth:0}}>
+              <div style={{display:"flex",alignItems:"center",gap:10,flexWrap:"wrap",minWidth:0}}>
+                <div style={{display:"inline-flex",alignItems:"center",gap:8,minHeight:36,padding:"6px 14px 6px 10px",borderRadius:999,background:"var(--surface)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",border:"1px solid var(--border)",boxShadow:"var(--shadow-1)",minWidth:0,maxWidth:"100%"}}>
+                  <span aria-hidden="true" style={{width:8,height:8,borderRadius:"50%",background:"var(--grad-accent)",flex:"0 0 auto"}}/>
+                  <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(14px,2vw,17px)",lineHeight:1.1,color:"var(--text)",letterSpacing:"-.01em",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}}>{group.label}</span>
+                  <span style={{...ARENA_LABEL_STYLE,fontSize:10,fontVariantNumeric:"tabular-nums",whiteSpace:"nowrap"}}>{selInGroup}/{gCats.length}</span>
                 </div>
+                <div aria-hidden="true" style={{flex:1,height:1,background:"var(--border)",minWidth:12}}/>
+                <button className="tap hit44" onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(baseCat(x)))):setSelCats(p=>[...p,...gCats.filter(id=>!p.some(x=>baseCat(x)===id))])}
+                  style={{...getGlassButtonStyle({tint:allSel?"#EF4444":"#3B82F6",textColor:allSel?"#DC2626":"#2563EB",fontSize:12,padding:"0 14px",borderRadius:999,minHeight:36,subtle:true,borderWidth:1}),fontWeight:700,flex:"0 0 auto",whiteSpace:"nowrap"}}>
+                  {allSel?"Remove all":"Add all"}
+                </button>
               </div>
-              <div style={{display:"flex",flexWrap:"wrap",justifyContent:"center",alignItems:"stretch",gap:10,width:"100%"}}>
+              <div style={{display:"grid",gridTemplateColumns:`repeat(auto-fill, minmax(${cardMin}px, 1fr))`,gap:isPhone?8:12,width:"100%",minWidth:0}}>
                 {gCats.map(id=>{const c=BANK[id];const count=countInstances(selCats,id);const sel=count>0;
                   return(
-                    <div key={id} style={{position:"relative",width:previewCardWidth,flex:`0 0 ${previewCardWidth}px`}}>
+                    <div key={id} style={{position:"relative",minWidth:0}}>
                       <CategoryPreviewCard
                         id={id}
                         category={c}
@@ -7134,35 +7374,21 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
                         onToggle={()=>toggle(id)}
                       />
                       <button
+                        className="tap hit44"
                         onClick={(e)=>{e.stopPropagation();addInstance(id);}}
                         title="Add another copy"
-                        style={{position:"absolute",top:6,right:6,width:26,height:26,borderRadius:"50%",border:"2px solid #0F172A",background:sel?"#10B981":"#E2E8F0",color:sel?"#fff":"#64748B",fontSize:16,fontWeight:900,display:"flex",alignItems:"center",justifyContent:"center",cursor:"pointer",zIndex:5,boxShadow:"0 4px 10px rgba(15,23,42,.18)"}}>+</button>
+                        aria-label={`Add another copy of ${c.label}`}
+                        style={{position:"absolute",right:8,bottom:8,width:34,height:34,borderRadius:"50%",border:"1px solid rgba(255,255,255,.35)",background:sel?"var(--grad-accent)":"rgba(15,23,42,.62)",color:"#FFFFFF",fontSize:19,fontWeight:800,lineHeight:1,display:"flex",alignItems:"center",justifyContent:"center",cursor:"pointer",zIndex:5,padding:0,boxShadow:"0 4px 12px rgba(2,6,23,.45)",backdropFilter:"blur(6px)",WebkitBackdropFilter:"blur(6px)"}}>+</button>
                       {count>1&&(
-                        <div style={{position:"absolute",top:6,left:6,background:"#F59E0B",color:"#111827",fontSize:10,fontWeight:900,padding:"2px 6px",borderRadius:6,letterSpacing:.5,pointerEvents:"none",zIndex:5}}>×{count}</div>
+                        <div style={{...COPY_BADGE_STYLE,position:"absolute",right:8,bottom:48,pointerEvents:"none",zIndex:5}}>{"×"}{count}</div>
                       )}
                     </div>
                   );
                 })}
               </div>
-            </div>
+            </section>
           );
         })}
-      </div>
-      <div style={{...TOP_HEADER_WATERCOLOR_STYLE,padding:"12px 16px",borderTop:"1px solid #D7EAF2",display:"flex",gap:10,position:"sticky",bottom:0,zIndex:28}}>
-        <button className="tap" onClick={onBack} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:14,padding:"13px 0",borderRadius:12,subtle:true,borderWidth:2}),flex:1}}>&lt;- Back</button>
-        <button className="tap" onClick={()=>selCats.length>0&&usageReady&&!isSyncingUsage&&onStart(selCats)} style={{
-          ...getGlassButtonStyle({tint:"#2563EB",textColor:selCats.length>0&&usageReady&&!isSyncingUsage?"#0F172A":"#C7D2E4",fontSize:14,padding:"13px 0",borderRadius:12,disabled:!(selCats.length>0&&usageReady&&!isSyncingUsage)}),
-          flex:3,
-          ...(!(selCats.length>0&&usageReady&&!isSyncingUsage)?{
-            backgroundColor:"#243347",
-            backgroundImage:"linear-gradient(180deg, rgba(255,255,255,.14) 0%, rgba(255,255,255,.03) 22%, rgba(255,255,255,0) 36%), linear-gradient(135deg, #364B66 0%, #2B3E56 48%, #1D2C3F 100%)",
-            border:"2px solid rgba(255,255,255,.26)",
-            boxShadow:"0 12px 22px rgba(0,0,0,.22), inset 0 1px 0 rgba(255,255,255,.2), inset 0 -1px 0 rgba(255,255,255,.05)",
-            color:"#D7E3F3",
-          }:{})
-        }}>
-          {!usageReady?"Loading account pool...":isSyncingUsage?"Syncing question pool...":selCats.length>0?`START (${selCats.length}) ->`:"Select at least 1"}
-        </button>
       </div>
     </div>
   );
@@ -7175,102 +7401,124 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const activePV=isFFA?FFA_POINT_VALUES:POINT_VALUES;
   const activeTilesPerTier=isFFA?FFA_TILES_PER_TIER:TILES_PER_TIER;
   const allDone=Object.keys(board).length>0&&Object.keys(board).every(c=>activePV.every(p=>board[c]?.[p]?.every(Boolean)));
+  const isDark=themeMode==="dark";
   const isPhone=viewport.width<700;
   const isTablet=viewport.width<1100;
-  const maxPerRow=isPhone?2:3;
-  const categoryRows=buildBalancedRows(selCats,maxPerRow);
-  const rowCount=Math.max(categoryRows.length,1);
-  const compactBoard=rowCount>=2 || viewport.height<920;
-  const baseCategoryGap=isPhone?6:isTablet?15:21;
-  const categoryGapX=Math.round(baseCategoryGap*2);
-  const categoryGapY=Math.round(baseCategoryGap*1.5);
-  const headerBodyGap=isPhone?6:compactBoard?10:13;
-  const innerGap=isPhone?2:compactBoard?3:4;
-  const headerFont=isPhone?(viewport.width<420?11:13):compactBoard?17:20;
-  const iconSize=isPhone?12:compactBoard?16:18;
-  const tileFont=isPhone?13:compactBoard?20:24;
-  const tileRadius=isPhone?6:isTablet?8:10;
-  const artRadius=isPhone?7:isTablet?9:11;
-  const headerHeight=isPhone?34:compactBoard?46:54;
-  const bodyPadding=isPhone?6:compactBoard?10:12;
-  const boardUsableWidth=Math.max(280,(viewport.width||1280)-(bodyPadding*2));
-  const categoryWidth=Math.max(
-    isPhone?110:198,
-    Math.floor((boardUsableWidth-(categoryGapX*(maxPerRow-1)))/maxPerRow)
-  );
-  // Art column needs to leave room for the two side button columns.
-  // On phones, give buttons at least ~32px each side.
-  const minSideColumn=isPhone?32:48;
-  const artColumnWidth=isPhone
-    ? Math.max(48,Math.min(110,categoryWidth-(minSideColumn*2)))
-    : compactBoard?186:222;
-  const boardHeaderBg="#DCFCE7";
-  const boardHeaderText="#000000";
-  const boardPointBg={100:"#A7F3D0",200:"#FFED29",300:"#93C5FD",400:"#FF5B00",500:"#C4B5FD",600:"#FF000D"};
-  const boardPointText={100:"#065F46",200:"#000000",300:"#1E3A8A",400:"#000000",500:"#3B0764",600:"#000000"};
-  const getRowPixelWidth=(rowLength)=>{
-    const contentWidth=(rowLength*categoryWidth)+(Math.max(0,rowLength-1)*categoryGapX);
-    return Math.min(boardUsableWidth,contentWidth);
+  // "Arena" board: ONE column per selected category, laid out in a single row.
+  // The row lives inside its own overflow-x:auto wrapper, so on narrow screens the
+  // board scrolls sideways within that wrapper — the page itself never does.
+  const colCount=Math.max(selCats.length,1);
+  const compactBoard=viewport.height<920 || colCount>4;
+  const bodyPad=isPhone?10:isTablet?14:18;
+  const colGap=isPhone?10:isTablet?14:18;
+  const colMin=isPhone?150:isTablet?180:200;
+  const boardUsableWidth=Math.max(280,(viewport.width||1280)-(bodyPad*2));
+  const boardFits=(colCount*colMin)+(colGap*(colCount-1))<=boardUsableWidth;
+  const colWidth=boardFits?Math.floor((boardUsableWidth-(colGap*(colCount-1)))/colCount):colMin;
+  const boardGridWidth=boardFits?"100%":`${(colCount*colMin)+(colGap*(colCount-1))}px`;
+  const artSize=Math.max(72,Math.min(colWidth-24,isPhone?112:compactBoard?136:172));
+  const artRadius=isPhone?12:14;
+  const labelFont=isPhone?12:compactBoard?13:15;
+  const tileMin=isPhone?52:compactBoard?60:72;
+  const tileFont=isPhone?20:compactBoard?24:30;
+  const tileGap=isPhone?6:8;
+  const headerBodyGap=isPhone?8:10;
+  const fillHeight=!isTouch; // desktop: stretch tiles to fill the viewport; touch: natural height, page scrolls
+  const tileStyle=(pts,used)=>{
+    const c=PT_COLORS[pts]||"#7C3AED";
+    const text=isDark?lightenHex(c,.30):c;
+    const bg=isDark
+      ?`linear-gradient(180deg, rgba(255,255,255,.10) 0%, rgba(255,255,255,0) 55%), linear-gradient(0deg, ${withAlpha(c,"24")}, ${withAlpha(c,"24")}), var(--surface)`
+      :`linear-gradient(180deg, rgba(255,255,255,.55) 0%, rgba(255,255,255,0) 55%), ${PT_BG[pts]||"var(--surface-strong)"}`;
+    return{
+      width:"100%",
+      height:"100%",
+      minWidth:0,
+      minHeight:tileMin,
+      padding:"6px 4px",
+      borderRadius:"var(--radius)",
+      border:`1px solid ${withAlpha(c,used?"33":"73")}`,
+      background:bg,
+      color:text,
+      fontFamily:DISPLAY_STACK,
+      fontWeight:800,
+      fontSize:tileFont,
+      letterSpacing:"-.02em",
+      fontVariantNumeric:"tabular-nums",
+      lineHeight:1,
+      display:"flex",
+      alignItems:"center",
+      justifyContent:"center",
+      boxShadow:used?"none":`0 8px 20px ${withAlpha(c,"1F")}, inset 0 1px 0 rgba(255,255,255,.16)`,
+      cursor:used?"default":"pointer",
+      opacity:used?.32:1,
+      filter:used?"grayscale(1) saturate(.4)":"none",
+      pointerEvents:used?"none":"auto",
+      transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, filter .3s ease, opacity .3s ease",
+    };
   };
   return(
     <div style={{
       ...(isTouch
-        ?{minHeight:"100dvh",height:"auto",overflow:"visible"}
+        ?{minHeight:"100dvh",height:"auto",overflowX:"clip"}
         :{height:"100dvh",maxHeight:"100dvh",overflow:"hidden"}),
-      width:"100vw",maxWidth:"100vw",
+      width:"100%",maxWidth:"100vw",
       ...SITE_BACKGROUND_STYLE,
       display:"flex",flexDirection:"column"
     }}>
       <style>{CSS}</style>
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
-      <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,padding:bodyPadding,display:"flex",flexDirection:"column",overflow:isTouch?"visible":"hidden"}}>
-        <div style={{height:8,borderTop:"2px solid #DBEAFE",borderRadius:"999px 999px 0 0",margin:"0 6px 10px"}}/>
-        <div style={{flex:1,minHeight:0,display:"grid",gridTemplateRows:`repeat(${rowCount}, minmax(0,1fr))`,gap:categoryGapY,alignItems:"stretch"}}>
-          {categoryRows.map((row,rowIdx)=>(
-            <div key={rowIdx} style={{width:"100%",minHeight:0,display:"flex",justifyContent:"center",alignItems:"stretch"}}>
-              <div style={{width:getRowPixelWidth(row.length),maxWidth:"100%",minHeight:0,display:"grid",gridTemplateColumns:`repeat(${row.length}, minmax(0,1fr))`,columnGap:categoryGapX,rowGap:categoryGapY}}>
-                {row.map(catId=>{
-                  const c=BANK[baseCat(catId)];if(!c)return null;
-                  return(
-                    <div key={catId} style={{minWidth:0,minHeight:0,height:"100%",display:"grid",gridTemplateRows:`${headerHeight}px minmax(0,1fr)`,gap:headerBodyGap}}>
-                      <div style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",textAlign:"center",padding:"4px",background:boardHeaderBg,borderRadius:tileRadius,border:"2.5px solid #0F172A",minWidth:0}}>
-                        <div style={{fontSize:iconSize,lineHeight:1,marginBottom:2}}>{c.icon}</div>
-                        <div style={{fontSize:headerFont,fontWeight:800,color:boardHeaderText,lineHeight:1.1,wordBreak:"break-word"}}>{c.label}</div>
-                      </div>
-                      {isFFA?(
-                        <div style={{display:"grid",gridTemplateRows:`repeat(${activePV.length}, minmax(0,1fr))`,gap:innerGap,minHeight:0}}>
-                          {activePV.map((pts)=>{
-                            const used=(board[catId]?.[pts]||[false])[0];
-                            return(
-                              <button key={pts} className={used?"":"tap"} onClick={()=>!used&&onPick(catId,pts,0)}
-                                style={{width:"100%",height:"100%",minWidth:0,minHeight:0,padding:"6px 2px",borderRadius:tileRadius,border:"1.5px solid #0F172A",background:used?"linear-gradient(135deg, rgba(255,255,255,.85) 0%, rgba(226,232,240,.92) 100%)":getGlassTileBackground(boardPointBg[pts]),color:used?"#94A3B8":boardPointText[pts],fontFamily:SF_STACK,fontWeight:900,fontSize:tileFont,cursor:used?"default":"pointer",opacity:used?0.8:1,display:"flex",alignItems:"center",justifyContent:"center",boxShadow:used?"0 8px 14px rgba(148,163,184,.12), inset 0 1px 0 rgba(255,255,255,.5)":"0 10px 18px rgba(15,23,42,.1), inset 0 1px 0 rgba(255,255,255,.5)",backdropFilter:"blur(12px) saturate(150%)",WebkitBackdropFilter:"blur(12px) saturate(150%)"}}>
-                                {used?"✓":pts}
-                              </button>
-                            );
-                          })}
-                        </div>
-                      ):(
-                        <div style={{display:"grid",gridTemplateColumns:`minmax(0,1fr) ${artColumnWidth}px minmax(0,1fr)`,gridTemplateRows:"repeat(3, minmax(0,1fr))",columnGap:0,rowGap:innerGap,minHeight:0}}>
-                          <div style={{gridColumn:2,gridRow:"1 / span 3",minWidth:0,minHeight:0}}>
-                            <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
-                          </div>
-                          {POINT_VALUES.map((pts,rowIndex)=>(
-                            (board[catId]?.[pts]||[false,false]).map((used,idx)=>(
-                              <button key={`${pts}-${idx}`} className={used?"":"tap"} onClick={()=>!used&&onPick(catId,pts,idx)}
-                                style={{gridColumn:idx===0?1:3,gridRow:rowIndex+1,width:"100%",height:"100%",minWidth:0,minHeight:0,padding:"6px 2px",borderRadius:tileRadius,border:"1.5px solid #0F172A",background:used?"linear-gradient(135deg, rgba(255,255,255,.85) 0%, rgba(226,232,240,.92) 100%)":getGlassTileBackground(boardPointBg[pts]),color:used?"#94A3B8":boardPointText[pts],fontFamily:SF_STACK,fontWeight:900,fontSize:tileFont,cursor:used?"default":"pointer",opacity:used?0.8:1,display:"flex",alignItems:"center",justifyContent:"center",boxShadow:used?"0 8px 14px rgba(148,163,184,.12), inset 0 1px 0 rgba(255,255,255,.5)":"0 10px 18px rgba(15,23,42,.1), inset 0 1px 0 rgba(255,255,255,.5)",backdropFilter:"blur(12px) saturate(150%)",WebkitBackdropFilter:"blur(12px) saturate(150%)"}}>
-                                {used?"✓":pts}
-                              </button>
-                            ))
-                          ))}
-                        </div>
-                      )}
-                    </div>
-                  );
-                })}
+      {/* Board wrapper — the ONLY element allowed to scroll horizontally. */}
+      <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,width:"100%",maxWidth:"100vw",padding:bodyPad,overflowX:"auto",overflowY:isTouch?"hidden":"auto",WebkitOverflowScrolling:"touch",overscrollBehaviorX:"contain"}}>
+        <div style={{display:"grid",gridTemplateColumns:`repeat(${colCount}, minmax(0,1fr))`,gap:colGap,width:boardGridWidth,minHeight:fillHeight?"100%":undefined,alignItems:"stretch"}}>
+          {selCats.map(catId=>{
+            const c=BANK[baseCat(catId)];if(!c)return null;
+            return(
+              <div key={catId} style={{minWidth:0,minHeight:0,display:"flex",flexDirection:"column",gap:headerBodyGap}}>
+                {/* Column header: square category art card + label below */}
+                <div style={{position:"relative",overflow:"hidden",display:"flex",flexDirection:"column",alignItems:"center",gap:8,padding:"12px 8px 10px",background:"var(--surface)",border:"1px solid var(--border)",borderRadius:"var(--radius)",boxShadow:"var(--shadow-1)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",minWidth:0,flex:"0 0 auto"}}>
+                  <div aria-hidden="true" style={{position:"absolute",left:0,right:0,top:0,height:3,background:`linear-gradient(90deg, ${c.color||"#7C3AED"} 0%, ${withAlpha(c.color||"#7C3AED","66")} 100%)`}}/>
+                  <div style={{width:artSize,height:artSize,maxWidth:"100%",aspectRatio:"1 / 1",flex:"0 0 auto"}}>
+                    <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
+                  </div>
+                  <div style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,color:"var(--text)",lineHeight:1.15,textAlign:"center",wordBreak:"break-word",minWidth:0,maxWidth:"100%",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}}>
+                    <span aria-hidden="true" style={{marginRight:4}}>{c.icon}</span>{c.label}
+                  </div>
+                </div>
+                {/* Tiles: one row per point tier; team mode has 2 copies per tier side-by-side, FFA has 1 */}
+                <div style={{display:"grid",gridTemplateColumns:`repeat(${activeTilesPerTier}, minmax(0,1fr))`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, 1fr))`,gap:tileGap,minHeight:0,flex:fillHeight?"1 1 auto":"0 0 auto"}}>
+                  {activePV.map((pts)=>{
+                    const slots=board[catId]?.[pts]||Array.from({length:activeTilesPerTier},()=>false);
+                    const shown=isFFA?slots.slice(0,1):slots;
+                    return shown.map((used,idx)=>(
+                      <button
+                        key={`${pts}-${idx}`}
+                        className={used?"":"tap"}
+                        aria-disabled={used?"true":undefined}
+                        aria-label={used?`${c.label} ${pts} (used)`:`${c.label} for ${pts}`}
+                        onClick={()=>!used&&onPick(catId,pts,idx)}
+                        style={tileStyle(pts,used)}
+                      >
+                        {pts}
+                      </button>
+                    ));
+                  })}
+                </div>
               </div>
-            </div>
-          ))}
+            );
+          })}
         </div>
+      </div>
+      {/* End game — bottom-right pill */}
+      <div style={{flex:"0 0 auto",display:"flex",justifyContent:"flex-end",alignItems:"center",gap:8,padding:`0 ${bodyPad}px ${bodyPad}px`,width:"100%",maxWidth:"100vw"}}>
+        <button
+          className="tap"
+          onClick={onGameOver}
+          aria-label="End game and show results"
+          style={getGlassButtonStyle({tint:allDone?"#7C3AED":"#64748B",subtle:!allDone,fontSize:isPhone?12:13,padding:isPhone?"10px 18px":"11px 22px",borderRadius:999,minHeight:44})}
+        >
+          {allDone?"SHOW RESULTS →":"END GAME"}
+        </button>
       </div>
     </div>
   );
@@ -7279,36 +7527,90 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
 function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
   const compact=teams.length>3;
   const isFfa=gameMode==="ffa";
+  // Segmented pill strip: glass track holding one pill per team.
+  const trackStyle={
+    display:"flex",
+    gap:6,
+    flexWrap:"wrap",
+    justifyContent:"center",
+    padding:6,
+    borderRadius:compact?"var(--radius-lg)":"var(--radius-pill)",
+    background:"var(--surface)",
+    backdropFilter:"var(--blur)",
+    WebkitBackdropFilter:"var(--blur)",
+    border:"1px solid var(--border)",
+    boxShadow:"var(--shadow-1)",
+    width:"100%",
+    minWidth:0,
+  };
+  const nameStyle={
+    display:"block",
+    maxWidth:compact?120:180,
+    overflow:"hidden",
+    textOverflow:"ellipsis",
+    whiteSpace:"nowrap",
+    minWidth:0,
+  };
+  const ptsStyle={
+    display:"inline-flex",
+    alignItems:"center",
+    justifyContent:"center",
+    fontFamily:DISPLAY_STACK,
+    fontWeight:800,
+    fontVariantNumeric:"tabular-nums",
+    fontSize:compact?11:12,
+    lineHeight:1,
+    padding:"4px 8px",
+    borderRadius:"var(--radius-pill)",
+    flex:"0 0 auto",
+  };
+  const pillBase=(style)=>({
+    ...style,
+    flex:compact?"1 1 auto":"1 1 0",
+    minWidth:compact?96:0,
+    minHeight:44,
+    gap:8,
+    lineHeight:1.15,
+  });
   return(
-    <div className="fadein" style={{display:"flex",flexDirection:"column",gap:7,width:"100%",maxWidth:compact?700:520}}>
-      <div style={{fontSize:10,fontWeight:800,color:"#64748B",letterSpacing:1.05,textAlign:"center"}}>AWARD POINTS TO:</div>
-      <div style={{display:"flex",gap:compact?5:7,flexWrap:"wrap",justifyContent:"center"}}>
+    <div className="fadein" style={{display:"flex",flexDirection:"column",alignItems:"center",gap:8,width:"100%",maxWidth:compact?720:560,minWidth:0}}>
+      <div className="label" style={{textAlign:"center"}}>Award points to</div>
+      <div style={trackStyle} role="group" aria-label="Award points to">
         {teams.map((t,i)=>{
           const tc=TEAM_COLORS[i%TEAM_COLORS.length];
+          const isTurn=!isFfa&&i===curTeam;
           return(
-            <button key={i} className="tap" onClick={()=>onAward(i,tile.pts)} style={{...getGlassButtonStyle({tint:tc,textColor:"#0F172A",fontSize:compact?12:14,padding:compact?"9px 8px":"11px 10px",borderRadius:16}),flex:compact?"1 1 auto":"1",minWidth:compact?80:0,lineHeight:1.24}}>
-              {t}<br/><span style={{fontSize:compact?10:11,opacity:.88}}>+{tile.pts}</span>
+            <button key={i} type="button" className="tap" onClick={()=>onAward(i,tile.pts)} title={`${t} +${tile.pts}`} style={pillBase({
+              ...getGlassButtonStyle({tint:tc,textColor:"#FFFFFF",fontSize:compact?13:14,fontWeight:isTurn?800:700,padding:compact?"8px 12px":"9px 14px",borderRadius:"var(--radius-pill)",subtle:!isTurn}),
+              ...(isTurn?{boxShadow:`0 0 0 4px ${withAlpha(tc,"40")}, 0 10px 24px ${withAlpha(tc,"4D")}, inset 0 1px 0 rgba(255,255,255,.28)`}:{}),
+            })}>
+              <span style={nameStyle}>{t}</span>
+              <span style={{...ptsStyle,background:isTurn?"rgba(255,255,255,.22)":withAlpha(tc,"2E"),color:isTurn?"#FFFFFF":tc}}>+{tile.pts}</span>
             </button>
           );
         })}
       </div>
       {isFfa?(
         <>
-          <div style={{fontSize:10,fontWeight:800,color:"#B91C1C",letterSpacing:1.05,textAlign:"center",marginTop:6}}>WRONG — DEDUCT FROM:</div>
-          <div style={{display:"flex",gap:compact?5:7,flexWrap:"wrap",justifyContent:"center"}}>
+          <div className="label" style={{textAlign:"center",color:"var(--danger)",marginTop:4}}>Wrong — deduct from</div>
+          <div style={{...trackStyle,border:"1px solid rgba(239,68,68,.35)"}} role="group" aria-label="Wrong — deduct from">
             {teams.map((t,i)=>(
-              <button key={i} className="tap" onClick={()=>onWrong(i)} style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:compact?11:12,padding:compact?"9px 8px":"10px 10px",borderRadius:16,subtle:true}),flex:compact?"1 1 auto":"1",minWidth:compact?80:0,lineHeight:1.24}}>
-                {t}<br/><span style={{fontSize:compact?10:11,opacity:.88}}>-{tile.pts}</span>
+              <button key={i} type="button" className="tap" onClick={()=>onWrong(i)} title={`${t} -${tile.pts}`} style={pillBase({
+                ...getGlassButtonStyle({tint:"#EF4444",textColor:"#991B1B",fontWeight:700,fontSize:compact?12:13,padding:compact?"8px 12px":"9px 14px",borderRadius:"var(--radius-pill)",subtle:true}),
+                minHeight:44,
+              })}>
+                <span style={nameStyle}>{t}</span>
+                <span style={{...ptsStyle,background:"rgba(239,68,68,.18)",color:"var(--danger)"}}>-{tile.pts}</span>
               </button>
             ))}
           </div>
           <div style={{display:"flex",justifyContent:"center",marginTop:4}}>
-            <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:13,padding:"11px 36px",borderRadius:16,subtle:true})}}>Pass</button>
+            <button type="button" className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:14,padding:"11px 36px",borderRadius:"var(--radius-pill)",subtle:true}),minHeight:44}}>Pass</button>
           </div>
         </>
       ):(
-        <div style={{display:"flex",justifyContent:"center"}}>
-          <button className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:800,fontSize:15,padding:"14px 48px",borderRadius:18,subtle:true}),minWidth:220}}>Pass</button>
+        <div style={{display:"flex",justifyContent:"center",marginTop:2}}>
+          <button type="button" className="tap" onClick={onPass} style={{...getGlassButtonStyle({tint:"#64748B",textColor:"#475569",fontWeight:700,fontSize:15,padding:"13px 48px",borderRadius:"var(--radius-pill)",subtle:true}),minWidth:220,minHeight:48}}>Pass</button>
         </div>
       )}
     </div>
@@ -7379,41 +7681,52 @@ function formatQuestionForDisplay(question){
 // Regular trivia - flag emoji shown big if flags category
 const QUESTION_HEADER_WRAP_STYLE={
   display:"flex",
-  gap:"clamp(8px,2vw,16px)",
+  gap:"clamp(8px,1.6vw,14px)",
   alignItems:"center",
   justifyContent:"center",
   flexWrap:"wrap",
-  paddingTop:6,
+  paddingTop:4,
+  width:"100%",
   maxWidth:"100%",
+  minWidth:0,
 };
 
-const QUESTION_HEADER_ICON_STYLE={fontSize:"clamp(20px,4vw,34px)",lineHeight:1};
+const QUESTION_HEADER_ICON_STYLE={fontSize:"clamp(20px,3.4vw,30px)",lineHeight:1,flex:"0 0 auto"};
 
 const QUESTION_HEADER_TITLE_STYLE={
-  fontFamily:SF_STACK,
-  fontWeight:900,
-  fontSize:"clamp(20px,5.8vw,58px)",
-  color:"#1E293B",
-  letterSpacing:1.2,
-  lineHeight:1,
+  fontFamily:DISPLAY_STACK,
+  fontWeight:800,
+  fontSize:"clamp(20px,3.2vw,28px)",
+  color:"var(--text)",
+  letterSpacing:"-.01em",
+  lineHeight:1.1,
   textAlign:"center",
   wordBreak:"break-word",
+  overflowWrap:"anywhere",
+  minWidth:0,
   maxWidth:"100%",
 };
 
+// Point pill: color as text + 14% tinted background + 1px same-color border (pb kept in the signature).
 const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
-  background:pb,
+  display:"inline-flex",
+  alignItems:"center",
+  justifyContent:"center",
+  background:withAlpha(pc,"24"),
   color:pc,
-  fontFamily:SF_STACK,
-  fontWeight:900,
-  fontSize:"clamp(18px,4.8vw,44px)",
+  fontFamily:DISPLAY_STACK,
+  fontWeight:800,
+  fontVariantNumeric:"tabular-nums",
+  fontSize:"clamp(15px,2.4vw,20px)",
   lineHeight:1,
-  padding:"clamp(8px,1.6vw,12px) clamp(14px,2.6vw,22px)",
-  borderRadius:999,
-  border:`2px solid ${pc}55`,
-  boxShadow:`0 12px 30px ${pc}18`,
-  minWidth:"clamp(56px,9vw,94px)",
+  padding:"clamp(7px,1.2vw,10px) clamp(12px,2vw,18px)",
+  borderRadius:"var(--radius-pill)",
+  border:`1px solid ${pc}`,
+  boxShadow:`0 6px 18px ${withAlpha(pc,"2E")}`,
+  minWidth:"clamp(52px,8vw,84px)",
   textAlign:"center",
+  whiteSpace:"nowrap",
+  flex:"0 0 auto",
 });
 
 const QUESTION_SCREEN_STYLE={
@@ -7422,7 +7735,7 @@ const QUESTION_SCREEN_STYLE={
   display:"flex",
   flexDirection:"column",
   position:"relative",
-  overflowX:"hidden",
+  overflowX:"clip",
   width:"100%",
   maxWidth:"100vw",
 };
@@ -7472,34 +7785,42 @@ const QUESTION_TIMER_SLOT_STYLE={
 };
 
 const QUESTION_HINT_STYLE={
-  fontSize:18,
-  fontWeight:800,
-  color:"#475569",
-  letterSpacing:.2,
+  fontSize:15,
+  fontWeight:600,
+  color:"var(--text-muted)",
+  letterSpacing:.1,
+  lineHeight:1.4,
   textAlign:"center",
+  maxWidth:"100%",
 };
 
 const QUESTION_PRIMARY_BUTTON_STYLE={
   ...getGlassButtonStyle({
-    tint:"#2563EB",
-    textColor:"#0F172A",
-    fontWeight:900,
-    fontSize:18,
-    padding:"18px 42px",
-    borderRadius:18,
+    tint:"#7C3AED",
+    textColor:"#FFFFFF",
+    fontWeight:800,
+    fontSize:17,
+    padding:"16px 40px",
+    borderRadius:"var(--radius)",
   }),
+  minHeight:52,
+  maxWidth:"100%",
+  fontFamily:DISPLAY_STACK,
+  letterSpacing:".02em",
 };
 
 const QUESTION_SECONDARY_BUTTON_STYLE={
   ...getGlassButtonStyle({
-    tint:"#7C3AED",
+    tint:"#64748B",
     textColor:"#334155",
-    fontWeight:800,
+    fontWeight:700,
     fontSize:14,
-    padding:"14px 24px",
-    borderRadius:14,
+    padding:"12px 22px",
+    borderRadius:"var(--radius-pill)",
     subtle:true,
   }),
+  minHeight:44,
+  maxWidth:"100%",
 };
 
 const QUESTION_ACTION_ROW_STYLE={
@@ -7515,6 +7836,83 @@ const QUESTION_BACK_BUTTON_WRAP_STYLE={
   justifyContent:"center",
   width:"100%",
   marginTop:14,
+};
+
+// Wrapper around the media/prompt + LifelineRail. On desktop the rail hangs off the right edge
+// of this box (absolute); on phones it flows underneath as a horizontal row.
+const QUESTION_MEDIA_WRAP_STYLE={
+  position:"relative",
+  display:"flex",
+  flexDirection:"column",
+  alignItems:"center",
+  maxWidth:"100%",
+  minWidth:0,
+};
+
+// Large centered prompt inside the QuestionPanel.
+const QUESTION_PROMPT_STYLE={
+  fontFamily:DISPLAY_STACK,
+  fontWeight:700,
+  fontSize:"clamp(24px,4.6vw,38px)",
+  color:"var(--text)",
+  lineHeight:1.3,
+  letterSpacing:"-.01em",
+  overflowWrap:"anywhere",
+};
+
+// Secondary line under media inside a panel ("Which country is this flag from?").
+const QUESTION_SUBPROMPT_STYLE={
+  fontSize:16,
+  fontWeight:600,
+  color:"var(--text-muted)",
+  lineHeight:1.4,
+};
+
+// Small uppercase label ("WHO AM I?", "LISTEN AND SPELL THE WORD").
+const QUESTION_KICKER_STYLE={
+  fontSize:12,
+  fontWeight:700,
+  letterSpacing:".08em",
+  textTransform:"uppercase",
+  color:"var(--text-muted)",
+  lineHeight:1.3,
+  textAlign:"center",
+};
+
+// Answer panel: gradient top line + glow tinted by the tile's point color.
+const QUESTION_ANSWER_PANEL_STYLE=(pc)=>({
+  "--panel-accent":pc,
+  "--panel-accent-2":lightenHex(pc,.35),
+  "--panel-glow":withAlpha(pc,"30"),
+  border:`1px solid ${withAlpha(pc,"66")}`,
+  boxShadow:`0 0 0 3px ${withAlpha(pc,"1F")}, var(--shadow-2), inset 0 1px 0 rgba(255,255,255,.08)`,
+});
+
+const QUESTION_ANSWER_LABEL_STYLE=(pc)=>({
+  fontSize:11,
+  fontWeight:700,
+  letterSpacing:".08em",
+  textTransform:"uppercase",
+  color:pc,
+  marginBottom:8,
+});
+
+const QUESTION_ANSWER_TEXT_STYLE={
+  fontFamily:DISPLAY_STACK,
+  fontWeight:800,
+  fontSize:"clamp(24px,4.2vw,34px)",
+  color:"var(--text)",
+  lineHeight:1.3,
+  letterSpacing:"-.01em",
+  overflowWrap:"anywhere",
+};
+
+// White plate for flags / maps / logos (contain, never crop).
+const MEDIA_PLATE_STYLE={
+  background:"#FFFFFF",
+  borderRadius:"var(--radius-lg)",
+  border:"1px solid var(--border)",
+  boxShadow:"var(--shadow-2)",
 };
 
 const TOUCH_SCREEN_STYLE_OVERRIDE={};
@@ -7613,6 +8011,31 @@ function lightenHex(hex, amount=0.45){
   return `#${mix(r)}${mix(g)}${mix(b)}`;
 }
 
+function darkenHex(hex, amount=0.18){
+  if(!/^#[0-9A-F]{6}$/i.test(hex||"")) return hex;
+  const safe=Math.max(0,Math.min(1,amount));
+  const r=parseInt(hex.slice(1,3),16);
+  const g=parseInt(hex.slice(3,5),16);
+  const b=parseInt(hex.slice(5,7),16);
+  const mix=value=>Math.round(value*(1-safe)).toString(16).padStart(2,"0");
+  return `#${mix(r)}${mix(g)}${mix(b)}`;
+}
+
+// Tint classes (function declarations so module-level style constants can call them before this point).
+function arenaTintKind(tint){
+  const key=String(tint||"").toUpperCase();
+  if(["#EF4444","#DC2626","#B91C1C","#F87171"].includes(key)) return "danger";
+  if(["#7C3AED","#2563EB","#3B82F6","#6366F1","#8B5CF6","#A855F7"].includes(key)) return "accent";
+  if(["#64748B","#94A3B8","#475569","#CBD5E1","#E2E8F0"].includes(key)) return "neutral";
+  return "tint";
+}
+
+// "Arena" buttons. Same parameters as before; only the rendered style changed.
+//  - primary (subtle=false): solid gradient of the tint (accent tints use --grad-accent), white text
+//  - subtle: translucent tint fill (14%) on the surface, 1px tinted border, theme text color
+//  - danger tints render red text on a red tint when subtle
+//  - disabled: flat surface, muted text; selected: 3px ring in ringColor (or tint at 35%)
+// textColor is kept for API compatibility; text is theme-aware so it stays readable on both themes.
 function getGlassButtonStyle({
   tint="#7C3AED",
   textColor="#0F172A",
@@ -7625,34 +8048,27 @@ function getGlassButtonStyle({
   height,
   subtle=false,
   disabled=false,
-  borderWidth=1.5,
+  borderWidth=1,
   selected=false,
   ringColor,
 }={}){
-  const glow=lightenHex(tint,0.52);
-  const bright=lightenHex(tint,0.34);
-  const soft=lightenHex(tint,0.2);
-  const deep=lightenHex(tint,0.02);
-  return{
+  const kind=arenaTintKind(tint);
+  const isDanger=kind==="danger";
+  const isAccent=kind==="accent";
+  const isNeutral=kind==="neutral";
+  const ring=selected?`0 0 0 3px ${ringColor||withAlpha(tint,"59")}, `:"";
+  const base={
+    display:"inline-flex",
+    alignItems:"center",
+    justifyContent:"center",
+    gap:8,
+    fontFamily:BODY_STACK,
+    lineHeight:1.15,
+    letterSpacing:".01em",
+    textDecoration:"none",
+    maxWidth:"100%",
     backdropFilter:"none",
     WebkitBackdropFilter:"none",
-    backgroundBlendMode:"screen, screen, normal, normal",
-    background:disabled
-      ?"linear-gradient(135deg, #F8FAFC 0%, #E2E8F0 100%)"
-      :subtle
-        ?`linear-gradient(155deg, rgba(255,255,255,.68) 0%, rgba(255,255,255,.24) 34%, rgba(255,255,255,.08) 100%),
-           radial-gradient(circle at 22% 18%, ${withAlpha(glow,"F0")} 0%, ${withAlpha(glow,"66")} 22%, transparent 48%),
-           radial-gradient(circle at 82% 84%, ${withAlpha(deep,"D0")} 0%, ${withAlpha(deep,"54")} 22%, transparent 46%),
-           linear-gradient(135deg, ${soft} 0%, ${bright} 52%, ${deep} 100%)`
-        :`linear-gradient(155deg, rgba(255,255,255,.78) 0%, rgba(255,255,255,.28) 28%, rgba(255,255,255,.08) 100%),
-           radial-gradient(circle at 20% 16%, ${withAlpha(glow,"FF")} 0%, ${withAlpha(glow,"78")} 24%, transparent 50%),
-           radial-gradient(circle at 84% 84%, ${withAlpha(deep,"F2")} 0%, ${withAlpha(deep,"5C")} 22%, transparent 48%),
-           linear-gradient(135deg, ${soft} 0%, ${bright} 56%, ${deep} 100%)`,
-    border:`${borderWidth}px solid ${disabled?"#CBD5E1":"rgba(255,255,255,.92)"}`,
-    boxShadow:disabled
-      ?"0 10px 20px rgba(15,23,42,.08), inset 0 1px 0 rgba(255,255,255,.8)"
-      :`${selected?`0 0 0 3px ${(ringColor||withAlpha(glow,"E8"))}, `:""}0 18px 34px ${withAlpha(deep, subtle?"24":"46")}, 0 8px 18px ${withAlpha(tint, subtle?"24":"3A")}, inset 0 1px 0 rgba(255,255,255,.9), inset 0 -1px 0 rgba(255,255,255,.12), inset 0 -14px 30px rgba(0,0,0,.08)`,
-    color:textColor,
     padding,
     borderRadius,
     fontSize,
@@ -7660,6 +8076,40 @@ function getGlassButtonStyle({
     minHeight,
     width,
     height,
+  };
+  if(disabled){
+    return{
+      ...base,
+      background:"var(--surface)",
+      border:`${borderWidth}px solid var(--border)`,
+      boxShadow:"none",
+      color:"var(--text-muted)",
+      opacity:.65,
+      cursor:"not-allowed",
+    };
+  }
+  if(subtle){
+    const fill=isNeutral?"rgba(148,163,184,.14)":withAlpha(tint,"24");
+    return{
+      ...base,
+      background:`linear-gradient(180deg, rgba(255,255,255,.08) 0%, rgba(255,255,255,0) 60%), ${fill}`,
+      border:`${borderWidth}px solid ${isNeutral?"var(--border)":withAlpha(tint,"66")}`,
+      boxShadow:`${ring}inset 0 1px 0 rgba(255,255,255,.14), 0 2px 8px rgba(2,6,23,.10)`,
+      color:isDanger?"var(--danger)":"var(--text)",
+    };
+  }
+  const gradient=isAccent
+    ?"var(--grad-accent)"
+    :isDanger
+      ?`linear-gradient(135deg, ${lightenHex(tint,.08)} 0%, ${tint} 55%, ${darkenHex(tint,.18)} 100%)`
+      :`linear-gradient(135deg, ${lightenHex(tint,.12)} 0%, ${tint} 55%, ${darkenHex(tint,.18)} 100%)`;
+  return{
+    ...base,
+    background:`linear-gradient(180deg, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 55%), ${gradient}`,
+    border:`${borderWidth}px solid rgba(255,255,255,.18)`,
+    boxShadow:`${ring}0 10px 24px ${withAlpha(isAccent?"#4F46E5":tint,"4D")}, inset 0 1px 0 rgba(255,255,255,.28), inset 0 -1px 0 rgba(0,0,0,.12)`,
+    color:"#FFFFFF",
+    textShadow:"0 1px 1px rgba(2,6,23,.25)",
   };
 }
 
@@ -7671,16 +8121,18 @@ function getGlassCircleButtonStyle({tint="#2563EB",size=34,fontSize=22,textColor
       padding:0,
       borderRadius:999,
       fontSize,
-      fontWeight:900,
+      fontWeight:800,
       width:size,
       height:size,
       subtle:true,
-      borderWidth:2,
+      borderWidth:1,
     }),
-    display:"flex",
+    display:"inline-flex",
     alignItems:"center",
     justifyContent:"center",
+    flex:"0 0 auto",
     lineHeight:1,
+    fontFamily:DISPLAY_STACK,
   };
 }
 
@@ -7695,46 +8147,63 @@ function getGlassTileBackground(baseHex){
     linear-gradient(135deg, ${soft} 0%, ${bright} 56%, ${deep} 100%)`;
 }
 
+// Ambient "arena" glows behind the question stage. Clipped by a full-size overflow:hidden
+// wrapper so they can never widen the page (no horizontal scroll).
 function QuestionDecor({accent="#A855F7"}){
   return(
-    <>
-      <div style={{position:"absolute",top:-70,left:-100,width:320,height:320,borderRadius:"50%",background:`radial-gradient(circle, ${withAlpha(accent,"28")} 0%, ${withAlpha(accent,"18")} 28%, transparent 70%)`,filter:"blur(10px)",pointerEvents:"none"}}/>
-      <div style={{position:"absolute",top:120,right:-80,width:260,height:260,borderRadius:"50%",background:"radial-gradient(circle, rgba(59,130,246,.16) 0%, rgba(59,130,246,.08) 28%, transparent 72%)",filter:"blur(8px)",pointerEvents:"none"}}/>
-      <div style={{position:"absolute",bottom:-90,left:"18%",width:360,height:240,borderRadius:"50%",background:"radial-gradient(circle, rgba(251,191,36,.16) 0%, rgba(251,191,36,.08) 26%, transparent 72%)",filter:"blur(12px)",pointerEvents:"none"}}/>
-    </>
+    <div aria-hidden="true" style={{position:"absolute",inset:0,overflow:"hidden",pointerEvents:"none",zIndex:0}}>
+      <div style={{position:"absolute",top:-120,left:"-8%",width:"min(420px,60vw)",aspectRatio:"1",borderRadius:"50%",background:`radial-gradient(circle, ${withAlpha(accent,"40")} 0%, ${withAlpha(accent,"1A")} 34%, transparent 70%)`,filter:"blur(24px)",opacity:.9}}/>
+      <div style={{position:"absolute",top:"18%",right:"-10%",width:"min(360px,55vw)",aspectRatio:"1",borderRadius:"50%",background:"radial-gradient(circle, rgba(6,182,212,.30) 0%, rgba(37,99,235,.14) 34%, transparent 72%)",filter:"blur(28px)",opacity:.85}}/>
+      <div style={{position:"absolute",bottom:-140,left:"22%",width:"min(460px,70vw)",height:"min(300px,45vw)",borderRadius:"50%",background:"radial-gradient(circle, rgba(245,158,11,.20) 0%, rgba(245,158,11,.08) 30%, transparent 72%)",filter:"blur(30px)",opacity:.8}}/>
+    </div>
   );
 }
 
 const QUESTION_TIMER_START_BUTTON_STYLE={
   ...getGlassButtonStyle({
-    tint:"#2563EB",
-    textColor:"#0F172A",
-    padding:"4px 11px",
+    tint:"#7C3AED",
+    textColor:"#FFFFFF",
+    padding:"6px 14px",
     borderRadius:999,
     fontSize:10,
-    fontWeight:900,
+    fontWeight:800,
     subtle:false,
   }),
-  minHeight:24,
+  minHeight:26,
   lineHeight:1,
   textTransform:"uppercase",
-  letterSpacing:.7,
+  letterSpacing:".08em",
+  fontFamily:DISPLAY_STACK,
 };
 
 const QUESTION_TIMER_RESET_BUTTON_STYLE={
   ...getGlassButtonStyle({
-    tint:"#14B8A6",
+    tint:"#64748B",
     textColor:"#0F172A",
-    padding:"3px 10px",
+    padding:"5px 12px",
     borderRadius:999,
     fontSize:9,
-    fontWeight:900,
-    subtle:false,
+    fontWeight:700,
+    subtle:true,
   }),
-  minHeight:20,
+  minHeight:24,
   lineHeight:1,
   textTransform:"uppercase",
-  letterSpacing:.7,
+  letterSpacing:".08em",
+};
+
+// Timer disc: glass surface + hairline border; ring is the brand gradient (violet -> cyan).
+const QUESTION_TIMER_DISC_STYLE={
+  position:"relative",
+  borderRadius:"50%",
+  display:"flex",
+  alignItems:"center",
+  justifyContent:"center",
+  background:"var(--surface)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
+  border:"1px solid var(--border)",
+  boxShadow:"var(--shadow-2), inset 0 1px 0 rgba(255,255,255,.08)",
 };
 
 function QuestionTimer({tile,paused=false,manualStart=false}){
@@ -7790,36 +8259,39 @@ function QuestionTimer({tile,paused=false,manualStart=false}){
 
   return(
     <div style={{position:"relative",zIndex:6,pointerEvents:"auto"}}>
-      <div style={{position:"relative",width:size,height:size,borderRadius:"50%",display:"flex",alignItems:"center",justifyContent:"center",background:"rgba(255,255,255,.92)",boxShadow:"0 16px 36px rgba(15,23,42,.14)",backdropFilter:"blur(2px)"}}>
+      <div style={{...QUESTION_TIMER_DISC_STYLE,width:size,height:size}}>
         <svg width={size} height={size} viewBox={`0 0 ${size} ${size}`} style={{position:"absolute",inset:0,transform:"rotate(-90deg)",pointerEvents:"none"}}>
           <defs>
             <linearGradient id={gradientId} x1="0%" y1="0%" x2="100%" y2="100%">
-              <stop offset="0%" stopColor="#2DD4BF"/>
-              <stop offset="100%" stopColor="#2563EB"/>
+              <stop offset="0%" stopColor="#7C3AED"/>
+              <stop offset="55%" stopColor="#2563EB"/>
+              <stop offset="100%" stopColor="#06B6D4"/>
             </linearGradient>
           </defs>
-          <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke="rgba(148,163,184,.28)" strokeWidth={stroke}/>
-          <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke={`url(#${gradientId})`} strokeWidth={stroke} strokeLinecap="round" strokeDasharray={circumference} strokeDashoffset={dashOffset}/>
+          <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke="rgba(148,163,184,.22)" strokeWidth={stroke}/>
+          <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke={`url(#${gradientId})`} strokeWidth={stroke} strokeLinecap="round" strokeDasharray={circumference} strokeDashoffset={dashOffset} style={{transition:"stroke-dashoffset .1s linear"}}/>
         </svg>
         <button
           type="button"
-          className="tap"
+          className="tap hit44"
           onClick={handleReset}
+          aria-label="Reset timer"
           style={{...QUESTION_TIMER_RESET_BUTTON_STYLE,position:"absolute",top:18,left:"50%",transform:"translateX(-50%)",zIndex:2}}
         >
           Reset
         </button>
         <div style={{position:"absolute",inset:0,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:2,textAlign:"center",pointerEvents:"none"}}>
           <div style={{height:24}}/>
-          <div style={{fontFamily:SF_STACK,fontWeight:900,fontSize:42,lineHeight:1,color:"#0F172A"}}>{displaySeconds}</div>
-          <div style={{fontSize:11,fontWeight:800,letterSpacing:1.1,color:"#64748B",textTransform:"uppercase"}}>Seconds</div>
+          <div style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:42,lineHeight:1,color:"var(--text)",fontVariantNumeric:"tabular-nums",letterSpacing:"-.02em"}}>{displaySeconds}</div>
+          <div style={{fontSize:11,fontWeight:700,letterSpacing:".08em",color:"var(--text-muted)",textTransform:"uppercase"}}>Seconds</div>
           <div style={{height:24}}/>
         </div>
         {manualStart && !started && remainingMs>0 && (
           <button
             type="button"
-            className="tap"
+            className="tap hit44"
             onClick={handleStart}
+            aria-label="Start timer"
             style={{...QUESTION_TIMER_START_BUTTON_STYLE,position:"absolute",bottom:16,left:"50%",transform:"translateX(-50%)",zIndex:2}}
           >
             Start
@@ -7830,6 +8302,9 @@ function QuestionTimer({tile,paused=false,manualStart=false}){
   );
 }
 
+// Arena card: glass surface + blur + hairline border + deep shadow, 3px gradient accent line on top.
+// Callers can tint the top line with the tile's point color by passing
+// style={{"--panel-accent":pc}} (falls back to the violet->cyan brand gradient).
 function QuestionPanel({children,maxWidth=760,padding="clamp(20px,4vw,42px) clamp(16px,3.6vw,36px)",style={},className=""}){
   return(
     <div
@@ -7839,34 +8314,37 @@ function QuestionPanel({children,maxWidth=760,padding="clamp(20px,4vw,42px) clam
         width:"100%",
         maxWidth,
         padding,
-        borderRadius:30,
-        background:"linear-gradient(180deg,rgba(255,255,255,.98) 0%, rgba(255,255,255,.93) 100%)",
-        border:"1.5px solid rgba(255,255,255,.92)",
-        boxShadow:"0 24px 60px rgba(15,23,42,.14)",
+        borderRadius:"var(--radius-lg)",
+        background:"var(--surface)",
+        backdropFilter:"var(--blur)",
+        WebkitBackdropFilter:"var(--blur)",
+        border:"1px solid var(--border)",
+        boxShadow:"var(--shadow-2), inset 0 1px 0 rgba(255,255,255,.08)",
+        color:"var(--text)",
         textAlign:"center",
         overflow:"hidden",
+        minWidth:0,
         ...style,
       }}
     >
-      <div style={{position:"absolute",top:0,left:0,right:0,height:7,background:"linear-gradient(90deg,#A855F7 0%, #F59E0B 48%, #3B82F6 100%)",opacity:.8}}/>
-      <div style={{position:"absolute",top:-36,right:-26,width:140,height:140,borderRadius:"50%",background:"radial-gradient(circle, rgba(168,85,247,.16) 0%, transparent 70%)"}}/>
-      <div style={{position:"absolute",bottom:-42,left:-28,width:120,height:120,borderRadius:"50%",background:"radial-gradient(circle, rgba(59,130,246,.1) 0%, transparent 70%)"}}/>
-      <div style={{position:"relative",zIndex:1}}>{children}</div>
+      <div aria-hidden="true" style={{position:"absolute",top:0,left:0,right:0,height:3,background:"linear-gradient(90deg, var(--panel-accent, #7C3AED) 0%, var(--panel-accent-2, #06B6D4) 100%)",opacity:.95}}/>
+      <div aria-hidden="true" style={{position:"absolute",top:-60,right:-40,width:180,height:180,borderRadius:"50%",background:"radial-gradient(circle, var(--panel-glow, rgba(124,58,237,.16)) 0%, transparent 70%)",pointerEvents:"none"}}/>
+      <div style={{position:"relative",zIndex:1,minWidth:0}}>{children}</div>
     </div>
   );
 }
 
 function LogoImage({domain}){
   const src=LOGO_CLEAN_MANIFEST[domain];
-  if(!src) return <div style={{fontSize:18,fontWeight:700,color:"#64748B",padding:40}}>Logo unavailable</div>;
+  if(!src) return <div style={{...QUESTION_SUBPROMPT_STYLE,padding:40}}>Logo unavailable</div>;
   return(
     <>
       <img
         src={src}
         alt=""
-        style={{display:"block",width:"min(220px,52vw)",height:"min(220px,52vw)",objectFit:"contain",margin:"0 auto 18px",background:"#fff",padding:28,borderRadius:24,border:"2px solid #E2E8F0",boxShadow:"0 14px 34px rgba(15,23,42,.12)"}}
+        style={{...MEDIA_PLATE_STYLE,display:"block",width:"min(220px,52vw)",height:"min(220px,52vw)",maxWidth:"100%",objectFit:"contain",margin:"0 auto 18px",padding:28}}
       />
-      <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>What brand is this logo?</div>
+      <div style={QUESTION_SUBPROMPT_STYLE}>What brand is this logo?</div>
     </>
   );
 }
@@ -7882,34 +8360,47 @@ function LifelineRail({lifelines,curTeam,onUseLifeline,activeDoublePoints,timerP
   const teamLifelines=lifelines?.[curTeam]||{};
   const viewport=useViewportSize();
   const narrow=viewport.width<960;
+  // Desktop: vertical stack of round glass buttons hanging off the right edge of the media box.
+  // Phones: horizontal row underneath (static flow, never overlaps content).
   const wrapStyle=narrow
-    ?{position:"static",display:"flex",flexWrap:"wrap",justifyContent:"center",gap:"clamp(6px,1vw,12px)",marginTop:12,zIndex:3}
-    :{position:"absolute",left:"calc(100% + clamp(8px, 1.2vw, 20px))",top:"50%",transform:"translateY(-50%)",display:"grid",gridTemplateColumns:"repeat(2, auto)",gap:"clamp(6px,1vw,12px)",zIndex:3};
+    ?{position:"static",display:"flex",flexWrap:"wrap",justifyContent:"center",gap:10,marginTop:12,zIndex:3,maxWidth:"100%"}
+    :{position:"absolute",left:"calc(100% + 12px)",top:"50%",transform:"translateY(-50%)",display:"flex",flexDirection:"column",gap:10,zIndex:3};
   return(
-    <div style={wrapStyle}>
+    <div style={wrapStyle} role="group" aria-label="Lifelines">
       {LIFELINE_DEFS.map(def=>{
         const used=teamLifelines[def.key];
         const active=(def.key==="doublePoints"&&activeDoublePoints)||(def.key==="pauseTimer"&&timerPaused);
         const hidden=used&&!active;
+        const circle=getGlassCircleButtonStyle({tint:def.tint,size:48,fontSize:15});
+        const activeStyle=active?{
+          background:`linear-gradient(180deg, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 55%), linear-gradient(135deg, ${lightenHex(def.tint,.12)} 0%, ${def.tint} 55%, ${darkenHex(def.tint,.18)} 100%)`,
+          border:"1px solid rgba(255,255,255,.22)",
+          color:"#FFFFFF",
+          boxShadow:`0 0 0 4px ${withAlpha(def.tint,"40")}, 0 10px 24px ${withAlpha(def.tint,"4D")}, inset 0 1px 0 rgba(255,255,255,.28)`,
+          textShadow:"0 1px 1px rgba(2,6,23,.25)",
+        }:{
+          color:def.tint,
+          boxShadow:`0 6px 16px ${withAlpha(def.tint,"2E")}, inset 0 1px 0 rgba(255,255,255,.14)`,
+        };
         return(
           <button
             key={def.key}
+            type="button"
             className="tap"
             disabled={used||showAns}
             onClick={()=>!used&&!showAns&&onUseLifeline?.(def.key)}
             title={def.label}
+            aria-label={def.label}
+            aria-pressed={active?true:undefined}
             style={{
-              width:48,height:48,borderRadius:14,
-              border:`2px solid ${def.tint}`,
-              background:active?def.tint:"#fff",
-              color:active?"#fff":def.tint,
-              fontSize:16,fontWeight:900,
-              boxShadow:`0 4px 10px ${def.tint}33`,
+              ...circle,
+              ...activeStyle,
+              width:48,height:48,
+              fontWeight:800,
+              letterSpacing:"-.01em",
               cursor:used||showAns?"default":"pointer",
               opacity:hidden?0:(used||showAns?.55:1),
               visibility:hidden?"hidden":"visible",
-              display:"flex",alignItems:"center",justifyContent:"center",
-              fontFamily:SF_STACK,
               padding:0,
             }}
           >{def.icon}</button>
@@ -7942,32 +8433,32 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
-          <div style={{position:"relative",width:"100%",maxWidth:820,margin:"0 auto"}}>
+          <div style={{...QUESTION_MEDIA_WRAP_STYLE,width:"100%",maxWidth:820,margin:"0 auto"}}>
           <QuestionPanel className="pop fadein" maxWidth={820} padding={isFlag||isEmojiGuess||isLogoGuess?"34px 28px 36px":"46px 40px"}>
             {isLogoGuess ? (
               <LogoImage domain={tile.q}/>
             ) : isFlag ? (
               <>
                 <FlagImage flag={tile.code || tile.q} country={tile.a}/>
-                <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>Which country is this flag from?</div>
+                <div style={QUESTION_SUBPROMPT_STYLE}>Which country is this flag from?</div>
               </>
             ) : isEmojiGuess ? (
               <>
                 <div style={{fontSize:"clamp(56px,12vw,96px)",lineHeight:1.15,letterSpacing:2,marginBottom:18,wordBreak:"break-word"}}>{tile.q}</div>
                 {BANK[baseCat(tile.catId)]?.emojiPrompt ? (
-                  <div style={{fontSize:18,fontWeight:700,color:"#64748B"}}>{BANK[baseCat(tile.catId)].emojiPrompt}</div>
+                  <div style={QUESTION_SUBPROMPT_STYLE}>{BANK[baseCat(tile.catId)].emojiPrompt}</div>
                 ) : null}
               </>
             ) : (
-              <div style={{fontSize:"clamp(24px,4.6vw,38px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{displayQuestion}</div>
+              <div style={QUESTION_PROMPT_STYLE}>{displayQuestion}</div>
             )}
           </QuestionPanel>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           {showAns?(
-            <QuestionPanel className="pop" maxWidth={760} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
-              <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B",lineHeight:1.35}}>{displayAnswer}</div>
+            <QuestionPanel className="pop" maxWidth={760} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
+              <div style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8003,16 +8494,16 @@ function WhoAmIScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAward,
             <div style={QUESTION_HEADER_TITLE_STYLE}>{catLabel}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
-          <div style={{fontSize:15,fontWeight:800,color:"#64748B",letterSpacing:1.2,textTransform:"uppercase"}}>{BANK[baseCat(tile.catId)]?.landmarkMode?"Which Country Am I?":"Who Am I?"}</div>
-          <div style={{position:"relative",display:"inline-block"}}>
+          <div style={QUESTION_KICKER_STYLE}>{BANK[baseCat(tile.catId)]?.landmarkMode?"Which Country Am I?":"Who Am I?"}</div>
+          <div style={QUESTION_MEDIA_WRAP_STYLE}>
           <CharacterArt name={tile.a} wiki={tile.wiki}/>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           <div style={QUESTION_HINT_STYLE}>{BANK[baseCat(tile.catId)]?.landmarkMode?"Guess the country from the landmark":"Guess the character from the image"}</div>
           {showAns?(
-            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
-              <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
+            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
+              <div style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8047,15 +8538,15 @@ function CountryMapScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
             <div style={QUESTION_HEADER_TITLE_STYLE}>Country Map</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
-          <div style={{position:"relative",display:"inline-block"}}>
+          <div style={QUESTION_MEDIA_WRAP_STYLE}>
           <CountryMapSVG code={tile.code} country={tile.a}/>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           <div style={QUESTION_HINT_STYLE}>{"\u{1F30D} Which country is highlighted in red?"}</div>
           {showAns?(
-            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
-              <div style={{fontSize:"clamp(24px,4.2vw,36px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
+            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
+              <div style={{...QUESTION_ANSWER_TEXT_STYLE,fontSize:"clamp(24px,4.2vw,36px)"}}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8089,15 +8580,15 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
-          <div style={{position:"relative",display:"inline-block"}}>
+          <div style={QUESTION_MEDIA_WRAP_STYLE}>
           <MovieScenePlayer tile={tile} onClipFailed={onClipFailed}/>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           <div style={QUESTION_HINT_STYLE}>Guess the movie from the clip</div>
           {showAns?(
-            <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
-              <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
+            <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
+              <div style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8131,16 +8622,16 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
-          <div style={{position:"relative",display:"inline-block"}}>
+          <div style={QUESTION_MEDIA_WRAP_STYLE}>
           <SongClipPlayer tile={tile}/>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           <div style={QUESTION_HINT_STYLE}>Guess the song from the clip</div>
           {showAns?(
-            <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>ANSWER</div>
-              <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{displayAnswer}</div>
-              {tile.artist&&<div style={{fontSize:16,fontWeight:700,color:"#64748B",marginTop:10}}>{tile.artist}</div>}
+            <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
+              <div style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
+              {tile.artist&&<div style={{...QUESTION_SUBPROMPT_STYLE,marginTop:10}}>{tile.artist}</div>}
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8174,17 +8665,17 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
-          <div style={{position:"relative",width:"100%",maxWidth:470,margin:"0 auto"}}>
+          <div style={{...QUESTION_MEDIA_WRAP_STYLE,width:"100%",maxWidth:470,margin:"0 auto"}}>
           <QuestionPanel maxWidth={470} padding="22px 22px 24px">
-            <div style={{fontSize:12,fontWeight:800,color:"#64748B",letterSpacing:1.1,marginBottom:12}}>ACTOR - SCAN QR TO GOOGLE YOUR WORD</div>
+            <div style={{...QUESTION_KICKER_STYLE,marginBottom:12}}>ACTOR - SCAN QR TO GOOGLE YOUR WORD</div>
             <QRCode text={qrSearchUrl} size={180}/>
           </QuestionPanel>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={false}/>
           </div>
           {showWord?(
-            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>WORD (HOST ONLY)</div>
-              <div style={{fontSize:"clamp(24px,4.2vw,34px)",fontWeight:800,color:"#1E293B"}}>{tile.a}</div>
+            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>WORD (HOST ONLY)</div>
+              <div style={QUESTION_ANSWER_TEXT_STYLE}>{tile.a}</div>
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealWord} style={QUESTION_SECONDARY_BUTTON_STYLE}>{"\u{1F441}\uFE0F Show Word (Host Only)"}</button>
@@ -8288,24 +8779,24 @@ function SpellingBeeScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onA
             <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
-          <div style={{position:"relative",width:"100%",maxWidth:470,margin:"0 auto"}}>
+          <div style={{...QUESTION_MEDIA_WRAP_STYLE,width:"100%",maxWidth:470,margin:"0 auto"}}>
           <QuestionPanel maxWidth={470} padding="28px 22px 26px" style={{textAlign:"center"}}>
-            <div style={{fontSize:12,fontWeight:800,color:"#64748B",letterSpacing:1.1,marginBottom:14}}>LISTEN AND SPELL THE WORD</div>
-            <button className="tap" onClick={playWord} style={{...getGlassButtonStyle({tint:"#0891B2",textColor:"#FFFFFF",fontSize:16,padding:"16px 28px",borderRadius:16}),display:"inline-flex",alignItems:"center",gap:10,margin:"0 auto"}}>
+            <div style={{...QUESTION_KICKER_STYLE,marginBottom:14}}>LISTEN AND SPELL THE WORD</div>
+            <button className="tap" onClick={playWord} aria-label="Play word" style={{...getGlassButtonStyle({tint:"#0891B2",textColor:"#FFFFFF",fontSize:16,padding:"16px 28px",borderRadius:"var(--radius-pill)"}),display:"inline-flex",alignItems:"center",gap:10,margin:"0 auto",minHeight:52,fontFamily:DISPLAY_STACK}}>
               <span style={{fontSize:22}}>{"\uD83D\uDD0A"}</span>
               <span>Play Word</span>
             </button>
-            <div style={{fontSize:11,fontWeight:700,color:"#94A3B8",marginTop:14,letterSpacing:.5}}>Tap to replay</div>
+            <div style={{...QUESTION_SUBPROMPT_STYLE,fontSize:12,marginTop:14}}>Tap to replay</div>
           </QuestionPanel>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
           </div>
           {showAns?(
-            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{background:`linear-gradient(180deg,${pb} 0%,#ffffff 180%)`,border:`2px solid ${pc}44`,textAlign:"center"}}>
-              <div style={{fontSize:12,fontWeight:800,color:pc,letterSpacing:1.1,marginBottom:8}}>CORRECT SPELLING</div>
-              <div style={{fontSize:"clamp(28px,5.5vw,46px)",fontWeight:900,color:"#1E293B",letterSpacing:2}}>{word}</div>
+            <QuestionPanel className="pop" maxWidth={620} padding="22px 26px" style={{...QUESTION_ANSWER_PANEL_STYLE(pc),textAlign:"center"}}>
+              <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>CORRECT SPELLING</div>
+              <div style={{...QUESTION_ANSWER_TEXT_STYLE,fontSize:"clamp(28px,5.5vw,46px)",letterSpacing:".08em"}}>{word}</div>
             </QuestionPanel>
           ):(
-            <button className="tap" onClick={onRevealAnswer} style={QUESTION_SECONDARY_BUTTON_STYLE}>Reveal Answer</button>
+            <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
           )}
           <div style={QUESTION_BACK_BUTTON_WRAP_STYLE}>
             <button className="tap" onClick={onBackToBoard} style={QUESTION_SECONDARY_BUTTON_STYLE}>Back to Board</button>
@@ -8322,32 +8813,68 @@ function GameOverScreen({teams,scores,onRematch,onNewGame}){
   const winners=scores.reduce((acc,s,i)=>s===maxScore?[...acc,i]:acc,[]);
   const isTie=winners.length>1;
   const w=isTie?-1:winners[0];
+  const winnerColor=isTie?"#7C3AED":TEAM_COLORS[w%TEAM_COLORS.length];
+  const medals=["\u{1F947}","\u{1F948}","\u{1F949}"];
+  const ranked=[...teams.keys()].sort((a,b)=>scores[b]-scores[a]);
   return(
-    <div style={{minHeight:"100dvh",...SITE_BACKGROUND_STYLE,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",padding:24,gap:20}}>
+    <div style={{...ARENA_PAGE_STYLE,justifyContent:"center",padding:"84px 16px 32px",gap:18}}>
       <style>{CSS}</style>
-      <div style={{fontFamily:SF_STACK,fontSize:"clamp(36px,10vw,58px)",fontWeight:900,color:"#1E293B",letterSpacing:1}}>GAME OVER</div>
-      {!isTie&&(
-        <div className="pop" style={{textAlign:"center",background:"#fff",borderRadius:18,padding:"20px 32px",boxShadow:"0 4px 24px #0000000d",border:`3px solid ${TEAM_COLORS[w%TEAM_COLORS.length]}44`}}>
-          <div style={{fontSize:26}}>{"\u{1F3C6}"}</div>
-          <div style={{fontFamily:SF_STACK,fontSize:28,fontWeight:900,color:TEAM_COLORS[w%TEAM_COLORS.length]}}>{teams[w]}</div>
-          <div style={{fontSize:12,color:"#64748B",fontWeight:600}}>{"WINS! \u{1F389}"}</div>
+      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:4}}>
+        <div style={ARENA_LABEL_STYLE}>Final results</div>
+        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(28px,5vw,44px)"}}>GAME OVER</div>
+      </div>
+
+      {/* Winner card with confetti-like gradient glow */}
+      <div style={{position:"relative",width:"100%",maxWidth:460,display:"flex",justifyContent:"center"}}>
+        <div aria-hidden="true" style={{position:"absolute",inset:"-40px -30px",pointerEvents:"none",filter:"blur(28px)",opacity:.85,
+          background:`radial-gradient(circle at 18% 30%, ${withAlpha(winnerColor,"8C")} 0%, transparent 42%),
+            radial-gradient(circle at 82% 22%, rgba(6,182,212,.55) 0%, transparent 40%),
+            radial-gradient(circle at 50% 95%, rgba(245,158,11,.55) 0%, transparent 42%),
+            radial-gradient(circle at 78% 80%, rgba(124,58,237,.5) 0%, transparent 38%)`}}/>
+        <div className="pop" style={{...ARENA_CARD_STYLE,maxWidth:460,padding:"26px 22px 22px",textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:8,borderColor:withAlpha(winnerColor,"80"),boxShadow:`var(--shadow-2), 0 0 0 4px ${withAlpha(winnerColor,"40")}, inset 0 1px 0 rgba(255,255,255,.10)`}}>
+          <div style={{...ARENA_CARD_TOPLINE_STYLE,background:isTie?"var(--grad-accent)":`linear-gradient(90deg, ${lightenHex(winnerColor,.25)} 0%, ${winnerColor} 60%, ${darkenHex(winnerColor,.2)} 100%)`}}/>
+          <div aria-hidden="true" style={{width:72,height:72,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:38,lineHeight:1,background:`linear-gradient(180deg, rgba(255,255,255,.16) 0%, rgba(255,255,255,0) 60%), ${withAlpha(winnerColor,"33")}`,border:`1px solid ${withAlpha(winnerColor,"80")}`,boxShadow:`0 10px 26px ${withAlpha(winnerColor,"4D")}`}}>
+            {isTie?"\u{1F91D}":"\u{1F3C6}"}
+          </div>
+          {!isTie&&(
+            <>
+              <div style={ARENA_LABEL_STYLE}>Champion</div>
+              <div style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(24px,5vw,36px)",fontWeight:800,letterSpacing:"-.01em",lineHeight:1.1,color:winnerColor,maxWidth:"100%",overflowWrap:"anywhere"}}>{teams[w]}</div>
+              <div style={{fontSize:14,color:"var(--text-muted)",fontWeight:600}}>{"wins with "}<span style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontVariantNumeric:"tabular-nums",color:"var(--text)"}}>{maxScore}</span>{" points \u{1F389}"}</div>
+            </>
+          )}
+          {isTie&&(
+            <>
+              <div style={ARENA_LABEL_STYLE}>Dead heat</div>
+              <div style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(24px,5vw,36px)",fontWeight:800,letterSpacing:"-.01em",lineHeight:1.1,color:"var(--text)"}}>It's a tie!</div>
+              <div style={{fontSize:14,color:"var(--text-muted)",fontWeight:600,overflowWrap:"anywhere"}}>{winners.map(i=>teams[i]).join(" · ")}{" at "}<span style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontVariantNumeric:"tabular-nums",color:"var(--text)"}}>{maxScore}</span></div>
+            </>
+          )}
         </div>
-      )}
-      {isTie&&<div style={{fontSize:22,fontWeight:700}}>{"\u{1F91D} It's a Tie!"}</div>}
-      <div style={{width:"100%",maxWidth:420,display:"flex",flexDirection:"column",gap:9}}>
-        {[...teams.keys()].sort((a,b)=>scores[b]-scores[a]).map(i=>{
+      </div>
+
+      {/* Podium: every team sorted by score, with medals */}
+      <div style={{width:"100%",maxWidth:460,display:"flex",flexDirection:"column",gap:8}}>
+        {ranked.map((i,rank)=>{
           const tc=TEAM_COLORS[i%TEAM_COLORS.length];
+          const isWinner=scores[i]===maxScore;
+          const medal=medals[rank];
           return(
-            <div key={i} style={{display:"flex",alignItems:"center",justifyContent:"space-between",background:"#fff",borderRadius:12,padding:"12px 18px",border:`1.5px solid ${tc}33`}}>
-              <div style={{fontWeight:700,color:tc,fontSize:14}}>{teams[i]}</div>
-              <div style={{fontFamily:SF_STACK,fontSize:28,fontWeight:900,color:i===w?tc:"#94A3B8"}}>{scores[i]}</div>
+            <div key={i} className="fadein" style={{display:"flex",alignItems:"center",gap:12,minHeight:56,padding:"8px 14px 8px 10px",borderRadius:"var(--radius)",background:isWinner?withAlpha(tc,"24"):"var(--surface)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",border:`1px solid ${isWinner?withAlpha(tc,"80"):"var(--border)"}`,boxShadow:isWinner?`0 0 0 3px ${withAlpha(tc,"33")}, var(--shadow-1)`:"var(--shadow-1)",animationDelay:`${rank*60}ms`}}>
+              <div aria-label={`Rank ${rank+1}`} style={{width:36,height:36,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",flex:"0 0 auto",fontSize:medal?20:13,fontFamily:DISPLAY_STACK,fontWeight:800,color:"var(--text-muted)",background:medal?"transparent":"rgba(148,163,184,.14)",border:medal?"none":"1px solid var(--border)"}}>
+                {medal||rank+1}
+              </div>
+              <span aria-hidden="true" style={{width:10,height:10,borderRadius:"50%",background:tc,boxShadow:`0 0 0 3px ${withAlpha(tc,"40")}`,flex:"0 0 auto"}}/>
+              <div style={{flex:1,minWidth:0,fontFamily:BODY_STACK,fontWeight:700,fontSize:15,color:isWinner?tc:"var(--text)",overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap"}}>{teams[i]}</div>
+              <div style={{fontFamily:DISPLAY_STACK,fontSize:26,fontWeight:800,fontVariantNumeric:"tabular-nums",letterSpacing:"-.01em",color:isWinner?tc:"var(--text-muted)",flex:"0 0 auto"}}>{scores[i]}</div>
             </div>
           );
         })}
       </div>
-      <div style={{width:"100%",maxWidth:320,display:"flex",flexDirection:"column",gap:9}}>
-        <button className="tap" onClick={onRematch} style={getGlassButtonStyle({tint:"#2563EB",textColor:"#0F172A",fontSize:15,padding:"13px",borderRadius:12})}>{"\u{1F504} REMATCH"}</button>
-        <button className="tap" onClick={onNewGame} style={getGlassButtonStyle({tint:"#7C3AED",textColor:"#1E293B",fontWeight:700,fontSize:14,padding:"13px",borderRadius:12,subtle:true,borderWidth:2})}>New Game</button>
+
+      <div style={{width:"100%",maxWidth:460,display:"grid",gridTemplateColumns:"repeat(auto-fit, minmax(160px, 1fr))",gap:10,marginTop:4}}>
+        <button className="tap" onClick={onRematch} style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:"#0F172A",fontSize:16,padding:"14px 20px",borderRadius:"var(--radius)",minHeight:52}),width:"100%",fontFamily:DISPLAY_STACK}}>{"\u{1F504} Rematch"}</button>
+        <button className="tap" onClick={onNewGame} style={{...getGlassButtonStyle({tint:"#94A3B8",textColor:"#1E293B",fontWeight:700,fontSize:15,padding:"14px 20px",borderRadius:"var(--radius)",minHeight:52,subtle:true,borderWidth:1}),width:"100%",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)"}}>New game</button>
       </div>
     </div>
   );

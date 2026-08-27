@@ -112,66 +112,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What name does Oliver use as hero later, replacing Arrow?",
         "a": "Green Arrow"
-      },
-      {
-        "q": "What is Oliver Queen's superhero alias?",
-        "a": "Green Arrow"
-      },
-      {
-        "q": "What island was Oliver stranded on for five years?",
-        "a": "Lian Yu"
-      },
-      {
-        "q": "Who is Oliver's tech support partner?",
-        "a": "Felicity Smoak"
-      },
-      {
-        "q": "Thea Queen is nicknamed what?",
-        "a": "Speedy"
-      },
-      {
-        "q": "Who is Oliver's bodyguard and partner?",
-        "a": "John Diggle"
-      },
-      {
-        "q": "What is John Diggle's hero alias?",
-        "a": "Spartan"
-      },
-      {
-        "q": "What network airs Arrow?",
-        "a": "The CW"
-      },
-      {
-        "q": "What hero does Sara Lance become?",
-        "a": "White Canary"
-      },
-      {
-        "q": "What police captain is Laurel's father?",
-        "a": "Quentin Lance"
-      },
-      {
-        "q": "What year did Arrow premiere?",
-        "a": "2012"
-      },
-      {
-        "q": "What corporation did Oliver's family run?",
-        "a": "Queen Consolidated"
-      },
-      {
-        "q": "Who is Oliver's mother?",
-        "a": "Moira Queen"
-      },
-      {
-        "q": "Who is Oliver's father who sacrifices himself on the boat?",
-        "a": "Robert Queen"
-      },
-      {
-        "q": "Oliver's son hidden from him is named what?",
-        "a": "William"
-      },
-      {
-        "q": "Oliver's child with Samantha Clayton?",
-        "a": "William"
       }
     ],
     "400": [
@@ -338,34 +278,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Felicity's father is revealed to be what hacker?",
         "a": "The Calculator"
-      },
-      {
-        "q": "Malcolm Merlyn goes by what alias?",
-        "a": "Dark Archer"
-      },
-      {
-        "q": "Tommy Merlyn is played by whom?",
-        "a": "Colin Donnell"
-      },
-      {
-        "q": "What alias does Slade Wilson adopt?",
-        "a": "Deathstroke"
-      },
-      {
-        "q": "Who is the magical villain of season four?",
-        "a": "Damien Darhk"
-      },
-      {
-        "q": "Prometheus's real name is?",
-        "a": "Adrian Chase"
-      },
-      {
-        "q": "Who plays Prometheus?",
-        "a": "Josh Segarra"
-      },
-      {
-        "q": "Nyssa al Ghul is the daughter of?",
-        "a": "Ra's al Ghul"
       }
     ],
     "600": [
@@ -548,18 +460,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What DC character did Oliver kill, triggering a revenge arc?",
         "a": "Billy Malone"
-      },
-      {
-        "q": "What is the name of the crossover event that ended the series?",
-        "a": "Crisis on Infinite Earths"
-      },
-      {
-        "q": "Who plays Mia?",
-        "a": "Katherine McNamara"
-      },
-      {
-        "q": "Talia trains which villain?",
-        "a": "Prometheus"
       }
     ]
   },
@@ -664,74 +564,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What countries border Bangladesh (surrounded on three sides)?",
         "a": "India"
-      },
-      {
-        "q": "What countries border Canada (to the south)?",
-        "a": "United States"
-      },
-      {
-        "q": "What countries border Denmark (by land)?",
-        "a": "Germany"
-      },
-      {
-        "q": "What countries border Mexico (to the north)?",
-        "a": "United States"
-      },
-      {
-        "q": "What countries border France (across the Pyrenees)?",
-        "a": "Spain"
-      },
-      {
-        "q": "What countries border Italy (to the north-west)?",
-        "a": "France"
-      },
-      {
-        "q": "What countries border Finland (to the west)?",
-        "a": "Sweden"
-      },
-      {
-        "q": "What countries border Poland (to the west)?",
-        "a": "Germany"
-      },
-      {
-        "q": "What countries border Jordan (to the west)?",
-        "a": "Israel"
-      },
-      {
-        "q": "What countries border Switzerland (to the north)?",
-        "a": "Germany"
-      },
-      {
-        "q": "What countries border Netherlands (to the east)?",
-        "a": "Germany"
-      },
-      {
-        "q": "What countries border Belgium (to the south)?",
-        "a": "France"
-      },
-      {
-        "q": "What countries border Afghanistan (to the east)?",
-        "a": "Pakistan"
-      },
-      {
-        "q": "What countries border Bolivia (to the east)?",
-        "a": "Brazil"
-      },
-      {
-        "q": "What countries border Venezuela (to the south)?",
-        "a": "Brazil"
-      },
-      {
-        "q": "What countries border Colombia (to the south)?",
-        "a": "Ecuador"
-      },
-      {
-        "q": "What countries border Iraq (to the south)?",
-        "a": "Saudi Arabia"
-      },
-      {
-        "q": "What countries border Kuwait (to the south)?",
-        "a": "Saudi Arabia"
       }
     ],
     "400": [
@@ -910,50 +742,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What countries border Honduras (to the south-east)?",
         "a": "Nicaragua"
-      },
-      {
-        "q": "What countries border Jordan (to the south-east)?",
-        "a": "Saudi Arabia"
-      },
-      {
-        "q": "What countries border Lebanon (to the south)?",
-        "a": "Israel"
-      },
-      {
-        "q": "What countries border Syria (to the north)?",
-        "a": "Turkey"
-      },
-      {
-        "q": "What countries border Slovenia (to the north)?",
-        "a": "Austria"
-      },
-      {
-        "q": "What countries border Latvia (to the north)?",
-        "a": "Estonia"
-      },
-      {
-        "q": "What countries border Estonia (to the south)?",
-        "a": "Latvia"
-      },
-      {
-        "q": "What countries border Kyrgyzstan (to the south)?",
-        "a": "Tajikistan"
-      },
-      {
-        "q": "What countries border Bhutan (to the north)?",
-        "a": "China"
-      },
-      {
-        "q": "What countries border Nepal (to the north)?",
-        "a": "China"
-      },
-      {
-        "q": "What countries border Thailand (to the north-east)?",
-        "a": "Laos"
-      },
-      {
-        "q": "What countries border Malaysia (to the north)?",
-        "a": "Thailand"
       }
     ],
     "600": [
@@ -1116,66 +904,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What countries border South Sudan (to the south)?",
         "a": "Uganda"
-      },
-      {
-        "q": "What countries border Turkmenistan (to the south-east)?",
-        "a": "Afghanistan"
-      },
-      {
-        "q": "What countries border Zimbabwe (to the north)?",
-        "a": "Zambia"
-      },
-      {
-        "q": "What countries border Botswana (to the north-east)?",
-        "a": "Zimbabwe"
-      },
-      {
-        "q": "What countries border Mali (to the north)?",
-        "a": "Algeria"
-      },
-      {
-        "q": "What countries border Bhutan (to the south)?",
-        "a": "India"
-      },
-      {
-        "q": "What countries border Moldova (to the west)?",
-        "a": "Romania"
-      },
-      {
-        "q": "What countries border North Macedonia (to the south)?",
-        "a": "Greece"
-      },
-      {
-        "q": "What countries border Montenegro (to the east)?",
-        "a": "Serbia"
-      },
-      {
-        "q": "What countries border Andorra (to the north)?",
-        "a": "France"
-      },
-      {
-        "q": "What countries border Liechtenstein (to the east)?",
-        "a": "Austria"
-      },
-      {
-        "q": "What countries border French Guiana (to the east)?",
-        "a": "Brazil"
-      },
-      {
-        "q": "What countries border Oman (to the west)?",
-        "a": "Saudi Arabia"
-      },
-      {
-        "q": "What countries border United Arab Emirates (to the east)?",
-        "a": "Oman"
-      },
-      {
-        "q": "What vast country, formerly Zaire, lies south of the CAR?",
-        "a": "Democratic Republic of the Congo"
-      },
-      {
-        "q": "What countries border Papua New Guinea (by land)?",
-        "a": "Indonesia"
       }
     ]
   },
@@ -1304,62 +1032,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many seasons did Brooklyn Nine-Nine run?",
         "a": "Eight"
-      },
-      {
-        "q": "What borough is the precinct in?",
-        "a": "Brooklyn"
-      },
-      {
-        "q": "Who plays Captain Holt?",
-        "a": "Andre Braugher"
-      },
-      {
-        "q": "Who plays Terry Jeffords?",
-        "a": "Terry Crews"
-      },
-      {
-        "q": "Who plays Charles Boyle?",
-        "a": "Joe Lo Truglio"
-      },
-      {
-        "q": "What snack is Terry obsessed with?",
-        "a": "Yogurt"
-      },
-      {
-        "q": "What is Jake's favorite action movie series?",
-        "a": "Die Hard"
-      },
-      {
-        "q": "Captain Holt is married to whom?",
-        "a": "Kevin"
-      },
-      {
-        "q": "What dog does Holt have?",
-        "a": "Cheddar"
-      },
-      {
-        "q": "Terry's wife is named?",
-        "a": "Sharon"
-      },
-      {
-        "q": "Boyle's son is named?",
-        "a": "Nikolaj"
-      },
-      {
-        "q": "Boyle's ex-wife is named?",
-        "a": "Eleanor"
-      },
-      {
-        "q": "Jake and Amy's son is named?",
-        "a": "Mac"
-      },
-      {
-        "q": "What network did the show premiere on?",
-        "a": "Fox"
-      },
-      {
-        "q": "What is Jake's catchphrase at the end of sex jokes?",
-        "a": "Title of your sex tape"
       }
     ],
     "400": [
@@ -1554,18 +1226,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the Russian criminal Jake befriends?",
         "a": "Sergei"
-      },
-      {
-        "q": "Jake and Rosa go to prison in which season?",
-        "a": "Five"
-      },
-      {
-        "q": "Rosa's girlfriend in later seasons is?",
-        "a": "Jocelyn"
-      },
-      {
-        "q": "Kevin is a professor of which subject?",
-        "a": "Classics"
       }
     ],
     "600": [
@@ -1740,26 +1400,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many episodes of Brooklyn 99 aired in total?",
         "a": "153"
-      },
-      {
-        "q": "Boyle's adopted son is from?",
-        "a": "Latvia"
-      },
-      {
-        "q": "Which season introduces Hitchcock's retirement move?",
-        "a": "Eight"
-      },
-      {
-        "q": "Holt's police academy rival was?",
-        "a": "Wuntch"
-      },
-      {
-        "q": "Jake's dad's name is?",
-        "a": "Roger"
-      },
-      {
-        "q": "Adrian Pimento is played by?",
-        "a": "Jason Mantzoukas"
       }
     ]
   },
@@ -1916,54 +1556,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Cobra Kai returns in the pilot due to what event?",
         "a": "Strip mall opening"
-      },
-      {
-        "q": "Who plays Daniel LaRusso?",
-        "a": "Ralph Macchio"
-      },
-      {
-        "q": "What dojo does Johnny reopen in the pilot?",
-        "a": "Cobra Kai"
-      },
-      {
-        "q": "Who is Johnny's estranged son?",
-        "a": "Robby"
-      },
-      {
-        "q": "Samantha is played by?",
-        "a": "Mary Mouser"
-      },
-      {
-        "q": "What streaming service airs Cobra Kai?",
-        "a": "Netflix"
-      },
-      {
-        "q": "Mr. Miyagi taught Daniel which style?",
-        "a": "Miyagi-Do"
-      },
-      {
-        "q": "Who plays John Kreese?",
-        "a": "Martin Kove"
-      },
-      {
-        "q": "What are the three tenets of Cobra Kai?",
-        "a": "Strike first, strike hard, no mercy"
-      },
-      {
-        "q": "Hawk's real first name is?",
-        "a": "Eli"
-      },
-      {
-        "q": "Demetri is played by?",
-        "a": "Gianni DeCenzo"
-      },
-      {
-        "q": "Tory Nichols is played by?",
-        "a": "Peyton List"
-      },
-      {
-        "q": "Daniel's mentor Miyagi is played by which actor in flashbacks?",
-        "a": "Pat Morita"
       }
     ],
     "400": [
@@ -2102,58 +1694,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "The season three storyline includes Johnny traveling to find whom?",
         "a": "Ali"
-      },
-      {
-        "q": "Who returns as the season three villain?",
-        "a": "Terry Silver"
-      },
-      {
-        "q": "Which student falls off the railing in season two finale?",
-        "a": "Miguel"
-      },
-      {
-        "q": "Who plays Kumiko?",
-        "a": "Tamlyn Tomita"
-      },
-      {
-        "q": "Chozen returns from which original film?",
-        "a": "Karate Kid Part II"
-      },
-      {
-        "q": "Who plays Chozen?",
-        "a": "Yuji Okumoto"
-      },
-      {
-        "q": "Johnny's new dojo is named?",
-        "a": "Eagle Fang"
-      },
-      {
-        "q": "Kyler is played by?",
-        "a": "Joe Seo"
-      },
-      {
-        "q": "Stingray is played by?",
-        "a": "Paul Walter Hauser"
-      },
-      {
-        "q": "What dojo does Johnny team up with Daniel against?",
-        "a": "Cobra Kai"
-      },
-      {
-        "q": "Who plays Devon Lee?",
-        "a": "Oona O'Brien"
-      },
-      {
-        "q": "Which Payne brother was in juvie?",
-        "a": "Shawn"
-      },
-      {
-        "q": "Captain Turner was Kreese's sergeant played by?",
-        "a": "Terry Serpico"
-      },
-      {
-        "q": "Who plays young Kreese?",
-        "a": "Barrett Carnahan"
       }
     ],
     "600": [
@@ -2344,14 +1884,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What Netflix year did seasons three onward move to streaming?",
         "a": "2021"
-      },
-      {
-        "q": "Who plays Mike Barnes?",
-        "a": "Sean Kanan"
-      },
-      {
-        "q": "What Karate Kid Part II villain returns as Chozen?",
-        "a": "Chozen Toguchi"
       }
     ]
   },
@@ -2480,70 +2012,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the fictional town in New Blood?",
         "a": "Iron Lake"
-      },
-      {
-        "q": "What is the main character's profession by day?",
-        "a": "Blood spatter analyst"
-      },
-      {
-        "q": "What police department does the protagonist work for?",
-        "a": "Miami Metro"
-      },
-      {
-        "q": "What is Dexter's foul-mouthed sister's name?",
-        "a": "Debra"
-      },
-      {
-        "q": "Who plays Dexter?",
-        "a": "Michael C. Hall"
-      },
-      {
-        "q": "Who plays Debra?",
-        "a": "Jennifer Carpenter"
-      },
-      {
-        "q": "What is Dexter's last name?",
-        "a": "Morgan"
-      },
-      {
-        "q": "What is Rita's last name?",
-        "a": "Bennett"
-      },
-      {
-        "q": "What are Rita's kids' names?",
-        "a": "Astor and Cody"
-      },
-      {
-        "q": "What is Dexter and Rita's baby's name?",
-        "a": "Harrison"
-      },
-      {
-        "q": "What network aired Dexter originally?",
-        "a": "Showtime"
-      },
-      {
-        "q": "What is Dexter's boat named?",
-        "a": "Slice of Life"
-      },
-      {
-        "q": "What does Dexter keep as trophies of victims?",
-        "a": "Blood slides"
-      },
-      {
-        "q": "What does Dexter call his killing urge?",
-        "a": "Dark Passenger"
-      },
-      {
-        "q": "What job does Dexter take in Oregon?",
-        "a": "Lumberjack"
-      },
-      {
-        "q": "Who is Dexter's son in New Blood as a teen?",
-        "a": "Harrison"
-      },
-      {
-        "q": "Who kills Dexter at the end of New Blood?",
-        "a": "Harrison"
       }
     ],
     "400": [
@@ -2746,14 +2214,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What did Dexter witness as a toddler?",
         "a": "His mother's murder"
-      },
-      {
-        "q": "Who kills Lundy?",
-        "a": "Trinity"
-      },
-      {
-        "q": "Who is the British prison psychologist Dexter falls for?",
-        "a": "Hannah McKay"
       }
     ],
     "600": [
@@ -2936,26 +2396,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What continent does Dexter flee to after original finale?",
         "a": "North America"
-      },
-      {
-        "q": "What is the Ice Truck Killer's real first name?",
-        "a": "Brian Moser"
-      },
-      {
-        "q": "What is Dexter's alias in Iron Lake?",
-        "a": "Jim Lindsay"
-      },
-      {
-        "q": "Who kills Matt in New Blood?",
-        "a": "Dexter"
-      },
-      {
-        "q": "What ghostly figure torments Dexter in New Blood?",
-        "a": "Debra"
-      },
-      {
-        "q": "Where did Dexter grow up?",
-        "a": "Miami"
       }
     ]
   },
@@ -3156,22 +2596,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What number androids attack Earth in the Cell saga?",
         "a": "17 and 18"
-      },
-      {
-        "q": "Who is Goku's Saiyan brother?",
-        "a": "Raditz"
-      },
-      {
-        "q": "What is Goku's grandpa's name?",
-        "a": "Gohan"
-      },
-      {
-        "q": "What is Goku's main rival throughout the series?",
-        "a": "Vegeta"
-      },
-      {
-        "q": "What planet does King Kai live on?",
-        "a": "King Kai's planet"
       }
     ],
     "400": [
@@ -3346,38 +2770,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the god of destruction of Universe 6?",
         "a": "Champa"
-      },
-      {
-        "q": "What is Piccolo's full Namekian name?",
-        "a": "Piccolo Jr."
-      },
-      {
-        "q": "Who trains Future Trunks in his timeline?",
-        "a": "Gohan"
-      },
-      {
-        "q": "What is Tien's signature multi-beam attack?",
-        "a": "Tri-Beam"
-      },
-      {
-        "q": "What technique does Gohan unlock against Cell?",
-        "a": "Super Saiyan 2"
-      },
-      {
-        "q": "Which android activates Cell's perfect form?",
-        "a": "Android 18"
-      },
-      {
-        "q": "What Super Saiyan form has blue hair?",
-        "a": "Super Saiyan Blue"
-      },
-      {
-        "q": "What is Super Saiyan Blue's full name?",
-        "a": "Super Saiyan God Super Saiyan"
-      },
-      {
-        "q": "What universe is Beerus god of?",
-        "a": "Universe 7"
       }
     ],
     "600": [
@@ -3560,22 +2952,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is Paragus?",
         "a": "Broly's father"
-      },
-      {
-        "q": "What was Frieza's planet of origin?",
-        "a": "Planet Frieza 79"
-      },
-      {
-        "q": "What universe does Jiren represent?",
-        "a": "Universe 11"
-      },
-      {
-        "q": "What ring allows traveling between universes in Super?",
-        "a": "Time Ring"
-      },
-      {
-        "q": "What was Dragon Ball Super's predecessor show?",
-        "a": "Dragon Ball GT"
       }
     ]
   },
@@ -3692,74 +3068,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What TV show inspired Family Guy's style?",
         "a": "The Simpsons"
-      },
-      {
-        "q": "Who is the father of the Griffin family?",
-        "a": "Peter"
-      },
-      {
-        "q": "Who voices Peter Griffin?",
-        "a": "Seth MacFarlane"
-      },
-      {
-        "q": "Who is Peter's wife?",
-        "a": "Lois"
-      },
-      {
-        "q": "What is the name of the talking dog?",
-        "a": "Brian"
-      },
-      {
-        "q": "What is the name of the evil baby?",
-        "a": "Stewie"
-      },
-      {
-        "q": "What is the name of Peter and Lois's teenage daughter?",
-        "a": "Meg"
-      },
-      {
-        "q": "What is the name of Peter and Lois's awkward son?",
-        "a": "Chris"
-      },
-      {
-        "q": "What year did Family Guy premiere?",
-        "a": "1999"
-      },
-      {
-        "q": "Which Peter's friend is a police officer in a wheelchair?",
-        "a": "Joe"
-      },
-      {
-        "q": "Who voices Stewie?",
-        "a": "Seth MacFarlane"
-      },
-      {
-        "q": "Who voices Brian?",
-        "a": "Seth MacFarlane"
-      },
-      {
-        "q": "Who voices Lois?",
-        "a": "Alex Borstein"
-      },
-      {
-        "q": "Who voices Meg?",
-        "a": "Mila Kunis"
-      },
-      {
-        "q": "What language does Stewie speak in a British accent?",
-        "a": "English"
-      },
-      {
-        "q": "What is the name of Cleveland's son?",
-        "a": "Cleveland Jr"
-      },
-      {
-        "q": "What is the name of Peter's half-brother Thaddeus?",
-        "a": "Thaddeus Griffin"
-      },
-      {
-        "q": "What is the Quahog news anchorman's female co-anchor?",
-        "a": "Diane Simmons"
       }
     ],
     "400": [
@@ -3902,58 +3210,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Quagmires cat who dies?",
         "a": "James"
-      },
-      {
-        "q": "What is Cleveland's wife's name?",
-        "a": "Loretta"
-      },
-      {
-        "q": "What is Cleveland's second wife's name?",
-        "a": "Donna"
-      },
-      {
-        "q": "What is the name of Cleveland's spinoff show?",
-        "a": "The Cleveland Show"
-      },
-      {
-        "q": "Who voices Cleveland?",
-        "a": "Mike Henry"
-      },
-      {
-        "q": "Who voices Quagmire?",
-        "a": "Seth MacFarlane"
-      },
-      {
-        "q": "What is Joe's wife's name?",
-        "a": "Bonnie"
-      },
-      {
-        "q": "Who voices Herbert?",
-        "a": "Mike Henry"
-      },
-      {
-        "q": "Who voices Consuela?",
-        "a": "Mike Henry"
-      },
-      {
-        "q": "What is Stewies teddy bear's name?",
-        "a": "Rupert"
-      },
-      {
-        "q": "What episode did Brian die in?",
-        "a": "Life of Brian"
-      },
-      {
-        "q": "What new dog joined the family after Brian's death?",
-        "a": "Vinny"
-      },
-      {
-        "q": "Who voices Vinny?",
-        "a": "Tony Sirico"
-      },
-      {
-        "q": "Who voices Tom Tucker?",
-        "a": "Seth MacFarlane"
       }
     ],
     "600": [
@@ -4116,30 +3372,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What happens to Jeff Fecalman?",
         "a": "Killed"
-      },
-      {
-        "q": "What is Peter's adoptive father's name?",
-        "a": "Francis Griffin"
-      },
-      {
-        "q": "What is Lois's brother's name?",
-        "a": "Patrick Pewterschmidt"
-      },
-      {
-        "q": "What is the name of Brian's novel that fails?",
-        "a": "Faster Than the Speed of Love"
-      },
-      {
-        "q": "What is the name of Brian's son?",
-        "a": "Dylan"
-      },
-      {
-        "q": "Who voices Brian's son Dylan?",
-        "a": "Seth MacFarlane"
-      },
-      {
-        "q": "Who is Brenda's abusive boyfriend?",
-        "a": "Jeff Fecalman"
       }
     ]
   },
@@ -4264,62 +3496,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is Ted's best friend since college?",
         "a": "Marshall"
-      },
-      {
-        "q": "Who plays Marshall Eriksen?",
-        "a": "Jason Segel"
-      },
-      {
-        "q": "Who plays Lily Aldrin?",
-        "a": "Alyson Hannigan"
-      },
-      {
-        "q": "Who plays Robin Scherbatsky?",
-        "a": "Cobie Smulders"
-      },
-      {
-        "q": "What is Barney's catchphrase about being awesome?",
-        "a": "Legendary"
-      },
-      {
-        "q": "What does Lily work as?",
-        "a": "Kindergarten teacher"
-      },
-      {
-        "q": "What was Robin's Canadian pop star alter ego?",
-        "a": "Robin Sparkles"
-      },
-      {
-        "q": "What network aired HIMYM?",
-        "a": "CBS"
-      },
-      {
-        "q": "What is the name of the Mother played by Cristin Milioti?",
-        "a": "Tracy McConnell"
-      },
-      {
-        "q": "What does Barney call his playbook?",
-        "a": "The Playbook"
-      },
-      {
-        "q": "What is Marshall and Lily's son's name?",
-        "a": "Marvin"
-      },
-      {
-        "q": "What is Ted and Tracy's daughter's name?",
-        "a": "Penny"
-      },
-      {
-        "q": "What state does Marshall come from?",
-        "a": "Minnesota"
-      },
-      {
-        "q": "Who plays Barney's father?",
-        "a": "John Lithgow"
-      },
-      {
-        "q": "What is Ted's profession first seen as?",
-        "a": "Architect"
       }
     ],
     "400": [
@@ -4494,30 +3670,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What iconic Canadian slang does Barney mock Robin for?",
         "a": "Eh"
-      },
-      {
-        "q": "What company does Barney work for?",
-        "a": "Goliath National Bank"
-      },
-      {
-        "q": "Who plays Stella Zinman?",
-        "a": "Sarah Chalke"
-      },
-      {
-        "q": "Who plays Marshall's dad?",
-        "a": "Bill Fagerbakke"
-      },
-      {
-        "q": "What is the name of the mythical ducky tie episode?",
-        "a": "The Ducky Tie"
-      },
-      {
-        "q": "What is the name of Barney's book on picking up women?",
-        "a": "The Bro Code"
-      },
-      {
-        "q": "What is the name of Quinn's strip club?",
-        "a": "The Lusty Leopard"
       }
     ],
     "600": [
@@ -4680,34 +3832,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the Italian love interest for Lily in season 6?",
         "a": "The Captain"
-      },
-      {
-        "q": "Who plays Barney's mother Loretta?",
-        "a": "Frances Conroy"
-      },
-      {
-        "q": "Who plays Jerome Whittaker, Barney's father?",
-        "a": "John Lithgow"
-      },
-      {
-        "q": "Who plays Karen, Ted's college girlfriend?",
-        "a": "Laura Prepon"
-      },
-      {
-        "q": "What instrument does Tracy play?",
-        "a": "Bass guitar"
-      },
-      {
-        "q": "Where did Tracy study in college?",
-        "a": "Columbia"
-      },
-      {
-        "q": "Where does Barney and Robins wedding happen?",
-        "a": "Farhampton Inn"
-      },
-      {
-        "q": "What is the apartment number Ted Marshall live in?",
-        "a": "Apartment Four"
       }
     ]
   },
@@ -4872,38 +3996,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What color are Invincible's eyes when enraged?",
         "a": "Yellow"
-      },
-      {
-        "q": "What is Mark's superhero name?",
-        "a": "Invincible"
-      },
-      {
-        "q": "What is Nolan's superhero name?",
-        "a": "Omni-Man"
-      },
-      {
-        "q": "What alien race does Nolan secretly belong to?",
-        "a": "Viltrumite"
-      },
-      {
-        "q": "What superhero agency monitors heroes?",
-        "a": "GDA"
-      },
-      {
-        "q": "What is the name of the giant hero in the Guardians?",
-        "a": "War Woman"
-      },
-      {
-        "q": "What is the name of the new hero team Mark joins?",
-        "a": "Teen Team"
-      },
-      {
-        "q": "Which member of the Teen Team is a cyborg wolf?",
-        "a": "Dupli-Kate"
-      },
-      {
-        "q": "What is the color of Atom Eve's costume?",
-        "a": "Pink"
       }
     ],
     "400": [
@@ -5110,14 +4202,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What hero loses his powers in season 1?",
         "a": "Black Samson"
-      },
-      {
-        "q": "What is the name of Mark's younger brother in season 2?",
-        "a": "Oliver"
-      },
-      {
-        "q": "What dimension do the Flaxans come from?",
-        "a": "Another dimension"
       }
     ],
     "600": [
@@ -5276,30 +4360,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Kid Omni-Man's other nickname?",
         "a": "Oliver"
-      },
-      {
-        "q": "What is the name of the planet Nolan settles on in season 2?",
-        "a": "Thraxa"
-      },
-      {
-        "q": "Who does Robot clone a body from?",
-        "a": "Rex Splode"
-      },
-      {
-        "q": "What is the name of the hero team Cecil forms to replace the Guardians?",
-        "a": "Guardians of the Globe"
-      },
-      {
-        "q": "What villain kidnaps Mark at his college?",
-        "a": "Angstrom Levy"
-      },
-      {
-        "q": "What is the name of the original comic issue Invincible is from?",
-        "a": "Invincible #1"
-      },
-      {
-        "q": "Who publishes Invincible comics?",
-        "a": "Image Comics"
       }
     ]
   },
@@ -5516,26 +4576,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What number is represented by M in Roman numerals?",
         "a": "1000"
-      },
-      {
-        "q": "How many degrees in a right angle?",
-        "a": "90"
-      },
-      {
-        "q": "What is 1000 minus 1?",
-        "a": "999"
-      },
-      {
-        "q": "What is 10 times 10?",
-        "a": "100"
-      },
-      {
-        "q": "What is 4 plus 4 plus 4?",
-        "a": "12"
-      },
-      {
-        "q": "What is 6 times 7?",
-        "a": "42"
       }
     ],
     "400": [
@@ -5734,22 +4774,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is 256 divided by 16?",
         "a": "16"
-      },
-      {
-        "q": "What is the area of a triangle with base 10 height 6?",
-        "a": "30"
-      },
-      {
-        "q": "What is 81 divided by 9?",
-        "a": "9"
-      },
-      {
-        "q": "What is 72 divided by 8?",
-        "a": "9"
-      },
-      {
-        "q": "What is 18 times 4?",
-        "a": "72"
       }
     ],
     "600": [
@@ -5948,10 +4972,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who discovered the law of averages?",
         "a": "Jacob Bernoulli"
-      },
-      {
-        "q": "What is the golden ratio approximately?",
-        "a": "1.618"
       }
     ]
   },
@@ -6068,62 +5088,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What holiday specials does the show typically do?",
         "a": "Christmas"
-      },
-      {
-        "q": "Who plays Mitchell Pritchett?",
-        "a": "Jesse Tyler Ferguson"
-      },
-      {
-        "q": "Who plays Cameron Tucker?",
-        "a": "Eric Stonestreet"
-      },
-      {
-        "q": "What year did Modern Family premiere?",
-        "a": "2009"
-      },
-      {
-        "q": "What year did Modern Family end?",
-        "a": "2020"
-      },
-      {
-        "q": "What is Phil's occupation?",
-        "a": "Real estate agent"
-      },
-      {
-        "q": "What was Cam's clown name?",
-        "a": "Fizbo"
-      },
-      {
-        "q": "What is the name of Jay and Gloria's son?",
-        "a": "Joe"
-      },
-      {
-        "q": "What is Gloria's son from her first marriage named?",
-        "a": "Manny"
-      },
-      {
-        "q": "What breed is Stella?",
-        "a": "French bulldog"
-      },
-      {
-        "q": "Who does Haley marry?",
-        "a": "Dylan"
-      },
-      {
-        "q": "What style is Modern Family filmed in?",
-        "a": "Mockumentary"
-      },
-      {
-        "q": "What is Manny's dad's name?",
-        "a": "Javier"
-      },
-      {
-        "q": "Who plays Javier Delgado?",
-        "a": "Benjamin Bratt"
-      },
-      {
-        "q": "What was Cam and Mitch's wedding episode called?",
-        "a": "The Wedding"
       }
     ],
     "400": [
@@ -6286,42 +5250,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What subject does Manny study at college?",
         "a": "Film"
-      },
-      {
-        "q": "Who plays Frank Dunphy?",
-        "a": "Fred Willard"
-      },
-      {
-        "q": "What is Jay's ex-wife's name?",
-        "a": "DeDe"
-      },
-      {
-        "q": "What is the name of Cam's mother?",
-        "a": "Barb"
-      },
-      {
-        "q": "What is the name of Cam's father?",
-        "a": "Merle"
-      },
-      {
-        "q": "What was Lily's birth country?",
-        "a": "Vietnam"
-      },
-      {
-        "q": "What is the name of Jay and Gloria's baby boy?",
-        "a": "Joe"
-      },
-      {
-        "q": "Which college does Alex attend?",
-        "a": "CalTech"
-      },
-      {
-        "q": "What college does Haley briefly attend?",
-        "a": "Community college"
-      },
-      {
-        "q": "What is Haley's twins names?",
-        "a": "Poppy and George"
       }
     ],
     "600": [
@@ -6492,18 +5420,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What college does Luke attend?",
         "a": "Oregon"
-      },
-      {
-        "q": "What is Gloria's hometown?",
-        "a": "Barranquilla"
-      },
-      {
-        "q": "Who plays Joe Pritchett later in series?",
-        "a": "Jeremy Maguire"
-      },
-      {
-        "q": "What team does Phil coach in little league?",
-        "a": "None iconic"
       }
     ]
   },
@@ -6672,38 +5588,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which YouTube star is known for 'Mr. Beast' charity stunts?",
         "a": "MrBeast"
-      },
-      {
-        "q": "Who is the singer behind the hit 'Bad Guy'?",
-        "a": "Billie Eilish"
-      },
-      {
-        "q": "Which social media platform is known for short dance videos?",
-        "a": "TikTok"
-      },
-      {
-        "q": "What is the name of Kim Kardashian's ex-husband the rapper?",
-        "a": "Kanye West"
-      },
-      {
-        "q": "What Netflix show features Eleven and a Demogorgon?",
-        "a": "Stranger Things"
-      },
-      {
-        "q": "Which comedian hosted 'The Daily Show' for years?",
-        "a": "Jon Stewart"
-      },
-      {
-        "q": "Who plays Wednesday Addams in the 2022 Netflix show?",
-        "a": "Jenna Ortega"
-      },
-      {
-        "q": "Which celebrity couple is 'Bennifer'?",
-        "a": "Ben Affleck and Jennifer Lopez"
-      },
-      {
-        "q": "Who is the singer of the hit 'Shake It Off'?",
-        "a": "Taylor Swift"
       }
     ],
     "400": [
@@ -7092,26 +5976,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who won 'The Bachelor' Season 26?",
         "a": "Clayton Echard chose none"
-      },
-      {
-        "q": "Who played Marge in the live-action 'Wednesday' Netflix series?",
-        "a": "Catherine Zeta-Jones"
-      },
-      {
-        "q": "Which CEO stepped down from Twitter before Elon Musk took over?",
-        "a": "Parag Agrawal"
-      },
-      {
-        "q": "Which NBA star retired after winning his fourth title with the Lakers in 2020?",
-        "a": "LeBron James"
-      },
-      {
-        "q": "Which novel did 'Normal People' adaptation originate from?",
-        "a": "Sally Rooney"
-      },
-      {
-        "q": "Who launched the beauty brand Fenty?",
-        "a": "Rihanna"
       }
     ]
   },
@@ -7244,42 +6108,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "In what season is Sona prison introduced?",
         "a": "Season three"
-      },
-      {
-        "q": "What is the name of Michael's brother?",
-        "a": "Lincoln Burrows"
-      },
-      {
-        "q": "What prison does Michael break into?",
-        "a": "Fox River"
-      },
-      {
-        "q": "Who is Michael's cellmate?",
-        "a": "Sucre"
-      },
-      {
-        "q": "Who is Michael's love interest?",
-        "a": "Sara Tancredi"
-      },
-      {
-        "q": "What is Michael's profession?",
-        "a": "Structural engineer"
-      },
-      {
-        "q": "Who is the main FBI agent pursuing them?",
-        "a": "Alexander Mahone"
-      },
-      {
-        "q": "What is the name of the secret organization behind Lincoln's framing?",
-        "a": "The Company"
-      },
-      {
-        "q": "What is the Vice President's name in season 1?",
-        "a": "Caroline Reynolds"
-      },
-      {
-        "q": "Where is Sona prison located?",
-        "a": "Panama"
       }
     ],
     "400": [
@@ -7462,18 +6290,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What season does Sara 'die' only to be revealed alive?",
         "a": "Season three"
-      },
-      {
-        "q": "What is the alias Gretchen uses?",
-        "a": "Susan B. Anthony"
-      },
-      {
-        "q": "What is the name of Sucre's girlfriend?",
-        "a": "Maricruz"
-      },
-      {
-        "q": "What is the name of the condition Michael and his mother share?",
-        "a": "Low latent inhibition"
       }
     ],
     "600": [
@@ -7652,22 +6468,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the final episode title of season 5?",
         "a": "Behind the Eyes"
-      },
-      {
-        "q": "What alias does Michael go by in season 5?",
-        "a": "Kaniel Outis"
-      },
-      {
-        "q": "What is Poseidon's real name?",
-        "a": "Jacob Ness"
-      },
-      {
-        "q": "How is Whip related to T-Bag?",
-        "a": "Son"
-      },
-      {
-        "q": "What year did the original Prison Break premiere?",
-        "a": "2005"
       }
     ]
   },
@@ -7852,38 +6652,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Jin-Woo's job change title?",
         "a": "Necromancer"
-      },
-      {
-        "q": "What is the highest hunter rank?",
-        "a": "S-rank"
-      },
-      {
-        "q": "What is the lowest hunter rank?",
-        "a": "E-rank"
-      },
-      {
-        "q": "What is the name of the orc shadow?",
-        "a": "Tusk"
-      },
-      {
-        "q": "Who is the top female S-rank in Korea?",
-        "a": "Cha Hae-In"
-      },
-      {
-        "q": "What is the name of Jin-Woo's sister?",
-        "a": "Jin-Ah"
-      },
-      {
-        "q": "What is the red knight's shadow name?",
-        "a": "Igris"
-      },
-      {
-        "q": "What is Jin-Woo's guild called?",
-        "a": "Ahjin Guild"
-      },
-      {
-        "q": "What weapon type is favored by assassin class?",
-        "a": "Daggers"
       }
     ],
     "400": [
@@ -8062,38 +6830,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What title does Baran hold?",
         "a": "Monarch of White Flames"
-      },
-      {
-        "q": "What guild does Yoo Jin-Ho help Jin-Woo start?",
-        "a": "Ahjin Guild"
-      },
-      {
-        "q": "What American hunter visits Korea to confront Jin-Woo?",
-        "a": "Thomas Andre"
-      },
-      {
-        "q": "What Japanese S-rank hunter is arrogant?",
-        "a": "Goto Ryuji"
-      },
-      {
-        "q": "What is the name of the Double Dungeon's god statue?",
-        "a": "God's Statue"
-      },
-      {
-        "q": "What commandments kill hunters in the Double Dungeon?",
-        "a": "The Ten Commandments"
-      },
-      {
-        "q": "What is the name of the healer in Jin-Woo's early raids?",
-        "a": "Lee Joohee"
-      },
-      {
-        "q": "What is the name of the pet-like shadow from an orc?",
-        "a": "Tusk"
-      },
-      {
-        "q": "What rank gate has Ant-class monsters?",
-        "a": "S-rank"
       }
     ],
     "600": [
@@ -8292,22 +7028,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What shadow is the first Jin-Woo summons?",
         "a": "Iron"
-      },
-      {
-        "q": "What monarch becomes Tusk?",
-        "a": "Kargalgan"
-      },
-      {
-        "q": "Who is the Monarch of Transfiguration?",
-        "a": "Legia"
-      },
-      {
-        "q": "Who is the Monarch of the Beginning?",
-        "a": "Legia"
-      },
-      {
-        "q": "How many Rulers remain alive before Jin-Woo's involvement?",
-        "a": "Seven"
       }
     ]
   },
@@ -8460,58 +7180,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What do you call an object that orbits a planet?",
         "a": "Moon"
-      },
-      {
-        "q": "What planet is known as the Red Planet?",
-        "a": "Mars"
-      },
-      {
-        "q": "What is the largest planet?",
-        "a": "Jupiter"
-      },
-      {
-        "q": "Who was the first man on the Moon?",
-        "a": "Neil Armstrong"
-      },
-      {
-        "q": "What planet has rings visible from Earth?",
-        "a": "Saturn"
-      },
-      {
-        "q": "What planet is closest to the Sun?",
-        "a": "Mercury"
-      },
-      {
-        "q": "What is the hot ball of gas at our solar system's center?",
-        "a": "The Sun"
-      },
-      {
-        "q": "What space agency sent humans to the Moon?",
-        "a": "NASA"
-      },
-      {
-        "q": "What is the name of our solar system's home galaxy?",
-        "a": "Milky Way"
-      },
-      {
-        "q": "What planet is famous for its Great Red Spot?",
-        "a": "Jupiter"
-      },
-      {
-        "q": "What planet is smallest?",
-        "a": "Mercury"
-      },
-      {
-        "q": "What is the brightest planet in our sky?",
-        "a": "Venus"
-      },
-      {
-        "q": "What planet is known for being windy and blue?",
-        "a": "Neptune"
-      },
-      {
-        "q": "What planet is named after the god of war?",
-        "a": "Mars"
       }
     ],
     "400": [
@@ -8678,46 +7346,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the radio-reflecting layer of atmosphere?",
         "a": "Ionosphere"
-      },
-      {
-        "q": "What is the name of Jupiter's largest moon?",
-        "a": "Ganymede"
-      },
-      {
-        "q": "What is Saturn's largest moon?",
-        "a": "Titan"
-      },
-      {
-        "q": "What planet was demoted from planet status in 2006?",
-        "a": "Pluto"
-      },
-      {
-        "q": "What is Mars' largest moon?",
-        "a": "Phobos"
-      },
-      {
-        "q": "What space telescope launched in 2021?",
-        "a": "James Webb"
-      },
-      {
-        "q": "What is the name of the U.S. first manned Moon mission?",
-        "a": "Apollo 11"
-      },
-      {
-        "q": "What planet tilts on its side?",
-        "a": "Uranus"
-      },
-      {
-        "q": "What is the second largest planet?",
-        "a": "Saturn"
-      },
-      {
-        "q": "What asteroid belt lies between Mars and Jupiter?",
-        "a": "Main belt"
-      },
-      {
-        "q": "Who developed the law of universal gravitation?",
-        "a": "Isaac Newton"
       }
     ],
     "600": [
@@ -8912,30 +7540,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who first landed a probe on a comet?",
         "a": "Rosetta"
-      },
-      {
-        "q": "What is the name of the Mars rover that landed in 2021?",
-        "a": "Perseverance"
-      },
-      {
-        "q": "What mission first flew past Pluto in 2015?",
-        "a": "New Horizons"
-      },
-      {
-        "q": "What is the largest volcano in the solar system?",
-        "a": "Olympus Mons"
-      },
-      {
-        "q": "What is a type Ia supernova used to measure?",
-        "a": "Distance"
-      },
-      {
-        "q": "What mission landed the first probe on Titan?",
-        "a": "Huygens"
-      },
-      {
-        "q": "What is the exoplanet discovered in 1995 named?",
-        "a": "51 Pegasi b"
       }
     ]
   },
@@ -9124,22 +7728,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Dart short for?",
         "a": "D'Artagnan"
-      },
-      {
-        "q": "What is the name of the secret lab in Hawkins?",
-        "a": "Hawkins Lab"
-      },
-      {
-        "q": "What ice cream shop does Steve work at in the mall?",
-        "a": "Scoops Ahoy"
-      },
-      {
-        "q": "What is Max's violent stepbrother's name?",
-        "a": "Billy"
-      },
-      {
-        "q": "What is Dustin's large salamander-like pet called?",
-        "a": "Dart"
       }
     ],
     "400": [
@@ -9326,22 +7914,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who plays Dr. Owens?",
         "a": "Paul Reiser"
-      },
-      {
-        "q": "What is the name of Eddie's D&D club?",
-        "a": "Hellfire Club"
-      },
-      {
-        "q": "Who is the Russian scientist nicknamed Smirnoff?",
-        "a": "Alexei"
-      },
-      {
-        "q": "Who is Robin's crush in season 4?",
-        "a": "Vickie"
-      },
-      {
-        "q": "Who closes the gate in season 2?",
-        "a": "Eleven"
       }
     ],
     "600": [
@@ -9520,26 +8092,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Eleven's favorite show she watches with Hopper?",
         "a": "Miami Vice"
-      },
-      {
-        "q": "What song saves Max from Vecna?",
-        "a": "Running Up That Hill"
-      },
-      {
-        "q": "Who is Lucas's sister?",
-        "a": "Erica"
-      },
-      {
-        "q": "What position does Lucas play on basketball?",
-        "a": "Basketball player"
-      },
-      {
-        "q": "What is Hopper's Russian handler's name?",
-        "a": "Enzo"
-      },
-      {
-        "q": "What name does Murray mockingly call Hopper?",
-        "a": "Jim"
       }
     ]
   },
@@ -9692,26 +8244,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What season does Meghan Markle leave the show?",
         "a": "Seven"
-      },
-      {
-        "q": "Which firm is the main setting of the show?",
-        "a": "Pearson Hardman"
-      },
-      {
-        "q": "What network aired the show originally?",
-        "a": "USA Network"
-      },
-      {
-        "q": "Who is Mike's drug-dealing best friend?",
-        "a": "Trevor"
-      },
-      {
-        "q": "What TV actress plays Rachel before leaving for royalty?",
-        "a": "Meghan Markle"
-      },
-      {
-        "q": "What is the nickname for Jessica's firm after Hardman leaves?",
-        "a": "Pearson"
       }
     ],
     "400": [
@@ -9918,10 +8450,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Mike's alias when he first meets Harvey?",
         "a": "Rick Sorkin"
-      },
-      {
-        "q": "What is the name of Harvey's mother?",
-        "a": "Lily"
       }
     ],
     "600": [
@@ -10120,14 +8648,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What was the series finale episode title?",
         "a": "One Last Con"
-      },
-      {
-        "q": "What is the name of the managing partner's daughter Louis had a thing for?",
-        "a": "Esther"
-      },
-      {
-        "q": "What's the name of Harvey's accountant friend?",
-        "a": "Marcus"
       }
     ]
   },
@@ -10296,42 +8816,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the movie featuring the Seven in-universe?",
         "a": "Dawn of the Seven"
-      },
-      {
-        "q": "What is the name of the corporation that manages superheroes?",
-        "a": "Vought"
-      },
-      {
-        "q": "Who plays the leader of the superhero team in the show?",
-        "a": "Antony Starr"
-      },
-      {
-        "q": "What is the name of Starlight's civilian identity?",
-        "a": "Annie January"
-      },
-      {
-        "q": "What is Billy Butcher's dog's name?",
-        "a": "Terror"
-      },
-      {
-        "q": "What is the superhero team called that Homelander leads?",
-        "a": "The Seven"
-      },
-      {
-        "q": "What substance turns people into Supes?",
-        "a": "Compound V"
-      },
-      {
-        "q": "What was the name of Butcher's missing wife?",
-        "a": "Becca"
-      },
-      {
-        "q": "What is the name of Homelander's son?",
-        "a": "Ryan"
-      },
-      {
-        "q": "Who plays Soldier Boy?",
-        "a": "Jensen Ackles"
       }
     ],
     "400": [
@@ -10514,34 +8998,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Butcher's estranged brother?",
         "a": "Lenny"
-      },
-      {
-        "q": "What was Stormfront's original superhero name?",
-        "a": "Liberty"
-      },
-      {
-        "q": "What is Kimiko's brother's name?",
-        "a": "Kenji"
-      },
-      {
-        "q": "What drug do the Boys take to temporarily gain powers?",
-        "a": "Temp V"
-      },
-      {
-        "q": "Who is revealed to be Homelander's biological son?",
-        "a": "Ryan"
-      },
-      {
-        "q": "Who kills Black Noir in the season 3 finale?",
-        "a": "Homelander"
-      },
-      {
-        "q": "What is the name of the rogue CIA supe group in season 3?",
-        "a": "Payback"
-      },
-      {
-        "q": "What is the real name of the Female?",
-        "a": "Kimiko"
       }
     ],
     "600": [
@@ -10696,26 +9152,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What Supe blackmails Ezekiel with video evidence?",
         "a": "Hughie"
-      },
-      {
-        "q": "What was the name of Soldier Boy's original team?",
-        "a": "Payback"
-      },
-      {
-        "q": "What Supe gave Becca Butcher her pregnancy?",
-        "a": "Homelander"
-      },
-      {
-        "q": "Which Payback member killed Mother's Milk's grandfather's crew?",
-        "a": "Soldier Boy"
-      },
-      {
-        "q": "What country does Kimiko originate from?",
-        "a": "Japan"
-      },
-      {
-        "q": "What is the name of Kimiko and Kenji's home country?",
-        "a": "Japan"
       }
     ]
   },
@@ -10856,70 +9292,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What color lightning surrounds Barry?",
         "a": "Yellow"
-      },
-      {
-        "q": "What city does The Flash protect?",
-        "a": "Central City"
-      },
-      {
-        "q": "Who plays Barry Allen in the CW series?",
-        "a": "Grant Gustin"
-      },
-      {
-        "q": "Who is Barry's adoptive father?",
-        "a": "Joe West"
-      },
-      {
-        "q": "What is Caitlin Snow's villain alter ego?",
-        "a": "Killer Frost"
-      },
-      {
-        "q": "What police department does Joe work for?",
-        "a": "CCPD"
-      },
-      {
-        "q": "Who is Barry's biological father imprisoned for murder?",
-        "a": "Henry Allen"
-      },
-      {
-        "q": "What gun does Captain Cold wield?",
-        "a": "Cold gun"
-      },
-      {
-        "q": "What alias does Cisco use as a superhero?",
-        "a": "Vibe"
-      },
-      {
-        "q": "Who is the DA turned villain Zoom in season two?",
-        "a": "Hunter Zolomon"
-      },
-      {
-        "q": "What alternate Earth does Jay Garrick hail from?",
-        "a": "Earth-2"
-      },
-      {
-        "q": "What sidekick name does Wally West adopt?",
-        "a": "Kid Flash"
-      },
-      {
-        "q": "What is Joe West's profession?",
-        "a": "Detective"
-      },
-      {
-        "q": "What is the hidden base called beneath S.T.A.R. Labs?",
-        "a": "The Pipeline"
-      },
-      {
-        "q": "What does Barry say before running?",
-        "a": "Run, Barry, run"
-      },
-      {
-        "q": "What singer-actress plays Iris?",
-        "a": "Candice Patton"
-      },
-      {
-        "q": "What is Barry's profession before CSI?",
-        "a": "Forensic scientist"
       }
     ],
     "400": [
@@ -11110,22 +9482,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Killer Frost's boyfriend in later seasons is?",
         "a": "Mark Blaine"
-      },
-      {
-        "q": "What is Nora's speedster codename?",
-        "a": "XS"
-      },
-      {
-        "q": "Who becomes known as The Thinker?",
-        "a": "Clifford DeVoe"
-      },
-      {
-        "q": "What dimension does the Mirror Master use?",
-        "a": "Mirror dimension"
-      },
-      {
-        "q": "Who is the first Cicada?",
-        "a": "Orlin Dwyer"
       }
     ],
     "600": [
@@ -11308,38 +9664,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What finale season number did The Flash end on?",
         "a": "Nine"
-      },
-      {
-        "q": "What Earth does Jesse Quick belong to?",
-        "a": "Earth-2"
-      },
-      {
-        "q": "Bloodwork's real name is what?",
-        "a": "Ramsey Rosso"
-      },
-      {
-        "q": "Who becomes the Mirror Monarch?",
-        "a": "Eva McCulloch"
-      },
-      {
-        "q": "Which villain creates the dark matter plague?",
-        "a": "Bloodwork"
-      },
-      {
-        "q": "Bashir Malik is associated with which force?",
-        "a": "Sage Force"
-      },
-      {
-        "q": "Which alternate Wells is from Steampunk Earth?",
-        "a": "H.R. Wells"
-      },
-      {
-        "q": "What is Ralph Dibny's nickname from Cisco?",
-        "a": "Elongated Man"
-      },
-      {
-        "q": "Who plays Nora Allen (Barry's daughter)?",
-        "a": "Jessica Parker Kennedy"
       }
     ]
   },
@@ -11484,62 +9808,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What dirham unit is smaller than a dirham?",
         "a": "Fils"
-      },
-      {
-        "q": "What is the tallest building in the world located in Dubai?",
-        "a": "Burj Khalifa"
-      },
-      {
-        "q": "What sea borders the UAE to the north?",
-        "a": "Persian Gulf"
-      },
-      {
-        "q": "What is the UAE flag's colors?",
-        "a": "Red, green, white, black"
-      },
-      {
-        "q": "What religion is predominant in the UAE?",
-        "a": "Islam"
-      },
-      {
-        "q": "What famous palm-shaped island is in Dubai?",
-        "a": "Palm Jumeirah"
-      },
-      {
-        "q": "What luxury hotel in Dubai looks like a sail?",
-        "a": "Burj Al Arab"
-      },
-      {
-        "q": "What is the largest shopping mall in the UAE?",
-        "a": "Dubai Mall"
-      },
-      {
-        "q": "What big indoor ski resort is in Dubai?",
-        "a": "Ski Dubai"
-      },
-      {
-        "q": "What white long robe do Emirati men wear?",
-        "a": "Kandura"
-      },
-      {
-        "q": "What is the black robe Emirati women wear?",
-        "a": "Abaya"
-      },
-      {
-        "q": "What emirate is known as the cultural capital?",
-        "a": "Sharjah"
-      },
-      {
-        "q": "What is the UAE's national sport?",
-        "a": "Falconry"
-      },
-      {
-        "q": "What city is the Sheikh Zayed Grand Mosque in?",
-        "a": "Abu Dhabi"
-      },
-      {
-        "q": "What is the UAE's tallest emirate mountain in?",
-        "a": "Ras Al Khaimah"
       }
     ],
     "400": [
@@ -11682,62 +9950,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What UAE emirate is closest to Iran?",
         "a": "Ras Al Khaimah"
-      },
-      {
-        "q": "Which emirate is known for its pottery?",
-        "a": "Ras Al Khaimah"
-      },
-      {
-        "q": "What is the second largest emirate by area?",
-        "a": "Dubai"
-      },
-      {
-        "q": "What is the smallest emirate by area?",
-        "a": "Ajman"
-      },
-      {
-        "q": "What UAE food is a rice dish with meat?",
-        "a": "Machboos"
-      },
-      {
-        "q": "Where is Yas Island located?",
-        "a": "Abu Dhabi"
-      },
-      {
-        "q": "What UAE theme park features Ferrari?",
-        "a": "Ferrari World"
-      },
-      {
-        "q": "What famous indoor aquarium is in Dubai Mall?",
-        "a": "Dubai Aquarium"
-      },
-      {
-        "q": "What UAE emirate has the tallest mountain Jebel Jais?",
-        "a": "Ras Al Khaimah"
-      },
-      {
-        "q": "What museum shaped like a dome is in Abu Dhabi?",
-        "a": "Louvre Abu Dhabi"
-      },
-      {
-        "q": "What year was Sheikh Zayed Mosque completed?",
-        "a": "2007"
-      },
-      {
-        "q": "What UAE structure is a picture frame in Dubai?",
-        "a": "Dubai Frame"
-      },
-      {
-        "q": "What UAE emirate has Khor Fakkan?",
-        "a": "Sharjah"
-      },
-      {
-        "q": "What fort is in Al Ain?",
-        "a": "Al Jahili Fort"
-      },
-      {
-        "q": "What is the flagship UAE airline?",
-        "a": "Emirates"
       }
     ],
     "600": [
@@ -11908,46 +10120,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What year was the UAE national anthem adopted?",
         "a": "1971"
-      },
-      {
-        "q": "Who was the first president of the UAE?",
-        "a": "Sheikh Zayed"
-      },
-      {
-        "q": "Which emirate joined the UAE last in 1972?",
-        "a": "Ras Al Khaimah"
-      },
-      {
-        "q": "What year did Hazza Al Mansouri go to space?",
-        "a": "2019"
-      },
-      {
-        "q": "What is the highest peak in the UAE?",
-        "a": "Jebel Jais"
-      },
-      {
-        "q": "What is the UAE's second president's name?",
-        "a": "Khalifa bin Zayed"
-      },
-      {
-        "q": "What year did Dubai Metro open?",
-        "a": "2009"
-      },
-      {
-        "q": "What was the first university established in UAE?",
-        "a": "UAE University"
-      },
-      {
-        "q": "What famous manuscript of poetry is Nabati?",
-        "a": "Nabati poetry"
-      },
-      {
-        "q": "What is the UAE's currency code?",
-        "a": "AED"
-      },
-      {
-        "q": "What emirate hosts the Hatta mountain region?",
-        "a": "Dubai"
       }
     ]
   },
@@ -12072,78 +10244,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the Frankish emperor's name?",
         "a": "Charles"
-      },
-      {
-        "q": "Who plays Ragnar?",
-        "a": "Travis Fimmel"
-      },
-      {
-        "q": "What is Ragnar's brother's name?",
-        "a": "Rollo"
-      },
-      {
-        "q": "What is Ragnar's first wife's name, the shield-maiden?",
-        "a": "Lagertha"
-      },
-      {
-        "q": "What is Ragnar's second wife's name?",
-        "a": "Aslaug"
-      },
-      {
-        "q": "What English monastery is raided in the first season?",
-        "a": "Lindisfarne"
-      },
-      {
-        "q": "Who is the chief god Ragnar claims descent from?",
-        "a": "Odin"
-      },
-      {
-        "q": "What network aired the show originally?",
-        "a": "History Channel"
-      },
-      {
-        "q": "What is Ragnar's famous son who becomes a great warrior?",
-        "a": "Bjorn"
-      },
-      {
-        "q": "What nickname does Bjorn earn?",
-        "a": "Ironside"
-      },
-      {
-        "q": "What is Ragnar's boneless son's name?",
-        "a": "Ivar"
-      },
-      {
-        "q": "What is Ivar's epithet?",
-        "a": "The Boneless"
-      },
-      {
-        "q": "Who is the boat builder who helps Ragnar?",
-        "a": "Floki"
-      },
-      {
-        "q": "What is Floki's wife's name?",
-        "a": "Helga"
-      },
-      {
-        "q": "What English king does Ragnar deal with?",
-        "a": "Ecbert"
-      },
-      {
-        "q": "What kingdom does Ecbert rule?",
-        "a": "Wessex"
-      },
-      {
-        "q": "What is the name of Ragnar's slave girl who becomes a princess?",
-        "a": "Aslaug"
-      },
-      {
-        "q": "What is Ivar's mother?",
-        "a": "Aslaug"
-      },
-      {
-        "q": "Who is Sigurd's nickname reference to the snake in eye?",
-        "a": "Snake in the eye"
       }
     ],
     "400": [
@@ -12326,26 +10426,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What bone condition does Ivar have?",
         "a": "Osteogenesis imperfecta"
-      },
-      {
-        "q": "What is the trading settlement Ragnar rules?",
-        "a": "Kattegat"
-      },
-      {
-        "q": "Who was the original earl of Kattegat?",
-        "a": "Haraldson"
-      },
-      {
-        "q": "What far land does Floki sail to and colonize?",
-        "a": "Iceland"
-      },
-      {
-        "q": "What Great Heathen Army is the sons' invasion of England known as?",
-        "a": "The Great Heathen Army"
-      },
-      {
-        "q": "What is Ivar's nickname in battle?",
-        "a": "The Boneless"
       }
     ],
     "600": [
@@ -12528,42 +10608,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the monk who comes to Norway from Lindisfarne?",
         "a": "Athelstan"
-      },
-      {
-        "q": "Who plays Bjorn?",
-        "a": "Alexander Ludwig"
-      },
-      {
-        "q": "How does Ragnar die exactly?",
-        "a": "Snake pit"
-      },
-      {
-        "q": "What son witnesses Ragnar's death nearby?",
-        "a": "Ivar"
-      },
-      {
-        "q": "What execution method is used on Aelle?",
-        "a": "Blood eagle"
-      },
-      {
-        "q": "Who kills Oleg?",
-        "a": "Ivar"
-      },
-      {
-        "q": "Who marries Snaefrid?",
-        "a": "Harald"
-      },
-      {
-        "q": "What is the king Hakon?",
-        "a": "A son of a king"
-      },
-      {
-        "q": "Who plays Ecbert?",
-        "a": "Linus Roache"
-      },
-      {
-        "q": "What is the first major raid depicted?",
-        "a": "Lindisfarne"
       }
     ]
   },
@@ -12855,76 +10899,160 @@ const QUALITY_BACKFILL = {
         "a": "A fan"
       },
       {
-        "q": "I tell the time with hands that never touch. I have a face but no eyes. What am I?",
-        "a": "A clock"
+        "q": "I open when the sky closes in and fold away when it clears. When the wind flips me inside out, I've lost the fight. What am I?",
+        "a": "An umbrella"
       },
       {
-        "q": "I melt as I burn and light up the dark. I shrink with every flicker. What am I?",
-        "a": "A candle"
+        "q": "I have two blades that are useless apart; I only cut when my legs cross. What am I?",
+        "a": "A pair of scissors"
       },
       {
-        "q": "I must be broken before use. Without me, omelets could not exist. What am I?",
-        "a": "An egg"
+        "q": "I have bristles and visit your mouth twice a day, yet I never taste a thing. What am I?",
+        "a": "A toothbrush"
       },
       {
-        "q": "I have a neck but no head. I am often filled with drink. What am I?",
-        "a": "A bottle"
+        "q": "I have many rungs but no bell, and I take you higher while standing perfectly still. What am I?",
+        "a": "A ladder"
       },
       {
-        "q": "I have teeth yet cannot chew. You use me on your hair. What am I?",
-        "a": "A comb"
+        "q": "Feed me air and I grow; poke me and I go out with a bang. What am I?",
+        "a": "A balloon"
       },
       {
-        "q": "The more of me you take, the more you leave behind. What am I?",
-        "a": "Footsteps"
+        "q": "I fly only when I'm tied down, dancing with the wind on the end of a string. What am I?",
+        "a": "A kite"
       },
       {
-        "q": "I speak without a mouth and hear without ears. I come alive with wind. What am I?",
-        "a": "An echo"
+        "q": "I bite paper and leave two tiny metal teeth behind to hold the pages together. What am I?",
+        "a": "A stapler"
       },
       {
-        "q": "I have four legs but never walk. I sit in the kitchen or dining room. What am I?",
-        "a": "A table"
+        "q": "I hum all day and keep a bulb that only shines when you open my door. What am I?",
+        "a": "A refrigerator"
       },
       {
-        "q": "I grow wetter the more I dry you. What am I?",
-        "a": "A towel"
+        "q": "I have four tines and a handle, and I spear your dinner on its way to your mouth. What am I?",
+        "a": "A fork"
       },
       {
-        "q": "I follow you everywhere but disappear when it's dark. What am I?",
-        "a": "A shadow"
+        "q": "I hug your waist and have a row of holes so I can loosen as you grow. What am I?",
+        "a": "A belt"
       },
       {
-        "q": "I have a head and a tail but no body. I often live in pockets. What am I?",
-        "a": "A coin"
+        "q": "I have a tongue that swings but cannot taste, and I only speak when struck. What am I?",
+        "a": "A bell"
       },
       {
-        "q": "I have one eye but cannot see. I help sew clothes. What am I?",
-        "a": "A needle"
+        "q": "I have one round foot and two arms the gardener holds, and I haul dirt and stones. What am I?",
+        "a": "A wheelbarrow"
       },
       {
-        "q": "I have a bed but never sleep. I have a mouth but never speak. What am I?",
-        "a": "A river"
+        "q": "I have a head and a claw but no body, and I drive nails home. What am I?",
+        "a": "A hammer"
       },
       {
-        "q": "I am full of holes yet I hold water. What am I?",
-        "a": "A sponge"
+        "q": "I have a skin but no body, and I only sing when beaten. What am I?",
+        "a": "A drum"
       },
       {
-        "q": "I have four fingers and a thumb, but I am not alive. What am I?",
-        "a": "A glove"
+        "q": "I have a long handle and stiff bristles, and I chase dust across the floor. What am I?",
+        "a": "A broom"
       },
       {
-        "q": "I go up but never come down. Everyone has it. What am I?",
-        "a": "Age"
+        "q": "I have a mouth that swallows letters and a little flag that goes up when I've been fed. What am I?",
+        "a": "A mailbox"
       },
       {
-        "q": "I have cities but no houses. I have mountains but no trees. What am I?",
-        "a": "A map"
+        "q": "I have a glass head and a glowing wire heart, and I wake at the flick of a switch. What am I?",
+        "a": "A light bulb"
       },
       {
-        "q": "I travel the world while staying in one corner. What am I?",
-        "a": "A stamp"
+        "q": "I stand all day in a field with my arms stretched wide, and the birds never trust me. What am I?",
+        "a": "A scarecrow"
+      },
+      {
+        "q": "When one end of me goes up, the other must come down; two children ride me at the park. What am I?",
+        "a": "A seesaw"
+      },
+      {
+        "q": "I wear spines instead of leaves and can wait months between drinks. What am I?",
+        "a": "A cactus"
+      },
+      {
+        "q": "I am a house you carry on your back and raise before dark. What am I?",
+        "a": "A tent"
+      },
+      {
+        "q": "I have twelve pages and hundreds of numbers, and you throw me away every January. What am I?",
+        "a": "A calendar"
+      },
+      {
+        "q": "I rise when you have a fever and fall when it freezes, though I have no legs. What am I?",
+        "a": "A thermometer"
+      },
+      {
+        "q": "I have a needle that never sews, and it always searches for the same direction. What am I?",
+        "a": "A compass"
+      },
+      {
+        "q": "I have two wheels and no engine, and I only stay upright while we're moving. What am I?",
+        "a": "A bicycle"
+      },
+      {
+        "q": "I have three eyes stacked one above another, and drivers obey whichever one is open. What am I?",
+        "a": "A traffic light"
+      },
+      {
+        "q": "I make the brightest day look dim and hide your eyes from the crowd. What am I?",
+        "a": "Sunglasses"
+      },
+      {
+        "q": "I fold in half, live in your pocket, and hold your cards and cash. What am I?",
+        "a": "A wallet"
+      },
+      {
+        "q": "I start as a hard little kernel and burst into a fluffy white puff when heated. What am I?",
+        "a": "Popcorn"
+      },
+      {
+        "q": "Children build me with a bucket and a spade, and the tide takes me back every evening. What am I?",
+        "a": "A sandcastle"
+      },
+      {
+        "q": "I have a head but no brain, and I get pounded into wood to do my job. What am I?",
+        "a": "A nail"
+      },
+      {
+        "q": "I have six strings and a hollow body, and I sing when strummed. What am I?",
+        "a": "A guitar"
+      },
+      {
+        "q": "I sleep for centuries, then wake and spit fire from my top. What am I?",
+        "a": "A volcano"
+      },
+      {
+        "q": "I am born in winter with a carrot for a nose, and I disappear when spring comes. What am I?",
+        "a": "A snowman"
+      },
+      {
+        "q": "I catch the wind so a boat can move, though I have no engine at all. What am I?",
+        "a": "A sail"
+      },
+      {
+        "q": "I hold your place while you're away, tucked between the pages. What am I?",
+        "a": "A bookmark"
+      },
+      {
+        "q": "I take away mistakes and grow smaller with every one I fix. What am I?",
+        "a": "An eraser"
+      },
+      {
+        "q": "I stand over water with my feet on both banks, and cars drive across my back. What am I?",
+        "a": "A bridge"
+      },
+      {
+        "q": "I stand alone on the rocks and blink all night so ships keep their distance. What am I?",
+        "a": "A lighthouse"
       }
     ],
     "400": [
@@ -13021,56 +11149,164 @@ const QUALITY_BACKFILL = {
         "a": "A doormat"
       },
       {
-        "q": "I can hide a city, though I am made of tiny drops. The more of me there is, the less you see. What am I?",
-        "a": "Fog"
+        "q": "I have threads but no cloth, and a head that turns with a twist. What am I?",
+        "a": "A screw"
       },
       {
-        "q": "You can catch me but you cannot throw me. I come with sneezing. What am I?",
-        "a": "A cold"
+        "q": "I take a hot bath, bleed my color into the water, and then get thrown away. What am I?",
+        "a": "A tea bag"
       },
       {
-        "q": "What 5-letter word becomes smaller in meaning when you append the letters E and R?",
-        "a": "Short"
+        "q": "I lose my head the first time I'm used, and I'm useless after that. What am I?",
+        "a": "A match"
       },
       {
-        "q": "I belong to you, but other people use it more than you do. What am I?",
-        "a": "Your name"
+        "q": "I have six faces but wear no expression, and twenty-one dots but cannot see. What am I?",
+        "a": "Dice"
       },
       {
-        "q": "I have many keys but open no locks. I make music. What am I?",
-        "a": "A piano"
+        "q": "I am a single bent wire that holds pages together without leaving a hole. What am I?",
+        "a": "A paper clip"
       },
       {
-        "q": "Two people can have me without ever touching me. We chatter back and forth. What am I?",
-        "a": "A conversation"
+        "q": "I tell the truth every morning, and people step on me anyway. What am I?",
+        "a": "A bathroom scale"
       },
       {
-        "q": "Feed me and I live. Give me water and I die. What am I?",
-        "a": "Fire"
+        "q": "I am a row of black stripes hiding a number, and I beep at the checkout. What am I?",
+        "a": "A barcode"
       },
       {
-        "q": "I come once in a minute, twice in a moment, but never in a thousand years. What am I?",
-        "a": "The letter M"
+        "q": "I run through eyelets, get tied twice a day, and trip you when I'm loose. What am I?",
+        "a": "A shoelace"
       },
       {
-        "q": "I am an invention that lets you look straight through a wall. What am I?",
-        "a": "A window"
+        "q": "No two of me are alike, and I'm left on everything you touch. What am I?",
+        "a": "A fingerprint"
       },
       {
-        "q": "People buy me to eat off, but never eat me. What am I?",
-        "a": "A plate"
+        "q": "I only tell time when the sky is clear, with one hand that never moves. What am I?",
+        "a": "A sundial"
       },
       {
-        "q": "What area of the house do ghosts avoid, according to the old joke?",
-        "a": "The living room"
+        "q": "I have a hole for a key but no key of my own, and I open for only one. What am I?",
+        "a": "A lock"
       },
       {
-        "q": "I have a tongue that cannot taste and a sole that has no soul. What am I?",
-        "a": "A shoe"
+        "q": "I have four strings and a bow but shoot no arrows, and I'm tucked under the chin. What am I?",
+        "a": "A violin"
       },
       {
-        "q": "What gets bigger the more you take away from it?",
-        "a": "A hole"
+        "q": "I am a throat on the roof that swallows only smoke. What am I?",
+        "a": "A chimney"
+      },
+      {
+        "q": "Bury me and I rise; I am the smallest thing a forest needs. What am I?",
+        "a": "A seed"
+      },
+      {
+        "q": "I am beaten with a stick at parties, and everyone cheers when I burst. What am I?",
+        "a": "A piñata"
+      },
+      {
+        "q": "Tie me and I hold; pull me the wrong way and I only tighten. What am I?",
+        "a": "A knot"
+      },
+      {
+        "q": "I carry your face across borders and collect stamps from strangers. What am I?",
+        "a": "A passport"
+      },
+      {
+        "q": "I show only a tenth of myself, and the rest of me sank a famous ship. What am I?",
+        "a": "An iceberg"
+      },
+      {
+        "q": "I take your money without a word and drop your snack from behind glass. What am I?",
+        "a": "A vending machine"
+      },
+      {
+        "q": "I am a creature turned to stone, sleeping in rock for millions of years. What am I?",
+        "a": "A fossil"
+      },
+      {
+        "q": "I grow inside a living shell, born from a grain of sand, and end up on a necklace. What am I?",
+        "a": "A pearl"
+      },
+      {
+        "q": "I twist and pull, and without me the wine stays trapped. What am I?",
+        "a": "A corkscrew"
+      },
+      {
+        "q": "Tip me over and all my brothers fall in a line; I wear spots on my face. What am I?",
+        "a": "A domino"
+      },
+      {
+        "q": "My arms turn all day without lifting a thing, and I grind grain when the breeze blows. What am I?",
+        "a": "A windmill"
+      },
+      {
+        "q": "I open only when you're falling, and the air is what fills me. What am I?",
+        "a": "A parachute"
+      },
+      {
+        "q": "I am art that bleeds while it's made, and I stay with you for life. What am I?",
+        "a": "A tattoo"
+      },
+      {
+        "q": "I tick like a clock but tell no time, and I keep musicians in step. What am I?",
+        "a": "A metronome"
+      },
+      {
+        "q": "I drop and climb back up a string, and I can sleep at the bottom of it. What am I?",
+        "a": "A yo-yo"
+      },
+      {
+        "q": "I come in twice a day and go out twice a day, pulled by something I never touch. What am I?",
+        "a": "The tide"
+      },
+      {
+        "q": "I am a river of ice that moves too slowly to see. What am I?",
+        "a": "A glacier"
+      },
+      {
+        "q": "I flash before my loud brother arrives, and I can split a tree in a blink. What am I?",
+        "a": "Lightning"
+      },
+      {
+        "q": "I am the mark a blow leaves behind; I bloom purple, then fade to yellow. What am I?",
+        "a": "A bruise"
+      },
+      {
+        "q": "I am contagious but no disease; see me and you'll probably give me back. What am I?",
+        "a": "A yawn"
+      },
+      {
+        "q": "I force your eyes shut for a split second, and strangers bless you for it. What am I?",
+        "a": "A sneeze"
+      },
+      {
+        "q": "I pull without hands and push my own kind away. What am I?",
+        "a": "A magnet"
+      },
+      {
+        "q": "I am the slow orange fire that eats iron without a flame. What am I?",
+        "a": "Rust"
+      },
+      {
+        "q": "I am a yellow weed that turns into a white wish you blow away. What am I?",
+        "a": "A dandelion"
+      },
+      {
+        "q": "I am a sliver of wood small enough to hide under skin and make a grown man wince. What am I?",
+        "a": "A splinter"
+      },
+      {
+        "q": "I hang around a doctor's neck and let a stranger hear your heart. What am I?",
+        "a": "A stethoscope"
+      },
+      {
+        "q": "I show your bones without cutting you open. What am I?",
+        "a": "An X-ray"
       }
     ],
     "600": [
@@ -13147,24 +11383,160 @@ const QUALITY_BACKFILL = {
         "a": "Sleep"
       },
       {
-        "q": "What word in the dictionary is spelled the wrong way?",
-        "a": "Incorrectly"
+        "q": "I am easily made and easily broken; keeping me is the only hard part. What am I?",
+        "a": "A promise"
       },
       {
-        "q": "A man rode into town on the sixth day of the week, stayed three days, and departed on the same day of the week. How?",
-        "a": "His horse was named Friday"
+        "q": "I travel fast, grow with every telling, and rarely arrive the way I left. What am I?",
+        "a": "A rumor"
       },
       {
-        "q": "I am not alive, but I grow. I don't have lungs, but I need air. I don't have a mouth, but water kills me. What am I?",
-        "a": "Fire"
+        "q": "I am hard to make and harder to break, and I act before you decide. What am I?",
+        "a": "A habit"
       },
       {
-        "q": "I fly without wings. I cry without eyes. Wherever I go, darkness flies. What am I?",
-        "a": "A cloud"
+        "q": "The longer you keep me, the more of me there is, and I follow you until you pay. What am I?",
+        "a": "Debt"
       },
       {
-        "q": "I can be long, I can be short. I can be grown, and I can be bought. I can be painted, or left bare. I can be round or square. What am I?",
-        "a": "Fingernails"
+        "q": "I grow when you give me nothing and vanish when you give me something. What am I?",
+        "a": "Hunger"
+      },
+      {
+        "q": "I'm easy to tell and hard to keep track of, and I need more of my kind to survive. What am I?",
+        "a": "A lie"
+      },
+      {
+        "q": "Alone I'm worth nothing, but stand me behind another number and I make it ten times bigger. What am I?",
+        "a": "Zero"
+      },
+      {
+        "q": "I am written by the winners and repeated by those who won't learn me. What am I?",
+        "a": "History"
+      },
+      {
+        "q": "I'm offered whenever I'm needed, and the more I'm used the less I'm believed. What am I?",
+        "a": "An excuse"
+      },
+      {
+        "q": "I am held but have no handle, and carrying me hurts only the one who carries. What am I?",
+        "a": "A grudge"
+      },
+      {
+        "q": "I am a virtue everyone needs but nobody wants to wait for. What am I?",
+        "a": "Patience"
+      },
+      {
+        "q": "I take years to build, seconds to break, and forever to repair. What am I?",
+        "a": "Trust"
+      },
+      {
+        "q": "The more attention you give me, the worse I get; ignore me and I fade. What am I?",
+        "a": "An itch"
+      },
+      {
+        "q": "I rise, curl, and crash on the shore, but I never bring the water with me; I'm just energy passing through. What am I?",
+        "a": "A wave"
+      },
+      {
+        "q": "I make the past look better than it ever was, and I ache sweetly. What am I?",
+        "a": "Nostalgia"
+      },
+      {
+        "q": "I am the eerie feeling that you've lived this exact moment before, though you haven't. What am I?",
+        "a": "Déjà vu"
+      },
+      {
+        "q": "I make your money worth less without taking a single note from your wallet. What am I?",
+        "a": "Inflation"
+      },
+      {
+        "q": "I am cast but never caught, and counted but never spent. What am I?",
+        "a": "A vote"
+      },
+      {
+        "q": "I am a joke that earns a groan instead of a laugh, playing on two meanings at once. What am I?",
+        "a": "A pun"
+      },
+      {
+        "q": "I say the opposite of what I mean, and you know it only from my tone. What am I?",
+        "a": "Sarcasm"
+      },
+      {
+        "q": "Shakespeare called me the green-eyed monster, and I grow when you compare yourself to others. What am I?",
+        "a": "Jealousy"
+      },
+      {
+        "q": "I happen thousands of times a day without your noticing, and I keep your eyes from drying out. What am I?",
+        "a": "A blink"
+      },
+      {
+        "q": "I promise to save you time, and I often cost you the most. What am I?",
+        "a": "A shortcut"
+      },
+      {
+        "q": "Everyone makes me, few admit me, and the wise learn from me. What am I?",
+        "a": "A mistake"
+      },
+      {
+        "q": "I'm blamed when things go wrong and thanked when they go right, but I never planned any of it. What am I?",
+        "a": "Luck"
+      },
+      {
+        "q": "People work fastest just before I arrive, and I am often missed. What am I?",
+        "a": "A deadline"
+      },
+      {
+        "q": "I am a line you can see but never reach; walk toward me and I walk away. What am I?",
+        "a": "The horizon"
+      },
+      {
+        "q": "Read me backwards and I'm still the same; 'racecar' is one of me. What am I?",
+        "a": "A palindrome"
+      },
+      {
+        "q": "I am ruined the moment you hear about me. What am I?",
+        "a": "A surprise"
+      },
+      {
+        "q": "I come at the very end, and without me the whole setup was for nothing. What am I?",
+        "a": "A punchline"
+      },
+      {
+        "q": "Everyone has one of me; the wise keep me to themselves, and the loud can't. What am I?",
+        "a": "An opinion"
+      },
+      {
+        "q": "I'm made on birthdays and shooting stars, and telling me is said to spoil me. What am I?",
+        "a": "A wish"
+      },
+      {
+        "q": "I arrive before you and stay after you leave, and one bad day can ruin me. What am I?",
+        "a": "A reputation"
+      },
+      {
+        "q": "I am made entirely of people trying to get somewhere, and I go nowhere. What am I?",
+        "a": "A traffic jam"
+      },
+      {
+        "q": "I tell strangers where you're from before you say it, and you can't hear your own. What am I?",
+        "a": "An accent"
+      },
+      {
+        "q": "I hang from a cave's ceiling and grow one drip at a time. What am I?",
+        "a": "A stalactite"
+      },
+      {
+        "q": "I am water shimmering in the desert that was never really there. What am I?",
+        "a": "A mirage"
+      },
+      {
+        "q": "I am a hot spring that loses its temper on schedule, throwing water at the sky. What am I?",
+        "a": "A geyser"
+      },
+      {
+        "q": "I raise the hair on your arms when you're cold or scared, and I'm named after a plucked bird. What am I?",
+        "a": "Goosebumps"
       }
     ]
   },
@@ -13343,16 +11715,72 @@ const QUALITY_BACKFILL = {
         "a": "13"
       },
       {
-        "q": "How many players on a basketball team on court?",
-        "a": "5"
+        "q": "In which country is the city of Marrakech?",
+        "a": "Morocco"
       },
       {
-        "q": "How many legs does an octopus have?",
-        "a": "8"
+        "q": "What is the currency of Switzerland?",
+        "a": "Swiss franc"
       },
       {
-        "q": "How many sides does a stop sign have?",
-        "a": "8"
+        "q": "Which bird is the national symbol of the United States?",
+        "a": "Bald eagle"
+      },
+      {
+        "q": "What is the name of the fairy who travels with Peter Pan?",
+        "a": "Tinker Bell"
+      },
+      {
+        "q": "How many strings does a standard violin have?",
+        "a": "4"
+      },
+      {
+        "q": "Which animal appears on Australia's coat of arms alongside the emu?",
+        "a": "Kangaroo"
+      },
+      {
+        "q": "Which country gifted the Statue of Liberty to the United States?",
+        "a": "France"
+      },
+      {
+        "q": "What do you call a word that reads the same forwards and backwards?",
+        "a": "Palindrome"
+      },
+      {
+        "q": "How many players does a volleyball team have on court at once?",
+        "a": "6"
+      },
+      {
+        "q": "Which gas makes up most of Earth's atmosphere?",
+        "a": "Nitrogen"
+      },
+      {
+        "q": "Which sea creature has three hearts?",
+        "a": "Octopus"
+      },
+      {
+        "q": "Who is the Greek god of the sea?",
+        "a": "Poseidon"
+      },
+      {
+        "q": "In what year did the Titanic sink?",
+        "a": "1912"
+      },
+      {
+        "q": "What do bees collect from flowers to make honey?",
+        "a": "Nectar"
+      },
+      {
+        "q": "What is the name of the toy cowboy in Toy Story?",
+        "a": "Woody"
+      },
+      {
+        "q": "Which continent has the most countries?",
+        "a": "Africa"
+      },
+      {
+        "q": "What type of animal is a Komodo dragon?",
+        "a": "Lizard"
       }
     ],
     "400": [
@@ -13409,10 +11837,6 @@ const QUALITY_BACKFILL = {
         "a": "Sn"
       },
       {
-        "q": "What currency is used in Switzerland?",
-        "a": "Swiss franc"
-      },
-      {
         "q": "Which tree species holds the oldest individual non-clonal tree?",
         "a": "Bristlecone pine"
       },
@@ -13431,10 +11855,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does the acronym NASA stand for?",
         "a": "National Aeronautics and Space Administration"
-      },
-      {
-        "q": "How many players on an ice hockey team on the ice?",
-        "a": "6"
       },
       {
         "q": "What is a group of owls called?",
@@ -13549,10 +11969,6 @@ const QUALITY_BACKFILL = {
         "a": "Cu"
       },
       {
-        "q": "What is the most abundant gas in Earth's atmosphere?",
-        "a": "Nitrogen"
-      },
-      {
         "q": "Who was the first woman in space?",
         "a": "Valentina Tereshkova"
       },
@@ -13563,18 +11979,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What animal has the longest lifespan?",
         "a": "Greenland shark"
-      },
-      {
-        "q": "What is the longest bone in the body?",
-        "a": "Femur"
-      },
-      {
-        "q": "What is the longest-living tree species?",
-        "a": "Bristlecone pine"
-      },
-      {
-        "q": "How many teeth does an adult human have normally?",
-        "a": "32"
       }
     ],
     "600": [
@@ -13629,10 +12033,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is a 20-sided polygon called?",
         "a": "Icosagon"
-      },
-      {
-        "q": "What is a word spelled the same forwards and backwards called?",
-        "a": "Palindrome"
       },
       {
         "q": "What is the largest species of penguin?",
@@ -13773,14 +12173,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the chemical symbol for radium?",
         "a": "Ra"
-      },
-      {
-        "q": "What is the smallest country by population?",
-        "a": "Vatican City"
-      },
-      {
-        "q": "What is the smallest ocean?",
-        "a": "Arctic Ocean"
       }
     ]
   },
@@ -13957,18 +12349,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which country has Mecca as a holy city?",
         "a": "Saudi Arabia"
-      },
-      {
-        "q": "Which continent has the Amazon rainforest?",
-        "a": "South America"
-      },
-      {
-        "q": "Which continent is China in?",
-        "a": "Asia"
-      },
-      {
-        "q": "What continent is Egypt located on?",
-        "a": "Africa"
       }
     ],
     "400": [
@@ -14167,22 +12547,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What river forms part of the border between Germany and Poland?",
         "a": "Oder"
-      },
-      {
-        "q": "What mountain range runs through Eastern Europe dividing Russia?",
-        "a": "Ural Mountains"
-      },
-      {
-        "q": "What is the capital of Ethiopia?",
-        "a": "Addis Ababa"
-      },
-      {
-        "q": "What sea lies between Japan and Korea?",
-        "a": "Sea of Japan"
-      },
-      {
-        "q": "What is the only continent with land in all four hemispheres?",
-        "a": "Africa"
       }
     ],
     "600": [
@@ -14413,22 +12777,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which strait connects the Mediterranean to the Black Sea?",
         "a": "Dardanelles"
-      },
-      {
-        "q": "What is the capital of Burkina Faso?",
-        "a": "Ouagadougou"
-      },
-      {
-        "q": "What is the capital of Suriname?",
-        "a": "Paramaribo"
-      },
-      {
-        "q": "Which river forms the border between Mexico and the US?",
-        "a": "Rio Grande"
-      },
-      {
-        "q": "Which Canadian province is the largest by area?",
-        "a": "Quebec"
       }
     ]
   },
@@ -14605,14 +12953,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What element has the symbol N?",
         "a": "Nitrogen"
-      },
-      {
-        "q": "What body part pumps blood through the body?",
-        "a": "Heart"
-      },
-      {
-        "q": "What planet is known as Earth's twin due to its size?",
-        "a": "Venus"
       }
     ],
     "400": [
@@ -14787,26 +13127,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What element is essential for making steel strong?",
         "a": "Carbon"
-      },
-      {
-        "q": "What is the largest cell in the human body?",
-        "a": "Egg cell"
-      },
-      {
-        "q": "What is the first element on the periodic table?",
-        "a": "Hydrogen"
-      },
-      {
-        "q": "What vitamin is produced when skin is exposed to sunlight?",
-        "a": "Vitamin D"
-      },
-      {
-        "q": "Which planet has the largest volcano in the solar system?",
-        "a": "Mars"
-      },
-      {
-        "q": "What element has the atomic number 1?",
-        "a": "Hydrogen"
       }
     ],
     "600": [
@@ -14969,26 +13289,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the largest asteroid in our solar system?",
         "a": "Ceres"
-      },
-      {
-        "q": "What is the fifth state of matter (besides plasma)?",
-        "a": "Bose-Einstein condensate"
-      },
-      {
-        "q": "What is the densest planet in our solar system?",
-        "a": "Earth"
-      },
-      {
-        "q": "What is the second most abundant gas in Earth's atmosphere?",
-        "a": "Oxygen"
-      },
-      {
-        "q": "Which element has atomic number 26?",
-        "a": "Iron"
-      },
-      {
-        "q": "Which vitamin is known as ascorbic acid?",
-        "a": "Vitamin C"
       }
     ]
   },
@@ -15153,42 +13453,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What year did Japan attack Pearl Harbor?",
         "a": "1941"
-      },
-      {
-        "q": "Who was the first man to walk on the Moon?",
-        "a": "Neil Armstrong"
-      },
-      {
-        "q": "In what year did World War II begin?",
-        "a": "1939"
-      },
-      {
-        "q": "Who was the first President of the United States?",
-        "a": "George Washington"
-      },
-      {
-        "q": "Which US president freed the slaves?",
-        "a": "Abraham Lincoln"
-      },
-      {
-        "q": "Who painted the ceiling of the Sistine Chapel?",
-        "a": "Michelangelo"
-      },
-      {
-        "q": "Who was the last Czar of Russia?",
-        "a": "Nicholas II"
-      },
-      {
-        "q": "Who was the first female prime minister of the United Kingdom?",
-        "a": "Margaret Thatcher"
-      },
-      {
-        "q": "Who was the leader of the Soviet Union during WWII?",
-        "a": "Joseph Stalin"
-      },
-      {
-        "q": "Who was the first emperor of the Roman Empire?",
-        "a": "Augustus"
       }
     ],
     "400": [
@@ -15375,34 +13639,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Asian power invaded Manchuria in 1931?",
         "a": "Japan"
-      },
-      {
-        "q": "What year was the Magna Carta signed?",
-        "a": "1215"
-      },
-      {
-        "q": "What year did the French Revolution begin?",
-        "a": "1789"
-      },
-      {
-        "q": "What year was the first moon landing?",
-        "a": "1969"
-      },
-      {
-        "q": "What was the name of the famous Egyptian queen who died in 30 BC?",
-        "a": "Cleopatra"
-      },
-      {
-        "q": "Which English king created the Church of England?",
-        "a": "Henry VIII"
-      },
-      {
-        "q": "What year did the Berlin Wall come down?",
-        "a": "1989"
-      },
-      {
-        "q": "Who was the first emperor of a unified China?",
-        "a": "Qin Shi Huang"
       }
     ],
     "600": [
@@ -15605,22 +13841,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What was the 'Great Leap Forward'?",
         "a": "Mao Zedong's 1958-1962 economic and social campaign in China"
-      },
-      {
-        "q": "Which Chinese emperor commissioned the Terracotta Army?",
-        "a": "Qin Shi Huang"
-      },
-      {
-        "q": "Which French king built the Palace of Versailles?",
-        "a": "Louis XIV"
-      },
-      {
-        "q": "Who was the Tudor queen known as 'Bloody Mary'?",
-        "a": "Mary I"
-      },
-      {
-        "q": "Which revolution began in France in July 1830?",
-        "a": "July Revolution"
       }
     ]
   },
@@ -15777,50 +13997,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What Olympic event tests both running, cycling, and swimming?",
         "a": "Triathlon"
-      },
-      {
-        "q": "In soccer, how many players are on the field for each team?",
-        "a": "11"
-      },
-      {
-        "q": "What sport is played at the Super Bowl?",
-        "a": "American football"
-      },
-      {
-        "q": "What sport is played on ice with a puck?",
-        "a": "Ice hockey"
-      },
-      {
-        "q": "How many bases are there on a baseball diamond?",
-        "a": "4"
-      },
-      {
-        "q": "What sport does Serena Williams play?",
-        "a": "Tennis"
-      },
-      {
-        "q": "What's the top award in soccer for the best player of the year?",
-        "a": "Ballon d'Or"
-      },
-      {
-        "q": "What sport uses an oval-shaped ball?",
-        "a": "Rugby"
-      },
-      {
-        "q": "What sport is played at Roland Garros?",
-        "a": "Tennis"
-      },
-      {
-        "q": "Which sport uses the term 'bogey'?",
-        "a": "Golf"
-      },
-      {
-        "q": "Which sport has the Stanley Cup?",
-        "a": "Ice hockey"
-      },
-      {
-        "q": "How many Grand Slam events does tennis have?",
-        "a": "4"
       }
     ],
     "400": [
@@ -15991,42 +14167,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the all-time leading scorer in Formula 1 history?",
         "a": "Lewis Hamilton"
-      },
-      {
-        "q": "Which country invented rugby?",
-        "a": "England"
-      },
-      {
-        "q": "What year were the first modern Olympic Games held?",
-        "a": "1896"
-      },
-      {
-        "q": "What is the distance of an Olympic marathon?",
-        "a": "42.195 km"
-      },
-      {
-        "q": "What was the first sport played on the moon?",
-        "a": "Golf"
-      },
-      {
-        "q": "In cricket, how many balls are in an over?",
-        "a": "6"
-      },
-      {
-        "q": "Which sport uses a shuttlecock?",
-        "a": "Badminton"
-      },
-      {
-        "q": "Which cricketer holds the record for most Test centuries?",
-        "a": "Sachin Tendulkar"
-      },
-      {
-        "q": "In which sport is a shuttlecock hit over a net?",
-        "a": "Badminton"
-      },
-      {
-        "q": "What sport uses the term 'eagle'?",
-        "a": "Golf"
       }
     ],
     "600": [
@@ -16205,18 +14345,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which NFL team is based in Green Bay?",
         "a": "Green Bay Packers"
-      },
-      {
-        "q": "Which nation invented table tennis?",
-        "a": "England"
-      },
-      {
-        "q": "What's the highest possible score in 10-pin bowling?",
-        "a": "300"
-      },
-      {
-        "q": "Which country won the 2019 Cricket World Cup?",
-        "a": "England"
       }
     ]
   },
@@ -16389,50 +14517,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the lead singer of Led Zeppelin?",
         "a": "Robert Plant"
-      },
-      {
-        "q": "Who is known as the 'King of Pop'?",
-        "a": "Michael Jackson"
-      },
-      {
-        "q": "Who sang 'Like a Prayer'?",
-        "a": "Madonna"
-      },
-      {
-        "q": "Which band sings 'Bohemian Rhapsody'?",
-        "a": "Queen"
-      },
-      {
-        "q": "Which rapper is known for 'Lose Yourself'?",
-        "a": "Eminem"
-      },
-      {
-        "q": "Who sang 'Rolling in the Deep'?",
-        "a": "Adele"
-      },
-      {
-        "q": "Who is the 'Queen of Soul'?",
-        "a": "Aretha Franklin"
-      },
-      {
-        "q": "Which band released 'Stairway to Heaven'?",
-        "a": "Led Zeppelin"
-      },
-      {
-        "q": "Which band sings 'Hotel California'?",
-        "a": "Eagles"
-      },
-      {
-        "q": "Who sang 'Shape of You'?",
-        "a": "Ed Sheeran"
-      },
-      {
-        "q": "Who is 'The Boss' nickname in rock?",
-        "a": "Bruce Springsteen"
-      },
-      {
-        "q": "Which band released 'Smells Like Teen Spirit'?",
-        "a": "Nirvana"
       }
     ],
     "400": [
@@ -16607,34 +14691,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who sings 'Dreams' by Fleetwood Mac?",
         "a": "Stevie Nicks"
-      },
-      {
-        "q": "Who is the producer behind 'Uptown Funk'?",
-        "a": "Mark Ronson"
-      },
-      {
-        "q": "Who composed 'The Four Seasons'?",
-        "a": "Antonio Vivaldi"
-      },
-      {
-        "q": "Who is the composer of 'The Rite of Spring'?",
-        "a": "Igor Stravinsky"
-      },
-      {
-        "q": "Which rapper released 'Illmatic'?",
-        "a": "Nas"
-      },
-      {
-        "q": "Which rapper released 'My Beautiful Dark Twisted Fantasy'?",
-        "a": "Kanye West"
-      },
-      {
-        "q": "Who is the artist behind 'Wonderwall'?",
-        "a": "Oasis"
-      },
-      {
-        "q": "Which artist released 'Lover' in 2019?",
-        "a": "Taylor Swift"
       }
     ],
     "600": [
@@ -16833,42 +14889,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which album did Fiona Apple release in 2020?",
         "a": "Fetch the Bolt Cutters"
-      },
-      {
-        "q": "Who composed 'The Planets'?",
-        "a": "Gustav Holst"
-      },
-      {
-        "q": "Who composed 'The Nutcracker'?",
-        "a": "Pyotr Tchaikovsky"
-      },
-      {
-        "q": "Which band's Dark Side album stayed on Billboard charts for 900+ weeks?",
-        "a": "Pink Floyd"
-      },
-      {
-        "q": "Who wrote the jazz standard 'Take Five'?",
-        "a": "Paul Desmond"
-      },
-      {
-        "q": "Who is the composer of 'The Rite of Spring' that caused a riot in 1913?",
-        "a": "Igor Stravinsky"
-      },
-      {
-        "q": "Who is the founder of Motown's Miracles group lead?",
-        "a": "Smokey Robinson"
-      },
-      {
-        "q": "Which hip-hop album is 'Midnight Marauders'?",
-        "a": "A Tribe Called Quest"
-      },
-      {
-        "q": "Who is the lead singer of Joy Division?",
-        "a": "Ian Curtis"
-      },
-      {
-        "q": "Who composed 'Requiem in D minor' K. 626?",
-        "a": "Mozart"
       }
     ]
   },
@@ -17001,58 +15021,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which film features the quote 'Houston, we have a problem'?",
         "a": "Apollo 13"
-      },
-      {
-        "q": "Which actor plays Forrest Gump?",
-        "a": "Tom Hanks"
-      },
-      {
-        "q": "Which actor played Neo in 'The Matrix'?",
-        "a": "Keanu Reeves"
-      },
-      {
-        "q": "Who directed 'Pulp Fiction'?",
-        "a": "Quentin Tarantino"
-      },
-      {
-        "q": "Who plays Hermione in the Harry Potter films?",
-        "a": "Emma Watson"
-      },
-      {
-        "q": "Who is the director of 'Jurassic Park'?",
-        "a": "Steven Spielberg"
-      },
-      {
-        "q": "Which Pixar film features a rat who can cook?",
-        "a": "Ratatouille"
-      },
-      {
-        "q": "Who is the main actor in 'Gladiator' (2000)?",
-        "a": "Russell Crowe"
-      },
-      {
-        "q": "Who directed 'Schindler's List'?",
-        "a": "Steven Spielberg"
-      },
-      {
-        "q": "Which 2019 Bong Joon-ho film won Best Picture?",
-        "a": "Parasite"
-      },
-      {
-        "q": "Who played Jack Sparrow?",
-        "a": "Johnny Depp"
-      },
-      {
-        "q": "Who plays James Bond in 'Skyfall'?",
-        "a": "Daniel Craig"
-      },
-      {
-        "q": "Who wrote 'Rocky'?",
-        "a": "Sylvester Stallone"
-      },
-      {
-        "q": "Which film features the song 'My Heart Will Go On'?",
-        "a": "Titanic"
       }
     ],
     "400": [
@@ -17251,26 +15219,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which film features the Ludovico Technique?",
         "a": "A Clockwork Orange"
-      },
-      {
-        "q": "Which director made 'The Grand Budapest Hotel'?",
-        "a": "Wes Anderson"
-      },
-      {
-        "q": "What year did 'Citizen Kane' release?",
-        "a": "1941"
-      },
-      {
-        "q": "What is the real name of Hannibal Lecter's actor?",
-        "a": "Anthony Hopkins"
-      },
-      {
-        "q": "Who plays Travis Bickle in 'Taxi Driver'?",
-        "a": "Robert De Niro"
-      },
-      {
-        "q": "Which Alfred Hitchcock film features birds attacking Bodega Bay?",
-        "a": "The Birds"
       }
     ],
     "600": [
@@ -17461,26 +15409,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who directed 'Y Tu Mama Tambien' (2001)?",
         "a": "Alfonso Cuaron"
-      },
-      {
-        "q": "Who wrote the screenplay for 'Chinatown'?",
-        "a": "Robert Towne"
-      },
-      {
-        "q": "Who directed 'Breathless' (1960)?",
-        "a": "Jean-Luc Godard"
-      },
-      {
-        "q": "Which film features the 'Odessa Steps' sequence?",
-        "a": "Battleship Potemkin"
-      },
-      {
-        "q": "What is the name of the fictional Dogme 95 movement founder?",
-        "a": "Lars von Trier"
-      },
-      {
-        "q": "Who directed 'Mulholland Drive' (2001)?",
-        "a": "David Lynch"
       }
     ]
   },
@@ -17605,78 +15533,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Amazon's voice assistant called?",
         "a": "Alexa"
-      },
-      {
-        "q": "Who founded Tesla's leadership after the original founders?",
-        "a": "Elon Musk"
-      },
-      {
-        "q": "What company makes the iPhone?",
-        "a": "Apple"
-      },
-      {
-        "q": "What search engine is owned by Alphabet?",
-        "a": "Google"
-      },
-      {
-        "q": "Who is the current CEO of Apple?",
-        "a": "Tim Cook"
-      },
-      {
-        "q": "What does CPU stand for?",
-        "a": "Central Processing Unit"
-      },
-      {
-        "q": "What does RAM stand for?",
-        "a": "Random Access Memory"
-      },
-      {
-        "q": "What does URL stand for?",
-        "a": "Uniform Resource Locator"
-      },
-      {
-        "q": "What does HTML stand for?",
-        "a": "HyperText Markup Language"
-      },
-      {
-        "q": "What company owns YouTube?",
-        "a": "Google"
-      },
-      {
-        "q": "What is the most popular web browser from Google?",
-        "a": "Chrome"
-      },
-      {
-        "q": "What does VPN stand for?",
-        "a": "Virtual Private Network"
-      },
-      {
-        "q": "What does GPU stand for?",
-        "a": "Graphics Processing Unit"
-      },
-      {
-        "q": "What company created ChatGPT?",
-        "a": "OpenAI"
-      },
-      {
-        "q": "What does SSD stand for?",
-        "a": "Solid State Drive"
-      },
-      {
-        "q": "Who invented the World Wide Web?",
-        "a": "Tim Berners-Lee"
-      },
-      {
-        "q": "What does USB stand for?",
-        "a": "Universal Serial Bus"
-      },
-      {
-        "q": "What tablet does Apple make?",
-        "a": "iPad"
-      },
-      {
-        "q": "What is Apple's voice assistant called?",
-        "a": "Siri"
       }
     ],
     "400": [
@@ -17847,38 +15703,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What chip architecture powered early PCs?",
         "a": "x86"
-      },
-      {
-        "q": "What is the most popular version control system?",
-        "a": "Git"
-      },
-      {
-        "q": "Who created Linux?",
-        "a": "Linus Torvalds"
-      },
-      {
-        "q": "What year did the iPad launch?",
-        "a": "2010"
-      },
-      {
-        "q": "What company makes the Vision Pro headset?",
-        "a": "Apple"
-      },
-      {
-        "q": "What company created TypeScript?",
-        "a": "Microsoft"
-      },
-      {
-        "q": "What company pioneered the iPhone App Store in 2008?",
-        "a": "Apple"
-      },
-      {
-        "q": "Who founded Oracle?",
-        "a": "Larry Ellison"
-      },
-      {
-        "q": "Who founded Dell?",
-        "a": "Michael Dell"
       }
     ],
     "600": [
@@ -18081,26 +15905,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who wrote the first version of BASIC?",
         "a": "Kemeny Kurtz"
-      },
-      {
-        "q": "Who is known as the father of the computer?",
-        "a": "Charles Babbage"
-      },
-      {
-        "q": "Who founded Intel?",
-        "a": "Gordon Moore"
-      },
-      {
-        "q": "What law is Gordon Moore famous for?",
-        "a": "Moore's Law"
-      },
-      {
-        "q": "What was Apple's original product?",
-        "a": "Apple I"
-      },
-      {
-        "q": "Who was Apple's third co-founder?",
-        "a": "Ronald Wayne"
       }
     ]
   },
@@ -18275,55 +16079,43 @@ const QUALITY_BACKFILL = {
         "a": "Spain"
       },
       {
-        "q": "What country is shaped like a boot?",
-        "a": "Italy"
-      },
-      {
-        "q": "What is the largest country by area?",
-        "a": "Russia"
-      },
-      {
-        "q": "What country is the Eiffel Tower in?",
-        "a": "France"
-      },
-      {
-        "q": "What country is the Pyramids of Giza in?",
-        "a": "Egypt"
-      },
-      {
-        "q": "What country is shaped like a maple leaf country?",
-        "a": "Canada"
-      },
-      {
-        "q": "What country is the Taj Mahal in?",
+        "q": "Which country overtook China as the world's most populous in 2023?",
         "a": "India"
       },
       {
-        "q": "What is the capital of Mexico?",
-        "a": "Mexico City"
+        "q": "Which country's coastline touches both the Atlantic and Indian Oceans?",
+        "a": "South Africa"
       },
       {
-        "q": "What country has the most coffee production?",
-        "a": "Brazil"
+        "q": "Which country is the world's largest producer of olive oil?",
+        "a": "Spain"
       },
       {
-        "q": "What country has Machu Picchu?",
-        "a": "Peru"
+        "q": "Which country has the most time zones when its overseas territories are counted?",
+        "a": "France"
       },
       {
-        "q": "What country is the Amazon river mostly in?",
-        "a": "Brazil"
+        "q": "Which African country has the largest population?",
+        "a": "Nigeria"
       },
       {
-        "q": "What country is famous for tulips?",
-        "a": "Netherlands"
+        "q": "The temple complex of Angkor Wat is in which country?",
+        "a": "Cambodia"
+      },
+      {
+        "q": "Which country is nicknamed the Emerald Isle?",
+        "a": "Ireland"
+      },
+      {
+        "q": "Which country has the tallest building in the world?",
+        "a": "United Arab Emirates"
+      },
+      {
+        "q": "Which country is the world's largest producer of tea?",
+        "a": "China"
       }
     ],
     "400": [
-      {
-        "q": "This country is the largest producer of olive oil in the world",
-        "a": "Spain"
-      },
       {
         "q": "This Scandinavian country has capital Stockholm",
         "a": "Sweden"
@@ -18487,46 +16279,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the capital of Ethiopia?",
         "a": "Addis Ababa"
-      },
-      {
-        "q": "What country has the most lakes?",
-        "a": "Canada"
-      },
-      {
-        "q": "What country's flag has a cedar tree?",
-        "a": "Lebanon"
-      },
-      {
-        "q": "What country's flag has a dragon?",
-        "a": "Bhutan"
-      },
-      {
-        "q": "What is the smallest country in the world?",
-        "a": "Vatican City"
-      },
-      {
-        "q": "What country has the longest coastline?",
-        "a": "Canada"
-      },
-      {
-        "q": "What country is home to Angkor Wat?",
-        "a": "Cambodia"
-      },
-      {
-        "q": "What country used to be called Ceylon?",
-        "a": "Sri Lanka"
-      },
-      {
-        "q": "What country shares the longest border with USA?",
-        "a": "Canada"
-      },
-      {
-        "q": "What country has the Great Barrier Reef?",
-        "a": "Australia"
-      },
-      {
-        "q": "What country is Istanbul in?",
-        "a": "Turkey"
       }
     ],
     "600": [
@@ -18717,42 +16469,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What country has the most islands?",
         "a": "Sweden"
-      },
-      {
-        "q": "What country has 17 time zones (mainland)?",
-        "a": "Russia"
-      },
-      {
-        "q": "What country has Mount Kilimanjaro?",
-        "a": "Tanzania"
-      },
-      {
-        "q": "What country has the most UNESCO sites?",
-        "a": "Italy"
-      },
-      {
-        "q": "What country has Gross National Happiness as a metric?",
-        "a": "Bhutan"
-      },
-      {
-        "q": "What country has the world's deepest lake?",
-        "a": "Russia"
-      },
-      {
-        "q": "What country has the only flag that is not rectangular?",
-        "a": "Nepal"
-      },
-      {
-        "q": "What is the capital of Kuwait?",
-        "a": "Kuwait City"
-      },
-      {
-        "q": "What country is Machu Picchu in what mountain range?",
-        "a": "Andes"
-      },
-      {
-        "q": "What country has the world's longest reef barrier?",
-        "a": "Australia"
       }
     ]
   },
@@ -18961,82 +16677,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is Yondu's adopted son?",
         "a": "Peter Quill"
-      },
-      {
-        "q": "What year was the first Iron Man film released?",
-        "a": "2008"
-      },
-      {
-        "q": "What is the name of Thor's hammer?",
-        "a": "Mjolnir"
-      },
-      {
-        "q": "Who is the king of Asgard before Thor?",
-        "a": "Odin"
-      },
-      {
-        "q": "What color is the Hulk?",
-        "a": "Green"
-      },
-      {
-        "q": "Who plays Pepper Potts in the MCU?",
-        "a": "Gwyneth Paltrow"
-      },
-      {
-        "q": "What agency did Nick Fury run?",
-        "a": "S.H.I.E.L.D."
-      },
-      {
-        "q": "What infinity stone controls time?",
-        "a": "Time Stone"
-      },
-      {
-        "q": "Who plays Gamora?",
-        "a": "Zoe Saldana"
-      },
-      {
-        "q": "Who plays Drax?",
-        "a": "Dave Bautista"
-      },
-      {
-        "q": "Who plays Vision?",
-        "a": "Paul Bettany"
-      },
-      {
-        "q": "What is the name of Peter Parker's aunt?",
-        "a": "Aunt May"
-      },
-      {
-        "q": "What color is Doctor Strange's cape?",
-        "a": "Red"
-      },
-      {
-        "q": "What is Captain America's shield made from?",
-        "a": "Vibranium"
-      },
-      {
-        "q": "What is the name of the planet where Thor meets the Grandmaster?",
-        "a": "Sakaar"
-      },
-      {
-        "q": "What is Thor's new weapon in Infinity War?",
-        "a": "Stormbreaker"
-      },
-      {
-        "q": "Who is Odin's adopted son?",
-        "a": "Loki"
-      },
-      {
-        "q": "What color is Gamora's skin?",
-        "a": "Green"
-      },
-      {
-        "q": "What is the name of Tony Stark's wife?",
-        "a": "Pepper Potts"
-      },
-      {
-        "q": "What is the name of Ant-Man's shrinking particles?",
-        "a": "Pym Particles"
       }
     ],
     "400": [
@@ -19263,46 +16903,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What sanctum does Wong oversee?",
         "a": "Hong Kong Sanctum"
-      },
-      {
-        "q": "What is the name of the alien race Vers belongs to at the start of Captain Marvel?",
-        "a": "Kree"
-      },
-      {
-        "q": "What is Shang-Chi's sister's name?",
-        "a": "Xialing"
-      },
-      {
-        "q": "Who directs Guardians of the Galaxy films?",
-        "a": "James Gunn"
-      },
-      {
-        "q": "Who plays Mantis?",
-        "a": "Pom Klementieff"
-      },
-      {
-        "q": "What is Namor's underwater kingdom called in Wakanda Forever?",
-        "a": "Talokan"
-      },
-      {
-        "q": "Who plays Wong?",
-        "a": "Benedict Wong"
-      },
-      {
-        "q": "Who plays Vulture in Spider-Man: Homecoming?",
-        "a": "Michael Keaton"
-      },
-      {
-        "q": "What Infinity Stone is the Eye of Agamotto?",
-        "a": "Time Stone"
-      },
-      {
-        "q": "Who plays Hela in Thor: Ragnarok?",
-        "a": "Cate Blanchett"
-      },
-      {
-        "q": "What is the name of the Grandmaster's planet?",
-        "a": "Sakaar"
       }
     ],
     "600": [
@@ -19565,46 +17165,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the lead singer of the band named Kraven in What If...? — trick question; name the lead Celestial instead",
         "a": "Arishem the Judge"
-      },
-      {
-        "q": "Who played the variant of Captain Marvel (Maria Rambeau) in Multiverse of Madness?",
-        "a": "Lashana Lynch"
-      },
-      {
-        "q": "Who plays Kang the Conqueror / He Who Remains?",
-        "a": "Jonathan Majors"
-      },
-      {
-        "q": "What is the name of the organisation policing time in Loki?",
-        "a": "Time Variance Authority"
-      },
-      {
-        "q": "What alligator variant appears in Loki season 1?",
-        "a": "Alligator Loki"
-      },
-      {
-        "q": "What is the name of the Egyptian god Moon Knight serves?",
-        "a": "Khonshu"
-      },
-      {
-        "q": "Who plays Kamala Khan in the MCU?",
-        "a": "Iman Vellani"
-      },
-      {
-        "q": "What city does Kamala Khan live in?",
-        "a": "Jersey City"
-      },
-      {
-        "q": "What are Wanda's twin sons named?",
-        "a": "Billy and Tommy"
-      },
-      {
-        "q": "What is the Skrull leader's name in Captain Marvel?",
-        "a": "Talos"
-      },
-      {
-        "q": "What is the name of Carol Danvers's cat (actually a Flerken)?",
-        "a": "Goose"
       }
     ]
   },
@@ -19861,66 +17421,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the feline cat burglar in Batman?",
         "a": "Catwoman"
-      },
-      {
-        "q": "What is Superman's Kryptonian name?",
-        "a": "Kal-El"
-      },
-      {
-        "q": "What city does Superman protect?",
-        "a": "Metropolis"
-      },
-      {
-        "q": "What is Batman's real name?",
-        "a": "Bruce Wayne"
-      },
-      {
-        "q": "Who is Batman's butler?",
-        "a": "Alfred Pennyworth"
-      },
-      {
-        "q": "What is Wonder Woman's real name?",
-        "a": "Diana Prince"
-      },
-      {
-        "q": "What island is Wonder Woman from?",
-        "a": "Themyscira"
-      },
-      {
-        "q": "What is Aquaman's real name?",
-        "a": "Arthur Curry"
-      },
-      {
-        "q": "What underwater kingdom does Aquaman rule?",
-        "a": "Atlantis"
-      },
-      {
-        "q": "What is Superman's weakness?",
-        "a": "Kryptonite"
-      },
-      {
-        "q": "Who plays Batman in Christopher Nolan's trilogy?",
-        "a": "Christian Bale"
-      },
-      {
-        "q": "Who plays the Joker in The Dark Knight?",
-        "a": "Heath Ledger"
-      },
-      {
-        "q": "Who plays the Joker in Joker 2019?",
-        "a": "Joaquin Phoenix"
-      },
-      {
-        "q": "What is Wonder Woman's lasso called?",
-        "a": "Lasso of Truth"
-      },
-      {
-        "q": "What city is Smallville located in?",
-        "a": "Kansas"
-      },
-      {
-        "q": "What planet is Superman from?",
-        "a": "Krypton"
       }
     ],
     "400": [
@@ -20195,62 +17695,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who played Joker in Suicide Squad 2016?",
         "a": "Jared Leto"
-      },
-      {
-        "q": "What city is Green Arrow's home?",
-        "a": "Star City"
-      },
-      {
-        "q": "What is Green Arrow's real name?",
-        "a": "Oliver Queen"
-      },
-      {
-        "q": "Who plays Supergirl on the CW?",
-        "a": "Melissa Benoist"
-      },
-      {
-        "q": "What is Supergirl's Kryptonian name?",
-        "a": "Kara Zor-El"
-      },
-      {
-        "q": "Who played Cyborg in the DCEU?",
-        "a": "Ray Fisher"
-      },
-      {
-        "q": "Who plays Ezra Miller's character The Flash?",
-        "a": "Barry Allen"
-      },
-      {
-        "q": "Who directed The Batman 2022?",
-        "a": "Matt Reeves"
-      },
-      {
-        "q": "Who plays the Riddler in The Batman 2022?",
-        "a": "Paul Dano"
-      },
-      {
-        "q": "Who plays Catwoman in The Batman 2022?",
-        "a": "Zoe Kravitz"
-      },
-      {
-        "q": "Who plays the Penguin in The Batman 2022?",
-        "a": "Colin Farrell"
-      },
-      {
-        "q": "What is Scarecrow's real name?",
-        "a": "Jonathan Crane"
-      },
-      {
-        "q": "Who plays Harley Quinn in Suicide Squad?",
-        "a": "Margot Robbie"
-      },
-      {
-        "q": "Who plays Batman in The Batman (2022)?",
-        "a": "Robert Pattinson"
-      },
-      {
-        "q": "What is the Scarecrow's real name?",
-        "a": "Jonathan Crane"
       }
     ],
     "600": [
@@ -20545,50 +17989,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the fourth Robin?",
         "a": "Stephanie Brown"
-      },
-      {
-        "q": "Who created the Flash?",
-        "a": "Gardner Fox"
-      },
-      {
-        "q": "Who created Hal Jordan's Green Lantern?",
-        "a": "John Broome"
-      },
-      {
-        "q": "What is Batman's original sidekick's second identity?",
-        "a": "Nightwing"
-      },
-      {
-        "q": "What hero identity does Jason Todd take as adult?",
-        "a": "Red Hood"
-      },
-      {
-        "q": "Who is Talia al Ghul's father?",
-        "a": "Ra's al Ghul"
-      },
-      {
-        "q": "What year did Watchmen publish?",
-        "a": "1986"
-      },
-      {
-        "q": "What year did The Killing Joke publish?",
-        "a": "1988"
-      },
-      {
-        "q": "Who is Barbara Gordon?",
-        "a": "Batgirl"
-      },
-      {
-        "q": "Who plays Batman in Tim Burton's Batman (1989)?",
-        "a": "Michael Keaton"
-      },
-      {
-        "q": "Who plays the Joker in Tim Burton's Batman (1989)?",
-        "a": "Jack Nicholson"
-      },
-      {
-        "q": "Who directed Wonder Woman (2017)?",
-        "a": "Patty Jenkins"
       }
     ]
   },
@@ -20773,74 +18173,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the red-armored guards of Snoke?",
         "a": "Praetorian Guards"
-      },
-      {
-        "q": "What color is Luke Skywalker's first lightsaber?",
-        "a": "Blue"
-      },
-      {
-        "q": "What color is Mace Windu's lightsaber?",
-        "a": "Purple"
-      },
-      {
-        "q": "What droid is Poe Dameron's companion?",
-        "a": "BB-8"
-      },
-      {
-        "q": "What color is Darth Vader's lightsaber?",
-        "a": "Red"
-      },
-      {
-        "q": "Who plays Anakin in Episodes II and III?",
-        "a": "Hayden Christensen"
-      },
-      {
-        "q": "Who plays Padmé Amidala?",
-        "a": "Natalie Portman"
-      },
-      {
-        "q": "Who plays Obi-Wan Kenobi in the prequel trilogy?",
-        "a": "Ewan McGregor"
-      },
-      {
-        "q": "What color is Yoda's lightsaber?",
-        "a": "Green"
-      },
-      {
-        "q": "What planet does Luke grow up on?",
-        "a": "Tatooine"
-      },
-      {
-        "q": "What planet is the Rebel base on in The Empire Strikes Back?",
-        "a": "Hoth"
-      },
-      {
-        "q": "What is the name of Jabba's pet monster?",
-        "a": "Rancor"
-      },
-      {
-        "q": "What city hovers in the clouds of Bespin?",
-        "a": "Cloud City"
-      },
-      {
-        "q": "Who plays Lando in Solo: A Star Wars Story?",
-        "a": "Donald Glover"
-      },
-      {
-        "q": "Who plays Han Solo in Solo: A Star Wars Story?",
-        "a": "Alden Ehrenreich"
-      },
-      {
-        "q": "What is the name of the forest moon with Ewoks?",
-        "a": "Endor"
-      },
-      {
-        "q": "What is the name of the swamp planet where Yoda lives?",
-        "a": "Dagobah"
-      },
-      {
-        "q": "What color is Kylo Ren's lightsaber?",
-        "a": "Red"
       }
     ],
     "400": [
@@ -21083,42 +18415,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who plays K-2SO?",
         "a": "Alan Tudyk"
-      },
-      {
-        "q": "What species are the small furry warriors on Endor?",
-        "a": "Ewoks"
-      },
-      {
-        "q": "Who plays Saw Gerrera in Rogue One?",
-        "a": "Forest Whitaker"
-      },
-      {
-        "q": "Who plays Cassian Andor?",
-        "a": "Diego Luna"
-      },
-      {
-        "q": "Who plays Chirrut Îmwe in Rogue One?",
-        "a": "Donnie Yen"
-      },
-      {
-        "q": "Who plays Director Krennic in Rogue One?",
-        "a": "Ben Mendelsohn"
-      },
-      {
-        "q": "What planet is the Death Star plans archive on?",
-        "a": "Scarif"
-      },
-      {
-        "q": "What is the name of Maz Kanata's castle planet?",
-        "a": "Takodana"
-      },
-      {
-        "q": "Who voices Maz Kanata?",
-        "a": "Lupita Nyong'o"
-      },
-      {
-        "q": "What is the name of DJ the codebreaker's actor in The Last Jedi?",
-        "a": "Benicio del Toro"
       }
     ],
     "600": [
@@ -21369,42 +18665,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What planet does Grogu train with Luke Skywalker on?",
         "a": "Ossus (in Book of Boba Fett)"
-      },
-      {
-        "q": "What is the name of Mon Mothma's actress in Rogue One and Andor?",
-        "a": "Genevieve O'Reilly"
-      },
-      {
-        "q": "Who plays Ahsoka Tano in live action?",
-        "a": "Rosario Dawson"
-      },
-      {
-        "q": "Who plays Thrawn in live action?",
-        "a": "Lars Mikkelsen"
-      },
-      {
-        "q": "Who plays the Grand Inquisitor in the Kenobi series?",
-        "a": "Rupert Friend"
-      },
-      {
-        "q": "Who plays Reva (Third Sister) in Kenobi?",
-        "a": "Moses Ingram"
-      },
-      {
-        "q": "Who plays young Leia in the Kenobi series?",
-        "a": "Vivien Lyra Blair"
-      },
-      {
-        "q": "Who plays Supervisor Dedra Meero in Andor?",
-        "a": "Denise Gough"
-      },
-      {
-        "q": "What is the imperial prison planet complex in Andor?",
-        "a": "Narkina 5"
-      },
-      {
-        "q": "Who plays Grand Admiral Thrawn in live action?",
-        "a": "Lars Mikkelsen"
       }
     ]
   },
@@ -21637,94 +18897,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What MCU movie featured three Spider-Men?",
         "a": "No Way Home"
-      },
-      {
-        "q": "What is Peter Parker's aunt's name?",
-        "a": "Aunt May"
-      },
-      {
-        "q": "What is Peter Parker's uncle's name?",
-        "a": "Uncle Ben"
-      },
-      {
-        "q": "Who played Spider-Man in the 2002 film?",
-        "a": "Tobey Maguire"
-      },
-      {
-        "q": "Who played Spider-Man in The Amazing Spider-Man?",
-        "a": "Andrew Garfield"
-      },
-      {
-        "q": "Who played Mary Jane in Raimi's trilogy?",
-        "a": "Kirsten Dunst"
-      },
-      {
-        "q": "Who played Gwen Stacy in The Amazing Spider-Man?",
-        "a": "Emma Stone"
-      },
-      {
-        "q": "Who plays Aunt May in the MCU?",
-        "a": "Marisa Tomei"
-      },
-      {
-        "q": "What borough is Peter Parker usually from?",
-        "a": "Queens"
-      },
-      {
-        "q": "Who is Spider-Man's main green-suited goblin enemy?",
-        "a": "Green Goblin"
-      },
-      {
-        "q": "Who played Doc Ock in Spider-Man 2?",
-        "a": "Alfred Molina"
-      },
-      {
-        "q": "Who played Sandman in Spider-Man 3?",
-        "a": "Thomas Haden Church"
-      },
-      {
-        "q": "Who played Electro in The Amazing Spider-Man 2?",
-        "a": "Jamie Foxx"
-      },
-      {
-        "q": "What newspaper does Peter work for?",
-        "a": "Daily Bugle"
-      },
-      {
-        "q": "Who is the editor of the Daily Bugle?",
-        "a": "J. Jonah Jameson"
-      },
-      {
-        "q": "Who played J. Jonah Jameson in Raimi's trilogy?",
-        "a": "J.K. Simmons"
-      },
-      {
-        "q": "What year did the Raimi Spider-Man movie release?",
-        "a": "2002"
-      },
-      {
-        "q": "What is Spider-Man's catchphrase ability sense?",
-        "a": "Spider-sense"
-      },
-      {
-        "q": "What sequel followed Into the Spider-Verse?",
-        "a": "Across the Spider-Verse"
-      },
-      {
-        "q": "Who voices Miles Morales in Into the Spider-Verse?",
-        "a": "Shameik Moore"
-      },
-      {
-        "q": "What borough of New York is Peter Parker from?",
-        "a": "Queens"
-      },
-      {
-        "q": "What symbol is on Spider-Man's chest?",
-        "a": "A spider"
-      },
-      {
-        "q": "What villain has four metal arms?",
-        "a": "Doctor Octopus"
       }
     ],
     "400": [
@@ -21987,78 +19159,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What year did Morbius release?",
         "a": "2022"
-      },
-      {
-        "q": "Who is Peter Parker's first love in the comics?",
-        "a": "Gwen Stacy"
-      },
-      {
-        "q": "Who is Miles Morales's uncle and villain?",
-        "a": "Prowler"
-      },
-      {
-        "q": "What is Gwen Stacy's father's name?",
-        "a": "George Stacy"
-      },
-      {
-        "q": "What villain is Dr. Otto Octavius?",
-        "a": "Doctor Octopus"
-      },
-      {
-        "q": "What journalist becomes Venom in comics?",
-        "a": "Eddie Brock"
-      },
-      {
-        "q": "Who plays Ned Leeds?",
-        "a": "Jacob Batalon"
-      },
-      {
-        "q": "Who plays Flash Thompson in the MCU?",
-        "a": "Tony Revolori"
-      },
-      {
-        "q": "What was the famous dance scene in Spider-Man 3?",
-        "a": "Emo dance"
-      },
-      {
-        "q": "Who directed The Amazing Spider-Man films?",
-        "a": "Marc Webb"
-      },
-      {
-        "q": "Who directs the MCU Spider-Man trilogy?",
-        "a": "Jon Watts"
-      },
-      {
-        "q": "Who voices Spider-Gwen in Spider-Verse?",
-        "a": "Hailee Steinfeld"
-      },
-      {
-        "q": "Who voices Peter B. Parker?",
-        "a": "Jake Johnson"
-      },
-      {
-        "q": "Who voices Kingpin in Spider-Verse?",
-        "a": "Liev Schreiber"
-      },
-      {
-        "q": "Who plays Michelle Jones in the MCU?",
-        "a": "Zendaya"
-      },
-      {
-        "q": "Who plays Uncle Ben in the Raimi films?",
-        "a": "Cliff Robertson"
-      },
-      {
-        "q": "Who plays Aunt May in the Raimi films?",
-        "a": "Rosemary Harris"
-      },
-      {
-        "q": "Who directed Spider-Man: Homecoming?",
-        "a": "Jon Watts"
-      },
-      {
-        "q": "Who directed Spider-Man 2 (2004)?",
-        "a": "Sam Raimi"
       }
     ],
     "600": [
@@ -22321,46 +19421,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What studio made the 1994 Spider-Man cartoon?",
         "a": "Marvel"
-      },
-      {
-        "q": "Who is Peter's clone?",
-        "a": "Ben Reilly"
-      },
-      {
-        "q": "What year did Spider-Verse comic event release?",
-        "a": "2014"
-      },
-      {
-        "q": "What is Spider-Man 2099's real name?",
-        "a": "Miguel O'Hara"
-      },
-      {
-        "q": "Who voices The Spot?",
-        "a": "Jason Schwartzman"
-      },
-      {
-        "q": "What hero identity does Kaine take?",
-        "a": "Scarlet Spider"
-      },
-      {
-        "q": "In what year did Spider-Man first appear in comics?",
-        "a": "1962"
-      },
-      {
-        "q": "What year did Miles Morales debut?",
-        "a": "2011"
-      },
-      {
-        "q": "Who plays Harry Osborn's New Goblin form?",
-        "a": "James Franco"
-      },
-      {
-        "q": "Who plays Madame Web in the 2024 film?",
-        "a": "Dakota Johnson"
-      },
-      {
-        "q": "Who plays Cletus Kasady in Venom: Let There Be Carnage?",
-        "a": "Woody Harrelson"
       }
     ]
   },
@@ -22621,34 +19681,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the charm used to repair broken objects?",
         "a": "Reparo"
-      },
-      {
-        "q": "What is the name of Harry's godfather?",
-        "a": "Sirius Black"
-      },
-      {
-        "q": "What color are Harry Potter's eyes in the books?",
-        "a": "Green"
-      },
-      {
-        "q": "What is the name of Harry's owl?",
-        "a": "Hedwig"
-      },
-      {
-        "q": "Which spell is used to disarm an opponent?",
-        "a": "Expelliarmus"
-      },
-      {
-        "q": "Who is the Keeper of Keys at Hogwarts?",
-        "a": "Rubeus Hagrid"
-      },
-      {
-        "q": "What pet does Hermione have?",
-        "a": "Crookshanks"
-      },
-      {
-        "q": "What is the first spell Harry learns?",
-        "a": "Wingardium Leviosa"
       }
     ],
     "400": [
@@ -22903,42 +19935,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Hermione's patronus?",
         "a": "Otter"
-      },
-      {
-        "q": "What is the name of the half-goblin who runs Flourish and Blotts?",
-        "a": "Mr Flourish"
-      },
-      {
-        "q": "What wand core does Harry's wand contain?",
-        "a": "Phoenix feather"
-      },
-      {
-        "q": "What charm produces unbreakable bonds between people?",
-        "a": "Unbreakable Vow"
-      },
-      {
-        "q": "What is the name of the headmistress of Beauxbatons?",
-        "a": "Madame Maxime"
-      },
-      {
-        "q": "What is the Weasleys' joke shop called?",
-        "a": "Weasleys' Wizard Wheezes"
-      },
-      {
-        "q": "What is the shop's address on Diagon Alley?",
-        "a": "93 Diagon Alley"
-      },
-      {
-        "q": "What is the name of the giant half-brother of Hagrid?",
-        "a": "Grawp"
-      },
-      {
-        "q": "Who is the original Gryffindor Quidditch captain when Harry joins?",
-        "a": "Oliver Wood"
-      },
-      {
-        "q": "What is the name of the ghost who haunts the second-floor girls' bathroom?",
-        "a": "Moaning Myrtle"
       }
     ],
     "600": [
@@ -23225,26 +20221,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which character is revealed to be an Animagus stag, dog, rat, and wolf in the Marauders' group (which one is NOT an Animagus)?",
         "a": "Remus Lupin (he is a werewolf, not an Animagus)"
-      },
-      {
-        "q": "What is the name of the Centaur who teaches Divination in book 5?",
-        "a": "Firenze"
-      },
-      {
-        "q": "What pub does Aberforth Dumbledore run in Hogsmeade?",
-        "a": "The Hog's Head"
-      },
-      {
-        "q": "What is the name of the Ravenclaw ghost?",
-        "a": "The Grey Lady"
-      },
-      {
-        "q": "What was the Grey Lady's real name?",
-        "a": "Helena Ravenclaw"
-      },
-      {
-        "q": "Who is the author of Fantastic Beasts and Where to Find Them in-universe?",
-        "a": "Newt Scamander"
       }
     ]
   },
@@ -23397,62 +20373,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which famous landmark is the orange couch in the opening credits near?",
         "a": "Fountain"
-      },
-      {
-        "q": "What is the name of the coffee shop where the friends hang out?",
-        "a": "Central Perk"
-      },
-      {
-        "q": "What is the name of Ross's pet monkey?",
-        "a": "Marcel"
-      },
-      {
-        "q": "What song does Phoebe famously sing at Central Perk?",
-        "a": "Smelly Cat"
-      },
-      {
-        "q": "Which friend marries Chandler?",
-        "a": "Monica"
-      },
-      {
-        "q": "Who is Ross's ex-wife that leaves him for a woman?",
-        "a": "Carol"
-      },
-      {
-        "q": "What is the name of Ross and Rachel's daughter?",
-        "a": "Emma"
-      },
-      {
-        "q": "Which actor plays Gunther?",
-        "a": "James Michael Tyler"
-      },
-      {
-        "q": "Which band performs the Friends theme?",
-        "a": "The Rembrandts"
-      },
-      {
-        "q": "What is Chandler's middle name revealed to be?",
-        "a": "Muriel"
-      },
-      {
-        "q": "Who is Rachel's younger sister played by Reese Witherspoon?",
-        "a": "Jill"
-      },
-      {
-        "q": "What is the name of Phoebe's husband?",
-        "a": "Mike"
-      },
-      {
-        "q": "Which actor plays Phoebe's husband Mike?",
-        "a": "Paul Rudd"
-      },
-      {
-        "q": "What is Joey's agent's name?",
-        "a": "Estelle"
-      },
-      {
-        "q": "What is the name of Ross and Carol's son?",
-        "a": "Ben"
       }
     ],
     "400": [
@@ -23623,26 +20543,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does Rachel do that gets her fired from Bloomingdales?",
         "a": "Kiss Mark"
-      },
-      {
-        "q": "What is the name of Joey's stuffed penguin?",
-        "a": "Hugsy"
-      },
-      {
-        "q": "What job did Chandler switch to after quitting his office job?",
-        "a": "Advertising"
-      },
-      {
-        "q": "What does Ross famously yell about his sandwich at work?",
-        "a": "My sandwich"
-      },
-      {
-        "q": "What is the name of Chandler's dad's Las Vegas show?",
-        "a": "Viva Las Gaygas"
-      },
-      {
-        "q": "What is the name of Chandler's roommate before Joey?",
-        "a": "Kip"
       }
     ],
     "600": [
@@ -23829,30 +20729,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the real cafe location used for exterior Central Perk shots?",
         "a": "None exterior"
-      },
-      {
-        "q": "What was the original working title of Friends?",
-        "a": "Insomnia Cafe"
-      },
-      {
-        "q": "What apartment number does Monica live in after the change?",
-        "a": "20"
-      },
-      {
-        "q": "Who plays Phoebe's biological mother?",
-        "a": "Teri Garr"
-      },
-      {
-        "q": "Who plays Rachel's father?",
-        "a": "Ron Leibman"
-      },
-      {
-        "q": "What was the episode title of the London wedding two-parter?",
-        "a": "The One in London"
-      },
-      {
-        "q": "What is the name of Ross's second wife he marries in Las Vegas?",
-        "a": "Rachel"
       }
     ]
   },
@@ -24009,42 +20885,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which coworker always eats yogurt sensually?",
         "a": "None specifically"
-      },
-      {
-        "q": "What product does Dunder Mifflin sell?",
-        "a": "Paper"
-      },
-      {
-        "q": "What is Dwight's job title besides salesman?",
-        "a": "Assistant to the Regional Manager"
-      },
-      {
-        "q": "What is Dwight's farm known for growing?",
-        "a": "Beets"
-      },
-      {
-        "q": "What band does Kevin play drums in?",
-        "a": "Scrantonicity"
-      },
-      {
-        "q": "What candy does Kevin famously spill?",
-        "a": "Chili"
-      },
-      {
-        "q": "What is the name of Angela's cat obsession?",
-        "a": "Cats"
-      },
-      {
-        "q": "What year did the US Office premiere?",
-        "a": "2005"
-      },
-      {
-        "q": "What British show is The Office US based on?",
-        "a": "The Office UK"
-      },
-      {
-        "q": "What is the name of Meredith's son?",
-        "a": "Jake"
       }
     ],
     "400": [
@@ -24223,22 +21063,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which warehouse worker wins the lottery?",
         "a": "Darryl and crew"
-      },
-      {
-        "q": "What is the name of Michael's screenplay?",
-        "a": "Threat Level Midnight"
-      },
-      {
-        "q": "What is the name of Andy's a cappella group at Cornell?",
-        "a": "Here Comes Treble"
-      },
-      {
-        "q": "What company acquires Dunder Mifflin in Season 6?",
-        "a": "Sabre"
-      },
-      {
-        "q": "What is Andys nickname?",
-        "a": "Nard Dog"
       }
     ],
     "600": [
@@ -24405,22 +21229,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What ending hint about Erin's parents plays out in the finale?",
         "a": "She meets them"
-      },
-      {
-        "q": "Who created the American version of The Office?",
-        "a": "Greg Daniels"
-      },
-      {
-        "q": "What is the name of Dwight's family inn business?",
-        "a": "Schrute Farms"
-      },
-      {
-        "q": "What is the name of Phyllis's husband?",
-        "a": "Bob Vance"
-      },
-      {
-        "q": "What state is Holly originally from?",
-        "a": "Colorado"
       }
     ]
   },
@@ -24609,46 +21417,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does Walter famously say he did because he liked it?",
         "a": "I did it for me"
-      },
-      {
-        "q": "What subject does the main character teach before cooking meth?",
-        "a": "Chemistry"
-      },
-      {
-        "q": "What color is the iconic crystal meth the protagonist produces?",
-        "a": "Blue"
-      },
-      {
-        "q": "What fast food chain is a front for a drug operation?",
-        "a": "Los Pollos Hermanos"
-      },
-      {
-        "q": "What is the name of Walt and Skyler's baby daughter?",
-        "a": "Holly"
-      },
-      {
-        "q": "Who plays the main character Walter?",
-        "a": "Bryan Cranston"
-      },
-      {
-        "q": "What state is Walt fleeing to when he is taken by the extractor?",
-        "a": "New Hampshire"
-      },
-      {
-        "q": "What color does Marie always wear?",
-        "a": "Purple"
-      },
-      {
-        "q": "What is the name of the industrial laundry where the superlab is hidden?",
-        "a": "Lavanderia Brillante"
-      },
-      {
-        "q": "What plant does Walt poison the child Brock with?",
-        "a": "Lily of the valley"
-      },
-      {
-        "q": "What instrument does Walt Jr. name on his website asking for donations?",
-        "a": "No instrument, a website"
       }
     ],
     "400": [
@@ -24855,10 +21623,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What kind of axe do the cousins carry?",
         "a": "Silver axe"
-      },
-      {
-        "q": "What is Todd's uncle's name, the neo-Nazi leader?",
-        "a": "Jack Welker"
       }
     ],
     "600": [
@@ -25033,18 +21797,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who plays Hank Schrader?",
         "a": "Dean Norris"
-      },
-      {
-        "q": "What is the name of Walt's old company he started and left?",
-        "a": "Gray Matter"
-      },
-      {
-        "q": "What's his fake ID name in New Hampshire?",
-        "a": "Mr. Lambert"
-      },
-      {
-        "q": "Who is the cartel boss Gus poisons with tequila?",
-        "a": "Don Eladio"
       }
     ]
   },
@@ -25225,46 +21977,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What young king orders Ned Stark's execution?",
         "a": "Joffrey"
-      },
-      {
-        "q": "What is the name of the iron seat in the throne room?",
-        "a": "Iron Throne"
-      },
-      {
-        "q": "What order of men guards the Wall?",
-        "a": "Night's Watch"
-      },
-      {
-        "q": "What is Arya's sword named?",
-        "a": "Needle"
-      },
-      {
-        "q": "What capital city houses the Iron Throne?",
-        "a": "King's Landing"
-      },
-      {
-        "q": "What warrior king does Daenerys marry?",
-        "a": "Khal Drogo"
-      },
-      {
-        "q": "What is the name of Daenerys's largest black dragon?",
-        "a": "Drogon"
-      },
-      {
-        "q": "What is Jon's giant direwolf's name?",
-        "a": "Ghost"
-      },
-      {
-        "q": "What is Sansa's direwolf's name?",
-        "a": "Lady"
-      },
-      {
-        "q": "What famous wedding becomes a massacre in season 3?",
-        "a": "Red Wedding"
-      },
-      {
-        "q": "What is the name of Ned Stark's greatsword?",
-        "a": "Ice"
       }
     ],
     "400": [
@@ -25479,10 +22191,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who leads her chanting the word shame?",
         "a": "Septa Unella"
-      },
-      {
-        "q": "What sword does Jaime give Brienne?",
-        "a": "Oathkeeper"
       }
     ],
     "600": [
@@ -25689,10 +22397,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who sits on the Iron Throne after Daenerys dies?",
         "a": "Bran"
-      },
-      {
-        "q": "Who is Daenerys's handmaiden and translator?",
-        "a": "Missandei"
       }
     ]
   },
@@ -25873,30 +22577,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What color are Gojo's eyes?",
         "a": "Blue"
-      },
-      {
-        "q": "What anime features a boy who eats a cursed finger?",
-        "a": "Jujutsu Kaisen"
-      },
-      {
-        "q": "What anime features a boy with a rubber arm named Gon?",
-        "a": "Hunter x Hunter"
-      },
-      {
-        "q": "What anime follows Light Yagami?",
-        "a": "Death Note"
-      },
-      {
-        "q": "What anime centers on a giant robot named EVA-01?",
-        "a": "Neon Genesis Evangelion"
-      },
-      {
-        "q": "What anime follows Monkey D Luffy?",
-        "a": "One Piece"
-      },
-      {
-        "q": "What anime features Edward and Alphonse Elric?",
-        "a": "Fullmetal Alchemist"
       }
     ],
     "400": [
@@ -26095,14 +22775,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Star Platinum's user?",
         "a": "Jotaro Kujo"
-      },
-      {
-        "q": "What anime features Saitama who defeats enemies in one punch?",
-        "a": "One Punch Man"
-      },
-      {
-        "q": "What is Ichigo's hollow form called?",
-        "a": "Hollow Ichigo"
       }
     ],
     "600": [
@@ -26501,30 +23173,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What sea creature attacked Luffy as a child?",
         "a": "Sea King"
-      },
-      {
-        "q": "What is Luffy's first mate's name?",
-        "a": "Zoro"
-      },
-      {
-        "q": "What body part does Sanji mainly fight with?",
-        "a": "Legs"
-      },
-      {
-        "q": "What is Jinbei's species?",
-        "a": "Fish-Man"
-      },
-      {
-        "q": "What currency is used in One Piece?",
-        "a": "Berries"
-      },
-      {
-        "q": "Who is Luffy's grandfather?",
-        "a": "Garp"
-      },
-      {
-        "q": "What is the name of Sabo's Devil Fruit?",
-        "a": "Flame-Flame Fruit"
       }
     ],
     "400": [
@@ -26723,18 +23371,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What admiral uses magma?",
         "a": "Akainu"
-      },
-      {
-        "q": "What is Kuma's Devil Fruit?",
-        "a": "Paw-Paw Fruit"
-      },
-      {
-        "q": "What is Law's Devil Fruit called?",
-        "a": "Op-Op Fruit"
-      },
-      {
-        "q": "What arc centers on Dressrosa?",
-        "a": "Dressrosa Arc"
       }
     ],
     "600": [
@@ -26937,22 +23573,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Katakuri's Devil Fruit?",
         "a": "Mochi-Mochi Fruit"
-      },
-      {
-        "q": "What is the name of the shipwright Tom trained?",
-        "a": "Franky"
-      },
-      {
-        "q": "What is Vegapunk's full name?",
-        "a": "Dr. Vegapunk"
-      },
-      {
-        "q": "What weapon class is Uranus?",
-        "a": "Ancient Weapon"
-      },
-      {
-        "q": "What weapon class is Poseidon?",
-        "a": "Ancient Weapon"
       }
     ]
   },
@@ -27133,30 +23753,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What legendary dog represents water in Johto?",
         "a": "Suicune"
-      },
-      {
-        "q": "What does Ivysaur evolve into?",
-        "a": "Venusaur"
-      },
-      {
-        "q": "What is the name of Team Rocket's cat Pokemon?",
-        "a": "Meowth"
-      },
-      {
-        "q": "Who is Ash Ketchum's Pokemon professor?",
-        "a": "Professor Oak"
-      },
-      {
-        "q": "What is the dragon pseudo-legendary of Gen 1?",
-        "a": "Dragonite"
-      },
-      {
-        "q": "What legendary Pokemon is #150?",
-        "a": "Mewtwo"
-      },
-      {
-        "q": "What region is introduced with Ho-Oh?",
-        "a": "Johto"
       }
     ],
     "400": [
@@ -27347,26 +23943,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Terastal?",
         "a": "Type change transformation"
-      },
-      {
-        "q": "What Eeveelution is Water-type?",
-        "a": "Vaporeon"
-      },
-      {
-        "q": "What Eeveelution is Psychic-type?",
-        "a": "Espeon"
-      },
-      {
-        "q": "What Eeveelution is Dark-type?",
-        "a": "Umbreon"
-      },
-      {
-        "q": "What region is Alder champion of?",
-        "a": "Unova"
-      },
-      {
-        "q": "What starter can Mega Evolve twice?",
-        "a": "Charizard"
       }
     ],
     "600": [
@@ -27569,22 +24145,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Scarlet and Violet's DLC Part 2?",
         "a": "Indigo Disk"
-      },
-      {
-        "q": "What company publishes Pokemon?",
-        "a": "The Pokemon Company"
-      },
-      {
-        "q": "What Pokemon did Ash use to beat Leon?",
-        "a": "Pikachu"
-      },
-      {
-        "q": "What is the Alpha Pokemon?",
-        "a": "Arceus"
-      },
-      {
-        "q": "What Pokemon does Mimikyu disguise itself as?",
-        "a": "Pikachu"
       }
     ]
   },
@@ -27725,66 +24285,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What company owns Epic Games partially, the maker of Unreal Engine?",
         "a": "Tencent"
-      },
-      {
-        "q": "What Italian plumber is Nintendo's mascot?",
-        "a": "Mario"
-      },
-      {
-        "q": "What princess does Mario typically rescue?",
-        "a": "Princess Peach"
-      },
-      {
-        "q": "What green-clad hero stars in The Legend of Zelda?",
-        "a": "Link"
-      },
-      {
-        "q": "What gaming company made the PlayStation?",
-        "a": "Sony"
-      },
-      {
-        "q": "What dance-based Konami arcade game came out in 1998?",
-        "a": "Dance Dance Revolution"
-      },
-      {
-        "q": "What yearly football series is made by Madden?",
-        "a": "Madden NFL"
-      },
-      {
-        "q": "What stealth game series features Solid Snake?",
-        "a": "Metal Gear"
-      },
-      {
-        "q": "What Rockstar game series is set in cities of organized crime?",
-        "a": "Grand Theft Auto"
-      },
-      {
-        "q": "What is Nintendo's flying racing series with items and shells?",
-        "a": "Mario Kart"
-      },
-      {
-        "q": "What robot-building robotics game features Master Chief?",
-        "a": "Halo"
-      },
-      {
-        "q": "What fighting game features Ryu throwing hadoukens?",
-        "a": "Street Fighter"
-      },
-      {
-        "q": "What is the best-selling console of all time as of 2024?",
-        "a": "PlayStation 2"
-      },
-      {
-        "q": "What Nintendo handheld launched in 2004 with two screens?",
-        "a": "Nintendo DS"
-      },
-      {
-        "q": "What genre is Dark Souls classified as?",
-        "a": "Souls-like RPG"
-      },
-      {
-        "q": "What open-world fantasy game stars a dragon-speaking hero?",
-        "a": "Skyrim"
       }
     ],
     "400": [
@@ -27975,30 +24475,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What arena fighter features Smash players' most famous character?",
         "a": "Super Smash Bros"
-      },
-      {
-        "q": "What was the name of Atari's original home console?",
-        "a": "Atari 2600"
-      },
-      {
-        "q": "What MMO is developed by Blizzard and launched in 2004?",
-        "a": "World of Warcraft"
-      },
-      {
-        "q": "What underwater city is BioShock set in?",
-        "a": "Rapture"
-      },
-      {
-        "q": "What sci-fi city is BioShock Infinite set in?",
-        "a": "Columbia"
-      },
-      {
-        "q": "What indie game features a skeleton and falling into the Underground?",
-        "a": "Undertale"
-      },
-      {
-        "q": "What 2023 smash hit Baldur's Gate entry was developed by Larian?",
-        "a": "Baldur's Gate 3"
       }
     ],
     "600": [
@@ -28177,38 +24653,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What was the original N64 game released alongside the launch console in Japan?",
         "a": "Super Mario 64"
-      },
-      {
-        "q": "What is the best-selling console video game of all time?",
-        "a": "Minecraft"
-      },
-      {
-        "q": "What EA Sports FIFA entry had the last full game before rebranding?",
-        "a": "FIFA 23"
-      },
-      {
-        "q": "What famous game designer created Metal Gear?",
-        "a": "Hideo Kojima"
-      },
-      {
-        "q": "What game studio founded by Kojima released Death Stranding?",
-        "a": "Kojima Productions"
-      },
-      {
-        "q": "What studio made The Last of Us?",
-        "a": "Naughty Dog"
-      },
-      {
-        "q": "What studio made Uncharted?",
-        "a": "Naughty Dog"
-      },
-      {
-        "q": "What Pokemon game introduced Mega Evolutions?",
-        "a": "Pokemon X and Y"
-      },
-      {
-        "q": "What 2023 GOTY winner from Larian Studios defeated strong competition?",
-        "a": "Baldur's Gate 3"
       }
     ]
   },
@@ -28345,54 +24789,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What blue and purple skin is based on a cute ice cream cone?",
         "a": "Brite Bomber"
-      },
-      {
-        "q": "What company makes Fortnite?",
-        "a": "Epic Games"
-      },
-      {
-        "q": "How many players drop into a standard battle royale match?",
-        "a": "100"
-      },
-      {
-        "q": "What vehicle do players jump out of at the start of a match?",
-        "a": "Battle Bus"
-      },
-      {
-        "q": "What currency is used to buy skins in the shop?",
-        "a": "V-Bucks"
-      },
-      {
-        "q": "What mode features zombies and tower defense?",
-        "a": "Save the World"
-      },
-      {
-        "q": "What llama contains loot and rewards when broken?",
-        "a": "Loot Llama"
-      },
-      {
-        "q": "What one-shot sniper rifle is famously heavy?",
-        "a": "Heavy sniper"
-      },
-      {
-        "q": "What shotgun was the original starter pump?",
-        "a": "Pump shotgun"
-      },
-      {
-        "q": "What game mode features no building at all?",
-        "a": "Zero Build"
-      },
-      {
-        "q": "What game engine powers Fortnite?",
-        "a": "Unreal Engine"
-      },
-      {
-        "q": "What material is the weakest of the three build mats?",
-        "a": "Wood"
-      },
-      {
-        "q": "What major crossover introduced light sabers and force abilities?",
-        "a": "Star Wars"
       }
     ],
     "400": [
@@ -28567,22 +24963,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What mode features respawning and capturing points across teams?",
         "a": "Team Rumble"
-      },
-      {
-        "q": "What named location returned with Chapter 2 as a rebuild of Tilted?",
-        "a": "Neo Tilted"
-      },
-      {
-        "q": "What character is known as the Foundation and voiced by a Rock star?",
-        "a": "The Rock"
-      },
-      {
-        "q": "What fishing mechanic lets you reel in weapons and loot?",
-        "a": "Fishing rod"
-      },
-      {
-        "q": "What exclusive Chapter 2 weapon was a Heavy Assault Rifle?",
-        "a": "Heavy AR"
       }
     ],
     "600": [
@@ -28725,34 +25105,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What new game mode launched alongside Chapter 5 with kart racing?",
         "a": "Rocket Racing"
-      },
-      {
-        "q": "What year did Fortnite Battle Royale release?",
-        "a": "2017"
-      },
-      {
-        "q": "What was the name of Fortnite's initial Save the World launch year?",
-        "a": "2017"
-      },
-      {
-        "q": "What was the original name of Fortnite's Zero Build mode before its rename?",
-        "a": "No Build"
-      },
-      {
-        "q": "What 2023 Chapter 4 in-game concert event featured the Big Bang?",
-        "a": "Big Bang event"
-      },
-      {
-        "q": "What skin is a reference to John Wick and became Season 3 tier 100?",
-        "a": "The Reaper"
-      },
-      {
-        "q": "What 2019 Epic Games lawsuit was filed by a rapper over 'Milly Rock'?",
-        "a": "2 Milly"
-      },
-      {
-        "q": "What was the first Icon Series skin added to Fortnite?",
-        "a": "Ninja"
       }
     ]
   },
@@ -28917,38 +25269,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What month and year did Valorant officially release?",
         "a": "June 2020"
-      },
-      {
-        "q": "What studio developed Valorant?",
-        "a": "Riot Games"
-      },
-      {
-        "q": "How many rounds are needed to win a standard match historically?",
-        "a": "13"
-      },
-      {
-        "q": "What class is designed for entry fragging?",
-        "a": "Duelist"
-      },
-      {
-        "q": "What sniper rifle one-shots to the body?",
-        "a": "Operator"
-      },
-      {
-        "q": "What currency is earned per round to buy weapons?",
-        "a": "Credits"
-      },
-      {
-        "q": "What agent heals teammates and revives with orbs?",
-        "a": "Sage"
-      },
-      {
-        "q": "What is a common map with three sites named after countries?",
-        "a": "Haven"
-      },
-      {
-        "q": "What agent controls space with a trap wire and turret?",
-        "a": "Killjoy"
       }
     ],
     "400": [
@@ -29095,42 +25415,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What 2022 feature added random loot-box-style guns during match?",
         "a": "Premier mode"
-      },
-      {
-        "q": "What is the name of Jett's ultimate weapon with throwing knives?",
-        "a": "Blade Storm"
-      },
-      {
-        "q": "What ultimate orb does Omen use to teleport across the map?",
-        "a": "From the Shadows"
-      },
-      {
-        "q": "What Chamber ultimate is a long-range instant kill sniper?",
-        "a": "Tour de Force"
-      },
-      {
-        "q": "What agent can recon darts and drone?",
-        "a": "Sova"
-      },
-      {
-        "q": "What agent wears a hijab and uses radio wave detection?",
-        "a": "Cypher"
-      },
-      {
-        "q": "What map features teleporters in a European canal-style town?",
-        "a": "Bind"
-      },
-      {
-        "q": "What map has four sites at launch, unusual for Valorant?",
-        "a": "Haven"
-      },
-      {
-        "q": "What rank introduced in 2022 sits between Diamond and Immortal?",
-        "a": "Ascendant"
-      },
-      {
-        "q": "What is the name of Riot's anti-cheat system?",
-        "a": "Vanguard"
       }
     ],
     "600": [
@@ -29309,26 +25593,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What patch first added the Pearl map to competitive rotation?",
         "a": "Episode 5"
-      },
-      {
-        "q": "What year did Valorant closed beta begin?",
-        "a": "2020"
-      },
-      {
-        "q": "What map was removed and reworked returning as a remake in 2023?",
-        "a": "Split"
-      },
-      {
-        "q": "What North American team won the first Valorant Champions 2021?",
-        "a": "Acend"
-      },
-      {
-        "q": "What team's Brazilian roster took VCT 2022 championship?",
-        "a": "LOUD"
-      },
-      {
-        "q": "What patch numbered the first map rotation into live?",
-        "a": "Patch 5.12"
       }
     ]
   },
@@ -29477,46 +25741,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What fish mob is found in rivers and can be caught?",
         "a": "Salmon"
-      },
-      {
-        "q": "What is the final boss of Minecraft?",
-        "a": "Ender Dragon"
-      },
-      {
-        "q": "What hostile mob shoots arrows at players?",
-        "a": "Skeleton"
-      },
-      {
-        "q": "What food item can be crafted from wheat?",
-        "a": "Bread"
-      },
-      {
-        "q": "What tool chops wood fastest?",
-        "a": "Axe"
-      },
-      {
-        "q": "What do you need to light a Nether portal?",
-        "a": "Flint and steel"
-      },
-      {
-        "q": "What block is made by smelting sand?",
-        "a": "Glass"
-      },
-      {
-        "q": "What is the name of the company that made Minecraft?",
-        "a": "Mojang"
-      },
-      {
-        "q": "What is the name of the underworld dimension?",
-        "a": "The Nether"
-      },
-      {
-        "q": "What is the name of the dragon's home dimension?",
-        "a": "The End"
-      },
-      {
-        "q": "What tool is needed to mine stone without losing it?",
-        "a": "Pickaxe"
       }
     ],
     "400": [
@@ -29687,30 +25911,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What enchantment increases damage to undead mobs?",
         "a": "Smite"
-      },
-      {
-        "q": "What hostile flying Nether mob shoots fireballs?",
-        "a": "Ghast"
-      },
-      {
-        "q": "What is the name of the desert temple treasure room trap?",
-        "a": "TNT trap"
-      },
-      {
-        "q": "What item lets you glide through the air?",
-        "a": "Elytra"
-      },
-      {
-        "q": "What fish used to craft tropical buckets are bred by clownfish?",
-        "a": "Tropical fish"
-      },
-      {
-        "q": "What crystal heals the Ender Dragon and sits on obsidian pillars?",
-        "a": "End crystal"
-      },
-      {
-        "q": "What golem is made from four iron blocks and a pumpkin?",
-        "a": "Iron golem"
       }
     ],
     "600": [
@@ -29861,26 +26061,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What actor plays Steve in the Minecraft movie?",
         "a": "Jack Black"
-      },
-      {
-        "q": "What year was Minecraft officially released in full?",
-        "a": "2011"
-      },
-      {
-        "q": "What was Minecraft's original name at launch?",
-        "a": "Cave Game"
-      },
-      {
-        "q": "What structure contains the End portal frames?",
-        "a": "Stronghold"
-      },
-      {
-        "q": "What company acquired Mojang in 2014?",
-        "a": "Microsoft"
-      },
-      {
-        "q": "What Minecraft movie is scheduled for release in 2025?",
-        "a": "A Minecraft Movie"
       }
     ]
   },
@@ -30033,42 +26213,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the creature that releases smoke and can fly?",
         "a": "Wyvern"
-      },
-      {
-        "q": "What prehistoric animals are the main creatures in Ark Survival?",
-        "a": "Dinosaurs"
-      },
-      {
-        "q": "What company developed Ark Survival Evolved?",
-        "a": "Studio Wildcard"
-      },
-      {
-        "q": "What name describes the flying ray-like creature used for transport?",
-        "a": "Pteranodon"
-      },
-      {
-        "q": "What meat gives maximum taming effectiveness to carnivores?",
-        "a": "Prime meat"
-      },
-      {
-        "q": "What is the main map originally released in Ark?",
-        "a": "The Island"
-      },
-      {
-        "q": "What futuristic sequel DLC lets you play in a galactic setting?",
-        "a": "Genesis"
-      },
-      {
-        "q": "What alpha Tyrannosaurus is larger and more aggressive?",
-        "a": "Alpha T-Rex"
-      },
-      {
-        "q": "What late-game tier of armor is the strongest in Ark?",
-        "a": "Tek armor"
-      },
-      {
-        "q": "What is the turtle-like creature called in Ark?",
-        "a": "Carbonemys"
       }
     ],
     "400": [
@@ -30207,50 +26351,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What type of combat does Ark 2 focus on more heavily?",
         "a": "Melee"
-      },
-      {
-        "q": "What wyvern type breathes fire?",
-        "a": "Fire Wyvern"
-      },
-      {
-        "q": "What wyvern type breathes ice?",
-        "a": "Ice Wyvern"
-      },
-      {
-        "q": "What wyvern type breathes lightning?",
-        "a": "Lightning Wyvern"
-      },
-      {
-        "q": "What wyvern type breathes poison?",
-        "a": "Poison Wyvern"
-      },
-      {
-        "q": "What boss waits at the end of Scorched Earth?",
-        "a": "Manticore"
-      },
-      {
-        "q": "What hybrid beast of bat and snake is the boss of Aberration?",
-        "a": "Rockwell"
-      },
-      {
-        "q": "What is Extinction's end game boss?",
-        "a": "King Titan"
-      },
-      {
-        "q": "What titan type fires lightning from its back?",
-        "a": "Desert Titan"
-      },
-      {
-        "q": "What flying titan can be tamed temporarily during boss encounters?",
-        "a": "Desert Titan"
-      },
-      {
-        "q": "What titan lurks in ice biomes of Extinction?",
-        "a": "Ice Titan"
-      },
-      {
-        "q": "What actor stars as protagonist Santiago in Ark 2?",
-        "a": "Vin Diesel"
       }
     ],
     "600": [
@@ -30405,50 +26505,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What real-world year does the Ark simulation lore take place in?",
         "a": "Distant future"
-      },
-      {
-        "q": "What year was Ark Survival Evolved first released in early access?",
-        "a": "2015"
-      },
-      {
-        "q": "What year did Ark Survival Evolved officially leave early access?",
-        "a": "2017"
-      },
-      {
-        "q": "What engine does Ark Survival Ascended run on?",
-        "a": "Unreal Engine 5"
-      },
-      {
-        "q": "What is the maximum wild level a creature can spawn at base settings?",
-        "a": "150"
-      },
-      {
-        "q": "What secret cave is known for containing the Island's Overseer?",
-        "a": "Tek Cave"
-      },
-      {
-        "q": "What character actor plays the main role in Ark 2?",
-        "a": "Vin Diesel"
-      },
-      {
-        "q": "What exact level is required to unlock Tek Replicator?",
-        "a": "Level 85"
-      },
-      {
-        "q": "What is the exact level needed to craft regular scuba gear?",
-        "a": "Level 80"
-      },
-      {
-        "q": "What is the official name of the animated Ark TV series?",
-        "a": "Ark The Animated Series"
-      },
-      {
-        "q": "What is the name of the Ark II lead director?",
-        "a": "Jeremy Stieglitz"
-      },
-      {
-        "q": "What fan-made mod expanded into the official Center Map?",
-        "a": "The Center"
       }
     ]
   },
@@ -30597,38 +26653,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who created Big Bang Theory?",
         "a": "Chuck Lorre"
-      },
-      {
-        "q": "Penny lives across the hall and works as a?",
-        "a": "Waitress"
-      },
-      {
-        "q": "What field is Sheldon in?",
-        "a": "Theoretical physics"
-      },
-      {
-        "q": "Which show catchphrase does Sheldon say?",
-        "a": "Bazinga"
-      },
-      {
-        "q": "Sheldon's favorite superhero is?",
-        "a": "The Flash"
-      },
-      {
-        "q": "Which night is Halo night?",
-        "a": "Wednesday"
-      },
-      {
-        "q": "What instrument does Sheldon's mom say God gave him?",
-        "a": "Bongos"
-      },
-      {
-        "q": "Sheldon's twin sister is?",
-        "a": "Missy"
-      },
-      {
-        "q": "Penny is from which state?",
-        "a": "Nebraska"
       }
     ],
     "400": [
@@ -30795,42 +26819,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Howard wears what style of clothing?",
         "a": "Turtlenecks"
-      },
-      {
-        "q": "What is the name of Leonard's mom?",
-        "a": "Beverly"
-      },
-      {
-        "q": "Sheldon's mother is named?",
-        "a": "Mary"
-      },
-      {
-        "q": "What Sheldon childhood show spin-off exists?",
-        "a": "Young Sheldon"
-      },
-      {
-        "q": "Howard and Bernadette have a daughter named?",
-        "a": "Halley"
-      },
-      {
-        "q": "Howard and Bernadette also have a son named?",
-        "a": "Neil Michael"
-      },
-      {
-        "q": "What theory did Sheldon and Amy propose?",
-        "a": "Super-asymmetry"
-      },
-      {
-        "q": "What is the show Sheldon co-hosts online?",
-        "a": "Fun with Flags"
-      },
-      {
-        "q": "What relationship contract do Sheldon and Amy sign?",
-        "a": "Relationship Agreement"
-      },
-      {
-        "q": "What is Howard's job title at Caltech?",
-        "a": "Engineer"
       }
     ],
     "600": [
@@ -31161,54 +27149,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "How does Carl die?",
         "a": "Walker bite"
-      },
-      {
-        "q": "What is Rick's profession before the apocalypse?",
-        "a": "Sheriff's deputy"
-      },
-      {
-        "q": "What weapon is Daryl known for using?",
-        "a": "Crossbow"
-      },
-      {
-        "q": "What is the name of Daryl's brother?",
-        "a": "Merle"
-      },
-      {
-        "q": "What is Rick's wife's name?",
-        "a": "Lori"
-      },
-      {
-        "q": "What is the name of Rick's best friend and partner?",
-        "a": "Shane"
-      },
-      {
-        "q": "What does the group call the zombies?",
-        "a": "Walkers"
-      },
-      {
-        "q": "What was Carol's daughter's name?",
-        "a": "Sophia"
-      },
-      {
-        "q": "What weapon is Michonne famous for using?",
-        "a": "Katana"
-      },
-      {
-        "q": "What is Negan's signature weapon?",
-        "a": "Lucille"
-      },
-      {
-        "q": "What group is introduced led by Ezekiel?",
-        "a": "The Kingdom"
-      },
-      {
-        "q": "What is the name of Ezekiel's tiger?",
-        "a": "Shiva"
-      },
-      {
-        "q": "What is the name of Rick's daughter?",
-        "a": "Judith"
       }
     ],
     "400": [
@@ -31391,30 +27331,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What villainous group wears walker skins?",
         "a": "Whisperers"
-      },
-      {
-        "q": "What is the name of Negan's wife?",
-        "a": "Lucille"
-      },
-      {
-        "q": "Who kills Abraham in the season 7 premiere?",
-        "a": "Negan"
-      },
-      {
-        "q": "Who kills Glenn in the season 7 premiere?",
-        "a": "Negan"
-      },
-      {
-        "q": "What does Negan call his baseball bat?",
-        "a": "Lucille"
-      },
-      {
-        "q": "Who does Negan force Rick to cut his son's arm off?",
-        "a": "Carl"
-      },
-      {
-        "q": "Who leads Oceanside at first?",
-        "a": "Natania"
       }
     ],
     "600": [
@@ -31613,14 +27529,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who kills the Governor?",
         "a": "Michonne"
-      },
-      {
-        "q": "Who is the leader of the Whisperers?",
-        "a": "Alpha"
-      },
-      {
-        "q": "Who is Alpha's daughter?",
-        "a": "Lydia"
       }
     ]
   },
@@ -31753,66 +27661,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Stitch's alien friend?",
         "a": "Lilo"
-      },
-      {
-        "q": "What is the name of Simba's father in 'The Lion King'?",
-        "a": "Mufasa"
-      },
-      {
-        "q": "Who is the villain in 'Sleeping Beauty'?",
-        "a": "Maleficent"
-      },
-      {
-        "q": "Which Disney princess lets down her long golden hair?",
-        "a": "Rapunzel"
-      },
-      {
-        "q": "Who is the toy cowboy in 'Toy Story'?",
-        "a": "Woody"
-      },
-      {
-        "q": "Which Disney movie features the song 'Let It Go'?",
-        "a": "Frozen"
-      },
-      {
-        "q": "Who is the main villain in 'The Lion King'?",
-        "a": "Scar"
-      },
-      {
-        "q": "What is the name of Ariel's fish friend?",
-        "a": "Flounder"
-      },
-      {
-        "q": "Who is the genie voiced by in the 1992 'Aladdin'?",
-        "a": "Robin Williams"
-      },
-      {
-        "q": "What is the name of the clownfish dad in 'Finding Nemo'?",
-        "a": "Marlin"
-      },
-      {
-        "q": "Which Disney princess marries Prince Eric?",
-        "a": "Ariel"
-      },
-      {
-        "q": "What is the name of Mulan's dragon sidekick?",
-        "a": "Mushu"
-      },
-      {
-        "q": "What is the name of the villain in 'The Little Mermaid'?",
-        "a": "Ursula"
-      },
-      {
-        "q": "Which Disney movie features the song 'A Whole New World'?",
-        "a": "Aladdin"
-      },
-      {
-        "q": "What is the name of Pinocchio's cricket friend?",
-        "a": "Jiminy Cricket"
-      },
-      {
-        "q": "Who is the villain in '101 Dalmatians'?",
-        "a": "Cruella de Vil"
       }
     ],
     "400": [
@@ -31963,62 +27811,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Disney film features the song 'How Far I'll Go'?",
         "a": "Moana"
-      },
-      {
-        "q": "What is the home city of Big Hero 6?",
-        "a": "San Fransokyo"
-      },
-      {
-        "q": "What is the name of Belle's father in 'Beauty and the Beast'?",
-        "a": "Maurice"
-      },
-      {
-        "q": "Which Disney film is based on a Hans Christian Andersen tale about a mermaid?",
-        "a": "The Little Mermaid"
-      },
-      {
-        "q": "Who voices Woody in 'Toy Story'?",
-        "a": "Tom Hanks"
-      },
-      {
-        "q": "Who is the villain in 'The Princess and the Frog'?",
-        "a": "Dr. Facilier"
-      },
-      {
-        "q": "Which Disney princess is Scottish?",
-        "a": "Merida"
-      },
-      {
-        "q": "What is the name of Rapunzel's chameleon?",
-        "a": "Pascal"
-      },
-      {
-        "q": "Which Disney film features a chef who is a rat?",
-        "a": "Ratatouille"
-      },
-      {
-        "q": "Who founded Walt Disney's brother and business partner?",
-        "a": "Roy Disney"
-      },
-      {
-        "q": "Who is Moana's animal friend besides Pua?",
-        "a": "Heihei"
-      },
-      {
-        "q": "Which Pixar film is set mostly inside a young girl's mind?",
-        "a": "Inside Out"
-      },
-      {
-        "q": "What is the villain's name in 'Tangled'?",
-        "a": "Mother Gothel"
-      },
-      {
-        "q": "Who is Stitch's official experiment number?",
-        "a": "626"
-      },
-      {
-        "q": "What is the setting kingdom in 'Tangled'?",
-        "a": "Corona"
       }
     ],
     "600": [
@@ -32217,22 +28009,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who voices Anna in the 'Frozen' films?",
         "a": "Kristen Bell"
-      },
-      {
-        "q": "What year did 'Snow White and the Seven Dwarfs' premiere?",
-        "a": "1937"
-      },
-      {
-        "q": "What is the real name of the villain in 'Tangled'?",
-        "a": "Mother Gothel"
-      },
-      {
-        "q": "What year did 'Pinocchio' release?",
-        "a": "1940"
-      },
-      {
-        "q": "Which Disney attraction is themed around a haunted New Orleans mansion?",
-        "a": "Haunted Mansion"
       }
     ]
   },
@@ -32373,54 +28149,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the race that serves Sauron?",
         "a": "Orcs"
-      },
-      {
-        "q": "What is the name of the wizard who guides Frodo?",
-        "a": "Gandalf"
-      },
-      {
-        "q": "Where must the One Ring be destroyed?",
-        "a": "Mount Doom"
-      },
-      {
-        "q": "Who is Frodo's loyal gardener and best friend?",
-        "a": "Samwise Gamgee"
-      },
-      {
-        "q": "Who is the dark lord seeking the One Ring?",
-        "a": "Sauron"
-      },
-      {
-        "q": "Who is the elf archer in the Fellowship?",
-        "a": "Legolas"
-      },
-      {
-        "q": "In which region do the Hobbits live?",
-        "a": "The Shire"
-      },
-      {
-        "q": "Who directed the 'Lord of the Rings' movie trilogy?",
-        "a": "Peter Jackson"
-      },
-      {
-        "q": "What is the tower of Sauron called?",
-        "a": "Barad-dur"
-      },
-      {
-        "q": "What is the name of Aragorn's sword?",
-        "a": "Anduril"
-      },
-      {
-        "q": "What is the name of the evil fortress tower in Isengard?",
-        "a": "Orthanc"
-      },
-      {
-        "q": "Who is the king of Rohan?",
-        "a": "Theoden"
-      },
-      {
-        "q": "How many members are in the Fellowship of the Ring?",
-        "a": "Nine"
       }
     ],
     "400": [
@@ -32603,30 +28331,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What song does Pippin sing for Denethor?",
         "a": "Edge of Night"
-      },
-      {
-        "q": "What is the name of the star-shaped jewel Galadriel gives Frodo?",
-        "a": "Phial of Galadriel"
-      },
-      {
-        "q": "What creature kills Gandalf in Moria?",
-        "a": "Balrog"
-      },
-      {
-        "q": "What is the last member of the Fellowship named?",
-        "a": "Boromir"
-      },
-      {
-        "q": "Which beacons are lit to call for aid?",
-        "a": "Beacons of Gondor"
-      },
-      {
-        "q": "What is Sauron's lidless symbol called?",
-        "a": "Eye of Sauron"
-      },
-      {
-        "q": "What is the name of Bilbo's ring when he found it?",
-        "a": "The One Ring"
       }
     ],
     "600": [
@@ -32833,18 +28537,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Faramir's ranger company?",
         "a": "Rangers of Ithilien"
-      },
-      {
-        "q": "What is the name of the Numenorean sword Aragorn reforges?",
-        "a": "Anduril"
-      },
-      {
-        "q": "What mountain pass does the Fellowship attempt before Moria?",
-        "a": "Caradhras"
-      },
-      {
-        "q": "What is the real name of Strider the Ranger?",
-        "a": "Aragorn"
       }
     ]
   },
@@ -32973,54 +28665,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the common format of each episode?",
         "a": "Criminal of the week"
-      },
-      {
-        "q": "Who plays Raymond Reddington?",
-        "a": "James Spader"
-      },
-      {
-        "q": "On what network did The Blacklist air?",
-        "a": "NBC"
-      },
-      {
-        "q": "What is the list of criminals Red helps catch called?",
-        "a": "The Blacklist"
-      },
-      {
-        "q": "What is Red's former profession?",
-        "a": "Naval officer"
-      },
-      {
-        "q": "What year did The Blacklist premiere?",
-        "a": "2013"
-      },
-      {
-        "q": "Who plays Aram Mojtabai?",
-        "a": "Amir Arison"
-      },
-      {
-        "q": "Who is Liz's husband in season 1?",
-        "a": "Tom Keen"
-      },
-      {
-        "q": "What is Tom's secret identity?",
-        "a": "Spy"
-      },
-      {
-        "q": "What is the name of the abandoned post office used as headquarters?",
-        "a": "DC post office"
-      },
-      {
-        "q": "Who plays Mr. Kaplan?",
-        "a": "Susan Blommaert"
-      },
-      {
-        "q": "Who plays Katarina Rostova?",
-        "a": "Laila Robins"
-      },
-      {
-        "q": "What is Liz's adopted daughter's name?",
-        "a": "Agnes"
       }
     ],
     "400": [
@@ -33199,14 +28843,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "How does Ressler become involved with Liz's daughter?",
         "a": "Raises her"
-      },
-      {
-        "q": "Who plays Ian Garvey?",
-        "a": "Jonny Coyne"
-      },
-      {
-        "q": "What is the name of Red's private jet pilot?",
-        "a": "Edward"
       }
     ],
     "600": [
@@ -33385,14 +29021,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does the finale reveal about Red?",
         "a": "He is Katarina's operative"
-      },
-      {
-        "q": "How many episodes aired in total?",
-        "a": "218"
-      },
-      {
-        "q": "Who killed Anne?",
-        "a": "Katarina"
       }
     ]
   },
@@ -35201,6 +30829,114 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act it out — no talking, no sounds!",
         "a": "Hungary"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "North Korea"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Vatican City"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Monaco"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Maldives"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Bahamas"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Barbados"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Luxembourg"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Malta"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Cyprus"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Serbia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Albania"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Rwanda"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Namibia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Botswana"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Zambia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Somalia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Mauritius"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Seychelles"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Belize"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "El Salvador"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Tonga"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Cameroon"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Ivory Coast"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Lithuania"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Andorra"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Liechtenstein"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Democratic Republic of the Congo"
       }
     ],
     "400": [
@@ -35259,6 +30995,126 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act it out — no talking, no sounds!",
         "a": "Sri Lanka"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Mali"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Mozambique"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Angola"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Kyrgyzstan"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Turkmenistan"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Moldova"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Montenegro"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Bosnia and Herzegovina"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "North Macedonia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "San Marino"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Grenada"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Saint Lucia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Antigua and Barbuda"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Suriname"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Guyana"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Vanuatu"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Palau"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Malawi"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Lesotho"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Eswatini"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Sierra Leone"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Liberia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Benin"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Gambia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Cape Verde"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Eritrea"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Djibouti"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Niger"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Chad"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Burkina Faso"
       }
     ],
     "600": [
@@ -35325,6 +31181,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act it out — no talking, no sounds!",
         "a": "Laos"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Timor-Leste"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Solomon Islands"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Kiribati"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Tuvalu"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Nauru"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Marshall Islands"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Micronesia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Dominica"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Saint Kitts and Nevis"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Saint Vincent and the Grenadines"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Togo"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Guinea"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Mauritania"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Gabon"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Central African Republic"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Equatorial Guinea"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Burundi"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Comoros"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Sao Tome and Principe"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Guinea-Bissau"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "South Sudan"
       }
     ]
   },
@@ -35905,22 +31845,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does Bradford call all his rookies?",
         "a": "Boot"
-      },
-      {
-        "q": "What career move does Lucy attempt late series?",
-        "a": "Detective"
-      },
-      {
-        "q": "What is Monica's profession?",
-        "a": "Defense attorney"
-      },
-      {
-        "q": "What case does Monica defend against Wesley?",
-        "a": "La Fiera"
-      },
-      {
-        "q": "What is the name of Nolan's construction company?",
-        "a": "Nolan Construction"
       }
     ]
   },
@@ -36027,84 +31951,164 @@ const QUALITY_BACKFILL = {
         "a": "Robin van Persie"
       },
       {
-        "q": "Argentine forward. 8x Ballon d'Or winner. Left-footed dribbler. Lifted the 2022 World Cup in Qatar.",
-        "a": "Lionel Messi"
+        "q": "English forward. Manchester United's all-time leading scorer. Scored a spectacular overhead kick in a 2011 Manchester derby. Started and later finished his Premier League career at Everton.",
+        "a": "Wayne Rooney"
       },
       {
-        "q": "Egyptian winger. Liverpool's Premier League era top scorer. Left-footed curler. Known as the Egyptian King.",
-        "a": "Mohamed Salah"
+        "q": "Italian deep-lying playmaker. Won the 2006 World Cup. Lifted the Champions League twice with AC Milan before winning four straight Serie A titles at Juventus. Chipped a famous Panenka penalty against England at Euro 2012.",
+        "a": "Andrea Pirlo"
       },
       {
-        "q": "English striker. England's all-time top scorer. Former Tottenham captain now at Bayern Munich.",
-        "a": "Harry Kane"
+        "q": "Italian goalkeeper. Won the 2006 World Cup. Spent most of two decades at Juventus and holds the Serie A appearance record. Lost three Champions League finals without ever winning the trophy.",
+        "a": "Gianluigi Buffon"
       },
       {
-        "q": "Argentine forward. Scored the Hand of God and Goal of the Century in 1986. Napoli icon.",
-        "a": "Diego Maradona"
+        "q": "Italian defender. Spent his entire 25-season career at AC Milan. Won the European Cup or Champions League five times. His father captained the same club and his son later played for it too.",
+        "a": "Paolo Maldini"
       },
       {
-        "q": "English winger. Married a Spice Girl. Pinpoint crosses from deep. Wore 7 at Manchester United.",
-        "a": "David Beckham"
+        "q": "Brazilian attacking midfielder. Won the 2007 Ballon d'Or, the last before Messi and Ronaldo dominated the award. Champions League winner with AC Milan before a then world-record move to Real Madrid. Famous for an 'I belong to Jesus' undershirt.",
+        "a": "Kaká"
       },
       {
-        "q": "Dutch total-football icon. Won three European Cups with Ajax. Gave his name to a famous turn.",
-        "a": "Johan Cruyff"
+        "q": "Brazilian attacking midfielder. Won the 1999 Ballon d'Or and the 2002 World Cup. Completed a Barcelona hat-trick with a last-minute overhead kick against Valencia in 2001. Infamously clutched his face after a ball struck his leg at the 2002 World Cup.",
+        "a": "Rivaldo"
       },
       {
-        "q": "French striker. Scored twice in the 1998 World Cup final. Arsenal's all-time top scorer. Nicknamed Titi.",
-        "a": "Thierry Henry"
+        "q": "Brazilian left-back. Bent a physics-defying free kick past France's goalkeeper in a 1997 friendly tournament. Won three Champions Leagues with Real Madrid and the 2002 World Cup. Known for enormous thighs and a rocket left foot.",
+        "a": "Roberto Carlos"
       },
       {
-        "q": "Welsh winger. Four Champions League trophies at Real Madrid. Scored a bicycle kick in the 2018 final.",
-        "a": "Gareth Bale"
+        "q": "Brazilian right-back. The only player to appear in three consecutive World Cup finals. Captained his country to the 2002 title. Won Serie A with Roma and the Champions League with AC Milan.",
+        "a": "Cafu"
       },
       {
-        "q": "Liverpool midfielder. 2005 Istanbul comeback captain. Slipped vs Chelsea in 2014.",
-        "a": "Steven Gerrard"
+        "q": "Dutch winger. Everyone knew he would cut inside onto his left foot, yet few could stop it. Scored the winner in the 2013 Champions League final for Bayern Munich. Also played for Chelsea, Real Madrid and PSV.",
+        "a": "Arjen Robben"
       },
       {
-        "q": "Chelsea midfielder. Blues' all-time top scorer. Disallowed goal vs Germany in 2010.",
-        "a": "Frank Lampard"
+        "q": "French winger. Bears a facial scar from a childhood car accident. Formed a feared wing partnership at Bayern Munich, winning the 2013 treble. Named UEFA's Best Player in Europe that year.",
+        "a": "Franck Ribéry"
       },
       {
-        "q": "Welsh winger. Manchester United legend. Most decorated English league player. Left-footed wizard.",
-        "a": "Ryan Giggs"
+        "q": "Dutch attacking midfielder. Won the treble with Inter in 2010 and reached the World Cup final the same summer. Previously at Ajax and Real Madrid, later a Galatasaray favourite. Many felt he deserved the 2010 Ballon d'Or.",
+        "a": "Wesley Sneijder"
       },
       {
-        "q": "Spanish keeper. Madrid number one for a decade. Lifted the 2010 World Cup as captain.",
-        "a": "Iker Casillas"
+        "q": "German full-back. Captained his country to the 2014 World Cup and retired from international football right after. A one-club man at Bayern Munich apart from a loan at Stuttgart. Pep Guardiola called him the most intelligent player he ever coached.",
+        "a": "Philipp Lahm"
       },
       {
-        "q": "German goalkeeper. Lifted the 2014 World Cup. Sweeper-keeper pioneer. Longtime Bayern number one.",
-        "a": "Manuel Neuer"
+        "q": "German goalkeeper. Won the Golden Ball at the 2002 World Cup, the only keeper ever to do so. Long-time Bayern Munich captain with a ferocious temper. Later became the club's CEO.",
+        "a": "Oliver Kahn"
       },
       {
-        "q": "Portuguese midfielder. Manchester United captain. Set-piece specialist. Long-range shots and leadership.",
-        "a": "Bruno Fernandes"
+        "q": "German striker. Holds the record for most goals in World Cup history. Celebrated with a front flip. Won the 2014 World Cup and played for Bayern Munich and Lazio.",
+        "a": "Miroslav Klose"
       },
       {
-        "q": "English striker. 1986 World Cup Golden Boot. Never booked in his career. Hosts Match of the Day.",
-        "a": "Gary Lineker"
+        "q": "German forward who called himself a 'space interpreter'. Won the Golden Boot at the 2010 World Cup. Spent 25 years at Bayern Munich before joining a Canadian MLS club in 2025. Gangly, unorthodox and endlessly effective.",
+        "a": "Thomas Müller"
       },
       {
-        "q": "English defender. Manchester United and Leeds. Drug-test ban in 2003. TV pundit.",
-        "a": "Rio Ferdinand"
+        "q": "German midfielder. Captained West Germany to the 1990 World Cup and won the Ballon d'Or that year. Played at five World Cups and starred for Bayern Munich and Inter. Held the record for most World Cup matches until Messi passed it in 2022.",
+        "a": "Lothar Matthäus"
       },
       {
-        "q": "English midfielder. Manchester United's red-headed passer. Famous long-range shots. Rarely gave interviews.",
-        "a": "Paul Scholes"
+        "q": "German playmaker with a famously wide-eyed stare. Won the 2014 World Cup. Real Madrid's assist king before joining Arsenal, where he won the FA Cup several times. Retired in 2023 after spells in Turkey.",
+        "a": "Mesut Özil"
       },
       {
-        "q": "French defender. 1998 World Cup and Euro 2000 winner. Chelsea and Real Madrid. Shaved head.",
-        "a": "Marcel Desailly"
+        "q": "Spanish centre-back. Left Manchester United's youth ranks to return to Barcelona, winning two trebles there. World Cup winner in 2010. Was in a long relationship with pop star Shakira.",
+        "a": "Gerard Piqué"
       },
       {
-        "q": "Brazilian right-back. Samba celebrations. Barcelona, PSG and Juventus. Record-breaking trophy haul.",
-        "a": "Dani Alves"
+        "q": "Brazilian left-back with unmistakable curly hair. Won five Champions League titles with Real Madrid. Later lifted the Copa Libertadores with Fluminense in 2023. Loved a nutmeg and a rabona.",
+        "a": "Marcelo"
       },
       {
-        "q": "Italian forward. Roma lifer. Nicknamed Il Gladiatore. Spent his entire career at his hometown club.",
-        "a": "Francesco Totti"
+        "q": "Dutch striker. Won the Premier League Golden Boot in 2003 with Manchester United. Missed a last-minute penalty against Arsenal in the 2003 'Battle of Old Trafford'. Later played for Real Madrid and briefly managed United as caretaker in 2024.",
+        "a": "Ruud van Nistelrooy"
+      },
+      {
+        "q": "Italian forward. Juventus's all-time top scorer and record appearance holder. Stayed with the club through its 2006 relegation to Serie B. Won the 2006 World Cup and had a trademark curling finish into the far corner.",
+        "a": "Alessandro Del Piero"
+      },
+      {
+        "q": "Italian centre-back. Captained his country to the 2006 World Cup and won that year's Ballon d'Or. Only about 5ft 9in tall but a superb reader of the game. Played for Parma, Juventus, Inter and Real Madrid.",
+        "a": "Fabio Cannavaro"
+      },
+      {
+        "q": "South Korean forward. Captained Tottenham to the 2025 Europa League, the club's first trophy in 17 years. Shared a Premier League Golden Boot in 2022. Moved to LAFC in Los Angeles in 2025.",
+        "a": "Son Heung-min"
+      },
+      {
+        "q": "Brazilian winger. Scored the only goal of the 2022 Champions League final. Runner-up in the 2024 Ballon d'Or, which caused Real Madrid to boycott the ceremony. Wears number 7 on the left wing.",
+        "a": "Vinícius Júnior"
+      },
+      {
+        "q": "English midfielder. Birmingham City retired his number 22 shirt when he left at age 17. Starred for Borussia Dortmund before joining Real Madrid, where he won La Liga and the Champions League in his first season. Celebrates with outstretched arms.",
+        "a": "Jude Bellingham"
+      },
+      {
+        "q": "Spanish winger. Became the youngest scorer in European Championship history with a curler against France at Euro 2024, aged 16. Barcelona academy product playing on the right with a lethal left foot. Took the club's number 10 shirt in 2025.",
+        "a": "Lamine Yamal"
+      },
+      {
+        "q": "French forward. Won the 2018 World Cup and became Atlético Madrid's all-time leading scorer. Celebrated goals with Fortnite's 'Take the L' dance. Had a mixed spell at Barcelona between two Atlético stints.",
+        "a": "Antoine Griezmann"
+      },
+      {
+        "q": "English forward. Manchester United academy product who scored twice on his debut. Successfully campaigned for free school meals during the pandemic. Left United on loan for Aston Villa, then Barcelona in 2025.",
+        "a": "Marcus Rashford"
+      },
+      {
+        "q": "Spanish holding midfielder. Scored the winner in the 2023 Champions League final. Won Euro 2024 and that year's Ballon d'Or. A serious knee injury sidelined him for most of the following season.",
+        "a": "Rodri"
+      },
+      {
+        "q": "Spanish midfielder. Captained Arsenal at 21 before returning to Barcelona. Assisted the winning goal in the 2010 World Cup final. Later won two Premier League titles at Chelsea and now manages Como in Italy.",
+        "a": "Cesc Fàbregas"
+      },
+      {
+        "q": "English left-back. Won the FA Cup a record seven times. Crossed north London from Arsenal to Chelsea in 2006 and lifted the Champions League in 2012. Often cited as Cristiano Ronaldo's toughest opponent.",
+        "a": "Ashley Cole"
+      },
+      {
+        "q": "Czech goalkeeper. Wore a protective headguard after fracturing his skull in 2006. Was the hero of Chelsea's 2012 Champions League final win. Holds the Premier League record for clean sheets.",
+        "a": "Petr Čech"
+      },
+      {
+        "q": "English striker. Went from non-league football to a Premier League title with Leicester in 2016. Scored in 11 consecutive top-flight games that season. Left Leicester in 2025 for a newly promoted Serie A club.",
+        "a": "Jamie Vardy"
+      },
+      {
+        "q": "English right-back from the Liverpool academy. Took the quick corner that set up a goal in the 2019 Barcelona comeback. Famed for his crossing and passing range. Joined Real Madrid in 2025.",
+        "a": "Trent Alexander-Arnold"
+      },
+      {
+        "q": "English midfielder. Captained West Ham to the 2023 Conference League before a £105m move to Arsenal. Scored two free kicks in one game against Real Madrid in the 2025 Champions League quarter-final. Played for the Republic of Ireland before switching to England.",
+        "a": "Declan Rice"
+      },
+      {
+        "q": "English attacking midfielder. Left Manchester City for Chelsea in 2023 and became a star. Scored twice in the 2025 Club World Cup final. Celebrates goals by shivering with folded arms.",
+        "a": "Cole Palmer"
+      },
+      {
+        "q": "French forward. Won the 2025 Ballon d'Or after leading PSG to a treble including the Champions League. Signed by Barcelona in 2017 as a replacement for Neymar. Genuinely two-footed, which puzzles defenders.",
+        "a": "Ousmane Dembélé"
+      },
+      {
+        "q": "Moroccan right-back born in Madrid. Won the Champions League with PSG in 2025 and scored in that final. Converted a Panenka penalty to knock Spain out of the 2022 World Cup. Formerly at Real Madrid, Dortmund and Inter.",
+        "a": "Achraf Hakimi"
+      },
+      {
+        "q": "German playmaker. Central to Bayer Leverkusen's unbeaten Bundesliga title in 2024. Joined Liverpool in 2025 for a British record fee at the time. Wore number 10 at Leverkusen.",
+        "a": "Florian Wirtz"
+      },
+      {
+        "q": "Northern Irish winger. Won the 1968 European Cup and Ballon d'Or with Manchester United. Nicknamed the fifth Beatle for his celebrity lifestyle. Once joked he spent his money on booze, women and fast cars and squandered the rest.",
+        "a": "George Best"
       }
     ],
     "400": [
@@ -36249,32 +32253,160 @@ const QUALITY_BACKFILL = {
         "a": "Gaizka Mendieta"
       },
       {
-        "q": "German midfielder. 2014 World Cup winner. Bayern Munich stalwart. Married tennis star Ana Ivanovic.",
-        "a": "Bastian Schweinsteiger"
+        "q": "Brazilian striker. Won the Golden Ball at the 1994 World Cup. Played for PSV and Barcelona, where he formed a deadly duo with Stoichkov. Claims to have scored over 1,000 career goals and later became a senator.",
+        "a": "Romário"
       },
       {
-        "q": "Dutch striker. Won Euro 1988. AC Milan legend. Retired early from ankle injuries.",
-        "a": "Marco van Basten"
+        "q": "German attacking midfielder. Born in Stuttgart but raised in England and developed in Chelsea's academy. Slaloming dribbler who chose Germany over England. Bayern Munich star who suffered a serious ankle injury at the 2025 Club World Cup.",
+        "a": "Jamal Musiala"
       },
       {
-        "q": "Liberian striker. 1995 Ballon d'Or winner. Later elected president of his country. Milan icon.",
-        "a": "George Weah"
+        "q": "Argentine forward. Scored the goal that kept West Ham in the Premier League in 2007. Played for both Manchester clubs, and a 'Welcome to Manchester' poster celebrated his switch. Also won Serie A with Juventus and is a Boca Juniors idol.",
+        "a": "Carlos Tevez"
       },
       {
-        "q": "English striker. Premier League all-time top scorer. Newcastle legend. Match of the Day pundit.",
-        "a": "Alan Shearer"
+        "q": "Bulgarian striker with an effortless first touch. Shared the Premier League Golden Boot in 2011 with Manchester United. Joined from Tottenham on transfer deadline day for around £30m. Later played for Fulham and Monaco.",
+        "a": "Dimitar Berbatov"
       },
       {
-        "q": "Ukrainian striker. 2004 Ballon d'Or winner. Dynamo Kyiv and AC Milan. Missed decisive penalty in 2005 UCL final.",
-        "a": "Andriy Shevchenko"
+        "q": "German forward born in Poland. Won the 2014 World Cup. Played for Cologne, Bayern Munich, Arsenal, Inter, Galatasaray and Vissel Kobe. Famous for a thunderous left foot and a cheerful grin.",
+        "a": "Lukas Podolski"
       },
       {
-        "q": "Italian striker. 1982 World Cup Golden Boot and Golden Ball. Hat-trick vs Brazil that tournament.",
-        "a": "Paolo Rossi"
+        "q": "Croatian midfielder. Captained Sevilla to the 2014 Europa League, then scored the opening goal in the 2015 Champions League final for Barcelona. Reached the 2018 World Cup final. Born in Switzerland.",
+        "a": "Ivan Rakitić"
       },
       {
-        "q": "Italian striker. Fiorentina and Roma legend. All-time Argentina top scorer before Messi. Nicknamed Batigol.",
-        "a": "Gabriel Batistuta"
+        "q": "German winger. Borussia Dortmund captain for years but missed the 2014 World Cup triumph through injury. Lost Champions League finals with Dortmund in 2013 and 2024. Moved to LA Galaxy in 2024.",
+        "a": "Marco Reus"
+      },
+      {
+        "q": "German midfielder. Captained Manchester City to the 2023 treble, scoring twice in the FA Cup final. Left for Barcelona, then returned to City for a season. Pep Guardiola's first signing at City.",
+        "a": "İlkay Gündoğan"
+      },
+      {
+        "q": "Spanish striker. His country's all-time leading scorer. Golden Boot at Euro 2008 and Spain's top scorer at the 2010 World Cup. Won La Liga and the Champions League with Barcelona in 2011 after starring for Valencia.",
+        "a": "David Villa"
+      },
+      {
+        "q": "Spanish playmaker. Spent a decade at Manchester City, winning four Premier League titles, and has a statue outside the Etihad. Won Euro 2008, the 2010 World Cup and Euro 2012. Later returned to Spain with Real Sociedad.",
+        "a": "David Silva"
+      },
+      {
+        "q": "Argentine right-back and midfielder. Inter's record appearance holder and captain of their 2010 treble. His number 4 was retired by the club. Now serves as Inter's vice-president.",
+        "a": "Javier Zanetti"
+      },
+      {
+        "q": "Brazilian-born striker who chose to play for Spain. Won La Liga with Atlético Madrid in 2014 and two Premier League titles at Chelsea. Combative, provocative and constantly in referees' notebooks.",
+        "a": "Diego Costa"
+      },
+      {
+        "q": "German midfielder. In 2002 he lost the Bundesliga, the Champions League final and the World Cup final, missing the last through suspension. Captained Germany and played for Bayer Leverkusen, Bayern Munich and Chelsea. Wore number 13.",
+        "a": "Michael Ballack"
+      },
+      {
+        "q": "Spanish midfielder. Scored Liverpool's equaliser in the 2005 Champions League final. Won the trophy again with Real Madrid in 2014. Later managed Bayer Leverkusen to an unbeaten title before taking the Real Madrid job in 2025.",
+        "a": "Xabi Alonso"
+      },
+      {
+        "q": "French midfielder. Captained Arsenal's unbeaten Invincibles. Fierce rival of Roy Keane in the Old Trafford tunnel. Won the 1998 World Cup and Euro 2000, and later played for Juventus, Inter and Manchester City.",
+        "a": "Patrick Vieira"
+      },
+      {
+        "q": "Dutch forward. Refused to fly, missing many away games. Scored a legendary spin-and-finish against Newcastle in 2002. Arsenal Invincible with a statue outside the Emirates. Started at Ajax and had an unhappy spell at Inter.",
+        "a": "Dennis Bergkamp"
+      },
+      {
+        "q": "Norwegian playmaker. Signed by Real Madrid at 16 amid huge hype. Blossomed on loan at Real Sociedad before joining Arsenal, where he became captain. Also captains his national team.",
+        "a": "Martin Ødegaard"
+      },
+      {
+        "q": "Irish striker. Celebrated with a cartwheel and a pretend pistol. Ireland's all-time top scorer. Played for Tottenham twice, Liverpool, Inter and Leeds before starring with LA Galaxy.",
+        "a": "Robbie Keane"
+      },
+      {
+        "q": "Uruguayan striker. Was PSG's all-time top scorer until Mbappé passed him. Prolific at Napoli with a warrior's work rate. Also played for Manchester United and Boca Juniors.",
+        "a": "Edinson Cavani"
+      },
+      {
+        "q": "Argentine midfielder. Signed by West Ham alongside Tevez in 2006. Liverpool enforcer before Barcelona converted him to centre-back. Won two Champions Leagues and now coaches Inter Miami.",
+        "a": "Javier Mascherano"
+      },
+      {
+        "q": "American attacking midfielder. Scored a stoppage-time winner against Algeria at the 2010 World Cup. Won a record six MLS Cups, four with LA Galaxy. Had loan spells at Everton.",
+        "a": "Landon Donovan"
+      },
+      {
+        "q": "American goalkeeper. Made a World Cup record-breaking 15 saves against Belgium in 2014. Spent a decade at Everton after Manchester United. Once scored from his own penalty area against Bolton.",
+        "a": "Tim Howard"
+      },
+      {
+        "q": "American winger. Broke through at Borussia Dortmund as a teenager. Won the Champions League with Chelsea in 2021. Now a key player at AC Milan. Born in Pennsylvania.",
+        "a": "Christian Pulisic"
+      },
+      {
+        "q": "Canadian left-back. Born in a refugee camp in Ghana to Liberian parents. Moved from Vancouver Whitecaps to Bayern Munich, winning the 2020 treble as a 19-year-old. One of the fastest players in the world.",
+        "a": "Alphonso Davies"
+      },
+      {
+        "q": "Belgian goalkeeper. Named man of the match in the 2022 Champions League final with nine saves. Won the Premier League at Chelsea after loan years at Atlético Madrid. Won the Golden Glove at the 2018 World Cup.",
+        "a": "Thibaut Courtois"
+      },
+      {
+        "q": "Belgian centre-back. Captained Manchester City to their first Premier League title in 2012 and three more. Scored a thunderbolt against Leicester in 2019. Now manages Bayern Munich.",
+        "a": "Vincent Kompany"
+      },
+      {
+        "q": "Swedish striker. Broke through at Real Sociedad before Newcastle signed him. Scored in the 2025 Carabao Cup final, ending Newcastle's 70-year wait for a domestic trophy. Became Britain's record signing when Liverpool paid £125m in 2025.",
+        "a": "Alexander Isak"
+      },
+      {
+        "q": "Polish goalkeeper. Came out of retirement in 2024 to join Barcelona. Previously played for Arsenal, Roma and Juventus. Was photographed smoking in the showers after an Arsenal defeat.",
+        "a": "Wojciech Szczęsny"
+      },
+      {
+        "q": "French holding midfielder. A defensive midfield role is named after him. His 2003 sale from Real Madrid to Chelsea was blamed for the Galácticos' decline. Won two Premier League titles under Mourinho.",
+        "a": "Claude Makélélé"
+      },
+      {
+        "q": "Serbian centre-back. Manchester United captain who won five Premier League titles alongside Rio Ferdinand. Famously struggled against Fernando Torres. Finished his career at Inter.",
+        "a": "Nemanja Vidić"
+      },
+      {
+        "q": "South Korean midfielder. Starred at the 2002 World Cup and followed coach Guus Hiddink to PSV. Tireless runner for Manchester United, winning four Premier League titles. First Asian player to appear in a Champions League final.",
+        "a": "Park Ji-sung"
+      },
+      {
+        "q": "German striker. Won the 1990 World Cup and captained his country to Euro 96. Mocked his diving reputation with a diving celebration at Tottenham. Later coached Germany at the 2006 World Cup and then the USA.",
+        "a": "Jürgen Klinsmann"
+      },
+      {
+        "q": "Dutch midfielder. The only player to win the Champions League with three different clubs. Lifted it with Ajax, Real Madrid and twice with AC Milan. Later managed Milan and Cameroon.",
+        "a": "Clarence Seedorf"
+      },
+      {
+        "q": "Dutch midfielder. Wore protective goggles because of glaucoma. Won the Champions League with Ajax in 1995 and starred for Juventus. Nicknamed after a dog breed for his tenacity.",
+        "a": "Edgar Davids"
+      },
+      {
+        "q": "Algerian winger. PFA Player of the Year in Leicester's 2016 title season. Won the treble with Manchester City in 2023. Moved to Al-Ahli in Saudi Arabia. Left-footed and loves a cut inside from the right.",
+        "a": "Riyad Mahrez"
+      },
+      {
+        "q": "Norwegian striker. Scored the injury-time winner in the 1999 Champions League final. Famed as a super-sub at Manchester United, once netting four off the bench. Later managed the club.",
+        "a": "Ole Gunnar Solskjær"
+      },
+      {
+        "q": "Danish midfielder. Suffered cardiac arrest on the pitch at Euro 2020 and returned to play with an implanted defibrillator. Tottenham creator, Inter title winner, then Manchester United. Set-piece specialist.",
+        "a": "Christian Eriksen"
+      },
+      {
+        "q": "English midfielder. Liverpool captain who lifted the 2019 Champions League and 2020 Premier League. Left for Saudi Arabia, then Ajax, before joining Brentford in 2025. Known for his shuffle before lifting trophies.",
+        "a": "Jordan Henderson"
+      },
+      {
+        "q": "English centre-back. Became the world's most expensive defender when Manchester United paid £80m in 2019. Captained United before losing the armband. Scored a dramatic late winner against Lyon in the 2025 Europa League.",
+        "a": "Harry Maguire"
       }
     ],
     "600": [
@@ -36391,64 +32523,164 @@ const QUALITY_BACKFILL = {
         "a": "Samuel Eto'o"
       },
       {
-        "q": "Argentine midfielder. 1978 World Cup winner. Long Tottenham spell. Later managed Spurs.",
-        "a": "Osvaldo Ardiles"
+        "q": "Croatian striker. Won the Golden Boot at the 1998 World Cup as his country finished third. Played for Sevilla, Real Madrid and Arsenal. Later became president of the Croatian FA.",
+        "a": "Davor Šuker"
       },
       {
-        "q": "Italian defender. Inter Milan center-back. Provoked the head-butt in 2006. Iron-willed enforcer.",
-        "a": "Marco Materazzi"
+        "q": "Portuguese winger. Master of the trivela, striking with the outside of his boot. Played for Porto, Barcelona, Inter and Beşiktaş. Won Euro 2016.",
+        "a": "Ricardo Quaresma"
       },
       {
-        "q": "Jamaican-born English winger. Liverpool forward of the 1980s. Rapped on World in Motion. Solo goal against Brazil in 1984.",
-        "a": "John Barnes"
+        "q": "Spanish centre-back. Real Madrid captain who scored over 100 goals for the club. Later played for Al-Rayyan and Bolton. Took charge of Spain at the 2018 World Cup after Lopetegui was sacked.",
+        "a": "Fernando Hierro"
       },
       {
-        "q": "Danish goalkeeper. Manchester United record-breaker. 1992 Euros winner. Son Kasper also keeps goal.",
-        "a": "Peter Schmeichel"
+        "q": "Argentine midfielder. Produced a famous backheel nutmeg against Manchester United at Old Trafford in 2000. Real Madrid's elegant anchor for two Champions League wins. Refused his salary at AC Milan while injured.",
+        "a": "Fernando Redondo"
       },
       {
-        "q": "Japanese midfielder. One of the first Japanese in Serie A. Roma Scudetto winner. Retired at 29.",
-        "a": "Hidetoshi Nakata"
+        "q": "Brazilian striker. Won the European Golden Shoe twice while playing in Portugal. Scored prolifically for Porto and Sporting Lisbon. Also had a spell at Galatasaray.",
+        "a": "Mário Jardel"
       },
       {
-        "q": "Colombian midfielder. Huge blond afro. Three World Cups. Later played in MLS.",
-        "a": "Carlos Valderrama"
+        "q": "Montenegrin striker. Scored the winner in the 1998 Champions League final, ending Real Madrid's 32-year wait. Previously at Valencia. Later became Real Madrid's sporting director.",
+        "a": "Predrag Mijatović"
       },
       {
-        "q": "Croatian midfielder. AC Milan Serie A winner. Kicked a policeman at Dinamo Zagreb in 1990. 1998 World Cup third-place run.",
-        "a": "Zvonimir Boban"
+        "q": "Argentine striker. Scored both goals in the 2010 Champions League final to complete Inter's treble. Also scored in the Coppa Italia final and the title-clinching match that season. Played for Genoa and Real Zaragoza.",
+        "a": "Diego Milito"
       },
       {
-        "q": "Iranian striker. Held the men's international goals record before Ronaldo. Scored 109 for his country.",
-        "a": "Ali Daei"
+        "q": "Argentine midfielder. Finished one of the finest team goals in World Cup history against Serbia and Montenegro in 2006. Won the 2010 treble with Inter after being released by Real Madrid. Ended his career at Leicester and Olympiacos.",
+        "a": "Esteban Cambiasso"
       },
       {
-        "q": "French defender. 1998 World Cup and Euro 2000 winner. Juventus and Parma. Most capped French player for years.",
-        "a": "Lilian Thuram"
+        "q": "Brazilian midfielder. Widely regarded as the greatest free-kick taker ever, with over 70 career free-kick goals. Won seven consecutive Ligue 1 titles with Lyon. Pioneered the knuckleball strike.",
+        "a": "Juninho Pernambucano"
       },
       {
-        "q": "French forward. 1958 Ballon d'Or winner. Stade de Reims and Real Madrid. Three straight European Cups.",
-        "a": "Raymond Kopa"
+        "q": "French striker. Scored the golden goal that won Euro 2000. Struck the bar with the only missed penalty in the 2006 World Cup final shootout. Juventus's top foreign scorer of all time. Born in France but raised in Argentina.",
+        "a": "David Trezeguet"
       },
       {
-        "q": "French midfielder. Three consecutive 1980s Ballons d'Or. Euro 1984 top scorer. Later banned from FIFA.",
-        "a": "Michel Platini"
+        "q": "French midfielder. Scored the third goal in the 1998 World Cup final. Wore a ponytail and won the double with Arsenal that same year. Later played for Barcelona and Chelsea.",
+        "a": "Emmanuel Petit"
       },
       {
-        "q": "Italian striker. Cagliari legend. Italy's all-time top scorer for decades. Scored 35 in 42 internationals.",
-        "a": "Luigi Riva"
+        "q": "French centre-back. Scored the first golden goal in World Cup history in 1998. Suspended for the final after a red card. His bald goalkeeper kissed his head before matches for luck. Later managed France and PSG.",
+        "a": "Laurent Blanc"
       },
       {
-        "q": "German midfielder. Played for Barcelona, Real Madrid and Atletico. Euro 1980 winner. Creative playmaker.",
-        "a": "Bernd Schuster"
+        "q": "Dutch centre-back. Won the 1999 treble with Manchester United. Sold to Lazio in 2001 after an autobiography angered Alex Ferguson, a decision Ferguson later regretted. Later played for AC Milan and Ajax.",
+        "a": "Jaap Stam"
       },
       {
-        "q": "Scottish forward. Liverpool player and manager. Nicknamed King. Celtic legend before Anfield.",
-        "a": "Kenny Dalglish"
+        "q": "Dutch forward. Scored a hat-trick against Manchester United for Liverpool in 2011. Returned to Feyenoord and scored a hat-trick on the final day to win the 2017 Eredivisie. Tireless work rate.",
+        "a": "Dirk Kuyt"
       },
       {
-        "q": "Nigerian striker. Three-time African Footballer of the Year. Barcelona and Inter legend. 1996 Olympic gold.",
-        "a": "Nwankwo Kanu"
+        "q": "Dutch striker. Bundesliga top scorer with 29 goals for Schalke in 2012. Also played for Real Madrid, AC Milan and Ajax. Nicknamed with a hunting reference.",
+        "a": "Klaas-Jan Huntelaar"
+      },
+      {
+        "q": "Italian centre-back. Lazio captain in their 2000 double before joining AC Milan. Won two Champions Leagues and the 2006 World Cup. Widely praised for elegant tackling.",
+        "a": "Alessandro Nesta"
+      },
+      {
+        "q": "Italian striker. Moved from Lazio to Inter in 1999 for a then world-record fee. Scored nine World Cup goals across 1998 and 2002. Also played for Atlético Madrid, Juventus and AC Milan.",
+        "a": "Christian Vieri"
+      },
+      {
+        "q": "Italian striker. Scored both goals in the 2007 Champions League final for AC Milan. Master of the offside line. Won the 2006 World Cup and later managed Milan. His brother also became a top coach.",
+        "a": "Filippo Inzaghi"
+      },
+      {
+        "q": "Italian midfielder. Joined PSG from Pescara in 2012 without ever playing in Serie A. Won Euro 2020. Left PSG in 2023 for Qatar. Small, press-resistant and fond of a yellow card.",
+        "a": "Marco Verratti"
+      },
+      {
+        "q": "Italian striker. Won the Scudetto with Sampdoria in 1991 and captained Juventus to the 1996 Champions League. Became Chelsea's player-manager and won the FA Cup. Died in 2023.",
+        "a": "Gianluca Vialli"
+      },
+      {
+        "q": "Japanese midfielder. Scored at three consecutive World Cups from 2010 to 2018. Wore number 10 for AC Milan. Later coached Cambodia's national team.",
+        "a": "Keisuke Honda"
+      },
+      {
+        "q": "Australian midfielder. Celebrated goals by boxing the corner flag. Scored at three World Cups, including a stunning volley against the Netherlands in 2014. Everton hero.",
+        "a": "Tim Cahill"
+      },
+      {
+        "q": "Ghanaian striker. Missed a last-minute penalty against Uruguay in the 2010 World Cup quarter-final after Suárez's handball. His country's all-time top scorer. Played for Sunderland and in the UAE.",
+        "a": "Asamoah Gyan"
+      },
+      {
+        "q": "Cameroonian striker. Top scorer at the 2021 Africa Cup of Nations with eight goals. Scored the winner against Brazil at the 2022 World Cup, then was sent off for removing his shirt. Played for Porto and Beşiktaş.",
+        "a": "Vincent Aboubakar"
+      },
+      {
+        "q": "Argentine playmaker. Boca Juniors legend and the club's current president. Had a controversial spell at Barcelona under Van Gaal. Missed a late penalty for Villarreal in the 2006 Champions League semi-final against Arsenal.",
+        "a": "Juan Román Riquelme"
+      },
+      {
+        "q": "Uruguayan centre-back. Atlético Madrid captain who scored the title-clinching goal at Camp Nou in 2014 and in that year's Champions League final. Later played for Inter and Cagliari. Over 160 caps.",
+        "a": "Diego Godín"
+      },
+      {
+        "q": "Uruguayan playmaker. River Plate legend nicknamed 'El Príncipe'. Starred for Marseille, where a young Zidane idolised him and later named his son after him.",
+        "a": "Enzo Francescoli"
+      },
+      {
+        "q": "Colombian forward. Scored a hat-trick for Newcastle against Barcelona in 1997. Won the UEFA Cup with Parma. Famous for wild celebrations and off-field antics.",
+        "a": "Faustino Asprilla"
+      },
+      {
+        "q": "Peruvian striker. The Bundesliga's most prolific foreign scorer until Lewandowski passed him. Cult hero across multiple spells at Werder Bremen and Bayern Munich. Became the league's oldest ever goalscorer at 40.",
+        "a": "Claudio Pizarro"
+      },
+      {
+        "q": "Mexican striker. Won five Pichichi trophies in Spain, four with Real Madrid. Celebrated with a somersault. Scored a famous scissor-kick in 1988 and later managed Mexico.",
+        "a": "Hugo Sánchez"
+      },
+      {
+        "q": "Mexican centre-back. Captained his country at five World Cups. Won two Champions Leagues with Barcelona. Later played for New York Red Bulls and finished at Atlas.",
+        "a": "Rafael Márquez"
+      },
+      {
+        "q": "Danish playmaker. Won four straight league titles with Barcelona's Dream Team, then a fifth with Real Madrid. Skipped Denmark's Euro 92 triumph after a fallout. Later managed Swansea to the League Cup.",
+        "a": "Michael Laudrup"
+      },
+      {
+        "q": "English attacking midfielder. Spent his whole career at Southampton, scoring outrageous long-range goals. Converted 47 of 48 penalties. Born in Guernsey.",
+        "a": "Matt Le Tissier"
+      },
+      {
+        "q": "English left-back. Missed a penalty in the 1990 World Cup semi-final shootout, then roared in redemption after scoring at Euro 96. Nottingham Forest captain. Known for ferocious tackling.",
+        "a": "Stuart Pearce"
+      },
+      {
+        "q": "English striker. Scored 34 goals in the 1993-94 season, a record shared with Alan Shearer. Formed a lethal partnership at Manchester United during the 1999 treble. Also played for Newcastle, Blackburn and Fulham.",
+        "a": "Andy Cole"
+      },
+      {
+        "q": "Trinidadian striker. Formed a telepathic partnership with Andy Cole in Manchester United's 1999 treble. Shared the Premier League Golden Boot that season. Earlier a hero at Aston Villa.",
+        "a": "Dwight Yorke"
+      },
+      {
+        "q": "English centre-back. Crossed north London from Tottenham to Arsenal on a free transfer in 2001. Part of the Invincibles and scored in the 2006 Champions League final. Also played for Portsmouth.",
+        "a": "Sol Campbell"
+      },
+      {
+        "q": "Moroccan goalkeeper. Saved two penalties to knock Spain out of the 2022 World Cup. Won the Europa League with Sevilla twice, starring in the 2023 final shootout. Now plays for Al-Hilal.",
+        "a": "Yassine Bounou"
+      },
+      {
+        "q": "Czech midfielder. Called 'Little Mozart' for his elegance. Played for Borussia Dortmund and Arsenal, where injuries limited him over a decade. Captained his country.",
+        "a": "Tomáš Rosický"
+      },
+      {
+        "q": "Saudi Arabian winger. Scored the winning goal against Argentina at the 2022 World Cup in one of the greatest upsets ever. Al-Hilal captain. Asian Player of the Year in 2022.",
+        "a": "Salem Al-Dawsari"
       }
     ]
   },
@@ -38352,6 +34584,934 @@ const QUALITY_BACKFILL = {
         "q": "Guess the anime character from the image",
         "a": "Onizuka",
         "wiki": "Eikichi_Onizuka"
+      }
+    ]
+  },
+  "country_capitals": {
+    "200": [
+      {
+        "q": "Cape Town (legislative capital)",
+        "a": "South Africa"
+      },
+      {
+        "q": "Monrovia",
+        "a": "Liberia"
+      }
+    ],
+    "400": [
+      {
+        "q": "Freetown",
+        "a": "Sierra Leone"
+      },
+      {
+        "q": "Lilongwe",
+        "a": "Malawi"
+      },
+      {
+        "q": "Yamoussoukro",
+        "a": "Ivory Coast"
+      },
+      {
+        "q": "Port Vila",
+        "a": "Vanuatu"
+      },
+      {
+        "q": "Sucre (constitutional capital)",
+        "a": "Bolivia"
+      }
+    ],
+    "600": [
+      {
+        "q": "Victoria",
+        "a": "Seychelles"
+      },
+      {
+        "q": "Nukuʻalofa",
+        "a": "Tonga"
+      },
+      {
+        "q": "Ngerulmud",
+        "a": "Palau"
+      },
+      {
+        "q": "Lobamba (legislative capital)",
+        "a": "Eswatini"
+      },
+      {
+        "q": "Putrajaya (administrative capital)",
+        "a": "Malaysia"
+      }
+    ]
+  },
+  "language": {
+    "200": [
+      {
+        "q": "\"¿Dónde está la biblioteca?\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"Hasta mañana\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"Lo siento mucho\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"Feliz cumpleaños\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"¿Cuánto cuesta?\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"Bonne nuit, à demain\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Je ne sais pas\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Joyeux anniversaire\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Enchanté, je m'appelle Claire\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Wie heißt du?\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Entschuldigung, wo ist der Bahnhof?\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Herzlichen Glückwunsch\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Ich verstehe nicht\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Non capisco\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"Mi dispiace\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"Dove si trova la stazione?\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"おはようございます\" (Ohayō gozaimasu)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"すみません\" (Sumimasen)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"いただきます\" (Itadakimasu)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"お疲れ様でした\" (Otsukaresama deshita)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"がんばって\" (Ganbatte)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"شكراً جزيلاً\" (Shukran jazilan)",
+        "a": "Arabic"
+      },
+      {
+        "q": "\"صباح الخير\" (Sabah al-khair)",
+        "a": "Arabic"
+      },
+      {
+        "q": "\"أهلاً وسهلاً\" (Ahlan wa sahlan)",
+        "a": "Arabic"
+      },
+      {
+        "q": "\"الحمد لله\" (Alhamdulillah)",
+        "a": "Arabic"
+      },
+      {
+        "q": "\"早上好\" (Zǎoshang hǎo)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"我爱你\" (Wǒ ài nǐ)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"对不起\" (Duìbuqǐ)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"生日快乐\" (Shēngrì kuàilè)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"Доброе утро\" (Dobroye utro)",
+        "a": "Russian"
+      },
+      {
+        "q": "\"Пожалуйста\" (Pozhaluysta)",
+        "a": "Russian"
+      },
+      {
+        "q": "\"До свидания\" (Do svidaniya)",
+        "a": "Russian"
+      },
+      {
+        "q": "\"Я не понимаю\" (Ya ne ponimayu)",
+        "a": "Russian"
+      },
+      {
+        "q": "\"Как тебя зовут?\" (Kak tebya zovut?)",
+        "a": "Russian"
+      }
+    ],
+    "400": [
+      {
+        "q": "\"Bom dia, tudo bem?\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Eu não entendo\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Muito prazer\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Feliz aniversário\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Boa noite, até amanhã\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Teşekkür ederim\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Günaydın\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Hoş geldiniz\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Afiyet olsun\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Görüşürüz\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Καλημέρα\" (Kaliméra)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Ευχαριστώ πολύ\" (Efharistó polí)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Καληνύχτα\" (Kaliníhta)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Δεν καταλαβαίνω\" (Den katalavéno)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Παρακαλώ\" (Parakaló)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"आप कैसे हैं?\" (Aap kaise hain?)",
+        "a": "Hindi"
+      },
+      {
+        "q": "\"मुझे समझ नहीं आया\" (Mujhe samajh nahin aaya)",
+        "a": "Hindi"
+      },
+      {
+        "q": "\"고맙습니다\" (Gomapseumnida)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"사랑해요\" (Saranghaeyo)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"안녕히 가세요\" (Annyeonghi gaseyo)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"잘 먹겠습니다\" (Jal meokgesseumnida)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"죄송합니다\" (Joesonghamnida)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"Tack så mycket\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"God morgon\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"Jag förstår inte\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"Hej då\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"Dank je wel\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Goedemorgen\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Ik hou van jou\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Tot ziens\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Ik begrijp het niet\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Dzień dobry\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Przepraszam\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Do widzenia\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Tak for mad\"",
+        "a": "Danish"
+      },
+      {
+        "q": "\"Undskyld\"",
+        "a": "Danish"
+      },
+      {
+        "q": "\"Tusen takk\"",
+        "a": "Norwegian"
+      }
+    ],
+    "600": [
+      {
+        "q": "\"Kiitos paljon\"",
+        "a": "Finnish"
+      },
+      {
+        "q": "\"Hyvää huomenta\"",
+        "a": "Finnish"
+      },
+      {
+        "q": "\"Jó reggelt\"",
+        "a": "Hungarian"
+      },
+      {
+        "q": "\"Szia, hogy vagy?\"",
+        "a": "Hungarian"
+      },
+      {
+        "q": "\"Asante sana\"",
+        "a": "Swahili"
+      },
+      {
+        "q": "\"Lala salama\"",
+        "a": "Swahili"
+      },
+      {
+        "q": "\"Salamat po\"",
+        "a": "Tagalog"
+      },
+      {
+        "q": "\"خیلی ممنون\" (Kheili mamnoon)",
+        "a": "Farsi"
+      },
+      {
+        "q": "\"Cảm ơn nhiều\"",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "\"Chúc ngủ ngon\"",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "\"ไม่เป็นไร\" (Mai pen rai)",
+        "a": "Thai"
+      },
+      {
+        "q": "\"תודה רבה\" (Toda raba)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "\"בוקר טוב\" (Boker tov)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "\"Na shledanou\"",
+        "a": "Czech"
+      },
+      {
+        "q": "\"Nerozumím\"",
+        "a": "Czech"
+      },
+      {
+        "q": "\"Bună dimineața\"",
+        "a": "Romanian"
+      },
+      {
+        "q": "\"La revedere\"",
+        "a": "Romanian"
+      },
+      {
+        "q": "\"მადლობა\" (Madloba)",
+        "a": "Georgian"
+      },
+      {
+        "q": "\"დილა მშვიდობისა\" (Dila mshvidobisa)",
+        "a": "Georgian"
+      },
+      {
+        "q": "\"Eskerrik asko\"",
+        "a": "Basque"
+      },
+      {
+        "q": "\"Egun on\"",
+        "a": "Basque"
+      },
+      {
+        "q": "\"Дякую\" (Dyakuyu)",
+        "a": "Ukrainian"
+      },
+      {
+        "q": "\"Takk fyrir\"",
+        "a": "Icelandic"
+      },
+      {
+        "q": "\"Góðan daginn\"",
+        "a": "Icelandic"
+      },
+      {
+        "q": "\"Go raibh maith agat\"",
+        "a": "Irish"
+      },
+      {
+        "q": "\"Diolch yn fawr\"",
+        "a": "Welsh"
+      },
+      {
+        "q": "\"Bon dia, moltes gràcies\"",
+        "a": "Catalan"
+      },
+      {
+        "q": "\"Baie dankie\"",
+        "a": "Afrikaans"
+      },
+      {
+        "q": "\"Ngiyabonga\"",
+        "a": "Zulu"
+      },
+      {
+        "q": "\"ধন্যবাদ\" (Dhonnobad)",
+        "a": "Bengali"
+      },
+      {
+        "q": "\"நன்றி\" (Nandri)",
+        "a": "Tamil"
+      },
+      {
+        "q": "\"Շնորհակալություն\" (Shnorhakalutyun)",
+        "a": "Armenian"
+      }
+    ]
+  },
+  "spelling_bee": {
+    "200": [
+      {
+        "q": "Spell this word",
+        "a": "Occurrence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Maintenance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Privilege"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Recommend"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Occasion"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Calendar"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cemetery"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Grateful"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Restaurant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vacuum"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Colonel"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Guarantee"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Committee"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Possession"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Argument"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Existence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Acquire"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Conscious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pronunciation"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Noticeable"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Parallel"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Perseverance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Exaggerate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fluorescent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Lieutenant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Playwright"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Twelfth"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sergeant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Broccoli"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Amateur"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bizarre"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Consensus"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Dilemma"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hierarchy"
+      }
+    ],
+    "400": [
+      {
+        "q": "Spell this word",
+        "a": "Conscientious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Dachshund"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Diphtheria"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Idiosyncrasy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Asphyxiate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sacrilegious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ophthalmologist"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Rendezvous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Reconnaissance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Surveillance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Handkerchief"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pneumonia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Mnemonic"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bourgeois"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Connoisseur"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chauffeur"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Mayonnaise"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Xylophone"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Inoculate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Minuscule"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fuchsia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Iridescent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Paraphernalia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pharmaceutical"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Prerogative"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Acquiesce"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ubiquitous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cappuccino"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gnocchi"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chrysanthemum"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Facetious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Lackadaisical"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Poinsettia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Innocuous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Memento"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Wherewithal"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vengeance"
+      }
+    ],
+    "600": [
+      {
+        "q": "Spell this word",
+        "a": "Autochthonous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Eleemosynary"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Logorrhea"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Succedaneum"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Appoggiatura"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Guerdon"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Scherenschnitte"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Feuilleton"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Stichomythia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Serrefine"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Elucubrate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vivisepulture"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pococurante"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Prospicience"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Odontalgia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Euonym"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Antediluvian"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Esquamulose"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Staphylococcus"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Insouciant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Milquetoast"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Onomasiology"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pyrrhuloxia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sesquipedalian"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Syzygy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Zwieback"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ptarmigan"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bdellium"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Deipnosophist"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chthonic"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cnidarian"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pusillanimous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Schadenfreude"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Weltanschauung"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Synecdoche"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Verisimilitude"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Xerophyte"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Coelacanth"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sphygmomanometer"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Phthisis"
       }
     ]
   }

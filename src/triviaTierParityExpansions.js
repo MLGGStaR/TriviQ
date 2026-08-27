@@ -143,11 +143,6 @@ const TRIVIA_TIER_PARITY_EXPANSIONS = {
       ["This country lies on South America's Atlantic coast and was a Dutch colony", "Suriname"],
     ]),
   },
-general_emoji: {
-    400: qa([
-      ["🔍🕵️‍♂️🧩", "Detective"],
-    ]),
-  },
   friends: {
     400: qa([
       ["What is Rachel's little sister called?", "Jill"],

@@ -1,0 +1,33 @@
+{
+  "country_capitals": {
+    "200": [
+      { "q": "Rabat", "a": "Morocco" },
+      { "q": "Maputo", "a": "Mozambique" },
+      { "q": "Monrovia", "a": "Liberia" }
+    ],
+    "400": [
+      { "q": "Freetown", "a": "Sierra Leone" },
+      { "q": "Conakry", "a": "Guinea" },
+      { "q": "Lilongwe", "a": "Malawi" },
+      { "q": "Praia", "a": "Cape Verde" },
+      { "q": "Yamoussoukro", "a": "Ivory Coast" },
+      { "q": "Port Vila", "a": "Vanuatu" },
+      { "q": "Sucre (constitutional capital)", "a": "Bolivia" },
+      { "q": "The Hague (seat of government)", "a": "Netherlands" },
+      { "q": "Bloemfontein (judicial capital)", "a": "South Africa" }
+    ],
+    "600": [
+      { "q": "Moroni", "a": "Comoros" },
+      { "q": "Victoria", "a": "Seychelles" },
+      { "q": "Nuku'alofa", "a": "Tonga" },
+      { "q": "Majuro", "a": "Marshall Islands" },
+      { "q": "Ngerulmud", "a": "Palau" },
+      { "q": "Lobamba (legislative capital)", "a": "Eswatini" },
+      { "q": "Putrajaya (administrative capital)", "a": "Malaysia" },
+      { "q": "Sri Jayawardenepura Kotte (official capital)", "a": "Sri Lanka" },
+      { "q": "Cotonou (seat of government)", "a": "Benin" },
+      { "q": "Cetinje (Old Royal Capital)", "a": "Montenegro" },
+      { "q": "Bujumbura (economic capital)", "a": "Burundi" }
+    ]
+  }
+}

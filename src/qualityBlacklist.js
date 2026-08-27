@@ -12462,6 +12462,426 @@ const entries = [
     "q": "What countries border Netherlands (to the east)?",
     "a": "Germany",
     "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the largest desert on Earth?",
+    "a": "Antarctica",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the longest river in the world?",
+    "a": "Nile (or Amazon, disputed)",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 5 × 6?",
+    "a": "30",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 5 plus 7?",
+    "a": "12",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 9 times 8?",
+    "a": "72",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many sides does a triangle have?",
+    "a": "3",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 3 times 3?",
+    "a": "9",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many zeros are in one thousand?",
+    "a": "3",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 12 divided by 3?",
+    "a": "4",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 7 plus 8?",
+    "a": "15",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 11 times 11?",
+    "a": "121",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many minutes in an hour?",
+    "a": "60",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What shape is a stop sign?",
+    "a": "Octagon",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many sides does a rectangle have?",
+    "a": "4",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 7 times 6?",
+    "a": "42",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 8 plus 9?",
+    "a": "17",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many seconds in a minute?",
+    "a": "60",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 5 times 5?",
+    "a": "25",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many sides does a circle have?",
+    "a": "0",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 9 minus 4?",
+    "a": "5",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "What is the closest star to Earth?",
+    "a": "The Sun",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "What do we call a group of stars that look close?",
+    "a": "Constellation",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "What color is the Sun generally depicted as?",
+    "a": "Yellow",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "the_boys",
+    "q": "What color is the blood of the main villain shown on screen?",
+    "a": "Red",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many seconds are in a minute?",
+    "a": "60",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many legs does a spider have?",
+    "a": "8",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many sides does a square have?",
+    "a": "4",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What shape is a stop sign?",
+    "a": "Octagon",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What do bees make?",
+    "a": "Honey",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many legs does an insect have?",
+    "a": "6",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the first month of the year?",
+    "a": "January",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What do you call a baby dog?",
+    "a": "Puppy",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the opposite of day?",
+    "a": "Night",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What animal says 'moo'?",
+    "a": "Cow",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What do you call a baby cat?",
+    "a": "Kitten",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What gas do humans breathe in?",
+    "a": "Oxygen",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the capital of France?",
+    "a": "Paris",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What color is the sky on a clear day?",
+    "a": "Blue",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the last month of the year?",
+    "a": "December",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What do cows produce that we drink?",
+    "a": "Milk",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What animal has a trunk?",
+    "a": "Elephant",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What do you call a group of fish?",
+    "a": "School",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the largest planet in our solar system?",
+    "a": "Jupiter",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "general",
+    "q": "How many planets have rings in our solar system?",
+    "a": "4",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "general",
+    "q": "What is a baby kangaroo called?",
+    "a": "Joey",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "general",
+    "q": "What is the capital of Greece?",
+    "a": "Athens",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "geography",
+    "q": "What is the capital of China?",
+    "a": "Beijing",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "What body part do you hear with?",
+    "a": "Ears",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "How many legs does a crab have?",
+    "a": "10",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "What part of the body do you see with?",
+    "a": "Eyes",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "What is a baby cow called?",
+    "a": "Calf",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Japan?",
+    "a": "Tokyo",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Australia?",
+    "a": "Canberra",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Canada?",
+    "a": "Ottawa",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Egypt?",
+    "a": "Cairo",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the largest continent?",
+    "a": "Asia",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the smallest continent?",
+    "a": "Australia",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Germany?",
+    "a": "Berlin",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Spain?",
+    "a": "Madrid",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Italy?",
+    "a": "Rome",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the longest river in the world?",
+    "a": "Nile",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What currency is used in Japan?",
+    "a": "Yen",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Russia?",
+    "a": "Moscow",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of China?",
+    "a": "Beijing",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of England?",
+    "a": "London",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Brazil?",
+    "a": "Brasília",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the largest desert?",
+    "a": "Sahara",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of India?",
+    "a": "New Delhi",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What is the capital of Greece?",
+    "a": "Athens",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "country_facts",
+    "q": "What currency is used in the UK?",
+    "a": "Pound",
+    "reason": "baby-level pattern (tier 200)"
   }
 ];
 

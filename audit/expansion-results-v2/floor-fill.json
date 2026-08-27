@@ -1,0 +1,52 @@
+{
+  "general": {
+    "200": [
+      { "q": "In which country is the city of Marrakech?", "a": "Morocco" },
+      { "q": "What is the currency of Switzerland?", "a": "Swiss franc" },
+      { "q": "Which bird is the national symbol of the United States?", "a": "Bald eagle" },
+      { "q": "Which blood type is known as the universal donor?", "a": "O negative" },
+      { "q": "What is the name of the fairy who travels with Peter Pan?", "a": "Tinker Bell" },
+      { "q": "Which metal is liquid at room temperature?", "a": "Mercury" },
+      { "q": "How many strings does a standard violin have?", "a": "4" },
+      { "q": "Which animal appears on Australia's coat of arms alongside the emu?", "a": "Kangaroo" },
+      { "q": "Which country gifted the Statue of Liberty to the United States?", "a": "France" },
+      { "q": "What is the largest internal organ in the human body?", "a": "Liver" },
+      { "q": "Which chess piece can only move diagonally?", "a": "Bishop" },
+      { "q": "What do you call a word that reads the same forwards and backwards?", "a": "Palindrome" },
+      { "q": "How many players does a volleyball team have on court at once?", "a": "6" },
+      { "q": "Which gas makes up most of Earth's atmosphere?", "a": "Nitrogen" },
+      { "q": "Which sea creature has three hearts?", "a": "Octopus" },
+      { "q": "Who is the Greek god of the sea?", "a": "Poseidon" },
+      { "q": "In what year did the Titanic sink?", "a": "1912" },
+      { "q": "What do bees collect from flowers to make honey?", "a": "Nectar" },
+      { "q": "Which planet is closest in size to Earth?", "a": "Venus" },
+      { "q": "What is the name of the toy cowboy in Toy Story?", "a": "Woody" },
+      { "q": "Which continent has the most countries?", "a": "Africa" },
+      { "q": "What type of animal is a Komodo dragon?", "a": "Lizard" }
+    ]
+  },
+  "country_facts": {
+    "200": [
+      { "q": "Which country overtook China as the world's most populous in 2023?", "a": "India" },
+      { "q": "Which country is home to the Great Barrier Reef?", "a": "Australia" },
+      { "q": "Which country's coastline touches both the Atlantic and Indian Oceans?", "a": "South Africa" },
+      { "q": "In which country would you find the ancient rock city of Petra?", "a": "Jordan" },
+      { "q": "Which country produces the most coffee in the world?", "a": "Brazil" },
+      { "q": "Which country is home to the Taj Mahal?", "a": "India" },
+      { "q": "Istanbul is the largest city of which country?", "a": "Turkey" },
+      { "q": "Machu Picchu is located in which country?", "a": "Peru" },
+      { "q": "Which country is the world's largest producer of olive oil?", "a": "Spain" },
+      { "q": "Which country has the most time zones when its overseas territories are counted?", "a": "France" },
+      { "q": "Which African country has the largest population?", "a": "Nigeria" },
+      { "q": "Mount Kilimanjaro stands in which country?", "a": "Tanzania" },
+      { "q": "Sumo wrestling is the national sport of which country?", "a": "Japan" },
+      { "q": "Which country hosted the 2022 FIFA World Cup?", "a": "Qatar" },
+      { "q": "The temple complex of Angkor Wat is in which country?", "a": "Cambodia" },
+      { "q": "Which country has the longest coastline in the world?", "a": "Canada" },
+      { "q": "Which country is nicknamed the Emerald Isle?", "a": "Ireland" },
+      { "q": "The Great Pyramid of Giza is in which country?", "a": "Egypt" },
+      { "q": "Which country has the tallest building in the world?", "a": "United Arab Emirates" },
+      { "q": "Which country is the world's largest producer of tea?", "a": "China" }
+    ]
+  }
+}

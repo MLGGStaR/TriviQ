@@ -5,7 +5,7 @@ import path from "node:path";
 
 const BACKFILL_PATH = "src/qualityBackfill.js";
 const BLACKLIST_PATH = "src/qualityBlacklist.js";
-const RESULTS_DIR = "audit/expansion-results";
+const RESULTS_DIR = process.argv[2] || "audit/expansion-results";
 
 // Load current backfill
 const backfillMod = await import(`file:///${path.resolve(BACKFILL_PATH).replace(/\\/g, "/")}?c=${Date.now()}`);

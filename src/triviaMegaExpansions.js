@@ -620,23 +620,6 @@ const TRIVIA_MEGA_EXPANSIONS = {
       "Act this movie or show",
     ),
   },
-general_emoji: {
-    200: [
-      guess("🍿 🎬", "Movie night"),
-      guess("📚 🧠", "Studying"),
-      guess("✈️ 🧳", "Travel"),
-    ],
-    400: [
-      guess("🧠 ⚡ 💡", "Brainstorm"),
-      guess("⏰ 💥 😵", "Wake-up call"),
-      guess("📉 😬 💸", "Bad investment"),
-    ],
-    600: [
-      guess("🧊 🧠 😎", "Keep your cool"),
-      guess("🪞 😬", "Self-conscious"),
-      guess("🚪 🐘", "Elephant in the room"),
-    ],
-  },
   who_footballer: {
     200: who([
       ["Brazilian winger, Real Madrid star, dances after goals, often called Vini", "Vinicius Junior", "Vin%C3%ADcius_J%C3%BAnior"],
