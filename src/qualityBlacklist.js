@@ -12882,6 +12882,84 @@ const entries = [
     "q": "What currency is used in the UK?",
     "a": "Pound",
     "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What number comes after 99?",
+    "a": "100",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is half of 20?",
+    "a": "10",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "How many degrees are in a circle?",
+    "a": "360",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is the cube root of 27?",
+    "a": "3",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "general",
+    "q": "How many players are on a basketball team on the court?",
+    "a": "5",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many degrees are in a right angle?",
+    "a": "90",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many quarters in a dollar?",
+    "a": "4",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many pennies in a nickel?",
+    "a": "5",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many dimes in a dollar?",
+    "a": "10",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many feet in a yard?",
+    "a": "3",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many ounces in a pound?",
+    "a": "16",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "general",
+    "q": "How many players on a baseball team on the field?",
+    "a": "9",
+    "reason": "baby-level pattern (tier 400)"
+  },
+  {
+    "cat": "sports",
+    "q": "How many players are on a basketball team on the court?",
+    "a": "5",
+    "reason": "baby-level pattern (tier 200)"
   }
 ];
 

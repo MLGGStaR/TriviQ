@@ -60,6 +60,21 @@ const P = [
   /what (vehicle|thing) (flies|has two wheels|has four wheels|goes on rails)\b/i,
   /what (do you|is used to) (tell|measure) (the )?time\b/i,
   /what (do you|does one) (sleep|sit) (on|in)\??$/i,
+  // Grade-school unit / currency conversions
+  /how many (pennies|cents|nickels|dimes|quarters) (are )?(there )?in (a|an|one) (nickel|dime|quarter|dollar)\b/i,
+  /how many (inches|feet) (are )?(there )?in (a|an|one) (foot|yard)\b/i,
+  /how many (ounces|pounds|grams|millilit(er|re)s|centimet(er|re)s|millimet(er|re)s) (are )?(there )?in (a|an|one) (pound|ton|kilogram|kilo|lit(er|re)|met(er|re)|centimet(er|re))\b/i,
+  /how many (hours|days|weeks|months|seconds|minutes) (are )?(there )?in (a|an|one|two) (day|week|month|year|hour|minute|decade|century|fortnight)\b/i,
+  /how many (years|decades) (are )?(there )?in (a|an|one) (decade|century|millennium)\b/i,
+  /how many (eggs|items|things) (are )?(there )?in (a|one) (dozen|baker'?s dozen)\b/i,
+  /how many (degrees|sides|angles) (are )?(there )?in (a|an) (circle|right angle|straight line|triangle|square)\b/i,
+  /how many (players|people) (are )?(there )?on (a|an) (soccer|football|basketball|baseball|hockey|volleyball) team( on the (field|court|pitch|ice))?\??$/i,
+  /what (number|digit) comes (before|after) (\d+|one|two|three|four|five|six|seven|eight|nine|ten)\b/i,
+  /what is (half|double|twice|a quarter) of (\d|1\d|20|50|100)\b/i,
+  /what is (10|100|1000) (times|x|×|\*) (\d|10)\b/i,
+  /what is the (square root|cube root) of (1|4|9|16|25|36|49|64|81|100|8|27)\b/i,
+  /what (is|do you call) a (shape|figure) with (three|four|five|six|eight|3|4|5|6|8) (sides|corners)/i,
+  /how many (wheels|doors|legs|strings|keys|holes) (does|do|has|have) (a|an|the) (car|bike|bicycle|tricycle|piano|guitar|violin|golf course|bowling ball)\b/i,
 ];
 
 const flagged = [];

@@ -86,6 +86,13 @@
     },
     {
       "cat": "math",
+      "q": "What is the square root of 81?",
+      "a": "9",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "cat": "math",
       "q": "What is 9 × 11?",
       "a": "99",
       "reason": "baby-level pattern (tier 200)",
@@ -102,6 +109,13 @@
       "cat": "math",
       "q": "What is 8 × 8?",
       "a": "64",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "cat": "math",
+      "q": "What is half of 100?",
+      "a": "50",
       "reason": "baby-level pattern (tier 200)",
       "file": "newCategoriesPack2"
     },
@@ -135,6 +149,13 @@
     },
     {
       "cat": "math",
+      "q": "What number comes after 99?",
+      "a": "100",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "math",
       "q": "How many sides does a triangle have?",
       "a": "3",
       "reason": "baby-level pattern (tier 200)",
@@ -156,6 +177,13 @@
     },
     {
       "cat": "math",
+      "q": "What is half of 20?",
+      "a": "10",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "math",
       "q": "What is 12 divided by 3?",
       "a": "4",
       "reason": "baby-level pattern (tier 200)",
@@ -165,6 +193,13 @@
       "cat": "math",
       "q": "What is 7 plus 8?",
       "a": "15",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "math",
+      "q": "How many degrees are in a circle?",
+      "a": "360",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },
@@ -239,6 +274,20 @@
       "file": "qualityBackfill"
     },
     {
+      "cat": "math",
+      "q": "What is a quarter of 100?",
+      "a": "25",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "math",
+      "q": "What is the cube root of 27?",
+      "a": "3",
+      "reason": "baby-level pattern (tier 400)",
+      "file": "qualityBackfill"
+    },
+    {
       "cat": "space",
       "q": "What is the closest star to Earth?",
       "a": "The Sun",
@@ -263,6 +312,13 @@
       "cat": "the_boys",
       "q": "What color is the blood of the main villain shown on screen?",
       "a": "Red",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "How many players are on a basketball team on the court?",
+      "a": "5",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },
@@ -317,6 +373,13 @@
     },
     {
       "cat": "general",
+      "q": "How many degrees are in a right angle?",
+      "a": "90",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
       "q": "What do you call a baby dog?",
       "a": "Puppy",
       "reason": "baby-level pattern (tier 200)",
@@ -333,6 +396,13 @@
       "cat": "general",
       "q": "What animal says 'moo'?",
       "a": "Cow",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "How many quarters in a dollar?",
+      "a": "4",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },
@@ -359,6 +429,13 @@
     },
     {
       "cat": "general",
+      "q": "How many pennies in a nickel?",
+      "a": "5",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
       "q": "What color is the sky on a clear day?",
       "a": "Blue",
       "reason": "baby-level pattern (tier 200)",
@@ -368,6 +445,13 @@
       "cat": "general",
       "q": "What is the last month of the year?",
       "a": "December",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "How many dimes in a dollar?",
+      "a": "10",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },
@@ -394,8 +478,22 @@
     },
     {
       "cat": "general",
+      "q": "How many feet in a yard?",
+      "a": "3",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
       "q": "What is the largest planet in our solar system?",
       "a": "Jupiter",
+      "reason": "baby-level pattern (tier 400)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "How many ounces in a pound?",
+      "a": "16",
       "reason": "baby-level pattern (tier 400)",
       "file": "qualityBackfill"
     },
@@ -417,6 +515,13 @@
       "cat": "general",
       "q": "What is the capital of Greece?",
       "a": "Athens",
+      "reason": "baby-level pattern (tier 400)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "How many players on a baseball team on the field?",
+      "a": "9",
       "reason": "baby-level pattern (tier 400)",
       "file": "qualityBackfill"
     },
@@ -452,6 +557,13 @@
       "cat": "science",
       "q": "What is a baby cow called?",
       "a": "Calf",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "sports",
+      "q": "How many players are on a basketball team on the court?",
+      "a": "5",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },

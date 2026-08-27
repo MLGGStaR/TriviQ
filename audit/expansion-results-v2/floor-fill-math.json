@@ -1,0 +1,24 @@
+{
+  "math": {
+    "200": [
+      { "q": "What do you call a triangle whose three sides are all different lengths?", "a": "Scalene" },
+      { "q": "What is the name of a triangle with exactly two equal sides?", "a": "Isosceles" },
+      { "q": "What is the sum of the interior angles of any triangle?", "a": "180 degrees" },
+      { "q": "What is the longest side of a right-angled triangle called?", "a": "Hypotenuse" },
+      { "q": "What do you call a whole number that has exactly two factors, 1 and itself?", "a": "Prime number" },
+      { "q": "How many degrees is each angle in an equilateral triangle?", "a": "60" },
+      { "q": "Which letter is the Roman numeral for 50?", "a": "L" },
+      { "q": "Which letter is the Roman numeral for 500?", "a": "D" },
+      { "q": "What is the result of a multiplication called?", "a": "Product" },
+      { "q": "What is the top number of a fraction called?", "a": "Numerator" },
+      { "q": "What do you call an angle that is bigger than 90 degrees but smaller than 180?", "a": "Obtuse angle" },
+      { "q": "What is the perimeter of a square whose sides are each 7 cm?", "a": "28 cm" },
+      { "q": "What is the name of the sequence that starts 1, 1, 2, 3, 5, 8, 13?", "a": "Fibonacci sequence" },
+      { "q": "What is the median of the numbers 3, 7 and 12?", "a": "7" },
+      { "q": "What 3D shape has a circular base and comes to a single point at the top?", "a": "Cone" },
+      { "q": "What is the mathematical term for the average of a set of numbers?", "a": "Mean" },
+      { "q": "What is 25 percent written as a fraction?", "a": "1/4" },
+      { "q": "What is the name for a polygon with twelve sides?", "a": "Dodecagon" }
+    ]
+  }
+}

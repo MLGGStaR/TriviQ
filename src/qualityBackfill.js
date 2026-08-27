@@ -4576,6 +4576,70 @@ const QUALITY_BACKFILL = {
       {
         "q": "What number is represented by M in Roman numerals?",
         "a": "1000"
+      },
+      {
+        "q": "What do you call a triangle whose three sides are all different lengths?",
+        "a": "Scalene"
+      },
+      {
+        "q": "What is the name of a triangle with exactly two equal sides?",
+        "a": "Isosceles"
+      },
+      {
+        "q": "What is the longest side of a right-angled triangle called?",
+        "a": "Hypotenuse"
+      },
+      {
+        "q": "What do you call a whole number that has exactly two factors, 1 and itself?",
+        "a": "Prime number"
+      },
+      {
+        "q": "How many degrees is each angle in an equilateral triangle?",
+        "a": "60"
+      },
+      {
+        "q": "Which letter is the Roman numeral for 500?",
+        "a": "D"
+      },
+      {
+        "q": "What is the result of a multiplication called?",
+        "a": "Product"
+      },
+      {
+        "q": "What is the top number of a fraction called?",
+        "a": "Numerator"
+      },
+      {
+        "q": "What do you call an angle that is bigger than 90 degrees but smaller than 180?",
+        "a": "Obtuse angle"
+      },
+      {
+        "q": "What is the perimeter of a square whose sides are each 7 cm?",
+        "a": "28 cm"
+      },
+      {
+        "q": "What is the name of the sequence that starts 1, 1, 2, 3, 5, 8, 13?",
+        "a": "Fibonacci sequence"
+      },
+      {
+        "q": "What is the median of the numbers 3, 7 and 12?",
+        "a": "7"
+      },
+      {
+        "q": "What 3D shape has a circular base and comes to a single point at the top?",
+        "a": "Cone"
+      },
+      {
+        "q": "What is the mathematical term for the average of a set of numbers?",
+        "a": "Mean"
+      },
+      {
+        "q": "What is 25 percent written as a fraction?",
+        "a": "1/4"
+      },
+      {
+        "q": "What is the name for a polygon with twelve sides?",
+        "a": "Dodecagon"
       }
     ],
     "400": [
@@ -4722,10 +4786,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is 5 to the power of 4?",
         "a": "625"
-      },
-      {
-        "q": "What is the Roman numeral for 500?",
-        "a": "D"
       },
       {
         "q": "What is the opposite of addition?",
@@ -11053,6 +11113,134 @@ const QUALITY_BACKFILL = {
       {
         "q": "I stand alone on the rocks and blink all night so ships keep their distance. What am I?",
         "a": "A lighthouse"
+      },
+      {
+        "q": "I have teeth but never bite, and I get pulled up and down all day. What am I?",
+        "a": "A zipper"
+      },
+      {
+        "q": "I have four legs and a back, but I'm the one who gets sat on. What am I?",
+        "a": "A chair"
+      },
+      {
+        "q": "I have bark but never bite, and my rings give away how old I am. What am I?",
+        "a": "A tree"
+      },
+      {
+        "q": "I have a stem and a bowl, but I'm not a flower and I hold no soup. What am I?",
+        "a": "A wine glass"
+      },
+      {
+        "q": "I have a bridge but no river, a neck but no head, and six strings. What am I?",
+        "a": "A guitar"
+      },
+      {
+        "q": "I have blades but I'm not a knife, and I spin above your head to keep you cool. What am I?",
+        "a": "A ceiling fan"
+      },
+      {
+        "q": "I have a trunk and a hood but no face, and I spend the night in the driveway. What am I?",
+        "a": "A car"
+      },
+      {
+        "q": "I have ribs but no heart, and I only open when the rain comes. What am I?",
+        "a": "An umbrella"
+      },
+      {
+        "q": "I have a mouth and a neck but no head, and I hold flowers. What am I?",
+        "a": "A vase"
+      },
+      {
+        "q": "I have a handle and a spout, and I whistle when I'm ready. What am I?",
+        "a": "A kettle"
+      },
+      {
+        "q": "I have a tail and I fly, but only while you hold my string. What am I?",
+        "a": "A kite"
+      },
+      {
+        "q": "I have four strings, I'm played with a bow, and I'm tucked under your chin. What am I?",
+        "a": "A violin"
+      },
+      {
+        "q": "I have eyes but cannot see, and I'm dug up, mashed, and fried. What am I?",
+        "a": "A potato"
+      },
+      {
+        "q": "I have a head but never think, and my head is nothing but foam. What am I?",
+        "a": "A beer"
+      },
+      {
+        "q": "I have teeth along my edge, and I cut wood by going back and forth. What am I?",
+        "a": "A saw"
+      },
+      {
+        "q": "I have a tongue but never taste, and my ringing calls people to church. What am I?",
+        "a": "A bell"
+      },
+      {
+        "q": "I have springs but no water, and I bounce you into the air. What am I?",
+        "a": "A trampoline"
+      },
+      {
+        "q": "I have a deck but no cards, a bow but no arrow, and a stern that's never angry. What am I?",
+        "a": "A ship"
+      },
+      {
+        "q": "I have a brim but no cup, and I sit on top of your head. What am I?",
+        "a": "A hat"
+      },
+      {
+        "q": "I have a collar but no neck, and sleeves but no arms. What am I?",
+        "a": "A shirt"
+      },
+      {
+        "q": "I have a heel and a toe but no foot of my own, and I often lose my twin in the wash. What am I?",
+        "a": "A sock"
+      },
+      {
+        "q": "I have leaves but no branches, and I'm steeped in hot water. What am I?",
+        "a": "Tea"
+      },
+      {
+        "q": "I have a thumb but no fingers, and I keep your hand warm. What am I?",
+        "a": "A mitten"
+      },
+      {
+        "q": "I have a foot but no leg, and I keep your lines straight. What am I?",
+        "a": "A ruler"
+      },
+      {
+        "q": "I have a seat but no legs, and I hang from a branch on two ropes. What am I?",
+        "a": "A swing"
+      },
+      {
+        "q": "I have a spout, and I rain on the flowers whenever you tip me. What am I?",
+        "a": "A watering can"
+      },
+      {
+        "q": "I have a head, and I only light up when I'm struck. What am I?",
+        "a": "A match"
+      },
+      {
+        "q": "I always point north but never travel anywhere. What am I?",
+        "a": "A compass"
+      },
+      {
+        "q": "I'm knocked on but never hurt, and answered though I never ask a question. What am I?",
+        "a": "A door"
+      },
+      {
+        "q": "I have a bridge but no river, and two arms that hook behind your ears. What am I?",
+        "a": "Glasses"
+      },
+      {
+        "q": "I have a lip but never speak, a handle but never grab, and I hold your morning coffee. What am I?",
+        "a": "A mug"
+      },
+      {
+        "q": "I have a crust, a mantle, and a core, but I'm not a pie. What am I?",
+        "a": "The Earth"
       }
     ],
     "400": [
@@ -11193,10 +11381,6 @@ const QUALITY_BACKFILL = {
         "a": "A lock"
       },
       {
-        "q": "I have four strings and a bow but shoot no arrows, and I'm tucked under the chin. What am I?",
-        "a": "A violin"
-      },
-      {
         "q": "I am a throat on the roof that swallows only smoke. What am I?",
         "a": "A chimney"
       },
@@ -11307,6 +11491,110 @@ const QUALITY_BACKFILL = {
       {
         "q": "I show your bones without cutting you open. What am I?",
         "a": "An X-ray"
+      },
+      {
+        "q": "I have pupils but I'm not an eye, and a bell tells me when to start. What am I?",
+        "a": "A school"
+      },
+      {
+        "q": "I have a crown but no throne, and a root but no leaves. What am I?",
+        "a": "A tooth"
+      },
+      {
+        "q": "I have a shoulder but no arm, and I pass through towns without ever moving. What am I?",
+        "a": "A road"
+      },
+      {
+        "q": "I was never alive, yet I can die, and when I do, everything I power goes dark. What am I?",
+        "a": "A battery"
+      },
+      {
+        "q": "I go in hard and come out soft, and you can blow me into a bubble. What am I?",
+        "a": "Chewing gum"
+      },
+      {
+        "q": "I have an eye but cannot see, and I'm calm at my center while everything around me is wild. What am I?",
+        "a": "A hurricane"
+      },
+      {
+        "q": "I have a tail made of ice and dust, and I only grow it when I get close to the sun. What am I?",
+        "a": "A comet"
+      },
+      {
+        "q": "I'm the only kind of coat you put on while it's wet. What am I?",
+        "a": "Paint"
+      },
+      {
+        "q": "I'm taken, shot, and framed, but I've never committed a crime. What am I?",
+        "a": "A photograph"
+      },
+      {
+        "q": "I can be caught but never thrown, and I'm most common in winter. What am I?",
+        "a": "A cold"
+      },
+      {
+        "q": "I'm drawn without a pencil, I run without legs, and I'm taken hot. What am I?",
+        "a": "A bath"
+      },
+      {
+        "q": "I run without legs and drop without falling, and the saddest people make the most of me. What am I?",
+        "a": "A tear"
+      },
+      {
+        "q": "I can be kept, given, and broken, but never touched. What am I?",
+        "a": "A promise"
+      },
+      {
+        "q": "I fly all day but never go anywhere. What am I?",
+        "a": "A flag"
+      },
+      {
+        "q": "I have a heel but no foot, and a crust but no dirt. What am I?",
+        "a": "A loaf of bread"
+      },
+      {
+        "q": "I'm full of dates but never go on one, and I'm thrown away every twelve months. What am I?",
+        "a": "A calendar"
+      },
+      {
+        "q": "I have a fly but never buzz, and two legs but never walk. What am I?",
+        "a": "A pair of pants"
+      },
+      {
+        "q": "I come in a hand but never on an arm, and monkeys can't get enough of me. What am I?",
+        "a": "A banana"
+      },
+      {
+        "q": "I have a bridge but no river, and I run when you're sick. What am I?",
+        "a": "A nose"
+      },
+      {
+        "q": "I have a drum and a canal, but no music and no boats. What am I?",
+        "a": "An ear"
+      },
+      {
+        "q": "I can be cast, broken, and lifted, and witches are famous for me. What am I?",
+        "a": "A spell"
+      },
+      {
+        "q": "I have a train but no tracks, and I'm usually worn only once. What am I?",
+        "a": "A wedding dress"
+      },
+      {
+        "q": "I have an ear but cannot hear, and I'm dressed in silk and husk. What am I?",
+        "a": "Corn"
+      },
+      {
+        "q": "I'm drawn every evening, but never with a pencil, and I hide you from the street. What am I?",
+        "a": "Curtains"
+      },
+      {
+        "q": "I'm held to keep you quiet and bitten to stop a remark. What am I?",
+        "a": "Your tongue"
+      },
+      {
+        "q": "I'm an insect, but I also crash your software. What am I?",
+        "a": "A bug"
       }
     ],
     "600": [
@@ -11537,6 +11825,98 @@ const QUALITY_BACKFILL = {
       {
         "q": "I raise the hair on your arms when you're cold or scared, and I'm named after a plucked bird. What am I?",
         "a": "Goosebumps"
+      },
+      {
+        "q": "I stand on one leg with my heart in my head. What am I?",
+        "a": "A cabbage"
+      },
+      {
+        "q": "I have a foot on each end and one in the middle. What am I?",
+        "a": "A yardstick"
+      },
+      {
+        "q": "I wear a belt of three stars and hunt across the winter sky. What am I?",
+        "a": "Orion"
+      },
+      {
+        "q": "I break at dawn, I'm called at dusk, and heroes are always saving me. What am I?",
+        "a": "The day"
+      },
+      {
+        "q": "I'm served in prison, and I end with a full stop. What am I?",
+        "a": "A sentence"
+      },
+      {
+        "q": "I'm found at the end of every rainbow, though no gold sits beside me. What am I?",
+        "a": "The letter W"
+      },
+      {
+        "q": "There are two of me in a corner, one in a room, none in a house, but one in a shelter. What am I?",
+        "a": "The letter R"
+      },
+      {
+        "q": "I'm lost, kept, and held, and I go quickest in an argument. What am I?",
+        "a": "Your temper"
+      },
+      {
+        "q": "I'm paid but never bought, caught but never thrown, and held but never touched. What am I?",
+        "a": "Attention"
+      },
+      {
+        "q": "I'm set, broken, and beaten, yet I never feel a thing. What am I?",
+        "a": "A record"
+      },
+      {
+        "q": "I have a heart but no other organs, and I'm eaten leaf by leaf. What am I?",
+        "a": "An artichoke"
+      },
+      {
+        "q": "I'm a seven-letter word, yet I hold thousands of letters. What am I?",
+        "a": "A mailbox"
+      },
+      {
+        "q": "I'm a word for shining your shoes, but give me a capital letter and I become a nationality. What am I?",
+        "a": "Polish"
+      },
+      {
+        "q": "Most of me hides below the surface, I'm lighter than the water I came from, and ships fear me. What am I?",
+        "a": "An iceberg"
+      },
+      {
+        "q": "Flip me upside down and I'm worth half again as much. What am I?",
+        "a": "Six"
+      },
+      {
+        "q": "I read the same forwards, backwards, and upside down, and I'm the middle of the day. What am I?",
+        "a": "Noon"
+      },
+      {
+        "q": "I'm a five-letter word you might skip across a pond; drop my first two letters and I become a number. What am I?",
+        "a": "Stone"
+      },
+      {
+        "q": "I come to you every night, but I'm usually gone by breakfast. What am I?",
+        "a": "A dream"
+      },
+      {
+        "q": "I'm the everyday English word with three sets of double letters in a row. What am I?",
+        "a": "Bookkeeper"
+      },
+      {
+        "q": "No matter how many times you add me to myself, I never grow. What am I?",
+        "a": "Zero"
+      },
+      {
+        "q": "Read me forward and I'm what everyone has done; read me backward and I'm someone you'd rather never meet. What am I?",
+        "a": "Lived"
+      },
+      {
+        "q": "Read me backward and I become the sweetest course of the meal. What am I?",
+        "a": "Stressed"
+      },
+      {
+        "q": "The longer you hold me, the heavier I become, yet I weigh nothing at all. What am I?",
+        "a": "A grudge"
       }
     ]
   },
@@ -30937,6 +31317,50 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this country!",
         "a": "Democratic Republic of the Congo"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Costa Rica"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Panama"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Fiji"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Kuwait"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Trinidad and Tobago"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Dominican Republic"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Ecuador"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Bolivia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Samoa"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Uruguay"
       }
     ],
     "400": [
@@ -31115,6 +31539,50 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this country!",
         "a": "Burkina Faso"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Armenia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Papua New Guinea"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Paraguay"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Bulgaria"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Slovakia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Slovenia"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Laos"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Brunei"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Guatemala"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Honduras"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Nicaragua"
       }
     ],
     "600": [
@@ -32109,6 +32577,162 @@ const QUALITY_BACKFILL = {
       {
         "q": "Northern Irish winger. Won the 1968 European Cup and Ballon d'Or with Manchester United. Nicknamed the fifth Beatle for his celebrity lifestyle. Once joked he spent his money on booze, women and fast cars and squandered the rest.",
         "a": "George Best"
+      },
+      {
+        "q": "French forward. Joined Manchester United from Leeds in 1992 and won four Premier League titles in five seasons. Famous for his upturned collar and a kung-fu kick on a Crystal Palace fan in 1995. Retired in 1997 aged just 30 and became an actor.",
+        "a": "Eric Cantona"
+      },
+      {
+        "q": "English midfielder. Survived the 1958 Munich air disaster as a young Manchester United player. Won the 1966 World Cup and the 1968 European Cup. Known for thunderous long-range shots and a famous comb-over.",
+        "a": "Bobby Charlton"
+      },
+      {
+        "q": "English centre-back. Captained England to the 1966 World Cup at Wembley. Spent most of his career at West Ham. Pelé called him the greatest defender he ever faced after their 1970 duel in Mexico.",
+        "a": "Bobby Moore"
+      },
+      {
+        "q": "English winger born in Kingston, Jamaica. Came through Liverpool's academy, then moved to Manchester City in 2015 for around £49 million and won four Premier League titles there. Later joined Chelsea.",
+        "a": "Raheem Sterling"
+      },
+      {
+        "q": "English attacking midfielder. Boyhood Aston Villa fan and captain who moved to Manchester City for a British-record £100 million in 2021. Won the treble in 2023. Known for his rolled-down socks and tiny shin pads.",
+        "a": "Jack Grealish"
+      },
+      {
+        "q": "German goalkeeper. Joined Barcelona from Borussia Mönchengladbach in 2014 and won the treble in his first season. Renowned for his footwork and distribution. Spent years as understudy to Manuel Neuer with the national team.",
+        "a": "Marc-André ter Stegen"
+      },
+      {
+        "q": "Slovenian goalkeeper. Joined Atlético Madrid from Benfica in 2014 and won the Zamora Trophy as La Liga's best keeper five times. Won the La Liga title in 2021. Renowned for his calm shot-stopping.",
+        "a": "Jan Oblak"
+      },
+      {
+        "q": "Italian goalkeeper who made his AC Milan debut at 16. Named player of the tournament at Euro 2020 after two shoot-out saves in the final. Won the 2025 Champions League with PSG, then joined Manchester City.",
+        "a": "Gianluigi Donnarumma"
+      },
+      {
+        "q": "German winger and son of a Senegalese international. Won two Premier League titles with Manchester City before a big-money move to Bayern Munich in 2020. Joined Galatasaray on a free transfer in 2025.",
+        "a": "Leroy Sané"
+      },
+      {
+        "q": "Argentine forward nicknamed \"The Spider\". Scored twice in the 2022 World Cup semi-final against Croatia. Won the treble with Manchester City in 2023 before joining Atlético Madrid in 2024.",
+        "a": "Julián Álvarez"
+      },
+      {
+        "q": "Argentine striker nicknamed \"El Toro\". Joined Inter from Racing Club in 2018 and became club captain. Won the 2022 World Cup and was Serie A's top scorer in 2023–24 as Inter won the Scudetto.",
+        "a": "Lautaro Martínez"
+      },
+      {
+        "q": "Uruguayan midfielder nicknamed \"El Pajarito\". Joined Real Madrid from Peñarol as a teenager and won the Champions League in 2022 and 2024. Famous for thunderous long-range strikes and also fills in at right-back.",
+        "a": "Federico Valverde"
+      },
+      {
+        "q": "Spanish midfielder. Joined Barcelona from Las Palmas at 17 and won the Golden Boy award in 2021. Won Euro 2024 with Spain. Known for elegant close control that draws comparisons to Iniesta.",
+        "a": "Pedri"
+      },
+      {
+        "q": "Dutch midfielder. Starred as Ajax reached the 2019 Champions League semi-finals, then joined Barcelona for around €75 million. Known for gliding dribbles from deep. Resisted repeated attempts to sell him to Manchester United.",
+        "a": "Frenkie de Jong"
+      },
+      {
+        "q": "Portuguese midfielder. Joined Manchester City from Monaco in 2017 and won six Premier League titles plus the 2023 treble. Won the 2019 Nations League with Portugal. Famed for relentless work rate and dribbling.",
+        "a": "Bernardo Silva"
+      },
+      {
+        "q": "Portuguese centre-back. Joined Manchester City from Benfica in 2020 and was named Premier League Player of the Season in his first year. Won the 2019 Nations League with Portugal.",
+        "a": "Rúben Dias"
+      },
+      {
+        "q": "French striker. Won the 2018 World Cup without scoring a single goal. Won the Puskás Award for a scorpion-kick goal for Arsenal against Crystal Palace. Later played for Chelsea, AC Milan and LAFC.",
+        "a": "Olivier Giroud"
+      },
+      {
+        "q": "French goalkeeper who captained France to the 2018 World Cup. Spent more than a decade at Tottenham after Lyon and captained them in the 2019 Champions League final. Moved to LAFC in 2024.",
+        "a": "Hugo Lloris"
+      },
+      {
+        "q": "German attacking midfielder. Scored the extra-time winner in the 2014 World Cup final against Argentina. Controversially moved from Dortmund to Bayern in 2013 before returning to Dortmund. Later played for PSV and Eintracht Frankfurt.",
+        "a": "Mario Götze"
+      },
+      {
+        "q": "German forward. Scored the only goal of the 2021 Champions League final for Chelsea against Manchester City. Came through at Bayer Leverkusen. Joined Arsenal in 2023.",
+        "a": "Kai Havertz"
+      },
+      {
+        "q": "German centre-back of Sierra Leonean heritage. Won the 2021 Champions League with Chelsea, then joined Real Madrid on a free in 2022 and won another in 2024. Known for aggression and grinning celebrations.",
+        "a": "Antonio Rüdiger"
+      },
+      {
+        "q": "Italian centre-back. Captained Italy to the Euro 2020 title. Spent 17 years at Juventus, winning nine straight Serie A titles, before finishing his career at LAFC. Famously bitten by Luis Suárez at the 2014 World Cup.",
+        "a": "Giorgio Chiellini"
+      },
+      {
+        "q": "Italian striker. Revealed a \"Why Always Me?\" undershirt after scoring in Manchester City's 6–1 derby win in 2011. Scored twice against Germany in the Euro 2012 semi-final. Also played for Inter, AC Milan and Liverpool.",
+        "a": "Mario Balotelli"
+      },
+      {
+        "q": "Spanish goalkeeper. Joined Manchester United from Atlético Madrid in 2011 and won the club's Player of the Year award a record four times. Won the 2023 Premier League Golden Glove. Joined Fiorentina in 2024.",
+        "a": "David de Gea"
+      },
+      {
+        "q": "Argentine striker. Scored 36 Serie A goals for Napoli in 2015–16, then joined Juventus for €90 million. Lost the 2014 World Cup final and two Copa América finals with Argentina. Finished at Inter Miami.",
+        "a": "Gonzalo Higuaín"
+      },
+      {
+        "q": "Argentine forward nicknamed \"La Joya\". Won five Serie A titles with Juventus before joining Roma in 2022. Won the 2022 World Cup, scoring in the final shoot-out. Celebrates with a mask gesture.",
+        "a": "Paulo Dybala"
+      },
+      {
+        "q": "Brazilian forward. Joined Liverpool from Hoffenheim in 2015 and led the line in a famous front three, winning the Champions League in 2019 and Premier League in 2020. Known for no-look finishes. Later played for Al-Ahli.",
+        "a": "Roberto Firmino"
+      },
+      {
+        "q": "Brazilian playmaker. Sold by Liverpool to Barcelona in January 2018 for around £142 million. Scored twice against Barcelona in Bayern's 8–2 win while on loan in 2020. Later played for Aston Villa and Vasco da Gama.",
+        "a": "Philippe Coutinho"
+      },
+      {
+        "q": "Scottish left-back and national team captain. Started at amateur side Queen's Park, rose through Dundee United and Hull, and joined Liverpool in 2017. Won the Champions League and two Premier League titles.",
+        "a": "Andy Robertson"
+      },
+      {
+        "q": "Nigerian striker. Serie A top scorer as Napoli won their first Scudetto in 33 years in 2023. Wears a protective face mask after a 2021 facial injury. Moved to Galatasaray on loan in 2024 and then permanently.",
+        "a": "Victor Osimhen"
+      },
+      {
+        "q": "Georgian winger. Named Serie A MVP as Napoli won the 2022–23 Scudetto. Joined PSG in January 2025 and won the Champions League months later.",
+        "a": "Khvicha Kvaratskhelia"
+      },
+      {
+        "q": "Portuguese winger. Named Serie A MVP as AC Milan won the 2021–22 Scudetto. Joined from Lille in 2019. Known for his pace and also releases rap music under the name Way 45.",
+        "a": "Rafael Leão"
+      },
+      {
+        "q": "Colombian winger. Joined Liverpool from Porto in January 2022. His father was kidnapped in Colombia in 2023 and freed after 12 days. Moved to Bayern Munich in 2025.",
+        "a": "Luis Díaz"
+      },
+      {
+        "q": "Argentine midfielder. Won the 2022 World Cup while a Brighton player, then joined Liverpool in 2023 and won the 2024–25 Premier League. His father and two brothers were also professional footballers.",
+        "a": "Alexis Mac Allister"
+      },
+      {
+        "q": "Argentine midfielder. Named best young player at the 2022 World Cup while at Benfica, then joined Chelsea for a British-record fee in January 2023. Won the 2025 Club World Cup.",
+        "a": "Enzo Fernández"
+      },
+      {
+        "q": "Spanish midfielder for Barcelona. Player of the tournament as Spain won the 2023 Women's World Cup. Won the Ballon d'Or Féminin in both 2023 and 2024.",
+        "a": "Aitana Bonmatí"
+      },
+      {
+        "q": "American winger with dyed pink hair. Won the Golden Ball and Golden Boot at the 2019 Women's World Cup and that year's Ballon d'Or Féminin. Known for an arms-outstretched celebration.",
+        "a": "Megan Rapinoe"
+      },
+      {
+        "q": "Brazilian forward. Six-time FIFA World Player of the Year. Holds the all-time goal record at World Cups for men or women with 17. Known by a single name.",
+        "a": "Marta"
+      },
+      {
+        "q": "Australian striker and national team captain. Her country's all-time record scorer. Won two consecutive WSL Golden Boots with Chelsea. Celebrates goals with a backflip.",
+        "a": "Sam Kerr"
       }
     ],
     "400": [
@@ -32407,6 +33031,154 @@ const QUALITY_BACKFILL = {
       {
         "q": "English centre-back. Became the world's most expensive defender when Manchester United paid £80m in 2019. Captained United before losing the armband. Scored a dramatic late winner against Lyon in the 2025 Europa League.",
         "a": "Harry Maguire"
+      },
+      {
+        "q": "Spanish right-back. Real Madrid academy product who spent one season at Bayer Leverkusen before being bought back in 2013. Scored the opening goal in the 2024 Champions League final. Has won the competition six times.",
+        "a": "Dani Carvajal"
+      },
+      {
+        "q": "Spanish left-back. Scored in the Euro 2012 final against Italy. Joined Barcelona from Valencia in 2012 and formed a famous partnership with Messi. Moved to Inter Miami in 2023.",
+        "a": "Jordi Alba"
+      },
+      {
+        "q": "Spanish attacking midfielder. Won the 2012 Golden Boy award at Málaga, then five Champions Leagues with Real Madrid. Revived his career at Real Betis and reached the 2025 Conference League final.",
+        "a": "Isco"
+      },
+      {
+        "q": "Spanish striker. Captained Spain to the Euro 2024 title. Has played for both Madrid clubs, Juventus twice, Chelsea and AC Milan. Joined Galatasaray on loan in 2025.",
+        "a": "Álvaro Morata"
+      },
+      {
+        "q": "Italian centre-back. Won eight Serie A titles with Juventus, interrupted by one season at AC Milan. Scored Italy's equaliser in the Euro 2020 final at Wembley.",
+        "a": "Leonardo Bonucci"
+      },
+      {
+        "q": "Italian winger and son of a former Italy striker. Won Euro 2020, scoring against Austria and Spain. Played for Fiorentina and Juventus before joining Liverpool in 2024.",
+        "a": "Federico Chiesa"
+      },
+      {
+        "q": "Italian striker. Won the 2020 European Golden Shoe with 36 Serie A goals for Lazio, equalling the single-season record. Lazio's all-time top scorer. Later joined Beşiktaş.",
+        "a": "Ciro Immobile"
+      },
+      {
+        "q": "Italian midfielder. Spent 18 years at Roma before a brief spell at Boca Juniors. Won the 2006 World Cup, converting in the final shoot-out. Later managed Roma.",
+        "a": "Daniele De Rossi"
+      },
+      {
+        "q": "French winger. Scored the only goal of the 2020 Champions League final for Bayern against PSG, the club where he grew up. Won league titles in France, Italy and Germany before turning 21. Joined Al-Nassr in 2025.",
+        "a": "Kingsley Coman"
+      },
+      {
+        "q": "French left-back. Won the 2021–22 Scudetto with AC Milan and scored a famous 90-yard solo goal against Atalanta. His brother is also a France international defender. Joined Al-Hilal in 2025.",
+        "a": "Theo Hernández"
+      },
+      {
+        "q": "French defender. Scored a stunning volley against Argentina at the 2018 World Cup that was voted goal of the tournament. Played for Stuttgart and Bayern before joining Inter in 2023.",
+        "a": "Benjamin Pavard"
+      },
+      {
+        "q": "French winger. Joined Arsenal from Marseille in 2000 and was named FWA Footballer of the Year in 2002. Won the 1998 World Cup and Euro 2000, setting up the golden goal in the final. Later played for Villarreal.",
+        "a": "Robert Pirès"
+      },
+      {
+        "q": "French goalkeeper. Won the 1998 World Cup and Euro 2000, with Laurent Blanc kissing his bald head before matches. Won the 1993 Champions League with Marseille and two Premier League titles with Manchester United.",
+        "a": "Fabien Barthez"
+      },
+      {
+        "q": "French striker. Won the double with Arsenal aged 19 in 1998, then joined Real Madrid for over £22 million. Won the Premier League Golden Boot with Chelsea in 2009. Also played for Liverpool, Manchester City, PSG and Juventus.",
+        "a": "Nicolas Anelka"
+      },
+      {
+        "q": "English striker for West Ham. Scored a hat-trick in the 1966 World Cup final, a feat no one repeated in a final for 56 years. His second goal, off the crossbar, is still debated.",
+        "a": "Geoff Hurst"
+      },
+      {
+        "q": "English goalkeeper. Won the 1966 World Cup and made the \"save of the century\" from Pelé's header in 1970. Lost the sight in one eye after a 1972 car crash. Played for Leicester and Stoke.",
+        "a": "Gordon Banks"
+      },
+      {
+        "q": "English forward. Won back-to-back Ballon d'Or awards in 1978 and 1979 while at Hamburg. Won three league titles and the European Cup with Liverpool. Later managed Newcastle and England.",
+        "a": "Kevin Keegan"
+      },
+      {
+        "q": "English goalkeeper. His country's record cap holder with 125 appearances. Beaten by the \"Hand of God\" in 1986. Won two European Cups with Nottingham Forest.",
+        "a": "Peter Shilton"
+      },
+      {
+        "q": "English centre-back nicknamed \"Mr Arsenal\". A one-club man who captained the club for 14 years and won league titles in three different decades. Publicly battled alcoholism during his career.",
+        "a": "Tony Adams"
+      },
+      {
+        "q": "English goalkeeper with a famous ponytail. Arsenal's number one for 13 years. Beaten by Ronaldinho's free-kick at the 2002 World Cup and made a stunning save from Paul Peschisolido in a 2003 FA Cup semi-final.",
+        "a": "David Seaman"
+      },
+      {
+        "q": "English centre-back. Liverpool one-club man with 737 appearances, second only to Ian Callaghan. Won the 2005 Champions League. Now a prominent Sky Sports pundit.",
+        "a": "Jamie Carragher"
+      },
+      {
+        "q": "English striker nicknamed \"God\" by Liverpool fans. Scored a hat-trick in 4 minutes 33 seconds against Arsenal in 1994. Later played for Leeds and Manchester City before returning to Anfield.",
+        "a": "Robbie Fowler"
+      },
+      {
+        "q": "English goalkeeper from Sunderland's academy. Everton's number one since 2017. Saved from Carlos Bacca to secure England's first ever World Cup shoot-out win in 2018.",
+        "a": "Jordan Pickford"
+      },
+      {
+        "q": "Senegalese centre-back born in France. Spent eight years at Napoli before joining Chelsea in 2022 and then Al-Hilal. Captained Senegal to their first AFCON title in 2022.",
+        "a": "Kalidou Koulibaly"
+      },
+      {
+        "q": "Argentine midfielder known as Messi's on-pitch bodyguard. Set up the only goal of the 2021 Copa América final. Won the 2022 World Cup. Played for Udinese and Atlético Madrid before Inter Miami.",
+        "a": "Rodrigo De Paul"
+      },
+      {
+        "q": "Austrian defender with a Filipino mother and Nigerian father. Won ten Bundesliga titles and two Champions Leagues with Bayern Munich. Joined Real Madrid on a free in 2021 and won two more Champions Leagues.",
+        "a": "David Alaba"
+      },
+      {
+        "q": "Dutch forward known for headbands and hats. Flopped at Manchester United, then rebuilt his career at Lyon and played for Barcelona and Atlético Madrid. Overtook Robin van Persie as the Netherlands' record goalscorer in 2025.",
+        "a": "Memphis Depay"
+      },
+      {
+        "q": "Dutch midfielder. Scored twice as a substitute in Liverpool's 4–0 comeback against Barcelona in 2019. Played for Feyenoord, PSV, Newcastle, PSG and Roma.",
+        "a": "Georginio Wijnaldum"
+      },
+      {
+        "q": "Dutch striker. Scored the winner in the 1995 Champions League final for Ajax against AC Milan aged 18. Later played for AC Milan and Barcelona. Was his country's record scorer with 40 goals.",
+        "a": "Patrick Kluivert"
+      },
+      {
+        "q": "Danish goalkeeper and son of a Manchester United legend. Won the 2016 Premier League title with Leicester. Saved Harry Kane's penalty in the Euro 2020 semi-final, only for the rebound to go in. Later played for Nice and Celtic.",
+        "a": "Kasper Schmeichel"
+      },
+      {
+        "q": "Turkish midfielder and national team captain. A free-kick specialist who moved across Milan from AC Milan to Inter in 2021 and was converted into a deep-lying playmaker. Won the 2024 Scudetto.",
+        "a": "Hakan Çalhanoğlu"
+      },
+      {
+        "q": "South Korean centre-back nicknamed \"The Monster\". Named Serie A's best defender as Napoli won the 2022–23 Scudetto, then joined Bayern Munich. Previously played for Fenerbahçe.",
+        "a": "Kim Min-jae"
+      },
+      {
+        "q": "Japanese midfielder. Won two Bundesliga titles with Dortmund before joining Manchester United in 2012, where he scored the first Premier League hat-trick by an Asian player. Returned to Dortmund and later Cerezo Osaka.",
+        "a": "Shinji Kagawa"
+      },
+      {
+        "q": "Hungarian midfielder and national team captain. Came through the Red Bull system at Salzburg and Leipzig before joining Liverpool in 2023. Won the 2024–25 Premier League and scored a stunning long-range free-kick against Arsenal.",
+        "a": "Dominik Szoboszlai"
+      },
+      {
+        "q": "Swiss midfielder of Kosovar-Albanian heritage. Was stripped of the Arsenal captaincy after swearing at fans in 2019. Went unbeaten all season as Bayer Leverkusen won the 2023–24 Bundesliga. Joined Sunderland in 2025.",
+        "a": "Granit Xhaka"
+      },
+      {
+        "q": "Costa Rican goalkeeper. Starred as his country reached the 2014 World Cup quarter-finals. Won three consecutive Champions Leagues with Real Madrid before joining PSG. Later had a loan spell at Nottingham Forest.",
+        "a": "Keylor Navas"
+      },
+      {
+        "q": "Argentine striker. Scored twice in the 1978 World Cup final and won the Golden Boot. Was the only foreign-based player in that squad, playing for Valencia.",
+        "a": "Mario Kempes"
       }
     ],
     "600": [
@@ -32681,6 +33453,162 @@ const QUALITY_BACKFILL = {
       {
         "q": "Saudi Arabian winger. Scored the winning goal against Argentina at the 2022 World Cup in one of the greatest upsets ever. Al-Hilal captain. Asian Player of the Year in 2022.",
         "a": "Salem Al-Dawsari"
+      },
+      {
+        "q": "Italian left-back. Scored the late winner against Germany in the 2006 World Cup semi-final and converted the decisive penalty in the final. Also won the penalty that beat Australia in the last 16. Played for Palermo, Inter, Lyon and Juventus.",
+        "a": "Fabio Grosso"
+      },
+      {
+        "q": "English midfielder nicknamed \"Captain Marvel\". Scored after 27 seconds against France at the 1982 World Cup. Captained Manchester United for 12 years and later managed Middlesbrough.",
+        "a": "Bryan Robson"
+      },
+      {
+        "q": "Spanish midfielder. Became Spain's youngest ever international in 2021 aged 17, a record later broken by a Barcelona teammate. Won the 2022 Golden Boy award and suffered a serious knee injury in 2023.",
+        "a": "Gavi"
+      },
+      {
+        "q": "Italian midfielder known for tireless box-to-box energy. Joined Inter from Cagliari in 2019 and won Scudetti in 2021 and 2024. Scored against Belgium in the Euro 2020 quarter-final.",
+        "a": "Nicolò Barella"
+      },
+      {
+        "q": "Portuguese striker born in Guinea-Bissau. Came off the bench to score the extra-time winner in the Euro 2016 final against France. Had a loan spell at Swansea and played for Lille.",
+        "a": "Éder"
+      },
+      {
+        "q": "English midfielder. Came through West Ham's academy and played for Tottenham before winning five Premier League titles and the 2008 Champions League with Manchester United. Later managed Middlesbrough.",
+        "a": "Michael Carrick"
+      },
+      {
+        "q": "Italian sweeper and AC Milan one-club man whose number 6 was retired. Played the 1994 World Cup final weeks after knee surgery and missed in the shoot-out. Won six Serie A titles and three European Cups.",
+        "a": "Franco Baresi"
+      },
+      {
+        "q": "Italian midfielder who spent a decade at Juventus and won the 1985 European Cup. Scored Italy's second goal in the 1982 World Cup final against West Germany. His screaming, fist-pumping run after that goal is one of football's most iconic celebrations.",
+        "a": "Marco Tardelli"
+      },
+      {
+        "q": "Italian striker. Came from nowhere to win the Golden Boot and Golden Ball at Italia 90 with six goals. Played for Juventus and Inter before becoming the first Italian in Japan's J.League.",
+        "a": "Salvatore Schillaci"
+      },
+      {
+        "q": "French left-back of Basque origin. Won the 1998 World Cup and Euro 2000. Spent most of his club career at Bayern Munich, winning the 2001 Champions League.",
+        "a": "Bixente Lizarazu"
+      },
+      {
+        "q": "French striker born in Morocco. Scored 13 goals at the 1958 World Cup, still the record for a single tournament. Spent most of his career at Reims.",
+        "a": "Just Fontaine"
+      },
+      {
+        "q": "Dutch midfielder. Scored a second-minute penalty in the 1974 World Cup final against West Germany. Won three European Cups with Ajax, then followed Cruyff to Barcelona and later the New York Cosmos.",
+        "a": "Johan Neeskens"
+      },
+      {
+        "q": "Dutch defensive midfielder. Planted a kung-fu kick into Xabi Alonso's chest in the 2010 World Cup final and was only booked. Played for Ajax, Hamburg, Manchester City and AC Milan.",
+        "a": "Nigel de Jong"
+      },
+      {
+        "q": "German left-back, two-footed and equally comfortable with either. Scored the winning penalty in the 1990 World Cup final against Argentina. Played for Bayern, Inter and Kaiserslautern.",
+        "a": "Andreas Brehme"
+      },
+      {
+        "q": "German striker with a famous perm. Won the 1990 World Cup and was spat on by Frank Rijkaard during that tournament. Won the Champions League with Marseille in 1993. Later coached Germany to the 2002 World Cup final.",
+        "a": "Rudi Völler"
+      },
+      {
+        "q": "German striker. Scored both goals in the Euro 96 final, including the first golden goal to decide a major tournament. Was Serie A's top scorer with Udinese in 1998. Later played for AC Milan.",
+        "a": "Oliver Bierhoff"
+      },
+      {
+        "q": "Brazilian midfielder who was also a qualified doctor and heavy smoker. Captained Brazil at the 1982 World Cup and led the Corinthians Democracy movement. Famous for his back-heel passes.",
+        "a": "Sócrates"
+      },
+      {
+        "q": "Brazilian winger born with bent legs. Star of the 1958 and 1962 World Cups, winning the Golden Ball in 1962. Spent most of his career at Botafogo. Brazil never lost a match in which he and Pelé both played.",
+        "a": "Garrincha"
+      },
+      {
+        "q": "Brazilian winger nicknamed \"The Hurricane\". Scored in every match of Brazil's victorious 1970 World Cup campaign. Played for Botafogo and is credited with discovering a young Ronaldo.",
+        "a": "Jairzinho"
+      },
+      {
+        "q": "Brazilian centre-back. Won the 2002 World Cup and played in that year's Champions League final for Bayer Leverkusen. Won the 2010 treble with Inter under José Mourinho. Also played for Bayern Munich.",
+        "a": "Lúcio"
+      },
+      {
+        "q": "Argentine playmaker cited by Messi as his childhood idol. Won two La Liga titles with Valencia in the early 2000s. Also played for River Plate, Zaragoza and Benfica.",
+        "a": "Pablo Aimar"
+      },
+      {
+        "q": "Argentine right-back. Scored the winning penalty in the 2022 World Cup final shoot-out against France, then did the same for Sevilla in the 2023 Europa League final. Came through at River Plate.",
+        "a": "Gonzalo Montiel"
+      },
+      {
+        "q": "Uruguayan striker nicknamed \"El Loco\". Chipped a Panenka penalty to knock Ghana out of the 2010 World Cup. Holds the Guinness record for the most professional clubs played for.",
+        "a": "Sebastián Abreu"
+      },
+      {
+        "q": "Colombian goalkeeper. Produced the famous scorpion kick against England at Wembley in 1995. Was robbed by Roger Milla while dribbling outside his box at the 1990 World Cup. Played for Atlético Nacional.",
+        "a": "René Higuita"
+      },
+      {
+        "q": "Ghanaian playmaker. Won the 1993 Champions League with Marseille and was named African Footballer of the Year three times in a row. Father of two Ghana internationals.",
+        "a": "Abedi Pele"
+      },
+      {
+        "q": "Algerian striker. Scored a famous back-heel for Porto in the 1987 European Cup final against Bayern Munich. Also scored in Algeria's shock win over West Germany at the 1982 World Cup.",
+        "a": "Rabah Madjer"
+      },
+      {
+        "q": "Saudi Arabian midfielder. Scored a solo goal against Belgium at the 1994 World Cup, dribbling from his own half past several defenders. Named Asian Footballer of the Year that year.",
+        "a": "Saeed Al-Owairan"
+      },
+      {
+        "q": "Emirati playmaker with a trademark afro. Named AFC Player of the Year in 2016 while at Al Ain. Born in Riyadh to Yemeni parents. Had a spell at Al-Hilal.",
+        "a": "Omar Abdulrahman"
+      },
+      {
+        "q": "South Korean forward. Scored the golden goal that knocked Italy out of the 2002 World Cup, after which his Italian club Perugia cancelled his contract. Also scored against Togo at the 2006 tournament.",
+        "a": "Ahn Jung-hwan"
+      },
+      {
+        "q": "Japanese striker born in 1967 who was still playing professionally in his late fifties. Learned the game in Brazil with Santos. Became the first Japanese player in Serie A when he joined Genoa in 1994.",
+        "a": "Kazuyoshi Miura"
+      },
+      {
+        "q": "Hungarian goalkeeper famous for playing in grey tracksuit bottoms. Became the oldest player in European Championship history at Euro 2016 aged 40. Played for Hertha Berlin and Crystal Palace.",
+        "a": "Gábor Király"
+      },
+      {
+        "q": "Polish goalkeeper. Made his famous wobbly-legged shoot-out saves to win Liverpool the 2005 Champions League final. Later joined Real Madrid as a back-up. Previously played for Feyenoord.",
+        "a": "Jerzy Dudek"
+      },
+      {
+        "q": "Soviet goalkeeper nicknamed \"The Black Spider\". The only goalkeeper ever to win the Ballon d'Or, in 1963. Spent his entire career at Dynamo Moscow and won the first European Championship in 1960.",
+        "a": "Lev Yashin"
+      },
+      {
+        "q": "Slovak midfielder with a trademark mohawk. Napoli's record appearance holder, and their record scorer until Dries Mertens overtook him. Later played in China and Turkey.",
+        "a": "Marek Hamšík"
+      },
+      {
+        "q": "Nigerian forward born in London. Scored a hat-trick for Atalanta in the 2024 Europa League final against Bayer Leverkusen and was named African Footballer of the Year. Previously played for Everton and Leicester.",
+        "a": "Ademola Lookman"
+      },
+      {
+        "q": "Japanese winger who wrote a university thesis on dribbling. Plays for Brighton. Provided the assist against Spain at the 2022 World Cup in which the ball stayed in play by a millimetre.",
+        "a": "Kaoru Mitoma"
+      },
+      {
+        "q": "Northern Irish goalkeeper who played for both Tottenham and Arsenal. Scored from a goal-kick in the 1967 Charity Shield. Played at the 1986 World Cup on his 41st birthday.",
+        "a": "Pat Jennings"
+      },
+      {
+        "q": "Scottish striker and the only Scot to win the Ballon d'Or, in 1964. Nicknamed \"The King\" at Manchester United. His backheel for Manchester City in 1974 is wrongly remembered as relegating his old club.",
+        "a": "Denis Law"
+      },
+      {
+        "q": "Dutch striker. Scored the fastest goal in Champions League history, after 10.12 seconds for Bayern Munich against Real Madrid in 2007. Won the European Golden Shoe with Deportivo La Coruña in 2003.",
+        "a": "Roy Makaay"
       }
     ]
   },
@@ -34618,6 +35546,14 @@ const QUALITY_BACKFILL = {
       {
         "q": "Sucre (constitutional capital)",
         "a": "Bolivia"
+      },
+      {
+        "q": "The Hague (seat of government)",
+        "a": "Netherlands"
+      },
+      {
+        "q": "Bloemfontein (judicial capital)",
+        "a": "South Africa"
       }
     ],
     "600": [
@@ -34640,6 +35576,22 @@ const QUALITY_BACKFILL = {
       {
         "q": "Putrajaya (administrative capital)",
         "a": "Malaysia"
+      },
+      {
+        "q": "Sri Jayawardenepura Kotte (official capital)",
+        "a": "Sri Lanka"
+      },
+      {
+        "q": "Cotonou (seat of government)",
+        "a": "Benin"
+      },
+      {
+        "q": "Cetinje (Old Royal Capital)",
+        "a": "Montenegro"
+      },
+      {
+        "q": "Bujumbura (economic capital)",
+        "a": "Burundi"
       }
     ]
   },
@@ -34779,6 +35731,118 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "\"Как тебя зовут?\" (Kak tebya zovut?)",
+        "a": "Russian"
+      },
+      {
+        "q": "\"¿Qué hora es?\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"La cuenta, por favor\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"Tengo hambre\"",
+        "a": "Spanish"
+      },
+      {
+        "q": "\"Où sont les toilettes ?\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Il fait beau aujourd'hui\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Quelle heure est-il ?\"",
+        "a": "French"
+      },
+      {
+        "q": "\"À bientôt, mon ami\"",
+        "a": "French"
+      },
+      {
+        "q": "\"Eins, zwei, drei, vier, fünf\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Wo sind die Toiletten?\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Ich habe Hunger\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Wie viel kostet das?\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Bis später, tschüss\"",
+        "a": "German"
+      },
+      {
+        "q": "\"Uno, due, tre, quattro, cinque\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"Quanto costa?\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"Che ore sono?\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"Ho fame\"",
+        "a": "Italian"
+      },
+      {
+        "q": "\"はじめまして\" (Hajimemashite)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"おやすみなさい\" (Oyasuminasai)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"どういたしまして\" (Dō itashimashite)",
+        "a": "Japanese"
+      },
+      {
+        "q": "\"واحد، اثنان، ثلاثة\" (Wahid, ithnan, thalatha)",
+        "a": "Arabic"
+      },
+      {
+        "q": "\"لا أفهم\" (La afham)",
+        "a": "Arabic"
+      },
+      {
+        "q": "\"晚安\" (Wǎn'ān)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"一、二、三、四、五\" (Yī, èr, sān, sì, wǔ)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"你叫什么名字？\" (Nǐ jiào shénme míngzi?)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"不客气\" (Bú kèqi)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"我饿了\" (Wǒ è le)",
+        "a": "Mandarin Chinese"
+      },
+      {
+        "q": "\"Добрый вечер\" (Dobry vecher)",
+        "a": "Russian"
+      },
+      {
+        "q": "\"Спокойной ночи\" (Spokoynoy nochi)",
         "a": "Russian"
       }
     ],
@@ -34930,6 +35994,154 @@ const QUALITY_BACKFILL = {
       {
         "q": "\"Tusen takk\"",
         "a": "Norwegian"
+      },
+      {
+        "q": "\"Um, dois, três, quatro, cinco\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Estou com fome\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Onde fica o banheiro?\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Você fala inglês?\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"Até logo, meu amigo\"",
+        "a": "Portuguese"
+      },
+      {
+        "q": "\"İyi geceler\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Çok güzel\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Bu ne kadar?\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Kolay gelsin\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Hoşça kal\"",
+        "a": "Turkish"
+      },
+      {
+        "q": "\"Ένα, δύο, τρία\" (Éna, dýo, tría)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Τι κάνεις;\" (Ti káneis?)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Καλησπέρα\" (Kalispéra)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Πόσο κάνει;\" (Póso kánei?)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"Συγγνώμη\" (Signómi)",
+        "a": "Greek"
+      },
+      {
+        "q": "\"एक, दो, तीन\" (Ek, do, teen)",
+        "a": "Hindi"
+      },
+      {
+        "q": "\"मेरा नाम राज है\" (Mera naam Raj hai)",
+        "a": "Hindi"
+      },
+      {
+        "q": "\"फिर मिलेंगे\" (Phir milenge)",
+        "a": "Hindi"
+      },
+      {
+        "q": "\"하나, 둘, 셋\" (Hana, dul, set)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"잘 자요\" (Jal jayo)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"괜찮아요\" (Gwaenchanayo)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"만나서 반갑습니다\" (Mannaseo bangapseumnida)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"얼마예요?\" (Eolmayeyo?)",
+        "a": "Korean"
+      },
+      {
+        "q": "\"Ett, två, tre\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"Jag älskar dig\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"Varsågod\"",
+        "a": "Swedish"
+      },
+      {
+        "q": "\"Alsjeblieft\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Hoe laat is het?\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Welterusten\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Spreekt u Engels?\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Gezellig\"",
+        "a": "Dutch"
+      },
+      {
+        "q": "\"Jeden, dwa, trzy\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Dobranoc\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Nie rozumiem\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Smacznego\"",
+        "a": "Polish"
+      },
+      {
+        "q": "\"Farvel og tak\"",
+        "a": "Danish"
+      },
+      {
+        "q": "\"Vær så snill\"",
+        "a": "Norwegian"
       }
     ],
     "600": [
@@ -35060,6 +36272,154 @@ const QUALITY_BACKFILL = {
       {
         "q": "\"Շնորհակալություն\" (Shnorhakalutyun)",
         "a": "Armenian"
+      },
+      {
+        "q": "\"Yksi, kaksi, kolme\"",
+        "a": "Finnish"
+      },
+      {
+        "q": "\"Hyvää yötä\"",
+        "a": "Finnish"
+      },
+      {
+        "q": "\"Anteeksi\"",
+        "a": "Finnish"
+      },
+      {
+        "q": "\"Egy, kettő, három\"",
+        "a": "Hungarian"
+      },
+      {
+        "q": "\"Jó éjszakát\"",
+        "a": "Hungarian"
+      },
+      {
+        "q": "\"Szeretlek\"",
+        "a": "Hungarian"
+      },
+      {
+        "q": "\"Habari za asubuhi\"",
+        "a": "Swahili"
+      },
+      {
+        "q": "\"Moja, mbili, tatu\"",
+        "a": "Swahili"
+      },
+      {
+        "q": "\"Magandang umaga\"",
+        "a": "Tagalog"
+      },
+      {
+        "q": "\"Isa, dalawa, tatlo\"",
+        "a": "Tagalog"
+      },
+      {
+        "q": "\"Paalam\"",
+        "a": "Tagalog"
+      },
+      {
+        "q": "\"شب بخیر\" (Shab bekheir)",
+        "a": "Farsi"
+      },
+      {
+        "q": "\"یک، دو، سه\" (Yek, do, se)",
+        "a": "Farsi"
+      },
+      {
+        "q": "\"دوستت دارم\" (Dooset daram)",
+        "a": "Farsi"
+      },
+      {
+        "q": "\"Tôi không hiểu\"",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "\"Một, hai, ba\"",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "\"Tạm biệt\"",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "\"ฝันดี\" (Fan dee)",
+        "a": "Thai"
+      },
+      {
+        "q": "\"หนึ่ง สอง สาม\" (Neung, song, sam)",
+        "a": "Thai"
+      },
+      {
+        "q": "\"อร่อยมาก\" (Aroi mak)",
+        "a": "Thai"
+      },
+      {
+        "q": "\"לילה טוב\" (Laila tov)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "\"להתראות\" (Lehitraot)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "\"Jedna, dva, tři\"",
+        "a": "Czech"
+      },
+      {
+        "q": "\"Dobrou noc\"",
+        "a": "Czech"
+      },
+      {
+        "q": "\"Mluvíte anglicky?\"",
+        "a": "Czech"
+      },
+      {
+        "q": "\"Unu, doi, trei\"",
+        "a": "Romanian"
+      },
+      {
+        "q": "\"Noapte bună\"",
+        "a": "Romanian"
+      },
+      {
+        "q": "\"Te iubesc\"",
+        "a": "Romanian"
+      },
+      {
+        "q": "\"Apa khabar?\"",
+        "a": "Malay"
+      },
+      {
+        "q": "\"Saya tidak faham\"",
+        "a": "Malay"
+      },
+      {
+        "q": "\"ერთი, ორი, სამი\" (Erti, ori, sami)",
+        "a": "Georgian"
+      },
+      {
+        "q": "\"ნახვამდის\" (Nakhvamdis)",
+        "a": "Georgian"
+      },
+      {
+        "q": "\"Bat, bi, hiru\"",
+        "a": "Basque"
+      },
+      {
+        "q": "\"Agur, ikusi arte\"",
+        "a": "Basque"
+      },
+      {
+        "q": "\"Ég elska þig\"",
+        "a": "Icelandic"
+      },
+      {
+        "q": "\"Будь ласка\" (Bud' laska)",
+        "a": "Ukrainian"
+      },
+      {
+        "q": "\"Nos da, cariad\"",
+        "a": "Welsh"
       }
     ]
   },
@@ -35200,6 +36560,102 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Hierarchy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Mortgage"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Receipt"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Knowledge"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Absence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Independent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Immediately"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Beginning"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Category"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Environment"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Interrupt"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Medieval"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Personnel"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pastime"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Publicly"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Referred"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Relevant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Rhyme"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Schedule"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Strength"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fiery"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Tyranny"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vicious"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Column"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Subtle"
       }
     ],
     "400": [
@@ -35350,6 +36806,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Vengeance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chameleon"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Psychiatrist"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Rheumatism"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Phlegm"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Croissant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chandelier"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cantaloupe"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Repertoire"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Chrysalis"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Curriculum"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Eczema"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gubernatorial"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Guillotine"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hypocrisy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Incandescent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Kindergarten"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Larynx"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Meringue"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Penitentiary"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Pistachio"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vinaigrette"
       }
     ],
     "600": [
@@ -35512,6 +37052,38 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Phthisis"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cymotrichous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Erysipelas"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Haruspex"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Kakistocracy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Lagniappe"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Nudibranch"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Otorhinolaryngology"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Paronomasia"
       }
     ]
   }
