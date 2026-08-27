@@ -18,10 +18,6 @@
         "a": "Shoplifting"
       },
       {
-        "q": "What is the first name of Hank's wife?",
-        "a": "Marie"
-      },
-      {
         "q": "How old is Walter White when the series begins?",
         "a": "50"
       },
@@ -56,10 +52,6 @@
       {
         "q": "How does Jesse almost always address Walt?",
         "a": "Mr. White"
-      },
-      {
-        "q": "What is the surname of the cartel family that includes Tuco and Hector?",
-        "a": "Salamanca"
       },
       {
         "q": "What is the first name of Jack Welker's nephew who cooks with Walt?",
@@ -418,10 +410,6 @@
         "a": "Molten gold"
       },
       {
-        "q": "Which giant knight is the Hound's older brother?",
-        "a": "The Mountain"
-      },
-      {
         "q": "What is the Hound terrified of?",
         "a": "Fire"
       },
@@ -610,10 +598,6 @@
       {
         "q": "In which city does Daenerys acquire the Unsullied?",
         "a": "Astapor"
-      },
-      {
-        "q": "What is the first name of Jorah's father, the Lord Commander of the Night's Watch?",
-        "a": "Jeor"
       },
       {
         "q": "What disease does Jorah contract in Valyria?",
@@ -1668,10 +1652,6 @@
         "a": "M99"
       },
       {
-        "q": "What is the name of the town where Dexter hides in New Blood?",
-        "a": "Iron Lake"
-      },
-      {
         "q": "How does the Trinity Killer murder the first victim of each cycle?",
         "a": "In a bathtub"
       },
@@ -1922,10 +1902,6 @@
         "a": "Associate"
       },
       {
-        "q": "Which partner is in charge of the associates when Mike starts?",
-        "a": "Louis Litt"
-      },
-      {
         "q": "Which two characters get married in the season 7 finale?",
         "a": "Mike and Rachel"
       },
@@ -2002,10 +1978,6 @@
       {
         "q": "Which special master is appointed to oversee the firm in the final season?",
         "a": "Faye Richardson"
-      },
-      {
-        "q": "What is the nickname of Harvey's Harvard rival and on-off lover Dana Scott?",
-        "a": "Scottie"
       },
       {
         "q": "What surprising art form does Louis practice?",
@@ -2098,16 +2070,8 @@
         "a": "Foster care"
       },
       {
-        "q": "What is the name of the London firm where Scottie works?",
-        "a": "Darby International"
-      },
-      {
         "q": "Which British lawyer merges his firm with Pearson Hardman?",
         "a": "Edward Darby"
-      },
-      {
-        "q": "What is the firm called after the merger with the British firm in season 3?",
-        "a": "Pearson Darby"
       },
       {
         "q": "Which oil executive client is accused of bribery and murder in season 3?",
@@ -2206,10 +2170,6 @@
         "a": "King"
       },
       {
-        "q": "Which of Ragnar's sons is the youngest?",
-        "a": "Ivar"
-      },
-      {
         "q": "Which of Ragnar's sons kills Bjorn?",
         "a": "Ivar"
       },
@@ -2244,10 +2204,6 @@
         "a": "Hvitserk"
       },
       {
-        "q": "Who kills Sigurd?",
-        "a": "Ivar"
-      },
-      {
         "q": "What is the name of King Ecbert's son?",
         "a": "Aethelwulf"
       },
@@ -2262,10 +2218,6 @@
       {
         "q": "Which rival ruler does Ragnar execute with the blood eagle?",
         "a": "Jarl Borg"
-      },
-      {
-        "q": "Which Danish king does Ragnar kill to become king?",
-        "a": "Horik"
       },
       {
         "q": "Which sea does Bjorn sail to on his great voyage in season 4?",

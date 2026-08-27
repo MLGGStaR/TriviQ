@@ -7416,7 +7416,8 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const tileFont=isPhone?22:compactBoard?24:28;
   const tileGap=isPhone?8:10;
   const headerBodyGap=isPhone?10:12;
-  const fillHeight=false;
+  const fillHeight=!isTouch; // desktop: blocks stretch to fill the board area; touch: natural height, page scrolls
+  const tileFontCss=fillHeight?"clamp(24px, 2.3vw, 38px)":tileFont;
   // Liquid-glass tiles: tinted glass slab, glowing edge, number glowing through the glass.
   const tileStyle=(pts,used)=>{
     const c=PT_COLORS[pts]||"#A78BFA";
@@ -7433,7 +7434,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       color:used?"rgba(255,255,255,.26)":"#FFFFFF",
       fontFamily:DISPLAY_STACK,
       fontWeight:800,
-      fontSize:tileFont,
+      fontSize:tileFontCss,
       letterSpacing:"-.02em",
       fontVariantNumeric:"tabular-nums",
       lineHeight:1,
@@ -7460,17 +7461,17 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
       {/* Board wrapper — the ONLY element allowed to scroll horizontally. */}
       <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,width:"100%",maxWidth:"100vw",padding:bodyPad,overflowX:"auto",overflowY:isTouch?"hidden":"auto",WebkitOverflowScrolling:"touch",overscrollBehaviorX:"contain"}}>
-        <div style={{display:"grid",gridTemplateColumns:`repeat(${perRow}, minmax(0,1fr))`,gap:colGap,width:boardGridWidth,alignItems:"stretch",alignContent:"start"}}>
+        <div style={{display:"grid",gridTemplateColumns:`repeat(${perRow}, minmax(0,1fr))`,gridAutoRows:fillHeight?"minmax(0, 1fr)":"auto",gap:colGap,width:boardGridWidth,height:fillHeight?"100%":undefined,minHeight:0,alignItems:"stretch",alignContent:fillHeight?"stretch":"start"}}>
           {selCats.map(catId=>{
             const c=BANK[baseCat(catId)];if(!c)return null;
             return(
-              <div key={catId} className="glass" style={{minWidth:0,minHeight:0,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
+              <div key={catId} className="glass" style={{minWidth:0,minHeight:0,height:fillHeight?"100%":undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
                 {/* Category name: tinted glass pill in the category color, centered above its block */}
                 <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, ${withAlpha(c.color||"#22D3EE","40")} 0%, ${withAlpha(c.color||"#22D3EE","1A")} 100%)`,color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:`0 0 22px ${withAlpha(c.color||"#22D3EE","38")}, inset 0 1px 0 rgba(255,255,255,.25)`,border:`1px solid ${withAlpha(c.color||"#22D3EE","8C")}`,whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
                   <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
                 </div>
                 {/* Tiles flank the category art: [200][art][200] / [400][art][400] / [600][art][600]. FFA: [art][tile] x5 */}
-                <div style={{display:"grid",gridTemplateColumns:isFFA?`minmax(0,1.3fr) minmax(0,1fr)`:`minmax(0,1fr) minmax(0,1.35fr) minmax(0,1fr)`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, ${tileMax}px))`,gap:tileGap,minHeight:0,flex:"0 0 auto"}}>
+                <div style={{display:"grid",gridTemplateColumns:isFFA?`minmax(0,1.3fr) minmax(0,1fr)`:`minmax(0,1fr) minmax(0,1.35fr) minmax(0,1fr)`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, ${fillHeight?"1fr":`${tileMax}px`}))`,gap:tileGap,minHeight:0,flex:fillHeight?"1 1 auto":"0 0 auto"}}>
                   <div style={{gridColumn:isFFA?1:2,gridRow:`1 / span ${activePV.length}`,minHeight:0,minWidth:0}}>
                     <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
                   </div>

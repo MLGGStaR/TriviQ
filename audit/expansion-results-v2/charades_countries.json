@@ -24,14 +24,17 @@
       { "q": "Act out this country!", "a": "Malta" },
       { "q": "Act out this country!", "a": "Samoa" },
       { "q": "Act out this country!", "a": "Serbia" },
-      { "q": "Act out this country!", "a": "Uruguay" }
+      { "q": "Act out this country!", "a": "Uruguay" },
+      { "q": "Act out this country!", "a": "Haiti" },
+      { "q": "Act out this country!", "a": "Georgia" },
+      { "q": "Act out this country!", "a": "Afghanistan" },
+      { "q": "Act out this country!", "a": "Cyprus" },
+      { "q": "Act out this country!", "a": "Mauritius" },
+      { "q": "Act out this country!", "a": "Namibia" }
     ],
     "400": [
-      { "q": "Act out this country!", "a": "Cyprus" },
       { "q": "Act out this country!", "a": "Rwanda" },
-      { "q": "Act out this country!", "a": "Namibia" },
       { "q": "Act out this country!", "a": "Botswana" },
-      { "q": "Act out this country!", "a": "Mauritius" },
       { "q": "Act out this country!", "a": "Seychelles" },
       { "q": "Act out this country!", "a": "Lithuania" },
       { "q": "Act out this country!", "a": "Cameroon" },
@@ -56,10 +59,12 @@
       { "q": "Act out this country!", "a": "Mozambique" },
       { "q": "Act out this country!", "a": "Guatemala" },
       { "q": "Act out this country!", "a": "Honduras" },
-      { "q": "Act out this country!", "a": "Nicaragua" }
+      { "q": "Act out this country!", "a": "Nicaragua" },
+      { "q": "Act out this country!", "a": "El Salvador" },
+      { "q": "Act out this country!", "a": "Turkmenistan" },
+      { "q": "Act out this country!", "a": "Niger" }
     ],
     "600": [
-      { "q": "Act out this country!", "a": "El Salvador" },
       { "q": "Act out this country!", "a": "San Marino" },
       { "q": "Act out this country!", "a": "Moldova" },
       { "q": "Act out this country!", "a": "Montenegro" },
@@ -83,7 +88,13 @@
       { "q": "Act out this country!", "a": "Solomon Islands" },
       { "q": "Act out this country!", "a": "Marshall Islands" },
       { "q": "Act out this country!", "a": "Saint Kitts and Nevis" },
-      { "q": "Act out this country!", "a": "Gabon" }
+      { "q": "Act out this country!", "a": "Gabon" },
+      { "q": "Act out this country!", "a": "Togo" },
+      { "q": "Act out this country!", "a": "Djibouti" },
+      { "q": "Act out this country!", "a": "Eritrea" },
+      { "q": "Act out this country!", "a": "Kiribati" },
+      { "q": "Act out this country!", "a": "Nauru" },
+      { "q": "Act out this country!", "a": "Tuvalu" }
     ]
   }
 }

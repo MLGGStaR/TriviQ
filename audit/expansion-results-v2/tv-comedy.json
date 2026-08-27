@@ -46,20 +46,12 @@
     "a": "Phoebe"
    },
    {
-    "q": "What color is Gunther's hair?",
-    "a": "Bleached blond"
-   },
-   {
     "q": "What baby animal do Joey and Chandler adopt after seeing a TV commercial?",
     "a": "A chick"
    },
    {
     "q": "What does Rachel's boyfriend Paolo do that ends his relationship with her?",
     "a": "Makes a pass at Phoebe"
-   },
-   {
-    "q": "Which friend's apartment catches fire because of a hair straightener?",
-    "a": "Phoebe's"
    },
    {
     "q": "Which friend gets a job at a fashion company in Paris?",
@@ -98,10 +90,6 @@
    {
     "q": "What job does Joey take in Las Vegas after his film shuts down?",
     "a": "Gladiator"
-   },
-   {
-    "q": "Which language does Phoebe try to teach Joey for an audition?",
-    "a": "French"
    },
    {
     "q": "What accent does Ross adopt during his first lecture at NYU?",
@@ -186,10 +174,6 @@
    {
     "q": "What is Barry's profession?",
     "a": "Orthodontist"
-   },
-   {
-    "q": "What is the alternate title of the pilot episode?",
-    "a": "The One Where Monica Gets a Roommate"
    },
    {
     "q": "Where do Ross and Rachel go on their first date?",
@@ -750,10 +734,6 @@
     "a": "Suck It"
    },
    {
-    "q": "What is Dwight's recycling superhero persona?",
-    "a": "Recyclops"
-   },
-   {
     "q": "What is the name of the Stamford regional manager who leaves for Staples?",
     "a": "Josh Porter"
    },
@@ -808,10 +788,6 @@
    {
     "q": "What is the name of the murder mystery game Michael makes the office play?",
     "a": "Belles, Bourbon, and Bullets"
-   },
-   {
-    "q": "Which Sesame Street character does the office compare Kevin to?",
-    "a": "Cookie Monster"
    },
    {
     "q": "Which TV show does the office gather at Gabe's apartment to watch?",
@@ -1572,10 +1548,6 @@
     "a": "The Super Bowl"
    },
    {
-    "q": "What is the name of Peter's personal helicopter?",
-    "a": "Petercopter"
-   },
-   {
     "q": "In which country does Peter discover his biological father lives?",
     "a": "Ireland"
    },
@@ -1594,10 +1566,6 @@
    {
     "q": "What is the name of the peg-legged sailor in Quahog?",
     "a": "Seamus"
-   },
-   {
-    "q": "Which two characters travel through parallel universes in 'Road to the Multiverse'?",
-    "a": "Brian and Stewie"
    },
    {
     "q": "What does Stewie repeatedly demand from Brian while beating him up in a famous scene?",
@@ -1886,10 +1854,6 @@
     "a": "Rocket fuel explosion"
    },
    {
-    "q": "What is the name of the cat Sheldon considers 'zazzy'?",
-    "a": "Zazzles"
-   },
-   {
     "q": "What is the name of the Caltech department head who fires and rehires Sheldon in season one?",
     "a": "Dr. Gablehauser"
    },
@@ -2152,10 +2116,6 @@
    {
     "q": "What is Jake's mother's first name?",
     "a": "Karen"
-   },
-   {
-    "q": "What is the name of Scully's look-alike used in a heist?",
-    "a": "Bill"
    },
    {
     "q": "What is the name of Terry's estranged brother-in-law?",
