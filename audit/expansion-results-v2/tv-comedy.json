@@ -1,0 +1,2190 @@
+{
+ "friends": {
+  "200": [
+   {
+    "q": "Which department store does Rachel work at before Ralph Lauren?",
+    "a": "Bloomingdale's"
+   },
+   {
+    "q": "What habit does Chandler struggle to quit throughout the series?",
+    "a": "Smoking"
+   },
+   {
+    "q": "In which city do Ross and Emily get married?",
+    "a": "London"
+   },
+   {
+    "q": "What are the names of Monica and Chandler's twins?",
+    "a": "Jack and Erica"
+   },
+   {
+    "q": "What English dessert does Rachel ruin at Thanksgiving by mixing in beef?",
+    "a": "Trifle"
+   },
+   {
+    "q": "What does Monica put on her head to cheer Chandler up on Thanksgiving?",
+    "a": "A turkey"
+   },
+   {
+    "q": "Which friend was overweight in high school?",
+    "a": "Monica"
+   },
+   {
+    "q": "Which country is Rachel's early boyfriend Paolo from?",
+    "a": "Italy"
+   },
+   {
+    "q": "In which city is the spin-off series Joey set?",
+    "a": "Los Angeles"
+   },
+   {
+    "q": "What game table sits in Joey and Chandler's living room?",
+    "a": "Foosball"
+   },
+   {
+    "q": "Which friend speaks fluent French?",
+    "a": "Phoebe"
+   },
+   {
+    "q": "What color is Gunther's hair?",
+    "a": "Bleached blond"
+   },
+   {
+    "q": "What baby animal do Joey and Chandler adopt after seeing a TV commercial?",
+    "a": "A chick"
+   },
+   {
+    "q": "What does Rachel's boyfriend Paolo do that ends his relationship with her?",
+    "a": "Makes a pass at Phoebe"
+   },
+   {
+    "q": "Which friend's apartment catches fire because of a hair straightener?",
+    "a": "Phoebe's"
+   },
+   {
+    "q": "Which friend gets a job at a fashion company in Paris?",
+    "a": "Rachel"
+   },
+   {
+    "q": "Which sport does Ross play with Emily's friends to prove his toughness?",
+    "a": "Rugby"
+   },
+   {
+    "q": "Which friend spends time living on the streets as a teenager?",
+    "a": "Phoebe"
+   },
+   {
+    "q": "What instrument does Ross play, to the group's horror?",
+    "a": "Keyboard"
+   },
+   {
+    "q": "What is the name of Ross's first wife's partner?",
+    "a": "Susan"
+   },
+   {
+    "q": "Which two friends nap together and enjoy it?",
+    "a": "Ross and Joey"
+   },
+   {
+    "q": "Which friend cannot get his leather pants back on after a date?",
+    "a": "Ross"
+   }
+  ],
+  "400": [
+   {
+    "q": "What is the name of Joey's short-lived TV show in which he plays a detective with a robot partner?",
+    "a": "Mac and C.H.E.E.S.E."
+   },
+   {
+    "q": "What job does Joey take in Las Vegas after his film shuts down?",
+    "a": "Gladiator"
+   },
+   {
+    "q": "Which language does Phoebe try to teach Joey for an audition?",
+    "a": "French"
+   },
+   {
+    "q": "What accent does Ross adopt during his first lecture at NYU?",
+    "a": "British"
+   },
+   {
+    "q": "What alias does Joey use, matching Phoebe's Regina Phalange?",
+    "a": "Ken Adams"
+   },
+   {
+    "q": "Mike Hannigan gave up which profession to become a pianist?",
+    "a": "Lawyer"
+   },
+   {
+    "q": "In which Caribbean country does Ross deliver a keynote speech?",
+    "a": "Barbados"
+   },
+   {
+    "q": "What is the name of Rachel's young assistant whom she dates?",
+    "a": "Tag"
+   },
+   {
+    "q": "What is the name of Rachel's sister who wants to pierce Emma's ears?",
+    "a": "Amy"
+   },
+   {
+    "q": "What are the first names of Ross and Monica's parents?",
+    "a": "Jack and Judy"
+   },
+   {
+    "q": "How many sisters does Joey have?",
+    "a": "Seven"
+   },
+   {
+    "q": "What name is printed on the TV Guide that arrives at Chandler's apartment?",
+    "a": "Miss Chanandler Bong"
+   },
+   {
+    "q": "Joey is hired as a body double for which actor's backside?",
+    "a": "Al Pacino"
+   },
+   {
+    "q": "What does Ross call the gravy-soaked slice of bread in his Thanksgiving sandwich?",
+    "a": "The Moist Maker"
+   },
+   {
+    "q": "What is the nickname of Janice's husband?",
+    "a": "The Mattress King"
+   },
+   {
+    "q": "What is the trophy Ross and Monica fight over in their Thanksgiving football game?",
+    "a": "The Geller Cup"
+   },
+   {
+    "q": "What fake chocolate substitute does Monica create recipes for?",
+    "a": "Mockolate"
+   },
+   {
+    "q": "Which friend goes into the catering business with Monica?",
+    "a": "Phoebe"
+   },
+   {
+    "q": "Which ex does Monica run into just before Chandler plans to propose?",
+    "a": "Richard"
+   },
+   {
+    "q": "What does Monica's millionaire boyfriend Pete want to become?",
+    "a": "Ultimate Fighting Champion"
+   },
+   {
+    "q": "What job title does Rachel guess for Chandler during the apartment quiz?",
+    "a": "Transponster"
+   },
+   {
+    "q": "Where do Phoebe and Mike hold their wedding?",
+    "a": "Outside Central Perk"
+   },
+   {
+    "q": "At which university does Ross become a professor?",
+    "a": "NYU"
+   },
+   {
+    "q": "What is Barry's profession?",
+    "a": "Orthodontist"
+   },
+   {
+    "q": "What is the alternate title of the pilot episode?",
+    "a": "The One Where Monica Gets a Roommate"
+   },
+   {
+    "q": "Where do Ross and Rachel go on their first date?",
+    "a": "The planetarium"
+   },
+   {
+    "q": "What does Joey believe he has found in a Las Vegas blackjack dealer?",
+    "a": "An identical hand twin"
+   },
+   {
+    "q": "What car does Joey pretend to own after finding its keys?",
+    "a": "A Porsche"
+   },
+   {
+    "q": "What is the apartment number of Joey and Chandler's place?",
+    "a": "19"
+   },
+   {
+    "q": "With which lingerie model is Chandler trapped in an ATM vestibule during the blackout?",
+    "a": "Jill Goodacre"
+   },
+   {
+    "q": "Where does Monica work as a waitress wearing a wig, fake breasts, and roller skates?",
+    "a": "Moondance Diner"
+   },
+   {
+    "q": "Who does Ross bring back from China as his new girlfriend?",
+    "a": "Julie"
+   },
+   {
+    "q": "In which suburb do Monica and Chandler buy a house?",
+    "a": "Westchester"
+   },
+   {
+    "q": "What costume does Monica pick out for Chandler at her Halloween party?",
+    "a": "A pink bunny"
+   },
+   {
+    "q": "Who is Chandler's unhinged roommate after Joey moves out?",
+    "a": "Eddie"
+   },
+   {
+    "q": "What is Richard Burke's medical specialty?",
+    "a": "Ophthalmologist"
+   },
+   {
+    "q": "Which friend gets a kidney stone while Phoebe is giving birth?",
+    "a": "Ross"
+   },
+   {
+    "q": "What vehicle does Phoebe inherit from her grandmother?",
+    "a": "A yellow taxi cab"
+   },
+   {
+    "q": "Who is Monica's maid of honor?",
+    "a": "Rachel"
+   },
+   {
+    "q": "To which US city is Chandler transferred for work in season nine?",
+    "a": "Tulsa"
+   },
+   {
+    "q": "In which city does Marcel end up after Ross gives him away?",
+    "a": "San Diego"
+   },
+   {
+    "q": "What is the first name of the mother who raised Phoebe and died when she was young?",
+    "a": "Lily"
+   }
+  ],
+  "600": [
+   {
+    "q": "What is the name of the paleontologist Ross dates who previously dated Joey?",
+    "a": "Charlie Wheeler"
+   },
+   {
+    "q": "At which restaurant does Monica become head chef in season four?",
+    "a": "Alessandro's"
+   },
+   {
+    "q": "Whose brain is transplanted into Drake Ramoray?",
+    "a": "Jessica Lockhart"
+   },
+   {
+    "q": "What is the name of the police officer Phoebe dates after finding his badge?",
+    "a": "Gary"
+   },
+   {
+    "q": "How does Rachel's boss Joanna die?",
+    "a": "Hit by a cab"
+   },
+   {
+    "q": "What is the first name of Rachel's father?",
+    "a": "Leonard"
+   },
+   {
+    "q": "What name does Mike jokingly choose for himself after Phoebe becomes Princess Consuela Banana Hammock?",
+    "a": "Crap Bag"
+   },
+   {
+    "q": "What is the name of the game show with Wicked Wango cards that Joey auditions to host?",
+    "a": "Bamboozled"
+   },
+   {
+    "q": "What is the first name of Chandler's boss who keeps slapping his butt?",
+    "a": "Doug"
+   },
+   {
+    "q": "What is the title of the film Marcel stars in?",
+    "a": "Outbreak 2: The Virus Takes Manhattan"
+   },
+   {
+    "q": "At which restaurant does Ursula work as a waitress?",
+    "a": "Riff's"
+   },
+   {
+    "q": "What address does Chandler give Janice for his fake move abroad?",
+    "a": "15 Yemen Road, Yemen"
+   },
+   {
+    "q": "What is the name of Richard Burke's son whom Monica dates?",
+    "a": "Timothy"
+   },
+   {
+    "q": "Who almost buys the house next door to Monica and Chandler's new home?",
+    "a": "Janice"
+   },
+   {
+    "q": "What made-up card game do Chandler and Joey play so Chandler can give Joey money?",
+    "a": "Cups"
+   },
+   {
+    "q": "What is the name of the boat Joey buys at a charity auction?",
+    "a": "The Mr. Bowmont"
+   },
+   {
+    "q": "Who was Rachel's prom date whom Monica later dates?",
+    "a": "Chip Matthews"
+   },
+   {
+    "q": "What is the name of the Australian dancer who becomes Joey's roommate?",
+    "a": "Janine"
+   },
+   {
+    "q": "What is Ross's middle name?",
+    "a": "Eustace"
+   },
+   {
+    "q": "What is Rachel's middle name?",
+    "a": "Karen"
+   },
+   {
+    "q": "What is Joey's middle name?",
+    "a": "Francis"
+   },
+   {
+    "q": "What name does Joey give his recliner?",
+    "a": "Rosita"
+   },
+   {
+    "q": "How old was Chandler when his parents announced their divorce?",
+    "a": "Nine"
+   },
+   {
+    "q": "What is the name of the ceramic white dog in Joey and Chandler's apartment?",
+    "a": "Pat"
+   },
+   {
+    "q": "Which friend originally saved the name Emma for her own future daughter?",
+    "a": "Monica"
+   },
+   {
+    "q": "What is the drag stage name of Chandler's father?",
+    "a": "Helena Handbasket"
+   },
+   {
+    "q": "In which musical does Joey play the title role in season one?",
+    "a": "Freud!"
+   },
+   {
+    "q": "Who does Ross sleep with while he and Rachel are 'on a break'?",
+    "a": "Chloe"
+   },
+   {
+    "q": "What is the name of Phoebe's Canadian ice-dancer husband?",
+    "a": "Duncan"
+   },
+   {
+    "q": "Who walks Phoebe down the aisle at her wedding?",
+    "a": "Chandler"
+   },
+   {
+    "q": "What is Ross's potato-based Halloween costume that everyone mistakes for something else?",
+    "a": "Spudnik"
+   },
+   {
+    "q": "Who does Barry, Rachel's ex-fiance, end up marrying?",
+    "a": "Mindy"
+   },
+   {
+    "q": "What was Alice's job when she met Frank Jr.?",
+    "a": "Home economics teacher"
+   },
+   {
+    "q": "What is the first name of Monica's boyfriend who turns out to be a high school senior?",
+    "a": "Ethan"
+   }
+  ]
+ },
+ "the_office": {
+  "200": [
+   {
+    "q": "What kitchen appliance does Michael burn his foot on?",
+    "a": "George Foreman grill"
+   },
+   {
+    "q": "Who is Andy engaged to before he dates Erin?",
+    "a": "Angela"
+   },
+   {
+    "q": "What device's directions lead Michael to drive his car into a lake?",
+    "a": "A GPS"
+   },
+   {
+    "q": "Where do Jim and Pam get married?",
+    "a": "Niagara Falls"
+   },
+   {
+    "q": "What puzzle does Stanley constantly work on at his desk?",
+    "a": "Crossword"
+   },
+   {
+    "q": "What persona does Michael adopt, wearing a purple bandana, to scare the staff straight?",
+    "a": "Prison Mike"
+   },
+   {
+    "q": "What is Erin's job when she joins Dunder Mifflin?",
+    "a": "Receptionist"
+   },
+   {
+    "q": "What company does Phyllis's husband Bob own?",
+    "a": "Vance Refrigeration"
+   },
+   {
+    "q": "Which employee does Michael hit with his car in the parking lot?",
+    "a": "Meredith"
+   },
+   {
+    "q": "Who replaces Toby in HR when he leaves for Costa Rica?",
+    "a": "Holly Flax"
+   },
+   {
+    "q": "What currency does Dwight invent to reward coworkers?",
+    "a": "Schrute Bucks"
+   },
+   {
+    "q": "In which state is the Stamford branch located?",
+    "a": "Connecticut"
+   },
+   {
+    "q": "Who is Pam engaged to when the series begins?",
+    "a": "Roy"
+   },
+   {
+    "q": "What does Michael loudly 'declare' in the office, believing it fixes his money problems?",
+    "a": "Bankruptcy"
+   },
+   {
+    "q": "What nickname does Andy give Jim?",
+    "a": "Big Tuna"
+   },
+   {
+    "q": "What does Andy punch a hole in after Jim's prank pushes him over the edge?",
+    "a": "A wall"
+   },
+   {
+    "q": "What does Jim cover Dwight's entire desk and chair in as a Christmas prank?",
+    "a": "Wrapping paper"
+   },
+   {
+    "q": "Where does Michael move with Holly when he leaves Scranton?",
+    "a": "Colorado"
+   },
+   {
+    "q": "What does Dwight stash all over the office, including inside the toilet tank?",
+    "a": "Weapons"
+   },
+   {
+    "q": "What does Jim give Pam as her Secret Santa gift in season two?",
+    "a": "A teapot"
+   },
+   {
+    "q": "What is the name of the crude traveling salesman Michael calls his best friend?",
+    "a": "Todd Packer"
+   },
+   {
+    "q": "What kind of event does Michael host at his condo that ends in a screaming match with Jan?",
+    "a": "A dinner party"
+   },
+   {
+    "q": "What does Michael propose to Holly with, lining the entire office with them?",
+    "a": "Candles"
+   },
+   {
+    "q": "Which employee sets the office on fire with a cheese pita in the toaster oven?",
+    "a": "Ryan"
+   },
+   {
+    "q": "What business does Kevin own in the finale?",
+    "a": "A bar"
+   },
+   {
+    "q": "Which coworker has a heart attack during Dwight's fire drill?",
+    "a": "Stanley"
+   },
+   {
+    "q": "Where does Stanley retire to?",
+    "a": "Florida"
+   },
+   {
+    "q": "What does Jim wear on his face as his three-dot Halloween costume?",
+    "a": "Three hole punch"
+   },
+   {
+    "q": "Which employee does Michael kiss in front of the whole office to prove he is not homophobic?",
+    "a": "Oscar"
+   },
+   {
+    "q": "What is the name of Dwight and Angela's son?",
+    "a": "Philip"
+   }
+  ],
+  "400": [
+   {
+    "q": "What does Pam's painting that Michael buys at her art show depict?",
+    "a": "The Dunder Mifflin building"
+   },
+   {
+    "q": "Where does Jim propose to Pam?",
+    "a": "A gas station"
+   },
+   {
+    "q": "What does Michael keep introducing into every improv scene?",
+    "a": "A gun"
+   },
+   {
+    "q": "What is the villain's name in Threat Level Midnight?",
+    "a": "Goldenface"
+   },
+   {
+    "q": "What alter ego does Michael adopt to pick up women at a bar?",
+    "a": "Date Mike"
+   },
+   {
+    "q": "Who signs the ominous warning faxes that Jim sends to his deskmate?",
+    "a": "Future Dwight"
+   },
+   {
+    "q": "Where does Jim place all of Dwight's desk items so he has to buy them back?",
+    "a": "The vending machine"
+   },
+   {
+    "q": "Where is the Michael Scott Paper Company office located?",
+    "a": "The basement"
+   },
+   {
+    "q": "What is Andy's self-given nickname?",
+    "a": "The Nard Dog"
+   },
+   {
+    "q": "What is the name of the sports marketing company Jim co-founds in Philadelphia?",
+    "a": "Athlead"
+   },
+   {
+    "q": "Who takes over as manager by simply sitting in Andy's chair while he is away?",
+    "a": "Nellie Bertram"
+   },
+   {
+    "q": "In which Florida city is Sabre headquartered?",
+    "a": "Tallahassee"
+   },
+   {
+    "q": "What does Dwight buy to become his coworkers' landlord?",
+    "a": "The office building"
+   },
+   {
+    "q": "Which cat does Angela throw into the ceiling during the fire drill?",
+    "a": "Bandit"
+   },
+   {
+    "q": "Which coworker has an affair with Angela's senator husband?",
+    "a": "Oscar"
+   },
+   {
+    "q": "Which musical does Andy perform in with a community theater?",
+    "a": "Sweeney Todd"
+   },
+   {
+    "q": "What does Michael's girlfriend Carol do for a living?",
+    "a": "Real estate agent"
+   },
+   {
+    "q": "Who is the corporate VP who clashes with Jim and demands a rundown?",
+    "a": "Charles Miner"
+   },
+   {
+    "q": "What video game do the Stamford branch employees play together?",
+    "a": "Call of Duty"
+   },
+   {
+    "q": "Which branch does Karen become manager of?",
+    "a": "Utica"
+   },
+   {
+    "q": "Whose mother does Michael date?",
+    "a": "Pam's"
+   },
+   {
+    "q": "What second job does Michael take when he is drowning in debt?",
+    "a": "Telemarketer"
+   },
+   {
+    "q": "Michael's Golden Ticket promotion is inspired by which film?",
+    "a": "Willy Wonka"
+   },
+   {
+    "q": "What does Michael promise to a class of third graders that he fails to deliver?",
+    "a": "College tuition"
+   },
+   {
+    "q": "What vehicle does Andy use to pin Dwight during their duel?",
+    "a": "A Prius"
+   },
+   {
+    "q": "Who gets a concussion crashing into a pole while racing to help Michael?",
+    "a": "Dwight"
+   },
+   {
+    "q": "What does Michael turn the old Michael Scott Paper Company space into?",
+    "a": "Cafe Disco"
+   },
+   {
+    "q": "What sport is played at the company picnic where Pam learns she is pregnant?",
+    "a": "Volleyball"
+   },
+   {
+    "q": "What title do Jim and Michael share in season six?",
+    "a": "Co-manager"
+   },
+   {
+    "q": "What does Michael fall into during his visit to corporate?",
+    "a": "A koi pond"
+   },
+   {
+    "q": "Who is designated Santa at the Christmas party, upsetting Michael?",
+    "a": "Phyllis"
+   },
+   {
+    "q": "What Sabre product defect does Andy expose?",
+    "a": "Printers catching fire"
+   },
+   {
+    "q": "What relation is Luke, the new office assistant, to Michael?",
+    "a": "Nephew"
+   },
+   {
+    "q": "What does Dwight accidentally do as acting manager that costs him the job?",
+    "a": "Fires a gun"
+   },
+   {
+    "q": "Who wins the lottery in season eight?",
+    "a": "The warehouse workers"
+   },
+   {
+    "q": "Which employee's hair catches fire at the Moroccan Christmas party?",
+    "a": "Meredith"
+   },
+   {
+    "q": "What event does Michael organize where the staff make fun of him?",
+    "a": "A roast"
+   },
+   {
+    "q": "What car does Michael drive for most of the series?",
+    "a": "Chrysler Sebring"
+   },
+   {
+    "q": "Where did Michael buy his World's Best Boss mug?",
+    "a": "Spencer Gifts"
+   },
+   {
+    "q": "Who is Dwight's 'bestisch mensch' at his wedding?",
+    "a": "Jim"
+   },
+   {
+    "q": "Where does Michael go on his business trip with Andy and Oscar?",
+    "a": "Winnipeg"
+   },
+   {
+    "q": "Who is the Sabre liaison stationed at the Scranton branch?",
+    "a": "Gabe Lewis"
+   },
+   {
+    "q": "What secret gift does Angela give Dwight for Christmas?",
+    "a": "A bobblehead"
+   }
+  ],
+  "600": [
+   {
+    "q": "What fictional detective character does Toby create for his novel?",
+    "a": "Chad Flenderman"
+   },
+   {
+    "q": "According to Prison Mike, what is the worst thing about prison?",
+    "a": "The Dementors"
+   },
+   {
+    "q": "What name does Athlead change to?",
+    "a": "Athleap"
+   },
+   {
+    "q": "What breed of dog does Jo Bennett bring to the office?",
+    "a": "Great Dane"
+   },
+   {
+    "q": "What is the name of Sabre's failed tablet?",
+    "a": "The Pyramid"
+   },
+   {
+    "q": "What is the surname of Angela's husband, State Senator Robert?",
+    "a": "Lipton"
+   },
+   {
+    "q": "Which band does Kevin's band Scrantonicity cover?",
+    "a": "The Police"
+   },
+   {
+    "q": "What does Creed sprout in his desk drawer?",
+    "a": "Mung beans"
+   },
+   {
+    "q": "What is Creed's 'blog' actually?",
+    "a": "A Word document"
+   },
+   {
+    "q": "To which branch is Holly transferred after her relationship with Michael is discovered?",
+    "a": "Nashua"
+   },
+   {
+    "q": "What is the name of Jan's daughter?",
+    "a": "Astrid"
+   },
+   {
+    "q": "What Dundie award does Pam win before kissing Michael?",
+    "a": "Whitest Sneakers"
+   },
+   {
+    "q": "What is the name of the toy vacuum David Wallace invents?",
+    "a": "Suck It"
+   },
+   {
+    "q": "What is Dwight's recycling superhero persona?",
+    "a": "Recyclops"
+   },
+   {
+    "q": "What is the name of the Stamford regional manager who leaves for Staples?",
+    "a": "Josh Porter"
+   },
+   {
+    "q": "Which New York art school does Pam attend?",
+    "a": "Pratt"
+   },
+   {
+    "q": "What gift does Michael bring to the Yankee Swap?",
+    "a": "A video iPod"
+   },
+   {
+    "q": "What is the name of the diversity trainer who comes to the office in season one?",
+    "a": "Mr. Brown"
+   },
+   {
+    "q": "Which musical does Michael parody with his song '9,986,000 Minutes'?",
+    "a": "Rent"
+   },
+   {
+    "q": "What is the name of the rap video Michael and Dwight make for new employees?",
+    "a": "Lazy Scranton"
+   },
+   {
+    "q": "What is the name of the singing competition Andy auditions for?",
+    "a": "America's Next A Cappella Sensation"
+   },
+   {
+    "q": "What nickname does Andy give the new hire Pete?",
+    "a": "Plop"
+   },
+   {
+    "q": "Who walks across the hot coals at Beach Games?",
+    "a": "Pam"
+   },
+   {
+    "q": "Who does Michael fall for from an office supply catalog?",
+    "a": "The chair model"
+   },
+   {
+    "q": "For Phyllis's bridal shower, Michael hires a stripper dressed as which historical figure?",
+    "a": "Ben Franklin"
+   },
+   {
+    "q": "Which employee does Holly initially believe is mentally challenged?",
+    "a": "Kevin"
+   },
+   {
+    "q": "What does Michael buy, believing it is marijuana, in order to frame Toby?",
+    "a": "A caprese salad"
+   },
+   {
+    "q": "What is the name of the murder mystery game Michael makes the office play?",
+    "a": "Belles, Bourbon, and Bullets"
+   },
+   {
+    "q": "Which Sesame Street character does the office compare Kevin to?",
+    "a": "Cookie Monster"
+   },
+   {
+    "q": "Which TV show does the office gather at Gabe's apartment to watch?",
+    "a": "Glee"
+   },
+   {
+    "q": "Who is Pam's maternity-leave replacement who tries to seduce Jim?",
+    "a": "Cathy"
+   },
+   {
+    "q": "What surprising skill does Roy reveal at his wedding?",
+    "a": "Playing piano"
+   },
+   {
+    "q": "What is the name of Dwight's brother?",
+    "a": "Jeb"
+   },
+   {
+    "q": "How does Dwight get Stanley down the stairs during Stairmageddon?",
+    "a": "Tranquilizer dart"
+   },
+   {
+    "q": "What is the full title of the in-universe documentary?",
+    "a": "The Office: An American Workplace"
+   },
+   {
+    "q": "What is the name of Dwight's karate teacher?",
+    "a": "Sensei Ira"
+   },
+   {
+    "q": "What car does Dwight drive?",
+    "a": "Pontiac Trans Am"
+   },
+   {
+    "q": "What made-up number does Kevin use to balance the books?",
+    "a": "Keleven"
+   },
+   {
+    "q": "What does Michael do to his nephew Luke that gets him sent to counseling?",
+    "a": "Spanking"
+   },
+   {
+    "q": "What is Michael's character name in the office murder mystery game?",
+    "a": "Caleb Crawdad"
+   }
+  ]
+ },
+ "himym": {
+  "200": [
+   {
+    "q": "What fruit does Ted mysteriously wake up next to after a night of heavy drinking?",
+    "a": "A pineapple"
+   },
+   {
+    "q": "What does Barney call his book of seduction schemes?",
+    "a": "The Playbook"
+   },
+   {
+    "q": "What game does Barney love playing competitively, often against children?",
+    "a": "Laser tag"
+   },
+   {
+    "q": "Which US state is Ted from?",
+    "a": "Ohio"
+   },
+   {
+    "q": "What is directly below Ted's apartment?",
+    "a": "MacLaren's Pub"
+   },
+   {
+    "q": "What is the name of Marshall and Lily's daughter?",
+    "a": "Daisy"
+   },
+   {
+    "q": "Which university did Ted, Marshall, and Lily attend together?",
+    "a": "Wesleyan"
+   },
+   {
+    "q": "What legal position does Marshall win in the final season?",
+    "a": "Judge"
+   },
+   {
+    "q": "What is Barney's daughter's name?",
+    "a": "Ellie"
+   },
+   {
+    "q": "In which city does Lily take an art consulting job that moves the family abroad?",
+    "a": "Rome"
+   },
+   {
+    "q": "What does Victoria, Ted's girlfriend, do for a living?",
+    "a": "Baker"
+   },
+   {
+    "q": "Which country does Victoria leave for on a fellowship?",
+    "a": "Germany"
+   },
+   {
+    "q": "What tattoo does Ted get on his lower back?",
+    "a": "A butterfly"
+   },
+   {
+    "q": "What animal attacks Ted on his 31st birthday?",
+    "a": "A goat"
+   },
+   {
+    "q": "Which city does Lily move to after breaking off her engagement with Marshall?",
+    "a": "San Francisco"
+   },
+   {
+    "q": "What is the profession of Barney's fiancee Quinn?",
+    "a": "Stripper"
+   },
+   {
+    "q": "Where does Ted teach architecture?",
+    "a": "Columbia University"
+   },
+   {
+    "q": "How does Marshall's father die?",
+    "a": "Heart attack"
+   },
+   {
+    "q": "What is the name of the bartender at MacLaren's?",
+    "a": "Carl"
+   },
+   {
+    "q": "What nickname does the gang give Barney after a coffee-cup mix-up?",
+    "a": "Swarley"
+   },
+   {
+    "q": "What is Robin's Canadian hometown?",
+    "a": "Vancouver"
+   },
+   {
+    "q": "What costume does the woman Ted searches for every Halloween wear?",
+    "a": "Slutty pumpkin"
+   },
+   {
+    "q": "What is the name of the cable network Robin works for in later seasons?",
+    "a": "World Wide News"
+   },
+   {
+    "q": "Who serves as the Slap Bet Commissioner?",
+    "a": "Lily"
+   },
+   {
+    "q": "What is the name of the Mother's roommate whom Ted dates first?",
+    "a": "Cindy"
+   }
+  ],
+  "400": [
+   {
+    "q": "What is the seduction move in which a guy simply strips while his date is out of the room?",
+    "a": "The Naked Man"
+   },
+   {
+    "q": "What must Barney wear for a year after losing a bet?",
+    "a": "Ducky tie"
+   },
+   {
+    "q": "What rule does Barney invent giving five minutes to decide whether a date is worth continuing?",
+    "a": "The Lemon Law"
+   },
+   {
+    "q": "What chart does Barney use to weigh a woman's craziness against her looks?",
+    "a": "Hot/Crazy scale"
+   },
+   {
+    "q": "What is the name of the local station where Robin first works as an anchor?",
+    "a": "Metro News 1"
+   },
+   {
+    "q": "What is the name of Ted's own architecture firm?",
+    "a": "Mosbius Designs"
+   },
+   {
+    "q": "What is Ted's Halloween costume during his slutty pumpkin years?",
+    "a": "A hanging chad"
+   },
+   {
+    "q": "What hybrid creature lives in Marshall and Lily's apartment?",
+    "a": "Cockamouse"
+   },
+   {
+    "q": "In Ted's story, what euphemism replaces marijuana?",
+    "a": "Sandwich"
+   },
+   {
+    "q": "What is wrong with the floor of Marshall and Lily's first apartment?",
+    "a": "It's crooked"
+   },
+   {
+    "q": "What banner does the gang reuse so often it becomes a running joke?",
+    "a": "Intervention"
+   },
+   {
+    "q": "What is Marvin's middle name?",
+    "a": "Wait-for-it"
+   },
+   {
+    "q": "What is the Mother's band called?",
+    "a": "Superfreakonomics"
+   },
+   {
+    "q": "What is the last play in Barney's Playbook, the one he uses to propose?",
+    "a": "The Robin"
+   },
+   {
+    "q": "What board game does Marshall invent?",
+    "a": "Marshgammon"
+   },
+   {
+    "q": "Which country does Robin bring her boyfriend Gael home from?",
+    "a": "Argentina"
+   },
+   {
+    "q": "What subject's class does Ted mistakenly teach on his first day as a professor?",
+    "a": "Economics"
+   },
+   {
+    "q": "What is Ted's doppelganger?",
+    "a": "Mexican wrestler"
+   },
+   {
+    "q": "How many women does Barney sleep with in his 'Perfect Week'?",
+    "a": "Seven"
+   },
+   {
+    "q": "What is Barney's job title, finally revealed in the final season?",
+    "a": "Please"
+   },
+   {
+    "q": "What does Lily's father Mickey invent?",
+    "a": "Board games"
+   },
+   {
+    "q": "How many years were Barney and Robin married?",
+    "a": "Three"
+   },
+   {
+    "q": "According to Barney, who invented the three-day rule?",
+    "a": "Jesus"
+   },
+   {
+    "q": "What is Robin's middle name?",
+    "a": "Charles"
+   },
+   {
+    "q": "What is the name of Robin's younger sister?",
+    "a": "Katie"
+   },
+   {
+    "q": "What is the profession of Robin's boyfriend Kevin?",
+    "a": "Therapist"
+   },
+   {
+    "q": "What is the name of Ted's sister?",
+    "a": "Heather"
+   },
+   {
+    "q": "In what year does the Mother die?",
+    "a": "2024"
+   },
+   {
+    "q": "What is the name of Barney's British girlfriend who wants him to become a better man?",
+    "a": "Nora"
+   },
+   {
+    "q": "What is the name of Ted's unstable girlfriend who trashes his apartment?",
+    "a": "Jeanette"
+   },
+   {
+    "q": "What does Ted call the girl whose name he cannot remember?",
+    "a": "Blah Blah"
+   },
+   {
+    "q": "Who is Robin's overly friendly coworker that she constantly yells at?",
+    "a": "Patrice"
+   },
+   {
+    "q": "What is the profession of Robin's boyfriend Nick?",
+    "a": "Chef"
+   },
+   {
+    "q": "Which Playbook play involves fake websites about a fictional billionaire?",
+    "a": "The Lorenzo Von Matterhorn"
+   },
+   {
+    "q": "Which song does the Mother sing on her ukulele on the balcony at Farhampton?",
+    "a": "La Vie en Rose"
+   },
+   {
+    "q": "Who does Ted take on a 'two-minute date' during her work break?",
+    "a": "Stella"
+   },
+   {
+    "q": "What does Barney call the phenomenon where women look more attractive as a group?",
+    "a": "The cheerleader effect"
+   }
+  ],
+  "600": [
+   {
+    "q": "What is the name of the Mother's boyfriend who died before she met Ted?",
+    "a": "Max"
+   },
+   {
+    "q": "What is the name of Robin's Metro News 1 co-anchor who hits on her?",
+    "a": "Sandy Rivers"
+   },
+   {
+    "q": "What is the name of the morning show Robin co-hosts with Don?",
+    "a": "Come On, Get Up New York!"
+   },
+   {
+    "q": "Which state's supreme court does Marshall end up serving on?",
+    "a": "New York"
+   },
+   {
+    "q": "How many miles does the Fiero die just short of reaching?",
+    "a": "200,000"
+   },
+   {
+    "q": "What is Ted's Ohio hometown?",
+    "a": "Shaker Heights"
+   },
+   {
+    "q": "What is the name of James Stinson's husband?",
+    "a": "Tom"
+   },
+   {
+    "q": "What is Quinn's stage name as a stripper?",
+    "a": "Karma"
+   },
+   {
+    "q": "Which Canadian kids' show did Robin star in as Robin Sparkles?",
+    "a": "Space Teens"
+   },
+   {
+    "q": "Who wrote the movie The Wedding Bride?",
+    "a": "Tony Grafanello"
+   },
+   {
+    "q": "What is Lily's name for punishing wrongdoers by stealing their belongings?",
+    "a": "Aldrin Justice"
+   },
+   {
+    "q": "What is the name of the neighborhood Marshall and Lily's apartment is in, named for a sewage plant?",
+    "a": "Dowisetrepla"
+   },
+   {
+    "q": "What are the names of Marshall's two brothers?",
+    "a": "Marcus and Marvin Jr."
+   },
+   {
+    "q": "What is Barney's doppelganger's profession?",
+    "a": "Fertility doctor"
+   },
+   {
+    "q": "Which Playbook play does Barney use while Lily exposes the book to Robin?",
+    "a": "The Scuba Diver"
+   },
+   {
+    "q": "Ted and Marshall drive to Chicago to visit which pizza place?",
+    "a": "Gazola's"
+   },
+   {
+    "q": "What is the name of the goat that attacks Ted?",
+    "a": "Missy"
+   },
+   {
+    "q": "What is Marshall's favorite NFL team?",
+    "a": "Minnesota Vikings"
+   },
+   {
+    "q": "Who does Ted break up with on her birthday, twice?",
+    "a": "Natalie"
+   },
+   {
+    "q": "What is the name of James Stinson's adopted son?",
+    "a": "Eli"
+   },
+   {
+    "q": "What is the name of the man Ted's mother Virginia marries?",
+    "a": "Clint"
+   }
+  ]
+ },
+ "modern_family": {
+  "200": [
+   {
+    "q": "What is the name of the self-published book of life advice written by the Dunphy dad?",
+    "a": "Phil's-osophy"
+   },
+   {
+    "q": "From which country did Mitchell and Cameron adopt Lily?",
+    "a": "Vietnam"
+   },
+   {
+    "q": "Which holiday is Claire obsessed with decorating for?",
+    "a": "Halloween"
+   },
+   {
+    "q": "What does Phil claim the letters WTF stand for?",
+    "a": "Why the face"
+   },
+   {
+    "q": "What part of the Dunphy house does Phil never get around to fixing?",
+    "a": "The broken step"
+   },
+   {
+    "q": "What job does Andy hold with Jay and Gloria before dating Haley?",
+    "a": "Male nanny"
+   },
+   {
+    "q": "Where does the whole family vacation for Jay's birthday in season one?",
+    "a": "Hawaii"
+   },
+   {
+    "q": "Which country does the family visit in season five for Phil's birthright trip?",
+    "a": "Australia"
+   },
+   {
+    "q": "What animals does Phil hatch and raise in the Dunphy home?",
+    "a": "Ducks"
+   },
+   {
+    "q": "What job does Dylan train for late in the series?",
+    "a": "Nurse"
+   },
+   {
+    "q": "What is the profession of Haley's older boyfriend Rainer Shine?",
+    "a": "Weatherman"
+   },
+   {
+    "q": "Where do Mitchell and Cameron move in the series finale?",
+    "a": "Missouri"
+   },
+   {
+    "q": "What instrument does Alex play?",
+    "a": "Cello"
+   },
+   {
+    "q": "What gadget does Phil desperately want for his birthday in season one?",
+    "a": "An iPad"
+   },
+   {
+    "q": "What office does Claire run for?",
+    "a": "Town council"
+   },
+   {
+    "q": "Which Dunphy child is the academic overachiever?",
+    "a": "Alex"
+   },
+   {
+    "q": "Which family member gets kicked out of college for drinking?",
+    "a": "Haley"
+   },
+   {
+    "q": "Which family member was a college cheerleader?",
+    "a": "Phil"
+   },
+   {
+    "q": "Which Dunphy child is sweet but dim, and often teams up with Manny?",
+    "a": "Luke"
+   },
+   {
+    "q": "What is Lily's hyphenated surname?",
+    "a": "Tucker-Pritchett"
+   },
+   {
+    "q": "In the pilot, what does Phil shoot Luke with as a punishment?",
+    "a": "A BB gun"
+   },
+   {
+    "q": "Who walks Mitchell down the aisle at his wedding?",
+    "a": "Jay"
+   },
+   {
+    "q": "What is the name of Mitchell and Cameron's cat?",
+    "a": "Larry"
+   },
+   {
+    "q": "What is the name of Phil's rival real estate agent?",
+    "a": "Gil Thorpe"
+   },
+   {
+    "q": "Which recurring character dies in season ten?",
+    "a": "DeDe"
+   },
+   {
+    "q": "What product does Gloria turn into a business?",
+    "a": "Hot sauce"
+   },
+   {
+    "q": "What alias does Phil use for his Valentine's Day role play with Claire?",
+    "a": "Clive Bixby"
+   }
+  ],
+  "400": [
+   {
+    "q": "What is the title of Dylan's love song for Haley?",
+    "a": "In the Moonlight (Do Me)"
+   },
+   {
+    "q": "In 'Connection Lost', the entire episode plays out on whose laptop screen?",
+    "a": "Claire's"
+   },
+   {
+    "q": "What was the name of Mitchell and Claire's childhood figure-skating pair?",
+    "a": "Fire and Nice"
+   },
+   {
+    "q": "What is the name of Jay's brother?",
+    "a": "Donnie"
+   },
+   {
+    "q": "What is the name of Jay's rival closet company?",
+    "a": "Closets, Closets, Closets, Closets"
+   },
+   {
+    "q": "What is the name of the high school football team Cameron coaches?",
+    "a": "The Dolphins"
+   },
+   {
+    "q": "Which family member's father dies in the final season?",
+    "a": "Phil's"
+   },
+   {
+    "q": "What alias does Claire use for her Valentine's Day role play with Phil?",
+    "a": "Juliana"
+   },
+   {
+    "q": "What is the name of Jay's former business partner who cheated him?",
+    "a": "Earl Chambers"
+   },
+   {
+    "q": "What is the name of Gloria's sister?",
+    "a": "Sonia"
+   },
+   {
+    "q": "What is Andy's surname?",
+    "a": "Bailey"
+   },
+   {
+    "q": "What is the name of Cameron's sister Pam's baby?",
+    "a": "Cal"
+   },
+   {
+    "q": "What is the name of Alex's academic rival who becomes her boyfriend?",
+    "a": "Sanjay"
+   },
+   {
+    "q": "What is the name of Frank Dunphy's second wife?",
+    "a": "Lorraine"
+   },
+   {
+    "q": "In which European city does the family spend an episode in the final season?",
+    "a": "Paris"
+   },
+   {
+    "q": "Who takes over running Pritchett's Closets when Jay steps back?",
+    "a": "Claire"
+   },
+   {
+    "q": "In the pilot, Cameron presents baby Lily to the family like which movie character?",
+    "a": "Simba"
+   },
+   {
+    "q": "What adult drink does young Manny favor?",
+    "a": "Espresso"
+   },
+   {
+    "q": "What product does Jay design and sell after retiring?",
+    "a": "A dog bed"
+   },
+   {
+    "q": "What is Joe's full first name, honoring Gloria's father?",
+    "a": "Fulgencio"
+   },
+   {
+    "q": "What is the name of Gloria's first husband?",
+    "a": "Javier"
+   }
+  ],
+  "600": [
+   {
+    "q": "What is the name of Manny's pet tortoise?",
+    "a": "Shel Turtlestein"
+   },
+   {
+    "q": "Who is Claire's opponent in the town council election?",
+    "a": "Duane Bailey"
+   },
+   {
+    "q": "What is Gloria's maiden name?",
+    "a": "Ramirez"
+   },
+   {
+    "q": "What is Haley's middle name?",
+    "a": "Gwendolyn"
+   },
+   {
+    "q": "What is the name of Andy's fiancee before he gets together with Haley?",
+    "a": "Beth"
+   },
+   {
+    "q": "What is the name of Pepper Saltzman's husband?",
+    "a": "Ronaldo"
+   },
+   {
+    "q": "What is the name of Manny's often-mentioned best friend?",
+    "a": "Reuben"
+   }
+  ]
+ },
+ "family_guy": {
+  "200": [
+   {
+    "q": "What song does Peter become obsessed with, driving the family crazy by playing it constantly?",
+    "a": "Surfin' Bird"
+   },
+   {
+    "q": "What is Brian's favorite cocktail?",
+    "a": "Martini"
+   },
+   {
+    "q": "What creature lives in Chris's closet?",
+    "a": "The evil monkey"
+   },
+   {
+    "q": "What is Cleveland usually doing when his house collapses in a running gag?",
+    "a": "Taking a bath"
+   },
+   {
+    "q": "What shape is Stewie's head?",
+    "a": "Football"
+   },
+   {
+    "q": "What two-word phrase does Peter use to express approval?",
+    "a": "Freakin' sweet"
+   },
+   {
+    "q": "Which character does Quagmire openly despise?",
+    "a": "Brian"
+   },
+   {
+    "q": "What is the name of the road the Griffins live on?",
+    "a": "Spooner Street"
+   },
+   {
+    "q": "What color is the Griffin family car?",
+    "a": "Red"
+   },
+   {
+    "q": "What kind of animal is a quahog?",
+    "a": "A clam"
+   },
+   {
+    "q": "What does Peter name his own country after seceding from the United States?",
+    "a": "Petoria"
+   },
+   {
+    "q": "What car does Brian drive?",
+    "a": "A Prius"
+   },
+   {
+    "q": "Where does Peter work before the Pawtucket Brewery?",
+    "a": "Happy-Go-Lucky Toy Factory"
+   },
+   {
+    "q": "What is the name of the Griffins' incompetent family doctor?",
+    "a": "Dr. Hartman"
+   },
+   {
+    "q": "Who is Stewie's arch-nemesis, born from Peter's donated sperm?",
+    "a": "Bertram"
+   },
+   {
+    "q": "What is the name of Joe Swanson's son?",
+    "a": "Kevin"
+   },
+   {
+    "q": "Which dessert topping's name does Stewie famously mispronounce?",
+    "a": "Cool Whip"
+   },
+   {
+    "q": "What business does Cleveland run in the early seasons?",
+    "a": "A deli"
+   },
+   {
+    "q": "What series of Brian and Stewie adventure episodes is named after the Bob Hope and Bing Crosby films?",
+    "a": "Road to"
+   },
+   {
+    "q": "Meg and Chris are students at which Quahog institution?",
+    "a": "James Woods Regional High School"
+   },
+   {
+    "q": "What is the name of the weatherman who shouts one-line forecasts like 'It's gon' rain!'?",
+    "a": "Ollie Williams"
+   },
+   {
+    "q": "What is the name of Peter's boss at the brewery?",
+    "a": "Angela"
+   }
+  ],
+  "400": [
+   {
+    "q": "Who was Peter's boss at the toy factory?",
+    "a": "Mr. Weed"
+   },
+   {
+    "q": "How did Mr. Weed die?",
+    "a": "Choked on a dinner roll"
+   },
+   {
+    "q": "Who is Peter's biological father?",
+    "a": "Mickey McFinnigan"
+   },
+   {
+    "q": "With whom did Loretta cheat on Cleveland?",
+    "a": "Quagmire"
+   },
+   {
+    "q": "In which town is The Cleveland Show set?",
+    "a": "Stoolbend"
+   },
+   {
+    "q": "What sparked Peter's first fight with the Giant Chicken?",
+    "a": "An expired coupon"
+   },
+   {
+    "q": "What is Meg's full first name according to her birth certificate?",
+    "a": "Megatron"
+   },
+   {
+    "q": "What is Stewie's middle name?",
+    "a": "Gilligan"
+   },
+   {
+    "q": "What is the name of the owner of the Drunken Clam in the early seasons?",
+    "a": "Horace"
+   },
+   {
+    "q": "Who does Lois's sister Carol marry?",
+    "a": "Mayor Adam West"
+   },
+   {
+    "q": "What is the name of the replacement dog Peter adopts, later killed by Stewie?",
+    "a": "New Brian"
+   },
+   {
+    "q": "Who becomes Peter's boss at the brewery after Angela?",
+    "a": "Bert"
+   },
+   {
+    "q": "After which sporting event did the Family Guy pilot premiere in 1999?",
+    "a": "The Super Bowl"
+   },
+   {
+    "q": "What is the name of Peter's personal helicopter?",
+    "a": "Petercopter"
+   },
+   {
+    "q": "In which country does Peter discover his biological father lives?",
+    "a": "Ireland"
+   },
+   {
+    "q": "Who kills news anchor Diane Simmons?",
+    "a": "Stewie"
+   },
+   {
+    "q": "What does the performance artist Bruce say as his catchphrase?",
+    "a": "Oh no"
+   },
+   {
+    "q": "What is the name of Herbert's elderly dog?",
+    "a": "Jesse"
+   },
+   {
+    "q": "What is the name of the peg-legged sailor in Quahog?",
+    "a": "Seamus"
+   },
+   {
+    "q": "Which two characters travel through parallel universes in 'Road to the Multiverse'?",
+    "a": "Brian and Stewie"
+   },
+   {
+    "q": "What does Stewie repeatedly demand from Brian while beating him up in a famous scene?",
+    "a": "His money"
+   }
+  ],
+  "600": [
+   {
+    "q": "What is the name of the company owned by Lois's father?",
+    "a": "Pewterschmidt Industries"
+   },
+   {
+    "q": "How old is Quagmire revealed to be?",
+    "a": "61"
+   },
+   {
+    "q": "What was the name of Brian's mother, whom he finds stuffed?",
+    "a": "Biscuit"
+   },
+   {
+    "q": "What is the title of the very first Family Guy episode?",
+    "a": "Death Has a Shadow"
+   },
+   {
+    "q": "What is Peter's middle name?",
+    "a": "Lowenbrau"
+   },
+   {
+    "q": "What are the names of Cleveland's stepchildren in his spin-off?",
+    "a": "Roberta and Rallo"
+   },
+   {
+    "q": "What is the name of Joe Swanson's daughter?",
+    "a": "Susie"
+   },
+   {
+    "q": "What is the name of Quagmire's daughter?",
+    "a": "Anna Lee"
+   },
+   {
+    "q": "What is the name of Mort Goldman's wife?",
+    "a": "Muriel"
+   },
+   {
+    "q": "What is the surname of the principal of James Woods Regional High?",
+    "a": "Shepherd"
+   },
+   {
+    "q": "What is the title of Brian's play?",
+    "a": "A Passing Fancy"
+   },
+   {
+    "q": "Who takes over the Drunken Clam after Horace dies?",
+    "a": "Jerome"
+   },
+   {
+    "q": "What is the name of Quagmire's cat that Peter accidentally kills?",
+    "a": "James"
+   },
+   {
+    "q": "What is Herbert's first name?",
+    "a": "John"
+   }
+  ]
+ },
+ "big_bang_theory": {
+  "200": [
+   {
+    "q": "What career does Penny switch to after giving up acting?",
+    "a": "Pharmaceutical sales"
+   },
+   {
+    "q": "What food intolerance does Leonard have?",
+    "a": "Lactose"
+   },
+   {
+    "q": "What is the name of Sheldon and Amy's online flag show?",
+    "a": "Fun with Flags"
+   },
+   {
+    "q": "How many seasons did The Big Bang Theory run?",
+    "a": "12"
+   },
+   {
+    "q": "What two items does Sheldon add to rock-paper-scissors?",
+    "a": "Lizard and Spock"
+   },
+   {
+    "q": "Where do Leonard and Penny get married?",
+    "a": "Las Vegas"
+   },
+   {
+    "q": "What instrument does Leonard play?",
+    "a": "Cello"
+   },
+   {
+    "q": "Which character's sister does Leonard date?",
+    "a": "Raj's"
+   },
+   {
+    "q": "What fictional language can Sheldon speak?",
+    "a": "Klingon"
+   },
+   {
+    "q": "What is the name of the contract Sheldon makes Amy sign as his girlfriend?",
+    "a": "The Relationship Agreement"
+   },
+   {
+    "q": "What is Sheldon's father's first name?",
+    "a": "George"
+   },
+   {
+    "q": "What is Penny's apartment number?",
+    "a": "4B"
+   },
+   {
+    "q": "What is the portmanteau nickname for Sheldon and Amy as a couple?",
+    "a": "Shamy"
+   },
+   {
+    "q": "Which character wears turtlenecks, dickies, and tight pants?",
+    "a": "Howard"
+   },
+   {
+    "q": "Where do the guys spend three months on an expedition at the end of season two?",
+    "a": "The Arctic"
+   },
+   {
+    "q": "Which character has a fear of birds?",
+    "a": "Sheldon"
+   },
+   {
+    "q": "According to Sheldon, what should you offer someone who is upset?",
+    "a": "A hot beverage"
+   },
+   {
+    "q": "What is the name of Penny's brawny ex-boyfriend who takes Leonard's pants?",
+    "a": "Kurt"
+   },
+   {
+    "q": "What is Sheldon's Halloween costume that nobody recognizes?",
+    "a": "The Doppler effect"
+   },
+   {
+    "q": "Which movie premiere does Sheldon skip to sleep with Amy for the first time?",
+    "a": "Star Wars: The Force Awakens"
+   },
+   {
+    "q": "What gift does Sheldon give Amy that makes her ecstatic?",
+    "a": "A tiara"
+   },
+   {
+    "q": "What does Sheldon start collecting after Amy breaks up with him the first time?",
+    "a": "Cats"
+   },
+   {
+    "q": "Which band performs the show's theme song?",
+    "a": "Barenaked Ladies"
+   },
+   {
+    "q": "What happens to Stuart's comic book store in season seven?",
+    "a": "It burns down"
+   },
+   {
+    "q": "Who moves in with Howard's mother as her caretaker?",
+    "a": "Stuart"
+   },
+   {
+    "q": "In which state does Howard's mother die?",
+    "a": "Florida"
+   },
+   {
+    "q": "What device does Howard design for the International Space Station that malfunctions?",
+    "a": "A zero-gravity toilet"
+   }
+  ],
+  "400": [
+   {
+    "q": "Which fellow physicist calls Sheldon 'dumbass'?",
+    "a": "Leslie Winkle"
+   },
+   {
+    "q": "From which country does Howard launch into space?",
+    "a": "Kazakhstan"
+   },
+   {
+    "q": "Which Texas city is Sheldon from?",
+    "a": "Galveston"
+   },
+   {
+    "q": "Where is Amy when Sheldon proposes to her?",
+    "a": "Princeton"
+   },
+   {
+    "q": "Where do Sheldon and Amy share their first kiss?",
+    "a": "On a train"
+   },
+   {
+    "q": "What is Beverly Hofstadter's profession?",
+    "a": "Psychiatrist"
+   },
+   {
+    "q": "What nickname did fellow astronauts give Howard?",
+    "a": "Froot Loops"
+   },
+   {
+    "q": "What is the name of the fighting robot Howard and Raj build?",
+    "a": "MONTE"
+   },
+   {
+    "q": "What did Howard crash while trying to impress a woman?",
+    "a": "A Mars rover"
+   },
+   {
+    "q": "What is the profession of Raj's girlfriend Emily?",
+    "a": "Dermatologist"
+   },
+   {
+    "q": "Which magazine features Raj in a list of scientists to watch?",
+    "a": "People"
+   },
+   {
+    "q": "What is the name of Sheldon's older brother?",
+    "a": "George Jr."
+   },
+   {
+    "q": "What is Priya Koothrappali's profession?",
+    "a": "Lawyer"
+   },
+   {
+    "q": "Which night of the week is Halo night?",
+    "a": "Wednesday"
+   },
+   {
+    "q": "What movie prop do the guys buy in season one?",
+    "a": "A time machine"
+   },
+   {
+    "q": "What prop do the guys fight over in 'The Precious Fragmentation'?",
+    "a": "The One Ring"
+   },
+   {
+    "q": "Why do Howard and Bernadette get married on a rooftop?",
+    "a": "So a satellite can photograph it"
+   },
+   {
+    "q": "What crime is Penny's brother known for?",
+    "a": "Cooking meth"
+   },
+   {
+    "q": "What is the name of Leonard's father?",
+    "a": "Alfred"
+   },
+   {
+    "q": "Who created The Big Bang Theory?",
+    "a": "Chuck Lorre and Bill Prady"
+   },
+   {
+    "q": "What is the name of the children's science show host Sheldon idolizes?",
+    "a": "Professor Proton"
+   },
+   {
+    "q": "What vehicle does Howard ride around on?",
+    "a": "A Vespa"
+   },
+   {
+    "q": "Which US state is Leonard from?",
+    "a": "New Jersey"
+   },
+   {
+    "q": "Which character does Leonard kiss on a ship in the North Sea, causing a rift with Penny?",
+    "a": "Mandy"
+   }
+  ],
+  "600": [
+   {
+    "q": "What is the first name of Sheldon's Meemaw?",
+    "a": "Constance"
+   },
+   {
+    "q": "What was the name of Penny's childhood pig?",
+    "a": "Moondance"
+   },
+   {
+    "q": "What broke the apartment building's elevator?",
+    "a": "Rocket fuel explosion"
+   },
+   {
+    "q": "What is the name of the cat Sheldon considers 'zazzy'?",
+    "a": "Zazzles"
+   },
+   {
+    "q": "What is the name of the Caltech department head who fires and rehires Sheldon in season one?",
+    "a": "Dr. Gablehauser"
+   },
+   {
+    "q": "What is the name of Stuart's girlfriend who works at the comic store?",
+    "a": "Denise"
+   },
+   {
+    "q": "What is the name of Howard's half-brother?",
+    "a": "Josh"
+   },
+   {
+    "q": "What is the name of the fighting robot that destroys MONTE?",
+    "a": "The Kripke Krippler"
+   },
+   {
+    "q": "What is the street address of Sheldon and Leonard's apartment building?",
+    "a": "2311 North Los Robles Avenue"
+   },
+   {
+    "q": "Which two parents share a kiss at Sheldon and Amy's wedding?",
+    "a": "Alfred and Mary"
+   },
+   {
+    "q": "What is the name of the Caltech university president?",
+    "a": "Dr. Siebert"
+   },
+   {
+    "q": "What is the profession of Raj's girlfriend Anu?",
+    "a": "Hotel concierge"
+   },
+   {
+    "q": "What is the name of Raj's girlfriend who suffers from severe social anxiety?",
+    "a": "Lucy"
+   },
+   {
+    "q": "What is the name of the pharmaceutical company Bernadette works for?",
+    "a": "Zangen"
+   },
+   {
+    "q": "Which two scientists claim to have proven super-asymmetry before Sheldon and Amy?",
+    "a": "Pemberton and Campbell"
+   },
+   {
+    "q": "What is the profession of Bernadette's father Mike?",
+    "a": "Police officer"
+   },
+   {
+    "q": "What is the name of Penny's father?",
+    "a": "Wyatt"
+   },
+   {
+    "q": "What is the name of Amy's smoking monkey?",
+    "a": "Ricky"
+   },
+   {
+    "q": "What is the name of the grad student Sheldon hires as an assistant who flirts with Leonard?",
+    "a": "Alex"
+   },
+   {
+    "q": "What robotic device gets stuck on Howard and sends him to the emergency room?",
+    "a": "A robot hand"
+   }
+  ]
+ },
+ "brooklyn_99": {
+  "200": [
+   {
+    "q": "What phrase does Jake add after ambiguous statements?",
+    "a": "Title of your sex tape"
+   },
+   {
+    "q": "What is Jake's drawn-out word of approval?",
+    "a": "Noice"
+   },
+   {
+    "q": "What one-word question does Holt shout at Kevin, becoming a meme?",
+    "a": "Bone?"
+   },
+   {
+    "q": "What exclamation does Holt use when he is excited?",
+    "a": "Hot damn"
+   },
+   {
+    "q": "What rank does Amy earn after passing her exam?",
+    "a": "Sergeant"
+   },
+   {
+    "q": "What rank does Terry earn late in the series?",
+    "a": "Lieutenant"
+   },
+   {
+    "q": "Which network picked up the show after Fox cancelled it?",
+    "a": "NBC"
+   },
+   {
+    "q": "What is Gina's job at the precinct?",
+    "a": "Civilian administrator"
+   },
+   {
+    "q": "What does Jake win when he beats Amy in their arrest bet?",
+    "a": "A date"
+   },
+   {
+    "q": "Where do Jake and Amy end up getting married?",
+    "a": "Outside the precinct"
+   },
+   {
+    "q": "During which annual event does Jake propose to Amy?",
+    "a": "The Halloween Heist"
+   },
+   {
+    "q": "From which country does Boyle adopt Nikolaj?",
+    "a": "Latvia"
+   },
+   {
+    "q": "Who becomes captain of the Nine-Nine after Holt is transferred?",
+    "a": "The Vulture"
+   },
+   {
+    "q": "Which detective leaves the NYPD in the finale to be a stay-at-home dad?",
+    "a": "Jake"
+   },
+   {
+    "q": "What addictive phone game does Holt get hooked on?",
+    "a": "Kwazy Cupcakes"
+   },
+   {
+    "q": "What vehicle hits Gina, putting her in the hospital?",
+    "a": "A bus"
+   },
+   {
+    "q": "Who wins the first Halloween Heist?",
+    "a": "Jake"
+   },
+   {
+    "q": "What did Rosa study before joining the police academy?",
+    "a": "Ballet"
+   },
+   {
+    "q": "What department does Wuntch transfer Holt to as punishment?",
+    "a": "Public Relations"
+   },
+   {
+    "q": "What is the name of Boyle's long-term partner and Nikolaj's adoptive mother?",
+    "a": "Genevieve"
+   },
+   {
+    "q": "Whose mother marries Boyle's father?",
+    "a": "Gina's"
+   },
+   {
+    "q": "Which detective comes from a large Cuban-American family?",
+    "a": "Amy"
+   }
+  ],
+  "400": [
+   {
+    "q": "What is Holt's undercover nickname from his past?",
+    "a": "Velvet Thunder"
+   },
+   {
+    "q": "Who frames Jake and Rosa for bank robbery?",
+    "a": "Lieutenant Hawkins"
+   },
+   {
+    "q": "How many brothers does Amy have?",
+    "a": "Seven"
+   },
+   {
+    "q": "What is Amy's secret bad habit when she is stressed?",
+    "a": "Smoking"
+   },
+   {
+    "q": "What is the name of the Florida town where Jake and Holt hide?",
+    "a": "Coral Palms"
+   },
+   {
+    "q": "At which university does Kevin teach?",
+    "a": "Columbia"
+   },
+   {
+    "q": "What position does Holt take in the series finale?",
+    "a": "Deputy Commissioner"
+   },
+   {
+    "q": "Who created Brooklyn Nine-Nine?",
+    "a": "Dan Goor and Michael Schur"
+   },
+   {
+    "q": "What job does Holt work at the start of season seven after his demotion?",
+    "a": "Patrol officer"
+   },
+   {
+    "q": "Who wins the second Halloween Heist?",
+    "a": "Holt"
+   },
+   {
+    "q": "Who officiates Jake and Amy's wedding?",
+    "a": "Holt"
+   },
+   {
+    "q": "What is the name of Amy's ex-boyfriend, a fellow cop obsessed with pilsners?",
+    "a": "Teddy"
+   },
+   {
+    "q": "Which crime boss forces Jake and Holt into witness protection?",
+    "a": "Jimmy Figgis"
+   },
+   {
+    "q": "Who gives birth inside the precinct in season three?",
+    "a": "Sharon"
+   },
+   {
+    "q": "In which season do Jake and Amy get married?",
+    "a": "5"
+   },
+   {
+    "q": "Which serial killer does Jake catch while stuck on desk duty?",
+    "a": "The Oolong Slayer"
+   },
+   {
+    "q": "What is the name of the drug at the center of the Nine-Nine's task force?",
+    "a": "Giggle Pig"
+   },
+   {
+    "q": "What is the name of Rosa's boyfriend who is Holt's nephew?",
+    "a": "Marcus"
+   },
+   {
+    "q": "Who is the captain who briefly replaces Holt and dies of a heart attack?",
+    "a": "Dozerman"
+   }
+  ],
+  "600": [
+   {
+    "q": "What is the name of Jake's cannibal prison cellmate?",
+    "a": "Caleb"
+   },
+   {
+    "q": "What is the name of Boyle's fiancee in season one?",
+    "a": "Vivian"
+   },
+   {
+    "q": "Who is the father of Gina's daughter?",
+    "a": "Milton Boyle"
+   },
+   {
+    "q": "What alias does Holt use in Florida?",
+    "a": "Greg Stickney"
+   },
+   {
+    "q": "What is the profession of Jake's ex-girlfriend Sophia?",
+    "a": "Defense attorney"
+   },
+   {
+    "q": "What is the name of Holt's sister?",
+    "a": "Debbie"
+   },
+   {
+    "q": "What is Jake's mother's first name?",
+    "a": "Karen"
+   },
+   {
+    "q": "What is the name of Scully's look-alike used in a heist?",
+    "a": "Bill"
+   },
+   {
+    "q": "What is the name of Terry's estranged brother-in-law?",
+    "a": "Zeke"
+   },
+   {
+    "q": "Who becomes captain of the Nine-Nine in the series finale?",
+    "a": "Terry"
+   },
+   {
+    "q": "What is the name of the Pontiac Bandit's sister?",
+    "a": "Trudy Judy"
+   },
+   {
+    "q": "What is the name of Holt's mother?",
+    "a": "Laverne"
+   },
+   {
+    "q": "What is the first name of Amy's father?",
+    "a": "Victor"
+   },
+   {
+    "q": "What is the Vulture's first name?",
+    "a": "Keith"
+   },
+   {
+    "q": "Who is revealed as the FBI mole working with Jimmy Figgis?",
+    "a": "Bob Annderson"
+   }
+  ]
+ }
+}

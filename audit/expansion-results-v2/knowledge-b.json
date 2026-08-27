@@ -1,0 +1,2962 @@
+{
+  "music": {
+    "200": [
+      {
+        "q": "What singer's 2021 album was titled '30'?",
+        "a": "Adele"
+      },
+      {
+        "q": "Which rapper released the album 'Scorpion' in 2018?",
+        "a": "Drake"
+      },
+      {
+        "q": "What is the stage name of singer Robyn Fenty?",
+        "a": "Rihanna"
+      },
+      {
+        "q": "Which band released the hit 'Mr. Brightside'?",
+        "a": "The Killers"
+      },
+      {
+        "q": "What country is the band AC/DC from?",
+        "a": "Australia"
+      },
+      {
+        "q": "Which singer released the album 'Future Nostalgia' in 2020?",
+        "a": "Dua Lipa"
+      },
+      {
+        "q": "What rapper's real name is Calvin Broadus?",
+        "a": "Snoop Dogg"
+      },
+      {
+        "q": "Which band sang 'Sweet Child O' Mine'?",
+        "a": "Guns N' Roses"
+      },
+      {
+        "q": "Which K-pop girl group released 'How You Like That'?",
+        "a": "Blackpink"
+      },
+      {
+        "q": "Which singer released 'Shake It Off'?",
+        "a": "Taylor Swift"
+      },
+      {
+        "q": "Which band released 'Yellow' and 'Viva la Vida'?",
+        "a": "Coldplay"
+      },
+      {
+        "q": "Which singer released the album 'Sour' in 2021?",
+        "a": "Olivia Rodrigo"
+      },
+      {
+        "q": "What famous music festival takes place in the California desert each April?",
+        "a": "Coachella"
+      },
+      {
+        "q": "Which artist released 'Somebody That I Used to Know' in 2011?",
+        "a": "Gotye"
+      },
+      {
+        "q": "What Colombian singer released 'Hips Don't Lie'?",
+        "a": "Shakira"
+      },
+      {
+        "q": "What Puerto Rican artist released the album 'Un Verano Sin Ti'?",
+        "a": "Bad Bunny"
+      },
+      {
+        "q": "Which band did Dave Grohl form after Nirvana?",
+        "a": "Foo Fighters"
+      },
+      {
+        "q": "Which band released 'Radioactive' in 2012?",
+        "a": "Imagine Dragons"
+      },
+      {
+        "q": "Which band sang 'Don't Stop Believin''?",
+        "a": "Journey"
+      },
+      {
+        "q": "Which singer's album 'Renaissance' came out in 2022?",
+        "a": "Beyoncé"
+      },
+      {
+        "q": "What Canadian singer released 'Call Me Maybe'?",
+        "a": "Carly Rae Jepsen"
+      },
+      {
+        "q": "Which group performed 'Wannabe' in 1996?",
+        "a": "Spice Girls"
+      },
+      {
+        "q": "Which band released 'Sugar' and 'Moves Like Jagger'?",
+        "a": "Maroon 5"
+      },
+      {
+        "q": "Which artist released 'Old Town Road'?",
+        "a": "Lil Nas X"
+      },
+      {
+        "q": "Which singer released 'Flowers' in 2023?",
+        "a": "Miley Cyrus"
+      },
+      {
+        "q": "What British band released the album 'The Wall'?",
+        "a": "Pink Floyd"
+      },
+      {
+        "q": "Which singer released 'Firework' and 'Roar'?",
+        "a": "Katy Perry"
+      },
+      {
+        "q": "Which singer released 'Watermelon Sugar'?",
+        "a": "Harry Styles"
+      },
+      {
+        "q": "Which duo released 'Get Lucky' in 2013?",
+        "a": "Daft Punk"
+      },
+      {
+        "q": "What singer is known as the 'Material Girl'?",
+        "a": "Madonna"
+      }
+    ],
+    "400": [
+      {
+        "q": "Which Beatles album features the song 'Come Together'?",
+        "a": "Abbey Road"
+      },
+      {
+        "q": "Which rock band's albums include 'Nevermind' and 'In Utero'?",
+        "a": "Nirvana"
+      },
+      {
+        "q": "Which band's original drummer was Pete Best?",
+        "a": "The Beatles"
+      },
+      {
+        "q": "In what US city did grunge music emerge in the early 1990s?",
+        "a": "Seattle"
+      },
+      {
+        "q": "Which rapper released 'To Pimp a Butterfly'?",
+        "a": "Kendrick Lamar"
+      },
+      {
+        "q": "What was the name of Prince's backing band in the 1980s?",
+        "a": "The Revolution"
+      },
+      {
+        "q": "What is Elton John's birth name?",
+        "a": "Reginald Dwight"
+      },
+      {
+        "q": "Which band did Phil Collins drum for before his solo career?",
+        "a": "Genesis"
+      },
+      {
+        "q": "Which music streaming service was founded in Sweden in 2006?",
+        "a": "Spotify"
+      },
+      {
+        "q": "Who was the lead singer of Soundgarden and Audioslave?",
+        "a": "Chris Cornell"
+      },
+      {
+        "q": "Which Fleetwood Mac album includes 'Go Your Own Way'?",
+        "a": "Rumours"
+      },
+      {
+        "q": "Which composer wrote the 'Brandenburg Concertos'?",
+        "a": "Bach"
+      },
+      {
+        "q": "What Michael Jackson album features 'Smooth Criminal'?",
+        "a": "Bad"
+      },
+      {
+        "q": "What was Amy Winehouse's second and final studio album?",
+        "a": "Back to Black"
+      },
+      {
+        "q": "Which band's members include Flea and Anthony Kiedis?",
+        "a": "Red Hot Chili Peppers"
+      },
+      {
+        "q": "Which rapper released 'Astroworld' in 2018?",
+        "a": "Travis Scott"
+      },
+      {
+        "q": "What instrument has strings and is played with a bow, sitting between violin and cello in size?",
+        "a": "Viola"
+      },
+      {
+        "q": "Which metal band released 'Enter Sandman'?",
+        "a": "Metallica"
+      },
+      {
+        "q": "Which artist headlined the 2023 Super Bowl halftime show?",
+        "a": "Rihanna"
+      },
+      {
+        "q": "What was Taylor Swift's first fully pop album, released in 2014?",
+        "a": "1989"
+      },
+      {
+        "q": "Which band's albums include 'OK Computer' and 'Kid A'?",
+        "a": "Radiohead"
+      },
+      {
+        "q": "Which singer released the album 'Purpose' in 2015?",
+        "a": "Justin Bieber"
+      },
+      {
+        "q": "What rapper released 'The Chronic' in 1992?",
+        "a": "Dr. Dre"
+      },
+      {
+        "q": "Which singer is backed by the E Street Band?",
+        "a": "Bruce Springsteen"
+      },
+      {
+        "q": "Who composed the opera 'Carmen'?",
+        "a": "Georges Bizet"
+      },
+      {
+        "q": "Which Irish singer released 'Nothing Compares 2 U' in 1990?",
+        "a": "Sinéad O'Connor"
+      },
+      {
+        "q": "Which grunge band is fronted by Eddie Vedder?",
+        "a": "Pearl Jam"
+      },
+      {
+        "q": "Which rock band released 'Whole Lotta Love' in 1969?",
+        "a": "Led Zeppelin"
+      },
+      {
+        "q": "Which singer released the album 'Happier Than Ever' in 2021?",
+        "a": "Billie Eilish"
+      },
+      {
+        "q": "Which rapper released the album 'Recovery' in 2010?",
+        "a": "Eminem"
+      },
+      {
+        "q": "What Elvis Presley home in Memphis is now a museum?",
+        "a": "Graceland"
+      },
+      {
+        "q": "Which singer's hits include 'Poker Face' and 'Shallow'?",
+        "a": "Lady Gaga"
+      },
+      {
+        "q": "Which MTV ceremony hands out the Moon Person trophy?",
+        "a": "Video Music Awards"
+      },
+      {
+        "q": "Which Italian tenor sang 'Nessun dorma' at the 1990 World Cup?",
+        "a": "Luciano Pavarotti"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which 1965 John Coltrane album is a four-part spiritual suite?",
+        "a": "A Love Supreme"
+      },
+      {
+        "q": "Which French composer wrote 'Clair de Lune'?",
+        "a": "Debussy"
+      },
+      {
+        "q": "Which Fleetwood Mac member wrote and sang 'Dreams'?",
+        "a": "Stevie Nicks"
+      },
+      {
+        "q": "What was the name of the 1969 Rolling Stones concert marred by a fatal stabbing?",
+        "a": "Altamont"
+      },
+      {
+        "q": "What was David Bowie's final album, released two days before his death in 2016?",
+        "a": "Blackstar"
+      },
+      {
+        "q": "Which Welsh singer performed the 'Goldfinger' Bond theme?",
+        "a": "Shirley Bassey"
+      },
+      {
+        "q": "Which Nirvana album features 'Heart-Shaped Box'?",
+        "a": "In Utero"
+      },
+      {
+        "q": "What number is Beethoven's 'Eroica' symphony?",
+        "a": "3"
+      },
+      {
+        "q": "What is the nickname of Schubert's Symphony No. 8, which has only two completed movements?",
+        "a": "Unfinished"
+      },
+      {
+        "q": "Which Kanye West album was recorded largely in Hawaii and features 'Runaway'?",
+        "a": "My Beautiful Dark Twisted Fantasy"
+      },
+      {
+        "q": "Which 1971 Marvin Gaye album includes 'Mercy Mercy Me'?",
+        "a": "What's Going On"
+      },
+      {
+        "q": "Which composer wrote the ballet 'Romeo and Juliet' in the 1930s?",
+        "a": "Prokofiev"
+      },
+      {
+        "q": "Which Beach Boys album features 'God Only Knows'?",
+        "a": "Pet Sounds"
+      },
+      {
+        "q": "Which composer's 'Symphony No. 9' is nicknamed 'From the New World'?",
+        "a": "Dvořák"
+      },
+      {
+        "q": "In music, what interval is seven semitones wide?",
+        "a": "Perfect fifth"
+      },
+      {
+        "q": "Which Radiohead song opens 'OK Computer'?",
+        "a": "Airbag"
+      },
+      {
+        "q": "Which Kendrick Lamar album won the Pulitzer Prize for Music?",
+        "a": "DAMN."
+      },
+      {
+        "q": "Which Bob Dylan album opens with 'Like a Rolling Stone'?",
+        "a": "Highway 61 Revisited"
+      },
+      {
+        "q": "What is the name of Frank Ocean's 2016 album released a day after 'Endless'?",
+        "a": "Blonde"
+      },
+      {
+        "q": "Which Stevie Wonder double album from 1976 features 'Sir Duke' and 'Isn't She Lovely'?",
+        "a": "Songs in the Key of Life"
+      },
+      {
+        "q": "Which jazz pianist recorded 'The Köln Concert' in 1975?",
+        "a": "Keith Jarrett"
+      },
+      {
+        "q": "Which Mozart opera features the servant Leporello?",
+        "a": "Don Giovanni"
+      },
+      {
+        "q": "Which producer created the 'Wall of Sound' recording technique?",
+        "a": "Phil Spector"
+      },
+      {
+        "q": "Which Led Zeppelin song opens 'Physical Graffiti'?",
+        "a": "Custard Pie"
+      },
+      {
+        "q": "Which Italian composer wrote 'La Traviata' and 'Aida'?",
+        "a": "Verdi"
+      },
+      {
+        "q": "In which key is Beethoven's Fifth Symphony written?",
+        "a": "C minor"
+      },
+      {
+        "q": "Which 1968 Johnny Cash live album was recorded in front of inmates in California?",
+        "a": "At Folsom Prison"
+      },
+      {
+        "q": "How many strings does a standard concert harp have?",
+        "a": "47"
+      },
+      {
+        "q": "What is the lowest-pitched standard orchestral string instrument?",
+        "a": "Double bass"
+      },
+      {
+        "q": "Which Björk album from 1997 features 'Jóga' and 'Bachelorette'?",
+        "a": "Homogenic"
+      },
+      {
+        "q": "Which jazz singer was nicknamed 'Lady Day'?",
+        "a": "Billie Holiday"
+      }
+    ]
+  },
+  "movies": {
+    "200": [
+      {
+        "q": "In 'Finding Nemo', what kind of fish is Nemo?",
+        "a": "Clownfish"
+      },
+      {
+        "q": "What is the name of the princess in 'Tangled'?",
+        "a": "Rapunzel"
+      },
+      {
+        "q": "In which city is 'Home Alone' mostly set?",
+        "a": "Chicago"
+      },
+      {
+        "q": "What is the name of the ring-obsessed creature in 'The Lord of the Rings'?",
+        "a": "Gollum"
+      },
+      {
+        "q": "What dinosaur is the main predator in the first 'Jurassic Park'?",
+        "a": "T. rex"
+      },
+      {
+        "q": "In 'The Wizard of Oz', what is Dorothy's dog called?",
+        "a": "Toto"
+      },
+      {
+        "q": "What color pill does Neo take in 'The Matrix'?",
+        "a": "Red"
+      },
+      {
+        "q": "What is the name of the lion in 'The Chronicles of Narnia'?",
+        "a": "Aslan"
+      },
+      {
+        "q": "In 'Cars', what is the name of the red race car?",
+        "a": "Lightning McQueen"
+      },
+      {
+        "q": "In which US city is 'Rocky' set?",
+        "a": "Philadelphia"
+      },
+      {
+        "q": "What is the name of the hotel in 'Home Alone 2'?",
+        "a": "The Plaza"
+      },
+      {
+        "q": "Which 1985 film features a DeLorean time machine?",
+        "a": "Back to the Future"
+      },
+      {
+        "q": "In 'Kung Fu Panda', what is the panda's name?",
+        "a": "Po"
+      },
+      {
+        "q": "What is the name of the fictional African country in 'Black Panther'?",
+        "a": "Wakanda"
+      },
+      {
+        "q": "Which film features the Ghostface killer?",
+        "a": "Scream"
+      },
+      {
+        "q": "What is the name of the boy in 'How to Train Your Dragon'?",
+        "a": "Hiccup"
+      },
+      {
+        "q": "In 'Titanic', what is the name of the necklace?",
+        "a": "Heart of the Ocean"
+      },
+      {
+        "q": "What is the name of the villain in 'The Lion King'?",
+        "a": "Scar"
+      },
+      {
+        "q": "In 'Zootopia', what animal is Judy Hopps?",
+        "a": "Rabbit"
+      },
+      {
+        "q": "What is the name of the shark-hunting boat in 'Jaws'?",
+        "a": "Orca"
+      },
+      {
+        "q": "In 'Ratatouille', what is the name of the rat?",
+        "a": "Remy"
+      },
+      {
+        "q": "What is the name of the green ogre's wife in 'Shrek'?",
+        "a": "Fiona"
+      },
+      {
+        "q": "What is the name of the fairy in 'Peter Pan'?",
+        "a": "Tinker Bell"
+      },
+      {
+        "q": "What is the name of the villain in 'Aladdin'?",
+        "a": "Jafar"
+      },
+      {
+        "q": "In 'Madagascar', what animal is Alex?",
+        "a": "Lion"
+      },
+      {
+        "q": "In 'Monsters, Inc.', what is the little girl called?",
+        "a": "Boo"
+      },
+      {
+        "q": "In 'Moana', what is the name of the demigod?",
+        "a": "Maui"
+      },
+      {
+        "q": "What kind of animal is Sid in 'Ice Age'?",
+        "a": "Sloth"
+      },
+      {
+        "q": "What is the name of the bear in 'The Jungle Book'?",
+        "a": "Baloo"
+      },
+      {
+        "q": "In which 1995 film does a jungle board game come to life?",
+        "a": "Jumanji"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of the fictional metal that makes up Wolverine's claws?",
+        "a": "Adamantium"
+      },
+      {
+        "q": "Which 2017 film won Best Picture after 'La La Land' was mistakenly announced?",
+        "a": "Moonlight"
+      },
+      {
+        "q": "In 'Inception', what is the object each dreamer uses to check reality called?",
+        "a": "Totem"
+      },
+      {
+        "q": "What is the name of the family-run roadside lodging in 'Psycho'?",
+        "a": "Bates Motel"
+      },
+      {
+        "q": "What is the name of the boat in 'Life of Pi'?",
+        "a": "Tsimtsum"
+      },
+      {
+        "q": "In 'The Shawshank Redemption', what poster hides Andy's tunnel?",
+        "a": "Rita Hayworth"
+      },
+      {
+        "q": "In 'Pulp Fiction', what is the name of Marsellus Wallace's wife?",
+        "a": "Mia"
+      },
+      {
+        "q": "What year is the future set in 'Back to the Future Part II'?",
+        "a": "2015"
+      },
+      {
+        "q": "Which film's tagline was 'In space no one can hear you scream'?",
+        "a": "Alien"
+      },
+      {
+        "q": "What is the name of the ship in 'Pirates of the Caribbean' captained by Jack Sparrow?",
+        "a": "Black Pearl"
+      },
+      {
+        "q": "Which Pixar film personifies the emotions of a girl named Riley?",
+        "a": "Inside Out"
+      },
+      {
+        "q": "In 'The Godfather', what animal's head is left in a bed?",
+        "a": "Horse"
+      },
+      {
+        "q": "In 'Top Gun', what is the call sign of Maverick's rival?",
+        "a": "Iceman"
+      },
+      {
+        "q": "Which 2014 Nolan film involves a journey through a wormhole near Saturn?",
+        "a": "Interstellar"
+      },
+      {
+        "q": "Which 1994 film features a bus that will explode if it drops below 50 mph?",
+        "a": "Speed"
+      },
+      {
+        "q": "What is the name of the AI operating system in 'Her'?",
+        "a": "Samantha"
+      },
+      {
+        "q": "Which 2010 film dramatizes the founding of Facebook?",
+        "a": "The Social Network"
+      },
+      {
+        "q": "In 'The Truman Show', what is the name of the TV town?",
+        "a": "Seahaven"
+      },
+      {
+        "q": "Which Best Picture winner is about a mute woman and an amphibian creature?",
+        "a": "The Shape of Water"
+      },
+      {
+        "q": "What is the name of the tiger in 'Life of Pi'?",
+        "a": "Richard Parker"
+      },
+      {
+        "q": "Which 2000 film features the line 'Are you not entertained?'?",
+        "a": "Gladiator"
+      },
+      {
+        "q": "What is the name of the fictional company in 'Jurassic Park'?",
+        "a": "InGen"
+      },
+      {
+        "q": "What is the name of the clown in Stephen King's 'It'?",
+        "a": "Pennywise"
+      },
+      {
+        "q": "Which 2008 Best Picture winner follows a Mumbai teen competing on a TV quiz show?",
+        "a": "Slumdog Millionaire"
+      },
+      {
+        "q": "What is the name of the fight club founder's alter ego in 'Fight Club'?",
+        "a": "Tyler Durden"
+      },
+      {
+        "q": "Which 1987 film features the line 'Nobody puts Baby in a corner'?",
+        "a": "Dirty Dancing"
+      },
+      {
+        "q": "In 'Forrest Gump', what is the name of Forrest's childhood sweetheart?",
+        "a": "Jenny"
+      },
+      {
+        "q": "Which Tarantino film is split into chapters and features the Bride?",
+        "a": "Kill Bill"
+      },
+      {
+        "q": "Which 2013 film follows an astronaut stranded in orbit after debris destroys her shuttle?",
+        "a": "Gravity"
+      },
+      {
+        "q": "What is the name of the fictional town where 'Jaws' is set?",
+        "a": "Amity Island"
+      },
+      {
+        "q": "Which 'Fast & Furious' film is set in Japan?",
+        "a": "Tokyo Drift"
+      },
+      {
+        "q": "Which 2022 film features the tune 'Naatu Naatu' that won an Oscar?",
+        "a": "RRR"
+      },
+      {
+        "q": "In 'Cast Away', what brand name is given to the volleyball companion?",
+        "a": "Wilson"
+      },
+      {
+        "q": "What is the name of the villain in 'Die Hard'?",
+        "a": "Hans Gruber"
+      },
+      {
+        "q": "Which Wes Anderson film features Max Fischer at a private school?",
+        "a": "Rushmore"
+      },
+      {
+        "q": "Which 2004 film features a memory-erasing procedure to forget an ex?",
+        "a": "Eternal Sunshine of the Spotless Mind"
+      },
+      {
+        "q": "Which 2012 Bond film is named after 007's childhood home?",
+        "a": "Skyfall"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which Kurosawa film was remade as a 1960 Western about gunfighters hired to protect a village?",
+        "a": "Seven Samurai"
+      },
+      {
+        "q": "Which 1927 Fritz Lang film features a robot named Maria?",
+        "a": "Metropolis"
+      },
+      {
+        "q": "Which 1950 film by Kurosawa tells one crime from four perspectives?",
+        "a": "Rashomon"
+      },
+      {
+        "q": "Which 1969 film is the only X-rated movie to win Best Picture?",
+        "a": "Midnight Cowboy"
+      },
+      {
+        "q": "What is the name of the fictional newspaper in 'Citizen Kane'?",
+        "a": "The Inquirer"
+      },
+      {
+        "q": "Which 1998 Terrence Malick war film is set on Guadalcanal?",
+        "a": "The Thin Red Line"
+      },
+      {
+        "q": "Which Ingmar Bergman film features a knight playing chess with Death?",
+        "a": "The Seventh Seal"
+      },
+      {
+        "q": "Which director made 'Stalker' and 'Solaris'?",
+        "a": "Andrei Tarkovsky"
+      },
+      {
+        "q": "Which 1962 David Lean epic is set in the Arabian desert during World War I?",
+        "a": "Lawrence of Arabia"
+      },
+      {
+        "q": "Which Alfred Hitchcock film was shot to appear as one continuous take?",
+        "a": "Rope"
+      },
+      {
+        "q": "Which Wong Kar-wai film follows two neighbors in 1960s Hong Kong?",
+        "a": "In the Mood for Love"
+      },
+      {
+        "q": "Which 1974 film directed by Roman Polanski features water rights in Los Angeles?",
+        "a": "Chinatown"
+      },
+      {
+        "q": "Which 2013 Best Picture winner was directed by Steve McQueen?",
+        "a": "12 Years a Slave"
+      },
+      {
+        "q": "What is the name of the tribe featured in 'Dances with Wolves'?",
+        "a": "Lakota Sioux"
+      },
+      {
+        "q": "Which composer scored 'The Good, the Bad and the Ugly'?",
+        "a": "Ennio Morricone"
+      },
+      {
+        "q": "Which Vittorio De Sica film follows a father and son searching for a stolen bike?",
+        "a": "Bicycle Thieves"
+      },
+      {
+        "q": "Which Coen brothers film features the hitman Anton Chigurh?",
+        "a": "No Country for Old Men"
+      },
+      {
+        "q": "Which studio's logo features a boy fishing from a crescent moon?",
+        "a": "DreamWorks"
+      },
+      {
+        "q": "Which David Lean epic follows a physician-poet through the Russian Revolution?",
+        "a": "Doctor Zhivago"
+      },
+      {
+        "q": "Which 1989 Spike Lee film takes place on one hot day in Brooklyn?",
+        "a": "Do the Right Thing"
+      },
+      {
+        "q": "What is the name of the fictional planet in 'Dune' that produces spice?",
+        "a": "Arrakis"
+      },
+      {
+        "q": "Which 2000 Mexican film by Alejandro González Iñárritu interweaves three stories around a car crash?",
+        "a": "Amores Perros"
+      },
+      {
+        "q": "Which 1980 Scorsese film follows boxer Jake LaMotta?",
+        "a": "Raging Bull"
+      },
+      {
+        "q": "Which Japanese director made 'Tokyo Story'?",
+        "a": "Yasujirō Ozu"
+      },
+      {
+        "q": "Which Guillermo del Toro film is set in 1944 Spain and features a faun?",
+        "a": "Pan's Labyrinth"
+      },
+      {
+        "q": "Which film won the first Best Animated Feature Oscar in 2002?",
+        "a": "Shrek"
+      },
+      {
+        "q": "Which Kubrick film follows an 18th-century Irish rogue?",
+        "a": "Barry Lyndon"
+      },
+      {
+        "q": "Which 1931 Fritz Lang thriller follows a child murderer hunted through Berlin?",
+        "a": "M"
+      },
+      {
+        "q": "Which 2022 Best Picture winner featured a deaf family and a singing daughter?",
+        "a": "CODA"
+      },
+      {
+        "q": "Which Miyazaki film features a giant forest spirit and two sisters?",
+        "a": "My Neighbor Totoro"
+      },
+      {
+        "q": "Which Denis Villeneuve film involves linguists decoding an alien language?",
+        "a": "Arrival"
+      },
+      {
+        "q": "Which film's score by Vangelis features a synth theme over runners on a beach?",
+        "a": "Chariots of Fire"
+      },
+      {
+        "q": "What is the name of the fictional drug in 'Limitless'?",
+        "a": "NZT-48"
+      },
+      {
+        "q": "Which Park Chan-wook film features a man imprisoned for 15 years without explanation?",
+        "a": "Oldboy"
+      }
+    ]
+  },
+  "pop_culture": {
+    "200": [
+      {
+        "q": "What Netflix series features deadly children's games played for a cash prize in Korea?",
+        "a": "Squid Game"
+      },
+      {
+        "q": "Which reality TV family includes Kylie and Kendall Jenner?",
+        "a": "The Kardashians"
+      },
+      {
+        "q": "Which HBO fantasy series features the Iron Throne?",
+        "a": "Game of Thrones"
+      },
+      {
+        "q": "Which YouTuber recreated 'Squid Game' in real life with a $456,000 prize?",
+        "a": "MrBeast"
+      },
+      {
+        "q": "Which superhero's motto is 'With great power comes great responsibility'?",
+        "a": "Spider-Man"
+      },
+      {
+        "q": "Which sitcom features the Central Perk coffee shop?",
+        "a": "Friends"
+      },
+      {
+        "q": "Which streaming service made 'The Mandalorian'?",
+        "a": "Disney+"
+      },
+      {
+        "q": "Which animated sitcom is set in the town of Springfield?",
+        "a": "The Simpsons"
+      },
+      {
+        "q": "Which game show requires answers to be phrased as a question?",
+        "a": "Jeopardy!"
+      },
+      {
+        "q": "Which musician married Kim Kardashian in 2014?",
+        "a": "Kanye West"
+      },
+      {
+        "q": "Which rapper headlined the 2025 Super Bowl halftime show?",
+        "a": "Kendrick Lamar"
+      },
+      {
+        "q": "What is the name of the talking dog in 'Family Guy'?",
+        "a": "Brian"
+      },
+      {
+        "q": "Which TV show features a chemistry teacher named Walter White?",
+        "a": "Breaking Bad"
+      },
+      {
+        "q": "Which royal couple stepped back from senior royal duties in 2020?",
+        "a": "Harry and Meghan"
+      },
+      {
+        "q": "Which rapper is nicknamed 'Champagne Papi'?",
+        "a": "Drake"
+      },
+      {
+        "q": "Which sitcom is set at the Scranton branch of a paper company?",
+        "a": "The Office"
+      },
+      {
+        "q": "Which HBO show centers on the Roy family's media empire?",
+        "a": "Succession"
+      },
+      {
+        "q": "Which TV chef is famous for shouting 'It's raw!'?",
+        "a": "Gordon Ramsay"
+      },
+      {
+        "q": "Which Netflix hit is set in Hawkins, Indiana?",
+        "a": "Stranger Things"
+      },
+      {
+        "q": "Which actor is married to Blake Lively?",
+        "a": "Ryan Reynolds"
+      },
+      {
+        "q": "Which Puerto Rican artist was Spotify's most-streamed artist in 2020, 2021 and 2022?",
+        "a": "Bad Bunny"
+      },
+      {
+        "q": "Which fast-food chain's mascot is a red-haired girl with pigtails?",
+        "a": "Wendy's"
+      },
+      {
+        "q": "Which reality show has contestants say 'You're fired'?",
+        "a": "The Apprentice"
+      },
+      {
+        "q": "Which quiz show offers lifelines such as 'phone a friend'?",
+        "a": "Who Wants to Be a Millionaire"
+      }
+    ],
+    "400": [
+      {
+        "q": "Which singer titles her albums after her age, including 19, 21, 25 and 30?",
+        "a": "Adele"
+      },
+      {
+        "q": "Which reality show locks housemates in a house under constant camera surveillance?",
+        "a": "Big Brother"
+      },
+      {
+        "q": "Which HBO show is set at fictional luxury resorts in Hawaii and Sicily?",
+        "a": "The White Lotus"
+      },
+      {
+        "q": "Which video game was adapted into a 2023 HBO show about a fungal pandemic?",
+        "a": "The Last of Us"
+      },
+      {
+        "q": "Who hosts the podcast 'Call Her Daddy'?",
+        "a": "Alex Cooper"
+      },
+      {
+        "q": "Which 2024 diss track by Kendrick Lamar targeted Drake and won Record of the Year?",
+        "a": "Not Like Us"
+      },
+      {
+        "q": "Which billionaire bought Twitter in 2022?",
+        "a": "Elon Musk"
+      },
+      {
+        "q": "Which Netflix regency-era drama is based on Julia Quinn's novels?",
+        "a": "Bridgerton"
+      },
+      {
+        "q": "Which fashion brand's logo is two interlocking C's?",
+        "a": "Chanel"
+      },
+      {
+        "q": "Which singer released the albums 'Folklore' and 'Evermore' in 2020?",
+        "a": "Taylor Swift"
+      },
+      {
+        "q": "Who replaced Jay Leno as host of 'The Tonight Show' in 2014?",
+        "a": "Jimmy Fallon"
+      },
+      {
+        "q": "What is the name of Rihanna's lingerie brand?",
+        "a": "Savage X Fenty"
+      },
+      {
+        "q": "Which Netflix show caused chess set sales to surge in 2020?",
+        "a": "The Queen's Gambit"
+      },
+      {
+        "q": "Which comedian hosted the Golden Globes in 2024?",
+        "a": "Jo Koy"
+      },
+      {
+        "q": "Which series follows the Dutton family ranch in Montana?",
+        "a": "Yellowstone"
+      },
+      {
+        "q": "Which singer's fans are called 'Little Monsters'?",
+        "a": "Lady Gaga"
+      },
+      {
+        "q": "Which app introduced disappearing 'Stories' before Instagram copied the feature?",
+        "a": "Snapchat"
+      },
+      {
+        "q": "Which YouTuber fought KSI in a 2018 boxing match?",
+        "a": "Logan Paul"
+      },
+      {
+        "q": "Which podcast host signed a reported $200 million Spotify deal in 2020?",
+        "a": "Joe Rogan"
+      },
+      {
+        "q": "What is the real name of the 'Star Wars' creature nicknamed 'Baby Yoda'?",
+        "a": "Grogu"
+      },
+      {
+        "q": "Which 2016 mobile game sent players outdoors to catch creatures?",
+        "a": "Pokémon Go"
+      },
+      {
+        "q": "Which British king was crowned in May 2023?",
+        "a": "Charles III"
+      },
+      {
+        "q": "Which 2017 luxury-island music event turned into a notorious fraud and spawned rival documentaries?",
+        "a": "Fyre Festival"
+      },
+      {
+        "q": "What is the name of Elon Musk's AI chatbot?",
+        "a": "Grok"
+      },
+      {
+        "q": "Which singer's 'Renaissance' concert film hit cinemas in December 2023?",
+        "a": "Beyoncé"
+      },
+      {
+        "q": "Which Netflix series features a severed-hand sidekick named Thing?",
+        "a": "Wednesday"
+      },
+      {
+        "q": "Which singer released the 2024 album 'Short n' Sweet'?",
+        "a": "Sabrina Carpenter"
+      },
+      {
+        "q": "Which late-night host's 'Carpool Karaoke' segment became a viral hit?",
+        "a": "James Corden"
+      },
+      {
+        "q": "Which K-pop girl group includes Lisa, Jennie, Rosé, and Jisoo?",
+        "a": "Blackpink"
+      },
+      {
+        "q": "Which streaming platform produced 'Ted Lasso'?",
+        "a": "Apple TV+"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which 2016 viral trend involved groups freezing in place while a camera moved around them?",
+        "a": "Mannequin Challenge"
+      },
+      {
+        "q": "What was the title of the first video ever uploaded to YouTube?",
+        "a": "Me at the zoo"
+      },
+      {
+        "q": "Which reality star launched the 'Lip Kit' cosmetics line in 2015?",
+        "a": "Kylie Jenner"
+      },
+      {
+        "q": "On which day of the year does the Met Gala take place?",
+        "a": "First Monday in May"
+      },
+      {
+        "q": "Which K-pop song was the first by a Korean act to top the Billboard Hot 100?",
+        "a": "Dynamite"
+      },
+      {
+        "q": "Which YouTuber was the first individual to reach 100 million subscribers?",
+        "a": "PewDiePie"
+      },
+      {
+        "q": "Which dating show has singles get engaged before ever seeing each other?",
+        "a": "Love Is Blind"
+      },
+      {
+        "q": "Which comedian was slapped on stage at the 2022 Oscars?",
+        "a": "Chris Rock"
+      },
+      {
+        "q": "A 2018 viral audio clip divided listeners between hearing 'Yanny' and which other word?",
+        "a": "Laurel"
+      },
+      {
+        "q": "Which 2012 music video was the first to reach one billion YouTube views?",
+        "a": "Gangnam Style"
+      },
+      {
+        "q": "Which network aired 'Jersey Shore'?",
+        "a": "MTV"
+      },
+      {
+        "q": "Which rapper coined the phrase 'Hot Girl Summer' in 2019?",
+        "a": "Megan Thee Stallion"
+      },
+      {
+        "q": "Which company created the Tamagotchi virtual pet?",
+        "a": "Bandai"
+      },
+      {
+        "q": "Which artist's banana duct-taped to a wall sold for $120,000 in 2019?",
+        "a": "Maurizio Cattelan"
+      },
+      {
+        "q": "Which Spanish duo recorded the 1990s dance hit 'Macarena'?",
+        "a": "Los del Río"
+      },
+      {
+        "q": "Which 2020 Netflix docuseries followed a big-cat zoo owner feuding with Carole Baskin?",
+        "a": "Tiger King"
+      },
+      {
+        "q": "Which celebrity was the first Instagram account to reach 100 million followers?",
+        "a": "Selena Gomez"
+      },
+      {
+        "q": "Which magazine ran a 1991 cover of a nude, pregnant Demi Moore?",
+        "a": "Vanity Fair"
+      },
+      {
+        "q": "Which YouTuber launched the 'Feastables' chocolate brand?",
+        "a": "MrBeast"
+      },
+      {
+        "q": "Which 2022 film won seven Oscars including Best Picture for a multiverse laundromat story?",
+        "a": "Everything Everywhere All at Once"
+      },
+      {
+        "q": "Which magazine publishes the annual 'Sexiest Man Alive' issue?",
+        "a": "People"
+      },
+      {
+        "q": "Which Texas lawyer's 'I'm not a cat' Zoom filter mishap went viral in 2021?",
+        "a": "Rod Ponton"
+      },
+      {
+        "q": "Which luxury brand's 2022 photo of Messi and Ronaldo playing chess went viral?",
+        "a": "Louis Vuitton"
+      },
+      {
+        "q": "Which reality show's 'Villa' features 'recoupling' ceremonies?",
+        "a": "Love Island"
+      },
+      {
+        "q": "Which 2011 novel began as 'Twilight' fan fiction titled 'Master of the Universe'?",
+        "a": "Fifty Shades of Grey"
+      },
+      {
+        "q": "Which text-based app did Meta launch in 2023 as a Twitter rival?",
+        "a": "Threads"
+      }
+    ]
+  },
+  "technology": {
+    "200": [
+      {
+        "q": "What device from your internet provider converts the incoming line signal for your home network?",
+        "a": "Modem"
+      },
+      {
+        "q": "Which company's headquarters is a ring-shaped campus in Cupertino?",
+        "a": "Apple"
+      },
+      {
+        "q": "What is the name of Tesla's stainless-steel pickup truck?",
+        "a": "Cybertruck"
+      },
+      {
+        "q": "What does the '@' symbol separate in an email address?",
+        "a": "Username and domain"
+      },
+      {
+        "q": "What does the 'S' in 'HTTPS' stand for?",
+        "a": "Secure"
+      },
+      {
+        "q": "What is the name of the search engine owned by Microsoft?",
+        "a": "Bing"
+      },
+      {
+        "q": "What common file format is used for compressed music?",
+        "a": "MP3"
+      },
+      {
+        "q": "What does 'Ctrl+Z' typically do on a computer?",
+        "a": "Undo"
+      },
+      {
+        "q": "Which company owns WhatsApp?",
+        "a": "Meta"
+      },
+      {
+        "q": "Which Chinese company makes the Mate and P-series phones?",
+        "a": "Huawei"
+      },
+      {
+        "q": "What is a computer's short-term working memory called?",
+        "a": "RAM"
+      },
+      {
+        "q": "What does 'SMS' stand for?",
+        "a": "Short Message Service"
+      },
+      {
+        "q": "What is the name of Microsoft's cloud storage service?",
+        "a": "OneDrive"
+      },
+      {
+        "q": "What does 'CAPTCHA' test whether you are?",
+        "a": "Human"
+      },
+      {
+        "q": "What is the name of the app used to video call on iPhones?",
+        "a": "FaceTime"
+      },
+      {
+        "q": "What does the 'O' in OLED screens stand for?",
+        "a": "Organic"
+      },
+      {
+        "q": "What does 'TB' stand for in storage?",
+        "a": "Terabyte"
+      },
+      {
+        "q": "What oval-shaped connector is used to charge most modern phones and laptops?",
+        "a": "USB-C"
+      },
+      {
+        "q": "What does 'GIF' stand for?",
+        "a": "Graphics Interchange Format"
+      },
+      {
+        "q": "What is the name of the small text files websites store on your browser?",
+        "a": "Cookies"
+      }
+    ],
+    "400": [
+      {
+        "q": "What year was YouTube founded?",
+        "a": "2005"
+      },
+      {
+        "q": "What is the name of the first web browser to popularize the internet in 1993?",
+        "a": "Mosaic"
+      },
+      {
+        "q": "What does 'CRT' stand for in old monitors?",
+        "a": "Cathode Ray Tube"
+      },
+      {
+        "q": "What company developed the Java programming language?",
+        "a": "Sun Microsystems"
+      },
+      {
+        "q": "What is the name of the AI assistant developed by Anthropic?",
+        "a": "Claude"
+      },
+      {
+        "q": "What does 'PNG' stand for?",
+        "a": "Portable Network Graphics"
+      },
+      {
+        "q": "What year did Facebook buy Instagram?",
+        "a": "2012"
+      },
+      {
+        "q": "What company created the Ryzen line of processors?",
+        "a": "AMD"
+      },
+      {
+        "q": "What does '5G' refer to in mobile networks?",
+        "a": "Fifth generation"
+      },
+      {
+        "q": "Which company created the Photoshop software?",
+        "a": "Adobe"
+      },
+      {
+        "q": "What does 'CLI' stand for?",
+        "a": "Command Line Interface"
+      },
+      {
+        "q": "What does 'GUI' stand for?",
+        "a": "Graphical User Interface"
+      },
+      {
+        "q": "What does 'SIM' stand for in SIM card?",
+        "a": "Subscriber Identity Module"
+      },
+      {
+        "q": "What does 'DDR' stand for in DDR RAM?",
+        "a": "Double Data Rate"
+      },
+      {
+        "q": "What is the name of the AI image generator by OpenAI?",
+        "a": "DALL-E"
+      },
+      {
+        "q": "What was Google's original name?",
+        "a": "BackRub"
+      },
+      {
+        "q": "What does 'MAC' stand for in MAC address?",
+        "a": "Media Access Control"
+      },
+      {
+        "q": "What does 'CDN' stand for?",
+        "a": "Content Delivery Network"
+      },
+      {
+        "q": "What company makes the Snapdragon mobile chips?",
+        "a": "Qualcomm"
+      },
+      {
+        "q": "Which company acquired GitHub in 2018?",
+        "a": "Microsoft"
+      },
+      {
+        "q": "What does 'BIOS' stand for?",
+        "a": "Basic Input/Output System"
+      },
+      {
+        "q": "What is the name of the encrypted messaging app with a blue speech-bubble logo endorsed by Snowden?",
+        "a": "Signal"
+      },
+      {
+        "q": "What is the name of Microsoft's AI assistant integrated into Windows and Office?",
+        "a": "Copilot"
+      },
+      {
+        "q": "What year was the first iPod released?",
+        "a": "2001"
+      },
+      {
+        "q": "What does 'OCR' stand for?",
+        "a": "Optical Character Recognition"
+      },
+      {
+        "q": "What does 'SaaS' stand for?",
+        "a": "Software as a Service"
+      },
+      {
+        "q": "What company makes the Quest VR headsets?",
+        "a": "Meta"
+      },
+      {
+        "q": "What is the name of the Dutch company that makes the machines used to print advanced chips?",
+        "a": "ASML"
+      },
+      {
+        "q": "What does 'ISP' stand for?",
+        "a": "Internet Service Provider"
+      },
+      {
+        "q": "What does 'QR' stand for in QR code?",
+        "a": "Quick Response"
+      }
+    ],
+    "600": [
+      {
+        "q": "In the Unix world, what does BSD stand for?",
+        "a": "Berkeley Software Distribution"
+      },
+      {
+        "q": "Who is credited as the first computer programmer for her notes on the Analytical Engine?",
+        "a": "Ada Lovelace"
+      },
+      {
+        "q": "What was the name of the first electronic general-purpose computer, completed in 1945?",
+        "a": "ENIAC"
+      },
+      {
+        "q": "What networking project of the US Department of Defense preceded the internet?",
+        "a": "ARPANET"
+      },
+      {
+        "q": "What does 'GNU' stand for?",
+        "a": "GNU's Not Unix"
+      },
+      {
+        "q": "At which research lab were Unix and the C language created?",
+        "a": "Bell Labs"
+      },
+      {
+        "q": "Which programming language, created by Yukihiro Matsumoto, powers the Rails framework?",
+        "a": "Ruby"
+      },
+      {
+        "q": "What is the name of the 2017 ransomware attack that hit the UK NHS?",
+        "a": "WannaCry"
+      },
+      {
+        "q": "What is the name of the computer worm that damaged Iranian nuclear centrifuges?",
+        "a": "Stuxnet"
+      },
+      {
+        "q": "What does 'IEEE' stand for?",
+        "a": "Institute of Electrical and Electronics Engineers"
+      },
+      {
+        "q": "What is the name of the first commercially available smartphone, released by IBM in 1994?",
+        "a": "Simon"
+      },
+      {
+        "q": "What is Rust's package manager called?",
+        "a": "Cargo"
+      },
+      {
+        "q": "Which company developed the Kotlin language?",
+        "a": "JetBrains"
+      },
+      {
+        "q": "Which company created the Go programming language?",
+        "a": "Google"
+      },
+      {
+        "q": "What neural network architecture was introduced in the 2017 paper 'Attention Is All You Need'?",
+        "a": "Transformer"
+      },
+      {
+        "q": "What port number does HTTPS use by default?",
+        "a": "443"
+      },
+      {
+        "q": "What does 'REST' stand for in REST APIs?",
+        "a": "Representational State Transfer"
+      },
+      {
+        "q": "What does 'TPU' stand for in Google's AI chips?",
+        "a": "Tensor Processing Unit"
+      },
+      {
+        "q": "How many bits long is an IPv6 address?",
+        "a": "128"
+      },
+      {
+        "q": "Which company was founded by Jensen Huang in 1993?",
+        "a": "Nvidia"
+      },
+      {
+        "q": "Which company develops the Ubuntu Linux distribution?",
+        "a": "Canonical"
+      },
+      {
+        "q": "What does 'JIT' stand for in compilation?",
+        "a": "Just-In-Time"
+      },
+      {
+        "q": "What is the name of the 2014 OpenSSL bug that leaked server memory?",
+        "a": "Heartbleed"
+      },
+      {
+        "q": "What is the name of the Nvidia parallel computing platform used for GPU programming?",
+        "a": "CUDA"
+      },
+      {
+        "q": "What does 'NVMe' stand for?",
+        "a": "Non-Volatile Memory Express"
+      },
+      {
+        "q": "Which company invented the Ethernet standard in the 1970s?",
+        "a": "Xerox"
+      },
+      {
+        "q": "Who founded the Free Software Foundation?",
+        "a": "Richard Stallman"
+      },
+      {
+        "q": "In the recursive acronym YAML, what word does the M stand for?",
+        "a": "Markup"
+      },
+      {
+        "q": "What is the name of Apple's programming language introduced in 2014?",
+        "a": "Swift"
+      },
+      {
+        "q": "What does 'DRAM' stand for?",
+        "a": "Dynamic Random Access Memory"
+      },
+      {
+        "q": "What does 'SPA' stand for in web development?",
+        "a": "Single Page Application"
+      }
+    ]
+  },
+  "space": {
+    "200": [
+      {
+        "q": "How many moons does Mars have?",
+        "a": "2"
+      },
+      {
+        "q": "What is the name of the largest moon of Jupiter?",
+        "a": "Ganymede"
+      },
+      {
+        "q": "What is the name of Russia's space agency?",
+        "a": "Roscosmos"
+      },
+      {
+        "q": "Which planet has a moon called Titan?",
+        "a": "Saturn"
+      },
+      {
+        "q": "What is the name of NASA's space telescope launched in 1990?",
+        "a": "Hubble"
+      },
+      {
+        "q": "Which planet is named after the Roman god of the sea?",
+        "a": "Neptune"
+      },
+      {
+        "q": "What is the name of the first dog sent into orbit?",
+        "a": "Laika"
+      },
+      {
+        "q": "Which planet is named after the Roman king of the gods?",
+        "a": "Jupiter"
+      },
+      {
+        "q": "How many planets in our solar system have ring systems?",
+        "a": "4"
+      },
+      {
+        "q": "Who was the first human in space?",
+        "a": "Yuri Gagarin"
+      },
+      {
+        "q": "What is the name of the rocket that took Apollo astronauts to the Moon?",
+        "a": "Saturn V"
+      },
+      {
+        "q": "What do we call a rocky object that burns up as it enters Earth's atmosphere?",
+        "a": "Meteor"
+      },
+      {
+        "q": "What is the term for an astronaut's trip outside the spacecraft?",
+        "a": "Spacewalk"
+      },
+      {
+        "q": "What is the term for a planet that orbits a star other than the Sun?",
+        "a": "Exoplanet"
+      },
+      {
+        "q": "What is the name of the SpaceX rocket that landed its boosters back on Earth?",
+        "a": "Falcon 9"
+      },
+      {
+        "q": "How many Earth days does the Moon take to orbit Earth, roughly?",
+        "a": "27"
+      },
+      {
+        "q": "Spirit and which other twin rover landed on Mars in 2004?",
+        "a": "Opportunity"
+      },
+      {
+        "q": "Which star is the brightest in Earth's night sky?",
+        "a": "Sirius"
+      },
+      {
+        "q": "In which US state is the Kennedy Space Center?",
+        "a": "Florida"
+      },
+      {
+        "q": "What is the name of the dwarf planet in the asteroid belt?",
+        "a": "Ceres"
+      },
+      {
+        "q": "Which planet has the shortest year?",
+        "a": "Mercury"
+      },
+      {
+        "q": "What is the name of Elon Musk's giant rocket designed for Mars?",
+        "a": "Starship"
+      },
+      {
+        "q": "Who was the first woman in space?",
+        "a": "Valentina Tereshkova"
+      },
+      {
+        "q": "What is the name of the small icy world with a heart-shaped region photographed in 2015?",
+        "a": "Pluto"
+      },
+      {
+        "q": "Which constellation contains the 'Big Dipper'?",
+        "a": "Ursa Major"
+      },
+      {
+        "q": "How many astronauts flew on each Apollo Moon mission?",
+        "a": "3"
+      },
+      {
+        "q": "In which country is the Baikonur Cosmodrome?",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Which planet is the third largest in the solar system?",
+        "a": "Uranus"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of the Mars rover that landed in 2012 in Gale Crater?",
+        "a": "Curiosity"
+      },
+      {
+        "q": "What is the name of the helicopter that flew on Mars in 2021?",
+        "a": "Ingenuity"
+      },
+      {
+        "q": "What is the name of the first module of the ISS, launched in 1998?",
+        "a": "Zarya"
+      },
+      {
+        "q": "What is the name of the Soviet space station that operated from 1986 to 2001?",
+        "a": "Mir"
+      },
+      {
+        "q": "Saturn's famous hexagonal storm sits at which end of the planet?",
+        "a": "North pole"
+      },
+      {
+        "q": "Which spacecraft landed the Philae probe on a comet in 2014?",
+        "a": "Rosetta"
+      },
+      {
+        "q": "What is the name of the probe that studied Saturn from 2004 to 2017?",
+        "a": "Cassini"
+      },
+      {
+        "q": "How many people have walked on the Moon?",
+        "a": "12"
+      },
+      {
+        "q": "What was the final crewed mission to land on the Moon, in 1972?",
+        "a": "Apollo 17"
+      },
+      {
+        "q": "What is the name of Jupiter's volcanic moon?",
+        "a": "Io"
+      },
+      {
+        "q": "Which planet has the strongest winds in the solar system?",
+        "a": "Neptune"
+      },
+      {
+        "q": "What is the name of NASA's program to return humans to the Moon?",
+        "a": "Artemis"
+      },
+      {
+        "q": "In which lunar 'sea' did Apollo 11 land?",
+        "a": "Sea of Tranquility"
+      },
+      {
+        "q": "What is the name of the spacecraft that carried the first humans to the ISS on a commercial vehicle in 2020?",
+        "a": "Crew Dragon"
+      },
+      {
+        "q": "What is the name of the red supergiant star in Orion's shoulder?",
+        "a": "Betelgeuse"
+      },
+      {
+        "q": "Who was the first American woman in space?",
+        "a": "Sally Ride"
+      },
+      {
+        "q": "What is the distance from Earth to the Sun called?",
+        "a": "Astronomical unit"
+      },
+      {
+        "q": "Which spacecraft carried a golden record with sounds and images of Earth?",
+        "a": "Voyager"
+      },
+      {
+        "q": "What is the name of the Chinese space station completed in 2022?",
+        "a": "Tiangong"
+      },
+      {
+        "q": "What is the name of the Indian mission that landed near the Moon's south pole in 2023?",
+        "a": "Chandrayaan-3"
+      },
+      {
+        "q": "What is the name of the first American in space?",
+        "a": "Alan Shepard"
+      },
+      {
+        "q": "What is the name of NASA's asteroid-deflection test that hit Dimorphos in 2022?",
+        "a": "DART"
+      },
+      {
+        "q": "Which 1968 mission was the first to carry a crew around the Moon?",
+        "a": "Apollo 8"
+      },
+      {
+        "q": "Which planet has a moon named Titania?",
+        "a": "Uranus"
+      },
+      {
+        "q": "What is the name of the shuttle that broke apart in 2003?",
+        "a": "Columbia"
+      },
+      {
+        "q": "What is the name of the shuttle that exploded in 1986?",
+        "a": "Challenger"
+      },
+      {
+        "q": "What is the name of the Japanese space agency?",
+        "a": "JAXA"
+      },
+      {
+        "q": "What layer of the Sun appears as a thin red rim during a total eclipse?",
+        "a": "Chromosphere"
+      },
+      {
+        "q": "What is the name of the layer of the Sun we see as its surface?",
+        "a": "Photosphere"
+      },
+      {
+        "q": "What is the name of the phenomenon where a moon passes in front of a planet as seen from Earth?",
+        "a": "Transit"
+      },
+      {
+        "q": "What is the name of the spacecraft that flew by Jupiter and is now orbiting it since 2016?",
+        "a": "Juno"
+      },
+      {
+        "q": "Roughly how many Earth years does Saturn take to orbit the Sun?",
+        "a": "29"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the name of the point in an orbit closest to the Sun?",
+        "a": "Perihelion"
+      },
+      {
+        "q": "What is the name of the maximum mass a white dwarf can have before collapsing?",
+        "a": "Chandrasekhar limit"
+      },
+      {
+        "q": "What is the name of the supermassive black hole at the center of the Milky Way?",
+        "a": "Sagittarius A*"
+      },
+      {
+        "q": "What is the name of the effect where light from receding objects shifts to longer wavelengths?",
+        "a": "Redshift"
+      },
+      {
+        "q": "Which law relates a galaxy's recession speed to its distance?",
+        "a": "Hubble's law"
+      },
+      {
+        "q": "What is the effect called where a rotating massive body drags spacetime around with it?",
+        "a": "Frame dragging"
+      },
+      {
+        "q": "What is the name of the seven-planet system 40 light-years away found in 2017?",
+        "a": "TRAPPIST-1"
+      },
+      {
+        "q": "What is the name of the Soviet probe series that landed on Venus?",
+        "a": "Venera"
+      },
+      {
+        "q": "What is the name of the ESA mission that mapped a billion stars' positions?",
+        "a": "Gaia"
+      },
+      {
+        "q": "What is the name of the chart that plots stars by luminosity against temperature?",
+        "a": "Hertzsprung-Russell diagram"
+      },
+      {
+        "q": "What is the name of the layer of Earth's atmosphere where the ISS orbits?",
+        "a": "Thermosphere"
+      },
+      {
+        "q": "What is the name of the moon of Saturn with a two-tone appearance and a giant ridge?",
+        "a": "Iapetus"
+      },
+      {
+        "q": "What is the name of the first spacecraft to orbit Mercury?",
+        "a": "MESSENGER"
+      },
+      {
+        "q": "What is the name of the 2018 NASA lander that measured marsquakes?",
+        "a": "InSight"
+      },
+      {
+        "q": "What is the name of the band on the H-R diagram where stars spend most of their lives?",
+        "a": "Main sequence"
+      },
+      {
+        "q": "What is the name of the boundary in a planet-forming disk beyond which water freezes into ice?",
+        "a": "Frost line"
+      },
+      {
+        "q": "Which of Kepler's laws states that planets move in ellipses with the Sun at one focus?",
+        "a": "First law"
+      },
+      {
+        "q": "What is the name of the observatory that detected gravitational waves in 2015?",
+        "a": "LIGO"
+      },
+      {
+        "q": "What is the name of the moon of Uranus with the highest cliff in the solar system?",
+        "a": "Miranda"
+      },
+      {
+        "q": "What is the name of the huge storm on Neptune observed by Voyager 2?",
+        "a": "Great Dark Spot"
+      },
+      {
+        "q": "What is the name of the Japanese probe that returned samples from asteroid Ryugu?",
+        "a": "Hayabusa2"
+      },
+      {
+        "q": "What is the name of the NASA mission that returned samples from asteroid Bennu in 2023?",
+        "a": "OSIRIS-REx"
+      },
+      {
+        "q": "What is the name of the first commercial lander to reach the Moon in 2024?",
+        "a": "Odysseus"
+      },
+      {
+        "q": "What is the name of the era before the first stars formed, when the universe was opaque?",
+        "a": "Cosmic Dark Ages"
+      },
+      {
+        "q": "What is the name of the radius inside which an orbiting body would be torn apart by tidal forces?",
+        "a": "Roche limit"
+      },
+      {
+        "q": "What is the name of the Soviet cosmonaut who performed the first spacewalk?",
+        "a": "Alexei Leonov"
+      },
+      {
+        "q": "What is the name of the hypothetical distant planet proposed to account for clustered Kuiper Belt orbits?",
+        "a": "Planet Nine"
+      },
+      {
+        "q": "What is the name of the 2021 rover China landed on Mars?",
+        "a": "Zhurong"
+      },
+      {
+        "q": "What is the name of the region of space where the solar wind meets interstellar space?",
+        "a": "Heliopause"
+      },
+      {
+        "q": "What is the name of the first interstellar object detected passing through the solar system in 2017?",
+        "a": "'Oumuamua"
+      },
+      {
+        "q": "What is the name of the Moon's far-side basin that is the largest known impact crater?",
+        "a": "South Pole-Aitken"
+      }
+    ]
+  },
+  "math": {
+    "200": [
+      {
+        "q": "What is 14 × 6?",
+        "a": "84"
+      },
+      {
+        "q": "What is 225 ÷ 15?",
+        "a": "15"
+      },
+      {
+        "q": "What is 12 squared?",
+        "a": "144"
+      },
+      {
+        "q": "What is the square root of 196?",
+        "a": "14"
+      },
+      {
+        "q": "What is 35% of 200?",
+        "a": "70"
+      },
+      {
+        "q": "What is 1000 ÷ 8?",
+        "a": "125"
+      },
+      {
+        "q": "What is 17 × 4?",
+        "a": "68"
+      },
+      {
+        "q": "What is 2 to the power of 8?",
+        "a": "256"
+      },
+      {
+        "q": "What is the next prime number after 13?",
+        "a": "17"
+      },
+      {
+        "q": "What is 5 factorial?",
+        "a": "120"
+      },
+      {
+        "q": "What is 3/4 as a decimal?",
+        "a": "0.75"
+      },
+      {
+        "q": "What is 45 + 78?",
+        "a": "123"
+      },
+      {
+        "q": "What is the area of a square with side 9?",
+        "a": "81"
+      },
+      {
+        "q": "How many minutes are in 3.5 hours?",
+        "a": "210"
+      },
+      {
+        "q": "What is 1/3 + 1/6?",
+        "a": "1/2"
+      },
+      {
+        "q": "What is 19 × 5?",
+        "a": "95"
+      },
+      {
+        "q": "What is 20% of 45?",
+        "a": "9"
+      },
+      {
+        "q": "What is the perimeter of a rectangle with sides 6 and 4?",
+        "a": "20"
+      },
+      {
+        "q": "What number comes next: 3, 6, 12, 24?",
+        "a": "48"
+      },
+      {
+        "q": "What is 7 × 8 + 4?",
+        "a": "60"
+      },
+      {
+        "q": "How many hours are in a week?",
+        "a": "168"
+      },
+      {
+        "q": "What is the sum of the interior angles of a quadrilateral?",
+        "a": "360 degrees"
+      },
+      {
+        "q": "What is 0.5 × 0.5?",
+        "a": "0.25"
+      },
+      {
+        "q": "What is 999 + 999?",
+        "a": "1998"
+      },
+      {
+        "q": "How many edges does a cube have?",
+        "a": "12"
+      },
+      {
+        "q": "What is 6 × 7 × 1?",
+        "a": "42"
+      },
+      {
+        "q": "What is the average of 7, 9 and 14?",
+        "a": "10"
+      },
+      {
+        "q": "What is 64 ÷ 4?",
+        "a": "16"
+      },
+      {
+        "q": "What is 11 squared?",
+        "a": "121"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the cube root of 512?",
+        "a": "8"
+      },
+      {
+        "q": "What is the sum of the first five prime numbers?",
+        "a": "28"
+      },
+      {
+        "q": "Solve for x: 3x − 7 = 11.",
+        "a": "6"
+      },
+      {
+        "q": "What is the area of a circle with radius 3, in terms of pi?",
+        "a": "9π"
+      },
+      {
+        "q": "What is 2 to the power of 12?",
+        "a": "4096"
+      },
+      {
+        "q": "What is the greatest common divisor of 48 and 36?",
+        "a": "12"
+      },
+      {
+        "q": "What is the least common multiple of 6 and 9?",
+        "a": "18"
+      },
+      {
+        "q": "How many diagonals does a heptagon have?",
+        "a": "14"
+      },
+      {
+        "q": "What is 15 squared?",
+        "a": "225"
+      },
+      {
+        "q": "What is the derivative of 3x²?",
+        "a": "6x"
+      },
+      {
+        "q": "What is sin(30 degrees)?",
+        "a": "1/2"
+      },
+      {
+        "q": "What is tan(60 degrees) in simplest radical form?",
+        "a": "√3"
+      },
+      {
+        "q": "What is the square root of 2 to two decimal places?",
+        "a": "1.41"
+      },
+      {
+        "q": "What is 7 cubed?",
+        "a": "343"
+      },
+      {
+        "q": "What is 3 factorial times 4 factorial?",
+        "a": "144"
+      },
+      {
+        "q": "How many ways can 4 people be arranged in a line?",
+        "a": "24"
+      },
+      {
+        "q": "What is the mode of the numbers 2, 3, 3, 5, 7, 3, 9?",
+        "a": "3"
+      },
+      {
+        "q": "What is 8 choose 3?",
+        "a": "56"
+      },
+      {
+        "q": "What is the slope of the line y = −4x + 9?",
+        "a": "−4"
+      },
+      {
+        "q": "What is the probability of flipping three heads in a row with a fair coin?",
+        "a": "1/8"
+      },
+      {
+        "q": "What is the volume of a cylinder with radius 2 and height 5, in terms of pi?",
+        "a": "20π"
+      },
+      {
+        "q": "What is 25 × 24?",
+        "a": "600"
+      },
+      {
+        "q": "What is log base 3 of 81?",
+        "a": "4"
+      },
+      {
+        "q": "What is the 8th Fibonacci number, starting 1, 1, 2, 3?",
+        "a": "21"
+      },
+      {
+        "q": "What is the hypotenuse of a right triangle with legs 6 and 8?",
+        "a": "10"
+      },
+      {
+        "q": "What is 1.5 as a fraction in lowest terms?",
+        "a": "3/2"
+      },
+      {
+        "q": "What is the sum of all integers from 1 to 100?",
+        "a": "5050"
+      },
+      {
+        "q": "What is the largest two-digit prime number?",
+        "a": "97"
+      },
+      {
+        "q": "What is the value of x if x² = 169 and x is positive?",
+        "a": "13"
+      },
+      {
+        "q": "What is 13 × 14?",
+        "a": "182"
+      },
+      {
+        "q": "What is the reciprocal of 0.04?",
+        "a": "25"
+      },
+      {
+        "q": "What is the surface area of a cube with side 3?",
+        "a": "54"
+      },
+      {
+        "q": "Simplify: 45/60.",
+        "a": "3/4"
+      },
+      {
+        "q": "What is 12% of 350?",
+        "a": "42"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the derivative of e^(2x)?",
+        "a": "2e^(2x)"
+      },
+      {
+        "q": "What is the integral of 2x dx?",
+        "a": "x² + C"
+      },
+      {
+        "q": "What is the sum of the infinite series 1 + 1/3 + 1/9 + 1/27 + ...?",
+        "a": "3/2"
+      },
+      {
+        "q": "What is the derivative of tan(x)?",
+        "a": "sec²(x)"
+      },
+      {
+        "q": "What is the 20th Fibonacci number, starting 1, 1, 2, 3?",
+        "a": "6765"
+      },
+      {
+        "q": "What is the determinant of the matrix [[2,3],[1,4]]?",
+        "a": "5"
+      },
+      {
+        "q": "What is the value of 10 choose 5?",
+        "a": "252"
+      },
+      {
+        "q": "What is the smallest perfect number?",
+        "a": "6"
+      },
+      {
+        "q": "Which ancient Greek mathematician first proved there are infinitely many primes?",
+        "a": "Euclid"
+      },
+      {
+        "q": "What is the smallest integer greater than 1 that is both a perfect square and a perfect cube?",
+        "a": "64"
+      },
+      {
+        "q": "What is the limit of (1 − cos x)/x as x approaches 0?",
+        "a": "0"
+      },
+      {
+        "q": "What is the sum of the interior angles of a decagon?",
+        "a": "1440 degrees"
+      },
+      {
+        "q": "What is the derivative of arctan(x)?",
+        "a": "1/(1 + x²)"
+      },
+      {
+        "q": "What is 2 to the power of 16?",
+        "a": "65536"
+      },
+      {
+        "q": "How many primes are there below 30?",
+        "a": "10"
+      },
+      {
+        "q": "What is the integral of sec²(x) dx?",
+        "a": "tan(x) + C"
+      },
+      {
+        "q": "What is the modulus of the complex number 5 + 12i?",
+        "a": "13"
+      },
+      {
+        "q": "What is the value of cos(π)?",
+        "a": "−1"
+      },
+      {
+        "q": "What is the name of the sequence 1, 3, 6, 10, 15, 21?",
+        "a": "Triangular numbers"
+      },
+      {
+        "q": "What is the value of the sum 1 + 2 + 4 + ... + 2^10?",
+        "a": "2047"
+      },
+      {
+        "q": "What is e raised to the power ln(7)?",
+        "a": "7"
+      },
+      {
+        "q": "Which famous unproven statement says every even integer greater than 2 is the sum of two primes?",
+        "a": "Goldbach's conjecture"
+      },
+      {
+        "q": "What is the number of degrees in one radian, rounded to the nearest whole number?",
+        "a": "57"
+      },
+      {
+        "q": "How many edges does a dodecahedron have?",
+        "a": "30"
+      },
+      {
+        "q": "What is the second derivative of x⁴?",
+        "a": "12x²"
+      },
+      {
+        "q": "What is the name of the curve traced by a point on a rolling circle?",
+        "a": "Cycloid"
+      },
+      {
+        "q": "What is i to the fourth power?",
+        "a": "1"
+      },
+      {
+        "q": "What is the sum of the digits of 2 to the power of 12?",
+        "a": "19"
+      },
+      {
+        "q": "How many faces does an icosahedron have?",
+        "a": "20"
+      },
+      {
+        "q": "What is the remainder when 2 to the power of 10 is divided by 7?",
+        "a": "2"
+      },
+      {
+        "q": "What is the sum of the infinite series 1 + 1/4 + 1/9 + 1/16 + ..., known as the Basel problem?",
+        "a": "π²/6"
+      },
+      {
+        "q": "What is the smallest number expressible as the sum of two cubes in two different ways?",
+        "a": "1729"
+      }
+    ]
+  },
+  "uae": {
+    "200": [
+      {
+        "q": "On what date is UAE National Day celebrated each year?",
+        "a": "December 2"
+      },
+      {
+        "q": "Which is the northernmost emirate of the UAE?",
+        "a": "Ras Al Khaimah"
+      },
+      {
+        "q": "Which country borders the UAE to the south and west?",
+        "a": "Saudi Arabia"
+      },
+      {
+        "q": "Which country borders the UAE to the east?",
+        "a": "Oman"
+      },
+      {
+        "q": "Deira lies on the northern bank of which historic waterway?",
+        "a": "Dubai Creek"
+      },
+      {
+        "q": "What is the name of the famous Deira market lined with jewellery shops?",
+        "a": "Gold Souk"
+      },
+      {
+        "q": "What is the name of the giant observation wheel on Bluewaters Island?",
+        "a": "Ain Dubai"
+      },
+      {
+        "q": "What is the traditional white headscarf worn by Emirati men called?",
+        "a": "Ghutra"
+      },
+      {
+        "q": "What is the name of Dubai's historic wind-tower neighbourhood near the Creek?",
+        "a": "Al Fahidi"
+      },
+      {
+        "q": "What fruit is traditionally served with Arabic coffee in the UAE?",
+        "a": "Dates"
+      },
+      {
+        "q": "What is the name of the Abu Dhabi tower that leans 18 degrees?",
+        "a": "Capital Gate"
+      },
+      {
+        "q": "Which UAE city is nicknamed the 'Garden City'?",
+        "a": "Al Ain"
+      },
+      {
+        "q": "What is the name of the mountain near Al Ain with a famous winding road to its summit?",
+        "a": "Jebel Hafeet"
+      },
+      {
+        "q": "Besides the Red Line, what is the other colour of Dubai Metro line?",
+        "a": "Green"
+      },
+      {
+        "q": "Which emirate is home to the Emirates Palace hotel?",
+        "a": "Abu Dhabi"
+      },
+      {
+        "q": "What is the name of the water park at Atlantis The Palm?",
+        "a": "Aquaventure"
+      },
+      {
+        "q": "Which sea does Fujairah's coastline face?",
+        "a": "Gulf of Oman"
+      },
+      {
+        "q": "Who is the ruler of Dubai?",
+        "a": "Sheikh Mohammed bin Rashid Al Maktoum"
+      },
+      {
+        "q": "What sport is the Dubai World Cup?",
+        "a": "Horse racing"
+      },
+      {
+        "q": "Which emirate lies directly north of Dubai along the coast?",
+        "a": "Sharjah"
+      },
+      {
+        "q": "What kind of animal is the Arabian oryx, the UAE's national animal?",
+        "a": "Antelope"
+      },
+      {
+        "q": "What is the name of Dubai's seasonal open-air park with country pavilions?",
+        "a": "Global Village"
+      },
+      {
+        "q": "What is the name of the UAE attraction billed as the world's largest natural flower display?",
+        "a": "Dubai Miracle Garden"
+      },
+      {
+        "q": "What is the name of the torus-shaped landmark covered in Arabic calligraphy that opened in Dubai in 2022?",
+        "a": "Museum of the Future"
+      },
+      {
+        "q": "What is the name of the traditional wooden boat used as a water taxi across Dubai Creek?",
+        "a": "Abra"
+      },
+      {
+        "q": "What is the subunit of the UAE dirham?",
+        "a": "Fils"
+      },
+      {
+        "q": "What is the name of the giant indoor theme park in Dubai with Marvel and Cartoon Network zones?",
+        "a": "IMG Worlds of Adventure"
+      },
+      {
+        "q": "Which emirate is home to Al Nasr and Al Wasl football clubs?",
+        "a": "Dubai"
+      },
+      {
+        "q": "What is the name of the heart-shaped man-made body of water in Dubai's Al Qudra desert?",
+        "a": "Love Lake"
+      }
+    ],
+    "400": [
+      {
+        "q": "In which year did Expo 2020 Dubai actually open?",
+        "a": "2021"
+      },
+      {
+        "q": "Which emirate joined the UAE in 1972, a year after the other six?",
+        "a": "Ras Al Khaimah"
+      },
+      {
+        "q": "Which Emirati astronaut spent six months on the ISS in 2023?",
+        "a": "Sultan Al Neyadi"
+      },
+      {
+        "q": "What was the name of the UAE's lunar rover launched in 2022?",
+        "a": "Rashid"
+      },
+      {
+        "q": "What is the name of the ruling family of Abu Dhabi?",
+        "a": "Al Nahyan"
+      },
+      {
+        "q": "What is the name of the ruling family of Dubai?",
+        "a": "Al Maktoum"
+      },
+      {
+        "q": "What is the name of the ruling family of Sharjah and Ras Al Khaimah?",
+        "a": "Al Qasimi"
+      },
+      {
+        "q": "What is the name of Abu Dhabi's state oil company?",
+        "a": "ADNOC"
+      },
+      {
+        "q": "What is the tallest building in Abu Dhabi?",
+        "a": "Burj Mohammed bin Rashid"
+      },
+      {
+        "q": "In what year did Etihad Airways begin flying?",
+        "a": "2003"
+      },
+      {
+        "q": "In what year was Emirates airline founded?",
+        "a": "1985"
+      },
+      {
+        "q": "In which city is the UAE's national university located?",
+        "a": "Al Ain"
+      },
+      {
+        "q": "Which emirate has coastline on both the Persian Gulf and the Gulf of Oman?",
+        "a": "Sharjah"
+      },
+      {
+        "q": "What is the name of the largest port in the Middle East, located in Dubai?",
+        "a": "Jebel Ali"
+      },
+      {
+        "q": "Which emirate's territory lies almost entirely on the UAE's east coast?",
+        "a": "Fujairah"
+      },
+      {
+        "q": "What is the name of Abu Dhabi's giant sovereign wealth fund, abbreviated to four letters?",
+        "a": "ADIA"
+      },
+      {
+        "q": "What is the name of the man-made waterway opened in 2016 that links the Creek to the Gulf through Business Bay?",
+        "a": "Dubai Water Canal"
+      },
+      {
+        "q": "Which emirate is home to the Al Zorah mangrove reserve?",
+        "a": "Ajman"
+      },
+      {
+        "q": "What is the name of the contactless payment pass used on Dubai's metro and buses?",
+        "a": "Nol card"
+      },
+      {
+        "q": "Which two days form the official UAE weekend since 2022?",
+        "a": "Saturday and Sunday"
+      },
+      {
+        "q": "What is the name of the low-cost airline based in Sharjah?",
+        "a": "Air Arabia"
+      },
+      {
+        "q": "What is the name of Dubai's second airport located in Dubai South?",
+        "a": "Al Maktoum International"
+      },
+      {
+        "q": "In 2024, Abu Dhabi International Airport was renamed in honour of which UAE figure?",
+        "a": "Sheikh Zayed"
+      },
+      {
+        "q": "Which member of Abu Dhabi's ruling family owns Manchester City?",
+        "a": "Sheikh Mansour"
+      },
+      {
+        "q": "What is the name of the Dubai-based company that operates ports worldwide?",
+        "a": "DP World"
+      },
+      {
+        "q": "What does the name 'Abu Dhabi' mean in Arabic?",
+        "a": "Father of the gazelle"
+      },
+      {
+        "q": "What is the name of the traditional long-spouted Arabic coffee pot?",
+        "a": "Dallah"
+      },
+      {
+        "q": "What is the black cord that holds the Emirati headscarf in place called?",
+        "a": "Agal"
+      },
+      {
+        "q": "What is the UAE's national tree?",
+        "a": "Ghaf"
+      },
+      {
+        "q": "What is the traditional perfume ingredient made from agarwood popular in the UAE?",
+        "a": "Oud"
+      },
+      {
+        "q": "On which date is UAE Commemoration Day, honouring fallen soldiers?",
+        "a": "November 30"
+      },
+      {
+        "q": "On which date is UAE Flag Day?",
+        "a": "November 3"
+      },
+      {
+        "q": "In which year did the Dubai Mall open?",
+        "a": "2008"
+      },
+      {
+        "q": "In which year did Burj Al Arab open?",
+        "a": "1999"
+      },
+      {
+        "q": "How many fils are in one dirham?",
+        "a": "100"
+      }
+    ],
+    "600": [
+      {
+        "q": "In what year was oil first discovered in commercial quantities in Abu Dhabi?",
+        "a": "1958"
+      },
+      {
+        "q": "In what year did Dubai export its first oil?",
+        "a": "1969"
+      },
+      {
+        "q": "What is the name of the 1820 agreement between Britain and Gulf sheikhs that led to the 'Trucial' name?",
+        "a": "General Maritime Treaty"
+      },
+      {
+        "q": "Which two Gulf states took part in the federation talks but did not join the UAE in 1971?",
+        "a": "Bahrain and Qatar"
+      },
+      {
+        "q": "Who led the Bani Yas group that took control of Dubai in 1833?",
+        "a": "Maktoum bin Butti"
+      },
+      {
+        "q": "Which ruler of Dubai built Jebel Ali port and the Dubai World Trade Centre?",
+        "a": "Sheikh Rashid bin Saeed"
+      },
+      {
+        "q": "In what year did the Dubai World Trade Centre open?",
+        "a": "1979"
+      },
+      {
+        "q": "Besides Abu Musa, which two islands claimed by the UAE are held by Iran?",
+        "a": "Greater and Lesser Tunbs"
+      },
+      {
+        "q": "What was the name of the UAE's first Earth-observation satellite, launched in 2009?",
+        "a": "DubaiSat-1"
+      },
+      {
+        "q": "What was the name of the first satellite fully built by Emirati engineers, launched in 2018?",
+        "a": "KhalifaSat"
+      },
+      {
+        "q": "How many domes does the Sheikh Zayed Grand Mosque have?",
+        "a": "82"
+      },
+      {
+        "q": "How tall is the Burj Khalifa in metres, rounded to the nearest 10?",
+        "a": "830"
+      },
+      {
+        "q": "In what year did the UAE introduce mandatory national military service?",
+        "a": "2014"
+      },
+      {
+        "q": "What is the name of the fort that is the oldest stone building in Abu Dhabi city?",
+        "a": "Qasr Al Hosn"
+      },
+      {
+        "q": "What is the name of the carbon-neutral planned city launched in Abu Dhabi in 2006?",
+        "a": "Masdar City"
+      },
+      {
+        "q": "Which Dubai property developer built the Burj Khalifa?",
+        "a": "Emaar"
+      },
+      {
+        "q": "What is the name of the UAE's national anthem?",
+        "a": "Ishy Bilady"
+      },
+      {
+        "q": "What are the traditional irrigation channels in Al Ain's oases called?",
+        "a": "Falaj"
+      },
+      {
+        "q": "What is the name of the Deira market known for saffron, dried lemons and herbs?",
+        "a": "Spice Souk"
+      },
+      {
+        "q": "In which year did the UAE host the COP28 climate summit?",
+        "a": "2023"
+      },
+      {
+        "q": "Which club has won the most UAE Pro League football titles?",
+        "a": "Al Ain"
+      },
+      {
+        "q": "In what year did the UAE introduce a 5% value-added tax?",
+        "a": "2018"
+      },
+      {
+        "q": "In what year was the Louvre Abu Dhabi agreement signed with France?",
+        "a": "2007"
+      },
+      {
+        "q": "How many members sit on the UAE's Federal National Council?",
+        "a": "40"
+      },
+      {
+        "q": "Which emirate's ruler, Sheikh Saqr, reigned from 1948 to 2010?",
+        "a": "Ras Al Khaimah"
+      },
+      {
+        "q": "Which German engineer designed the Yas Marina Circuit?",
+        "a": "Hermann Tilke"
+      },
+      {
+        "q": "In what year did Ski Dubai open?",
+        "a": "2005"
+      },
+      {
+        "q": "What was the name of the medieval trading port near present-day Ras Al Khaimah?",
+        "a": "Julfar"
+      },
+      {
+        "q": "What is the name of the Dubai Marina skyscraper that twists 90 degrees from base to top?",
+        "a": "Cayan Tower"
+      },
+      {
+        "q": "In what year did the UAE first qualify for the FIFA World Cup?",
+        "a": "1990"
+      },
+      {
+        "q": "What is the Arabic name for the traditional Emirati wind tower?",
+        "a": "Barjeel"
+      },
+      {
+        "q": "What is the thin round Emirati flatbread cooked on a hot plate called?",
+        "a": "Regag"
+      },
+      {
+        "q": "Which Emirati breakfast dish pairs sweet vermicelli with an omelette?",
+        "a": "Balaleet"
+      },
+      {
+        "q": "What is the name of the UNESCO-listed cluster of oases, tombs and forts in Abu Dhabi emirate?",
+        "a": "Cultural Sites of Al Ain"
+      }
+    ]
+  },
+  "country_facts": {
+    "200": [
+      {
+        "q": "Which country has the largest population in the world?",
+        "a": "India"
+      },
+      {
+        "q": "Which country has Ottawa as its capital?",
+        "a": "Canada"
+      },
+      {
+        "q": "Which country's capital is Buenos Aires?",
+        "a": "Argentina"
+      },
+      {
+        "q": "Which country's capital is Helsinki?",
+        "a": "Finland"
+      },
+      {
+        "q": "Which country has Canberra as its capital?",
+        "a": "Australia"
+      },
+      {
+        "q": "Which country's capital is Nairobi?",
+        "a": "Kenya"
+      },
+      {
+        "q": "Which country's capital is Vienna?",
+        "a": "Austria"
+      },
+      {
+        "q": "Which country's capital is Bangkok?",
+        "a": "Thailand"
+      },
+      {
+        "q": "Which country is home to the Sagrada Família?",
+        "a": "Spain"
+      },
+      {
+        "q": "Which country's capital is Lisbon?",
+        "a": "Portugal"
+      },
+      {
+        "q": "Which country is home to the Petronas Towers?",
+        "a": "Malaysia"
+      },
+      {
+        "q": "Which country's capital is Oslo?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which country is home to Bali?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Which country's capital is Wellington?",
+        "a": "New Zealand"
+      },
+      {
+        "q": "Which country's capital is Brussels?",
+        "a": "Belgium"
+      },
+      {
+        "q": "Which country is home to Copenhagen?",
+        "a": "Denmark"
+      },
+      {
+        "q": "Which country has Stockholm as its capital?",
+        "a": "Sweden"
+      },
+      {
+        "q": "Which country's capital is Prague?",
+        "a": "Czech Republic"
+      }
+    ],
+    "400": [
+      {
+        "q": "Which country has the most time zones, including its overseas territories?",
+        "a": "France"
+      },
+      {
+        "q": "Which country's capital is Bucharest?",
+        "a": "Romania"
+      },
+      {
+        "q": "Which country is home to the world's tallest waterfall, Angel Falls?",
+        "a": "Venezuela"
+      },
+      {
+        "q": "Which country has Ankara, not Istanbul, as its capital?",
+        "a": "Turkey"
+      },
+      {
+        "q": "Which country is home to the Serengeti National Park?",
+        "a": "Tanzania"
+      },
+      {
+        "q": "Which country shares the longest land border with China?",
+        "a": "Mongolia"
+      },
+      {
+        "q": "Which country's capital is Hanoi?",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Which country's capital is Abuja?",
+        "a": "Nigeria"
+      },
+      {
+        "q": "Which country is home to the Galápagos Islands?",
+        "a": "Ecuador"
+      },
+      {
+        "q": "Which country has Bern as its capital?",
+        "a": "Switzerland"
+      },
+      {
+        "q": "Which country has the most active volcanoes?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Which country's capital is Kuala Lumpur?",
+        "a": "Malaysia"
+      },
+      {
+        "q": "Which country is home to Lake Baikal, the world's deepest lake?",
+        "a": "Russia"
+      },
+      {
+        "q": "Which country's capital is Budapest?",
+        "a": "Hungary"
+      },
+      {
+        "q": "Which country's currency is the rand?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Which country's currency is the baht?",
+        "a": "Thailand"
+      },
+      {
+        "q": "Which country's capital is Astana?",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Which country's capital is Bogotá?",
+        "a": "Colombia"
+      },
+      {
+        "q": "Which country's capital is Santiago?",
+        "a": "Chile"
+      },
+      {
+        "q": "Which country has the city of Casablanca?",
+        "a": "Morocco"
+      },
+      {
+        "q": "Which country shares Victoria Falls with Zambia?",
+        "a": "Zimbabwe"
+      },
+      {
+        "q": "Which country's capital is Riyadh?",
+        "a": "Saudi Arabia"
+      },
+      {
+        "q": "Which country is home to Mount Everest's southern base camp?",
+        "a": "Nepal"
+      },
+      {
+        "q": "Which country's capital is Manila?",
+        "a": "Philippines"
+      },
+      {
+        "q": "Which country's capital is Warsaw?",
+        "a": "Poland"
+      },
+      {
+        "q": "Which country is home to the Dolomites mountain range?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which country's currency is the won?",
+        "a": "South Korea"
+      },
+      {
+        "q": "Which country's capital is Lima?",
+        "a": "Peru"
+      },
+      {
+        "q": "Which country's capital is Accra?",
+        "a": "Ghana"
+      },
+      {
+        "q": "Which country is home to the Ganges river delta and capital Dhaka?",
+        "a": "Bangladesh"
+      },
+      {
+        "q": "Which country's capital is Kyiv?",
+        "a": "Ukraine"
+      },
+      {
+        "q": "Which country's capital is Amman?",
+        "a": "Jordan"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which country's capital is Georgetown?",
+        "a": "Guyana"
+      },
+      {
+        "q": "Which country's capital is Bishkek?",
+        "a": "Kyrgyzstan"
+      },
+      {
+        "q": "Which country's capital is Yamoussoukro?",
+        "a": "Ivory Coast"
+      },
+      {
+        "q": "Which country's capital is Naypyidaw?",
+        "a": "Myanmar"
+      },
+      {
+        "q": "Which country's capital is Lomé?",
+        "a": "Togo"
+      },
+      {
+        "q": "Which country is the only one to border both the Caspian Sea and the Persian Gulf?",
+        "a": "Iran"
+      },
+      {
+        "q": "Which country's capital is Windhoek?",
+        "a": "Namibia"
+      },
+      {
+        "q": "Which country's capital is Vientiane?",
+        "a": "Laos"
+      },
+      {
+        "q": "Which country is home to the Danakil Depression, one of the hottest places on Earth?",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "Which country is the world's largest producer of vanilla?",
+        "a": "Madagascar"
+      },
+      {
+        "q": "Which country's capital is Tashkent?",
+        "a": "Uzbekistan"
+      },
+      {
+        "q": "Which African country has Portuguese as its official language and capital Luanda?",
+        "a": "Angola"
+      },
+      {
+        "q": "Which country is home to the Salar de Uyuni salt flat?",
+        "a": "Bolivia"
+      },
+      {
+        "q": "Which country's capital is Ljubljana?",
+        "a": "Slovenia"
+      },
+      {
+        "q": "Which country's capital is Asunción?",
+        "a": "Paraguay"
+      },
+      {
+        "q": "Which country's currency is the lari?",
+        "a": "Georgia"
+      },
+      {
+        "q": "Which country is home to the Bay of Fundy, with the world's highest tides?",
+        "a": "Canada"
+      },
+      {
+        "q": "Which country's capital is Bandar Seri Begawan?",
+        "a": "Brunei"
+      },
+      {
+        "q": "Which country is the world's largest producer of palm oil?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Which country's capital is Port Moresby?",
+        "a": "Papua New Guinea"
+      },
+      {
+        "q": "Which country is home to the ancient city of Timbuktu?",
+        "a": "Mali"
+      },
+      {
+        "q": "Which country is home to the Great Blue Hole?",
+        "a": "Belize"
+      },
+      {
+        "q": "Which country's capital is Nouakchott?",
+        "a": "Mauritania"
+      },
+      {
+        "q": "Which country's currency is the kwacha and capital Lusaka?",
+        "a": "Zambia"
+      },
+      {
+        "q": "Which country's capital is Dushanbe?",
+        "a": "Tajikistan"
+      },
+      {
+        "q": "Which country's capital is Baku?",
+        "a": "Azerbaijan"
+      },
+      {
+        "q": "Which country was formerly called Zaire?",
+        "a": "Democratic Republic of the Congo"
+      },
+      {
+        "q": "Which country is home to the world's largest sand island, K'gari (Fraser Island)?",
+        "a": "Australia"
+      },
+      {
+        "q": "Which country's capital is Thimphu?",
+        "a": "Bhutan"
+      },
+      {
+        "q": "Which country is the world's largest producer of olive oil?",
+        "a": "Spain"
+      },
+      {
+        "q": "Which country's capital is Tirana?",
+        "a": "Albania"
+      },
+      {
+        "q": "Which country's capital is Ashgabat?",
+        "a": "Turkmenistan"
+      },
+      {
+        "q": "Which country's capital is Chișinău?",
+        "a": "Moldova"
+      }
+    ]
+  }
+}

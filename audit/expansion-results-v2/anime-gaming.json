@@ -1,0 +1,4110 @@
+{
+  "anime": {
+    "200": [
+      {
+        "q": "In Naruto, who is the Toad Sage who trains Naruto and writes racy novels?",
+        "a": "Jiraiya"
+      },
+      {
+        "q": "In My Hero Academia, what is the name of the Quirk passed down to Izuku Midoriya?",
+        "a": "One For All"
+      },
+      {
+        "q": "In Demon Slayer, what is the name of the boar-headed swordsman who travels with Tanjiro?",
+        "a": "Inosuke"
+      },
+      {
+        "q": "In Attack on Titan, which soldier is known as humanity's strongest?",
+        "a": "Levi Ackerman"
+      },
+      {
+        "q": "In Attack on Titan, what part of a Titan's body must be cut to kill it?",
+        "a": "The nape of the neck"
+      },
+      {
+        "q": "In Jujutsu Kaisen, which sorcerer teacher famously wears a blindfold?",
+        "a": "Satoru Gojo"
+      },
+      {
+        "q": "In One Punch Man, what is the name of Saitama's cyborg disciple?",
+        "a": "Genos"
+      },
+      {
+        "q": "In Spy x Family, what is the name of the telepathic little girl?",
+        "a": "Anya"
+      },
+      {
+        "q": "In Chainsaw Man, what is the name of Denji's chainsaw devil dog?",
+        "a": "Pochita"
+      },
+      {
+        "q": "In Fullmetal Alchemist, what is Alphonse Elric's soul bound to?",
+        "a": "A suit of armor"
+      },
+      {
+        "q": "What Ghibli film follows a young witch who moves to a seaside city and flies packages around on her broom?",
+        "a": "Kiki's Delivery Service"
+      },
+      {
+        "q": "What Ghibli film is about a girl raised by wolves who fights against a mining town?",
+        "a": "Princess Mononoke"
+      },
+      {
+        "q": "In Naruto, what is the name of Naruto's son who stars in the sequel series?",
+        "a": "Boruto"
+      },
+      {
+        "q": "In Hunter x Hunter, which card-throwing villain with clown makeup is obsessed with Gon?",
+        "a": "Hisoka"
+      },
+      {
+        "q": "In Bleach, what are the corrupted spirits that Soul Reapers hunt called?",
+        "a": "Hollows"
+      },
+      {
+        "q": "In Demon Slayer, what does Nezuko keep clenched in her mouth?",
+        "a": "A bamboo muzzle"
+      },
+      {
+        "q": "In Demon Slayer, what is the name of the demon king who turned Nezuko?",
+        "a": "Muzan Kibutsuji"
+      },
+      {
+        "q": "In My Hero Academia, what is the name of Deku's explosive childhood rival?",
+        "a": "Katsuki Bakugo"
+      },
+      {
+        "q": "In Death Note, what is the alias the public gives to the mysterious killer?",
+        "a": "Kira"
+      },
+      {
+        "q": "In Naruto, which of Naruto's teammates has a crush on Sasuke and becomes a medical ninja?",
+        "a": "Sakura"
+      },
+      {
+        "q": "In Naruto, what is the name of Sasuke's older brother who wiped out their clan?",
+        "a": "Itachi"
+      },
+      {
+        "q": "Which Japanese manga magazine has serialized Naruto, Bleach and One Piece?",
+        "a": "Weekly Shonen Jump"
+      },
+      {
+        "q": "In Attack on Titan, what is the name of the outermost of the three walls?",
+        "a": "Wall Maria"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what does Yuji Itadori swallow to gain his powers?",
+        "a": "Sukuna's finger"
+      },
+      {
+        "q": "In Sword Art Online, what is the name of Kirito's partner and love interest?",
+        "a": "Asuna"
+      },
+      {
+        "q": "In Tokyo Ghoul, what is the name of the protagonist who becomes half-ghoul?",
+        "a": "Ken Kaneki"
+      }
+    ],
+    "400": [
+      {
+        "q": "In Naruto, who is the Fourth Hokage and Naruto's father?",
+        "a": "Minato Namikaze"
+      },
+      {
+        "q": "In Naruto, what pattern decorates the Akatsuki's black cloaks?",
+        "a": "Red clouds"
+      },
+      {
+        "q": "In Naruto, which of the Legendary Sannin becomes the Fifth Hokage?",
+        "a": "Tsunade"
+      },
+      {
+        "q": "In Naruto, what clan does Hinata belong to?",
+        "a": "Hyuga"
+      },
+      {
+        "q": "In Naruto, what is the name of Sasuke's lightning-blade technique?",
+        "a": "Chidori"
+      },
+      {
+        "q": "In Naruto, which village does Gaara lead as Kazekage?",
+        "a": "The Hidden Sand"
+      },
+      {
+        "q": "In Attack on Titan, which Titan does Reiner Braun hold?",
+        "a": "The Armored Titan"
+      },
+      {
+        "q": "In Attack on Titan, which Titan does Annie Leonhart hold?",
+        "a": "The Female Titan"
+      },
+      {
+        "q": "In Attack on Titan, what nation is at war with the island of Paradis?",
+        "a": "Marley"
+      },
+      {
+        "q": "In Attack on Titan, what is the name of the island the walls stand on?",
+        "a": "Paradis"
+      },
+      {
+        "q": "In Attack on Titan, which Titan does Armin inherit from Bertholdt?",
+        "a": "The Colossal Titan"
+      },
+      {
+        "q": "In Attack on Titan, which commander famously sacrifices his recruits in a charge against the Beast Titan?",
+        "a": "Erwin Smith"
+      },
+      {
+        "q": "In Attack on Titan, what is the middle of the three walls called?",
+        "a": "Wall Rose"
+      },
+      {
+        "q": "In Demon Slayer, what breathing style does Zenitsu use?",
+        "a": "Thunder Breathing"
+      },
+      {
+        "q": "In Demon Slayer, what are the nine elite swordsmen of the Corps called?",
+        "a": "Hashira"
+      },
+      {
+        "q": "In Demon Slayer, which Hashira dies fighting Akaza at the end of the Mugen Train arc?",
+        "a": "Kyojuro Rengoku"
+      },
+      {
+        "q": "In Demon Slayer, what bird delivers missions to Demon Slayers?",
+        "a": "A crow"
+      },
+      {
+        "q": "Which Fullmetal Alchemist colonel snaps his fingers to create fire?",
+        "a": "Roy Mustang"
+      },
+      {
+        "q": "In Fullmetal Alchemist, what country do the Elric brothers live in?",
+        "a": "Amestris"
+      },
+      {
+        "q": "In Fullmetal Alchemist, who is the Elrics' childhood friend and automail mechanic?",
+        "a": "Winry Rockbell"
+      },
+      {
+        "q": "In Fullmetal Alchemist, which homunculus can shapeshift into other people?",
+        "a": "Envy"
+      },
+      {
+        "q": "In Bleach, what is the name of Ichigo's zanpakuto?",
+        "a": "Zangetsu"
+      },
+      {
+        "q": "In Bleach, which Soul Reaper gives Ichigo her powers in the first episode?",
+        "a": "Rukia Kuchiki"
+      },
+      {
+        "q": "In Bleach, which captain betrays Soul Society and rules Hueco Mundo?",
+        "a": "Sosuke Aizen"
+      },
+      {
+        "q": "In Bleach, what is the title of the final manga arc adapted in 2022?",
+        "a": "Thousand-Year Blood War"
+      },
+      {
+        "q": "In Death Note, which pop idol owns the second Death Note?",
+        "a": "Misa Amane"
+      },
+      {
+        "q": "In Death Note, which shinigami follows Misa?",
+        "a": "Rem"
+      },
+      {
+        "q": "In Death Note, which of L's successors is known for playing with toys and solving the case?",
+        "a": "Near"
+      },
+      {
+        "q": "In My Hero Academia, who leads the League of Villains?",
+        "a": "Tomura Shigaraki"
+      },
+      {
+        "q": "In My Hero Academia, what is the name of the Quirk-stealing villain who mentors Shigaraki?",
+        "a": "All For One"
+      },
+      {
+        "q": "In My Hero Academia, what is the hero name of Todoroki's father?",
+        "a": "Endeavor"
+      },
+      {
+        "q": "In Hunter x Hunter, what is the name of Kurapika's massacred clan?",
+        "a": "Kurta"
+      },
+      {
+        "q": "In Hunter x Hunter, what profession is Leorio studying to become?",
+        "a": "Doctor"
+      },
+      {
+        "q": "In One Punch Man, what is Saitama's registered hero name?",
+        "a": "Caped Baldy"
+      },
+      {
+        "q": "In One Punch Man, which bicycle-riding C-Class hero never gives up?",
+        "a": "Mumen Rider"
+      },
+      {
+        "q": "In Code Geass, what masked alter ego does Lelouch adopt?",
+        "a": "Zero"
+      },
+      {
+        "q": "In Neon Genesis Evangelion, what organization does Shinji's father command?",
+        "a": "NERV"
+      },
+      {
+        "q": "In Cowboy Bebop, what is the name of the genetically enhanced corgi?",
+        "a": "Ein"
+      },
+      {
+        "q": "In Spy x Family, what is Loid Forger's spy codename?",
+        "a": "Twilight"
+      },
+      {
+        "q": "In Spy x Family, what school does Anya attend?",
+        "a": "Eden Academy"
+      },
+      {
+        "q": "In Chainsaw Man, which red-haired woman is secretly the Control Devil?",
+        "a": "Makima"
+      },
+      {
+        "q": "In JoJo's Bizarre Adventure, what is Jotaro Kujo's Stand?",
+        "a": "Star Platinum"
+      },
+      {
+        "q": "In JoJo's Bizarre Adventure, what is Dio's time-stopping Stand?",
+        "a": "The World"
+      },
+      {
+        "q": "In Haikyuu!!, what nickname is Kageyama mocked with from middle school?",
+        "a": "King of the Court"
+      },
+      {
+        "q": "In Vinland Saga, who is the young warrior seeking revenge on Askeladd?",
+        "a": "Thorfinn"
+      },
+      {
+        "q": "In Mob Psycho 100, who is Mob's con-artist mentor?",
+        "a": "Reigen Arataka"
+      },
+      {
+        "q": "Who directed the anime films Your Name and Suzume?",
+        "a": "Makoto Shinkai"
+      },
+      {
+        "q": "In Akira, what is the name of the city where the story is set?",
+        "a": "Neo-Tokyo"
+      },
+      {
+        "q": "In Spirited Away, what is the name of the witch who runs the bathhouse?",
+        "a": "Yubaba"
+      },
+      {
+        "q": "In Black Clover, what is Asta's power that cancels spells called?",
+        "a": "Anti-Magic"
+      }
+    ],
+    "600": [
+      {
+        "q": "In Naruto, what is the name of Naruto's mother?",
+        "a": "Kushina Uzumaki"
+      },
+      {
+        "q": "In Naruto, which Akatsuki member fights with explosive clay?",
+        "a": "Deidara"
+      },
+      {
+        "q": "In Naruto, which Akatsuki member is a puppet master from the Sand?",
+        "a": "Sasori"
+      },
+      {
+        "q": "In Naruto, what tailed beast is sealed inside Gaara?",
+        "a": "Shukaku"
+      },
+      {
+        "q": "In Naruto, what is the name of Might Guy's forbidden technique that pushes his body past its limits?",
+        "a": "The Eight Gates"
+      },
+      {
+        "q": "In Naruto, what is the name of Kakashi's small pug summon?",
+        "a": "Pakkun"
+      },
+      {
+        "q": "In Naruto, what is the name of Orochimaru's giant snake summon?",
+        "a": "Manda"
+      },
+      {
+        "q": "In Attack on Titan, who is Eren's half-brother?",
+        "a": "Zeke Yeager"
+      },
+      {
+        "q": "In Attack on Titan, what is the innermost wall called?",
+        "a": "Wall Sina"
+      },
+      {
+        "q": "In Attack on Titan, what is the name of Eren's father?",
+        "a": "Grisha Yeager"
+      },
+      {
+        "q": "In Attack on Titan, which Titan does Pieck Finger hold?",
+        "a": "The Cart Titan"
+      },
+      {
+        "q": "In Attack on Titan, who becomes commander of the Survey Corps after Erwin?",
+        "a": "Hange Zoe"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is Gojo's Domain Expansion called?",
+        "a": "Unlimited Void"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is Sukuna's Domain Expansion called?",
+        "a": "Malevolent Shrine"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is Megumi Fushiguro's inherited power that summons shikigami?",
+        "a": "Ten Shadows Technique"
+      },
+      {
+        "q": "In Demon Slayer, what is the group of Muzan's strongest demons called?",
+        "a": "The Twelve Kizuki"
+      },
+      {
+        "q": "In Demon Slayer, what color is Tanjiro's Nichirin blade?",
+        "a": "Black"
+      },
+      {
+        "q": "In Fullmetal Alchemist: Brotherhood, which homunculus is known as the Ultimate Shield?",
+        "a": "Greed"
+      },
+      {
+        "q": "In Bleach, what is the name of Ichigo's hometown?",
+        "a": "Karakura Town"
+      },
+      {
+        "q": "In Bleach, what is the name of Aizen's ten elite Arrancar?",
+        "a": "The Espada"
+      },
+      {
+        "q": "In Bleach, what is Ichigo's Quincy classmate called?",
+        "a": "Uryu Ishida"
+      },
+      {
+        "q": "In Hunter x Hunter, what is the name of the Chimera Ant King?",
+        "a": "Meruem"
+      },
+      {
+        "q": "In Hunter x Hunter, what is Hisoka's sticky, elastic Nen ability called?",
+        "a": "Bungee Gum"
+      },
+      {
+        "q": "In Hunter x Hunter, what is Killua's lightning-fast Nen technique called?",
+        "a": "Godspeed"
+      },
+      {
+        "q": "In Death Note, what sport do Light and L play against each other while sizing each other up?",
+        "a": "Tennis"
+      },
+      {
+        "q": "In My Hero Academia, what is Bakugo's official hero name?",
+        "a": "Dynamight"
+      },
+      {
+        "q": "In My Hero Academia, what is Ochaco Uraraka's Quirk?",
+        "a": "Zero Gravity"
+      },
+      {
+        "q": "In My Hero Academia, what is Mirio Togata's Quirk?",
+        "a": "Permeation"
+      },
+      {
+        "q": "In One Punch Man, which S-Class esper hero is known as the Tornado of Terror?",
+        "a": "Tatsumaki"
+      },
+      {
+        "q": "In Berserk, what is the name of Guts' massive sword?",
+        "a": "Dragonslayer"
+      },
+      {
+        "q": "In Berserk, what is the mark on Guts' neck that draws demons to him?",
+        "a": "The Brand of Sacrifice"
+      },
+      {
+        "q": "In Neon Genesis Evangelion, which numbered Eva does Asuka pilot?",
+        "a": "Unit-02"
+      },
+      {
+        "q": "In Cowboy Bebop, what is the name of the eccentric child hacker who joins the crew?",
+        "a": "Edward"
+      },
+      {
+        "q": "In Tokyo Ghoul, what is the name of the coffee shop run by friendly ghouls?",
+        "a": "Anteiku"
+      },
+      {
+        "q": "In Steins;Gate, what mad-scientist alias does Okabe give himself?",
+        "a": "Hououin Kyouma"
+      },
+      {
+        "q": "In Sword Art Online, how many floors does the castle Aincrad have?",
+        "a": "100"
+      },
+      {
+        "q": "In Spy x Family, what is Yor's assassin codename?",
+        "a": "Thorn Princess"
+      },
+      {
+        "q": "In Chainsaw Man, what is Power a fiend of?",
+        "a": "The Blood Devil"
+      },
+      {
+        "q": "In JoJo's Bizarre Adventure, what is Giorno Giovanna's Stand?",
+        "a": "Gold Experience"
+      },
+      {
+        "q": "In Haikyuu!!, what rival school is Oikawa the captain of?",
+        "a": "Aoba Johsai"
+      },
+      {
+        "q": "In Assassination Classroom, what is the number of the outcast class that must kill their teacher?",
+        "a": "3-E"
+      },
+      {
+        "q": "In Akira, what is the name of the biker gang leader protagonist?",
+        "a": "Kaneda"
+      },
+      {
+        "q": "In Ghost in the Shell, what unit does Major Kusanagi belong to?",
+        "a": "Public Security Section 9"
+      },
+      {
+        "q": "In Neon Genesis Evangelion, what is the name of the first Angel, from whom the Evas are derived?",
+        "a": "Adam"
+      }
+    ]
+  },
+  "dragon_ball": {
+    "200": [
+      {
+        "q": "What is the name of Goku's younger son?",
+        "a": "Goten"
+      },
+      {
+        "q": "What is the name of the yellow cloud Goku rides?",
+        "a": "The Flying Nimbus"
+      },
+      {
+        "q": "What is the name of Goku's extending red staff?",
+        "a": "The Power Pole"
+      },
+      {
+        "q": "Which three-eyed martial artist is one of the Z Fighters?",
+        "a": "Tien"
+      },
+      {
+        "q": "Which Saiyan is revealed to be Goku's older brother when he arrives on Earth?",
+        "a": "Raditz"
+      },
+      {
+        "q": "What planet is Piccolo's race from?",
+        "a": "Namek"
+      },
+      {
+        "q": "What is the name of Vegeta and Bulma's son?",
+        "a": "Trunks"
+      },
+      {
+        "q": "What device does Bulma invent to locate the Dragon Balls?",
+        "a": "The Dragon Radar"
+      },
+      {
+        "q": "Which former desert bandit with a scar becomes a Z Fighter?",
+        "a": "Yamcha"
+      },
+      {
+        "q": "What item grown by Korin instantly heals a fighter?",
+        "a": "Senzu Beans"
+      },
+      {
+        "q": "Which technique lets Goku teleport by sensing energy?",
+        "a": "Instant Transmission"
+      },
+      {
+        "q": "What is Krillin's signature spinning energy attack called?",
+        "a": "Destructo Disc"
+      },
+      {
+        "q": "What is the name of the five-member elite squad that serves Frieza?",
+        "a": "The Ginyu Force"
+      },
+      {
+        "q": "What giant form do Saiyans take under a full moon?",
+        "a": "Great Ape"
+      },
+      {
+        "q": "What body part must be removed to stop a Saiyan transforming into a Great Ape?",
+        "a": "Their tail"
+      },
+      {
+        "q": "What form does Gohan reach to defeat Cell?",
+        "a": "Super Saiyan 2"
+      },
+      {
+        "q": "What weapon does Future Trunks carry on his back?",
+        "a": "A sword"
+      },
+      {
+        "q": "In Dragon Ball Super, which universe are Goku and his friends from?",
+        "a": "Universe 7"
+      },
+      {
+        "q": "Who is Videl's father, the world champion who takes credit for beating Cell?",
+        "a": "Mr. Satan"
+      },
+      {
+        "q": "What is the name of Bulma's tiny shapeshifting pig companion?",
+        "a": "Oolong"
+      },
+      {
+        "q": "What color does a Saiyan's hair turn in the standard Super Saiyan form?",
+        "a": "Golden blonde"
+      },
+      {
+        "q": "What is the name of Gohan's daughter?",
+        "a": "Pan"
+      },
+      {
+        "q": "Which reincarnation of Kid Buu does Goku fly off to train at the end of Dragon Ball Z?",
+        "a": "Uub"
+      },
+      {
+        "q": "What animated film introduced Beerus in 2013?",
+        "a": "Battle of Gods"
+      },
+      {
+        "q": "What was the Super Saiyan level reached in Dragon Ball GT?",
+        "a": "Super Saiyan 4"
+      },
+      {
+        "q": "Which Namekian does Goku defeat in the final of the 23rd World Martial Arts Tournament?",
+        "a": "Piccolo"
+      }
+    ],
+    "400": [
+      {
+        "q": "Who was Vegeta's large bald partner when he first invaded Earth?",
+        "a": "Nappa"
+      },
+      {
+        "q": "Which leader of Frieza's elite squad can swap bodies with his opponent?",
+        "a": "Captain Ginyu"
+      },
+      {
+        "q": "Who is Frieza's older brother, who appears in the movies?",
+        "a": "Cooler"
+      },
+      {
+        "q": "Which Namekian child becomes Earth's new guardian after Kami fuses with Piccolo?",
+        "a": "Dende"
+      },
+      {
+        "q": "Who slices Frieza in half when he arrives on Earth?",
+        "a": "Future Trunks"
+      },
+      {
+        "q": "What is the road Goku must run along to reach King Kai's planet?",
+        "a": "Snake Way"
+      },
+      {
+        "q": "What is Piccolo's spiraling finger attack that kills Raditz called?",
+        "a": "Special Beam Cannon"
+      },
+      {
+        "q": "What attack does Vegeta use against Goku in their first fight, countered by a Kamehameha?",
+        "a": "Galick Gun"
+      },
+      {
+        "q": "Which wizard revives Majin Buu?",
+        "a": "Babidi"
+      },
+      {
+        "q": "What is the name of the original, purely evil form of the pink Majin?",
+        "a": "Kid Buu"
+      },
+      {
+        "q": "What is Mr. Satan called in the original English dub?",
+        "a": "Hercule"
+      },
+      {
+        "q": "What transformation does the returning tyrant achieve in Resurrection 'F'?",
+        "a": "Golden Frieza"
+      },
+      {
+        "q": "Which Universe 6 God of Destruction is Beerus's twin brother?",
+        "a": "Champa"
+      },
+      {
+        "q": "Which Universe 6 assassin can skip time?",
+        "a": "Hit"
+      },
+      {
+        "q": "Who wins the Tournament of Power?",
+        "a": "Android 17"
+      },
+      {
+        "q": "What is Goku Black's true identity?",
+        "a": "Zamasu"
+      },
+      {
+        "q": "Who is Broly's father?",
+        "a": "Paragus"
+      },
+      {
+        "q": "What year was Dragon Ball Super: Broly released?",
+        "a": "2018"
+      },
+      {
+        "q": "Which organization does Dr. Gero work for in the original Dragon Ball?",
+        "a": "The Red Ribbon Army"
+      },
+      {
+        "q": "What transformation does the Namekian unlock in Super Hero?",
+        "a": "Orange Piccolo"
+      },
+      {
+        "q": "Which fortune teller is Master Roshi's older sister?",
+        "a": "Fortuneteller Baba"
+      },
+      {
+        "q": "What is the name of Yamcha's shapeshifting cat companion?",
+        "a": "Puar"
+      },
+      {
+        "q": "Which cat lives atop a tall tower and guards Senzu Beans?",
+        "a": "Korin"
+      },
+      {
+        "q": "What is the name of the tiny would-be ruler who wants the Dragon Balls to rule the world?",
+        "a": "Emperor Pilaf"
+      },
+      {
+        "q": "Which android pair kill the Z Fighters in Future Trunks's timeline?",
+        "a": "Androids 17 and 18"
+      },
+      {
+        "q": "What dragon is summoned by the planet-sized Super Dragon Balls?",
+        "a": "Super Shenron"
+      },
+      {
+        "q": "Who is the first character to reach Super Saiyan 3?",
+        "a": "Goku"
+      },
+      {
+        "q": "What symbol is written on the back of Goku's orange gi from Roshi's school?",
+        "a": "The turtle kanji"
+      },
+      {
+        "q": "What is the name of Tien's small, pale-faced companion who can self-destruct?",
+        "a": "Chiaotzu"
+      },
+      {
+        "q": "What is Chi-Chi's father called?",
+        "a": "The Ox-King"
+      },
+      {
+        "q": "What transformation does Vegeta unlock in the Granolah arc of the Super manga?",
+        "a": "Ultra Ego"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which Ginyu Force member can freeze time by holding his breath?",
+        "a": "Guldo"
+      },
+      {
+        "q": "What is the newest form of the galactic tyrant revealed in the Super manga?",
+        "a": "Black Frieza"
+      },
+      {
+        "q": "Which android number does Dr. Gero turn himself into?",
+        "a": "Android 20"
+      },
+      {
+        "q": "Which android was programmed specifically to kill Goku but loves nature?",
+        "a": "Android 16"
+      },
+      {
+        "q": "What is the name of King Kai's pet monkey?",
+        "a": "Bubbles"
+      },
+      {
+        "q": "Who is the Demon King who serves Babidi and turns Piccolo to stone?",
+        "a": "Dabura"
+      },
+      {
+        "q": "Who created Majin Buu before Babidi?",
+        "a": "Bibidi"
+      },
+      {
+        "q": "What is the name of Majin Buu's pet dog?",
+        "a": "Bee"
+      },
+      {
+        "q": "What is Whis's sister, the angel of Universe 6, called?",
+        "a": "Vados"
+      },
+      {
+        "q": "What is the name of Jiren's squad of heroes in Universe 11?",
+        "a": "The Pride Troopers"
+      },
+      {
+        "q": "What is the Potara fusion of Goku Black and his future counterpart called?",
+        "a": "Fused Zamasu"
+      },
+      {
+        "q": "What is the name of Bulma's older sister?",
+        "a": "Tights"
+      },
+      {
+        "q": "What is the name of Goku's mother?",
+        "a": "Gine"
+      },
+      {
+        "q": "What is the name of Krillin and Android 18's daughter?",
+        "a": "Marron"
+      },
+      {
+        "q": "What job does Android 17 hold in Dragon Ball Super?",
+        "a": "Park ranger"
+      },
+      {
+        "q": "How many Saiyans are needed for the Super Saiyan God ritual?",
+        "a": "Six"
+      },
+      {
+        "q": "Which alien race teaches Goku Instant Transmission?",
+        "a": "The Yardrats"
+      },
+      {
+        "q": "What is the name of the Grand Elder of Namek?",
+        "a": "Guru"
+      },
+      {
+        "q": "Which Namekian warrior fights Frieza to buy time and later fuses with Piccolo?",
+        "a": "Nail"
+      },
+      {
+        "q": "What is the World Martial Arts Tournament called in Japanese?",
+        "a": "Tenkaichi Budokai"
+      },
+      {
+        "q": "How long does a Fusion Dance fusion last?",
+        "a": "30 minutes"
+      },
+      {
+        "q": "What is the name of the Supreme Kai of Universe 7 who warns of Buu's return?",
+        "a": "Shin"
+      },
+      {
+        "q": "What is the name of the Red Ribbon Army's leader?",
+        "a": "Commander Red"
+      },
+      {
+        "q": "Which assassin hired by the Red Ribbon Army travels by throwing a pillar?",
+        "a": "Mercenary Tao"
+      },
+      {
+        "q": "Which Universe 6 female Saiyan transforms into a Broly-like berserker?",
+        "a": "Kale"
+      },
+      {
+        "q": "What is the name of the villain android built by Dr. Hedo in Super Hero?",
+        "a": "Cell Max"
+      },
+      {
+        "q": "Which Super manga villain is a planet-eating goat-like sorcerer freed from the Galactic Prison?",
+        "a": "Moro"
+      },
+      {
+        "q": "What is the name of the last surviving Cerealian who hunts Goku and Vegeta in the Super manga?",
+        "a": "Granolah"
+      },
+      {
+        "q": "What year did the Dragon Ball manga begin serialization?",
+        "a": "1984"
+      },
+      {
+        "q": "What is the name of Tien's signature square-shaped attack?",
+        "a": "Tri-Beam"
+      },
+      {
+        "q": "What sphere-shaped move does Vegeta first use to destroy Android 19?",
+        "a": "Big Bang Attack"
+      },
+      {
+        "q": "Which gentle Red Ribbon android befriends Goku at Muscle Tower?",
+        "a": "Android 8"
+      },
+      {
+        "q": "Who is Emperor Pilaf's female companion who later becomes close to Future Trunks?",
+        "a": "Mai"
+      }
+    ]
+  },
+  "one_piece_show": {
+    "200": [
+      {
+        "q": "Who is the Straw Hats' long-nosed sniper?",
+        "a": "Usopp"
+      },
+      {
+        "q": "What is the name of Zoro's signature technique in which he holds a blade in his mouth?",
+        "a": "Three Sword Style"
+      },
+      {
+        "q": "What is the currency used in the world of One Piece?",
+        "a": "Berries"
+      },
+      {
+        "q": "What snail-like creatures are used as telephones?",
+        "a": "Transponder Snails"
+      },
+      {
+        "q": "What streaming service produced the 2023 live-action One Piece?",
+        "a": "Netflix"
+      },
+      {
+        "q": "What are the three highest-ranking Marines beneath the Fleet Admiral called?",
+        "a": "Admirals"
+      },
+      {
+        "q": "What is Luffy's father's name?",
+        "a": "Monkey D. Dragon"
+      },
+      {
+        "q": "What is the name of Shanks's pirate crew?",
+        "a": "The Red Hair Pirates"
+      },
+      {
+        "q": "What is the name of Luffy's home village?",
+        "a": "Foosha Village"
+      },
+      {
+        "q": "What clown pirate was Shanks's crewmate as an apprentice on Roger's ship?",
+        "a": "Buggy"
+      },
+      {
+        "q": "Which Straw Hat's first bounty poster used a terrible sketch instead of a photo?",
+        "a": "Sanji"
+      },
+      {
+        "q": "Whose straw hat did Shanks wear before giving it to Luffy?",
+        "a": "Gol D. Roger's"
+      },
+      {
+        "q": "What is Luffy's technique of pumping blood faster to move at high speed?",
+        "a": "Gear Second"
+      },
+      {
+        "q": "Who is the Straw Hats' helmsman, a fish-man and former Warlord?",
+        "a": "Jinbe"
+      },
+      {
+        "q": "What is the name of the desert kingdom ruled by Princess Vivi's family?",
+        "a": "Alabasta"
+      },
+      {
+        "q": "What Warlord with a sand power is the villain of the Alabasta arc?",
+        "a": "Crocodile"
+      },
+      {
+        "q": "What compass is needed to navigate the Grand Line?",
+        "a": "A Log Pose"
+      },
+      {
+        "q": "What special stone drains Devil Fruit users of their strength?",
+        "a": "Seastone"
+      },
+      {
+        "q": "What is the name of the sky island the Straw Hats visit?",
+        "a": "Skypiea"
+      },
+      {
+        "q": "What is the name of the Pirate Empress who falls in love with Luffy?",
+        "a": "Boa Hancock"
+      },
+      {
+        "q": "What Yonko's animal form is a giant dragon?",
+        "a": "Kaido"
+      },
+      {
+        "q": "What is the samurai country ruled by Kaido called?",
+        "a": "Wano"
+      },
+      {
+        "q": "What is the name of Luffy's sworn brother who leads the Revolutionary Army's forces?",
+        "a": "Sabo"
+      },
+      {
+        "q": "How many episodes were in the first season of the live-action series?",
+        "a": "8"
+      },
+      {
+        "q": "What is Usopp's sniper alter ego with a mask called?",
+        "a": "Sogeking"
+      },
+      {
+        "q": "Which pirate kills Whitebeard and steals his Devil Fruit?",
+        "a": "Blackbeard"
+      },
+      {
+        "q": "What is the name of the Straw Hats' cyborg's home city known for its shipwrights?",
+        "a": "Water 7"
+      },
+      {
+        "q": "Which Straw Hat says 'Yohoho' and asks women to see their panties?",
+        "a": "Brook"
+      },
+      {
+        "q": "What is the name of Big Mom's island territory?",
+        "a": "Whole Cake Island"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of the giant whale waiting at the entrance to the Grand Line?",
+        "a": "Laboon"
+      },
+      {
+        "q": "What island is Chopper from?",
+        "a": "Drum Island"
+      },
+      {
+        "q": "What is the name of Crocodile's criminal organization?",
+        "a": "Baroque Works"
+      },
+      {
+        "q": "What government island do the Straw Hats attack to rescue Robin?",
+        "a": "Enies Lobby"
+      },
+      {
+        "q": "Which Warlord scatters the Straw Hats across the world at Sabaody?",
+        "a": "Bartholomew Kuma"
+      },
+      {
+        "q": "Who was Gol D. Roger's first mate and trains Luffy in Haki?",
+        "a": "Silvers Rayleigh"
+      },
+      {
+        "q": "What is Whitebeard's Devil Fruit called?",
+        "a": "The Tremor-Tremor Fruit"
+      },
+      {
+        "q": "What is Trafalgar Law's Devil Fruit called?",
+        "a": "The Op-Op Fruit"
+      },
+      {
+        "q": "Which Warlord rules Dressrosa and fights with strings?",
+        "a": "Donquixote Doflamingo"
+      },
+      {
+        "q": "What is Sanji's family name, revealed during the Whole Cake arc?",
+        "a": "Vinsmoke"
+      },
+      {
+        "q": "What is the scientist on Egghead island called?",
+        "a": "Dr. Vegapunk"
+      },
+      {
+        "q": "Which admiral has an ice power and was known as Aokiji?",
+        "a": "Kuzan"
+      },
+      {
+        "q": "What is Luffy's technique of inflating his bones to giant size?",
+        "a": "Gear Third"
+      },
+      {
+        "q": "What are the world nobles who live on the Red Line called?",
+        "a": "Celestial Dragons"
+      },
+      {
+        "q": "What is the name of the sword Zoro inherited from his childhood friend Kuina?",
+        "a": "Wado Ichimonji"
+      },
+      {
+        "q": "What is Nico Robin's Devil Fruit called?",
+        "a": "The Flower-Flower Fruit"
+      },
+      {
+        "q": "What landmark must ships climb to enter the Grand Line?",
+        "a": "Reverse Mountain"
+      },
+      {
+        "q": "What is the name of Kaya's butler who is secretly a pirate captain in Syrup Village?",
+        "a": "Kuro"
+      },
+      {
+        "q": "What is the name of the Yonko whose real name is Charlotte Linlin?",
+        "a": "Big Mom"
+      },
+      {
+        "q": "What is the name of the system of seven government-allied pirates, abolished after Reverie?",
+        "a": "The Seven Warlords"
+      },
+      {
+        "q": "What is the name of the continent-sized landmass that circles the globe and divides the seas?",
+        "a": "The Red Line"
+      },
+      {
+        "q": "What is Kaido's crew called?",
+        "a": "The Beast Pirates"
+      },
+      {
+        "q": "Who was the Fleet Admiral before Akainu?",
+        "a": "Sengoku"
+      },
+      {
+        "q": "What is the name of Luffy's shadow-stealing enemy on Thriller Bark?",
+        "a": "Gecko Moria"
+      },
+      {
+        "q": "In what town was Gol D. Roger publicly executed?",
+        "a": "Loguetown"
+      },
+      {
+        "q": "What is the sea called between Skypiea and the Blue Sea, the region under the clouds?",
+        "a": "The White Sea"
+      },
+      {
+        "q": "What is the name of the pirate crew Jinbe captained before joining the Straw Hats?",
+        "a": "The Sun Pirates"
+      },
+      {
+        "q": "What is the name of Luffy's basic stretching punch, 'Gum-Gum ___'?",
+        "a": "Pistol"
+      },
+      {
+        "q": "What martial art does Jinbe use?",
+        "a": "Fish-Man Karate"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is Blackbeard's real name?",
+        "a": "Marshall D. Teach"
+      },
+      {
+        "q": "What is the name of Blackbeard's original Devil Fruit?",
+        "a": "The Dark-Dark Fruit"
+      },
+      {
+        "q": "What is the name of Gol D. Roger's ship?",
+        "a": "Oro Jackson"
+      },
+      {
+        "q": "What is the name of Whitebeard's ship?",
+        "a": "Moby Dick"
+      },
+      {
+        "q": "What is the name of Mihawk's giant black sword?",
+        "a": "Yoru"
+      },
+      {
+        "q": "What is the name of the cursed sword Zoro picks up in Loguetown?",
+        "a": "Sandai Kitetsu"
+      },
+      {
+        "q": "What is the name of the mountain bandit who raised Luffy and Ace?",
+        "a": "Dadan"
+      },
+      {
+        "q": "What island is Luffy's home village on?",
+        "a": "Dawn Island"
+      },
+      {
+        "q": "What is the name of Nami's adoptive mother, killed by Arlong?",
+        "a": "Bellemere"
+      },
+      {
+        "q": "What is the name of Nami's older sister?",
+        "a": "Nojiko"
+      },
+      {
+        "q": "What island was Nico Robin's home, destroyed by a Buster Call?",
+        "a": "Ohara"
+      },
+      {
+        "q": "Who was the self-proclaimed god of Skypiea with a lightning fruit?",
+        "a": "Enel"
+      },
+      {
+        "q": "What is the name of the government's secret assassin unit at Enies Lobby?",
+        "a": "CP9"
+      },
+      {
+        "q": "What crew was Brook part of before he died and returned as a skeleton?",
+        "a": "The Rumbar Pirates"
+      },
+      {
+        "q": "What is the name of Trafalgar Law's crew?",
+        "a": "The Heart Pirates"
+      },
+      {
+        "q": "What is the name of Kaido's child who idolizes Oden?",
+        "a": "Yamato"
+      },
+      {
+        "q": "What is the name of the scientist with a gas fruit on Punk Hazard?",
+        "a": "Caesar Clown"
+      },
+      {
+        "q": "What is the name of the giant duck Vivi rides?",
+        "a": "Karoo"
+      },
+      {
+        "q": "What is the name of the ballerina okama who befriends the Straw Hats and sacrifices himself in Impel Down?",
+        "a": "Bon Clay"
+      },
+      {
+        "q": "What is the name of the shipwright company Franky worked for in Water 7?",
+        "a": "Galley-La"
+      },
+      {
+        "q": "What is the name of the Marine friend Koby trains alongside under Garp?",
+        "a": "Helmeppo"
+      },
+      {
+        "q": "What is the name of the doctor who raised Chopper and dreamed of blooming cherry blossoms?",
+        "a": "Dr. Hiriluk"
+      },
+      {
+        "q": "What is Luffy's bounty after the Wano arc?",
+        "a": "3 billion berries"
+      },
+      {
+        "q": "What are the windless, Sea King-filled seas that flank the Grand Line called?",
+        "a": "The Calm Belt"
+      },
+      {
+        "q": "What is the holy city of the World Government atop the Red Line?",
+        "a": "Mary Geoise"
+      },
+      {
+        "q": "What is the name of Sanji's family's military organization?",
+        "a": "Germa 66"
+      },
+      {
+        "q": "What is the name of Doflamingo's Devil Fruit?",
+        "a": "The String-String Fruit"
+      },
+      {
+        "q": "What is the name of Jinbe's previous captain, the fish-man who founded the Sun Pirates?",
+        "a": "Fisher Tiger"
+      },
+      {
+        "q": "Which mink race island lives on the back of a giant elephant?",
+        "a": "Zou"
+      },
+      {
+        "q": "What is the name of the Thousand Sunny's giant energy blast weapon?",
+        "a": "Gaon Cannon"
+      },
+      {
+        "q": "Which admiral known as Kizaru has the power of light?",
+        "a": "Borsalino"
+      },
+      {
+        "q": "What village did Zoro train in as a child, sharing a dojo with Kuina?",
+        "a": "Shimotsuki Village"
+      },
+      {
+        "q": "Who was Franky's mentor, the legendary shipwright who built the Oro Jackson?",
+        "a": "Tom"
+      }
+    ]
+  },
+  "solo_leveling": {
+    "200": [
+      {
+        "q": "What single word does Jin-Woo say to raise a fallen enemy as a shadow?",
+        "a": "Arise"
+      },
+      {
+        "q": "What rank is Jin-Woo officially reassigned to after his re-evaluation?",
+        "a": "S-rank"
+      },
+      {
+        "q": "What weapons does Jin-Woo mainly fight with?",
+        "a": "Daggers"
+      },
+      {
+        "q": "What title does the System give Jin-Woo that no other hunter has?",
+        "a": "Player"
+      },
+      {
+        "q": "What year did the Solo Leveling anime premiere?",
+        "a": "2024"
+      },
+      {
+        "q": "What Japanese studio animated Solo Leveling?",
+        "a": "A-1 Pictures"
+      },
+      {
+        "q": "What is the name of the guild Jin-Woo founds?",
+        "a": "Ahjin Guild"
+      },
+      {
+        "q": "Which rich young hunter becomes the loyal vice guild master of the Ahjin Guild?",
+        "a": "Yoo Jin-Ho"
+      },
+      {
+        "q": "What weapon does Cha Hae-In fight with?",
+        "a": "A sword"
+      },
+      {
+        "q": "How many push-ups, sit-ups and squats does the daily quest demand?",
+        "a": "100 each"
+      },
+      {
+        "q": "How far must Jin-Woo run each day for his daily quest?",
+        "a": "10 kilometers"
+      },
+      {
+        "q": "What is the name of the wyvern shadow Jin-Woo rides as a flying mount?",
+        "a": "Kaisel"
+      },
+      {
+        "q": "What country is the story primarily set in?",
+        "a": "South Korea"
+      },
+      {
+        "q": "What is the subtitle of the second anime season?",
+        "a": "Arise from the Shadow"
+      },
+      {
+        "q": "What company developed the mobile game Solo Leveling: Arise?",
+        "a": "Netmarble"
+      },
+      {
+        "q": "What condition is Jin-Woo's mother in at the start of the story?",
+        "a": "A coma"
+      },
+      {
+        "q": "What is the name of the healer who survives the Double Dungeon alongside Jin-Woo?",
+        "a": "Lee Joo-Hee"
+      },
+      {
+        "q": "What color is the gate that traps Jin-Woo with White Tiger recruits in a frozen world?",
+        "a": "Red"
+      },
+      {
+        "q": "Which Japanese city is attacked by giants late in the story?",
+        "a": "Tokyo"
+      },
+      {
+        "q": "What was the profession of Jin-Woo's father before he went missing?",
+        "a": "Hunter"
+      },
+      {
+        "q": "What guild does Cha Hae-In belong to?",
+        "a": "The Hunters Guild"
+      },
+      {
+        "q": "What happens when a gate is not cleared in time?",
+        "a": "A dungeon break"
+      },
+      {
+        "q": "What is the name of the sequel manhwa that follows Jin-Woo's son?",
+        "a": "Solo Leveling: Ragnarok"
+      },
+      {
+        "q": "What is the punishment area Jin-Woo is sent to for ignoring his daily quest?",
+        "a": "The Penalty Zone"
+      },
+      {
+        "q": "What is the name of the American guild led by Thomas Andre?",
+        "a": "Scavenger Guild"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of the dragon that ravaged the United States, whose bones became Jin-Woo's daggers?",
+        "a": "Kamish"
+      },
+      {
+        "q": "What are Jin-Woo's signature dragon-bone daggers called?",
+        "a": "Kamish's Wrath"
+      },
+      {
+        "q": "What is the name of the Demon King Jin-Woo defeats at the top of the Demon Castle?",
+        "a": "Baran"
+      },
+      {
+        "q": "What is the name of the Monarch of Destruction, the strongest of the Monarchs?",
+        "a": "Antares"
+      },
+      {
+        "q": "What was Igris's title before Jin-Woo turned him into a shadow?",
+        "a": "Blood-Red Commander"
+      },
+      {
+        "q": "What skill lets Jin-Woo instantly swap places with any of his shadows?",
+        "a": "Shadow Exchange"
+      },
+      {
+        "q": "What is the name of the Double Dungeon's hidden chamber where the Statue of God resides?",
+        "a": "Cartenon Temple"
+      },
+      {
+        "q": "What is the name of Japan's strongest hunter who dies on Jeju Island?",
+        "a": "Goto Ryuji"
+      },
+      {
+        "q": "What special sense makes Cha Hae-In avoid other hunters?",
+        "a": "Smell"
+      },
+      {
+        "q": "What is the name of the ice elf lord from the Red Gate who becomes a shadow?",
+        "a": "Baruka"
+      },
+      {
+        "q": "What is the name of the trial Jin-Woo must pass to become a Necromancer?",
+        "a": "The Job Change Quest"
+      },
+      {
+        "q": "How many National Level Hunters existed before Jin-Woo?",
+        "a": "Five"
+      },
+      {
+        "q": "Which Chinese hunter is considered Asia's strongest National Level Hunter?",
+        "a": "Liu Zhigang"
+      },
+      {
+        "q": "What cosmic faction was Jin-Woo's father serving as a vessel for?",
+        "a": "The Rulers"
+      },
+      {
+        "q": "What was the pen name of the late artist who drew the Solo Leveling webtoon?",
+        "a": "Dubu"
+      },
+      {
+        "q": "Which composer, famous for Attack on Titan, scored the Solo Leveling anime?",
+        "a": "Hiroyuki Sawano"
+      },
+      {
+        "q": "What is the name of the company owned by Yoo Jin-Ho's family?",
+        "a": "Yoojin Construction"
+      },
+      {
+        "q": "What telekinetic skill of Jin-Woo's shares its name with the enemy faction?",
+        "a": "Ruler's Authority"
+      },
+      {
+        "q": "What is Jin-Woo renamed in the Japanese-localized version of the anime?",
+        "a": "Shun Mizushino"
+      },
+      {
+        "q": "What is the Beast Monarch's true name?",
+        "a": "Rakan"
+      },
+      {
+        "q": "What is the name of Jin-Woo's son in the epilogue?",
+        "a": "Sung Suho"
+      },
+      {
+        "q": "Which American National Level Hunter is killed by the Monarchs during their invasion?",
+        "a": "Christopher Reed"
+      },
+      {
+        "q": "Which C-rank hunter who tried to murder Jin-Woo in a dungeon becomes the shadow called Iron?",
+        "a": "Kim Chul"
+      },
+      {
+        "q": "Which hunter betrays Jin-Woo in a dungeon and is killed, sparking his brother's revenge?",
+        "a": "Hwang Dong-Suk"
+      },
+      {
+        "q": "What is the name of the elderly swordsman from the Double Dungeon who reappears later?",
+        "a": "Song Chi-Yul"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the name of Ashborn's first and strongest shadow, the Grand Marshal?",
+        "a": "Bellion"
+      },
+      {
+        "q": "What is the name of the Plague Monarch, queen of insects?",
+        "a": "Querehsha"
+      },
+      {
+        "q": "What is the name of the Monarch of Iron Body?",
+        "a": "Tarnak"
+      },
+      {
+        "q": "Which Monarch is the king of giants who attacks Tokyo?",
+        "a": "Legia"
+      },
+      {
+        "q": "What is the name of the Monarch of Transfiguration?",
+        "a": "Yogumunt"
+      },
+      {
+        "q": "What is the true name of the Frost Monarch?",
+        "a": "Sillad"
+      },
+      {
+        "q": "What item from the Demon Castle does Jin-Woo use to wake his mother?",
+        "a": "Holy Water of Life"
+      },
+      {
+        "q": "What is the name of the Indian National Level Hunter?",
+        "a": "Siddharth Bachchan"
+      },
+      {
+        "q": "What is the name of the Russian National Level Hunter?",
+        "a": "Yuri Orlov"
+      },
+      {
+        "q": "What is the demon noble family name of Esil?",
+        "a": "Radiru"
+      },
+      {
+        "q": "What is the second-highest shadow soldier grade, held by Beru and Igris?",
+        "a": "Marshal"
+      },
+      {
+        "q": "What is the name of Jin-Woo's elite orc shadow's original identity, a high orc shaman?",
+        "a": "Kargalgan"
+      },
+      {
+        "q": "What item lets Jin-Woo turn back time to before the gates appeared?",
+        "a": "The Cup of Reincarnation"
+      },
+      {
+        "q": "How many years into the past does Jin-Woo travel at the end?",
+        "a": "Ten"
+      },
+      {
+        "q": "What skill lets Jin-Woo store shadows inside his own shadow for later use?",
+        "a": "Shadow Storage"
+      },
+      {
+        "q": "Which Hunters Association inspector monitors Sung from his re-evaluation and later becomes chairman?",
+        "a": "Woo Jin-Chul"
+      },
+      {
+        "q": "Which K-pop group performs the first opening theme 'LEveL' with Hiroyuki Sawano?",
+        "a": "TOMORROW X TOGETHER"
+      },
+      {
+        "q": "On what Korean platform was the Solo Leveling webtoon first published?",
+        "a": "KakaoPage"
+      },
+      {
+        "q": "Who is the Japanese Hunters Association chairman who tries to exploit the Jeju Island raid?",
+        "a": "Matsumoto Shigeo"
+      }
+    ]
+  },
+  "pokemon": {
+    "200": [
+      {
+        "q": "What is Pikachu's baby pre-evolution?",
+        "a": "Pichu"
+      },
+      {
+        "q": "Which Cerulean City gym leader travels with Ash and Brock?",
+        "a": "Misty"
+      },
+      {
+        "q": "What is the title of the first Pokémon movie?",
+        "a": "Mewtwo Strikes Back"
+      },
+      {
+        "q": "What move does Magikarp know that does absolutely nothing?",
+        "a": "Splash"
+      },
+      {
+        "q": "How old is Ash Ketchum when he begins his journey?",
+        "a": "10"
+      },
+      {
+        "q": "What is the second line of Team Rocket's motto after 'Prepare for trouble'?",
+        "a": "Make it double"
+      },
+      {
+        "q": "Which of Ash's Pokémon famously disobeyed him for a long time after evolving?",
+        "a": "Charizard"
+      },
+      {
+        "q": "What 1998 game let you choose Pikachu as your starter in Kanto?",
+        "a": "Pokémon Yellow"
+      },
+      {
+        "q": "What company developed Pokémon GO?",
+        "a": "Niantic"
+      },
+      {
+        "q": "What studio develops the main-series Pokémon games?",
+        "a": "Game Freak"
+      },
+      {
+        "q": "Which region are Pokémon Sun and Moon set in, based on Hawaii?",
+        "a": "Alola"
+      },
+      {
+        "q": "Which region are Pokémon Sword and Shield set in, based on Great Britain?",
+        "a": "Galar"
+      },
+      {
+        "q": "What type was introduced in Pokémon X and Y?",
+        "a": "Fairy"
+      },
+      {
+        "q": "What is the water-type frog starter of Kalos that Ash bonds with?",
+        "a": "Froakie"
+      },
+      {
+        "q": "What is the blue punching-bag Pokémon that keeps popping out of Jessie's Poké Ball?",
+        "a": "Wobbuffet"
+      },
+      {
+        "q": "What Pokémon carries a leek or stick?",
+        "a": "Farfetch'd"
+      },
+      {
+        "q": "What Pokémon does Haunter evolve into when traded?",
+        "a": "Gengar"
+      },
+      {
+        "q": "What Pokémon does Dratini evolve into?",
+        "a": "Dragonair"
+      },
+      {
+        "q": "What Pokémon is on the box of Pokémon Gold?",
+        "a": "Ho-Oh"
+      },
+      {
+        "q": "What Pokémon is on the box of Pokémon Silver?",
+        "a": "Lugia"
+      },
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon Ruby?",
+        "a": "Groudon"
+      },
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon Sapphire?",
+        "a": "Kyogre"
+      },
+      {
+        "q": "What egg Pokémon hatches and is raised by Misty in the anime?",
+        "a": "Togepi"
+      },
+      {
+        "q": "What was the first Pokémon Ash caught, a bug that later evolved and was released?",
+        "a": "Caterpie"
+      },
+      {
+        "q": "What is the name of Ash's mother?",
+        "a": "Delia"
+      },
+      {
+        "q": "What Pokémon does Nurse Joy use as her assistant in Kanto?",
+        "a": "Chansey"
+      },
+      {
+        "q": "Which team in Pokémon GO is blue?",
+        "a": "Team Mystic"
+      }
+    ],
+    "400": [
+      {
+        "q": "What year were Pokémon Red and Green first released in Japan?",
+        "a": "1996"
+      },
+      {
+        "q": "Who created Pokémon?",
+        "a": "Satoshi Tajiri"
+      },
+      {
+        "q": "What region is based on France?",
+        "a": "Kalos"
+      },
+      {
+        "q": "What region is based on New York City?",
+        "a": "Unova"
+      },
+      {
+        "q": "What region is based on Spain and the Iberian Peninsula?",
+        "a": "Paldea"
+      },
+      {
+        "q": "Which Eeveelution evolves via friendship during the day?",
+        "a": "Espeon"
+      },
+      {
+        "q": "Which Eeveelution evolves via friendship at night?",
+        "a": "Umbreon"
+      },
+      {
+        "q": "Which Eeveelution is the Fairy-type?",
+        "a": "Sylveon"
+      },
+      {
+        "q": "Which type is immune to Ghost-type moves?",
+        "a": "Normal"
+      },
+      {
+        "q": "Which type is immune to Electric-type moves?",
+        "a": "Ground"
+      },
+      {
+        "q": "Which type is immune to Psychic-type moves?",
+        "a": "Dark"
+      },
+      {
+        "q": "What is Gengar's type combination?",
+        "a": "Ghost and Poison"
+      },
+      {
+        "q": "What is Lucario's type combination?",
+        "a": "Fighting and Steel"
+      },
+      {
+        "q": "What evil team in Hoenn wants to expand the oceans?",
+        "a": "Team Aqua"
+      },
+      {
+        "q": "What evil team in Hoenn wants to expand the land?",
+        "a": "Team Magma"
+      },
+      {
+        "q": "What evil team in Sinnoh tries to remake the universe?",
+        "a": "Team Galactic"
+      },
+      {
+        "q": "What evil team in Unova claims to want to liberate Pokémon?",
+        "a": "Team Plasma"
+      },
+      {
+        "q": "Who is the professor of the Hoenn region?",
+        "a": "Professor Birch"
+      },
+      {
+        "q": "What is the name of the ancient version of Sinnoh in Pokémon Legends: Arceus?",
+        "a": "Hisui"
+      },
+      {
+        "q": "What gimmick in Sword and Shield makes Pokémon giant for three turns?",
+        "a": "Dynamax"
+      },
+      {
+        "q": "What gimmick in Scarlet and Violet changes a Pokémon's type?",
+        "a": "Terastallization"
+      },
+      {
+        "q": "What gimmick in Sun and Moon unleashes a once-per-battle super attack?",
+        "a": "Z-Moves"
+      },
+      {
+        "q": "What is the legendary Pokémon on the box of Pokémon Sword?",
+        "a": "Zacian"
+      },
+      {
+        "q": "What is the legendary Pokémon on the box of Pokémon Shield?",
+        "a": "Zamazenta"
+      },
+      {
+        "q": "What is the legendary Pokémon on the box of Pokémon Scarlet?",
+        "a": "Koraidon"
+      },
+      {
+        "q": "What is the legendary Pokémon on the box of Pokémon Violet?",
+        "a": "Miraidon"
+      },
+      {
+        "q": "What is the only move Ditto knows?",
+        "a": "Transform"
+      },
+      {
+        "q": "What color is the shiny Gyarados at the Lake of Rage?",
+        "a": "Red"
+      },
+      {
+        "q": "What city is Detective Pikachu set in?",
+        "a": "Ryme City"
+      },
+      {
+        "q": "What console were Pokémon Diamond and Pearl released on?",
+        "a": "Nintendo DS"
+      },
+      {
+        "q": "What handheld were Pokémon Gold and Silver released on?",
+        "a": "Game Boy Color"
+      },
+      {
+        "q": "What Pokémon did Ash release into the wild in the tearful episode where it flew off to mate?",
+        "a": "Butterfree"
+      },
+      {
+        "q": "What Pokémon of Misty's constantly pops out of its ball and gets headaches?",
+        "a": "Psyduck"
+      },
+      {
+        "q": "What is the pseudo-legendary Steel/Psychic Pokémon of Hoenn?",
+        "a": "Metagross"
+      },
+      {
+        "q": "What Pokémon is Champion Cynthia's signature ace?",
+        "a": "Garchomp"
+      },
+      {
+        "q": "Which Galar champion, undefeated for years, does Ash beat to become world champion?",
+        "a": "Leon"
+      },
+      {
+        "q": "What Pokémon evolves from Slowpoke when traded holding a King's Rock?",
+        "a": "Slowking"
+      },
+      {
+        "q": "Which psychic Pokémon holds two spoons in its final evolution?",
+        "a": "Alakazam"
+      }
+    ],
+    "600": [
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon Black?",
+        "a": "Reshiram"
+      },
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon White?",
+        "a": "Zekrom"
+      },
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon X?",
+        "a": "Xerneas"
+      },
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon Y?",
+        "a": "Yveltal"
+      },
+      {
+        "q": "What legendary Pokémon is on the box of Pokémon Moon?",
+        "a": "Lunala"
+      },
+      {
+        "q": "Who is the professor of the Kalos region?",
+        "a": "Professor Sycamore"
+      },
+      {
+        "q": "Who is the professor of the Alola region?",
+        "a": "Professor Kukui"
+      },
+      {
+        "q": "Who is the professor of the Unova region?",
+        "a": "Professor Juniper"
+      },
+      {
+        "q": "Who leads Team Galactic?",
+        "a": "Cyrus"
+      },
+      {
+        "q": "Who leads Team Flare in Kalos?",
+        "a": "Lysandre"
+      },
+      {
+        "q": "What is the name of Team Plasma's puppet king who befriends Pokémon?",
+        "a": "N"
+      },
+      {
+        "q": "Which gym leader of Vermilion City uses Electric-types?",
+        "a": "Lt. Surge"
+      },
+      {
+        "q": "Which Kanto gym leader is a psychic girl from Saffron City?",
+        "a": "Sabrina"
+      },
+      {
+        "q": "Which city's gym in Kanto is secretly run by Giovanni?",
+        "a": "Viridian City"
+      },
+      {
+        "q": "Who runs the Viridian City gym in Gold and Silver?",
+        "a": "Blue"
+      },
+      {
+        "q": "Which Normal-type Pokémon has a base stat total of 670 but the Truant ability?",
+        "a": "Slaking"
+      },
+      {
+        "q": "How many different letter forms does Unown have, including punctuation?",
+        "a": "28"
+      },
+      {
+        "q": "Who designed Pikachu and most original Pokémon as Game Freak's art director?",
+        "a": "Ken Sugimori"
+      },
+      {
+        "q": "What Pokémon is number 1000 in the National Pokédex?",
+        "a": "Gholdengo"
+      },
+      {
+        "q": "What is the largest number of Pokémon species as of the Scarlet and Violet DLC?",
+        "a": "1025"
+      },
+      {
+        "q": "What Kalos city is Pokémon Legends: Z-A set in?",
+        "a": "Lumiose City"
+      },
+      {
+        "q": "What Pokémon of James's habitually chomps on his head?",
+        "a": "Victreebel"
+      },
+      {
+        "q": "What Pokémon does Officer Jenny use in Kanto?",
+        "a": "Growlithe"
+      },
+      {
+        "q": "What starter did Gary Oak choose in the anime?",
+        "a": "Squirtle"
+      },
+      {
+        "q": "What starter does your rival get in Pokémon Yellow?",
+        "a": "Eevee"
+      },
+      {
+        "q": "What is the name of the new anime protagonist duo who replaced Ash in 2023?",
+        "a": "Liko and Roy"
+      },
+      {
+        "q": "What Pokémon is known as the Sky High Pokémon and lives in the ozone layer?",
+        "a": "Rayquaza"
+      },
+      {
+        "q": "What Pokémon's signature move is Judgment?",
+        "a": "Arceus"
+      },
+      {
+        "q": "What Alola evil team of punks is led by Guzma?",
+        "a": "Team Skull"
+      },
+      {
+        "q": "Who is the Steel-type Champion of Hoenn in Ruby and Sapphire?",
+        "a": "Steven Stone"
+      },
+      {
+        "q": "Which Johto legendary trio was revived by Ho-Oh after the Burned Tower fire?",
+        "a": "Raikou, Entei and Suicune"
+      },
+      {
+        "q": "What is the Ghost/Dragon legendary banished to the Distortion World?",
+        "a": "Giratina"
+      }
+    ]
+  },
+  "video_games": {
+    "200": [
+      {
+        "q": "What raccoon runs the shop and hands out home loans in Animal Crossing?",
+        "a": "Tom Nook"
+      },
+      {
+        "q": "What does EA now call its football series after dropping the FIFA name?",
+        "a": "EA Sports FC"
+      },
+      {
+        "q": "What Rockstar series is set in the American Wild West?",
+        "a": "Red Dead Redemption"
+      },
+      {
+        "q": "What golden triangular relic is central to The Legend of Zelda?",
+        "a": "The Triforce"
+      },
+      {
+        "q": "What is Sonic's two-tailed fox sidekick called?",
+        "a": "Tails"
+      },
+      {
+        "q": "What is Sonic's red echidna rival-turned-friend called?",
+        "a": "Knuckles"
+      },
+      {
+        "q": "What Valve digital store is the biggest PC game marketplace?",
+        "a": "Steam"
+      },
+      {
+        "q": "What Valve shooter pits Terrorists against an anti-terror team?",
+        "a": "Counter-Strike"
+      },
+      {
+        "q": "Skyrim is part of which fantasy RPG series?",
+        "a": "The Elder Scrolls"
+      },
+      {
+        "q": "What 2020 CD Projekt Red game is set in Night City?",
+        "a": "Cyberpunk 2077"
+      },
+      {
+        "q": "What creature is Spyro?",
+        "a": "A dragon"
+      },
+      {
+        "q": "What Nintendo crossover fighting series includes Mario, Link and Pikachu?",
+        "a": "Super Smash Bros."
+      },
+      {
+        "q": "What sport is Rocket League based on, played with cars?",
+        "a": "Soccer"
+      },
+      {
+        "q": "What is the 'Finish Him' finishing move in Mortal Kombat called?",
+        "a": "Fatality"
+      },
+      {
+        "q": "Which Mortal Kombat ninja yells 'Get over here!'?",
+        "a": "Scorpion"
+      },
+      {
+        "q": "Which Mortal Kombat ninja freezes his opponents?",
+        "a": "Sub-Zero"
+      },
+      {
+        "q": "What tabletop game is Baldur's Gate 3 based on?",
+        "a": "Dungeons & Dragons"
+      },
+      {
+        "q": "What is Roblox's in-game currency called?",
+        "a": "Robux"
+      },
+      {
+        "q": "What melee weapon is Half-Life's Gordon Freeman famous for?",
+        "a": "A crowbar"
+      },
+      {
+        "q": "What is the mushroom-headed character who serves Princess Peach?",
+        "a": "Toad"
+      },
+      {
+        "q": "Who is Mario's greedy yellow-clad rival?",
+        "a": "Wario"
+      },
+      {
+        "q": "What year did the Nintendo Switch 2 launch?",
+        "a": "2025"
+      },
+      {
+        "q": "What game was bundled with Nintendo's 2006 console and got families bowling in living rooms?",
+        "a": "Wii Sports"
+      },
+      {
+        "q": "What company made Pong and the 2600 console?",
+        "a": "Atari"
+      },
+      {
+        "q": "In which country was Tetris created?",
+        "a": "The Soviet Union"
+      },
+      {
+        "q": "Which Nintendo bounty hunter stars in the Metroid series?",
+        "a": "Samus Aran"
+      },
+      {
+        "q": "What is the name of the villain in most Zelda games, the King of Evil?",
+        "a": "Ganon"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of Link's horse?",
+        "a": "Epona"
+      },
+      {
+        "q": "What was the first 3D Legend of Zelda game, released in 1998?",
+        "a": "Ocarina of Time"
+      },
+      {
+        "q": "What is the 2023 sequel to Breath of the Wild?",
+        "a": "Tears of the Kingdom"
+      },
+      {
+        "q": "What was the first game Mario appeared in?",
+        "a": "Donkey Kong"
+      },
+      {
+        "q": "How many Power Stars are there in Super Mario 64?",
+        "a": "120"
+      },
+      {
+        "q": "What is the name of the sentient hat in Super Mario Odyssey?",
+        "a": "Cappy"
+      },
+      {
+        "q": "Who is the protagonist of the first Red Dead Redemption?",
+        "a": "John Marston"
+      },
+      {
+        "q": "How many playable protagonists does GTA V have?",
+        "a": "3"
+      },
+      {
+        "q": "Who is the protagonist of GTA: San Andreas?",
+        "a": "CJ"
+      },
+      {
+        "q": "What fictional city is GTA III set in?",
+        "a": "Liberty City"
+      },
+      {
+        "q": "What is the name of Halo's AI companion to Master Chief?",
+        "a": "Cortana"
+      },
+      {
+        "q": "What is Kratos's frost weapon called in God of War (2018)?",
+        "a": "The Leviathan Axe"
+      },
+      {
+        "q": "What is the name of the protagonist of Horizon Zero Dawn?",
+        "a": "Aloy"
+      },
+      {
+        "q": "What fungus causes the infection in The Last of Us?",
+        "a": "Cordyceps"
+      },
+      {
+        "q": "What is the card game played within The Witcher 3?",
+        "a": "Gwent"
+      },
+      {
+        "q": "What is the name of Geralt's horse?",
+        "a": "Roach"
+      },
+      {
+        "q": "What is Fallout's currency?",
+        "a": "Bottle caps"
+      },
+      {
+        "q": "What is Fallout's grinning blond mascot called?",
+        "a": "Vault Boy"
+      },
+      {
+        "q": "What FromSoftware game is set in the gothic city of Yharnam?",
+        "a": "Bloodborne"
+      },
+      {
+        "q": "What is the world of Elden Ring called?",
+        "a": "The Lands Between"
+      },
+      {
+        "q": "What is the map in League of Legends called?",
+        "a": "Summoner's Rift"
+      },
+      {
+        "q": "Which Overwatch hero blinks through time and says 'Cheers, love!'?",
+        "a": "Tracer"
+      },
+      {
+        "q": "What company created Overwatch and Diablo?",
+        "a": "Blizzard"
+      },
+      {
+        "q": "What world is World of Warcraft set in?",
+        "a": "Azeroth"
+      },
+      {
+        "q": "What is the currency in The Sims?",
+        "a": "Simoleons"
+      },
+      {
+        "q": "What is the gibberish language spoken in The Sims?",
+        "a": "Simlish"
+      },
+      {
+        "q": "Who created the Civilization series?",
+        "a": "Sid Meier"
+      },
+      {
+        "q": "What corporation is behind the outbreak in Resident Evil?",
+        "a": "Umbrella"
+      },
+      {
+        "q": "What Japanese designer created Metal Gear and Death Stranding?",
+        "a": "Hideo Kojima"
+      },
+      {
+        "q": "What game series has Ryu, Ken and Chun-Li?",
+        "a": "Street Fighter"
+      },
+      {
+        "q": "What Bandai Namco fighting series features the Mishima family?",
+        "a": "Tekken"
+      },
+      {
+        "q": "What was the NES called in Japan?",
+        "a": "Famicom"
+      },
+      {
+        "q": "What is the best-selling Nintendo Switch game?",
+        "a": "Mario Kart 8 Deluxe"
+      },
+      {
+        "q": "What is Cuphead's art style based on?",
+        "a": "1930s cartoons"
+      },
+      {
+        "q": "Which vampire-hunting family stars in Castlevania?",
+        "a": "The Belmonts"
+      },
+      {
+        "q": "What Ubisoft shooter features villains Vaas and Pagan Min?",
+        "a": "Far Cry"
+      },
+      {
+        "q": "What is the name of Kirby's penguin rival?",
+        "a": "King Dedede"
+      },
+      {
+        "q": "What Assassin's Creed game is set in ancient Greece?",
+        "a": "Odyssey"
+      },
+      {
+        "q": "What are the seven powerful gems Sonic collects called?",
+        "a": "Chaos Emeralds"
+      },
+      {
+        "q": "What 16-bit console launched Sonic?",
+        "a": "Sega Genesis"
+      },
+      {
+        "q": "What Call of Duty subseries features Captain Price and Soap?",
+        "a": "Modern Warfare"
+      },
+      {
+        "q": "What was the original Call of Duty: Warzone map?",
+        "a": "Verdansk"
+      },
+      {
+        "q": "Who is the rockerboy living in V's head in Cyberpunk 2077?",
+        "a": "Johnny Silverhand"
+      },
+      {
+        "q": "Who is the protagonist of Ghost of Tsushima?",
+        "a": "Jin Sakai"
+      },
+      {
+        "q": "What talking cat companion in Persona 5 can turn into a bus?",
+        "a": "Morgana"
+      },
+      {
+        "q": "What game series was renamed Like a Dragon in the West?",
+        "a": "Yakuza"
+      },
+      {
+        "q": "What Chinese novel is Black Myth: Wukong based on?",
+        "a": "Journey to the West"
+      },
+      {
+        "q": "What planet do Helldivers spread 'managed democracy' for?",
+        "a": "Super Earth"
+      },
+      {
+        "q": "What card game is the roguelike Balatro built around?",
+        "a": "Poker"
+      },
+      {
+        "q": "What game won Game of the Year at The Game Awards 2022?",
+        "a": "Elden Ring"
+      },
+      {
+        "q": "What year did GTA V originally release?",
+        "a": "2013"
+      },
+      {
+        "q": "What is the name of Ratchet's robot companion?",
+        "a": "Clank"
+      },
+      {
+        "q": "What is the name of the blindfolded android protagonist of NieR: Automata?",
+        "a": "2B"
+      }
+    ],
+    "600": [
+      {
+        "q": "What was Mario's name in the original Donkey Kong arcade game?",
+        "a": "Jumpman"
+      },
+      {
+        "q": "Who was the damsel Mario rescued in the original Donkey Kong?",
+        "a": "Pauline"
+      },
+      {
+        "q": "What British studio made Donkey Kong Country and GoldenEye 007?",
+        "a": "Rare"
+      },
+      {
+        "q": "What was Sega's final home console?",
+        "a": "Dreamcast"
+      },
+      {
+        "q": "What is the name of the red ghost in Pac-Man?",
+        "a": "Blinky"
+      },
+      {
+        "q": "What Japanese company created Space Invaders?",
+        "a": "Taito"
+      },
+      {
+        "q": "Who invented Tetris?",
+        "a": "Alexey Pajitnov"
+      },
+      {
+        "q": "Who founded Atari?",
+        "a": "Nolan Bushnell"
+      },
+      {
+        "q": "What is the 'Fus Ro Dah' shout in Skyrim officially called?",
+        "a": "Unrelenting Force"
+      },
+      {
+        "q": "Which numbered shelter does the player leave at the start of Fallout 3?",
+        "a": "Vault 101"
+      },
+      {
+        "q": "What is the name of the first major boss in Elden Ring, the Fell Omen?",
+        "a": "Margit"
+      },
+      {
+        "q": "What is Elden Ring's 2024 expansion called?",
+        "a": "Shadow of the Erdtree"
+      },
+      {
+        "q": "What is the name of Nathan Drake's cigar-smoking mentor?",
+        "a": "Victor Sullivan"
+      },
+      {
+        "q": "What is the name of Commander Shepard's ship in Mass Effect?",
+        "a": "The Normandy"
+      },
+      {
+        "q": "What is the second AI voice, a bumbling personality core, in Portal 2?",
+        "a": "Wheatley"
+      },
+      {
+        "q": "How many classes are in Team Fortress 2?",
+        "a": "9"
+      },
+      {
+        "q": "What country is Resident Evil 4 set in?",
+        "a": "Spain"
+      },
+      {
+        "q": "In which game did Pyramid Head first appear?",
+        "a": "Silent Hill 2"
+      },
+      {
+        "q": "What is the name of the engineer protagonist of Dead Space?",
+        "a": "Isaac Clarke"
+      },
+      {
+        "q": "What Japanese studio made Bayonetta?",
+        "a": "PlatinumGames"
+      },
+      {
+        "q": "Who is the villain of Diablo IV, the Daughter of Hatred?",
+        "a": "Lilith"
+      },
+      {
+        "q": "What are the three playable races in StarCraft?",
+        "a": "Terran, Zerg and Protoss"
+      },
+      {
+        "q": "What year was the original Game Boy released?",
+        "a": "1989"
+      },
+      {
+        "q": "What was Nintendo's failed 1995 red-and-black 3D headset console?",
+        "a": "Virtual Boy"
+      },
+      {
+        "q": "Who hosts The Game Awards?",
+        "a": "Geoff Keighley"
+      },
+      {
+        "q": "What game won Game of the Year at The Game Awards 2024?",
+        "a": "Astro Bot"
+      },
+      {
+        "q": "What game won Game of the Year at The Game Awards 2021?",
+        "a": "It Takes Two"
+      },
+      {
+        "q": "What French RPG released in 2025 has a Paintress who erases everyone of a certain age each year?",
+        "a": "Clair Obscur: Expedition 33"
+      },
+      {
+        "q": "Which Star Fox character tells you to 'do a barrel roll'?",
+        "a": "Peppy Hare"
+      },
+      {
+        "q": "What is the name of the protagonist of EarthBound?",
+        "a": "Ness"
+      },
+      {
+        "q": "What is the name of the owl who runs the museum in Animal Crossing?",
+        "a": "Blathers"
+      },
+      {
+        "q": "What fictional country is Papers, Please set in?",
+        "a": "Arstotzka"
+      },
+      {
+        "q": "How long is the time loop in Outer Wilds?",
+        "a": "22 minutes"
+      },
+      {
+        "q": "What city is Disco Elysium set in?",
+        "a": "Revachol"
+      },
+      {
+        "q": "What is the name of the school in Bully?",
+        "a": "Bullworth Academy"
+      },
+      {
+        "q": "Who is the protagonist of GTA IV?",
+        "a": "Niko Bellic"
+      },
+      {
+        "q": "Which GTA V protagonist is the unhinged meth dealer from Sandy Shores?",
+        "a": "Trevor"
+      },
+      {
+        "q": "What is the name of the town in Alan Wake?",
+        "a": "Bright Falls"
+      },
+      {
+        "q": "What is the name of the city in Dishonored?",
+        "a": "Dunwall"
+      },
+      {
+        "q": "What is the name of the AI antagonist in System Shock?",
+        "a": "SHODAN"
+      },
+      {
+        "q": "What Swedish studio develops Battlefield?",
+        "a": "DICE"
+      },
+      {
+        "q": "What is the name of the enemy species in Gears of War?",
+        "a": "The Locust"
+      },
+      {
+        "q": "Which ancient race built the Halo rings?",
+        "a": "The Forerunners"
+      },
+      {
+        "q": "Which studio developed Gran Turismo?",
+        "a": "Polyphony Digital"
+      },
+      {
+        "q": "Who is the solo developer behind Stardew Valley?",
+        "a": "Eric Barone"
+      },
+      {
+        "q": "What is the final boss of Terraria?",
+        "a": "Moon Lord"
+      },
+      {
+        "q": "What is the name of the Hades II protagonist, Zagreus's sister?",
+        "a": "Melinoë"
+      },
+      {
+        "q": "Which Elden Ring boss is known as the Blade of Miquella?",
+        "a": "Malenia"
+      },
+      {
+        "q": "What is the name of the protagonist of Final Fantasy XVI?",
+        "a": "Clive Rosfield"
+      }
+    ]
+  },
+  "fortnite": {
+    "200": [
+      {
+        "q": "What is the name of the banana-bodied character skin?",
+        "a": "Peely"
+      },
+      {
+        "q": "What is the name of the fish-headed character skin?",
+        "a": "Fishstick"
+      },
+      {
+        "q": "What is the name of the muscular cat character introduced in Chapter 2?",
+        "a": "Meowscles"
+      },
+      {
+        "q": "What golden-touch character ran The Agency in Chapter 2?",
+        "a": "Midas"
+      },
+      {
+        "q": "What item fully restores health and shield but takes about 15 seconds to drink?",
+        "a": "Chug Jug"
+      },
+      {
+        "q": "What healing item restores 100 health but not shield?",
+        "a": "Med Kit"
+      },
+      {
+        "q": "What small fish heals you when eaten?",
+        "a": "Flopper"
+      },
+      {
+        "q": "What glowing purple tear in the sky lets you relaunch into the air?",
+        "a": "A Rift"
+      },
+      {
+        "q": "What nickname does the Legendary assault rifle go by?",
+        "a": "SCAR"
+      },
+      {
+        "q": "Who is the CEO of Epic Games?",
+        "a": "Tim Sweeney"
+      },
+      {
+        "q": "Which company did Epic sue in 2020 after Fortnite was pulled from the App Store?",
+        "a": "Apple"
+      },
+      {
+        "q": "How many tiers are in a standard Battle Pass?",
+        "a": "100"
+      },
+      {
+        "q": "How much does the Battle Pass cost in V-Bucks?",
+        "a": "950"
+      },
+      {
+        "q": "What monthly subscription gives an exclusive skin and V-Bucks each month?",
+        "a": "Fortnite Crew"
+      },
+      {
+        "q": "Which streamer received the first Icon Series skin?",
+        "a": "Ninja"
+      },
+      {
+        "q": "Which basketball star got an Icon Series skin in 2021?",
+        "a": "LeBron James"
+      },
+      {
+        "q": "Which pop star headlined the Rift Tour event in 2021?",
+        "a": "Ariana Grande"
+      },
+      {
+        "q": "Which DJ held the first in-game concert in February 2019?",
+        "a": "Marshmello"
+      },
+      {
+        "q": "Which rapper headlined the Big Bang live event in December 2023?",
+        "a": "Eminem"
+      },
+      {
+        "q": "What driving mode built by Psyonix launched in Fortnite in late 2023?",
+        "a": "Rocket Racing"
+      },
+      {
+        "q": "What is the pink teddy-bear costume skin called?",
+        "a": "Cuddle Team Leader"
+      },
+      {
+        "q": "What grenade forces enemies caught in it to dance?",
+        "a": "Boogie Bomb"
+      },
+      {
+        "q": "What throwable instantly builds a tower to stand in?",
+        "a": "Port-a-Fort"
+      },
+      {
+        "q": "What is the name of the Chapter 5 season villain who is the Greek king of the gods?",
+        "a": "Zeus"
+      },
+      {
+        "q": "Who won the solo Fortnite World Cup in 2019?",
+        "a": "Bugha"
+      },
+      {
+        "q": "How much prize money did the 2019 solo World Cup winner take home?",
+        "a": "$3 million"
+      },
+      {
+        "q": "Which animated sitcom's dad, Peter Griffin, got a skin in Chapter 5?",
+        "a": "Family Guy"
+      },
+      {
+        "q": "What blue drink heals health and shield over time?",
+        "a": "Slurp Juice"
+      }
+    ],
+    "400": [
+      {
+        "q": "What Season 2 Battle Pass tier-70 skin became a status symbol for OG players?",
+        "a": "Black Knight"
+      },
+      {
+        "q": "What Season 5 skin with a fox mask evolves as you level?",
+        "a": "Drift"
+      },
+      {
+        "q": "What skeleton skin's return in 2018 sparked an OG outrage?",
+        "a": "Skull Trooper"
+      },
+      {
+        "q": "What was the desert POI added in Season 5?",
+        "a": "Paradise Palms"
+      },
+      {
+        "q": "What POI had an ice castle during Season 7?",
+        "a": "Polar Peak"
+      },
+      {
+        "q": "What was the giant mech vehicle added in Season X?",
+        "a": "B.R.U.T.E."
+      },
+      {
+        "q": "What was the biplane vehicle in Season 7 called?",
+        "a": "X-4 Stormwing"
+      },
+      {
+        "q": "What Marvel villain was the antagonist of the Nexus War season?",
+        "a": "Galactus"
+      },
+      {
+        "q": "Which IO scientist was the main antagonist of Chapter 2 Seasons 7 and 8?",
+        "a": "Doctor Slone"
+      },
+      {
+        "q": "Which Star Wars bounty hunter headlined the Chapter 2 Season 5 Battle Pass?",
+        "a": "The Mandalorian"
+      },
+      {
+        "q": "Which Marvel hero was the secret skin of Chapter 2 Season 2?",
+        "a": "Deadpool"
+      },
+      {
+        "q": "Which DC hero was the secret skin of Chapter 2 Season 3?",
+        "a": "Aquaman"
+      },
+      {
+        "q": "Which Marvel mutant was the secret skin of Chapter 2 Season 4?",
+        "a": "Wolverine"
+      },
+      {
+        "q": "Which web-slinger headlined the Chapter 3 Season 1 Battle Pass?",
+        "a": "Spider-Man"
+      },
+      {
+        "q": "Which Witcher appeared in the Chapter 4 Season 1 Battle Pass?",
+        "a": "Geralt"
+      },
+      {
+        "q": "Which Marvel villain took over the island in Chapter 5 Season 4?",
+        "a": "Doctor Doom"
+      },
+      {
+        "q": "What first-person 5v5 mode launched in December 2024?",
+        "a": "Ballistic"
+      },
+      {
+        "q": "What shorter 40-player mode with respawns launched in 2024?",
+        "a": "Reload"
+      },
+      {
+        "q": "Which metal band headlined a Fortnite Festival season in June 2024?",
+        "a": "Metallica"
+      },
+      {
+        "q": "Which Canadian singer headlined the first Fortnite Festival season?",
+        "a": "The Weeknd"
+      },
+      {
+        "q": "What footballer headlined the Chapter 2 Season 6 Battle Pass?",
+        "a": "Neymar Jr"
+      },
+      {
+        "q": "What giant, friendly dinosaur roamed the map in Chapter 3 Season 1?",
+        "a": "Klombo"
+      },
+      {
+        "q": "Which chapter introduced sprinting, mantling and Zero Build?",
+        "a": "Chapter 3"
+      },
+      {
+        "q": "What is the name of the chrome-covered season of Chapter 3?",
+        "a": "Paradise"
+      },
+      {
+        "q": "What was the codename for the original Chapter 1 island?",
+        "a": "Athena"
+      },
+      {
+        "q": "What was the codename for the Chapter 2 island?",
+        "a": "Apollo"
+      },
+      {
+        "q": "What was the giant hamster-ball vehicle called?",
+        "a": "The Baller"
+      },
+      {
+        "q": "What throwable launches players away without dealing damage?",
+        "a": "Shockwave Grenade"
+      },
+      {
+        "q": "What is the Chinese company that owns roughly 40% of Epic Games?",
+        "a": "Tencent"
+      },
+      {
+        "q": "What Epic ad parodied Apple's famous 1984 commercial?",
+        "a": "Nineteen Eighty-Fortnite"
+      },
+      {
+        "q": "What New York tennis venue hosted the 2019 Fortnite World Cup?",
+        "a": "Arthur Ashe Stadium"
+      },
+      {
+        "q": "What city hosted the first FNCS Global Championship in 2023?",
+        "a": "Copenhagen"
+      },
+      {
+        "q": "What Chapter 1 Season 4 skin arrived with the meteor and later launched the rocket?",
+        "a": "The Visitor"
+      },
+      {
+        "q": "What is the name of the mode that returned the original map in November 2023?",
+        "a": "Fortnite OG"
+      },
+      {
+        "q": "What is the Chapter 2 Season 2 spy faction opposing Ghost?",
+        "a": "Shadow"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which Season 1 skin is considered the rarest OG skin, sold for 1,200 V-Bucks at level 20?",
+        "a": "Renegade Raider"
+      },
+      {
+        "q": "What mythic sword from another Epic game was added in Season 7 and quickly vaulted?",
+        "a": "Infinity Blade"
+      },
+      {
+        "q": "What laser rifle was in the game for a single day in 2017?",
+        "a": "Zapotron"
+      },
+      {
+        "q": "What was the Chapter 2 Season 2 live event that flooded the island?",
+        "a": "The Device"
+      },
+      {
+        "q": "Which chapter ended with the island being flipped upside-down?",
+        "a": "Chapter 2"
+      },
+      {
+        "q": "Which Spanish streamer's skin reveal set a Twitch viewership record in January 2021?",
+        "a": "TheGrefg"
+      },
+      {
+        "q": "Who won the 2019 Fortnite World Cup Duos?",
+        "a": "Aqua and Nyhrox"
+      },
+      {
+        "q": "What city hosted the 2024 FNCS Global Championship?",
+        "a": "Berlin"
+      },
+      {
+        "q": "What futuristic city replaced the most famous Chapter 1 POI in Season 9?",
+        "a": "Neo Tilted"
+      },
+      {
+        "q": "What was the golf-cart-like vehicle added in Season 5 called?",
+        "a": "All Terrain Kart"
+      },
+      {
+        "q": "What quad-bike vehicle with a boost that smashed through builds was added in Season 6?",
+        "a": "Quadcrasher"
+      },
+      {
+        "q": "What melee mobility weapon defined Chapter 4 Season 1?",
+        "a": "Shockwave Hammer"
+      },
+      {
+        "q": "Which Save the World hero class specializes in building and traps?",
+        "a": "Constructor"
+      },
+      {
+        "q": "What is the name of the robot AI guide in Save the World?",
+        "a": "Ray"
+      },
+      {
+        "q": "Which anime protagonist joined the Chapter 4 Season 2 Battle Pass?",
+        "a": "Eren Yeager"
+      },
+      {
+        "q": "Which Transformer headlined the Chapter 4 Season 3 Battle Pass?",
+        "a": "Optimus Prime"
+      },
+      {
+        "q": "Which Avatar character appeared in the Chapter 5 Season 2 Battle Pass?",
+        "a": "Korra"
+      },
+      {
+        "q": "Which X-Men villain was the bonus skin of Chapter 5 Season 3?",
+        "a": "Magneto"
+      },
+      {
+        "q": "Which giant monster stomped onto the island in Chapter 6 Season 1?",
+        "a": "Godzilla"
+      },
+      {
+        "q": "Which Metal Gear character was in the Chapter 5 Season 1 Battle Pass?",
+        "a": "Solid Snake"
+      },
+      {
+        "q": "Which Star Wars Sith Lord was a roaming boss in Chapter 3 Season 3?",
+        "a": "Darth Vader"
+      },
+      {
+        "q": "What was the Chapter 5 Season 1 title?",
+        "a": "Underground"
+      },
+      {
+        "q": "What POI in Chapter 5 Season 2 was Zeus's mountain home?",
+        "a": "Mount Olympus"
+      },
+      {
+        "q": "What was the Season 8 theme with volcanoes and pirates called?",
+        "a": "X Marks the Spot"
+      },
+      {
+        "q": "What was the name of the Chapter 3 island codename?",
+        "a": "Artemis"
+      },
+      {
+        "q": "What year did the Fortnite Chapter 2 Remix season bring back the Chapter 2 map with Snoop Dogg?",
+        "a": "2024"
+      },
+      {
+        "q": "What POI in Chapter 2 Season 1 was a factory filled with slurp barrels?",
+        "a": "Slurpy Swamp"
+      }
+    ]
+  },
+  "valorant": {
+    "200": [
+      {
+        "q": "Which wind-powered duelist agent is from South Korea?",
+        "a": "Jett"
+      },
+      {
+        "q": "What is the lowest competitive rank?",
+        "a": "Iron"
+      },
+      {
+        "q": "What rank comes directly after Gold?",
+        "a": "Platinum"
+      },
+      {
+        "q": "What revolver-style pistol can one-shot an unarmored head at range?",
+        "a": "Sheriff"
+      },
+      {
+        "q": "How many rounds are played in each half of a standard match?",
+        "a": "12"
+      },
+      {
+        "q": "What does VCT stand for?",
+        "a": "Valorant Champions Tour"
+      },
+      {
+        "q": "What real-money currency buys weapon skins?",
+        "a": "Valorant Points"
+      },
+      {
+        "q": "Which map is set in Italy and has mechanical doors?",
+        "a": "Ascent"
+      },
+      {
+        "q": "Which map is set in Japan and uses vertical rope ascenders?",
+        "a": "Split"
+      },
+      {
+        "q": "Which map is set in a frozen Russian outpost?",
+        "a": "Icebox"
+      },
+      {
+        "q": "Which agent from Brazil rides a rocket-launcher ultimate?",
+        "a": "Raze"
+      },
+      {
+        "q": "Which agent from Mexico grows stronger with each kill using soul orbs?",
+        "a": "Reyna"
+      },
+      {
+        "q": "Which sniper is cheaper than the Operator and fires quickly?",
+        "a": "Marshal"
+      },
+      {
+        "q": "What key activates your ultimate by default?",
+        "a": "X"
+      },
+      {
+        "q": "What is the heavy machine gun with a 100-round magazine?",
+        "a": "Odin"
+      },
+      {
+        "q": "What is the 1,600-credit SMG that most players buy on a half-buy?",
+        "a": "Spectre"
+      },
+      {
+        "q": "How many seconds does the Spike take to explode after being planted?",
+        "a": "45"
+      },
+      {
+        "q": "How long does a full Spike defuse take?",
+        "a": "7 seconds"
+      },
+      {
+        "q": "What agent from Japan can create a running-footstep decoy?",
+        "a": "Yoru"
+      },
+      {
+        "q": "What agent from Russia fires a Recon Bolt?",
+        "a": "Sova"
+      },
+      {
+        "q": "What agent from Germany deploys an Alarmbot?",
+        "a": "Killjoy"
+      },
+      {
+        "q": "What agent from the UK is a fire-wielding duelist?",
+        "a": "Phoenix"
+      },
+      {
+        "q": "What agent from Morocco is the 'information broker' with cameras?",
+        "a": "Cypher"
+      },
+      {
+        "q": "What agent from China is a healer with an ice wall?",
+        "a": "Sage"
+      },
+      {
+        "q": "How many credits does each player start with in a pistol round?",
+        "a": "800"
+      },
+      {
+        "q": "What was Valorant's codename before it was announced?",
+        "a": "Project A"
+      },
+      {
+        "q": "What year did Valorant come to PlayStation 5 and Xbox?",
+        "a": "2024"
+      },
+      {
+        "q": "What is the name of the mode where every player gets the same random weapon each round?",
+        "a": "Spike Rush"
+      },
+      {
+        "q": "What free currency introduced in 2023 unlocks agents and accessories?",
+        "a": "Kingdom Credits"
+      }
+    ],
+    "400": [
+      {
+        "q": "Which map is set in Morocco?",
+        "a": "Bind"
+      },
+      {
+        "q": "Which map is set in Bhutan?",
+        "a": "Haven"
+      },
+      {
+        "q": "Which map is set on an island in the Bermuda Triangle?",
+        "a": "Breeze"
+      },
+      {
+        "q": "Which map is set in India's Western Ghats?",
+        "a": "Lotus"
+      },
+      {
+        "q": "Which map is set in Los Angeles?",
+        "a": "Sunset"
+      },
+      {
+        "q": "Which agent from the Philippines runs at lightning speed?",
+        "a": "Neon"
+      },
+      {
+        "q": "Which agent from India controls water?",
+        "a": "Harbor"
+      },
+      {
+        "q": "Which non-binary agent from Scotland can revive themselves?",
+        "a": "Clove"
+      },
+      {
+        "q": "Which initiator from Colombia fires guided missiles?",
+        "a": "Tejo"
+      },
+      {
+        "q": "Which agent from Los Angeles commands a squad of creatures called Wingman, Dizzy and Mosh?",
+        "a": "Gekko"
+      },
+      {
+        "q": "Which Swedish initiator sends concussive blasts through walls?",
+        "a": "Breach"
+      },
+      {
+        "q": "What is Sage's ultimate called?",
+        "a": "Resurrection"
+      },
+      {
+        "q": "What is Phoenix's ultimate called?",
+        "a": "Run It Back"
+      },
+      {
+        "q": "What is Sova's ultimate called?",
+        "a": "Hunter's Fury"
+      },
+      {
+        "q": "What is Killjoy's ultimate called?",
+        "a": "Lockdown"
+      },
+      {
+        "q": "What is Raze's ultimate called?",
+        "a": "Showstopper"
+      },
+      {
+        "q": "What is Jett's dash ability called?",
+        "a": "Tailwind"
+      },
+      {
+        "q": "How many credits does the Operator cost?",
+        "a": "4,700"
+      },
+      {
+        "q": "How many credits does heavy shields cost?",
+        "a": "1,000"
+      },
+      {
+        "q": "How many credits do you earn for a kill?",
+        "a": "200"
+      },
+      {
+        "q": "How many credits does the winning team receive after a round?",
+        "a": "3,000"
+      },
+      {
+        "q": "How many tiers does each rank below Radiant have?",
+        "a": "3"
+      },
+      {
+        "q": "What is the rule for winning a match that reaches 12-12?",
+        "a": "Win by two rounds"
+      },
+      {
+        "q": "Which team won the first Masters event in Reykjavik in 2021?",
+        "a": "Sentinels"
+      },
+      {
+        "q": "Which Canadian star led Sentinels to win Masters Reykjavik?",
+        "a": "TenZ"
+      },
+      {
+        "q": "Which Brazilian team won Valorant Champions 2022?",
+        "a": "LOUD"
+      },
+      {
+        "q": "Which team won Valorant Champions 2023?",
+        "a": "Evil Geniuses"
+      },
+      {
+        "q": "Which Chinese team won Valorant Champions 2024?",
+        "a": "EDward Gaming"
+      },
+      {
+        "q": "What are people who gained powers from the First Light called?",
+        "a": "Radiants"
+      },
+      {
+        "q": "What is the name of the Valorant circuit for women and marginalized genders?",
+        "a": "Game Changers"
+      },
+      {
+        "q": "What pump-action shotgun has a right-click alt fire?",
+        "a": "Bucky"
+      },
+      {
+        "q": "Which semi-automatic rifle costs 2,250 credits and rewards headshots?",
+        "a": "Guardian"
+      },
+      {
+        "q": "What is the name of the shortened mode that plays to 5 round wins?",
+        "a": "Swiftplay"
+      },
+      {
+        "q": "What are the seasonal subdivisions within each Episode called?",
+        "a": "Acts"
+      },
+      {
+        "q": "Which Turkish agent uses nightmarish creatures to reveal enemies?",
+        "a": "Fade"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which agent from Ghana places Stars from an astral form?",
+        "a": "Astra"
+      },
+      {
+        "q": "Which sentinel from Norway uses a sonic sensor and GravNet?",
+        "a": "Deadlock"
+      },
+      {
+        "q": "Which Chinese duelist has a bullet-blocking shield and a 1v1 arena ultimate?",
+        "a": "Iso"
+      },
+      {
+        "q": "Which sentinel manipulates liquid metal into walls and thorns?",
+        "a": "Vyse"
+      },
+      {
+        "q": "Which Thai duelist bends light to dash and slow enemies?",
+        "a": "Waylay"
+      },
+      {
+        "q": "Which Australian initiator heals allies with an ability called Regrowth?",
+        "a": "Skye"
+      },
+      {
+        "q": "Which French sentinel uses the Rendezvous teleport and was heavily nerfed after dominating pro play?",
+        "a": "Chamber"
+      },
+      {
+        "q": "What is Cypher's ultimate called?",
+        "a": "Neural Theft"
+      },
+      {
+        "q": "What is Reyna's ultimate called?",
+        "a": "Empress"
+      },
+      {
+        "q": "What is Breach's ultimate called?",
+        "a": "Rolling Thunder"
+      },
+      {
+        "q": "What is Astra's ultimate called?",
+        "a": "Cosmic Divide"
+      },
+      {
+        "q": "What is Neon's ultimate called?",
+        "a": "Overdrive"
+      },
+      {
+        "q": "What is KAY/O's ultimate called?",
+        "a": "NULL/cmd"
+      },
+      {
+        "q": "What is Yoru's ultimate called?",
+        "a": "Dimensional Drift"
+      },
+      {
+        "q": "What is Fade's ultimate called?",
+        "a": "Nightfall"
+      },
+      {
+        "q": "What is Harbor's ultimate called?",
+        "a": "Reckoning"
+      },
+      {
+        "q": "What is Gekko's ultimate creature called?",
+        "a": "Thrash"
+      },
+      {
+        "q": "What is Deadlock's ultimate called?",
+        "a": "Annihilation"
+      },
+      {
+        "q": "What is Omen's blinding ability called?",
+        "a": "Paranoia"
+      },
+      {
+        "q": "What is Omen's short-range teleport called?",
+        "a": "Shrouded Step"
+      },
+      {
+        "q": "What is Phoenix's curving wall of fire called?",
+        "a": "Blaze"
+      },
+      {
+        "q": "What is Brimstone's speed-boosting ability called?",
+        "a": "Stim Beacon"
+      },
+      {
+        "q": "What is Viper's molotov-style puddle called?",
+        "a": "Snake Bite"
+      },
+      {
+        "q": "What is Raze's rolling robot called?",
+        "a": "Boom Bot"
+      },
+      {
+        "q": "What is the maximum loss bonus a team can receive?",
+        "a": "2,900 credits"
+      },
+      {
+        "q": "How many credits does planting the Spike award to the planter?",
+        "a": "300"
+      },
+      {
+        "q": "How long is the buy phase at the start of a round?",
+        "a": "30 seconds"
+      },
+      {
+        "q": "How long is a round timer before the Spike is planted?",
+        "a": "100 seconds"
+      },
+      {
+        "q": "At what point can a defuse be paused and resumed without starting over?",
+        "a": "Halfway, at 3.5 seconds"
+      },
+      {
+        "q": "What 2024 sniper rifle sits between the Marshal and the Operator?",
+        "a": "Outlaw"
+      },
+      {
+        "q": "What is Viper's real name?",
+        "a": "Sabine"
+      },
+      {
+        "q": "What is Sova's real name?",
+        "a": "Sasha Novikov"
+      },
+      {
+        "q": "Which city hosted Valorant Champions 2021?",
+        "a": "Berlin"
+      },
+      {
+        "q": "Which city hosted Valorant Champions 2022?",
+        "a": "Istanbul"
+      },
+      {
+        "q": "Which city hosted Valorant Champions 2023?",
+        "a": "Los Angeles"
+      },
+      {
+        "q": "Which city hosted Valorant Champions 2024?",
+        "a": "Seoul"
+      },
+      {
+        "q": "Which Turkish player starred on Acend's Champions 2021-winning roster?",
+        "a": "cNed"
+      },
+      {
+        "q": "What is the name of the mirror Earth that the enemy agents come from?",
+        "a": "Omega Earth"
+      },
+      {
+        "q": "What megacorporation in Valorant's lore harvests Radianite?",
+        "a": "Kingdom"
+      },
+      {
+        "q": "What month and year did the closed beta begin?",
+        "a": "April 2020"
+      },
+      {
+        "q": "What is the name of the team-based league mode that qualifies teams into Contender rank?",
+        "a": "Premier"
+      },
+      {
+        "q": "In which U.S. state is the map Fracture set?",
+        "a": "New Mexico"
+      }
+    ]
+  },
+  "minecraft": {
+    "200": [
+      {
+        "q": "What do you feed cows to breed them?",
+        "a": "Wheat"
+      },
+      {
+        "q": "What mob drops gunpowder when killed?",
+        "a": "Creeper"
+      },
+      {
+        "q": "What mob drops ender pearls?",
+        "a": "Enderman"
+      },
+      {
+        "q": "What metal do piglins love and will barter for?",
+        "a": "Gold"
+      },
+      {
+        "q": "What tool collects leaves, cobwebs and wool from sheep?",
+        "a": "Shears"
+      },
+      {
+        "q": "What flat block emits a redstone signal when stepped on?",
+        "a": "A pressure plate"
+      },
+      {
+        "q": "What ocean mob drops ink sacs?",
+        "a": "Squid"
+      },
+      {
+        "q": "What crossbow-wielding hostile mob patrols the land in groups?",
+        "a": "Pillager"
+      },
+      {
+        "q": "What mob spits at you when angered?",
+        "a": "Llama"
+      },
+      {
+        "q": "What jungle mob eats bamboo and rolls around?",
+        "a": "Panda"
+      },
+      {
+        "q": "What bouncing green cube mob splits into smaller ones when hit?",
+        "a": "Slime"
+      },
+      {
+        "q": "What tall black undead mob lives in Nether fortresses?",
+        "a": "Wither Skeleton"
+      },
+      {
+        "q": "What is the name of the default female player skin?",
+        "a": "Alex"
+      },
+      {
+        "q": "What year did A Minecraft Movie hit theaters?",
+        "a": "2025"
+      },
+      {
+        "q": "What two-word line from the Minecraft movie became a rowdy theater meme?",
+        "a": "Chicken Jockey"
+      },
+      {
+        "q": "What block cannot be broken in Survival mode?",
+        "a": "Bedrock"
+      },
+      {
+        "q": "What difficulty setting stops hostile mobs from spawning?",
+        "a": "Peaceful"
+      },
+      {
+        "q": "What block shoots arrows and other items when powered?",
+        "a": "Dispenser"
+      },
+      {
+        "q": "What command teleports a player?",
+        "a": "/tp"
+      },
+      {
+        "q": "What command changes it to day or night?",
+        "a": "/time set"
+      },
+      {
+        "q": "What is placed on a snow golem's head?",
+        "a": "A pumpkin"
+      },
+      {
+        "q": "What plant grows only next to water and is used to make paper?",
+        "a": "Sugar cane"
+      },
+      {
+        "q": "What game mode lets you fly through blocks and watch from mobs' eyes?",
+        "a": "Spectator"
+      },
+      {
+        "q": "What creature was voted into the game in 2023 and drops scutes for wolf armor?",
+        "a": "Armadillo"
+      },
+      {
+        "q": "What is the name of Minecraft's subscription server-hosting service?",
+        "a": "Realms"
+      },
+      {
+        "q": "What is the most famous Minecraft server, home to SkyBlock and Bed Wars?",
+        "a": "Hypixel"
+      }
+    ],
+    "400": [
+      {
+        "q": "What Nether mob drops tears used for Regeneration potions?",
+        "a": "Ghast"
+      },
+      {
+        "q": "What ingredient is required as the base for almost every potion?",
+        "a": "Nether Wart"
+      },
+      {
+        "q": "What do you add to a potion to turn it into a splash potion?",
+        "a": "Gunpowder"
+      },
+      {
+        "q": "What bouncy block launches you when you fall on it?",
+        "a": "Slime block"
+      },
+      {
+        "q": "What mob is tamed with seeds and can sit on your shoulder?",
+        "a": "Parrot"
+      },
+      {
+        "q": "What Nether creature can be ridden across lava?",
+        "a": "Strider"
+      },
+      {
+        "q": "What Nether structure holds gold blocks and piglin brutes?",
+        "a": "Bastion Remnant"
+      },
+      {
+        "q": "What End mob fires bullets that give you Levitation?",
+        "a": "Shulker"
+      },
+      {
+        "q": "What happens when you eat a chorus fruit?",
+        "a": "Teleport randomly"
+      },
+      {
+        "q": "What End structure holds the elytra?",
+        "a": "End Ship"
+      },
+      {
+        "q": "What mob guards ocean monuments with a laser beam?",
+        "a": "Guardian"
+      },
+      {
+        "q": "What mob do you ride during a raid if you are an illager?",
+        "a": "Ravager"
+      },
+      {
+        "q": "What rare mob drops the Totem of Undying?",
+        "a": "Evoker"
+      },
+      {
+        "q": "What hostile mob drops tridents?",
+        "a": "Drowned"
+      },
+      {
+        "q": "What tool from the Trails & Tales update is used for archaeology?",
+        "a": "Brush"
+      },
+      {
+        "q": "What rideable desert mob from Trails & Tales can seat two players?",
+        "a": "Camel"
+      },
+      {
+        "q": "What ancient mob from Trails & Tales sniffs out rare seeds?",
+        "a": "Sniffer"
+      },
+      {
+        "q": "What Tricky Trials mob shoots wind charges?",
+        "a": "Breeze"
+      },
+      {
+        "q": "What heavy new weapon from Tricky Trials deals more damage the farther you fall?",
+        "a": "Mace"
+      },
+      {
+        "q": "What Tricky Trials block automatically crafts items with redstone?",
+        "a": "Crafter"
+      },
+      {
+        "q": "What pouch item, fully released in late 2024, stacks different items in one slot?",
+        "a": "Bundle"
+      },
+      {
+        "q": "What is Bedrock Edition's older name on phones?",
+        "a": "Pocket Edition"
+      },
+      {
+        "q": "Who composed Minecraft's original soundtrack?",
+        "a": "C418"
+      },
+      {
+        "q": "What music disc is found in Nether bastions?",
+        "a": "Pigstep"
+      },
+      {
+        "q": "What is the name-tag trick that flips a mob upside down?",
+        "a": "Dinnerbone"
+      },
+      {
+        "q": "What name tag makes a sheep cycle through rainbow colors?",
+        "a": "jeb_"
+      },
+      {
+        "q": "What Overworld mob turns into a Zombified Piglin when struck by lightning?",
+        "a": "Pig"
+      },
+      {
+        "q": "What blue mineral is consumed when enchanting at a table?",
+        "a": "Lapis Lazuli"
+      },
+      {
+        "q": "What is the minimum pickaxe material needed to mine diamonds?",
+        "a": "Iron"
+      },
+      {
+        "q": "What pickaxe is needed to mine obsidian?",
+        "a": "Diamond"
+      },
+      {
+        "q": "What item dropped by the Wither is needed to build a beacon?",
+        "a": "Nether Star"
+      },
+      {
+        "q": "What enchantment lets you pick up blocks like glass and ore whole?",
+        "a": "Silk Touch"
+      },
+      {
+        "q": "What bow enchantment gives you unlimited arrows?",
+        "a": "Infinity"
+      },
+      {
+        "q": "What sword enchantment adds extra damage to undead mobs?",
+        "a": "Smite"
+      },
+      {
+        "q": "What trident enchantment launches you forward in rain or water?",
+        "a": "Riptide"
+      },
+      {
+        "q": "What gamerule keeps your items after death?",
+        "a": "keepInventory"
+      },
+      {
+        "q": "What key opens the debug screen in Java Edition?",
+        "a": "F3"
+      },
+      {
+        "q": "What mod is famous for adding zoom and shader support?",
+        "a": "OptiFine"
+      },
+      {
+        "q": "Which studio made Minecraft: Story Mode?",
+        "a": "Telltale Games"
+      },
+      {
+        "q": "What is TNT crafted from?",
+        "a": "Sand and gunpowder"
+      },
+      {
+        "q": "What is the mythical white-eyed hoax character said to haunt worlds?",
+        "a": "Herobrine"
+      },
+      {
+        "q": "What is the maximum number of blocks in a chunk's width?",
+        "a": "16"
+      },
+      {
+        "q": "What is the name for the number that determines a world's terrain generation?",
+        "a": "Seed"
+      }
+    ],
+    "600": [
+      {
+        "q": "What potion ingredient from blazes makes a Potion of Strength?",
+        "a": "Blaze Powder"
+      },
+      {
+        "q": "What ingredient makes a Potion of Swiftness?",
+        "a": "Sugar"
+      },
+      {
+        "q": "What ingredient makes a Potion of Fire Resistance?",
+        "a": "Magma Cream"
+      },
+      {
+        "q": "What ingredient makes a Potion of Night Vision?",
+        "a": "Golden Carrot"
+      },
+      {
+        "q": "What ingredient makes a Potion of Slow Falling?",
+        "a": "Phantom Membrane"
+      },
+      {
+        "q": "What ingredient makes a Potion of Leaping?",
+        "a": "Rabbit's Foot"
+      },
+      {
+        "q": "What ingredient makes a Potion of Water Breathing?",
+        "a": "Pufferfish"
+      },
+      {
+        "q": "What ingredient makes a Potion of Healing?",
+        "a": "Glistering Melon"
+      },
+      {
+        "q": "What ingredient turns a potion into a lingering potion?",
+        "a": "Dragon's Breath"
+      },
+      {
+        "q": "What status effect does the Warden inflict that darkens your screen?",
+        "a": "Darkness"
+      },
+      {
+        "q": "What is the Warden's long-range attack called?",
+        "a": "Sonic Boom"
+      },
+      {
+        "q": "What item, made with echo shards, points to where you last died?",
+        "a": "Recovery Compass"
+      },
+      {
+        "q": "What deep dark block spreads its growth when a mob dies near it?",
+        "a": "Sculk Catalyst"
+      },
+      {
+        "q": "How many times must a Sculk Shrieker be triggered before a Warden emerges?",
+        "a": "4"
+      },
+      {
+        "q": "Which mob won the very first Mob Vote in 2017?",
+        "a": "Phantom"
+      },
+      {
+        "q": "What Pale Garden mob only moves when you are not looking at it?",
+        "a": "The Creaking"
+      },
+      {
+        "q": "What rideable flying mob added in 2025 is grown from a dried Nether creature?",
+        "a": "Happy Ghast"
+      },
+      {
+        "q": "What metal helper mob returned in 2025 to sort items into chests?",
+        "a": "Copper Golem"
+      },
+      {
+        "q": "What music disc is found in trial chambers?",
+        "a": "Precipice"
+      },
+      {
+        "q": "What music disc is found in trail ruins?",
+        "a": "Relic"
+      },
+      {
+        "q": "Who composed Pigstep and much of the newer Minecraft music?",
+        "a": "Lena Raine"
+      },
+      {
+        "q": "What name tag makes a Vindicator attack every other mob?",
+        "a": "Johnny"
+      },
+      {
+        "q": "What is the name of Mojang's lead developer known as Jeb?",
+        "a": "Jens Bergensten"
+      },
+      {
+        "q": "What is the fastest block to travel over in a boat?",
+        "a": "Blue Ice"
+      },
+      {
+        "q": "What is the anvil's maximum repair cost before it says 'Too Expensive'?",
+        "a": "40 levels"
+      },
+      {
+        "q": "What enchantment repairs items using XP and cannot be made at an enchanting table?",
+        "a": "Mending"
+      },
+      {
+        "q": "What enchantment found only in ancient cities speeds up sneaking?",
+        "a": "Swift Sneak"
+      },
+      {
+        "q": "What enchantment speeds you up on the Nether's slow sand?",
+        "a": "Soul Speed"
+      },
+      {
+        "q": "What trident enchantment summons lightning during a storm?",
+        "a": "Channeling"
+      },
+      {
+        "q": "What workstation block turns a villager into a librarian?",
+        "a": "Lectern"
+      },
+      {
+        "q": "What workstation block turns a villager into a cleric?",
+        "a": "Brewing Stand"
+      },
+      {
+        "q": "What workstation block turns a villager into a fletcher?",
+        "a": "Fletching Table"
+      },
+      {
+        "q": "What is the name for a green-robed villager that cannot take a job?",
+        "a": "Nitwit"
+      },
+      {
+        "q": "What unused illager mob can turn invisible and create clones?",
+        "a": "Illusioner"
+      },
+      {
+        "q": "What light block is made when a frog eats a magma cube?",
+        "a": "Froglight"
+      },
+      {
+        "q": "What rarest axolotl color has a roughly 1 in 1,200 chance?",
+        "a": "Blue"
+      },
+      {
+        "q": "What item is used to wax copper so it stops oxidizing?",
+        "a": "Honeycomb"
+      },
+      {
+        "q": "What is the world border distance from the center in blocks?",
+        "a": "About 30 million"
+      },
+      {
+        "q": "What glitched terrain formed millions of blocks out in early versions?",
+        "a": "The Far Lands"
+      },
+      {
+        "q": "Which city hosted MineCon 2011, where the full game officially launched?",
+        "a": "Las Vegas"
+      },
+      {
+        "q": "Which company publishes Minecraft in China?",
+        "a": "NetEase"
+      },
+      {
+        "q": "What is the oldest anarchy server in Minecraft?",
+        "a": "2b2t"
+      },
+      {
+        "q": "What advancement requires having every status effect at once?",
+        "a": "How Did We Get Here?"
+      },
+      {
+        "q": "Who wrote the End Poem shown after beating the Ender Dragon?",
+        "a": "Julian Gough"
+      },
+      {
+        "q": "How many health points does the Ender Dragon have?",
+        "a": "200"
+      }
+    ]
+  },
+  "ark_survival": {
+    "200": [
+      {
+        "q": "What flightless bird is the classic first tame for new players?",
+        "a": "Dodo"
+      },
+      {
+        "q": "What plated, spike-tailed herbivore is an early berry-gathering mount?",
+        "a": "Stegosaurus"
+      },
+      {
+        "q": "What small pack-hunting theropod is one of the first fast mounts?",
+        "a": "Raptor"
+      },
+      {
+        "q": "What long-necked sauropod is a common mid-game mobile base?",
+        "a": "Brontosaurus"
+      },
+      {
+        "q": "What structure is used to smelt metal ore into ingots early on?",
+        "a": "Refining Forge"
+      },
+      {
+        "q": "What crafting station is used to make metal tools and armor?",
+        "a": "Smithy"
+      },
+      {
+        "q": "What resource is produced by burning wood in a campfire or forge?",
+        "a": "Charcoal"
+      },
+      {
+        "q": "What insect converts feces into fertilizer and oil?",
+        "a": "Dung Beetle"
+      },
+      {
+        "q": "What armored creature is the best metal-gathering tame?",
+        "a": "Ankylosaurus"
+      },
+      {
+        "q": "What crested herbivore alerts you to nearby enemies?",
+        "a": "Parasaur"
+      },
+      {
+        "q": "What small creature steals items straight out of your inventory?",
+        "a": "Pegomastax"
+      },
+      {
+        "q": "What feathered tyrannosaur buffs allies with its roar?",
+        "a": "Yutyrannus"
+      },
+      {
+        "q": "What sail-backed carnivore gets a speed buff in water?",
+        "a": "Spinosaurus"
+      },
+      {
+        "q": "What giant marine reptile is an end-game underwater mount?",
+        "a": "Mosasaurus"
+      },
+      {
+        "q": "What furry elephant-like creature gathers wood in snowy areas?",
+        "a": "Mammoth"
+      },
+      {
+        "q": "What thrown item immobilizes small creatures?",
+        "a": "Bola"
+      },
+      {
+        "q": "What is the largest gateway size, built for the biggest dinosaurs?",
+        "a": "Behemoth Gate"
+      },
+      {
+        "q": "What purple berry do herbivores prefer for taming?",
+        "a": "Mejoberry"
+      },
+      {
+        "q": "What is the main ingredient in every kibble recipe?",
+        "a": "Eggs"
+      },
+      {
+        "q": "What is the year ARK: Survival Ascended, the Unreal Engine 5 remake, released?",
+        "a": "2023"
+      },
+      {
+        "q": "What is ARK's Halloween event called?",
+        "a": "Fear Evolved"
+      },
+      {
+        "q": "What tiny cosmetic pets grant extra player levels?",
+        "a": "Chibis"
+      },
+      {
+        "q": "What pig-like creature heals nearby tames?",
+        "a": "Daeodon"
+      },
+      {
+        "q": "What is the primary fuel for an Electrical Generator?",
+        "a": "Gasoline"
+      },
+      {
+        "q": "What is gasoline crafted from?",
+        "a": "Oil and hide"
+      },
+      {
+        "q": "What black rock is combined with cementing paste to make polymer?",
+        "a": "Obsidian"
+      },
+      {
+        "q": "What free DLC map features crystal wyverns and floating islands?",
+        "a": "Crystal Isles"
+      },
+      {
+        "q": "What was the first community-made map to be added officially?",
+        "a": "The Center"
+      },
+      {
+        "q": "What streaming service premiered ARK: The Animated Series in 2024?",
+        "a": "Paramount+"
+      },
+      {
+        "q": "What is the sandworm mini-boss on Scorched Earth?",
+        "a": "Deathworm"
+      }
+    ],
+    "400": [
+      {
+        "q": "What amphibian harvests cementing paste from insects?",
+        "a": "Beelzebufo"
+      },
+      {
+        "q": "What resource is made from flint and stone in a mortar and pestle?",
+        "a": "Sparkpowder"
+      },
+      {
+        "q": "What two resources are combined to make gunpowder?",
+        "a": "Sparkpowder and charcoal"
+      },
+      {
+        "q": "What items found at the end of caves are needed to summon bosses?",
+        "a": "Artifacts"
+      },
+      {
+        "q": "What are the three boss difficulty tiers?",
+        "a": "Gamma, Beta and Alpha"
+      },
+      {
+        "q": "What Island boss breathes fire and deals percentage-based damage?",
+        "a": "The Dragon"
+      },
+      {
+        "q": "What creature is used as a living incubator to keep eggs warm?",
+        "a": "Dimetrodon"
+      },
+      {
+        "q": "What creature must be tamed by letting it kill your own tames at night?",
+        "a": "Troodon"
+      },
+      {
+        "q": "What mythical eagle-lion hybrid flyer is found on Ragnarok?",
+        "a": "Griffin"
+      },
+      {
+        "q": "What is the name of the wyvern trench on Scorched Earth?",
+        "a": "The World Scar"
+      },
+      {
+        "q": "What small fluffy desert pet warns of incoming weather on Scorched Earth?",
+        "a": "Jerboa"
+      },
+      {
+        "q": "What building tier exclusive to Scorched Earth keeps you cool?",
+        "a": "Adobe"
+      },
+      {
+        "q": "What armor protects you from Aberration's radiation zones?",
+        "a": "Hazard Suit"
+      },
+      {
+        "q": "What Extinction creature shoots spines like a machine gun?",
+        "a": "Velonasaur"
+      },
+      {
+        "q": "What Extinction flyer heals allies by freezing them?",
+        "a": "Snow Owl"
+      },
+      {
+        "q": "What Extinction creature is an ice-breathing, fast-dashing dragon?",
+        "a": "Managarmr"
+      },
+      {
+        "q": "What piloted robot from Extinction can be built and ridden?",
+        "a": "Mek"
+      },
+      {
+        "q": "What Norse-themed map released in 2022 features the wolf Fenrir?",
+        "a": "Fjordur"
+      },
+      {
+        "q": "What is the boss of the Lost Island map?",
+        "a": "Dinopithecus King"
+      },
+      {
+        "q": "What plant is grown in a crop plot as a turret?",
+        "a": "Plant Species X"
+      },
+      {
+        "q": "What ranged weapon can be fired underwater?",
+        "a": "Crossbow"
+      },
+      {
+        "q": "What firearm fires tranquilizer darts?",
+        "a": "Longneck Rifle"
+      },
+      {
+        "q": "What resource used in electronics is found in beaver dams and deep water?",
+        "a": "Silica Pearls"
+      },
+      {
+        "q": "What is required to power a Tek Generator?",
+        "a": "Element"
+      },
+      {
+        "q": "What collectible writings tell the story of Helena, Rockwell, Mei-Yin and Nerva?",
+        "a": "Explorer Notes"
+      },
+      {
+        "q": "What is ARK's Easter event called?",
+        "a": "Eggcellent Adventure"
+      },
+      {
+        "q": "What item makes wild creatures aggressively chase you when eaten?",
+        "a": "Rare Flower"
+      },
+      {
+        "q": "What lemon-like crop is used in many kibble recipes?",
+        "a": "Citronal"
+      },
+      {
+        "q": "What fast-swimming mammal keeps you warm and collects silica pearls?",
+        "a": "Otter"
+      },
+      {
+        "q": "What bear mount is found in the redwoods and snow biomes?",
+        "a": "Direbear"
+      },
+      {
+        "q": "What free battle-royale spinoff of ARK released in 2016?",
+        "a": "Survival of the Fittest"
+      },
+      {
+        "q": "What Chinese-owned company publishes ARK?",
+        "a": "Snail Games"
+      },
+      {
+        "q": "What is the item that lets you see a wild creature's level and stats from afar?",
+        "a": "Spyglass"
+      }
+    ],
+    "600": [
+      {
+        "q": "What hyena-like pack creature on Aberration can climb zip lines?",
+        "a": "Ravager"
+      },
+      {
+        "q": "What Aberration creature digs up sap and loves honey?",
+        "a": "Roll Rat"
+      },
+      {
+        "q": "What faceless Aberration enemies summon Reapers in the dark?",
+        "a": "The Nameless"
+      },
+      {
+        "q": "What Scorched Earth creature wields weapons in its claws?",
+        "a": "Mantis"
+      },
+      {
+        "q": "What camel-like Scorched Earth herbivore stores water?",
+        "a": "Morellatops"
+      },
+      {
+        "q": "What Scorched Earth creature is a walking pile of rock immune to most bullets?",
+        "a": "Rock Elemental"
+      },
+      {
+        "q": "What Crystal Isles wyvern variant drains health to heal its rider?",
+        "a": "Blood Crystal Wyvern"
+      },
+      {
+        "q": "What is the final boss of Fjordur?",
+        "a": "Fenrir"
+      },
+      {
+        "q": "What are the four realms of Fjordur?",
+        "a": "Midgard, Asgard, Jotunheim and Vanaheim"
+      },
+      {
+        "q": "What Genesis Part 1 mission currency buys supplies from HLN-A?",
+        "a": "Hexagons"
+      },
+      {
+        "q": "What Genesis space whale can be ridden as a bombing platform?",
+        "a": "Astrocetus"
+      },
+      {
+        "q": "What Genesis lava-dwelling creature fires molten balls and smelts metal?",
+        "a": "Magmasaur"
+      },
+      {
+        "q": "What Extinction creature produces crystals when fed?",
+        "a": "Gacha"
+      },
+      {
+        "q": "What is the protected city at the center of the Extinction map?",
+        "a": "Sanctuary"
+      },
+      {
+        "q": "Which explorer note author is a Chinese warrior from the Han dynasty?",
+        "a": "Mei-Yin Li"
+      },
+      {
+        "q": "Which explorer note author is a Roman centurion?",
+        "a": "Gaius Marcellus Nerva"
+      },
+      {
+        "q": "Which explorer note author is an Australian biologist?",
+        "a": "Helena Walker"
+      },
+      {
+        "q": "How many extra player levels does Alpha Ascension on The Island grant?",
+        "a": "15"
+      },
+      {
+        "q": "By what percentage can Tek creatures spawn above the normal max wild level?",
+        "a": "20%"
+      },
+      {
+        "q": "What is ARK's Thanksgiving event called?",
+        "a": "Turkey Trial"
+      },
+      {
+        "q": "What is ARK's Valentine's event called?",
+        "a": "Love Evolved"
+      },
+      {
+        "q": "What penguin gives organic polymer when harvested?",
+        "a": "Kairuku"
+      },
+      {
+        "q": "What creature is knocked out and then fed spoiled meat to tame?",
+        "a": "Pulmonoscorpius"
+      },
+      {
+        "q": "What creature gives Angler Gel when harvested?",
+        "a": "Anglerfish"
+      },
+      {
+        "q": "What kangaroo-like creature carries babies and humans in its pouch?",
+        "a": "Procoptodon"
+      },
+      {
+        "q": "What creature throws boulders when ridden?",
+        "a": "Chalicotherium"
+      },
+      {
+        "q": "What cat-like creature can climb and cling to redwood trees?",
+        "a": "Thylacoleo"
+      },
+      {
+        "q": "What creature buries itself and ambushes players?",
+        "a": "Purlovia"
+      },
+      {
+        "q": "What giant centipede damages structures with acid?",
+        "a": "Arthropluera"
+      },
+      {
+        "q": "What is the name of the giant floating creature in ASA that carries a living oasis on its back?",
+        "a": "Oasisaur"
+      },
+      {
+        "q": "What Aberration plant flashes and heals when used?",
+        "a": "Plant Species Z"
+      },
+      {
+        "q": "What Scorched Earth plant is grown as a trap?",
+        "a": "Plant Species Y"
+      },
+      {
+        "q": "What ballista-fired projectile snares large flyers?",
+        "a": "Chain Bola"
+      },
+      {
+        "q": "What weapon disarms and can pull items from a distance?",
+        "a": "Whip"
+      },
+      {
+        "q": "What Genesis Part 2 resource boosts a tame's stats when injected?",
+        "a": "Mutagen"
+      },
+      {
+        "q": "What co-founder of Studio Wildcard is ARK's lead designer?",
+        "a": "Jeremy Stieglitz"
+      },
+      {
+        "q": "What was the name of the cube-based ARK spinoff for younger players?",
+        "a": "PixARK"
+      },
+      {
+        "q": "What is the illness a creature gets after being released from a cryopod too soon?",
+        "a": "Cryo Sickness"
+      }
+    ]
+  }
+}

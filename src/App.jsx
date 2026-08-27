@@ -4888,6 +4888,9 @@ const BANK = sanitizeBank(
   )
 );
 const CAT_IDS = Object.keys(BANK);
+// Midnight Glass category palette: saturated glass tints that read on the dark stage.
+const CATEGORY_TINT_PALETTE=["#22D3EE","#A78BFA","#F472B6","#34D399","#FBBF24","#60A5FA","#FB7185","#BEF264","#FB923C","#2DD4BF","#C084FC","#FACC15"];
+CAT_IDS.forEach((id,i)=>{ if(BANK[id]&&typeof BANK[id]==="object") BANK[id].color=CATEGORY_TINT_PALETTE[i%CATEGORY_TINT_PALETTE.length]; });
 
 const CAT_GROUPS = [
   { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","who_what_am_i","borders_country","movie_scenes","songs","flags","country_facts","country_map","country_capitals","spelling_bee","logos"] },
@@ -4979,10 +4982,10 @@ const CATEGORY_PREVIEWS = {
 };
 
 const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777","#0891B2","#EA580C"];
-// Tier colors (game-show): cyan / green / blue / orange / pink / violet. PT_COLORS_2 = gradient end.
-const PT_COLORS = {100:"#06B6D4",200:"#22C55E",300:"#3B82F6",400:"#F97316",500:"#EC4899",600:"#A855F7"};
-const PT_COLORS_2 = {100:"#0E7490",200:"#15803D",300:"#1D4ED8",400:"#C2410C",500:"#BE185D",600:"#6D28D9"};
-const PT_BG = {100:"#E0F7FA",200:"#DCFCE7",300:"#DBEAFE",400:"#FFEDD5",500:"#FCE7F3",600:"#EDE9FE"};
+// Tier tints (Midnight Glass): lime / cyan / sky / violet / amber / magenta. PT_COLORS_2 = deeper end for gradients.
+const PT_COLORS = {100:"#BEF264",200:"#22D3EE",300:"#60A5FA",400:"#A78BFA",500:"#FBBF24",600:"#F472B6"};
+const PT_COLORS_2 = {100:"#65A30D",200:"#0E7490",300:"#1D4ED8",400:"#6D28D9",500:"#B45309",600:"#BE185D"};
+const PT_BG = {100:"rgba(190,242,100,.14)",200:"rgba(34,211,238,.14)",300:"rgba(96,165,250,.14)",400:"rgba(167,139,250,.14)",500:"rgba(251,191,36,.14)",600:"rgba(244,114,182,.14)"};
 const PT_INK = {100:"#FFFFFF",200:"#FFFFFF",300:"#FFFFFF",400:"#FFFFFF",500:"#FFFFFF",600:"#FFFFFF"};
 
 // Cryptographically-seeded uniform random in [0,1). Falls back to Math.random when
@@ -5698,6 +5701,7 @@ function CategoryPreviewVisual({category, preview, badge}){
 // Paper & Pop category card: art on top, clean white label bar below. No scrims, badges or captions.
 function CategoryPreviewCard({id, category, selected, onToggle}){
   const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
+  const tint=category.color||"#22D3EE";
   return(
     <button
       type="button"
@@ -5707,34 +5711,36 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
       title={category.label}
       style={{
         position:"relative",
-        display:"flex",
-        flexDirection:"column",
+        display:"block",
         width:"100%",
-        aspectRatio:"4 / 5",
-        minHeight:150,
+        aspectRatio:"3 / 4",
+        minHeight:170,
         padding:0,
         borderRadius:"var(--radius)",
         overflow:"hidden",
         isolation:"isolate",
         background:"var(--surface-strong)",
-        border:`3px solid ${selected?"#FFFFFF":"rgba(255,255,255,.35)"}`,
-        boxShadow:selected?"0 0 0 4px rgba(255,255,255,.35), 0 16px 34px rgba(20,0,60,.35)":"0 8px 20px rgba(20,0,60,.22)",
+        border:`1px solid ${selected?withAlpha(tint,"D9"):"var(--border)"}`,
+        boxShadow:selected?`0 0 0 2px ${withAlpha(tint,"66")}, 0 0 38px ${withAlpha(tint,"59")}, 0 22px 44px rgba(0,0,0,.55)`:"0 12px 30px rgba(0,0,0,.45), inset 0 1px 0 rgba(255,255,255,.10)",
         color:"var(--text)",
         textAlign:"left",
         cursor:"pointer",
-        transform:selected?"translateY(-2px)":"none",
+        transform:selected?"translateY(-3px)":"none",
         transition:"box-shadow .18s ease, border-color .18s ease, transform .18s ease",
       }}
     >
-      <div style={{position:"relative",flex:"1 1 auto",minHeight:0,overflow:"hidden"}}>
+      <div style={{position:"absolute",inset:0}}>
         <CategoryPreviewVisual category={category} preview={preview}/>
       </div>
-      <div style={{flex:"0 0 auto",display:"flex",alignItems:"center",justifyContent:"center",gap:6,padding:"10px 12px",minHeight:50,background:category.color||"#7C3AED",color:"#FFFFFF"}}>
-        <span aria-hidden="true" style={{fontSize:15,lineHeight:1,flex:"0 0 auto"}}>{category.icon}</span>
-        <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(13px,1.4vw,15px)",lineHeight:1.15,textAlign:"center",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 0 rgba(0,0,0,.18)"}}>{category.label}</span>
+      {/* Bottom scrim so the glass plate reads on any photo */}
+      <div aria-hidden="true" style={{position:"absolute",left:0,right:0,bottom:0,height:"62%",background:"linear-gradient(180deg, rgba(5,7,13,0) 0%, rgba(5,7,13,.45) 45%, rgba(5,7,13,.86) 100%)",pointerEvents:"none"}}/>
+      {/* Frosted title plate */}
+      <div style={{position:"absolute",left:9,right:9,bottom:9,display:"flex",alignItems:"center",gap:9,padding:"9px 11px",borderRadius:14,background:"rgba(255,255,255,.08)",border:`1px solid ${withAlpha(tint,selected?"99":"55")}`,backdropFilter:"blur(14px) saturate(160%)",WebkitBackdropFilter:"blur(14px) saturate(160%)",boxShadow:"inset 0 1px 0 rgba(255,255,255,.22)",minWidth:0}}>
+        <span aria-hidden="true" style={{width:30,height:30,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:16,lineHeight:1,flex:"0 0 auto",background:withAlpha(tint,"2E"),border:`1px solid ${withAlpha(tint,"73")}`,boxShadow:`0 0 14px ${withAlpha(tint,"40")}`}}>{category.icon}</span>
+        <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(15px,1.5vw,19px)",lineHeight:1.12,letterSpacing:"-.01em",color:"#FFFFFF",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 2px rgba(0,0,0,.5)"}}>{category.label}</span>
       </div>
       {selected&&(
-        <div className="pop" aria-hidden="true" style={{position:"absolute",top:8,right:8,width:28,height:28,borderRadius:"50%",background:"#22C55E",color:"#FFFFFF",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,boxShadow:"0 0 0 3px #FFFFFF, 0 4px 10px rgba(0,0,0,.25)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
+        <div className="pop" aria-hidden="true" style={{position:"absolute",top:9,right:9,width:30,height:30,borderRadius:"50%",background:`linear-gradient(180deg, ${lightenHex(tint,.1)} 0%, ${tint} 100%)`,color:"#04111A",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,border:"1px solid rgba(255,255,255,.55)",boxShadow:`0 0 18px ${withAlpha(tint,"99")}`,zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
       )}
     </button>
   );
@@ -5748,9 +5754,9 @@ function BoardCategoryArt({id, category, radius}){
     height:"100%",
     borderRadius:radius,
     overflow:"hidden",
-    border:"3px solid rgba(255,255,255,.9)",
+    border:"1px solid rgba(255,255,255,.26)",
     background:preview.boardBg||preview.bg||"var(--surface-strong)",
-    boxShadow:"0 10px 24px rgba(20,0,60,.30)",
+    boxShadow:"0 14px 34px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.22)",
     display:"flex",
     alignItems:"center",
     justifyContent:"center",
@@ -5812,8 +5818,8 @@ function QRCode({text,size=190}){
 
 const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
 // "Arena" typography: Sora for display/headings, Inter for body. SF system stack stays as the fallback.
-const DISPLAY_STACK="'Fredoka', 'Sora', "+SF_STACK;
-const BODY_STACK="'Inter', "+SF_STACK;
+const DISPLAY_STACK="'Syne', 'Sora', "+SF_STACK;
+const BODY_STACK="'DM Sans', 'Inter', "+SF_STACK;
 const THEME_STORAGE_KEY="trivic-theme-mode";
 const LANG_STORAGE_KEY="trivic-language";
 function getInitialLanguage(){
@@ -5894,35 +5900,37 @@ const AR_TRANSLATIONS={
 };
 
 const CSS=`
-  /* ---------- "Game Show" design tokens: full-color gradient stage, white cards, chunky type ---------- */
+  /* ---------- "Midnight Glass" design tokens: dark void + aurora, liquid-glass surfaces ---------- */
   :root{
-    color-scheme:light;
-    --bg:#5B21B6;
-    --bg-image:radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 60%), linear-gradient(135deg, #4338CA 0%, #7C3AED 32%, #DB2777 66%, #F97316 100%);
-    --on-bg:#FFFFFF;
-    --on-bg-muted:rgba(255,255,255,.78);
-    --surface:#FFFFFF;
-    --surface-strong:#FFFFFF;
-    --surface-2:#F1EFFB;
-    --border:#E6E3F5;
-    --text:#1A1633;
-    --text-muted:#6B6890;
-    --accent:#7C3AED;
-    --accent-ink:#FFFFFF;
-    --accent-soft:rgba(124,58,237,.14);
-    --accent-2:#DB2777;
-    --accent-3:#F97316;
-    --danger:#EF4444;
-    --success:#22C55E;
-    --grad-accent:linear-gradient(135deg,#7C3AED 0%,#DB2777 100%);
+    color-scheme:dark;
+    --bg:#05070D;
+    --bg-image:radial-gradient(42% 38% at 10% 6%, rgba(34,211,238,.22) 0%, rgba(34,211,238,0) 70%), radial-gradient(46% 40% at 90% 16%, rgba(167,139,250,.24) 0%, rgba(167,139,250,0) 70%), radial-gradient(52% 46% at 52% 104%, rgba(244,114,182,.20) 0%, rgba(244,114,182,0) 70%), linear-gradient(180deg, #080B16 0%, #05070D 100%);
+    --on-bg:#F4F6FF;
+    --on-bg-muted:rgba(244,246,255,.62);
+    --surface:rgba(255,255,255,.055);
+    --surface-strong:rgba(16,20,34,.72);
+    --surface-2:rgba(255,255,255,.09);
+    --border:rgba(255,255,255,.14);
+    --border-strong:rgba(255,255,255,.28);
+    --text:#F4F6FF;
+    --text-muted:rgba(244,246,255,.62);
+    --accent:#22D3EE;
+    --accent-ink:#04111A;
+    --accent-soft:rgba(34,211,238,.16);
+    --accent-2:#A78BFA;
+    --accent-3:#F472B6;
+    --danger:#FB7185;
+    --success:#4ADE80;
+    --grad-accent:linear-gradient(135deg,#22D3EE 0%,#A78BFA 100%);
     --radius-sm:14px;
     --radius:20px;
     --radius-lg:28px;
     --radius-pill:999px;
-    --shadow-1:0 4px 12px rgba(30,10,80,.16);
-    --shadow-2:0 18px 44px rgba(30,10,80,.28);
-    --blur:none;
-    --focus-ring:0 0 0 3px rgba(255,255,255,.55);
+    --glass-edge:inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
+    --shadow-1:0 8px 24px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
+    --shadow-2:0 24px 60px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
+    --blur:blur(18px) saturate(160%);
+    --focus-ring:0 0 0 3px rgba(34,211,238,.45);
     --font-display:${DISPLAY_STACK};
     --font-body:${BODY_STACK};
 
@@ -5933,46 +5941,47 @@ const CSS=`
     --site-bg-size:cover;
     --site-bg-repeat:no-repeat;
 
-    /* Header strips (score bar, sticky category bar) = white strip on the colored stage */
-    --header-bg-color:rgba(255,255,255,.94);
+    /* Header strips (score bar, sticky category bar) = frosted glass */
+    --header-bg-color:rgba(10,13,22,.58);
     --header-bg-image:none;
     --header-bg-position:top left;
     --header-bg-size:auto;
     --header-bg-repeat:no-repeat;
-    --header-box-shadow:0 6px 20px rgba(30,10,80,.18);
-    --header-backdrop-filter:none;
+    --header-box-shadow:0 12px 34px rgba(0,0,0,.40), inset 0 1px 0 rgba(255,255,255,.16);
+    --header-backdrop-filter:blur(18px) saturate(160%);
   }
+  /* "Dusk": the lighter of the two dark looks — deep navy with brighter aurora */
   :root.theme-light{
-    color-scheme:light;
-    --bg:#5B21B6;
-    --bg-image:radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 60%), linear-gradient(135deg, #4338CA 0%, #7C3AED 32%, #DB2777 66%, #F97316 100%);
-    --surface:#FFFFFF;
-    --surface-strong:#FFFFFF;
-    --surface-2:#F1EFFB;
-    --border:#E6E3F5;
-    --text:#1A1633;
-    --text-muted:#6B6890;
-    --accent:#7C3AED;
-    --accent-soft:rgba(124,58,237,.14);
-    --header-bg-color:rgba(255,255,255,.94);
+    color-scheme:dark;
+    --bg:#0B1020;
+    --bg-image:radial-gradient(42% 38% at 10% 6%, rgba(34,211,238,.30) 0%, rgba(34,211,238,0) 70%), radial-gradient(46% 40% at 90% 16%, rgba(167,139,250,.34) 0%, rgba(167,139,250,0) 70%), radial-gradient(52% 46% at 52% 104%, rgba(244,114,182,.28) 0%, rgba(244,114,182,0) 70%), linear-gradient(180deg, #0F1630 0%, #0B1020 100%);
+    --surface:rgba(255,255,255,.08);
+    --surface-strong:rgba(22,28,48,.72);
+    --surface-2:rgba(255,255,255,.12);
+    --border:rgba(255,255,255,.18);
+    --border-strong:rgba(255,255,255,.32);
+    --header-bg-color:rgba(14,19,36,.58);
   }
+  /* "Midnight": the deepest look (same as :root) */
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#1E1B4B;
-    --bg-image:radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.08) 0%, rgba(255,255,255,0) 60%), linear-gradient(135deg, #1E1B4B 0%, #4C1D95 35%, #831843 70%, #9A3412 100%);
-    --surface:#1B1930;
-    --surface-strong:#201D38;
-    --surface-2:#2C2849;
-    --border:#3B3760;
-    --text:#F5F3FF;
-    --text-muted:#B4B0D6;
-    --accent:#A78BFA;
-    --accent-soft:rgba(167,139,250,.20);
-    --shadow-1:0 4px 12px rgba(0,0,0,.30);
-    --shadow-2:0 18px 44px rgba(0,0,0,.45);
-    --header-bg-color:rgba(24,22,45,.94);
-    --header-box-shadow:0 6px 20px rgba(0,0,0,.35);
+    --bg:#05070D;
+    --surface:rgba(255,255,255,.055);
+    --surface-strong:rgba(16,20,34,.72);
+    --surface-2:rgba(255,255,255,.09);
+    --border:rgba(255,255,255,.14);
+    --border-strong:rgba(255,255,255,.28);
+    --header-bg-color:rgba(10,13,22,.58);
   }
+  .glass{background:var(--surface);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1);}
+  .glass-strong{background:var(--surface-strong);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-2);}
+  /* Liquid-glass tile: static specular highlight + a sheen that sweeps across on hover */
+  .lg-tile{position:relative;overflow:hidden;isolation:isolate;}
+  .lg-tile::before{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(118deg, rgba(255,255,255,.30) 0%, rgba(255,255,255,.08) 28%, rgba(255,255,255,0) 52%);pointer-events:none;z-index:0;}
+  .lg-tile::after{content:"";position:absolute;top:-70%;left:-45%;width:55%;height:240%;background:linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.34) 50%, rgba(255,255,255,0) 100%);transform:rotate(16deg) translateX(0);opacity:0;pointer-events:none;z-index:0;transition:opacity .25s ease, transform .6s cubic-bezier(.2,.8,.3,1);}
+  .lg-tile:hover::after{opacity:1;transform:rotate(16deg) translateX(360%);}
+  .lg-tile>*{position:relative;z-index:1;}
+  @media (prefers-reduced-motion: reduce){ .lg-tile::after{display:none;} }
 
   *{box-sizing:border-box;margin:0;padding:0;}
   html{
@@ -6761,13 +6770,13 @@ function getTeamPillStyle(tc,active,{fontSize=12,padding="6px 14px",letterSpacin
     letterSpacing,
     textTransform:"uppercase",
     lineHeight:1.2,
-    color:active?"#FFFFFF":tc,
-    background:active?tc:withAlpha(tc,"1A"),
-    border:"1.5px solid transparent",
+    color:active?"#FFFFFF":lightenHex(tc,.30),
+    background:active?`linear-gradient(180deg, ${withAlpha(lightenHex(tc,.12),"F2")} 0%, ${withAlpha(tc,"E6")} 100%)`:withAlpha(tc,"24"),
+    border:active?"1px solid rgba(255,255,255,.35)":`1px solid ${withAlpha(tc,"55")}`,
     borderRadius:999,
     padding,
-    boxShadow:active?"var(--shadow-1)":"none",
-    textShadow:"none",
+    boxShadow:active?`0 0 0 1px ${withAlpha(tc,"40")}, 0 8px 22px ${withAlpha(tc,"66")}, inset 0 1px 0 rgba(255,255,255,.35)`:"inset 0 1px 0 rgba(255,255,255,.08)",
+    textShadow:active?"0 1px 0 rgba(0,0,0,.25)":"none",
     textAlign:"center",
     minWidth,
     maxWidth:"100%",
@@ -6781,7 +6790,7 @@ function getTeamPillStyle(tc,active,{fontSize=12,padding="6px 14px",letterSpacin
 // Score digits: display font, tabular numerals so +/- adjustments don't jitter.
 function getScoreDigitStyle(tc,active,{fontSize=26,minWidth=40}={}){
   return{
-    fontFamily:DISPLAY_STACK,
+    fontFamily:BODY_STACK,
     fontWeight:800,
     fontVariantNumeric:"tabular-nums",
     fontSize,
@@ -6848,7 +6857,7 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
   const isNarrow=viewport.width<520;
   const many=teams.length>3;
   // Phone: left padding clears the fixed EN toggle (18px + 44px + gap) so it never covers the first team pill.
-  const headerPad=isPhone?"10px 10px 12px 74px":"14px 24px 16px";
+  const headerPad=isPhone?"10px 10px 12px 74px":"10px 24px 12px";
   const colGap=isPhone?(many?6:10):many?16:32;
   const pillPad=isPhone?(many?"5px 10px":"6px 14px"):many?"7px 14px":"8px 22px";
   const pillFont=isPhone?(isNarrow?11:12):many?12:14;
@@ -6862,7 +6871,7 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
   const turnFont=isPhone?"clamp(16px,4.6vw,20px)":"clamp(20px,2.4vw,28px)";
   const showVs=teams.length===2;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",gap:isPhone?8:10,padding:headerPad,width:"calc(100% - 24px)",maxWidth:"calc(100vw - 24px)",margin:"10px 12px 0",borderRadius:22,boxShadow:"var(--shadow-2)",overflow:"hidden"}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",gap:isPhone?8:6,padding:headerPad,width:"calc(100% - 24px)",maxWidth:"calc(100vw - 24px)",margin:"10px 12px 0",borderRadius:22,boxShadow:"var(--shadow-2)",overflow:"hidden"}}>
       {/* Turn banner — always stacked ABOVE the team pills, never overlaid. */}
       <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,minWidth:0,flexWrap:"wrap"}}>
         <span aria-hidden="true" style={{width:10,height:10,borderRadius:999,background:turnColor,flex:"0 0 auto"}}/>
@@ -6903,9 +6912,11 @@ const ARENA_TOGGLE_BUTTON_STYLE={
   alignItems:"center",
   justifyContent:"center",
   padding:0,
-  background:"var(--surface-strong)",
+  background:"var(--surface-2)",
   border:"1px solid var(--border)",
   boxShadow:"var(--shadow-1)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
   color:"var(--text)",
   cursor:"pointer",
   flex:"0 0 auto",
@@ -6980,10 +6991,12 @@ const ARENA_PAGE_STYLE={
 const ARENA_CARD_STYLE={
   position:"relative",
   width:"100%",
-  background:"var(--surface-strong)",
+  background:"var(--surface)",
   border:"1px solid var(--border)",
   borderRadius:"var(--radius-lg)",
   boxShadow:"var(--shadow-2)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
   overflow:"hidden",
 };
 const ARENA_CARD_TOPLINE_STYLE={
@@ -6991,11 +7004,11 @@ const ARENA_CARD_TOPLINE_STYLE={
 };
 const ARENA_WORDMARK_STYLE={
   fontFamily:DISPLAY_STACK,
-  fontWeight:700,
+  fontWeight:800,
   lineHeight:1,
-  letterSpacing:"-.02em",
+  letterSpacing:"-.04em",
   color:"var(--on-bg)",
-  textShadow:"0 4px 0 rgba(0,0,0,.18), 0 14px 30px rgba(0,0,0,.25)",
+  textShadow:"0 0 40px rgba(34,211,238,.45), 0 0 80px rgba(167,139,250,.35)",
   display:"inline-block",
   paddingBottom:".06em",
 };
@@ -7035,14 +7048,14 @@ function arenaSegmentStyle(active){
       minHeight:44,
       padding:"10px 14px",
       borderRadius:"var(--radius-pill)",
-      background:"var(--accent)",
+      background:"linear-gradient(180deg, rgba(34,211,238,.55) 0%, rgba(34,211,238,.30) 100%)",
       color:"#FFFFFF",
-      border:"1px solid transparent",
-      boxShadow:"var(--shadow-1)",
-      fontFamily:BODY_STACK,
+      border:"1px solid rgba(34,211,238,.75)",
+      boxShadow:"0 0 24px rgba(34,211,238,.35), inset 0 1px 0 rgba(255,255,255,.35)",
+      fontFamily:DISPLAY_STACK,
       fontSize:14,
       fontWeight:700,
-      letterSpacing:"0",
+      letterSpacing:".01em",
       cursor:"pointer",
     }
     :{
@@ -7053,7 +7066,7 @@ function arenaSegmentStyle(active){
       color:"var(--text-muted)",
       border:"1px solid transparent",
       boxShadow:"none",
-      fontFamily:BODY_STACK,
+      fontFamily:DISPLAY_STACK,
       fontSize:14,
       fontWeight:700,
       letterSpacing:".01em",
@@ -7121,30 +7134,30 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
       </div>
 
       {/* Wordmark + heading */}
-      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
-        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(56px,11vw,92px)"}}>TRIVIC</div>
-        <div style={{display:"inline-flex",alignItems:"center",gap:8,padding:"7px 16px",borderRadius:999,background:"rgba(255,255,255,.18)",border:"1.5px solid rgba(255,255,255,.5)",color:"var(--on-bg)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:600,letterSpacing:".14em",textTransform:"uppercase"}}>Set up your game</div>
+      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:12}}>
+        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(58px,11vw,96px)"}}>TRIVIC</div>
+        <div style={{display:"inline-flex",alignItems:"center",gap:8,padding:"7px 16px",borderRadius:999,background:"var(--surface-2)",border:"1px solid var(--border-strong)",boxShadow:"var(--glass-edge)",color:"var(--on-bg)",fontFamily:DISPLAY_STACK,fontSize:12,fontWeight:700,letterSpacing:".2em",textTransform:"uppercase"}}>Set up your game</div>
       </div>
 
-      <div style={{width:"100%",maxWidth:660,display:"flex",flexDirection:"column",gap:16}}>
-        {/* Teams card: one bold color block per team, number badge + centered name */}
-        <section style={{...ARENA_CARD_STYLE,padding:"22px 20px 20px",display:"flex",flexDirection:"column",gap:16}}>
+      <div style={{width:"100%",maxWidth:560,display:"flex",flexDirection:"column",gap:16}}>
+        {/* Teams: one glass row per team, stacked */}
+        <section style={{...ARENA_CARD_STYLE,padding:"22px 20px 20px",display:"flex",flexDirection:"column",gap:14}}>
           <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:10}}>
-            <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(22px,3.4vw,30px)",fontWeight:700,color:"var(--text)",lineHeight:1.1}}>Teams</h2>
-            <span style={{display:"inline-flex",alignItems:"center",padding:"5px 12px",borderRadius:999,background:"var(--surface-2)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:600,fontVariantNumeric:"tabular-nums"}}>{teams.length} / {TEAM_COLORS.length}</span>
+            <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(24px,3.6vw,32px)",fontWeight:800,letterSpacing:"-.02em",color:"var(--text)",lineHeight:1.05}}>Teams</h2>
+            <span style={{display:"inline-flex",alignItems:"center",padding:"5px 12px",borderRadius:999,background:"var(--surface-2)",border:"1px solid var(--border)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:12,fontWeight:700,letterSpacing:".08em",fontVariantNumeric:"tabular-nums"}}>{teams.length} / {TEAM_COLORS.length}</span>
           </div>
-          <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill, minmax(150px, 1fr))",gap:12}}>
+          <div style={{display:"flex",flexDirection:"column",gap:10}}>
             {teams.map((t,i)=>{
               const tc=TEAM_COLORS[i%TEAM_COLORS.length];
               return(
-                <div key={i} style={{position:"relative",display:"flex",flexDirection:"column",alignItems:"center",gap:10,padding:"16px 10px 12px",borderRadius:"var(--radius)",background:`linear-gradient(180deg, ${lightenHex(tc,.10)} 0%, ${tc} 55%, ${darkenHex(tc,.12)} 100%)`,boxShadow:`0 6px 0 ${darkenHex(tc,.30)}, 0 12px 24px ${withAlpha(tc,"55")}`,border:"2px solid rgba(255,255,255,.4)",minWidth:0}}>
-                  <span aria-hidden="true" style={{width:48,height:48,borderRadius:"50%",background:"rgba(255,255,255,.22)",border:"2px solid rgba(255,255,255,.75)",display:"inline-flex",alignItems:"center",justifyContent:"center",fontFamily:DISPLAY_STACK,fontSize:20,fontWeight:700,color:"#FFFFFF",textShadow:"0 2px 0 rgba(0,0,0,.2)",flex:"0 0 auto"}}>{i+1}</span>
+                <div key={i} style={{display:"flex",alignItems:"center",gap:12,minHeight:64,padding:"8px 8px 8px 10px",borderRadius:18,background:`linear-gradient(90deg, ${withAlpha(tc,"38")} 0%, ${withAlpha(tc,"0F")} 100%)`,border:`1px solid ${withAlpha(tc,"73")}`,boxShadow:`inset 0 1px 0 rgba(255,255,255,.16), 0 0 26px ${withAlpha(tc,"26")}`,minWidth:0}}>
+                  <span aria-hidden="true" style={{width:42,height:42,borderRadius:"50%",background:`linear-gradient(180deg, ${lightenHex(tc,.18)} 0%, ${tc} 100%)`,border:"1px solid rgba(255,255,255,.45)",display:"inline-flex",alignItems:"center",justifyContent:"center",fontFamily:DISPLAY_STACK,fontSize:18,fontWeight:800,color:"#FFFFFF",boxShadow:`0 0 18px ${withAlpha(tc,"8C")}, inset 0 1px 0 rgba(255,255,255,.4)`,flex:"0 0 auto"}}>{i+1}</span>
                   <input
                     value={t}
                     onChange={e=>{const n=[...teams];n[i]=e.target.value;setTeams(n);}}
                     placeholder={`Team ${i+1}`}
                     aria-label={`Team ${i+1} name`}
-                    style={{width:"100%",minWidth:0,minHeight:42,padding:"6px 10px",textAlign:"center",background:"rgba(255,255,255,.94)",border:"none",borderRadius:12,fontFamily:DISPLAY_STACK,fontSize:16,fontWeight:600,color:"#1A1633",textOverflow:"ellipsis",boxShadow:"inset 0 2px 4px rgba(0,0,0,.08)"}}
+                    style={{flex:1,minWidth:0,width:"100%",minHeight:44,padding:"6px 8px",background:"transparent",border:"none",borderRadius:12,fontFamily:DISPLAY_STACK,fontSize:19,fontWeight:700,letterSpacing:"-.01em",color:"var(--text)",textOverflow:"ellipsis"}}
                   />
                   {teams.length>2&&(
                     <button
@@ -7152,7 +7165,7 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
                       type="button"
                       aria-label={`Remove team ${i+1}`}
                       onClick={()=>{const n=teams.filter((_,j)=>j!==i);setTeams(n);}}
-                      style={{position:"absolute",top:6,right:6,width:28,height:28,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",background:"rgba(0,0,0,.28)",border:"1.5px solid rgba(255,255,255,.6)",color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontSize:15,fontWeight:700,lineHeight:1,cursor:"pointer"}}
+                      style={{width:40,height:40,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",flex:"0 0 auto",background:"var(--surface-2)",border:"1px solid var(--border)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:16,fontWeight:800,lineHeight:1,cursor:"pointer",boxShadow:"var(--glass-edge)"}}
                     >×</button>
                   )}
                 </div>
@@ -7163,30 +7176,35 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
                 className="tap"
                 type="button"
                 onClick={()=>setTeams(prev=>[...prev,`Team ${prev.length+1}`])}
-                style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:8,minHeight:136,padding:12,borderRadius:"var(--radius)",background:"var(--surface-2)",border:"2px dashed var(--border)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:15,fontWeight:600,cursor:"pointer"}}
+                style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,minHeight:56,padding:"10px 16px",borderRadius:18,background:"transparent",border:"1px dashed var(--border-strong)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:15,fontWeight:700,cursor:"pointer"}}
               >
-                <span aria-hidden="true" style={{width:44,height:44,borderRadius:"50%",background:"var(--accent-soft)",color:"var(--accent)",display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:24,fontWeight:700,lineHeight:1}}>+</span>
+                <span aria-hidden="true" style={{width:30,height:30,borderRadius:"50%",background:"var(--accent-soft)",border:"1px solid rgba(34,211,238,.5)",color:"var(--accent)",display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:20,fontWeight:800,lineHeight:1}}>+</span>
                 Add team
               </button>
             )}
           </div>
         </section>
 
-        {/* Mode card: two big option tiles */}
-        <section style={{...ARENA_CARD_STYLE,padding:"22px 20px 20px",display:"flex",flexDirection:"column",gap:16}}>
-          <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(22px,3.4vw,30px)",fontWeight:700,color:"var(--text)",lineHeight:1.1}}>Mode</h2>
-          <div role="radiogroup" aria-label="Game mode" style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:12}}>
+        {/* Mode: two stacked glass rows with a radio dot */}
+        <section style={{...ARENA_CARD_STYLE,padding:"22px 20px 20px",display:"flex",flexDirection:"column",gap:14}}>
+          <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(24px,3.6vw,32px)",fontWeight:800,letterSpacing:"-.02em",color:"var(--text)",lineHeight:1.05}}>Mode</h2>
+          <div role="radiogroup" aria-label="Game mode" style={{display:"flex",flexDirection:"column",gap:10}}>
             {[
-              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. Wrong answer costs half.",grad:["#3B82F6","#1D4ED8"]},
-              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. Wrong answer costs full.",grad:["#F97316","#C2410C"]},
+              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. A wrong answer costs half the tile.",tint:"#22D3EE"},
+              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. A wrong answer costs the full tile.",tint:"#F472B6"},
             ].map(m=>{
               const active=gameMode===m.id;
               return(
                 <button key={m.id} type="button" role="radio" aria-checked={active} className="tap" onClick={()=>setGameMode(m.id)}
-                  style={{display:"flex",flexDirection:"column",alignItems:"center",gap:6,padding:"18px 12px 14px",borderRadius:"var(--radius)",background:active?`linear-gradient(180deg, ${m.grad[0]} 0%, ${m.grad[1]} 100%)`:"var(--surface-2)",color:active?"#FFFFFF":"var(--text)",border:active?"2px solid rgba(255,255,255,.5)":"2px solid transparent",boxShadow:active?`0 6px 0 ${darkenHex(m.grad[1],.2)}, 0 12px 24px ${withAlpha(m.grad[0],"55")}`:"none",cursor:"pointer",textAlign:"center",transform:active?"translateY(-2px)":"none",transition:"background .18s ease, box-shadow .18s ease, transform .18s ease",minWidth:0}}>
-                  <span aria-hidden="true" style={{fontSize:32,lineHeight:1}}>{m.emoji}</span>
-                  <span style={{fontFamily:DISPLAY_STACK,fontSize:19,fontWeight:700,lineHeight:1.1}}>{m.label}</span>
-                  <span style={{fontSize:12.5,fontWeight:500,opacity:active?.92:.7,lineHeight:1.35}}>{m.desc}</span>
+                  style={{display:"flex",alignItems:"center",gap:14,padding:"14px 16px",borderRadius:18,textAlign:"left",background:active?`linear-gradient(90deg, ${withAlpha(m.tint,"40")} 0%, ${withAlpha(m.tint,"12")} 100%)`:"var(--surface-2)",border:active?`1px solid ${withAlpha(m.tint,"A6")}`:"1px solid var(--border)",boxShadow:active?`0 0 30px ${withAlpha(m.tint,"33")}, inset 0 1px 0 rgba(255,255,255,.2)`:"var(--glass-edge)",color:"var(--text)",cursor:"pointer",transition:"background .18s ease, box-shadow .18s ease, border-color .18s ease",minWidth:0}}>
+                  <span aria-hidden="true" style={{width:22,height:22,borderRadius:"50%",border:`2px solid ${active?m.tint:"var(--border-strong)"}`,display:"inline-flex",alignItems:"center",justifyContent:"center",flex:"0 0 auto",boxShadow:active?`0 0 14px ${withAlpha(m.tint,"99")}`:"none"}}>
+                    <span style={{width:10,height:10,borderRadius:"50%",background:active?m.tint:"transparent"}}/>
+                  </span>
+                  <span aria-hidden="true" style={{fontSize:26,lineHeight:1,flex:"0 0 auto"}}>{m.emoji}</span>
+                  <span style={{display:"flex",flexDirection:"column",gap:3,minWidth:0}}>
+                    <span style={{fontFamily:DISPLAY_STACK,fontSize:19,fontWeight:800,lineHeight:1.1,letterSpacing:"-.01em"}}>{m.label}</span>
+                    <span style={{fontSize:13.5,fontWeight:500,color:"var(--text-muted)",lineHeight:1.35}}>{m.desc}</span>
+                  </span>
                 </button>
               );
             })}
@@ -7194,9 +7212,9 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
         </section>
       </div>
 
-      {/* Sticky bottom CTA: white pill pops on the colored stage */}
+      {/* Sticky bottom CTA: glowing cyan glass */}
       <div style={{position:"sticky",bottom:0,zIndex:10,width:"100%",marginTop:"auto",padding:"14px 0 calc(16px + env(safe-area-inset-bottom, 0px))",display:"flex",justifyContent:"center"}}>
-        <button className="tap" onClick={onNext} style={{width:"100%",maxWidth:660,minHeight:58,padding:"14px 28px",borderRadius:999,background:"#FFFFFF",color:"var(--accent)",border:"2px solid rgba(255,255,255,.9)",boxShadow:"0 6px 0 rgba(0,0,0,.18), 0 16px 34px rgba(20,0,60,.35)",fontFamily:DISPLAY_STACK,fontSize:19,fontWeight:700,cursor:"pointer",display:"inline-flex",alignItems:"center",justifyContent:"center",gap:8}}>
+        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#22D3EE",fontSize:18,padding:"14px 28px",borderRadius:999,minHeight:58}),width:"100%",maxWidth:560,letterSpacing:".02em"}}>
           Choose Categories <span aria-hidden="true">→</span>
         </button>
       </div>
@@ -7220,7 +7238,7 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
   });
   const removeInstance=instanceId=>setSelCats(p=>p.filter(x=>x!==instanceId));
   const isPhone=viewport.width<480;
-  const cardMin=isPhone?130:170;
+  const cardMin=isPhone?140:184;
   const canStart=selCats.length>0&&usageReady&&!isSyncingUsage;
   const startLabel=!usageReady
     ?(isPhone?"Loading...":"Loading account pool...")
@@ -7323,17 +7341,17 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
           const selInGroup=gCats.filter(id=>selCats.some(x=>baseCat(x)===id)).length;
           return(
             <section key={group.label} style={{width:"min(100%, 1500px)",display:"flex",flexDirection:"column",gap:12,minWidth:0}}>
-              <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:8,minWidth:0,padding:"6px 2px 2px"}}>
-                <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,minWidth:0,flexWrap:"wrap"}}>
-                  <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(22px,3vw,30px)",lineHeight:1.1,color:"var(--on-bg)",textShadow:"0 3px 0 rgba(0,0,0,.16), 0 10px 24px rgba(0,0,0,.25)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0,textAlign:"center"}}>{group.label}</span>
-                  <span style={{display:"inline-flex",alignItems:"center",padding:"4px 10px",borderRadius:999,background:"rgba(255,255,255,.22)",border:"1.5px solid rgba(255,255,255,.5)",color:"var(--on-bg)",fontFamily:DISPLAY_STACK,fontSize:12,fontWeight:700,fontVariantNumeric:"tabular-nums",whiteSpace:"nowrap"}}>{selInGroup}/{gCats.length}</span>
+              <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:8,minWidth:0,padding:"10px 2px 4px"}}>
+                <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:12,minWidth:0,flexWrap:"wrap"}}>
+                  <span style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:"clamp(26px,3.4vw,36px)",lineHeight:1.05,letterSpacing:"-.03em",color:"var(--on-bg)",whiteSpace:"nowrap",minWidth:0,textAlign:"center"}}>{group.label}</span>
+                  <span style={{display:"inline-flex",alignItems:"center",padding:"5px 11px",borderRadius:999,background:"var(--surface-2)",border:"1px solid var(--border-strong)",boxShadow:"var(--glass-edge)",color:"var(--on-bg)",fontFamily:DISPLAY_STACK,fontSize:12,fontWeight:700,letterSpacing:".06em",fontVariantNumeric:"tabular-nums",whiteSpace:"nowrap"}}>{selInGroup}/{gCats.length}</span>
                   <button className="tap hit44" onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(baseCat(x)))):setSelCats(p=>[...p,...gCats.filter(id=>!p.some(x=>baseCat(x)===id))])}
-                    style={{display:"inline-flex",alignItems:"center",padding:"6px 14px",borderRadius:999,background:allSel?"rgba(239,68,68,.9)":"rgba(255,255,255,.95)",border:"1.5px solid rgba(255,255,255,.6)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:700,color:allSel?"#FFFFFF":"var(--accent)",whiteSpace:"nowrap",flex:"0 0 auto",cursor:"pointer",boxShadow:"var(--shadow-1)"}}>
+                    style={getGlassButtonStyle({tint:allSel?"#FB7185":"#22D3EE",subtle:true,fontSize:13,padding:"6px 14px",borderRadius:999,minHeight:34})}>
                     {allSel?"Remove all":"Add all"}
                   </button>
                 </div>
               </div>
-              <div style={{display:"grid",gridTemplateColumns:`repeat(auto-fit, minmax(${cardMin}px, ${isPhone?"1fr":"210px"}))`,justifyContent:"center",gap:isPhone?10:16,width:"100%",minWidth:0}}>
+              <div style={{display:"grid",gridTemplateColumns:`repeat(auto-fit, minmax(${cardMin}px, ${isPhone?"1fr":"224px"}))`,justifyContent:"center",gap:isPhone?10:18,width:"100%",minWidth:0}}>
                 {gCats.map(id=>{const c=BANK[id];const count=countInstances(selCats,id);const sel=count>0;
                   return(
                     <div key={id} style={{position:"relative",minWidth:0}}>
@@ -7383,23 +7401,25 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const compactBoard=viewport.height<920 || colCount>4;
   const bodyPad=isPhone?10:isTablet?14:18;
   const colGap=isPhone?10:isTablet?14:18;
-  const colMin=isPhone?196:isTablet?208:214;
-  const tileMax=isPhone?110:compactBoard?140:172;
+  // Blocks wrap: up to 3 categories per row on desktop (6 → 3 over 3), 2 on tablets, 1 on phones. The page scrolls vertically.
+  const perRow=isPhone?1:isTablet?Math.min(2,Math.max(1,colCount)):Math.min(3,Math.max(1,colCount));
+  const blockRows=Math.ceil(colCount/perRow);
   const boardUsableWidth=Math.max(280,(viewport.width||1280)-(bodyPad*2));
-  const boardFits=(colCount*colMin)+(colGap*(colCount-1))<=boardUsableWidth;
-  const colWidth=boardFits?Math.floor((boardUsableWidth-(colGap*(colCount-1)))/colCount):colMin;
-  const boardGridWidth=boardFits?"100%":`${(colCount*colMin)+(colGap*(colCount-1))}px`;
+  const colWidth=Math.floor((boardUsableWidth-(colGap*(perRow-1)))/perRow);
+  const boardGridWidth="100%";
+  const colMin=colWidth;
   const artSize=Math.max(72,Math.min(colWidth-24,isPhone?112:compactBoard?136:172));
-  const artRadius=isPhone?12:14;
-  const labelFont=isPhone?12:compactBoard?13:15;
-  const tileMin=isPhone?56:compactBoard?64:78;
-  const tileFont=isPhone?22:compactBoard?26:32;
-  const tileGap=isPhone?6:8;
-  const headerBodyGap=isPhone?8:10;
-  const fillHeight=!isTouch; // desktop: stretch tiles to fill the viewport; touch: natural height, page scrolls
-  // Game-show tiles: vertical tier gradient, chunky 3D bottom edge, big rounded display numbers.
+  const artRadius=isPhone?14:18;
+  const labelFont=isPhone?13:compactBoard?14:16;
+  const tileMin=isPhone?54:compactBoard?56:64;
+  const tileMax=isPhone?88:blockRows>1?(compactBoard?70:84):156;
+  const tileFont=isPhone?22:compactBoard?24:28;
+  const tileGap=isPhone?8:10;
+  const headerBodyGap=isPhone?10:12;
+  const fillHeight=false;
+  // Liquid-glass tiles: tinted glass slab, glowing edge, number glowing through the glass.
   const tileStyle=(pts,used)=>{
-    const c=PT_COLORS[pts]||"#A855F7";
+    const c=PT_COLORS[pts]||"#A78BFA";
     const c2=PT_COLORS_2[pts]||darkenHex(c,.25);
     return{
       width:"100%",
@@ -7408,20 +7428,20 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       minHeight:tileMin,
       padding:"6px 4px",
       borderRadius:"var(--radius)",
-      border:used?"2px dashed rgba(255,255,255,.38)":"2px solid rgba(255,255,255,.28)",
-      background:used?"rgba(255,255,255,.10)":`linear-gradient(180deg, ${lightenHex(c,.10)} 0%, ${c} 45%, ${c2} 100%)`,
-      color:used?"rgba(255,255,255,.55)":"#FFFFFF",
+      border:used?"1px dashed rgba(255,255,255,.16)":`1px solid ${withAlpha(c,"A6")}`,
+      background:used?"rgba(255,255,255,.035)":`linear-gradient(160deg, ${withAlpha(c,"66")} 0%, ${withAlpha(c,"2E")} 50%, ${withAlpha(c2,"3D")} 100%)`,
+      color:used?"rgba(255,255,255,.26)":"#FFFFFF",
       fontFamily:DISPLAY_STACK,
-      fontWeight:700,
+      fontWeight:800,
       fontSize:tileFont,
-      letterSpacing:"0",
+      letterSpacing:"-.02em",
       fontVariantNumeric:"tabular-nums",
       lineHeight:1,
-      textShadow:used?"none":"0 2px 0 rgba(0,0,0,.22)",
+      textShadow:used?"none":`0 0 18px ${withAlpha(c,"D9")}, 0 2px 0 rgba(0,0,0,.35)`,
       display:"flex",
       alignItems:"center",
       justifyContent:"center",
-      boxShadow:used?"none":`0 5px 0 ${darkenHex(c2,.15)}, 0 12px 22px rgba(20,0,60,.28)`,
+      boxShadow:used?"none":`inset 0 1px 0 rgba(255,255,255,.38), inset 0 -12px 26px ${withAlpha(c2,"40")}, 0 12px 30px rgba(0,0,0,.45), 0 0 28px ${withAlpha(c,"38")}`,
       cursor:used?"default":"pointer",
       pointerEvents:used?"none":"auto",
       transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, opacity .3s ease, background .3s ease",
@@ -7440,17 +7460,17 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
       {/* Board wrapper — the ONLY element allowed to scroll horizontally. */}
       <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,width:"100%",maxWidth:"100vw",padding:bodyPad,overflowX:"auto",overflowY:isTouch?"hidden":"auto",WebkitOverflowScrolling:"touch",overscrollBehaviorX:"contain"}}>
-        <div style={{display:"grid",gridTemplateColumns:`repeat(${colCount}, minmax(0,1fr))`,gap:colGap,width:boardGridWidth,minHeight:fillHeight?"100%":undefined,alignItems:"stretch"}}>
+        <div style={{display:"grid",gridTemplateColumns:`repeat(${perRow}, minmax(0,1fr))`,gap:colGap,width:boardGridWidth,alignItems:"stretch",alignContent:"start"}}>
           {selCats.map(catId=>{
             const c=BANK[baseCat(catId)];if(!c)return null;
             return(
-              <div key={catId} style={{minWidth:0,minHeight:0,display:"flex",flexDirection:"column",justifyContent:"center",gap:headerBodyGap}}>
-                {/* Category name pill in the category color, centered above its block */}
-                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 12px":"7px 16px",borderRadius:999,background:c.color||"#7C3AED",color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,lineHeight:1.15,textAlign:"center",boxShadow:"0 4px 0 rgba(0,0,0,.18), var(--shadow-1)",border:"2px solid rgba(255,255,255,.35)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
-                  <span aria-hidden="true" style={{marginRight:6}}>{c.icon}</span>{c.label}
+              <div key={catId} className="glass" style={{minWidth:0,minHeight:0,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
+                {/* Category name: tinted glass pill in the category color, centered above its block */}
+                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, ${withAlpha(c.color||"#22D3EE","40")} 0%, ${withAlpha(c.color||"#22D3EE","1A")} 100%)`,color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:`0 0 22px ${withAlpha(c.color||"#22D3EE","38")}, inset 0 1px 0 rgba(255,255,255,.25)`,border:`1px solid ${withAlpha(c.color||"#22D3EE","8C")}`,whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
+                  <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
                 </div>
                 {/* Tiles flank the category art: [200][art][200] / [400][art][400] / [600][art][600]. FFA: [art][tile] x5 */}
-                <div style={{display:"grid",gridTemplateColumns:isFFA?`minmax(0,1.3fr) minmax(0,1fr)`:`minmax(0,1fr) minmax(0,1.45fr) minmax(0,1fr)`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, ${tileMax}px))`,gap:tileGap,minHeight:0,flex:"0 0 auto"}}>
+                <div style={{display:"grid",gridTemplateColumns:isFFA?`minmax(0,1.3fr) minmax(0,1fr)`:`minmax(0,1fr) minmax(0,1.35fr) minmax(0,1fr)`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, ${tileMax}px))`,gap:tileGap,minHeight:0,flex:"0 0 auto"}}>
                   <div style={{gridColumn:isFFA?1:2,gridRow:`1 / span ${activePV.length}`,minHeight:0,minWidth:0}}>
                     <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
                   </div>
@@ -7460,13 +7480,13 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
                     return shown.map((used,idx)=>(
                       <button
                         key={`${pts}-${idx}`}
-                        className={used?"":"tap"}
+                        className={used?"":"tap lg-tile"}
                         aria-disabled={used?"true":undefined}
                         aria-label={used?`${c.label} ${pts} (used)`:`${c.label} for ${pts}`}
                         onClick={()=>!used&&onPick(catId,pts,idx)}
                         style={{...tileStyle(pts,used),gridColumn:isFFA?2:(idx===0?1:3),gridRow:rowIdx+1}}
                       >
-                        {pts}
+                        <span>{pts}</span>
                       </button>
                     ));
                   })}
@@ -7680,8 +7700,8 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   display:"inline-flex",
   alignItems:"center",
   justifyContent:"center",
-  background:pc,
-  color:Object.keys(PT_COLORS).find(k=>PT_COLORS[k]===pc)?PT_INK[Object.keys(PT_COLORS).find(k=>PT_COLORS[k]===pc)]:"#FFFFFF",
+  background:`linear-gradient(180deg, ${withAlpha(pc,"3D")} 0%, ${withAlpha(pc,"1F")} 100%)`,
+  color:lightenHex(pc,.35),
   fontFamily:DISPLAY_STACK,
   fontWeight:800,
   fontVariantNumeric:"tabular-nums",
@@ -7689,8 +7709,9 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   lineHeight:1,
   padding:"clamp(7px,1.2vw,10px) clamp(12px,2vw,18px)",
   borderRadius:"var(--radius-pill)",
-  border:"1px solid transparent",
-  boxShadow:"var(--shadow-1)",
+  border:`1px solid ${withAlpha(pc,"80")}`,
+  boxShadow:`0 0 24px ${withAlpha(pc,"40")}, inset 0 1px 0 rgba(255,255,255,.25)`,
+  textShadow:`0 0 14px ${withAlpha(pc,"99")}`,
   minWidth:"clamp(52px,8vw,84px)",
   textAlign:"center",
   whiteSpace:"nowrap",
@@ -7849,8 +7870,9 @@ const QUESTION_KICKER_STYLE={
 
 // Answer panel: gradient top line + glow tinted by the tile's point color.
 const QUESTION_ANSWER_PANEL_STYLE=(pc)=>({
-  border:`2px solid ${pc}`,
-  boxShadow:"var(--shadow-2)",
+  border:`1px solid ${withAlpha(pc,"8C")}`,
+  background:`linear-gradient(180deg, ${withAlpha(pc,"2E")} 0%, ${withAlpha(pc,"14")} 100%)`,
+  boxShadow:`0 24px 60px rgba(0,0,0,.55), 0 0 0 1px ${withAlpha(pc,"33")}, 0 0 40px ${withAlpha(pc,"40")}, inset 0 1px 0 rgba(255,255,255,.22)`,
 });
 
 const QUESTION_ANSWER_LABEL_STYLE=(pc)=>({
@@ -8017,60 +8039,61 @@ function getGlassButtonStyle({
   selected=false,
   ringColor,
 }={}){
-  // "Paper & Pop" buttons: flat solid fills, no gradients / inner highlights / glows.
+  // Midnight Glass buttons: tinted glass slabs with a top highlight and a soft tint glow.
   const kind=arenaTintKind(tint);
   const isDanger=kind==="danger";
   const isAccent=kind==="accent";
   const isNeutral=kind==="neutral";
-  const ring=selected?`0 0 0 3px ${ringColor||withAlpha(tint,"59")}`:"none";
+  const t=isAccent?"#22D3EE":isDanger?"#FB7185":tint;
+  const ring=selected?`0 0 0 2px ${ringColor||withAlpha(t,"73")}`:"";
   const base={
     display:"inline-flex",
     alignItems:"center",
     justifyContent:"center",
     gap:8,
-    fontFamily:BODY_STACK,
+    fontFamily:DISPLAY_STACK,
     lineHeight:1.15,
-    letterSpacing:"0",
+    letterSpacing:".01em",
     textDecoration:"none",
     maxWidth:"100%",
-    backdropFilter:"none",
-    WebkitBackdropFilter:"none",
+    backdropFilter:"var(--blur)",
+    WebkitBackdropFilter:"var(--blur)",
     padding,
     borderRadius,
     fontSize,
-    fontWeight:fontWeight>=800?700:fontWeight,
+    fontWeight:fontWeight>=800?800:700,
     minHeight,
     width,
     height,
-    border:"1px solid transparent",
     transition:"background .15s ease, color .15s ease, box-shadow .15s ease",
   };
   if(disabled){
     return{
       ...base,
-      background:"var(--surface-2)",
+      background:"rgba(255,255,255,.04)",
+      border:"1px solid var(--border)",
       boxShadow:"none",
       color:"var(--text-muted)",
-      opacity:.6,
+      opacity:.7,
       cursor:"not-allowed",
     };
   }
   if(subtle){
     return{
       ...base,
-      background:isNeutral?"var(--surface-2)":withAlpha(tint,"1F"),
-      boxShadow:ring,
-      color:isDanger?"var(--danger)":"var(--text)",
+      background:isNeutral?"var(--surface-2)":`linear-gradient(180deg, ${withAlpha(t,"33")} 0%, ${withAlpha(t,"14")} 100%)`,
+      border:`1px solid ${isNeutral?"var(--border-strong)":withAlpha(t,"66")}`,
+      boxShadow:[ring,"var(--glass-edge)"].filter(Boolean).join(", "),
+      color:isDanger?"#FFB4C0":isNeutral?"var(--text)":lightenHex(t,.32),
     };
   }
-  const solid=isAccent?"var(--accent)":tint;
-  // Light tints (sun/amber) need dark ink for contrast; everything else gets white.
-  const lightTint=/^#(F[89A-F]|FF)[A-F0-9]{4}$/i.test(tint)&&!isAccent&&!isDanger;
   return{
     ...base,
-    background:solid,
-    boxShadow:ring==="none"?"var(--shadow-1)":`${ring}, var(--shadow-1)`,
-    color:lightTint?"#14161C":"var(--accent-ink, #FFFFFF)",
+    background:`linear-gradient(180deg, ${withAlpha(lightenHex(t,.08),"E6")} 0%, ${withAlpha(t,"B3")} 100%)`,
+    border:"1px solid rgba(255,255,255,.38)",
+    boxShadow:[ring,`0 0 32px ${withAlpha(t,"59")}`,"0 14px 36px rgba(0,0,0,.45)","inset 0 1px 0 rgba(255,255,255,.45)"].filter(Boolean).join(", "),
+    color:isAccent||/^#(2|3|6|8|9|A|B|C|D|E|F)/i.test(t)&&!isDanger?"#04111A":"#FFFFFF",
+    textShadow:"none",
   };
 }
 
@@ -8086,9 +8109,9 @@ function getGlassCircleButtonStyle({tint="#2563EB",size=34,fontSize=22,textColor
     padding:0,
     borderRadius:999,
     background:"var(--surface-2)",
-    border:"1px solid transparent",
-    boxShadow:"none",
-    color:tint,
+    border:"1px solid var(--border)",
+    boxShadow:"var(--glass-edge)",
+    color:lightenHex(tint,.25),
     fontFamily:DISPLAY_STACK,
     fontSize,
     fontWeight:700,
@@ -8121,17 +8144,17 @@ const QUESTION_TIMER_START_BUTTON_STYLE={
   justifyContent:"center",
   padding:"6px 16px",
   borderRadius:999,
-  background:"#22C55E",
-  border:"1.5px solid rgba(255,255,255,.6)",
-  color:"#FFFFFF",
+  background:"linear-gradient(180deg, rgba(74,222,128,.55) 0%, rgba(74,222,128,.30) 100%)",
+  border:"1px solid rgba(74,222,128,.7)",
+  color:"#F4F6FF",
   fontFamily:DISPLAY_STACK,
   fontSize:11,
   fontWeight:700,
   minHeight:28,
   lineHeight:1,
   textTransform:"uppercase",
-  letterSpacing:".08em",
-  boxShadow:"0 3px 0 #15803D",
+  letterSpacing:".12em",
+  boxShadow:"0 0 20px rgba(74,222,128,.35), inset 0 1px 0 rgba(255,255,255,.3)",
   cursor:"pointer",
 };
 
@@ -8141,16 +8164,17 @@ const QUESTION_TIMER_RESET_BUTTON_STYLE={
   justifyContent:"center",
   padding:"6px 14px",
   borderRadius:999,
-  background:"rgba(255,255,255,.22)",
-  border:"1.5px solid rgba(255,255,255,.55)",
-  color:"#FFFFFF",
+  background:"var(--surface-2)",
+  border:"1px solid var(--border-strong)",
+  color:"var(--text)",
   fontFamily:DISPLAY_STACK,
   fontSize:11,
   fontWeight:700,
   minHeight:28,
   lineHeight:1,
   textTransform:"uppercase",
-  letterSpacing:".08em",
+  letterSpacing:".12em",
+  boxShadow:"var(--glass-edge)",
   cursor:"pointer",
 };
 
@@ -8161,9 +8185,11 @@ const QUESTION_TIMER_DISC_STYLE={
   display:"flex",
   alignItems:"center",
   justifyContent:"center",
-  background:"var(--surface-strong)",
+  background:"var(--surface)",
   border:"1px solid var(--border)",
   boxShadow:"var(--shadow-1)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
 };
 
 function QuestionTimer({tile,paused=false,manualStart=false}){
@@ -8253,9 +8279,11 @@ function QuestionPanel({children,maxWidth=760,padding="clamp(20px,4vw,42px) clam
         maxWidth,
         padding,
         borderRadius:"var(--radius-lg)",
-        background:"var(--surface-strong)",
+        background:"var(--surface)",
         border:"1px solid var(--border)",
         boxShadow:"var(--shadow-2)",
+        backdropFilter:"var(--blur)",
+        WebkitBackdropFilter:"var(--blur)",
         color:"var(--text)",
         textAlign:"center",
         overflow:"hidden",
@@ -8312,9 +8340,12 @@ function LifelineRail({lifelines,curTeam,onUseLifeline,activeDoublePoints,timerP
           color:"#FFFFFF",
           boxShadow:"var(--shadow-1)",
         }:{
-          background:"rgba(255,255,255,.92)",
-          color:darkenHex(def.tint,.15),
-          boxShadow:"0 3px 0 rgba(0,0,0,.14), var(--shadow-1)",
+          background:"var(--surface-2)",
+          border:"1px solid var(--border)",
+          color:lightenHex(def.tint,.30),
+          boxShadow:"var(--glass-edge)",
+          backdropFilter:"var(--blur)",
+          WebkitBackdropFilter:"var(--blur)",
         };
         return(
           <button

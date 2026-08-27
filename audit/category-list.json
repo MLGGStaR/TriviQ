@@ -1,0 +1,618 @@
+[
+  {
+    "id": "anime",
+    "label": "Anime",
+    "icon": "🌸",
+    "group": null,
+    "src": "/whoami/naruto-uzumaki-1522810d.png",
+    "boardSrc": "/board-center-images/anime.png"
+  },
+  {
+    "id": "ark_survival",
+    "label": "ARK: Survival Evolved",
+    "icon": "🦕",
+    "group": null,
+    "src": "/category-previews/ark_survival.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "arrow",
+    "label": "Arrow",
+    "icon": "🏹",
+    "group": null,
+    "src": "/category-previews/arrow.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "big_bang_theory",
+    "label": "The Big Bang Theory",
+    "icon": "🔭",
+    "group": null,
+    "src": "/whoami/sheldon-cooper-e10500a1.jpg",
+    "boardSrc": "/board-center-images/big_bang_theory.png"
+  },
+  {
+    "id": "blacklist",
+    "label": "The Blacklist",
+    "icon": "🕵",
+    "group": null,
+    "src": "/category-previews/blacklist.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "borders_country",
+    "label": "Borders Which Country?",
+    "icon": "🗺️",
+    "group": null,
+    "src": "/category-previews/borders_country.jpg",
+    "boardSrc": "/category-previews/borders_country.jpg"
+  },
+  {
+    "id": "breaking_bad",
+    "label": "Breaking Bad",
+    "icon": "🧪",
+    "group": null,
+    "src": "/whoami/walter-white-breaking-bad-f9425159.png",
+    "boardSrc": null
+  },
+  {
+    "id": "brooklyn_99",
+    "label": "Brooklyn Nine-Nine",
+    "icon": "🚔",
+    "group": null,
+    "src": "/category-previews/brooklyn_99.jpg",
+    "boardSrc": "/board-center-images/brooklyn_99.png"
+  },
+  {
+    "id": "charades_countries",
+    "label": "Charades: Countries",
+    "icon": "🌍",
+    "group": null,
+    "src": "/category-previews/charades_countries.jpg",
+    "boardSrc": "/category-previews/charades_countries.jpg"
+  },
+  {
+    "id": "charades_general",
+    "label": "Charades: General",
+    "icon": "🎭",
+    "group": null,
+    "src": "/category-previews/charades_bicycle.jpg",
+    "boardSrc": "/category-previews/charades_bicycle.jpg"
+  },
+  {
+    "id": "charades_movies",
+    "label": "Charades: Movies & TV",
+    "icon": "🎬",
+    "group": null,
+    "src": "/whoami/woody-toy-story-f844064a.jpg",
+    "boardSrc": "/board-center-images/charades_movies.png"
+  },
+  {
+    "id": "charades_scenarios",
+    "label": "Charades: Scenarios",
+    "icon": "🎬",
+    "group": null,
+    "src": "/category-previews/charades_slipping.jpg",
+    "boardSrc": "/category-previews/charades_slipping.jpg"
+  },
+  {
+    "id": "cobra_kai",
+    "label": "Cobra Kai",
+    "icon": "🥋",
+    "group": null,
+    "src": "/category-previews/cobra_kai.png",
+    "boardSrc": "/category-previews/cobra_kai.png"
+  },
+  {
+    "id": "country_capitals",
+    "label": "Country Capitals",
+    "icon": "🗺️",
+    "group": null,
+    "src": "/category-previews/country_capitals.jpg",
+    "boardSrc": "/category-previews/country_capitals.jpg"
+  },
+  {
+    "id": "country_facts",
+    "label": "Country Facts",
+    "icon": "🌐",
+    "group": null,
+    "src": "/category-previews/country_facts.svg",
+    "boardSrc": "/board-center-images/country_facts.png"
+  },
+  {
+    "id": "country_map",
+    "label": "Country Map",
+    "icon": "🗺️",
+    "group": null,
+    "src": "/country-maps/au.svg",
+    "boardSrc": "/board-center-images/country_map.png"
+  },
+  {
+    "id": "dc",
+    "label": "DC Universe",
+    "icon": "🦇",
+    "group": null,
+    "src": "/whoami/joker-2019-film-7e27b124.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "dexter",
+    "label": "Dexter",
+    "icon": "🔪",
+    "group": null,
+    "src": "/whoami/dexter-morgan-6bc67b63.webp",
+    "boardSrc": null
+  },
+  {
+    "id": "disney",
+    "label": "Disney & Pixar",
+    "icon": "🏰",
+    "group": null,
+    "src": "/whoami/moana-disney-a6cd63fc.png",
+    "boardSrc": null
+  },
+  {
+    "id": "dragon_ball",
+    "label": "Dragon Ball Z",
+    "icon": "🔥",
+    "group": null,
+    "src": "/whoami/vegeta-dragon-ball-16e15e39.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "family_guy",
+    "label": "Family Guy",
+    "icon": "🐶",
+    "group": null,
+    "src": "/category-previews/family_guy.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "flags",
+    "label": "Flags",
+    "icon": "🚩",
+    "group": null,
+    "src": "/flags/jp.svg",
+    "boardSrc": null
+  },
+  {
+    "id": "fortnite",
+    "label": "Fortnite",
+    "icon": "⛏️",
+    "group": null,
+    "src": "/category-previews/fortnite.svg",
+    "boardSrc": "/board-center-images/fortnite.png"
+  },
+  {
+    "id": "friends",
+    "label": "Friends",
+    "icon": "☕",
+    "group": null,
+    "src": "/whoami/monica-geller-b4be7916.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "game_thrones",
+    "label": "Game of Thrones",
+    "icon": "🐉",
+    "group": null,
+    "src": "/whoami/jon-snow-character-b50803c7.png",
+    "boardSrc": null
+  },
+  {
+    "id": "general",
+    "label": "General Knowledge",
+    "icon": "🧠",
+    "group": null,
+    "src": "/category-previews/general.jpg",
+    "boardSrc": "/board-center-images/general.png"
+  },
+  {
+    "id": "geography",
+    "label": "Geography",
+    "icon": "🌍",
+    "group": null,
+    "src": "/category-previews/geography.jpg",
+    "boardSrc": "/board-center-images/geography.png"
+  },
+  {
+    "id": "guess_footballer",
+    "label": "Guess the Footballer",
+    "icon": "⚽",
+    "group": null,
+    "src": "/whoami/ronaldo-brazilian-footballer-765da738.jpg",
+    "boardSrc": "/whoami/ronaldo-brazilian-footballer-765da738.jpg"
+  },
+  {
+    "id": "guess_young_celebrity",
+    "label": "Guess The Young Celebrity",
+    "icon": "🚼",
+    "group": null,
+    "src": "/whoami/young-marilyn-monroe-2a10c463.jpg",
+    "boardSrc": "/whoami/young-marilyn-monroe-2a10c463.jpg"
+  },
+  {
+    "id": "harry_potter",
+    "label": "Harry Potter",
+    "icon": "🧙",
+    "group": null,
+    "src": "/whoami/hermione-granger-f6f4b3e2.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "himym",
+    "label": "How I Met Your Mother",
+    "icon": "🍻",
+    "group": null,
+    "src": "/whoami/ted-mosby-68b46d7d.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "history",
+    "label": "History",
+    "icon": "📜",
+    "group": null,
+    "src": "/category-previews/history.jpg",
+    "boardSrc": "/board-center-images/history.png"
+  },
+  {
+    "id": "invincible",
+    "label": "Invincible",
+    "icon": "🦸",
+    "group": null,
+    "src": "/category-previews/invincible.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "language",
+    "label": "Language",
+    "icon": "🗣️",
+    "group": null,
+    "src": "/category-previews/language.png",
+    "boardSrc": "/category-previews/language.png"
+  },
+  {
+    "id": "logos",
+    "label": "Logos",
+    "icon": "🎯",
+    "group": null,
+    "src": "/category-previews/logo_tech.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "lord_rings",
+    "label": "Lord of the Rings",
+    "icon": "💍",
+    "group": null,
+    "src": "/category-previews/lord_rings.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "marvel",
+    "label": "Marvel",
+    "icon": "⚡",
+    "group": null,
+    "src": "/whoami/iron-man-marvel-cinematic-universe-b1c7fa37.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "math",
+    "label": "Math",
+    "icon": "🧮",
+    "group": null,
+    "src": "/category-previews/math.jpg",
+    "boardSrc": "/category-previews/math.jpg"
+  },
+  {
+    "id": "minecraft",
+    "label": "Minecraft",
+    "icon": "🧱",
+    "group": null,
+    "src": "/category-previews/minecraft.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "modern_family",
+    "label": "Modern Family",
+    "icon": "👪",
+    "group": null,
+    "src": "/category-previews/modern_family.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "movie_scenes",
+    "label": "movie_scenes",
+    "icon": "",
+    "group": null,
+    "src": "/whoami/john-wick-character-755fd66c.jpeg",
+    "boardSrc": null
+  },
+  {
+    "id": "movies",
+    "label": "Movies",
+    "icon": "🎬",
+    "group": null,
+    "src": "/whoami/han-solo-2b971bca.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "music",
+    "label": "Music",
+    "icon": "🎵",
+    "group": null,
+    "src": "/category-previews/music.png",
+    "boardSrc": null
+  },
+  {
+    "id": "one_piece_show",
+    "label": "One Piece",
+    "icon": "☠️",
+    "group": null,
+    "src": "/whoami/monkey-d-luffy-9f9354e3.png",
+    "boardSrc": null
+  },
+  {
+    "id": "pokemon",
+    "label": "Pokémon",
+    "icon": "⚡",
+    "group": null,
+    "src": "/whoami/ash-ketchum-5e3619b0.png",
+    "boardSrc": null
+  },
+  {
+    "id": "pop_culture",
+    "label": "Pop Culture",
+    "icon": "📰",
+    "group": null,
+    "src": "/category-previews/pop_culture.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "prison_break",
+    "label": "Prison Break",
+    "icon": "🔑",
+    "group": null,
+    "src": "/whoami/michael-scofield-cd88268f.jpeg",
+    "boardSrc": "/board-center-images/prison_break.png"
+  },
+  {
+    "id": "science",
+    "label": "Science",
+    "icon": "🔬",
+    "group": null,
+    "src": "/category-previews/science.jpg",
+    "boardSrc": "/board-center-images/science.png"
+  },
+  {
+    "id": "solo_leveling",
+    "label": "Solo Leveling",
+    "icon": "⚔️",
+    "group": null,
+    "src": "/category-previews/solo_leveling.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "songs",
+    "label": "Songs",
+    "icon": "🎶",
+    "group": null,
+    "src": "/category-previews/songs.png",
+    "boardSrc": "/board-center-images/songs.png"
+  },
+  {
+    "id": "space",
+    "label": "Space",
+    "icon": "🚀",
+    "group": null,
+    "src": "/category-previews/space.jpg",
+    "boardSrc": "/category-previews/space.jpg"
+  },
+  {
+    "id": "spelling_bee",
+    "label": "Spelling Bee",
+    "icon": "🐝",
+    "group": null,
+    "src": "/category-previews/spelling_bee.jpg",
+    "boardSrc": "/category-previews/spelling_bee.jpg"
+  },
+  {
+    "id": "spider_man",
+    "label": "Spider-Man",
+    "icon": "🕷️",
+    "group": null,
+    "src": "/whoami/spider-man-marvel-cinematic-universe-5aecfc64.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "sports",
+    "label": "Sports",
+    "icon": "⚽",
+    "group": null,
+    "src": "/whoami/lionel-messi-4579e864.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "star_wars",
+    "label": "Star Wars",
+    "icon": "⚔️",
+    "group": null,
+    "src": "/whoami/darth-vader-e064b5bd.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "stranger_things",
+    "label": "Stranger Things",
+    "icon": "💡",
+    "group": null,
+    "src": "/whoami/eleven-stranger-things-c843d7fa.png",
+    "boardSrc": null
+  },
+  {
+    "id": "suits",
+    "label": "Suits",
+    "icon": "⚖️",
+    "group": null,
+    "src": "/whoami/harvey-specter-c7c60178.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "technology",
+    "label": "Technology",
+    "icon": "💻",
+    "group": null,
+    "src": "/category-previews/technology.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "the_boys",
+    "label": "The Boys",
+    "icon": "💥",
+    "group": null,
+    "src": "/whoami/billy-butcher-88ef1818.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "the_flash",
+    "label": "The Flash",
+    "icon": "⚡",
+    "group": null,
+    "src": "/whoami/barry-allen-arrowverse-86ade936.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "the_office",
+    "label": "The Office",
+    "icon": "📎",
+    "group": null,
+    "src": "/whoami/michael-scott-the-office-e7eb964a.png",
+    "boardSrc": null
+  },
+  {
+    "id": "the_rookie",
+    "label": "The Rookie",
+    "icon": "🚨",
+    "group": null,
+    "src": "/category-previews/the_rookie.jpg",
+    "boardSrc": "/category-previews/the_rookie.jpg"
+  },
+  {
+    "id": "the_walking_dead",
+    "label": "The Walking Dead",
+    "icon": "🧟",
+    "group": null,
+    "src": "/whoami/rick-grimes-87e8bed9.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "uae",
+    "label": "UAE",
+    "icon": "🇦🇪",
+    "group": null,
+    "src": "/whoami/burj-khalifa-7dc3b1a0.jpg",
+    "boardSrc": "/whoami/burj-khalifa-7dc3b1a0.jpg"
+  },
+  {
+    "id": "valorant",
+    "label": "Valorant",
+    "icon": "🎯",
+    "group": null,
+    "src": "/category-previews/valorant.png",
+    "boardSrc": null
+  },
+  {
+    "id": "video_games",
+    "label": "Video Games",
+    "icon": "🎮",
+    "group": null,
+    "src": "/category-previews/video_games.svg",
+    "boardSrc": "/board-center-images/video_games.png"
+  },
+  {
+    "id": "vikings",
+    "label": "Vikings",
+    "icon": "⚔️",
+    "group": null,
+    "src": "/whoami/ragnar-lothbrok-bbe3f500.jpg",
+    "boardSrc": "/board-center-images/vikings.png"
+  },
+  {
+    "id": "who_animal",
+    "label": "Which Animal Am I?",
+    "icon": "🐾",
+    "group": null,
+    "src": "/whoami/lion-9f19d4dc.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "who_anime_character",
+    "label": "Which Anime Character Am I?",
+    "icon": "🌸",
+    "group": null,
+    "src": "/whoami/naruto-uzumaki-1522810d.png",
+    "boardSrc": "/board-center-images/who_anime_character.png"
+  },
+  {
+    "id": "who_artist",
+    "label": "Which Artist Am I?",
+    "icon": "🎤",
+    "group": null,
+    "src": "/whoami/beyonce-40d5ed43.jpg",
+    "boardSrc": "/whoami/beyonce-40d5ed43.jpg"
+  },
+  {
+    "id": "who_country_landmark",
+    "label": "Which Country Am I?",
+    "icon": "🏛️",
+    "group": null,
+    "src": "/whoami/big-ben-2a8438ae.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "who_footballer",
+    "label": "Which Footballer Am I?",
+    "icon": "⚽",
+    "group": null,
+    "src": "/whoami/cristiano-ronaldo-922d9da8.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "who_historic_figure",
+    "label": "Which Historic Figure Am I?",
+    "icon": "📜",
+    "group": null,
+    "src": "/category-previews/who_historic_figure.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "who_influencer",
+    "label": "Which Influencer Am I?",
+    "icon": "📱",
+    "group": null,
+    "src": "/category-previews/who_influencer.jpg",
+    "boardSrc": "/category-previews/who_influencer.jpg"
+  },
+  {
+    "id": "who_movie_character",
+    "label": "Which Movie Character Am I?",
+    "icon": "🎬",
+    "group": null,
+    "src": "/whoami/han-solo-2b971bca.jpg",
+    "boardSrc": null
+  },
+  {
+    "id": "who_tv_character",
+    "label": "Which TV Character Am I?",
+    "icon": "📺",
+    "group": null,
+    "src": "/whoami/walter-white-breaking-bad-f9425159.png",
+    "boardSrc": null
+  },
+  {
+    "id": "who_what_am_i",
+    "label": "Who/What Am I?",
+    "icon": "❓",
+    "group": null,
+    "src": "/category-previews/who_what_am_i.jpg",
+    "boardSrc": "/category-previews/who_what_am_i.jpg"
+  }
+]

@@ -1,0 +1,2430 @@
+{
+  "breaking_bad": {
+    "200": [
+      {
+        "q": "Which chemical element's symbol is highlighted in the 'Br' of the show's title logo?",
+        "a": "Bromine"
+      },
+      {
+        "q": "What does Walter Jr. use to help him walk?",
+        "a": "Crutches"
+      },
+      {
+        "q": "What color is Marie Schrader obsessed with?",
+        "a": "Purple"
+      },
+      {
+        "q": "What compulsive habit does Marie struggle with?",
+        "a": "Shoplifting"
+      },
+      {
+        "q": "What is the first name of Hank's wife?",
+        "a": "Marie"
+      },
+      {
+        "q": "How old is Walter White when the series begins?",
+        "a": "50"
+      },
+      {
+        "q": "What object does Hector Salamanca use to communicate?",
+        "a": "A bell"
+      },
+      {
+        "q": "What bathroom fixture does Jesse ruin by dissolving a body in it?",
+        "a": "A bathtub"
+      },
+      {
+        "q": "Who shoots Gale Boetticher?",
+        "a": "Jesse Pinkman"
+      },
+      {
+        "q": "Besides a gas mask, what is Walt wearing in the opening scene of the pilot?",
+        "a": "Underwear"
+      },
+      {
+        "q": "Which poet's collected work links Gale to Walt and tips off Hank?",
+        "a": "Walt Whitman"
+      },
+      {
+        "q": "What chemical do Walt, Jesse and Mike steal in the train heist?",
+        "a": "Methylamine"
+      },
+      {
+        "q": "What is the name of Hank's DEA partner?",
+        "a": "Steve Gomez"
+      },
+      {
+        "q": "How does Jesse almost always address Walt?",
+        "a": "Mr. White"
+      },
+      {
+        "q": "What is the surname of the cartel family that includes Tuco and Hector?",
+        "a": "Salamanca"
+      },
+      {
+        "q": "What is the first name of Jack Welker's nephew who cooks with Walt?",
+        "a": "Todd"
+      },
+      {
+        "q": "Which dealer does Walt keep chained in Jesse's basement before killing him?",
+        "a": "Krazy-8"
+      },
+      {
+        "q": "What second job does Walt work at the start of the series?",
+        "a": "Car wash cashier"
+      },
+      {
+        "q": "To whom does Walt say 'I am the one who knocks'?",
+        "a": "Skyler"
+      },
+      {
+        "q": "Who shouts 'Yeah bitch! Magnets!'?",
+        "a": "Jesse Pinkman"
+      },
+      {
+        "q": "In which US state does Walt hide out after fleeing Albuquerque?",
+        "a": "New Hampshire"
+      },
+      {
+        "q": "In which season does Hank discover that Walt is Heisenberg?",
+        "a": "Season 5"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of the high school where Walt teaches?",
+        "a": "J.P. Wynne High School"
+      },
+      {
+        "q": "What explosive compound does Walt use to blow up Tuco's office?",
+        "a": "Fulminated mercury"
+      },
+      {
+        "q": "What is the name of the company where Skyler works as a bookkeeper?",
+        "a": "Beneke Fabricators"
+      },
+      {
+        "q": "What nickname did Jesse use for himself as a meth chef before partnering with Walt?",
+        "a": "Cap'n Cook"
+      },
+      {
+        "q": "What object does Walt use to strangle Krazy-8?",
+        "a": "A bike lock"
+      },
+      {
+        "q": "What book does Gale give Walt as a gift?",
+        "a": "Leaves of Grass"
+      },
+      {
+        "q": "From which South American country does Gus Fring originally come?",
+        "a": "Chile"
+      },
+      {
+        "q": "What is the profession of Jane's father, Donald Margolis?",
+        "a": "Air traffic controller"
+      },
+      {
+        "q": "Who owns the car wash where Walt works before the Whites buy it?",
+        "a": "Bogdan"
+      },
+      {
+        "q": "What website does Walt Jr. create to raise money for his father?",
+        "a": "SaveWalterWhite.com"
+      },
+      {
+        "q": "Which boss does Skyler have an affair with?",
+        "a": "Ted Beneke"
+      },
+      {
+        "q": "What is the one-word title of the episode in which Walt obsesses over an insect in the superlab?",
+        "a": "Fly"
+      },
+      {
+        "q": "Who gives Walt the speech about 'no more half measures'?",
+        "a": "Mike Ehrmantraut"
+      },
+      {
+        "q": "Who kills Todd Alquist?",
+        "a": "Jesse Pinkman"
+      },
+      {
+        "q": "In Walt's fake confession video, who does he name as the real mastermind?",
+        "a": "Hank"
+      },
+      {
+        "q": "What does Hank name the beer he brews at home?",
+        "a": "Schraderbräu"
+      },
+      {
+        "q": "What mental condition does Walt fake as cover for his disappearance after Tuco kidnaps him?",
+        "a": "A fugue state"
+      },
+      {
+        "q": "What crushes the addict Spooge to death?",
+        "a": "An ATM"
+      },
+      {
+        "q": "What is Marie Schrader's profession?",
+        "a": "Radiologic technologist"
+      },
+      {
+        "q": "What cover story does Walt use to account for his cash when talking to Hank and Marie?",
+        "a": "Gambling winnings"
+      },
+      {
+        "q": "Where does Skyler take Walt to show him the giant pile of cash she cannot launder?",
+        "a": "A storage unit"
+      },
+      {
+        "q": "What does Skyler walk into fully clothed during Walt's birthday dinner?",
+        "a": "The swimming pool"
+      },
+      {
+        "q": "What drink does Gale brew with his elaborate lab glassware?",
+        "a": "Coffee"
+      },
+      {
+        "q": "What does Jesse throw out of his car window while driving through a neighborhood?",
+        "a": "Bundles of cash"
+      },
+      {
+        "q": "Who does Walt claim is paying for his cancer treatment?",
+        "a": "Gretchen and Elliott"
+      },
+      {
+        "q": "Who was Walt's original intended target for the ricin?",
+        "a": "Tuco Salamanca"
+      },
+      {
+        "q": "What street name is given to Walt's meth?",
+        "a": "Blue Sky"
+      },
+      {
+        "q": "To which Texas city is Hank briefly transferred?",
+        "a": "El Paso"
+      },
+      {
+        "q": "Where does Walt leave baby Holly after taking her from Skyler?",
+        "a": "A fire station"
+      },
+      {
+        "q": "What device do Walt and Jesse use to wipe Gus's laptop in the evidence room?",
+        "a": "A giant electromagnet"
+      },
+      {
+        "q": "What tool does Gus use to kill his henchman Victor?",
+        "a": "A box cutter"
+      },
+      {
+        "q": "In which city was Mike Ehrmantraut a police officer?",
+        "a": "Philadelphia"
+      },
+      {
+        "q": "Which character repeatedly says 'Tight, tight, tight'?",
+        "a": "Tuco Salamanca"
+      },
+      {
+        "q": "Where does Walt die?",
+        "a": "Jack's meth lab"
+      },
+      {
+        "q": "Which woman does Todd have an obvious crush on?",
+        "a": "Lydia"
+      },
+      {
+        "q": "In what year did the series finale air?",
+        "a": "2013"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the name of the boy Todd shoots after the train heist?",
+        "a": "Drew Sharp"
+      },
+      {
+        "q": "What is the flight number of the plane that crashes over Albuquerque in season 2?",
+        "a": "Wayfarer 515"
+      },
+      {
+        "q": "What is the name of Jesse's late aunt whose house he lives in?",
+        "a": "Ginny"
+      },
+      {
+        "q": "What is the name of Walt's oncologist?",
+        "a": "Dr. Delcavoli"
+      },
+      {
+        "q": "What does Ted Beneke trip on while fleeing from Huell and Kuby?",
+        "a": "A rug"
+      },
+      {
+        "q": "What is the name of Saul's red-haired enforcer who works alongside Huell?",
+        "a": "Patrick Kuby"
+      },
+      {
+        "q": "What movie does Walt repeatedly watch on DVD in his New Hampshire cabin?",
+        "a": "Mr. Magorium's Wonder Emporium"
+      },
+      {
+        "q": "Who holds the laser pointers aimed at Gretchen and Elliott in the finale?",
+        "a": "Badger and Skinny Pete"
+      },
+      {
+        "q": "How many barrels of cash does Walt bury in the desert?",
+        "a": "Seven"
+      },
+      {
+        "q": "In which city is Lydia Rodarte-Quayle based?",
+        "a": "Houston"
+      },
+      {
+        "q": "Which of his own henchmen does Tuco beat to death?",
+        "a": "No-Doze"
+      },
+      {
+        "q": "What are the first names of the two Salamanca cousins?",
+        "a": "Leonel and Marco"
+      },
+      {
+        "q": "What is Krazy-8's real name?",
+        "a": "Domingo Molina"
+      },
+      {
+        "q": "What gas does Walt use to kill Emilio in the RV?",
+        "a": "Phosphine"
+      },
+      {
+        "q": "What is the name of the desert area where Walt buries his money and Hank dies?",
+        "a": "To'hajiilee"
+      },
+      {
+        "q": "Which poet wrote the poem that gives the episode 'Ozymandias' its name?",
+        "a": "Percy Bysshe Shelley"
+      },
+      {
+        "q": "What did Jesse make in high school woodworking class that he talks about in rehab?",
+        "a": "A wooden box"
+      },
+      {
+        "q": "To whom does Walt say 'Say my name'?",
+        "a": "Declan"
+      },
+      {
+        "q": "What is the surname of Gus Fring's murdered partner Max?",
+        "a": "Arciniega"
+      },
+      {
+        "q": "What brand of tequila does Gus use to poison the cartel?",
+        "a": "Zafiro Añejo"
+      },
+      {
+        "q": "How many episodes does the series have in total?",
+        "a": "62"
+      },
+      {
+        "q": "What make of car does Gus Fring drive?",
+        "a": "Volvo"
+      },
+      {
+        "q": "What number does Walt arrange his bacon into during the season 5 flash-forward?",
+        "a": "52"
+      },
+      {
+        "q": "What DEA rank does Hank hold after his promotion in season 5?",
+        "a": "ASAC"
+      },
+      {
+        "q": "What famous document decorates the wall of Saul Goodman's office?",
+        "a": "The US Constitution"
+      },
+      {
+        "q": "For which TV show does Badger pitch a script idea to Skinny Pete?",
+        "a": "Star Trek"
+      },
+      {
+        "q": "What animal carries the severed head of the informant Tortuga?",
+        "a": "A tortoise"
+      },
+      {
+        "q": "How much money does Walt calculate he needs to leave his family?",
+        "a": "$737,000"
+      },
+      {
+        "q": "Where in his bedroom does Walt hide the ricin capsule?",
+        "a": "Behind an electrical outlet"
+      },
+      {
+        "q": "What is Walter White's middle name?",
+        "a": "Hartwell"
+      },
+      {
+        "q": "On what street do the Whites live?",
+        "a": "Negra Arroyo Lane"
+      },
+      {
+        "q": "What is Skyler's maiden name?",
+        "a": "Lambert"
+      },
+      {
+        "q": "What is the surname of Hank's DEA boss, George?",
+        "a": "Merkert"
+      },
+      {
+        "q": "How many people died in the Wayfarer plane crash?",
+        "a": "167"
+      },
+      {
+        "q": "Which Mexican folk saint do the Salamanca cousins pray to?",
+        "a": "Santa Muerte"
+      },
+      {
+        "q": "Who replaces Victor as Gus's enforcer?",
+        "a": "Tyrus"
+      },
+      {
+        "q": "At which national laboratory did Walt work before becoming a teacher?",
+        "a": "Sandia"
+      }
+    ]
+  },
+  "game_thrones": {
+    "200": [
+      {
+        "q": "Which king dies from wounds suffered on a boar hunt?",
+        "a": "Robert Baratheon"
+      },
+      {
+        "q": "Which of Cersei's sons becomes king after Joffrey's death?",
+        "a": "Tommen"
+      },
+      {
+        "q": "Which house has a kraken as its sigil?",
+        "a": "House Greyjoy"
+      },
+      {
+        "q": "Which house has a stag as its sigil?",
+        "a": "House Baratheon"
+      },
+      {
+        "q": "Who is Daenerys's Dothraki husband?",
+        "a": "Khal Drogo"
+      },
+      {
+        "q": "What is the name of Daenerys's older brother?",
+        "a": "Viserys"
+      },
+      {
+        "q": "What is poured over Viserys's head to kill him?",
+        "a": "Molten gold"
+      },
+      {
+        "q": "Which giant knight is the Hound's older brother?",
+        "a": "The Mountain"
+      },
+      {
+        "q": "What is the Hound terrified of?",
+        "a": "Fire"
+      },
+      {
+        "q": "What two-word reply does Arya learn to give to the god of death?",
+        "a": "Not today"
+      },
+      {
+        "q": "What is the name of Ned Stark's wife?",
+        "a": "Catelyn"
+      },
+      {
+        "q": "Which sellsword becomes Tyrion's loyal companion?",
+        "a": "Bronn"
+      },
+      {
+        "q": "Who does Tyrion kill with a crossbow?",
+        "a": "Tywin Lannister"
+      },
+      {
+        "q": "What is the name of the wildling woman Jon Snow falls in love with?",
+        "a": "Ygritte"
+      },
+      {
+        "q": "What is the name of the wildling girl Samwell Tarly falls for?",
+        "a": "Gilly"
+      },
+      {
+        "q": "Which wildling is openly smitten with Brienne of Tarth?",
+        "a": "Tormund"
+      },
+      {
+        "q": "What replaces Jaime Lannister's severed hand?",
+        "a": "A golden hand"
+      },
+      {
+        "q": "Which Stark daughter is forced to marry Tyrion?",
+        "a": "Sansa"
+      },
+      {
+        "q": "Who is Sansa's second husband?",
+        "a": "Ramsay Bolton"
+      },
+      {
+        "q": "How does Ramsay Bolton die?",
+        "a": "Eaten by his own dogs"
+      },
+      {
+        "q": "Who cuts Littlefinger's throat?",
+        "a": "Arya Stark"
+      },
+      {
+        "q": "What is the name of the eunuch slave army Daenerys acquires?",
+        "a": "The Unsullied"
+      },
+      {
+        "q": "Who commands the Unsullied?",
+        "a": "Grey Worm"
+      },
+      {
+        "q": "Who kills Oberyn Martell in trial by combat?",
+        "a": "The Mountain"
+      },
+      {
+        "q": "Who does Arya feed a pie made from his own sons?",
+        "a": "Walder Frey"
+      },
+      {
+        "q": "What is the name of Theon Greyjoy's sister?",
+        "a": "Yara"
+      },
+      {
+        "q": "What name does Ramsay force Theon to use?",
+        "a": "Reek"
+      },
+      {
+        "q": "What is Gendry's trade?",
+        "a": "Blacksmith"
+      },
+      {
+        "q": "What is the main stronghold of the Night's Watch called?",
+        "a": "Castle Black"
+      },
+      {
+        "q": "What green substance destroys Stannis's fleet at the Battle of Blackwater?",
+        "a": "Wildfire"
+      },
+      {
+        "q": "Who pushes Bran from the tower window in the first episode?",
+        "a": "Jaime Lannister"
+      },
+      {
+        "q": "What surname is given to bastards born in the North?",
+        "a": "Snow"
+      },
+      {
+        "q": "What color are the eyes of the White Walkers?",
+        "a": "Blue"
+      },
+      {
+        "q": "What are the reanimated corpses controlled by the White Walkers called?",
+        "a": "Wights"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of Cersei's only daughter?",
+        "a": "Myrcella"
+      },
+      {
+        "q": "What is the name of the Valyrian steel sword Jeor Mormont gives Jon Snow?",
+        "a": "Longclaw"
+      },
+      {
+        "q": "What is the name of Robb Stark's direwolf?",
+        "a": "Grey Wind"
+      },
+      {
+        "q": "What is the name of Arya's direwolf?",
+        "a": "Nymeria"
+      },
+      {
+        "q": "Which house has a golden rose as its sigil?",
+        "a": "House Tyrell"
+      },
+      {
+        "q": "Which house's sigil is a sun pierced by a spear?",
+        "a": "House Martell"
+      },
+      {
+        "q": "Which house's sigil is a flayed man?",
+        "a": "House Bolton"
+      },
+      {
+        "q": "Which house has a leaping trout as its sigil?",
+        "a": "House Tully"
+      },
+      {
+        "q": "What is the Mountain's real name?",
+        "a": "Gregor Clegane"
+      },
+      {
+        "q": "Who is Arya's first sword-fighting teacher in King's Landing?",
+        "a": "Syrio Forel"
+      },
+      {
+        "q": "What is the name of Brienne's squire?",
+        "a": "Podrick Payne"
+      },
+      {
+        "q": "Which former lover testifies against Tyrion at his trial for Joffrey's murder?",
+        "a": "Shae"
+      },
+      {
+        "q": "Who is the King Beyond the Wall?",
+        "a": "Mance Rayder"
+      },
+      {
+        "q": "Which wildling marries his own daughters and sacrifices his sons?",
+        "a": "Craster"
+      },
+      {
+        "q": "What is Tormund's epithet?",
+        "a": "Giantsbane"
+      },
+      {
+        "q": "What is the name of Catelyn's sister who rules the Vale?",
+        "a": "Lysa Arryn"
+      },
+      {
+        "q": "What is the execution opening in the floor of the Eyrie called?",
+        "a": "The Moon Door"
+      },
+      {
+        "q": "What is the name of Robb Stark's wife?",
+        "a": "Talisa"
+      },
+      {
+        "q": "Who is Daenerys's translator and closest female advisor?",
+        "a": "Missandei"
+      },
+      {
+        "q": "What is Missandei's final word before she is executed?",
+        "a": "Dracarys"
+      },
+      {
+        "q": "In which city does Daenerys acquire the Unsullied?",
+        "a": "Astapor"
+      },
+      {
+        "q": "What is the first name of Jorah's father, the Lord Commander of the Night's Watch?",
+        "a": "Jeor"
+      },
+      {
+        "q": "What disease does Jorah contract in Valyria?",
+        "a": "Greyscale"
+      },
+      {
+        "q": "Who cures Jorah of his disease?",
+        "a": "Samwell Tarly"
+      },
+      {
+        "q": "Who is the fierce young Lady of Bear Island?",
+        "a": "Lyanna Mormont"
+      },
+      {
+        "q": "Which dragon does the Night King kill and raise as a wight?",
+        "a": "Viserion"
+      },
+      {
+        "q": "Which dragon does Jon Snow ride?",
+        "a": "Rhaegal"
+      },
+      {
+        "q": "Who kills Euron Greyjoy?",
+        "a": "Jaime Lannister"
+      },
+      {
+        "q": "Which religious leader imprisons Cersei and Margaery?",
+        "a": "The High Sparrow"
+      },
+      {
+        "q": "Who poisons Myrcella with a kiss?",
+        "a": "Ellaria Sand"
+      },
+      {
+        "q": "What is Oberyn Martell's nickname?",
+        "a": "The Red Viper"
+      },
+      {
+        "q": "What are Oberyn's daughters collectively called?",
+        "a": "The Sand Snakes"
+      },
+      {
+        "q": "What is the name of the Faceless Men's temple in Braavos?",
+        "a": "The House of Black and White"
+      },
+      {
+        "q": "What does Jaime name the Valyrian steel sword he gives to Brienne?",
+        "a": "Oathkeeper"
+      },
+      {
+        "q": "Which uncle rescues Bran and Meera beyond the Wall?",
+        "a": "Benjen Stark"
+      },
+      {
+        "q": "Who kills Balon, ruler of the Iron Islands?",
+        "a": "Euron Greyjoy"
+      },
+      {
+        "q": "Which princess does Stannis burn alive at the stake?",
+        "a": "Shireen"
+      },
+      {
+        "q": "Who kills Stannis Baratheon?",
+        "a": "Brienne of Tarth"
+      },
+      {
+        "q": "Which Kingsguard legend is dismissed by Joffrey and later serves Daenerys?",
+        "a": "Barristan Selmy"
+      },
+      {
+        "q": "What masked insurgent group fights Daenerys in Meereen?",
+        "a": "The Sons of the Harpy"
+      },
+      {
+        "q": "Which red priest repeatedly resurrects Beric Dondarrion?",
+        "a": "Thoros of Myr"
+      },
+      {
+        "q": "Who is Gendry's father?",
+        "a": "Robert Baratheon"
+      },
+      {
+        "q": "Which disgraced former maester becomes Cersei's Hand?",
+        "a": "Qyburn"
+      },
+      {
+        "q": "Which young Night's Watch steward delivers the final stab when Jon is murdered?",
+        "a": "Olly"
+      },
+      {
+        "q": "At which wildling settlement does Jon first face the Night King?",
+        "a": "Hardhome"
+      },
+      {
+        "q": "Where does Arya sail at the end of the series?",
+        "a": "West of Westeros"
+      },
+      {
+        "q": "Who says 'Chaos is a ladder'?",
+        "a": "Littlefinger"
+      },
+      {
+        "q": "Which Lannister song is played just before the Red Wedding massacre begins?",
+        "a": "The Rains of Castamere"
+      },
+      {
+        "q": "Who personally stabs Robb Stark at the Red Wedding?",
+        "a": "Roose Bolton"
+      },
+      {
+        "q": "Which executioner beheads Ned Stark?",
+        "a": "Ilyn Payne"
+      },
+      {
+        "q": "Who gives Arya the Valyrian steel dagger she later uses on the Night King?",
+        "a": "Bran"
+      },
+      {
+        "q": "Where do Daenerys's dragons hatch?",
+        "a": "Khal Drogo's funeral pyre"
+      },
+      {
+        "q": "What surname is given to bastards born in Dorne?",
+        "a": "Sand"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the name of Rickon Stark's direwolf?",
+        "a": "Shaggydog"
+      },
+      {
+        "q": "Which house's sigil is a falcon and a crescent moon?",
+        "a": "House Arryn"
+      },
+      {
+        "q": "What is the real name of the Blackfish?",
+        "a": "Brynden Tully"
+      },
+      {
+        "q": "Which castle is Bronn granted at the end of the series?",
+        "a": "Highgarden"
+      },
+      {
+        "q": "Who cuts off Jaime Lannister's hand?",
+        "a": "Locke"
+      },
+      {
+        "q": "Which Meereenese nobleman does Daenerys agree to marry?",
+        "a": "Hizdahr zo Loraq"
+      },
+      {
+        "q": "What is the giant crossbow-like weapon that Euron uses to kill Rhaegal called?",
+        "a": "A scorpion"
+      },
+      {
+        "q": "What is the title of the final episode of the series?",
+        "a": "The Iron Throne"
+      },
+      {
+        "q": "How many episodes does the series have in total?",
+        "a": "73"
+      },
+      {
+        "q": "What is the name of the nun-like woman who torments Cersei with the word 'shame'?",
+        "a": "Septa Unella"
+      },
+      {
+        "q": "What does Joffrey name the Valyrian steel sword Tywin gives him?",
+        "a": "Widow's Wail"
+      },
+      {
+        "q": "What is the name of Meera's brother who has green dreams?",
+        "a": "Jojen Reed"
+      },
+      {
+        "q": "Of which castle is Gendry made lord by Daenerys?",
+        "a": "Storm's End"
+      },
+      {
+        "q": "What animal shape does Hot Pie bake into the bread he gives Arya?",
+        "a": "A direwolf"
+      },
+      {
+        "q": "Under what name does the resurrected Mountain serve in Cersei's Kingsguard?",
+        "a": "Ser Robert Strong"
+      },
+      {
+        "q": "Who was Rhaegar Targaryen's first wife?",
+        "a": "Elia Martell"
+      },
+      {
+        "q": "What is the first name of Samwell Tarly's father?",
+        "a": "Randyll"
+      },
+      {
+        "q": "What is the name of the giant who dies fighting for Jon at the Battle of the Bastards?",
+        "a": "Wun Wun"
+      },
+      {
+        "q": "Which position does Bronn hold on Bran's small council?",
+        "a": "Master of Coin"
+      },
+      {
+        "q": "What is the name of Tommen's cat?",
+        "a": "Ser Pounce"
+      },
+      {
+        "q": "Which prostitute does Joffrey kill with a crossbow?",
+        "a": "Ros"
+      },
+      {
+        "q": "In which Free City does Daenerys marry Khal Drogo?",
+        "a": "Pentos"
+      },
+      {
+        "q": "Which witch is blamed for Khal Drogo's death?",
+        "a": "Mirri Maz Duur"
+      },
+      {
+        "q": "What is the name of Daenerys's stillborn son?",
+        "a": "Rhaego"
+      },
+      {
+        "q": "In which building in Qarth are Daenerys's dragons held captive?",
+        "a": "The House of the Undying"
+      },
+      {
+        "q": "Who is the groom at the Red Wedding?",
+        "a": "Edmure Tully"
+      },
+      {
+        "q": "Which Lannister cousin joins the Faith Militant?",
+        "a": "Lancel"
+      },
+      {
+        "q": "Who gives Bran the Valyrian steel dagger in season 7?",
+        "a": "Littlefinger"
+      },
+      {
+        "q": "What is the name of Lysa's sickly son?",
+        "a": "Robin Arryn"
+      },
+      {
+        "q": "Through the ruins of which ancient city do Tyrion and Jorah sail when the stone men attack?",
+        "a": "Valyria"
+      },
+      {
+        "q": "Which pirate provides ships for Stannis's attack on King's Landing?",
+        "a": "Salladhor Saan"
+      },
+      {
+        "q": "What Valyrian steel sword does Sam steal from his father?",
+        "a": "Heartsbane"
+      },
+      {
+        "q": "What surname is given to bastards born in the Riverlands?",
+        "a": "Rivers"
+      },
+      {
+        "q": "What was the name of Tyrion's first wife?",
+        "a": "Tysha"
+      },
+      {
+        "q": "From which island does Missandei come?",
+        "a": "Naath"
+      },
+      {
+        "q": "What was Tyrion put in charge of at Casterly Rock by his father?",
+        "a": "The drains and cisterns"
+      },
+      {
+        "q": "Which Night's Watch brother dies holding the inner gate against a giant at Castle Black?",
+        "a": "Grenn"
+      },
+      {
+        "q": "Which knight known as the Sword of the Morning does young Ned fight at the Tower of Joy?",
+        "a": "Arthur Dayne"
+      },
+      {
+        "q": "Who stabs Arthur Dayne in the back to save Ned?",
+        "a": "Howland Reed"
+      },
+      {
+        "q": "Which sellsword army does Cersei hire from Essos in the final season?",
+        "a": "The Golden Company"
+      },
+      {
+        "q": "In which sacred city do the dosh khaleen, the widows of dead khals, live?",
+        "a": "Vaes Dothrak"
+      },
+      {
+        "q": "Which wildling woman becomes protector of Bran and Rickon?",
+        "a": "Osha"
+      },
+      {
+        "q": "What is the name of the Bolton castle?",
+        "a": "The Dreadfort"
+      },
+      {
+        "q": "What is the name of Ned Stark's older brother who was killed by the Mad King?",
+        "a": "Brandon"
+      }
+    ]
+  },
+  "stranger_things": {
+    "200": [
+      {
+        "q": "What is the name of Joyce Byers's older son?",
+        "a": "Jonathan"
+      },
+      {
+        "q": "What is Nancy's last name?",
+        "a": "Wheeler"
+      },
+      {
+        "q": "What is the name of Nancy's best friend who disappears in season 1?",
+        "a": "Barb"
+      },
+      {
+        "q": "What is the name of Dustin's long-distance girlfriend?",
+        "a": "Suzie"
+      },
+      {
+        "q": "What is Lucas's last name?",
+        "a": "Sinclair"
+      },
+      {
+        "q": "What is Dustin's last name?",
+        "a": "Henderson"
+      },
+      {
+        "q": "Which character is Hopper's love interest?",
+        "a": "Joyce Byers"
+      },
+      {
+        "q": "Who becomes Max's boyfriend?",
+        "a": "Lucas"
+      },
+      {
+        "q": "Who is Nancy's boyfriend in season 1?",
+        "a": "Steve Harrington"
+      },
+      {
+        "q": "Around which holiday is season 3 set?",
+        "a": "The Fourth of July"
+      },
+      {
+        "q": "Which monster takes control of Billy in season 3?",
+        "a": "The Mind Flayer"
+      },
+      {
+        "q": "What vehicle does Eleven flip over with her mind in season 1?",
+        "a": "A van"
+      },
+      {
+        "q": "What is the name of Jonathan's pizza-delivering stoner friend in California?",
+        "a": "Argyle"
+      },
+      {
+        "q": "Where does Hopper hide Eleven during season 2?",
+        "a": "His cabin"
+      },
+      {
+        "q": "What attracts the Demogorgon to its victims?",
+        "a": "Blood"
+      },
+      {
+        "q": "What is hidden beneath Starcourt Mall?",
+        "a": "A secret Russian base"
+      },
+      {
+        "q": "What is Steve's signature weapon?",
+        "a": "A nail-studded baseball bat"
+      },
+      {
+        "q": "What creature is Hopper forced to fight in the Russian prison?",
+        "a": "A Demogorgon"
+      },
+      {
+        "q": "What sport does Lucas take up in season 4?",
+        "a": "Basketball"
+      },
+      {
+        "q": "What color is the dress Eleven wears through most of season 1?",
+        "a": "Pink"
+      },
+      {
+        "q": "What do the boys dress up as for Halloween in season 2?",
+        "a": "Ghostbusters"
+      },
+      {
+        "q": "In what year is season 3 set?",
+        "a": "1985"
+      },
+      {
+        "q": "Which of Joyce's boyfriends dies in Hawkins Lab?",
+        "a": "Bob Newby"
+      },
+      {
+        "q": "Who breaks up with Steve in season 2?",
+        "a": "Nancy"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is Barb's last name?",
+        "a": "Holland"
+      },
+      {
+        "q": "In which state does Suzie live?",
+        "a": "Utah"
+      },
+      {
+        "q": "What do the kids fill with salt water to build a makeshift sensory-deprivation tank?",
+        "a": "A kiddie pool"
+      },
+      {
+        "q": "What is the name of the conspiracy theorist who helps Joyce and Hopper?",
+        "a": "Murray Bauman"
+      },
+      {
+        "q": "Where does Bob Newby work?",
+        "a": "RadioShack"
+      },
+      {
+        "q": "What does Will obsessively draw across hundreds of pages in season 2?",
+        "a": "Tunnels"
+      },
+      {
+        "q": "What does Will call the Mind Flayer before it is named?",
+        "a": "The Shadow Monster"
+      },
+      {
+        "q": "What is Dart's full name?",
+        "a": "D'Artagnan"
+      },
+      {
+        "q": "What candy bar does Dart love?",
+        "a": "3 Musketeers"
+      },
+      {
+        "q": "What creature does Dart grow into?",
+        "a": "A Demodog"
+      },
+      {
+        "q": "What is the name of Eleven's biological mother?",
+        "a": "Terry Ives"
+      },
+      {
+        "q": "What does Erica demand in exchange for crawling through the mall vents?",
+        "a": "Free ice cream for life"
+      },
+      {
+        "q": "Who does Billy sacrifice himself to save?",
+        "a": "Eleven"
+      },
+      {
+        "q": "What insult does Eleven learn from Mike and use against people?",
+        "a": "Mouthbreather"
+      },
+      {
+        "q": "What is the name of the jock who leads the hunt for Eddie Munson?",
+        "a": "Jason Carver"
+      },
+      {
+        "q": "What was the name of Hopper's daughter who died of cancer?",
+        "a": "Sara"
+      },
+      {
+        "q": "What nickname do school bullies give Will after he returns?",
+        "a": "Zombie Boy"
+      },
+      {
+        "q": "Which celebrity's hairspray does Steve reveal as his hair secret?",
+        "a": "Farrah Fawcett"
+      },
+      {
+        "q": "Which character does Mrs. Wheeler nearly have an affair with?",
+        "a": "Billy"
+      },
+      {
+        "q": "What is the name of the Russian smuggler who betrays Joyce and Murray?",
+        "a": "Yuri"
+      },
+      {
+        "q": "Who does Eleven hit in the face with a roller skate?",
+        "a": "Angela"
+      },
+      {
+        "q": "What is the name of Eddie Munson's band?",
+        "a": "Corroded Coffin"
+      },
+      {
+        "q": "What song does Eddie play to lure the Demobats?",
+        "a": "Master of Puppets"
+      },
+      {
+        "q": "Which scientist replaces Brenner as head of Hawkins Lab in season 2?",
+        "a": "Dr. Sam Owens"
+      },
+      {
+        "q": "Who serves as the boys' Dungeon Master in season 1?",
+        "a": "Mike"
+      },
+      {
+        "q": "What name does Max use on the arcade high-score board?",
+        "a": "MADMAX"
+      },
+      {
+        "q": "On which arcade game does Max beat Dustin's high score?",
+        "a": "Dig Dug"
+      },
+      {
+        "q": "What is the name of the boys' science teacher?",
+        "a": "Mr. Clarke"
+      },
+      {
+        "q": "What sound signals that Vecna has chosen a victim?",
+        "a": "A grandfather clock chiming"
+      },
+      {
+        "q": "What is the name of the abandoned home the group investigates in season 4?",
+        "a": "The Creel House"
+      },
+      {
+        "q": "What instrument does Robin play in the school marching band?",
+        "a": "Trumpet"
+      },
+      {
+        "q": "What car does Billy drive?",
+        "a": "A Camaro"
+      },
+      {
+        "q": "What summer job does Billy have in season 3?",
+        "a": "Lifeguard"
+      },
+      {
+        "q": "What is Lucas's signature weapon?",
+        "a": "A slingshot"
+      },
+      {
+        "q": "In what year is season 4 set?",
+        "a": "1986"
+      },
+      {
+        "q": "What is the name of the Russian scientist who loves cherry Slurpees?",
+        "a": "Alexei"
+      },
+      {
+        "q": "Where do the kids trap Billy to test whether he is possessed?",
+        "a": "A sauna"
+      },
+      {
+        "q": "What do the boys call the Upside Down using D&D terminology?",
+        "a": "The Vale of Shadows"
+      },
+      {
+        "q": "What is the name of Mike and Nancy's little sister?",
+        "a": "Holly"
+      },
+      {
+        "q": "Which Clash song is Will's favorite?",
+        "a": "Should I Stay or Should I Go"
+      },
+      {
+        "q": "What school dance closes season 2?",
+        "a": "The Snow Ball"
+      },
+      {
+        "q": "Where is Barb when she is taken by the Demogorgon?",
+        "a": "Steve's pool"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is Kali's psychic power?",
+        "a": "Creating illusions"
+      },
+      {
+        "q": "What movie do the kids sneak into at Starcourt at the start of season 3?",
+        "a": "Day of the Dead"
+      },
+      {
+        "q": "What genetic condition does Dustin have?",
+        "a": "Cleidocranial dysplasia"
+      },
+      {
+        "q": "What is the name of the mayor of Hawkins in season 3?",
+        "a": "Larry Kline"
+      },
+      {
+        "q": "What is the name of the Hawkins hangout where the kids play Dig Dug?",
+        "a": "The Palace Arcade"
+      },
+      {
+        "q": "What brand of ham radio do the boys use at school to contact Will?",
+        "a": "Heathkit"
+      },
+      {
+        "q": "What is the name of the general store where Joyce works?",
+        "a": "Melvald's"
+      },
+      {
+        "q": "What is the name of the receptionist at the Hawkins police station?",
+        "a": "Flo"
+      },
+      {
+        "q": "In which asylum is Victor Creel held?",
+        "a": "Pennhurst"
+      },
+      {
+        "q": "In what year were the Creel family murders?",
+        "a": "1959"
+      },
+      {
+        "q": "What is the name of Henry Creel's sister?",
+        "a": "Alice"
+      },
+      {
+        "q": "In which state is the Nina Project facility located?",
+        "a": "Nevada"
+      },
+      {
+        "q": "What make of car does Steve drive?",
+        "a": "BMW"
+      },
+      {
+        "q": "What is the name of the lifeguard who becomes one of the Flayed alongside Billy?",
+        "a": "Heather Holloway"
+      },
+      {
+        "q": "At which diner does Eleven first appear, stealing fries?",
+        "a": "Benny's Burgers"
+      },
+      {
+        "q": "What was the show's working title before it was renamed?",
+        "a": "Montauk"
+      },
+      {
+        "q": "What is the name of the Russian hitman who kills Alexei?",
+        "a": "Grigori"
+      },
+      {
+        "q": "What name does the group give their plan for Eleven to enter Max's mind?",
+        "a": "The Piggyback"
+      },
+      {
+        "q": "Who is Vecna's second victim in season 4?",
+        "a": "Fred Benson"
+      },
+      {
+        "q": "Which basketball player is Vecna's third victim?",
+        "a": "Patrick McKinney"
+      },
+      {
+        "q": "What is the name of Eddie's uncle?",
+        "a": "Wayne"
+      },
+      {
+        "q": "What song plays during the Snow Ball dance?",
+        "a": "Every Breath You Take"
+      },
+      {
+        "q": "What is Suzie's last name?",
+        "a": "Bingham"
+      },
+      {
+        "q": "What is the name of Robin's high school crush who sings in class?",
+        "a": "Tammy Thompson"
+      },
+      {
+        "q": "What is the name of Dustin's turtle?",
+        "a": "Yertle"
+      },
+      {
+        "q": "What is the name of Dustin's cat that Dart eats?",
+        "a": "Mews"
+      },
+      {
+        "q": "In which Illinois town does Murray Bauman live?",
+        "a": "Sesser"
+      },
+      {
+        "q": "What is Erica's D&D character called?",
+        "a": "Lady Applejack"
+      },
+      {
+        "q": "What is Enzo's real name?",
+        "a": "Dmitri Antonov"
+      },
+      {
+        "q": "What does Joyce sell over the phone in season 4?",
+        "a": "Encyclopedias"
+      },
+      {
+        "q": "What is the name of the Hawkins Post editor Nancy works under?",
+        "a": "Tom Holloway"
+      },
+      {
+        "q": "What is the name of the dealer whose boathouse Eddie hides in?",
+        "a": "Reefer Rick"
+      },
+      {
+        "q": "What model of vehicle does Hopper drive as police chief?",
+        "a": "Chevrolet Blazer"
+      }
+    ]
+  },
+  "prison_break": {
+    "200": [
+      {
+        "q": "How many inmates escape from Fox River together in the season 1 finale?",
+        "a": "Eight"
+      },
+      {
+        "q": "By what method is Lincoln scheduled to be executed?",
+        "a": "The electric chair"
+      },
+      {
+        "q": "What body part does T-Bag lose shortly after the escape?",
+        "a": "His hand"
+      },
+      {
+        "q": "Which mob boss inmate arranges the getaway plane for the escape?",
+        "a": "John Abruzzi"
+      },
+      {
+        "q": "What does Sara leave unlocked so the escapees can get out?",
+        "a": "The infirmary door"
+      },
+      {
+        "q": "On which US network did the show originally air?",
+        "a": "Fox"
+      },
+      {
+        "q": "How many seasons does the show have?",
+        "a": "Five"
+      },
+      {
+        "q": "What crime does Michael commit on purpose to get sent to Fox River?",
+        "a": "Armed bank robbery"
+      },
+      {
+        "q": "Behind which fixture in his cell does Michael dig his escape hole?",
+        "a": "The toilet"
+      },
+      {
+        "q": "What office does Caroline Reynolds rise to in season 2?",
+        "a": "President of the United States"
+      },
+      {
+        "q": "What do the letters in LJ Burrows's name stand for?",
+        "a": "Lincoln Junior"
+      },
+      {
+        "q": "What nickname does T-Bag give Michael?",
+        "a": "Pretty"
+      },
+      {
+        "q": "What is the first name of Michael and Sara's son?",
+        "a": "Mike"
+      },
+      {
+        "q": "In which US city does most of season 4 take place?",
+        "a": "Los Angeles"
+      },
+      {
+        "q": "What do Fox River inmates call a newly arrived prisoner?",
+        "a": "A fish"
+      },
+      {
+        "q": "What is Sucre's ethnic background?",
+        "a": "Puerto Rican"
+      },
+      {
+        "q": "What is the name of the 2009 TV movie that ends the original run?",
+        "a": "The Final Break"
+      },
+      {
+        "q": "What drug is Sara addicted to before the series begins?",
+        "a": "Morphine"
+      },
+      {
+        "q": "Whose brother is Terrence Steadman?",
+        "a": "Caroline Reynolds"
+      }
+    ],
+    "400": [
+      {
+        "q": "What does Michael break off the bleachers to use as a tool?",
+        "a": "A bolt"
+      },
+      {
+        "q": "What is the name of the work detail Michael joins to gain access to the guards' break room?",
+        "a": "Prison Industries"
+      },
+      {
+        "q": "What famous building does Warden Pope build a scale model of with Michael's help?",
+        "a": "The Taj Mahal"
+      },
+      {
+        "q": "Who cuts off T-Bag's hand?",
+        "a": "John Abruzzi"
+      },
+      {
+        "q": "Who shoots and kills John Abruzzi?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "Which mentally unstable inmate memorizes part of Michael's tattoo?",
+        "a": "Haywire"
+      },
+      {
+        "q": "Which elderly inmate is rumored to be the hijacker D.B. Cooper?",
+        "a": "Charles Westmoreland"
+      },
+      {
+        "q": "In which state is Westmoreland's stolen money buried?",
+        "a": "Utah"
+      },
+      {
+        "q": "How much money did Westmoreland hide?",
+        "a": "$5 million"
+      },
+      {
+        "q": "What political office does Sara's father hold?",
+        "a": "Governor of Illinois"
+      },
+      {
+        "q": "What does Bellick become after being fired from Fox River?",
+        "a": "A bounty hunter"
+      },
+      {
+        "q": "In what year did the show premiere?",
+        "a": "2005"
+      },
+      {
+        "q": "Who runs Sona prison from the inside?",
+        "a": "Lechero"
+      },
+      {
+        "q": "What medical condition does Michael fake to get regular infirmary visits?",
+        "a": "Diabetes"
+      },
+      {
+        "q": "What rank does Bellick hold among the Fox River guards?",
+        "a": "Captain"
+      },
+      {
+        "q": "Which character is shot dead after discovering Terrence Steadman alive?",
+        "a": "Veronica Donovan"
+      },
+      {
+        "q": "Who kills Tweener?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "What political office does Paul Kellerman hold in season 5?",
+        "a": "Congressman"
+      },
+      {
+        "q": "Which government agency does Don Self work for?",
+        "a": "Homeland Security"
+      },
+      {
+        "q": "Which Fox River guard steals Westmoreland's money from Bellick?",
+        "a": "Roy Geary"
+      },
+      {
+        "q": "What is the name of the fictional black-ops CIA cell Michael works for in season 5?",
+        "a": "21-Void"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is Tweener's real name?",
+        "a": "David Apolskis"
+      },
+      {
+        "q": "What is Haywire's real name?",
+        "a": "Charles Patoshik"
+      },
+      {
+        "q": "What is the name of Westmoreland's cat?",
+        "a": "Marilyn"
+      },
+      {
+        "q": "What is the number of Michael's cell at Fox River?",
+        "a": "40"
+      },
+      {
+        "q": "What is the name of the tattoo artist who inks Michael's blueprint?",
+        "a": "Sid"
+      },
+      {
+        "q": "What is the name of Kellerman's Secret Service partner in season 1?",
+        "a": "Danny Hale"
+      },
+      {
+        "q": "In which Montana town is Terrence Steadman hidden?",
+        "a": "Blackfoot"
+      },
+      {
+        "q": "What is the name of the woman T-Bag obsesses over and holds hostage with her children?",
+        "a": "Susan Hollander"
+      },
+      {
+        "q": "What is the name of LJ's mother?",
+        "a": "Lisa Rix"
+      },
+      {
+        "q": "Who drowns holding a pipe in the tunnel during the Scylla heist?",
+        "a": "Brad Bellick"
+      },
+      {
+        "q": "What is the name of Whistler's girlfriend in Panama?",
+        "a": "Sofia"
+      },
+      {
+        "q": "What is the name of Mahone's ex-wife?",
+        "a": "Pam"
+      },
+      {
+        "q": "What is the name of Mahone's son who is murdered?",
+        "a": "Cameron"
+      },
+      {
+        "q": "What is the name of the Company assassin who kills Mahone's son?",
+        "a": "Wyatt"
+      },
+      {
+        "q": "What is the name of Sucre's cousin who is also in Fox River?",
+        "a": "Manche"
+      },
+      {
+        "q": "What drug does Michael take to fake diabetes?",
+        "a": "PUGNAc"
+      },
+      {
+        "q": "What is the name of Michael's Yemeni ally in season 5?",
+        "a": "Sheba"
+      },
+      {
+        "q": "What occupation does Whistler claim to have?",
+        "a": "Fisherman"
+      },
+      {
+        "q": "In which prison is Sara held in The Final Break?",
+        "a": "Miami-Dade"
+      },
+      {
+        "q": "Whose body does Mahone bury in his backyard?",
+        "a": "Oscar Shales"
+      },
+      {
+        "q": "To which country does Haywire dream of sailing on a raft?",
+        "a": "Holland"
+      },
+      {
+        "q": "What religion does C-Note follow in the revival season?",
+        "a": "Islam"
+      },
+      {
+        "q": "Which large Fox River inmate torments Tweener?",
+        "a": "Avocado"
+      },
+      {
+        "q": "What is the title of the season 1 finale?",
+        "a": "Flight"
+      },
+      {
+        "q": "Who does Michael marry for a green card before going to prison?",
+        "a": "Nika Volek"
+      },
+      {
+        "q": "What nickname is given to Poseidon's female agent in season 5?",
+        "a": "A&W"
+      },
+      {
+        "q": "What is the name of Michael's engineering firm before prison?",
+        "a": "Middleton, Maxwell and Schaum"
+      }
+    ]
+  },
+  "dexter": {
+    "200": [
+      {
+        "q": "Where does Dexter dispose of his victims' bodies?",
+        "a": "The ocean"
+      },
+      {
+        "q": "In which state is Dexter: New Blood set?",
+        "a": "New York"
+      },
+      {
+        "q": "Where was young Dexter found sitting in his mother's blood?",
+        "a": "A shipping container"
+      },
+      {
+        "q": "Where does Dexter find Rita's body?",
+        "a": "In the bathtub"
+      },
+      {
+        "q": "What treat does Dexter bring to work to seem like a normal guy?",
+        "a": "Donuts"
+      },
+      {
+        "q": "What does Dexter pin to the wall of his kill room for the person on the table to see?",
+        "a": "Photos of their victims"
+      },
+      {
+        "q": "How many seasons did the original series run?",
+        "a": "Eight"
+      },
+      {
+        "q": "What weapon does Dexter typically use to kill his victims?",
+        "a": "A knife"
+      },
+      {
+        "q": "Which detective proposes to Deb in season 6?",
+        "a": "Joey Quinn"
+      },
+      {
+        "q": "Which Miami Metro forensics tech is known for his crude jokes?",
+        "a": "Vince Masuka"
+      },
+      {
+        "q": "What job does Dexter's girlfriend Angela hold in Iron Lake?",
+        "a": "Police chief"
+      },
+      {
+        "q": "What is the title of the 2024 prequel series?",
+        "a": "Dexter: Original Sin"
+      },
+      {
+        "q": "What is the title of the 2025 sequel series?",
+        "a": "Dexter: Resurrection"
+      },
+      {
+        "q": "What kind of store does Dexter work at in New Blood?",
+        "a": "A fish and game store"
+      },
+      {
+        "q": "What is Debra's job when the series begins?",
+        "a": "Vice officer"
+      }
+    ],
+    "400": [
+      {
+        "q": "What tranquilizer does Dexter inject into his victims?",
+        "a": "M99"
+      },
+      {
+        "q": "What is the name of the town where Dexter hides in New Blood?",
+        "a": "Iron Lake"
+      },
+      {
+        "q": "How does the Trinity Killer murder the first victim of each cycle?",
+        "a": "In a bathtub"
+      },
+      {
+        "q": "What is the name of Dexter's NA sponsor who becomes obsessed with him?",
+        "a": "Lila"
+      },
+      {
+        "q": "What addiction does Dexter pretend to have in order to attend NA meetings?",
+        "a": "Heroin"
+      },
+      {
+        "q": "Who kills Sergeant Doakes?",
+        "a": "Lila"
+      },
+      {
+        "q": "What job does Miguel Prado hold?",
+        "a": "Assistant District Attorney"
+      },
+      {
+        "q": "What is the name of the motivational speaker villain of season 5?",
+        "a": "Jordan Chase"
+      },
+      {
+        "q": "Who walks in as Dexter kills Travis Marshall?",
+        "a": "Debra"
+      },
+      {
+        "q": "In what kind of building does Dexter kill Travis Marshall?",
+        "a": "A church"
+      },
+      {
+        "q": "Which Ukrainian mob boss hunts Dexter in season 7?",
+        "a": "Isaak Sirko"
+      },
+      {
+        "q": "What nickname is given to the season 8 killer who turns out to be Dr. Vogel's son?",
+        "a": "The Brain Surgeon"
+      },
+      {
+        "q": "To which country do Dexter and Hannah plan to flee in season 8?",
+        "a": "Argentina"
+      },
+      {
+        "q": "What was Dexter's mother's relationship to Harry Morgan?",
+        "a": "Confidential informant"
+      },
+      {
+        "q": "Who is Dexter's first kill in New Blood?",
+        "a": "Matt Caldwell"
+      },
+      {
+        "q": "What toy's parts does the Ice Truck Killer leave for Dexter?",
+        "a": "Barbie doll parts"
+      },
+      {
+        "q": "Where in his apartment does Dexter hide his box of blood slides?",
+        "a": "Behind the air conditioner"
+      },
+      {
+        "q": "Which FBI agent leads the Bay Harbor Butcher task force?",
+        "a": "Frank Lundy"
+      },
+      {
+        "q": "Which Miami Metro detective has a romance with Frank Lundy?",
+        "a": "Debra"
+      },
+      {
+        "q": "What business does Kurt Caldwell run?",
+        "a": "A trucking company"
+      },
+      {
+        "q": "In what year did the original series premiere?",
+        "a": "2006"
+      },
+      {
+        "q": "How does Dexter kill his brother Brian?",
+        "a": "Slits his throat"
+      },
+      {
+        "q": "What weapon does Harrison use to shoot Dexter?",
+        "a": "A rifle"
+      },
+      {
+        "q": "What sport does Dexter play on a team with his coworkers?",
+        "a": "Bowling"
+      },
+      {
+        "q": "Who discovers Dexter's underwater dump site in season 2?",
+        "a": "Treasure hunters"
+      },
+      {
+        "q": "What alias does Dexter use while befriending Arthur Mitchell?",
+        "a": "Kyle Butler"
+      },
+      {
+        "q": "How long has Dexter been living in Iron Lake when New Blood begins?",
+        "a": "About ten years"
+      }
+    ],
+    "600": [
+      {
+        "q": "Who is Dexter's first on-screen victim in the pilot episode?",
+        "a": "Mike Donovan"
+      },
+      {
+        "q": "Which defense attorney does Miguel Prado murder?",
+        "a": "Ellen Wolf"
+      },
+      {
+        "q": "What is the real name of the Skinner?",
+        "a": "George King"
+      },
+      {
+        "q": "Which corrupt cop does Quinn hire to investigate Dexter in season 5?",
+        "a": "Stan Liddy"
+      },
+      {
+        "q": "What poison does Hannah McKay favor?",
+        "a": "Aconite"
+      },
+      {
+        "q": "Who is the last person Dexter kills in the original series finale?",
+        "a": "Oliver Saxon"
+      },
+      {
+        "q": "What is the name of the hurricane in the original series finale?",
+        "a": "Laura"
+      },
+      {
+        "q": "What is the name of Dexter's biological father?",
+        "a": "Joe Driscoll"
+      },
+      {
+        "q": "What is the name of Angela Bishop's daughter?",
+        "a": "Audrey"
+      },
+      {
+        "q": "What is the first name of Batista's sister who becomes Harrison's nanny?",
+        "a": "Jamie"
+      },
+      {
+        "q": "What is the name of Masuka's daughter?",
+        "a": "Niki"
+      },
+      {
+        "q": "What is LaGuerta's first name?",
+        "a": "Maria"
+      },
+      {
+        "q": "What is the name of the deputy chief who was Harry's old friend?",
+        "a": "Tom Matthews"
+      },
+      {
+        "q": "For which charity does Arthur Mitchell build houses?",
+        "a": "Four Walls One Heart"
+      },
+      {
+        "q": "What is the name of Arthur Mitchell's son?",
+        "a": "Jonah"
+      },
+      {
+        "q": "What was the name of Arthur Mitchell's sister whose death began his cycle?",
+        "a": "Vera"
+      },
+      {
+        "q": "Who shoots Frank Lundy?",
+        "a": "Christine Hill"
+      },
+      {
+        "q": "What profession does Rudy Cooper have?",
+        "a": "Prosthetist"
+      },
+      {
+        "q": "What is the name of the true-crime podcaster in New Blood?",
+        "a": "Molly Park"
+      },
+      {
+        "q": "What is the name of Dexter's adoptive mother?",
+        "a": "Doris"
+      },
+      {
+        "q": "For which private investigator does Deb work after leaving Miami Metro?",
+        "a": "Jacob Elway"
+      },
+      {
+        "q": "From which state does Lumen Pierce come?",
+        "a": "Minnesota"
+      },
+      {
+        "q": "Which terminally ill records clerk asks Dexter to end her life?",
+        "a": "Camilla"
+      },
+      {
+        "q": "What is the name of the comic-book superhero based on the Bay Harbor Butcher?",
+        "a": "The Dark Defender"
+      },
+      {
+        "q": "What is the name of Dexter's bowling team?",
+        "a": "Bowl Till You Bleed"
+      },
+      {
+        "q": "Which season 7 killer traps victims in a minotaur maze?",
+        "a": "Ray Speltzer"
+      },
+      {
+        "q": "Which intern sends Dexter the Ice Truck Killer's prosthetic hand?",
+        "a": "Louis Greene"
+      },
+      {
+        "q": "Which Mama Cass song does the Brain Surgeon associate with his killings?",
+        "a": "Make Your Own Kind of Music"
+      },
+      {
+        "q": "Who drugs Debra and causes her car crash in season 7?",
+        "a": "Hannah McKay"
+      }
+    ]
+  },
+  "suits": {
+    "200": [
+      {
+        "q": "What music format does Harvey collect in his office?",
+        "a": "Vinyl records"
+      },
+      {
+        "q": "Which relative does Mike support in a nursing home?",
+        "a": "His grandmother"
+      },
+      {
+        "q": "What is the title of the spin-off following Jessica in Chicago?",
+        "a": "Pearson"
+      },
+      {
+        "q": "What is the title of the 2025 spin-off set on the West Coast?",
+        "a": "Suits LA"
+      },
+      {
+        "q": "How many seasons did the original series run?",
+        "a": "Nine"
+      },
+      {
+        "q": "On which cable channel did the series originally air?",
+        "a": "USA Network"
+      },
+      {
+        "q": "What is Mike's job title when he first joins the firm?",
+        "a": "Associate"
+      },
+      {
+        "q": "Which partner is in charge of the associates when Mike starts?",
+        "a": "Louis Litt"
+      },
+      {
+        "q": "Which two characters get married in the season 7 finale?",
+        "a": "Mike and Rachel"
+      },
+      {
+        "q": "Who does Harvey marry in the series finale?",
+        "a": "Donna"
+      },
+      {
+        "q": "What promotion does Louis finally receive in season 4?",
+        "a": "Name partner"
+      },
+      {
+        "q": "What area of law does Harvey specialize in?",
+        "a": "Corporate law"
+      },
+      {
+        "q": "Which West Coast city do Mike and Rachel move to?",
+        "a": "Seattle"
+      },
+      {
+        "q": "What snack is Louis famously obsessed with?",
+        "a": "Prunies"
+      },
+      {
+        "q": "What job did Harvey hold before joining the firm?",
+        "a": "Assistant District Attorney"
+      },
+      {
+        "q": "Who takes over as managing partner in the series finale?",
+        "a": "Louis Litt"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the name of Harvey's brother?",
+        "a": "Marcus"
+      },
+      {
+        "q": "What instrument did Harvey's father play professionally?",
+        "a": "Saxophone"
+      },
+      {
+        "q": "Which district attorney was Harvey's mentor?",
+        "a": "Cameron Dennis"
+      },
+      {
+        "q": "Which inmate threatens Mike in prison?",
+        "a": "Frank Gallo"
+      },
+      {
+        "q": "In which federal prison does Mike serve his sentence?",
+        "a": "Danbury"
+      },
+      {
+        "q": "Which prosecutor brings the fraud case against Mike?",
+        "a": "Anita Gibbs"
+      },
+      {
+        "q": "Which lawyer does Jessica date after he joins the firm?",
+        "a": "Jeff Malone"
+      },
+      {
+        "q": "What kitchen tool is part of Harvey and Donna's pre-trial ritual?",
+        "a": "A can opener"
+      },
+      {
+        "q": "What is the name of Mike's girlfriend early in season 1?",
+        "a": "Jenny"
+      },
+      {
+        "q": "Who is Samantha Wheeler's mentor?",
+        "a": "Robert Zane"
+      },
+      {
+        "q": "Which special master is appointed to oversee the firm in the final season?",
+        "a": "Faye Richardson"
+      },
+      {
+        "q": "What is the nickname of Harvey's Harvard rival and on-off lover Dana Scott?",
+        "a": "Scottie"
+      },
+      {
+        "q": "What surprising art form does Louis practice?",
+        "a": "Ballet"
+      },
+      {
+        "q": "What hobby does Donna pursue on stage?",
+        "a": "Acting"
+      },
+      {
+        "q": "What is the first name of Harvey's father?",
+        "a": "Gordon"
+      },
+      {
+        "q": "How did Mike's parents die?",
+        "a": "A car accident"
+      },
+      {
+        "q": "In what year did the series premiere?",
+        "a": "2011"
+      },
+      {
+        "q": "Complete Harvey's line: 'I don't play the odds, I play the ___'",
+        "a": "Man"
+      },
+      {
+        "q": "What accessory of Mike's does Harvey mock in season 1?",
+        "a": "His skinny ties"
+      },
+      {
+        "q": "How long is Mike's prison sentence?",
+        "a": "Two years"
+      },
+      {
+        "q": "What kind of organization does Mike work for after leaving prison?",
+        "a": "A legal clinic"
+      },
+      {
+        "q": "Which of Harvey's parents had an affair that Harvey witnessed as a teenager?",
+        "a": "His mother"
+      },
+      {
+        "q": "Which senior partner allies with Daniel Hardman against Harvey in season 5?",
+        "a": "Jack Soloff"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which Harvard ethics professor holds a grudge against Harvey?",
+        "a": "Henry Gerard"
+      },
+      {
+        "q": "What is the name of Mike's cellmate in prison?",
+        "a": "Kevin Miller"
+      },
+      {
+        "q": "What is the name of the app Louis and Benjamin create to mimic Harvey's secretary?",
+        "a": "The Donna"
+      },
+      {
+        "q": "What is the name of Louis's sister?",
+        "a": "Esther"
+      },
+      {
+        "q": "What is the name of Rachel's father's firm before he joins Harvey?",
+        "a": "Rand Kaldor Zane"
+      },
+      {
+        "q": "From which firm does Alex Williams come?",
+        "a": "Bratton Gould"
+      },
+      {
+        "q": "Which bumbling associate does Louis fire in season 2?",
+        "a": "Harold Gunderson"
+      },
+      {
+        "q": "What did Daniel Hardman embezzle firm money to pay for?",
+        "a": "His wife's cancer treatment"
+      },
+      {
+        "q": "What is the firm renamed after Rachel's father joins in season 8?",
+        "a": "Zane Specter Litt"
+      },
+      {
+        "q": "What is the first name of Rachel's mother?",
+        "a": "Laura"
+      },
+      {
+        "q": "In what kind of system did Samantha Wheeler grow up?",
+        "a": "Foster care"
+      },
+      {
+        "q": "What is the name of the London firm where Scottie works?",
+        "a": "Darby International"
+      },
+      {
+        "q": "Which British lawyer merges his firm with Pearson Hardman?",
+        "a": "Edward Darby"
+      },
+      {
+        "q": "What is the firm called after the merger with the British firm in season 3?",
+        "a": "Pearson Darby"
+      },
+      {
+        "q": "Which oil executive client is accused of bribery and murder in season 3?",
+        "a": "Ava Hessington"
+      },
+      {
+        "q": "What is the name of the clinic where Mike works after prison?",
+        "a": "Eastside Legal Clinic"
+      },
+      {
+        "q": "Who runs the legal clinic where Mike works?",
+        "a": "Nathan"
+      },
+      {
+        "q": "What is the first name of Mike's grandmother?",
+        "a": "Edith"
+      },
+      {
+        "q": "How many episodes does the original series have in total?",
+        "a": "134"
+      },
+      {
+        "q": "What is Gretchen's surname?",
+        "a": "Bodinski"
+      },
+      {
+        "q": "Who takes the fall and is disbarred at the end of season 8?",
+        "a": "Robert Zane"
+      },
+      {
+        "q": "Which Chicago mayor does Jessica work for in her spin-off?",
+        "a": "Bobby Novak"
+      },
+      {
+        "q": "Which lawyer leads the firm in Suits LA?",
+        "a": "Ted Black"
+      },
+      {
+        "q": "What is the name of Harvey's tailor?",
+        "a": "René"
+      },
+      {
+        "q": "Which car company is Harvey's cherished client from season 1?",
+        "a": "McKernon Motors"
+      },
+      {
+        "q": "How does Harvey's father die?",
+        "a": "A heart attack"
+      },
+      {
+        "q": "Which US Attorney relentlessly prosecutes Harvey in season 8?",
+        "a": "Andrew Malik"
+      },
+      {
+        "q": "Which Darby lawyer is arrested for arranging murders?",
+        "a": "Stephen Huntley"
+      }
+    ]
+  },
+  "vikings": {
+    "200": [
+      {
+        "q": "Who is Bjorn Ironside's mother?",
+        "a": "Lagertha"
+      },
+      {
+        "q": "On which TV channel did the series originally air?",
+        "a": "History"
+      },
+      {
+        "q": "Who rules Kattegat as earl when the series begins?",
+        "a": "Haraldson"
+      },
+      {
+        "q": "What title does Ragnar take after killing Haraldson?",
+        "a": "Earl"
+      },
+      {
+        "q": "What type of ship does Floki design for Ragnar's raids?",
+        "a": "A longship"
+      },
+      {
+        "q": "How does Ragnar trick his way inside the walls of Paris?",
+        "a": "Pretending to be dead in a coffin"
+      },
+      {
+        "q": "How many seasons does the series have?",
+        "a": "Six"
+      },
+      {
+        "q": "In which direction does Ragnar insist on sailing to find new lands?",
+        "a": "West"
+      },
+      {
+        "q": "What title does Ragnar hold after defeating Horik?",
+        "a": "King"
+      },
+      {
+        "q": "Which of Ragnar's sons is the youngest?",
+        "a": "Ivar"
+      },
+      {
+        "q": "Which of Ragnar's sons kills Bjorn?",
+        "a": "Ivar"
+      },
+      {
+        "q": "Which river do the Vikings sail up to reach Paris?",
+        "a": "The Seine"
+      }
+    ],
+    "400": [
+      {
+        "q": "Which Frankish princess is forced to marry Rollo?",
+        "a": "Gisla"
+      },
+      {
+        "q": "What is the name of the Frankish emperor who grants Rollo land?",
+        "a": "Charles"
+      },
+      {
+        "q": "What is the name of Earl Haraldson's widow who later marries Rollo?",
+        "a": "Siggy"
+      },
+      {
+        "q": "Who kills Athelstan?",
+        "a": "Floki"
+      },
+      {
+        "q": "Who kills Aslaug?",
+        "a": "Lagertha"
+      },
+      {
+        "q": "Who kills Lagertha?",
+        "a": "Hvitserk"
+      },
+      {
+        "q": "Who kills Sigurd?",
+        "a": "Ivar"
+      },
+      {
+        "q": "What is the name of King Ecbert's son?",
+        "a": "Aethelwulf"
+      },
+      {
+        "q": "Which future English king is the son of Athelstan and Judith?",
+        "a": "Alfred"
+      },
+      {
+        "q": "Who is Ubbe's wife?",
+        "a": "Torvi"
+      },
+      {
+        "q": "Which rival ruler does Ragnar execute with the blood eagle?",
+        "a": "Jarl Borg"
+      },
+      {
+        "q": "Which Danish king does Ragnar kill to become king?",
+        "a": "Horik"
+      },
+      {
+        "q": "Which sea does Bjorn sail to on his great voyage in season 4?",
+        "a": "The Mediterranean"
+      },
+      {
+        "q": "Who takes Kattegat from Ivar in season 5?",
+        "a": "Bjorn"
+      },
+      {
+        "q": "What crystal helps Ragnar navigate across open sea?",
+        "a": "A sunstone"
+      },
+      {
+        "q": "What Christian rite does Ragnar accept so he can be buried inside Paris?",
+        "a": "Baptism"
+      },
+      {
+        "q": "Which artist performs the show's theme song 'If I Had a Heart'?",
+        "a": "Fever Ray"
+      },
+      {
+        "q": "Who created the series?",
+        "a": "Michael Hirst"
+      },
+      {
+        "q": "In what year did the series premiere?",
+        "a": "2013"
+      },
+      {
+        "q": "In which country was the series primarily filmed?",
+        "a": "Ireland"
+      },
+      {
+        "q": "Which of Ragnar's sons is nicknamed Snake-in-the-Eye?",
+        "a": "Sigurd"
+      },
+      {
+        "q": "Which English city does Ivar capture and fortify?",
+        "a": "York"
+      },
+      {
+        "q": "What animals does Ragnar say will grunt when they hear how the old boar suffered?",
+        "a": "Piggies"
+      },
+      {
+        "q": "Who is Bjorn's first wife?",
+        "a": "Thorunn"
+      },
+      {
+        "q": "Which Rus prince does Ivar ally with after fleeing Kattegat?",
+        "a": "Oleg"
+      },
+      {
+        "q": "Who is the first king of all Norway elected in season 6?",
+        "a": "Harald Finehair"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which son of Horik marries Torvi and plots against Bjorn?",
+        "a": "Erlendur"
+      },
+      {
+        "q": "Who is Ivar's wife who claims he is a god?",
+        "a": "Freydis"
+      },
+      {
+        "q": "Which earl does Lagertha kill to become ruler of Hedeby?",
+        "a": "Sigvard"
+      },
+      {
+        "q": "Which of Lagertha's trusted men seizes Hedeby while she is away, then becomes her co-ruler and lover?",
+        "a": "Kalf"
+      },
+      {
+        "q": "Who is the boy prince kept as Oleg's ward?",
+        "a": "Igor"
+      },
+      {
+        "q": "Which friend of Ragnar loses an arm fighting in Wessex?",
+        "a": "Torstein"
+      },
+      {
+        "q": "Who is the mysterious wanderer who seduces Aslaug?",
+        "a": "Harbard"
+      },
+      {
+        "q": "Which Frankish nobleman leads the defense of Paris?",
+        "a": "Count Odo"
+      },
+      {
+        "q": "Which Mercian princess allies with Ragnar and later becomes queen?",
+        "a": "Kwenthrith"
+      },
+      {
+        "q": "Who claims to be Ragnar's son by Kwenthrith?",
+        "a": "Magnus"
+      },
+      {
+        "q": "Which Chinese slave introduces Ragnar to drugs?",
+        "a": "Yidu"
+      },
+      {
+        "q": "What kills Ragnar's daughter Gyda?",
+        "a": "Plague"
+      },
+      {
+        "q": "What is the name of Bjorn's son who dies in Kattegat?",
+        "a": "Hali"
+      },
+      {
+        "q": "What is the name of Torvi's son by Jarl Borg?",
+        "a": "Guthrum"
+      },
+      {
+        "q": "What is Prince Oleg's capital city?",
+        "a": "Kiev"
+      },
+      {
+        "q": "Which wanderer tells Ubbe about a golden land to the west?",
+        "a": "Othere"
+      },
+      {
+        "q": "Which settler leads the Iceland colony alongside Floki?",
+        "a": "Kjetill Flatnose"
+      },
+      {
+        "q": "How does King Ecbert die?",
+        "a": "Cutting his wrists in a bath"
+      },
+      {
+        "q": "Which of Lagertha's lovers is kidnapped and made to marry Harald?",
+        "a": "Astrid"
+      },
+      {
+        "q": "Who kills Halfdan the Black?",
+        "a": "Harald Finehair"
+      },
+      {
+        "q": "What is the name of Ivar's deformed infant son?",
+        "a": "Baldur"
+      },
+      {
+        "q": "Which Rus prince, Oleg's brother, is freed by Ivar?",
+        "a": "Dir"
+      },
+      {
+        "q": "What is the name of Helga's adopted daughter who stabs her?",
+        "a": "Tanaruz"
+      },
+      {
+        "q": "What are the three Norse fate-weaving sisters that the Seer speaks of called?",
+        "a": "The Norns"
+      },
+      {
+        "q": "Which Kattegat merchant arranges the bloody sacrifice of a hundred citizens with Ivar?",
+        "a": "White Hair"
+      }
+    ]
+  }
+}
