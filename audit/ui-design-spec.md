@@ -1,31 +1,32 @@
-# Trivic — UI Design Spec: "Paper & Pop" (supersedes the earlier "Arena" glass look)
+# Trivic — UI Design Spec: "Game Show" (supersedes "Paper & Pop" and "Arena")
 
-The owner rejected the dark-glass "Arena" pass as looking the same as before. The current direction is **flat, bright, playful, uncluttered**. Any restyle or new screen must follow this.
+The owner rejected two previous passes: the dark-glass "Arena" ("looks the same") and the flat "Paper & Pop" ("you just changed colors … fuck the no colors, go all out"). The current direction is **full color, chunky, game-show energy** — but still clean: one idea per row, no clutter.
 
 ## Non-negotiables (repeat offenders — never regress)
 1. **No horizontal page scroll.** Page roots: `overflow-x: clip; width:100%; max-width:100vw`. The board grid is the only element allowed to scroll sideways, inside its own wrapper.
-2. **Images zoom-to-fill.** People/characters/products: `object-fit: cover; object-position: center top` in a fixed-aspect frame. Flags / maps / logos: `contain` on a white plate.
+2. **Images zoom-to-fill.** People/characters/products: `object-fit: cover; object-position: center top` in a fixed-aspect frame. Flags / maps / logos: `contain` on a plate.
 3. **Nothing overlaps the fixed EN/theme toggle cluster** (top-left, 18px inset, 44px buttons). CategoryScreen sticky bar has `paddingLeft` 122/130; ScoreBar/BoardHeader have `paddingLeft` 74 on phones.
 4. **Movie-scene player masks stay** (black bars + hover overlay + `youtube-nocookie`).
 5. `className` hooks `tap / pop / fadein / page-enter / hit44` must keep existing.
-6. Both themes fully defined (`:root.theme-light`, `:root.theme-dark`); light is the default look.
+6. Both themes fully defined (`:root.theme-light`, `:root.theme-dark`); light is the default.
 7. Build must pass after every change.
+8. **Board layout is fixed by the owner:** per category, tiles flank the category art — `200 (art) 200 / 400 (art) 400 / 600 (art) 600` (team mode). FFA: `(art) tile` × 5. The category name sits in a colored pill above the block.
 
 ## Look
-- **Background:** flat warm paper `#F6F5F0` with two very soft color glows (indigo top-left, coral bottom-right). Dark: `#0F1117`. **No background images, textures, or blur anywhere.**
-- **Surfaces:** flat white cards (`--surface-strong`), 1px `--border` (`#E4E1D7`), radius 16 (`--radius`) / 22 (`--radius-lg`), soft shadow (`--shadow-1/2`). No gradients, no inner highlights, no glows, no accent top-lines.
-- **One accent:** indigo `--accent #5B5CE6` (dark: `#7B7CF0`). Used for primary buttons, selected rings, active segments, the timer ring. That's it.
-- **Tier colors (PT_COLORS):** 100 mint `#2FB57F`, 200 sun `#FFB020` (dark ink), 300 sky `#4FA3FF`, 400 coral `#FF6B6B`, 500/600 indigo `#5B5CE6`. `PT_INK` gives the text color on each fill.
-- **Team colors:** `TEAM_COLORS` unchanged; active pill = solid team color + white text, inactive = 10% tint fill + team-color text. No glows.
-- **Type:** Sora 700/800 for display (wordmark, headings, tile numbers, scores), Inter for body. Labels 11px uppercase `.08em` muted.
-- **Buttons (`getGlassButtonStyle`):** primary = solid accent/tint with white (or dark on sun) text; subtle = `--surface-2` (or 12% tint) with ink text; disabled = `--surface-2` muted. Circles (`getGlassCircleButtonStyle`) = `--surface-2` fill, tinted glyph.
-- **Cards:** `QuestionPanel` / `ARENA_CARD_STYLE` = flat white, border, shadow-2. Answer panel = 2px border in the tile's tier color.
-- **Category cards:** art on top (cover), white label bar below with icon + name. No scrims, badges, captions or accent lines. Selected = accent border + soft ring + check. The "+ copy" button only appears on selected cards.
-- **Board:** no container chrome around column headers (art square + label only). Tiles are solid tier-colored pills with bold numbers; used tiles become dashed empty slots at 45%.
-- **Timer:** 124px white disc, 9px single-color ring (accent → danger under 20%).
+- **Stage (background):** diagonal gradient indigo → violet → pink → orange (`--bg-image`), with a soft white radial highlight top-left. Dark theme = the same gradient, deeper. Text placed directly on the stage uses `--on-bg` (white) / `--on-bg-muted`.
+- **Cards:** white (`--surface`, dark: `#1B1930`), radius 20/28, colored drop shadows (`--shadow-1/2`). Text on cards uses `--text` / `--text-muted`.
+- **Type:** Fredoka 600/700 for display (wordmark, headings, tile numbers, pills, buttons), Inter for body.
+- **Tier colors (`PT_COLORS` → `PT_COLORS_2` gradient end):** 100 cyan, 200 green, 300 blue, 400 orange, 500 pink, 600 violet. Tiles = vertical gradient + `0 5px 0` darker bottom edge + white number with a 2px text-shadow. Used tiles = translucent white dashed slot.
+- **Team colors:** `TEAM_COLORS` unchanged. Setup team cards are solid team-color gradient blocks with a numbered badge and a white centered name input.
+- **Category cards (CategoryScreen):** portrait art (cover) + a label bar in the category's own color with white, centered Fredoka text. Selected = white 3px border + white ring + green check + lift. Group headings are centered white Fredoka with a count pill and a white "Add all" pill. Grid is `auto-fit` + centered so rows never stretch or left-align.
+- **Buttons:** primary = solid accent (or white pill with accent text when on the stage), chunky `0 6px 0` edge shadows allowed on hero CTAs. Timer Reset/Start live in a row *under* the disc, never inside the ring.
+- **Lifelines:** white circles with tinted glyphs; active = solid tint.
 - **Motion:** keep `.tap` lift, `.pop` reveal, `.page-enter`. Nothing else.
 
 ## Clutter rules
-- One idea per row. Prefer plain headings over chips-in-pills. No decorative dots/dividers.
+- One idea per row. No decorative dots/dividers, no ambient blobs, no blur.
 - Never stack more than one badge on a card.
 - Empty states render nothing (no "appears here" placeholders).
+
+## Tooling gotcha
+- The superpowers-chrome tab reports `visibilityState: hidden` when the headed Chrome window is occluded; compositor animations stall at opacity 0, lazy images never load and screenshots time out. Use `hide_browser` (headless) before capturing.

@@ -442,7 +442,7 @@ const RAW_BANK = {
       {q:"First 7 numbers of the Fibonacci sequence?",a:"0, 1, 1, 2, 3, 5, 8"},
       {q:"Chemical symbol for potassium?",a:"K (from Latin Kalium)"},
       {q:"What is the Mpemba effect?",a:"The observation that hot water can under some conditions freeze faster than cold water"},
-      {q:"Boundary layer between Earth's crust and mantle?",a:"The MohoroviÄiÄ‡ discontinuity (the Moho)"},
+      {q:"Boundary layer between Earth's crust and mantle?",a:"The Mohorovičić discontinuity (the Moho)"},
       {q:"Approximate age of the universe?",a:"~13.8 billion years"},
       {q:"What is the P vs NP problem?",a:"Unsolved CS problem — whether every problem whose solution can be quickly verified can also be quickly solved"},
       {q:"What is the Riemann hypothesis?",a:"Unsolved conjecture about the distribution of prime numbers and zeros of the Riemann zeta function"},
@@ -1115,7 +1115,6 @@ const RAW_BANK = {
       {q:"What is the Phantom Zone?",a:"A dimensional prison used by Kryptonians — created by Jor-El"},
       {q:"Darkseid's goal?",a:"To find the Anti-Life Equation and control all sentient life in the universe"},
       {q:"What is the Green Lantern Corps?",a:"An intergalactic police force created by the Guardians of the Universe on Oa"},
-      {q:"What is the Speed Force?",a:"A unique extradimensional energy that all speedsters draw power from"},
       {q:"Who is Brainiac?",a:"An alien villain who miniaturizes and collects cities from across the universe"},
       {q:"Who is the Reverse Flash?",a:"Eobard Thawne — a future villain who killed Barry Allen's mother"},
       {q:"What is the New 52?",a:"A 2011 DC initiative that rebooted the entire DC Universe into a new continuity"},
@@ -1972,7 +1971,6 @@ const RAW_BANK = {
       {q:"Who is L in Death Note?",a:"The world's greatest detective hired to catch Kira"},
       {q:"What themes does Neon Genesis Evangelion explore?",a:"Loneliness, existentialism, depression, self-worth — Anno's personal psychological struggles"},
       {q:"Who is Gon Freecss?",a:"A cheerful boy who becomes a Hunter to find his legendary father Ging"},
-      {q:"What is the One Piece?",a:"The legendary treasure left by the Pirate King — finding it makes you King of the Pirates"},
       {q:"Who is Killua Zoldyck?",a:"Gon's best friend in HxH — a trained assassin from a family of killers who uses electricity"},
       {q:"What is the significance of the Chimera Ant arc in HxH?",a:"The longest and most complex arc — exploring what it means to be human through an ant who develops emotion"},
       {q:"Who is Itachi Uchiha?",a:"He massacred his clan — but was secretly acting on orders to prevent a coup and protect his brother Sasuke"},
@@ -4613,6 +4611,9 @@ const MANUAL_DUPLICATE_FILTER_KEYS = new Set([
   `history||${normalizeQuestionKeyPart("Year the Berlin Wall fell?")}||${normalizeQuestionKeyPart("1989")}`,
   `marvel||${normalizeQuestionKeyPart("Who plays Spider-Man in the MCU?")}||${normalizeQuestionKeyPart("Tom Holland")}`,
   `general||${normalizeQuestionKeyPart("What is the Higgs boson?")}||${normalizeQuestionKeyPart("The particle that gives other particles mass")}`,
+  `general||${normalizeQuestionKeyPart("What is Bell's theorem?")}||${normalizeQuestionKeyPart("Proves no local hidden variable theory can reproduce all predictions of quantum mechanics")}`,
+  `general||${normalizeQuestionKeyPart("What is the Standard Model in physics?")}||${normalizeQuestionKeyPart("Theory describing fundamental particles and forces (except gravity) that make up the universe")}`,
+  `general||${normalizeQuestionKeyPart("What is quantum tunnelling?")}||${normalizeQuestionKeyPart("Particles passing through energy barriers that classical physics says they cannot cross")}`,
   `general||${normalizeQuestionKeyPart("What is the Chandrasekhar limit?")}||${normalizeQuestionKeyPart("~1.4 solar masses")}`,
   `dc||${normalizeQuestionKeyPart("Who is the Reverse Flash?")}||${normalizeQuestionKeyPart("Eobard Thawne")}`,
 ]);
@@ -4978,11 +4979,11 @@ const CATEGORY_PREVIEWS = {
 };
 
 const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777","#0891B2","#EA580C"];
-// Tier colors: mint / sun / sky / coral / indigo — flat, cheerful, clearly distinct.
-const PT_COLORS = {100:"#2FB57F",200:"#FFB020",300:"#4FA3FF",400:"#FF6B6B",500:"#5B5CE6",600:"#5B5CE6"};
-const PT_BG = {100:"#E3F7EE",200:"#FFF1D6",300:"#E4F0FF",400:"#FFE5E5",500:"#E6E6FB",600:"#E6E6FB"};
-// Ink color that reads on top of each tier fill (sun needs dark ink).
-const PT_INK = {100:"#FFFFFF",200:"#1B1B1F",300:"#FFFFFF",400:"#FFFFFF",500:"#FFFFFF",600:"#FFFFFF"};
+// Tier colors (game-show): cyan / green / blue / orange / pink / violet. PT_COLORS_2 = gradient end.
+const PT_COLORS = {100:"#06B6D4",200:"#22C55E",300:"#3B82F6",400:"#F97316",500:"#EC4899",600:"#A855F7"};
+const PT_COLORS_2 = {100:"#0E7490",200:"#15803D",300:"#1D4ED8",400:"#C2410C",500:"#BE185D",600:"#6D28D9"};
+const PT_BG = {100:"#E0F7FA",200:"#DCFCE7",300:"#DBEAFE",400:"#FFEDD5",500:"#FCE7F3",600:"#EDE9FE"};
+const PT_INK = {100:"#FFFFFF",200:"#FFFFFF",300:"#FFFFFF",400:"#FFFFFF",500:"#FFFFFF",600:"#FFFFFF"};
 
 // Cryptographically-seeded uniform random in [0,1). Falls back to Math.random when
 // the Web Crypto API is unavailable. Used for every pool shuffle and tile draw so the
@@ -5716,23 +5717,24 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
         overflow:"hidden",
         isolation:"isolate",
         background:"var(--surface-strong)",
-        border:`1px solid ${selected?"var(--accent)":"var(--border)"}`,
-        boxShadow:selected?"0 0 0 3px var(--accent-soft), var(--shadow-2)":"var(--shadow-1)",
+        border:`3px solid ${selected?"#FFFFFF":"rgba(255,255,255,.35)"}`,
+        boxShadow:selected?"0 0 0 4px rgba(255,255,255,.35), 0 16px 34px rgba(20,0,60,.35)":"0 8px 20px rgba(20,0,60,.22)",
         color:"var(--text)",
         textAlign:"left",
         cursor:"pointer",
-        transition:"box-shadow .18s ease, border-color .18s ease",
+        transform:selected?"translateY(-2px)":"none",
+        transition:"box-shadow .18s ease, border-color .18s ease, transform .18s ease",
       }}
     >
       <div style={{position:"relative",flex:"1 1 auto",minHeight:0,overflow:"hidden"}}>
         <CategoryPreviewVisual category={category} preview={preview}/>
       </div>
-      <div style={{flex:"0 0 auto",display:"flex",alignItems:"center",gap:6,padding:"9px 42px 9px 10px",minHeight:44,borderTop:"1px solid var(--border)",background:"var(--surface-strong)"}}>
-        <span aria-hidden="true" style={{fontSize:14,lineHeight:1,flex:"0 0 auto"}}>{category.icon}</span>
-        <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(12px,1.3vw,13px)",lineHeight:1.15,letterSpacing:"-.01em",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0}}>{category.label}</span>
+      <div style={{flex:"0 0 auto",display:"flex",alignItems:"center",justifyContent:"center",gap:6,padding:"10px 12px",minHeight:50,background:category.color||"#7C3AED",color:"#FFFFFF"}}>
+        <span aria-hidden="true" style={{fontSize:15,lineHeight:1,flex:"0 0 auto"}}>{category.icon}</span>
+        <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(13px,1.4vw,15px)",lineHeight:1.15,textAlign:"center",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 0 rgba(0,0,0,.18)"}}>{category.label}</span>
       </div>
       {selected&&(
-        <div className="pop" aria-hidden="true" style={{position:"absolute",top:8,right:8,width:24,height:24,borderRadius:"50%",background:"var(--accent)",color:"#FFFFFF",display:"flex",alignItems:"center",justifyContent:"center",fontSize:13,fontWeight:800,lineHeight:1,boxShadow:"0 0 0 2px var(--surface-strong)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
+        <div className="pop" aria-hidden="true" style={{position:"absolute",top:8,right:8,width:28,height:28,borderRadius:"50%",background:"#22C55E",color:"#FFFFFF",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,boxShadow:"0 0 0 3px #FFFFFF, 0 4px 10px rgba(0,0,0,.25)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
       )}
     </button>
   );
@@ -5740,15 +5742,15 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
 function BoardCategoryArt({id, category, radius}){
   const preview=CATEGORY_PREVIEWS[baseCat(id)]||{};
   const boardSrc = preview.boardSrc || preview.src;
-  // Square art frame, hairline border, art zooms to fill (cover).
+  // Art frame fills its grid cell (tall portrait on the board); art zooms to fill (cover).
   const frameStyle={
     width:"100%",
     height:"100%",
     borderRadius:radius,
     overflow:"hidden",
-    border:"1px solid var(--border)",
+    border:"3px solid rgba(255,255,255,.9)",
     background:preview.boardBg||preview.bg||"var(--surface-strong)",
-    boxShadow:"var(--shadow-1)",
+    boxShadow:"0 10px 24px rgba(20,0,60,.30)",
     display:"flex",
     alignItems:"center",
     justifyContent:"center",
@@ -5810,7 +5812,7 @@ function QRCode({text,size=190}){
 
 const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
 // "Arena" typography: Sora for display/headings, Inter for body. SF system stack stays as the fallback.
-const DISPLAY_STACK="'Sora', "+SF_STACK;
+const DISPLAY_STACK="'Fredoka', 'Sora', "+SF_STACK;
 const BODY_STACK="'Inter', "+SF_STACK;
 const THEME_STORAGE_KEY="trivic-theme-mode";
 const LANG_STORAGE_KEY="trivic-language";
@@ -5892,33 +5894,35 @@ const AR_TRANSLATIONS={
 };
 
 const CSS=`
-  /* ---------- "Paper & Pop" design tokens: flat, bright, one accent, no glass/blur/texture ---------- */
+  /* ---------- "Game Show" design tokens: full-color gradient stage, white cards, chunky type ---------- */
   :root{
     color-scheme:light;
-    --bg:#F6F5F0;
-    --bg-image:radial-gradient(60% 45% at 12% -5%, rgba(91,92,230,.12) 0%, rgba(91,92,230,0) 60%), radial-gradient(45% 35% at 100% 105%, rgba(255,107,107,.12) 0%, rgba(255,107,107,0) 60%);
+    --bg:#5B21B6;
+    --bg-image:radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 60%), linear-gradient(135deg, #4338CA 0%, #7C3AED 32%, #DB2777 66%, #F97316 100%);
+    --on-bg:#FFFFFF;
+    --on-bg-muted:rgba(255,255,255,.78);
     --surface:#FFFFFF;
     --surface-strong:#FFFFFF;
-    --surface-2:#EEECE4;
-    --border:#E4E1D7;
-    --text:#14161C;
-    --text-muted:#6F7480;
-    --accent:#5B5CE6;
+    --surface-2:#F1EFFB;
+    --border:#E6E3F5;
+    --text:#1A1633;
+    --text-muted:#6B6890;
+    --accent:#7C3AED;
     --accent-ink:#FFFFFF;
-    --accent-soft:rgba(91,92,230,.12);
-    --accent-2:#4FA3FF;
-    --accent-3:#FFB020;
-    --danger:#E5484D;
-    --success:#2FB57F;
-    --grad-accent:#5B5CE6;
-    --radius-sm:12px;
-    --radius:16px;
-    --radius-lg:22px;
+    --accent-soft:rgba(124,58,237,.14);
+    --accent-2:#DB2777;
+    --accent-3:#F97316;
+    --danger:#EF4444;
+    --success:#22C55E;
+    --grad-accent:linear-gradient(135deg,#7C3AED 0%,#DB2777 100%);
+    --radius-sm:14px;
+    --radius:20px;
+    --radius-lg:28px;
     --radius-pill:999px;
-    --shadow-1:0 1px 2px rgba(20,22,28,.05), 0 4px 14px rgba(20,22,28,.06);
-    --shadow-2:0 2px 4px rgba(20,22,28,.05), 0 14px 36px rgba(20,22,28,.10);
+    --shadow-1:0 4px 12px rgba(30,10,80,.16);
+    --shadow-2:0 18px 44px rgba(30,10,80,.28);
     --blur:none;
-    --focus-ring:0 0 0 3px rgba(91,92,230,.35);
+    --focus-ring:0 0 0 3px rgba(255,255,255,.55);
     --font-display:${DISPLAY_STACK};
     --font-body:${BODY_STACK};
 
@@ -5929,44 +5933,45 @@ const CSS=`
     --site-bg-size:cover;
     --site-bg-repeat:no-repeat;
 
-    /* Header = flat surface strip with a hairline bottom edge */
-    --header-bg-color:var(--surface);
+    /* Header strips (score bar, sticky category bar) = white strip on the colored stage */
+    --header-bg-color:rgba(255,255,255,.94);
     --header-bg-image:none;
     --header-bg-position:top left;
     --header-bg-size:auto;
     --header-bg-repeat:no-repeat;
-    --header-box-shadow:inset 0 -1px 0 var(--border);
+    --header-box-shadow:0 6px 20px rgba(30,10,80,.18);
     --header-backdrop-filter:none;
   }
   :root.theme-light{
     color-scheme:light;
-    --bg:#F6F5F0;
-    --bg-image:radial-gradient(60% 45% at 12% -5%, rgba(91,92,230,.12) 0%, rgba(91,92,230,0) 60%), radial-gradient(45% 35% at 100% 105%, rgba(255,107,107,.12) 0%, rgba(255,107,107,0) 60%);
+    --bg:#5B21B6;
+    --bg-image:radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.18) 0%, rgba(255,255,255,0) 60%), linear-gradient(135deg, #4338CA 0%, #7C3AED 32%, #DB2777 66%, #F97316 100%);
     --surface:#FFFFFF;
     --surface-strong:#FFFFFF;
-    --surface-2:#EEECE4;
-    --border:#E4E1D7;
-    --text:#14161C;
-    --text-muted:#6F7480;
-    --accent-soft:rgba(91,92,230,.12);
-    --shadow-1:0 1px 2px rgba(20,22,28,.05), 0 4px 14px rgba(20,22,28,.06);
-    --shadow-2:0 2px 4px rgba(20,22,28,.05), 0 14px 36px rgba(20,22,28,.10);
+    --surface-2:#F1EFFB;
+    --border:#E6E3F5;
+    --text:#1A1633;
+    --text-muted:#6B6890;
+    --accent:#7C3AED;
+    --accent-soft:rgba(124,58,237,.14);
+    --header-bg-color:rgba(255,255,255,.94);
   }
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#0F1117;
-    --bg-image:radial-gradient(60% 45% at 12% -5%, rgba(91,92,230,.18) 0%, rgba(91,92,230,0) 60%), radial-gradient(45% 35% at 100% 105%, rgba(255,107,107,.14) 0%, rgba(255,107,107,0) 60%);
-    --surface:#171A22;
-    --surface-strong:#1C2029;
-    --surface-2:#232833;
-    --border:#2B303B;
-    --text:#F4F5F7;
-    --text-muted:#9BA3B3;
-    --accent:#7B7CF0;
-    --accent-soft:rgba(123,124,240,.18);
-    --grad-accent:#7B7CF0;
-    --shadow-1:0 1px 2px rgba(0,0,0,.30), 0 4px 14px rgba(0,0,0,.28);
-    --shadow-2:0 2px 4px rgba(0,0,0,.30), 0 14px 36px rgba(0,0,0,.40);
+    --bg:#1E1B4B;
+    --bg-image:radial-gradient(70% 60% at 0% 0%, rgba(255,255,255,.08) 0%, rgba(255,255,255,0) 60%), linear-gradient(135deg, #1E1B4B 0%, #4C1D95 35%, #831843 70%, #9A3412 100%);
+    --surface:#1B1930;
+    --surface-strong:#201D38;
+    --surface-2:#2C2849;
+    --border:#3B3760;
+    --text:#F5F3FF;
+    --text-muted:#B4B0D6;
+    --accent:#A78BFA;
+    --accent-soft:rgba(167,139,250,.20);
+    --shadow-1:0 4px 12px rgba(0,0,0,.30);
+    --shadow-2:0 18px 44px rgba(0,0,0,.45);
+    --header-bg-color:rgba(24,22,45,.94);
+    --header-box-shadow:0 6px 20px rgba(0,0,0,.35);
   }
 
   *{box-sizing:border-box;margin:0;padding:0;}
@@ -6019,7 +6024,7 @@ const CSS=`
   @keyframes pop{from{transform:scale(.85);opacity:0}to{transform:scale(1);opacity:1}}
   .fadein{animation:fadein .3s ease both;}
   @keyframes fadein{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
-  .page-enter{animation:pageEnter .36s cubic-bezier(.22,.8,.26,1) both;will-change:opacity,transform;}
+  .page-enter{animation:pageEnter .36s cubic-bezier(.22,.8,.26,1) both;will-change:opacity;}
   @keyframes pageEnter{from{opacity:0;transform:translateY(14px) scale(.995)}to{opacity:1;transform:none}}
   @media (prefers-reduced-motion: reduce){
     .page-enter,.pop,.fadein{animation:none;}
@@ -6053,9 +6058,9 @@ const TOP_HEADER_WATERCOLOR_STYLE={
 };
 
 function getInitialThemeMode(){
-  if(typeof window==="undefined") return "dark";
+  if(typeof window==="undefined") return "light";
   const stored=window.localStorage.getItem(THEME_STORAGE_KEY);
-  return stored==="light"?"light":"dark";
+  return stored==="dark"?"dark":"light";
 }
 
 export default function App(){
@@ -6705,6 +6710,7 @@ export default function App(){
 }
 
 function FitToViewport({children}){
+  const isTouch=useIsTouchDevice();
   const contentRef=React.useRef(null);
   const [scale,setScale]=React.useState(1);
   React.useLayoutEffect(()=>{
@@ -6735,6 +6741,8 @@ function FitToViewport({children}){
     ro.observe(el);
     return()=>{cancelAnimationFrame(raf);window.removeEventListener("resize",update);window.removeEventListener("orientationchange",update);ro.disconnect();};
   },[]);
+  // Touch: BoardScreen/question screens lay out for a naturally scrolling page, so never trap them in a fixed, non-scrolling, scaled box.
+  if(isTouch) return children;
   return(
     <div style={{position:"fixed",inset:0,overflow:"hidden",display:"flex",justifyContent:"center",alignItems:"flex-start"}}>
       <div ref={contentRef} style={{width:"100vw",transform:`scale(${scale})`,transformOrigin:"top center"}}>
@@ -6801,7 +6809,7 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
   const turnColor=TEAM_COLORS[curTeam%TEAM_COLORS.length];
   const showTurnBanner=showTurnText&&teams.length>=2;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",padding:isPhone?`8px ${padX}px 8px 74px`:`10px ${padX}px`,width:"100%",maxWidth:"100vw",overflow:"hidden",gap:isPhone?6:8}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",padding:isPhone?`8px ${padX}px 8px 74px`:`10px ${padX}px`,width:"calc(100% - 24px)",maxWidth:"calc(100vw - 24px)",margin:"10px 12px 0",borderRadius:22,boxShadow:"var(--shadow-2)",overflow:"hidden",gap:isPhone?6:8}}>
       {showTurnBanner&&(
         <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:8,minWidth:0}}>
           <span aria-hidden="true" style={{width:8,height:8,borderRadius:999,background:turnColor,flex:"0 0 auto"}}/>
@@ -6810,12 +6818,12 @@ function ScoreBar({teams,scores,curTeam,onAdjustScore,showTurnText=false}){
           </div>
         </div>
       )}
-      <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between",width:"100%",gap:isPhone?4:8}}>
+      <div style={{display:"flex",alignItems:"flex-start",justifyContent:"space-between",width:"100%",gap:isPhone?4:8,flexWrap:"wrap"}}>
       {teams.map((t,i)=>{
         const tc=TEAM_COLORS[i%TEAM_COLORS.length];
         const active=i===curTeam;
         return(
-        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:1,minWidth:0,gap:isPhone?5:8}}>
+        <div key={i} style={{display:"flex",flexDirection:"column",alignItems:"center",flex:isPhone?"1 1 104px":"1 1 132px",minWidth:0,gap:isPhone?5:8}}>
           <div style={getTeamPillStyle(tc,active,{fontSize:pillFont,padding:pillPad,letterSpacing:isPhone?".05em":".08em",minWidth:pillMinW})}>{t}</div>
           <div style={{display:"flex",alignItems:"center",gap:innerGap}}>
             <button className="tap hit44" aria-label={`${t}: minus 100`} onClick={()=>onAdjustScore?.(i,-100)} style={getGlassCircleButtonStyle({tint:tc,size:btnSize,fontSize:btnFont})}><span style={{position:"relative",top:-1}}>-</span></button>
@@ -6854,7 +6862,7 @@ function BoardHeader({teams,scores,curTeam,allDone,onGameOver,onAdjustScore,them
   const turnFont=isPhone?"clamp(16px,4.6vw,20px)":"clamp(20px,2.4vw,28px)";
   const showVs=teams.length===2;
   return(
-    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",gap:isPhone?8:10,padding:headerPad,width:"100%",maxWidth:"100vw",overflow:"hidden"}}>
+    <div style={{...TOP_HEADER_WATERCOLOR_STYLE,position:"relative",zIndex:2,display:"flex",flexDirection:"column",gap:isPhone?8:10,padding:headerPad,width:"calc(100% - 24px)",maxWidth:"calc(100vw - 24px)",margin:"10px 12px 0",borderRadius:22,boxShadow:"var(--shadow-2)",overflow:"hidden"}}>
       {/* Turn banner — always stacked ABOVE the team pills, never overlaid. */}
       <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,minWidth:0,flexWrap:"wrap"}}>
         <span aria-hidden="true" style={{width:10,height:10,borderRadius:999,background:turnColor,flex:"0 0 auto"}}/>
@@ -6983,10 +6991,11 @@ const ARENA_CARD_TOPLINE_STYLE={
 };
 const ARENA_WORDMARK_STYLE={
   fontFamily:DISPLAY_STACK,
-  fontWeight:800,
+  fontWeight:700,
   lineHeight:1,
-  letterSpacing:"-.03em",
-  color:"var(--text)",
+  letterSpacing:"-.02em",
+  color:"var(--on-bg)",
+  textShadow:"0 4px 0 rgba(0,0,0,.18), 0 14px 30px rgba(0,0,0,.25)",
   display:"inline-block",
   paddingBottom:".06em",
 };
@@ -7060,7 +7069,7 @@ function AuthScreen({mode,setMode,username,setUsername,password,setPassword,erro
       <style>{CSS}</style>
       <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:6}}>
         <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(52px,14vw,88px)"}}>TRIVIC</div>
-        <div style={ARENA_LABEL_STYLE}>Party trivia arena</div>
+        <div style={{...ARENA_LABEL_STYLE,color:"var(--on-bg-muted)",fontSize:13,letterSpacing:".16em"}}>Party trivia arena</div>
       </div>
       <div style={{...ARENA_CARD_STYLE,maxWidth:420,padding:"24px 20px 22px",display:"flex",flexDirection:"column",gap:16}}>
         <div style={ARENA_CARD_TOPLINE_STYLE}/>
@@ -7108,35 +7117,34 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
             <span style={{overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap",maxWidth:140}}>{accountUser.username}</span>
           </div>
         )}
-        <button className="tap" onClick={onLogout} aria-label="Sign out" style={{...getGlassButtonStyle({tint:"#EF4444",textColor:"#1E293B",fontSize:13,padding:"0 14px",borderRadius:999,minHeight:44,subtle:true,borderWidth:1}),backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",flex:"0 0 auto"}}>Sign out</button>
+        <button className="tap" onClick={onLogout} aria-label="Sign out" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",minHeight:44,padding:"0 16px",borderRadius:999,background:"rgba(255,255,255,.18)",border:"1.5px solid rgba(255,255,255,.55)",color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:600,cursor:"pointer",flex:"0 0 auto"}}>Sign out</button>
       </div>
 
       {/* Wordmark + heading */}
-      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:4}}>
-        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(40px,9vw,64px)"}}>TRIVIC</div>
-        <div style={ARENA_LABEL_STYLE}>Set up your game</div>
+      <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:10}}>
+        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(56px,11vw,92px)"}}>TRIVIC</div>
+        <div style={{display:"inline-flex",alignItems:"center",gap:8,padding:"7px 16px",borderRadius:999,background:"rgba(255,255,255,.18)",border:"1.5px solid rgba(255,255,255,.5)",color:"var(--on-bg)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:600,letterSpacing:".14em",textTransform:"uppercase"}}>Set up your game</div>
       </div>
 
-      <div style={{width:"100%",maxWidth:560,display:"flex",flexDirection:"column",gap:14}}>
-        {/* Teams card */}
-        <section style={{...ARENA_CARD_STYLE,padding:"22px 18px 18px",display:"flex",flexDirection:"column",gap:14}}>
-          <div style={ARENA_CARD_TOPLINE_STYLE}/>
-          <div style={{display:"flex",alignItems:"baseline",justifyContent:"space-between",gap:10}}>
-            <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(20px,3.2vw,28px)",fontWeight:700,letterSpacing:"-.01em",color:"var(--text)",lineHeight:1.1}}>Teams</h2>
-            <span style={ARENA_LABEL_STYLE}>{teams.length} of {TEAM_COLORS.length}</span>
+      <div style={{width:"100%",maxWidth:660,display:"flex",flexDirection:"column",gap:16}}>
+        {/* Teams card: one bold color block per team, number badge + centered name */}
+        <section style={{...ARENA_CARD_STYLE,padding:"22px 20px 20px",display:"flex",flexDirection:"column",gap:16}}>
+          <div style={{display:"flex",alignItems:"center",justifyContent:"space-between",gap:10}}>
+            <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(22px,3.4vw,30px)",fontWeight:700,color:"var(--text)",lineHeight:1.1}}>Teams</h2>
+            <span style={{display:"inline-flex",alignItems:"center",padding:"5px 12px",borderRadius:999,background:"var(--surface-2)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:600,fontVariantNumeric:"tabular-nums"}}>{teams.length} / {TEAM_COLORS.length}</span>
           </div>
-          <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill, minmax(220px, 1fr))",gap:10}}>
+          <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill, minmax(150px, 1fr))",gap:12}}>
             {teams.map((t,i)=>{
               const tc=TEAM_COLORS[i%TEAM_COLORS.length];
               return(
-                <div key={i} style={{display:"flex",alignItems:"center",gap:8,minHeight:52,padding:"4px 4px 4px 12px",borderRadius:"var(--radius-pill)",background:withAlpha(tc,"24"),border:`1px solid ${withAlpha(tc,"80")}`,boxShadow:`inset 0 1px 0 rgba(255,255,255,.10), 0 0 0 0 ${withAlpha(tc,"40")}`,minWidth:0}}>
-                  <span aria-hidden="true" style={{width:12,height:12,borderRadius:"50%",background:tc,boxShadow:`0 0 0 3px ${withAlpha(tc,"40")}`,flex:"0 0 auto"}}/>
+                <div key={i} style={{position:"relative",display:"flex",flexDirection:"column",alignItems:"center",gap:10,padding:"16px 10px 12px",borderRadius:"var(--radius)",background:`linear-gradient(180deg, ${lightenHex(tc,.10)} 0%, ${tc} 55%, ${darkenHex(tc,.12)} 100%)`,boxShadow:`0 6px 0 ${darkenHex(tc,.30)}, 0 12px 24px ${withAlpha(tc,"55")}`,border:"2px solid rgba(255,255,255,.4)",minWidth:0}}>
+                  <span aria-hidden="true" style={{width:48,height:48,borderRadius:"50%",background:"rgba(255,255,255,.22)",border:"2px solid rgba(255,255,255,.75)",display:"inline-flex",alignItems:"center",justifyContent:"center",fontFamily:DISPLAY_STACK,fontSize:20,fontWeight:700,color:"#FFFFFF",textShadow:"0 2px 0 rgba(0,0,0,.2)",flex:"0 0 auto"}}>{i+1}</span>
                   <input
                     value={t}
                     onChange={e=>{const n=[...teams];n[i]=e.target.value;setTeams(n);}}
                     placeholder={`Team ${i+1}`}
                     aria-label={`Team ${i+1} name`}
-                    style={{flex:1,minWidth:0,width:"100%",minHeight:44,padding:"8px 6px",background:"transparent",border:"none",borderRadius:"var(--radius-pill)",fontFamily:BODY_STACK,fontSize:16,fontWeight:700,color:"var(--text)",textOverflow:"ellipsis"}}
+                    style={{width:"100%",minWidth:0,minHeight:42,padding:"6px 10px",textAlign:"center",background:"rgba(255,255,255,.94)",border:"none",borderRadius:12,fontFamily:DISPLAY_STACK,fontSize:16,fontWeight:600,color:"#1A1633",textOverflow:"ellipsis",boxShadow:"inset 0 2px 4px rgba(0,0,0,.08)"}}
                   />
                   {teams.length>2&&(
                     <button
@@ -7144,7 +7152,7 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
                       type="button"
                       aria-label={`Remove team ${i+1}`}
                       onClick={()=>{const n=teams.filter((_,j)=>j!==i);setTeams(n);}}
-                      style={{width:44,height:44,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",flex:"0 0 auto",background:"rgba(239,68,68,.14)",border:"1px solid rgba(239,68,68,.40)",color:"var(--danger)",fontFamily:DISPLAY_STACK,fontSize:16,fontWeight:800,lineHeight:1,cursor:"pointer"}}
+                      style={{position:"absolute",top:6,right:6,width:28,height:28,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",background:"rgba(0,0,0,.28)",border:"1.5px solid rgba(255,255,255,.6)",color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontSize:15,fontWeight:700,lineHeight:1,cursor:"pointer"}}
                     >×</button>
                   )}
                 </div>
@@ -7155,31 +7163,40 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
                 className="tap"
                 type="button"
                 onClick={()=>setTeams(prev=>[...prev,`Team ${prev.length+1}`])}
-                style={{display:"inline-flex",alignItems:"center",justifyContent:"center",gap:8,minHeight:52,padding:"8px 16px",borderRadius:"var(--radius-pill)",background:"rgba(148,163,184,.10)",border:"1px dashed rgba(148,163,184,.55)",color:"var(--text-muted)",fontFamily:BODY_STACK,fontSize:15,fontWeight:700,cursor:"pointer"}}
+                style={{display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:8,minHeight:136,padding:12,borderRadius:"var(--radius)",background:"var(--surface-2)",border:"2px dashed var(--border)",color:"var(--text-muted)",fontFamily:DISPLAY_STACK,fontSize:15,fontWeight:600,cursor:"pointer"}}
               >
-                <span aria-hidden="true" style={{fontFamily:DISPLAY_STACK,fontSize:18,fontWeight:800,lineHeight:1}}>+</span>
+                <span aria-hidden="true" style={{width:44,height:44,borderRadius:"50%",background:"var(--accent-soft)",color:"var(--accent)",display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:24,fontWeight:700,lineHeight:1}}>+</span>
                 Add team
               </button>
             )}
           </div>
         </section>
 
-        {/* Mode card */}
-        <section style={{...ARENA_CARD_STYLE,padding:"22px 18px 18px",display:"flex",flexDirection:"column",gap:14}}>
-          <div style={ARENA_CARD_TOPLINE_STYLE}/>
-          <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(20px,3.2vw,28px)",fontWeight:700,letterSpacing:"-.01em",color:"var(--text)",lineHeight:1.1}}>Mode</h2>
-          <div role="radiogroup" aria-label="Game mode" style={{...ARENA_SEGMENT_WRAP_STYLE,gridTemplateColumns:"1fr 1fr"}}>
-            {[["team","Teams"],["ffa","Free-for-all"]].map(([mode,label])=>(
-              <button key={mode} type="button" role="radio" aria-checked={gameMode===mode} className="tap" onClick={()=>setGameMode(mode)} style={arenaSegmentStyle(gameMode===mode)}>{label}</button>
-            ))}
+        {/* Mode card: two big option tiles */}
+        <section style={{...ARENA_CARD_STYLE,padding:"22px 20px 20px",display:"flex",flexDirection:"column",gap:16}}>
+          <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(22px,3.4vw,30px)",fontWeight:700,color:"var(--text)",lineHeight:1.1}}>Mode</h2>
+          <div role="radiogroup" aria-label="Game mode" style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:12}}>
+            {[
+              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. Wrong answer costs half.",grad:["#3B82F6","#1D4ED8"]},
+              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. Wrong answer costs full.",grad:["#F97316","#C2410C"]},
+            ].map(m=>{
+              const active=gameMode===m.id;
+              return(
+                <button key={m.id} type="button" role="radio" aria-checked={active} className="tap" onClick={()=>setGameMode(m.id)}
+                  style={{display:"flex",flexDirection:"column",alignItems:"center",gap:6,padding:"18px 12px 14px",borderRadius:"var(--radius)",background:active?`linear-gradient(180deg, ${m.grad[0]} 0%, ${m.grad[1]} 100%)`:"var(--surface-2)",color:active?"#FFFFFF":"var(--text)",border:active?"2px solid rgba(255,255,255,.5)":"2px solid transparent",boxShadow:active?`0 6px 0 ${darkenHex(m.grad[1],.2)}, 0 12px 24px ${withAlpha(m.grad[0],"55")}`:"none",cursor:"pointer",textAlign:"center",transform:active?"translateY(-2px)":"none",transition:"background .18s ease, box-shadow .18s ease, transform .18s ease",minWidth:0}}>
+                  <span aria-hidden="true" style={{fontSize:32,lineHeight:1}}>{m.emoji}</span>
+                  <span style={{fontFamily:DISPLAY_STACK,fontSize:19,fontWeight:700,lineHeight:1.1}}>{m.label}</span>
+                  <span style={{fontSize:12.5,fontWeight:500,opacity:active?.92:.7,lineHeight:1.35}}>{m.desc}</span>
+                </button>
+              );
+            })}
           </div>
-          <p style={{fontSize:14,lineHeight:1.5,color:"var(--text-muted)",fontWeight:500}}>{modeCopy}</p>
         </section>
       </div>
 
-      {/* Sticky bottom CTA */}
-      <div style={{position:"sticky",bottom:0,zIndex:10,width:"100%",marginTop:"auto",padding:"14px 0 calc(16px + env(safe-area-inset-bottom, 0px))",display:"flex",justifyContent:"center",background:"linear-gradient(180deg, rgba(7,10,18,0) 0%, var(--bg) 70%)"}}>
-        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#7C3AED",textColor:"#0F172A",fontSize:17,padding:"14px 28px",borderRadius:"var(--radius)",minHeight:54}),width:"100%",maxWidth:560,fontFamily:DISPLAY_STACK,letterSpacing:".01em"}}>
+      {/* Sticky bottom CTA: white pill pops on the colored stage */}
+      <div style={{position:"sticky",bottom:0,zIndex:10,width:"100%",marginTop:"auto",padding:"14px 0 calc(16px + env(safe-area-inset-bottom, 0px))",display:"flex",justifyContent:"center"}}>
+        <button className="tap" onClick={onNext} style={{width:"100%",maxWidth:660,minHeight:58,padding:"14px 28px",borderRadius:999,background:"#FFFFFF",color:"var(--accent)",border:"2px solid rgba(255,255,255,.9)",boxShadow:"0 6px 0 rgba(0,0,0,.18), 0 16px 34px rgba(20,0,60,.35)",fontFamily:DISPLAY_STACK,fontSize:19,fontWeight:700,cursor:"pointer",display:"inline-flex",alignItems:"center",justifyContent:"center",gap:8}}>
           Choose Categories <span aria-hidden="true">→</span>
         </button>
       </div>
@@ -7203,7 +7220,7 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
   });
   const removeInstance=instanceId=>setSelCats(p=>p.filter(x=>x!==instanceId));
   const isPhone=viewport.width<480;
-  const cardMin=isPhone?120:150;
+  const cardMin=isPhone?130:170;
   const canStart=selCats.length>0&&usageReady&&!isSyncingUsage;
   const startLabel=!usageReady
     ?(isPhone?"Loading...":"Loading account pool...")
@@ -7306,16 +7323,17 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
           const selInGroup=gCats.filter(id=>selCats.some(x=>baseCat(x)===id)).length;
           return(
             <section key={group.label} style={{width:"min(100%, 1500px)",display:"flex",flexDirection:"column",gap:12,minWidth:0}}>
-              <div style={{display:"flex",alignItems:"baseline",gap:10,minWidth:0,padding:"0 2px"}}>
-                <span style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:"clamp(17px,2.2vw,21px)",lineHeight:1.1,color:"var(--text)",letterSpacing:"-.02em",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0}}>{group.label}</span>
-                <span style={{...ARENA_LABEL_STYLE,fontSize:11,fontVariantNumeric:"tabular-nums",whiteSpace:"nowrap"}}>{selInGroup}/{gCats.length}</span>
-                <span aria-hidden="true" style={{flex:1}}/>
-                <button className="tap hit44" onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(baseCat(x)))):setSelCats(p=>[...p,...gCats.filter(id=>!p.some(x=>baseCat(x)===id))])}
-                  style={{background:"transparent",border:"none",padding:"6px 4px",fontFamily:BODY_STACK,fontSize:13,fontWeight:700,color:allSel?"var(--danger)":"var(--accent)",whiteSpace:"nowrap",flex:"0 0 auto",cursor:"pointer"}}>
-                  {allSel?"Remove all":"Add all"}
-                </button>
+              <div style={{display:"flex",flexDirection:"column",alignItems:"center",gap:8,minWidth:0,padding:"6px 2px 2px"}}>
+                <div style={{display:"flex",alignItems:"center",justifyContent:"center",gap:10,minWidth:0,flexWrap:"wrap"}}>
+                  <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(22px,3vw,30px)",lineHeight:1.1,color:"var(--on-bg)",textShadow:"0 3px 0 rgba(0,0,0,.16), 0 10px 24px rgba(0,0,0,.25)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0,textAlign:"center"}}>{group.label}</span>
+                  <span style={{display:"inline-flex",alignItems:"center",padding:"4px 10px",borderRadius:999,background:"rgba(255,255,255,.22)",border:"1.5px solid rgba(255,255,255,.5)",color:"var(--on-bg)",fontFamily:DISPLAY_STACK,fontSize:12,fontWeight:700,fontVariantNumeric:"tabular-nums",whiteSpace:"nowrap"}}>{selInGroup}/{gCats.length}</span>
+                  <button className="tap hit44" onClick={()=>allSel?setSelCats(p=>p.filter(x=>!gCats.includes(baseCat(x)))):setSelCats(p=>[...p,...gCats.filter(id=>!p.some(x=>baseCat(x)===id))])}
+                    style={{display:"inline-flex",alignItems:"center",padding:"6px 14px",borderRadius:999,background:allSel?"rgba(239,68,68,.9)":"rgba(255,255,255,.95)",border:"1.5px solid rgba(255,255,255,.6)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:700,color:allSel?"#FFFFFF":"var(--accent)",whiteSpace:"nowrap",flex:"0 0 auto",cursor:"pointer",boxShadow:"var(--shadow-1)"}}>
+                    {allSel?"Remove all":"Add all"}
+                  </button>
+                </div>
               </div>
-              <div style={{display:"grid",gridTemplateColumns:`repeat(auto-fill, minmax(${cardMin}px, 1fr))`,gap:isPhone?8:12,width:"100%",minWidth:0}}>
+              <div style={{display:"grid",gridTemplateColumns:`repeat(auto-fit, minmax(${cardMin}px, ${isPhone?"1fr":"210px"}))`,justifyContent:"center",gap:isPhone?10:16,width:"100%",minWidth:0}}>
                 {gCats.map(id=>{const c=BANK[id];const count=countInstances(selCats,id);const sel=count>0;
                   return(
                     <div key={id} style={{position:"relative",minWidth:0}}>
@@ -7365,7 +7383,8 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const compactBoard=viewport.height<920 || colCount>4;
   const bodyPad=isPhone?10:isTablet?14:18;
   const colGap=isPhone?10:isTablet?14:18;
-  const colMin=isPhone?150:isTablet?180:200;
+  const colMin=isPhone?196:isTablet?208:214;
+  const tileMax=isPhone?110:compactBoard?140:172;
   const boardUsableWidth=Math.max(280,(viewport.width||1280)-(bodyPad*2));
   const boardFits=(colCount*colMin)+(colGap*(colCount-1))<=boardUsableWidth;
   const colWidth=boardFits?Math.floor((boardUsableWidth-(colGap*(colCount-1)))/colCount):colMin;
@@ -7373,15 +7392,15 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const artSize=Math.max(72,Math.min(colWidth-24,isPhone?112:compactBoard?136:172));
   const artRadius=isPhone?12:14;
   const labelFont=isPhone?12:compactBoard?13:15;
-  const tileMin=isPhone?52:compactBoard?60:72;
-  const tileFont=isPhone?20:compactBoard?24:30;
+  const tileMin=isPhone?56:compactBoard?64:78;
+  const tileFont=isPhone?22:compactBoard?26:32;
   const tileGap=isPhone?6:8;
   const headerBodyGap=isPhone?8:10;
   const fillHeight=!isTouch; // desktop: stretch tiles to fill the viewport; touch: natural height, page scrolls
-  // Paper & Pop tiles: solid tier color, bold number, used = quiet empty slot.
+  // Game-show tiles: vertical tier gradient, chunky 3D bottom edge, big rounded display numbers.
   const tileStyle=(pts,used)=>{
-    const c=PT_COLORS[pts]||"#5B5CE6";
-    const ink=PT_INK[pts]||"#FFFFFF";
+    const c=PT_COLORS[pts]||"#A855F7";
+    const c2=PT_COLORS_2[pts]||darkenHex(c,.25);
     return{
       width:"100%",
       height:"100%",
@@ -7389,21 +7408,21 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       minHeight:tileMin,
       padding:"6px 4px",
       borderRadius:"var(--radius)",
-      border:used?"1px dashed var(--border)":"1px solid transparent",
-      background:used?"transparent":c,
-      color:used?"var(--text-muted)":ink,
+      border:used?"2px dashed rgba(255,255,255,.38)":"2px solid rgba(255,255,255,.28)",
+      background:used?"rgba(255,255,255,.10)":`linear-gradient(180deg, ${lightenHex(c,.10)} 0%, ${c} 45%, ${c2} 100%)`,
+      color:used?"rgba(255,255,255,.55)":"#FFFFFF",
       fontFamily:DISPLAY_STACK,
-      fontWeight:800,
+      fontWeight:700,
       fontSize:tileFont,
-      letterSpacing:"-.02em",
+      letterSpacing:"0",
       fontVariantNumeric:"tabular-nums",
       lineHeight:1,
+      textShadow:used?"none":"0 2px 0 rgba(0,0,0,.22)",
       display:"flex",
       alignItems:"center",
       justifyContent:"center",
-      boxShadow:used?"none":"var(--shadow-1)",
+      boxShadow:used?"none":`0 5px 0 ${darkenHex(c2,.15)}, 0 12px 22px rgba(20,0,60,.28)`,
       cursor:used?"default":"pointer",
-      opacity:used?.45:1,
       pointerEvents:used?"none":"auto",
       transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, opacity .3s ease, background .3s ease",
     };
@@ -7425,19 +7444,17 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
           {selCats.map(catId=>{
             const c=BANK[baseCat(catId)];if(!c)return null;
             return(
-              <div key={catId} style={{minWidth:0,minHeight:0,display:"flex",flexDirection:"column",gap:headerBodyGap}}>
-                {/* Column header: square category art + label — no container chrome */}
-                <div style={{position:"relative",display:"flex",flexDirection:"column",alignItems:"center",gap:8,padding:"4px 4px 2px",minWidth:0,flex:"0 0 auto"}}>
-                  <div style={{width:artSize,height:artSize,maxWidth:"100%",aspectRatio:"1 / 1",flex:"0 0 auto"}}>
+              <div key={catId} style={{minWidth:0,minHeight:0,display:"flex",flexDirection:"column",justifyContent:"center",gap:headerBodyGap}}>
+                {/* Category name pill in the category color, centered above its block */}
+                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 12px":"7px 16px",borderRadius:999,background:c.color||"#7C3AED",color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,lineHeight:1.15,textAlign:"center",boxShadow:"0 4px 0 rgba(0,0,0,.18), var(--shadow-1)",border:"2px solid rgba(255,255,255,.35)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
+                  <span aria-hidden="true" style={{marginRight:6}}>{c.icon}</span>{c.label}
+                </div>
+                {/* Tiles flank the category art: [200][art][200] / [400][art][400] / [600][art][600]. FFA: [art][tile] x5 */}
+                <div style={{display:"grid",gridTemplateColumns:isFFA?`minmax(0,1.3fr) minmax(0,1fr)`:`minmax(0,1fr) minmax(0,1.45fr) minmax(0,1fr)`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, ${tileMax}px))`,gap:tileGap,minHeight:0,flex:"0 0 auto"}}>
+                  <div style={{gridColumn:isFFA?1:2,gridRow:`1 / span ${activePV.length}`,minHeight:0,minWidth:0}}>
                     <BoardCategoryArt id={catId} category={c} radius={artRadius}/>
                   </div>
-                  <div style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,color:"var(--text)",lineHeight:1.15,textAlign:"center",wordBreak:"break-word",minWidth:0,maxWidth:"100%",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden"}}>
-                    <span aria-hidden="true" style={{marginRight:4}}>{c.icon}</span>{c.label}
-                  </div>
-                </div>
-                {/* Tiles: one row per point tier; team mode has 2 copies per tier side-by-side, FFA has 1 */}
-                <div style={{display:"grid",gridTemplateColumns:`repeat(${activeTilesPerTier}, minmax(0,1fr))`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, 1fr))`,gap:tileGap,minHeight:0,flex:fillHeight?"1 1 auto":"0 0 auto"}}>
-                  {activePV.map((pts)=>{
+                  {activePV.map((pts,rowIdx)=>{
                     const slots=board[catId]?.[pts]||Array.from({length:activeTilesPerTier},()=>false);
                     const shown=isFFA?slots.slice(0,1):slots;
                     return shown.map((used,idx)=>(
@@ -7447,7 +7464,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
                         aria-disabled={used?"true":undefined}
                         aria-label={used?`${c.label} ${pts} (used)`:`${c.label} for ${pts}`}
                         onClick={()=>!used&&onPick(catId,pts,idx)}
-                        style={tileStyle(pts,used)}
+                        style={{...tileStyle(pts,used),gridColumn:isFFA?2:(idx===0?1:3),gridRow:rowIdx+1}}
                       >
                         {pts}
                       </button>
@@ -7524,7 +7541,7 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
   });
   return(
     <div className="fadein" style={{display:"flex",flexDirection:"column",alignItems:"center",gap:8,width:"100%",maxWidth:compact?720:560,minWidth:0}}>
-      <div className="label" style={{textAlign:"center"}}>Award points to</div>
+      <div className="label" style={{textAlign:"center",color:"var(--on-bg-muted)"}}>Award points to</div>
       <div style={trackStyle} role="group" aria-label="Award points to">
         {teams.map((t,i)=>{
           const tc=TEAM_COLORS[i%TEAM_COLORS.length];
@@ -7645,9 +7662,10 @@ const QUESTION_HEADER_ICON_STYLE={fontSize:"clamp(20px,3.4vw,30px)",lineHeight:1
 
 const QUESTION_HEADER_TITLE_STYLE={
   fontFamily:DISPLAY_STACK,
-  fontWeight:800,
-  fontSize:"clamp(20px,3.2vw,28px)",
-  color:"var(--text)",
+  fontWeight:700,
+  fontSize:"clamp(22px,3.4vw,30px)",
+  color:"var(--on-bg)",
+  textShadow:"0 2px 10px rgba(0,0,0,.25)",
   letterSpacing:"-.01em",
   lineHeight:1.1,
   textAlign:"center",
@@ -7737,7 +7755,7 @@ const QUESTION_TIMER_SLOT_STYLE={
 const QUESTION_HINT_STYLE={
   fontSize:15,
   fontWeight:600,
-  color:"var(--text-muted)",
+  color:"var(--on-bg-muted)",
   letterSpacing:.1,
   lineHeight:1.4,
   textAlign:"center",
@@ -7824,7 +7842,7 @@ const QUESTION_KICKER_STYLE={
   fontWeight:700,
   letterSpacing:".08em",
   textTransform:"uppercase",
-  color:"var(--text-muted)",
+  color:"var(--on-bg-muted)",
   lineHeight:1.3,
   textAlign:"center",
 };
@@ -7840,7 +7858,7 @@ const QUESTION_ANSWER_LABEL_STYLE=(pc)=>({
   fontWeight:700,
   letterSpacing:".08em",
   textTransform:"uppercase",
-  color:pc,
+  color:"var(--text-muted)",
   marginBottom:8,
 });
 
@@ -8042,7 +8060,7 @@ function getGlassButtonStyle({
       ...base,
       background:isNeutral?"var(--surface-2)":withAlpha(tint,"1F"),
       boxShadow:ring,
-      color:isDanger?"var(--danger)":isNeutral?"var(--text)":darkenHex(tint,.12),
+      color:isDanger?"var(--danger)":"var(--text)",
     };
   }
   const solid=isAccent?"var(--accent)":tint;
@@ -8098,36 +8116,42 @@ function QuestionDecor({accent="#A855F7"}){
 }
 
 const QUESTION_TIMER_START_BUTTON_STYLE={
-  ...getGlassButtonStyle({
-    tint:"#7C3AED",
-    textColor:"#FFFFFF",
-    padding:"6px 14px",
-    borderRadius:999,
-    fontSize:10,
-    fontWeight:800,
-    subtle:false,
-  }),
-  minHeight:26,
+  display:"inline-flex",
+  alignItems:"center",
+  justifyContent:"center",
+  padding:"6px 16px",
+  borderRadius:999,
+  background:"#22C55E",
+  border:"1.5px solid rgba(255,255,255,.6)",
+  color:"#FFFFFF",
+  fontFamily:DISPLAY_STACK,
+  fontSize:11,
+  fontWeight:700,
+  minHeight:28,
   lineHeight:1,
   textTransform:"uppercase",
   letterSpacing:".08em",
-  fontFamily:DISPLAY_STACK,
+  boxShadow:"0 3px 0 #15803D",
+  cursor:"pointer",
 };
 
 const QUESTION_TIMER_RESET_BUTTON_STYLE={
-  ...getGlassButtonStyle({
-    tint:"#64748B",
-    textColor:"#0F172A",
-    padding:"5px 12px",
-    borderRadius:999,
-    fontSize:9,
-    fontWeight:700,
-    subtle:true,
-  }),
-  minHeight:24,
+  display:"inline-flex",
+  alignItems:"center",
+  justifyContent:"center",
+  padding:"6px 14px",
+  borderRadius:999,
+  background:"rgba(255,255,255,.22)",
+  border:"1.5px solid rgba(255,255,255,.55)",
+  color:"#FFFFFF",
+  fontFamily:DISPLAY_STACK,
+  fontSize:11,
+  fontWeight:700,
+  minHeight:28,
   lineHeight:1,
   textTransform:"uppercase",
   letterSpacing:".08em",
+  cursor:"pointer",
 };
 
 // Timer disc: flat white disc, single accent-colored ring.
@@ -8200,32 +8224,17 @@ function QuestionTimer({tile,paused=false,manualStart=false}){
           <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke="var(--surface-2)" strokeWidth={stroke}/>
           <circle cx={size/2} cy={size/2} r={radius} fill="none" stroke={progress<0.2?"var(--danger)":"var(--accent)"} strokeWidth={stroke} strokeLinecap="round" strokeDasharray={circumference} strokeDashoffset={dashOffset} style={{transition:"stroke-dashoffset .1s linear, stroke .3s ease"}}/>
         </svg>
-        <button
-          type="button"
-          className="tap hit44"
-          onClick={handleReset}
-          aria-label="Reset timer"
-          style={{...QUESTION_TIMER_RESET_BUTTON_STYLE,position:"absolute",top:18,left:"50%",transform:"translateX(-50%)",zIndex:2}}
-        >
-          Reset
-        </button>
-        <div style={{position:"absolute",inset:0,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:2,textAlign:"center",pointerEvents:"none"}}>
-          <div style={{height:18}}/>
-          <div style={{fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:34,lineHeight:1,color:"var(--text)",fontVariantNumeric:"tabular-nums",letterSpacing:"-.02em"}}>{displaySeconds}</div>
-          <div style={{fontSize:10,fontWeight:700,letterSpacing:".08em",color:"var(--text-muted)",textTransform:"uppercase"}}>sec</div>
-          <div style={{height:18}}/>
+        <div style={{position:"absolute",inset:0,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:0,textAlign:"center",pointerEvents:"none"}}>
+          <div style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:40,lineHeight:1,color:"var(--text)",fontVariantNumeric:"tabular-nums"}}>{displaySeconds}</div>
+          <div style={{fontSize:10,fontWeight:700,letterSpacing:".1em",color:"var(--text-muted)",textTransform:"uppercase",marginTop:2}}>sec</div>
         </div>
+      </div>
+      {/* Controls sit under the disc — never overlapping the ring */}
+      <div style={{display:"flex",justifyContent:"center",gap:8,marginTop:8}}>
         {manualStart && !started && remainingMs>0 && (
-          <button
-            type="button"
-            className="tap hit44"
-            onClick={handleStart}
-            aria-label="Start timer"
-            style={{...QUESTION_TIMER_START_BUTTON_STYLE,position:"absolute",bottom:16,left:"50%",transform:"translateX(-50%)",zIndex:2}}
-          >
-            Start
-          </button>
+          <button type="button" className="tap hit44" onClick={handleStart} aria-label="Start timer" style={QUESTION_TIMER_START_BUTTON_STYLE}>Start</button>
         )}
+        <button type="button" className="tap hit44" onClick={handleReset} aria-label="Reset timer" style={QUESTION_TIMER_RESET_BUTTON_STYLE}>Reset</button>
       </div>
     </div>
   );
@@ -8303,9 +8312,9 @@ function LifelineRail({lifelines,curTeam,onUseLifeline,activeDoublePoints,timerP
           color:"#FFFFFF",
           boxShadow:"var(--shadow-1)",
         }:{
-          background:withAlpha(def.tint,"1F"),
-          color:darkenHex(def.tint,.1),
-          boxShadow:"none",
+          background:"rgba(255,255,255,.92)",
+          color:darkenHex(def.tint,.15),
+          boxShadow:"0 3px 0 rgba(0,0,0,.14), var(--shadow-1)",
         };
         return(
           <button
@@ -8745,8 +8754,8 @@ function GameOverScreen({teams,scores,onRematch,onNewGame}){
     <div style={{...ARENA_PAGE_STYLE,justifyContent:"center",padding:"84px 16px 32px",gap:18}}>
       <style>{CSS}</style>
       <div style={{textAlign:"center",display:"flex",flexDirection:"column",alignItems:"center",gap:4}}>
-        <div style={ARENA_LABEL_STYLE}>Final results</div>
-        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(28px,5vw,44px)"}}>GAME OVER</div>
+        <div style={{...ARENA_LABEL_STYLE,color:"var(--on-bg-muted)"}}>Final results</div>
+        <div style={{...ARENA_WORDMARK_STYLE,fontSize:"clamp(34px,6vw,56px)"}}>GAME OVER</div>
       </div>
 
       {/* Winner card with confetti-like gradient glow */}

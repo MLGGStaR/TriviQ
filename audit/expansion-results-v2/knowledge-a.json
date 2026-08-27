@@ -1,0 +1,2290 @@
+{
+  "general": {
+    "200": [
+      {
+        "q": "How many squares are on a standard chessboard?",
+        "a": "64"
+      },
+      {
+        "q": "What is the only even prime number?",
+        "a": "2"
+      },
+      {
+        "q": "How many keys does a standard full-size piano have?",
+        "a": "88"
+      },
+      {
+        "q": "What is the Roman numeral for 40?",
+        "a": "XL"
+      },
+      {
+        "q": "How many cards are in a standard deck, not counting jokers?",
+        "a": "52"
+      },
+      {
+        "q": "How many degrees do the interior angles of a triangle add up to?",
+        "a": "180"
+      },
+      {
+        "q": "How many dots are there in total on a standard six-sided die?",
+        "a": "21"
+      },
+      {
+        "q": "What unit is used to measure the loudness of sound?",
+        "a": "Decibels"
+      },
+      {
+        "q": "How many pieces does each player start with in a game of chess?",
+        "a": "16"
+      },
+      {
+        "q": "What is the seventh planet from the Sun?",
+        "a": "Uranus"
+      },
+      {
+        "q": "What is the largest living bird?",
+        "a": "Ostrich"
+      },
+      {
+        "q": "What is the currency of Switzerland?",
+        "a": "Swiss franc"
+      },
+      {
+        "q": "How many years are in a score?",
+        "a": "20"
+      },
+      {
+        "q": "How many teaspoons are in a tablespoon?",
+        "a": "3"
+      },
+      {
+        "q": "What is the tenth letter of the English alphabet?",
+        "a": "J"
+      },
+      {
+        "q": "Which number is on the opposite face from 1 on a standard die?",
+        "a": "6"
+      },
+      {
+        "q": "How many strings does a violin have?",
+        "a": "4"
+      },
+      {
+        "q": "What is the main ingredient of hummus?",
+        "a": "Chickpeas"
+      },
+      {
+        "q": "How many Great Lakes are there in North America?",
+        "a": "5"
+      },
+      {
+        "q": "What Italian dessert is made with coffee-soaked ladyfingers and mascarpone?",
+        "a": "Tiramisu"
+      },
+      {
+        "q": "What is the currency of India?",
+        "a": "Rupee"
+      },
+      {
+        "q": "Which common fruit has its seeds on the outside?",
+        "a": "Strawberry"
+      },
+      {
+        "q": "What is the term for a word that means the opposite of another word?",
+        "a": "Antonym"
+      },
+      {
+        "q": "What is the largest species of big cat?",
+        "a": "Tiger"
+      },
+      {
+        "q": "After water, what is the most consumed drink in the world?",
+        "a": "Tea"
+      },
+      {
+        "q": "How many zeros are in one billion?",
+        "a": "9"
+      },
+      {
+        "q": "What green pigment gives plants their colour?",
+        "a": "Chlorophyll"
+      },
+      {
+        "q": "What type of blood vessel carries blood away from the heart?",
+        "a": "Arteries"
+      },
+      {
+        "q": "What is the traditional gift material for a 25th wedding anniversary?",
+        "a": "Silver"
+      },
+      {
+        "q": "What is the main language spoken in Austria?",
+        "a": "German"
+      },
+      {
+        "q": "What vegetable is fermented to make sauerkraut?",
+        "a": "Cabbage"
+      },
+      {
+        "q": "What is the largest species of penguin?",
+        "a": "Emperor penguin"
+      },
+      {
+        "q": "What is the Japanese art of folding paper into shapes?",
+        "a": "Origami"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the collective noun for a group of crows?",
+        "a": "A murder"
+      },
+      {
+        "q": "What Latin phrase does the 'AM' in '9 AM' stand for?",
+        "a": "Ante meridiem"
+      },
+      {
+        "q": "What is a baby swan called?",
+        "a": "Cygnet"
+      },
+      {
+        "q": "What is the largest bone in the human arm?",
+        "a": "Humerus"
+      },
+      {
+        "q": "What scale measures the spiciness of chilli peppers?",
+        "a": "Scoville scale"
+      },
+      {
+        "q": "Which letter of the alphabet does not appear in the name of any US state?",
+        "a": "Q"
+      },
+      {
+        "q": "How many sides does a British 50 pence coin have?",
+        "a": "7"
+      },
+      {
+        "q": "What is a word formed by rearranging the letters of another word called?",
+        "a": "Anagram"
+      },
+      {
+        "q": "What is the fear of heights called?",
+        "a": "Acrophobia"
+      },
+      {
+        "q": "What is the currency of South Africa?",
+        "a": "Rand"
+      },
+      {
+        "q": "What is the name for the number 1 followed by 100 zeros?",
+        "a": "Googol"
+      },
+      {
+        "q": "In the NATO phonetic alphabet, which word represents the letter S?",
+        "a": "Sierra"
+      },
+      {
+        "q": "What is a sentence that contains every letter of the alphabet called?",
+        "a": "Pangram"
+      },
+      {
+        "q": "How many years of marriage does a golden wedding anniversary celebrate?",
+        "a": "50"
+      },
+      {
+        "q": "What is the largest rodent in the world?",
+        "a": "Capybara"
+      },
+      {
+        "q": "Which Greek goddess of victory shares her name with a sportswear brand?",
+        "a": "Nike"
+      },
+      {
+        "q": "What is the currency of Russia?",
+        "a": "Ruble"
+      },
+      {
+        "q": "What is a female fox called?",
+        "a": "Vixen"
+      },
+      {
+        "q": "What is the collective noun for a group of owls?",
+        "a": "A parliament"
+      },
+      {
+        "q": "Which bird is the only one that can fly backwards?",
+        "a": "Hummingbird"
+      },
+      {
+        "q": "What is a triangle with three sides of different lengths called?",
+        "a": "Scalene"
+      },
+      {
+        "q": "What spirit is the base of a mojito?",
+        "a": "Rum"
+      },
+      {
+        "q": "What is the name of the Hindu festival of lights?",
+        "a": "Diwali"
+      },
+      {
+        "q": "What is the currency of Brazil?",
+        "a": "Real"
+      },
+      {
+        "q": "How many strings does a cello have?",
+        "a": "4"
+      },
+      {
+        "q": "What is a number that equals the sum of its own proper divisors, such as 6 or 28, called?",
+        "a": "Perfect number"
+      },
+      {
+        "q": "Which country produces the most coffee in the world?",
+        "a": "Brazil"
+      },
+      {
+        "q": "What cocktail is made from vodka and orange juice?",
+        "a": "Screwdriver"
+      },
+      {
+        "q": "Who was the Roman god of war?",
+        "a": "Mars"
+      },
+      {
+        "q": "What metal is the outer skin of the Statue of Liberty made of?",
+        "a": "Copper"
+      },
+      {
+        "q": "How many hearts does an octopus have?",
+        "a": "3"
+      },
+      {
+        "q": "What is the term for words that imitate the sound they describe, like 'buzz' or 'hiss'?",
+        "a": "Onomatopoeia"
+      },
+      {
+        "q": "Which chess piece is conventionally valued at nine points?",
+        "a": "Queen"
+      },
+      {
+        "q": "What is the tallest type of grass in the world?",
+        "a": "Bamboo"
+      },
+      {
+        "q": "What is the Jewish New Year called?",
+        "a": "Rosh Hashanah"
+      },
+      {
+        "q": "What Spanish rice dish is traditionally cooked in a wide, shallow pan?",
+        "a": "Paella"
+      },
+      {
+        "q": "Who was the Greek goddess of wisdom?",
+        "a": "Athena"
+      },
+      {
+        "q": "Which jackal-headed Egyptian god was associated with the dead?",
+        "a": "Anubis"
+      },
+      {
+        "q": "What nut is the main ingredient of marzipan?",
+        "a": "Almond"
+      },
+      {
+        "q": "Which vitamin is also known as ascorbic acid?",
+        "a": "Vitamin C"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the dot above a lowercase 'i' or 'j' called?",
+        "a": "Tittle"
+      },
+      {
+        "q": "What is the first name of Sherlock Holmes's older brother?",
+        "a": "Mycroft"
+      },
+      {
+        "q": "What is the collective noun for a group of flamingos?",
+        "a": "A flamboyance"
+      },
+      {
+        "q": "What is the fear of the number 13 called?",
+        "a": "Triskaidekaphobia"
+      },
+      {
+        "q": "What is the plastic or metal tip at the end of a shoelace called?",
+        "a": "Aglet"
+      },
+      {
+        "q": "What is the anatomical name for the smooth area of skin between the eyebrows?",
+        "a": "Glabella"
+      },
+      {
+        "q": "What is the indentation in the bottom of a wine bottle called?",
+        "a": "Punt"
+      },
+      {
+        "q": "In the NATO phonetic alphabet, which word represents the letter Q?",
+        "a": "Quebec"
+      },
+      {
+        "q": "What is the word for the distinctive smell of rain falling on dry ground?",
+        "a": "Petrichor"
+      },
+      {
+        "q": "What is the currency of Vietnam?",
+        "a": "Dong"
+      },
+      {
+        "q": "What is the currency of Poland?",
+        "a": "Zloty"
+      },
+      {
+        "q": "What is the currency of Hungary?",
+        "a": "Forint"
+      },
+      {
+        "q": "What is the study of flags called?",
+        "a": "Vexillology"
+      },
+      {
+        "q": "What is the study of wine called?",
+        "a": "Oenology"
+      },
+      {
+        "q": "What is the formal name for the '#' symbol?",
+        "a": "Octothorpe"
+      },
+      {
+        "q": "What year is written as MCMXCIV in Roman numerals?",
+        "a": "1994"
+      },
+      {
+        "q": "What is the Japanese art of flower arranging called?",
+        "a": "Ikebana"
+      },
+      {
+        "q": "Which nerve is struck when you hit your 'funny bone'?",
+        "a": "Ulnar nerve"
+      },
+      {
+        "q": "What is the study of handwriting called?",
+        "a": "Graphology"
+      },
+      {
+        "q": "What is the ninth letter of the Greek alphabet, also used to mean a tiny amount?",
+        "a": "Iota"
+      },
+      {
+        "q": "How many faces does an icosahedron have?",
+        "a": "20"
+      },
+      {
+        "q": "What is the sum of all the numbers on a roulette wheel?",
+        "a": "666"
+      },
+      {
+        "q": "What is the traditional name for a person who makes barrels?",
+        "a": "Cooper"
+      },
+      {
+        "q": "What is the traditional name for a person who makes arrows?",
+        "a": "Fletcher"
+      },
+      {
+        "q": "What is a baby platypus called?",
+        "a": "Puggle"
+      },
+      {
+        "q": "What is the currency of Malaysia?",
+        "a": "Ringgit"
+      },
+      {
+        "q": "What is the tallest statue in the world?",
+        "a": "Statue of Unity"
+      },
+      {
+        "q": "Which letter is represented by a single dot in Morse code?",
+        "a": "E"
+      },
+      {
+        "q": "What was the open public square at the heart of an ancient Greek city called?",
+        "a": "Agora"
+      },
+      {
+        "q": "What is the term for a word spelled the same as another but pronounced differently, like 'lead' the metal and 'lead' the verb?",
+        "a": "Heteronym"
+      },
+      {
+        "q": "What is the name of a solid with 12 pentagonal faces?",
+        "a": "Dodecahedron"
+      },
+      {
+        "q": "What is the Hawaiian word for 'thank you'?",
+        "a": "Mahalo"
+      },
+      {
+        "q": "What is the term for a single word with two opposite meanings, such as 'cleave'?",
+        "a": "Contronym"
+      },
+      {
+        "q": "What Italian sparkling wine is made mainly from the Glera grape?",
+        "a": "Prosecco"
+      }
+    ]
+  },
+  "geography": {
+    "200": [
+      {
+        "q": "What is the capital of Austria?",
+        "a": "Vienna"
+      },
+      {
+        "q": "What is the capital of Denmark?",
+        "a": "Copenhagen"
+      },
+      {
+        "q": "What is the capital of Peru?",
+        "a": "Lima"
+      },
+      {
+        "q": "What is the capital of Chile?",
+        "a": "Santiago"
+      },
+      {
+        "q": "What is the capital of Colombia?",
+        "a": "Bogotá"
+      },
+      {
+        "q": "What is the capital of Cuba?",
+        "a": "Havana"
+      },
+      {
+        "q": "What is the capital of Indonesia?",
+        "a": "Jakarta"
+      },
+      {
+        "q": "What is the capital of Malaysia?",
+        "a": "Kuala Lumpur"
+      },
+      {
+        "q": "What is the capital of Iran?",
+        "a": "Tehran"
+      },
+      {
+        "q": "What is the capital of Iraq?",
+        "a": "Baghdad"
+      },
+      {
+        "q": "What is the capital of Qatar?",
+        "a": "Doha"
+      },
+      {
+        "q": "What is the capital of Czechia?",
+        "a": "Prague"
+      },
+      {
+        "q": "What is the capital of Taiwan?",
+        "a": "Taipei"
+      },
+      {
+        "q": "What is the capital of North Korea?",
+        "a": "Pyongyang"
+      },
+      {
+        "q": "Which US state is the Grand Canyon in?",
+        "a": "Arizona"
+      },
+      {
+        "q": "What is the largest country in South America?",
+        "a": "Brazil"
+      },
+      {
+        "q": "What is the longest river in South America?",
+        "a": "Amazon"
+      },
+      {
+        "q": "What is the largest city in Australia?",
+        "a": "Sydney"
+      },
+      {
+        "q": "What is the largest city in Canada?",
+        "a": "Toronto"
+      },
+      {
+        "q": "What is the largest city in Turkey?",
+        "a": "Istanbul"
+      },
+      {
+        "q": "Which ocean is the Bermuda Triangle located in?",
+        "a": "Atlantic Ocean"
+      },
+      {
+        "q": "What is the tallest mountain in Africa?",
+        "a": "Kilimanjaro"
+      },
+      {
+        "q": "What is the highest mountain in Japan?",
+        "a": "Mount Fuji"
+      },
+      {
+        "q": "Which desert stretches across southern Mongolia and northern China?",
+        "a": "Gobi Desert"
+      },
+      {
+        "q": "In which country is Machu Picchu?",
+        "a": "Peru"
+      },
+      {
+        "q": "In which country is the city of Marrakech?",
+        "a": "Morocco"
+      },
+      {
+        "q": "In which country is the city of Zurich?",
+        "a": "Switzerland"
+      },
+      {
+        "q": "Which US state is nicknamed the 'Sunshine State'?",
+        "a": "Florida"
+      },
+      {
+        "q": "Which US state is nicknamed the 'Lone Star State'?",
+        "a": "Texas"
+      },
+      {
+        "q": "Which city is known as the 'City of Light'?",
+        "a": "Paris"
+      },
+      {
+        "q": "Which city is nicknamed the 'Windy City'?",
+        "a": "Chicago"
+      },
+      {
+        "q": "Which country is the island of Bali part of?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Which country is the island of Crete part of?",
+        "a": "Greece"
+      },
+      {
+        "q": "In which ocean does Madagascar lie?",
+        "a": "Indian Ocean"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the capital of Switzerland?",
+        "a": "Bern"
+      },
+      {
+        "q": "What is the capital of Morocco?",
+        "a": "Rabat"
+      },
+      {
+        "q": "What is the capital of Nigeria?",
+        "a": "Abuja"
+      },
+      {
+        "q": "What is the capital of Nepal?",
+        "a": "Kathmandu"
+      },
+      {
+        "q": "What is the capital of Jordan?",
+        "a": "Amman"
+      },
+      {
+        "q": "What is the capital of Oman?",
+        "a": "Muscat"
+      },
+      {
+        "q": "What is the capital of Bangladesh?",
+        "a": "Dhaka"
+      },
+      {
+        "q": "What is the capital of Romania?",
+        "a": "Bucharest"
+      },
+      {
+        "q": "What is the capital of Bulgaria?",
+        "a": "Sofia"
+      },
+      {
+        "q": "What is the capital of Serbia?",
+        "a": "Belgrade"
+      },
+      {
+        "q": "What is the capital of Uruguay?",
+        "a": "Montevideo"
+      },
+      {
+        "q": "What is the capital of Venezuela?",
+        "a": "Caracas"
+      },
+      {
+        "q": "What is the capital of Ecuador?",
+        "a": "Quito"
+      },
+      {
+        "q": "What is the capital of Sudan?",
+        "a": "Khartoum"
+      },
+      {
+        "q": "What is the capital of Azerbaijan?",
+        "a": "Baku"
+      },
+      {
+        "q": "What is the capital of Mongolia?",
+        "a": "Ulaanbaatar"
+      },
+      {
+        "q": "What is the capital of Cambodia?",
+        "a": "Phnom Penh"
+      },
+      {
+        "q": "What is the capital of Senegal?",
+        "a": "Dakar"
+      },
+      {
+        "q": "What is the largest island in the Mediterranean Sea?",
+        "a": "Sicily"
+      },
+      {
+        "q": "What is the smallest US state by area?",
+        "a": "Rhode Island"
+      },
+      {
+        "q": "Which river flows through Baghdad?",
+        "a": "Tigris"
+      },
+      {
+        "q": "Which river flows through Rome?",
+        "a": "Tiber"
+      },
+      {
+        "q": "What is the largest country in Africa by area?",
+        "a": "Algeria"
+      },
+      {
+        "q": "What is the largest freshwater lake in the world by surface area?",
+        "a": "Lake Superior"
+      },
+      {
+        "q": "Which sea lies between Italy and the Balkan Peninsula?",
+        "a": "Adriatic Sea"
+      },
+      {
+        "q": "What is the largest peninsula in the world?",
+        "a": "Arabian Peninsula"
+      },
+      {
+        "q": "Which country has the longest coastline in the world?",
+        "a": "Canada"
+      },
+      {
+        "q": "What is the highest mountain in North America?",
+        "a": "Denali"
+      },
+      {
+        "q": "Which desert covers much of Botswana and Namibia?",
+        "a": "Kalahari Desert"
+      },
+      {
+        "q": "What is the longest river in Asia?",
+        "a": "Yangtze"
+      },
+      {
+        "q": "Which London district does the Prime Meridian pass through?",
+        "a": "Greenwich"
+      },
+      {
+        "q": "What is the northernmost capital city in the world?",
+        "a": "Reykjavik"
+      },
+      {
+        "q": "Which country's flag is the only national flag that is not rectangular?",
+        "a": "Nepal"
+      },
+      {
+        "q": "Which country is completely surrounded by South Africa?",
+        "a": "Lesotho"
+      },
+      {
+        "q": "Which two countries border Andorra?",
+        "a": "France and Spain"
+      },
+      {
+        "q": "In which country is the ancient city of Petra?",
+        "a": "Jordan"
+      },
+      {
+        "q": "In which country is Angkor Wat?",
+        "a": "Cambodia"
+      },
+      {
+        "q": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "a": "Finland"
+      },
+      {
+        "q": "Which country is home to the Atacama Desert?",
+        "a": "Chile"
+      },
+      {
+        "q": "Into which sea does the Danube empty?",
+        "a": "Black Sea"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the capital of Lithuania?",
+        "a": "Vilnius"
+      },
+      {
+        "q": "What is the capital of Albania?",
+        "a": "Tirana"
+      },
+      {
+        "q": "What is the capital of North Macedonia?",
+        "a": "Skopje"
+      },
+      {
+        "q": "What is the capital of Georgia, the country?",
+        "a": "Tbilisi"
+      },
+      {
+        "q": "What is the capital of Armenia?",
+        "a": "Yerevan"
+      },
+      {
+        "q": "What is the capital of Uzbekistan?",
+        "a": "Tashkent"
+      },
+      {
+        "q": "What is the capital of Tajikistan?",
+        "a": "Dushanbe"
+      },
+      {
+        "q": "What is the capital of Turkmenistan?",
+        "a": "Ashgabat"
+      },
+      {
+        "q": "What is the capital of Zambia?",
+        "a": "Lusaka"
+      },
+      {
+        "q": "What is the capital of Angola?",
+        "a": "Luanda"
+      },
+      {
+        "q": "What is the capital of Cameroon?",
+        "a": "Yaoundé"
+      },
+      {
+        "q": "What is the capital of Mali?",
+        "a": "Bamako"
+      },
+      {
+        "q": "What is the capital of Burkina Faso?",
+        "a": "Ouagadougou"
+      },
+      {
+        "q": "What is the capital of Honduras?",
+        "a": "Tegucigalpa"
+      },
+      {
+        "q": "What is the capital of Nicaragua?",
+        "a": "Managua"
+      },
+      {
+        "q": "What is the capital of Fiji?",
+        "a": "Suva"
+      },
+      {
+        "q": "What is the capital of Papua New Guinea?",
+        "a": "Port Moresby"
+      },
+      {
+        "q": "What is the capital of Brunei?",
+        "a": "Bandar Seri Begawan"
+      },
+      {
+        "q": "What is the capital of the Maldives?",
+        "a": "Malé"
+      },
+      {
+        "q": "What is the capital of Rwanda?",
+        "a": "Kigali"
+      },
+      {
+        "q": "What is the capital of Namibia?",
+        "a": "Windhoek"
+      },
+      {
+        "q": "What is the capital of Botswana?",
+        "a": "Gaborone"
+      },
+      {
+        "q": "What is the capital of Malawi?",
+        "a": "Lilongwe"
+      },
+      {
+        "q": "What is the capital of Cyprus?",
+        "a": "Nicosia"
+      },
+      {
+        "q": "What is the capital of Malta?",
+        "a": "Valletta"
+      },
+      {
+        "q": "Which country has more pyramids than any other?",
+        "a": "Sudan"
+      },
+      {
+        "q": "What is the smallest country on mainland Africa?",
+        "a": "The Gambia"
+      },
+      {
+        "q": "What is the highest mountain in South America?",
+        "a": "Aconcagua"
+      },
+      {
+        "q": "In which mountain range is K2?",
+        "a": "Karakoram"
+      },
+      {
+        "q": "Which country owns Easter Island?",
+        "a": "Chile"
+      },
+      {
+        "q": "Into which body of water does the Volga River flow?",
+        "a": "Caspian Sea"
+      },
+      {
+        "q": "Which river flows through Bangkok?",
+        "a": "Chao Phraya"
+      },
+      {
+        "q": "Which river flows through Dublin?",
+        "a": "Liffey"
+      },
+      {
+        "q": "Which river flows through Lisbon?",
+        "a": "Tagus"
+      },
+      {
+        "q": "Which river flows through Prague?",
+        "a": "Vltava"
+      },
+      {
+        "q": "Which river flows through Warsaw?",
+        "a": "Vistula"
+      },
+      {
+        "q": "Which strait separates Sicily from mainland Italy?",
+        "a": "Strait of Messina"
+      },
+      {
+        "q": "What is the largest gulf in the world?",
+        "a": "Gulf of Mexico"
+      },
+      {
+        "q": "What is the largest bay in the world?",
+        "a": "Bay of Bengal"
+      },
+      {
+        "q": "Which is the only US state that borders exactly one other state?",
+        "a": "Maine"
+      }
+    ]
+  },
+  "science": {
+    "200": [
+      {
+        "q": "What is the chemical symbol for helium?",
+        "a": "He"
+      },
+      {
+        "q": "What is the chemical symbol for copper?",
+        "a": "Cu"
+      },
+      {
+        "q": "What is the smallest planet in our solar system?",
+        "a": "Mercury"
+      },
+      {
+        "q": "What is the second largest planet in our solar system?",
+        "a": "Saturn"
+      },
+      {
+        "q": "Which planet has the Great Red Spot?",
+        "a": "Jupiter"
+      },
+      {
+        "q": "What coloured part of the eye controls how much light enters?",
+        "a": "Iris"
+      },
+      {
+        "q": "What pigment gives human skin its colour?",
+        "a": "Melanin"
+      },
+      {
+        "q": "What type of blood vessel carries blood back to the heart?",
+        "a": "Veins"
+      },
+      {
+        "q": "What is the common name for the trachea?",
+        "a": "Windpipe"
+      },
+      {
+        "q": "What unit measures electrical potential difference?",
+        "a": "Volt"
+      },
+      {
+        "q": "Which is the only mammal capable of true, sustained flight?",
+        "a": "Bat"
+      },
+      {
+        "q": "What is the lightest element?",
+        "a": "Hydrogen"
+      },
+      {
+        "q": "What is the second most abundant gas in Earth's atmosphere?",
+        "a": "Oxygen"
+      },
+      {
+        "q": "What sugar circulates in the blood and is used by cells for energy?",
+        "a": "Glucose"
+      },
+      {
+        "q": "What frozen substance is dry ice made of?",
+        "a": "Carbon dioxide"
+      },
+      {
+        "q": "What is the study of plants called?",
+        "a": "Botany"
+      },
+      {
+        "q": "What is the study of the Earth's rocks and physical structure called?",
+        "a": "Geology"
+      },
+      {
+        "q": "What is the branch of medicine dealing with the heart called?",
+        "a": "Cardiology"
+      },
+      {
+        "q": "What is the branch of medicine dealing with the skin called?",
+        "a": "Dermatology"
+      },
+      {
+        "q": "What is the outermost layer of the Earth called?",
+        "a": "Crust"
+      },
+      {
+        "q": "What is molten rock beneath the Earth's surface called?",
+        "a": "Magma"
+      },
+      {
+        "q": "What scale is traditionally used to measure the magnitude of earthquakes?",
+        "a": "Richter scale"
+      },
+      {
+        "q": "Which noble gas is used in glowing red-orange advertising signs?",
+        "a": "Neon"
+      },
+      {
+        "q": "Diamond and graphite are both made of which element?",
+        "a": "Carbon"
+      },
+      {
+        "q": "Which scientist won Nobel Prizes in both physics and chemistry?",
+        "a": "Marie Curie"
+      },
+      {
+        "q": "What is the term for energy stored in an object because of its position?",
+        "a": "Potential energy"
+      },
+      {
+        "q": "What is the term for the energy an object has because it is moving?",
+        "a": "Kinetic energy"
+      },
+      {
+        "q": "What is a material that does not conduct electricity called?",
+        "a": "Insulator"
+      },
+      {
+        "q": "What is the process by which a caterpillar transforms into a butterfly called?",
+        "a": "Metamorphosis"
+      }
+    ],
+    "400": [
+      {
+        "q": "What is the chemical symbol for silver?",
+        "a": "Ag"
+      },
+      {
+        "q": "What is the chemical symbol for lead?",
+        "a": "Pb"
+      },
+      {
+        "q": "What is the chemical symbol for mercury?",
+        "a": "Hg"
+      },
+      {
+        "q": "What is the atomic number of oxygen?",
+        "a": "8"
+      },
+      {
+        "q": "How many elements are on the periodic table?",
+        "a": "118"
+      },
+      {
+        "q": "What is the most abundant metal in the Earth's crust?",
+        "a": "Aluminium"
+      },
+      {
+        "q": "What is the most abundant element in the Earth's crust?",
+        "a": "Oxygen"
+      },
+      {
+        "q": "What is the process by which a solid turns directly into a gas called?",
+        "a": "Sublimation"
+      },
+      {
+        "q": "What is the type of cell division that produces two identical cells called?",
+        "a": "Mitosis"
+      },
+      {
+        "q": "What acid gives vinegar its sour taste?",
+        "a": "Acetic acid"
+      },
+      {
+        "q": "What is the chemical name of laughing gas?",
+        "a": "Nitrous oxide"
+      },
+      {
+        "q": "What is the chemical formula for methane?",
+        "a": "CH4"
+      },
+      {
+        "q": "What is the chemical formula for ammonia?",
+        "a": "NH3"
+      },
+      {
+        "q": "What is the chemical formula for ozone?",
+        "a": "O3"
+      },
+      {
+        "q": "At what temperature are the Celsius and Fahrenheit scales equal?",
+        "a": "-40"
+      },
+      {
+        "q": "What instrument measures wind speed?",
+        "a": "Anemometer"
+      },
+      {
+        "q": "What is the SI unit of force?",
+        "a": "Newton"
+      },
+      {
+        "q": "What is the SI unit of energy?",
+        "a": "Joule"
+      },
+      {
+        "q": "What is the SI unit of pressure?",
+        "a": "Pascal"
+      },
+      {
+        "q": "What is the SI unit of temperature?",
+        "a": "Kelvin"
+      },
+      {
+        "q": "Which layer of the atmosphere contains the ozone layer?",
+        "a": "Stratosphere"
+      },
+      {
+        "q": "What type of rock is marble?",
+        "a": "Metamorphic"
+      },
+      {
+        "q": "What type of rock is granite?",
+        "a": "Igneous"
+      },
+      {
+        "q": "What type of rock is limestone?",
+        "a": "Sedimentary"
+      },
+      {
+        "q": "What was the name of the supercontinent that existed about 300 million years ago?",
+        "a": "Pangaea"
+      },
+      {
+        "q": "Roughly what percentage of the Earth's surface is covered by water?",
+        "a": "71%"
+      },
+      {
+        "q": "What is the largest moon of Saturn?",
+        "a": "Titan"
+      },
+      {
+        "q": "Which planet rotates on its side, with an axial tilt of about 98 degrees?",
+        "a": "Uranus"
+      },
+      {
+        "q": "Approximately how many years does Halley's Comet take to orbit the Sun?",
+        "a": "76"
+      },
+      {
+        "q": "What is the nearest major galaxy to the Milky Way?",
+        "a": "Andromeda"
+      },
+      {
+        "q": "What is the boundary around a black hole beyond which nothing can escape called?",
+        "a": "Event horizon"
+      },
+      {
+        "q": "What are atoms of the same element with different numbers of neutrons called?",
+        "a": "Isotopes"
+      },
+      {
+        "q": "What is the main component of natural gas?",
+        "a": "Methane"
+      },
+      {
+        "q": "What is the chemical name for table sugar?",
+        "a": "Sucrose"
+      },
+      {
+        "q": "What sugar is found naturally in milk?",
+        "a": "Lactose"
+      },
+      {
+        "q": "A deficiency of which vitamin causes scurvy?",
+        "a": "Vitamin C"
+      },
+      {
+        "q": "A deficiency of which vitamin causes rickets?",
+        "a": "Vitamin D"
+      },
+      {
+        "q": "Which parasite-borne disease is caused by Plasmodium?",
+        "a": "Malaria"
+      },
+      {
+        "q": "How many pairs of ribs does a typical human have?",
+        "a": "12"
+      },
+      {
+        "q": "What is the largest part of the human brain called?",
+        "a": "Cerebrum"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the chemical symbol for tin?",
+        "a": "Sn"
+      },
+      {
+        "q": "What is the chemical symbol for antimony?",
+        "a": "Sb"
+      },
+      {
+        "q": "What is the atomic number of uranium?",
+        "a": "92"
+      },
+      {
+        "q": "What is the atomic number of iron?",
+        "a": "26"
+      },
+      {
+        "q": "Which non-metal element is a liquid at room temperature?",
+        "a": "Bromine"
+      },
+      {
+        "q": "What is the most reactive non-metal element?",
+        "a": "Fluorine"
+      },
+      {
+        "q": "Which element has the lowest boiling point of all?",
+        "a": "Helium"
+      },
+      {
+        "q": "Which element did Marie Curie name after her homeland?",
+        "a": "Polonium"
+      },
+      {
+        "q": "Which element is added to iron to make stainless steel resist rust?",
+        "a": "Chromium"
+      },
+      {
+        "q": "What are different structural forms of the same element, like diamond and graphite, called?",
+        "a": "Allotropes"
+      },
+      {
+        "q": "What is a positively charged ion called?",
+        "a": "Cation"
+      },
+      {
+        "q": "What is the minimum energy required to start a chemical reaction called?",
+        "a": "Activation energy"
+      },
+      {
+        "q": "What technique separates the components of a mixture using a moving solvent, as with ink on paper?",
+        "a": "Chromatography"
+      },
+      {
+        "q": "What is the specific temperature and pressure at which a substance's solid, liquid and gas phases coexist called?",
+        "a": "Triple point"
+      },
+      {
+        "q": "What is the chemical formula for glucose?",
+        "a": "C6H12O6"
+      },
+      {
+        "q": "What is the chemical formula for sulfuric acid?",
+        "a": "H2SO4"
+      },
+      {
+        "q": "What is the boiling point of water in Kelvin?",
+        "a": "373"
+      },
+      {
+        "q": "What is the SI unit of electric charge?",
+        "a": "Coulomb"
+      },
+      {
+        "q": "What is the SI unit of luminous intensity?",
+        "a": "Candela"
+      },
+      {
+        "q": "What is the SI unit of amount of substance?",
+        "a": "Mole"
+      },
+      {
+        "q": "What is the SI unit of capacitance?",
+        "a": "Farad"
+      },
+      {
+        "q": "What is the SI unit of magnetic flux density?",
+        "a": "Tesla"
+      },
+      {
+        "q": "Which gas law states that a gas's volume is proportional to its temperature at constant pressure?",
+        "a": "Charles's law"
+      },
+      {
+        "q": "What is the approximate escape velocity of Earth in kilometres per second?",
+        "a": "11.2"
+      },
+      {
+        "q": "What is the frequency range of human hearing in hertz?",
+        "a": "20 to 20,000"
+      },
+      {
+        "q": "What is the antimatter counterpart of the electron called?",
+        "a": "Positron"
+      },
+      {
+        "q": "Which particle carries the electromagnetic force?",
+        "a": "Photon"
+      },
+      {
+        "q": "How many quarks make up a proton?",
+        "a": "3"
+      },
+      {
+        "q": "Which type of radioactive decay emits a helium nucleus?",
+        "a": "Alpha decay"
+      },
+      {
+        "q": "Who discovered the electron in 1897?",
+        "a": "J. J. Thomson"
+      },
+      {
+        "q": "Who discovered the neutron in 1932?",
+        "a": "James Chadwick"
+      },
+      {
+        "q": "Who discovered the atomic nucleus through the gold foil experiment?",
+        "a": "Ernest Rutherford"
+      },
+      {
+        "q": "Who discovered X-rays in 1895?",
+        "a": "Wilhelm Röntgen"
+      },
+      {
+        "q": "What is the largest moon in the solar system?",
+        "a": "Ganymede"
+      },
+      {
+        "q": "Which planet has a day that is longer than its year?",
+        "a": "Venus"
+      },
+      {
+        "q": "Which planet has the fastest winds in the solar system?",
+        "a": "Neptune"
+      },
+      {
+        "q": "Which dwarf planet lies in the asteroid belt?",
+        "a": "Ceres"
+      },
+      {
+        "q": "Which moon of Jupiter is the most volcanically active body in the solar system?",
+        "a": "Io"
+      },
+      {
+        "q": "Approximately how many Earth years does Neptune take to orbit the Sun?",
+        "a": "165"
+      }
+    ]
+  },
+  "history": {
+    "200": [
+      {
+        "q": "Which two American siblings made the first powered aeroplane flight in 1903?",
+        "a": "The Wright brothers"
+      },
+      {
+        "q": "Which civilisation built the Parthenon?",
+        "a": "Ancient Greeks"
+      },
+      {
+        "q": "Which of the Seven Wonders of the Ancient World still stands today?",
+        "a": "Great Pyramid of Giza"
+      },
+      {
+        "q": "Which monarch ruled Britain for most of the 19th century?",
+        "a": "Queen Victoria"
+      },
+      {
+        "q": "Which country did Napoleon disastrously invade in 1812?",
+        "a": "Russia"
+      },
+      {
+        "q": "Who led the Soviet Union during World War II?",
+        "a": "Joseph Stalin"
+      },
+      {
+        "q": "In what year did Japan attack Pearl Harbor?",
+        "a": "1941"
+      },
+      {
+        "q": "On which Japanese city was the second atomic bomb dropped?",
+        "a": "Nagasaki"
+      },
+      {
+        "q": "Which power's collapse after World War I led to the creation of modern Turkey?",
+        "a": "Ottoman Empire"
+      },
+      {
+        "q": "Who led the Bolsheviks to power in Russia in 1917?",
+        "a": "Vladimir Lenin"
+      },
+      {
+        "q": "Which country was formerly known as Persia?",
+        "a": "Iran"
+      },
+      {
+        "q": "What was the city of Istanbul called before 1930?",
+        "a": "Constantinople"
+      },
+      {
+        "q": "What was Mumbai called until 1995?",
+        "a": "Bombay"
+      },
+      {
+        "q": "Which Chinese leader founded the People's Republic of China in 1949?",
+        "a": "Mao Zedong"
+      },
+      {
+        "q": "Which Indian independence leader was assassinated in 1948?",
+        "a": "Mahatma Gandhi"
+      },
+      {
+        "q": "In what year did the Wall Street Crash happen?",
+        "a": "1929"
+      },
+      {
+        "q": "What was the alliance of Germany, Italy and Japan in World War II called?",
+        "a": "The Axis"
+      },
+      {
+        "q": "Who was the fascist dictator of Italy during World War II?",
+        "a": "Benito Mussolini"
+      },
+      {
+        "q": "Which country was the first to test an atomic bomb?",
+        "a": "United States"
+      },
+      {
+        "q": "Which Iraqi leader ordered the invasion of Kuwait in 1990?",
+        "a": "Saddam Hussein"
+      },
+      {
+        "q": "Which Greek city-state was famous for its warrior society?",
+        "a": "Sparta"
+      },
+      {
+        "q": "What was the official language of the Roman Empire?",
+        "a": "Latin"
+      },
+      {
+        "q": "What were the medieval religious wars fought between Christians and Muslims for the Holy Land called?",
+        "a": "The Crusades"
+      },
+      {
+        "q": "Who was the queen of France executed in 1793 during the Revolution?",
+        "a": "Marie Antoinette"
+      },
+      {
+        "q": "Which Paris prison was stormed on 14 July 1789?",
+        "a": "The Bastille"
+      },
+      {
+        "q": "What execution device became a symbol of the French Revolution?",
+        "a": "Guillotine"
+      },
+      {
+        "q": "Which European country was ruled by General Franco until 1975?",
+        "a": "Spain"
+      },
+      {
+        "q": "Which country did Brazil gain independence from?",
+        "a": "Portugal"
+      },
+      {
+        "q": "Who refused to give up her bus seat in Montgomery, Alabama, in 1955?",
+        "a": "Rosa Parks"
+      },
+      {
+        "q": "Who was the second person to walk on the Moon?",
+        "a": "Buzz Aldrin"
+      },
+      {
+        "q": "From which country did the United States buy Alaska?",
+        "a": "Russia"
+      },
+      {
+        "q": "Which Venetian traveller described his journeys to China in the 13th century?",
+        "a": "Marco Polo"
+      },
+      {
+        "q": "Which American industrialist introduced the moving assembly line for cars?",
+        "a": "Henry Ford"
+      },
+      {
+        "q": "Which American inventor developed the first commercially practical light bulb?",
+        "a": "Thomas Edison"
+      },
+      {
+        "q": "What was the US nationwide ban on alcohol from 1920 to 1933 called?",
+        "a": "Prohibition"
+      }
+    ],
+    "400": [
+      {
+        "q": "Who was the first person to reach the South Pole?",
+        "a": "Roald Amundsen"
+      },
+      {
+        "q": "Which Greek philosopher tutored Alexander the Great?",
+        "a": "Aristotle"
+      },
+      {
+        "q": "Which explorer led the first expedition to sail around the world, though he died on the way?",
+        "a": "Ferdinand Magellan"
+      },
+      {
+        "q": "Which Portuguese explorer was the first European to reach India by sea?",
+        "a": "Vasco da Gama"
+      },
+      {
+        "q": "In what year did the American Civil War end?",
+        "a": "1865"
+      },
+      {
+        "q": "In what year was the Great Fire of London?",
+        "a": "1666"
+      },
+      {
+        "q": "Who was the British monarch during World War II?",
+        "a": "George VI"
+      },
+      {
+        "q": "To which island was Napoleon first exiled in 1814?",
+        "a": "Elba"
+      },
+      {
+        "q": "What was the German air force called in World War II?",
+        "a": "Luftwaffe"
+      },
+      {
+        "q": "What was the name of the Nazi secret police?",
+        "a": "Gestapo"
+      },
+      {
+        "q": "Which 1942-43 battle marked the turning point of the war on the Eastern Front?",
+        "a": "Stalingrad"
+      },
+      {
+        "q": "What was the name of the aircraft that dropped the atomic bomb on Hiroshima?",
+        "a": "Enola Gay"
+      },
+      {
+        "q": "What nickname was given to the German WWI flying ace Manfred von Richthofen?",
+        "a": "The Red Baron"
+      },
+      {
+        "q": "In what year did the Chernobyl nuclear disaster occur?",
+        "a": "1986"
+      },
+      {
+        "q": "In what year was the Cuban Missile Crisis?",
+        "a": "1962"
+      },
+      {
+        "q": "In what year did Saigon fall, ending the Vietnam War?",
+        "a": "1975"
+      },
+      {
+        "q": "In what year was the Berlin Wall built?",
+        "a": "1961"
+      },
+      {
+        "q": "In what year did Queen Elizabeth II become queen?",
+        "a": "1952"
+      },
+      {
+        "q": "Which English monarch put his seal on the Magna Carta in 1215?",
+        "a": "King John"
+      },
+      {
+        "q": "Who assassinated Abraham Lincoln?",
+        "a": "John Wilkes Booth"
+      },
+      {
+        "q": "Which country was formerly known as Siam?",
+        "a": "Thailand"
+      },
+      {
+        "q": "Which country was formerly known as Ceylon?",
+        "a": "Sri Lanka"
+      },
+      {
+        "q": "What was Ho Chi Minh City called before 1976?",
+        "a": "Saigon"
+      },
+      {
+        "q": "What was St Petersburg called from 1924 to 1991?",
+        "a": "Leningrad"
+      },
+      {
+        "q": "What was New York City called when it was a Dutch colony?",
+        "a": "New Amsterdam"
+      },
+      {
+        "q": "What was Tokyo called before 1868?",
+        "a": "Edo"
+      },
+      {
+        "q": "Which Prussian statesman known as the 'Iron Chancellor' unified Germany in 1871?",
+        "a": "Otto von Bismarck"
+      },
+      {
+        "q": "In what year was Germany reunified?",
+        "a": "1990"
+      },
+      {
+        "q": "Who was India's first prime minister?",
+        "a": "Jawaharlal Nehru"
+      },
+      {
+        "q": "Who is regarded as the founder of Pakistan?",
+        "a": "Muhammad Ali Jinnah"
+      },
+      {
+        "q": "In what year was the State of Israel declared?",
+        "a": "1948"
+      },
+      {
+        "q": "In what year was the Iranian Revolution?",
+        "a": "1979"
+      },
+      {
+        "q": "Who was the only US president to serve more than two terms?",
+        "a": "Franklin D. Roosevelt"
+      },
+      {
+        "q": "Which US president made the Louisiana Purchase from France?",
+        "a": "Thomas Jefferson"
+      },
+      {
+        "q": "Which country did the United States defeat in 1898, gaining Puerto Rico and the Philippines?",
+        "a": "Spain"
+      },
+      {
+        "q": "Who led the Free French forces during World War II?",
+        "a": "Charles de Gaulle"
+      },
+      {
+        "q": "Which German general was nicknamed the 'Desert Fox'?",
+        "a": "Erwin Rommel"
+      },
+      {
+        "q": "What was the name of the ship on which Charles Darwin sailed to the Galápagos?",
+        "a": "HMS Beagle"
+      },
+      {
+        "q": "Which two men were the first to reach the summit of Mount Everest in 1953?",
+        "a": "Edmund Hillary and Tenzing Norgay"
+      },
+      {
+        "q": "Which Italian explorer gave his name to the Americas?",
+        "a": "Amerigo Vespucci"
+      }
+    ],
+    "600": [
+      {
+        "q": "In what year did the Spanish Civil War begin?",
+        "a": "1936"
+      },
+      {
+        "q": "In what year did the United States enter World War I?",
+        "a": "1917"
+      },
+      {
+        "q": "Who is generally regarded as the first prime minister of Great Britain?",
+        "a": "Robert Walpole"
+      },
+      {
+        "q": "Who was the first US president to be impeached?",
+        "a": "Andrew Johnson"
+      },
+      {
+        "q": "In what year did the United States purchase Alaska?",
+        "a": "1867"
+      },
+      {
+        "q": "Which country was formerly known as Rhodesia?",
+        "a": "Zimbabwe"
+      },
+      {
+        "q": "Which country was known as Zaire from 1971 to 1997?",
+        "a": "Democratic Republic of the Congo"
+      },
+      {
+        "q": "Which country was formerly known as Abyssinia?",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "Which country was formerly the British colony of the Gold Coast?",
+        "a": "Ghana"
+      },
+      {
+        "q": "Who was the first Mughal emperor of India?",
+        "a": "Babur"
+      },
+      {
+        "q": "In what year was the Six-Day War?",
+        "a": "1967"
+      },
+      {
+        "q": "In what year was the Suez Crisis?",
+        "a": "1956"
+      },
+      {
+        "q": "Who was the first woman in space?",
+        "a": "Valentina Tereshkova"
+      },
+      {
+        "q": "Who was the first American in space?",
+        "a": "Alan Shepard"
+      },
+      {
+        "q": "Who was the first American to orbit the Earth?",
+        "a": "John Glenn"
+      },
+      {
+        "q": "Which Apollo 11 astronaut stayed in lunar orbit while the other two landed?",
+        "a": "Michael Collins"
+      },
+      {
+        "q": "In what year did the Space Shuttle Challenger explode?",
+        "a": "1986"
+      },
+      {
+        "q": "What was the capital city of the Aztec Empire?",
+        "a": "Tenochtitlan"
+      },
+      {
+        "q": "Which ancient civilisation produced the Code of Hammurabi?",
+        "a": "Babylonians"
+      },
+      {
+        "q": "Which Persian king was defeated by Alexander the Great at Gaugamela?",
+        "a": "Darius III"
+      },
+      {
+        "q": "Which Greek writer is known as the 'Father of History'?",
+        "a": "Herodotus"
+      },
+      {
+        "q": "Which Germanic people sacked Rome in 410 AD?",
+        "a": "Visigoths"
+      },
+      {
+        "q": "Which Roman emperor supposedly wanted to make his horse a consul?",
+        "a": "Caligula"
+      },
+      {
+        "q": "At which 31 BC naval battle did Octavian defeat Antony and Cleopatra?",
+        "a": "Actium"
+      },
+      {
+        "q": "Which Scottish king defeated the English at Bannockburn in 1314?",
+        "a": "Robert the Bruce"
+      },
+      {
+        "q": "Which Spanish king sent the Armada against England in 1588?",
+        "a": "Philip II"
+      },
+      {
+        "q": "Which king was restored to the English throne in 1660?",
+        "a": "Charles II"
+      },
+      {
+        "q": "What name is given to the 1688 overthrow of King James II of England?",
+        "a": "The Glorious Revolution"
+      },
+      {
+        "q": "Which leader of the Reign of Terror was himself guillotined in 1794?",
+        "a": "Maximilien Robespierre"
+      },
+      {
+        "q": "In what year did Napoleon crown himself Emperor of the French?",
+        "a": "1804"
+      },
+      {
+        "q": "Which 1805 battle is regarded as Napoleon's greatest victory?",
+        "a": "Austerlitz"
+      },
+      {
+        "q": "Which Argentine general liberated Chile and Peru from Spanish rule?",
+        "a": "José de San Martín"
+      },
+      {
+        "q": "In what year did Brazil declare independence from Portugal?",
+        "a": "1822"
+      },
+      {
+        "q": "Where did Robert E. Lee surrender to Ulysses S. Grant in 1865?",
+        "a": "Appomattox"
+      },
+      {
+        "q": "Who was president of the Confederate States during the American Civil War?",
+        "a": "Jefferson Davis"
+      },
+      {
+        "q": "Which 1781 siege effectively ended the American Revolutionary War?",
+        "a": "Yorktown"
+      },
+      {
+        "q": "Which French aristocrat fought alongside George Washington in the American Revolution?",
+        "a": "Marquis de Lafayette"
+      },
+      {
+        "q": "Who wrote the 1776 pamphlet 'Common Sense'?",
+        "a": "Thomas Paine"
+      },
+      {
+        "q": "Who wrote the words to 'The Star-Spangled Banner'?",
+        "a": "Francis Scott Key"
+      },
+      {
+        "q": "In what year did the Hindenburg airship disaster occur?",
+        "a": "1937"
+      }
+    ]
+  },
+  "sports": {
+    "200": [
+      {
+        "q": "How many players does each ice hockey team have on the ice at once?",
+        "a": "6"
+      },
+      {
+        "q": "How many players are in a cricket team?",
+        "a": "11"
+      },
+      {
+        "q": "How many innings are there in a standard baseball game?",
+        "a": "9"
+      },
+      {
+        "q": "On what surface is the French Open played?",
+        "a": "Clay"
+      },
+      {
+        "q": "On what surface is Wimbledon played?",
+        "a": "Grass"
+      },
+      {
+        "q": "Which tennis Grand Slam is held in January?",
+        "a": "Australian Open"
+      },
+      {
+        "q": "In which city is the US Open tennis tournament held?",
+        "a": "New York"
+      },
+      {
+        "q": "Which country hosted the 2022 FIFA World Cup?",
+        "a": "Qatar"
+      },
+      {
+        "q": "Which country won the 2022 FIFA World Cup?",
+        "a": "Argentina"
+      },
+      {
+        "q": "Which country won the 2018 FIFA World Cup?",
+        "a": "France"
+      },
+      {
+        "q": "Which country hosted the 2010 FIFA World Cup?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Which city hosted the 2012 Summer Olympics?",
+        "a": "London"
+      },
+      {
+        "q": "Which city hosted the 2016 Summer Olympics?",
+        "a": "Rio de Janeiro"
+      },
+      {
+        "q": "Which city hosted the 2024 Summer Olympics?",
+        "a": "Paris"
+      },
+      {
+        "q": "Which city hosted the Summer Olympics held in 2021?",
+        "a": "Tokyo"
+      },
+      {
+        "q": "What trophy is awarded to the NHL champion?",
+        "a": "Stanley Cup"
+      },
+      {
+        "q": "In which sport is the 'clean and jerk' performed?",
+        "a": "Weightlifting"
+      },
+      {
+        "q": "In which sport is the term 'deuce' used?",
+        "a": "Tennis"
+      },
+      {
+        "q": "Which country is the birthplace of golf?",
+        "a": "Scotland"
+      },
+      {
+        "q": "Which country invented the sport of rugby?",
+        "a": "England"
+      },
+      {
+        "q": "Which country did the martial art judo originate in?",
+        "a": "Japan"
+      },
+      {
+        "q": "Which country did taekwondo originate in?",
+        "a": "South Korea"
+      },
+      {
+        "q": "What is a score of 100 runs by one batter in cricket called?",
+        "a": "Century"
+      },
+      {
+        "q": "Which famous horse race is run at Churchill Downs in Louisville?",
+        "a": "Kentucky Derby"
+      },
+      {
+        "q": "Which footballer scored the 'Hand of God' goal?",
+        "a": "Diego Maradona"
+      },
+      {
+        "q": "Which country is Erling Haaland from?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which country is Mohamed Salah from?",
+        "a": "Egypt"
+      },
+      {
+        "q": "Which country is Robert Lewandowski from?",
+        "a": "Poland"
+      },
+      {
+        "q": "Which country is Son Heung-min from?",
+        "a": "South Korea"
+      },
+      {
+        "q": "Which country is Kevin De Bruyne from?",
+        "a": "Belgium"
+      },
+      {
+        "q": "Which country is Zlatan Ibrahimović from?",
+        "a": "Sweden"
+      },
+      {
+        "q": "Which football club plays its home games at Anfield?",
+        "a": "Liverpool"
+      },
+      {
+        "q": "Which football club plays its home games at Old Trafford?",
+        "a": "Manchester United"
+      },
+      {
+        "q": "Which football club plays its home games at Camp Nou?",
+        "a": "Barcelona"
+      },
+      {
+        "q": "Which football club plays its home games at Stamford Bridge?",
+        "a": "Chelsea"
+      },
+      {
+        "q": "Which NBA team did Michael Jordan win six championships with?",
+        "a": "Chicago Bulls"
+      },
+      {
+        "q": "Which NBA player was nicknamed the 'Black Mamba'?",
+        "a": "Kobe Bryant"
+      },
+      {
+        "q": "Which NBA team is based in Toronto?",
+        "a": "Raptors"
+      },
+      {
+        "q": "Which boxer was known as 'The Greatest'?",
+        "a": "Muhammad Ali"
+      }
+    ],
+    "400": [
+      {
+        "q": "How many minutes long is a quarter in an NBA game?",
+        "a": "12"
+      },
+      {
+        "q": "How many players does a handball team have on court?",
+        "a": "7"
+      },
+      {
+        "q": "How many players does a water polo team have in the water?",
+        "a": "7"
+      },
+      {
+        "q": "How many players are on a rugby league team?",
+        "a": "13"
+      },
+      {
+        "q": "Which country won the 2014 FIFA World Cup?",
+        "a": "Germany"
+      },
+      {
+        "q": "Which country won the 2010 FIFA World Cup?",
+        "a": "Spain"
+      },
+      {
+        "q": "Which country won the 2006 FIFA World Cup?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which country won the 1966 FIFA World Cup?",
+        "a": "England"
+      },
+      {
+        "q": "Which city hosted the 2000 Summer Olympics?",
+        "a": "Sydney"
+      },
+      {
+        "q": "Which city hosted the 1996 Summer Olympics?",
+        "a": "Atlanta"
+      },
+      {
+        "q": "Which city hosted the 2014 Winter Olympics?",
+        "a": "Sochi"
+      },
+      {
+        "q": "What trophy is awarded to the Super Bowl winner?",
+        "a": "Vince Lombardi Trophy"
+      },
+      {
+        "q": "How long is a cricket pitch from wicket to wicket?",
+        "a": "22 yards"
+      },
+      {
+        "q": "How far is the penalty spot from the goal line in football?",
+        "a": "12 yards"
+      },
+      {
+        "q": "How many events make up a heptathlon?",
+        "a": "7"
+      },
+      {
+        "q": "Which discipline comes first in a standard triathlon?",
+        "a": "Swimming"
+      },
+      {
+        "q": "What is it called when a batter is dismissed in cricket without scoring?",
+        "a": "Duck"
+      },
+      {
+        "q": "Which Formula 1 team has won the most constructors' championships?",
+        "a": "Ferrari"
+      },
+      {
+        "q": "Which driver won the 2021 Formula 1 world championship?",
+        "a": "Max Verstappen"
+      },
+      {
+        "q": "Which Formula 1 driver has the most Grand Prix wins?",
+        "a": "Lewis Hamilton"
+      },
+      {
+        "q": "In which country is the Silverstone circuit?",
+        "a": "United Kingdom"
+      },
+      {
+        "q": "In which country is the Monza circuit?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which cyclist was stripped of seven Tour de France titles?",
+        "a": "Lance Armstrong"
+      },
+      {
+        "q": "Which club has won the most UEFA Champions League titles?",
+        "a": "Real Madrid"
+      },
+      {
+        "q": "Which club has won the most Serie A titles?",
+        "a": "Juventus"
+      },
+      {
+        "q": "Which club has won the most Bundesliga titles?",
+        "a": "Bayern Munich"
+      },
+      {
+        "q": "Which country won Euro 2024?",
+        "a": "Spain"
+      },
+      {
+        "q": "Who is the all-time top scorer in the Premier League?",
+        "a": "Alan Shearer"
+      },
+      {
+        "q": "Who has scored the most goals in men's international football?",
+        "a": "Cristiano Ronaldo"
+      },
+      {
+        "q": "In what year did Maradona score the 'Hand of God' goal?",
+        "a": "1986"
+      },
+      {
+        "q": "Which country is Luka Modrić from?",
+        "a": "Croatia"
+      },
+      {
+        "q": "Which club plays its home games at the Parc des Princes?",
+        "a": "Paris Saint-Germain"
+      },
+      {
+        "q": "In which city is the Maracanã stadium?",
+        "a": "Rio de Janeiro"
+      },
+      {
+        "q": "Which NBA team has won the most championships?",
+        "a": "Boston Celtics"
+      },
+      {
+        "q": "Who is the NBA's all-time leading points scorer?",
+        "a": "LeBron James"
+      },
+      {
+        "q": "Which NBA player is nicknamed the 'Greek Freak'?",
+        "a": "Giannis Antetokounmpo"
+      },
+      {
+        "q": "Which NBA team plays its home games at Madison Square Garden?",
+        "a": "New York Knicks"
+      },
+      {
+        "q": "How many teams are in the NBA?",
+        "a": "30"
+      },
+      {
+        "q": "How many teams are in the NFL?",
+        "a": "32"
+      }
+    ],
+    "600": [
+      {
+        "q": "How many players are on a polo team?",
+        "a": "4"
+      },
+      {
+        "q": "How many players are on a curling team?",
+        "a": "4"
+      },
+      {
+        "q": "How many players does a men's field lacrosse team have on the pitch?",
+        "a": "10"
+      },
+      {
+        "q": "How many hurdles are there in a 110 metres hurdles race?",
+        "a": "10"
+      },
+      {
+        "q": "How wide is a football goal in yards?",
+        "a": "8"
+      },
+      {
+        "q": "How many laps is the Indianapolis 500?",
+        "a": "200"
+      },
+      {
+        "q": "Which city will host the 2032 Summer Olympics?",
+        "a": "Brisbane"
+      },
+      {
+        "q": "Which South Korean county hosted the 2018 Winter Olympics?",
+        "a": "Pyeongchang"
+      },
+      {
+        "q": "What is the NBA championship trophy called?",
+        "a": "Larry O'Brien Trophy"
+      },
+      {
+        "q": "What is the women's international team tennis competition called?",
+        "a": "Billie Jean King Cup"
+      },
+      {
+        "q": "Which golf major awards the Claret Jug?",
+        "a": "The Open Championship"
+      },
+      {
+        "q": "Which trophy is the oldest international sporting trophy, contested in sailing?",
+        "a": "America's Cup"
+      },
+      {
+        "q": "Which rugby trophy is contested annually between England and Scotland?",
+        "a": "Calcutta Cup"
+      },
+      {
+        "q": "Which horse race is held in Australia on the first Tuesday of November?",
+        "a": "Melbourne Cup"
+      },
+      {
+        "q": "In which country is the Suzuka Formula 1 circuit?",
+        "a": "Japan"
+      },
+      {
+        "q": "In which country is the Interlagos Formula 1 circuit?",
+        "a": "Brazil"
+      },
+      {
+        "q": "Which cycling Grand Tour traditionally finishes in Madrid?",
+        "a": "Vuelta a España"
+      },
+      {
+        "q": "How many riders make up a Tour de France team?",
+        "a": "8"
+      },
+      {
+        "q": "What does the green jersey in the Tour de France reward?",
+        "a": "Points classification"
+      },
+      {
+        "q": "Which country has won the most Copa América titles?",
+        "a": "Argentina"
+      },
+      {
+        "q": "Which country has won the most Africa Cup of Nations titles?",
+        "a": "Egypt"
+      },
+      {
+        "q": "Which country has lost three World Cup finals without ever winning one?",
+        "a": "Netherlands"
+      },
+      {
+        "q": "Who scored a hat-trick in the 1966 World Cup final?",
+        "a": "Geoff Hurst"
+      },
+      {
+        "q": "Who scored the winning goal in the 2014 World Cup final?",
+        "a": "Mario Götze"
+      },
+      {
+        "q": "Which Italian player did Zidane headbutt in the 2006 World Cup final?",
+        "a": "Marco Materazzi"
+      },
+      {
+        "q": "Who captained Italy to victory at the 2006 World Cup?",
+        "a": "Fabio Cannavaro"
+      },
+      {
+        "q": "Which stadium hosted the 2022 World Cup final?",
+        "a": "Lusail"
+      },
+      {
+        "q": "Who won the Golden Boot at the 2018 World Cup?",
+        "a": "Harry Kane"
+      },
+      {
+        "q": "Who won the first Ballon d'Or in 1956?",
+        "a": "Stanley Matthews"
+      },
+      {
+        "q": "Which goalkeeper is the only one ever to win the Ballon d'Or?",
+        "a": "Lev Yashin"
+      },
+      {
+        "q": "Which club was the first to reach 100 points in a Premier League season?",
+        "a": "Manchester City"
+      },
+      {
+        "q": "Who is Manchester United's all-time record goalscorer?",
+        "a": "Wayne Rooney"
+      },
+      {
+        "q": "Who is Liverpool's all-time record goalscorer?",
+        "a": "Ian Rush"
+      },
+      {
+        "q": "Who is the only player to win the Champions League with three different clubs?",
+        "a": "Clarence Seedorf"
+      },
+      {
+        "q": "Which Premier League club is nicknamed 'The Toffees'?",
+        "a": "Everton"
+      },
+      {
+        "q": "Which Premier League club is nicknamed 'The Cherries'?",
+        "a": "Bournemouth"
+      },
+      {
+        "q": "Which club plays at the Estádio da Luz?",
+        "a": "Benfica"
+      },
+      {
+        "q": "Which club plays at La Bombonera?",
+        "a": "Boca Juniors"
+      },
+      {
+        "q": "Who is the youngest player ever to score at a World Cup?",
+        "a": "Pelé"
+      },
+      {
+        "q": "Who has won the most NBA MVP awards?",
+        "a": "Kareem Abdul-Jabbar"
+      }
+    ]
+  }
+}

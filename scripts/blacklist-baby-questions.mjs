@@ -22,6 +22,8 @@ const P = [
   /how many (continents|oceans|planets|colou?rs (are )?in a rainbow|days (are )?in february)/i,
   /what colou?r (is|are) (the )?(sky|grass|snow|sun|banana|bananas|blood|milk|orange|oranges|lemon|lemons|ocean|sea|stop sign|moon|clouds|coal|leaves|fire truck|fire engine|carrot|carrots|strawberr|apple|apples)\b/i,
   /what colou?r do you get (when|if) you mix/i,
+  /what colou?r (do you get|is made|is produced|results?|comes|do you make) (by |from |when |if |after )?(you )?(mix|combin|blend)/i,
+  /(mix|mixing|combining|blending) (red|blue|yellow|black|white|green) (and|with|\+) (red|blue|yellow|black|white|green)/i,
   /what is (\d|1[0-2]) ?(\+|plus|-|minus|x|×|\*|times|÷|\/|divided by) ?(\d|1[0-2])\b\s*\??$/i,
   /what (comes|is) (the )?(opposite of|antonym of) (hot|cold|up|down|big|small|day|night|black|white|left|right|fast|slow|happy|sad|wet|dry|old|new|open|closed|in|out|on|off|high|low|tall|short|light|dark|good|bad)\b/i,
   /what (day|month|season) comes (after|before|next)/i,

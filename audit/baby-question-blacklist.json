@@ -324,8 +324,22 @@
     },
     {
       "cat": "general",
+      "q": "What color do you get mixing blue and yellow?",
+      "a": "Green",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
       "q": "How many seconds are in a minute?",
       "a": "60",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "What color do you get mixing red and yellow?",
+      "a": "Orange",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },

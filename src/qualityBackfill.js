@@ -12825,10 +12825,6 @@ const QUALITY_BACKFILL = {
         "a": "Doha"
       },
       {
-        "q": "What is the capital of Yemen?",
-        "a": "Sanaa"
-      },
-      {
         "q": "What is the largest river by discharge volume?",
         "a": "Amazon"
       },
@@ -13253,10 +13249,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is a baby cow called?",
         "a": "Calf"
-      },
-      {
-        "q": "How many moons does Earth have?",
-        "a": "1"
       },
       {
         "q": "What tool is used to see tiny things like cells?",

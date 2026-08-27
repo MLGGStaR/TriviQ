@@ -12960,6 +12960,102 @@ const entries = [
     "q": "How many players are on a basketball team on the court?",
     "a": "5",
     "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What number is even: 7 or 8?",
+    "a": "8",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is 14 plus 16?",
+    "a": "30",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "math",
+    "q": "What is the largest single digit number?",
+    "a": "9",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "What color is Mars?",
+    "a": "Red",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "What is a sunspot on?",
+    "a": "The Sun",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "What vehicle takes astronauts to space?",
+    "a": "Rocket",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "space",
+    "q": "How many moons does Earth have?",
+    "a": "One",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many seasons are there in a year?",
+    "a": "4",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "How many hours in half a day?",
+    "a": "12",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What do caterpillars turn into?",
+    "a": "Butterflies",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "What do spiders spin?",
+    "a": "Webs",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "What is the name for a baby sheep?",
+    "a": "Lamb",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "How many moons does Earth have?",
+    "a": "1",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "science",
+    "q": "What color is Mars?",
+    "a": "Red",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What color do you get mixing blue and yellow?",
+    "a": "Green",
+    "reason": "baby-level pattern (tier 200)"
+  },
+  {
+    "cat": "general",
+    "q": "What color do you get mixing red and yellow?",
+    "a": "Orange",
+    "reason": "baby-level pattern (tier 200)"
   }
 ];
 
