@@ -7329,6 +7329,9 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
   const removeInstance=instanceId=>setSelCats(p=>p.filter(x=>x!==instanceId));
   const isPhone=viewport.width<480;
   const cardMin=isPhone?140:184;
+  // Fixed column count so every group shares the same card width and column positions; partial rows center.
+  const cardCols=isPhone?2:viewport.width<760?3:viewport.width<1000?4:viewport.width<1280?5:6;
+  const cardGap=isPhone?10:18;
   const canStart=selCats.length>0&&usageReady&&!isSyncingUsage;
   const startLabel=!usageReady
     ?(isPhone?"Loading...":"Loading account pool...")
@@ -7441,10 +7444,10 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
                   </button>
                 </div>
               </div>
-              <div style={{display:"grid",gridTemplateColumns:`repeat(auto-fit, minmax(${cardMin}px, ${isPhone?"1fr":"224px"}))`,justifyContent:"center",gap:isPhone?10:18,width:"100%",minWidth:0}}>
+              <div style={{display:"flex",flexWrap:"wrap",justifyContent:"center",gap:cardGap,width:"100%",maxWidth:isPhone?"100%":cardCols*224+cardGap*(cardCols-1),margin:"0 auto",minWidth:0}}>
                 {gCats.map(id=>{const c=BANK[id];const count=countInstances(selCats,id);const sel=count>0;
                   return(
-                    <div key={id} style={{position:"relative",minWidth:0}}>
+                    <div key={id} style={{position:"relative",minWidth:0,flex:`0 0 calc((100% - ${cardGap*(cardCols-1)}px) / ${cardCols})`,maxWidth:`calc((100% - ${cardGap*(cardCols-1)}px) / ${cardCols})`}}>
                       <CategoryPreviewCard
                         id={id}
                         category={c}
