@@ -5905,6 +5905,7 @@ const CSS=`
     color-scheme:dark;
     --bg:#07010F;
     --bg-image:
+      linear-gradient(rgba(0,0,0,.42), rgba(0,0,0,.42)),
       radial-gradient(6% 9% at 9% 62%, rgba(255,255,255,.55) 0%, rgba(255,255,255,.55) 60%, rgba(255,255,255,0) 66%),
       radial-gradient(4% 6% at 30% 88%, rgba(125,211,252,.75) 0%, rgba(125,211,252,.75) 60%, rgba(125,211,252,0) 66%),
       radial-gradient(5% 8% at 47% 42%, rgba(255,255,255,.45) 0%, rgba(255,255,255,.45) 60%, rgba(255,255,255,0) 66%),
