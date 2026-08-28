@@ -5905,7 +5905,7 @@ const CSS=`
     color-scheme:dark;
     --bg:#07010F;
     --bg-image:
-      linear-gradient(rgba(0,0,0,.42), rgba(0,0,0,.42)),
+      linear-gradient(rgba(0,0,0,.60), rgba(0,0,0,.60)),
       radial-gradient(6% 9% at 9% 62%, rgba(255,255,255,.55) 0%, rgba(255,255,255,.55) 60%, rgba(255,255,255,0) 66%),
       radial-gradient(4% 6% at 30% 88%, rgba(125,211,252,.75) 0%, rgba(125,211,252,.75) 60%, rgba(125,211,252,0) 66%),
       radial-gradient(5% 8% at 47% 42%, rgba(255,255,255,.45) 0%, rgba(255,255,255,.45) 60%, rgba(255,255,255,0) 66%),
@@ -5989,8 +5989,9 @@ const CSS=`
   /* Light mode: very light stage — white/lavender with the same fluid blobs as pastel-vivid washes, dark ink */
   :root.theme-light{
     color-scheme:light;
-    --bg:#F4F1FF;
+    --bg:#E4DFF3;
     --bg-image:
+      linear-gradient(rgba(20,10,50,.16), rgba(20,10,50,.16)),
       radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.62) 0%, rgba(34,211,238,.22) 32%, rgba(34,211,238,0) 62%),
       radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.50) 0%, rgba(59,130,246,0) 60%),
       radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.48) 0%, rgba(147,51,234,0) 60%),
