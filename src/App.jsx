@@ -5903,18 +5903,28 @@ const CSS=`
   /* ---------- "Fluid Glass" design tokens: vivid fluid-gradient stage + thick frosted glass on top ---------- */
   :root{
     color-scheme:dark;
-    --bg:#0E0426;
+    --bg:#07010F;
     --bg-image:
-      radial-gradient(34% 26% at 22% 34%, rgba(56,189,248,.85) 0%, rgba(56,189,248,.85) 52%, rgba(56,189,248,0) 58%),
-      radial-gradient(28% 34% at 74% 58%, rgba(244,63,94,.80) 0%, rgba(244,63,94,.80) 50%, rgba(244,63,94,0) 57%),
-      radial-gradient(22% 18% at 52% 14%, rgba(255,255,255,.28) 0%, rgba(255,255,255,.28) 48%, rgba(255,255,255,0) 56%),
-      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.72) 0%, rgba(34,211,238,.26) 32%, rgba(34,211,238,0) 62%),
-      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.70) 0%, rgba(59,130,246,0) 60%),
-      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.76) 0%, rgba(147,51,234,0) 60%),
-      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.72) 0%, rgba(236,72,153,0) 60%),
-      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.66) 0%, rgba(239,68,68,0) 60%),
-      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.70) 0%, rgba(99,102,241,0) 60%),
-      linear-gradient(135deg, #0A0220 0%, #1B0333 45%, #110530 100%);
+      radial-gradient(6% 9% at 9% 62%, rgba(255,255,255,.55) 0%, rgba(255,255,255,.55) 60%, rgba(255,255,255,0) 66%),
+      radial-gradient(4% 6% at 30% 88%, rgba(125,211,252,.75) 0%, rgba(125,211,252,.75) 60%, rgba(125,211,252,0) 66%),
+      radial-gradient(5% 8% at 47% 42%, rgba(255,255,255,.45) 0%, rgba(255,255,255,.45) 60%, rgba(255,255,255,0) 66%),
+      radial-gradient(7% 10% at 63% 78%, rgba(249,168,212,.7) 0%, rgba(249,168,212,.7) 60%, rgba(249,168,212,0) 66%),
+      radial-gradient(4% 6% at 78% 30%, rgba(255,255,255,.5) 0%, rgba(255,255,255,.5) 60%, rgba(255,255,255,0) 66%),
+      radial-gradient(6% 9% at 92% 84%, rgba(103,232,249,.7) 0%, rgba(103,232,249,.7) 60%, rgba(103,232,249,0) 66%),
+      radial-gradient(3% 5% at 20% 12%, rgba(255,255,255,.6) 0%, rgba(255,255,255,.6) 60%, rgba(255,255,255,0) 66%),
+      radial-gradient(5% 7% at 86% 12%, rgba(196,181,253,.8) 0%, rgba(196,181,253,.8) 60%, rgba(196,181,253,0) 66%),
+      radial-gradient(34% 26% at 22% 34%, rgba(56,189,248,.80) 0%, rgba(56,189,248,.80) 52%, rgba(56,189,248,0) 58%),
+      radial-gradient(28% 34% at 74% 58%, rgba(244,63,94,.72) 0%, rgba(244,63,94,.72) 50%, rgba(244,63,94,0) 57%),
+      radial-gradient(22% 18% at 52% 14%, rgba(255,255,255,.24) 0%, rgba(255,255,255,.24) 48%, rgba(255,255,255,0) 56%),
+      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.60) 0%, rgba(34,211,238,.20) 32%, rgba(34,211,238,0) 62%),
+      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.58) 0%, rgba(59,130,246,0) 60%),
+      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.66) 0%, rgba(147,51,234,0) 60%),
+      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.62) 0%, rgba(236,72,153,0) 60%),
+      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.56) 0%, rgba(239,68,68,0) 60%),
+      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.60) 0%, rgba(99,102,241,0) 60%),
+      linear-gradient(135deg, #05010C 0%, #12021F 45%, #0B0320 100%);
+    --panel-bg:rgba(255,255,255,.035);
+    --panel-border:rgba(255,255,255,.22);
     --on-bg:#FFFFFF;
     --on-bg-muted:rgba(255,255,255,.74);
     --surface:rgba(255,255,255,.12);
@@ -5986,9 +5996,16 @@ const CSS=`
       radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.55) 0%, rgba(236,72,153,0) 60%),
       radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.42) 0%, rgba(239,68,68,0) 60%),
       radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.45) 0%, rgba(99,102,241,0) 60%),
+      radial-gradient(6% 9% at 9% 62%, rgba(56,189,248,.55) 0%, rgba(56,189,248,.55) 60%, rgba(56,189,248,0) 66%),
+      radial-gradient(5% 8% at 47% 42%, rgba(168,85,247,.45) 0%, rgba(168,85,247,.45) 60%, rgba(168,85,247,0) 66%),
+      radial-gradient(7% 10% at 63% 78%, rgba(236,72,153,.5) 0%, rgba(236,72,153,.5) 60%, rgba(236,72,153,0) 66%),
+      radial-gradient(4% 6% at 78% 30%, rgba(59,130,246,.5) 0%, rgba(59,130,246,.5) 60%, rgba(59,130,246,0) 66%),
+      radial-gradient(6% 9% at 92% 84%, rgba(34,211,238,.5) 0%, rgba(34,211,238,.5) 60%, rgba(34,211,238,0) 66%),
       radial-gradient(34% 26% at 22% 34%, rgba(56,189,248,.45) 0%, rgba(56,189,248,.45) 52%, rgba(56,189,248,0) 58%),
       radial-gradient(28% 34% at 74% 58%, rgba(244,63,94,.38) 0%, rgba(244,63,94,.38) 50%, rgba(244,63,94,0) 57%),
       linear-gradient(135deg, #FFFFFF 0%, #F3EEFF 50%, #EEF6FF 100%);
+    --panel-bg:rgba(255,255,255,.30);
+    --panel-border:rgba(255,255,255,.75);
     --on-bg:#1A0A4A;
     --on-bg-muted:rgba(26,10,74,.66);
     --surface:rgba(255,255,255,.55);
@@ -6026,7 +6043,9 @@ const CSS=`
   /* Dark mode: the deep stage (same as :root) */
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#0E0426;
+    --bg:#07010F;
+    --panel-bg:rgba(255,255,255,.035);
+    --panel-border:rgba(255,255,255,.22);
     --on-bg:#FFFFFF;
     --on-bg-muted:rgba(255,255,255,.74);
     --surface:rgba(255,255,255,.12);
@@ -6042,6 +6061,8 @@ const CSS=`
   }
   .glass{background:linear-gradient(135deg, var(--glass-top) 0%, var(--glass-bottom) 42%, var(--glass-bottom) 70%, var(--glass-top) 100%);border:1.5px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1), inset 1.5px 1.5px 0 rgba(255,255,255,.35), inset 0 -20px 40px rgba(0,0,0,.08);}
   .glass-strong{background:var(--surface-strong);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-2);}
+  /* Outline-only panel: no frost, so glass tiles inside refract the stage directly */
+  .glass-outline{background:var(--panel-bg);border:1px solid var(--panel-border);box-shadow:inset 0 1px 0 rgba(255,255,255,.14), 0 10px 30px rgba(0,0,0,.18);}
   /* Liquid-glass tile: static specular highlight + a sheen that sweeps across on hover */
   .lg-tile{position:relative;overflow:hidden;isolation:isolate;}
   .lg-tile::before{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(118deg, rgba(255,255,255,.55) 0%, rgba(255,255,255,.18) 26%, rgba(255,255,255,0) 46%, rgba(255,255,255,0) 72%, rgba(255,255,255,.12) 100%);pointer-events:none;z-index:0;}
@@ -7498,8 +7519,8 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       borderRadius:"var(--radius)",
       border:used?"1px dashed var(--border)":"1.5px solid var(--tile-border)",
       background:used?"var(--tile-used-bg)":`linear-gradient(135deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 48%, var(--tile-frost-mid) 100%), linear-gradient(160deg, ${withAlpha(c,"3D")} 0%, ${withAlpha(c,"1F")} 60%, ${withAlpha(c2,"29")} 100%)`,
-      backdropFilter:used?"none":"blur(22px) saturate(170%)",
-      WebkitBackdropFilter:used?"none":"blur(22px) saturate(170%)",
+      backdropFilter:used?"none":"blur(14px) saturate(170%)",
+      WebkitBackdropFilter:used?"none":"blur(14px) saturate(170%)",
       color:used?"var(--text-muted)":"var(--text)",
       fontFamily:DISPLAY_STACK,
       fontWeight:800,
@@ -7534,7 +7555,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
           {selCats.map(catId=>{
             const c=BANK[baseCat(catId)];if(!c)return null;
             return(
-              <div key={catId} className="glass" style={{minWidth:0,minHeight:0,height:fillHeight?"100%":undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
+              <div key={catId} className="glass-outline" style={{minWidth:0,minHeight:0,height:fillHeight?"100%":undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
                 {/* Category name: tinted glass pill in the category color, centered above its block */}
                 <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), ${withAlpha(c.color||"#22D3EE","59")}`,color:"var(--text)",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:"inset 0 1px 0 var(--tile-edge), 0 6px 16px var(--shadow-color)",border:"1px solid var(--tile-border)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
                   <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
