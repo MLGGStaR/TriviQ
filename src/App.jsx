@@ -4889,7 +4889,7 @@ const BANK = sanitizeBank(
 );
 const CAT_IDS = Object.keys(BANK);
 // Midnight Glass category palette: saturated glass tints that read on the dark stage.
-const CATEGORY_TINT_PALETTE=["#7CC0D2","#A899DE","#D493AD","#8FCBAA","#DCBB78","#8AA8DE","#DE9C8F","#A9CF94","#E0AB7C","#7FC4BA","#BDA7E0","#D9CA82"];
+const CATEGORY_TINT_PALETTE=["#22D3EE","#A855F7","#EC4899","#34D399","#FBBF24","#3B82F6","#F43F5E","#A3E635","#F97316","#14B8A6","#8B5CF6","#EAB308"];
 CAT_IDS.forEach((id,i)=>{ if(BANK[id]&&typeof BANK[id]==="object") BANK[id].color=CATEGORY_TINT_PALETTE[i%CATEGORY_TINT_PALETTE.length]; });
 
 const CAT_GROUPS = [
@@ -4983,9 +4983,9 @@ const CATEGORY_PREVIEWS = {
 
 const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777","#0891B2","#EA580C"];
 // Tier tints (frosted glass): sage / steel teal / periwinkle / lavender / sand / dusty rose. PT_COLORS_2 = deeper end for gradients.
-const PT_COLORS = {100:"#A9CF94",200:"#7CC0D2",300:"#8AA8DE",400:"#A899DE",500:"#DCBB78",600:"#D493AD"};
-const PT_COLORS_2 = {100:"#5E8C4A",200:"#3D7C8E",300:"#4763A6",400:"#6857A8",500:"#9E7A34",600:"#9C5A78"};
-const PT_BG = {100:"rgba(169,207,148,.14)",200:"rgba(124,192,210,.14)",300:"rgba(138,168,222,.14)",400:"rgba(168,153,222,.14)",500:"rgba(220,187,120,.14)",600:"rgba(212,147,173,.14)"};
+const PT_COLORS = {100:"#A3E635",200:"#22D3EE",300:"#3B82F6",400:"#A855F7",500:"#FBBF24",600:"#EC4899"};
+const PT_COLORS_2 = {100:"#65A30D",200:"#0891B2",300:"#1D4ED8",400:"#7E22CE",500:"#D97706",600:"#BE185D"};
+const PT_BG = {100:"rgba(163,230,53,.18)",200:"rgba(34,211,238,.18)",300:"rgba(59,130,246,.18)",400:"rgba(168,85,247,.18)",500:"rgba(251,191,36,.18)",600:"rgba(236,72,153,.18)"};
 const PT_INK = {100:"#FFFFFF",200:"#FFFFFF",300:"#FFFFFF",400:"#FFFFFF",500:"#FFFFFF",600:"#FFFFFF"};
 
 // Cryptographically-seeded uniform random in [0,1). Falls back to Math.random when
@@ -5740,7 +5740,7 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
         <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(15px,1.5vw,19px)",lineHeight:1.12,letterSpacing:"-.01em",color:"#FFFFFF",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 2px rgba(0,0,0,.5)"}}>{category.label}</span>
       </div>
       {selected&&(
-        <div className="pop" aria-hidden="true" style={{position:"absolute",top:9,right:9,width:30,height:30,borderRadius:"50%",background:"linear-gradient(180deg, rgba(255,255,255,.98) 0%, rgba(255,255,255,.86) 100%)",color:"#0B1020",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,border:"1px solid rgba(255,255,255,.8)",boxShadow:"0 6px 16px rgba(0,0,0,.35)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
+        <div className="pop" aria-hidden="true" style={{position:"absolute",top:9,right:9,width:30,height:30,borderRadius:"50%",background:"var(--primary-bg)",color:"var(--primary-ink)",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,border:"1px solid var(--primary-border)",boxShadow:"0 6px 16px rgba(0,0,0,.35)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
       )}
     </button>
   );
@@ -5900,37 +5900,58 @@ const AR_TRANSLATIONS={
 };
 
 const CSS=`
-  /* ---------- "Midnight Glass" design tokens: dark void + aurora, liquid-glass surfaces ---------- */
+  /* ---------- "Fluid Glass" design tokens: vivid fluid-gradient stage + thick frosted glass on top ---------- */
   :root{
     color-scheme:dark;
-    --bg:#070A12;
-    --bg-image:radial-gradient(46% 40% at 8% 4%, rgba(120,165,235,.20) 0%, rgba(120,165,235,0) 70%), radial-gradient(48% 42% at 92% 14%, rgba(150,135,220,.18) 0%, rgba(150,135,220,0) 70%), radial-gradient(54% 46% at 50% 106%, rgba(205,140,170,.14) 0%, rgba(205,140,170,0) 70%), linear-gradient(180deg, #0B0F1C 0%, #070A12 100%);
-    --on-bg:#F6F7FB;
-    --on-bg-muted:rgba(246,247,251,.64);
-    --surface:rgba(255,255,255,.07);
-    --surface-strong:rgba(20,24,38,.74);
-    --surface-2:rgba(255,255,255,.11);
-    --border:rgba(255,255,255,.18);
-    --border-strong:rgba(255,255,255,.32);
-    --text:#F6F7FB;
-    --text-muted:rgba(246,247,251,.64);
-    --accent:#9CC8F5;
-    --accent-ink:#0B1020;
-    --accent-soft:rgba(156,200,245,.16);
-    --accent-2:#B4A6E6;
-    --accent-3:#D8A1B8;
-    --danger:#F08A98;
-    --success:#8FD3A6;
-    --grad-accent:linear-gradient(135deg,#9CC8F5 0%,#B4A6E6 100%);
+    --bg:#2A0B5E;
+    --bg-image:
+      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.96) 0%, rgba(34,211,238,.40) 32%, rgba(34,211,238,0) 62%),
+      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.95) 0%, rgba(59,130,246,0) 60%),
+      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.96) 0%, rgba(147,51,234,0) 60%),
+      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.96) 0%, rgba(236,72,153,0) 60%),
+      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.92) 0%, rgba(239,68,68,0) 60%),
+      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.92) 0%, rgba(99,102,241,0) 60%),
+      linear-gradient(135deg, #1E0A4E 0%, #3B0764 45%, #2E1065 100%);
+    --on-bg:#FFFFFF;
+    --on-bg-muted:rgba(255,255,255,.74);
+    --surface:rgba(255,255,255,.12);
+    --surface-strong:rgba(255,255,255,.14);
+    --surface-2:rgba(255,255,255,.17);
+    --glass-top:rgba(255,255,255,.18);
+    --glass-bottom:rgba(255,255,255,.08);
+    --border:rgba(255,255,255,.32);
+    --border-strong:rgba(255,255,255,.50);
+    --text:#FFFFFF;
+    --text-muted:rgba(255,255,255,.74);
+    --accent:#22D3EE;
+    --accent-ink:#04111A;
+    --accent-soft:rgba(34,211,238,.22);
+    --accent-2:#A855F7;
+    --accent-3:#EC4899;
+    --danger:#FB7185;
+    --success:#4ADE80;
+    --grad-accent:linear-gradient(135deg,#22D3EE 0%,#A855F7 60%,#EC4899 100%);
     --radius-sm:14px;
     --radius:20px;
     --radius-lg:28px;
     --radius-pill:999px;
-    --glass-edge:inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
-    --shadow-1:0 8px 24px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
-    --shadow-2:0 24px 60px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
-    --blur:blur(18px) saturate(160%);
-    --focus-ring:0 0 0 3px rgba(156,200,245,.45);
+    --shadow-color:rgba(20,0,60,.45);
+    --glass-edge:inset 0 1px 0 rgba(255,255,255,.45), inset 0 -1px 0 rgba(255,255,255,.08);
+    --shadow-1:0 8px 24px rgba(20,0,60,.30), inset 0 1px 0 rgba(255,255,255,.45), inset 0 -1px 0 rgba(255,255,255,.08);
+    --shadow-2:0 24px 60px rgba(20,0,60,.45), inset 0 1px 0 rgba(255,255,255,.45), inset 0 -1px 0 rgba(255,255,255,.08);
+    --blur:blur(26px) saturate(180%);
+    --focus-ring:0 0 0 3px rgba(255,255,255,.55);
+    --tile-border:rgba(255,255,255,.44);
+    --tile-used-bg:rgba(255,255,255,.05);
+    --tile-frost-top:rgba(255,255,255,.26);
+    --tile-frost-bottom:rgba(255,255,255,.06);
+    --tile-edge:rgba(255,255,255,.75);
+    --tile-text-shadow:0 2px 8px rgba(0,0,0,.35);
+    --primary-bg:linear-gradient(180deg, rgba(255,255,255,.98) 0%, rgba(255,255,255,.88) 100%);
+    --primary-ink:#1A0A4A;
+    --primary-border:rgba(255,255,255,.9);
+    --primary-chip-bg:rgba(26,10,74,.12);
+    --wordmark-shadow:0 8px 30px rgba(20,0,60,.45), 0 0 60px rgba(255,255,255,.28);
     --font-display:${DISPLAY_STACK};
     --font-body:${BODY_STACK};
 
@@ -5942,38 +5963,77 @@ const CSS=`
     --site-bg-repeat:no-repeat;
 
     /* Header strips (score bar, sticky category bar) = frosted glass */
-    --header-bg-color:rgba(10,13,22,.58);
+    --header-bg-color:rgba(255,255,255,.11);
     --header-bg-image:none;
     --header-bg-position:top left;
     --header-bg-size:auto;
     --header-bg-repeat:no-repeat;
-    --header-box-shadow:0 12px 34px rgba(0,0,0,.40), inset 0 1px 0 rgba(255,255,255,.16);
-    --header-backdrop-filter:blur(18px) saturate(160%);
+    --header-box-shadow:0 12px 34px rgba(20,0,60,.35), inset 0 1px 0 rgba(255,255,255,.45);
+    --header-backdrop-filter:blur(26px) saturate(180%);
   }
-  /* "Dusk": the lighter of the two dark looks — deep navy with brighter aurora */
+  /* Light mode: very light stage — white/lavender with the same fluid blobs as pastel-vivid washes, dark ink */
   :root.theme-light{
-    color-scheme:dark;
-    --bg:#0D1224;
-    --bg-image:radial-gradient(46% 40% at 8% 4%, rgba(120,165,235,.28) 0%, rgba(120,165,235,0) 70%), radial-gradient(48% 42% at 92% 14%, rgba(150,135,220,.26) 0%, rgba(150,135,220,0) 70%), radial-gradient(54% 46% at 50% 106%, rgba(205,140,170,.20) 0%, rgba(205,140,170,0) 70%), linear-gradient(180deg, #121935 0%, #0D1224 100%);
-    --surface:rgba(255,255,255,.09);
-    --surface-strong:rgba(26,32,54,.74);
-    --surface-2:rgba(255,255,255,.14);
-    --border:rgba(255,255,255,.22);
-    --border-strong:rgba(255,255,255,.36);
-    --header-bg-color:rgba(16,22,42,.6);
+    color-scheme:light;
+    --bg:#F4F1FF;
+    --bg-image:
+      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.62) 0%, rgba(34,211,238,.22) 32%, rgba(34,211,238,0) 62%),
+      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.50) 0%, rgba(59,130,246,0) 60%),
+      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.48) 0%, rgba(147,51,234,0) 60%),
+      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.55) 0%, rgba(236,72,153,0) 60%),
+      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.42) 0%, rgba(239,68,68,0) 60%),
+      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.45) 0%, rgba(99,102,241,0) 60%),
+      linear-gradient(135deg, #FFFFFF 0%, #F3EEFF 50%, #EEF6FF 100%);
+    --on-bg:#1A0A4A;
+    --on-bg-muted:rgba(26,10,74,.66);
+    --surface:rgba(255,255,255,.55);
+    --surface-strong:rgba(255,255,255,.66);
+    --surface-2:rgba(255,255,255,.62);
+    --glass-top:rgba(255,255,255,.68);
+    --glass-bottom:rgba(255,255,255,.46);
+    --border:rgba(255,255,255,.85);
+    --border-strong:rgba(26,10,74,.16);
+    --text:#1A0A4A;
+    --text-muted:rgba(26,10,74,.66);
+    --accent-soft:rgba(34,211,238,.24);
+    --danger:#E11D48;
+    --success:#16A34A;
+    --shadow-color:rgba(60,30,120,.18);
+    --glass-edge:inset 0 1px 0 rgba(255,255,255,.95), inset 0 -1px 0 rgba(255,255,255,.30);
+    --shadow-1:0 8px 24px rgba(60,30,120,.14), inset 0 1px 0 rgba(255,255,255,.95), inset 0 -1px 0 rgba(255,255,255,.30);
+    --shadow-2:0 24px 60px rgba(60,30,120,.20), inset 0 1px 0 rgba(255,255,255,.95), inset 0 -1px 0 rgba(255,255,255,.30);
+    --focus-ring:0 0 0 3px rgba(26,10,74,.35);
+    --tile-border:rgba(255,255,255,.95);
+    --tile-used-bg:rgba(255,255,255,.35);
+    --tile-frost-top:rgba(255,255,255,.82);
+    --tile-frost-bottom:rgba(255,255,255,.56);
+    --tile-edge:rgba(255,255,255,1);
+    --tile-text-shadow:none;
+    --primary-bg:linear-gradient(180deg, #2A1670 0%, #1A0A4A 100%);
+    --primary-ink:#FFFFFF;
+    --primary-border:rgba(255,255,255,.35);
+    --primary-chip-bg:rgba(255,255,255,.22);
+    --wordmark-shadow:0 8px 30px rgba(60,30,120,.25);
+    --header-bg-color:rgba(255,255,255,.58);
+    --header-box-shadow:0 12px 34px rgba(60,30,120,.14), inset 0 1px 0 rgba(255,255,255,.95);
   }
-  /* "Midnight": the deepest look (same as :root) */
+  /* Dark mode: the deep stage (same as :root) */
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#070A12;
-    --surface:rgba(255,255,255,.07);
-    --surface-strong:rgba(20,24,38,.74);
-    --surface-2:rgba(255,255,255,.11);
-    --border:rgba(255,255,255,.18);
-    --border-strong:rgba(255,255,255,.32);
-    --header-bg-color:rgba(10,13,22,.58);
+    --bg:#2A0B5E;
+    --on-bg:#FFFFFF;
+    --on-bg-muted:rgba(255,255,255,.74);
+    --surface:rgba(255,255,255,.12);
+    --surface-strong:rgba(255,255,255,.14);
+    --surface-2:rgba(255,255,255,.17);
+    --glass-top:rgba(255,255,255,.18);
+    --glass-bottom:rgba(255,255,255,.08);
+    --border:rgba(255,255,255,.32);
+    --border-strong:rgba(255,255,255,.50);
+    --text:#FFFFFF;
+    --text-muted:rgba(255,255,255,.74);
+    --header-bg-color:rgba(255,255,255,.11);
   }
-  .glass{background:linear-gradient(180deg, rgba(255,255,255,.10) 0%, rgba(255,255,255,.04) 100%);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1);}
+  .glass{background:linear-gradient(180deg, var(--glass-top) 0%, var(--glass-bottom) 100%);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1);}
   .glass-strong{background:var(--surface-strong);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-2);}
   /* Liquid-glass tile: static specular highlight + a sheen that sweeps across on hover */
   .lg-tile{position:relative;overflow:hidden;isolation:isolate;}
@@ -7008,7 +7068,7 @@ const ARENA_WORDMARK_STYLE={
   lineHeight:1,
   letterSpacing:"-.04em",
   color:"var(--on-bg)",
-  textShadow:"0 6px 30px rgba(0,0,0,.45), 0 0 60px rgba(156,200,245,.22)",
+  textShadow:"var(--wordmark-shadow)",
   display:"inline-block",
   paddingBottom:".06em",
 };
@@ -7048,10 +7108,10 @@ function arenaSegmentStyle(active){
       minHeight:44,
       padding:"10px 14px",
       borderRadius:"var(--radius-pill)",
-      background:"linear-gradient(180deg, rgba(255,255,255,.94) 0%, rgba(255,255,255,.82) 100%)",
-      color:"#0B1020",
-      border:"1px solid rgba(255,255,255,.75)",
-      boxShadow:"0 8px 20px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.9)",
+      background:"var(--primary-bg)",
+      color:"var(--primary-ink)",
+      border:"1px solid var(--primary-border)",
+      boxShadow:"0 8px 20px var(--shadow-color), inset 0 1px 0 rgba(255,255,255,.5)",
       fontFamily:DISPLAY_STACK,
       fontSize:14,
       fontWeight:700,
@@ -7130,7 +7190,7 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
             <span style={{overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap",maxWidth:140}}>{accountUser.username}</span>
           </div>
         )}
-        <button className="tap" onClick={onLogout} aria-label="Sign out" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",minHeight:44,padding:"0 16px",borderRadius:999,background:"rgba(255,255,255,.18)",border:"1.5px solid rgba(255,255,255,.55)",color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:600,cursor:"pointer",flex:"0 0 auto"}}>Sign out</button>
+        <button className="tap" onClick={onLogout} aria-label="Sign out" style={{display:"inline-flex",alignItems:"center",justifyContent:"center",minHeight:44,padding:"0 16px",borderRadius:999,background:"var(--surface-2)",border:"1px solid var(--border-strong)",color:"var(--text)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",boxShadow:"var(--glass-edge)",fontFamily:DISPLAY_STACK,fontSize:13,fontWeight:700,cursor:"pointer",flex:"0 0 auto"}}>Sign out</button>
       </div>
 
       {/* Wordmark + heading */}
@@ -7190,8 +7250,8 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
           <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(24px,3.6vw,32px)",fontWeight:800,letterSpacing:"-.02em",color:"var(--text)",lineHeight:1.05}}>Mode</h2>
           <div role="radiogroup" aria-label="Game mode" style={{display:"flex",flexDirection:"column",gap:10}}>
             {[
-              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. A wrong answer costs half the tile.",tint:"#9CC8F5"},
-              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. A wrong answer costs the full tile.",tint:"#D8A1B8"},
+              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. A wrong answer costs half the tile.",tint:"#22D3EE"},
+              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. A wrong answer costs the full tile.",tint:"#EC4899"},
             ].map(m=>{
               const active=gameMode===m.id;
               return(
@@ -7214,7 +7274,7 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
 
       {/* Sticky bottom CTA: glowing cyan glass */}
       <div style={{position:"sticky",bottom:0,zIndex:10,width:"100%",marginTop:"auto",padding:"14px 0 calc(16px + env(safe-area-inset-bottom, 0px))",display:"flex",justifyContent:"center"}}>
-        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#9CC8F5",fontSize:18,padding:"14px 28px",borderRadius:999,minHeight:58}),width:"100%",maxWidth:560,letterSpacing:"0"}}>
+        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#22D3EE",fontSize:18,padding:"14px 28px",borderRadius:999,minHeight:58}),width:"100%",maxWidth:560,letterSpacing:"0"}}>
           Choose Categories <span aria-hidden="true">→</span>
         </button>
       </div>
@@ -7429,22 +7489,22 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       minHeight:tileMin,
       padding:"6px 4px",
       borderRadius:"var(--radius)",
-      border:used?"1px dashed rgba(255,255,255,.16)":`1px solid rgba(255,255,255,.30)`,
-      background:used?"rgba(255,255,255,.035)":`linear-gradient(160deg, rgba(255,255,255,.22) 0%, rgba(255,255,255,.06) 55%, rgba(255,255,255,.02) 100%), linear-gradient(160deg, ${withAlpha(c,"52")} 0%, ${withAlpha(c,"2B")} 60%, ${withAlpha(c2,"33")} 100%)`,
-      backdropFilter:used?"none":"blur(16px) saturate(140%)",
-      WebkitBackdropFilter:used?"none":"blur(16px) saturate(140%)",
-      color:used?"rgba(255,255,255,.26)":"#FFFFFF",
+      border:used?"1px dashed var(--border)":"1px solid var(--tile-border)",
+      background:used?"var(--tile-used-bg)":`linear-gradient(160deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), linear-gradient(160deg, ${withAlpha(c,"B3")} 0%, ${withAlpha(c,"80")} 60%, ${withAlpha(c2,"8C")} 100%)`,
+      backdropFilter:used?"none":"blur(22px) saturate(170%)",
+      WebkitBackdropFilter:used?"none":"blur(22px) saturate(170%)",
+      color:used?"var(--text-muted)":"var(--text)",
       fontFamily:DISPLAY_STACK,
       fontWeight:800,
       fontSize:tileFontCss,
       letterSpacing:"-.02em",
       fontVariantNumeric:"tabular-nums",
       lineHeight:1,
-      textShadow:used?"none":"0 2px 6px rgba(0,0,0,.35)",
+      textShadow:used?"none":"var(--tile-text-shadow)",
       display:"flex",
       alignItems:"center",
       justifyContent:"center",
-      boxShadow:used?"none":`inset 0 1px 0 rgba(255,255,255,.55), inset 0 -1px 0 rgba(255,255,255,.10), 0 12px 30px rgba(0,0,0,.40), 0 0 24px ${withAlpha(c,"1F")}`,
+      boxShadow:used?"none":`inset 0 1px 0 var(--tile-edge), inset 0 -1px 0 rgba(255,255,255,.08), 0 12px 30px var(--shadow-color), 0 0 26px ${withAlpha(c,"2E")}`,
       cursor:used?"default":"pointer",
       pointerEvents:used?"none":"auto",
       transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, opacity .3s ease, background .3s ease",
@@ -7469,7 +7529,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
             return(
               <div key={catId} className="glass" style={{minWidth:0,minHeight:0,height:fillHeight?"100%":undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
                 {/* Category name: tinted glass pill in the category color, centered above its block */}
-                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, rgba(255,255,255,.16) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(c.color||"#9CC8F5","2E")}`,color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:"inset 0 1px 0 rgba(255,255,255,.40), 0 6px 16px rgba(0,0,0,.30)",border:"1px solid rgba(255,255,255,.30)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
+                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), ${withAlpha(c.color||"#22D3EE","59")}`,color:"var(--text)",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:"inset 0 1px 0 var(--tile-edge), 0 6px 16px var(--shadow-color)",border:"1px solid var(--tile-border)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
                   <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
                 </div>
                 {/* Tiles flank the category art: [200][art][200] / [400][art][400] / [600][art][600]. FFA: [art][tile] x5 */}
@@ -7575,7 +7635,7 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
               ...(isTurn?{boxShadow:`0 0 0 4px ${withAlpha(tc,"40")}, 0 10px 24px ${withAlpha(tc,"4D")}, inset 0 1px 0 rgba(255,255,255,.28)`}:{}),
             })}>
               <span style={nameStyle}>{t}</span>
-              <span style={{...ptsStyle,background:isTurn?"rgba(11,16,32,.12)":withAlpha(tc,"33"),color:isTurn?"#0B1020":lightenHex(tc,.35)}}>+{tile.pts}</span>
+              <span style={{...ptsStyle,background:isTurn?"var(--primary-chip-bg)":withAlpha(tc,"33"),color:isTurn?"var(--primary-ink)":"var(--text)"}}>+{tile.pts}</span>
             </button>
           );
         })}
@@ -7703,8 +7763,10 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   display:"inline-flex",
   alignItems:"center",
   justifyContent:"center",
-  background:`linear-gradient(180deg, rgba(255,255,255,.14) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(pc,"33")}`,
-  color:"#FFFFFF",
+  background:`linear-gradient(180deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), ${withAlpha(pc,"59")}`,
+  color:"var(--text)",
+  backdropFilter:"var(--blur)",
+  WebkitBackdropFilter:"var(--blur)",
   fontFamily:DISPLAY_STACK,
   fontWeight:800,
   fontVariantNumeric:"tabular-nums",
@@ -8047,7 +8109,7 @@ function getGlassButtonStyle({
   const isDanger=kind==="danger";
   const isAccent=kind==="accent";
   const isNeutral=kind==="neutral";
-  const t=isAccent?"#9CC8F5":isDanger?"#F08A98":tint;
+  const t=isAccent?"#22D3EE":isDanger?"#F43F5E":tint;
   const ring=selected?`0 0 0 2px ${ringColor||withAlpha(t,"73")}`:"";
   const base={
     display:"inline-flex",
@@ -8090,13 +8152,13 @@ function getGlassButtonStyle({
       color:isDanger?"#FFC2CB":isNeutral?"var(--text)":lightenHex(t,.30),
     };
   }
-  // Primary: frosted white-tinted glass with dark ink — clear and bright without going neon.
+  // Primary: solid frosted pill (white on the dark stage, deep ink on the light stage) with a tint glow.
   return{
     ...base,
-    background:`linear-gradient(180deg, rgba(255,255,255,.96) 0%, rgba(255,255,255,.84) 100%), ${t}`,
-    border:"1px solid rgba(255,255,255,.75)",
-    boxShadow:[ring,`0 0 28px ${withAlpha(t,"40")}`,"0 14px 36px rgba(0,0,0,.45)","inset 0 1px 0 rgba(255,255,255,.9)"].filter(Boolean).join(", "),
-    color:isDanger?"#6B1020":"#0B1020",
+    background:isDanger?`linear-gradient(180deg, ${lightenHex(t,.06)} 0%, ${t} 100%)`:"var(--primary-bg)",
+    border:"1px solid var(--primary-border)",
+    boxShadow:[ring,`0 0 30px ${withAlpha(t,"59")}`,"0 14px 36px var(--shadow-color)","inset 0 1px 0 rgba(255,255,255,.55)"].filter(Boolean).join(", "),
+    color:isDanger?"#FFFFFF":"var(--primary-ink)",
     textShadow:"none",
   };
 }
