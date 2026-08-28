@@ -4889,7 +4889,7 @@ const BANK = sanitizeBank(
 );
 const CAT_IDS = Object.keys(BANK);
 // Midnight Glass category palette: saturated glass tints that read on the dark stage.
-const CATEGORY_TINT_PALETTE=["#22D3EE","#A78BFA","#F472B6","#34D399","#FBBF24","#60A5FA","#FB7185","#BEF264","#FB923C","#2DD4BF","#C084FC","#FACC15"];
+const CATEGORY_TINT_PALETTE=["#7CC0D2","#A899DE","#D493AD","#8FCBAA","#DCBB78","#8AA8DE","#DE9C8F","#A9CF94","#E0AB7C","#7FC4BA","#BDA7E0","#D9CA82"];
 CAT_IDS.forEach((id,i)=>{ if(BANK[id]&&typeof BANK[id]==="object") BANK[id].color=CATEGORY_TINT_PALETTE[i%CATEGORY_TINT_PALETTE.length]; });
 
 const CAT_GROUPS = [
@@ -4982,10 +4982,10 @@ const CATEGORY_PREVIEWS = {
 };
 
 const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777","#0891B2","#EA580C"];
-// Tier tints (Midnight Glass): lime / cyan / sky / violet / amber / magenta. PT_COLORS_2 = deeper end for gradients.
-const PT_COLORS = {100:"#BEF264",200:"#22D3EE",300:"#60A5FA",400:"#A78BFA",500:"#FBBF24",600:"#F472B6"};
-const PT_COLORS_2 = {100:"#65A30D",200:"#0E7490",300:"#1D4ED8",400:"#6D28D9",500:"#B45309",600:"#BE185D"};
-const PT_BG = {100:"rgba(190,242,100,.14)",200:"rgba(34,211,238,.14)",300:"rgba(96,165,250,.14)",400:"rgba(167,139,250,.14)",500:"rgba(251,191,36,.14)",600:"rgba(244,114,182,.14)"};
+// Tier tints (frosted glass): sage / steel teal / periwinkle / lavender / sand / dusty rose. PT_COLORS_2 = deeper end for gradients.
+const PT_COLORS = {100:"#A9CF94",200:"#7CC0D2",300:"#8AA8DE",400:"#A899DE",500:"#DCBB78",600:"#D493AD"};
+const PT_COLORS_2 = {100:"#5E8C4A",200:"#3D7C8E",300:"#4763A6",400:"#6857A8",500:"#9E7A34",600:"#9C5A78"};
+const PT_BG = {100:"rgba(169,207,148,.14)",200:"rgba(124,192,210,.14)",300:"rgba(138,168,222,.14)",400:"rgba(168,153,222,.14)",500:"rgba(220,187,120,.14)",600:"rgba(212,147,173,.14)"};
 const PT_INK = {100:"#FFFFFF",200:"#FFFFFF",300:"#FFFFFF",400:"#FFFFFF",500:"#FFFFFF",600:"#FFFFFF"};
 
 // Cryptographically-seeded uniform random in [0,1). Falls back to Math.random when
@@ -5720,8 +5720,8 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
         overflow:"hidden",
         isolation:"isolate",
         background:"var(--surface-strong)",
-        border:`1px solid ${selected?withAlpha(tint,"D9"):"var(--border)"}`,
-        boxShadow:selected?`0 0 0 2px ${withAlpha(tint,"66")}, 0 0 38px ${withAlpha(tint,"59")}, 0 22px 44px rgba(0,0,0,.55)`:"0 12px 30px rgba(0,0,0,.45), inset 0 1px 0 rgba(255,255,255,.10)",
+        border:`1px solid ${selected?"rgba(255,255,255,.85)":"var(--border)"}`,
+        boxShadow:selected?`0 0 0 3px rgba(255,255,255,.28), 0 0 30px ${withAlpha(tint,"40")}, 0 22px 44px rgba(0,0,0,.55)`:"0 12px 30px rgba(0,0,0,.45), inset 0 1px 0 rgba(255,255,255,.10)",
         color:"var(--text)",
         textAlign:"left",
         cursor:"pointer",
@@ -5740,7 +5740,7 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
         <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(15px,1.5vw,19px)",lineHeight:1.12,letterSpacing:"-.01em",color:"#FFFFFF",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 2px rgba(0,0,0,.5)"}}>{category.label}</span>
       </div>
       {selected&&(
-        <div className="pop" aria-hidden="true" style={{position:"absolute",top:9,right:9,width:30,height:30,borderRadius:"50%",background:`linear-gradient(180deg, ${lightenHex(tint,.1)} 0%, ${tint} 100%)`,color:"#04111A",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,border:"1px solid rgba(255,255,255,.55)",boxShadow:`0 0 18px ${withAlpha(tint,"99")}`,zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
+        <div className="pop" aria-hidden="true" style={{position:"absolute",top:9,right:9,width:30,height:30,borderRadius:"50%",background:"linear-gradient(180deg, rgba(255,255,255,.98) 0%, rgba(255,255,255,.86) 100%)",color:"#0B1020",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,border:"1px solid rgba(255,255,255,.8)",boxShadow:"0 6px 16px rgba(0,0,0,.35)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
       )}
     </button>
   );
@@ -5818,8 +5818,8 @@ function QRCode({text,size=190}){
 
 const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
 // "Arena" typography: Sora for display/headings, Inter for body. SF system stack stays as the fallback.
-const DISPLAY_STACK="'Syne', 'Sora', "+SF_STACK;
-const BODY_STACK="'DM Sans', 'Inter', "+SF_STACK;
+const DISPLAY_STACK="'Plus Jakarta Sans', 'Sora', "+SF_STACK;
+const BODY_STACK="'Plus Jakarta Sans', 'Inter', "+SF_STACK;
 const THEME_STORAGE_KEY="trivic-theme-mode";
 const LANG_STORAGE_KEY="trivic-language";
 function getInitialLanguage(){
@@ -5903,25 +5903,25 @@ const CSS=`
   /* ---------- "Midnight Glass" design tokens: dark void + aurora, liquid-glass surfaces ---------- */
   :root{
     color-scheme:dark;
-    --bg:#05070D;
-    --bg-image:radial-gradient(42% 38% at 10% 6%, rgba(34,211,238,.22) 0%, rgba(34,211,238,0) 70%), radial-gradient(46% 40% at 90% 16%, rgba(167,139,250,.24) 0%, rgba(167,139,250,0) 70%), radial-gradient(52% 46% at 52% 104%, rgba(244,114,182,.20) 0%, rgba(244,114,182,0) 70%), linear-gradient(180deg, #080B16 0%, #05070D 100%);
-    --on-bg:#F4F6FF;
-    --on-bg-muted:rgba(244,246,255,.62);
-    --surface:rgba(255,255,255,.055);
-    --surface-strong:rgba(16,20,34,.72);
-    --surface-2:rgba(255,255,255,.09);
-    --border:rgba(255,255,255,.14);
-    --border-strong:rgba(255,255,255,.28);
-    --text:#F4F6FF;
-    --text-muted:rgba(244,246,255,.62);
-    --accent:#22D3EE;
-    --accent-ink:#04111A;
-    --accent-soft:rgba(34,211,238,.16);
-    --accent-2:#A78BFA;
-    --accent-3:#F472B6;
-    --danger:#FB7185;
-    --success:#4ADE80;
-    --grad-accent:linear-gradient(135deg,#22D3EE 0%,#A78BFA 100%);
+    --bg:#070A12;
+    --bg-image:radial-gradient(46% 40% at 8% 4%, rgba(120,165,235,.20) 0%, rgba(120,165,235,0) 70%), radial-gradient(48% 42% at 92% 14%, rgba(150,135,220,.18) 0%, rgba(150,135,220,0) 70%), radial-gradient(54% 46% at 50% 106%, rgba(205,140,170,.14) 0%, rgba(205,140,170,0) 70%), linear-gradient(180deg, #0B0F1C 0%, #070A12 100%);
+    --on-bg:#F6F7FB;
+    --on-bg-muted:rgba(246,247,251,.64);
+    --surface:rgba(255,255,255,.07);
+    --surface-strong:rgba(20,24,38,.74);
+    --surface-2:rgba(255,255,255,.11);
+    --border:rgba(255,255,255,.18);
+    --border-strong:rgba(255,255,255,.32);
+    --text:#F6F7FB;
+    --text-muted:rgba(246,247,251,.64);
+    --accent:#9CC8F5;
+    --accent-ink:#0B1020;
+    --accent-soft:rgba(156,200,245,.16);
+    --accent-2:#B4A6E6;
+    --accent-3:#D8A1B8;
+    --danger:#F08A98;
+    --success:#8FD3A6;
+    --grad-accent:linear-gradient(135deg,#9CC8F5 0%,#B4A6E6 100%);
     --radius-sm:14px;
     --radius:20px;
     --radius-lg:28px;
@@ -5930,7 +5930,7 @@ const CSS=`
     --shadow-1:0 8px 24px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
     --shadow-2:0 24px 60px rgba(0,0,0,.55), inset 0 1px 0 rgba(255,255,255,.20), inset 0 -1px 0 rgba(255,255,255,.04);
     --blur:blur(18px) saturate(160%);
-    --focus-ring:0 0 0 3px rgba(34,211,238,.45);
+    --focus-ring:0 0 0 3px rgba(156,200,245,.45);
     --font-display:${DISPLAY_STACK};
     --font-body:${BODY_STACK};
 
@@ -5953,27 +5953,27 @@ const CSS=`
   /* "Dusk": the lighter of the two dark looks — deep navy with brighter aurora */
   :root.theme-light{
     color-scheme:dark;
-    --bg:#0B1020;
-    --bg-image:radial-gradient(42% 38% at 10% 6%, rgba(34,211,238,.30) 0%, rgba(34,211,238,0) 70%), radial-gradient(46% 40% at 90% 16%, rgba(167,139,250,.34) 0%, rgba(167,139,250,0) 70%), radial-gradient(52% 46% at 52% 104%, rgba(244,114,182,.28) 0%, rgba(244,114,182,0) 70%), linear-gradient(180deg, #0F1630 0%, #0B1020 100%);
-    --surface:rgba(255,255,255,.08);
-    --surface-strong:rgba(22,28,48,.72);
-    --surface-2:rgba(255,255,255,.12);
-    --border:rgba(255,255,255,.18);
-    --border-strong:rgba(255,255,255,.32);
-    --header-bg-color:rgba(14,19,36,.58);
+    --bg:#0D1224;
+    --bg-image:radial-gradient(46% 40% at 8% 4%, rgba(120,165,235,.28) 0%, rgba(120,165,235,0) 70%), radial-gradient(48% 42% at 92% 14%, rgba(150,135,220,.26) 0%, rgba(150,135,220,0) 70%), radial-gradient(54% 46% at 50% 106%, rgba(205,140,170,.20) 0%, rgba(205,140,170,0) 70%), linear-gradient(180deg, #121935 0%, #0D1224 100%);
+    --surface:rgba(255,255,255,.09);
+    --surface-strong:rgba(26,32,54,.74);
+    --surface-2:rgba(255,255,255,.14);
+    --border:rgba(255,255,255,.22);
+    --border-strong:rgba(255,255,255,.36);
+    --header-bg-color:rgba(16,22,42,.6);
   }
   /* "Midnight": the deepest look (same as :root) */
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#05070D;
-    --surface:rgba(255,255,255,.055);
-    --surface-strong:rgba(16,20,34,.72);
-    --surface-2:rgba(255,255,255,.09);
-    --border:rgba(255,255,255,.14);
-    --border-strong:rgba(255,255,255,.28);
+    --bg:#070A12;
+    --surface:rgba(255,255,255,.07);
+    --surface-strong:rgba(20,24,38,.74);
+    --surface-2:rgba(255,255,255,.11);
+    --border:rgba(255,255,255,.18);
+    --border-strong:rgba(255,255,255,.32);
     --header-bg-color:rgba(10,13,22,.58);
   }
-  .glass{background:var(--surface);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1);}
+  .glass{background:linear-gradient(180deg, rgba(255,255,255,.10) 0%, rgba(255,255,255,.04) 100%);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1);}
   .glass-strong{background:var(--surface-strong);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-2);}
   /* Liquid-glass tile: static specular highlight + a sheen that sweeps across on hover */
   .lg-tile{position:relative;overflow:hidden;isolation:isolate;}
@@ -6770,12 +6770,12 @@ function getTeamPillStyle(tc,active,{fontSize=12,padding="6px 14px",letterSpacin
     letterSpacing,
     textTransform:"uppercase",
     lineHeight:1.2,
-    color:active?"#FFFFFF":lightenHex(tc,.30),
-    background:active?`linear-gradient(180deg, ${withAlpha(lightenHex(tc,.12),"F2")} 0%, ${withAlpha(tc,"E6")} 100%)`:withAlpha(tc,"24"),
-    border:active?"1px solid rgba(255,255,255,.35)":`1px solid ${withAlpha(tc,"55")}`,
+    color:active?"#FFFFFF":lightenHex(tc,.38),
+    background:active?`linear-gradient(180deg, rgba(255,255,255,.22) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(tc,"B3")}`:`linear-gradient(180deg, rgba(255,255,255,.08) 0%, rgba(255,255,255,.02) 100%), ${withAlpha(tc,"1F")}`,
+    border:active?"1px solid rgba(255,255,255,.45)":`1px solid ${withAlpha(tc,"4D")}`,
     borderRadius:999,
     padding,
-    boxShadow:active?`0 0 0 1px ${withAlpha(tc,"40")}, 0 8px 22px ${withAlpha(tc,"66")}, inset 0 1px 0 rgba(255,255,255,.35)`:"inset 0 1px 0 rgba(255,255,255,.08)",
+    boxShadow:active?`0 8px 22px ${withAlpha(tc,"40")}, inset 0 1px 0 rgba(255,255,255,.45)`:"inset 0 1px 0 rgba(255,255,255,.10)",
     textShadow:active?"0 1px 0 rgba(0,0,0,.25)":"none",
     textAlign:"center",
     minWidth,
@@ -7008,7 +7008,7 @@ const ARENA_WORDMARK_STYLE={
   lineHeight:1,
   letterSpacing:"-.04em",
   color:"var(--on-bg)",
-  textShadow:"0 0 40px rgba(34,211,238,.45), 0 0 80px rgba(167,139,250,.35)",
+  textShadow:"0 6px 30px rgba(0,0,0,.45), 0 0 60px rgba(156,200,245,.22)",
   display:"inline-block",
   paddingBottom:".06em",
 };
@@ -7048,10 +7048,10 @@ function arenaSegmentStyle(active){
       minHeight:44,
       padding:"10px 14px",
       borderRadius:"var(--radius-pill)",
-      background:"linear-gradient(180deg, rgba(34,211,238,.55) 0%, rgba(34,211,238,.30) 100%)",
-      color:"#FFFFFF",
-      border:"1px solid rgba(34,211,238,.75)",
-      boxShadow:"0 0 24px rgba(34,211,238,.35), inset 0 1px 0 rgba(255,255,255,.35)",
+      background:"linear-gradient(180deg, rgba(255,255,255,.94) 0%, rgba(255,255,255,.82) 100%)",
+      color:"#0B1020",
+      border:"1px solid rgba(255,255,255,.75)",
+      boxShadow:"0 8px 20px rgba(0,0,0,.35), inset 0 1px 0 rgba(255,255,255,.9)",
       fontFamily:DISPLAY_STACK,
       fontSize:14,
       fontWeight:700,
@@ -7190,8 +7190,8 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
           <h2 style={{fontFamily:DISPLAY_STACK,fontSize:"clamp(24px,3.6vw,32px)",fontWeight:800,letterSpacing:"-.02em",color:"var(--text)",lineHeight:1.05}}>Mode</h2>
           <div role="radiogroup" aria-label="Game mode" style={{display:"flex",flexDirection:"column",gap:10}}>
             {[
-              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. A wrong answer costs half the tile.",tint:"#22D3EE"},
-              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. A wrong answer costs the full tile.",tint:"#F472B6"},
+              {id:"team",label:"Teams",emoji:"\u{1F91D}",desc:"Take turns picking tiles. A wrong answer costs half the tile.",tint:"#9CC8F5"},
+              {id:"ffa",label:"Free-for-all",emoji:"⚡",desc:"Everyone answers every tile. A wrong answer costs the full tile.",tint:"#D8A1B8"},
             ].map(m=>{
               const active=gameMode===m.id;
               return(
@@ -7214,7 +7214,7 @@ function SetupScreen({teams,setTeams,gameMode,setGameMode,onNext,accountUser,onL
 
       {/* Sticky bottom CTA: glowing cyan glass */}
       <div style={{position:"sticky",bottom:0,zIndex:10,width:"100%",marginTop:"auto",padding:"14px 0 calc(16px + env(safe-area-inset-bottom, 0px))",display:"flex",justifyContent:"center"}}>
-        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#22D3EE",fontSize:18,padding:"14px 28px",borderRadius:999,minHeight:58}),width:"100%",maxWidth:560,letterSpacing:".02em"}}>
+        <button className="tap" onClick={onNext} style={{...getGlassButtonStyle({tint:"#9CC8F5",fontSize:18,padding:"14px 28px",borderRadius:999,minHeight:58}),width:"100%",maxWidth:560,letterSpacing:"0"}}>
           Choose Categories <span aria-hidden="true">→</span>
         </button>
       </div>
@@ -7429,8 +7429,10 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       minHeight:tileMin,
       padding:"6px 4px",
       borderRadius:"var(--radius)",
-      border:used?"1px dashed rgba(255,255,255,.16)":`1px solid ${withAlpha(c,"A6")}`,
-      background:used?"rgba(255,255,255,.035)":`linear-gradient(160deg, ${withAlpha(c,"66")} 0%, ${withAlpha(c,"2E")} 50%, ${withAlpha(c2,"3D")} 100%)`,
+      border:used?"1px dashed rgba(255,255,255,.16)":`1px solid rgba(255,255,255,.30)`,
+      background:used?"rgba(255,255,255,.035)":`linear-gradient(160deg, rgba(255,255,255,.22) 0%, rgba(255,255,255,.06) 55%, rgba(255,255,255,.02) 100%), linear-gradient(160deg, ${withAlpha(c,"52")} 0%, ${withAlpha(c,"2B")} 60%, ${withAlpha(c2,"33")} 100%)`,
+      backdropFilter:used?"none":"blur(16px) saturate(140%)",
+      WebkitBackdropFilter:used?"none":"blur(16px) saturate(140%)",
       color:used?"rgba(255,255,255,.26)":"#FFFFFF",
       fontFamily:DISPLAY_STACK,
       fontWeight:800,
@@ -7438,11 +7440,11 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       letterSpacing:"-.02em",
       fontVariantNumeric:"tabular-nums",
       lineHeight:1,
-      textShadow:used?"none":`0 0 18px ${withAlpha(c,"D9")}, 0 2px 0 rgba(0,0,0,.35)`,
+      textShadow:used?"none":"0 2px 6px rgba(0,0,0,.35)",
       display:"flex",
       alignItems:"center",
       justifyContent:"center",
-      boxShadow:used?"none":`inset 0 1px 0 rgba(255,255,255,.38), inset 0 -12px 26px ${withAlpha(c2,"40")}, 0 12px 30px rgba(0,0,0,.45), 0 0 28px ${withAlpha(c,"38")}`,
+      boxShadow:used?"none":`inset 0 1px 0 rgba(255,255,255,.55), inset 0 -1px 0 rgba(255,255,255,.10), 0 12px 30px rgba(0,0,0,.40), 0 0 24px ${withAlpha(c,"1F")}`,
       cursor:used?"default":"pointer",
       pointerEvents:used?"none":"auto",
       transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, opacity .3s ease, background .3s ease",
@@ -7467,7 +7469,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
             return(
               <div key={catId} className="glass" style={{minWidth:0,minHeight:0,height:fillHeight?"100%":undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
                 {/* Category name: tinted glass pill in the category color, centered above its block */}
-                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, ${withAlpha(c.color||"#22D3EE","40")} 0%, ${withAlpha(c.color||"#22D3EE","1A")} 100%)`,color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:`0 0 22px ${withAlpha(c.color||"#22D3EE","38")}, inset 0 1px 0 rgba(255,255,255,.25)`,border:`1px solid ${withAlpha(c.color||"#22D3EE","8C")}`,whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
+                <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, rgba(255,255,255,.16) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(c.color||"#9CC8F5","2E")}`,color:"#FFFFFF",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:"inset 0 1px 0 rgba(255,255,255,.40), 0 6px 16px rgba(0,0,0,.30)",border:"1px solid rgba(255,255,255,.30)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
                   <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
                 </div>
                 {/* Tiles flank the category art: [200][art][200] / [400][art][400] / [600][art][600]. FFA: [art][tile] x5 */}
@@ -7701,8 +7703,8 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   display:"inline-flex",
   alignItems:"center",
   justifyContent:"center",
-  background:`linear-gradient(180deg, ${withAlpha(pc,"3D")} 0%, ${withAlpha(pc,"1F")} 100%)`,
-  color:lightenHex(pc,.35),
+  background:`linear-gradient(180deg, rgba(255,255,255,.14) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(pc,"33")}`,
+  color:"#FFFFFF",
   fontFamily:DISPLAY_STACK,
   fontWeight:800,
   fontVariantNumeric:"tabular-nums",
@@ -7710,9 +7712,9 @@ const QUESTION_HEADER_POINTS_STYLE=(pc,pb)=>({
   lineHeight:1,
   padding:"clamp(7px,1.2vw,10px) clamp(12px,2vw,18px)",
   borderRadius:"var(--radius-pill)",
-  border:`1px solid ${withAlpha(pc,"80")}`,
-  boxShadow:`0 0 24px ${withAlpha(pc,"40")}, inset 0 1px 0 rgba(255,255,255,.25)`,
-  textShadow:`0 0 14px ${withAlpha(pc,"99")}`,
+  border:"1px solid rgba(255,255,255,.32)",
+  boxShadow:`0 0 20px ${withAlpha(pc,"26")}, inset 0 1px 0 rgba(255,255,255,.40)`,
+  textShadow:"0 1px 3px rgba(0,0,0,.35)",
   minWidth:"clamp(52px,8vw,84px)",
   textAlign:"center",
   whiteSpace:"nowrap",
@@ -7871,9 +7873,9 @@ const QUESTION_KICKER_STYLE={
 
 // Answer panel: gradient top line + glow tinted by the tile's point color.
 const QUESTION_ANSWER_PANEL_STYLE=(pc)=>({
-  border:`1px solid ${withAlpha(pc,"8C")}`,
-  background:`linear-gradient(180deg, ${withAlpha(pc,"2E")} 0%, ${withAlpha(pc,"14")} 100%)`,
-  boxShadow:`0 24px 60px rgba(0,0,0,.55), 0 0 0 1px ${withAlpha(pc,"33")}, 0 0 40px ${withAlpha(pc,"40")}, inset 0 1px 0 rgba(255,255,255,.22)`,
+  border:"1px solid rgba(255,255,255,.30)",
+  background:`linear-gradient(180deg, rgba(255,255,255,.14) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(pc,"29")}`,
+  boxShadow:`0 24px 60px rgba(0,0,0,.55), 0 0 36px ${withAlpha(pc,"26")}, inset 0 1px 0 rgba(255,255,255,.40)`,
 });
 
 const QUESTION_ANSWER_LABEL_STYLE=(pc)=>({
@@ -8045,7 +8047,7 @@ function getGlassButtonStyle({
   const isDanger=kind==="danger";
   const isAccent=kind==="accent";
   const isNeutral=kind==="neutral";
-  const t=isAccent?"#22D3EE":isDanger?"#FB7185":tint;
+  const t=isAccent?"#9CC8F5":isDanger?"#F08A98":tint;
   const ring=selected?`0 0 0 2px ${ringColor||withAlpha(t,"73")}`:"";
   const base={
     display:"inline-flex",
@@ -8082,18 +8084,19 @@ function getGlassButtonStyle({
   if(subtle){
     return{
       ...base,
-      background:isNeutral?"var(--surface-2)":`linear-gradient(180deg, ${withAlpha(t,"33")} 0%, ${withAlpha(t,"14")} 100%)`,
-      border:`1px solid ${isNeutral?"var(--border-strong)":withAlpha(t,"66")}`,
+      background:isNeutral?"var(--surface-2)":`linear-gradient(180deg, rgba(255,255,255,.12) 0%, rgba(255,255,255,.04) 100%), ${withAlpha(t,"24")}`,
+      border:`1px solid ${isNeutral?"var(--border-strong)":withAlpha(t,"59")}`,
       boxShadow:[ring,"var(--glass-edge)"].filter(Boolean).join(", "),
-      color:isDanger?"#FFB4C0":isNeutral?"var(--text)":lightenHex(t,.32),
+      color:isDanger?"#FFC2CB":isNeutral?"var(--text)":lightenHex(t,.30),
     };
   }
+  // Primary: frosted white-tinted glass with dark ink — clear and bright without going neon.
   return{
     ...base,
-    background:`linear-gradient(180deg, ${withAlpha(lightenHex(t,.08),"E6")} 0%, ${withAlpha(t,"B3")} 100%)`,
-    border:"1px solid rgba(255,255,255,.38)",
-    boxShadow:[ring,`0 0 32px ${withAlpha(t,"59")}`,"0 14px 36px rgba(0,0,0,.45)","inset 0 1px 0 rgba(255,255,255,.45)"].filter(Boolean).join(", "),
-    color:isAccent||/^#(2|3|6|8|9|A|B|C|D|E|F)/i.test(t)&&!isDanger?"#04111A":"#FFFFFF",
+    background:`linear-gradient(180deg, rgba(255,255,255,.96) 0%, rgba(255,255,255,.84) 100%), ${t}`,
+    border:"1px solid rgba(255,255,255,.75)",
+    boxShadow:[ring,`0 0 28px ${withAlpha(t,"40")}`,"0 14px 36px rgba(0,0,0,.45)","inset 0 1px 0 rgba(255,255,255,.9)"].filter(Boolean).join(", "),
+    color:isDanger?"#6B1020":"#0B1020",
     textShadow:"none",
   };
 }
