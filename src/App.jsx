@@ -7575,7 +7575,7 @@ function AwardRow({tile,teams,curTeam,onAward,onWrong,onPass,gameMode}){
               ...(isTurn?{boxShadow:`0 0 0 4px ${withAlpha(tc,"40")}, 0 10px 24px ${withAlpha(tc,"4D")}, inset 0 1px 0 rgba(255,255,255,.28)`}:{}),
             })}>
               <span style={nameStyle}>{t}</span>
-              <span style={{...ptsStyle,background:isTurn?"rgba(255,255,255,.22)":withAlpha(tc,"2E"),color:isTurn?"#FFFFFF":tc}}>+{tile.pts}</span>
+              <span style={{...ptsStyle,background:isTurn?"rgba(11,16,32,.12)":withAlpha(tc,"33"),color:isTurn?"#0B1020":lightenHex(tc,.35)}}>+{tile.pts}</span>
             </button>
           );
         })}
