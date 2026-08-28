@@ -2640,6 +2640,34 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Debra's job when the series begins?",
         "a": "Vice officer"
+      },
+      {
+        "q": "Which character's line \"Surprise, motherf***er!\" became an internet meme?",
+        "a": "James Doakes"
+      },
+      {
+        "q": "What trademark piece of clothing does Angel Batista almost always wear?",
+        "a": "A fedora"
+      },
+      {
+        "q": "What is completely missing from the Ice Truck Killer's dismembered victims?",
+        "a": "Blood"
+      },
+      {
+        "q": "Dexter's son Harrison is named in honour of which character?",
+        "a": "Harry Morgan"
+      },
+      {
+        "q": "Where on the body does Dexter inject his victims with the tranquiliser?",
+        "a": "The neck"
+      },
+      {
+        "q": "Where is Dexter: Resurrection set?",
+        "a": "New York City"
+      },
+      {
+        "q": "Which of Rita's two children is the older one?",
+        "a": "Astor"
       }
     ],
     "400": [
@@ -2934,6 +2962,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "How long has Dexter been living in Iron Lake when New Blood begins?",
         "a": "About ten years"
+      },
+      {
+        "q": "In New Blood, which school sport does Harrison take up?",
+        "a": "Wrestling"
+      },
+      {
+        "q": "What weapon does Dexter use to kill Arthur Mitchell?",
+        "a": "A hammer"
+      },
+      {
+        "q": "Deb walks in on Dexter killing Travis Marshall at the end of which season?",
+        "a": "6"
+      },
+      {
+        "q": "Which two Miami Metro colleagues get married in season 4?",
+        "a": "Batista and LaGuerta"
+      },
+      {
+        "q": "Where does Rita's ex-husband Paul die?",
+        "a": "In prison"
+      },
+      {
+        "q": "Where do Astor and Cody go to live after Rita's death?",
+        "a": "Orlando"
+      },
+      {
+        "q": "In what year did the original series finale air?",
+        "a": "2013"
+      },
+      {
+        "q": "In what year did Dexter: New Blood premiere?",
+        "a": "2021"
+      },
+      {
+        "q": "How old was Dexter when Harry found him in the shipping container?",
+        "a": "Three"
+      },
+      {
+        "q": "Whom does the Ice Truck Killer date and later kidnap in season 1?",
+        "a": "Debra"
+      },
+      {
+        "q": "Where does Dexter hold Doakes captive in season 2?",
+        "a": "A cabin in the Everglades"
+      },
+      {
+        "q": "What nationality is Lila, Dexter's season 2 sponsor?",
+        "a": "British"
+      },
+      {
+        "q": "Dexter and Rita get married at the end of which season?",
+        "a": "3"
+      },
+      {
+        "q": "Whose murder does Dexter stage to look like the work of the Skinner?",
+        "a": "Miguel Prado"
+      },
+      {
+        "q": "What piece of Dexter's evidence does LaGuerta find at the Doomsday church?",
+        "a": "A blood slide"
+      },
+      {
+        "q": "Where does Dexter find Professor Gellar's body?",
+        "a": "In a freezer"
+      },
+      {
+        "q": "Which police officer does Dexter kill while escaping the Iron Lake jail?",
+        "a": "Sergeant Logan"
+      },
+      {
+        "q": "From which part of the face does Dexter take the drop of blood for his trophy slides?",
+        "a": "The cheek"
+      },
+      {
+        "q": "What job does Dexter work in New York in Dexter: Resurrection?",
+        "a": "Rideshare driver"
+      },
+      {
+        "q": "Where does Harrison work in Dexter: Resurrection?",
+        "a": "A hotel"
+      },
+      {
+        "q": "Who is the billionaire who collects serial killers in Dexter: Resurrection?",
+        "a": "Leon Prater"
       }
     ],
     "600": [
@@ -3208,6 +3320,158 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who drugs Debra and causes her car crash in season 7?",
         "a": "Hannah McKay"
+      },
+      {
+        "q": "Which killer is Dexter dispatching when he discovers Lumen Pierce?",
+        "a": "Boyd Fowler"
+      },
+      {
+        "q": "What is Jordan Chase's real name?",
+        "a": "Eugene Greer"
+      },
+      {
+        "q": "What is Jordan Chase's two-word motivational catchphrase?",
+        "a": "Take it"
+      },
+      {
+        "q": "Which member of Jordan Chase's group serves as his head of security?",
+        "a": "Cole Harmon"
+      },
+      {
+        "q": "What separates Deb from Dexter and Lumen when she lets them go in the season 5 finale?",
+        "a": "A plastic sheet"
+      },
+      {
+        "q": "Which Mexican folk saint is tied to the cartel killings investigated in season 5?",
+        "a": "Santa Muerte"
+      },
+      {
+        "q": "What is the profession of Christine Hill, the woman who shoots Frank Lundy?",
+        "a": "Reporter"
+      },
+      {
+        "q": "Whose daughter is Christine Hill?",
+        "a": "Arthur Mitchell"
+      },
+      {
+        "q": "What does Trinity do with the young boys he abducts?",
+        "a": "Buries them in cement"
+      },
+      {
+        "q": "Which photographer does Dexter kill in season 4, only to learn afterwards that he was innocent?",
+        "a": "Jonathan Farrow"
+      },
+      {
+        "q": "Which Prado brother does Dexter kill in self-defence in the season 3 premiere?",
+        "a": "Oscar"
+      },
+      {
+        "q": "Which drug dealer does Dexter kill and then lie to Miguel Prado about?",
+        "a": "Freebo"
+      },
+      {
+        "q": "Who is Deb's musician boyfriend and confidential informant in season 3?",
+        "a": "Anton Briggs"
+      },
+      {
+        "q": "In which city does Dexter kill Lila?",
+        "a": "Paris"
+      },
+      {
+        "q": "Which gang killer breaks free from Dexter's table in the season 2 premiere?",
+        "a": "Little Chino"
+      },
+      {
+        "q": "What childhood nickname did Dexter use for his brother Brian?",
+        "a": "Biney"
+      },
+      {
+        "q": "Which security guard does the Ice Truck Killer mutilate and leave alive?",
+        "a": "Tony Tucci"
+      },
+      {
+        "q": "What is the name of the ex-convict preacher who befriends Dexter in season 6?",
+        "a": "Brother Sam"
+      },
+      {
+        "q": "Which detective from Chicago joins Miami Metro in season 6 and is shot dead in the season 7 premiere?",
+        "a": "Mike Anderson"
+      },
+      {
+        "q": "What is the name of the Ukrainian crime syndicate Isaak Sirko belongs to?",
+        "a": "Koshka Brotherhood"
+      },
+      {
+        "q": "Whose death drives Isaak Sirko to hunt Dexter?",
+        "a": "Viktor Baskov"
+      },
+      {
+        "q": "Who shoots Isaak Sirko?",
+        "a": "George Novikov"
+      },
+      {
+        "q": "Which spree killer was Hannah McKay's boyfriend as a teenager?",
+        "a": "Wayne Randall"
+      },
+      {
+        "q": "Which true-crime writer is poisoned by Hannah McKay?",
+        "a": "Sal Price"
+      },
+      {
+        "q": "Where does Deb shoot LaGuerta?",
+        "a": "A shipping container"
+      },
+      {
+        "q": "Which young killer does Dexter take on as a protege in season 8?",
+        "a": "Zach Hamilton"
+      },
+      {
+        "q": "What does Dexter stab Oliver Saxon with in the series finale?",
+        "a": "A pen"
+      },
+      {
+        "q": "How many episodes did the original series run for?",
+        "a": "96"
+      },
+      {
+        "q": "Which former Miami Metro colleague does Angela meet at a police conference, tipping her off about Dexter?",
+        "a": "Angel Batista"
+      },
+      {
+        "q": "How many episodes does Dexter: New Blood have?",
+        "a": "Ten"
+      },
+      {
+        "q": "What was the name of Dexter's very first human kill, a nurse who was poisoning Harry?",
+        "a": "Mary"
+      },
+      {
+        "q": "Which of his mother's killers does Dexter track down and kill in season 2?",
+        "a": "Santos Jimenez"
+      },
+      {
+        "q": "What is the name of the restaurant Batista buys?",
+        "a": "Papa's Cafe"
+      },
+      {
+        "q": "In which elite military unit did Doakes serve before joining the police?",
+        "a": "Special Forces"
+      },
+      {
+        "q": "What does Deb do to her car, with Dexter inside, in season 8?",
+        "a": "Drives it into a lake"
+      },
+      {
+        "q": "Who does Travis Marshall try to sacrifice on a rooftop in the season 6 finale?",
+        "a": "Harrison"
+      },
+      {
+        "q": "What does Dexter plant on Paul Bennett to send him back to prison?",
+        "a": "Heroin"
+      },
+      {
+        "q": "Who is Leon Prater's head of security in Dexter: Resurrection?",
+        "a": "Charley"
       }
     ]
   },
@@ -8856,6 +9120,42 @@ const QUALITY_BACKFILL = {
       {
         "q": "Whose brother is Terrence Steadman?",
         "a": "Caroline Reynolds"
+      },
+      {
+        "q": "In which city does Michael carry out the bank robbery that lands him in Fox River?",
+        "a": "Chicago"
+      },
+      {
+        "q": "What does mob boss Abruzzi promise to provide for the getaway after the Fox River escape?",
+        "a": "A plane"
+      },
+      {
+        "q": "What Spanish word does Sucre habitually call Michael?",
+        "a": "Papi"
+      },
+      {
+        "q": "Which member of the Fox River Eight has a nickname taken from slang for a hundred-dollar bill?",
+        "a": "C-Note"
+      },
+      {
+        "q": "Which former Fox River guard captain ends up locked inside the same prison as an inmate in season 2?",
+        "a": "Brad Bellick"
+      },
+      {
+        "q": "Which of the two brothers is the older one?",
+        "a": "Lincoln"
+      },
+      {
+        "q": "What happens to Sona prison at the very start of season 4?",
+        "a": "It burns down"
+      },
+      {
+        "q": "What nationality is Lechero, the boss of Sona?",
+        "a": "Panamanian"
+      },
+      {
+        "q": "In which country does Sucre finally reunite with Maricruz in season 2?",
+        "a": "Mexico"
       }
     ],
     "400": [
@@ -9106,6 +9406,130 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the fictional black-ops CIA cell Michael works for in season 5?",
         "a": "21-Void"
+      },
+      {
+        "q": "Which Company agent does Sara shoot dead in the season 2 finale?",
+        "a": "Bill Kim"
+      },
+      {
+        "q": "How does Terrence Steadman die in season 2?",
+        "a": "Suicide"
+      },
+      {
+        "q": "Which escapee jumps to his death from a grain silo?",
+        "a": "Haywire"
+      },
+      {
+        "q": "Who shoots Tweener dead in season 2?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "Which member of the escape crew dies of his injuries on the night of the Fox River breakout?",
+        "a": "Charles Westmoreland"
+      },
+      {
+        "q": "How many years is Michael sentenced to for his bank robbery?",
+        "a": "Five"
+      },
+      {
+        "q": "How many episodes are in season 1?",
+        "a": "22"
+      },
+      {
+        "q": "How many cards are needed to access Scylla?",
+        "a": "Six"
+      },
+      {
+        "q": "Scylla is often described as the Company's what?",
+        "a": "Little black book"
+      },
+      {
+        "q": "How much time is Michael given to break Whistler out of Sona?",
+        "a": "One week"
+      },
+      {
+        "q": "Who kills James Whistler in season 4?",
+        "a": "Wyatt"
+      },
+      {
+        "q": "How many years forward does the story jump at the end of the season 4 finale?",
+        "a": "Four"
+      },
+      {
+        "q": "Where does Jacob Ness end up in the closing scene of season 5?",
+        "a": "Fox River"
+      },
+      {
+        "q": "What alias does Kellerman use to befriend Sara at her recovery meetings?",
+        "a": "Lance"
+      },
+      {
+        "q": "Who tortures Sara by holding her under water in a bathtub in season 2?",
+        "a": "Paul Kellerman"
+      },
+      {
+        "q": "For whose murders is LJ framed in season 1?",
+        "a": "His mother and stepfather"
+      },
+      {
+        "q": "What document is Governor Tancredi pressured into signing?",
+        "a": "Lincoln's death warrant"
+      },
+      {
+        "q": "What crime put Sucre in Fox River?",
+        "a": "Armed robbery"
+      },
+      {
+        "q": "In which branch of the US military did C-Note serve?",
+        "a": "The Army"
+      },
+      {
+        "q": "Which escapee turns himself in to the FBI so his sick daughter can get treatment?",
+        "a": "C-Note"
+      },
+      {
+        "q": "Who slashes Abruzzi's throat in season 1?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "Which witness against Abruzzi does Michael use as leverage over him?",
+        "a": "Otto Fibonacci"
+      },
+      {
+        "q": "Which part of the prison do the escapees have to cut through after the original infirmary route is blocked?",
+        "a": "The psych ward"
+      },
+      {
+        "q": "Who tortures and kills Wyatt in season 4?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "What skill makes Ja useful to Michael's escape from Ogygia?",
+        "a": "Hacking"
+      },
+      {
+        "q": "Which inmate works as Bellick's snitch inside Fox River?",
+        "a": "Tweener"
+      },
+      {
+        "q": "What job does T-Bag hold at GATE in season 4?",
+        "a": "Salesman"
+      },
+      {
+        "q": "What profession does Jacob Ness use as his cover?",
+        "a": "University professor"
+      },
+      {
+        "q": "Who kills Aldo Burrows?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "Which two people does Gretchen hold hostage to force Michael to free Whistler?",
+        "a": "LJ and Sara"
+      },
+      {
+        "q": "In which US state do the brothers plan to meet their getaway plane in season 2?",
+        "a": "New Mexico"
       }
     ],
     "600": [
@@ -9384,6 +9808,150 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Michael's engineering firm before prison?",
         "a": "Middleton, Maxwell and Schaum"
+      },
+      {
+        "q": "What is the name of C-Note's daughter?",
+        "a": "Dede"
+      },
+      {
+        "q": "What is the name of C-Note's wife?",
+        "a": "Kacee"
+      },
+      {
+        "q": "What white-supremacist gang does T-Bag lead inside Fox River?",
+        "a": "Alliance for Purity"
+      },
+      {
+        "q": "Which young inmate hangs himself after being abused by T-Bag in season 1?",
+        "a": "Seth"
+      },
+      {
+        "q": "Whose murders put Haywire in Fox River?",
+        "a": "His parents"
+      },
+      {
+        "q": "What valuable item did Tweener steal to land himself in Fox River?",
+        "a": "A baseball card"
+      },
+      {
+        "q": "Which drug dealer did Lincoln owe $90,000 to?",
+        "a": "Crab Simmons"
+      },
+      {
+        "q": "What is the name of Veronica's legal colleague who helps her in season 1?",
+        "a": "Nick Savrinn"
+      },
+      {
+        "q": "What legal-aid organisation does Nick Savrinn work for?",
+        "a": "Project Justice"
+      },
+      {
+        "q": "What is Michael's inmate number at Fox River?",
+        "a": "94941"
+      },
+      {
+        "q": "What phrase on Michael's tattoo, read upside down, reveals the coordinates of a desert meeting point?",
+        "a": "Bolshoi Booze"
+      },
+      {
+        "q": "In which Illinois town do the escapees dig up Michael's buried cache of clothes and IDs?",
+        "a": "Oswego"
+      },
+      {
+        "q": "In which Utah town is Westmoreland's money buried?",
+        "a": "Tooele"
+      },
+      {
+        "q": "What is the name of the boat Michael buys in Panama in season 2?",
+        "a": "Christina Rose"
+      },
+      {
+        "q": "What nationality is Nika Volek?",
+        "a": "Czech"
+      },
+      {
+        "q": "What name does Lechero call T-Bag inside Sona?",
+        "a": "Teodoro"
+      },
+      {
+        "q": "Who is Lechero's right-hand man at Sona?",
+        "a": "Sammy"
+      },
+      {
+        "q": "Which teenage inmate helps Michael in Sona and escapes with him?",
+        "a": "McGrady"
+      },
+      {
+        "q": "Who takes over as boss of Sona after Lechero's death?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "What is the name of the hacker on Michael's Scylla team?",
+        "a": "Roland Glenn"
+      },
+      {
+        "q": "What specific type of brain tumour is Michael diagnosed with in season 4?",
+        "a": "Hypothalamic hamartoma"
+      },
+      {
+        "q": "What is the name of General Krantz's daughter?",
+        "a": "Lisa Tabak"
+      },
+      {
+        "q": "Whose quote appears on Michael's gravestone at the end of season 4?",
+        "a": "Gandhi"
+      },
+      {
+        "q": "Who shoots Christina Scofield dead in the season 4 finale?",
+        "a": "Sara"
+      },
+      {
+        "q": "What nickname was General Krantz credited under before his name was revealed?",
+        "a": "Pad Man"
+      },
+      {
+        "q": "What is the name of the undercover agent posing as T-Bag's secretary at GATE?",
+        "a": "Trishanne"
+      },
+      {
+        "q": "Who is Mahone's FBI partner during the season 2 manhunt?",
+        "a": "Felicia Lang"
+      },
+      {
+        "q": "Who kills Whip in season 5?",
+        "a": "A&W"
+      },
+      {
+        "q": "What is the nickname of A&W's partner in season 5?",
+        "a": "Van Gogh"
+      },
+      {
+        "q": "What Odyssey-inspired name does Michael give the Yemeni fishing village where his group hopes to find a boat?",
+        "a": "Phaeacia"
+      },
+      {
+        "q": "Michael's alias surname Outis is the false name Odysseus gave the Cyclops, meaning what?",
+        "a": "Nobody"
+      },
+      {
+        "q": "In Homer's Odyssey, Ogygia is the island home of which nymph?",
+        "a": "Calypso"
+      },
+      {
+        "q": "Which country's prime minister loses his son to an assassination in Christina's Scylla scheme?",
+        "a": "India"
+      },
+      {
+        "q": "Who briefly becomes Michael's cellmate after Sucre is moved out of their cell?",
+        "a": "Haywire"
+      },
+      {
+        "q": "Which cousin of Sucre's takes up with Maricruz while he is in prison?",
+        "a": "Hector"
+      },
+      {
+        "q": "Whose testimony finally leads to Lincoln's exoneration in season 2?",
+        "a": "Paul Kellerman"
       }
     ]
   },
@@ -28441,6 +29009,238 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the charm used to repair broken objects?",
         "a": "Reparo"
+      },
+      {
+        "q": "Which Hogwarts house has an eagle on its crest?",
+        "a": "Ravenclaw"
+      },
+      {
+        "q": "What is the wizarding world's main daily newspaper?",
+        "a": "The Daily Prophet"
+      },
+      {
+        "q": "What kind of snake does Harry accidentally set free at the zoo?",
+        "a": "Boa constrictor"
+      },
+      {
+        "q": "Which professor is head of Slytherin house during Harry's first five years?",
+        "a": "Severus Snape"
+      },
+      {
+        "q": "Which Hogsmeade pub do students visit for a butterbeer?",
+        "a": "The Three Broomsticks"
+      },
+      {
+        "q": "Which Weasley brother works at the Ministry and cuts ties with his family?",
+        "a": "Percy"
+      },
+      {
+        "q": "Who teaches Care of Magical Creatures from Harry's third year onward?",
+        "a": "Hagrid"
+      },
+      {
+        "q": "What kind of creature is Buckbeak?",
+        "a": "Hippogriff"
+      },
+      {
+        "q": "Who runs the Hogwarts hospital wing?",
+        "a": "Madam Pomfrey"
+      },
+      {
+        "q": "In which book does Sirius Black die?",
+        "a": "Order of the Phoenix"
+      },
+      {
+        "q": "Who kills Sirius Black?",
+        "a": "Bellatrix Lestrange"
+      },
+      {
+        "q": "What is the three-headed dog guarding in the first book?",
+        "a": "The Philosopher's Stone"
+      },
+      {
+        "q": "What make of flying car do Ron and Harry crash at Hogwarts?",
+        "a": "Ford Anglia"
+      },
+      {
+        "q": "What ball do Beaters knock at opposing players in Quidditch?",
+        "a": "Bludger"
+      },
+      {
+        "q": "What is the large red ball used to score goals in Quidditch?",
+        "a": "Quaffle"
+      },
+      {
+        "q": "Which portrait guards the entrance to the Gryffindor common room?",
+        "a": "The Fat Lady"
+      },
+      {
+        "q": "Who is Harry's first kiss?",
+        "a": "Cho Chang"
+      },
+      {
+        "q": "Who does Ron Weasley marry?",
+        "a": "Hermione Granger"
+      },
+      {
+        "q": "Who does Harry Potter marry?",
+        "a": "Ginny Weasley"
+      },
+      {
+        "q": "Which professor teaches Charms at Hogwarts?",
+        "a": "Professor Flitwick"
+      },
+      {
+        "q": "What is the name of Neville's pet toad?",
+        "a": "Trevor"
+      },
+      {
+        "q": "Who teaches Divination when Harry starts the subject?",
+        "a": "Professor Trelawney"
+      },
+      {
+        "q": "Which pink-clad Ministry official takes control of Hogwarts in book five?",
+        "a": "Dolores Umbridge"
+      },
+      {
+        "q": "What are Voldemort's followers called?",
+        "a": "Death Eaters"
+      },
+      {
+        "q": "What is the incantation for the Patronus Charm?",
+        "a": "Expecto Patronum"
+      },
+      {
+        "q": "Who personally delivers Harry's Hogwarts acceptance letter?",
+        "a": "Hagrid"
+      },
+      {
+        "q": "How many players are on a Quidditch team?",
+        "a": "7"
+      },
+      {
+        "q": "What is Ron Weasley's greatest fear?",
+        "a": "Spiders"
+      },
+      {
+        "q": "What spell turns a Boggart into something funny?",
+        "a": "Riddikulus"
+      },
+      {
+        "q": "Who takes Hermione to the Yule Ball?",
+        "a": "Viktor Krum"
+      },
+      {
+        "q": "What does Ron vomit after his broken wand backfires?",
+        "a": "Slugs"
+      },
+      {
+        "q": "In which country is Hogwarts located?",
+        "a": "Scotland"
+      },
+      {
+        "q": "What insulting word is used for a wizard born to Muggle parents?",
+        "a": "Mudblood"
+      },
+      {
+        "q": "What are the Ministry's trained dark-wizard catchers called?",
+        "a": "Aurors"
+      },
+      {
+        "q": "What animal appears on the Slytherin house crest?",
+        "a": "Serpent"
+      },
+      {
+        "q": "How many years after the Battle of Hogwarts is the epilogue set?",
+        "a": "19"
+      },
+      {
+        "q": "Who becomes headmaster of Hogwarts after Dumbledore's death?",
+        "a": "Severus Snape"
+      },
+      {
+        "q": "What does the Goblet of Fire choose?",
+        "a": "Triwizard champions"
+      },
+      {
+        "q": "What purple triple-decker bus rescues stranded witches and wizards?",
+        "a": "The Knight Bus"
+      },
+      {
+        "q": "What sits at the centre of the maze in the third task of the tournament?",
+        "a": "The Triwizard Cup"
+      },
+      {
+        "q": "What powder lets wizards travel through fireplaces?",
+        "a": "Floo powder"
+      },
+      {
+        "q": "What is the magical term for instantly teleporting from one place to another?",
+        "a": "Apparition"
+      },
+      {
+        "q": "What spell wipes a person's memory?",
+        "a": "Obliviate"
+      },
+      {
+        "q": "What spell puts out the light at the tip of a wand?",
+        "a": "Nox"
+      },
+      {
+        "q": "What is the incantation for the Shield Charm?",
+        "a": "Protego"
+      },
+      {
+        "q": "What is the name of the secret defence group Harry teaches in his fifth year?",
+        "a": "Dumbledore's Army"
+      },
+      {
+        "q": "Which London pub hides the entrance to Diagon Alley?",
+        "a": "The Leaky Cauldron"
+      },
+      {
+        "q": "What item of clothing sets Dobby free?",
+        "a": "A sock"
+      },
+      {
+        "q": "What does Hagrid give Dudley when he loses his temper at the hut?",
+        "a": "A pig's tail"
+      },
+      {
+        "q": "Which relative does Harry accidentally inflate like a balloon?",
+        "a": "Aunt Marge"
+      },
+      {
+        "q": "What attacks Harry and Dudley in an alleyway in Little Whinging?",
+        "a": "Dementors"
+      },
+      {
+        "q": "What does Mrs Weasley knit for Harry every Christmas?",
+        "a": "A jumper"
+      },
+      {
+        "q": "Who rescues Harry and his friends from Malfoy Manor?",
+        "a": "Dobby"
+      },
+      {
+        "q": "Which creature in Fantastic Beasts is obsessed with shiny things?",
+        "a": "Niffler"
+      },
+      {
+        "q": "Which Hogwarts house was Voldemort in as a student?",
+        "a": "Slytherin"
+      },
+      {
+        "q": "In which book is the Triwizard Tournament held?",
+        "a": "Goblet of Fire"
+      },
+      {
+        "q": "Who anonymously gives Harry his Invisibility Cloak in his first year?",
+        "a": "Dumbledore"
+      },
+      {
+        "q": "What does Harry see when he looks into the Mirror of Erised?",
+        "a": "His parents"
       }
     ],
     "400": [
@@ -28685,16 +29485,212 @@ const QUALITY_BACKFILL = {
         "a": "Norwegian Ridgeback"
       },
       {
-        "q": "Who kills Dobby the house-elf?",
-        "a": "Bellatrix Lestrange"
-      },
-      {
         "q": "What wand wood belongs to Harry Potter?",
         "a": "Holly"
       },
       {
         "q": "What is Hermione's patronus?",
         "a": "Otter"
+      },
+      {
+        "q": "What is the name of the sweet shop in Hogsmeade?",
+        "a": "Honeydukes"
+      },
+      {
+        "q": "Which house is Cho Chang in?",
+        "a": "Ravenclaw"
+      },
+      {
+        "q": "What does S.P.E.W. stand for?",
+        "a": "Society for the Promotion of Elfish Welfare"
+      },
+      {
+        "q": "What spell does Harry use to beat Voldemort in their final duel?",
+        "a": "Expelliarmus"
+      },
+      {
+        "q": "What creatures carry Umbridge off into the Forbidden Forest?",
+        "a": "Centaurs"
+      },
+      {
+        "q": "What is the wizarding hospital in London called?",
+        "a": "St Mungo's"
+      },
+      {
+        "q": "Which Quidditch team does Ron support?",
+        "a": "Chudley Cannons"
+      },
+      {
+        "q": "What form does Harry's Boggart take?",
+        "a": "A Dementor"
+      },
+      {
+        "q": "Who is Harry's date to the Yule Ball?",
+        "a": "Parvati Patil"
+      },
+      {
+        "q": "In which village did Harry's parents die?",
+        "a": "Godric's Hollow"
+      },
+      {
+        "q": "What card game do Hogwarts students play with cards that blow up?",
+        "a": "Exploding Snap"
+      },
+      {
+        "q": "What kind of spirit is Peeves?",
+        "a": "A poltergeist"
+      },
+      {
+        "q": "Which position does Ginny play on the Gryffindor team in Half-Blood Prince while Harry is Seeker?",
+        "a": "Chaser"
+      },
+      {
+        "q": "What does Veritaserum force the drinker to do?",
+        "a": "Tell the truth"
+      },
+      {
+        "q": "Which camera-toting student is Petrified by the Basilisk?",
+        "a": "Colin Creevey"
+      },
+      {
+        "q": "What puts the three-headed dog to sleep?",
+        "a": "Music"
+      },
+      {
+        "q": "Which professor is head of Hufflepuff house?",
+        "a": "Professor Sprout"
+      },
+      {
+        "q": "What is the name of Harry's daughter?",
+        "a": "Lily Luna"
+      },
+      {
+        "q": "What is Draco Malfoy's son called?",
+        "a": "Scorpius"
+      },
+      {
+        "q": "What is the name of Ron and Hermione's daughter?",
+        "a": "Rose"
+      },
+      {
+        "q": "Which werewolf mauls Bill Weasley's face in Half-Blood Prince?",
+        "a": "Fenrir Greyback"
+      },
+      {
+        "q": "Which two national teams play in the Quidditch World Cup final in Goblet of Fire?",
+        "a": "Ireland and Bulgaria"
+      },
+      {
+        "q": "What does O.W.L. stand for?",
+        "a": "Ordinary Wizarding Level"
+      },
+      {
+        "q": "What potion does Snape brew to keep Lupin's mind during full moons?",
+        "a": "Wolfsbane Potion"
+      },
+      {
+        "q": "What is the address of the Order of the Phoenix headquarters?",
+        "a": "12 Grimmauld Place"
+      },
+      {
+        "q": "What does the Triwizard Cup turn out to be?",
+        "a": "A Portkey"
+      },
+      {
+        "q": "Who does Harry rescue from the lake in the second Triwizard task?",
+        "a": "Ron"
+      },
+      {
+        "q": "What spell does Hermione use to freeze Neville in their first year?",
+        "a": "Petrificus Totalus"
+      },
+      {
+        "q": "What is the incantation of the cleaning spell?",
+        "a": "Scourgify"
+      },
+      {
+        "q": "What spell conjures water from a wand?",
+        "a": "Aguamenti"
+      },
+      {
+        "q": "What spell blasts solid objects apart?",
+        "a": "Reducto"
+      },
+      {
+        "q": "What is the incantation for the Silencing Charm?",
+        "a": "Silencio"
+      },
+      {
+        "q": "Which Weasley works as a curse-breaker for Gringotts?",
+        "a": "Bill"
+      },
+      {
+        "q": "What creatures does Lockhart release in his first Defence Against the Dark Arts lesson?",
+        "a": "Cornish pixies"
+      },
+      {
+        "q": "What device do Fred and George invent to eavesdrop on the Order?",
+        "a": "Extendable Ears"
+      },
+      {
+        "q": "What object does Dumbledore leave Ron in his will?",
+        "a": "The Deluminator"
+      },
+      {
+        "q": "What book does Dumbledore leave Hermione in his will?",
+        "a": "The Tales of Beedle the Bard"
+      },
+      {
+        "q": "Where does Snape die?",
+        "a": "The Shrieking Shack"
+      },
+      {
+        "q": "Whose Gringotts vault holds Hufflepuff's cup?",
+        "a": "Bellatrix Lestrange"
+      },
+      {
+        "q": "What is the name of Slughorn's exclusive club for favoured students?",
+        "a": "The Slug Club"
+      },
+      {
+        "q": "What does Harry shove down Ron's throat to save him from poisoned mead?",
+        "a": "A bezoar"
+      },
+      {
+        "q": "Who does Ron date in Half-Blood Prince?",
+        "a": "Lavender Brown"
+      },
+      {
+        "q": "In which book do Harry and Ginny share their first kiss?",
+        "a": "Half-Blood Prince"
+      },
+      {
+        "q": "What object does Draco repair to let Death Eaters into Hogwarts?",
+        "a": "The Vanishing Cabinet"
+      },
+      {
+        "q": "Which Horcrux leaves Dumbledore's hand blackened and dying?",
+        "a": "Marvolo Gaunt's ring"
+      },
+      {
+        "q": "What is Mrs Figg, Harry's cat-loving neighbour?",
+        "a": "A Squib"
+      },
+      {
+        "q": "In which city is The Crimes of Grindelwald mainly set?",
+        "a": "Paris"
+      },
+      {
+        "q": "Which of Harry's Gryffindor dorm-mates is Irish?",
+        "a": "Seamus Finnigan"
+      },
+      {
+        "q": "Which of Harry's dorm-mates dates Ginny before Harry does?",
+        "a": "Dean Thomas"
+      },
+      {
+        "q": "Who does Voldemort have Nagini kill, believing it will make him master of the Elder Wand?",
+        "a": "Severus Snape"
       }
     ],
     "600": [
@@ -28981,6 +29977,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which character is revealed to be an Animagus stag, dog, rat, and wolf in the Marauders' group (which one is NOT an Animagus)?",
         "a": "Remus Lupin (he is a werewolf, not an Animagus)"
+      },
+      {
+        "q": "What is Ron Weasley's middle name?",
+        "a": "Bilius"
+      },
+      {
+        "q": "In what year is the epilogue of Deathly Hallows set?",
+        "a": "2017"
+      },
+      {
+        "q": "What is the name of the village nearest to the Burrow?",
+        "a": "Ottery St Catchpole"
+      },
+      {
+        "q": "What form does Kingsley Shacklebolt's Patronus take?",
+        "a": "A lynx"
+      },
+      {
+        "q": "What form does Tonks's Patronus take after she falls for Lupin?",
+        "a": "A wolf"
+      },
+      {
+        "q": "Which Ministry department does Barty Crouch Sr head?",
+        "a": "International Magical Cooperation"
+      },
+      {
+        "q": "What does N.E.W.T. stand for?",
+        "a": "Nastily Exhausting Wizarding Test"
+      },
+      {
+        "q": "What is the name of Percy Weasley's owl?",
+        "a": "Hermes"
+      },
+      {
+        "q": "Which Slytherin girl is Draco's date to the Yule Ball?",
+        "a": "Pansy Parkinson"
+      },
+      {
+        "q": "Who is Ron's date to the Yule Ball?",
+        "a": "Padma Patil"
+      },
+      {
+        "q": "Who is Ginny's first boyfriend?",
+        "a": "Michael Corner"
+      },
+      {
+        "q": "What is the name of Neville's formidable grandmother?",
+        "a": "Augusta Longbottom"
+      },
+      {
+        "q": "What object does Sirius give Harry so they can talk face to face from far apart?",
+        "a": "A two-way mirror"
+      },
+      {
+        "q": "Who is the conductor of the Knight Bus?",
+        "a": "Stan Shunpike"
+      },
+      {
+        "q": "What breed of dragon does Viktor Krum face in the first Triwizard task?",
+        "a": "Chinese Fireball"
+      },
+      {
+        "q": "What breed of dragon does Cedric Diggory face in the first Triwizard task?",
+        "a": "Swedish Short-Snout"
+      },
+      {
+        "q": "What breed of dragon does Fleur Delacour face in the first Triwizard task?",
+        "a": "Common Welsh Green"
+      },
+      {
+        "q": "Which Hogwarts house was Nymphadora Tonks sorted into?",
+        "a": "Hufflepuff"
+      },
+      {
+        "q": "What is the incantation that conjures the Dark Mark?",
+        "a": "Morsmordre"
+      },
+      {
+        "q": "What spell does Draco use to conjure a snake at the Duelling Club?",
+        "a": "Serpensortia"
+      },
+      {
+        "q": "What charm does Hermione put on the fake Galleons used by Dumbledore's Army?",
+        "a": "Protean Charm"
+      },
+      {
+        "q": "Which Ravenclaw betrays Dumbledore's Army to Umbridge?",
+        "a": "Marietta Edgecombe"
+      },
+      {
+        "q": "Who comes up with the name Dumbledore's Army?",
+        "a": "Ginny Weasley"
+      },
+      {
+        "q": "What is the name of Hagrid's giantess mother?",
+        "a": "Fridwulfa"
+      },
+      {
+        "q": "What is the name of the barman at the Leaky Cauldron?",
+        "a": "Tom"
+      },
+      {
+        "q": "Whose cat's hair accidentally ends up in Hermione's Polyjuice Potion?",
+        "a": "Millicent Bulstrode"
+      },
+      {
+        "q": "What is the name of the prison Grindelwald built and was later locked in?",
+        "a": "Nurmengard"
+      },
+      {
+        "q": "Which of the three Peverell brothers received the Cloak of Invisibility?",
+        "a": "Ignotus"
+      },
+      {
+        "q": "Which of the three Peverell brothers received the Resurrection Stone?",
+        "a": "Cadmus"
+      },
+      {
+        "q": "What is the curse called that reveals anyone who speaks Voldemort's name aloud in Deathly Hallows?",
+        "a": "The Taboo"
+      },
+      {
+        "q": "Where is Dobby buried?",
+        "a": "Shell Cottage"
+      },
+      {
+        "q": "What is the name of Newt Scamander's Bowtruckle?",
+        "a": "Pickett"
+      },
+      {
+        "q": "What is the first name of Newt Scamander's Auror brother?",
+        "a": "Theseus"
+      },
+      {
+        "q": "What slogan did Grindelwald use for his cause?",
+        "a": "For the Greater Good"
+      },
+      {
+        "q": "Where is a bezoar found?",
+        "a": "A goat's stomach"
+      },
+      {
+        "q": "Whose love-potion-laced chocolates does Ron accidentally eat?",
+        "a": "Romilda Vane"
+      },
+      {
+        "q": "What pet name does Lavender Brown call Ron?",
+        "a": "Won-Won"
+      },
+      {
+        "q": "What is the name of Aunt Marge's bulldog?",
+        "a": "Ripper"
+      },
+      {
+        "q": "What potion is made from powdered root of asphodel and an infusion of wormwood?",
+        "a": "Draught of Living Death"
+      },
+      {
+        "q": "Which Gryffindor girl is cursed by an opal necklace in Half-Blood Prince?",
+        "a": "Katie Bell"
+      },
+      {
+        "q": "What incantation makes a wand behave like a compass?",
+        "a": "Point Me"
+      },
+      {
+        "q": "What is the incantation of the Leg-Locker Curse?",
+        "a": "Locomotor Mortis"
+      },
+      {
+        "q": "What is the incantation of the Tickling Charm?",
+        "a": "Rictusempra"
+      },
+      {
+        "q": "What creature's horn explodes inside the Lovegoods' house?",
+        "a": "Erumpent"
+      },
+      {
+        "q": "Whose corpse is Nagini hiding inside at Godric's Hollow?",
+        "a": "Bathilda Bagshot"
+      },
+      {
+        "q": "Where does Voldemort originally hide Slytherin's locket?",
+        "a": "A seaside cave"
+      },
+      {
+        "q": "Which Gryffindor competes with Ron for the Keeper spot in Half-Blood Prince?",
+        "a": "Cormac McLaggen"
+      },
+      {
+        "q": "Who serves as puppet Minister for Magic during Voldemort's takeover?",
+        "a": "Pius Thicknesse"
+      },
+      {
+        "q": "What form does Ron Weasley's Patronus take?",
+        "a": "Jack Russell terrier"
       }
     ]
   },
@@ -32953,6 +34145,242 @@ const QUALITY_BACKFILL = {
       {
         "q": "In Tokyo Ghoul, what is the name of the protagonist who becomes half-ghoul?",
         "a": "Ken Kaneki"
+      },
+      {
+        "q": "In Naruto, what is Naruto's spinning sphere of chakra attack called?",
+        "a": "Rasengan"
+      },
+      {
+        "q": "In Naruto, what number is the squad Naruto, Sasuke and Sakura form under Kakashi?",
+        "a": "Team 7"
+      },
+      {
+        "q": "In Naruto, who does Naruto eventually marry?",
+        "a": "Hinata"
+      },
+      {
+        "q": "In Naruto, what is the name of the ramen shop Naruto is always eating at?",
+        "a": "Ichiraku"
+      },
+      {
+        "q": "In Attack on Titan, what does Armin dream of seeing beyond the walls?",
+        "a": "The ocean"
+      },
+      {
+        "q": "In Attack on Titan, which cadet is nicknamed 'Potato Girl'?",
+        "a": "Sasha"
+      },
+      {
+        "q": "In Attack on Titan, what equipment lets soldiers swing through the air on cables?",
+        "a": "ODM gear"
+      },
+      {
+        "q": "In Demon Slayer, what flower repels demons?",
+        "a": "Wisteria"
+      },
+      {
+        "q": "In Demon Slayer, what breathing style does Inosuke use?",
+        "a": "Beast Breathing"
+      },
+      {
+        "q": "In My Hero Academia, what is U.A. High's motto?",
+        "a": "Plus Ultra"
+      },
+      {
+        "q": "In My Hero Academia, who gave Izuku the nickname 'Deku'?",
+        "a": "Bakugo"
+      },
+      {
+        "q": "In My Hero Academia, what annual U.A. event shows off students' Quirks to pro heroes?",
+        "a": "The Sports Festival"
+      },
+      {
+        "q": "In Jujutsu Kaisen, how many of Sukuna's fingers exist in total?",
+        "a": "20"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what title is Sukuna known by?",
+        "a": "The King of Curses"
+      },
+      {
+        "q": "Which animation studio produces Jujutsu Kaisen?",
+        "a": "MAPPA"
+      },
+      {
+        "q": "In Death Note, what fruit is Ryuk obsessed with?",
+        "a": "Apples"
+      },
+      {
+        "q": "In Death Note, what does L constantly eat while working on the case?",
+        "a": "Sweets"
+      },
+      {
+        "q": "In Death Note, what is the job of Light's father Soichiro?",
+        "a": "Police officer"
+      },
+      {
+        "q": "In Fullmetal Alchemist, what are the seven Homunculi named after?",
+        "a": "The seven deadly sins"
+      },
+      {
+        "q": "In Fullmetal Alchemist, what gesture lets Ed transmute without drawing a circle?",
+        "a": "Clapping his hands"
+      },
+      {
+        "q": "In Fullmetal Alchemist, what does Ed hate being called?",
+        "a": "Short"
+      },
+      {
+        "q": "In Hunter x Hunter, what test does Gon take at the start of the series?",
+        "a": "The Hunter Exam"
+      },
+      {
+        "q": "In Hunter x Hunter, what colour do Kurapika's eyes turn when he is enraged?",
+        "a": "Scarlet"
+      },
+      {
+        "q": "In One Punch Man, how far does Saitama run every day in his training routine?",
+        "a": "10 kilometres"
+      },
+      {
+        "q": "In One Punch Man, what hero rank is Saitama given when he first registers?",
+        "a": "C-Class"
+      },
+      {
+        "q": "In One Punch Man, what did Saitama lose as a side effect of his training?",
+        "a": "His hair"
+      },
+      {
+        "q": "In Spy x Family, what kind of animal is Bond?",
+        "a": "A dog"
+      },
+      {
+        "q": "In Spy x Family, what snack is Anya obsessed with?",
+        "a": "Peanuts"
+      },
+      {
+        "q": "In Spy x Family, what is Loid Forger's cover profession?",
+        "a": "Psychiatrist"
+      },
+      {
+        "q": "In Chainsaw Man, what organisation does Denji hunt devils for?",
+        "a": "Public Safety"
+      },
+      {
+        "q": "In Chainsaw Man, what does Pochita become inside Denji's body?",
+        "a": "His heart"
+      },
+      {
+        "q": "In Chainsaw Man, what simple meal does Denji dream of eating?",
+        "a": "Bread with jam"
+      },
+      {
+        "q": "In Bleach, what title does Ichigo hold as a human with Soul Reaper powers?",
+        "a": "Substitute Soul Reaper"
+      },
+      {
+        "q": "In Neon Genesis Evangelion, who is Shinji's cold father who commands NERV?",
+        "a": "Gendo Ikari"
+      },
+      {
+        "q": "In Neon Genesis Evangelion, what is the name of the blue-haired pilot of Unit-00?",
+        "a": "Rei Ayanami"
+      },
+      {
+        "q": "In My Neighbor Totoro, what vehicle-shaped creature carries the girls through the countryside?",
+        "a": "The Catbus"
+      },
+      {
+        "q": "In Spirited Away, what is the name of the masked spirit who follows Chihiro?",
+        "a": "No-Face"
+      },
+      {
+        "q": "In Howl's Moving Castle, what is the name of the fire demon who powers the castle?",
+        "a": "Calcifer"
+      },
+      {
+        "q": "In Kiki's Delivery Service, what is the name of Kiki's black cat?",
+        "a": "Jiji"
+      },
+      {
+        "q": "In Ponyo, what kind of creature is Ponyo before she becomes a girl?",
+        "a": "A goldfish"
+      },
+      {
+        "q": "Which Studio Ghibli film won the Oscar for Best Animated Feature in 2024?",
+        "a": "The Boy and the Heron"
+      },
+      {
+        "q": "In Your Name, what happens to Taki and Mitsuha when they fall asleep?",
+        "a": "They swap bodies"
+      },
+      {
+        "q": "In Sailor Moon, what is Sailor Moon's civilian name?",
+        "a": "Usagi Tsukino"
+      },
+      {
+        "q": "In Sailor Moon, what is the name of the talking black cat?",
+        "a": "Luna"
+      },
+      {
+        "q": "In Sailor Moon, what is the name of the caped, top-hat-wearing man who keeps rescuing Sailor Moon?",
+        "a": "Tuxedo Mask"
+      },
+      {
+        "q": "What sport is the anime Blue Lock about?",
+        "a": "Football"
+      },
+      {
+        "q": "What sport is Hajime no Ippo about?",
+        "a": "Boxing"
+      },
+      {
+        "q": "What sport is Yuri!!! on Ice about?",
+        "a": "Figure skating"
+      },
+      {
+        "q": "Which Tokyo district is known as the centre of anime and otaku culture?",
+        "a": "Akihabara"
+      },
+      {
+        "q": "What Japanese word describes an obsessive fan of anime and manga?",
+        "a": "Otaku"
+      },
+      {
+        "q": "In Fairy Tail, what is the name of Natsu's flying blue cat?",
+        "a": "Happy"
+      },
+      {
+        "q": "In Inuyasha, what is the name of the modern schoolgirl who falls through the well into feudal Japan?",
+        "a": "Kagome"
+      },
+      {
+        "q": "In Assassination Classroom, what is the name of the yellow tentacled teacher?",
+        "a": "Koro-sensei"
+      },
+      {
+        "q": "In Frieren: Beyond Journey's End, what race is Frieren?",
+        "a": "Elf"
+      },
+      {
+        "q": "In That Time I Got Reincarnated as a Slime, what is the slime's name?",
+        "a": "Rimuru"
+      },
+      {
+        "q": "In Sword Art Online, what headset traps players inside the game?",
+        "a": "NerveGear"
+      },
+      {
+        "q": "In Code Geass, what power does Lelouch's Geass give him over others?",
+        "a": "Absolute obedience"
+      },
+      {
+        "q": "Which streaming service, now owned by Sony, is dedicated to anime?",
+        "a": "Crunchyroll"
+      },
+      {
+        "q": "In Fruits Basket, what do members of the Sohma family turn into when hugged?",
+        "a": "Zodiac animals"
       }
     ],
     "400": [
@@ -33331,6 +34759,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "In Black Clover, what is Asta's power that cancels spells called?",
         "a": "Anti-Magic"
+      },
+      {
+        "q": "In Naruto, which taijutsu specialist in a green jumpsuit cannot use ninjutsu at all?",
+        "a": "Rock Lee"
+      },
+      {
+        "q": "In Naruto, what rank do ninja hold when they first graduate from the Academy?",
+        "a": "Genin"
+      },
+      {
+        "q": "In Naruto Shippuden, which Akatsuki member kills Jiraiya?",
+        "a": "Pain"
+      },
+      {
+        "q": "In Naruto, who becomes the Sixth Hokage after the war?",
+        "a": "Kakashi"
+      },
+      {
+        "q": "In Naruto, which rogue Mist ninja with a giant sword is Team 7's first real enemy?",
+        "a": "Zabuza"
+      },
+      {
+        "q": "In Naruto Shippuden, which legendary Uchiha is revived to fight in the Fourth Great Ninja War?",
+        "a": "Madara"
+      },
+      {
+        "q": "Who created the Naruto manga?",
+        "a": "Masashi Kishimoto"
+      },
+      {
+        "q": "In Naruto, which Academy teacher is the first adult to accept Naruto and treats him to ramen?",
+        "a": "Iruka"
+      },
+      {
+        "q": "What is the subtitle of the Boruto anime series?",
+        "a": "Naruto Next Generations"
+      },
+      {
+        "q": "In Attack on Titan, which district does Eren seal by carrying a boulder in Titan form?",
+        "a": "Trost"
+      },
+      {
+        "q": "In Attack on Titan, how many years does a Titan shifter live after inheriting their power?",
+        "a": "13"
+      },
+      {
+        "q": "In Attack on Titan, how tall is the Colossal Titan?",
+        "a": "60 metres"
+      },
+      {
+        "q": "In Attack on Titan, which cadet is revealed to be the rightful heir to the throne?",
+        "a": "Historia"
+      },
+      {
+        "q": "In what year did the Attack on Titan anime premiere?",
+        "a": "2013"
+      },
+      {
+        "q": "In Demon Slayer: Mugen Train, which Upper Rank demon kills Rengoku?",
+        "a": "Akaza"
+      },
+      {
+        "q": "In Demon Slayer, who is the Water Hashira?",
+        "a": "Giyu Tomioka"
+      },
+      {
+        "q": "Demon Slayer is set during which Japanese historical era?",
+        "a": "Taisho"
+      },
+      {
+        "q": "Which 2025 film became the highest-grossing anime film of all time worldwide?",
+        "a": "Demon Slayer: Infinity Castle"
+      },
+      {
+        "q": "In My Hero Academia, what is the real name of the frog-Quirk heroine Froppy?",
+        "a": "Tsuyu Asui"
+      },
+      {
+        "q": "In My Hero Academia, what is the name of the Hero Killer who attacks pro heroes?",
+        "a": "Stain"
+      },
+      {
+        "q": "In My Hero Academia, which winged hero becomes Japan's No. 2?",
+        "a": "Hawks"
+      },
+      {
+        "q": "In My Hero Academia, which number holder of One For All is Izuku?",
+        "a": "Ninth"
+      },
+      {
+        "q": "In Jujutsu Kaisen, who is Gojo's former best friend turned curse user?",
+        "a": "Suguru Geto"
+      },
+      {
+        "q": "In Jujutsu Kaisen, which sorcerer quit a salaryman job and fights with the Ratio Technique?",
+        "a": "Kento Nanami"
+      },
+      {
+        "q": "In Jujutsu Kaisen, which Tokyo district is the setting of the season 2 incident arc?",
+        "a": "Shibuya"
+      },
+      {
+        "q": "Who is the protagonist of the prequel film Jujutsu Kaisen 0?",
+        "a": "Yuta Okkotsu"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is the barrier that stops anything from actually touching Gojo?",
+        "a": "Infinity"
+      },
+      {
+        "q": "In Death Note, what does a human give up to obtain Shinigami eyes?",
+        "a": "Half their lifespan"
+      },
+      {
+        "q": "In Fullmetal Alchemist, what are Ed's mechanical prosthetic limbs called?",
+        "a": "Automail"
+      },
+      {
+        "q": "In Fullmetal Alchemist, which little girl is turned into a chimera by her alchemist father?",
+        "a": "Nina Tucker"
+      },
+      {
+        "q": "In Fullmetal Alchemist, who is Mustang's sharpshooting lieutenant?",
+        "a": "Riza Hawkeye"
+      },
+      {
+        "q": "Who created Hunter x Hunter and is famous for long hiatuses?",
+        "a": "Yoshihiro Togashi"
+      },
+      {
+        "q": "In One Punch Man, what is the name of the martial artist who becomes the Hero Hunter?",
+        "a": "Garou"
+      },
+      {
+        "q": "In One Punch Man, which alien warlord attacks Earth in the season 1 finale?",
+        "a": "Boros"
+      },
+      {
+        "q": "In Spy x Family, what special ability does Bond have?",
+        "a": "Seeing the future"
+      },
+      {
+        "q": "In Spy x Family, what is the codename of Loid's mission to get close to Donovan Desmond?",
+        "a": "Operation Strix"
+      },
+      {
+        "q": "In Chainsaw Man, which girl Denji falls for turns out to be the Bomb Devil hybrid?",
+        "a": "Reze"
+      },
+      {
+        "q": "In Bleach, what is the name of the hat-and-clogs shopkeeper who trains Ichigo?",
+        "a": "Kisuke Urahara"
+      },
+      {
+        "q": "In Bleach, what is Ichigo's signature energy slash called?",
+        "a": "Getsuga Tensho"
+      },
+      {
+        "q": "Who created Bleach?",
+        "a": "Tite Kubo"
+      },
+      {
+        "q": "In Cowboy Bebop, who is the amnesiac gambler who joins the crew?",
+        "a": "Faye Valentine"
+      },
+      {
+        "q": "In Cowboy Bebop, who is Spike's ex-cop partner with a cybernetic arm?",
+        "a": "Jet Black"
+      },
+      {
+        "q": "In Spirited Away, what name does Yubaba give Chihiro after taking hers?",
+        "a": "Sen"
+      },
+      {
+        "q": "In Castle in the Sky, what is the name of the floating island?",
+        "a": "Laputa"
+      },
+      {
+        "q": "Which Studio Ghibli film stars a First World War pilot cursed to look like a pig?",
+        "a": "Porco Rosso"
+      },
+      {
+        "q": "In Steins;Gate, what kitchen appliance is turned into a time machine?",
+        "a": "A microwave"
+      },
+      {
+        "q": "Which Japanese creator is called the 'God of Manga' for works such as Astro Boy?",
+        "a": "Osamu Tezuka"
+      },
+      {
+        "q": "In Slam Dunk, what high school does Hanamichi Sakuragi play for?",
+        "a": "Shohoku"
+      },
+      {
+        "q": "In Rurouni Kenshin, what was Kenshin's feared nickname during his assassin days?",
+        "a": "Battousai"
       }
     ],
     "600": [
@@ -33701,6 +35325,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "In Neon Genesis Evangelion, what is the name of the first Angel, from whom the Evas are derived?",
         "a": "Adam"
+      },
+      {
+        "q": "In Naruto, which ninja originally invented the Chidori?",
+        "a": "Kakashi"
+      },
+      {
+        "q": "In Naruto Shippuden, on what mountain do the toads train Naruto in Sage Mode?",
+        "a": "Mount Myoboku"
+      },
+      {
+        "q": "In Naruto, where does the final battle between Naruto and Sasuke take place?",
+        "a": "The Valley of the End"
+      },
+      {
+        "q": "In Naruto, who is the Third Hokage?",
+        "a": "Hiruzen Sarutobi"
+      },
+      {
+        "q": "In Naruto, what is the name of Naruto's daughter?",
+        "a": "Himawari"
+      },
+      {
+        "q": "In JoJo's Bizarre Adventure: Diamond Is Unbreakable, what is the name of Yoshikage Kira's Stand?",
+        "a": "Killer Queen"
+      },
+      {
+        "q": "In Mobile Suit Gundam, what is Char Aznable's famous nickname?",
+        "a": "The Red Comet"
+      },
+      {
+        "q": "In Attack on Titan, which Marleyan child soldier shoots Sasha?",
+        "a": "Gabi"
+      },
+      {
+        "q": "In Attack on Titan, what is the name of Levi's uncle who raised him?",
+        "a": "Kenny Ackerman"
+      },
+      {
+        "q": "Which band performs Attack on Titan's first opening theme 'Guren no Yumiya'?",
+        "a": "Linked Horizon"
+      },
+      {
+        "q": "In Attack on Titan, which Reiss family member held the Founding Titan before Grisha took it?",
+        "a": "Frieda Reiss"
+      },
+      {
+        "q": "In Attack on Titan, what is the name of the spy known as the Owl who passed the Attack Titan to Grisha?",
+        "a": "Eren Kruger"
+      },
+      {
+        "q": "In Trigun, how big is the bounty on Vash the Stampede's head?",
+        "a": "$$60 billion"
+      },
+      {
+        "q": "In Demon Slayer, what is the name of the Lower Rank demon who controls the Mugen Train?",
+        "a": "Enmu"
+      },
+      {
+        "q": "In Demon Slayer, which Upper Rank One demon is Yoriichi's twin brother?",
+        "a": "Kokushibo"
+      },
+      {
+        "q": "In Demon Slayer, which Upper Rank Two demon leads a cult and wields ice?",
+        "a": "Doma"
+      },
+      {
+        "q": "In Demon Slayer, what is the name of the leader of the Demon Slayer Corps?",
+        "a": "Kagaya Ubuyashiki"
+      },
+      {
+        "q": "Who created the Demon Slayer manga?",
+        "a": "Koyoharu Gotouge"
+      },
+      {
+        "q": "In My Hero Academia, what is Dabi's real name?",
+        "a": "Toya Todoroki"
+      },
+      {
+        "q": "In My Hero Academia, what is Tomura Shigaraki's birth name?",
+        "a": "Tenko Shimura"
+      },
+      {
+        "q": "Which manga artist created JoJo's Bizarre Adventure?",
+        "a": "Hirohiko Araki"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is Aoi Todo's body-swapping technique called?",
+        "a": "Boogie Woogie"
+      },
+      {
+        "q": "In Jujutsu Kaisen, which student speaks only in rice-ball ingredients because of his cursed speech?",
+        "a": "Toge Inumaki"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is the special-grade cursed object used to seal Gojo?",
+        "a": "The Prison Realm"
+      },
+      {
+        "q": "In Jujutsu Kaisen, what is the name of the ancient sorcerer inhabiting Geto's body?",
+        "a": "Kenjaku"
+      },
+      {
+        "q": "In Sword Art Online, who is the creator of the game who traps the players?",
+        "a": "Akihiko Kayaba"
+      },
+      {
+        "q": "In Bleach, which Espada ranked number four does Ichigo fight in Hueco Mundo?",
+        "a": "Ulquiorra"
+      },
+      {
+        "q": "Which manga artist created Inuyasha and Ranma ½?",
+        "a": "Rumiko Takahashi"
+      },
+      {
+        "q": "In Bleach, who is the youngest captain, leading Squad 10?",
+        "a": "Toshiro Hitsugaya"
+      },
+      {
+        "q": "In Bleach, what is the name of the former captain who spends most of the series as a black cat?",
+        "a": "Yoruichi"
+      },
+      {
+        "q": "In Death Note, what is L's full real name?",
+        "a": "L Lawliet"
+      },
+      {
+        "q": "In Death Note, which chocolate-eating successor of L works with the mafia?",
+        "a": "Mello"
+      },
+      {
+        "q": "In Death Note, which task-force member shoots Light in the finale?",
+        "a": "Matsuda"
+      },
+      {
+        "q": "In Fullmetal Alchemist: Brotherhood, what is the name of the Homunculi's creator and main villain?",
+        "a": "Father"
+      },
+      {
+        "q": "In Psycho-Pass, what is the name of the AI system that judges citizens?",
+        "a": "The Sibyl System"
+      },
+      {
+        "q": "In Fullmetal Alchemist, which Xing prince becomes the new Greed?",
+        "a": "Ling Yao"
+      },
+      {
+        "q": "In Hunter x Hunter, what is Gon's rock-paper-scissors Nen attack called?",
+        "a": "Jajanken"
+      },
+      {
+        "q": "In Hunter x Hunter, what is the name of the blind Gungi player Meruem befriends?",
+        "a": "Komugi"
+      },
+      {
+        "q": "In Hunter x Hunter, which of Killua's brothers controls people with needles?",
+        "a": "Illumi"
+      },
+      {
+        "q": "Before Hunter x Hunter, what earlier hit manga did Yoshihiro Togashi create?",
+        "a": "Yu Yu Hakusho"
+      },
+      {
+        "q": "In One Punch Man, which S-Class hero called the strongest man on Earth is secretly an ordinary gamer?",
+        "a": "King"
+      },
+      {
+        "q": "In Spy x Family, what is the name of Damian's father, the target of Loid's mission?",
+        "a": "Donovan Desmond"
+      },
+      {
+        "q": "In Your Name, what is the name of the comet that destroys Mitsuha's town?",
+        "a": "Tiamat"
+      },
+      {
+        "q": "Who created the Chainsaw Man manga?",
+        "a": "Tatsuki Fujimoto"
+      },
+      {
+        "q": "In Cowboy Bebop, who is Spike's former partner in the Red Dragon syndicate and his arch-enemy?",
+        "a": "Vicious"
+      },
+      {
+        "q": "Who composed the jazz-heavy soundtrack of Cowboy Bebop?",
+        "a": "Yoko Kanno"
+      },
+      {
+        "q": "In Neon Genesis Evangelion, which silver-haired boy is revealed to be the final Angel?",
+        "a": "Kaworu"
       }
     ]
   },
@@ -41537,6 +43349,246 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Stitch's alien friend?",
         "a": "Lilo"
+      },
+      {
+        "q": "In The Lion King, what kind of animal is Timon?",
+        "a": "Meerkat"
+      },
+      {
+        "q": "In The Lion King, what is the name of the wise mandrill who presents Simba at Pride Rock?",
+        "a": "Rafiki"
+      },
+      {
+        "q": "What song opens The Lion King as the sun rises over the savanna?",
+        "a": "Circle of Life"
+      },
+      {
+        "q": "In Toy Story, what is the name of the boy who owns Woody and Buzz?",
+        "a": "Andy"
+      },
+      {
+        "q": "In Toy Story, what is the name of the timid green toy dinosaur?",
+        "a": "Rex"
+      },
+      {
+        "q": "In Toy Story 2, what is the name of the yodeling cowgirl doll?",
+        "a": "Jessie"
+      },
+      {
+        "q": "In Toy Story 4, what is the name of the toy Bonnie makes out of a spork?",
+        "a": "Forky"
+      },
+      {
+        "q": "In Frozen, what is the name of Kristoff's reindeer?",
+        "a": "Sven"
+      },
+      {
+        "q": "In Frozen, who is the ice harvester who helps Anna search for her sister?",
+        "a": "Kristoff"
+      },
+      {
+        "q": "In Frozen, what song does Elsa sing while building her ice palace?",
+        "a": "Let It Go"
+      },
+      {
+        "q": "In Frozen, what song does young Anna sing outside Elsa's bedroom door?",
+        "a": "Do You Want to Build a Snowman?"
+      },
+      {
+        "q": "In Aladdin, what is the name of the Sultan's scheming royal vizier?",
+        "a": "Jafar"
+      },
+      {
+        "q": "In Aladdin, what is the name of the fictional desert city where the story takes place?",
+        "a": "Agrabah"
+      },
+      {
+        "q": "In Aladdin, what royal alias does the Genie give Aladdin for his parade into the city?",
+        "a": "Prince Ali"
+      },
+      {
+        "q": "In The Little Mermaid, what is the name of the crab who serves King Triton?",
+        "a": "Sebastian"
+      },
+      {
+        "q": "In The Little Mermaid, what does Ariel give Ursula in exchange for human legs?",
+        "a": "Her voice"
+      },
+      {
+        "q": "In The Little Mermaid, what is the name of the human prince Ariel rescues from a shipwreck?",
+        "a": "Eric"
+      },
+      {
+        "q": "In Beauty and the Beast, what is the name of the talking candelabra?",
+        "a": "Lumière"
+      },
+      {
+        "q": "In Beauty and the Beast, what is the name of the motherly teapot?",
+        "a": "Mrs. Potts"
+      },
+      {
+        "q": "In Beauty and the Beast, what flower's falling petals count down the Beast's curse?",
+        "a": "A rose"
+      },
+      {
+        "q": "In Snow White and the Seven Dwarfs, which dwarf never speaks?",
+        "a": "Dopey"
+      },
+      {
+        "q": "In Cinderella, what does the Fairy Godmother turn into a carriage?",
+        "a": "A pumpkin"
+      },
+      {
+        "q": "In Sleeping Beauty, what creature does Maleficent transform into for the final battle?",
+        "a": "A dragon"
+      },
+      {
+        "q": "In Peter Pan, what is the name of the island where the Lost Boys live?",
+        "a": "Neverland"
+      },
+      {
+        "q": "In Peter Pan, what animal with a ticking clock inside it terrifies Captain Hook?",
+        "a": "A crocodile"
+      },
+      {
+        "q": "In Peter Pan, what is the name of the eldest Darling child who flies to Neverland?",
+        "a": "Wendy"
+      },
+      {
+        "q": "In The Jungle Book, what kind of animal is Bagheera?",
+        "a": "A panther"
+      },
+      {
+        "q": "In The Jungle Book, what is the name of the man-cub raised by wolves?",
+        "a": "Mowgli"
+      },
+      {
+        "q": "In The Jungle Book, what is the name of the tiger who hunts the man-cub?",
+        "a": "Shere Khan"
+      },
+      {
+        "q": "What song does Baloo sing about the simple life in The Jungle Book?",
+        "a": "The Bare Necessities"
+      },
+      {
+        "q": "In Tangled, what household item does Rapunzel use as a weapon?",
+        "a": "A frying pan"
+      },
+      {
+        "q": "In Zootopia, what kind of animal is the con artist Nick Wilde?",
+        "a": "A fox"
+      },
+      {
+        "q": "In Encanto, what gift does Bruno have that makes the family shun him?",
+        "a": "Seeing the future"
+      },
+      {
+        "q": "Which Encanto song became a number-one hit single in 2022?",
+        "a": "We Don't Talk About Bruno"
+      },
+      {
+        "q": "In Moana, what magical object gives Maui his shape-shifting power?",
+        "a": "His fishhook"
+      },
+      {
+        "q": "In Lilo & Stitch, what Hawaiian word meaning 'family' is the film's motto?",
+        "a": "Ohana"
+      },
+      {
+        "q": "In Lilo & Stitch, who is Lilo's older sister and guardian?",
+        "a": "Nani"
+      },
+      {
+        "q": "In Finding Nemo, what is the name of the forgetful blue fish who helps Marlin?",
+        "a": "Dory"
+      },
+      {
+        "q": "In Finding Dory, what condition does Dory suffer from?",
+        "a": "Short-term memory loss"
+      },
+      {
+        "q": "In The Incredibles, what is the name of the baby of the family?",
+        "a": "Jack-Jack"
+      },
+      {
+        "q": "In Cinderella, what song does the Fairy Godmother sing while working her magic?",
+        "a": "Bibbidi-Bobbidi-Boo"
+      },
+      {
+        "q": "In Cars, what kind of vehicle is Mater?",
+        "a": "A tow truck"
+      },
+      {
+        "q": "In which city is Ratatouille set?",
+        "a": "Paris"
+      },
+      {
+        "q": "In Ratatouille, what is the name of the clumsy kitchen boy Remy controls by pulling his hair?",
+        "a": "Linguini"
+      },
+      {
+        "q": "In WALL-E, what is the name of the sleek white probe robot WALL-E falls in love with?",
+        "a": "EVE"
+      },
+      {
+        "q": "In Up, what is the name of the boy scout who ends up on Carl's flying house?",
+        "a": "Russell"
+      },
+      {
+        "q": "In Up, what is the name of the golden retriever with a talking collar?",
+        "a": "Dug"
+      },
+      {
+        "q": "In Coco, what song does Miguel sing to his great-grandmother to bring back her memory?",
+        "a": "Remember Me"
+      },
+      {
+        "q": "In Inside Out, which emotion is coloured blue?",
+        "a": "Sadness"
+      },
+      {
+        "q": "What song do the seven dwarfs sing on their way home from the mine?",
+        "a": "Heigh-Ho"
+      },
+      {
+        "q": "In Brave, what weapon is Merida an expert with?",
+        "a": "Bow and arrow"
+      },
+      {
+        "q": "What is the name of Mickey Mouse's pet dog?",
+        "a": "Pluto"
+      },
+      {
+        "q": "What is the name of Donald Duck's girlfriend?",
+        "a": "Daisy Duck"
+      },
+      {
+        "q": "What are the names of the two chipmunks who constantly torment Donald Duck?",
+        "a": "Chip and Dale"
+      },
+      {
+        "q": "In Winnie the Pooh, what is the name of the gloomy donkey?",
+        "a": "Eeyore"
+      },
+      {
+        "q": "In which wood do Winnie the Pooh and his friends live?",
+        "a": "Hundred Acre Wood"
+      },
+      {
+        "q": "In Pirates of the Caribbean, what is the name of Jack Sparrow's ship?",
+        "a": "The Black Pearl"
+      },
+      {
+        "q": "In Mary Poppins, what item does Mary use to float down from the sky?",
+        "a": "An umbrella"
+      },
+      {
+        "q": "In Lady and the Tramp, what dish do the two dogs share in the famous kiss scene?",
+        "a": "Spaghetti"
+      },
+      {
+        "q": "Walt Disney World lies just outside which Florida city?",
+        "a": "Orlando"
       }
     ],
     "400": [
@@ -41687,6 +43739,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Disney film features the song 'How Far I'll Go'?",
         "a": "Moana"
+      },
+      {
+        "q": "In The Little Mermaid, what is the name of Ariel's seagull friend who misidentifies human objects?",
+        "a": "Scuttle"
+      },
+      {
+        "q": "In The Little Mermaid, what human object does Scuttle call a 'dinglehopper'?",
+        "a": "A fork"
+      },
+      {
+        "q": "In Beauty and the Beast, what is the name of Gaston's bumbling sidekick?",
+        "a": "LeFou"
+      },
+      {
+        "q": "Which 1991 Disney film was the first animated feature nominated for the Best Picture Oscar?",
+        "a": "Beauty and the Beast"
+      },
+      {
+        "q": "In Aladdin, what is the name of Jafar's loud-mouthed parrot?",
+        "a": "Iago"
+      },
+      {
+        "q": "In Aladdin, what does Aladdin use his third and final wish for?",
+        "a": "To free the Genie"
+      },
+      {
+        "q": "In Cinderella, what is the name of the wicked stepmother?",
+        "a": "Lady Tremaine"
+      },
+      {
+        "q": "In Sleeping Beauty, what are the names of the three good fairies?",
+        "a": "Flora, Fauna and Merryweather"
+      },
+      {
+        "q": "In The Jungle Book, what kind of ape is King Louie?",
+        "a": "An orangutan"
+      },
+      {
+        "q": "In 101 Dalmatians, what are the names of the two Dalmatian parents?",
+        "a": "Pongo and Perdita"
+      },
+      {
+        "q": "In The Lion King, what is the name of the landmark where Simba is presented to the animals?",
+        "a": "Pride Rock"
+      },
+      {
+        "q": "In Mulan, what male name does Mulan use when she joins the army?",
+        "a": "Ping"
+      },
+      {
+        "q": "Which musician wrote and performed the songs for Disney's Tarzan?",
+        "a": "Phil Collins"
+      },
+      {
+        "q": "In The Emperor's New Groove, who is the scheming advisor who turns Kuzco into a llama?",
+        "a": "Yzma"
+      },
+      {
+        "q": "In The Princess and the Frog, what is the name of the prince who is turned into a frog?",
+        "a": "Naveen"
+      },
+      {
+        "q": "In which American city is The Princess and the Frog set?",
+        "a": "New Orleans"
+      },
+      {
+        "q": "In Tangled, what is Flynn Rider's real name?",
+        "a": "Eugene Fitzherbert"
+      },
+      {
+        "q": "In Big Hero 6, what tiny swarming robots does Hiro invent for his school showcase?",
+        "a": "Microbots"
+      },
+      {
+        "q": "In Zootopia, what is the name of the sloth who works at the DMV?",
+        "a": "Flash"
+      },
+      {
+        "q": "In Moana, what are the coconut-armoured pirates called?",
+        "a": "Kakamora"
+      },
+      {
+        "q": "In Moana, what song does Maui sing to introduce himself?",
+        "a": "You're Welcome"
+      },
+      {
+        "q": "Which Hamilton creator wrote the songs for Moana and Encanto?",
+        "a": "Lin-Manuel Miranda"
+      },
+      {
+        "q": "Which 2023 animated film was released to mark 100 years of the Walt Disney Company?",
+        "a": "Wish"
+      },
+      {
+        "q": "In Toy Story, what is the name of the piggy-bank toy?",
+        "a": "Hamm"
+      },
+      {
+        "q": "In Toy Story 3, what is the name of the strawberry-scented teddy bear who runs the daycare?",
+        "a": "Lotso"
+      },
+      {
+        "q": "What Randy Newman song serves as Toy Story's theme?",
+        "a": "You've Got a Friend in Me"
+      },
+      {
+        "q": "In Monsters, Inc., what is the name of the lizard-like scarer who can turn invisible?",
+        "a": "Randall"
+      },
+      {
+        "q": "In Finding Nemo, what is the name of the laid-back surfer sea turtle?",
+        "a": "Crush"
+      },
+      {
+        "q": "In The Incredibles, what is the family's civilian surname?",
+        "a": "Parr"
+      },
+      {
+        "q": "In The Incredibles, who is the tiny fashion designer who makes superhero suits?",
+        "a": "Edna Mode"
+      },
+      {
+        "q": "In The Incredibles, what is the name of the villain who was once Mr. Incredible's biggest fan?",
+        "a": "Syndrome"
+      },
+      {
+        "q": "In Cars, which retired racing legend serves as the town's doctor and judge?",
+        "a": "Doc Hudson"
+      },
+      {
+        "q": "In Up, what is the name of the famous explorer Carl idolised as a boy?",
+        "a": "Charles Muntz"
+      },
+      {
+        "q": "In Inside Out, what is the name of Riley's imaginary friend?",
+        "a": "Bing Bong"
+      },
+      {
+        "q": "In Coco, which famous musician does Miguel idolise?",
+        "a": "Ernesto de la Cruz"
+      },
+      {
+        "q": "In Coco, what flower forms the bridge to the Land of the Dead?",
+        "a": "Marigold"
+      },
+      {
+        "q": "In Turning Red, what boy band is Mei obsessed with?",
+        "a": "4*Town"
+      },
+      {
+        "q": "What vehicle from Toy Story appears as an Easter egg in nearly every Pixar film?",
+        "a": "The Pizza Planet truck"
+      },
+      {
+        "q": "Who holds the record for the most Academy Awards won by one person?",
+        "a": "Walt Disney"
+      },
+      {
+        "q": "In what year was the Walt Disney Company founded?",
+        "a": "1923"
+      },
+      {
+        "q": "In which California city is Disneyland located?",
+        "a": "Anaheim"
+      },
+      {
+        "q": "What is the name of the giant geodesic sphere at Epcot?",
+        "a": "Spaceship Earth"
+      },
+      {
+        "q": "What does Disney call its theme-park employees?",
+        "a": "Cast members"
+      },
+      {
+        "q": "In what year did Disney acquire Marvel Entertainment?",
+        "a": "2009"
+      },
+      {
+        "q": "Who returned as Disney CEO in November 2022?",
+        "a": "Bob Iger"
+      },
+      {
+        "q": "In High School Musical, what is the name of the school?",
+        "a": "East High"
+      },
+      {
+        "q": "In Phineas and Ferb, what kind of animal is Perry?",
+        "a": "A platypus"
+      },
+      {
+        "q": "Which Pinocchio song became the Walt Disney Company's signature anthem?",
+        "a": "When You Wish Upon a Star"
+      },
+      {
+        "q": "What is the name of Donald Duck's miserly rich uncle?",
+        "a": "Scrooge McDuck"
+      },
+      {
+        "q": "In Pirates of the Caribbean: The Curse of the Black Pearl, which mutinous captain stole Jack Sparrow's ship?",
+        "a": "Barbossa"
       }
     ],
     "600": [
@@ -41885,6 +44137,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who voices Anna in the 'Frozen' films?",
         "a": "Kristen Bell"
+      },
+      {
+        "q": "In The Lion King, what are the names of the three hyenas?",
+        "a": "Shenzi, Banzai and Ed"
+      },
+      {
+        "q": "In The Lion King II: Simba's Pride, what is the name of Simba's daughter?",
+        "a": "Kiara"
+      },
+      {
+        "q": "In Mufasa: The Lion King, what was Scar's name before he became Scar?",
+        "a": "Taka"
+      },
+      {
+        "q": "In the 1998 Mulan, what is Mulan's family name?",
+        "a": "Fa"
+      },
+      {
+        "q": "In Hercules, what are the names of Hades' two shape-shifting imps?",
+        "a": "Pain and Panic"
+      },
+      {
+        "q": "In The Hunchback of Notre Dame, what are the names of the three gargoyles?",
+        "a": "Victor, Hugo and Laverne"
+      },
+      {
+        "q": "In The Hunchback of Notre Dame, who is the captain of the guard who falls for Esmeralda?",
+        "a": "Phoebus"
+      },
+      {
+        "q": "In Tarzan, what is the name of the gorilla leader who refuses to accept Tarzan?",
+        "a": "Kerchak"
+      },
+      {
+        "q": "In Atlantis: The Lost Empire, what is the name of the linguist who leads the expedition?",
+        "a": "Milo Thatch"
+      },
+      {
+        "q": "In Treasure Planet, what is the name of the cyborg cook who betrays the crew?",
+        "a": "John Silver"
+      },
+      {
+        "q": "In The Princess and the Frog, what is the name of the blind voodoo priestess in the bayou?",
+        "a": "Mama Odie"
+      },
+      {
+        "q": "In The Princess and the Frog, what star does Ray the firefly love?",
+        "a": "Evangeline"
+      },
+      {
+        "q": "In Tangled, what is the name of the pub full of thugs?",
+        "a": "The Snuggly Duckling"
+      },
+      {
+        "q": "In Frozen, what is the name of the trading-post owner who greets customers with 'Yoo-hoo'?",
+        "a": "Oaken"
+      },
+      {
+        "q": "In Frozen, what is the name of the giant snow monster Elsa creates to guard her palace?",
+        "a": "Marshmallow"
+      },
+      {
+        "q": "In Frozen II, what is the name of Elsa and Anna's mother?",
+        "a": "Iduna"
+      },
+      {
+        "q": "In Frozen II, what is the name of the glacier river said to hold all memories?",
+        "a": "Ahtohallan"
+      },
+      {
+        "q": "In Big Hero 6, what is the name of Hiro's older brother?",
+        "a": "Tadashi"
+      },
+      {
+        "q": "Which Disney animator designed Ariel, the Beast, Tarzan and Rapunzel?",
+        "a": "Glen Keane"
+      },
+      {
+        "q": "In Zootopia, what is the name of the tiny arctic shrew crime boss?",
+        "a": "Mr. Big"
+      },
+      {
+        "q": "In Zootopia, what flowers turn predators savage?",
+        "a": "Night howlers"
+      },
+      {
+        "q": "In Wreck-It Ralph, which legendary racer is King Candy secretly?",
+        "a": "Turbo"
+      },
+      {
+        "q": "In Moana, what is the name of Moana's father, the chief of the island?",
+        "a": "Tui"
+      },
+      {
+        "q": "Which Encanto song, rather than 'We Don't Talk About Bruno', was nominated for the Best Original Song Oscar?",
+        "a": "Dos Oruguitas"
+      },
+      {
+        "q": "In Raya and the Last Dragon, what is the name of the fractured land?",
+        "a": "Kumandra"
+      },
+      {
+        "q": "In Wish, what is the name of the kingdom ruled by King Magnifico?",
+        "a": "Rosas"
+      },
+      {
+        "q": "In Toy Story, what is the name of Sid's vicious dog?",
+        "a": "Scud"
+      },
+      {
+        "q": "In Toy Story 2, what is the name of the toy collector who kidnaps Woody?",
+        "a": "Al McWhiggin"
+      },
+      {
+        "q": "In Monsters University, what misfit fraternity do Mike and Sulley join?",
+        "a": "Oozma Kappa"
+      },
+      {
+        "q": "In Monsters, Inc., what is the name of the crab-legged CEO of the scare factory?",
+        "a": "Henry J. Waternoose"
+      },
+      {
+        "q": "Which attraction replaced Splash Mountain at Disney parks in 2024?",
+        "a": "Tiana's Bayou Adventure"
+      },
+      {
+        "q": "In The Incredibles, what is Frozone's real name?",
+        "a": "Lucius Best"
+      },
+      {
+        "q": "In Cars, what bumper-ointment brand sponsors Lightning McQueen?",
+        "a": "Rust-eze"
+      },
+      {
+        "q": "In Cars 2, what is the name of the British spy car?",
+        "a": "Finn McMissile"
+      },
+      {
+        "q": "In Ratatouille, what is the name of the short head chef who wants to exploit Gusteau's name?",
+        "a": "Skinner"
+      },
+      {
+        "q": "In WALL-E, what is the name of WALL-E's cockroach companion?",
+        "a": "Hal"
+      },
+      {
+        "q": "In WALL-E, what is the name of the Axiom's rogue steering-wheel computer that defies the captain?",
+        "a": "AUTO"
+      },
+      {
+        "q": "In Brave, what is the name of the demon bear that took the king's leg?",
+        "a": "Mor'du"
+      },
+      {
+        "q": "In Inside Out 2, which new emotion has a French accent and is permanently bored?",
+        "a": "Ennui"
+      },
+      {
+        "q": "In Coco, what is the name of Mamá Imelda's giant winged spirit guide?",
+        "a": "Pepita"
+      },
+      {
+        "q": "In Luca, what is the name of the Italian seaside town?",
+        "a": "Portorosso"
+      },
+      {
+        "q": "Which Pixar short features a Chinese dumpling that comes to life?",
+        "a": "Bao"
+      },
+      {
+        "q": "Which Pixar director made Monsters, Inc., Up, Inside Out and Soul?",
+        "a": "Pete Docter"
+      },
+      {
+        "q": "Which tech entrepreneur bought Pixar from Lucasfilm in 1986?",
+        "a": "Steve Jobs"
+      },
+      {
+        "q": "Which 1988 Pixar short was the first computer-animated film to win an Oscar?",
+        "a": "Tin Toy"
+      },
+      {
+        "q": "In Fantasia, what is the name of the demon on Bald Mountain?",
+        "a": "Chernabog"
+      },
+      {
+        "q": "What mocking nickname did Hollywood give Snow White during production, expecting it to flop?",
+        "a": "Disney's Folly"
+      },
+      {
+        "q": "What was Disneyland Paris originally called when it opened in 1992?",
+        "a": "Euro Disney"
+      },
+      {
+        "q": "What does the acronym EPCOT stand for?",
+        "a": "Experimental Prototype Community of Tomorrow"
+      },
+      {
+        "q": "What was the first Disney Cruise Line ship, launched in 1998?",
+        "a": "Disney Magic"
       }
     ]
   },
@@ -42025,6 +44477,246 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the race that serves Sauron?",
         "a": "Orcs"
+      },
+      {
+        "q": "What colour does Gandalf become after he returns from death?",
+        "a": "White"
+      },
+      {
+        "q": "In which Shire village is Bag End?",
+        "a": "Hobbiton"
+      },
+      {
+        "q": "Who does Sam marry after the War of the Ring?",
+        "a": "Rosie Cotton"
+      },
+      {
+        "q": "Who says 'You shall not pass'?",
+        "a": "Gandalf"
+      },
+      {
+        "q": "Who says 'One does not simply walk into Mordor'?",
+        "a": "Boromir"
+      },
+      {
+        "q": "What happens to a mortal who puts on the One Ring?",
+        "a": "They turn invisible"
+      },
+      {
+        "q": "What does Arwen give up to be with Aragorn?",
+        "a": "Her immortality"
+      },
+      {
+        "q": "What weapon does Gimli fight with?",
+        "a": "An axe"
+      },
+      {
+        "q": "Who is Éowyn's uncle?",
+        "a": "Théoden"
+      },
+      {
+        "q": "What is the main gate into Mordor called?",
+        "a": "The Black Gate"
+      },
+      {
+        "q": "Who does Denethor try to burn alive on a funeral pyre?",
+        "a": "Faramir"
+      },
+      {
+        "q": "What does Pippin steal from the sleeping Gandalf?",
+        "a": "The palantír"
+      },
+      {
+        "q": "Where is Frodo stabbed by the Witch-king?",
+        "a": "Weathertop"
+      },
+      {
+        "q": "Who carries the wounded Frodo to Rivendell in the film?",
+        "a": "Arwen"
+      },
+      {
+        "q": "Who carries the Ring while Frodo is held captive by Orcs?",
+        "a": "Sam"
+      },
+      {
+        "q": "What is the first Hobbit film called?",
+        "a": "An Unexpected Journey"
+      },
+      {
+        "q": "What do Hobbits smoke in their pipes?",
+        "a": "Pipe-weed"
+      },
+      {
+        "q": "Which Hobbit asks Aragorn about second breakfast?",
+        "a": "Pippin"
+      },
+      {
+        "q": "Which Lord of the Rings film won the Oscar for Best Picture?",
+        "a": "The Return of the King"
+      },
+      {
+        "q": "What Amazon series is set in Middle-earth's Second Age?",
+        "a": "The Rings of Power"
+      },
+      {
+        "q": "What do Legolas and Gimli compete to count at Helm's Deep?",
+        "a": "Kills"
+      },
+      {
+        "q": "What is Gollum's favourite food?",
+        "a": "Fish"
+      },
+      {
+        "q": "How many Hobbits are in the Fellowship?",
+        "a": "Four"
+      },
+      {
+        "q": "How many Men are in the Fellowship?",
+        "a": "Two"
+      },
+      {
+        "q": "What giant beasts do the Haradrim ride into battle?",
+        "a": "Oliphaunts"
+      },
+      {
+        "q": "Who says 'Po-ta-toes'?",
+        "a": "Sam"
+      },
+      {
+        "q": "Whose birthday party opens The Fellowship of the Ring?",
+        "a": "Bilbo"
+      },
+      {
+        "q": "Which wizard imprisons Gandalf on top of Orthanc?",
+        "a": "Saruman"
+      },
+      {
+        "q": "How does Gandalf escape from the top of Orthanc?",
+        "a": "On a giant eagle"
+      },
+      {
+        "q": "Who guides Frodo and Sam through the Dead Marshes?",
+        "a": "Gollum"
+      },
+      {
+        "q": "What is Saruman's stronghold called?",
+        "a": "Isengard"
+      },
+      {
+        "q": "Which two Fellowship members become best friends despite their races' rivalry?",
+        "a": "Legolas and Gimli"
+      },
+      {
+        "q": "What do the four Hobbits hide from beneath a tree root on the road?",
+        "a": "A Black Rider"
+      },
+      {
+        "q": "What turns the trolls to stone in The Hobbit?",
+        "a": "Sunlight"
+      },
+      {
+        "q": "What insect does Gandalf whisper to on top of Orthanc?",
+        "a": "A moth"
+      },
+      {
+        "q": "What is the second Hobbit film called?",
+        "a": "The Desolation of Smaug"
+      },
+      {
+        "q": "What is the fictional world of the story called?",
+        "a": "Middle-earth"
+      },
+      {
+        "q": "Which Hobbit wakes the Orcs of Moria by disturbing a well?",
+        "a": "Pippin"
+      },
+      {
+        "q": "Which Elven realm does the Fellowship rest in after Moria?",
+        "a": "Lothlórien"
+      },
+      {
+        "q": "What does Galadriel use to show Frodo visions of the future?",
+        "a": "Her Mirror"
+      },
+      {
+        "q": "Who says 'They're taking the Hobbits to Isengard'?",
+        "a": "Legolas"
+      },
+      {
+        "q": "Who says 'My friends, you bow to no one'?",
+        "a": "Aragorn"
+      },
+      {
+        "q": "Which race made the sword Sting?",
+        "a": "Elves"
+      },
+      {
+        "q": "What wolf-like creatures do Saruman's Orcs ride?",
+        "a": "Wargs"
+      },
+      {
+        "q": "Which Hobbit rides with Gandalf to Minas Tirith?",
+        "a": "Pippin"
+      },
+      {
+        "q": "Which Hobbit rides to battle hidden with Éowyn?",
+        "a": "Merry"
+      },
+      {
+        "q": "Which film features the Battle of Helm's Deep?",
+        "a": "The Two Towers"
+      },
+      {
+        "q": "What rescues Frodo and Sam from the slopes of Mount Doom?",
+        "a": "Eagles"
+      },
+      {
+        "q": "Who raised Aragorn in Rivendell?",
+        "a": "Elrond"
+      },
+      {
+        "q": "What creature attacks the Fellowship in Balin's tomb?",
+        "a": "A cave troll"
+      },
+      {
+        "q": "Which race did the nine Ringwraiths belong to before Sauron corrupted them?",
+        "a": "Men"
+      },
+      {
+        "q": "How does Gandalf make the hidden inscription on the Ring appear?",
+        "a": "He puts it in fire"
+      },
+      {
+        "q": "Who catches Sam eavesdropping under the window at Bag End?",
+        "a": "Gandalf"
+      },
+      {
+        "q": "What does Frodo wear around his neck to carry the Ring?",
+        "a": "A chain"
+      },
+      {
+        "q": "What do Frodo and Sam disguise themselves as inside Mordor?",
+        "a": "Orcs"
+      },
+      {
+        "q": "Who says 'The Ring is mine' at the Crack of Doom?",
+        "a": "Frodo"
+      },
+      {
+        "q": "Gandalf calls Pippin a 'fool of a' what?",
+        "a": "Took"
+      },
+      {
+        "q": "What kind of animal is Sam's companion Bill?",
+        "a": "A pony"
+      },
+      {
+        "q": "What metal is the One Ring made of?",
+        "a": "Gold"
+      },
+      {
+        "q": "In which city is Aragorn crowned king?",
+        "a": "Minas Tirith"
       }
     ],
     "400": [
@@ -42207,6 +44899,186 @@ const QUALITY_BACKFILL = {
       {
         "q": "What song does Pippin sing for Denethor?",
         "a": "Edge of Night"
+      },
+      {
+        "q": "What is the name of Sam's pony?",
+        "a": "Bill"
+      },
+      {
+        "q": "Who is Théoden's nephew?",
+        "a": "Éomer"
+      },
+      {
+        "q": "Which Hobbit swears his sword to King Théoden?",
+        "a": "Merry"
+      },
+      {
+        "q": "What is the name of the pub in Hobbiton?",
+        "a": "The Green Dragon"
+      },
+      {
+        "q": "What winged creatures do the Nazgûl ride in the later films?",
+        "a": "Fell beasts"
+      },
+      {
+        "q": "What do the Elves call Gandalf?",
+        "a": "Mithrandir"
+      },
+      {
+        "q": "What name does Aragorn take when he becomes king?",
+        "a": "Elessar"
+      },
+      {
+        "q": "Who does Éowyn marry?",
+        "a": "Faramir"
+      },
+      {
+        "q": "What jewel does Arwen give Aragorn?",
+        "a": "The Evenstar"
+      },
+      {
+        "q": "What gift does Galadriel give Gimli?",
+        "a": "Three strands of her hair"
+      },
+      {
+        "q": "Which Uruk-hai leader kills Boromir in the film?",
+        "a": "Lurtz"
+      },
+      {
+        "q": "What is the name of Théoden's son?",
+        "a": "Théodred"
+      },
+      {
+        "q": "What do the Dwarves call the Balrog of Moria?",
+        "a": "Durin's Bane"
+      },
+      {
+        "q": "What is the Dwarvish name for Moria?",
+        "a": "Khazad-dûm"
+      },
+      {
+        "q": "What ruined city on the Anduin does Faramir defend?",
+        "a": "Osgiliath"
+      },
+      {
+        "q": "Who lights the first beacon of Gondor in the film?",
+        "a": "Pippin"
+      },
+      {
+        "q": "What is the gathering of Ents called?",
+        "a": "Entmoot"
+      },
+      {
+        "q": "Who kills Saruman?",
+        "a": "Gríma Wormtongue"
+      },
+      {
+        "q": "How many wizards were sent to Middle-earth?",
+        "a": "Five"
+      },
+      {
+        "q": "On what date do Frodo and Bilbo share a birthday?",
+        "a": "22 September"
+      },
+      {
+        "q": "What is the name of Sam's father?",
+        "a": "Hamfast Gamgee"
+      },
+      {
+        "q": "Who is the innkeeper of the Prancing Pony?",
+        "a": "Barliman Butterbur"
+      },
+      {
+        "q": "Where does the Fellowship receive the boats they use on the Anduin?",
+        "a": "Lothlórien"
+      },
+      {
+        "q": "What are the two giant statues of kings on the Anduin called?",
+        "a": "The Argonath"
+      },
+      {
+        "q": "Which Elf leads the Lórien archers to Helm's Deep in the film?",
+        "a": "Haldir"
+      },
+      {
+        "q": "What kind of blade does the Witch-king stab Frodo with?",
+        "a": "Morgul blade"
+      },
+      {
+        "q": "Who heals Frodo's wound from the Witch-king?",
+        "a": "Elrond"
+      },
+      {
+        "q": "What do the initials J.R.R. stand for?",
+        "a": "John Ronald Reuel"
+      },
+      {
+        "q": "At which university was Tolkien a professor?",
+        "a": "Oxford"
+      },
+      {
+        "q": "What was the name of the writing group Tolkien shared with C.S. Lewis?",
+        "a": "The Inklings"
+      },
+      {
+        "q": "Which of the author's sons edited and published The Silmarillion?",
+        "a": "Christopher Tolkien"
+      },
+      {
+        "q": "In what year was The Return of the King film released?",
+        "a": "2003"
+      },
+      {
+        "q": "What is the third Hobbit film called?",
+        "a": "The Battle of the Five Armies"
+      },
+      {
+        "q": "What jewel does Thorin covet above all else?",
+        "a": "The Arkenstone"
+      },
+      {
+        "q": "In which Age of Middle-earth does The Lord of the Rings take place?",
+        "a": "Third Age"
+      },
+      {
+        "q": "How is Galadriel related to Arwen?",
+        "a": "Grandmother"
+      },
+      {
+        "q": "What is the name of Aragorn's father?",
+        "a": "Arathorn"
+      },
+      {
+        "q": "At what age do Hobbits come of age?",
+        "a": "33"
+      },
+      {
+        "q": "What region between Gondor and Mordor do Faramir's rangers patrol?",
+        "a": "Ithilien"
+      },
+      {
+        "q": "Which part of the Shire is Merry from?",
+        "a": "Buckland"
+      },
+      {
+        "q": "What river forms the eastern border of the Shire?",
+        "a": "Brandywine"
+      },
+      {
+        "q": "In which country was Tolkien born?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Who sings 'May It Be' over the credits of The Fellowship of the Ring?",
+        "a": "Enya"
+      },
+      {
+        "q": "Who sings 'Into the West' over the credits of The Return of the King?",
+        "a": "Annie Lennox"
+      },
+      {
+        "q": "Who kills Théoden at the Pelennor Fields?",
+        "a": "The Witch-king"
       }
     ],
     "600": [
@@ -42413,6 +45285,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Faramir's ranger company?",
         "a": "Rangers of Ithilien"
+      },
+      {
+        "q": "What is the name of the Elven Ring worn by Gandalf?",
+        "a": "Narya"
+      },
+      {
+        "q": "What is the name of the Elven Ring worn by Galadriel?",
+        "a": "Nenya"
+      },
+      {
+        "q": "What is the name of the Elven Ring worn by Elrond?",
+        "a": "Vilya"
+      },
+      {
+        "q": "What name was Aragorn given as a child in Rivendell?",
+        "a": "Estel"
+      },
+      {
+        "q": "How old is Aragorn at the Council of Elrond?",
+        "a": "87"
+      },
+      {
+        "q": "What gift does Galadriel give Sam?",
+        "a": "A box of earth"
+      },
+      {
+        "q": "What gift does Galadriel give Legolas?",
+        "a": "A bow"
+      },
+      {
+        "q": "What is the fortress at Helm's Deep called?",
+        "a": "The Hornburg"
+      },
+      {
+        "q": "What is the Elvish name for Rivendell?",
+        "a": "Imladris"
+      },
+      {
+        "q": "What was Minas Morgul called before the Nazgûl took it?",
+        "a": "Minas Ithil"
+      },
+      {
+        "q": "What was Minas Tirith originally called?",
+        "a": "Minas Anor"
+      },
+      {
+        "q": "Which hasty Ent befriends Merry and Pippin in the book?",
+        "a": "Quickbeam"
+      },
+      {
+        "q": "How old is Frodo when he leaves the Shire?",
+        "a": "50"
+      },
+      {
+        "q": "What is the name of Frodo's father?",
+        "a": "Drogo"
+      },
+      {
+        "q": "How did Frodo's parents die?",
+        "a": "Drowned in a boating accident"
+      },
+      {
+        "q": "What is the name of Sam's eldest daughter?",
+        "a": "Elanor"
+      },
+      {
+        "q": "Which shady Bree man sells the Hobbits a half-starved pony?",
+        "a": "Bill Ferny"
+      },
+      {
+        "q": "Which Hobbit stays behind at Crickhollow instead of entering the Old Forest?",
+        "a": "Fredegar Bolger"
+      },
+      {
+        "q": "What are the great falls on the Anduin below Amon Hen called?",
+        "a": "Rauros"
+      },
+      {
+        "q": "On which hill does Frodo sit on the Seat of Seeing?",
+        "a": "Amon Hen"
+      },
+      {
+        "q": "Who parleys with Aragorn's army at the Black Gate before the final battle?",
+        "a": "The Mouth of Sauron"
+      },
+      {
+        "q": "What is the Elvish name for Weathertop?",
+        "a": "Amon Sûl"
+      },
+      {
+        "q": "Which Elf-lord carries Frodo to the ford in the book?",
+        "a": "Glorfindel"
+      },
+      {
+        "q": "Who is the Elven shipwright of the Grey Havens?",
+        "a": "Círdan"
+      },
+      {
+        "q": "In which Oxford pub did the Inklings meet?",
+        "a": "The Eagle and Child"
+      },
+      {
+        "q": "In what year was The Silmarillion published?",
+        "a": "1977"
+      },
+      {
+        "q": "In what year was The Two Towers film released?",
+        "a": "2002"
+      },
+      {
+        "q": "What is the proper name of Lake-town in The Hobbit?",
+        "a": "Esgaroth"
+      },
+      {
+        "q": "What does Bard use to kill Smaug?",
+        "a": "The Black Arrow"
+      },
+      {
+        "q": "What are the names of the three trolls in The Hobbit?",
+        "a": "Tom, Bert and William"
+      },
+      {
+        "q": "What is the name of Bilbo's mother?",
+        "a": "Belladonna Took"
+      },
+      {
+        "q": "What is the name of Théoden's horse?",
+        "a": "Snowmane"
+      },
+      {
+        "q": "On which mountain peak does Gandalf finally kill the Balrog?",
+        "a": "Zirakzigil"
+      },
+      {
+        "q": "What is the name of Elrond's twin brother?",
+        "a": "Elros"
+      },
+      {
+        "q": "What are the names of Elrond's twin sons?",
+        "a": "Elladan and Elrohir"
+      },
+      {
+        "q": "What is the name of Aragorn's mother?",
+        "a": "Gilraen"
+      },
+      {
+        "q": "What alias does Saruman use during the Scouring of the Shire?",
+        "a": "Sharkey"
+      },
+      {
+        "q": "Who speaks the final line of The Return of the King book?",
+        "a": "Sam"
+      },
+      {
+        "q": "What name does Éowyn use when she rides to war in disguise?",
+        "a": "Dernhelm"
+      },
+      {
+        "q": "Which Uruk-hai leads the band that captures Merry and Pippin in the book?",
+        "a": "Uglúk"
+      },
+      {
+        "q": "What is the noble breed of horses that Shadowfax belongs to?",
+        "a": "Mearas"
+      },
+      {
+        "q": "What is the ancestral home of the Brandybucks called?",
+        "a": "Brandy Hall"
+      },
+      {
+        "q": "In which First World War battle did Tolkien fight?",
+        "a": "The Somme"
+      },
+      {
+        "q": "In what year did Tolkien die?",
+        "a": "1973"
+      },
+      {
+        "q": "Under what name did young Aragorn serve Rohan and Gondor in secret?",
+        "a": "Thorongil"
+      },
+      {
+        "q": "Which director was originally set to direct The Hobbit films before Peter Jackson took over?",
+        "a": "Guillermo del Toro"
+      },
+      {
+        "q": "Who directed the 1978 animated Lord of the Rings film?",
+        "a": "Ralph Bakshi"
+      },
+      {
+        "q": "Which Orc commander leads the assault on Minas Tirith in the film?",
+        "a": "Gothmog"
+      },
+      {
+        "q": "Which Age of Middle-earth begins after Sauron's defeat?",
+        "a": "Fourth Age"
       }
     ]
   },
@@ -45439,18 +48507,6 @@ const QUALITY_BACKFILL = {
   "the_rookie": {
     "200": [
       {
-        "q": "Who stars as John Nolan?",
-        "a": "Nathan Fillion"
-      },
-      {
-        "q": "What police department is featured in the show?",
-        "a": "LAPD"
-      },
-      {
-        "q": "What network airs the show?",
-        "a": "ABC"
-      },
-      {
         "q": "In what year did the show premiere?",
         "a": "2018"
       },
@@ -45467,30 +48523,6 @@ const QUALITY_BACKFILL = {
         "a": "Pennsylvania"
       },
       {
-        "q": "Who plays Tim Bradford?",
-        "a": "Eric Winter"
-      },
-      {
-        "q": "Who plays Lucy Chen?",
-        "a": "Melissa O'Neil"
-      },
-      {
-        "q": "Who plays Angela Lopez?",
-        "a": "Alyssa Diaz"
-      },
-      {
-        "q": "Who plays Wade Grey?",
-        "a": "Richard T. Jones"
-      },
-      {
-        "q": "Who plays Nyla Harper?",
-        "a": "Mekia Cox"
-      },
-      {
-        "q": "Who plays Jackson West?",
-        "a": "Titus Makin Jr."
-      },
-      {
         "q": "What rank does Tim Bradford start the series at?",
         "a": "Training officer"
       },
@@ -45503,36 +48535,16 @@ const QUALITY_BACKFILL = {
         "a": "Talia Bishop"
       },
       {
-        "q": "Who plays Talia Bishop?",
-        "a": "Afton Williamson"
-      },
-      {
         "q": "What is the show created by?",
         "a": "Alexi Hawley"
-      },
-      {
-        "q": "What job did John Nolan have before joining the police?",
-        "a": "Construction"
-      },
-      {
-        "q": "What is the name of Tim Bradford's ex-wife?",
-        "a": "Isabel"
       },
       {
         "q": "What addiction does Isabel struggle with?",
         "a": "Drugs"
       },
       {
-        "q": "What's the ship name for Tim and Lucy fans?",
-        "a": "Chenford"
-      },
-      {
         "q": "What is the name of Nolan's ex-wife?",
         "a": "Sarah"
-      },
-      {
-        "q": "What is Nolan's son's name?",
-        "a": "Henry"
       },
       {
         "q": "Who plays Henry Nolan?",
@@ -45545,22 +48557,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What rank is John Nolan in season 1?",
         "a": "Rookie"
-      },
-      {
-        "q": "Who plays Bailey Nune?",
-        "a": "Jenna Dewan"
-      },
-      {
-        "q": "What is Bailey's profession?",
-        "a": "Firefighter"
-      },
-      {
-        "q": "What is Tim Bradford's dog named?",
-        "a": "Kojo"
-      },
-      {
-        "q": "Who plays Aaron Thorsen?",
-        "a": "Tru Valentino"
       },
       {
         "q": "What undercover operation does Lucy do in season 3?",
@@ -45619,10 +48615,6 @@ const QUALITY_BACKFILL = {
         "a": "2002"
       },
       {
-        "q": "What other Nathan Fillion show is a cop comedy?",
-        "a": "Castle"
-      },
-      {
         "q": "Who plays Smitty?",
         "a": "Patrick Keleher"
       },
@@ -45669,20 +48661,12 @@ const QUALITY_BACKFILL = {
     ],
     "400": [
       {
-        "q": "What military branch did Tim Bradford serve in?",
-        "a": "Army"
-      },
-      {
         "q": "What country did Tim deploy to?",
         "a": "Iraq"
       },
       {
         "q": "Who is the serial killer named Rosalind?",
         "a": "Rosalind Dyer"
-      },
-      {
-        "q": "Who plays Rosalind Dyer?",
-        "a": "Annie Wersching"
       },
       {
         "q": "What is Rosalind's nickname?",
@@ -45709,10 +48693,6 @@ const QUALITY_BACKFILL = {
         "a": "Cancer"
       },
       {
-        "q": "Who plays Jessica Russo, Nolan's girlfriend?",
-        "a": "Sarah Shahi"
-      },
-      {
         "q": "What is Jessica's profession?",
         "a": "Security"
       },
@@ -45727,14 +48707,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the La Fiera cartel leader's first name?",
         "a": "Elijah"
-      },
-      {
-        "q": "Who plays Elijah Stone?",
-        "a": "Brandon Jay McLaren"
-      },
-      {
-        "q": "What is Angela's son's name?",
-        "a": "Jack"
       },
       {
         "q": "Which partner was Angela promoted to work with as a detective?",
@@ -45849,10 +48821,6 @@ const QUALITY_BACKFILL = {
         "a": "La Fiera"
       },
       {
-        "q": "Who plays La Fiera?",
-        "a": "Camille Guaty"
-      },
-      {
         "q": "What season does Nolan propose to Bailey?",
         "a": "Six"
       },
@@ -45937,10 +48905,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Isabel's maiden name?",
         "a": "Martinez"
-      },
-      {
-        "q": "Who plays Isabel Bradford?",
-        "a": "Mircea Monroe"
       },
       {
         "q": "What season does Talia Bishop leave the show?",
@@ -46043,10 +49007,6 @@ const QUALITY_BACKFILL = {
         "a": "Monica Stevens"
       },
       {
-        "q": "Who plays Monica Stevens?",
-        "a": "Bridget Regan"
-      },
-      {
         "q": "Who is the mob attorney recurring villain?",
         "a": "Monica Stevens"
       },
@@ -46093,10 +49053,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the bar cops hang out at?",
         "a": "The Alibi"
-      },
-      {
-        "q": "What is Bradford's nickname for Lucy?",
-        "a": "Boot"
       },
       {
         "q": "What does Bradford call all his rookies?",
@@ -49844,10 +52800,6 @@ const QUALITY_BACKFILL = {
         "a": "Vanuatu"
       },
       {
-        "q": "Sucre (constitutional capital)",
-        "a": "Bolivia"
-      },
-      {
         "q": "The Hague (seat of government)",
         "a": "Netherlands"
       },
@@ -50727,59 +53679,11 @@ const QUALITY_BACKFILL = {
     "200": [
       {
         "q": "Spell this word",
-        "a": "Occurrence"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Maintenance"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Privilege"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Recommend"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Occasion"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Calendar"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Cemetery"
-      },
-      {
-        "q": "Spell this word",
         "a": "Grateful"
       },
       {
         "q": "Spell this word",
-        "a": "Restaurant"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Vacuum"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Colonel"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Guarantee"
-      },
-      {
-        "q": "Spell this word",
         "a": "Committee"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Possession"
       },
       {
         "q": "Spell this word",
@@ -50803,26 +53707,6 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Noticeable"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Parallel"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Perseverance"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Exaggerate"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Fluorescent"
-      },
-      {
-        "q": "Spell this word",
         "a": "Lieutenant"
       },
       {
@@ -50839,19 +53723,11 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Broccoli"
-      },
-      {
-        "q": "Spell this word",
         "a": "Amateur"
       },
       {
         "q": "Spell this word",
         "a": "Bizarre"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Consensus"
       },
       {
         "q": "Spell this word",
@@ -50973,55 +53849,11 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Idiosyncrasy"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Asphyxiate"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Sacrilegious"
-      },
-      {
-        "q": "Spell this word",
         "a": "Ophthalmologist"
       },
       {
         "q": "Spell this word",
-        "a": "Rendezvous"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Reconnaissance"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Surveillance"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Handkerchief"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Pneumonia"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Mnemonic"
-      },
-      {
-        "q": "Spell this word",
         "a": "Bourgeois"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Connoisseur"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Chauffeur"
       },
       {
         "q": "Spell this word",
@@ -51030,10 +53862,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Xylophone"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Inoculate"
       },
       {
         "q": "Spell this word",
@@ -51049,10 +53877,6 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Paraphernalia"
-      },
-      {
-        "q": "Spell this word",
         "a": "Pharmaceutical"
       },
       {
@@ -51061,23 +53885,11 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Acquiesce"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Ubiquitous"
-      },
-      {
-        "q": "Spell this word",
         "a": "Cappuccino"
       },
       {
         "q": "Spell this word",
         "a": "Gnocchi"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Chrysanthemum"
       },
       {
         "q": "Spell this word",
@@ -51097,15 +53909,7 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Memento"
-      },
-      {
-        "q": "Spell this word",
         "a": "Wherewithal"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Vengeance"
       },
       {
         "q": "Spell this word",
@@ -51199,10 +54003,6 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Eleemosynary"
-      },
-      {
-        "q": "Spell this word",
         "a": "Logorrhea"
       },
       {
@@ -51259,10 +54059,6 @@ const QUALITY_BACKFILL = {
       },
       {
         "q": "Spell this word",
-        "a": "Antediluvian"
-      },
-      {
-        "q": "Spell this word",
         "a": "Esquamulose"
       },
       {
@@ -51284,10 +54080,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Pyrrhuloxia"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Sesquipedalian"
       },
       {
         "q": "Spell this word",
@@ -51316,14 +54108,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Cnidarian"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Pusillanimous"
-      },
-      {
-        "q": "Spell this word",
-        "a": "Schadenfreude"
       },
       {
         "q": "Spell this word",

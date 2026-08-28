@@ -71,6 +71,356 @@
       "file": "triviaTierFinalParityExpansions"
     },
     {
+      "q": "Who plays Steve Harrington?",
+      "a": "Joe Keery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Mike Wheeler's older sister?",
+      "a": "Nancy Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature has a flower-like head?",
+      "a": "Demogorgon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Joyce Byers?",
+      "a": "Winona Ryder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what fictional Indiana town is the show set?",
+      "a": "Hawkins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the alternate dimension called?",
+      "a": "Upside Down",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the girl with the shaved head have psychic powers for?",
+      "a": "Telekinesis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the number tattooed on her arm?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What snack food does Eleven love?",
+      "a": "Eggos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What brand of frozen waffles does she eat?",
+      "a": "Eggo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What boy goes missing in the first episode?",
+      "a": "Will",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Will's last name?",
+      "a": "Byers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Will's frantic mother?",
+      "a": "Winona Ryder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Will's mom's name?",
+      "a": "Joyce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the small-town police chief?",
+      "a": "Hopper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What role-playing game do the boys play?",
+      "a": "Dungeons and Dragons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What monster name do they give to the creature in season 1?",
+      "a": "Demogorgon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year does season 1 take place?",
+      "a": "1983",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What decade is the show set in?",
+      "a": "1980s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the nerdy boy with the lisp?",
+      "a": "Dustin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Black boy in the friend group with a walkie-talkie?",
+      "a": "Lucas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Will's artistic best friend with dark hair?",
+      "a": "Mike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mike's last name?",
+      "a": "Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Mike's older sister with blonde hair?",
+      "a": "Nancy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nancy's first boyfriend in season 1?",
+      "a": "Steve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Steve's last name?",
+      "a": "Harrington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What famous hair product fans obsessed over Steve for?",
+      "a": "Farrah Fawcett spray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Will's older brother who takes photos?",
+      "a": "Jonathan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What federal agency conducts experiments on Eleven?",
+      "a": "Department of Energy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the bald scientist who runs the lab and raises Eleven as Papa?",
+      "a": "Dr. Brenner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mall opens up in season 3?",
+      "a": "Starcourt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Steve's coworker at the ice cream shop?",
+      "a": "Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Eleven's redheaded skater rival turned friend?",
+      "a": "Max",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the flying slug-like creature Will coughs up?",
+      "a": "Tadpole or slug",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pack monster from season 2 called?",
+      "a": "Demodog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the giant shadow monster from the Upside Down?",
+      "a": "Mind Flayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What streaming service is the show on?",
+      "a": "Netflix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the show?",
+      "a": "Duffer Brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname do the boys give Eleven?",
+      "a": "El",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song plays over the season 2 finale at the Snow Ball?",
+      "a": "Every Breath You Take",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 80s band's song Running Up That Hill is featured in season 4?",
+      "a": "Kate Bush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the main villain in season 4?",
+      "a": "Vecna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Vecna's original human name?",
+      "a": "Henry Creel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number was he in the lab?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Russian facility is discovered in season 3?",
+      "a": "Under Starcourt Mall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dart short for?",
+      "a": "D'Artagnan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Joyce Byers's older son?",
+      "a": "Jonathan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nancy's last name?",
+      "a": "Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nancy's best friend who disappears in season 1?",
+      "a": "Barb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dustin's long-distance girlfriend?",
+      "a": "Suzie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lucas's last name?",
+      "a": "Sinclair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dustin's last name?",
+      "a": "Henderson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is Hopper's love interest?",
+      "a": "Joyce Byers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes Max's boyfriend?",
+      "a": "Lucas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Nancy's boyfriend in season 1?",
+      "a": "Steve Harrington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Around which holiday is season 3 set?",
+      "a": "The Fourth of July",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which monster takes control of Billy in season 3?",
+      "a": "The Mind Flayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle does Eleven flip over with her mind in season 1?",
+      "a": "A van",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jonathan's pizza-delivering stoner friend in California?",
+      "a": "Argyle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Hopper hide Eleven during season 2?",
+      "a": "His cabin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What attracts the Demogorgon to its victims?",
+      "a": "Blood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is hidden beneath Starcourt Mall?",
+      "a": "A secret Russian base",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Steve's signature weapon?",
+      "a": "A nail-studded baseball bat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is Hopper forced to fight in the Russian prison?",
+      "a": "A Demogorgon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport does Lucas take up in season 4?",
+      "a": "Basketball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the dress Eleven wears through most of season 1?",
+      "a": "Pink",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do the boys dress up as for Halloween in season 2?",
+      "a": "Ghostbusters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year is season 3 set?",
+      "a": "1985",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Joyce's boyfriends dies in Hawkins Lab?",
+      "a": "Bob Newby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who breaks up with Steve in season 2?",
+      "a": "Nancy",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is the alternate dimension called?",
       "a": "The Upside Down",
       "file": "App.jsx"
@@ -268,18 +618,408 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of Max's older stepbrother who dies in season 3?",
+      "q": "What song plays when Eleven uses her powers dramatically in season 2?",
+      "a": "Should I Stay or Should I Go",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Murray Bauman's profession?",
+      "a": "Investigative journalist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hopper?",
+      "a": "David Harbour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Russian scientist who helps Hopper escape?",
+      "a": "Alexei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What metal band t-shirt does Eddie Munson wear often?",
+      "a": "Dio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song does Eddie play on guitar against Vecna?",
+      "a": "Master of Puppets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What band performs Master of Puppets?",
+      "a": "Metallica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the jock basketball player who bullies the group in season 4?",
+      "a": "Jason",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jason's last name?",
+      "a": "Carver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cheerleader is one of Vecna's victims?",
+      "a": "Chrissy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What California town does Eleven live in during season 4?",
+      "a": "Lenora Hills",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Murray's profession?",
+      "a": "Journalist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Murray's last name?",
+      "a": "Bauman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Alexei's drink preference?",
+      "a": "Cherry Slurpee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Russian prison does Hopper end up in?",
+      "a": "Kamchatka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature do the Russians keep chained?",
+      "a": "Demogorgon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pet name for Hopper's dead daughter?",
+      "a": "Sara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Eleven's birth mother's name?",
+      "a": "Terry Ives",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is the psychic woman that Eleven meets named Kali?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Kali based in?",
+      "a": "Chicago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gift does Mike give Eleven at the Snow Ball?",
+      "a": "A kiss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature species collectively forms the Mind Flayer's body?",
+      "a": "Rats",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joyce's boyfriend's name in season 2?",
+      "a": "Bob",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bob Newby?",
+      "a": "Sean Astin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Bob die?",
+      "a": "Eaten by demodogs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company does Bob work at?",
+      "a": "Radio Shack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant spider-like projection of the Mind Flayer?",
+      "a": "Shadow Monster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item does Billy drive that is iconic?",
+      "a": "Camaro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Billy's Camaro?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pool does Billy lifeguard at?",
+      "a": "Hawkins Community Pool",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who has a crush on Billy at the pool?",
+      "a": "Mrs. Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mrs. Wheeler's first name?",
+      "a": "Karen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nancy's boss at the Hawkins Post?",
+      "a": "Tom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pizza chain does Argyle work for?",
+      "a": "Surfer Boy Pizza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Robin come out as to Steve?",
+      "a": "Lesbian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who catches Suzie and Dustin singing the NeverEnding Story?",
+      "a": "Her family",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song do Dustin and Suzie sing over radio?",
+      "a": "NeverEnding Story",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Suzie's favorite show she sings about?",
+      "a": "The NeverEnding Story",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state does Suzie live in?",
+      "a": "Utah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What high school do the kids attend in season 4?",
+      "a": "Hawkins High",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Eleven read at the end of season 3 from Hopper?",
+      "a": "A letter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who opens the gate to the Upside Down in season 1?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the government guy investigating in season 2?",
+      "a": "Dr. Owens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Owens?",
+      "a": "Paul Reiser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barb's last name?",
+      "a": "Holland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do the kids fill with salt water to build a makeshift sensory-deprivation tank?",
+      "a": "A kiddie pool",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the conspiracy theorist who helps Joyce and Hopper?",
+      "a": "Murray Bauman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Bob Newby work?",
+      "a": "RadioShack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Will obsessively draw across hundreds of pages in season 2?",
+      "a": "Tunnels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Will call the Mind Flayer before it is named?",
+      "a": "The Shadow Monster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What candy bar does Dart love?",
+      "a": "3 Musketeers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature does Dart grow into?",
+      "a": "A Demodog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Erica demand in exchange for crawling through the mall vents?",
+      "a": "Free ice cream for life",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Billy sacrifice himself to save?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What insult does Eleven learn from Mike and use against people?",
+      "a": "Mouthbreather",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the jock who leads the hunt for Eddie Munson?",
+      "a": "Jason Carver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname do school bullies give Will after he returns?",
+      "a": "Zombie Boy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which celebrity's hairspray does Steve reveal as his hair secret?",
+      "a": "Farrah Fawcett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character does Mrs. Wheeler nearly have an affair with?",
       "a": "Billy",
       "file": "qualityBackfill"
     },
     {
-      "q": "Who plays the role of Robin in the show?",
-      "a": "Maya Hawke",
+      "q": "What is the name of the Russian smuggler who betrays Joyce and Murray?",
+      "a": "Yuri",
       "file": "qualityBackfill"
     },
     {
-      "q": "What chain of stores is the Starcourt Mall home to?",
-      "a": "Scoops Ahoy",
+      "q": "Who does Eleven hit in the face with a roller skate?",
+      "a": "Angela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Eddie Munson's band?",
+      "a": "Corroded Coffin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which scientist replaces Brenner as head of Hawkins Lab in season 2?",
+      "a": "Dr. Sam Owens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who serves as the boys' Dungeon Master in season 1?",
+      "a": "Mike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Max use on the arcade high-score board?",
+      "a": "MADMAX",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On which arcade game does Max beat Dustin's high score?",
+      "a": "Dig Dug",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boys' science teacher?",
+      "a": "Mr. Clarke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sound signals that Vecna has chosen a victim?",
+      "a": "A grandfather clock chiming",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the abandoned home the group investigates in season 4?",
+      "a": "The Creel House",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Robin play in the school marching band?",
+      "a": "Trumpet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What car does Billy drive?",
+      "a": "A Camaro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What summer job does Billy have in season 3?",
+      "a": "Lifeguard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lucas's signature weapon?",
+      "a": "A slingshot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year is season 4 set?",
+      "a": "1986",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Russian scientist who loves cherry Slurpees?",
+      "a": "Alexei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do the kids trap Billy to test whether he is possessed?",
+      "a": "A sauna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do the boys call the Upside Down using D&D terminology?",
+      "a": "The Vale of Shadows",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mike and Nancy's little sister?",
+      "a": "Holly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Clash song is Will's favorite?",
+      "a": "Should I Stay or Should I Go",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school dance closes season 2?",
+      "a": "The Snow Ball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Barb when she is taken by the Demogorgon?",
+      "a": "Steve's pool",
       "file": "qualityBackfill"
     },
     {
@@ -485,8 +1225,358 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of the laboratory where Eleven was experimented on?",
-      "a": "Hawkins National Laboratory",
+      "q": "What year is Season 4 set in?",
+      "a": "1986",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Eleven's sister figure in Season 2?",
+      "a": "Kali / Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the psychic program Eleven was part of?",
+      "a": "MKUltra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is the Chief's enemy at the lab introduced in season 4?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of the orderly Peter Ballard?",
+      "a": "Henry Creel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Vecna's human form?",
+      "a": "Jamie Campbell Bower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What street does the Creel family live on?",
+      "a": "Cattail Road",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Henry's sister that he kills?",
+      "a": "Alice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Max's dream song scene set?",
+      "a": "Graveyard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year does season 4 take place?",
+      "a": "1986",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year does season 3 take place?",
+      "a": "1985",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the pizza place Eddie hides out in?",
+      "a": "Reefer Rick's boathouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Eddie's drug dealer?",
+      "a": "Reefer Rick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Eddie die in season 4?",
+      "a": "Bats eat him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bat-like creatures in Upside Down season 4?",
+      "a": "Demobats",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What clock features in Vecna's hallucinations?",
+      "a": "Grandfather clock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Vecna's lair?",
+      "a": "Creel house",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Nancy favor?",
+      "a": "Revolver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What code name does Dustin give their friend group in season 3?",
+      "a": "Scoops Troop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Russian code word does Dustin translate first?",
+      "a": "The week is long",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Erica Sinclair say she would do for the right ransom?",
+      "a": "You can't spell America without Erica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What video arcade do the kids hang out at?",
+      "a": "Palace Arcade",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who holds the Dig Dug record that Max beats?",
+      "a": "Dustin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the arcade attendant?",
+      "a": "Keith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shampoo commercial does Steve's dad's company make?",
+      "a": "Farrah Fawcett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs most of the episodes?",
+      "a": "Duffer Brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hopper's wife's name before their daughter?",
+      "a": "Diane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the guard Hopper befriends in prison?",
+      "a": "Dmitri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What snack does Alexei love besides Slurpees?",
+      "a": "Burger King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Scandinavian-sounding carnival food does Alexei adore?",
+      "a": "Corn dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the carnival in season 3?",
+      "a": "Fun Fair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wins the lifeguard competition in season 3?",
+      "a": "Billy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What horror movie does Billy's scene reference with the car?",
+      "a": "Christine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the names of Mike's parents?",
+      "a": "Karen and Ted",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barb's full name?",
+      "a": "Barbara Holland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Barb die?",
+      "a": "By the pool",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who finally admits Barb died?",
+      "a": "Nancy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What monster kills Barb?",
+      "a": "Demogorgon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Murray?",
+      "a": "Brett Gelman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What skateboard brand does Max famously ride?",
+      "a": "Madrid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Eleven's favorite show she watches with Hopper?",
+      "a": "Miami Vice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kali's psychic power?",
+      "a": "Creating illusions",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What movie do the kids sneak into at Starcourt at the start of season 3?",
+      "a": "Day of the Dead",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What genetic condition does Dustin have?",
+      "a": "Cleidocranial dysplasia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the mayor of Hawkins in season 3?",
+      "a": "Larry Kline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Hawkins hangout where the kids play Dig Dug?",
+      "a": "The Palace Arcade",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What brand of ham radio do the boys use at school to contact Will?",
+      "a": "Heathkit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the general store where Joyce works?",
+      "a": "Melvald's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the receptionist at the Hawkins police station?",
+      "a": "Flo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which asylum is Victor Creel held?",
+      "a": "Pennhurst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year were the Creel family murders?",
+      "a": "1959",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which state is the Nina Project facility located?",
+      "a": "Nevada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What make of car does Steve drive?",
+      "a": "BMW",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the lifeguard who becomes one of the Flayed alongside Billy?",
+      "a": "Heather Holloway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At which diner does Eleven first appear, stealing fries?",
+      "a": "Benny's Burgers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the show's working title before it was renamed?",
+      "a": "Montauk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Russian hitman who kills Alexei?",
+      "a": "Grigori",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does the group give their plan for Eleven to enter Max's mind?",
+      "a": "The Piggyback",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Vecna's second victim in season 4?",
+      "a": "Fred Benson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which basketball player is Vecna's third victim?",
+      "a": "Patrick McKinney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Eddie's uncle?",
+      "a": "Wayne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Suzie's last name?",
+      "a": "Bingham",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robin's high school crush who sings in class?",
+      "a": "Tammy Thompson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dustin's turtle?",
+      "a": "Yertle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dustin's cat that Dart eats?",
+      "a": "Mews",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which Illinois town does Murray Bauman live?",
+      "a": "Sesser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Erica's D&D character called?",
+      "a": "Lady Applejack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Enzo's real name?",
+      "a": "Dmitri Antonov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Joyce sell over the phone in season 4?",
+      "a": "Encyclopedias",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Hawkins Post editor Nancy works under?",
+      "a": "Tom Holloway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What model of vehicle does Hopper drive as police chief?",
+      "a": "Chevrolet Blazer",
       "file": "qualityBackfill"
     },
     {

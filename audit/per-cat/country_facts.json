@@ -186,6 +186,351 @@
       "file": "moreTriviaExpansions"
     },
     {
+      "q": "Which country is home to the Statue of Liberty?",
+      "a": "United States",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to Stonehenge?",
+      "a": "United Kingdom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is famous for kangaroos and koalas?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Japan?",
+      "a": "Tokyo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the most people?",
+      "a": "India",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Australia?",
+      "a": "Canberra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Canada?",
+      "a": "Ottawa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the Great Wall in?",
+      "a": "China",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Egypt?",
+      "a": "Cairo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest continent?",
+      "a": "Asia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest continent?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Germany?",
+      "a": "Berlin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is home to Mount Fuji?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ocean is west of the United States?",
+      "a": "Pacific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Spain?",
+      "a": "Madrid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Italy?",
+      "a": "Rome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest river in the world?",
+      "a": "Nile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What currency is used in Japan?",
+      "a": "Yen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country borders the USA to the north?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Russia?",
+      "a": "Moscow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What famous tower is in London?",
+      "a": "Big Ben",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the kangaroo?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of China?",
+      "a": "Beijing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country makes pasta famous?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of England?",
+      "a": "London",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of South Korea?",
+      "a": "Seoul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the Statue of Liberty in?",
+      "a": "USA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Argentina?",
+      "a": "Buenos Aires",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Brazil?",
+      "a": "Brasília",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest desert?",
+      "a": "Sahara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of India?",
+      "a": "New Delhi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Saudi Arabia?",
+      "a": "Riyadh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Toronto in?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Greece?",
+      "a": "Athens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country makes Lego?",
+      "a": "Denmark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ireland?",
+      "a": "Dublin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What currency is used in the UK?",
+      "a": "Pound",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Portugal?",
+      "a": "Lisbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the kiwi bird?",
+      "a": "New Zealand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of New Zealand?",
+      "a": "Wellington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of the Netherlands?",
+      "a": "Amsterdam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Barcelona in?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country overtook China as the world's most populous in 2023?",
+      "a": "India",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's coastline touches both the Atlantic and Indian Oceans?",
+      "a": "South Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the world's largest producer of olive oil?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the most time zones when its overseas territories are counted?",
+      "a": "France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which African country has the largest population?",
+      "a": "Nigeria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The temple complex of Angkor Wat is in which country?",
+      "a": "Cambodia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is nicknamed the Emerald Isle?",
+      "a": "Ireland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the tallest building in the world?",
+      "a": "United Arab Emirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the world's largest producer of tea?",
+      "a": "China",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the largest population in the world?",
+      "a": "India",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has Ottawa as its capital?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Buenos Aires?",
+      "a": "Argentina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Helsinki?",
+      "a": "Finland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has Canberra as its capital?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Nairobi?",
+      "a": "Kenya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Vienna?",
+      "a": "Austria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Bangkok?",
+      "a": "Thailand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Sagrada Família?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Lisbon?",
+      "a": "Portugal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Petronas Towers?",
+      "a": "Malaysia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Oslo?",
+      "a": "Norway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to Bali?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Wellington?",
+      "a": "New Zealand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Brussels?",
+      "a": "Belgium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to Copenhagen?",
+      "a": "Denmark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has Stockholm as its capital?",
+      "a": "Sweden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Prague?",
+      "a": "Czech Republic",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "This country has the most pyramids in the world — more than Egypt",
       "a": "Sudan",
       "file": "App.jsx"
@@ -341,6 +686,341 @@
       "q": "Which country is home to the Moai statues?",
       "a": "Chile",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the capital of Finland?",
+      "a": "Helsinki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Norway?",
+      "a": "Oslo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Sweden?",
+      "a": "Stockholm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country does Angel Falls locate in?",
+      "a": "Venezuela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Denmark?",
+      "a": "Copenhagen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Thailand?",
+      "a": "Bangkok",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country surrounds Lesotho?",
+      "a": "South Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Vietnam?",
+      "a": "Hanoi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What currency is used in Switzerland?",
+      "a": "Franc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Switzerland?",
+      "a": "Bern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Poland?",
+      "a": "Warsaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Turkey?",
+      "a": "Ankara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country produces the most rice?",
+      "a": "China",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Iran?",
+      "a": "Tehran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only double-landlocked country with Liechtenstein?",
+      "a": "Uzbekistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Hungary?",
+      "a": "Budapest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Morocco?",
+      "a": "Rabat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Kenya?",
+      "a": "Nairobi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country in South America?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Chile?",
+      "a": "Santiago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Peru?",
+      "a": "Lima",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the Matterhorn mountain?",
+      "a": "Switzerland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Colombia?",
+      "a": "Bogotá",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country produces the most wine?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Austria?",
+      "a": "Vienna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Belgium?",
+      "a": "Brussels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Indonesia?",
+      "a": "Jakarta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the only royal Khmer palace?",
+      "a": "Cambodia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Philippines?",
+      "a": "Manila",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Nigeria?",
+      "a": "Abuja",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Auckland in?",
+      "a": "New Zealand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of South Africa (legislative)?",
+      "a": "Cape Town",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country uses the Koruna currency?",
+      "a": "Czech Republic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Iceland?",
+      "a": "Reykjavik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Cuba?",
+      "a": "Havana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Victoria Falls shared with Zambia?",
+      "a": "Zimbabwe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ukraine?",
+      "a": "Kyiv",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What currency is used in India?",
+      "a": "Rupee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ethiopia?",
+      "a": "Addis Ababa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Bucharest?",
+      "a": "Romania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Serengeti National Park?",
+      "a": "Tanzania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country shares the longest land border with China?",
+      "a": "Mongolia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Hanoi?",
+      "a": "Vietnam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Abuja?",
+      "a": "Nigeria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Galápagos Islands?",
+      "a": "Ecuador",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has Bern as its capital?",
+      "a": "Switzerland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the most active volcanoes?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Kuala Lumpur?",
+      "a": "Malaysia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to Lake Baikal, the world's deepest lake?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Budapest?",
+      "a": "Hungary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's currency is the rand?",
+      "a": "South Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's currency is the baht?",
+      "a": "Thailand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Astana?",
+      "a": "Kazakhstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Bogotá?",
+      "a": "Colombia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Santiago?",
+      "a": "Chile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the city of Casablanca?",
+      "a": "Morocco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Riyadh?",
+      "a": "Saudi Arabia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to Mount Everest's southern base camp?",
+      "a": "Nepal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Manila?",
+      "a": "Philippines",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Warsaw?",
+      "a": "Poland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Dolomites mountain range?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's currency is the won?",
+      "a": "South Korea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Lima?",
+      "a": "Peru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Accra?",
+      "a": "Ghana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Ganges river delta and capital Dhaka?",
+      "a": "Bangladesh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Kyiv?",
+      "a": "Ukraine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Amman?",
+      "a": "Jordan",
+      "file": "qualityBackfill"
     },
     {
       "q": "This is the only country with two capital cities — one for parliament, one for executive government",
@@ -528,6 +1208,381 @@
       "q": "Which country is famous for blue city Chefchaouen?",
       "a": "Morocco",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "This Central Asian country has capital Ashgabat and is known for its marble buildings",
+      "a": "Turkmenistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "This African nation was the only country to successfully resist European colonization in the 19th century",
+      "a": "Ethiopia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "This landlocked South American country has two capitals — La Paz and Sucre",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "This country is home to the ancient rock-hewn churches of Lalibela",
+      "a": "Ethiopia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Kazakhstan?",
+      "a": "Astana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the highest population density?",
+      "a": "Monaco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Mongolia?",
+      "a": "Ulaanbaatar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Timbuktu in?",
+      "a": "Mali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Azerbaijan?",
+      "a": "Baku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the Skeleton Coast?",
+      "a": "Namibia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Armenia?",
+      "a": "Yerevan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has 11 time zones?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Georgia (country)?",
+      "a": "Tbilisi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country's official name includes Plurinational?",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Paraguay?",
+      "a": "Asunción",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the world's largest archipelago?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Uruguay?",
+      "a": "Montevideo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Ouagadougou the capital of?",
+      "a": "Burkina Faso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Madagascar?",
+      "a": "Antananarivo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Botswana?",
+      "a": "Gaborone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country's flag was solid green from 1977 to 2011?",
+      "a": "Libya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ghana?",
+      "a": "Accra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest African country by area?",
+      "a": "Seychelles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Bangladesh?",
+      "a": "Dhaka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Nepal?",
+      "a": "Kathmandu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Myanmar?",
+      "a": "Naypyidaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Laos?",
+      "a": "Vientiane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Tajikistan?",
+      "a": "Dushanbe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has Lake Titicaca shared with Peru?",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Kyrgyzstan?",
+      "a": "Bishkek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the oldest continuously inhabited city?",
+      "a": "Syria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Turkmenistan?",
+      "a": "Ashgabat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country uses the Quetzal currency?",
+      "a": "Guatemala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Yemen?",
+      "a": "Sana'a",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the largest Muslim population?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Oman?",
+      "a": "Muscat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Qatar?",
+      "a": "Doha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country's currency is the Kwacha?",
+      "a": "Zambia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Bahrain?",
+      "a": "Manama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the Victoria desert in?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country's national flower is the cherry blossom?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Lebanon?",
+      "a": "Beirut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Syria?",
+      "a": "Damascus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mountain range is Machu Picchu in?",
+      "a": "Andes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Jordan?",
+      "a": "Amman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country's flag is just green?",
+      "a": "Libya (old)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the most islands?",
+      "a": "Sweden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Georgetown?",
+      "a": "Guyana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Bishkek?",
+      "a": "Kyrgyzstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Yamoussoukro?",
+      "a": "Ivory Coast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Naypyidaw?",
+      "a": "Myanmar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Lomé?",
+      "a": "Togo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the only one to border both the Caspian Sea and the Persian Gulf?",
+      "a": "Iran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Windhoek?",
+      "a": "Namibia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Vientiane?",
+      "a": "Laos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Danakil Depression, one of the hottest places on Earth?",
+      "a": "Ethiopia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the world's largest producer of vanilla?",
+      "a": "Madagascar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Tashkent?",
+      "a": "Uzbekistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which African country has Portuguese as its official language and capital Luanda?",
+      "a": "Angola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Salar de Uyuni salt flat?",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Ljubljana?",
+      "a": "Slovenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Asunción?",
+      "a": "Paraguay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's currency is the lari?",
+      "a": "Georgia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Bay of Fundy, with the world's highest tides?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Bandar Seri Begawan?",
+      "a": "Brunei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Port Moresby?",
+      "a": "Papua New Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the Great Blue Hole?",
+      "a": "Belize",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Nouakchott?",
+      "a": "Mauritania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Dushanbe?",
+      "a": "Tajikistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Baku?",
+      "a": "Azerbaijan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly called Zaire?",
+      "a": "Democratic Republic of the Congo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is home to the world's largest sand island, K'gari (Fraser Island)?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Thimphu?",
+      "a": "Bhutan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Tirana?",
+      "a": "Albania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's capital is Chișinău?",
+      "a": "Moldova",
+      "file": "qualityBackfill"
     },
     {
       "q": "This tiny island nation in the Pacific was the first country to be almost entirely submerged due to climate change",

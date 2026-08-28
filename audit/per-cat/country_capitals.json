@@ -1,0 +1,1448 @@
+{
+  "200": [
+    {
+      "q": "Cape Town (legislative capital)",
+      "a": "South Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Monrovia",
+      "a": "Liberia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Paris",
+      "a": "France",
+      "file": "App.jsx"
+    },
+    {
+      "q": "London",
+      "a": "United Kingdom",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Rome",
+      "a": "Italy",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tokyo",
+      "a": "Japan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Moscow",
+      "a": "Russia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Berlin",
+      "a": "Germany",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Madrid",
+      "a": "Spain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Beijing",
+      "a": "China",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Cairo",
+      "a": "Egypt",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Washington, D.C.",
+      "a": "United States",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ottawa",
+      "a": "Canada",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Canberra",
+      "a": "Australia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "New Delhi",
+      "a": "India",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Athens",
+      "a": "Greece",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dublin",
+      "a": "Ireland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Lisbon",
+      "a": "Portugal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Seoul",
+      "a": "South Korea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bangkok",
+      "a": "Thailand",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Buenos Aires",
+      "a": "Argentina",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Stockholm",
+      "a": "Sweden",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Oslo",
+      "a": "Norway",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Copenhagen",
+      "a": "Denmark",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Helsinki",
+      "a": "Finland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vienna",
+      "a": "Austria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Budapest",
+      "a": "Hungary",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Warsaw",
+      "a": "Poland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brussels",
+      "a": "Belgium",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mexico City",
+      "a": "Mexico",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Abu Dhabi",
+      "a": "United Arab Emirates",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Amsterdam",
+      "a": "Netherlands",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Singapore",
+      "a": "Singapore",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Luxembourg",
+      "a": "Luxembourg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Monaco",
+      "a": "Monaco",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kingston",
+      "a": "Jamaica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Havana",
+      "a": "Cuba",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pretoria (administrative capital)",
+      "a": "South Africa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nairobi",
+      "a": "Kenya",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Addis Ababa",
+      "a": "Ethiopia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Algiers",
+      "a": "Algeria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tunis",
+      "a": "Tunisia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tripoli",
+      "a": "Libya",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Khartoum",
+      "a": "Sudan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dakar",
+      "a": "Senegal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Accra",
+      "a": "Ghana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Abuja",
+      "a": "Nigeria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harare",
+      "a": "Zimbabwe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Lusaka",
+      "a": "Zambia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Luanda",
+      "a": "Angola",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kampala",
+      "a": "Uganda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dodoma",
+      "a": "Tanzania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Jerusalem",
+      "a": "Israel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Damascus",
+      "a": "Syria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sanaa",
+      "a": "Yemen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kabul",
+      "a": "Afghanistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vatican City",
+      "a": "Vatican City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "San Marino",
+      "a": "San Marino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Andorra la Vella",
+      "a": "Andorra",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Minsk",
+      "a": "Belarus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Taipei",
+      "a": "Taiwan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nicosia",
+      "a": "Cyprus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Singapore",
+      "a": "Singapore",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Luxembourg",
+      "a": "Luxembourg",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Monaco",
+      "a": "Monaco",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kingston",
+      "a": "Jamaica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Havana",
+      "a": "Cuba",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pretoria (administrative capital)",
+      "a": "South Africa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nairobi",
+      "a": "Kenya",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Addis Ababa",
+      "a": "Ethiopia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Algiers",
+      "a": "Algeria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tunis",
+      "a": "Tunisia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tripoli",
+      "a": "Libya",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Khartoum",
+      "a": "Sudan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dakar",
+      "a": "Senegal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Accra",
+      "a": "Ghana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Abuja",
+      "a": "Nigeria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Harare",
+      "a": "Zimbabwe",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Lusaka",
+      "a": "Zambia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Luanda",
+      "a": "Angola",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kampala",
+      "a": "Uganda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dodoma",
+      "a": "Tanzania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Jerusalem",
+      "a": "Israel",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Damascus",
+      "a": "Syria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sanaa",
+      "a": "Yemen",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kabul",
+      "a": "Afghanistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vatican City",
+      "a": "Vatican City",
+      "file": "App.jsx"
+    },
+    {
+      "q": "San Marino",
+      "a": "San Marino",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Andorra la Vella",
+      "a": "Andorra",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Minsk",
+      "a": "Belarus",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Taipei",
+      "a": "Taiwan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nicosia",
+      "a": "Cyprus",
+      "file": "App.jsx"
+    }
+  ],
+  "400": [
+    {
+      "q": "Freetown",
+      "a": "Sierra Leone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Lilongwe",
+      "a": "Malawi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Yamoussoukro",
+      "a": "Ivory Coast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Port Vila",
+      "a": "Vanuatu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sucre (constitutional capital)",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Hague (seat of government)",
+      "a": "Netherlands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bloemfontein (judicial capital)",
+      "a": "South Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ankara",
+      "a": "Turkey",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bern",
+      "a": "Switzerland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Riyadh",
+      "a": "Saudi Arabia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tehran",
+      "a": "Iran",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Baghdad",
+      "a": "Iraq",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Beirut",
+      "a": "Lebanon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Amman",
+      "a": "Jordan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Doha",
+      "a": "Qatar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Muscat",
+      "a": "Oman",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Manama",
+      "a": "Bahrain",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kuwait City",
+      "a": "Kuwait",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Islamabad",
+      "a": "Pakistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dhaka",
+      "a": "Bangladesh",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kathmandu",
+      "a": "Nepal",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Colombo",
+      "a": "Sri Lanka",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Phnom Penh",
+      "a": "Cambodia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Hanoi",
+      "a": "Vietnam",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Jakarta",
+      "a": "Indonesia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kuala Lumpur",
+      "a": "Malaysia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Manila",
+      "a": "Philippines",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brasília",
+      "a": "Brazil",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Santiago",
+      "a": "Chile",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Lima",
+      "a": "Peru",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Prague",
+      "a": "Czech Republic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kyiv",
+      "a": "Ukraine",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bucharest",
+      "a": "Romania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sofia",
+      "a": "Bulgaria",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Belgrade",
+      "a": "Serbia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Zagreb",
+      "a": "Croatia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Wellington",
+      "a": "New Zealand",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Montevideo",
+      "a": "Uruguay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Georgetown",
+      "a": "Guyana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Paramaribo",
+      "a": "Suriname",
+      "file": "App.jsx"
+    },
+    {
+      "q": "La Paz (administrative capital)",
+      "a": "Bolivia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Panama City",
+      "a": "Panama",
+      "file": "App.jsx"
+    },
+    {
+      "q": "San José",
+      "a": "Costa Rica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "San Salvador",
+      "a": "El Salvador",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guatemala City",
+      "a": "Guatemala",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Belmopan",
+      "a": "Belize",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Castries",
+      "a": "Saint Lucia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bridgetown",
+      "a": "Barbados",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port of Spain",
+      "a": "Trinidad and Tobago",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Djibouti",
+      "a": "Djibouti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Asmara",
+      "a": "Eritrea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mogadishu",
+      "a": "Somalia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kigali",
+      "a": "Rwanda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Gitega",
+      "a": "Burundi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Gaborone",
+      "a": "Botswana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Windhoek",
+      "a": "Namibia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Maseru",
+      "a": "Lesotho",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mbabane (administrative capital)",
+      "a": "Eswatini",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Juba",
+      "a": "South Sudan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port Louis",
+      "a": "Mauritius",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Roseau",
+      "a": "Dominica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Saint George's",
+      "a": "Grenada",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kingstown",
+      "a": "Saint Vincent and the Grenadines",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Saint John's",
+      "a": "Antigua and Barbuda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Basseterre",
+      "a": "Saint Kitts and Nevis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pristina",
+      "a": "Kosovo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Banjul",
+      "a": "The Gambia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Montevideo",
+      "a": "Uruguay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Georgetown",
+      "a": "Guyana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Paramaribo",
+      "a": "Suriname",
+      "file": "App.jsx"
+    },
+    {
+      "q": "La Paz (administrative capital)",
+      "a": "Bolivia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Panama City",
+      "a": "Panama",
+      "file": "App.jsx"
+    },
+    {
+      "q": "San José",
+      "a": "Costa Rica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "San Salvador",
+      "a": "El Salvador",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Guatemala City",
+      "a": "Guatemala",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Belmopan",
+      "a": "Belize",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Castries",
+      "a": "Saint Lucia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bridgetown",
+      "a": "Barbados",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port of Spain",
+      "a": "Trinidad and Tobago",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Djibouti",
+      "a": "Djibouti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Asmara",
+      "a": "Eritrea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mogadishu",
+      "a": "Somalia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kigali",
+      "a": "Rwanda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Gitega",
+      "a": "Burundi",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Gaborone",
+      "a": "Botswana",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Windhoek",
+      "a": "Namibia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Maseru",
+      "a": "Lesotho",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Mbabane (administrative capital)",
+      "a": "Eswatini",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Juba",
+      "a": "South Sudan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port Louis",
+      "a": "Mauritius",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Roseau",
+      "a": "Dominica",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Saint George's",
+      "a": "Grenada",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kingstown",
+      "a": "Saint Vincent and the Grenadines",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Saint John's",
+      "a": "Antigua and Barbuda",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Basseterre",
+      "a": "Saint Kitts and Nevis",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pristina",
+      "a": "Kosovo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Banjul",
+      "a": "The Gambia",
+      "file": "App.jsx"
+    }
+  ],
+  "600": [
+    {
+      "q": "Victoria",
+      "a": "Seychelles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Nukuʻalofa",
+      "a": "Tonga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ngerulmud",
+      "a": "Palau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Lobamba (legislative capital)",
+      "a": "Eswatini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Putrajaya (administrative capital)",
+      "a": "Malaysia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sri Jayawardenepura Kotte (official capital)",
+      "a": "Sri Lanka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cotonou (seat of government)",
+      "a": "Benin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cetinje (Old Royal Capital)",
+      "a": "Montenegro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bujumbura (economic capital)",
+      "a": "Burundi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bratislava",
+      "a": "Slovakia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ljubljana",
+      "a": "Slovenia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Sarajevo",
+      "a": "Bosnia and Herzegovina",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Skopje",
+      "a": "North Macedonia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Podgorica",
+      "a": "Montenegro",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tirana",
+      "a": "Albania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Chisinau",
+      "a": "Moldova",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yerevan",
+      "a": "Armenia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tbilisi",
+      "a": "Georgia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Baku",
+      "a": "Azerbaijan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tashkent",
+      "a": "Uzbekistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bishkek",
+      "a": "Kyrgyzstan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ashgabat",
+      "a": "Turkmenistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Astana",
+      "a": "Kazakhstan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dushanbe",
+      "a": "Tajikistan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Valletta",
+      "a": "Malta",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Reykjavík",
+      "a": "Iceland",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tallinn",
+      "a": "Estonia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Riga",
+      "a": "Latvia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vilnius",
+      "a": "Lithuania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vaduz",
+      "a": "Liechtenstein",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nassau",
+      "a": "Bahamas",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port-au-Prince",
+      "a": "Haiti",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Santo Domingo",
+      "a": "Dominican Republic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tegucigalpa",
+      "a": "Honduras",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Managua",
+      "a": "Nicaragua",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Caracas",
+      "a": "Venezuela",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bogotá",
+      "a": "Colombia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Quito",
+      "a": "Ecuador",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Asunción",
+      "a": "Paraguay",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pyongyang",
+      "a": "North Korea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ulaanbaatar",
+      "a": "Mongolia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Thimphu",
+      "a": "Bhutan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Naypyidaw",
+      "a": "Myanmar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vientiane",
+      "a": "Laos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bandar Seri Begawan",
+      "a": "Brunei",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dili",
+      "a": "East Timor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Malé",
+      "a": "Maldives",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Honiara",
+      "a": "Solomon Islands",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Suva",
+      "a": "Fiji",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Apia",
+      "a": "Samoa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tarawa",
+      "a": "Kiribati",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yaren (de facto)",
+      "a": "Nauru",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Funafuti",
+      "a": "Tuvalu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port Moresby",
+      "a": "Papua New Guinea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Palikir",
+      "a": "Federated States of Micronesia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Lomé",
+      "a": "Togo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Porto-Novo",
+      "a": "Benin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ouagadougou",
+      "a": "Burkina Faso",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Niamey",
+      "a": "Niger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "N'Djamena",
+      "a": "Chad",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bangui",
+      "a": "Central African Republic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Libreville",
+      "a": "Gabon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yaoundé",
+      "a": "Cameroon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazzaville",
+      "a": "Republic of the Congo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kinshasa",
+      "a": "Democratic Republic of the Congo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Malabo",
+      "a": "Equatorial Guinea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nouakchott",
+      "a": "Mauritania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bamako",
+      "a": "Mali",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Antananarivo",
+      "a": "Madagascar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Pyongyang",
+      "a": "North Korea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ulaanbaatar",
+      "a": "Mongolia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Thimphu",
+      "a": "Bhutan",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Naypyidaw",
+      "a": "Myanmar",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Vientiane",
+      "a": "Laos",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bandar Seri Begawan",
+      "a": "Brunei",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Dili",
+      "a": "East Timor",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Malé",
+      "a": "Maldives",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Honiara",
+      "a": "Solomon Islands",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Suva",
+      "a": "Fiji",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Apia",
+      "a": "Samoa",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Tarawa",
+      "a": "Kiribati",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yaren (de facto)",
+      "a": "Nauru",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Funafuti",
+      "a": "Tuvalu",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Port Moresby",
+      "a": "Papua New Guinea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Palikir",
+      "a": "Federated States of Micronesia",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Lomé",
+      "a": "Togo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Porto-Novo",
+      "a": "Benin",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Ouagadougou",
+      "a": "Burkina Faso",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Niamey",
+      "a": "Niger",
+      "file": "App.jsx"
+    },
+    {
+      "q": "N'Djamena",
+      "a": "Chad",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bangui",
+      "a": "Central African Republic",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Libreville",
+      "a": "Gabon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Yaoundé",
+      "a": "Cameroon",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Brazzaville",
+      "a": "Republic of the Congo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Kinshasa",
+      "a": "Democratic Republic of the Congo",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Malabo",
+      "a": "Equatorial Guinea",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Nouakchott",
+      "a": "Mauritania",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Bamako",
+      "a": "Mali",
+      "file": "App.jsx"
+    },
+    {
+      "q": "Antananarivo",
+      "a": "Madagascar",
+      "file": "App.jsx"
+    }
+  ]
+}

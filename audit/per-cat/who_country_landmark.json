@@ -74,66 +74,6 @@
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "United States",
-      "wiki": "Mount_Rushmore",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "United States",
-      "wiki": "Golden_Gate_Bridge",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "United States",
-      "wiki": "Hollywood_Sign",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "France",
-      "wiki": "Louvre",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "Russia",
-      "wiki": "Red_Square",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "India",
-      "wiki": "Gateway_of_India",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "China",
-      "wiki": "Forbidden_City",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "Japan",
-      "wiki": "Tokyo_Tower",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "Thailand",
-      "wiki": "Grand_Palace",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
-      "a": "Netherlands",
-      "wiki": "Rijksmuseum",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "Guess the country from the landmark",
       "a": "United Kingdom",
       "wiki": "Big_Ben",
       "file": "App.jsx"
@@ -328,38 +268,110 @@
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "Scotland",
-      "wiki": "Edinburgh_Castle",
+      "a": "Venezuela",
+      "wiki": "Angel_Falls",
       "file": "qualityBackfill"
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "Finland",
-      "wiki": "Helsinki_Cathedral",
+      "a": "Ecuador",
+      "wiki": "Gal%C3%A1pagos_Islands",
       "file": "qualityBackfill"
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "Denmark",
-      "wiki": "Nyhavn",
+      "a": "Costa Rica",
+      "wiki": "Arenal_Volcano",
       "file": "qualityBackfill"
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "Poland",
-      "wiki": "Wawel_Castle",
+      "a": "Honduras",
+      "wiki": "Cop%C3%A1n",
       "file": "qualityBackfill"
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "Sweden",
-      "wiki": "Stockholm_Palace",
+      "a": "Nicaragua",
+      "wiki": "Le%C3%B3n_Cathedral,_Nicaragua",
       "file": "qualityBackfill"
     },
     {
       "q": "Guess the country from the landmark",
-      "a": "Belgium",
-      "wiki": "Grand-Place",
+      "a": "Estonia",
+      "wiki": "Tallinn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Lithuania",
+      "wiki": "Trakai_Island_Castle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Bulgaria",
+      "wiki": "Rila_Monastery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Serbia",
+      "wiki": "Kalemegdan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Bosnia and Herzegovina",
+      "wiki": "Stari_Most",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Montenegro",
+      "wiki": "Bay_of_Kotor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Albania",
+      "wiki": "Berat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Malta",
+      "wiki": "Mdina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Cyprus",
+      "wiki": "Kyrenia_Castle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Saudi Arabia",
+      "wiki": "Mada%27in_Saleh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Qatar",
+      "wiki": "Museum_of_Islamic_Art,_Doha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Pakistan",
+      "wiki": "Badshahi_Mosque",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Afghanistan",
+      "wiki": "Minaret_of_Jam",
       "file": "qualityBackfill"
     },
     {
@@ -561,6 +573,78 @@
       "a": "Panama",
       "wiki": "Panama_Canal",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Libya",
+      "wiki": "Leptis_Magna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Algeria",
+      "wiki": "Timgad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Senegal",
+      "wiki": "African_Renaissance_Monument",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Uganda",
+      "wiki": "Kasubi_Tombs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Rwanda",
+      "wiki": "Volcanoes_National_Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Botswana",
+      "wiki": "Okavango_Delta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Mozambique",
+      "wiki": "Island_of_Mozambique",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Ghana",
+      "wiki": "Cape_Coast_Castle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Nigeria",
+      "wiki": "Zuma_Rock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Papua New Guinea",
+      "wiki": "Kokoda_Track",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "Fiji",
+      "wiki": "Sri_Siva_Subramaniya_Temple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Guess the country from the landmark",
+      "a": "North Korea",
+      "wiki": "Juche_Tower",
+      "file": "qualityBackfill"
     },
     {
       "q": "Guess the country from the landmark",

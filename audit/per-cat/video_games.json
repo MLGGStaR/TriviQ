@@ -76,6 +76,306 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What shape are Tetris's falling pieces called?",
+      "a": "Tetrominoes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game features a hungry yellow circle eating dots?",
+      "a": "Pac-Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What yellow ghost-chasing character eats dots in a maze?",
+      "a": "Pac-Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What blue hedgehog runs at the speed of sound for Sega?",
+      "a": "Sonic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What red ball-and-plus-sign company made Space Invaders?",
+      "a": "Taito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Microsoft gaming system launched in 2001?",
+      "a": "Xbox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Nintendo's first home console?",
+      "a": "NES",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cartridge-based handheld did Nintendo release in 1989?",
+      "a": "Game Boy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What simulation game lets you build houses and live virtual lives?",
+      "a": "The Sims",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What soccer video game series is made by EA?",
+      "a": "FIFA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the starter fire-type Pokemon in Red and Blue?",
+      "a": "Charmander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What yellow electric rodent is Pokemon's mascot?",
+      "a": "Pikachu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the goal of Tetris?",
+      "a": "Clear lines",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What word describes gaming through headsets and goggles?",
+      "a": "VR",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What franchise stars Kratos as a god-slaying warrior?",
+      "a": "God of War",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What GTA entry was set in Los Santos in 2013?",
+      "a": "GTA V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What series has brothers rescuing a princess in 2D platforming?",
+      "a": "Super Mario Bros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What military FPS series releases yearly by Activision?",
+      "a": "Call of Duty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What WW2-era Battlefield game came out in 2002?",
+      "a": "Battlefield 1942",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Master Chief's main weapon in Halo: Combat Evolved?",
+      "a": "Assault rifle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What open-world cowboy series is made by Rockstar?",
+      "a": "Red Dead",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Mortal Kombat move allows a character to rip out a spine?",
+      "a": "Fatality",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What series has a blue arrow-shooting bandana-wearing boy?",
+      "a": "Legend of Zelda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What handheld is a combination of home console and portable?",
+      "a": "Nintendo Switch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sony's VR headset called?",
+      "a": "PlayStation VR",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Xbox's first online service?",
+      "a": "Xbox Live",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What free online service hosts PC games on Valve's platform?",
+      "a": "Steam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Epic Games' free launcher?",
+      "a": "Epic Games Store",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What handheld followed the DS with 3D effects?",
+      "a": "Nintendo 3DS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What genre is Tetris classified as?",
+      "a": "Puzzle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What genre are Call of Duty games?",
+      "a": "FPS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What genre is Civilization 6?",
+      "a": "Strategy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original name of the Pokemon creature developer?",
+      "a": "Game Freak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company owns Epic Games partially, the maker of Unreal Engine?",
+      "a": "Tencent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What raccoon runs the shop and hands out home loans in Animal Crossing?",
+      "a": "Tom Nook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does EA now call its football series after dropping the FIFA name?",
+      "a": "EA Sports FC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Rockstar series is set in the American Wild West?",
+      "a": "Red Dead Redemption",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What golden triangular relic is central to The Legend of Zelda?",
+      "a": "The Triforce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sonic's two-tailed fox sidekick called?",
+      "a": "Tails",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sonic's red echidna rival-turned-friend called?",
+      "a": "Knuckles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Valve digital store is the biggest PC game marketplace?",
+      "a": "Steam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Valve shooter pits Terrorists against an anti-terror team?",
+      "a": "Counter-Strike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Skyrim is part of which fantasy RPG series?",
+      "a": "The Elder Scrolls",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2020 CD Projekt Red game is set in Night City?",
+      "a": "Cyberpunk 2077",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is Spyro?",
+      "a": "A dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Nintendo crossover fighting series includes Mario, Link and Pikachu?",
+      "a": "Super Smash Bros.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport is Rocket League based on, played with cars?",
+      "a": "Soccer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Mortal Kombat ninja yells 'Get over here!'?",
+      "a": "Scorpion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Mortal Kombat ninja freezes his opponents?",
+      "a": "Sub-Zero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tabletop game is Baldur's Gate 3 based on?",
+      "a": "Dungeons & Dragons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Roblox's in-game currency called?",
+      "a": "Robux",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What melee weapon is Half-Life's Gordon Freeman famous for?",
+      "a": "A crowbar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the mushroom-headed character who serves Princess Peach?",
+      "a": "Toad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Mario's greedy yellow-clad rival?",
+      "a": "Wario",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Nintendo Switch 2 launch?",
+      "a": "2025",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game was bundled with Nintendo's 2006 console and got families bowling in living rooms?",
+      "a": "Wii Sports",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company made Pong and the 2600 console?",
+      "a": "Atari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country was Tetris created?",
+      "a": "The Soviet Union",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Nintendo bounty hunter stars in the Metroid series?",
+      "a": "Samus Aran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in most Zelda games, the King of Evil?",
+      "a": "Ganon",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is the best-selling video game of all time?",
       "a": "Minecraft (238+ million copies)",
       "file": "App.jsx"
@@ -308,6 +608,501 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What studio developed the Souls series?",
+      "a": "FromSoftware",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game features a protagonist named Commander Shepard?",
+      "a": "Mass Effect",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crafting game by Re-Logic features 2D exploration similar to Minecraft?",
+      "a": "Terraria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main antagonist of Ocarina of Time?",
+      "a": "Ganondorf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first commercial arcade video game?",
+      "a": "Computer Space",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What arcade game started the 'invasion' genre in 1978?",
+      "a": "Space Invaders",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Sega console competed with the SNES?",
+      "a": "Sega Genesis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 1991 Sega mascot launched with his namesake title?",
+      "a": "Sonic the Hedgehog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Nintendo 64 launch in North America?",
+      "a": "1996",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the original PlayStation launch in Japan?",
+      "a": "1994",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game is widely credited with creating the battle royale genre?",
+      "a": "PUBG",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does MMO stand for in gaming?",
+      "a": "Massively Multiplayer Online",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Blizzard game is a team-based hero shooter?",
+      "a": "Overwatch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What free-to-play MOBA is made by Valve?",
+      "a": "Dota 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What MOBA is made by Riot Games?",
+      "a": "League of Legends",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What LoL role typically plays in the bottom lane with a support?",
+      "a": "ADC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the farming role in most MOBAs called?",
+      "a": "Jungler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Halo developer after Bungie stepped away?",
+      "a": "343 Industries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What developer made the original Fallout games?",
+      "a": "Interplay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What developer took over Fallout and made Fallout 3?",
+      "a": "Bethesda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Elder Scrolls game is set in Cyrodiil?",
+      "a": "Oblivion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 1998 Zelda game introduced 3D to the series?",
+      "a": "Ocarina of Time",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Zelda title is set on the Great Sea?",
+      "a": "Wind Waker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Zelda game features transforming into a wolf?",
+      "a": "Twilight Princess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the main BioShock antagonist in the first game?",
+      "a": "Andrew Ryan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Square Enix game series features a protagonist named Cloud?",
+      "a": "Final Fantasy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the protagonist of Final Fantasy VII called?",
+      "a": "Cloud Strife",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What MMO from Square Enix is called Online?",
+      "a": "Final Fantasy XIV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in Kingdom Hearts initially?",
+      "a": "Xehanort",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 1996 game introduced survival horror with Raccoon City?",
+      "a": "Resident Evil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What zombie outbreak location is featured in Resident Evil 2?",
+      "a": "Raccoon City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game helped invent the stealth genre with Solid Snake?",
+      "a": "Metal Gear Solid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company developed the Silent Hill series?",
+      "a": "Konami",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Silent Hill's recurring monster with a triangle head?",
+      "a": "Pyramid Head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What indie farming game was made by ConcernedApe?",
+      "a": "Stardew Valley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What indie exploration game is set on a moon of Jupiter?",
+      "a": "Outer Wilds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Hollow Knight sequel is in development?",
+      "a": "Silksong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What indie roguelike features card-based deck building?",
+      "a": "Slay the Spire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What popular 2020 indie puzzle game features monkeys?",
+      "a": "It Takes Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Sony racing series went head-to-head with Forza?",
+      "a": "Gran Turismo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What developer made the original Doom?",
+      "a": "id Software",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game engine did Doom originally run on?",
+      "a": "id Tech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What horror game's demon villain is called Pinhead in cenobite form?",
+      "a": "Dead by Daylight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What multiplayer survival horror game lets you play killer vs survivors?",
+      "a": "Dead by Daylight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2017 open-world Zelda game reinvented the series?",
+      "a": "Breath of the Wild",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Nintendo character has a yellow cape and is rivals with Mario?",
+      "a": "Wario",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What arena fighter features Smash players' most famous character?",
+      "a": "Super Smash Bros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Link's horse?",
+      "a": "Epona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the 2023 sequel to Breath of the Wild?",
+      "a": "Tears of the Kingdom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first game Mario appeared in?",
+      "a": "Donkey Kong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Power Stars are there in Super Mario 64?",
+      "a": "120",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sentient hat in Super Mario Odyssey?",
+      "a": "Cappy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the protagonist of the first Red Dead Redemption?",
+      "a": "John Marston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many playable protagonists does GTA V have?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the protagonist of GTA: San Andreas?",
+      "a": "CJ",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fictional city is GTA III set in?",
+      "a": "Liberty City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Halo's AI companion to Master Chief?",
+      "a": "Cortana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kratos's frost weapon called in God of War (2018)?",
+      "a": "The Leviathan Axe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the protagonist of Horizon Zero Dawn?",
+      "a": "Aloy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fungus causes the infection in The Last of Us?",
+      "a": "Cordyceps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the card game played within The Witcher 3?",
+      "a": "Gwent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Geralt's horse?",
+      "a": "Roach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Fallout's currency?",
+      "a": "Bottle caps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Fallout's grinning blond mascot called?",
+      "a": "Vault Boy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What FromSoftware game is set in the gothic city of Yharnam?",
+      "a": "Bloodborne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the world of Elden Ring called?",
+      "a": "The Lands Between",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the map in League of Legends called?",
+      "a": "Summoner's Rift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Overwatch hero blinks through time and says 'Cheers, love!'?",
+      "a": "Tracer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company created Overwatch and Diablo?",
+      "a": "Blizzard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What world is World of Warcraft set in?",
+      "a": "Azeroth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency in The Sims?",
+      "a": "Simoleons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the gibberish language spoken in The Sims?",
+      "a": "Simlish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the Civilization series?",
+      "a": "Sid Meier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What corporation is behind the outbreak in Resident Evil?",
+      "a": "Umbrella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Japanese designer created Metal Gear and Death Stranding?",
+      "a": "Hideo Kojima",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game series has Ryu, Ken and Chun-Li?",
+      "a": "Street Fighter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Bandai Namco fighting series features the Mishima family?",
+      "a": "Tekken",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the NES called in Japan?",
+      "a": "Famicom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the best-selling Nintendo Switch game?",
+      "a": "Mario Kart 8 Deluxe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cuphead's art style based on?",
+      "a": "1930s cartoons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which vampire-hunting family stars in Castlevania?",
+      "a": "The Belmonts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Ubisoft shooter features villains Vaas and Pagan Min?",
+      "a": "Far Cry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Kirby's penguin rival?",
+      "a": "King Dedede",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Assassin's Creed game is set in ancient Greece?",
+      "a": "Odyssey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the seven powerful gems Sonic collects called?",
+      "a": "Chaos Emeralds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 16-bit console launched Sonic?",
+      "a": "Sega Genesis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Call of Duty subseries features Captain Price and Soap?",
+      "a": "Modern Warfare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original Call of Duty: Warzone map?",
+      "a": "Verdansk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the rockerboy living in V's head in Cyberpunk 2077?",
+      "a": "Johnny Silverhand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the protagonist of Ghost of Tsushima?",
+      "a": "Jin Sakai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What talking cat companion in Persona 5 can turn into a bus?",
+      "a": "Morgana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game series was renamed Like a Dragon in the West?",
+      "a": "Yakuza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Chinese novel is Black Myth: Wukong based on?",
+      "a": "Journey to the West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet do Helldivers spread 'managed democracy' for?",
+      "a": "Super Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What card game is the roguelike Balatro built around?",
+      "a": "Poker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game won Game of the Year at The Game Awards 2022?",
+      "a": "Elden Ring",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did GTA V originally release?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ratchet's robot companion?",
+      "a": "Clank",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the blindfolded android protagonist of NieR: Automata?",
+      "a": "2B",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What game features The cake is a lie?",
       "a": "Portal (2007) by Valve",
       "file": "App.jsx"
@@ -533,6 +1328,456 @@
       "q": "What developer made 'Elden Ring'?",
       "a": "FromSoftware",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed the iconic music for The Legend of Zelda?",
+      "a": "Koji Kondo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Sega's console that competed with the PlayStation 2?",
+      "a": "Dreamcast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2017 game won Game of the Year for its Nintendo Switch launch title?",
+      "a": "The Legend of Zelda: Breath of the Wild",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first game ever released for the Nintendo Entertainment System?",
+      "a": "Super Mario Bros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the game Rogue released?",
+      "a": "1980",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original price of the PlayStation 3 at launch?",
+      "a": "$599",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Famicom peripheral that had a microphone?",
+      "a": "Famicom Disk System",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the code-name of Shigeru Miyamoto's first creation after Donkey Kong?",
+      "a": "Mario Bros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What famous Atari game was originally called Hi-Lo?",
+      "a": "Asteroids",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What obscure console was co-developed by Sony and Nintendo before PlayStation?",
+      "a": "Super NES CD-ROM",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the dreamcast launched in North America?",
+      "a": "1999",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the exact sales figure of Wii systems sold worldwide?",
+      "a": "Over 100 million",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Sega game that preceded Sonic as a mascot?",
+      "a": "Alex Kidd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Crash Bandicoot's developer originally called?",
+      "a": "Naughty Dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What PlayStation icon gave rise to Spyro the Dragon?",
+      "a": "Insomniac Games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the codename used internally for the Nintendo Switch?",
+      "a": "NX",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the codename used for the PS5 during development?",
+      "a": "Project Scarlet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What specific chip powered the Nintendo DS?",
+      "a": "ARM7 and ARM9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 1985 Konami game introduced the Konami Code?",
+      "a": "Gradius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the classic Konami Code input consist of?",
+      "a": "Up up down down",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the full Konami Code sequence ending in 'Start'?",
+      "a": "ABBA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first title under the Xbox name released in Japan?",
+      "a": "Dead or Alive 3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the GameCube's codename during development?",
+      "a": "Dolphin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Wii's codename before its reveal?",
+      "a": "Revolution",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chip architecture is used in PlayStation 5 consoles?",
+      "a": "AMD Zen 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the approximate teraflop count of the Xbox Series X GPU?",
+      "a": "12 TFLOPS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the approximate teraflop count of the PlayStation 5 GPU?",
+      "a": "10.3 TFLOPS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game holds the Guinness World Record for most revenue generated in 24 hours?",
+      "a": "GTA V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How much did GTA V make in its first 24 hours?",
+      "a": "$800 million",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Minecraft become the best-selling game of all time?",
+      "a": "2019",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the best-selling Xbox exclusive of all time?",
+      "a": "Halo 3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the best-selling PS2 game?",
+      "a": "Grand Theft Auto San Andreas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What new name did EA's soccer franchise take after FIFA split?",
+      "a": "EA Sports FC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the studio name Hideo Kojima founded after leaving Konami?",
+      "a": "Kojima Productions",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What studio made the 2017 game Horizon Zero Dawn?",
+      "a": "Guerrilla Games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What studio made Ghost of Tsushima?",
+      "a": "Sucker Punch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What studio made Spider-Man and Ratchet and Clank?",
+      "a": "Insomniac Games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first voice-acted talking game?",
+      "a": "Berzerk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Final Fantasy VII's original release year?",
+      "a": "1997",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact year Pokemon Red and Blue released in Japan?",
+      "a": "1996",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon game had the most Pokemon at launch before Sword/Shield?",
+      "a": "Pokemon Sun and Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon game introduced Dynamax and Gigantamax?",
+      "a": "Pokemon Sword and Shield",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original N64 game released alongside the launch console in Japan?",
+      "a": "Super Mario 64",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Mario's name in the original Donkey Kong arcade game?",
+      "a": "Jumpman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the damsel Mario rescued in the original Donkey Kong?",
+      "a": "Pauline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What British studio made Donkey Kong Country and GoldenEye 007?",
+      "a": "Rare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the red ghost in Pac-Man?",
+      "a": "Blinky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented Tetris?",
+      "a": "Alexey Pajitnov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Atari?",
+      "a": "Nolan Bushnell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the 'Fus Ro Dah' shout in Skyrim officially called?",
+      "a": "Unrelenting Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which numbered shelter does the player leave at the start of Fallout 3?",
+      "a": "Vault 101",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first major boss in Elden Ring, the Fell Omen?",
+      "a": "Margit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Elden Ring's 2024 expansion called?",
+      "a": "Shadow of the Erdtree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nathan Drake's cigar-smoking mentor?",
+      "a": "Victor Sullivan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Commander Shepard's ship in Mass Effect?",
+      "a": "The Normandy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second AI voice, a bumbling personality core, in Portal 2?",
+      "a": "Wheatley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many classes are in Team Fortress 2?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Resident Evil 4 set in?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which game did Pyramid Head first appear?",
+      "a": "Silent Hill 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the engineer protagonist of Dead Space?",
+      "a": "Isaac Clarke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Japanese studio made Bayonetta?",
+      "a": "PlatinumGames",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the villain of Diablo IV, the Daughter of Hatred?",
+      "a": "Lilith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the three playable races in StarCraft?",
+      "a": "Terran, Zerg and Protoss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the original Game Boy released?",
+      "a": "1989",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Nintendo's failed 1995 red-and-black 3D headset console?",
+      "a": "Virtual Boy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who hosts The Game Awards?",
+      "a": "Geoff Keighley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game won Game of the Year at The Game Awards 2024?",
+      "a": "Astro Bot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game won Game of the Year at The Game Awards 2021?",
+      "a": "It Takes Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What French RPG released in 2025 has a Paintress who erases everyone of a certain age each year?",
+      "a": "Clair Obscur: Expedition 33",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Star Fox character tells you to 'do a barrel roll'?",
+      "a": "Peppy Hare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the protagonist of EarthBound?",
+      "a": "Ness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the owl who runs the museum in Animal Crossing?",
+      "a": "Blathers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fictional country is Papers, Please set in?",
+      "a": "Arstotzka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long is the time loop in Outer Wilds?",
+      "a": "22 minutes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Disco Elysium set in?",
+      "a": "Revachol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the school in Bully?",
+      "a": "Bullworth Academy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the protagonist of GTA IV?",
+      "a": "Niko Bellic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which GTA V protagonist is the unhinged meth dealer from Sandy Shores?",
+      "a": "Trevor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the town in Alan Wake?",
+      "a": "Bright Falls",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the city in Dishonored?",
+      "a": "Dunwall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the AI antagonist in System Shock?",
+      "a": "SHODAN",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Swedish studio develops Battlefield?",
+      "a": "DICE",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the enemy species in Gears of War?",
+      "a": "The Locust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ancient race built the Halo rings?",
+      "a": "The Forerunners",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which studio developed Gran Turismo?",
+      "a": "Polyphony Digital",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the solo developer behind Stardew Valley?",
+      "a": "Eric Barone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final boss of Terraria?",
+      "a": "Moon Lord",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Hades II protagonist, Zagreus's sister?",
+      "a": "Melinoë",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Elden Ring boss is known as the Blade of Miquella?",
+      "a": "Malenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the protagonist of Final Fantasy XVI?",
+      "a": "Clive Rosfield",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is emergent gameplay?",

@@ -52,7 +52,7 @@
     },
     {
       "q": "What is the largest desert on Earth?",
-      "a": "Sahara (or Antarctic)",
+      "a": "Antarctica",
       "file": "megaNewExpansions"
     },
     {
@@ -64,6 +64,446 @@
       "q": "What is the speed of light roughly in km/s?",
       "a": "300,000 km/s",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "How many players are on a basketball team on the court?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color do you get mixing blue and yellow?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a pentagon have?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seconds are in a minute?",
+      "a": "60",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many days are in a non-leap year?",
+      "a": "365",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color do you get mixing red and yellow?",
+      "a": "Orange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many legs does a spider have?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a square have?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape is a stop sign?",
+      "a": "Octagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do bees make?",
+      "a": "Honey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many legs does an insect have?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first month of the year?",
+      "a": "January",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many cards are in a standard deck?",
+      "a": "52",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees are in a right angle?",
+      "a": "90",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a baby dog?",
+      "a": "Puppy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the opposite of day?",
+      "a": "Night",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is frozen water called?",
+      "a": "Ice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tallest tower in Paris?",
+      "a": "Eiffel Tower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many colors are in the French flag?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal says 'moo'?",
+      "a": "Cow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many quarters in a dollar?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many hours in half a day?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a baby cat?",
+      "a": "Kitten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gas do humans breathe in?",
+      "a": "Oxygen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of France?",
+      "a": "Paris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons are there in a year?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many pennies in a nickel?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the sky on a clear day?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the last month of the year?",
+      "a": "December",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many dimes in a dollar?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do cows produce that we drink?",
+      "a": "Milk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many strikes in an out in baseball?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal has a trunk?",
+      "a": "Elephant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a male horse called?",
+      "a": "Stallion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do caterpillars turn into?",
+      "a": "Butterflies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees in a full circle?",
+      "a": "360",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the opposite of east?",
+      "a": "West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many wheels on a unicycle?",
+      "a": "1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a group of fish?",
+      "a": "School",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many feet in a yard?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the top of a mountain called?",
+      "a": "Peak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote '1984'?",
+      "a": "George Orwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is a baker's dozen?",
+      "a": "13",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is the city of Marrakech?",
+      "a": "Morocco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Switzerland?",
+      "a": "Swiss franc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which bird is the national symbol of the United States?",
+      "a": "Bald eagle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fairy who travels with Peter Pan?",
+      "a": "Tinker Bell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many strings does a standard violin have?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which animal appears on Australia's coat of arms alongside the emu?",
+      "a": "Kangaroo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country gifted the Statue of Liberty to the United States?",
+      "a": "France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a word that reads the same forwards and backwards?",
+      "a": "Palindrome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many players does a volleyball team have on court at once?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which gas makes up most of Earth's atmosphere?",
+      "a": "Nitrogen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sea creature has three hearts?",
+      "a": "Octopus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Greek god of the sea?",
+      "a": "Poseidon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the Titanic sink?",
+      "a": "1912",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do bees collect from flowers to make honey?",
+      "a": "Nectar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the toy cowboy in Toy Story?",
+      "a": "Woody",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which continent has the most countries?",
+      "a": "Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of animal is a Komodo dragon?",
+      "a": "Lizard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many squares are on a standard chessboard?",
+      "a": "64",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only even prime number?",
+      "a": "2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many keys does a standard full-size piano have?",
+      "a": "88",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees do the interior angles of a triangle add up to?",
+      "a": "180",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many dots are there in total on a standard six-sided die?",
+      "a": "21",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What unit is used to measure the loudness of sound?",
+      "a": "Decibels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many pieces does each player start with in a game of chess?",
+      "a": "16",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the seventh planet from the Sun?",
+      "a": "Uranus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest living bird?",
+      "a": "Ostrich",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years are in a score?",
+      "a": "20",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many teaspoons are in a tablespoon?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tenth letter of the English alphabet?",
+      "a": "J",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which number is on the opposite face from 1 on a standard die?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main ingredient of hummus?",
+      "a": "Chickpeas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Great Lakes are there in North America?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Italian dessert is made with coffee-soaked ladyfingers and mascarpone?",
+      "a": "Tiramisu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of India?",
+      "a": "Rupee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which common fruit has its seeds on the outside?",
+      "a": "Strawberry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for a word that means the opposite of another word?",
+      "a": "Antonym",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest species of big cat?",
+      "a": "Tiger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "After water, what is the most consumed drink in the world?",
+      "a": "Tea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many zeros are in one billion?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What green pigment gives plants their colour?",
+      "a": "Chlorophyll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of blood vessel carries blood away from the heart?",
+      "a": "Arteries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the traditional gift material for a 25th wedding anniversary?",
+      "a": "Silver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main language spoken in Austria?",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vegetable is fermented to make sauerkraut?",
+      "a": "Cabbage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Japanese art of folding paper into shapes?",
+      "a": "Origami",
+      "file": "qualityBackfill"
     },
     {
       "q": "How many days in a leap year?",
@@ -296,6 +736,416 @@
       "q": "What is the national animal of Scotland?",
       "a": "Unicorn",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Roman numeral for 400?",
+      "a": "CD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does SCUBA stand for?",
+      "a": "Self-Contained Underwater Breathing Apparatus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most common element in the human body by mass?",
+      "a": "Oxygen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest planet in our solar system?",
+      "a": "Jupiter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many ounces in a pound?",
+      "a": "16",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of crows called?",
+      "a": "A murder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for silver?",
+      "a": "Ag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the national flower of Japan?",
+      "a": "Cherry blossom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years is a decade?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years is a century?",
+      "a": "100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of wolves called?",
+      "a": "A pack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for tin?",
+      "a": "Sn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which tree species holds the oldest individual non-clonal tree?",
+      "a": "Bristlecone pine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many hearts does an octopus have?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 40?",
+      "a": "XL",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Belgium?",
+      "a": "Brussels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the acronym NASA stand for?",
+      "a": "National Aeronautics and Space Administration",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of owls called?",
+      "a": "A parliament",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fear of spiders called?",
+      "a": "Arachnophobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who painted the Mona Lisa?",
+      "a": "Leonardo da Vinci",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for lead?",
+      "a": "Pb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest type of shark?",
+      "a": "Whale shark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of earthquakes called?",
+      "a": "Seismology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did humans first walk on the Moon?",
+      "a": "1969",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many planets have rings in our solar system?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a baby kangaroo called?",
+      "a": "Joey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country in South America?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of flamingos called?",
+      "a": "A flamboyance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest muscle in the human body?",
+      "a": "Gluteus maximus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fear of tight spaces called?",
+      "a": "Claustrophobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only mammal that cannot jump?",
+      "a": "Elephant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Greece?",
+      "a": "Athens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest bone in the human body?",
+      "a": "Stapes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for helium?",
+      "a": "He",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 4?",
+      "a": "IV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many US presidents are on Mount Rushmore?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tallest building in the world?",
+      "a": "Burj Khalifa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is a polar bear's skin?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest internal organ in the human body?",
+      "a": "Liver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many players on a baseball team on the field?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of weather called?",
+      "a": "Meteorology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of kangaroos called?",
+      "a": "A mob",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest-lived vertebrate species?",
+      "a": "Greenland shark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for copper?",
+      "a": "Cu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first woman in space?",
+      "a": "Valentina Tereshkova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the world's smallest bird?",
+      "a": "Bee hummingbird",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal has the longest lifespan?",
+      "a": "Greenland shark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Latin phrase does the 'AM' in '9 AM' stand for?",
+      "a": "Ante meridiem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a baby swan called?",
+      "a": "Cygnet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest bone in the human arm?",
+      "a": "Humerus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What scale measures the spiciness of chilli peppers?",
+      "a": "Scoville scale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which letter of the alphabet does not appear in the name of any US state?",
+      "a": "Q",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a British 50 pence coin have?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a word formed by rearranging the letters of another word called?",
+      "a": "Anagram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fear of heights called?",
+      "a": "Acrophobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of South Africa?",
+      "a": "Rand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for the number 1 followed by 100 zeros?",
+      "a": "Googol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the NATO phonetic alphabet, which word represents the letter S?",
+      "a": "Sierra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a sentence that contains every letter of the alphabet called?",
+      "a": "Pangram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years of marriage does a golden wedding anniversary celebrate?",
+      "a": "50",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest rodent in the world?",
+      "a": "Capybara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Greek goddess of victory shares her name with a sportswear brand?",
+      "a": "Nike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Russia?",
+      "a": "Ruble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a female fox called?",
+      "a": "Vixen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which bird is the only one that can fly backwards?",
+      "a": "Hummingbird",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a triangle with three sides of different lengths called?",
+      "a": "Scalene",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spirit is the base of a mojito?",
+      "a": "Rum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Hindu festival of lights?",
+      "a": "Diwali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Brazil?",
+      "a": "Real",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a number that equals the sum of its own proper divisors, such as 6 or 28, called?",
+      "a": "Perfect number",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country produces the most coffee in the world?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cocktail is made from vodka and orange juice?",
+      "a": "Screwdriver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Roman god of war?",
+      "a": "Mars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What metal is the outer skin of the Statue of Liberty made of?",
+      "a": "Copper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for words that imitate the sound they describe, like 'buzz' or 'hiss'?",
+      "a": "Onomatopoeia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which chess piece is conventionally valued at nine points?",
+      "a": "Queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tallest type of grass in the world?",
+      "a": "Bamboo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Jewish New Year called?",
+      "a": "Rosh Hashanah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Spanish rice dish is traditionally cooked in a wide, shallow pan?",
+      "a": "Paella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Greek goddess of wisdom?",
+      "a": "Athena",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which jackal-headed Egyptian god was associated with the dead?",
+      "a": "Anubis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nut is the main ingredient of marzipan?",
+      "a": "Almond",
+      "file": "qualityBackfill"
     },
     {
       "q": "Planet closest in size to Earth?",
@@ -555,6 +1405,391 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What is the atomic number of uranium?",
+      "a": "92",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the Euro enter circulation as cash?",
+      "a": "2002",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most common surname in China?",
+      "a": "Wang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the three primary subtractive colors?",
+      "a": "Cyan, magenta, yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the interior angles of a hexagon?",
+      "a": "720 degrees",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fear of the number 13 called?",
+      "a": "Triskaidekaphobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the Mohs scale measure?",
+      "a": "Mineral hardness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of jellyfish called?",
+      "a": "A smack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of force?",
+      "a": "Newton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Pride and Prejudice'?",
+      "a": "Jane Austen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for antimony?",
+      "a": "Sb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a 20-sided polygon called?",
+      "a": "Icosagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest species of penguin?",
+      "a": "Emperor penguin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does GDP stand for?",
+      "a": "Gross Domestic Product",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'The Brothers Karamazov'?",
+      "a": "Fyodor Dostoevsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of caves called?",
+      "a": "Speleology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of word origins called?",
+      "a": "Etymology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of electric charge?",
+      "a": "Coulomb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for mercury (element)?",
+      "a": "Hg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fear of open spaces called?",
+      "a": "Agoraphobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of birds called?",
+      "a": "Ornithology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for platinum?",
+      "a": "Pt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is an animal that eats both plants and meat called?",
+      "a": "Omnivore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the opera 'Carmen'?",
+      "a": "Georges Bizet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of temperature?",
+      "a": "Kelvin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of blood called?",
+      "a": "Hematology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 11?",
+      "a": "XI",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Crime and Punishment'?",
+      "a": "Fyodor Dostoevsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of insects called?",
+      "a": "Entomology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of giraffes called?",
+      "a": "A tower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the lightest metal on the periodic table?",
+      "a": "Lithium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for tungsten?",
+      "a": "W",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fear of public speaking called?",
+      "a": "Glossophobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Les Misérables'?",
+      "a": "Victor Hugo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the highest mountain in Africa?",
+      "a": "Kilimanjaro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is rain mixed with snow called?",
+      "a": "Sleet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for bromine?",
+      "a": "Br",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of dreams called?",
+      "a": "Oneirology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for a group of porcupines?",
+      "a": "A prickle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for arsenic?",
+      "a": "As",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of pressure?",
+      "a": "Pascal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a polygon with 1000 sides called?",
+      "a": "Chiliagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country entirely within Europe?",
+      "a": "Ukraine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the loss of sense of smell called?",
+      "a": "Anosmia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for radium?",
+      "a": "Ra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the dot above a lowercase 'i' or 'j' called?",
+      "a": "Tittle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Sherlock Holmes's older brother?",
+      "a": "Mycroft",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the plastic or metal tip at the end of a shoelace called?",
+      "a": "Aglet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the anatomical name for the smooth area of skin between the eyebrows?",
+      "a": "Glabella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the indentation in the bottom of a wine bottle called?",
+      "a": "Punt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the NATO phonetic alphabet, which word represents the letter Q?",
+      "a": "Quebec",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the word for the distinctive smell of rain falling on dry ground?",
+      "a": "Petrichor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Vietnam?",
+      "a": "Dong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Poland?",
+      "a": "Zloty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Hungary?",
+      "a": "Forint",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of flags called?",
+      "a": "Vexillology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of wine called?",
+      "a": "Oenology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the formal name for the '#' symbol?",
+      "a": "Octothorpe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year is written as MCMXCIV in Roman numerals?",
+      "a": "1994",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Japanese art of flower arranging called?",
+      "a": "Ikebana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which nerve is struck when you hit your 'funny bone'?",
+      "a": "Ulnar nerve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of handwriting called?",
+      "a": "Graphology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the ninth letter of the Greek alphabet, also used to mean a tiny amount?",
+      "a": "Iota",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many faces does an icosahedron have?",
+      "a": "20",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of all the numbers on a roulette wheel?",
+      "a": "666",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the traditional name for a person who makes barrels?",
+      "a": "Cooper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the traditional name for a person who makes arrows?",
+      "a": "Fletcher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a baby platypus called?",
+      "a": "Puggle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the currency of Malaysia?",
+      "a": "Ringgit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tallest statue in the world?",
+      "a": "Statue of Unity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which letter is represented by a single dot in Morse code?",
+      "a": "E",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the open public square at the heart of an ancient Greek city called?",
+      "a": "Agora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for a word spelled the same as another but pronounced differently, like 'lead' the metal and 'lead' the verb?",
+      "a": "Heteronym",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of a solid with 12 pentagonal faces?",
+      "a": "Dodecahedron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Hawaiian word for 'thank you'?",
+      "a": "Mahalo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for a single word with two opposite meanings, such as 'cleave'?",
+      "a": "Contronym",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Italian sparkling wine is made mainly from the Glera grape?",
+      "a": "Prosecco",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Half-life of Carbon-14?",
       "a": "~5,730 years",
       "file": "App.jsx"
@@ -591,7 +1826,7 @@
     },
     {
       "q": "Boundary layer between Earth's crust and mantle?",
-      "a": "The MohoroviÄiÄ‡ discontinuity (the Moho)",
+      "a": "The Mohorovičić discontinuity (the Moho)",
       "file": "App.jsx"
     },
     {

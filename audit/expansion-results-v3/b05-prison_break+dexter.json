@@ -1,0 +1,606 @@
+{
+  "prison_break": {
+    "200": [
+      {
+        "q": "In which city does Michael carry out the bank robbery that lands him in Fox River?",
+        "a": "Chicago"
+      },
+      {
+        "q": "What does mob boss Abruzzi promise to provide for the getaway after the Fox River escape?",
+        "a": "A plane"
+      },
+      {
+        "q": "What Spanish word does Sucre habitually call Michael?",
+        "a": "Papi"
+      },
+      {
+        "q": "Which member of the Fox River Eight has a nickname taken from slang for a hundred-dollar bill?",
+        "a": "C-Note"
+      },
+      {
+        "q": "Which former Fox River guard captain ends up locked inside the same prison as an inmate in season 2?",
+        "a": "Brad Bellick"
+      },
+      {
+        "q": "Which of the two brothers is the older one?",
+        "a": "Lincoln"
+      },
+      {
+        "q": "What happens to Sona prison at the very start of season 4?",
+        "a": "It burns down"
+      },
+      {
+        "q": "What nationality is Lechero, the boss of Sona?",
+        "a": "Panamanian"
+      },
+      {
+        "q": "In which country does Sucre finally reunite with Maricruz in season 2?",
+        "a": "Mexico"
+      }
+    ],
+    "400": [
+      {
+        "q": "Which Company agent does Sara shoot dead in the season 2 finale?",
+        "a": "Bill Kim"
+      },
+      {
+        "q": "How does Terrence Steadman die in season 2?",
+        "a": "Suicide"
+      },
+      {
+        "q": "Which escapee jumps to his death from a grain silo?",
+        "a": "Haywire"
+      },
+      {
+        "q": "Who shoots Tweener dead in season 2?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "Which member of the escape crew dies of his injuries on the night of the Fox River breakout?",
+        "a": "Charles Westmoreland"
+      },
+      {
+        "q": "How many years is Michael sentenced to for his bank robbery?",
+        "a": "Five"
+      },
+      {
+        "q": "How many episodes are in season 1?",
+        "a": "22"
+      },
+      {
+        "q": "Which closed real-life Illinois prison was used to film Fox River?",
+        "a": "Joliet Correctional Center"
+      },
+      {
+        "q": "How many cards are needed to access Scylla?",
+        "a": "Six"
+      },
+      {
+        "q": "Scylla is often described as the Company's what?",
+        "a": "Little black book"
+      },
+      {
+        "q": "How much time is Michael given to break Whistler out of Sona?",
+        "a": "One week"
+      },
+      {
+        "q": "Who kills James Whistler in season 4?",
+        "a": "Wyatt"
+      },
+      {
+        "q": "How many years forward does the story jump at the end of the season 4 finale?",
+        "a": "Four"
+      },
+      {
+        "q": "Where does Jacob Ness end up in the closing scene of season 5?",
+        "a": "Fox River"
+      },
+      {
+        "q": "What alias does Kellerman use to befriend Sara at her recovery meetings?",
+        "a": "Lance"
+      },
+      {
+        "q": "Who tortures Sara by holding her under water in a bathtub in season 2?",
+        "a": "Paul Kellerman"
+      },
+      {
+        "q": "For whose murders is LJ framed in season 1?",
+        "a": "His mother and stepfather"
+      },
+      {
+        "q": "What document is Governor Tancredi pressured into signing?",
+        "a": "Lincoln's death warrant"
+      },
+      {
+        "q": "What crime put Sucre in Fox River?",
+        "a": "Armed robbery"
+      },
+      {
+        "q": "In which branch of the US military did C-Note serve?",
+        "a": "The Army"
+      },
+      {
+        "q": "Which escapee turns himself in to the FBI so his sick daughter can get treatment?",
+        "a": "C-Note"
+      },
+      {
+        "q": "Who slashes Abruzzi's throat in season 1?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "Which witness against Abruzzi does Michael use as leverage over him?",
+        "a": "Otto Fibonacci"
+      },
+      {
+        "q": "Which part of the prison do the escapees have to cut through after the original infirmary route is blocked?",
+        "a": "The psych ward"
+      },
+      {
+        "q": "Who tortures and kills Wyatt in season 4?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "What skill makes Ja useful to Michael's escape from Ogygia?",
+        "a": "Hacking"
+      },
+      {
+        "q": "Which inmate works as Bellick's snitch inside Fox River?",
+        "a": "Tweener"
+      },
+      {
+        "q": "What job does T-Bag hold at GATE in season 4?",
+        "a": "Salesman"
+      },
+      {
+        "q": "What profession does Jacob Ness use as his cover?",
+        "a": "University professor"
+      },
+      {
+        "q": "Who kills Aldo Burrows?",
+        "a": "Alexander Mahone"
+      },
+      {
+        "q": "Which two people does Gretchen hold hostage to force Michael to free Whistler?",
+        "a": "LJ and Sara"
+      },
+      {
+        "q": "In which US state do the brothers plan to meet their getaway plane in season 2?",
+        "a": "New Mexico"
+      }
+    ],
+    "600": [
+      {
+        "q": "What is the name of C-Note's daughter?",
+        "a": "Dede"
+      },
+      {
+        "q": "What is the name of C-Note's wife?",
+        "a": "Kacee"
+      },
+      {
+        "q": "What white-supremacist gang does T-Bag lead inside Fox River?",
+        "a": "Alliance for Purity"
+      },
+      {
+        "q": "Which young inmate hangs himself after being abused by T-Bag in season 1?",
+        "a": "Seth"
+      },
+      {
+        "q": "Whose murders put Haywire in Fox River?",
+        "a": "His parents"
+      },
+      {
+        "q": "What valuable item did Tweener steal to land himself in Fox River?",
+        "a": "A baseball card"
+      },
+      {
+        "q": "Which guard's murder is Bellick framed for in season 2?",
+        "a": "Roy Geary"
+      },
+      {
+        "q": "Which drug dealer did Lincoln owe $90,000 to?",
+        "a": "Crab Simmons"
+      },
+      {
+        "q": "What is the name of Veronica's legal colleague who helps her in season 1?",
+        "a": "Nick Savrinn"
+      },
+      {
+        "q": "What legal-aid organisation does Nick Savrinn work for?",
+        "a": "Project Justice"
+      },
+      {
+        "q": "What is Michael's inmate number at Fox River?",
+        "a": "94941"
+      },
+      {
+        "q": "What phrase on Michael's tattoo, read upside down, reveals the coordinates of a desert meeting point?",
+        "a": "Bolshoi Booze"
+      },
+      {
+        "q": "In which Illinois town do the escapees dig up Michael's buried cache of clothes and IDs?",
+        "a": "Oswego"
+      },
+      {
+        "q": "In which Utah town is Westmoreland's money buried?",
+        "a": "Tooele"
+      },
+      {
+        "q": "What is the name of the boat Michael buys in Panama in season 2?",
+        "a": "Christina Rose"
+      },
+      {
+        "q": "What nationality is Nika Volek?",
+        "a": "Czech"
+      },
+      {
+        "q": "What name does Lechero call T-Bag inside Sona?",
+        "a": "Teodoro"
+      },
+      {
+        "q": "Who is Lechero's right-hand man at Sona?",
+        "a": "Sammy"
+      },
+      {
+        "q": "Which teenage inmate helps Michael in Sona and escapes with him?",
+        "a": "McGrady"
+      },
+      {
+        "q": "Who takes over as boss of Sona after Lechero's death?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "What is the name of the hacker on Michael's Scylla team?",
+        "a": "Roland Glenn"
+      },
+      {
+        "q": "What specific type of brain tumour is Michael diagnosed with in season 4?",
+        "a": "Hypothalamic hamartoma"
+      },
+      {
+        "q": "What is the name of General Krantz's daughter?",
+        "a": "Lisa Tabak"
+      },
+      {
+        "q": "Whose quote appears on Michael's gravestone at the end of season 4?",
+        "a": "Gandhi"
+      },
+      {
+        "q": "Who shoots Christina Scofield dead in the season 4 finale?",
+        "a": "Sara"
+      },
+      {
+        "q": "What nickname was General Krantz credited under before his name was revealed?",
+        "a": "Pad Man"
+      },
+      {
+        "q": "What is the name of the undercover agent posing as T-Bag's secretary at GATE?",
+        "a": "Trishanne"
+      },
+      {
+        "q": "Who is Mahone's FBI partner during the season 2 manhunt?",
+        "a": "Felicia Lang"
+      },
+      {
+        "q": "Who kills Whip in season 5?",
+        "a": "A&W"
+      },
+      {
+        "q": "What is the nickname of A&W's partner in season 5?",
+        "a": "Van Gogh"
+      },
+      {
+        "q": "What Odyssey-inspired name does Michael give the Yemeni fishing village where his group hopes to find a boat?",
+        "a": "Phaeacia"
+      },
+      {
+        "q": "Michael's alias surname Outis is the false name Odysseus gave the Cyclops, meaning what?",
+        "a": "Nobody"
+      },
+      {
+        "q": "In Homer's Odyssey, Ogygia is the island home of which nymph?",
+        "a": "Calypso"
+      },
+      {
+        "q": "Which country's prime minister loses his son to an assassination in Christina's Scylla scheme?",
+        "a": "India"
+      },
+      {
+        "q": "Who briefly becomes Michael's cellmate after Sucre is moved out of their cell?",
+        "a": "Haywire"
+      },
+      {
+        "q": "Which cousin of Sucre's takes up with Maricruz while he is in prison?",
+        "a": "Hector"
+      },
+      {
+        "q": "Whose testimony finally leads to Lincoln's exoneration in season 2?",
+        "a": "Paul Kellerman"
+      }
+    ]
+  },
+  "dexter": {
+    "200": [
+      {
+        "q": "Which character's line \"Surprise, motherf***er!\" became an internet meme?",
+        "a": "James Doakes"
+      },
+      {
+        "q": "What trademark piece of clothing does Angel Batista almost always wear?",
+        "a": "A fedora"
+      },
+      {
+        "q": "What is completely missing from the Ice Truck Killer's dismembered victims?",
+        "a": "Blood"
+      },
+      {
+        "q": "Dexter's son Harrison is named in honour of which character?",
+        "a": "Harry Morgan"
+      },
+      {
+        "q": "Where on the body does Dexter inject his victims with the tranquiliser?",
+        "a": "The neck"
+      },
+      {
+        "q": "Which dead character appears to Dexter as his inner voice throughout New Blood?",
+        "a": "Debra"
+      },
+      {
+        "q": "Where is Dexter: Resurrection set?",
+        "a": "New York City"
+      },
+      {
+        "q": "Which of Rita's two children is the older one?",
+        "a": "Astor"
+      }
+    ],
+    "400": [
+      {
+        "q": "In New Blood, which school sport does Harrison take up?",
+        "a": "Wrestling"
+      },
+      {
+        "q": "What weapon does Dexter use to kill Arthur Mitchell?",
+        "a": "A hammer"
+      },
+      {
+        "q": "Deb walks in on Dexter killing Travis Marshall at the end of which season?",
+        "a": "6"
+      },
+      {
+        "q": "Which two Miami Metro colleagues get married in season 4?",
+        "a": "Batista and LaGuerta"
+      },
+      {
+        "q": "Where does Rita's ex-husband Paul die?",
+        "a": "In prison"
+      },
+      {
+        "q": "Where do Astor and Cody go to live after Rita's death?",
+        "a": "Orlando"
+      },
+      {
+        "q": "In what year did the original series finale air?",
+        "a": "2013"
+      },
+      {
+        "q": "In what year did Dexter: New Blood premiere?",
+        "a": "2021"
+      },
+      {
+        "q": "How old was Dexter when Harry found him in the shipping container?",
+        "a": "Three"
+      },
+      {
+        "q": "Whom does the Ice Truck Killer date and later kidnap in season 1?",
+        "a": "Debra"
+      },
+      {
+        "q": "Where does Dexter hold Doakes captive in season 2?",
+        "a": "A cabin in the Everglades"
+      },
+      {
+        "q": "What nationality is Lila, Dexter's season 2 sponsor?",
+        "a": "British"
+      },
+      {
+        "q": "Dexter and Rita get married at the end of which season?",
+        "a": "3"
+      },
+      {
+        "q": "Whose murder does Dexter stage to look like the work of the Skinner?",
+        "a": "Miguel Prado"
+      },
+      {
+        "q": "What piece of Dexter's evidence does LaGuerta find at the Doomsday church?",
+        "a": "A blood slide"
+      },
+      {
+        "q": "Where does Dexter find Professor Gellar's body?",
+        "a": "In a freezer"
+      },
+      {
+        "q": "Which police officer does Dexter kill while escaping the Iron Lake jail?",
+        "a": "Sergeant Logan"
+      },
+      {
+        "q": "From which part of the face does Dexter take the drop of blood for his trophy slides?",
+        "a": "The cheek"
+      },
+      {
+        "q": "What job does Dexter work in New York in Dexter: Resurrection?",
+        "a": "Rideshare driver"
+      },
+      {
+        "q": "Where does Harrison work in Dexter: Resurrection?",
+        "a": "A hotel"
+      },
+      {
+        "q": "Who is the billionaire who collects serial killers in Dexter: Resurrection?",
+        "a": "Leon Prater"
+      }
+    ],
+    "600": [
+      {
+        "q": "Which killer is Dexter dispatching when he discovers Lumen Pierce?",
+        "a": "Boyd Fowler"
+      },
+      {
+        "q": "What is Jordan Chase's real name?",
+        "a": "Eugene Greer"
+      },
+      {
+        "q": "What is Jordan Chase's two-word motivational catchphrase?",
+        "a": "Take it"
+      },
+      {
+        "q": "Which member of Jordan Chase's group serves as his head of security?",
+        "a": "Cole Harmon"
+      },
+      {
+        "q": "Who kills Stan Liddy?",
+        "a": "Dexter"
+      },
+      {
+        "q": "What separates Deb from Dexter and Lumen when she lets them go in the season 5 finale?",
+        "a": "A plastic sheet"
+      },
+      {
+        "q": "Which Mexican folk saint is tied to the cartel killings investigated in season 5?",
+        "a": "Santa Muerte"
+      },
+      {
+        "q": "What is the profession of Christine Hill, the woman who shoots Frank Lundy?",
+        "a": "Reporter"
+      },
+      {
+        "q": "Whose daughter is Christine Hill?",
+        "a": "Arthur Mitchell"
+      },
+      {
+        "q": "What does Trinity do with the young boys he abducts?",
+        "a": "Buries them in cement"
+      },
+      {
+        "q": "Which photographer does Dexter kill in season 4, only to learn afterwards that he was innocent?",
+        "a": "Jonathan Farrow"
+      },
+      {
+        "q": "Which Prado brother does Dexter kill in self-defence in the season 3 premiere?",
+        "a": "Oscar"
+      },
+      {
+        "q": "Which drug dealer does Dexter kill and then lie to Miguel Prado about?",
+        "a": "Freebo"
+      },
+      {
+        "q": "Who is Deb's musician boyfriend and confidential informant in season 3?",
+        "a": "Anton Briggs"
+      },
+      {
+        "q": "In which city does Dexter kill Lila?",
+        "a": "Paris"
+      },
+      {
+        "q": "Which gang killer breaks free from Dexter's table in the season 2 premiere?",
+        "a": "Little Chino"
+      },
+      {
+        "q": "What childhood nickname did Dexter use for his brother Brian?",
+        "a": "Biney"
+      },
+      {
+        "q": "Which security guard does the Ice Truck Killer mutilate and leave alive?",
+        "a": "Tony Tucci"
+      },
+      {
+        "q": "What is the name of the ex-convict preacher who befriends Dexter in season 6?",
+        "a": "Brother Sam"
+      },
+      {
+        "q": "Which detective from Chicago joins Miami Metro in season 6 and is shot dead in the season 7 premiere?",
+        "a": "Mike Anderson"
+      },
+      {
+        "q": "What is the name of the Ukrainian crime syndicate Isaak Sirko belongs to?",
+        "a": "Koshka Brotherhood"
+      },
+      {
+        "q": "Whose death drives Isaak Sirko to hunt Dexter?",
+        "a": "Viktor Baskov"
+      },
+      {
+        "q": "Who shoots Isaak Sirko?",
+        "a": "George Novikov"
+      },
+      {
+        "q": "Which spree killer was Hannah McKay's boyfriend as a teenager?",
+        "a": "Wayne Randall"
+      },
+      {
+        "q": "Which true-crime writer is poisoned by Hannah McKay?",
+        "a": "Sal Price"
+      },
+      {
+        "q": "Where does Deb shoot LaGuerta?",
+        "a": "A shipping container"
+      },
+      {
+        "q": "Which young killer does Dexter take on as a protege in season 8?",
+        "a": "Zach Hamilton"
+      },
+      {
+        "q": "What does Dexter stab Oliver Saxon with in the series finale?",
+        "a": "A pen"
+      },
+      {
+        "q": "How many episodes did the original series run for?",
+        "a": "96"
+      },
+      {
+        "q": "Which former Miami Metro colleague does Angela meet at a police conference, tipping her off about Dexter?",
+        "a": "Angel Batista"
+      },
+      {
+        "q": "Who lets Harrison flee Iron Lake after he shoots Dexter?",
+        "a": "Angela"
+      },
+      {
+        "q": "How many episodes does Dexter: New Blood have?",
+        "a": "Ten"
+      },
+      {
+        "q": "What was the name of Dexter's very first human kill, a nurse who was poisoning Harry?",
+        "a": "Mary"
+      },
+      {
+        "q": "Which of his mother's killers does Dexter track down and kill in season 2?",
+        "a": "Santos Jimenez"
+      },
+      {
+        "q": "What is the name of the restaurant Batista buys?",
+        "a": "Papa's Cafe"
+      },
+      {
+        "q": "In which elite military unit did Doakes serve before joining the police?",
+        "a": "Special Forces"
+      },
+      {
+        "q": "What does Deb do to her car, with Dexter inside, in season 8?",
+        "a": "Drives it into a lake"
+      },
+      {
+        "q": "Who does Travis Marshall try to sacrifice on a rooftop in the season 6 finale?",
+        "a": "Harrison"
+      },
+      {
+        "q": "What does Dexter plant on Paul Bennett to send him back to prison?",
+        "a": "Heroin"
+      },
+      {
+        "q": "Who is Leon Prater's head of security in Dexter: Resurrection?",
+        "a": "Charley"
+      }
+    ]
+  }
+}

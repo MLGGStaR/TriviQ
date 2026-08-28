@@ -164,6 +164,201 @@
       "q": "What is Oliver's younger sister's name?",
       "a": "Thea Queen",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What city does Oliver protect?",
+      "a": "Starling City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Starling City is later renamed what?",
+      "a": "Star City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Green Arrow primarily use?",
+      "a": "Bow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oliver's sister's nickname?",
+      "a": "Speedy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Oliver's suit?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Oliver's hood conceal?",
+      "a": "His identity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Oliver's on-again off-again love interest Lance?",
+      "a": "Laurel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Laurel's sister is named what?",
+      "a": "Sara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the Arrow series?",
+      "a": "Greg Berlanti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Oliver was presumed dead for how many years?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oliver's catchphrase opening line?",
+      "a": "My name is Oliver Queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the family yacht called?",
+      "a": "Queen's Gambit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the code name of the Bratva?",
+      "a": "Russian mob",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hero does Roy Harper become?",
+      "a": "Arsenal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What public role does Oliver take in season six?",
+      "a": "Mayor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Oliver co-founds a vigilante group called what?",
+      "a": "Team Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The series finale sees Oliver become what cosmic role?",
+      "a": "Spectre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Arrow is part of which TV universe?",
+      "a": "Arrowverse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The show's primary gritty inspiration is which DC hero?",
+      "a": "Green Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Oliver's scars from called on-island?",
+      "a": "Tattoos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color arrows does Oliver occasionally use?",
+      "a": "Trick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug is distributed in the Glades causing rampages?",
+      "a": "Vertigo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company competitor works with Felicity later?",
+      "a": "Smoak Technologies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What club does Oliver open as a front?",
+      "a": "Verdant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Quentin Lance holds what title in later seasons?",
+      "a": "Mayor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Arrowverse expanded from Arrow first to which show?",
+      "a": "The Flash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of martial training did Oliver receive on Lian Yu?",
+      "a": "Combat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Oliver use as hero later, replacing Arrow?",
+      "a": "Green Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the press call Oliver's vigilante in season 1?",
+      "a": "The Hood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years is Oliver missing before he returns to Starling City?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What political office does Oliver win in season 4?",
+      "a": "Mayor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Oliver's father leave him that identifies the corrupt elite of Starling City?",
+      "a": "The List",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What role does Oliver take at Queen Consolidated in season 2?",
+      "a": "CEO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fan nickname for the Oliver and Felicity relationship?",
+      "a": "Olicity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which future speedster meets Oliver in season 2 before he has any powers?",
+      "a": "Barry Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ray Palmer's superhero alias?",
+      "a": "The Atom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Laurel Lance in season 4?",
+      "a": "Damien Darhk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Thea's biological father?",
+      "a": "Malcolm Merlyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Oliver publicly reveal at the end of season 6?",
+      "a": "He is the Green Arrow",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -343,8 +538,318 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of Thea Queen's hero alter ego?",
-      "a": "Speedy",
+      "q": "What is Quentin Lance's job?",
+      "a": "Police detective / Captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the season 4 villain known for magical abilities?",
+      "a": "Damien Darhk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main antagonist of season one?",
+      "a": "Malcolm Merlyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What event levels the Glades in season one finale?",
+      "a": "The Undertaking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main villain of season two?",
+      "a": "Slade Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Slade Wilson?",
+      "a": "Manu Bennett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What serum gives Slade enhanced abilities?",
+      "a": "Mirakuru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the season three big bad?",
+      "a": "Ra's al Ghul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ra's al Ghul leads what organization?",
+      "a": "League of Assassins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ra's in season three?",
+      "a": "Matt Nable",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Lazarus Pit can do what?",
+      "a": "Resurrect",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is resurrected from the Pit as a companion?",
+      "a": "Sara Lance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who takes the mantle of Ra's in season four?",
+      "a": "Malcolm Merlyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Darhk's organization is named what?",
+      "a": "H.I.V.E.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the villain of season five?",
+      "a": "Prometheus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The big bad of season six is named?",
+      "a": "Ricardo Diaz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ricardo Diaz's alias is?",
+      "a": "Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ricardo Diaz?",
+      "a": "Kirk Acevedo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Oliver is sent to prison in which season?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What prison is Oliver sent to?",
+      "a": "Slabside",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Black Siren is an Earth-2 version of?",
+      "a": "Laurel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dinah Drake's superhero name?",
+      "a": "Black Canary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Rene Ramirez goes by what code name?",
+      "a": "Wild Dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Curtis Holt's hero alias?",
+      "a": "Mr. Terrific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Evelyn Sharp betrays the team as what hero?",
+      "a": "Artemis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Helena Bertinelli's alias?",
+      "a": "Huntress",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Nyssa al Ghul?",
+      "a": "Katrina Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sara and Nyssa share what relationship?",
+      "a": "Lovers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Oliver's mother dies by whose hand?",
+      "a": "Slade Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who trained Oliver in Hong Kong flashbacks?",
+      "a": "Amanda Waller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What government agency does Amanda Waller lead?",
+      "a": "A.R.G.U.S.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Shado teaches Oliver archery on the island?",
+      "a": "Yes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Shado's father is named what?",
+      "a": "Yao Fei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Oliver's Bratva captain friend?",
+      "a": "Anatoly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oliver's Bratva title?",
+      "a": "Kapiushon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Kapiushon mean?",
+      "a": "Hood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Oliver becomes a mayor of what city?",
+      "a": "Star City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays William as a child?",
+      "a": "Jack Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Felicity's mother is named?",
+      "a": "Donna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Felicity's father is revealed to be what hacker?",
+      "a": "The Calculator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Oliver smear on his face to hide his identity before he has a mask?",
+      "a": "Green paint",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Oliver his first domino mask?",
+      "a": "Barry Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Oliver's nightclub that sits above his hideout?",
+      "a": "Verdant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Yao Fei's daughter, who trains Oliver on the island?",
+      "a": "Shado",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the name Lian Yu mean in English?",
+      "a": "Purgatory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which university did Felicity graduate from?",
+      "a": "MIT",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vigilante name does Sara Lance use when she first returns in season 2?",
+      "a": "The Canary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes the new Ra's al Ghul at the end of season 3?",
+      "a": "Malcolm Merlyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main villain of season 6?",
+      "a": "Ricardo Diaz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the villain alias of Laurel Lance's Earth-2 doppelganger?",
+      "a": "Black Siren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Moira Queen?",
+      "a": "Slade Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which neighborhood does the Undertaking's earthquake device go off?",
+      "a": "The Glades",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which Russian crime organization was Oliver a captain?",
+      "a": "The Bratva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who fakes his death after publicly claiming to be the Arrow in season 3?",
+      "a": "Roy Harper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug does the villain known as the Count sell in Starling City?",
+      "a": "Vertigo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Deadshot's real name?",
+      "a": "Floyd Lawton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which assassin does Diggle initially blame for his brother Andy's death?",
+      "a": "Deadshot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Helena Bertinelli's vigilante alias?",
+      "a": "The Huntress",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cosmic entity does Oliver become after his first death in Crisis on Infinite Earths?",
+      "a": "The Spectre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the villain of Crisis on Infinite Earths?",
+      "a": "The Anti-Monitor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the Crisis on Earth-X crossover, what is the alias of Oliver's Nazi doppelganger?",
+      "a": "Dark Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Queen Consolidated renamed after it is bought by the man who becomes the Atom?",
+      "a": "Palmer Technologies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's fishermen rescue Oliver from Lian Yu?",
+      "a": "China",
       "file": "qualityBackfill"
     }
   ],
@@ -518,6 +1023,331 @@
       "q": "What spinoff show features time-traveling heroes?",
       "a": "Legends of Tomorrow",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What was the title of Arrow's series finale episode?",
+      "a": "Fadeout",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Monitor character guides Oliver in season eight?",
+      "a": "Mar Novu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Monitor?",
+      "a": "LaMonica Garrett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What flashforward daughter appears in season seven?",
+      "a": "Mia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mia Smoak is Oliver and Felicity's what?",
+      "a": "Daughter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What future team name do the kids form?",
+      "a": "Canaries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Connor Hawke is the son of whom?",
+      "a": "John Diggle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Tommy Merlyn's Earth-X version use?",
+      "a": "Prometheus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What archer steals Oliver's mantle briefly named Kovar?",
+      "a": "Konstantin Kovar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the A.R.G.U.S. facility holding prisoners?",
+      "a": "Level Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Ghost leader under Darhk?",
+      "a": "Milo Armitage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What idol artifact empowers Darhk?",
+      "a": "Khushu Idol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Shado has a twin sister named?",
+      "a": "Mei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Talia al Ghul in season five?",
+      "a": "Lexa Doig",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What comic book villain is Yamashiro's daughter?",
+      "a": "Katana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Tatsu Yamashiro wields what weapon?",
+      "a": "Katana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Tatsu's son is named?",
+      "a": "Akio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What virus plotline features Hong Kong flashbacks?",
+      "a": "Omega",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What biochemical weapon is Alpha/Omega?",
+      "a": "Bioweapon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Vigilante in season five?",
+      "a": "Vincent Sobel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Vigilante?",
+      "a": "Johann Urb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What masked cop is Dinah Drake's former partner?",
+      "a": "Vigilante",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What heroine replaces Black Canary as Ruve Adams's target?",
+      "a": "Laurel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Samantha Clayton?",
+      "a": "William's mother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Samantha Clayton?",
+      "a": "Adrian Chase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island did Oliver blow up in season five finale?",
+      "a": "Lian Yu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Oliver publicly out himself as in season six?",
+      "a": "Green Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which season does Oliver reveal his identity on TV?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What FBI agent pursues Oliver in season six?",
+      "a": "Samanda Watson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Samanda Watson?",
+      "a": "Sydelle Noel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crime family rivals Diaz in season six?",
+      "a": "The Quadrant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Emiko Queen?",
+      "a": "Oliver's half-sister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Emiko leads what organization?",
+      "a": "Ninth Circle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who fathered Emiko?",
+      "a": "Robert Queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Longbow Hunters first appear in which season?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Longbow Hunter uses sonic powers?",
+      "a": "Silencer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What electricity-controlling Hunter appears?",
+      "a": "Kodiak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons does Arrow have in total?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs the series finale?",
+      "a": "James Bamford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode features Oliver's funeral?",
+      "a": "Fadeout",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Isabel Rochev?",
+      "a": "Queen Consolidated rival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Isabel Rochev?",
+      "a": "Summer Glau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What DC character did Oliver kill, triggering a revenge arc?",
+      "a": "Billy Malone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Ra's al Ghul give Oliver when he becomes his heir?",
+      "a": "Al Sah-him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Ricardo Diaz go by?",
+      "a": "The Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which hacker villain targets Team Arrow in the first half of season 6?",
+      "a": "Cayden James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of Ragman?",
+      "a": "Rory Regan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Team Arrow recruit betrays the team to Prometheus?",
+      "a": "Evelyn Sharp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Damien Darhk's doomsday plan in season 4?",
+      "a": "Genesis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which town is destroyed by a nuclear missile in season 4?",
+      "a": "Havenrock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Russian mobster befriends Oliver on Lian Yu?",
+      "a": "Anatoly Knyazev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Russian villain of the season 5 flashbacks?",
+      "a": "Konstantin Kovar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the alias of the silver-haired Triad assassin Oliver faces in season 1?",
+      "a": "China White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of the season 2 mayoral candidate secretly known as Brother Blood?",
+      "a": "Sebastian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the villain alias of Isabel Rochev?",
+      "a": "Ravager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the 2040 flash-forwards, which gang does John Diggle Jr. lead?",
+      "a": "The Deathstrokes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the title of the unsuccessful backdoor-pilot spin-off starring Mia?",
+      "a": "Green Arrow and the Canaries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who officiates Oliver and Felicity's impromptu wedding during Crisis on Earth-X?",
+      "a": "John Diggle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2016 crossover pits the heroes against the alien Dominators?",
+      "a": "Invasion!",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rene Ramirez's daughter?",
+      "a": "Zoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Oliver forced to marry as heir to the Demon?",
+      "a": "Nyssa al Ghul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which older sister of Nyssa trains both Oliver and Adrian Chase?",
+      "a": "Talia al Ghul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which pharmaceutical CEO killed by the Hood is revealed to be Prometheus's father?",
+      "a": "Justin Claybourne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What codename does Lyla take during Crisis on Infinite Earths?",
+      "a": "Harbinger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many episodes of Arrow were produced in total?",
+      "a": "170",
+      "file": "qualityBackfill"
     }
   ]
 }

@@ -101,8 +101,198 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "Who is Ragnar's first wife on the show?",
+      "q": "Who plays Lagertha?",
+      "a": "Katheryn Winnick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network originally aired Vikings?",
+      "a": "History Channel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the legendary Viking protagonist of the first four seasons?",
+      "a": "Ragnar Lothbrok",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Christian monk does Ragnar befriend and bring home?",
+      "a": "Athelstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country does Ragnar want to sail west to raid?",
+      "a": "England",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Viking holy city?",
+      "a": "Uppsala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Norse thunder god's name?",
+      "a": "Thor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the show?",
+      "a": "Michael Hirst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon do Vikings commonly wield besides swords?",
+      "a": "Axe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Earl that Ragnar serves at the start?",
+      "a": "Haraldson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ecbert's son's name?",
+      "a": "Aethelwulf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ecbert's grandson's name?",
+      "a": "Alfred",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ragnar's eldest son who is blind initially?",
+      "a": "Ivar is paralyzed, not blind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of pit does Ragnar get thrown into at the end?",
+      "a": "Snake pit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which English king throws Ragnar in the snake pit?",
+      "a": "Aelle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kingdom does Aelle rule?",
+      "a": "Northumbria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon is used to torture Ragnar as blood eagle?",
+      "a": "Blood eagle execution",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do Vikings call their longboats?",
+      "a": "Longships",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lagertha's status as a warrior?",
+      "a": "Shield-maiden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Viking word for warrior?",
+      "a": "Berserker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mythical wolf kills Odin at Ragnarok?",
+      "a": "Fenrir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What holy book does Athelstan carry?",
+      "a": "Bible",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bjorn's mother?",
       "a": "Lagertha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ragnar's son Ubbe known for?",
+      "a": "Leadership",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ragnar's son Hvitserk known for?",
+      "a": "Wandering",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ragnar's son Sigurd known for?",
+      "a": "Hating his brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What land does Rollo settle in after leaving?",
+      "a": "Francia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Rollo rule in France?",
+      "a": "Normandy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Paris invasion season?",
+      "a": "Season 3 and 4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Frankish emperor's name?",
+      "a": "Charles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On which TV channel did the series originally air?",
+      "a": "History",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who rules Kattegat as earl when the series begins?",
+      "a": "Haraldson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What title does Ragnar take after killing Haraldson?",
+      "a": "Earl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of ship does Floki design for Ragnar's raids?",
+      "a": "A longship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Ragnar trick his way inside the walls of Paris?",
+      "a": "Pretending to be dead in a coffin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons does the series have?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which direction does Ragnar insist on sailing to find new lands?",
+      "a": "West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What title does Ragnar hold after defeating Horik?",
+      "a": "King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river do the Vikings sail up to reach Paris?",
+      "a": "The Seine",
       "file": "qualityBackfill"
     },
     {
@@ -268,13 +458,308 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What city do the Vikings famously raid in the first season?",
-      "a": "Lindisfarne",
+      "q": "Who plays Floki?",
+      "a": "Gustaf Skarsgård",
       "file": "qualityBackfill"
     },
     {
-      "q": "Who is Ragnar's elder brother who betrays him?",
-      "a": "Rollo",
+      "q": "Who plays Bjorn Ironside?",
+      "a": "Alexander Ludwig",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rollo?",
+      "a": "Clive Standen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays King Ecbert?",
+      "a": "Linus Roache",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ragnar build to sail further west?",
+      "a": "A new kind of ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bjorn's first wife?",
+      "a": "Thorunn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bjorn's scar-faced second wife?",
+      "a": "Torvi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Torvi eventually marry among Ragnar's sons?",
+      "a": "Ubbe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the crazy princess Ivar marries briefly?",
+      "a": "Freydis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Freydis betray Ivar by doing?",
+      "a": "Having another man's child",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Rus prince Ivar befriends?",
+      "a": "Oleg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oleg's title?",
+      "a": "The Prophet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do the Rus live?",
+      "a": "Kiev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oleg's young ward prince named?",
+      "a": "Igor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the earl that Rollo assassinates to rule Paris?",
+      "a": "He marries the princess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the princess Rollo marries?",
+      "a": "Gisla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Gisla's father?",
+      "a": "Emperor Charles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Mediterranean city Bjorn raids?",
+      "a": "Algeciras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Bjorn exploring when he raids?",
+      "a": "Morocco and Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sassy North African commander does Bjorn deal with?",
+      "a": "Kassia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Harald Finehair?",
+      "a": "A rival king",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Harald's brother?",
+      "a": "Halfdan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Halfdan's epithet?",
+      "a": "The Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Astrid?",
+      "a": "Lagertha's lover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who captures and marries Astrid?",
+      "a": "Harald",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Astrid die?",
+      "a": "Lagertha kills her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Ragnar's ex-wife Lagertha eventually?",
+      "a": "Hvitserk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Lagertha killed?",
+      "a": "Streets of Kattegat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Earl Haraldson?",
+      "a": "Ragnar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills King Horik?",
+      "a": "Ragnar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays King Horik?",
+      "a": "Donal Logue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Wessex princess Aethelwulf marries?",
+      "a": "Judith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Judith's father?",
+      "a": "King Aelle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Aelle do to Judith for her affair?",
+      "a": "Cuts off her ear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who fathered Alfred with Judith?",
+      "a": "Athelstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Athelstan's son?",
+      "a": "Alfred",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Athelstan die?",
+      "a": "Floki kills him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Why does Floki kill Athelstan?",
+      "a": "Christianity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the manipulative Icelander named Kjetill?",
+      "a": "Kjetill Flatnose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Helga?",
+      "a": "An orphan girl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the orphan girl Helga adopts?",
+      "a": "Tanaruz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Ivar take refuge during his exile?",
+      "a": "Kiev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Sigurd?",
+      "a": "Ivar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "With what weapon does Ivar kill Sigurd?",
+      "a": "Axe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bone condition does Ivar have?",
+      "a": "Osteogenesis imperfecta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Earl Haraldson's widow who later marries Rollo?",
+      "a": "Siggy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Athelstan?",
+      "a": "Floki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Aslaug?",
+      "a": "Lagertha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rival ruler does Ragnar execute with the blood eagle?",
+      "a": "Jarl Borg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Danish king does Ragnar kill to become king?",
+      "a": "Horik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sea does Bjorn sail to on his great voyage in season 4?",
+      "a": "The Mediterranean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who takes Kattegat from Ivar in season 5?",
+      "a": "Bjorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crystal helps Ragnar navigate across open sea?",
+      "a": "A sunstone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Christian rite does Ragnar accept so he can be buried inside Paris?",
+      "a": "Baptism",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist performs the show's theme song 'If I Had a Heart'?",
+      "a": "Fever Ray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the series?",
+      "a": "Michael Hirst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the series premiere?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country was the series primarily filmed?",
+      "a": "Ireland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which English city does Ivar capture and fortify?",
+      "a": "York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animals does Ragnar say will grunt when they hear how the old boar suffered?",
+      "a": "Piggies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first king of all Norway elected in season 6?",
+      "a": "Harald Finehair",
       "file": "qualityBackfill"
     },
     {
@@ -448,6 +933,341 @@
       "q": "What ritual execution is used on captives?",
       "a": "The Blood Eagle",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Ivar the Boneless?",
+      "a": "Alex Høgh Andersen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Vikings?",
+      "a": "Michael Hirst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Athelstan?",
+      "a": "George Blagden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rollo's French wife?",
+      "a": "Princess Gisla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ivar the Boneless?",
+      "a": "Alex Hogh Andersen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What historical figure is Alfred the Great based on from the show?",
+      "a": "Alfred of Wessex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alfred?",
+      "a": "Ferdia Walsh-Peelo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the slave girl Hvitserk takes?",
+      "a": "Thora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Hvitserk do to Lagertha while hallucinating?",
+      "a": "Kills her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug causes Hvitserk's hallucinations?",
+      "a": "Mushroom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Gunnhild?",
+      "a": "Bjorn's second queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Gunnhild do after Bjorn dies?",
+      "a": "Drowns herself",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Bjorn buried?",
+      "a": "Atop a mountain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bjorn's daughter?",
+      "a": "Siggy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first Siggy?",
+      "a": "Haraldson's widow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who drowns the first Siggy?",
+      "a": "Harbard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Harbard?",
+      "a": "A wanderer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What deity is Harbard suggested to be?",
+      "a": "Odin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ragnar do after disappearing for years?",
+      "a": "Returns to Kattegat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ragnar demand from his sons upon returning?",
+      "a": "Revenge for him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who captures Ragnar and delivers him to Aelle?",
+      "a": "Ecbert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who assassinates King Ecbert?",
+      "a": "Ecbert kills himself",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Ecbert die?",
+      "a": "Slits wrists in bath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills King Aelle?",
+      "a": "Ragnar's sons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ivar's son who is born deformed?",
+      "a": "Baldur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ivar do to his own son Baldur?",
+      "a": "Leaves him in woods",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dir, the prince in Kiev?",
+      "a": "Oleg's brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Oleg do to his brother Dir?",
+      "a": "Imprisons him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Rus princess Katia?",
+      "a": "Freydis lookalike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Oleg?",
+      "a": "Danila Kozlovsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Sami tribe's princess in the show?",
+      "a": "Snaefrid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harald's kingdom in Norway?",
+      "a": "Vestfold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Olaf, called The Stout?",
+      "a": "A king",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Olaf do to Harald?",
+      "a": "Captures him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Olaf die?",
+      "a": "Burned alive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who burns Olaf?",
+      "a": "Ivar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aslaug?",
+      "a": "Alyssa Sutherland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Aslaug's mystical lineage?",
+      "a": "Daughter of Sigurd and Brynhildr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Ecbert's real historical kingdom?",
+      "a": "Wessex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Floki?",
+      "a": "Gustaf Skarsgard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Aethelred die?",
+      "a": "Poisoned",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who poisons Aethelred?",
+      "a": "Cuthred",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year does the show begin in?",
+      "a": "793 AD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the monk who comes to Norway from Lindisfarne?",
+      "a": "Athelstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which son of Horik marries Torvi and plots against Bjorn?",
+      "a": "Erlendur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ivar's wife who claims he is a god?",
+      "a": "Freydis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which earl does Lagertha kill to become ruler of Hedeby?",
+      "a": "Sigvard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Lagertha's trusted men seizes Hedeby while she is away, then becomes her co-ruler and lover?",
+      "a": "Kalf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend of Ragnar loses an arm fighting in Wessex?",
+      "a": "Torstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the mysterious wanderer who seduces Aslaug?",
+      "a": "Harbard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Frankish nobleman leads the defense of Paris?",
+      "a": "Count Odo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Mercian princess allies with Ragnar and later becomes queen?",
+      "a": "Kwenthrith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who claims to be Ragnar's son by Kwenthrith?",
+      "a": "Magnus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chinese slave introduces Ragnar to drugs?",
+      "a": "Yidu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kills Ragnar's daughter Gyda?",
+      "a": "Plague",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bjorn's son who dies in Kattegat?",
+      "a": "Hali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Torvi's son by Jarl Borg?",
+      "a": "Guthrum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Prince Oleg's capital city?",
+      "a": "Kiev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wanderer tells Ubbe about a golden land to the west?",
+      "a": "Othere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which settler leads the Iceland colony alongside Floki?",
+      "a": "Kjetill Flatnose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does King Ecbert die?",
+      "a": "Cutting his wrists in a bath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Lagertha's lovers is kidnapped and made to marry Harald?",
+      "a": "Astrid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Halfdan the Black?",
+      "a": "Harald Finehair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Rus prince, Oleg's brother, is freed by Ivar?",
+      "a": "Dir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Helga's adopted daughter who stabs her?",
+      "a": "Tanaruz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the three Norse fate-weaving sisters that the Seer speaks of called?",
+      "a": "The Norns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kattegat merchant arranges the bloody sacrifice of a hundred citizens with Ivar?",
+      "a": "White Hair",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the Great Heathen Army?",

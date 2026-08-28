@@ -111,18 +111,253 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is Rachel's father's profession?",
-      "a": "Lawyer",
+      "q": "Who plays Rachel Zane?",
+      "a": "Meghan Markle",
       "file": "qualityBackfill"
     },
     {
-      "q": "What is the name of the Pearson Hardman managing partner who hires Mike?",
+      "q": "What city is the show mainly set in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the show premiere?",
+      "a": "2011",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the show end?",
+      "a": "2019",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did the show run for?",
+      "a": "Nine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What big secret does Mike hide about his qualifications?",
+      "a": "No law degree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school did Harvey attend?",
+      "a": "Harvard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Harvey is known as a closer in what field?",
+      "a": "Corporate law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Donna's job at the firm?",
+      "a": "Legal secretary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Harvey's mentor and boss early in the series?",
+      "a": "Jessica Pearson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mike has an amazing what kind of memory?",
+      "a": "Photographic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Mike marry in the series?",
+      "a": "Rachel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Louis's beloved cat named after a musical?",
+      "a": "Mikado",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hobby is Louis obsessed with?",
+      "a": "Mud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Daniel Hardman?",
+      "a": "David Costabile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drama genre does the show fit into?",
+      "a": "Legal drama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mike's grandmother?",
+      "a": "Edith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Harvey's love of what hobby is a running theme?",
+      "a": "Basketball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the show?",
+      "a": "Aaron Korsh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Mike's first boss interview that leads to his job?",
       "a": "Harvey",
       "file": "qualityBackfill"
     },
     {
-      "q": "What drug does Mike deal before joining the firm?",
-      "a": "Marijuana",
+      "q": "What color suit is associated with Harvey's style?",
+      "a": "Gray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item does Harvey keep on his desk from baseball?",
+      "a": "Signed ball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Louis is a partner at the firm specializing in what area?",
+      "a": "Tax law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mike's profession before becoming a fake lawyer?",
+      "a": "Bike messenger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport do Harvey and Mike sometimes play together?",
+      "a": "Basketball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Donna famous for knowing about Harvey?",
+      "a": "Everything",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Harvey eventually marry?",
+      "a": "Donna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jessica's husband?",
+      "a": "Jeff Malone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jeff Malone?",
+      "a": "D.B. Woodside",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harvey's brother's name?",
+      "a": "Marcus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Louis's sister's name?",
+      "a": "Esther",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Mike go to prison for?",
+      "a": "Fraud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years does Mike get sentenced to prison?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who replaces Mike as an associate for a while?",
+      "a": "Katrina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Dule Hill play?",
+      "a": "Alex Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Samantha's last name in the later seasons?",
+      "a": "Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season does Meghan Markle leave the show?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What music format does Harvey collect in his office?",
+      "a": "Vinyl records",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which relative does Mike support in a nursing home?",
+      "a": "His grandmother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the 2025 spin-off set on the West Coast?",
+      "a": "Suits LA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On which cable channel did the series originally air?",
+      "a": "USA Network",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mike's job title when he first joins the firm?",
+      "a": "Associate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which partner is in charge of the associates when Mike starts?",
+      "a": "Louis Litt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two characters get married in the season 7 finale?",
+      "a": "Mike and Rachel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What promotion does Louis finally receive in season 4?",
+      "a": "Name partner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What area of law does Harvey specialize in?",
+      "a": "Corporate law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which West Coast city do Mike and Rachel move to?",
+      "a": "Seattle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What snack is Louis famously obsessed with?",
+      "a": "Prunies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job did Harvey hold before joining the firm?",
+      "a": "Assistant District Attorney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who takes over as managing partner in the series finale?",
+      "a": "Louis Litt",
       "file": "qualityBackfill"
     },
     {
@@ -286,6 +521,346 @@
       "q": "Who plays Harvey Specter?",
       "a": "Gabriel Macht",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Mike Ross?",
+      "a": "Patrick J. Adams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Katrina Bennett?",
+      "a": "Amanda Schull",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Harvey's position before becoming senior partner?",
+      "a": "Junior partner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Daniel Hardman's wife's name?",
+      "a": "Alicia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What law did Daniel violate leading to his first ouster?",
+      "a": "Embezzlement",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fake university did Mike claim to attend?",
+      "a": "Harvard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Harvey's therapist?",
+      "a": "Dr. Agard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Agard?",
+      "a": "Christina Cole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harvey's father's profession?",
+      "a": "Musician",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument did Harvey's father play?",
+      "a": "Saxophone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Harvey's mother's affair a major plot point for?",
+      "a": "Harvey's trauma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Charles Forstman?",
+      "a": "Eric Roberts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Wendell Pierce play?",
+      "a": "Robert Zane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What firm does Robert Zane originally work at?",
+      "a": "Rand Kaldor Zane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Sean Cahill, the SEC attorney?",
+      "a": "Neal McDonough",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What actress played Scottie, Harvey's on-again girlfriend?",
+      "a": "Abigail Spencer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Scottie's full name?",
+      "a": "Dana Scott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Louis's wife's name at the end of the series?",
+      "a": "Sheila",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sheila Sazs?",
+      "a": "Rachael Harris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Sheila work when first introduced?",
+      "a": "Harvard Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What position does Sheila hold at Harvard?",
+      "a": "Admissions director",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mike's prison cellmate's name?",
+      "a": "Frank Gallo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Frank Gallo?",
+      "a": "Paul Schulze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Gary Cole play?",
+      "a": "Cameron Dennis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Cameron Dennis's role?",
+      "a": "District attorney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legal ethics issue nearly got Harvey disbarred multiple times?",
+      "a": "Mike's fraud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the associate Louis mentors after Mike leaves?",
+      "a": "Katrina Bennett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season does Jessica leave the firm?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Jessica relocate to in her spinoff?",
+      "a": "Chicago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Amanda Schull play?",
+      "a": "Katrina Bennett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the merger firm name with Edward Darby?",
+      "a": "Pearson Darby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Edward Darby?",
+      "a": "Conleth Hill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Edward Darby's firm based in?",
+      "a": "England",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Michelle Fairley play?",
+      "a": "Ava Hessington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What industry is Ava Hessington's company in?",
+      "a": "Oil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character was murdered leading to the Hessington trial?",
+      "a": "Ariel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the paralegal Mike dates in season 1?",
+      "a": "Jenny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Mike cheat with at a hotel early on?",
+      "a": "Jenny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harvey's favorite film referenced constantly?",
+      "a": "Top Gun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What movie line does Harvey often quote from a Redford film?",
+      "a": "The Way We Were",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Harvey's mother Lily?",
+      "a": "Brynn Thayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Patrick Fischler play recurring?",
+      "a": "Stan Jacobson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rachel's father's first name?",
+      "a": "Robert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What partner leaves to start his own firm in season 5?",
+      "a": "Louis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Louis briefly leaves for which rival firm early on?",
+      "a": "Bratton Gould",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tanner, Harvey's lawyer rival?",
+      "a": "Eric Close",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Donna's boyfriend who's a stage manager?",
+      "a": "Stephen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What British lawyer has an affair with Donna?",
+      "a": "Stephen Huntley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Stephen Huntley?",
+      "a": "Max Beesley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Louis's pet frog?",
+      "a": "Louis Litt Jr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mike's alias when he first meets Harvey?",
+      "a": "Rick Sorkin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which district attorney was Harvey's mentor?",
+      "a": "Cameron Dennis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which federal prison does Mike serve his sentence?",
+      "a": "Danbury",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which prosecutor brings the fraud case against Mike?",
+      "a": "Anita Gibbs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kitchen tool is part of Harvey and Donna's pre-trial ritual?",
+      "a": "A can opener",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Samantha Wheeler's mentor?",
+      "a": "Robert Zane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which special master is appointed to oversee the firm in the final season?",
+      "a": "Faye Richardson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname of Harvey's Harvard rival and on-off lover Dana Scott?",
+      "a": "Scottie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What surprising art form does Louis practice?",
+      "a": "Ballet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hobby does Donna pursue on stage?",
+      "a": "Acting",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Harvey's father?",
+      "a": "Gordon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How did Mike's parents die?",
+      "a": "A car accident",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Complete Harvey's line: 'I don't play the odds, I play the ___'",
+      "a": "Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What accessory of Mike's does Harvey mock in season 1?",
+      "a": "His skinny ties",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long is Mike's prison sentence?",
+      "a": "Two years",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of organization does Mike work for after leaving prison?",
+      "a": "A legal clinic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Harvey's parents had an affair that Harvey witnessed as a teenager?",
+      "a": "His mother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which senior partner allies with Daniel Hardman against Harvey in season 5?",
+      "a": "Jack Soloff",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the central legal tension of Suits?",
@@ -455,18 +1030,358 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "Who replaces Jessica as managing partner when she leaves?",
-      "a": "Harvey Specter",
+      "q": "Who plays Samantha Wheeler?",
+      "a": "Katherine Heigl",
       "file": "qualityBackfill"
     },
     {
-      "q": "What university did Harvey go to for his undergrad?",
-      "a": "NYU",
+      "q": "Who plays Alex Williams?",
+      "a": "Dulé Hill",
       "file": "qualityBackfill"
     },
     {
-      "q": "What was the name of Harvey's secretary before Donna?",
+      "q": "In what season does Mike get arrested?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many episodes total did the series produce?",
+      "a": "134",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original title concept for the show?",
+      "a": "A Legal Mind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What firm name does the company take after Robert Zane joins?",
+      "a": "Zane Specter Litt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final name of the firm in the series finale?",
+      "a": "Specter Litt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Samantha's mentor Robert Zane's rival?",
+      "a": "Eric Roberts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Brendan Hines play?",
+      "a": "Logan Sanders",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Rachel's ex-boyfriend returning in season 3?",
+      "a": "Logan Sanders",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jonathan Sidwell?",
+      "a": "Brandon Firla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the firm before Pearson Hardman was founded?",
+      "a": "Gordon Schmidt Van Dyke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who first hired Harvey out of law school?",
+      "a": "Cameron Dennis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What office did Harvey work at before the DA?",
+      "a": "Mailroom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Harvey started at the firm in what position?",
+      "a": "Mailroom clerk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jessica's ex-husband's name?",
+      "a": "Quentin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease does Quentin have?",
+      "a": "ALS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug company did Harvey defend in the experimental drug storyline?",
+      "a": "Nevins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rachel's sister?",
+      "a": "Laura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What show does Harvey reference when talking to Donna about Mickey?",
+      "a": "Casablanca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Harvey pass the bar?",
+      "a": "2000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season introduced Katrina Bennett?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Louis's assistant's name before Gretchen?",
       "a": "Norma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gretchen Bodinski?",
+      "a": "Aloma Wright",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What baseball player did Harvey get an autograph from as a child?",
+      "a": "Mickey Mantle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Louis's therapist?",
+      "a": "Dr. Lipschitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Lipschitz?",
+      "a": "Ray Proscia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jessica's daughter's name in Pearson?",
+      "a": "Angela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Pearson the spinoff take place in?",
+      "a": "Chicago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Chicago mayor in Pearson?",
+      "a": "Morgan Spector",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Donna's cat?",
+      "a": "Shirley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fraternity did Louis belong to at Harvard?",
+      "a": "Pi Beta Chi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the law school prank rival Louis has?",
+      "a": "Harold Gunderson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harold's sidekick who later reappears?",
+      "a": "Harold Gunderson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Harvey and Scottie first meet in law school?",
+      "a": "1996",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the managing associate office decor Louis loves?",
+      "a": "Can opener",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What case marks Harvey's first meeting with Jessica?",
+      "a": "Coastal Motors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mike's first case with Harvey about?",
+      "a": "Sexual harassment",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jenny Griffith?",
+      "a": "Vanessa Ray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the drug dealer Trevor works for?",
+      "a": "Stemple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the restaurant Marcus owns?",
+      "a": "Spector's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mike's fiancee before Rachel?",
+      "a": "Tess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tess?",
+      "a": "Elisabeth Hower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Anita Gibbs?",
+      "a": "Leslie Hope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What firm does Mike go to work at in Seattle in the finale?",
+      "a": "Darvis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What firm are Harvey and Mike headed to in the series finale?",
+      "a": "Seattle firm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the pilot episode air?",
+      "a": "2011",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the series finale episode title?",
+      "a": "One Last Con",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Harvard ethics professor holds a grudge against Harvey?",
+      "a": "Henry Gerard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mike's cellmate in prison?",
+      "a": "Kevin Miller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the app Louis and Benjamin create to mimic Harvey's secretary?",
+      "a": "The Donna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rachel's father's firm before he joins Harvey?",
+      "a": "Rand Kaldor Zane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "From which firm does Alex Williams come?",
+      "a": "Bratton Gould",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which bumbling associate does Louis fire in season 2?",
+      "a": "Harold Gunderson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Daniel Hardman embezzle firm money to pay for?",
+      "a": "His wife's cancer treatment",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the firm renamed after Rachel's father joins in season 8?",
+      "a": "Zane Specter Litt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what kind of system did Samantha Wheeler grow up?",
+      "a": "Foster care",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the London firm where Scottie works?",
+      "a": "Darby International",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which British lawyer merges his firm with Pearson Hardman?",
+      "a": "Edward Darby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which oil executive client is accused of bribery and murder in season 3?",
+      "a": "Ava Hessington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the clinic where Mike works after prison?",
+      "a": "Eastside Legal Clinic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who runs the legal clinic where Mike works?",
+      "a": "Nathan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gretchen's surname?",
+      "a": "Bodinski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who takes the fall and is disbarred at the end of season 8?",
+      "a": "Robert Zane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chicago mayor does Jessica work for in her spin-off?",
+      "a": "Bobby Novak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which lawyer leads the firm in Suits LA?",
+      "a": "Ted Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Harvey's tailor?",
+      "a": "René",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which car company is Harvey's cherished client from season 1?",
+      "a": "McKernon Motors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Harvey's father die?",
+      "a": "A heart attack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US Attorney relentlessly prosecutes Harvey in season 8?",
+      "a": "Andrew Malik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Darby lawyer is arrested for arranging murders?",
+      "a": "Stephen Huntley",
       "file": "qualityBackfill"
     },
     {

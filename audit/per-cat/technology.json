@@ -199,6 +199,241 @@
       "q": "What year was the iPad first released?",
       "a": "2010",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What social network is known for professional networking?",
+      "a": "LinkedIn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the online retail giant founded by Jeff Bezos?",
+      "a": "Amazon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'SMS' stand for?",
+      "a": "Short Message Service",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-founded Apple with Steve Jobs?",
+      "a": "Steve Wozniak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Facebook?",
+      "a": "Mark Zuckerberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What operating system does Apple make for its computers?",
+      "a": "macOS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Microsoft's main operating system?",
+      "a": "Windows",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the CEO of Microsoft?",
+      "a": "Satya Nadella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the CEO of Alphabet?",
+      "a": "Sundar Pichai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company makes the Xbox?",
+      "a": "Microsoft",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company makes the PlayStation?",
+      "a": "Sony",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What social network did Elon Musk rename X?",
+      "a": "Twitter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company owns Instagram?",
+      "a": "Meta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Facebook founded?",
+      "a": "2004",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company makes Photoshop?",
+      "a": "Adobe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Apple's web browser called?",
+      "a": "Safari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Wi-Fi abbreviation stand for?",
+      "a": "Wireless Fidelity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language is used to style web pages?",
+      "a": "CSS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language dominates web interactivity in the browser?",
+      "a": "JavaScript",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company created the Java programming language?",
+      "a": "Sun Microsystems",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company makes leading GPUs for AI?",
+      "a": "Nvidia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the CEO of Nvidia?",
+      "a": "Jensen Huang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the CEO of OpenAI?",
+      "a": "Sam Altman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phone OS does Google make?",
+      "a": "Android",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company invented the mouse?",
+      "a": "Xerox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the World Wide Web invented?",
+      "a": "1989",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the acronym LED mean?",
+      "a": "Light Emitting Diode",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of SpaceX's rocket reused for Mars?",
+      "a": "Starship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What smart speaker brand does Amazon make?",
+      "a": "Echo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Amazon's voice assistant called?",
+      "a": "Alexa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What device from your internet provider converts the incoming line signal for your home network?",
+      "a": "Modem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tesla's stainless-steel pickup truck?",
+      "a": "Cybertruck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the '@' symbol separate in an email address?",
+      "a": "Username and domain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the 'S' in 'HTTPS' stand for?",
+      "a": "Secure",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the search engine owned by Microsoft?",
+      "a": "Bing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What common file format is used for compressed music?",
+      "a": "MP3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'Ctrl+Z' typically do on a computer?",
+      "a": "Undo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chinese company makes the Mate and P-series phones?",
+      "a": "Huawei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a computer's short-term working memory called?",
+      "a": "RAM",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Microsoft's cloud storage service?",
+      "a": "OneDrive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'CAPTCHA' test whether you are?",
+      "a": "Human",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the app used to video call on iPhones?",
+      "a": "FaceTime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the 'O' in OLED screens stand for?",
+      "a": "Organic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'TB' stand for in storage?",
+      "a": "Terabyte",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What oval-shaped connector is used to charge most modern phones and laptops?",
+      "a": "USB-C",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'GIF' stand for?",
+      "a": "Graphics Interchange Format",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the small text files websites store on your browser?",
+      "a": "Cookies",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -406,6 +641,341 @@
       "q": "What does 'SSH' stand for?",
       "a": "Secure Shell",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does 'IDE' stand for in programming?",
+      "a": "Integrated Development Environment",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Microsoft release Windows 95?",
+      "a": "1995",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Apple release the Macintosh?",
+      "a": "1984",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Apple CEO before Tim Cook?",
+      "a": "Steve Jobs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company did Microsoft acquire in 2016 for networking?",
+      "a": "LinkedIn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company did Microsoft acquire for gaming in 2014?",
+      "a": "Mojang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game studio did Microsoft buy for 68 billion?",
+      "a": "Activision Blizzard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Twitter?",
+      "a": "Jack Dorsey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Instagram?",
+      "a": "Kevin Systrom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Uber?",
+      "a": "Travis Kalanick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Netflix?",
+      "a": "Reed Hastings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Netflix start streaming?",
+      "a": "2007",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Google's original name?",
+      "a": "BackRub",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Google?",
+      "a": "Larry Page",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Larry Page's co-founder at Google?",
+      "a": "Sergey Brin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Amazon's original product focus?",
+      "a": "Books",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Amazon go public?",
+      "a": "1997",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the C in ACID database properties stand for?",
+      "a": "Consistency",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Git?",
+      "a": "Linus Torvalds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company owns GitHub?",
+      "a": "Microsoft",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Apple product launched in 2001 for music?",
+      "a": "iPod",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animation studio did Jobs lead?",
+      "a": "Pixar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company did Disney buy from Jobs?",
+      "a": "Pixar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chip did Apple transition to in 2020?",
+      "a": "Apple Silicon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Apple's M-series chip based on?",
+      "a": "ARM",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Facebook IPO?",
+      "a": "2012",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Instagram launch?",
+      "a": "2010",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Meta rebrand from Facebook?",
+      "a": "2021",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What VR headset does Meta sell?",
+      "a": "Quest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company did Meta buy for VR?",
+      "a": "Oculus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Apple release Vision Pro?",
+      "a": "2024",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded PayPal with Peter Thiel?",
+      "a": "Elon Musk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was PayPal bought by eBay?",
+      "a": "2002",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did PayPal split from eBay?",
+      "a": "2015",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Stripe?",
+      "a": "Collison brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country are the Collison brothers from?",
+      "a": "Ireland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language does Apple develop for iOS apps?",
+      "a": "Swift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language does Google develop for mobile?",
+      "a": "Kotlin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company created React framework?",
+      "a": "Facebook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What framework did Google create for web apps?",
+      "a": "Angular",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did IBM introduce the PC?",
+      "a": "1981",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chip architecture powered early PCs?",
+      "a": "x86",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was YouTube founded?",
+      "a": "2005",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first web browser to popularize the internet in 1993?",
+      "a": "Mosaic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'CRT' stand for in old monitors?",
+      "a": "Cathode Ray Tube",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the AI assistant developed by Anthropic?",
+      "a": "Claude",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'PNG' stand for?",
+      "a": "Portable Network Graphics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company created the Ryzen line of processors?",
+      "a": "AMD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does '5G' refer to in mobile networks?",
+      "a": "Fifth generation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'CLI' stand for?",
+      "a": "Command Line Interface",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'GUI' stand for?",
+      "a": "Graphical User Interface",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'SIM' stand for in SIM card?",
+      "a": "Subscriber Identity Module",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'DDR' stand for in DDR RAM?",
+      "a": "Double Data Rate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the AI image generator by OpenAI?",
+      "a": "DALL-E",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'MAC' stand for in MAC address?",
+      "a": "Media Access Control",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'CDN' stand for?",
+      "a": "Content Delivery Network",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company makes the Snapdragon mobile chips?",
+      "a": "Qualcomm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'BIOS' stand for?",
+      "a": "Basic Input/Output System",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the encrypted messaging app with a blue speech-bubble logo endorsed by Snowden?",
+      "a": "Signal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Microsoft's AI assistant integrated into Windows and Office?",
+      "a": "Copilot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the first iPod released?",
+      "a": "2001",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'OCR' stand for?",
+      "a": "Optical Character Recognition",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'SaaS' stand for?",
+      "a": "Software as a Service",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company makes the Quest VR headsets?",
+      "a": "Meta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Dutch company that makes the machines used to print advanced chips?",
+      "a": "ASML",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'ISP' stand for?",
+      "a": "Internet Service Provider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'QR' stand for in QR code?",
+      "a": "Quick Response",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -628,6 +1198,396 @@
       "q": "What is the name of Apple's custom chip series for Macs?",
       "a": "M-series (M1, M2, M3, M4)",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who is considered the 'father of the computer' for his Analytical Engine design?",
+      "a": "Charles Babbage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did IBM release the first PC?",
+      "a": "1981",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What programming language did Dennis Ritchie create?",
+      "a": "C",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first computer bug named after?",
+      "a": "Moth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who coined the phrase computer bug?",
+      "a": "Grace Hopper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the COBOL language?",
+      "a": "Grace Hopper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first computer programmer?",
+      "a": "Ada Lovelace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did ENIAC become operational?",
+      "a": "1945",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first commercial computer called?",
+      "a": "UNIVAC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-founded Intel alongside Robert Noyce?",
+      "a": "Gordon Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Moore's Law coined?",
+      "a": "1965",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-founded Intel with Moore?",
+      "a": "Robert Noyce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Robert Noyce co-invent?",
+      "a": "Integrated circuit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the first email sent?",
+      "a": "1971",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sent the first email?",
+      "a": "Ray Tomlinson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbol did Ray Tomlinson popularize?",
+      "a": "At sign",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was ARPANET's first message?",
+      "a": "Lo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was ARPANET's first message sent?",
+      "a": "1969",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What protocol did Vint Cerf co-create?",
+      "a": "TCP/IP",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created TCP/IP with Vint Cerf?",
+      "a": "Bob Kahn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company was originally called Blue Ribbon Sports before becoming a brand?",
+      "a": "Nike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How much did Ronald Wayne sell his Apple share for?",
+      "a": "800 dollars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Unix created?",
+      "a": "1969",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Unix?",
+      "a": "Ken Thompson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created C programming language?",
+      "a": "Dennis Ritchie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was C created?",
+      "a": "1972",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Perl?",
+      "a": "Larry Wall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Python?",
+      "a": "Guido van Rossum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Python released?",
+      "a": "1991",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Ruby?",
+      "a": "Yukihiro Matsumoto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created PHP?",
+      "a": "Rasmus Lerdorf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created JavaScript?",
+      "a": "Brendan Eich",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In how many days was JavaScript originally created?",
+      "a": "Ten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was JavaScript originally named?",
+      "a": "Mocha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company created the first graphical browser Mosaic?",
+      "a": "NCSA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Mosaic?",
+      "a": "Marc Andreessen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Netscape's browser called?",
+      "a": "Navigator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Netscape IPO?",
+      "a": "1995",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first domain name ever registered?",
+      "a": "Symbolics.com",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the first domain registered?",
+      "a": "1985",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Amazon's original name?",
+      "a": "Cadabra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Yahoo's original name?",
+      "a": "Jerry and David's Guide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did eBay's founder first sell on the site?",
+      "a": "Laser pointer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded eBay?",
+      "a": "Pierre Omidyar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Dartmouth professor co-created BASIC with Thomas Kurtz?",
+      "a": "John Kemeny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was BASIC created?",
+      "a": "1964",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Windows 1.0 released?",
+      "a": "1985",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the first Mac released?",
+      "a": "1984",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Super Bowl ad introduced the Macintosh?",
+      "a": "1984 ad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the first version of BASIC?",
+      "a": "Kemeny Kurtz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the Unix world, what does BSD stand for?",
+      "a": "Berkeley Software Distribution",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the first electronic general-purpose computer, completed in 1945?",
+      "a": "ENIAC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What networking project of the US Department of Defense preceded the internet?",
+      "a": "ARPANET",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'GNU' stand for?",
+      "a": "GNU's Not Unix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At which research lab were Unix and the C language created?",
+      "a": "Bell Labs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which programming language, created by Yukihiro Matsumoto, powers the Rails framework?",
+      "a": "Ruby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the 2017 ransomware attack that hit the UK NHS?",
+      "a": "WannaCry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the computer worm that damaged Iranian nuclear centrifuges?",
+      "a": "Stuxnet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'IEEE' stand for?",
+      "a": "Institute of Electrical and Electronics Engineers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first commercially available smartphone, released by IBM in 1994?",
+      "a": "Simon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rust's package manager called?",
+      "a": "Cargo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company developed the Kotlin language?",
+      "a": "JetBrains",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company created the Go programming language?",
+      "a": "Google",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What neural network architecture was introduced in the 2017 paper 'Attention Is All You Need'?",
+      "a": "Transformer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What port number does HTTPS use by default?",
+      "a": "443",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'REST' stand for in REST APIs?",
+      "a": "Representational State Transfer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'TPU' stand for in Google's AI chips?",
+      "a": "Tensor Processing Unit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many bits long is an IPv6 address?",
+      "a": "128",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company was founded by Jensen Huang in 1993?",
+      "a": "Nvidia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company develops the Ubuntu Linux distribution?",
+      "a": "Canonical",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'JIT' stand for in compilation?",
+      "a": "Just-In-Time",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the 2014 OpenSSL bug that leaked server memory?",
+      "a": "Heartbleed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Nvidia parallel computing platform used for GPU programming?",
+      "a": "CUDA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'NVMe' stand for?",
+      "a": "Non-Volatile Memory Express",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded the Free Software Foundation?",
+      "a": "Richard Stallman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the recursive acronym YAML, what word does the M stand for?",
+      "a": "Markup",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'DRAM' stand for?",
+      "a": "Dynamic Random Access Memory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'SPA' stand for in web development?",
+      "a": "Single Page Application",
+      "file": "qualityBackfill"
     }
   ]
 }

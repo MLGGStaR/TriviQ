@@ -166,8 +166,263 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of Cameron and Mitchell's adopted daughter?",
+      "q": "How many children do Phil and Claire have?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what city is Modern Family set?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Manny's stepfather's first name?",
+      "a": "Jay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jay Pritchett?",
+      "a": "Ed ONeill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gloria Pritchett?",
+      "a": "Sofia Vergara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Lily's biological mother from?",
+      "a": "Vietnam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did Modern Family run?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jay's profession?",
+      "a": "Owns closets company",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's closet company?",
+      "a": "Pritchett Closets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cam's career background?",
+      "a": "Music teacher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Cam play?",
+      "a": "Clarinet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the baby Cam and Mitch adopt?",
       "a": "Lily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport does Cam coach at the high school?",
+      "a": "Football",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is the dramatic one, a former clown?",
+      "a": "Cam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's dog?",
+      "a": "Stella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which daughter is the smart, awkward one?",
+      "a": "Alex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Dunphy kid is known for being dim but lovable?",
+      "a": "Luke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Haley's husband Dylan?",
+      "a": "Reid Ewing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many children does Haley have with Dylan?",
+      "a": "Twins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What family-of-origin has Jay's kids?",
+      "a": "Pritchett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phil's Peggy Guggenheim-like business book called?",
+      "a": "Phils-osophy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is the Pritchett-Dunphy family based?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed the Modern Family pilot?",
+      "a": "Jason Winer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Haley's job later in the series?",
+      "a": "Assistant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whom does Alex consider her academic rival?",
+      "a": "Sanjay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sanjay Patel?",
+      "a": "Suraj Partha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How old is Jay compared to Gloria approximately?",
+      "a": "Much older",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What holiday specials does the show typically do?",
+      "a": "Christmas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the self-published book of life advice written by the Dunphy dad?",
+      "a": "Phil's-osophy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "From which country did Mitchell and Cameron adopt Lily?",
+      "a": "Vietnam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which holiday is Claire obsessed with decorating for?",
+      "a": "Halloween",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Phil claim the letters WTF stand for?",
+      "a": "Why the face",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What part of the Dunphy house does Phil never get around to fixing?",
+      "a": "The broken step",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Andy hold with Jay and Gloria before dating Haley?",
+      "a": "Male nanny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does the whole family vacation for Jay's birthday in season one?",
+      "a": "Hawaii",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country does the family visit in season five for Phil's birthright trip?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animals does Phil hatch and raise in the Dunphy home?",
+      "a": "Ducks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Dylan train for late in the series?",
+      "a": "Nurse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Haley's older boyfriend Rainer Shine?",
+      "a": "Weatherman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Alex play?",
+      "a": "Cello",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gadget does Phil desperately want for his birthday in season one?",
+      "a": "An iPad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What office does Claire run for?",
+      "a": "Town council",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which family member gets kicked out of college for drinking?",
+      "a": "Haley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which family member was a college cheerleader?",
+      "a": "Phil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lily's hyphenated surname?",
+      "a": "Tucker-Pritchett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the pilot, what does Phil shoot Luke with as a punishment?",
+      "a": "A BB gun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who walks Mitchell down the aisle at his wedding?",
+      "a": "Jay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mitchell and Cameron's cat?",
+      "a": "Larry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phil's rival real estate agent?",
+      "a": "Gil Thorpe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which recurring character dies in season ten?",
+      "a": "DeDe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What product does Gloria turn into a business?",
+      "a": "Hot sauce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Phil use for his Valentine's Day role play with Claire?",
+      "a": "Clive Bixby",
       "file": "qualityBackfill"
     }
   ],
@@ -331,6 +586,296 @@
       "q": "What show-within-a-show career does Mitchell pursue?",
       "a": "Environmental lawyer",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What hobby does Phil adore?",
+      "a": "Magic tricks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Claire's younger brother who is a lawyer?",
+      "a": "Mitchell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of teacher is Cam before changing careers?",
+      "a": "Music teacher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's ex-wife?",
+      "a": "DeDe Pritchett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phil's mom's name?",
+      "a": "Grace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Claires mother DeDe?",
+      "a": "Shelley Long",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Manny's middle name revealed early?",
+      "a": "Alberto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Pameron Tucker?",
+      "a": "Dana Powell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What farm does Cam come from?",
+      "a": "Missouri farm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What town is Cam's hometown?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cam's father Merle?",
+      "a": "Barry Corbin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lily's middle name?",
+      "a": "None specific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays baby Joe in later seasons?",
+      "a": "Jeremy Maguire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bo Johnson, a Pritchetts rival?",
+      "a": "Matthew Broderick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character becomes a local news reporter in season 10?",
+      "a": "Haley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What website is Alex associated with academically?",
+      "a": "CalTech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dylan's alt-band?",
+      "a": "Escape From Tomorrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dylan's full name?",
+      "a": "Dylan Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Actually Dylans last name is?",
+      "a": "Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Manny's high school girlfriend Sherry?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend of Claire often visits?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Claire's job at Pritchett Closets later?",
+      "a": "CEO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who succeeds Jay as CEO of Pritchett Closets?",
+      "a": "Claire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the competing closet company?",
+      "a": "Closets Closets Closets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who runs the rival closet company?",
+      "a": "Earl Chambers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Earl Chambers?",
+      "a": "Chazz Palminteri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sports team does Jay obsess over?",
+      "a": "USC football",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What college did Jay attend?",
+      "a": "USC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gloria's sister's name?",
+      "a": "Sonia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gloria's sister Sonia?",
+      "a": "Stephanie Beatriz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Phil want to be professionally in his youth?",
+      "a": "Magician",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What magic society does Phil belong to?",
+      "a": "Wizards",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the magic group?",
+      "a": "Wizards of the West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Phils magician mentor?",
+      "a": "Lou",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Phils magician mentor?",
+      "a": "Stephen Merchant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mitchells coworker who appeared several times?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Pepper Saltzman?",
+      "a": "Nathan Lane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What career is Pepper Saltzman?",
+      "a": "Event planner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school does Manny attend later for college?",
+      "a": "Juilliard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What subject does Manny study at college?",
+      "a": "Film",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of Dylan's love song for Haley?",
+      "a": "In the Moonlight (Do Me)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Connection Lost', the entire episode plays out on whose laptop screen?",
+      "a": "Claire's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Mitchell and Claire's childhood figure-skating pair?",
+      "a": "Fire and Nice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's brother?",
+      "a": "Donnie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's rival closet company?",
+      "a": "Closets, Closets, Closets, Closets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the high school football team Cameron coaches?",
+      "a": "The Dolphins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which family member's father dies in the final season?",
+      "a": "Phil's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Claire use for her Valentine's Day role play with Phil?",
+      "a": "Juliana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's former business partner who cheated him?",
+      "a": "Earl Chambers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Andy's surname?",
+      "a": "Bailey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Cameron's sister Pam's baby?",
+      "a": "Cal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Frank Dunphy's second wife?",
+      "a": "Lorraine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which European city does the family spend an episode in the final season?",
+      "a": "Paris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the pilot, Cameron presents baby Lily to the family like which movie character?",
+      "a": "Simba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What adult drink does young Manny favor?",
+      "a": "Espresso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What product does Jay design and sell after retiring?",
+      "a": "A dog bed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joe's full first name, honoring Gloria's father?",
+      "a": "Fulgencio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Gloria's first husband?",
+      "a": "Javier",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -498,6 +1043,241 @@
       "q": "What university does Alex Dunphy attend?",
       "a": "Caltech",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Jay's son with Gloria?",
+      "a": "Fulgencio Joseph 'Joe' Pritchett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Modern Family?",
+      "a": "Christopher Lloyd Steven Levitan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phil's full first name?",
+      "a": "Philip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jays first wife DeDe's boyfriend?",
+      "a": "Robbie Sullivan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gloria's first ex-husband's full name?",
+      "a": "Javier Delgado",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Javier's career?",
+      "a": "Pilot con man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What university did Mitchell graduate from?",
+      "a": "Columbia Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mitchell's law firm early on?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Mitchell take after leaving law for environment?",
+      "a": "Environmental lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Andy Bailey, Haley's nanny love interest?",
+      "a": "Adam DeVine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Andy's occupation?",
+      "a": "Manny for Joe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Andy's fiancee?",
+      "a": "Beth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state is Andy from?",
+      "a": "Utah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Arvin Fennerman, Alex's love interest?",
+      "a": "Chris Geere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Arvin's profession?",
+      "a": "Astrophysicist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Donnie Pritchett, Jay's brother?",
+      "a": "Jonathan Banks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jay's brother's occupation?",
+      "a": "Doctor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jay's mother who passes away?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the high school Haley attends?",
+      "a": "None specific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the ski lodge resort family trip location?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the gymnastics coach Cam befriends?",
+      "a": "Senor Kaplan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Senor Kaplan?",
+      "a": "Stephen Merchant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phil's college?",
+      "a": "Cal State Fullerton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fraternity was Phil in?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the French chef in an episode Jay hires?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Manny's fathers profession?",
+      "a": "Stunt pilot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Manny's biological grandfather?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gloria's hot sauce brand named?",
+      "a": "FuegoFuerte",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What reality show does Haley audition for?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What website does Haley work for?",
+      "a": "NERP",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of product does NERP sell?",
+      "a": "Lifestyle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who runs NERP?",
+      "a": "Nathan Dettmer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Nathan Dettmer?",
+      "a": "Reid Scott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Alex's internship at a science facility?",
+      "a": "CERN",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the cruise ship episode?",
+      "a": "Airport 2010",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What airline does Jay avoid flying?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phils realty agency?",
+      "a": "Gil Thorpe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Phil's real estate rival Gil Thorpe played by?",
+      "a": "Rob Riggle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Dunphy's street address?",
+      "a": "None specific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What car does Phil famously drive?",
+      "a": "Van",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What college does Luke attend?",
+      "a": "Oregon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Manny's pet tortoise?",
+      "a": "Shel Turtlestein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Claire's opponent in the town council election?",
+      "a": "Duane Bailey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gloria's maiden name?",
+      "a": "Ramirez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Haley's middle name?",
+      "a": "Gwendolyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Pepper Saltzman's husband?",
+      "a": "Ronaldo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Manny's often-mentioned best friend?",
+      "a": "Reuben",
+      "file": "qualityBackfill"
     }
   ]
 }

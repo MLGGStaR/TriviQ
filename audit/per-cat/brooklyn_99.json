@@ -156,8 +156,248 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of Jake's arch-nemesis detective?",
+      "q": "Who plays Jake Peralta?",
+      "a": "Andy Samberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What catchphrase does Jake often yell as victory?",
+      "a": "Noice!",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What precinct does the show take place in?",
+      "a": "99th",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hitchcock?",
+      "a": "Dirk Blocker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake's catchphrase involves which childhood sleuth?",
+      "a": "Title of your sex tape",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jake's favorite holiday?",
+      "a": "Halloween",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The annual competition is called the what Heist?",
+      "a": "Halloween",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Jake marry?",
+      "a": "Amy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What breed is Cheddar?",
+      "a": "Corgi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Terry and Sharon's daughters include Cagney and?",
+      "a": "Lacey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Nikolaj adopted from?",
+      "a": "Latvia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mac's full name's middle is?",
+      "a": "McClane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mac's middle name is inspired by which character?",
+      "a": "John McClane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which network later picked it up?",
+      "a": "NBC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Creator Dan Goor previously worked on?",
+      "a": "Parks and Recreation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the other co-creator?",
+      "a": "Michael Schur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake was named Detective of the Year how many times?",
+      "a": "Multiple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Amy's biggest dream?",
+      "a": "Captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy becomes what rank by the finale?",
+      "a": "Sergeant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport does Rosa enjoy?",
+      "a": "Motorcycles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Rosa reveals she is what sexuality?",
+      "a": "Bisexual",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fighting style does Rosa practice?",
+      "a": "Ballet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy has how many brothers?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy is afraid of what kind of animal?",
+      "a": "Dogs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Hitchcock and Scully are famous for what?",
+      "a": "Eating",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which precinct rival do they often mock?",
+      "a": "Vulture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is The Vulture?",
+      "a": "Keith Pembroke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Vulture?",
+      "a": "Dean Winters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jake's dad's profession?",
+      "a": "Pilot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jake's dad?",
+      "a": "Bradley Whitford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did Brooklyn Nine-Nine run?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phrase does Jake add after ambiguous statements?",
+      "a": "Title of your sex tape",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jake's drawn-out word of approval?",
+      "a": "Noice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What one-word question does Holt shout at Kevin, becoming a meme?",
+      "a": "Bone?",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What exclamation does Holt use when he is excited?",
+      "a": "Hot damn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank does Amy earn after passing her exam?",
+      "a": "Sergeant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank does Terry earn late in the series?",
+      "a": "Lieutenant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gina's job at the precinct?",
+      "a": "Civilian administrator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Jake win when he beats Amy in their arrest bet?",
+      "a": "A date",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Jake and Amy end up getting married?",
+      "a": "Outside the precinct",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes captain of the Nine-Nine after Holt is transferred?",
       "a": "The Vulture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which detective leaves the NYPD in the finale to be a stay-at-home dad?",
+      "a": "Jake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What addictive phone game does Holt get hooked on?",
+      "a": "Kwazy Cupcakes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle hits Gina, putting her in the hospital?",
+      "a": "A bus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Rosa study before joining the police academy?",
+      "a": "Ballet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What department does Wuntch transfer Holt to as punishment?",
+      "a": "Public Relations",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Boyle's long-term partner and Nikolaj's adoptive mother?",
+      "a": "Genevieve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose mother marries Boyle's father?",
+      "a": "Gina's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which detective comes from a large Cuban-American family?",
+      "a": "Amy",
       "file": "qualityBackfill"
     }
   ],
@@ -321,6 +561,316 @@
       "q": "What is Amy's sister called?",
       "a": "Maria",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Gina Linetti?",
+      "a": "Chelsea Peretti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Scully?",
+      "a": "Joel McKinnon Miller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Brooklyn Nine-Nine premiere?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the restaurant Boyle's cousin runs?",
+      "a": "None specifically",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Boyle's food blog is called?",
+      "a": "Boyle-ing Point",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake goes undercover with which crime family?",
+      "a": "Iannuccis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What criminal does Jake befriend in witness protection?",
+      "a": "Vin Stermley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season finale has Jake going undercover?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Doug Judy is known as the what?",
+      "a": "Pontiac Bandit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Doug Judy?",
+      "a": "Craig Robinson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Doug Judy's final episode sees him marry whom?",
+      "a": "Trudy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Captain Holt is transferred to what punishment job?",
+      "a": "PR",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Holt's nemesis in the NYPD is named?",
+      "a": "Wuntch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Madeline Wuntch?",
+      "a": "Kyra Sedgwick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Wuntch dies in which season?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What holiday tradition involves cuff-the-perp games?",
+      "a": "Halloween heist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wins the first Halloween Heist?",
+      "a": "Jake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wins the second Halloween Heist?",
+      "a": "Holt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake and Amy's relationship begins official in which season?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake and Amy get engaged during what event?",
+      "a": "Bomb threat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who officiates Jake and Amy's wedding?",
+      "a": "Holt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Rosa comes out to family in which season?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Rosa dates which character in season 3?",
+      "a": "Marcus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Marcus is whose nephew?",
+      "a": "Holt's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Marcus?",
+      "a": "Nick Cannon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Hawkins in season five?",
+      "a": "Corrupt lieutenant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Seamus Murphy?",
+      "a": "Paul Adelstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake's prison nemesis is named?",
+      "a": "Caleb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Caleb's eating habit is famously?",
+      "a": "Cannibalism",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Caleb?",
+      "a": "Tim Meadows",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Gina leaves in which season?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Why does Gina leave the precinct?",
+      "a": "Hit by bus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Terry's brother-in-law is named?",
+      "a": "Zeke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Hitchcock retires in which season?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scully wrote what Broadway song according to the show?",
+      "a": "Jeffrey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's mother is played by?",
+      "a": "Bertila Damas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's father is played by?",
+      "a": "Jimmy Smits",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's father is a former what?",
+      "a": "Cop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Boyle's father Lynn is played by?",
+      "a": "Stephen Root",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Lynn Boyle marries whom?",
+      "a": "Jake's mother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake's mother is played by?",
+      "a": "Katey Sagal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Boyle and Jake become what after Lynn marries?",
+      "a": "Brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jocelyn?",
+      "a": "Cameron Esposito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Terry's dream aspiration is to be a what?",
+      "a": "Writer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Holt's husband Kevin is played by?",
+      "a": "Marc Evan Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Kevin teaches at which university?",
+      "a": "Columbia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Nine-Nine faces threat from the commissioner in season two finale?",
+      "a": "Podolski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Russian criminal Jake befriends?",
+      "a": "Sergei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Holt's undercover nickname from his past?",
+      "a": "Velvet Thunder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who frames Jake and Rosa for bank robbery?",
+      "a": "Lieutenant Hawkins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Amy's secret bad habit when she is stressed?",
+      "a": "Smoking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Florida town where Jake and Holt hide?",
+      "a": "Coral Palms",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What position does Holt take in the series finale?",
+      "a": "Deputy Commissioner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Brooklyn Nine-Nine?",
+      "a": "Dan Goor and Michael Schur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Holt work at the start of season seven after his demotion?",
+      "a": "Patrol officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Amy's ex-boyfriend, a fellow cop obsessed with pilsners?",
+      "a": "Teddy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which crime boss forces Jake and Holt into witness protection?",
+      "a": "Jimmy Figgis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives birth inside the precinct in season three?",
+      "a": "Sharon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which season do Jake and Amy get married?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which serial killer does Jake catch while stuck on desk duty?",
+      "a": "The Oolong Slayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the drug at the center of the Nine-Nine's task force?",
+      "a": "Giggle Pig",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the captain who briefly replaces Holt and dies of a heart attack?",
+      "a": "Dozerman",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -473,6 +1023,286 @@
       "q": "What is the nickname for Boyle's ex-wife Eleanor?",
       "a": "The Vulture of Boyle",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What network did Brooklyn 99 move to after Fox cancelled it?",
+      "a": "NBC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the episode where everyone does karaoke?",
+      "a": "Karen Peralta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season does the show switch networks?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the detective that replaces Gina?",
+      "a": "Debbie Fogle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Debbie Fogle?",
+      "a": "Vanessa Bayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Season seven has what overarching plotline?",
+      "a": "Holt is demoted",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank is Holt demoted to?",
+      "a": "Officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is John Kelly?",
+      "a": "New commissioner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays John Kelly?",
+      "a": "Phil Reeves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Melanie Hawkins?",
+      "a": "Corrupt chief",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Melanie Hawkins?",
+      "a": "Gina Gershon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wins the original bet in season one?",
+      "a": "Amy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake takes Amy on a what-themed date after the bet?",
+      "a": "Worst date",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake's childhood hero detective is?",
+      "a": "Columbo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Terry's writing project is a book called?",
+      "a": "The Squad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Terry attended what university?",
+      "a": "Syracuse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's teacher fantasy name is?",
+      "a": "Dr. Amy Santiago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Boyle's food truck was named?",
+      "a": "Boyle's Beat Cops",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scully's wife is named?",
+      "a": "Cindy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Genevieve is whose wife, Boyle dates?",
+      "a": "Charles's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Genevieve?",
+      "a": "Mary Lynn Rajskub",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Teddy Wells?",
+      "a": "Amy's ex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Teddy Wells?",
+      "a": "Kyle Bornheimer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Teddy proposes to Amy at what event?",
+      "a": "Dinner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Teddy's favorite drink is?",
+      "a": "Pilsner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Hitchcock retires where?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Captain Holt's first commanding officer was played by?",
+      "a": "Ken Marino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Holt's fake rockin identity?",
+      "a": "Greg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Holt sings what song in an episode?",
+      "a": "Christmas Wish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Chelsea Peretti's father-daughter episode features?",
+      "a": "Gina's dad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Roger Peralta has how many secret families?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jake's half-sister?",
+      "a": "Kate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kate Peralta?",
+      "a": "Nasim Pedrad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's brother David is played by?",
+      "a": "None specified",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rosa's childhood boyfriend?",
+      "a": "Pimento",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Pimento was undercover for how many years?",
+      "a": "Twelve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Pimento's criminal enemy is?",
+      "a": "Jimmy Figgis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jimmy Figgis?",
+      "a": "Eric Roberts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season ends with Jake going to witness protection in Florida?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jake's witness protection identity is?",
+      "a": "Larry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jake's favorite stakeout food?",
+      "a": "Gum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy color codes her what?",
+      "a": "Binders",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many episodes of Brooklyn 99 aired in total?",
+      "a": "153",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Boyle's fiancee in season one?",
+      "a": "Vivian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the father of Gina's daughter?",
+      "a": "Milton Boyle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Holt use in Florida?",
+      "a": "Greg Stickney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Jake's ex-girlfriend Sophia?",
+      "a": "Defense attorney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Holt's sister?",
+      "a": "Debbie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jake's mother's first name?",
+      "a": "Karen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Scully's look-alike used in a heist?",
+      "a": "Bill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes captain of the Nine-Nine in the series finale?",
+      "a": "Terry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Pontiac Bandit's sister?",
+      "a": "Trudy Judy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Holt's mother?",
+      "a": "Laverne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Amy's father?",
+      "a": "Victor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Vulture's first name?",
+      "a": "Keith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is revealed as the FBI mole working with Jimmy Figgis?",
+      "a": "Bob Annderson",
+      "file": "qualityBackfill"
     }
   ]
 }

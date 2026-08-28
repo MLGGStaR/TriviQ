@@ -189,6 +189,266 @@
       "q": "Act out this scenario!",
       "a": "Stirring a pot of soup",
       "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Running late",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Getting a haircut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Ordering food",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Watching TV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Doing homework",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Missing the bus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Falling asleep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Crying at a movie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Laughing hard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Being scared",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Brushing your hair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Buckling a seatbelt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Pouring coffee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Turning on a lamp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Blowing a bubble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Reading a map",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Packing a suitcase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Trying on shoes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Opening a jar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Wiping a window",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Licking an ice cream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Checking the mirror",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Stretching in bed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating breakfast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pouring a cup of coffee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Putting on a jacket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Taking a shower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating soup",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Drinking from a straw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Walking a dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Petting a cat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Reading a book",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Typing on a keyboard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Answering the phone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Waving goodbye",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Clapping at a concert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Jumping rope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Riding a bike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Catching a ball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Throwing a frisbee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Unwrapping a present",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Falling asleep on the couch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cooking on a stove",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cracking an egg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Setting the table",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Washing the dishes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Taking out the trash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Vacuuming the carpet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Folding laundry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Brushing your hair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Shaving your face",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Zipping up a jacket",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -411,6 +671,406 @@
       "q": "Act out this scenario!",
       "a": "Discovering your phone is at 1% battery",
       "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Stuck in traffic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Winning a race",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Losing your keys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Cold shower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Stubbing a toe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sneezing loudly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Yawning",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Hiccupping",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Catching a cold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Getting a shot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Biting ice cream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sunburn pain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Foot falling asleep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Brain freeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Swallowing a fly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Picking a splinter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Itchy sweater",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Bug in your ear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Stepping on Lego",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Nose bleed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Chipped tooth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Pulling a muscle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Eating lemon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sneaking a yawn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Butterfly nerves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Solving a puzzle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Doing a jigsaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Teaching a class",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Conducting an orchestra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Fly-fishing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Pitching a tent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Paddling a canoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Climbing a rope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Changing a flat tire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Fixing a leaky faucet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Herding sheep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Doing a crossword",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Hailing a taxi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Catching a frisbee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Planting a tree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Rolling out dough",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Waiting in a really long line",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Awkward elevator ride with a stranger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Searching for lost car keys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Assembling IKEA furniture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Running to catch a bus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stepping on a Lego",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to open a jar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to listen in a meeting",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking food into a movie theater",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to fit into skinny jeans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Burning your tongue on hot coffee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Spilling wine on the carpet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Waking up late for work",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting stuck in traffic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Dropping your phone in water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Locking your keys in the car",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to carry too many grocery bags",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Opening a gift you don't like",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to sneeze quietly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting shocked by static electricity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tripping on a sidewalk crack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting hair in your mouth on a windy day",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to reach a high shelf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Opening a stuck pickle jar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Dancing at a wedding reception",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying on clothes at the store",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Arguing with autocorrect",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Being stuck on hold with customer service",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Burning yourself on the oven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Chasing a bug around the house",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Struggling to untangle headphones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Putting on wet socks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to whistle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Learning to snap your fingers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Catching a fly in the kitchen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Forgetting where you parked",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to enjoy a terrible meal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Opening an umbrella in the wind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Climbing a really tall ladder",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -913,6 +1573,431 @@
       "q": "Act out this scenario!",
       "a": "Sneaking past a sleeping dragon to steal an egg",
       "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Dodging paparazzi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Catwalk strut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Robot dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Ventriloquist act",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Lip sync battle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Magic trick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Mime trapped in box",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Statue pose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Bowling strike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Limbo dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Conga line",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Chicken dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Moonwalk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Floss dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Twist dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sprinkler dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Cabbage patch dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Running man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Shoulder shimmy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Belly dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sumo wrestling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Capoeira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Haka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Kabuki pose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Flamenco stomp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Tarantella spin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Irish step dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Tango dip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Waltz twirl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Foxtrot glide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Conducting surgery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Rescuing a cat from a tree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Disarming a bomb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Juggling flaming torches",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Tightrope walking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Training a lion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Performing CPR",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Delivering a baby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Shearing a sheep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Tracking animal prints",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Panning for gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sculpting a statue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Spinning plates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Throwing pottery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Blacksmithing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Tea ceremony",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to fold a fitted sheet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Forgetting someone's name mid-introduction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending you didn't see someone you know",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Waving at someone who wasn't waving at you",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Accidentally liking an old photo on Instagram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to sneak back into bed without waking the dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pulling on a door that says push",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Walking into a spider web",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing your zipper has been down all day",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to open the wrong side of a car door",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting a song stuck in your head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Stepping in a puddle with socks on",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Hearing your own voicemail greeting",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Eating a ghost pepper on a dare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending you remember a childhood friend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sneaking a snack past a sleeping pet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to leave a group photo without being noticed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Reading the subtitles on a very silent foreign film",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Holding in a sneeze in a silent library",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Waiting for a slow webpage to load",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing you forgot to pay the parking meter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Accidentally joining a wrong Zoom meeting",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending your phone died to end a boring call",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Dropping toast butter-side down",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Catching your reflection unexpectedly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Finding money in an old coat pocket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to kill a mosquito in the dark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pretending to understand a foreign language",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to parallel park with an audience",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Accidentally texting your boss instead of your friend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Walking past your exit on a treadmill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting your hand stuck in a Pringles can",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Finding out your fly has been open for hours",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sitting on a freshly painted bench",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Trying to catch a contact lens in the sink",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Dropping an ice cube and kicking it around the kitchen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Getting your shirt stuck while pulling it over your head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Ordering coffee with a very complicated name",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Realizing you've been muted for five minutes",
+      "file": "qualityBackfill"
     }
   ]
 }

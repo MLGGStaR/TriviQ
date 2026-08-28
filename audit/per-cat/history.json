@@ -76,6 +76,366 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "Who was the 16th US President?",
+      "a": "Abraham Lincoln",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the American Civil War end?",
+      "a": "1865",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country dropped atomic bombs on Japan in 1945?",
+      "a": "United States",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Hitler's political party?",
+      "a": "Nazi Party",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did World War II begin?",
+      "a": "1939",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did the Declaration of Independence declare independence from?",
+      "a": "Britain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did the Vikings come from?",
+      "a": "Scandinavia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the leader of Nazi Germany in WWII?",
+      "a": "Adolf Hitler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Wright brothers first fly?",
+      "a": "1903",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What empire did Augustus rule?",
+      "a": "Roman Empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who led the British against Napoleon at Waterloo?",
+      "a": "Duke of Wellington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what country was Mahatma Gandhi a leader?",
+      "a": "India",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Great Fire of London happen?",
+      "a": "1666",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which explorer is credited with sailing around the world first?",
+      "a": "Ferdinand Magellan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Queen Elizabeth II's husband?",
+      "a": "Prince Philip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first person to discover Brazil for Europe?",
+      "a": "Pedro Cabral",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Cold War end (roughly)?",
+      "a": "1991",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country built the Eiffel Tower?",
+      "a": "France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which king was defeated at the Battle of Hastings?",
+      "a": "Harold II",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the light bulb (commercial)?",
+      "a": "Thomas Edison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the first US space agency (founded 1958)?",
+      "a": "NASA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Great Depression start?",
+      "a": "1929",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did Joan of Arc fight for?",
+      "a": "France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who did Brutus famously betray?",
+      "a": "Julius Caesar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which war began in 1950 with a northern invasion of the southern peninsula?",
+      "a": "Korean War",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Queen Victoria's empire called?",
+      "a": "British Empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the famous nurse in the Crimean War?",
+      "a": "Florence Nightingale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did Christopher Columbus sail for?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the September 11 attacks happen?",
+      "a": "2001",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was assassinated at Ford's Theatre?",
+      "a": "Abraham Lincoln",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the Nazi secret police?",
+      "a": "Gestapo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which president purchased Louisiana from France?",
+      "a": "Thomas Jefferson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "When did Queen Elizabeth II become queen?",
+      "a": "1952",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the airplane?",
+      "a": "Wright brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did the Renaissance begin in?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country gifted the Statue of Liberty to the US?",
+      "a": "France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what country was Buddha born?",
+      "a": "Nepal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the ship Columbus sailed in 1492?",
+      "a": "Santa Maria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who assassinated Abraham Lincoln?",
+      "a": "John Wilkes Booth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Japan attack Pearl Harbor?",
+      "a": "1941",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two American siblings made the first powered aeroplane flight in 1903?",
+      "a": "The Wright brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which civilisation built the Parthenon?",
+      "a": "Ancient Greeks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of the Seven Wonders of the Ancient World still stands today?",
+      "a": "Great Pyramid of Giza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which monarch ruled Britain for most of the 19th century?",
+      "a": "Queen Victoria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did Napoleon disastrously invade in 1812?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On which Japanese city was the second atomic bomb dropped?",
+      "a": "Nagasaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which power's collapse after World War I led to the creation of modern Turkey?",
+      "a": "Ottoman Empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who led the Bolsheviks to power in Russia in 1917?",
+      "a": "Vladimir Lenin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly known as Persia?",
+      "a": "Iran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the city of Istanbul called before 1930?",
+      "a": "Constantinople",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Mumbai called until 1995?",
+      "a": "Bombay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chinese leader founded the People's Republic of China in 1949?",
+      "a": "Mao Zedong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Indian independence leader was assassinated in 1948?",
+      "a": "Mahatma Gandhi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the Wall Street Crash happen?",
+      "a": "1929",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the alliance of Germany, Italy and Japan in World War II called?",
+      "a": "The Axis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the fascist dictator of Italy during World War II?",
+      "a": "Benito Mussolini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was the first to test an atomic bomb?",
+      "a": "United States",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Iraqi leader ordered the invasion of Kuwait in 1990?",
+      "a": "Saddam Hussein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Greek city-state was famous for its warrior society?",
+      "a": "Sparta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the official language of the Roman Empire?",
+      "a": "Latin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What were the medieval religious wars fought between Christians and Muslims for the Holy Land called?",
+      "a": "The Crusades",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the queen of France executed in 1793 during the Revolution?",
+      "a": "Marie Antoinette",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Paris prison was stormed on 14 July 1789?",
+      "a": "The Bastille",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What execution device became a symbol of the French Revolution?",
+      "a": "Guillotine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which European country was ruled by General Franco until 1975?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did Brazil gain independence from?",
+      "a": "Portugal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who refused to give up her bus seat in Montgomery, Alabama, in 1955?",
+      "a": "Rosa Parks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the second person to walk on the Moon?",
+      "a": "Buzz Aldrin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "From which country did the United States buy Alaska?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Venetian traveller described his journeys to China in the 13th century?",
+      "a": "Marco Polo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which American industrialist introduced the moving assembly line for cars?",
+      "a": "Henry Ford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the US nationwide ban on alcohol from 1920 to 1933 called?",
+      "a": "Prohibition",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Year the Apollo 11 Moon landing happened?",
       "a": "1969",
       "file": "questionRefinements"
@@ -316,6 +676,386 @@
       "q": "What revolution began in Russia in 1917?",
       "a": "Bolshevik Revolution",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was the US President during the Cuban Missile Crisis?",
+      "a": "John F. Kennedy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the American Revolution begin?",
+      "a": "1775",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What European country colonized Brazil?",
+      "a": "Portugal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who led the march on Washington in 1963?",
+      "a": "Martin Luther King Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What empire built Angkor Wat?",
+      "a": "Khmer Empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the last French king before the Revolution?",
+      "a": "Louis XVI",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Russia's first communist leader?",
+      "a": "Lenin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first emperor of France in the 1800s?",
+      "a": "Napoleon Bonaparte",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Chernobyl disaster occur?",
+      "a": "1986",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Julius Caesar's adopted son?",
+      "a": "Octavian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the US enter WWI?",
+      "a": "1917",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What civilization built the Acropolis?",
+      "a": "Ancient Greeks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Greek philosopher who taught Alexander the Great?",
+      "a": "Aristotle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which empire was led by Montezuma?",
+      "a": "Aztec",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US general led the Allied forces in WWII Europe?",
+      "a": "Dwight D. Eisenhower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the youngest US president when taking office?",
+      "a": "Theodore Roosevelt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first British monarch of the House of Windsor?",
+      "a": "George V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Bay of Pigs?",
+      "a": "A failed 1961 US-backed invasion of Cuba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What event started WWI in 1914?",
+      "a": "Assassination of Archduke Franz Ferdinand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was famous for leading Mongol conquests in the 13th century?",
+      "a": "Genghis Khan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What treaty ended the War of 1812?",
+      "a": "Treaty of Ghent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the United Nations founded?",
+      "a": "1945",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the leader of North Vietnam during the Vietnam War?",
+      "a": "Ho Chi Minh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first US Secretary of the Treasury?",
+      "a": "Alexander Hamilton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which president was killed in Dallas in 1963?",
+      "a": "John F. Kennedy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which war was ended by the Treaty of Versailles?",
+      "a": "World War I",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country was Catherine the Great the ruler of?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which African leader was imprisoned for 27 years before becoming president?",
+      "a": "Nelson Mandela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the Declaration of Independence signed?",
+      "a": "1776",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dynasty ruled France until the revolution?",
+      "a": "Bourbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the famous 1918–1919 pandemic called?",
+      "a": "Spanish Flu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Asian country was closed to the West until the Meiji era?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ship did Darwin sail on to the Galapagos?",
+      "a": "HMS Beagle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Soviets launch Sputnik?",
+      "a": "1957",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Trail of Tears?",
+      "a": "Forced relocation of Native Americans in the 1830s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Persian king defeated by Alexander the Great?",
+      "a": "Darius III",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did apartheid officially end in South Africa?",
+      "a": "1994",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which European city was historically known as Byzantium?",
+      "a": "Istanbul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the British monarch during the American Revolution?",
+      "a": "George III",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What civilization built Stonehenge?",
+      "a": "Neolithic Britons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the main religion spread by the Crusades?",
+      "a": "Christianity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the secret Nazi camp in Poland that killed over 1 million?",
+      "a": "Auschwitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ancient city housed the Oracle of Apollo?",
+      "a": "Delphi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Germany invade Poland?",
+      "a": "1939",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US President was assassinated in 1901?",
+      "a": "William McKinley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Asian power invaded Manchuria in 1931?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first person to reach the South Pole?",
+      "a": "Roald Amundsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Portuguese explorer was the first European to reach India by sea?",
+      "a": "Vasco da Gama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the British monarch during World War II?",
+      "a": "George VI",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "To which island was Napoleon first exiled in 1814?",
+      "a": "Elba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the German air force called in World War II?",
+      "a": "Luftwaffe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1942-43 battle marked the turning point of the war on the Eastern Front?",
+      "a": "Stalingrad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the aircraft that dropped the atomic bomb on Hiroshima?",
+      "a": "Enola Gay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname was given to the German WWI flying ace Manfred von Richthofen?",
+      "a": "The Red Baron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the Cuban Missile Crisis?",
+      "a": "1962",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did Saigon fall, ending the Vietnam War?",
+      "a": "1975",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the Berlin Wall built?",
+      "a": "1961",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which English monarch put his seal on the Magna Carta in 1215?",
+      "a": "King John",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly known as Siam?",
+      "a": "Thailand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly known as Ceylon?",
+      "a": "Sri Lanka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Ho Chi Minh City called before 1976?",
+      "a": "Saigon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was St Petersburg called from 1924 to 1991?",
+      "a": "Leningrad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was New York City called when it was a Dutch colony?",
+      "a": "New Amsterdam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Tokyo called before 1868?",
+      "a": "Edo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Prussian statesman known as the 'Iron Chancellor' unified Germany in 1871?",
+      "a": "Otto von Bismarck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was Germany reunified?",
+      "a": "1990",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was India's first prime minister?",
+      "a": "Jawaharlal Nehru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is regarded as the founder of Pakistan?",
+      "a": "Muhammad Ali Jinnah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the State of Israel declared?",
+      "a": "1948",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the Iranian Revolution?",
+      "a": "1979",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the only US president to serve more than two terms?",
+      "a": "Franklin D. Roosevelt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did the United States defeat in 1898, gaining Puerto Rico and the Philippines?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who led the Free French forces during World War II?",
+      "a": "Charles de Gaulle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which German general was nicknamed the 'Desert Fox'?",
+      "a": "Erwin Rommel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two men were the first to reach the summit of Mount Everest in 1953?",
+      "a": "Edmund Hillary and Tenzing Norgay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Italian explorer gave his name to the Americas?",
+      "a": "Amerigo Vespucci",
+      "file": "qualityBackfill"
     },
     {
       "q": "Which country was first to give women the vote?",
@@ -643,6 +1383,436 @@
       "q": "What was the significance of the Battle of Tours (732)?",
       "a": "Charles Martel halted Muslim expansion into Europe",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who was the first Mughal emperor of India?",
+      "a": "Babur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 17th-century English civil war general became Lord Protector?",
+      "a": "Oliver Cromwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancient empire built Persepolis?",
+      "a": "Achaemenid Persian Empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Holy Roman Emperor crowned by the Pope in 800 AD?",
+      "a": "Charlemagne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Columbus die?",
+      "a": "1506",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What treaty ended the Mexican-American War?",
+      "a": "Treaty of Guadalupe Hidalgo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the French royal family deposed in 1792?",
+      "a": "House of Bourbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Aztec emperor was encountered by Hernán Cortés?",
+      "a": "Moctezuma II",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was Queen Elizabeth II coronated?",
+      "a": "1953",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Roman emperor legalised Christianity?",
+      "a": "Constantine the Great",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Mongols sack Baghdad?",
+      "a": "1258",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Rome sack Carthage?",
+      "a": "146 BC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country did Vasco da Gama sail for?",
+      "a": "Portugal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Peloponnesian War fought between?",
+      "a": "Athens and Sparta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded the Ming Dynasty?",
+      "a": "Zhu Yuanzhang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Byzantine general who reconquered much of the Western Mediterranean?",
+      "a": "Belisarius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Indian emperor built the Red Fort in Delhi?",
+      "a": "Shah Jahan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first Prime Minister of Britain?",
+      "a": "Robert Walpole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Great Schism split the Christian church?",
+      "a": "1054",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which general led Union forces at Gettysburg?",
+      "a": "George Meade",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the 'Maid of Orléans'?",
+      "a": "Joan of Arc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the 100 Years' War fought between?",
+      "a": "England and France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Persian empire fell to the Arabs in the 7th century?",
+      "a": "Sassanid Empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Treaty of Tordesillas about?",
+      "a": "Dividing the New World between Spain and Portugal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which German chancellor ruled from 1871 to 1890?",
+      "a": "Otto von Bismarck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which battle in 1066 led to William the Conqueror's rise?",
+      "a": "Battle of Hastings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Enlightenment?",
+      "a": "An intellectual movement emphasizing reason in 17th-18th century Europe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who led the Protestant Reformation in Germany?",
+      "a": "Martin Luther",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Russian Revolution occur (February)?",
+      "a": "1917",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first Roman Catholic US president?",
+      "a": "John F. Kennedy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the 1815 meeting that redrew Europe?",
+      "a": "Congress of Vienna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Mexico gain independence from Spain?",
+      "a": "1821",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What empire did the Safavid dynasty rule?",
+      "a": "Persia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was 'The Corsican' nickname for?",
+      "a": "Napoleon Bonaparte",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first black US Supreme Court Justice?",
+      "a": "Thurgood Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which civilization created Linear B script?",
+      "a": "Mycenaean Greeks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'The Prince' in 1513?",
+      "a": "Niccolò Machiavelli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Polish scientist proposed the heliocentric model?",
+      "a": "Nicolaus Copernicus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the last Shah of Iran?",
+      "a": "Mohammad Reza Pahlavi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Irish Potato Famine peak?",
+      "a": "1845-1849",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ruler established the Delhi Sultanate?",
+      "a": "Qutb ud-Din Aibak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Code of Hammurabi?",
+      "a": "An early Babylonian code of law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the last king of France?",
+      "a": "Louis Philippe I",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which civilization is credited with inventing the decimal system?",
+      "a": "Indians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Bastille?",
+      "a": "A Parisian prison stormed at the start of the French Revolution",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded the Tokugawa shogunate?",
+      "a": "Tokugawa Ieyasu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Ottoman sultan conquered Constantinople?",
+      "a": "Mehmed II",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the Paris Commune?",
+      "a": "A revolutionary government of Paris in 1871",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Greek historian wrote about the Persian Wars?",
+      "a": "Herodotus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the 'Great Leap Forward'?",
+      "a": "Mao Zedong's 1958-1962 economic and social campaign in China",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the Spanish Civil War begin?",
+      "a": "1936",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first US president to be impeached?",
+      "a": "Andrew Johnson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the United States purchase Alaska?",
+      "a": "1867",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly known as Rhodesia?",
+      "a": "Zimbabwe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was known as Zaire from 1971 to 1997?",
+      "a": "Democratic Republic of the Congo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly known as Abyssinia?",
+      "a": "Ethiopia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was formerly the British colony of the Gold Coast?",
+      "a": "Ghana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the Six-Day War?",
+      "a": "1967",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was the Suez Crisis?",
+      "a": "1956",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first woman in space?",
+      "a": "Valentina Tereshkova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first American in space?",
+      "a": "Alan Shepard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first American to orbit the Earth?",
+      "a": "John Glenn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Apollo 11 astronaut stayed in lunar orbit while the other two landed?",
+      "a": "Michael Collins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the Space Shuttle Challenger explode?",
+      "a": "1986",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the capital city of the Aztec Empire?",
+      "a": "Tenochtitlan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ancient civilisation produced the Code of Hammurabi?",
+      "a": "Babylonians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Greek writer is known as the 'Father of History'?",
+      "a": "Herodotus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Germanic people sacked Rome in 410 AD?",
+      "a": "Visigoths",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Roman emperor supposedly wanted to make his horse a consul?",
+      "a": "Caligula",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At which 31 BC naval battle did Octavian defeat Antony and Cleopatra?",
+      "a": "Actium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Scottish king defeated the English at Bannockburn in 1314?",
+      "a": "Robert the Bruce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Spanish king sent the Armada against England in 1588?",
+      "a": "Philip II",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which king was restored to the English throne in 1660?",
+      "a": "Charles II",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name is given to the 1688 overthrow of King James II of England?",
+      "a": "The Glorious Revolution",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which leader of the Reign of Terror was himself guillotined in 1794?",
+      "a": "Maximilien Robespierre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did Napoleon crown himself Emperor of the French?",
+      "a": "1804",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1805 battle is regarded as Napoleon's greatest victory?",
+      "a": "Austerlitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Argentine general liberated Chile and Peru from Spanish rule?",
+      "a": "José de San Martín",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did Brazil declare independence from Portugal?",
+      "a": "1822",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where did Robert E. Lee surrender to Ulysses S. Grant in 1865?",
+      "a": "Appomattox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was president of the Confederate States during the American Civil War?",
+      "a": "Jefferson Davis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1781 siege effectively ended the American Revolutionary War?",
+      "a": "Yorktown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which French aristocrat fought alongside George Washington in the American Revolution?",
+      "a": "Marquis de Lafayette",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the 1776 pamphlet 'Common Sense'?",
+      "a": "Thomas Paine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the words to 'The Star-Spangled Banner'?",
+      "a": "Francis Scott Key",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the Hindenburg airship disaster occur?",
+      "a": "1937",
+      "file": "qualityBackfill"
     },
     {
       "q": "Who was the Byzantine Emperor who codified Roman law?",

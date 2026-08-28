@@ -615,6 +615,24 @@
       "a": "John McClane",
       "wiki": "John_McClane",
       "file": "App.jsx"
+    },
+    {
+      "q": "I run a secret hotel for assassins where gold coins are currency.",
+      "a": "Winston Scott",
+      "wiki": "John_Wick",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am a polite but violent hitman who quotes Ezekiel 25:17.",
+      "a": "Jules Winnfield",
+      "wiki": "Jules_Winnfield",
+      "file": "App.jsx"
+    },
+    {
+      "q": "I am the retired Spartan king who fights 300 strong at Thermopylae.",
+      "a": "King Leonidas",
+      "wiki": "Leonidas_I",
+      "file": "App.jsx"
     }
   ]
 }

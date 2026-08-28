@@ -71,6 +71,286 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What is Rachel's last name?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phoebe's last name?",
+      "a": "Buffay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Joey Tribbiani?",
+      "a": "Matt LeBlanc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Chandler Bing?",
+      "a": "Matthew Perry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ross Geller?",
+      "a": "David Schwimmer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joey's job?",
+      "a": "Actor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what city is Friends set?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joey's catchphrase when greeting women?",
+      "a": "How you doin?",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend is a paleontologist?",
+      "a": "Ross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend works as a chef?",
+      "a": "Monica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend is a masseuse and musician?",
+      "a": "Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Chandler famously have that no one understands?",
+      "a": "Statistical analysis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What soap opera does Joey star on?",
+      "a": "Days of Our Lives",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend has an identical twin sister named Ursula?",
+      "a": "Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did Friends run?",
+      "a": "Ten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network originally aired Friends?",
+      "a": "NBC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend runs away in her wedding dress in the pilot?",
+      "a": "Rachel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Joey live with for most of the series?",
+      "a": "Chandler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gunther's job at Central Perk?",
+      "a": "Manager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Monica's apartment door?",
+      "a": "Purple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Monica and Ross's father?",
+      "a": "Jack Geller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Monica and Ross's mother?",
+      "a": "Judy Geller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fountain features in the opening credits?",
+      "a": "Central Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the theme song of Friends?",
+      "a": "Ill Be There For You",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Rachel work for as an assistant early in the series?",
+      "a": "Ralph Lauren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend is afraid of commitment and makes jokes to deflect?",
+      "a": "Chandler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of dance do Ross and Monica famously perform?",
+      "a": "The Routine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dessert does Rachel accidentally make with beef in it?",
+      "a": "Trifle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which pet does Joey and Chandler own together?",
+      "a": "A chick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country do Monica and Chandler move to at the end of the series?",
+      "a": "No country",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Monica and Chandler move at the series finale?",
+      "a": "The suburbs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend is known for being a neat freak?",
+      "a": "Monica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does PIVOT refer to in a famous scene?",
+      "a": "Moving a couch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the last word of the series finale?",
+      "a": "Coffee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend dates Janice on and off?",
+      "a": "Chandler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Janice's signature exclamation?",
+      "a": "Oh my God",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which famous landmark is the orange couch in the opening credits near?",
+      "a": "Fountain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which department store does Rachel work at before Ralph Lauren?",
+      "a": "Bloomingdale's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What habit does Chandler struggle to quit throughout the series?",
+      "a": "Smoking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city do Ross and Emily get married?",
+      "a": "London",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the names of Monica and Chandler's twins?",
+      "a": "Jack and Erica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Monica put on her head to cheer Chandler up on Thanksgiving?",
+      "a": "A turkey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend was overweight in high school?",
+      "a": "Monica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is Rachel's early boyfriend Paolo from?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city is the spin-off series Joey set?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game table sits in Joey and Chandler's living room?",
+      "a": "Foosball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend speaks fluent French?",
+      "a": "Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Gunther's hair?",
+      "a": "Bleached blond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Rachel's boyfriend Paolo do that ends his relationship with her?",
+      "a": "Makes a pass at Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend's apartment catches fire because of a hair straightener?",
+      "a": "Phoebe's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend gets a job at a fashion company in Paris?",
+      "a": "Rachel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sport does Ross play with Emily's friends to prove his toughness?",
+      "a": "Rugby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend spends time living on the streets as a teenager?",
+      "a": "Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Ross play, to the group's horror?",
+      "a": "Keyboard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ross's first wife's partner?",
+      "a": "Susan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two friends nap together and enjoy it?",
+      "a": "Ross and Joey",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is the coffee shop called?",
       "a": "Central Perk",
       "file": "App.jsx"
@@ -311,6 +591,416 @@
       "q": "Who sang the Friends theme song?",
       "a": "The Rembrandts",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What does Ross scream while moving the couch up the stairs?",
+      "a": "Pivot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bar that replaces Central Perk in one episode?",
+      "a": "Moondance Diner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Monica first work as a chef?",
+      "a": "Iridium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ross's second wife, Emily?",
+      "a": "Helen Baxendale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what city does Ross say Rachel's name at the altar?",
+      "a": "London",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actress plays Julie, Ross's girlfriend from China?",
+      "a": "Lauren Tom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tag, Rachel's young assistant?",
+      "a": "Eddie Cahill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Monica's millionaire boyfriend played by Tom Selleck?",
+      "a": "Richard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phoebe's brother?",
+      "a": "Frank Jr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many babies does Phoebe carry as a surrogate for her brother?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joey's book he reads in the freezer in hard times?",
+      "a": "The Shining",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ross's pet capuchin monkey's film it appears in?",
+      "a": "Outbreak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mr. Heckles, the downstairs neighbor?",
+      "a": "Larry Hankin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season does Ross and Rachel's They were on a break fight begin in?",
+      "a": "Season three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Rachel take a job that makes Ross jealous?",
+      "a": "Bloomingdales",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Elizabeth, a student Ross dates, played by?",
+      "a": "Alexandra Holden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joey's fictional Dr. Drake Ramoray's cause of death on his show?",
+      "a": "Fell in elevator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Friend has a phobia of swings?",
+      "a": "Chandler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Chandler's father, a Las Vegas drag performer?",
+      "a": "Kathleen Turner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What holiday does Chandler famously hate because his parents divorced?",
+      "a": "Thanksgiving",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ross claim he invented for dinner parties?",
+      "a": "Unagi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ross's college rival who Rachel dates briefly?",
+      "a": "Russ",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what airport does Ross famously chase Rachel in Season 9 finale?",
+      "a": "JFK",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Susan, Carol's partner?",
+      "a": "Jessica Hecht",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who marries Phoebe and Mike in Central Park?",
+      "a": "Joey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gunther's secret that he reveals to Rachel in the finale?",
+      "a": "He loves her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Janice throughout the series?",
+      "a": "Maggie Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Phoebes mother figure in flashbacks?",
+      "a": "Teri Garr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What European country does Ross briefly consider moving to for work?",
+      "a": "England",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs a movie that Joey auditions for played by a famous director cameo?",
+      "a": "Charlton Heston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What word does Ross repeatedly say when trying to flirt awkwardly?",
+      "a": "Fajitas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dance show audition does Joey try out for?",
+      "a": "Freud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend briefly gets engaged to someone named Pete Becker?",
+      "a": "Monica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport does Pete Becker attempt to become champion in?",
+      "a": "Ultimate fighting",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phoebe's maiden name she changes hilariously?",
+      "a": "Princess Consuela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Mr. Treeger in the building?",
+      "a": "Superintendent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song does Ross play badly on keyboard?",
+      "a": "None specifically",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Joey's sister Dina who Chandler accidentally sleeps with?",
+      "a": "Marla Sokoloff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joey's signature audition line for acting?",
+      "a": "How you doin?",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character has a pet named Patty the dog?",
+      "a": "Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Rachel do that gets her fired from Bloomingdales?",
+      "a": "Kiss Mark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Joey's short-lived TV show in which he plays a detective with a robot partner?",
+      "a": "Mac and C.H.E.E.S.E.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Joey take in Las Vegas after his film shuts down?",
+      "a": "Gladiator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which language does Phoebe try to teach Joey for an audition?",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What accent does Ross adopt during his first lecture at NYU?",
+      "a": "British",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Joey use, matching Phoebe's Regina Phalange?",
+      "a": "Ken Adams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mike Hannigan gave up which profession to become a pianist?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which Caribbean country does Ross deliver a keynote speech?",
+      "a": "Barbados",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rachel's young assistant whom she dates?",
+      "a": "Tag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rachel's sister who wants to pierce Emma's ears?",
+      "a": "Amy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the first names of Ross and Monica's parents?",
+      "a": "Jack and Judy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sisters does Joey have?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name is printed on the TV Guide that arrives at Chandler's apartment?",
+      "a": "Miss Chanandler Bong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Joey is hired as a body double for which actor's backside?",
+      "a": "Al Pacino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ross call the gravy-soaked slice of bread in his Thanksgiving sandwich?",
+      "a": "The Moist Maker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname of Janice's husband?",
+      "a": "The Mattress King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the trophy Ross and Monica fight over in their Thanksgiving football game?",
+      "a": "The Geller Cup",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fake chocolate substitute does Monica create recipes for?",
+      "a": "Mockolate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend goes into the catering business with Monica?",
+      "a": "Phoebe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ex does Monica run into just before Chandler plans to propose?",
+      "a": "Richard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Monica's millionaire boyfriend Pete want to become?",
+      "a": "Ultimate Fighting Champion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job title does Rachel guess for Chandler during the apartment quiz?",
+      "a": "Transponster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Phoebe and Mike hold their wedding?",
+      "a": "Outside Central Perk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At which university does Ross become a professor?",
+      "a": "NYU",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barry's profession?",
+      "a": "Orthodontist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the alternate title of the pilot episode?",
+      "a": "The One Where Monica Gets a Roommate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Ross and Rachel go on their first date?",
+      "a": "The planetarium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Joey believe he has found in a Las Vegas blackjack dealer?",
+      "a": "An identical hand twin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What car does Joey pretend to own after finding its keys?",
+      "a": "A Porsche",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the apartment number of Joey and Chandler's place?",
+      "a": "19",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "With which lingerie model is Chandler trapped in an ATM vestibule during the blackout?",
+      "a": "Jill Goodacre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Monica work as a waitress wearing a wig, fake breasts, and roller skates?",
+      "a": "Moondance Diner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Ross bring back from China as his new girlfriend?",
+      "a": "Julie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which suburb do Monica and Chandler buy a house?",
+      "a": "Westchester",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What costume does Monica pick out for Chandler at her Halloween party?",
+      "a": "A pink bunny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Chandler's unhinged roommate after Joey moves out?",
+      "a": "Eddie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Richard Burke's medical specialty?",
+      "a": "Ophthalmologist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle does Phoebe inherit from her grandmother?",
+      "a": "A yellow taxi cab",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Monica's maid of honor?",
+      "a": "Rachel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "To which US city is Chandler transferred for work in season nine?",
+      "a": "Tulsa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city does Marcel end up after Ross gives him away?",
+      "a": "San Diego",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of the mother who raised Phoebe and died when she was young?",
+      "a": "Lily",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the famous trivia episode?",
@@ -558,6 +1248,381 @@
       "q": "What is the name of the ugly naked guy across the street?",
       "a": "Ugly Naked Guy (never named)",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Monica's first restaurant as head chef?",
+      "a": "Alessandro's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rachel's boss at Bloomingdale's?",
+      "a": "Joanna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song plays during Ross and Rachel's prom video?",
+      "a": "With or Without You",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phoebe's grandmother who raised her?",
+      "a": "Lily Buffay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ross's colleague who he has a crush on?",
+      "a": "Charlie Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the Friends theme song Ill Be There For You?",
+      "a": "Michael Skloff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Friends alongside Marta Kauffman?",
+      "a": "David Crane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact address of Monica's apartment?",
+      "a": "495 Grove Street",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What apartment number does Monica live in originally?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Frank Jr, Phoebe's half brother?",
+      "a": "Giovanni Ribisi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Frank Jr's much older wife?",
+      "a": "Alice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alice, Frank Jr's wife?",
+      "a": "Debra Jo Rupp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phoebes biological mother?",
+      "a": "Phoebe Abbott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the restaurant Monica becomes head chef of?",
+      "a": "Alessandros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Chandler's boss's name in Tulsa?",
+      "a": "Doug",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Monica's nickname in high school?",
+      "a": "Big fat goalie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weight did flashback Monica supposedly reach?",
+      "a": "Unstated exactly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sandy the manny?",
+      "a": "Freddie Prinze Jr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rachel's boss at Ralph Lauren?",
+      "a": "Mr Zellner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rachel's boss at Ralph Lauren?",
+      "a": "Ron Leibman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rachel's father's name?",
+      "a": "Dr Leonard Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rachel's mother's name?",
+      "a": "Sandra Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rachel's mother?",
+      "a": "Marlo Thomas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Monica's rich boyfriend before Chandler, Pete?",
+      "a": "Pete Becker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Pete Becker?",
+      "a": "Jon Favreau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Emmy Awards did Friends win total?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Friends series finale air?",
+      "a": "2004",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional sandwich Ross invents?",
+      "a": "The Moistmaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what episode do we first meet Janice?",
+      "a": "The One With the East German Laundry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Chandler give Janice as a term of endearment?",
+      "a": "Jan-Jan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Ugly Naked Guy in his one speaking cameo?",
+      "a": "Michael Hagerty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Joey's identical hand twin?",
+      "a": "Carl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What show on TV does Joey get fired from playing a doctor?",
+      "a": "Days of Our Lives",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which episode is considered the most-watched Friends episode?",
+      "a": "The Last One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Monica's first boyfriend as a teen mentioned in flashbacks?",
+      "a": "Chip Matthews",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Paolo, Rachel's first on-screen boyfriend?",
+      "a": "Cosimo Fusco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Joey's book agent played by June Gable?",
+      "a": "Estelle Leonard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what state was Chandler's dad's drag show located exactly?",
+      "a": "Nevada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed the Friends pilot?",
+      "a": "James Burrows",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ross's son Ben in most appearances?",
+      "a": "Cole Sprouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the set color of the walls in Joey's apartment?",
+      "a": "Off-white",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mike Hannigan's ex-fiancee?",
+      "a": "Precious",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real cafe location used for exterior Central Perk shots?",
+      "a": "None exterior",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the paleontologist Ross dates who previously dated Joey?",
+      "a": "Charlie Wheeler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose brain is transplanted into Drake Ramoray?",
+      "a": "Jessica Lockhart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the police officer Phoebe dates after finding his badge?",
+      "a": "Gary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Rachel's boss Joanna die?",
+      "a": "Hit by a cab",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Rachel's father?",
+      "a": "Leonard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Mike jokingly choose for himself after Phoebe becomes Princess Consuela Banana Hammock?",
+      "a": "Crap Bag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the game show with Wicked Wango cards that Joey auditions to host?",
+      "a": "Bamboozled",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the film Marcel stars in?",
+      "a": "Outbreak 2: The Virus Takes Manhattan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At which restaurant does Ursula work as a waitress?",
+      "a": "Riff's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What address does Chandler give Janice for his fake move abroad?",
+      "a": "15 Yemen Road, Yemen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Richard Burke's son whom Monica dates?",
+      "a": "Timothy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who almost buys the house next door to Monica and Chandler's new home?",
+      "a": "Janice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What made-up card game do Chandler and Joey play so Chandler can give Joey money?",
+      "a": "Cups",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boat Joey buys at a charity auction?",
+      "a": "The Mr. Bowmont",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Rachel's prom date whom Monica later dates?",
+      "a": "Chip Matthews",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Australian dancer who becomes Joey's roommate?",
+      "a": "Janine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ross's middle name?",
+      "a": "Eustace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rachel's middle name?",
+      "a": "Karen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joey's middle name?",
+      "a": "Francis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Joey give his recliner?",
+      "a": "Rosita",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How old was Chandler when his parents announced their divorce?",
+      "a": "Nine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ceramic white dog in Joey and Chandler's apartment?",
+      "a": "Pat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend originally saved the name Emma for her own future daughter?",
+      "a": "Monica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the drag stage name of Chandler's father?",
+      "a": "Helena Handbasket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which musical does Joey play the title role in season one?",
+      "a": "Freud!",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Ross sleep with while he and Rachel are 'on a break'?",
+      "a": "Chloe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phoebe's Canadian ice-dancer husband?",
+      "a": "Duncan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who walks Phoebe down the aisle at her wedding?",
+      "a": "Chandler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ross's potato-based Halloween costume that everyone mistakes for something else?",
+      "a": "Spudnik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Barry, Rachel's ex-fiance, end up marrying?",
+      "a": "Mindy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Alice's job when she met Frank Jr.?",
+      "a": "Home economics teacher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Monica's boyfriend who turns out to be a high school senior?",
+      "a": "Ethan",
+      "file": "qualityBackfill"
     },
     {
       "q": "Name all six characters' full names.",

@@ -149,6 +149,131 @@
       "q": "What countries border Peru?",
       "a": "Ecuador, Colombia, Brazil, Bolivia, Chile",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Japan?",
+      "a": "None (island nation)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Lesotho?",
+      "a": "South Africa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only nation adjacent to Seoul's country by land?",
+      "a": "North Korea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Spain (to the west)?",
+      "a": "Portugal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Germany (to the north)?",
+      "a": "Denmark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Belgium (to the north)?",
+      "a": "Netherlands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Norway (to the east)?",
+      "a": "Sweden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Sweden (to the west)?",
+      "a": "Norway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Greece (to the north-east)?",
+      "a": "Turkey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border India (to the west)?",
+      "a": "Pakistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Brazil (to the south)?",
+      "a": "Uruguay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Argentina (to the west)?",
+      "a": "Chile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Peru (to the north)?",
+      "a": "Ecuador",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Egypt (to the east)?",
+      "a": "Israel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Vietnam (to the west)?",
+      "a": "Laos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country lies directly below the DMZ on the peninsula?",
+      "a": "South Korea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Russia (to the west, through the Baltic)?",
+      "a": "Estonia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Austria (to the west)?",
+      "a": "Switzerland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Luxembourg (to the west)?",
+      "a": "Belgium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Turkey (to the west)?",
+      "a": "Greece",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Ecuador (to the south)?",
+      "a": "Peru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Uruguay (to the south and west)?",
+      "a": "Argentina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Paraguay (to the east)?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Iran (to the west)?",
+      "a": "Iraq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Bangladesh (surrounded on three sides)?",
+      "a": "India",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -301,6 +426,226 @@
       "q": "What countries border Ethiopia?",
       "a": "Eritrea, Djibouti, Somalia, Kenya, South Sudan, Sudan",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What countries border Egypt?",
+      "a": "Libya, Sudan, Israel, State of Palestine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border South Africa?",
+      "a": "Namibia, Botswana, Zimbabwe, Mozambique, Eswatini, Lesotho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Kenya?",
+      "a": "South Sudan, Ethiopia, Somalia, Tanzania, Uganda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Venezuela?",
+      "a": "Colombia, Brazil, Guyana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Bolivia?",
+      "a": "Brazil, Paraguay, Argentina, Chile, Peru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Hungary (to the north-west)?",
+      "a": "Austria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Czech Republic (to the east)?",
+      "a": "Slovakia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Slovakia (to the south)?",
+      "a": "Hungary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Romania (to the east)?",
+      "a": "Moldova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Bulgaria (to the north)?",
+      "a": "Romania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Serbia (to the south)?",
+      "a": "North Macedonia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Croatia (to the south-east)?",
+      "a": "Bosnia and Herzegovina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Albania (to the north)?",
+      "a": "Montenegro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Belarus (to the north)?",
+      "a": "Lithuania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Lithuania (to the north)?",
+      "a": "Latvia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Georgia (to the south)?",
+      "a": "Armenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Armenia (to the east)?",
+      "a": "Azerbaijan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Azerbaijan (to the north)?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Kazakhstan (to the south)?",
+      "a": "Uzbekistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Uzbekistan (to the south-east)?",
+      "a": "Tajikistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Tajikistan (to the south)?",
+      "a": "Afghanistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Turkmenistan (to the south)?",
+      "a": "Iran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Mongolia (to the south)?",
+      "a": "China",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Myanmar (to the west)?",
+      "a": "Bangladesh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Cambodia (to the west)?",
+      "a": "Thailand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Laos (to the south)?",
+      "a": "Cambodia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Brunei?",
+      "a": "Malaysia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border East Timor?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Ethiopia (to the north)?",
+      "a": "Eritrea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Kenya (to the south)?",
+      "a": "Tanzania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Tanzania (to the north)?",
+      "a": "Kenya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Uganda (to the north)?",
+      "a": "South Sudan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Rwanda (to the south)?",
+      "a": "Burundi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country, the world's youngest as of 2011, lies directly below Khartoum's nation?",
+      "a": "South Sudan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Morocco (to the east)?",
+      "a": "Algeria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Algeria (to the east)?",
+      "a": "Tunisia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Tunisia (to the south-east)?",
+      "a": "Libya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Libya (to the east)?",
+      "a": "Egypt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What West African country is nearly enclosed by Senegal on three sides?",
+      "a": "Gambia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Ghana (to the east)?",
+      "a": "Togo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Nigeria (to the east)?",
+      "a": "Cameroon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Cameroon (to the east)?",
+      "a": "Central African Republic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Panama (to the east)?",
+      "a": "Colombia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Honduras (to the south-east)?",
+      "a": "Nicaragua",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -455,8 +800,203 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "What countries border Paraguay?",
-      "a": "Bolivia, Brazil, Argentina",
+      "q": "What countries border Zambia?",
+      "a": "DR Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, Angola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Chad?",
+      "a": "Libya, Sudan, Central African Republic, Cameroon, Nigeria, Niger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Mali?",
+      "a": "Algeria, Niger, Burkina Faso, Ivory Coast, Guinea, Senegal, Mauritania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Democratic Republic of the Congo?",
+      "a": "Republic of the Congo, Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania, Zambia, Angola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Sudan?",
+      "a": "Egypt, Libya, Chad, Central African Republic, South Sudan, Ethiopia, Eritrea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Malawi (to the west)?",
+      "a": "Zambia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Zambia (to the north)?",
+      "a": "Democratic Republic of the Congo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Mozambique (to the west)?",
+      "a": "Zimbabwe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Namibia (to the north)?",
+      "a": "Angola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Angola (to the south)?",
+      "a": "Namibia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Gabon (to the north)?",
+      "a": "Equatorial Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Equatorial Guinea (to the south)?",
+      "a": "Gabon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vast African nation, formerly Zaire, shares a capital-on-opposite-banks with Brazzaville?",
+      "a": "Democratic Republic of the Congo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Chad (to the east)?",
+      "a": "Sudan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Niger (to the south)?",
+      "a": "Nigeria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Mauritania (to the south)?",
+      "a": "Senegal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Burkina Faso (to the north)?",
+      "a": "Mali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Ivory Coast (to the west)?",
+      "a": "Liberia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Liberia (to the east)?",
+      "a": "Ivory Coast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Sierra Leone (to the north)?",
+      "a": "Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Guinea (to the south-east)?",
+      "a": "Liberia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What West African neighbor of Senegal lies south of Bissau's border, sharing Conakry as its capital?",
+      "a": "Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Benin (to the north)?",
+      "a": "Burkina Faso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Togo (to the west)?",
+      "a": "Ghana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Djibouti (to the south)?",
+      "a": "Somalia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Eritrea (to the south-east)?",
+      "a": "Djibouti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Swaziland (Eswatini) (to the east)?",
+      "a": "Mozambique",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Kosovo (to the west)?",
+      "a": "Albania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Bosnia and Herzegovina (to the east)?",
+      "a": "Serbia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Nicaragua (to the south)?",
+      "a": "Costa Rica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Costa Rica (to the south-east)?",
+      "a": "Panama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Belize (to the north)?",
+      "a": "Mexico",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Guatemala (to the south-east)?",
+      "a": "Honduras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border El Salvador (to the west)?",
+      "a": "Guatemala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Suriname (to the west)?",
+      "a": "Guyana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Guyana (to the east)?",
+      "a": "Suriname",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Yemen (to the east)?",
+      "a": "Oman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Cyprus (by land, via the Green Line)?",
+      "a": "None recognized internationally",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border Somalia (to the west)?",
+      "a": "Ethiopia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What countries border South Sudan (to the south)?",
+      "a": "Uganda",
       "file": "qualityBackfill"
     }
   ]

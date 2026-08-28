@@ -149,6 +149,666 @@
       "q": "I grow short the more I am used. I have wood but am not a tree. What am I?",
       "a": "A pencil",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "I reflect what stands before me, yet I have no eyes. I break into bad luck. What am I?",
+      "a": "A mirror",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am tall when new and short when old. You burn me for light. What am I?",
+      "a": "A candle (stick of wax)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I fall but never break. I break but never fall. What are we?",
+      "a": "Night and day",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a ring but no finger. I chime or buzz. What am I?",
+      "a": "A telephone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a head at night and lose it during the day. What am I?",
+      "a": "A pillow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am black inside and white outside. I am full of holes yet I hold. What am I?",
+      "a": "A honeycomb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have leaves but am not a plant. I have a spine but no bones. What am I?",
+      "a": "A book",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a glass box that holds water and creatures with gills. You feed my inhabitants flakes. What am I?",
+      "a": "A fish tank",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have two hands but no arms. I strike every hour. What am I?",
+      "a": "A clock (wall)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I freeze in cold and melt in heat, yet I cannot move. What am I?",
+      "a": "Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have wheels but no engine. I race down hills on snow. What am I?",
+      "a": "A sled",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am white and cold. I fall from the sky in flakes. What am I?",
+      "a": "Snow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come in pairs and live on feet. You lace me up. What am I?",
+      "a": "A shoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold your tea and sit on a table. I have a handle and a lip. What am I?",
+      "a": "A cup",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I store all your clothes. I have drawers but no pens. What am I?",
+      "a": "A dresser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I ring, I buzz, or I sing. I wake you up in the morning. What am I?",
+      "a": "An alarm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I flutter in the breeze and tell the nation's story. What am I?",
+      "a": "A flag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have petals but no voice. I smell sweet to lovers. What am I?",
+      "a": "A rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hop in the grass and was once a tadpole. What am I?",
+      "a": "A frog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am round and citrus-colored, named after my own hue. You squeeze me for juice. What am I?",
+      "a": "An orange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am long and yellow and monkeys love me. What am I?",
+      "a": "A banana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold scissors, erasers, rulers and writing tools on a student's desk. What am I?",
+      "a": "A pencil case",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I shine at night but hide by day. I change shape every month. What am I?",
+      "a": "The moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am the brightest in the sky and warm your skin. What am I?",
+      "a": "The sun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I fall from the sky and water the garden. What am I?",
+      "a": "Rain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a plastic or metal vessel you refill at the fountain. Runners carry me with a strap. What am I?",
+      "a": "A water bottle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a point at one end and an eraser at the other. What am I?",
+      "a": "A pencil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I beep in the kitchen when food is ready. What am I?",
+      "a": "A microwave",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I connect two floors and I can be made of wood or stone. What am I?",
+      "a": "A staircase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I grow taller by the year but I do not breathe. I have bark but cannot bite. What am I?",
+      "a": "A tree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a lid but no mouth. I open to reveal a meal. What am I?",
+      "a": "A lunchbox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I spin and cool a room without giving a breeze from nature. What am I?",
+      "a": "A fan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I open when the sky closes in and fold away when it clears. When the wind flips me inside out, I've lost the fight. What am I?",
+      "a": "An umbrella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have two blades that are useless apart; I only cut when my legs cross. What am I?",
+      "a": "A pair of scissors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have bristles and visit your mouth twice a day, yet I never taste a thing. What am I?",
+      "a": "A toothbrush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have many rungs but no bell, and I take you higher while standing perfectly still. What am I?",
+      "a": "A ladder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Feed me air and I grow; poke me and I go out with a bang. What am I?",
+      "a": "A balloon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I fly only when I'm tied down, dancing with the wind on the end of a string. What am I?",
+      "a": "A kite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I bite paper and leave two tiny metal teeth behind to hold the pages together. What am I?",
+      "a": "A stapler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hum all day and keep a bulb that only shines when you open my door. What am I?",
+      "a": "A refrigerator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have four tines and a handle, and I spear your dinner on its way to your mouth. What am I?",
+      "a": "A fork",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hug your waist and have a row of holes so I can loosen as you grow. What am I?",
+      "a": "A belt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a tongue that swings but cannot taste, and I only speak when struck. What am I?",
+      "a": "A bell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have one round foot and two arms the gardener holds, and I haul dirt and stones. What am I?",
+      "a": "A wheelbarrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a head and a claw but no body, and I drive nails home. What am I?",
+      "a": "A hammer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a skin but no body, and I only sing when beaten. What am I?",
+      "a": "A drum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a long handle and stiff bristles, and I chase dust across the floor. What am I?",
+      "a": "A broom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a mouth that swallows letters and a little flag that goes up when I've been fed. What am I?",
+      "a": "A mailbox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a glass head and a glowing wire heart, and I wake at the flick of a switch. What am I?",
+      "a": "A light bulb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I stand all day in a field with my arms stretched wide, and the birds never trust me. What am I?",
+      "a": "A scarecrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "When one end of me goes up, the other must come down; two children ride me at the park. What am I?",
+      "a": "A seesaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I wear spines instead of leaves and can wait months between drinks. What am I?",
+      "a": "A cactus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a house you carry on your back and raise before dark. What am I?",
+      "a": "A tent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have twelve pages and hundreds of numbers, and you throw me away every January. What am I?",
+      "a": "A calendar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I rise when you have a fever and fall when it freezes, though I have no legs. What am I?",
+      "a": "A thermometer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a needle that never sews, and it always searches for the same direction. What am I?",
+      "a": "A compass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have two wheels and no engine, and I only stay upright while we're moving. What am I?",
+      "a": "A bicycle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have three eyes stacked one above another, and drivers obey whichever one is open. What am I?",
+      "a": "A traffic light",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I make the brightest day look dim and hide your eyes from the crowd. What am I?",
+      "a": "Sunglasses",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I fold in half, live in your pocket, and hold your cards and cash. What am I?",
+      "a": "A wallet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I start as a hard little kernel and burst into a fluffy white puff when heated. What am I?",
+      "a": "Popcorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Children build me with a bucket and a spade, and the tide takes me back every evening. What am I?",
+      "a": "A sandcastle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a head but no brain, and I get pounded into wood to do my job. What am I?",
+      "a": "A nail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have six strings and a hollow body, and I sing when strummed. What am I?",
+      "a": "A guitar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I sleep for centuries, then wake and spit fire from my top. What am I?",
+      "a": "A volcano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am born in winter with a carrot for a nose, and I disappear when spring comes. What am I?",
+      "a": "A snowman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I catch the wind so a boat can move, though I have no engine at all. What am I?",
+      "a": "A sail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold your place while you're away, tucked between the pages. What am I?",
+      "a": "A bookmark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I take away mistakes and grow smaller with every one I fix. What am I?",
+      "a": "An eraser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I stand over water with my feet on both banks, and cars drive across my back. What am I?",
+      "a": "A bridge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I stand alone on the rocks and blink all night so ships keep their distance. What am I?",
+      "a": "A lighthouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have teeth but never bite, and I get pulled up and down all day. What am I?",
+      "a": "A zipper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have four legs and a back, but I'm the one who gets sat on. What am I?",
+      "a": "A chair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have bark but never bite, and my rings give away how old I am. What am I?",
+      "a": "A tree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a stem and a bowl, but I'm not a flower and I hold no soup. What am I?",
+      "a": "A wine glass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bridge but no river, a neck but no head, and six strings. What am I?",
+      "a": "A guitar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have blades but I'm not a knife, and I spin above your head to keep you cool. What am I?",
+      "a": "A ceiling fan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a trunk and a hood but no face, and I spend the night in the driveway. What am I?",
+      "a": "A car",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have ribs but no heart, and I only open when the rain comes. What am I?",
+      "a": "An umbrella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a mouth and a neck but no head, and I hold flowers. What am I?",
+      "a": "A vase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a handle and a spout, and I whistle when I'm ready. What am I?",
+      "a": "A kettle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a tail and I fly, but only while you hold my string. What am I?",
+      "a": "A kite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have four strings, I'm played with a bow, and I'm tucked under your chin. What am I?",
+      "a": "A violin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have eyes but cannot see, and I'm dug up, mashed, and fried. What am I?",
+      "a": "A potato",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a head but never think, and my head is nothing but foam. What am I?",
+      "a": "A beer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have teeth along my edge, and I cut wood by going back and forth. What am I?",
+      "a": "A saw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a tongue but never taste, and my ringing calls people to church. What am I?",
+      "a": "A bell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have springs but no water, and I bounce you into the air. What am I?",
+      "a": "A trampoline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a deck but no cards, a bow but no arrow, and a stern that's never angry. What am I?",
+      "a": "A ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a brim but no cup, and I sit on top of your head. What am I?",
+      "a": "A hat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a collar but no neck, and sleeves but no arms. What am I?",
+      "a": "A shirt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a heel and a toe but no foot of my own, and I often lose my twin in the wash. What am I?",
+      "a": "A sock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have leaves but no branches, and I'm steeped in hot water. What am I?",
+      "a": "Tea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a thumb but no fingers, and I keep your hand warm. What am I?",
+      "a": "A mitten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a foot but no leg, and I keep your lines straight. What am I?",
+      "a": "A ruler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a seat but no legs, and I hang from a branch on two ropes. What am I?",
+      "a": "A swing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a spout, and I rain on the flowers whenever you tip me. What am I?",
+      "a": "A watering can",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a head, and I only light up when I'm struck. What am I?",
+      "a": "A match",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I always point north but never travel anywhere. What am I?",
+      "a": "A compass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm knocked on but never hurt, and answered though I never ask a question. What am I?",
+      "a": "A door",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bridge but no river, and two arms that hook behind your ears. What am I?",
+      "a": "Glasses",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a lip but never speak, a handle but never grab, and I hold your morning coffee. What am I?",
+      "a": "A mug",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a crust, a mantle, and a core, but I'm not a pie. What am I?",
+      "a": "The Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm built into a house; you climb me to go up and climb me to come down, but I never move an inch. What am I?",
+      "a": "A staircase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a cap but no head and gills but I'm no fish, and I pop up after rain. What am I?",
+      "a": "A mushroom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have wings but no feathers, and I carry hundreds of people without flapping once. What am I?",
+      "a": "An airplane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I fly by night but I'm no bird, and I also hit home runs. What am I?",
+      "a": "A bat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bridge but cross no water, and I can run without legs. What am I?",
+      "a": "A nose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a pupil but I'm no teacher, and lids but I'm no jar. What am I?",
+      "a": "An eye",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have two slots, I turn bread golden brown, and I pop when I'm done. What am I?",
+      "a": "A toaster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a slot for a mouth, I swallow letters, and I stand by the door or out by the road. What am I?",
+      "a": "A mailbox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have two blades that cross, and I only work when I'm opened and closed. What am I?",
+      "a": "Scissors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a roof on a stick, and you only remember me when it rains. What am I?",
+      "a": "An umbrella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a tail and I dance in the wind, but only when someone holds my line. What am I?",
+      "a": "A kite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm full of air, I'm tied to a string, and a pin is my worst enemy. What am I?",
+      "a": "A balloon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have rungs instead of stairs, and I lean on walls for a living. What am I?",
+      "a": "A ladder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bristly head and a long handle, and I sweep up what nobody else will. What am I?",
+      "a": "A broom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bowl at one end and a handle at the other, and soup is hopeless without me. What am I?",
+      "a": "A spoon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have prongs instead of fingers, and I stab your dinner for you. What am I?",
+      "a": "A fork",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm worn in pairs, I hide inside your shoes, and one of me always vanishes in the wash. What am I?",
+      "a": "A sock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold up your trousers with a buckle, and I have many holes but use only one at a time. What am I?",
+      "a": "A belt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm black, round and rubbery, and I go flat at the worst possible moment. What am I?",
+      "a": "A tire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a door and a light that comes on when you open me, and I hum all night. What am I?",
+      "a": "A refrigerator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a box that heats your food in seconds, and metal is not allowed inside me. What am I?",
+      "a": "A microwave",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a small flat disc with holes in the middle, and I keep your shirt from falling open. What am I?",
+      "a": "A button",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have shoulders but no arms, and I wear your clothes while you're not. What am I?",
+      "a": "A coat hanger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I lie by the front door, you wipe your feet on me, and I often say 'Welcome'. What am I?",
+      "a": "A doormat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a bent piece of wire that holds papers together without piercing them. What am I?",
+      "a": "A paperclip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bowl but hold no soup, a seat but I'm no chair, and I'm flushed every day. What am I?",
+      "a": "A toilet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a head but never think, and I rain on you indoors every morning. What am I?",
+      "a": "A shower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hang from the ceiling, I'm covered in tiny mirrors, and I spin while people dance. What am I?",
+      "a": "A disco ball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a bell and two wheels, and I go nowhere without your legs. What am I?",
+      "a": "A bicycle",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -303,8 +963,618 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "I grow when fed but die when watered. What am I?",
-      "a": "Fire",
+      "q": "I begin with the letter E and end with the letter E, yet I contain just one letter. What am I?",
+      "a": "An envelope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can run but have no legs. I sit between the eyes. What am I?",
+      "a": "Nose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a spine but no legs. I sit on shelves for years. What am I?",
+      "a": "A book",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a neck but no shoulders. I have a cap but no hair. What am I?",
+      "a": "A bottle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am kept for life but cannot be held. I fade as one ages. What am I?",
+      "a": "Memory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm black when you get me, red when you use me, and grey when you throw me away. What am I?",
+      "a": "Charcoal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can be quick or dead, yet never breathed. What am I?",
+      "a": "Silver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I circle a finger as a symbol of lifelong love. I am often made of gold. What am I?",
+      "a": "A wedding ring",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What comes down but never goes up?",
+      "a": "Rain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a thousand needles but cannot sew. I grow in the mountains. What am I?",
+      "a": "A pine tree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I travel from room to room without moving. I follow the pipes. What am I?",
+      "a": "Sound",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am the only word that ends in MT. What am I?",
+      "a": "Dreamt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a face with numbers, but no head with brains. I tick-tock. What am I?",
+      "a": "A clock (analog)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I cover the bed but am neither sheet nor blanket. I am decorative. What am I?",
+      "a": "A quilt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "You use me when you go from one floor to another, but I have no stairs. What am I?",
+      "a": "An elevator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I get wet while drying, and I hang in the bathroom. What am I?",
+      "a": "A towel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a ship that sails underwater without getting wet inside. What am I?",
+      "a": "A submarine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I flash and crack across the sky, louder than a drum. What am I?",
+      "a": "Thunder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I bend light across the sky after rain. I have seven colors. What am I?",
+      "a": "A rainbow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I live underground and rise only to bloom. I am wrapped in papery skin. What am I?",
+      "a": "An onion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have many rings but I am not for fingers. I float in soda. What am I?",
+      "a": "Bubbles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can be split or shared, yet never divided in half cleanly. I keep families bonded. What am I?",
+      "a": "Love",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I lie at your feet and greet every arrival. What am I?",
+      "a": "A doormat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have threads but no cloth, and a head that turns with a twist. What am I?",
+      "a": "A screw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I take a hot bath, bleed my color into the water, and then get thrown away. What am I?",
+      "a": "A tea bag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I lose my head the first time I'm used, and I'm useless after that. What am I?",
+      "a": "A match",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have six faces but wear no expression, and twenty-one dots but cannot see. What am I?",
+      "a": "Dice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a single bent wire that holds pages together without leaving a hole. What am I?",
+      "a": "A paper clip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I tell the truth every morning, and people step on me anyway. What am I?",
+      "a": "A bathroom scale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a row of black stripes hiding a number, and I beep at the checkout. What am I?",
+      "a": "A barcode",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I run through eyelets, get tied twice a day, and trip you when I'm loose. What am I?",
+      "a": "A shoelace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "No two of me are alike, and I'm left on everything you touch. What am I?",
+      "a": "A fingerprint",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I only tell time when the sky is clear, with one hand that never moves. What am I?",
+      "a": "A sundial",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a hole for a key but no key of my own, and I open for only one. What am I?",
+      "a": "A lock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a throat on the roof that swallows only smoke. What am I?",
+      "a": "A chimney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bury me and I rise; I am the smallest thing a forest needs. What am I?",
+      "a": "A seed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am beaten with a stick at parties, and everyone cheers when I burst. What am I?",
+      "a": "A piñata",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Tie me and I hold; pull me the wrong way and I only tighten. What am I?",
+      "a": "A knot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I carry your face across borders and collect stamps from strangers. What am I?",
+      "a": "A passport",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I show only a tenth of myself, and the rest of me sank a famous ship. What am I?",
+      "a": "An iceberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I take your money without a word and drop your snack from behind glass. What am I?",
+      "a": "A vending machine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a creature turned to stone, sleeping in rock for millions of years. What am I?",
+      "a": "A fossil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I grow inside a living shell, born from a grain of sand, and end up on a necklace. What am I?",
+      "a": "A pearl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I twist and pull, and without me the wine stays trapped. What am I?",
+      "a": "A corkscrew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Tip me over and all my brothers fall in a line; I wear spots on my face. What am I?",
+      "a": "A domino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "My arms turn all day without lifting a thing, and I grind grain when the breeze blows. What am I?",
+      "a": "A windmill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I open only when you're falling, and the air is what fills me. What am I?",
+      "a": "A parachute",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am art that bleeds while it's made, and I stay with you for life. What am I?",
+      "a": "A tattoo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I tick like a clock but tell no time, and I keep musicians in step. What am I?",
+      "a": "A metronome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I drop and climb back up a string, and I can sleep at the bottom of it. What am I?",
+      "a": "A yo-yo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come in twice a day and go out twice a day, pulled by something I never touch. What am I?",
+      "a": "The tide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a river of ice that moves too slowly to see. What am I?",
+      "a": "A glacier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I flash before my loud brother arrives, and I can split a tree in a blink. What am I?",
+      "a": "Lightning",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am the mark a blow leaves behind; I bloom purple, then fade to yellow. What am I?",
+      "a": "A bruise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am contagious but no disease; see me and you'll probably give me back. What am I?",
+      "a": "A yawn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I force your eyes shut for a split second, and strangers bless you for it. What am I?",
+      "a": "A sneeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I pull without hands and push my own kind away. What am I?",
+      "a": "A magnet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am the slow orange fire that eats iron without a flame. What am I?",
+      "a": "Rust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a yellow weed that turns into a white wish you blow away. What am I?",
+      "a": "A dandelion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a sliver of wood small enough to hide under skin and make a grown man wince. What am I?",
+      "a": "A splinter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hang around a doctor's neck and let a stranger hear your heart. What am I?",
+      "a": "A stethoscope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I show your bones without cutting you open. What am I?",
+      "a": "An X-ray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have pupils but I'm not an eye, and a bell tells me when to start. What am I?",
+      "a": "A school",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a crown but no throne, and a root but no leaves. What am I?",
+      "a": "A tooth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a shoulder but no arm, and I pass through towns without ever moving. What am I?",
+      "a": "A road",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I was never alive, yet I can die, and when I do, everything I power goes dark. What am I?",
+      "a": "A battery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I go in hard and come out soft, and you can blow me into a bubble. What am I?",
+      "a": "Chewing gum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have an eye but cannot see, and I'm calm at my center while everything around me is wild. What am I?",
+      "a": "A hurricane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a tail made of ice and dust, and I only grow it when I get close to the sun. What am I?",
+      "a": "A comet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm the only kind of coat you put on while it's wet. What am I?",
+      "a": "Paint",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm taken, shot, and framed, but I've never committed a crime. What am I?",
+      "a": "A photograph",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can be caught but never thrown, and I'm most common in winter. What am I?",
+      "a": "A cold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm drawn without a pencil, I run without legs, and I'm taken hot. What am I?",
+      "a": "A bath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I run without legs and drop without falling, and the saddest people make the most of me. What am I?",
+      "a": "A tear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can be kept, given, and broken, but never touched. What am I?",
+      "a": "A promise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I fly all day but never go anywhere. What am I?",
+      "a": "A flag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a heel but no foot, and a crust but no dirt. What am I?",
+      "a": "A loaf of bread",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm full of dates but never go on one, and I'm thrown away every twelve months. What am I?",
+      "a": "A calendar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a fly but never buzz, and two legs but never walk. What am I?",
+      "a": "A pair of pants",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come in a hand but never on an arm, and monkeys can't get enough of me. What am I?",
+      "a": "A banana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a drum and a canal, but no music and no boats. What am I?",
+      "a": "An ear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can be cast, broken, and lifted, and witches are famous for me. What am I?",
+      "a": "A spell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a train but no tracks, and I'm usually worn only once. What am I?",
+      "a": "A wedding dress",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have an ear but cannot hear, and I'm dressed in silk and husk. What am I?",
+      "a": "Corn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm drawn every evening, but never with a pencil, and I hide you from the street. What am I?",
+      "a": "Curtains",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm held to keep you quiet and bitten to stop a remark. What am I?",
+      "a": "Your tongue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm an insect, but I also crash your software. What am I?",
+      "a": "A bug",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a crown but I'm no king, and roots but I'm no tree. What am I?",
+      "a": "A tooth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm contagious but not a disease; just watching someone do me makes you do me too. What am I?",
+      "a": "A yawn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come uninvited in little bursts, and people try to frighten me away. What am I?",
+      "a": "Hiccups",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "People bless you the moment I arrive, and you can't keep your eyes open while I happen. What am I?",
+      "a": "A sneeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I've been with you since before you were born, and the day I stop is your last. What am I?",
+      "a": "A heartbeat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm the price of last night's fun, paid first thing the next morning. What am I?",
+      "a": "A hangover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scratching me feels wonderful, but I always come back for more. What am I?",
+      "a": "An itch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a mistake you only notice after you've pressed send. What am I?",
+      "a": "A typo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Read me forward or backward and I say exactly the same thing. What am I?",
+      "a": "A palindrome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a line you can always see but never reach, and I back away as fast as you approach. What am I?",
+      "a": "The horizon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a shimmering lake in the desert that disappears the moment you arrive. What am I?",
+      "a": "A mirage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm what iron slowly turns into when water and air get at it. What am I?",
+      "a": "Rust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm partly made of you, and I settle on everything you own the moment you stop cleaning. What am I?",
+      "a": "Dust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm tiny, I come from wood, and I get right under your skin. What am I?",
+      "a": "A splinter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a voice with the volume turned down, and secrets travel by me. What am I?",
+      "a": "A whisper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm made on birthday flames and falling stars, and telling me is said to spoil me. What am I?",
+      "a": "A wish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm found on an elephant, on a tree, and at the back of a car. What am I?",
+      "a": "A trunk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a bird with long legs, and I lift steel beams on building sites. What am I?",
+      "a": "A crane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I grow on a palm, I'm a number on a calendar, and I'm an evening out with someone you like. What am I?",
+      "a": "A date",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Two teams can finish in me, and you knot me around your neck. What am I?",
+      "a": "A tie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm strapped to a wrist, and I'm also what a guard does all night. What am I?",
+      "a": "A watch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a season, a coil of metal, and a place where water bubbles up from the ground. What am I?",
+      "a": "A spring",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm twenty-five cents, fifteen minutes, and a fourth of a football game. What am I?",
+      "a": "A quarter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold ink for writing, and I hold pigs on a farm. What am I?",
+      "a": "A pen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a suit in a deck of cards, a tool for golf, and a place to dance all night. What am I?",
+      "a": "A club",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm on a duck's face, in your wallet, and I arrive at the end of a meal. What am I?",
+      "a": "A bill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a fried potato, a sliver of silicon in your phone, and a token at a casino. What am I?",
+      "a": "A chip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm baked with chocolate, and websites keep asking you to accept me. What am I?",
+      "a": "A cookie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I live under bridges in fairy tales and in comment sections online. What am I?",
+      "a": "A troll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a key on a keyboard, a page in your browser, and what you run up at a bar. What am I?",
+      "a": "A tab",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm on your front door, and I'm also a curl of your hair. What am I?",
+      "a": "A lock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a vaccine in your arm, a small glass of whiskey, and a basketball attempt. What am I?",
+      "a": "A shot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Trains run on me, sprinters race around me, and I'm one song on an album. What am I?",
+      "a": "A track",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I spin to keep you cool, and I scream at concerts. What am I?",
+      "a": "A fan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm meat in a can, and I'm junk in your inbox. What am I?",
+      "a": "Spam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm the smallest unit of life, a prisoner's room, and what Americans call their mobile phone. What am I?",
+      "a": "A cell",
       "file": "qualityBackfill"
     }
   ],
@@ -460,13 +1730,538 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "What has many teeth, holds a grip, and lives in fabric and leather?",
-      "a": "A zipper",
+      "q": "A cloud is my mother, the wind my father. A rainbow is my bed, the earth my final resting place. What am I?",
+      "a": "Raindrop",
       "file": "qualityBackfill"
     },
     {
-      "q": "I am always hungry and must be fed. The finger I touch will soon turn red. What am I?",
-      "a": "Fire",
+      "q": "I have mountains, valleys, rivers and deserts but no soil, water or grass. What am I?",
+      "a": "A map",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have cities but no people. I have forests but no trees. I have rivers without water. What am I?",
+      "a": "A map (atlas)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "If you drop me I'm sure to crack, but give me a smile and I'll always smile back. What am I?",
+      "a": "A mirror",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a shining head and a matching tail but a hollow middle. I am minted by kings. What am I?",
+      "a": "A gold coin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What word looks the same upside down and backward?",
+      "a": "SWIMS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have no eyes, ears, or spine, but I tell a gripping story. I have many pages. What am I?",
+      "a": "A book",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I run over fields and woods all day. Under the bed at night I sit not alone. My tongue hangs out, up and to the rear, awaiting to be filled in the morning. What am I?",
+      "a": "A shoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am taken from a mine and shut up in a wooden case, from which I am never released. Yet I am used by almost every person. What am I?",
+      "a": "A pencil lead",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am everywhere, but you can't see me. I fill lungs and lift kites. What am I?",
+      "a": "Air",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come in many shapes and colors. Snap me in half and I might shatter your teeth. What am I?",
+      "a": "A candy cane (or hard candy)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Every dawn begins with me. At dusk I'll be the first you see. Without me, planets would collapse. What am I?",
+      "a": "The letter D",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a heart that never beats. I have a home but never sleep. I can take a man's house and build another's. And I love to play games with my many brothers. What am I?",
+      "a": "A chess king",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am an insect and half my name is another insect. I am similar to a creature which is called after a letter. What am I?",
+      "a": "A beetle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Forward I am heavy, backward I am not. What am I?",
+      "a": "Ton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",
+      "a": "A map",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can sizzle like bacon, I am made with an egg, I have plenty of backbone but lack a good leg. I peel layers like onions but still remain whole. I can be long like a flagpole, yet fit in a hole. What am I?",
+      "a": "A snake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I weaken all men for hours each day. I show you strange visions while you are away. I take you by night, by day take you back. None suffer to have me, but do from my lack. What am I?",
+      "a": "Sleep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am easily made and easily broken; keeping me is the only hard part. What am I?",
+      "a": "A promise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I travel fast, grow with every telling, and rarely arrive the way I left. What am I?",
+      "a": "A rumor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am hard to make and harder to break, and I act before you decide. What am I?",
+      "a": "A habit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The longer you keep me, the more of me there is, and I follow you until you pay. What am I?",
+      "a": "Debt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I grow when you give me nothing and vanish when you give me something. What am I?",
+      "a": "Hunger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm easy to tell and hard to keep track of, and I need more of my kind to survive. What am I?",
+      "a": "A lie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Alone I'm worth nothing, but stand me behind another number and I make it ten times bigger. What am I?",
+      "a": "Zero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am written by the winners and repeated by those who won't learn me. What am I?",
+      "a": "History",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm offered whenever I'm needed, and the more I'm used the less I'm believed. What am I?",
+      "a": "An excuse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am held but have no handle, and carrying me hurts only the one who carries. What am I?",
+      "a": "A grudge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a virtue everyone needs but nobody wants to wait for. What am I?",
+      "a": "Patience",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I take years to build, seconds to break, and forever to repair. What am I?",
+      "a": "Trust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The more attention you give me, the worse I get; ignore me and I fade. What am I?",
+      "a": "An itch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I rise, curl, and crash on the shore, but I never bring the water with me; I'm just energy passing through. What am I?",
+      "a": "A wave",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I make the past look better than it ever was, and I ache sweetly. What am I?",
+      "a": "Nostalgia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am the eerie feeling that you've lived this exact moment before, though you haven't. What am I?",
+      "a": "Déjà vu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I make your money worth less without taking a single note from your wallet. What am I?",
+      "a": "Inflation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am cast but never caught, and counted but never spent. What am I?",
+      "a": "A vote",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a joke that earns a groan instead of a laugh, playing on two meanings at once. What am I?",
+      "a": "A pun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I say the opposite of what I mean, and you know it only from my tone. What am I?",
+      "a": "Sarcasm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Shakespeare called me the green-eyed monster, and I grow when you compare yourself to others. What am I?",
+      "a": "Jealousy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I happen thousands of times a day without your noticing, and I keep your eyes from drying out. What am I?",
+      "a": "A blink",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I promise to save you time, and I often cost you the most. What am I?",
+      "a": "A shortcut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Everyone makes me, few admit me, and the wise learn from me. What am I?",
+      "a": "A mistake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm blamed when things go wrong and thanked when they go right, but I never planned any of it. What am I?",
+      "a": "Luck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "People work fastest just before I arrive, and I am often missed. What am I?",
+      "a": "A deadline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Read me backwards and I'm still the same; 'racecar' is one of me. What am I?",
+      "a": "A palindrome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am ruined the moment you hear about me. What am I?",
+      "a": "A surprise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come at the very end, and without me the whole setup was for nothing. What am I?",
+      "a": "A punchline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Everyone has one of me; the wise keep me to themselves, and the loud can't. What am I?",
+      "a": "An opinion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I arrive before you and stay after you leave, and one bad day can ruin me. What am I?",
+      "a": "A reputation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am made entirely of people trying to get somewhere, and I go nowhere. What am I?",
+      "a": "A traffic jam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I tell strangers where you're from before you say it, and you can't hear your own. What am I?",
+      "a": "An accent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hang from a cave's ceiling and grow one drip at a time. What am I?",
+      "a": "A stalactite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am water shimmering in the desert that was never really there. What am I?",
+      "a": "A mirage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I am a hot spring that loses its temper on schedule, throwing water at the sky. What am I?",
+      "a": "A geyser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I raise the hair on your arms when you're cold or scared, and I'm named after a plucked bird. What am I?",
+      "a": "Goosebumps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I stand on one leg with my heart in my head. What am I?",
+      "a": "A cabbage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a foot on each end and one in the middle. What am I?",
+      "a": "A yardstick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I wear a belt of three stars and hunt across the winter sky. What am I?",
+      "a": "Orion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I break at dawn, I'm called at dusk, and heroes are always saving me. What am I?",
+      "a": "The day",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm served in prison, and I end with a full stop. What am I?",
+      "a": "A sentence",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm found at the end of every rainbow, though no gold sits beside me. What am I?",
+      "a": "The letter W",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "There are two of me in a corner, one in a room, none in a house, but one in a shelter. What am I?",
+      "a": "The letter R",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm lost, kept, and held, and I go quickest in an argument. What am I?",
+      "a": "Your temper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm paid but never bought, caught but never thrown, and held but never touched. What am I?",
+      "a": "Attention",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm set, broken, and beaten, yet I never feel a thing. What am I?",
+      "a": "A record",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I have a heart but no other organs, and I'm eaten leaf by leaf. What am I?",
+      "a": "An artichoke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a seven-letter word, yet I hold thousands of letters. What am I?",
+      "a": "A mailbox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a word for shining your shoes, but give me a capital letter and I become a nationality. What am I?",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Most of me hides below the surface, I'm lighter than the water I came from, and ships fear me. What am I?",
+      "a": "An iceberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Flip me upside down and I'm worth half again as much. What am I?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I read the same forwards, backwards, and upside down, and I'm the middle of the day. What am I?",
+      "a": "Noon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a five-letter word you might skip across a pond; drop my first two letters and I become a number. What am I?",
+      "a": "Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I come to you every night, but I'm usually gone by breakfast. What am I?",
+      "a": "A dream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm the everyday English word with three sets of double letters in a row. What am I?",
+      "a": "Bookkeeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "No matter how many times you add me to myself, I never grow. What am I?",
+      "a": "Zero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Read me forward and I'm what everyone has done; read me backward and I'm someone you'd rather never meet. What am I?",
+      "a": "Lived",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Read me backward and I become the sweetest course of the meal. What am I?",
+      "a": "Stressed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The longer you hold me, the heavier I become, yet I weigh nothing at all. What am I?",
+      "a": "A grudge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a secret only you should know, made of letters and numbers, and you forget me right when you need me most. What am I?",
+      "a": "A password",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm yours alone, yet you give me away every time you agree to something in writing. What am I?",
+      "a": "A signature",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I rise to your cheeks when you'd rather hide, and no order can send me away. What am I?",
+      "a": "A blush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I die the moment someone explains me. What am I?",
+      "a": "A joke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm always on my way, I make you work harder the closer I get, and missing me costs you. What am I?",
+      "a": "A deadline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm the place you claim you were, and I'm only needed once you're suspected. What am I?",
+      "a": "An alibi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a gap in the rules that lets people through without breaking any of them. What am I?",
+      "a": "A loophole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I follow you across oceans and make noon feel like midnight. What am I?",
+      "a": "Jet lag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a song whose success is measured by how fast my audience stops listening. What am I?",
+      "a": "A lullaby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm what the crowd demands after the show has already ended. What am I?",
+      "a": "An encore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm an ending that refuses to end, and I'm the reason you press 'next episode'. What am I?",
+      "a": "A cliffhanger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm three little dots that say the most by saying nothing at all. What am I?",
+      "a": "An ellipsis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I cure nothing, yet I make people feel better simply because they believe I will. What am I?",
+      "a": "A placebo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm nothing at all, and nature is said to hate me. What am I?",
+      "a": "A vacuum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I can be a string of words, or a stretch of years behind bars. What am I?",
+      "a": "A sentence",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a field for football, a throw in baseball, and how high or low a note sounds. What am I?",
+      "a": "A pitch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a mark that means yes, a way to pay someone, and a threat to a king in chess. What am I?",
+      "a": "A check",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold your dishes in the kitchen, and I advise a president. What am I?",
+      "a": "A cabinet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a country's main city, an uppercase letter, and the money you need to start a business. What am I?",
+      "a": "Capital",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "A bull does me, a battery holds me, and the police press me. What am I?",
+      "a": "A charge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bowlers want me, batters fear me, and workers walk out on me. What am I?",
+      "a": "A strike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hold fish, I roll into battle, and I'm a shirt with no sleeves. What am I?",
+      "a": "A tank",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I lift your car, I'm in a deck of cards, and headphones plug into me. What am I?",
+      "a": "A jack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm the last words written about you, carved rather than spoken. What am I?",
+      "a": "An epitaph",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm a road that promises to take you somewhere, then gives up. What am I?",
+      "a": "A dead end",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm called the lowest form of humor, and I make people groan on purpose. What am I?",
+      "a": "A pun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I'm what you say when you're okay, and what you pay when you park where you shouldn't. What am I?",
+      "a": "A fine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I hit tennis balls, and I'm also a shady scheme for making money. What am I?",
+      "a": "A racket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "I sound exactly like another word but mean something completely different. What am I?",
+      "a": "A homophone",
       "file": "qualityBackfill"
     }
   ]

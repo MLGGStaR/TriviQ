@@ -151,18 +151,488 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "What is 9 times 7?",
-      "a": "63",
-      "file": "qualityBackfill"
-    },
-    {
-      "q": "How many degrees are in a straight line?",
-      "a": "180",
-      "file": "qualityBackfill"
-    },
-    {
       "q": "What is 15% of 200?",
       "a": "30",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 5 × 6?",
+      "a": "30",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 100 ÷ 4?",
+      "a": "25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a hexagon have?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 20% of 50?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 5 plus 7?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 9 times 8?",
+      "a": "72",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 100 divided by 4?",
+      "a": "25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number comes after 99?",
+      "a": "100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 6 squared?",
+      "a": "36",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a triangle have?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 15 minus 8?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 3 times 3?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 10?",
+      "a": "X",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many zeros are in one thousand?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 50 plus 50?",
+      "a": "100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is half of 20?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape has 4 equal sides?",
+      "a": "Square",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 12 divided by 3?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 plus 8?",
+      "a": "15",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is a dozen?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees are in a circle?",
+      "a": "360",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 11 times 11?",
+      "a": "121",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest single digit number?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 25 times 4?",
+      "a": "100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a pentagon have?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 to the power of 3?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 14 plus 16?",
+      "a": "30",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 5?",
+      "a": "V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many minutes in an hour?",
+      "a": "60",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 18 divided by 2?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape is a stop sign?",
+      "a": "Octagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is double 15?",
+      "a": "30",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a rectangle have?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 times 6?",
+      "a": "42",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 50?",
+      "a": "L",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 20 percent of 100?",
+      "a": "20",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 8 plus 9?",
+      "a": "17",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 30 divided by 6?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seconds in a minute?",
+      "a": "60",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is even: 7 or 8?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 5 times 5?",
+      "a": "25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest prime number?",
+      "a": "2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 100 minus 25?",
+      "a": "75",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 3 plus 2 plus 1?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a circle have?",
+      "a": "0",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 9 minus 4?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a quarter of 100?",
+      "a": "25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many faces does a cube have?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only even prime?",
+      "a": "2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What branch of math studies change?",
+      "a": "Calculus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What branch of math deals with shapes and space?",
+      "a": "Geometry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is represented by M in Roman numerals?",
+      "a": "1000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a triangle whose three sides are all different lengths?",
+      "a": "Scalene",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of a triangle with exactly two equal sides?",
+      "a": "Isosceles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest side of a right-angled triangle called?",
+      "a": "Hypotenuse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a whole number that has exactly two factors, 1 and itself?",
+      "a": "Prime number",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees is each angle in an equilateral triangle?",
+      "a": "60",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which letter is the Roman numeral for 500?",
+      "a": "D",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the result of a multiplication called?",
+      "a": "Product",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the top number of a fraction called?",
+      "a": "Numerator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call an angle that is bigger than 90 degrees but smaller than 180?",
+      "a": "Obtuse angle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the perimeter of a square whose sides are each 7 cm?",
+      "a": "28 cm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sequence that starts 1, 1, 2, 3, 5, 8, 13?",
+      "a": "Fibonacci sequence",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the median of the numbers 3, 7 and 12?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 3D shape has a circular base and comes to a single point at the top?",
+      "a": "Cone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the mathematical term for the average of a set of numbers?",
+      "a": "Mean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 25 percent written as a fraction?",
+      "a": "1/4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for a polygon with twelve sides?",
+      "a": "Dodecagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 14 × 6?",
+      "a": "84",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 225 ÷ 15?",
+      "a": "15",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 12 squared?",
+      "a": "144",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the square root of 196?",
+      "a": "14",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 35% of 200?",
+      "a": "70",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 1000 ÷ 8?",
+      "a": "125",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 17 × 4?",
+      "a": "68",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 to the power of 8?",
+      "a": "256",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the next prime number after 13?",
+      "a": "17",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 5 factorial?",
+      "a": "120",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 3/4 as a decimal?",
+      "a": "0.75",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 45 + 78?",
+      "a": "123",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the area of a square with side 9?",
+      "a": "81",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many minutes are in 3.5 hours?",
+      "a": "210",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 1/3 + 1/6?",
+      "a": "1/2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 19 × 5?",
+      "a": "95",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 20% of 45?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the perimeter of a rectangle with sides 6 and 4?",
+      "a": "20",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number comes next: 3, 6, 12, 24?",
+      "a": "48",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 × 8 + 4?",
+      "a": "60",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many hours are in a week?",
+      "a": "168",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the interior angles of a quadrilateral?",
+      "a": "360 degrees",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 0.5 × 0.5?",
+      "a": "0.25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 999 + 999?",
+      "a": "1998",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 6 × 7 × 1?",
+      "a": "42",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the average of 7, 9 and 14?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 64 ÷ 4?",
+      "a": "16",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 11 squared?",
+      "a": "121",
       "file": "qualityBackfill"
     }
   ],
@@ -316,6 +786,401 @@
       "q": "If a triangle has angles 60 and 70, what is the third?",
       "a": "50 degrees",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the Pythagorean theorem formula?",
+      "a": "a² + b² = c²",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of cos(60 degrees)?",
+      "a": "1/2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the area of a circle with radius 3?",
+      "a": "9π",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the mode of the set {2, 4, 4, 5, 7}?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 13 times 12?",
+      "a": "156",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who proved the Pythagorean theorem?",
+      "a": "Pythagoras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 15 percent of 200?",
+      "a": "30",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 100?",
+      "a": "C",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many degrees in the angles of a triangle?",
+      "a": "180",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 to the power of 10?",
+      "a": "1024",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of pi to 2 decimals?",
+      "a": "3.14",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 17 times 3?",
+      "a": "51",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the cube root of 27?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Greek letter represents pi?",
+      "a": "Pi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many sides does a dodecagon have?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 144 divided by 12?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 factorial?",
+      "a": "5040",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented calculus alongside Newton?",
+      "a": "Leibniz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 1000?",
+      "a": "M",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 25 squared?",
+      "a": "625",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many prime numbers are less than 20?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the perimeter of a square with side 9?",
+      "a": "36",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 1 kilometer in meters?",
+      "a": "1000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the father of geometry?",
+      "a": "Euclid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 99 times 2?",
+      "a": "198",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Fibonacci number after 8?",
+      "a": "13",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does LCM stand for?",
+      "a": "Least Common Multiple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 3 cubed?",
+      "a": "27",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many edges does a cube have?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 200 minus 47?",
+      "a": "153",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape has no corners?",
+      "a": "Circle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 13 squared?",
+      "a": "169",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many zeros in one million?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the ancient Greek mathematician known for Elements?",
+      "a": "Euclid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the next prime after 7?",
+      "a": "11",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 5 to the power of 4?",
+      "a": "625",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the opposite of addition?",
+      "a": "Subtraction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 15 times 15?",
+      "a": "225",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many vertices does a tetrahedron have?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of angles in a quadrilateral?",
+      "a": "360",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 16 squared?",
+      "a": "256",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a polygon with 10 sides called?",
+      "a": "Decagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 11 cubed?",
+      "a": "1331",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 times 11 times 13?",
+      "a": "1001",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 250 divided by 5?",
+      "a": "50",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for a 3D square?",
+      "a": "Cube",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fraction equals 0.5?",
+      "a": "One half",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 256 divided by 16?",
+      "a": "16",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the cube root of 512?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the first five prime numbers?",
+      "a": "28",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 to the power of 12?",
+      "a": "4096",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the greatest common divisor of 48 and 36?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the least common multiple of 6 and 9?",
+      "a": "18",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many diagonals does a heptagon have?",
+      "a": "14",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 15 squared?",
+      "a": "225",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the derivative of 3x²?",
+      "a": "6x",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is tan(60 degrees) in simplest radical form?",
+      "a": "√3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the square root of 2 to two decimal places?",
+      "a": "1.41",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 cubed?",
+      "a": "343",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 3 factorial times 4 factorial?",
+      "a": "144",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many ways can 4 people be arranged in a line?",
+      "a": "24",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the mode of the numbers 2, 3, 3, 5, 7, 3, 9?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 8 choose 3?",
+      "a": "56",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the slope of the line y = −4x + 9?",
+      "a": "−4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the probability of flipping three heads in a row with a fair coin?",
+      "a": "1/8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the volume of a cylinder with radius 2 and height 5, in terms of pi?",
+      "a": "20π",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 25 × 24?",
+      "a": "600",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is log base 3 of 81?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the 8th Fibonacci number, starting 1, 1, 2, 3?",
+      "a": "21",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the hypotenuse of a right triangle with legs 6 and 8?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 1.5 as a fraction in lowest terms?",
+      "a": "3/2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of all integers from 1 to 100?",
+      "a": "5050",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest two-digit prime number?",
+      "a": "97",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of x if x² = 169 and x is positive?",
+      "a": "13",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 13 × 14?",
+      "a": "182",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the reciprocal of 0.04?",
+      "a": "25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the surface area of a cube with side 3?",
+      "a": "54",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Simplify: 45/60.",
+      "a": "3/4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 12% of 350?",
+      "a": "42",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -470,8 +1335,378 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "What is the value of the golden ratio to two decimal places?",
-      "a": "1.62",
+      "q": "What is the value of the integral from 0 to 1 of x squared dx?",
+      "a": "1/3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbol is used for the set of complex numbers?",
+      "a": "C",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the theorem stating every polynomial of degree n has n complex roots?",
+      "a": "The Fundamental Theorem of Algebra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the derivative of tan(x)?",
+      "a": "sec²(x)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 17 times 23?",
+      "a": "391",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who proved Fermat's Last Theorem?",
+      "a": "Andrew Wiles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of e to 2 decimals?",
+      "a": "2.72",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 to the power of 16?",
+      "a": "65536",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mathematician is the Fibonacci sequence named after?",
+      "a": "Leonardo of Pisa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the square root of 625?",
+      "a": "25",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 19 times 21?",
+      "a": "399",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who developed non-Euclidean geometry?",
+      "a": "Lobachevsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest known perfect number under 30?",
+      "a": "28",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is known as the Prince of Mathematicians?",
+      "a": "Gauss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 13 cubed?",
+      "a": "2197",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roman numeral for 400?",
+      "a": "CD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the Cartesian coordinate system?",
+      "a": "Descartes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 999 times 999?",
+      "a": "998001",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the first 10 positive integers?",
+      "a": "55",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What constant is approximately 1.414?",
+      "a": "Square root of 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the theorem about prime numbers named infinitude?",
+      "a": "Euclid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the area of a circle with radius 10 using pi as 3.14?",
+      "a": "314",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 7 to the power of 3?",
+      "a": "343",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of a 20-sided polygon?",
+      "a": "Icosagon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote Principia Mathematica in 1687?",
+      "a": "Newton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest 3-digit prime number?",
+      "a": "101",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 47 times 53?",
+      "a": "2491",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What theorem relates a² + b² to c²?",
+      "a": "Pythagorean theorem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Indian mathematician introduced zero?",
+      "a": "Brahmagupta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 to the power of 20?",
+      "a": "1048576",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who developed the theory of chaos mathematics?",
+      "a": "Lorenz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of interior angles of a hexagon?",
+      "a": "720",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 10 factorial?",
+      "a": "3628800",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which mathematician has Euler's identity named after him?",
+      "a": "Leonhard Euler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 121 times 11?",
+      "a": "1331",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who proved Poincaré conjecture?",
+      "a": "Perelman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the integral symbol a stretched form of?",
+      "a": "Letter S",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 3 to the power of 5?",
+      "a": "243",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 15 to the power of 3?",
+      "a": "3375",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented logarithms?",
+      "a": "John Napier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of the Avogadro constant order of magnitude?",
+      "a": "10 to the 23",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who proved the Law of Large Numbers?",
+      "a": "Jacob Bernoulli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 2 raised to 32?",
+      "a": "4294967296",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What female mathematician worked with Ada Lovelace on computing?",
+      "a": "Mary Somerville",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest perfect number?",
+      "a": "6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is 24 factorial roughly as magnitude?",
+      "a": "Septillion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mathematician has a constant named g?",
+      "a": "Gauss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered the law of averages?",
+      "a": "Jacob Bernoulli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the derivative of e^(2x)?",
+      "a": "2e^(2x)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the integral of 2x dx?",
+      "a": "x² + C",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the infinite series 1 + 1/3 + 1/9 + 1/27 + ...?",
+      "a": "3/2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the 20th Fibonacci number, starting 1, 1, 2, 3?",
+      "a": "6765",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the determinant of the matrix [[2,3],[1,4]]?",
+      "a": "5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of 10 choose 5?",
+      "a": "252",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the limit of (1 − cos x)/x as x approaches 0?",
+      "a": "0",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the interior angles of a decagon?",
+      "a": "1440 degrees",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the derivative of arctan(x)?",
+      "a": "1/(1 + x²)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many primes are there below 30?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the integral of sec²(x) dx?",
+      "a": "tan(x) + C",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the modulus of the complex number 5 + 12i?",
+      "a": "13",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of cos(π)?",
+      "a": "−1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sequence 1, 3, 6, 10, 15, 21?",
+      "a": "Triangular numbers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the value of the sum 1 + 2 + 4 + ... + 2^10?",
+      "a": "2047",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is e raised to the power ln(7)?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which famous unproven statement says every even integer greater than 2 is the sum of two primes?",
+      "a": "Goldbach's conjecture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the number of degrees in one radian, rounded to the nearest whole number?",
+      "a": "57",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many edges does a dodecahedron have?",
+      "a": "30",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second derivative of x⁴?",
+      "a": "12x²",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the curve traced by a point on a rolling circle?",
+      "a": "Cycloid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is i to the fourth power?",
+      "a": "1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the digits of 2 to the power of 12?",
+      "a": "19",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many faces does an icosahedron have?",
+      "a": "20",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the remainder when 2 to the power of 10 is divided by 7?",
+      "a": "2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sum of the infinite series 1 + 1/4 + 1/9 + 1/16 + ..., known as the Basel problem?",
+      "a": "π²/6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest number expressible as the sum of two cubes in two different ways?",
+      "a": "1729",
       "file": "qualityBackfill"
     }
   ]

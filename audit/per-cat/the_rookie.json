@@ -1,0 +1,1333 @@
+{
+  "200": [
+    {
+      "q": "Who plays the main character John Nolan?",
+      "a": "Nathan Fillion",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What network airs The Rookie in the US?",
+      "a": "ABC",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "In what city is The Rookie set?",
+      "a": "Los Angeles",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What year did The Rookie first air?",
+      "a": "2018",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What police department does John Nolan join?",
+      "a": "LAPD",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Officer Lucy Chen?",
+      "a": "Melissa O'Neil",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Officer Tim Bradford?",
+      "a": "Eric Winter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Officer Angela Lopez?",
+      "a": "Alyssa Diaz",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was John Nolan's career before becoming a cop?",
+      "a": "Construction",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What state did Nolan move away from to start his police career?",
+      "a": "Pennsylvania",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Sergeant Wade Grey?",
+      "a": "Richard T. Jones",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays lawyer Wesley Evers?",
+      "a": "Shawn Ashmore",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What show did Nathan Fillion famously lead before The Rookie?",
+      "a": "Castle",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Detective Nyla Harper?",
+      "a": "Mekia Cox",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays firefighter Bailey Nune?",
+      "a": "Jenna Dewan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What emergency profession is Bailey Nune?",
+      "a": "Firefighter",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "How old is John Nolan when he joins the police academy in the pilot?",
+      "a": "45",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the title of The Rookie's spinoff series?",
+      "a": "The Rookie: Feds",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who stars as the lead in The Rookie: Feds?",
+      "a": "Niecy Nash-Betts",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays rookie Jackson West?",
+      "a": "Titus Makin Jr.",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Nolan's first training officer Talia Bishop?",
+      "a": "Afton Williamson",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What branch of the US military did Tim Bradford serve in?",
+      "a": "Army",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What agency does the show revolve around?",
+      "a": "LAPD",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Angela Lopez eventually marries which main character?",
+      "a": "Wesley Evers",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of Nolan's adult son?",
+      "a": "Henry",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who is the creator of The Rookie?",
+      "a": "Alexi Hawley",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What type of TV show is The Rookie?",
+      "a": "Police drama",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Tim Bradford's rank at the start of the series?",
+      "a": "Officer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "John Nolan's patrol partner during his first shift is known as his what?",
+      "a": "Training officer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What color is the standard LAPD patrol uniform?",
+      "a": "Navy blue",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who stars as John Nolan?",
+      "a": "Nathan Fillion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What police department is featured in the show?",
+      "a": "LAPD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network airs the show?",
+      "a": "ABC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the show premiere?",
+      "a": "2018",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is the show set in?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is John Nolan's age when he joins the force?",
+      "a": "Forty-five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state is John Nolan originally from?",
+      "a": "Pennsylvania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tim Bradford?",
+      "a": "Eric Winter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lucy Chen?",
+      "a": "Melissa O'Neil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Angela Lopez?",
+      "a": "Alyssa Diaz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Wade Grey?",
+      "a": "Richard T. Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Nyla Harper?",
+      "a": "Mekia Cox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jackson West?",
+      "a": "Titus Makin Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank does Tim Bradford start the series at?",
+      "a": "Training officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What role does Wade Grey hold?",
+      "a": "Sergeant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "John Nolan's training officer in season one is who?",
+      "a": "Talia Bishop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Talia Bishop?",
+      "a": "Afton Williamson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the show created by?",
+      "a": "Alexi Hawley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job did John Nolan have before joining the police?",
+      "a": "Construction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tim Bradford's ex-wife?",
+      "a": "Isabel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What addiction does Isabel struggle with?",
+      "a": "Drugs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What's the ship name for Tim and Lucy fans?",
+      "a": "Chenford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nolan's ex-wife?",
+      "a": "Sarah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nolan's son's name?",
+      "a": "Henry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Henry Nolan?",
+      "a": "Tru Valentino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle does Tim name in the series?",
+      "a": "Shop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank is John Nolan in season 1?",
+      "a": "Rookie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bailey Nune?",
+      "a": "Jenna Dewan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bailey's profession?",
+      "a": "Firefighter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tim Bradford's dog named?",
+      "a": "Kojo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aaron Thorsen?",
+      "a": "Tru Valentino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What undercover operation does Lucy do in season 3?",
+      "a": "Detective",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hospital is featured as a frequent setting?",
+      "a": "Shaw Memorial",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year is the show still airing?",
+      "a": "2026",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main spin-off of the show?",
+      "a": "Feds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who stars in the spin-off The Rookie: Feds?",
+      "a": "Niecy Nash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the series originally pitched as?",
+      "a": "Oldest rookie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What genre is the show?",
+      "a": "Police procedural",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Doug Stanton briefly?",
+      "a": "Currie Graham",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number does John Nolan wear on his uniform?",
+      "a": "Seven-Adam-Fifteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does LAPD stand for?",
+      "a": "Los Angeles Police",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Shawn Ashmore play?",
+      "a": "Wesley Evers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Wesley Evers's profession is what?",
+      "a": "Defense attorney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Wesley end up with?",
+      "a": "Angela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Nathan Fillion in Firefly?",
+      "a": "2002",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What other Nathan Fillion show is a cop comedy?",
+      "a": "Castle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Smitty?",
+      "a": "Patrick Keleher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tim's father's occupation?",
+      "a": "Cop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lucy's parents' profession?",
+      "a": "Psychologists",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What holiday episode is a common trope?",
+      "a": "Halloween",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What LAPD division do the main characters work at?",
+      "a": "Mid-Wilshire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What role does Nolan take on in season 5 once he is eligible?",
+      "a": "Training officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank is Tim Bradford promoted to in season 4?",
+      "a": "Sergeant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which fellow rookie does Nolan secretly date in season 1?",
+      "a": "Lucy Chen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jackson West's training officer in season 1?",
+      "a": "Angela Lopez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which season do Nolan and Bailey get married?",
+      "a": "Season 5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did The Rookie: Feds run?",
+      "a": "1",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "What is the fan-given ship name for Lucy Chen and Tim Bradford?",
+      "a": "Chenford",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of Tim Bradford's dog?",
+      "a": "Kojo",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays the recurring serial killer Rosalind Dyer?",
+      "a": "Annie Wersching",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Wesley Evers's profession?",
+      "a": "Lawyer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What rank is Angela Lopez promoted to?",
+      "a": "Detective",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which main rookie officer is killed off in season 3?",
+      "a": "Jackson West",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Tim Bradford's ex-wife's first name?",
+      "a": "Isabel",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Aaron Thorsen?",
+      "a": "Tru Valentino",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Tim Bradford's full first name?",
+      "a": "Timothy",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the name of Angela and Wesley's son?",
+      "a": "Jack",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What branch of the Army did Tim Bradford serve in?",
+      "a": "Army Rangers",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays villain Elijah Stone?",
+      "a": "Brandon Jay McLaren",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays La Fiera, the cartel boss who kidnaps Angela at her wedding?",
+      "a": "Camille Guaty",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays rookie Celina Juarez in later seasons?",
+      "a": "Lisseth Chavez",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Nolan's profiler love interest Jessica Russo?",
+      "a": "Sarah Shahi",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Lucy Chen's first boyfriend in the series is named what?",
+      "a": "Chris Sanford",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What Canadian city is Melissa O'Neil originally from?",
+      "a": "Calgary",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which real-life TV personality is Eric Winter married to?",
+      "a": "Roselyn Sánchez",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What sci-fi series launched Nathan Fillion's career as Captain Mal Reynolds?",
+      "a": "Firefly",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Alexi Hawley previously ran which other Nathan Fillion series?",
+      "a": "Castle",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What dog breed is Tim Bradford's Kojo?",
+      "a": "Rottweiler",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What real-life profession inspired the premise of The Rookie?",
+      "a": "Oldest rookie in LAPD history",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Angela Lopez is known for speaking what second language fluently?",
+      "a": "Spanish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Nolan's rookie classmate who is the son of a police commander is named?",
+      "a": "Jackson West",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which rookie's father is a high-ranking LAPD commander?",
+      "a": "Jackson West",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Lucy Chen's major in college was what subject?",
+      "a": "Psychology",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What cop-slang nickname does Tim Bradford use for rookie Lucy Chen?",
+      "a": "Boot",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Shawn Ashmore (Wesley Evers) is best known for playing which X-Men character?",
+      "a": "Iceman",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is Wesley Evers's career shift mid-series to prosecute criminals?",
+      "a": "District Attorney's office",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Aaron Thorsen's backstory includes being famous for what reason?",
+      "a": "Reality TV star",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What military branch did Tim Bradford serve in?",
+      "a": "Army",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country did Tim deploy to?",
+      "a": "Iraq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the serial killer named Rosalind?",
+      "a": "Rosalind Dyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rosalind Dyer?",
+      "a": "Annie Wersching",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rosalind's nickname?",
+      "a": "Black Widow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many victims did Rosalind have?",
+      "a": "Twenty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What FBI agent recruits Lucy for undercover work?",
+      "a": "Armstrong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Officer Nick Armstrong?",
+      "a": "Harold Perrineau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What partner of Nolan is killed by Armstrong?",
+      "a": "Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease did Nolan's friend battle in the series?",
+      "a": "Cancer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jessica Russo, Nolan's girlfriend?",
+      "a": "Sarah Shahi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jessica's profession?",
+      "a": "Security",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode introduced Chenford as a couple?",
+      "a": "Death Notice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season did Chenford finally kiss?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the La Fiera cartel leader's first name?",
+      "a": "Elijah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Elijah Stone?",
+      "a": "Brandon Jay McLaren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Angela's son's name?",
+      "a": "Jack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which partner was Angela promoted to work with as a detective?",
+      "a": "Nyla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What's the name of Wesley's boss in the DA's office?",
+      "a": "Andersen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Harper's daughter?",
+      "a": "Lila",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Lila's father?",
+      "a": "Donovan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country does Nolan's criminal acquaintance hide in?",
+      "a": "Ecuador",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nolan's neighbor landlord?",
+      "a": "Bailey Nune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bailey's ex-husband's job?",
+      "a": "Criminal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bailey's ex Jason?",
+      "a": "Steve Kazee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode features a bomb on Bailey?",
+      "a": "Day in the Hole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the call sign of Harper and Nolan's shop?",
+      "a": "Seven-Adam-Fifteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Nolan love interest is played by Mircea Monroe?",
+      "a": "Grace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Grace Sawyer?",
+      "a": "Mircea Monroe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Grace's medical specialty?",
+      "a": "Surgeon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What actor plays Chris Rios briefly?",
+      "a": "Nick Wechsler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname fans gave to Tim?",
+      "a": "TO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Talia Bishop's actress in real life?",
+      "a": "Fired",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cop is killed in the season 3 finale?",
+      "a": "Armstrong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Tim is briefly engaged to which character?",
+      "a": "Ashley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ashley McGrady?",
+      "a": "Abigail Spencer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ashley do for work?",
+      "a": "Public relations",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the SWAT officer Nolan trains with?",
+      "a": "Metro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What unit does Harper join in later seasons?",
+      "a": "Detective",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode features the 100th anniversary?",
+      "a": "Crossfire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city does the crossover Feds take place?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nolan's best friend Henry majoring in?",
+      "a": "Business",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school does Henry attend?",
+      "a": "University",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Russian mob plot in season 6?",
+      "a": "Bratva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What serial criminal recurs named Abril?",
+      "a": "La Fiera",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays La Fiera?",
+      "a": "Camille Guaty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season does Nolan propose to Bailey?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character is played by Lisseth Chavez?",
+      "a": "Celina Juarez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which season do Tim and Lucy break up?",
+      "a": "Season 6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which racist training officer does Jackson West stand up to in season 3?",
+      "a": "Doug Stanton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which serial killer buries Lucy alive in a barrel?",
+      "a": "Caleb Wright",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "To which country does La Fiera take a kidnapped Angela?",
+      "a": "Guatemala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city was Aaron Thorsen accused of murdering his roommate?",
+      "a": "Paris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job did Tim's ex-wife Isabel have before her addiction?",
+      "a": "Undercover cop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the teenager Lucy takes under her wing?",
+      "a": "Tamara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Simone Clark's job before joining the FBI in The Rookie: Feds?",
+      "a": "Guidance counselor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which gangster blackmails Wesley into working for him?",
+      "a": "Elijah Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which elite unit does Tim briefly join in season 6?",
+      "a": "Metro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which corrupt detective frames Nolan by planting evidence in his house?",
+      "a": "Nick Armstrong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do Bradford's rookies call the surprise quizzes he springs on them?",
+      "a": "Tim Tests",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Nyla Harper marry?",
+      "a": "James Murray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nolan's con-artist brother?",
+      "a": "Pete",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which firefighter does Lucy date in season 2?",
+      "a": "Emmett",
+      "file": "qualityBackfill"
+    }
+  ],
+  "600": [
+    {
+      "q": "The Rookie is loosely based on real-life LAPD officer William who?",
+      "a": "Norcross",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Alexi Hawley co-wrote which Marvel animated series before The Rookie?",
+      "a": "State of Affairs",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Nathan Fillion voiced which Monster cameo in Guardians of the Galaxy?",
+      "a": "Monstrous Inmate",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Nathan Fillion's first major TV role was in which long-running soap?",
+      "a": "One Life to Live",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Melissa O'Neil won which Canadian talent competition in 2005?",
+      "a": "Canadian Idol",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Tim Bradford's ex-wife Isabel?",
+      "a": "Mircea Monroe",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What season does Angela Lopez's kidnapping at her wedding happen?",
+      "a": "Season 4",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Angela's baby is born during which emergency situation?",
+      "a": "La Fiera kidnapping",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What season marks Lucy Chen's graduation to P2 officer?",
+      "a": "Season 3",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Chris Sanford, Lucy Chen's season 1 boyfriend?",
+      "a": "Demetrius Grosse",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What police rank is Grey promoted to late in the series?",
+      "a": "Commander",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Percy West, Jackson's father?",
+      "a": "Harold Perrineau",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "In what season finale does Rosalind Dyer escape prison?",
+      "a": "Season 3",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What was Nathan Fillion's first regular TV role?",
+      "a": "Joey Buchanan on One Life to Live",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Lucy Chen's first major undercover operation targets what crime?",
+      "a": "Drug trafficking",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Monica Stevens, the corrupt defense attorney?",
+      "a": "Bridget Regan",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What city-based TV show did Eric Winter star in before The Rookie?",
+      "a": "Days of Our Lives",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Nolan's mother when she appears in later seasons?",
+      "a": "Frances Fisher",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Jenna Dewan was previously known for starring in which 2006 dance film?",
+      "a": "Step Up",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Armond Nnamdi, a season 2 big-bad?",
+      "a": "Steve Kazee",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What show did Mekia Cox previously play a princess on?",
+      "a": "Once Upon a Time",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Shawn Ashmore played Bobby Drake / Iceman in which film franchise?",
+      "a": "X-Men",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Alyssa Diaz previously starred as Paloma on which ABC Family series?",
+      "a": "Army Wives",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Nathan Fillion's Firefly captain's first name is?",
+      "a": "Malcolm",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What season introduces Celina Juarez as a new rookie?",
+      "a": "Season 5",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Jenna Dewan was previously known as a contestant on which reality show?",
+      "a": "World of Dance",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What is the real first name of Annie Wersching, who plays Rosalind Dyer?",
+      "a": "Annie",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Grace Sawyer, Nolan's ER doctor girlfriend in season 2?",
+      "a": "Nicole Ari Parker",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Who plays Ben McRee, Nolan's best friend in season 1?",
+      "a": "Currie Graham",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What original Nolan love interest is an ER doctor at St. Stephen's?",
+      "a": "Grace Sawyer",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "What episode did Rosalind first appear in?",
+      "a": "Safety",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Rosalind's killings begin in canon?",
+      "a": "1994",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season is Isabel Bradford introduced?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Isabel's maiden name?",
+      "a": "Martinez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Isabel Bradford?",
+      "a": "Mircea Monroe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season does Talia Bishop leave the show?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What reason did Afton Williamson leave the show?",
+      "a": "Harassment claims",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Celina's sister who is missing?",
+      "a": "Blanca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What psychic gift does Celina claim?",
+      "a": "Visions",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode marks Jackson West's final appearance?",
+      "a": "Breakdown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what city was Jackson's father a lieutenant?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Percy's role briefly introduced?",
+      "a": "FBI agent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the show's production company?",
+      "a": "ABC Signature",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the theme music of the show?",
+      "a": "Tim Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode featured the first Chenford kiss undercover?",
+      "a": "Double Trouble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tim Bradford's middle name?",
+      "a": "Anthony",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What's the name of Harper's ex-husband?",
+      "a": "Donovan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Donovan, Harper's ex?",
+      "a": "Jonathan Chase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Wesley Evers's father's job?",
+      "a": "Judge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season does Wesley almost die from an attack?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kidnaps Wesley in season 4?",
+      "a": "La Fiera",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legal move does Wesley pull regarding Rosalind?",
+      "a": "Pro bono",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What training program does Lucy enter in season 5?",
+      "a": "UC school",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Lucy's undercover trainer?",
+      "a": "Chris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Chris's last name?",
+      "a": "Sanford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Chris Sanford?",
+      "a": "Brett Cullen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nolan's middle name?",
+      "a": "Baxter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What author wrote the in-universe book about Rosalind?",
+      "a": "Unknown author",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What prison does Rosalind escape from?",
+      "a": "Chino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What's the name of the federal prosecutor Wesley rivals?",
+      "a": "Monica Stevens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Monica Stevens?",
+      "a": "Bridget Regan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the mob attorney recurring villain?",
+      "a": "Monica Stevens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What backup officer is Nolan's shop-mate in late seasons?",
+      "a": "Celina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How did Talia's departure get addressed in the show?",
+      "a": "Transfer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Pete Ploszek play?",
+      "a": "Will Harney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nolan's academy class number?",
+      "a": "Class 1309",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode number is the series pilot?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the total episode count through season 6?",
+      "a": "Over 100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What day of the week does the show air new episodes?",
+      "a": "Tuesday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What streaming service has the show's reruns?",
+      "a": "Hulu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What studio produces the show?",
+      "a": "Entertainment One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the coffee shop the rookies frequent?",
+      "a": "Coffee Bean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bar cops hang out at?",
+      "a": "The Alibi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bradford's nickname for Lucy?",
+      "a": "Boot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Bradford call all his rookies?",
+      "a": "Boot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lucy's undercover alias when she and Tim pose as a couple?",
+      "a": "Juicy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Nolan's mother?",
+      "a": "Evelyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sergeant Grey's daughter?",
+      "a": "Dominique",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sergeant Grey's wife?",
+      "a": "Luna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nyla Harper's baby with James?",
+      "a": "Leah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is La Fiera's real name?",
+      "a": "Sandra de la Cruz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Simone Clark's father in The Rookie: Feds?",
+      "a": "Cutty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent leads the FBI unit in The Rookie: Feds?",
+      "a": "Matt Garza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which crime family did Nick Armstrong secretly work for?",
+      "a": "The Derians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tim Bradford's sister?",
+      "a": "Genny",
+      "file": "qualityBackfill"
+    }
+  ]
+}

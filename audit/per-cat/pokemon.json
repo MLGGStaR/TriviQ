@@ -146,6 +146,356 @@
       "file": "triviaTierFinalTopoffExpansions"
     },
     {
+      "q": "What Pokemon center worker heals injured Pokemon?",
+      "a": "Nurse Joy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type is Charizard?",
+      "a": "Fire and Flying",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type is Venusaur?",
+      "a": "Grass and Poison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type is Blastoise?",
+      "a": "Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Charmeleon evolve into?",
+      "a": "Charizard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Wartortle evolve into?",
+      "a": "Blastoise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Pidgey evolve into?",
+      "a": "Pidgeotto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the ghost Pokemon trio starters?",
+      "a": "Gastly, Haunter, Gengar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Bulbasaur, Charmander, Squirtle?",
+      "a": "Kanto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region was introduced with Treecko, Torchic, Mudkip?",
+      "a": "Hoenn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Chikorita, Cyndaquil, Totodile?",
+      "a": "Johto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Turtwig, Chimchar, Piplup?",
+      "a": "Sinnoh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Snivy, Tepig, Oshawott?",
+      "a": "Unova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Chespin, Fennekin, Froakie?",
+      "a": "Kalos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Rowlet, Litten, Popplio?",
+      "a": "Alola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region has Grookey, Scorbunny, Sobble?",
+      "a": "Galar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Meowth's coin?",
+      "a": "Gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first gym leader in Kanto?",
+      "a": "Brock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second gym leader in Kanto?",
+      "a": "Misty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type does Misty specialize in?",
+      "a": "Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Misty's signature Pokemon?",
+      "a": "Starmie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Team Rocket's motto's first line?",
+      "a": "Prepare for trouble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon says its own name the most?",
+      "a": "Pikachu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the evolved form of Caterpie?",
+      "a": "Metapod",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the evolved form of Metapod?",
+      "a": "Butterfree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the evolved form of Weedle?",
+      "a": "Kakuna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the evolved form of Kakuna?",
+      "a": "Beedrill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type are Weedle and Beedrill?",
+      "a": "Bug and Poison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the psychic cat Pokemon starter?",
+      "a": "Abra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Abra evolve into?",
+      "a": "Kadabra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kadabra's evolution?",
+      "a": "Alakazam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Kadabra evolve into Alakazam?",
+      "a": "Trade",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the rock snake Pokemon?",
+      "a": "Onix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type is Onix?",
+      "a": "Rock and Ground",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pink balloon Pokemon?",
+      "a": "Jigglypuff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the round pink Pokemon that evolves Jigglypuff?",
+      "a": "Wigglytuff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type is Psyduck?",
+      "a": "Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Psyduck's evolution?",
+      "a": "Golduck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What signature move is Pikachu's in the anime?",
+      "a": "Thunderbolt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary Pokemon is #151?",
+      "a": "Mew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phoenix legendary appears in Ash's first episode?",
+      "a": "Ho-Oh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary dog represents lightning in Johto?",
+      "a": "Raikou",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary dog represents fire in Johto?",
+      "a": "Entei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary dog represents water in Johto?",
+      "a": "Suicune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Pikachu's baby pre-evolution?",
+      "a": "Pichu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the first Pokémon movie?",
+      "a": "Mewtwo Strikes Back",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What move does Magikarp know that does absolutely nothing?",
+      "a": "Splash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How old is Ash Ketchum when he begins his journey?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second line of Team Rocket's motto after 'Prepare for trouble'?",
+      "a": "Make it double",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Ash's Pokémon famously disobeyed him for a long time after evolving?",
+      "a": "Charizard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 1998 game let you choose Pikachu as your starter in Kanto?",
+      "a": "Pokémon Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company developed Pokémon GO?",
+      "a": "Niantic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What studio develops the main-series Pokémon games?",
+      "a": "Game Freak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which region are Pokémon Sun and Moon set in, based on Hawaii?",
+      "a": "Alola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which region are Pokémon Sword and Shield set in, based on Great Britain?",
+      "a": "Galar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type was introduced in Pokémon X and Y?",
+      "a": "Fairy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the water-type frog starter of Kalos that Ash bonds with?",
+      "a": "Froakie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the blue punching-bag Pokémon that keeps popping out of Jessie's Poké Ball?",
+      "a": "Wobbuffet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon carries a leek or stick?",
+      "a": "Farfetch'd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon does Haunter evolve into when traded?",
+      "a": "Gengar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon does Dratini evolve into?",
+      "a": "Dragonair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon is on the box of Pokémon Gold?",
+      "a": "Ho-Oh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon is on the box of Pokémon Silver?",
+      "a": "Lugia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary Pokémon is on the box of Pokémon Ruby?",
+      "a": "Groudon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary Pokémon is on the box of Pokémon Sapphire?",
+      "a": "Kyogre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What egg Pokémon hatches and is raised by Misty in the anime?",
+      "a": "Togepi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first Pokémon Ash caught, a bug that later evolved and was released?",
+      "a": "Caterpie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ash's mother?",
+      "a": "Delia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon does Nurse Joy use as her assistant in Kanto?",
+      "a": "Chansey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which team in Pokémon GO is blue?",
+      "a": "Team Mystic",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What does Pikachu evolve into?",
       "a": "Raichu — using a Thunder Stone",
       "file": "App.jsx"
@@ -318,6 +668,396 @@
       "file": "moreTriviaExpansions"
     },
     {
+      "q": "What legendary Pokemon is said to grant wishes?",
+      "a": "Jirachi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final evolution of Magikarp?",
+      "a": "Gyarados",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a critical hit's damage multiplier in modern games?",
+      "a": "1.5x",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon type was added in generation 2?",
+      "a": "Dark and Steel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type was added in generation 6?",
+      "a": "Fairy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ability makes Gyarados intimidating in battle?",
+      "a": "Intimidate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon has the highest base HP?",
+      "a": "Blissey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon has the highest base speed?",
+      "a": "Regieleki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon evolves when leveled up with high friendship?",
+      "a": "Eevee (to Espeon/Umbreon)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution evolves through friendship at day?",
+      "a": "Espeon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution evolves through friendship at night?",
+      "a": "Umbreon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution is Fairy-type?",
+      "a": "Sylveon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution is Ice-type?",
+      "a": "Glaceon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution is Grass-type?",
+      "a": "Leafeon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution is Fire-type?",
+      "a": "Flareon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Eeveelution is Electric-type?",
+      "a": "Jolteon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What champion does Red defeat in Yellow?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Cynthia?",
+      "a": "Sinnoh Champion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cynthia's signature Pokemon?",
+      "a": "Garchomp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Steven's signature Pokemon?",
+      "a": "Metagross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is Steven champion of?",
+      "a": "Hoenn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is Diantha champion of?",
+      "a": "Kalos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is Iris champion of?",
+      "a": "Unova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is Leon champion of?",
+      "a": "Galar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Leon's signature Pokemon?",
+      "a": "Charizard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous team is in Hoenn?",
+      "a": "Team Magma/Team Aqua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous team is in Sinnoh?",
+      "a": "Team Galactic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous team is in Unova?",
+      "a": "Team Plasma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous team is in Kalos?",
+      "a": "Team Flare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous team is in Alola?",
+      "a": "Team Skull",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous team is in Galar?",
+      "a": "Team Yell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads Team Galactic?",
+      "a": "Cyrus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads Team Plasma?",
+      "a": "Ghetsis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads Team Flare?",
+      "a": "Lysandre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads Team Skull?",
+      "a": "Guzma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads Team Rocket?",
+      "a": "Giovanni",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon is Giovanni's signature?",
+      "a": "Persian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gym type does Giovanni lead in Kanto?",
+      "a": "Ground",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Giovanni's gym in?",
+      "a": "Viridian City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cynthia's ace move on Garchomp?",
+      "a": "Draco Meteor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Z-move is unique to Pikachu?",
+      "a": "Catastropika",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dynamax?",
+      "a": "Temporary giant Pokemon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gigantamax?",
+      "a": "Giant form with unique appearance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item is needed for Z-Moves?",
+      "a": "Z-Ring and Z-Crystal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item is needed for Mega Evolution?",
+      "a": "Mega Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Mega Evolution is X or Y?",
+      "a": "Charizard and Mewtwo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Terastal?",
+      "a": "Type change transformation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year were Pokémon Red and Green first released in Japan?",
+      "a": "1996",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Pokémon?",
+      "a": "Satoshi Tajiri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is based on France?",
+      "a": "Kalos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is based on New York City?",
+      "a": "Unova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What region is based on Spain and the Iberian Peninsula?",
+      "a": "Paldea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which type is immune to Ghost-type moves?",
+      "a": "Normal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which type is immune to Electric-type moves?",
+      "a": "Ground",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which type is immune to Psychic-type moves?",
+      "a": "Dark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gengar's type combination?",
+      "a": "Ghost and Poison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lucario's type combination?",
+      "a": "Fighting and Steel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What evil team in Hoenn wants to expand the oceans?",
+      "a": "Team Aqua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What evil team in Hoenn wants to expand the land?",
+      "a": "Team Magma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the professor of the Hoenn region?",
+      "a": "Professor Birch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ancient version of Sinnoh in Pokémon Legends: Arceus?",
+      "a": "Hisui",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gimmick in Sword and Shield makes Pokémon giant for three turns?",
+      "a": "Dynamax",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gimmick in Scarlet and Violet changes a Pokémon's type?",
+      "a": "Terastallization",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gimmick in Sun and Moon unleashes a once-per-battle super attack?",
+      "a": "Z-Moves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the legendary Pokémon on the box of Pokémon Sword?",
+      "a": "Zacian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the legendary Pokémon on the box of Pokémon Shield?",
+      "a": "Zamazenta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the legendary Pokémon on the box of Pokémon Scarlet?",
+      "a": "Koraidon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the legendary Pokémon on the box of Pokémon Violet?",
+      "a": "Miraidon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only move Ditto knows?",
+      "a": "Transform",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the shiny Gyarados at the Lake of Rage?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Detective Pikachu set in?",
+      "a": "Ryme City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What console were Pokémon Diamond and Pearl released on?",
+      "a": "Nintendo DS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What handheld were Pokémon Gold and Silver released on?",
+      "a": "Game Boy Color",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon did Ash release into the wild in the tearful episode where it flew off to mate?",
+      "a": "Butterfree",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon of Misty's constantly pops out of its ball and gets headaches?",
+      "a": "Psyduck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pseudo-legendary Steel/Psychic Pokémon of Hoenn?",
+      "a": "Metagross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Galar champion, undefeated for years, does Ash beat to become world champion?",
+      "a": "Leon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon evolves from Slowpoke when traded holding a King's Rock?",
+      "a": "Slowking",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is the difference between a Pokémon's HP and PP?",
       "a": "HP is health points — when 0, Pokémon faints. PP is the number of times a move can be used",
       "file": "App.jsx"
@@ -488,6 +1228,341 @@
       "q": "What is the name of Giovanni's team?",
       "a": "Team Rocket",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What legendary Pokemon awakens Groudon and Kyogre?",
+      "a": "Rayquaza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon has the highest base stat total of any non-mega Pokemon?",
+      "a": "Arceus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the champion in Pokemon Black and White?",
+      "a": "Alder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Poke Ball has a higher catch rate at night?",
+      "a": "Dusk Ball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Pokemon Yellow exclusive?",
+      "a": "Pikachu follows player",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Pokemon first released in North America?",
+      "a": "1998",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Pokemon?",
+      "a": "Satoshi Tajiri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Ash Ketchum in English?",
+      "a": "Veronica Taylor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ash's mother's name?",
+      "a": "Delia Ketchum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ash's Mr. Mime?",
+      "a": "Mimey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon did Ash lose to in the Kalos League finals?",
+      "a": "Greninja to Alain's Charizard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What league did Ash finally win?",
+      "a": "Alola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What trophy did Ash win in the World Coronation Series?",
+      "a": "Monarch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who did Ash defeat in the World Coronation Series finale?",
+      "a": "Leon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the box legendary of Pokemon Sun?",
+      "a": "Solgaleo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the box legendary of Pokemon Moon?",
+      "a": "Lunala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the box legendary of Pokemon X?",
+      "a": "Xerneas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the box legendary of Pokemon Y?",
+      "a": "Yveltal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the legendary of Pokemon Black?",
+      "a": "Reshiram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the legendary of Pokemon White?",
+      "a": "Zekrom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the third legendary of Gen 5?",
+      "a": "Kyurem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legendary opens portals in Sinnoh lore?",
+      "a": "Giratina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dimension does Giratina live in?",
+      "a": "Distortion World",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Arceus's signature move?",
+      "a": "Judgment",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many plates does Arceus have?",
+      "a": "17",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item lets Arceus change type?",
+      "a": "Plate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mythical Pokemon is based on a lunar cycle?",
+      "a": "Darkrai and Cresselia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mythical brings nightmares?",
+      "a": "Darkrai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mythical brings pleasant dreams?",
+      "a": "Cresselia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Pokemon based on the Loch Ness monster?",
+      "a": "Lapras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon has the Pokedex entry stating it can't be photographed?",
+      "a": "Kecleon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokemon looks exactly like another Pokemon but is ghost?",
+      "a": "Mimikyu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What three-headed dragon dark-type is the Unova pseudo-legendary?",
+      "a": "Hydreigon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pseudo-legendary of Sinnoh?",
+      "a": "Garchomp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pseudo-legendary of Hoenn?",
+      "a": "Salamence/Metagross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pseudo-legendary of Johto?",
+      "a": "Tyranitar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pseudo-legendary of Alola?",
+      "a": "Kommo-o",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the pseudo-legendary of Galar?",
+      "a": "Dragapult",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dragapult's pre-evolution?",
+      "a": "Drakloak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first DLC for Sword and Shield called?",
+      "a": "Isle of Armor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the second DLC for Sword and Shield?",
+      "a": "Crown Tundra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game is set entirely in ancient Sinnoh?",
+      "a": "Legends Arceus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Scarlet and Violet's DLC Part 1?",
+      "a": "Teal Mask",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Scarlet and Violet's DLC Part 2?",
+      "a": "Indigo Disk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the professor of the Kalos region?",
+      "a": "Professor Sycamore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the professor of the Alola region?",
+      "a": "Professor Kukui",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the professor of the Unova region?",
+      "a": "Professor Juniper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Team Plasma's puppet king who befriends Pokémon?",
+      "a": "N",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which gym leader of Vermilion City uses Electric-types?",
+      "a": "Lt. Surge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kanto gym leader is a psychic girl from Saffron City?",
+      "a": "Sabrina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who runs the Viridian City gym in Gold and Silver?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Normal-type Pokémon has a base stat total of 670 but the Truant ability?",
+      "a": "Slaking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many different letter forms does Unown have, including punctuation?",
+      "a": "28",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who designed Pikachu and most original Pokémon as Game Freak's art director?",
+      "a": "Ken Sugimori",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon is number 1000 in the National Pokédex?",
+      "a": "Gholdengo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest number of Pokémon species as of the Scarlet and Violet DLC?",
+      "a": "1025",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Kalos city is Pokémon Legends: Z-A set in?",
+      "a": "Lumiose City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon of James's habitually chomps on his head?",
+      "a": "Victreebel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon does Officer Jenny use in Kanto?",
+      "a": "Growlithe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What starter did Gary Oak choose in the anime?",
+      "a": "Squirtle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What starter does your rival get in Pokémon Yellow?",
+      "a": "Eevee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the new anime protagonist duo who replaced Ash in 2023?",
+      "a": "Liko and Roy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon is known as the Sky High Pokémon and lives in the ozone layer?",
+      "a": "Rayquaza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pokémon's signature move is Judgment?",
+      "a": "Arceus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Steel-type Champion of Hoenn in Ruby and Sapphire?",
+      "a": "Steven Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Johto legendary trio was revived by Ho-Oh after the Burned Tower fire?",
+      "a": "Raikou, Entei and Suicune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Ghost/Dragon legendary banished to the Distortion World?",
+      "a": "Giratina",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is EV training?",

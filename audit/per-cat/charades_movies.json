@@ -216,6 +216,156 @@
       "file": "triviaTierFinalTopoffExpansions"
     },
     {
+      "q": "Act this movie",
+      "a": "Jaws",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "E.T.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Jurassic Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Star Wars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Batman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Superman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "King Kong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Godzilla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Cinderella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Snow White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Little Mermaid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Beauty and the Beast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Aladdin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Tarzan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Home Alone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Wizard of Oz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Mary Poppins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Dumbo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Bambi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Pinocchio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Peter Pan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "101 Dalmatians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Mulan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Moana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Up",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Ratatouille",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Cars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Minions",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Despicable Me",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Kung Fu Panda",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Act out this movie or TV show!",
       "a": "Titanic",
       "file": "App.jsx"
@@ -626,6 +776,171 @@
       "q": "Act this movie or show",
       "a": "The Mask",
       "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Rocky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Ghostbusters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Back to the Future",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Saving Private Ryan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Terminator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Indiana Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Braveheart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Top Gun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Men in Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Mission: Impossible",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Die Hard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Rambo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Karate Kid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Footloose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Grease",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Dirty Dancing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Breakfast Club",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Pretty Woman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Notebook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Dirty Harry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Psycho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Scarface",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Goodfellas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Casablanca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Gone with the Wind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Singing in the Rain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "West Side Story",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Sound of Music",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Mamma Mia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Chicago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "La La Land",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Greatest Showman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Bohemian Rhapsody",
+      "file": "qualityBackfill"
     },
     {
       "q": "Act out this movie or TV show!",
@@ -1328,6 +1643,186 @@
       "q": "Act this movie or show",
       "a": "The Truman Show",
       "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Memento",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Shape of Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Fight Club",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Whiplash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Parasite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Birdman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Revenant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "There Will Be Blood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Moonlight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Get Out",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Hereditary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "A Quiet Place",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Grand Budapest Hotel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Arrival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Ex Machina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Social Network",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Big Short",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Drive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Blade Runner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Truman Show",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Eternal Sunshine of the Spotless Mind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Donnie Darko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Requiem for a Dream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "American Beauty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "The Shining",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Apocalypse Now",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Taxi Driver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Raging Bull",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Citizen Kane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Oldboy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Vertigo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Rear Window",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Pan's Labyrinth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Amelie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act this movie",
+      "a": "Everything Everywhere All at Once",
+      "file": "qualityBackfill"
     },
     {
       "q": "Act out this movie or TV show!",

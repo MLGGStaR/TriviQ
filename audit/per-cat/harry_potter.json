@@ -76,6 +76,326 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "Who plays Hermione Granger in the films?",
+      "a": "Emma Watson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ron Weasley in the films?",
+      "a": "Rupert Grint",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ron's pet rat?",
+      "a": "Scabbers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal represents Hufflepuff house?",
+      "a": "Badger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dumbledore in the first two films?",
+      "a": "Richard Harris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dumbledore after Richard Harris?",
+      "a": "Michael Gambon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Severus Snape in the films?",
+      "a": "Alan Rickman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lord Voldemort in the films?",
+      "a": "Ralph Fiennes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hagrid in the films?",
+      "a": "Robbie Coltrane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Draco Malfoy in the films?",
+      "a": "Tom Felton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the Harry Potter books?",
+      "a": "J.K. Rowling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ron's sister's name?",
+      "a": "Ginny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ron's older twin brothers' names?",
+      "a": "Fred and George",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the color of Harry's eyes in the books?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape is Harry's scar?",
+      "a": "Lightning bolt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How old is Harry when he starts Hogwarts?",
+      "a": "11",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first book in the series called in the UK?",
+      "a": "Philosopher's Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many books are in the main Harry Potter series?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many films are in the main Harry Potter series?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color are Ron Weasley's hair?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Harry's cousin?",
+      "a": "Dudley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harry's aunt's name?",
+      "a": "Petunia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harry's uncle's name?",
+      "a": "Vernon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the street address of the Dursleys' house?",
+      "a": "4 Privet Drive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harry's father's name?",
+      "a": "James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harry's mother's name?",
+      "a": "Lily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hermione's parents' profession?",
+      "a": "Dentists",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Weasley siblings are there?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the oldest Weasley brother's name?",
+      "a": "Bill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Weasley who works with dragons?",
+      "a": "Charlie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What house is Cedric Diggory in?",
+      "a": "Hufflepuff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cedric Diggory in the films?",
+      "a": "Robert Pattinson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luna Lovegood's father's newspaper called?",
+      "a": "The Quibbler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature pulls the carriages to Hogwarts?",
+      "a": "Thestrals",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Minister of Magic for most of book 5?",
+      "a": "Cornelius Fudge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the spell Lumos do?",
+      "a": "Lights the wand tip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Weasley twin dies in the Battle of Hogwarts?",
+      "a": "Fred",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the address of the Dursley family home?",
+      "a": "4 Privet Drive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who teaches Potions at Hogwarts in book 1?",
+      "a": "Severus Snape",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Hagrid give Harry on his 11th birthday?",
+      "a": "A birthday cake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Bellatrix Lestrange?",
+      "a": "Molly Weasley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Harry's son in the epilogue who shares a name with a headmaster and a spy?",
+      "a": "Albus Severus Potter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of animal is Hedwig?",
+      "a": "Snowy owl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color robes do Gryffindor Quidditch players wear?",
+      "a": "Red and gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes the DADA teacher in Prisoner of Azkaban?",
+      "a": "Remus Lupin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hogwarts' ghost historian?",
+      "a": "Professor Binns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which candy jumps around when eaten?",
+      "a": "Chocolate Frogs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What jellybean brand features every flavor imaginable?",
+      "a": "Bertie Bott's Every Flavour Beans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the caretaker at Hogwarts?",
+      "a": "Argus Filch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Filch's cat named?",
+      "a": "Mrs Norris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body of water sits next to Hogwarts?",
+      "a": "The Black Lake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What house does the Sorting Hat nearly put Harry in before he asks otherwise?",
+      "a": "Slytherin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ghost haunts the second-floor girls' bathroom?",
+      "a": "Moaning Myrtle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hogwarts' motto translation?",
+      "a": "Never tickle a sleeping dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of Fantastic Beasts in Harry's textbook?",
+      "a": "Newt Scamander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ron's younger sister?",
+      "a": "Ginny Weasley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dark creature feeds on happiness?",
+      "a": "Dementor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dudley Dursley's best friend's name?",
+      "a": "Piers Polkiss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who captains the Gryffindor Quidditch team in Harry's second year?",
+      "a": "Oliver Wood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What broom does Harry receive for Christmas in book 3?",
+      "a": "Firebolt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first character to die in the Harry Potter series?",
+      "a": "Cedric Diggory (book 4)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Hermione use to attend extra classes in book 3?",
+      "a": "Time-Turner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who owns the joke shop on Diagon Alley?",
+      "a": "Fred and George Weasley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the charm used to repair broken objects?",
+      "a": "Reparo",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Harry Potter's Hogwarts house?",
       "a": "Gryffindor",
       "file": "App.jsx"
@@ -331,6 +651,321 @@
       "q": "Who is the gamekeeper at Hogwarts?",
       "a": "Rubeus Hagrid",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What spell produces a burst of light to stun an opponent?",
+      "a": "Stupefy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Draco Malfoy's father?",
+      "a": "Lucius Malfoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Remus Lupin's condition?",
+      "a": "Werewolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hagrid's magical half-giant brother's name?",
+      "a": "Grawp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the centaur who teaches Divination briefly?",
+      "a": "Firenze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dolores Umbridge?",
+      "a": "Imelda Staunton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the minister who replaces Fudge?",
+      "a": "Rufus Scrimgeour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Fleur Delacour's younger sister?",
+      "a": "Gabrielle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Fleur Delacour in the films?",
+      "a": "Clemence Poesy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Viktor Krum in the films?",
+      "a": "Stanislav Ianevski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school does Viktor Krum attend?",
+      "a": "Durmstrang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school does Fleur Delacour attend?",
+      "a": "Beauxbatons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the headmaster of Durmstrang during the Triwizard Tournament?",
+      "a": "Igor Karkaroff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the headmistress of Beauxbatons?",
+      "a": "Madame Maxime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Madame Maxime's part-heritage?",
+      "a": "Giant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Arthur Weasley's Ministry department?",
+      "a": "Misuse of Muggle Artifacts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Weasley family's owl?",
+      "a": "Errol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Quidditch position does Ron play?",
+      "a": "Keeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Quidditch position do Fred and George play?",
+      "a": "Beaters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Quidditch position does Angelina Johnson play?",
+      "a": "Chaser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Gryffindor's house ghost?",
+      "a": "Nearly Headless Nick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Slytherin's house ghost called?",
+      "a": "The Bloody Baron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ravenclaw's house ghost called?",
+      "a": "The Grey Lady",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Grey Lady?",
+      "a": "Helena Ravenclaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hufflepuff's house ghost called?",
+      "a": "The Fat Friar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Myrtle?",
+      "a": "Myrtle Warren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dumbledore's brother's name?",
+      "a": "Aberforth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pub does Aberforth own?",
+      "a": "Hog's Head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Weasley twins' joke shop called?",
+      "a": "Weasleys' Wizard Wheezes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is the Weasley twins' shop located?",
+      "a": "Diagon Alley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hogsmeade's haunted building?",
+      "a": "Shrieking Shack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Cedric Diggory?",
+      "a": "Peter Pettigrew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What magical creature has hair used in Polyjuice Potion by Barty Crouch Jr?",
+      "a": "None — he used Mad-Eye Moody's hair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Weasley family ghoul?",
+      "a": "The ghoul in the attic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who writes the sensationalist articles about Harry in Goblet of Fire?",
+      "a": "Rita Skeeter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal form does Rita Skeeter secretly take?",
+      "a": "A beetle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Quidditch commentator during Harry's school years?",
+      "a": "Lee Jordan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the Department of Mysteries study that is kept in the Hall of Prophecy?",
+      "a": "Prophecies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who teaches Arithmancy at Hogwarts?",
+      "a": "Professor Vector",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sorting ceremony song's author?",
+      "a": "The Sorting Hat itself",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Gryffindor prefect is killed in the Battle of Hogwarts and is Ron's brother?",
+      "a": "Percy Weasley's brother Fred",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the wizarding prison guarded by Dementors located in?",
+      "a": "The North Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What magical object allows Voldemort to return to a body in book 4?",
+      "a": "A cauldron ritual with bone, flesh, and blood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Quidditch World Cup-winning Bulgarian seeker?",
+      "a": "Viktor Krum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Ministry department is Arthur Weasley head of in book 5?",
+      "a": "Misuse of Muggle Artefacts Office",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which former student graffitied the Marauder's Map nicknames?",
+      "a": "The Marauders",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Madam Hooch by profession?",
+      "a": "Flying instructor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who marries Fleur Delacour?",
+      "a": "Bill Weasley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wizard bank is run by goblins?",
+      "a": "Gringotts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature guards high-security vaults at Gringotts?",
+      "a": "A dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first task of the Triwizard Tournament?",
+      "a": "Retrieving a golden egg from a dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is in the second task's lake?",
+      "a": "Merpeople",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Luna Lovegood's father?",
+      "a": "Xenophilius Lovegood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What newspaper does Xenophilius edit?",
+      "a": "The Quibbler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What magical plant screams when pulled from the ground?",
+      "a": "Mandrake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who teaches Herbology at Hogwarts?",
+      "a": "Professor Sprout",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What curse causes uncontrollable torture?",
+      "a": "Crucio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the killing curse in Latin form?",
+      "a": "Avada Kedavra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Teddy Lupin's godfather?",
+      "a": "Harry Potter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What breed of dragon does Hagrid raise illegally?",
+      "a": "Norwegian Ridgeback",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Dobby the house-elf?",
+      "a": "Bellatrix Lestrange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What wand wood belongs to Harry Potter?",
+      "a": "Holly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hermione's patronus?",
+      "a": "Otter",
+      "file": "qualityBackfill"
     },
     {
       "q": "Three Deathly Hallows?",
@@ -638,6 +1273,361 @@
       "q": "Who became Minister for Magic after the war?",
       "a": "Kingsley Shacklebolt",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed the first two Harry Potter films?",
+      "a": "Chris Columbus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What potion, when brewed correctly, appears as mother-of-pearl?",
+      "a": "Amortentia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Aberforth Dumbledore's pub called?",
+      "a": "The Hog's Head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Professor Flitwick's first name?",
+      "a": "Filius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Professor Sprout's first name?",
+      "a": "Pomona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Professor McGonagall's first name?",
+      "a": "Minerva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Professor Trelawney's first name?",
+      "a": "Sybill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Professor Slughorn's first name?",
+      "a": "Horace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Madam Pomfrey's first name?",
+      "a": "Poppy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Madam Hooch's first name?",
+      "a": "Rolanda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Filch's cat called?",
+      "a": "Mrs. Norris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Filch's first name?",
+      "a": "Argus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the librarian?",
+      "a": "Madam Pince",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Newt Scamander?",
+      "a": "Eddie Redmayne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gellert Grindelwald in Crimes of Grindelwald?",
+      "a": "Johnny Depp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Grindelwald in The Secrets of Dumbledore?",
+      "a": "Mads Mikkelsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays young Dumbledore in Fantastic Beasts?",
+      "a": "Jude Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tina Goldstein?",
+      "a": "Katherine Waterston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Queenie Goldstein?",
+      "a": "Alison Sudol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jacob Kowalski?",
+      "a": "Dan Fogler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the American wizarding government called?",
+      "a": "MACUSA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does MACUSA stand for?",
+      "a": "Magical Congress of the United States of America",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the President of MACUSA in Fantastic Beasts?",
+      "a": "Seraphina Picquery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year is the first Fantastic Beasts film set in?",
+      "a": "1926",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is the first Fantastic Beasts film set in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sword-wielding goblin who betrays Harry at Gringotts?",
+      "a": "Griphook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Griphook in Deathly Hallows?",
+      "a": "Warwick Davis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who teaches History of Magic?",
+      "a": "Professor Binns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is unique about Professor Binns?",
+      "a": "He is a ghost",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ravenclaw's lost diadem creator?",
+      "a": "Rowena Ravenclaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Ravenclaw's diadem hidden?",
+      "a": "Room of Requirement",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spell destroys the diadem Horcrux?",
+      "a": "Fiendfyre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who casts Fiendfyre on the diadem?",
+      "a": "Vincent Crabbe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Goyle?",
+      "a": "Gregory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the core of the Elder Wand?",
+      "a": "Thestral tail hair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Black family house-elf Sirius inherited?",
+      "a": "Kreacher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What wandmaker crafted Voldemort's wand?",
+      "a": "Mr Ollivander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what century was Hogwarts founded?",
+      "a": "10th century",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Auror in the Order of the Phoenix is a Metamorphmagus?",
+      "a": "Nymphadora Tonks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who writes A History of Magic — Hermione's favourite reference?",
+      "a": "Bathilda Bagshot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nagini's original form in Fantastic Beasts lore?",
+      "a": "A Maledictus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Muggle Studies professor is killed by Voldemort at the start of Deathly Hallows?",
+      "a": "Charity Burbage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hepzibah Smith's house-elf who was framed for her murder?",
+      "a": "Hokey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dumbledore's brother's name?",
+      "a": "Aberforth Dumbledore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Dumbledore's sister, whose death haunted him?",
+      "a": "Ariana Dumbledore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the journalist who wrote the tell-all Life and Lies of Albus Dumbledore?",
+      "a": "Rita Skeeter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founds the Order of the Phoenix?",
+      "a": "Albus Dumbledore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Voldemort's mother's name?",
+      "a": "Merope Gaunt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Voldemort's Muggle father?",
+      "a": "Tom Riddle Sr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which village were Tom Riddle's Muggle relatives murdered?",
+      "a": "Little Hangleton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Inside whom is the secret of a Fidelius Charm concealed?",
+      "a": "The Secret-Keeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Potters' original Secret-Keeper plan that was switched at the last minute?",
+      "a": "Sirius Black (switched to Pettigrew)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hermione's cat Crookshanks part of as a hybrid?",
+      "a": "Part Kneazle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What wand wood does Hermione Granger use?",
+      "a": "Vine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of Magical Drafts and Potions, a textbook at Hogwarts?",
+      "a": "Arsenius Jigger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Marauder is a werewolf rather than an Animagus?",
+      "a": "Remus Lupin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Lily Potter's maiden name?",
+      "a": "Evans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lily Potter in the films?",
+      "a": "Geraldine Somerville",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who stole the diadem of Ravenclaw from her mother?",
+      "a": "Helena Ravenclaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Slytherin heir turned his diary into a Horcrux at age 16?",
+      "a": "Tom Riddle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who buys Tom Riddle's diary at Borgin and Burkes and gives it to Ginny?",
+      "a": "Lucius Malfoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the shop specialising in Dark artefacts on Knockturn Alley?",
+      "a": "Borgin and Burkes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Tom Riddle work after Hogwarts before disappearing?",
+      "a": "Borgin and Burkes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Gryffindor goalkeeper replaces Oliver Wood?",
+      "a": "Ron Weasley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who translates the runes version of Beedle the Bard in Deathly Hallows?",
+      "a": "Hermione Granger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What magical object hidden in the Snitch does Harry receive from Dumbledore's will?",
+      "a": "The Resurrection Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the original owner of the Elder Wand's phoenix feather core?",
+      "a": "It has a Thestral tail hair core",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was Hogwarts founded, approximately?",
+      "a": "Around 990 AD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the incantation for the Fidelius Charm revealing unknown, but the charm's purpose is to hide a secret in whose soul?",
+      "a": "The Secret-Keeper's soul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the tournament briefly mentioned that preceded the Triwizard and had high fatality rates?",
+      "a": "The original Triwizard Tournament itself (discontinued due to deaths)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is revealed to be an Animagus stag, dog, rat, and wolf in the Marauders' group (which one is NOT an Animagus)?",
+      "a": "Remus Lupin (he is a werewolf, not an Animagus)",
+      "file": "qualityBackfill"
     },
     {
       "q": "List all Horcruxes and how they were destroyed.",

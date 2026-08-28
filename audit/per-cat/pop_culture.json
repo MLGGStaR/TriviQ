@@ -156,8 +156,323 @@
       "file": "megaNewExpansions"
     },
     {
-      "q": "Which social app is known for short dance and lip-sync videos that went viral in 2020?",
-      "a": "TikTok",
+      "q": "What rapper married Kim Kardashian?",
+      "a": "Kanye West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What coffee chain has a green mermaid logo?",
+      "a": "Starbucks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper is married to Beyonce?",
+      "a": "Jay-Z",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Iron Man in the Marvel films?",
+      "a": "Robert Downey Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Taylor Swift's concert tour that took over 2023?",
+      "a": "Eras Tour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What show features the Stark, Lannister, and Targaryen families?",
+      "a": "Game of Thrones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the pop star known as the 'Queen of Pop'?",
+      "a": "Madonna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which British royal married Meghan Markle in 2018?",
+      "a": "Prince Harry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Elon Musk's electric car company?",
+      "a": "Tesla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the host of 'The Tonight Show'?",
+      "a": "Jimmy Fallon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which K-pop group sings 'Dynamite'?",
+      "a": "BTS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead actor of the 'John Wick' franchise?",
+      "a": "Keanu Reeves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reality dating show takes place on a villa in Majorca?",
+      "a": "Love Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the creator of the meme-worthy 'Gangnam Style'?",
+      "a": "PSY",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wizard franchise did J.K. Rowling write?",
+      "a": "Harry Potter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the rapper behind 'God's Plan'?",
+      "a": "Drake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Jack in 'Titanic'?",
+      "a": "Leonardo DiCaprio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Netflix show about Queen Elizabeth II?",
+      "a": "The Crown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company created the iPhone?",
+      "a": "Apple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the current richest man debated among Musk and Bezos?",
+      "a": "Elon Musk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Harry Potter in the films?",
+      "a": "Daniel Radcliffe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which song by Rick Astley is used for Rickrolling?",
+      "a": "Never Gonna Give You Up",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the country singer behind 'Cruel Summer'?",
+      "a": "Taylor Swift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer won American Idol Season 1?",
+      "a": "Kelly Clarkson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the streamer known for Twitch and Mixer rivalry?",
+      "a": "Ninja",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Kris Jenner's eldest daughter?",
+      "a": "Kourtney Kardashian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What social platform is linked to short 'Reels' clips?",
+      "a": "Instagram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Facebook?",
+      "a": "Mark Zuckerberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which star is Kim Kardashian's current ex-boyfriend comedian?",
+      "a": "Pete Davidson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who won Best Actress Oscar for 'La La Land'?",
+      "a": "Emma Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Beyonce's daughter?",
+      "a": "Blue Ivy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which podcast host is famous for long conversations and UFC?",
+      "a": "Joe Rogan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the face of the 'Like a Virgin' era?",
+      "a": "Madonna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which DC hero is played by Gal Gadot?",
+      "a": "Wonder Woman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the creator of Spanx?",
+      "a": "Sara Blakely",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the actress known for 'Euphoria' and Spider-Man?",
+      "a": "Zendaya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer was known as the 'King of Pop'?",
+      "a": "Michael Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the cast member turned host, 'Queer Eye' fashion expert?",
+      "a": "Tan France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the host of 'Hot Ones'?",
+      "a": "Sean Evans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which show features Carrie Bradshaw in NYC?",
+      "a": "Sex and the City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which YouTube star is known for 'Mr. Beast' charity stunts?",
+      "a": "MrBeast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Netflix series features deadly children's games played for a cash prize in Korea?",
+      "a": "Squid Game",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reality TV family includes Kylie and Kendall Jenner?",
+      "a": "The Kardashians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which HBO fantasy series features the Iron Throne?",
+      "a": "Game of Thrones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which YouTuber recreated 'Squid Game' in real life with a $456,000 prize?",
+      "a": "MrBeast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which superhero's motto is 'With great power comes great responsibility'?",
+      "a": "Spider-Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sitcom features the Central Perk coffee shop?",
+      "a": "Friends",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which streaming service made 'The Mandalorian'?",
+      "a": "Disney+",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which animated sitcom is set in the town of Springfield?",
+      "a": "The Simpsons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which game show requires answers to be phrased as a question?",
+      "a": "Jeopardy!",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper headlined the 2025 Super Bowl halftime show?",
+      "a": "Kendrick Lamar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the talking dog in 'Family Guy'?",
+      "a": "Brian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which TV show features a chemistry teacher named Walter White?",
+      "a": "Breaking Bad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which royal couple stepped back from senior royal duties in 2020?",
+      "a": "Harry and Meghan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper is nicknamed 'Champagne Papi'?",
+      "a": "Drake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sitcom is set at the Scranton branch of a paper company?",
+      "a": "The Office",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which HBO show centers on the Roy family's media empire?",
+      "a": "Succession",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which TV chef is famous for shouting 'It's raw!'?",
+      "a": "Gordon Ramsay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Netflix hit is set in Hawkins, Indiana?",
+      "a": "Stranger Things",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor is married to Blake Lively?",
+      "a": "Ryan Reynolds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Puerto Rican artist was Spotify's most-streamed artist in 2020, 2021 and 2022?",
+      "a": "Bad Bunny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which fast-food chain's mascot is a red-haired girl with pigtails?",
+      "a": "Wendy's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reality show has contestants say 'You're fired'?",
+      "a": "The Apprentice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which quiz show offers lifelines such as 'phone a friend'?",
+      "a": "Who Wants to Be a Millionaire",
       "file": "qualityBackfill"
     }
   ],
@@ -341,6 +656,346 @@
       "q": "What animated series features Morty and his grandfather?",
       "a": "Rick and Morty",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Which reality TV star became president of the United States in 2017?",
+      "a": "Donald Trump",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded the lifestyle brand Goop?",
+      "a": "Gwyneth Paltrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Kim Kardashian's first husband (music producer)?",
+      "a": "Damon Thomas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which social app merged with Musk and rebranded as X?",
+      "a": "Twitter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who won 'RuPaul's Drag Race' Season 14?",
+      "a": "Willow Pill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first TikTok to reach 1 billion views?",
+      "a": "Bella Poarch Lip Sync",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which celebrity couple famously hosted a huge Italian wedding for their kids?",
+      "a": "Beyonce Jay-Z",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was caught up in the Johnny Depp defamation trial?",
+      "a": "Amber Heard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which boy band member went solo with 'Shape of You'?",
+      "a": "Ed Sheeran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Spanish singer behind 'Despacito'?",
+      "a": "Luis Fonsi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper is the subject of the biopic 'Straight Outta Compton'?",
+      "a": "N.W.A.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Amazon?",
+      "a": "Jeff Bezos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Meme features a shiba inu with colored text overlays?",
+      "a": "Doge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Netflix series stars Millie Bobby Brown?",
+      "a": "Stranger Things",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Get Out'?",
+      "a": "Jordan Peele",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which celebrity launched Rare Beauty cosmetics?",
+      "a": "Selena Gomez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who famously slapped Chris Rock at the 2022 Oscars?",
+      "a": "Will Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bad Bunny's home country?",
+      "a": "Puerto Rico",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper dated Megan Fox and wore shared blood vials?",
+      "a": "Machine Gun Kelly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Maroon 5?",
+      "a": "Adam Levine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the viral 'Harlem Shake' meme style?",
+      "a": "Filthy Frank",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tom Holland's partner and co-star?",
+      "a": "Zendaya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Crazy Rich Asians'?",
+      "a": "Kevin Kwan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer famously had a feud with Katy Perry?",
+      "a": "Taylor Swift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the meme's 'Woman Yelling at Cat'?",
+      "a": "Smudge the Cat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which show features the Pearson family across timelines?",
+      "a": "This Is Us",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of 'Fifty Shades of Grey'?",
+      "a": "E.L. James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which real estate agent is featured in 'Selling Sunset'?",
+      "a": "Christine Quinn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which comedian's special 'Nanette' on Netflix went viral?",
+      "a": "Hannah Gadsby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Daenerys Targaryen in 'Game of Thrones'?",
+      "a": "Emilia Clarke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did 'The Simpsons' premiere as a TV show?",
+      "a": "1989",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the frontman of One Direction who left first?",
+      "a": "Zayn Malik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer is known for 'Havana' and dating Shawn Mendes?",
+      "a": "Camila Cabello",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the late fashion designer behind the iconic red-soled heels?",
+      "a": "Christian Louboutin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which TV show features Michael Scott as a boss?",
+      "a": "The Office",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the streamer behind 'Among Us' popularity?",
+      "a": "Pokimane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which tech CEO founded Instagram?",
+      "a": "Kevin Systrom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first TikToker to hit 100 million followers?",
+      "a": "Charli D'Amelio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Prince William's wife?",
+      "a": "Kate Middleton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which show introduced 'No soup for you!' catchphrase?",
+      "a": "Seinfeld",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the host before Jimmy Fallon on 'The Tonight Show'?",
+      "a": "Jay Leno",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which celebrity is known as 'A-Rod' the baseball star?",
+      "a": "Alex Rodriguez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the creator of 'Rick and Morty'?",
+      "a": "Justin Roiland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer titles her albums after her age, including 19, 21, 25 and 30?",
+      "a": "Adele",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reality show locks housemates in a house under constant camera surveillance?",
+      "a": "Big Brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which HBO show is set at fictional luxury resorts in Hawaii and Sicily?",
+      "a": "The White Lotus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which video game was adapted into a 2023 HBO show about a fungal pandemic?",
+      "a": "The Last of Us",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who hosts the podcast 'Call Her Daddy'?",
+      "a": "Alex Cooper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which billionaire bought Twitter in 2022?",
+      "a": "Elon Musk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Netflix regency-era drama is based on Julia Quinn's novels?",
+      "a": "Bridgerton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which fashion brand's logo is two interlocking C's?",
+      "a": "Chanel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rihanna's lingerie brand?",
+      "a": "Savage X Fenty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which comedian hosted the Golden Globes in 2024?",
+      "a": "Jo Koy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which series follows the Dutton family ranch in Montana?",
+      "a": "Yellowstone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer's fans are called 'Little Monsters'?",
+      "a": "Lady Gaga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which app introduced disappearing 'Stories' before Instagram copied the feature?",
+      "a": "Snapchat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which YouTuber fought KSI in a 2018 boxing match?",
+      "a": "Logan Paul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of the 'Star Wars' creature nicknamed 'Baby Yoda'?",
+      "a": "Grogu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2016 mobile game sent players outdoors to catch creatures?",
+      "a": "Pokémon Go",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which British king was crowned in May 2023?",
+      "a": "Charles III",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2017 luxury-island music event turned into a notorious fraud and spawned rival documentaries?",
+      "a": "Fyre Festival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Elon Musk's AI chatbot?",
+      "a": "Grok",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer's 'Renaissance' concert film hit cinemas in December 2023?",
+      "a": "Beyoncé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Netflix series features a severed-hand sidekick named Thing?",
+      "a": "Wednesday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released the 2024 album 'Short n' Sweet'?",
+      "a": "Sabrina Carpenter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which late-night host's 'Carpool Karaoke' segment became a viral hit?",
+      "a": "James Corden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which K-pop girl group includes Lisa, Jennie, Rosé, and Jisoo?",
+      "a": "Blackpink",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which streaming platform produced 'Ted Lasso'?",
+      "a": "Apple TV+",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -513,6 +1168,386 @@
       "q": "What platform acquired Twitch in 2014?",
       "a": "Amazon",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did the 'Gangnam Style' music video become the first to hit 1 billion YouTube views?",
+      "a": "2012",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded the publication 'Variety'?",
+      "a": "Sime Silverman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which model hosted the original 'Project Runway'?",
+      "a": "Heidi Klum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of 'The Devil Wears Prada'?",
+      "a": "Lauren Weisberger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Facebook launch?",
+      "a": "2004",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the child in the viral 'It's Corn' interview clip?",
+      "a": "Tariq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor starred in 'Everything Everywhere All at Once' and won an Oscar?",
+      "a": "Michelle Yeoh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Britney Spears' conservatorship campaign hashtag?",
+      "a": "#FreeBritney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which socialite was the subject of the 'Inventing Anna' Netflix series?",
+      "a": "Anna Delvey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the rapper convicted in the 6ix9ine case as informant?",
+      "a": "Tekashi 6ix9ine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which influencer was behind the Fyre Festival disaster alongside Ja Rule?",
+      "a": "Billy McFarland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first YouTube video ever uploaded?",
+      "a": "Me at the zoo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which cult leader's story is told in the Netflix series 'Wild Wild Country'?",
+      "a": "Osho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the founder of Glossier?",
+      "a": "Emily Weiss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which year did TikTok launch internationally (outside China)?",
+      "a": "2017",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the 'Tiger King' documentary subject?",
+      "a": "Joe Exotic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Morticia Addams in the Wednesday Netflix series?",
+      "a": "Catherine Zeta-Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Twitter's CEO when Elon Musk acquired the company in 2022?",
+      "a": "Parag Agrawal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Educated,' the viral memoir?",
+      "a": "Tara Westover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which viral meme originated from a Swedish vlogger's face reaction?",
+      "a": "Pewdiepie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which creator of 'Tiger King' documentary directed it?",
+      "a": "Eric Goode",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the longtime co-host of Kelly Ripa before Ryan Seacrest?",
+      "a": "Michael Strahan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Instagram release Reels?",
+      "a": "2020",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Succession family patriarch?",
+      "a": "Logan Roy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which YouTuber faced the 'Suicide Forest' controversy?",
+      "a": "Logan Paul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the original creator of Vine before it shut down?",
+      "a": "Dom Hofmann",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which designer famously walked the Met Gala steps in a couture gown built on set?",
+      "a": "Rihanna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which NBA star won his fourth championship with the Lakers in 2020?",
+      "a": "LeBron James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the founder of SpaceX?",
+      "a": "Elon Musk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the novel that 'Normal People' was adapted from?",
+      "a": "Sally Rooney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the famed celebrity chef behind Nusr-Et 'Salt Bae'?",
+      "a": "Nusret Gokce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which scandal involved Elizabeth Holmes and Theranos?",
+      "a": "Blood-test fraud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the 'Shrek is Love, Shrek is Life' meme era?",
+      "a": "4chan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Ice Bucket Challenge go viral?",
+      "a": "2014",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the 'Cash Me Ousside' girl?",
+      "a": "Bhad Bhabie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which viral meme features a couple and the line 'She broke my heart'?",
+      "a": "Distracted Boyfriend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which French DJ co-produced 'Lean On' with Major Lazer?",
+      "a": "DJ Snake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the lead of The Bachelor Season 26?",
+      "a": "Clayton Echard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the creator of the Wordle game?",
+      "a": "Josh Wardle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which musician starred in 'A Star Is Born' (2018)?",
+      "a": "Lady Gaga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the founder of WeWork's saga?",
+      "a": "Adam Neumann",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Netflix documentary focused on the college admissions scandal?",
+      "a": "Operation Varsity Blues",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the first TikTok dance viral ('Renegade')?",
+      "a": "2019",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Hollywood mogul was at the center of #MeToo?",
+      "a": "Harvey Weinstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the 'Serial' podcast?",
+      "a": "Sarah Koenig",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which streamer hosted the 'Twitch Rivals' growth in 2020?",
+      "a": "Tyler Blevins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the subject of the 'The Staircase' docuseries?",
+      "a": "Michael Peterson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the 'It's Corn' viral meme via song remix?",
+      "a": "Tariq the Corn Kid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the British DJ behind 'Lean On' with Major Lazer?",
+      "a": "MO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the famous 2017 eclipse-style wedding for Hailey and Justin?",
+      "a": "Justin Bieber and Hailey Baldwin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who won 'The Bachelor' Season 26?",
+      "a": "Clayton Echard chose none",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2016 viral trend involved groups freezing in place while a camera moved around them?",
+      "a": "Mannequin Challenge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reality star launched the 'Lip Kit' cosmetics line in 2015?",
+      "a": "Kylie Jenner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On which day of the year does the Met Gala take place?",
+      "a": "First Monday in May",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which K-pop song was the first by a Korean act to top the Billboard Hot 100?",
+      "a": "Dynamite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which YouTuber was the first individual to reach 100 million subscribers?",
+      "a": "PewDiePie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dating show has singles get engaged before ever seeing each other?",
+      "a": "Love Is Blind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which comedian was slapped on stage at the 2022 Oscars?",
+      "a": "Chris Rock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "A 2018 viral audio clip divided listeners between hearing 'Yanny' and which other word?",
+      "a": "Laurel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2012 music video was the first to reach one billion YouTube views?",
+      "a": "Gangnam Style",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which network aired 'Jersey Shore'?",
+      "a": "MTV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper coined the phrase 'Hot Girl Summer' in 2019?",
+      "a": "Megan Thee Stallion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company created the Tamagotchi virtual pet?",
+      "a": "Bandai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist's banana duct-taped to a wall sold for $120,000 in 2019?",
+      "a": "Maurizio Cattelan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Spanish duo recorded the 1990s dance hit 'Macarena'?",
+      "a": "Los del Río",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2020 Netflix docuseries followed a big-cat zoo owner feuding with Carole Baskin?",
+      "a": "Tiger King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which celebrity was the first Instagram account to reach 100 million followers?",
+      "a": "Selena Gomez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which magazine ran a 1991 cover of a nude, pregnant Demi Moore?",
+      "a": "Vanity Fair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which YouTuber launched the 'Feastables' chocolate brand?",
+      "a": "MrBeast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2022 film won seven Oscars including Best Picture for a multiverse laundromat story?",
+      "a": "Everything Everywhere All at Once",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which magazine publishes the annual 'Sexiest Man Alive' issue?",
+      "a": "People",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Texas lawyer's 'I'm not a cat' Zoom filter mishap went viral in 2021?",
+      "a": "Rod Ponton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which luxury brand's 2022 photo of Messi and Ronaldo playing chess went viral?",
+      "a": "Louis Vuitton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reality show's 'Villa' features 'recoupling' ceremonies?",
+      "a": "Love Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2011 novel began as 'Twilight' fan fiction titled 'Master of the Universe'?",
+      "a": "Fifty Shades of Grey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which text-based app did Meta launch in 2023 as a Twitter rival?",
+      "a": "Threads",
+      "file": "qualityBackfill"
     }
   ]
 }

@@ -101,6 +101,266 @@
       "file": "moreTriviaExpansions"
     },
     {
+      "q": "Who plays Rick Grimes?",
+      "a": "Andrew Lincoln",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state is Rick from at the start of the show?",
+      "a": "Georgia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Merle Dixon?",
+      "a": "Michael Rooker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Carl Grimes?",
+      "a": "Chandler Riggs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lori?",
+      "a": "Sarah Wayne Callies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network originally aired The Walking Dead?",
+      "a": "AMC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the original comic?",
+      "a": "Robert Kirkman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Shane Walsh?",
+      "a": "Jon Bernthal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Rick go to early in season 1?",
+      "a": "Atlanta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the farm owner in season 2?",
+      "a": "Hershel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hershel Greene?",
+      "a": "Scott Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hershel's daughter's name who is a main character?",
+      "a": "Maggie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Glenn Rhee?",
+      "a": "Steven Yeun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Glenn's profession before the apocalypse?",
+      "a": "Pizza delivery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Carol Peletier?",
+      "a": "Melissa McBride",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many pet walkers does Michonne keep on chains when first seen?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Governor's played by?",
+      "a": "David Morrissey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What town does the Governor rule?",
+      "a": "Woodbury",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lucille wrapped in?",
+      "a": "Barbed wire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group does Negan lead?",
+      "a": "The Saviors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main settlement Rick's group lives in for several seasons?",
+      "a": "Alexandria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does the series begin?",
+      "a": "Rick waking from coma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Rick wake up in episode 1?",
+      "a": "Hospital",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the CDC scientist in season 1?",
+      "a": "Jenner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does the CDC episode end?",
+      "a": "Explosion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rosita Espinosa?",
+      "a": "Christian Serratos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Abraham Ford?",
+      "a": "Michael Cudlitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Eugene Porter?",
+      "a": "Josh McDermitt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Eugene famous for having?",
+      "a": "Mullet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays King Ezekiel?",
+      "a": "Khary Payton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Lori die?",
+      "a": "Childbirth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Carl die?",
+      "a": "Walker bite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Michonne lead around on chains when she is first introduced?",
+      "a": "Two walkers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle is Daryl usually seen riding?",
+      "a": "A motorcycle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which survivor was a pizza delivery boy before the outbreak?",
+      "a": "Glenn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which limb does Hershel lose after being bitten?",
+      "a": "His leg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character cuts off his own hand to escape from handcuffs?",
+      "a": "Merle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who stabs Shane to death?",
+      "a": "Rick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who beheads Hershel?",
+      "a": "The Governor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Carl lose when he is shot in season 6?",
+      "a": "His eye",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is the spin-off The Walking Dead: Daryl Dixon set?",
+      "a": "France",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which survivor is known for his mullet hairstyle?",
+      "a": "Eugene",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which main character is a priest?",
+      "a": "Gabriel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What children's rhyme does Negan recite while choosing his victim?",
+      "a": "Eeny meeny miny moe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to the CDC building at the end of season 1?",
+      "a": "It explodes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Maggie's younger sister?",
+      "a": "Beth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first living person Rick meets after waking from his coma?",
+      "a": "Morgan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Rick blow up to stop a walker herd in his final regular episode?",
+      "a": "A bridge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who owns the RV the group travels in during the early seasons?",
+      "a": "Dale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Lori die?",
+      "a": "In childbirth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did the main Walking Dead series run?",
+      "a": "11",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What causes Carl's death?",
+      "a": "A walker bite",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What are the zombies called in TWD?",
       "a": "Walkers",
       "file": "App.jsx"
@@ -261,6 +521,411 @@
       "q": "What walled community does Rick first settle in after the road years?",
       "a": "Alexandria",
       "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Who plays Daryl Dixon?",
+      "a": "Norman Reedus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Negan?",
+      "a": "Jeffrey Dean Morgan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Shane kill to survive in a herd?",
+      "a": "Otis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Shane die?",
+      "a": "Stabbed by Rick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Shane after he turns?",
+      "a": "Carl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hershel's other daughter besides Maggie?",
+      "a": "Beth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Beth Greene?",
+      "a": "Emily Kinney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Beth die?",
+      "a": "Shot in head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Beth?",
+      "a": "Dawn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the hospital group that holds Beth?",
+      "a": "Grady Memorial",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What town does the group find after the prison falls?",
+      "a": "Terminus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do the people of Terminus do to travelers?",
+      "a": "Cannibalism",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the word used at Terminus for survivors?",
+      "a": "Cattle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads Terminus?",
+      "a": "Gareth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gareth?",
+      "a": "Andrew J. West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does the prison fall?",
+      "a": "Governor attacks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does the Governor use on the prison?",
+      "a": "Tank",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Hershel die?",
+      "a": "Beheaded by Governor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Alexandria leader when Rick arrives?",
+      "a": "Deanna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Deanna Monroe?",
+      "a": "Tovah Feldshuh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jessie's abusive husband in Alexandria?",
+      "a": "Pete",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Pete?",
+      "a": "Rick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Jessie die?",
+      "a": "Walker attack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jessie Anderson?",
+      "a": "Alexandra Breckenridge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first Alexandria Safe Zone resident Rick shoots dead?",
+      "a": "Pete",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group attacks Alexandria led by a sadistic leader?",
+      "a": "Wolves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the leader of the Hilltop?",
+      "a": "Gregory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gregory?",
+      "a": "Xander Berkeley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Savior is Negan's right hand man?",
+      "a": "Simon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Simon?",
+      "a": "Steven Ogg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Savior betrays the group and helps Rick?",
+      "a": "Dwight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dwight?",
+      "a": "Austin Amelio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Negan make Rick prepare?",
+      "a": "Axe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the all-women group Rick's group encounters?",
+      "a": "Oceanside",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Rick trade to Jadis in exchange for alliance?",
+      "a": "Guns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group does Jadis lead?",
+      "a": "Scavengers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jadis?",
+      "a": "Pollyanna McIntosh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do the Scavengers live?",
+      "a": "Junkyard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Carl get bitten?",
+      "a": "Saving Siddiq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Siddiq?",
+      "a": "Avi Nash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character replaces Rick as the main lead after his exit?",
+      "a": "Daryl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Rick leave the show in season 9?",
+      "a": "Helicopter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Maggie's son's name?",
+      "a": "Hershel Jr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What time skip occurs in season 9?",
+      "a": "Six years",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villainous group wears walker skins?",
+      "a": "Whisperers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What baked treat is Carol known for making in Alexandria?",
+      "a": "Cookies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who blinds and kills Beta in the Whisperer War?",
+      "a": "Daryl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Alexandria recruiter brings Rick's group to the community?",
+      "a": "Aaron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is implied to be Judith's biological father?",
+      "a": "Shane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Rick do to Negan's throat at the end of the war with the Saviors?",
+      "a": "Slits it",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Negan imprisoned after the Saviors are defeated?",
+      "a": "A cell in Alexandria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Ezekiel's job before the apocalypse?",
+      "a": "Zookeeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What military rank did Abraham hold?",
+      "a": "Sergeant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Abraham's girlfriend when he first meets Rick's group?",
+      "a": "Rosita",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which adopted son of Carol and Ezekiel ends up with his head on a Whisperer pike?",
+      "a": "Henry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Carol marry in season 9?",
+      "a": "Ezekiel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two possessions does Dwight steal from Daryl?",
+      "a": "His crossbow and motorcycle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the Governor keep in fish tanks?",
+      "a": "Walker heads",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Tyreese favor?",
+      "a": "A hammer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Tyreese's sister?",
+      "a": "Sasha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which survivor's leg is cooked and eaten by the Terminus cannibals?",
+      "a": "Bob",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What single word does Morgan write all over the walls during his unstable phase?",
+      "a": "Clear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character leaves the main show to join Fear the Walking Dead?",
+      "a": "Morgan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Alexandria teenager does Carl have a crush on?",
+      "a": "Enid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname of Hilltop's long-haired scout Paul Rovia?",
+      "a": "Jesus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Eugene manufacture for the Saviors?",
+      "a": "Bullets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Daryl give his canine companion?",
+      "a": "Dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbol is on the back of Daryl's vest?",
+      "a": "Angel wings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of Magna's group is deaf?",
+      "a": "Connie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who puts a badly wounded Rick onto the CRM helicopter?",
+      "a": "Jadis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rick and Michonne's son?",
+      "a": "RJ",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Maggie recruit Negan to help rescue in Dead City?",
+      "a": "Her son Hershel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Glenn hide under to survive a walker horde in season 6?",
+      "a": "A dumpster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is killed by a walker that Carl had found stuck in the mud?",
+      "a": "Dale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which survivor dies saving Carol during the prison breach in season 3?",
+      "a": "T-Dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who delivers Judith by C-section?",
+      "a": "Maggie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Daryl give baby Judith?",
+      "a": "Lil' Asskicker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "To which girl does Carol say 'look at the flowers'?",
+      "a": "Lizzie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phrase do Saviors answer with when asked who they are?",
+      "a": "I am Negan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Negan use to burn the faces of Saviors who break his rules?",
+      "a": "A hot iron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What model of revolver is Rick's signature gun?",
+      "a": "Colt Python",
+      "file": "qualityBackfill"
     },
     {
       "q": "Who does Negan kill in the Season 7 premiere?",
@@ -433,6 +1098,371 @@
       "q": "What is Rick's horse-loving son called?",
       "a": "Carl",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What year did The Walking Dead originally premiere?",
+      "a": "2010",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Michonne?",
+      "a": "Danai Gurira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Maggie Greene?",
+      "a": "Lauren Cohan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alpha?",
+      "a": "Samantha Morton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Beta?",
+      "a": "Ryan Hurst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lydia?",
+      "a": "Cassady McClincy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Henry's fate in season 9?",
+      "a": "Decapitated",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Henry?",
+      "a": "Carol's adopted son",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the pike line of decapitated heads?",
+      "a": "Border",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many heads are on pikes in the border?",
+      "a": "Ten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group replaces the Whisperers as the main villains?",
+      "a": "Commonwealth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Commonwealth?",
+      "a": "Pamela Milton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Pamela Milton?",
+      "a": "Laila Robins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Pamela's son?",
+      "a": "Sebastian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sebastian Milton?",
+      "a": "Teo Rapp-Olsson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Commonwealth's soldier leader?",
+      "a": "Mercer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mercer?",
+      "a": "Michael James Shaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Carl die in Alexandria?",
+      "a": "Suicide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Judith's middle name?",
+      "a": "Grimes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Rick's mentor-like figure in the hospital?",
+      "a": "Jenner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Jenner whisper to Rick at the CDC?",
+      "a": "We're all infected",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Savior offshoot holding Negan captive?",
+      "a": "Rick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years is Negan in prison?",
+      "a": "Several",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who freed Negan from his cell?",
+      "a": "Carol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the last episode of the original show?",
+      "a": "Rest in Peace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did The Walking Dead end?",
+      "a": "2022",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did the original show run?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease affects the prison community in season 4?",
+      "a": "Flu strain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who betrays the prison by feeding walkers?",
+      "a": "Lizzie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Lizzie do to her sister?",
+      "a": "Kills her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who shoots Lizzie?",
+      "a": "Carol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lizzie?",
+      "a": "Brighton Sharbino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who burned the walkers at the prison infected?",
+      "a": "Carol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Rick exile for burning the victims?",
+      "a": "Carol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tyreese?",
+      "a": "Chad Coleman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sasha?",
+      "a": "Sonequa Martin-Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Tyreese die?",
+      "a": "Walker bite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Sasha die?",
+      "a": "Suicide in coffin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the helicopter group Rick joins?",
+      "a": "CRM",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does CRM stand for?",
+      "a": "Civic Republic Military",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spinoff follows Daryl?",
+      "a": "Daryl Dixon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spinoff stars Negan and Maggie?",
+      "a": "Dead City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Dead City set?",
+      "a": "Manhattan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spinoff explores Rick and Michonne's reunion?",
+      "a": "The Ones Who Live",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills the Governor?",
+      "a": "Michonne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city is the CRM based in The Ones Who Live?",
+      "a": "Philadelphia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the father of Rosita's daughter Coco?",
+      "a": "Siddiq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Whisperer spy inside Alexandria kills Siddiq?",
+      "a": "Dante",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Beta's stage name as a country singer?",
+      "a": "Half Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dwight's wife, taken by Negan as one of his wives?",
+      "a": "Sherry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which lieutenant does Negan strangle to death after he massacres the Scavengers?",
+      "a": "Simon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Governor's walker daughter?",
+      "a": "Penny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Sasha swallow so she will turn into a walker inside Negan's coffin?",
+      "a": "A poison pill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Morgan's son?",
+      "a": "Duane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Alexandrian does Negan disembowel for plotting against Rick?",
+      "a": "Spencer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Maggie execute Gregory?",
+      "a": "Hanging",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Commonwealth deputy governor schemes against the communities in season 11?",
+      "a": "Lance Hornsby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who commands the Commonwealth army?",
+      "a": "Mercer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname of Juanita Sanchez, whom Eugene's group meets in Pittsburgh?",
+      "a": "Princess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which US state is the Commonwealth located?",
+      "a": "Ohio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the woman Eugene talks to over the radio?",
+      "a": "Stephanie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the nun who guides Daryl in the Daryl Dixon spin-off?",
+      "a": "Isabelle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boy Daryl escorts across France in his spin-off?",
+      "a": "Laurent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main villain of Dead City's first season?",
+      "a": "The Croat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two flu victims does Carol kill and burn at the prison?",
+      "a": "Karen and David",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Andrea's sister, who dies in season 1?",
+      "a": "Amy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which Georgia county did Rick work as a deputy?",
+      "a": "King County",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the baby Aaron adopts after the Savior outpost raid?",
+      "a": "Gracie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Alexandrian loses an arm and replaces it with a mace attachment?",
+      "a": "Aaron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Daryl's former lover who joins the Reapers?",
+      "a": "Leah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which scientist advises the Governor in Woodbury?",
+      "a": "Milton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What illness killed Negan's wife?",
+      "a": "Cancer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which CRM officer recruits Rick into the military in The Ones Who Live?",
+      "a": "Okafor",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the deeper theme of TWD?",

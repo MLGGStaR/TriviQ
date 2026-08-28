@@ -116,6 +116,321 @@
       "file": "triviaUltraExpansions"
     },
     {
+      "q": "Who plays Penny?",
+      "a": "Kaley Cuoco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Howard Wolowitz?",
+      "a": "Simon Helberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Sheldon's roommate?",
+      "a": "Leonard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's last name?",
+      "a": "Cooper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Leonard?",
+      "a": "Johnny Galecki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Raj Koothrappali?",
+      "a": "Kunal Nayyar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What restaurant does Penny waitress at?",
+      "a": "The Cheesecake Factory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What institution do the guys work at?",
+      "a": "Caltech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What field is Howard in?",
+      "a": "Engineering",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Howard holds what degree only, unlike the others?",
+      "a": "Master's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj is an astrophysicist from which country?",
+      "a": "India",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj initially cannot speak around women without what?",
+      "a": "Alcohol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's seat?",
+      "a": "His spot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Sheldon say instead of sorry?",
+      "a": "Bazinga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which night is comic book night?",
+      "a": "Wednesday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which night is Thai food night?",
+      "a": "Thursday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What TV show do they often reference Klingon from?",
+      "a": "Star Trek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's favorite show from childhood is?",
+      "a": "Star Trek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Sheldon's girlfriend turned wife?",
+      "a": "Amy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's full name is Amy Farrah?",
+      "a": "Fowler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Amy?",
+      "a": "Mayim Bialik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bernadette becomes married to?",
+      "a": "Howard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Howard's mother?",
+      "a": "Mrs. Wolowitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state are they in?",
+      "a": "California",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The show aired on which network?",
+      "a": "CBS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Big Bang Theory premiere?",
+      "a": "2007",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon is from which state?",
+      "a": "Texas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's hometown is?",
+      "a": "Galveston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Leonard is from which state?",
+      "a": "New Jersey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fictional building number do they live in?",
+      "a": "2311 N Los Robles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What floor is their apartment on?",
+      "a": "Fourth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Why do they take the stairs?",
+      "a": "Broken elevator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year is the elevator originally broken?",
+      "a": "2003",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What greeting does Sheldon use at the door?",
+      "a": "Knock knock knock Penny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many times does Sheldon knock?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Big Bang Theory?",
+      "a": "Chuck Lorre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What career does Penny switch to after giving up acting?",
+      "a": "Pharmaceutical sales",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What food intolerance does Leonard have?",
+      "a": "Lactose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sheldon and Amy's online flag show?",
+      "a": "Fun with Flags",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did The Big Bang Theory run?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two items does Sheldon add to rock-paper-scissors?",
+      "a": "Lizard and Spock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Leonard and Penny get married?",
+      "a": "Las Vegas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Leonard play?",
+      "a": "Cello",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character's sister does Leonard date?",
+      "a": "Raj's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fictional language can Sheldon speak?",
+      "a": "Klingon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the contract Sheldon makes Amy sign as his girlfriend?",
+      "a": "The Relationship Agreement",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's father's first name?",
+      "a": "George",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Penny's apartment number?",
+      "a": "4B",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the portmanteau nickname for Sheldon and Amy as a couple?",
+      "a": "Shamy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character wears turtlenecks, dickies, and tight pants?",
+      "a": "Howard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do the guys spend three months on an expedition at the end of season two?",
+      "a": "The Arctic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character has a fear of birds?",
+      "a": "Sheldon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "According to Sheldon, what should you offer someone who is upset?",
+      "a": "A hot beverage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Penny's brawny ex-boyfriend who takes Leonard's pants?",
+      "a": "Kurt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's Halloween costume that nobody recognizes?",
+      "a": "The Doppler effect",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which movie premiere does Sheldon skip to sleep with Amy for the first time?",
+      "a": "Star Wars: The Force Awakens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gift does Sheldon give Amy that makes her ecstatic?",
+      "a": "A tiara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Sheldon start collecting after Amy breaks up with him the first time?",
+      "a": "Cats",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band performs the show's theme song?",
+      "a": "Barenaked Ladies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Stuart's comic book store in season seven?",
+      "a": "It burns down",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who moves in with Howard's mother as her caretaker?",
+      "a": "Stuart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which state does Howard's mother die?",
+      "a": "Florida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What device does Howard design for the International Space Station that malfunctions?",
+      "a": "A zero-gravity toilet",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who are the four main male scientists?",
       "a": "Sheldon Cooper, Leonard Hofstadter, Howard Wolowitz, and Raj Koothrappali",
       "file": "App.jsx"
@@ -271,6 +586,291 @@
       "q": "What board game does Sheldon famously over-explain?",
       "a": "Settlers of Catan",
       "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "Who plays Bernadette?",
+      "a": "Melissa Rauch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's nickname for Leonard?",
+      "a": "Buddy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Leonard's mother?",
+      "a": "Christine Baranski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Leonard's mother's profession is?",
+      "a": "Psychiatrist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sheldon's mother?",
+      "a": "Laurie Metcalf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's older brother is named?",
+      "a": "Georgie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Howard goes to which mission in space?",
+      "a": "International Space Station",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Howard's nickname in space?",
+      "a": "Froot Loops",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Penny marries which character?",
+      "a": "Leonard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season does Penny marry Leonard?",
+      "a": "Nine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon and Amy marry in which season?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon and Amy win which prize in the finale?",
+      "a": "Nobel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Nobel was awarded in what field?",
+      "a": "Physics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj's sister is named?",
+      "a": "Priya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Priya is a what professionally?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj's father is played by?",
+      "a": "Brian George",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj's dog is named?",
+      "a": "Cinnamon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What breed is Cinnamon?",
+      "a": "Yorkie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy gives Sheldon what item as a gift?",
+      "a": "Tiara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Roommate Agreement?",
+      "a": "Contract",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's assistant is named?",
+      "a": "Alex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj's girlfriend deaf character is?",
+      "a": "Emily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stuart's job?",
+      "a": "Comic book store owner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Stuart?",
+      "a": "Kevin Sussman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Stuart's comic book store?",
+      "a": "The Comic Center",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character owns a dog named Cinnamon?",
+      "a": "Raj",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What movie franchise does Sheldon obsess over?",
+      "a": "Star Wars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's cat he briefly owns is named?",
+      "a": "Zazzles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Leonard has dated which dermatologist?",
+      "a": "Stephanie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Penny's brother is played by?",
+      "a": "Jack McBrayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Penny's father is played by?",
+      "a": "Keith Carradine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Penny's dad's first name is?",
+      "a": "Wyatt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the apartment's couch?",
+      "a": "Brown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many flights of stairs do they climb?",
+      "a": "Four",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Leonard's siblings include a doctor sister and?",
+      "a": "Professor brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Penny becomes a pharmaceutical sales rep for whose company?",
+      "a": "Bernadette's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What food does Sheldon order at the Cheesecake Factory?",
+      "a": "Barbecue bacon cheeseburger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Howard wears what style of clothing?",
+      "a": "Turtlenecks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which fellow physicist calls Sheldon 'dumbass'?",
+      "a": "Leslie Winkle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "From which country does Howard launch into space?",
+      "a": "Kazakhstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Amy when Sheldon proposes to her?",
+      "a": "Princeton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Sheldon and Amy share their first kiss?",
+      "a": "On a train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Beverly Hofstadter's profession?",
+      "a": "Psychiatrist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fighting robot Howard and Raj build?",
+      "a": "MONTE",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Howard crash while trying to impress a woman?",
+      "a": "A Mars rover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Raj's girlfriend Emily?",
+      "a": "Dermatologist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which magazine features Raj in a list of scientists to watch?",
+      "a": "People",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sheldon's older brother?",
+      "a": "George Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What movie prop do the guys buy in season one?",
+      "a": "A time machine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What prop do the guys fight over in 'The Precious Fragmentation'?",
+      "a": "The One Ring",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Why do Howard and Bernadette get married on a rooftop?",
+      "a": "So a satellite can photograph it",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crime is Penny's brother known for?",
+      "a": "Cooking meth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Leonard's father?",
+      "a": "Alfred",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created The Big Bang Theory?",
+      "a": "Chuck Lorre and Bill Prady",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the children's science show host Sheldon idolizes?",
+      "a": "Professor Proton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle does Howard ride around on?",
+      "a": "A Vespa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character does Leonard kiss on a ship in the North Sea, causing a rift with Penny?",
+      "a": "Mandy",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is Sheldon's roommate agreement?",
@@ -443,6 +1043,331 @@
       "q": "What is Amy's profession?",
       "a": "Neuroscientist",
       "file": "triviaTierFinalParityExpansions"
+    },
+    {
+      "q": "What is the episode titled the Hofstadter Insufficiency?",
+      "a": "Season 7 premiere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Professor Proton?",
+      "a": "Arthur Jeffries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Professor Proton?",
+      "a": "Bob Newhart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's imaginary mentor guide is?",
+      "a": "Professor Proton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which James Earl Jones episode features Sheldon's bucket list?",
+      "a": "The Convention Conundrum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Stephen Hawking episode is the first?",
+      "a": "The Hawking Excitation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What word is rhymed in the theme song's first line?",
+      "a": "Hot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The theme starts Our whole universe was in a?",
+      "a": "Hot dense state",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon rides a train trip in which finale episode?",
+      "a": "The Conference Valuation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's train conductor obsession includes which character?",
+      "a": "Eric the train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What eggnog brand does Sheldon love in one episode?",
+      "a": "None specific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Captain Sweatpants?",
+      "a": "Comic store customer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Barry Kripke?",
+      "a": "Sheldon's rival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Barry Kripke?",
+      "a": "John Ross Bowie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Kripke has difficulty pronouncing which letter?",
+      "a": "R",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Leslie Winkle?",
+      "a": "Leonard's lab partner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Leslie Winkle?",
+      "a": "Sara Gilbert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's grandmother nickname is?",
+      "a": "Meemaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Meemaw is played by?",
+      "a": "June Squibb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's prized possession from Meemaw?",
+      "a": "Bowl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's mother is played by?",
+      "a": "Kathleen Rose Perkins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amy's father is played by?",
+      "a": "Teller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Howard's dead father leaves a mysterious?",
+      "a": "Letter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mrs. Wolowitz's first name?",
+      "a": "Debbie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voiced Mrs. Wolowitz?",
+      "a": "Carol Ann Susi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Howard's middle name?",
+      "a": "Joel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bernadette's father is what profession?",
+      "a": "Police officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bernadette's father?",
+      "a": "Casey Sander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Raj works on which Mars rover project?",
+      "a": "Curiosity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's preferred laundry night?",
+      "a": "Saturday 8:15",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sheldon's preferred parking spot rule?",
+      "a": "Designated spot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon does what at his desk instead of decorating?",
+      "a": "Works",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many PhDs does Sheldon claim to have?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Stuart dates Howard's mother in which season?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Stuart moves in with which couple after fire?",
+      "a": "Howard and Bernadette",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Sheldon's girlfriend before Amy tried dating him?",
+      "a": "Ramona Nowitzki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ramona Nowitzki?",
+      "a": "Riki Lindhome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ramona appears at Sheldon's wedding to do what?",
+      "a": "Kiss him",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which astronaut co-star appears as himself?",
+      "a": "Buzz Aldrin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Star Wars actor appears as himself?",
+      "a": "Mark Hamill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mark Hamill officiates which event on the show?",
+      "a": "Sheldon's wedding",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Neil deGrasse Tyson appears and argues with Raj about?",
+      "a": "Pluto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What physicist is mentioned often as Sheldon's idol?",
+      "a": "Richard Feynman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dr. Gablehauser?",
+      "a": "University head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dr. Gablehauser is played by?",
+      "a": "Mark Harelik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is President Siebert?",
+      "a": "Caltech president",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "President Siebert is played by?",
+      "a": "Joshua Malina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many episodes of Big Bang Theory aired in total?",
+      "a": "279",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Sheldon's Meemaw?",
+      "a": "Constance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Penny's childhood pig?",
+      "a": "Moondance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What broke the apartment building's elevator?",
+      "a": "Rocket fuel explosion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the cat Sheldon considers 'zazzy'?",
+      "a": "Zazzles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Caltech department head who fires and rehires Sheldon in season one?",
+      "a": "Dr. Gablehauser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Stuart's girlfriend who works at the comic store?",
+      "a": "Denise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Howard's half-brother?",
+      "a": "Josh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fighting robot that destroys MONTE?",
+      "a": "The Kripke Krippler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the street address of Sheldon and Leonard's apartment building?",
+      "a": "2311 North Los Robles Avenue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two parents share a kiss at Sheldon and Amy's wedding?",
+      "a": "Alfred and Mary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Caltech university president?",
+      "a": "Dr. Siebert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Raj's girlfriend Anu?",
+      "a": "Hotel concierge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Raj's girlfriend who suffers from severe social anxiety?",
+      "a": "Lucy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the pharmaceutical company Bernadette works for?",
+      "a": "Zangen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two scientists claim to have proven super-asymmetry before Sheldon and Amy?",
+      "a": "Pemberton and Campbell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Amy's smoking monkey?",
+      "a": "Ricky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What robotic device gets stuck on Howard and sends him to the emergency room?",
+      "a": "A robot hand",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the significance of the train set in Sheldon's childhood?",

@@ -159,6 +159,256 @@
       "q": "Who is Peter's wheelchair-using cop friend?",
       "a": "Joe Swanson",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the first name of the Griffin family patriarch?",
+      "a": "Peter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Brian the dog?",
+      "a": "White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Family Guy set in?",
+      "a": "Quahog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter's overweight best friend?",
+      "a": "Joe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Peter's friend is a pedophile creep?",
+      "a": "Herbert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Peter's friend is a news reporter?",
+      "a": "Tom Tucker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Peter's Asian American friend?",
+      "a": "Cleveland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the perverted alcoholic friend of Peter?",
+      "a": "Quagmire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stewie's accent?",
+      "a": "British",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the local bar?",
+      "a": "The Drunken Clam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Peter's boss at the toy factory?",
+      "a": "Mr Weed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What company does Peter first work for?",
+      "a": "Happy Go Lucky Toys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Lois's billionaire father?",
+      "a": "Carter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Carter's last name?",
+      "a": "Pewterschmidt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Chris?",
+      "a": "Seth Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Peter's occupation most of the series?",
+      "a": "Brewery worker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which brewery does Peter work at?",
+      "a": "Pawtucket Brewery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Peter's nemesis large bird?",
+      "a": "Chicken",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant chicken Peter often fights?",
+      "a": "Ernie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the evil genius Stewie wants to kill?",
+      "a": "Lois",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Stewie want to build to take over the world?",
+      "a": "Weapons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joe's dog's name?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What religion is Peter Griffin?",
+      "a": "Catholic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Meg's ex-boyfriend in Seasons?",
+      "a": "Mayor Adam West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Mayor of Quahog?",
+      "a": "Adam West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nationality is Peter's real father revealed to be?",
+      "a": "Irish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Peter's real last name revealed to be?",
+      "a": "McFinnigan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What TV show inspired Family Guy's style?",
+      "a": "The Simpsons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song does Peter become obsessed with, driving the family crazy by playing it constantly?",
+      "a": "Surfin' Bird",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Brian's favorite cocktail?",
+      "a": "Martini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature lives in Chris's closet?",
+      "a": "The evil monkey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cleveland usually doing when his house collapses in a running gag?",
+      "a": "Taking a bath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape is Stewie's head?",
+      "a": "Football",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two-word phrase does Peter use to express approval?",
+      "a": "Freakin' sweet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character does Quagmire openly despise?",
+      "a": "Brian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the road the Griffins live on?",
+      "a": "Spooner Street",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the Griffin family car?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of animal is a quahog?",
+      "a": "A clam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Peter name his own country after seceding from the United States?",
+      "a": "Petoria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What car does Brian drive?",
+      "a": "A Prius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Peter work before the Pawtucket Brewery?",
+      "a": "Happy-Go-Lucky Toy Factory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Griffins' incompetent family doctor?",
+      "a": "Dr. Hartman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Stewie's arch-nemesis, born from Peter's donated sperm?",
+      "a": "Bertram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Joe Swanson's son?",
+      "a": "Kevin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dessert topping's name does Stewie famously mispronounce?",
+      "a": "Cool Whip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What business does Cleveland run in the early seasons?",
+      "a": "A deli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What series of Brian and Stewie adventure episodes is named after the Bob Hope and Bing Crosby films?",
+      "a": "Road to",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Meg and Chris are students at which Quahog institution?",
+      "a": "James Woods Regional High School",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the weatherman who shouts one-line forecasts like 'It's gon' rain!'?",
+      "a": "Ollie Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter's boss at the brewery?",
+      "a": "Angela",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -321,6 +571,271 @@
       "q": "What is the name of Quagmire's catchphrase?",
       "a": "Giggity",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Which character catchphrase is 'What the deuce!'?",
+      "a": "Stewie Griffin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Herbert the creepy neighbor's signature accessory?",
+      "a": "A walker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Quagmire's father who came out as transgender?",
+      "a": "Dan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Quagmire's father's new name?",
+      "a": "Ida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What voice actor replaced Mike Henry for Cleveland?",
+      "a": "Arif Zahir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Joe Swanson?",
+      "a": "Patrick Warburton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joe's son's name?",
+      "a": "Kevin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What war did Kevin Swanson serve in?",
+      "a": "Iraq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Joe's daughter's name?",
+      "a": "Susie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Peter's best friend Herbert's catchphrase?",
+      "a": "Hey there",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who owned the Drunken Clam before Jerome?",
+      "a": "Horace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jerome's past relationship with the Griffins?",
+      "a": "Lois ex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Peter play in the band?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Consuela?",
+      "a": "A cleaning lady",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Consuela's catchphrase?",
+      "a": "No no no",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease does Brian reveal he has in later seasons?",
+      "a": "None revealed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Brians ex-girlfriend played by Jessica Biel?",
+      "a": "Jillian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Jillian?",
+      "a": "Drew Barrymore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Brian in a famous episode?",
+      "a": "He dies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Brian come back to life?",
+      "a": "Time travel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Stewie's half-brother from the future?",
+      "a": "None specifically",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the evil Stewie clone?",
+      "a": "Bertram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Bertram?",
+      "a": "Wallace Shawn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Stewie and Brians famous buddy songs?",
+      "a": "Road to",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Road to episodes inspired by?",
+      "a": "Bob Hope movies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease did Peter have briefly that affected his memory?",
+      "a": "Amnesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter's real father from Ireland?",
+      "a": "Mickey McFinnigan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Mickey McFinnigan?",
+      "a": "Seth MacFarlane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peters childhood invisible friend?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tom Tucker's son's name?",
+      "a": "Jake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is unusual about Jake Tucker's face?",
+      "a": "Upside down",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Diane Simmons's rival co-anchor?",
+      "a": "Tricia Takanawa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Diane Simmons in a murder episode?",
+      "a": "Shot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Diane Simmons?",
+      "a": "Stewie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Quagmires cat who dies?",
+      "a": "James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Peter's boss at the toy factory?",
+      "a": "Mr. Weed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How did Mr. Weed die?",
+      "a": "Choked on a dinner roll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "With whom did Loretta cheat on Cleveland?",
+      "a": "Quagmire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which town is The Cleveland Show set?",
+      "a": "Stoolbend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sparked Peter's first fight with the Giant Chicken?",
+      "a": "An expired coupon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Meg's full first name according to her birth certificate?",
+      "a": "Megatron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stewie's middle name?",
+      "a": "Gilligan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Lois's sister Carol marry?",
+      "a": "Mayor Adam West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the replacement dog Peter adopts, later killed by Stewie?",
+      "a": "New Brian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes Peter's boss at the brewery after Angela?",
+      "a": "Bert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "After which sporting event did the Family Guy pilot premiere in 1999?",
+      "a": "The Super Bowl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter's personal helicopter?",
+      "a": "Petercopter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country does Peter discover his biological father lives?",
+      "a": "Ireland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the performance artist Bruce say as his catchphrase?",
+      "a": "Oh no",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Herbert's elderly dog?",
+      "a": "Jesse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the peg-legged sailor in Quahog?",
+      "a": "Seamus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two characters travel through parallel universes in 'Road to the Multiverse'?",
+      "a": "Brian and Stewie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Stewie repeatedly demand from Brian while beating him up in a famous scene?",
+      "a": "His money",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -485,8 +1000,258 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of Quagmire's father who came out as transgender?",
-      "a": "Ida Davis",
+      "q": "What rich Pewterschmidt relative is Lois's brother?",
+      "a": "Patrick Pewterschmidt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Family Guy canceled before being revived?",
+      "a": "2002",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network reaired Family Guy, prompting its revival?",
+      "a": "Adult Swim",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Peter's mothers name?",
+      "a": "Thelma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Francis Griffin?",
+      "a": "Charles Durning",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Patrick Pewterschmidt?",
+      "a": "Robert Downey Jr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crime did Patrick Pewterschmidt commit?",
+      "a": "Murder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Lois's sister?",
+      "a": "Carol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Lois's sister Carol?",
+      "a": "Padma Lakshmi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the Griffin family house?",
+      "a": "White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the street address of the Griffin home?",
+      "a": "31 Spooner Street",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Quahog's airport?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stewie's full first name?",
+      "a": "Stewart Gilligan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Chris Griffin's middle name?",
+      "a": "Cross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Evil Monkey?",
+      "a": "Danny Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode title introduced Herbert the pervert?",
+      "a": "To Love and Die in Dixie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peters previous sitcom from pre-Family Guy?",
+      "a": "Larry and Steve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Larry based on from Seth MacFarlanes student film?",
+      "a": "Peter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Steve based on from Larry and Steve?",
+      "a": "Brian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Chris Griffin's girlfriend with Down syndrome?",
+      "a": "Ellen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What voice actress played Chris's girlfriend Ellen?",
+      "a": "Andrea Fay Friedman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Emmy has Family Guy won?",
+      "a": "Outstanding Animated Program",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dylan's mother?",
+      "a": "Tracy Flannigan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Ollie Williams, the weatherman?",
+      "a": "Phil LaMarr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ollie Williams's signature shouting style?",
+      "a": "Itsgonnarain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Asian reporter Tricia Takanawa?",
+      "a": "Alex Borstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Seamus the sea captain?",
+      "a": "Seth MacFarlane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Death on the show?",
+      "a": "Adam Carolla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who originally voiced Death in early episodes?",
+      "a": "Norm MacDonald",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the news station Tom Tucker works for?",
+      "a": "Quahog Five News",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Bruce the performance artist?",
+      "a": "Mike Henry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bruce's signature phrase?",
+      "a": "Oh no",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Opie the handyman?",
+      "a": "Fred Tatasciore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the episode Peter fights a 6-foot chicken?",
+      "a": "Da Boom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the apocalypse episode?",
+      "a": "Da Boom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Glenn Quagmire's sister?",
+      "a": "Kate McKinnon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Jeff Fecalman?",
+      "a": "Ralph Garman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Jeff Fecalman?",
+      "a": "Killed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the company owned by Lois's father?",
+      "a": "Pewterschmidt Industries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How old is Quagmire revealed to be?",
+      "a": "61",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Brian's mother, whom he finds stuffed?",
+      "a": "Biscuit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the very first Family Guy episode?",
+      "a": "Death Has a Shadow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Peter's middle name?",
+      "a": "Lowenbrau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the names of Cleveland's stepchildren in his spin-off?",
+      "a": "Roberta and Rallo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Quagmire's daughter?",
+      "a": "Anna Lee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mort Goldman's wife?",
+      "a": "Muriel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the surname of the principal of James Woods Regional High?",
+      "a": "Shepherd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of Brian's play?",
+      "a": "A Passing Fancy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who takes over the Drunken Clam after Horace dies?",
+      "a": "Jerome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Quagmire's cat that Peter accidentally kills?",
+      "a": "James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Herbert's first name?",
+      "a": "John",
       "file": "qualityBackfill"
     }
   ]

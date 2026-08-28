@@ -86,6 +86,231 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "Who plays Luke Skywalker in the original trilogy?",
+      "a": "Mark Hamill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Sith apprentice who kills Qui-Gon Jinn?",
+      "a": "Darth Maul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What colour is a standard Jedi lightsaber (non-Sith)?",
+      "a": "Blue or green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of R2-D2's protocol droid companion?",
+      "a": "C-3PO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Princess Leia in the original trilogy?",
+      "a": "Carrie Fisher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Obi-Wan in the prequel trilogy?",
+      "a": "Ewan McGregor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Anakin as an adult in the prequels?",
+      "a": "Hayden Christensen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays young Anakin in The Phantom Menace?",
+      "a": "Jake Lloyd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Padme Amidala?",
+      "a": "Natalie Portman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Emperor Palpatine?",
+      "a": "Ian McDiarmid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mace Windu?",
+      "a": "Samuel L. Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rey in the sequel trilogy?",
+      "a": "Daisy Ridley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kylo Ren?",
+      "a": "Adam Driver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Finn in the sequel trilogy?",
+      "a": "John Boyega",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Poe Dameron?",
+      "a": "Oscar Isaac",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Poe's droid?",
+      "a": "BB-8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the creature Jabba the Hutt keeps in a pit?",
+      "a": "Rancor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luke's aunt's name?",
+      "a": "Beru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luke's uncle's name?",
+      "a": "Owen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Jabba?",
+      "a": "Hutt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Yoda's skin?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ice planet in Empire Strikes Back?",
+      "a": "Hoth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Luke's final lightsaber in Return of the Jedi?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Empire's infantry called?",
+      "a": "Stormtroopers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon is Chewbacca's signature?",
+      "a": "Bowcaster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays young Han Solo?",
+      "a": "Alden Ehrenreich",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays young Lando in Solo?",
+      "a": "Donald Glover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Disney+ show stars Din Djarin?",
+      "a": "The Mandalorian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Rey's original lightsaber?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final film of the Skywalker saga?",
+      "a": "The Rise of Skywalker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Return of the Jedi released?",
+      "a": "1983",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who are Kylo Ren's parents?",
+      "a": "Han Solo and Leia Organa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Han Solo in The Force Awakens?",
+      "a": "Kylo Ren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the droid pair in the original trilogy besides R2-D2?",
+      "a": "C-3PO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Obi-Wan in the original trilogy?",
+      "a": "Alec Guinness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the clone trooper army grown from?",
+      "a": "Jango Fett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Qui-Gon Jinn?",
+      "a": "Liam Neeson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What snow-dwelling creature attacks Luke on Hoth?",
+      "a": "Wampa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jabba's major-domo?",
+      "a": "Bib Fortuna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Luke's aunt and uncle?",
+      "a": "Owen and Beru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who betrays Han Solo to Vader on Bespin?",
+      "a": "Lando Calrissian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lando Calrissian in the original trilogy?",
+      "a": "Billy Dee Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Poe Dameron's X-wing designation?",
+      "a": "Black Leader / Black Squadron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luke Skywalker's X-wing designation at Yavin?",
+      "a": "Red Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the red-armored guards of Snoke?",
+      "a": "Praetorian Guards",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Luke Skywalker's father?",
       "a": "Darth Vader (Anakin Skywalker)",
       "file": "App.jsx"
@@ -341,6 +566,306 @@
       "q": "What year was 'The Empire Strikes Back' released?",
       "a": "1980",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Anakin's mother?",
+      "a": "Shmi Skywalker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Finn's closest friend in the sequel trilogy?",
+      "a": "Poe Dameron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What swampland planet is home to the Gungans?",
+      "a": "Naboo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Vice Admiral Holdo?",
+      "a": "Laura Dern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Supreme Leader Snoke?",
+      "a": "Andy Serkis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays General Hux?",
+      "a": "Domhnall Gleeson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Captain Phasma?",
+      "a": "Gwendoline Christie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Finn's stormtrooper designation?",
+      "a": "FN-2187",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is Maz Kanata's castle on?",
+      "a": "Takodana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Maz Kanata?",
+      "a": "Lupita Nyong'o",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays DJ in The Last Jedi?",
+      "a": "Benicio del Toro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rose Tico?",
+      "a": "Kelly Marie Tran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ahsoka in live action?",
+      "a": "Rosario Dawson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What video game features Cal Kestis?",
+      "a": "Jedi: Fallen Order",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ezra Bridger's home planet?",
+      "a": "Lothal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Ezra Bridger's final lightsaber?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cassian Andor in Rogue One?",
+      "a": "Diego Luna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jyn Erso?",
+      "a": "Felicity Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Director Krennic?",
+      "a": "Ben Mendelsohn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Chirrut Imwe?",
+      "a": "Donnie Yen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Baze Malbus?",
+      "a": "Jiang Wen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices K-2SO?",
+      "a": "Alan Tudyk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Saw Gerrera?",
+      "a": "Forest Whitaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mon Mothma?",
+      "a": "Genevieve O'Reilly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Luthen Rael in Andor?",
+      "a": "Stellan Skarsgard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mandalore's capital city?",
+      "a": "Sundari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Mandalorian ruler killed by Maul?",
+      "a": "Duchess Satine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Maul's brother?",
+      "a": "Savage Opress",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Darth Maul?",
+      "a": "Dathomirian Zabrak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Darth Maul?",
+      "a": "Ray Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Darth Maul?",
+      "a": "Sam Witwer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Count Dooku?",
+      "a": "Christopher Lee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the planet where Obi-Wan defeats Grievous?",
+      "a": "Utapau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Jar Jar Binks?",
+      "a": "Gungan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jar Jar Binks?",
+      "a": "Ahmed Best",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Gungan city?",
+      "a": "Otoh Gunga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Queen Amidala's decoy in The Phantom Menace?",
+      "a": "Keira Knightley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who owns Anakin Skywalker as a slave on Tatooine?",
+      "a": "Watto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Darth Maul's double-bladed weapon type?",
+      "a": "Double-bladed lightsaber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Darth Maul?",
+      "a": "Peter Serafinowicz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is the clone army created on?",
+      "a": "Kamino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species creates the clones on Kamino?",
+      "a": "Kaminoans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the clone trooper identification of the one loyal to Ahsoka?",
+      "a": "CT-7567 (Rex)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the separatist droid army leader?",
+      "a": "General Grievous",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many lightsabers does General Grievous wield?",
+      "a": "Four",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Padmé's handmaiden who marries Captain Typho's brother figure?",
+      "a": "Sabé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Grand Moff Tarkin in A New Hope?",
+      "a": "Peter Cushing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Leia's adoptive father?",
+      "a": "Bail Organa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bail Organa?",
+      "a": "Jimmy Smits",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Darth Vader's castle planet?",
+      "a": "Mustafar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Mandalorian's weapon that fires tiny missiles?",
+      "a": "Whistling birds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Din Djarin's primary Razor Crest replacement ship?",
+      "a": "N-1 Starfighter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What moon is the second Death Star constructed near?",
+      "a": "Endor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Wicket the Ewok?",
+      "a": "Warwick Davis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is Chewbacca from?",
+      "a": "Kashyyyk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Boba Fett's ship?",
+      "a": "Slave I (later renamed)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Hutt species' home planet?",
+      "a": "Nal Hutta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What film features Rogue Squadron's first appearance on screen?",
+      "a": "The Empire Strikes Back",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jyn Erso's father, Galen Erso?",
+      "a": "Mads Mikkelsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays K-2SO?",
+      "a": "Alan Tudyk",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the Kessel Run?",
@@ -653,6 +1178,316 @@
       "q": "What is the title of the animated show set between Episodes III and IV?",
       "a": "Star Wars Rebels",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who composed the Imperial March?",
+      "a": "John Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Imperial officer who says 'You may fire when ready' before destroying Alderaan?",
+      "a": "Grand Moff Tarkin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Grand Admiral Thrawn in live-action Ahsoka?",
+      "a": "Lars Mikkelsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet serves as the Resistance base in The Force Awakens?",
+      "a": "D'Qar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Fennec Shand?",
+      "a": "Ming-Na Wen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cobb Vanth?",
+      "a": "Timothy Olyphant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Moff Gideon's weapon?",
+      "a": "The Darksaber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Moff Gideon?",
+      "a": "Giancarlo Esposito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bo-Katan Kryze in live action?",
+      "a": "Katee Sackhoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Greef Karga?",
+      "a": "Carl Weathers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cara Dune?",
+      "a": "Gina Carano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is Cara Dune from?",
+      "a": "Alderaan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Din Djarin's ship?",
+      "a": "The Razor Crest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dedra Meero in Andor?",
+      "a": "Denise Gough",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Syril Karn in Andor?",
+      "a": "Kyle Soller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Cassian's adopted mother in Andor?",
+      "a": "Maarva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is Andor raised on?",
+      "a": "Ferrix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Reva (the Third Sister) in Obi-Wan Kenobi?",
+      "a": "Moses Ingram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Grand Inquisitor in Obi-Wan Kenobi?",
+      "a": "Rupert Friend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays young Leia in Obi-Wan Kenobi?",
+      "a": "Vivien Lyra Blair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Kanan Jarrus?",
+      "a": "Freddie Prinze Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Hera Syndulla?",
+      "a": "Vanessa Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Ezra Bridger?",
+      "a": "Taylor Gray",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Sabine Wren?",
+      "a": "Tiya Sircar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Zeb Orrelios?",
+      "a": "Lasat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Ghost's second ship?",
+      "a": "Phantom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sabine's Mandalorian clan?",
+      "a": "Clan Wren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Thrawn?",
+      "a": "Chiss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Thrawn?",
+      "a": "Timothy Zahn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color are Thrawn's eyes?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voiced Admiral Ackbar in the original trilogy?",
+      "a": "Erik Bauersfeld",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Admiral Ackbar?",
+      "a": "Mon Calamari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mon Mothma in Return of the Jedi?",
+      "a": "Caroline Blakiston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Clone Wars animated show's main showrunner?",
+      "a": "Dave Filoni",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Ahsoka Tano in animation?",
+      "a": "Ashley Eckstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Zygerrian slave-kingdom planet featured in Clone Wars?",
+      "a": "Kadavo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How did Ahsoka obtain her white lightsaber crystals?",
+      "a": "Purified from an Inquisitor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is Grand Admiral Thrawn from?",
+      "a": "Csilla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Thrawn in Rebels?",
+      "a": "Lars Mikkelsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Rebels series' main ship?",
+      "a": "The Ghost",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead character of Rebels?",
+      "a": "Ezra Bridger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Hera Syndulla?",
+      "a": "Twi'lek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Inquisitor was voiced by Sarah Michelle Gellar in Star Wars Rebels?",
+      "a": "Seventh Sister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Grand Inquisitor's home organization?",
+      "a": "The Inquisitorius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Luthen Rael in Andor?",
+      "a": "Stellan Skarsgård",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bix Caleen in Andor?",
+      "a": "Adria Arjona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the series Andor?",
+      "a": "Tony Gilroy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was The Phantom Menace released?",
+      "a": "1999",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Attack of the Clones released?",
+      "a": "2002",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Revenge of the Sith released?",
+      "a": "2005",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed The Force Awakens?",
+      "a": "J.J. Abrams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed The Last Jedi?",
+      "a": "Rian Johnson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Rogue One?",
+      "a": "Gareth Edwards",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Solo?",
+      "a": "Ron Howard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was originally set to direct Solo before being replaced?",
+      "a": "Phil Lord and Chris Miller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Moff Gideon's elite forces?",
+      "a": "Dark Troopers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Jedi Master who trained Yoda?",
+      "a": "N'Kata Del Gormo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Anakin's ship in The Phantom Menace pod race?",
+      "a": "His podracer (no unique craft name)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Admiral Ackbar?",
+      "a": "Tim Rose performed him; voiced by Erik Bauersfeld",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ahsoka's white lightsabers' origin?",
+      "a": "Purified from Sixth Brother Inquisitor's crystals",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Zabrak warrior princess voiced by Sarah Michelle Gellar?",
+      "a": "The Seventh Sister — voiced by Sarah Michelle Gellar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet does Grogu train with Luke Skywalker on?",
+      "a": "Ossus (in Book of Boba Fett)",
+      "file": "qualityBackfill"
     },
     {
       "q": "Difference between light side and dark side of the Force?",

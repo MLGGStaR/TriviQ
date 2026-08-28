@@ -66,6 +66,261 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "Who plays Tony Stark / Iron Man in the MCU?",
+      "a": "Robert Downey Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the God of Thunder in the MCU?",
+      "a": "Thor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Avengers team's leader and first Avenger?",
+      "a": "Steve Rogers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Thor in the MCU?",
+      "a": "Chris Hemsworth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the Hulk's skin?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first MCU movie released?",
+      "a": "Iron Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Thor's cape?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Wanda Maximoff in the MCU?",
+      "a": "Elizabeth Olsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Doctor Strange's first name?",
+      "a": "Stephen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads the Guardians of the Galaxy?",
+      "a": "Star-Lord",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Scott Lang's daughter?",
+      "a": "Cassie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Captain America?",
+      "a": "Steve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Scarlet Witch's synthetic love interest?",
+      "a": "Paul Bettany",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Rocket in Guardians of the Galaxy?",
+      "a": "Raccoon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ant-Man in the MCU?",
+      "a": "Paul Rudd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter Parker's high school crush played by Zendaya?",
+      "a": "MJ",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Star-Lord in the MCU?",
+      "a": "Chris Pratt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bruce Banner's profession?",
+      "a": "Scientist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Thor's father's name?",
+      "a": "Odin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what city does most of the first Avengers battle take place?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hulk in the MCU?",
+      "a": "Mark Ruffalo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Hawkeye primarily use?",
+      "a": "Bow and arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Black Widow in the MCU?",
+      "a": "Scarlett Johansson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Wong in Doctor Strange?",
+      "a": "Benedict Wong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Thor's mother?",
+      "a": "Frigga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gamora in the MCU?",
+      "a": "Zoe Saldana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Peggy Carter in the MCU?",
+      "a": "Hayley Atwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Happy Hogan in the MCU?",
+      "a": "Jon Favreau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Pepper Potts?",
+      "a": "Gwyneth Paltrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Drax in Guardians of the Galaxy?",
+      "a": "Dave Bautista",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed the first Iron Man film?",
+      "a": "Jon Favreau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of T'Challa's home nation?",
+      "a": "Wakanda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Tony Stark's wife?",
+      "a": "Pepper Potts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Steve Rogers' best friend since childhood?",
+      "a": "Bucky Barnes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sacrifices themselves on Vormir for the Soul Stone?",
+      "a": "Natasha Romanoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Scott Lang's daughter?",
+      "a": "Cassie Lang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What plant powers Black Panther?",
+      "a": "Heart-shaped herb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the talking tree?",
+      "a": "Groot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the raccoon in Guardians of the Galaxy?",
+      "a": "Rocket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Rocket?",
+      "a": "Bradley Cooper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Groot?",
+      "a": "Vin Diesel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is destroyed by Thanos at the start of Infinity War?",
+      "a": "Asgardian refugee ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Thor's evil sister in Ragnarok?",
+      "a": "Hela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hela?",
+      "a": "Cate Blanchett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the MCU's first Disney+ series?",
+      "a": "WandaVision",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Wanda Maximoff's android husband?",
+      "a": "Vision",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aunt May in the MCU Spider-Man films?",
+      "a": "Marisa Tomei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Peter Parker's high school crush in Homecoming?",
+      "a": "Liz Allan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Vulture?",
+      "a": "Michael Keaton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mysterio?",
+      "a": "Jake Gyllenhaal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Yondu's adopted son?",
+      "a": "Peter Quill",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Tony Stark's superhero name?",
       "a": "Iron Man",
       "file": "App.jsx"
@@ -321,6 +576,286 @@
       "q": "Who is Ant-Man's alter ego?",
       "a": "Scott Lang",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed Guardians of the Galaxy?",
+      "a": "James Gunn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Loki in the MCU?",
+      "a": "Tom Hiddleston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tony Stark's daughter in Endgame?",
+      "a": "Morgan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hank Pym's daughter?",
+      "a": "Hope van Dyne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hank Pym?",
+      "a": "Michael Douglas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Eternal played by Angelina Jolie?",
+      "a": "Thena",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Matt Murdock protect as Daredevil?",
+      "a": "Hell's Kitchen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Daredevil in the Netflix series?",
+      "a": "Charlie Cox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nationality is Piotr Rasputin (Colossus)?",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Yelena Belova?",
+      "a": "Florence Pugh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Infinity Stone is inside the Tesseract?",
+      "a": "Space Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Infinity Stone is the Aether?",
+      "a": "Reality Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Infinity Stone is the Orb from Guardians of the Galaxy?",
+      "a": "Power Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of M'Baku's tribe in Black Panther?",
+      "a": "Jabari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays M'Baku?",
+      "a": "Winston Duke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Thor's grandfather killed by Hela?",
+      "a": "Bor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Grandmaster?",
+      "a": "Jeff Goldblum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Valkyrie in the MCU?",
+      "a": "Tessa Thompson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mantis in Guardians of the Galaxy?",
+      "a": "Pom Klementieff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays John Walker?",
+      "a": "Wyatt Russell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Flag-Smashers' leader?",
+      "a": "Karli Morgenthau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sam Wilson?",
+      "a": "Anthony Mackie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Thor: Ragnarok?",
+      "a": "Taika Waititi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the AI replacing JARVIS for Tony?",
+      "a": "Friday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Clint Barton's wife?",
+      "a": "Laura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kate Bishop's weapon of choice?",
+      "a": "Bow and arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kate Bishop?",
+      "a": "Hailee Steinfeld",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the codename of Bucky Barnes as an assassin?",
+      "a": "Winter Soldier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bucky Barnes?",
+      "a": "Sebastian Stan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Yondu's people?",
+      "a": "Centaurians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Skrulls in Captain Marvel?",
+      "a": "Talos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Carol Danvers' cat in Captain Marvel?",
+      "a": "Goose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species is Goose actually?",
+      "a": "Flerken",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Yelena's sister?",
+      "a": "Natasha Romanoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in Black Widow (2021)?",
+      "a": "Taskmaster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Xu Wenwu?",
+      "a": "Tony Leung",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Shang-Chi's mother's village?",
+      "a": "Ta Lo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main villain of Hawkeye (TV series)?",
+      "a": "Kingpin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Egyptian god empowers Moon Knight?",
+      "a": "Khonshu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ms. Marvel?",
+      "a": "Iman Vellani",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kamala Khan's hometown?",
+      "a": "Jersey City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is She-Hulk's civilian job?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jen Walters' famous cousin?",
+      "a": "Bruce Banner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the song playing as Quill dances in Guardians Vol. 2's opening?",
+      "a": "Mr Blue Sky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Adam Warlock?",
+      "a": "Will Poulter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Adam Warlock in Guardians Vol. 3?",
+      "a": "The High Evolutionary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the High Evolutionary?",
+      "a": "Chukwudi Iwuji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rocket's original cybernetically enhanced friends?",
+      "a": "Lylla, Teefs, and Floor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Okoye?",
+      "a": "Danai Gurira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Dora Milaje?",
+      "a": "Wakanda's all-female royal guard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Shuri?",
+      "a": "Letitia Wright",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Namor in Wakanda Forever?",
+      "a": "Tenoch Huerta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Ancient One?",
+      "a": "Tilda Swinton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Doctor Strange's manservant who becomes an enemy?",
+      "a": "Karl Mordo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mordo?",
+      "a": "Chiwetel Ejiofor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sanctum does Wong oversee?",
+      "a": "Hong Kong Sanctum",
+      "file": "qualityBackfill"
     },
     {
       "q": "What does S.H.I.E.L.D. stand for?",
@@ -653,6 +1188,331 @@
       "q": "What ancient entity created the symbiotes in the comics?",
       "a": "Knull",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the Eternal who betrays the team in the MCU film?",
+      "a": "Ikaris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kang / He Who Remains in the MCU?",
+      "a": "Jonathan Majors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Ravager leader who raised Peter Quill?",
+      "a": "Yondu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Wanda and Vision's twin sons in WandaVision?",
+      "a": "Billy and Tommy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Moon Knight's ex-wife?",
+      "a": "Layla El-Faouly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Moon Knight?",
+      "a": "Oscar Isaac",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Shang-Chi?",
+      "a": "Simu Liu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Shang-Chi's mother?",
+      "a": "Ying Li",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Kate Bishop's mother?",
+      "a": "Eleanor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kingpin in Hawkeye?",
+      "a": "Vincent D'Onofrio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jennifer Walters's profession?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays She-Hulk?",
+      "a": "Tatiana Maslany",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bruce Banner's cousin's name?",
+      "a": "Jennifer Walters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Agatha Harkness in WandaVision?",
+      "a": "Kathryn Hahn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays White Vision?",
+      "a": "Paul Bettany",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the codename Billy Maximoff uses as a hero?",
+      "a": "Wiccan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tommy Maximoff's hero name?",
+      "a": "Speed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Yon-Rogg in Captain Marvel?",
+      "a": "Jude Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Talos?",
+      "a": "Ben Mendelsohn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Maria Rambeau?",
+      "a": "Lashana Lynch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays adult Monica Rambeau?",
+      "a": "Teyonah Parris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ghost in Ant-Man and the Wasp?",
+      "a": "Hannah John-Kamen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of Ghost?",
+      "a": "Ava Starr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bill Foster in Ant-Man and the Wasp?",
+      "a": "Laurence Fishburne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Taskmaster in Black Widow?",
+      "a": "Olga Kurylenko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Taskmaster's real identity in Black Widow?",
+      "a": "Antonia Dreykov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dreykov in Black Widow?",
+      "a": "Ray Winstone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alexei the Red Guardian?",
+      "a": "David Harbour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Melina Vostokoff in Black Widow?",
+      "a": "Rachel Weisz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year is Captain Marvel set in?",
+      "a": "1995",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sersi in Eternals?",
+      "a": "Gemma Chan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the character of Iron Man in the comics?",
+      "a": "Stan Lee, Larry Lieber, Don Heck, Jack Kirby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which comic issue did Iron Man first appear?",
+      "a": "Tales of Suspense #39",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Iron Man introduced in comics?",
+      "a": "1963",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first person in the comics to wield the Mjolnir other than Thor, Odin, or a worthy human?",
+      "a": "Beta Ray Bill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Celestial buried in the Earth that Tiamut becomes?",
+      "a": "Tiamut the Communicator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Phase 4's first theatrical MCU film?",
+      "a": "Black Widow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs Eternals?",
+      "a": "Chloé Zhao",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gilgamesh in Eternals?",
+      "a": "Don Lee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ikaris?",
+      "a": "Richard Madden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Thena?",
+      "a": "Angelina Jolie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kingo in Eternals?",
+      "a": "Kumail Nanjiani",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Phastos?",
+      "a": "Brian Tyree Henry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Makkari?",
+      "a": "Lauren Ridloff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Druig?",
+      "a": "Barry Keoghan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sprite?",
+      "a": "Lia McHugh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Starfox at the end of Eternals?",
+      "a": "Harry Styles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the dark force leaked into reality by Strange's spell in Doctor Strange 2?",
+      "a": "The Darkhold's incursions",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays America Chavez?",
+      "a": "Xochitl Gomez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is America Chavez's unique power?",
+      "a": "Traveling between universes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Doctor Strange in the Multiverse of Madness?",
+      "a": "Sam Raimi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played the variant of Professor X in Multiverse of Madness?",
+      "a": "Patrick Stewart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Mr Fantastic in Multiverse of Madness?",
+      "a": "John Krasinski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Black Bolt in Multiverse of Madness?",
+      "a": "Anson Mount",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Captain Carter in Multiverse of Madness?",
+      "a": "Hayley Atwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organisation is led by Reed Richards in Multiverse of Madness?",
+      "a": "The Illuminati",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mobius in Loki?",
+      "a": "Owen Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sylvie?",
+      "a": "Sophia Di Martino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where did He Who Remains live at the End of Time?",
+      "a": "The Citadel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Black Panther?",
+      "a": "Ryan Coogler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the score for Black Panther?",
+      "a": "Ludwig Göransson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the score for The Avengers (2012)?",
+      "a": "Alan Silvestri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first MCU TV series on ABC?",
+      "a": "Agents of S.H.I.E.L.D.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Phil Coulson?",
+      "a": "Clark Gregg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of the band named Kraven in What If...? — trick question; name the lead Celestial instead",
+      "a": "Arishem the Judge",
+      "file": "qualityBackfill"
     },
     {
       "q": "What are all six Infinity Stones?",

@@ -81,6 +81,331 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What team must plant the bomb in standard mode?",
+      "a": "Attackers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bomb device in Valorant?",
+      "a": "Spike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the game mode that features one life per round?",
+      "a": "Search and destroy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many players are on each team in standard competitive?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent class uses smokes and vision blockers?",
+      "a": "Controller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What class supports teammates with heals and info?",
+      "a": "Sentinel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What class provides flashes and reconnaissance?",
+      "a": "Initiator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most iconic pistol in Valorant used at rounds start?",
+      "a": "Classic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What primary rifle is the go-to for headshots?",
+      "a": "Vandal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rifle is known for being 4 shot burst at longer ranges?",
+      "a": "Phantom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cheap shotgun is often bought on eco rounds?",
+      "a": "Bucky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color lights the attacker spawn area?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color indicates the defender spawn area?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Korean agent uses a kunai knife and teleports?",
+      "a": "Yoru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What radiant agent shoots a bow and uses arrows?",
+      "a": "Sage... no wait, Sova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What duelist has a fire dash ability and hails from Brazil?",
+      "a": "Phoenix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent from Morocco uses darkness and blinds?",
+      "a": "Omen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What controller agent smokes with a cube and is American?",
+      "a": "Brimstone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ranking comes after Silver and before Platinum?",
+      "a": "Gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What top rank in competitive is above Immortal?",
+      "a": "Radiant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the game mode with instant respawns and random weapons?",
+      "a": "Deathmatch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What casual mode features respawns and objectives called orbs?",
+      "a": "Spike Rush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mode added in 2022 is a mixture of team deathmatch style?",
+      "a": "Escalation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What map is set in Venice with a moving teleporter door?",
+      "a": "Bind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Japan-inspired map?",
+      "a": "Split",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Moroccan Marrakech-style map?",
+      "a": "Fracture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Thailand temple-style map features cars and rope ascenders?",
+      "a": "Ascent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What term describes killing the enemy with a melee weapon?",
+      "a": "Knife kill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What term describes being the only player left on your team?",
+      "a": "Clutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What action must defenders do to prevent defeat after spike plant?",
+      "a": "Defuse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What armor can be bought for full damage reduction?",
+      "a": "Heavy armor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item shows enemies through walls temporarily?",
+      "a": "Sova's recon dart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first agent released as a flex between two roles?",
+      "a": "Viper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent throws trip-wires to detect and damage enemies?",
+      "a": "Killjoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the primary ability slot that's free each round?",
+      "a": "Signature",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Valorant's first introduced game mode?",
+      "a": "Unrated",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shield tier gives the most protection in-game?",
+      "a": "Heavy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do enemies drop when killed that you can pick up?",
+      "a": "Weapons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the beta release period before launch?",
+      "a": "Closed Beta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What month and year did Valorant officially release?",
+      "a": "June 2020",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wind-powered duelist agent is from South Korea?",
+      "a": "Jett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the lowest competitive rank?",
+      "a": "Iron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rank comes directly after Gold?",
+      "a": "Platinum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What revolver-style pistol can one-shot an unarmored head at range?",
+      "a": "Sheriff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many rounds are played in each half of a standard match?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does VCT stand for?",
+      "a": "Valorant Champions Tour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What real-money currency buys weapon skins?",
+      "a": "Valorant Points",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set in Italy and has mechanical doors?",
+      "a": "Ascent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set in a frozen Russian outpost?",
+      "a": "Icebox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent from Brazil rides a rocket-launcher ultimate?",
+      "a": "Raze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent from Mexico grows stronger with each kill using soul orbs?",
+      "a": "Reyna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sniper is cheaper than the Operator and fires quickly?",
+      "a": "Marshal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What key activates your ultimate by default?",
+      "a": "X",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the heavy machine gun with a 100-round magazine?",
+      "a": "Odin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the 1,600-credit SMG that most players buy on a half-buy?",
+      "a": "Spectre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seconds does the Spike take to explode after being planted?",
+      "a": "45",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long does a full Spike defuse take?",
+      "a": "7 seconds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent from Japan can create a running-footstep decoy?",
+      "a": "Yoru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent from Morocco is the 'information broker' with cameras?",
+      "a": "Cypher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent from China is a healer with an ice wall?",
+      "a": "Sage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits does each player start with in a pistol round?",
+      "a": "800",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Valorant's codename before it was announced?",
+      "a": "Project A",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Valorant come to PlayStation 5 and Xbox?",
+      "a": "2024",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the mode where every player gets the same random weapon each round?",
+      "a": "Spike Rush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What free currency introduced in 2023 unlocks agents and accessories?",
+      "a": "Kingdom Credits",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who develops VALORANT?",
       "a": "Riot Games",
       "file": "App.jsx"
@@ -271,6 +596,351 @@
       "q": "What is the maximum number of agents on the roster (as of 2024)?",
       "a": "24+",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Jett's dash ability?",
+      "a": "Tailwind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many rounds total is a full Valorant match (best of)?",
+      "a": "Up to 25 (first to 13)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the shooting accuracy mechanic that penalizes moving?",
+      "a": "Tagging",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ultimate turns Phoenix into a free-respawning clone on death?",
+      "a": "Run It Back",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Skye ultimate lets her hunt enemies across the map?",
+      "a": "Seekers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent's ultimate is a massive sandstorm wall?",
+      "a": "Viper's Pit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent released with Episode 5 is a Filipino radianite-influenced duelist?",
+      "a": "Neon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent was introduced as a shotgun-heavy duelist with a tiger fragment?",
+      "a": "Raze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Cypher ability reveals enemy locations by interrogating bodies?",
+      "a": "Neural Theft",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the economy system that penalizes bad buys called?",
+      "a": "Eco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What credit bonus is given for a bomb plant?",
+      "a": "300",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the credit given per round regardless of outcome?",
+      "a": "Varies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon is called the LMG in-game and sprays accurately?",
+      "a": "Odin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon is the heavy machine gun with high damage?",
+      "a": "Ares",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rifle costs 2050 credits and is highly popular?",
+      "a": "Phantom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rifle costs 2900 credits and is the main AK-style rifle?",
+      "a": "Vandal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What submachine gun is often called the eco-SMG?",
+      "a": "Spectre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pistol is the 'one-tap' classic cheap buy?",
+      "a": "Sheriff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What map added in 2021 features pyramids and Egypt-inspired setting?",
+      "a": "Breeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the map set in Morocco with a rope ascender?",
+      "a": "Fracture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What map is themed around a research facility in New Mexico?",
+      "a": "Pearl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent is from Kenya and commands orbital strikes with Brim's kit?",
+      "a": "Brimstone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent uses lightning dashes to kill quickly?",
+      "a": "Neon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent is sometimes called the game's first Indian character?",
+      "a": "Harbor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2024 agent is the first controller that's a Scot?",
+      "a": "Clove",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What term describes buying weapons while saving credits for next round?",
+      "a": "Force buy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2023 tournament crowned the Valorant world champion?",
+      "a": "Champions 2023",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Valorant's international esports tournament?",
+      "a": "Champions Tour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What acronym stands for Valorant Champions Tour?",
+      "a": "VCT",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tactical throwable creates an area-blind bright flash?",
+      "a": "Flashbang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What special round type plays after losing 5 rounds?",
+      "a": "Forfeit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What new mode introduced 2-round sudden death in 2021?",
+      "a": "Overtime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mode allows players to practice aim without restriction?",
+      "a": "Practice Range",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What feature allows players to save custom crosshair settings?",
+      "a": "Crosshair profiles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the 5 stack queue limit disabled in high ranks?",
+      "a": "Radiant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2022 feature added random loot-box-style guns during match?",
+      "a": "Premier mode",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set in Morocco?",
+      "a": "Bind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set in Bhutan?",
+      "a": "Haven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set on an island in the Bermuda Triangle?",
+      "a": "Breeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set in India's Western Ghats?",
+      "a": "Lotus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which map is set in Los Angeles?",
+      "a": "Sunset",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent from the Philippines runs at lightning speed?",
+      "a": "Neon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent from India controls water?",
+      "a": "Harbor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which non-binary agent from Scotland can revive themselves?",
+      "a": "Clove",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which initiator from Colombia fires guided missiles?",
+      "a": "Tejo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent from Los Angeles commands a squad of creatures called Wingman, Dizzy and Mosh?",
+      "a": "Gekko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Swedish initiator sends concussive blasts through walls?",
+      "a": "Breach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sage's ultimate called?",
+      "a": "Resurrection",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sova's ultimate called?",
+      "a": "Hunter's Fury",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Killjoy's ultimate called?",
+      "a": "Lockdown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Raze's ultimate called?",
+      "a": "Showstopper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits does the Operator cost?",
+      "a": "4,700",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits does heavy shields cost?",
+      "a": "1,000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits do you earn for a kill?",
+      "a": "200",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits does the winning team receive after a round?",
+      "a": "3,000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many tiers does each rank below Radiant have?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the rule for winning a match that reaches 12-12?",
+      "a": "Win by two rounds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which team won the first Masters event in Reykjavik in 2021?",
+      "a": "Sentinels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Canadian star led Sentinels to win Masters Reykjavik?",
+      "a": "TenZ",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Brazilian team won Valorant Champions 2022?",
+      "a": "LOUD",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which team won Valorant Champions 2023?",
+      "a": "Evil Geniuses",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chinese team won Valorant Champions 2024?",
+      "a": "EDward Gaming",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are people who gained powers from the First Light called?",
+      "a": "Radiants",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Valorant circuit for women and marginalized genders?",
+      "a": "Game Changers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pump-action shotgun has a right-click alt fire?",
+      "a": "Bucky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which semi-automatic rifle costs 2,250 credits and rewards headshots?",
+      "a": "Guardian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the shortened mode that plays to 5 round wins?",
+      "a": "Swiftplay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the seasonal subdivisions within each Episode called?",
+      "a": "Acts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Turkish agent uses nightmarish creatures to reveal enemies?",
+      "a": "Fade",
+      "file": "qualityBackfill"
     },
     {
       "q": "What are the four main agent roles in VALORANT?",
@@ -473,6 +1143,406 @@
       "q": "What agent uses a Boom Bot that chases enemies?",
       "a": "Raze",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of Brimstone's ultimate ability?",
+      "a": "Orbital Strike",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits do you get for winning a round?",
+      "a": "3000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Agent can place a Dark Cover smoke without line of sight?",
+      "a": "Omen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original code name of Valorant during alpha?",
+      "a": "Project A",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tickrate Riot uses for Valorant servers?",
+      "a": "128 tick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the exact launch date of Valorant 1.0?",
+      "a": "June 2, 2020",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Chamber's real name in lore?",
+      "a": "Vincent Fabron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Jett agent's country of origin?",
+      "a": "South Korea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent's real name is Jordan Mazo?",
+      "a": "Raze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first map rotated out of competitive?",
+      "a": "Split",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the maximum round count for a competitive regular time?",
+      "a": "24",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the credit reward for a spike defuse?",
+      "a": "300",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What max credit amount can a player hold?",
+      "a": "9000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact damage of a Vandal headshot at any range?",
+      "a": "160",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact body damage of Phantom at close range?",
+      "a": "39",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Operator's scoped body shot damage?",
+      "a": "150",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What engine powers Valorant?",
+      "a": "Unreal Engine 4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact fire rate of the Vandal in rounds per second?",
+      "a": "9.75",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the price of a light shield in credits?",
+      "a": "400",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the cost of a heavy shield?",
+      "a": "1000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What amount of HP does heavy shield restore?",
+      "a": "50",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was removed and added back: the trophy system on Killjoy's kit?",
+      "a": "Nanoswarm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ban was implemented for Jett's Tailwind post-2022 rework?",
+      "a": "Cooldown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What streamer famously became a Valorant pro?",
+      "a": "Tenz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the breakthrough Korean team to win Masters 2022 Copenhagen?",
+      "a": "DRX",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tournament was the first Masters event held in?",
+      "a": "Reykjavik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Icelandic Masters 2021?",
+      "a": "Masters Reykjavik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What key VCT region is abbreviated APAC?",
+      "a": "Asia-Pacific",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What content drop introduced the first Premier season?",
+      "a": "Episode 7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest-range damage falloff on the Classic pistol?",
+      "a": "30 meters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the ultimate cost of Omen's From the Shadows?",
+      "a": "Seven points",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the crosshair customization feature added late 2022?",
+      "a": "Advanced options",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What aimbot-detection system identifier is used by Vanguard?",
+      "a": "Kernel-level",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the exact in-game currency for VP cosmetics bundles?",
+      "a": "Valorant Points",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the typical price of Premium skins in VP?",
+      "a": "1775",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bundle was discontinued that featured a reaper scythe?",
+      "a": "Reaver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What knife bundle sold for a controversial $100?",
+      "a": "Elderflame",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first skin collection released in Valorant?",
+      "a": "Sovereign",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What knife is the default melee animation style named?",
+      "a": "Standard knife",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Valorant's spike detonation time by default?",
+      "a": "45 seconds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What patch first added the Pearl map to competitive rotation?",
+      "a": "Episode 5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sentinel from Norway uses a sonic sensor and GravNet?",
+      "a": "Deadlock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chinese duelist has a bullet-blocking shield and a 1v1 arena ultimate?",
+      "a": "Iso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sentinel manipulates liquid metal into walls and thorns?",
+      "a": "Vyse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Thai duelist bends light to dash and slow enemies?",
+      "a": "Waylay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Australian initiator heals allies with an ability called Regrowth?",
+      "a": "Skye",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Reyna's ultimate called?",
+      "a": "Empress",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Breach's ultimate called?",
+      "a": "Rolling Thunder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Astra's ultimate called?",
+      "a": "Cosmic Divide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Neon's ultimate called?",
+      "a": "Overdrive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is KAY/O's ultimate called?",
+      "a": "NULL/cmd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Yoru's ultimate called?",
+      "a": "Dimensional Drift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Fade's ultimate called?",
+      "a": "Nightfall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harbor's ultimate called?",
+      "a": "Reckoning",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gekko's ultimate creature called?",
+      "a": "Thrash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Deadlock's ultimate called?",
+      "a": "Annihilation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Omen's blinding ability called?",
+      "a": "Paranoia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Omen's short-range teleport called?",
+      "a": "Shrouded Step",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Phoenix's curving wall of fire called?",
+      "a": "Blaze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Brimstone's speed-boosting ability called?",
+      "a": "Stim Beacon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Viper's molotov-style puddle called?",
+      "a": "Snake Bite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Raze's rolling robot called?",
+      "a": "Boom Bot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the maximum loss bonus a team can receive?",
+      "a": "2,900 credits",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many credits does planting the Spike award to the planter?",
+      "a": "300",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long is the buy phase at the start of a round?",
+      "a": "30 seconds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long is a round timer before the Spike is planted?",
+      "a": "100 seconds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At what point can a defuse be paused and resumed without starting over?",
+      "a": "Halfway, at 3.5 seconds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2024 sniper rifle sits between the Marshal and the Operator?",
+      "a": "Outlaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Viper's real name?",
+      "a": "Sabine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sova's real name?",
+      "a": "Sasha Novikov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city hosted Valorant Champions 2021?",
+      "a": "Berlin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city hosted Valorant Champions 2022?",
+      "a": "Istanbul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city hosted Valorant Champions 2023?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city hosted Valorant Champions 2024?",
+      "a": "Seoul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Turkish player starred on Acend's Champions 2021-winning roster?",
+      "a": "cNed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the mirror Earth that the enemy agents come from?",
+      "a": "Omega Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What megacorporation in Valorant's lore harvests Radianite?",
+      "a": "Kingdom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What month and year did the closed beta begin?",
+      "a": "April 2020",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the team-based league mode that qualifies teams into Contender rank?",
+      "a": "Premier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which U.S. state is the map Fracture set?",
+      "a": "New Mexico",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is an anti-eco round?",

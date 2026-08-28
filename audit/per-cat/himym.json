@@ -156,8 +156,278 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What city is How I Met Your Mother set in?",
-      "a": "New York City",
+      "q": "Who is the narrator of How I Met Your Mother?",
+      "a": "Ted",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bar do the friends hang out at?",
+      "a": "MacLarens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what city is HIMYM set?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barney's signature item of clothing?",
+      "a": "Suit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Marshall's profession?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Robin originally from?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin's famous Robin Sparkles song?",
+      "a": "Lets Go to the Mall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did HIMYM run?",
+      "a": "Nine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did HIMYM premiere?",
+      "a": "2005",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did HIMYM end?",
+      "a": "2014",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Ted end up marrying at the end?",
+      "a": "Tracy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item belongs to the Mother at the beginning of her reveal?",
+      "a": "Yellow umbrella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Barney marry in season 9?",
+      "a": "Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is a vegetarian?",
+      "a": "Lily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ted and Tracy's son's name?",
+      "a": "Luke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character frequently says Suit Up?",
+      "a": "Barney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport does Marshall love to play at Thanksgiving?",
+      "a": "Slapbet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wins the slap bet?",
+      "a": "Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many slaps total does Marshall get?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ted's favorite meal he makes?",
+      "a": "Tres Leches cake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character has a twin brother James?",
+      "a": "Barney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Barney's brother James?",
+      "a": "Wayne Brady",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What woman does Barney have a long search for?",
+      "a": "His father",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Marshall have for Ted?",
+      "a": "Teddy Westside",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lily's nickname for her and Marshall?",
+      "a": "Marshmallow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of dance class does Lily attend?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is briefly a news anchor in Japan?",
+      "a": "Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Marshall and Lily's wedding disaster?",
+      "a": "Bad bagpiper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Ted eventually meet the Mother?",
+      "a": "Farhampton station",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ted's best friend since college?",
+      "a": "Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fruit does Ted mysteriously wake up next to after a night of heavy drinking?",
+      "a": "A pineapple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Barney call his book of seduction schemes?",
+      "a": "The Playbook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game does Barney love playing competitively, often against children?",
+      "a": "Laser tag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US state is Ted from?",
+      "a": "Ohio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is directly below Ted's apartment?",
+      "a": "MacLaren's Pub",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Marshall and Lily's daughter?",
+      "a": "Daisy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which university did Ted, Marshall, and Lily attend together?",
+      "a": "Wesleyan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legal position does Marshall win in the final season?",
+      "a": "Judge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barney's daughter's name?",
+      "a": "Ellie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city does Lily take an art consulting job that moves the family abroad?",
+      "a": "Rome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Victoria, Ted's girlfriend, do for a living?",
+      "a": "Baker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country does Victoria leave for on a fellowship?",
+      "a": "Germany",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tattoo does Ted get on his lower back?",
+      "a": "A butterfly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal attacks Ted on his 31st birthday?",
+      "a": "A goat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city does Lily move to after breaking off her engagement with Marshall?",
+      "a": "San Francisco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Barney's fiancee Quinn?",
+      "a": "Stripper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Ted teach architecture?",
+      "a": "Columbia University",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Marshall's father die?",
+      "a": "Heart attack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bartender at MacLaren's?",
+      "a": "Carl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does the gang give Barney after a coffee-cup mix-up?",
+      "a": "Swarley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin's Canadian hometown?",
+      "a": "Vancouver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What costume does the woman Ted searches for every Halloween wear?",
+      "a": "Slutty pumpkin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the cable network Robin works for in later seasons?",
+      "a": "World Wide News",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who serves as the Slap Bet Commissioner?",
+      "a": "Lily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Mother's roommate whom Ted dates first?",
+      "a": "Cindy",
       "file": "qualityBackfill"
     }
   ],
@@ -321,6 +591,391 @@
       "q": "What instrument does the Mother play?",
       "a": "Bass guitar",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Robin's sister?",
+      "a": "Katie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Robin's sister Katie?",
+      "a": "Lucy Hale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Lily's art student she mentors?",
+      "a": "Esther",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Marshall's dream job he pursues?",
+      "a": "Environmental lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barney's company job officially described as?",
+      "a": "Please",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Barney's boss at GNB played by Bryan Cranston?",
+      "a": "Hammond Druthers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Marshall's boss at Nicholson Hewitt Ness?",
+      "a": "Arthur Hobbs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Arthur Hobbs?",
+      "a": "Bob Odenkirk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Arthur Hobbs' dog?",
+      "a": "Tugboat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's fiancee from season one who leaves him at the altar?",
+      "a": "Stella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Stella run off with?",
+      "a": "Tony",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Stella's ex-husband Tony?",
+      "a": "Tony Grafanello",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tony?",
+      "a": "Jason Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Marshall's dad?",
+      "a": "Marvin Eriksen Sr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Barney's half-sister?",
+      "a": "Carly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional restaurant Lily eats every week?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Robin's job when Ted first meets her?",
+      "a": "News reporter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What channel did Robin work at first?",
+      "a": "Metro News One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Patrice famous for being called by Robin?",
+      "a": "Her assistant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Patrice?",
+      "a": "Ellen D Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ted teach at the college in later seasons?",
+      "a": "Architecture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What college does Ted teach at?",
+      "a": "Columbia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Marshalls favorite monster movie?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fake job does Marshall almost take at a corporate law firm?",
+      "a": "GNB",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Zoey, Ted's love interest in season 6?",
+      "a": "An activist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What historic building does Ted demolish in his architectural plans?",
+      "a": "The Arcadian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ted design for GNB?",
+      "a": "Headquarters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fictional GNB building also called?",
+      "a": "GNB Tower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the doppelganger group?",
+      "a": "Five doppelgangers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which friend was the last doppelganger identified?",
+      "a": "Barney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character does Barney's doppelganger look like?",
+      "a": "Mustache guy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Marshall's brother?",
+      "a": "Marcus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What challenge makes Barney wear a tie in public?",
+      "a": "Ducky tie bet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Quinn, Barney's ex-fiancee?",
+      "a": "Becki Newton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Quinn work?",
+      "a": "Strip club",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's childhood best friend from Shelbyville?",
+      "a": "Punchy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Punchy?",
+      "a": "Chris Romanski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ted's rival architect?",
+      "a": "Hammond Druthers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Canadian band Robin dated the lead singer of?",
+      "a": "Becky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin's dog-related joke show in Canada called?",
+      "a": "Space Teens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What iconic Canadian slang does Barney mock Robin for?",
+      "a": "Eh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the seduction move in which a guy simply strips while his date is out of the room?",
+      "a": "The Naked Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What must Barney wear for a year after losing a bet?",
+      "a": "Ducky tie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rule does Barney invent giving five minutes to decide whether a date is worth continuing?",
+      "a": "The Lemon Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chart does Barney use to weigh a woman's craziness against her looks?",
+      "a": "Hot/Crazy scale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the local station where Robin first works as an anchor?",
+      "a": "Metro News 1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's own architecture firm?",
+      "a": "Mosbius Designs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ted's Halloween costume during his slutty pumpkin years?",
+      "a": "A hanging chad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hybrid creature lives in Marshall and Lily's apartment?",
+      "a": "Cockamouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Ted's story, what euphemism replaces marijuana?",
+      "a": "Sandwich",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is wrong with the floor of Marshall and Lily's first apartment?",
+      "a": "It's crooked",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What banner does the gang reuse so often it becomes a running joke?",
+      "a": "Intervention",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Marvin's middle name?",
+      "a": "Wait-for-it",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Mother's band called?",
+      "a": "Superfreakonomics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the last play in Barney's Playbook, the one he uses to propose?",
+      "a": "The Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What board game does Marshall invent?",
+      "a": "Marshgammon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country does Robin bring her boyfriend Gael home from?",
+      "a": "Argentina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What subject's class does Ted mistakenly teach on his first day as a professor?",
+      "a": "Economics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ted's doppelganger?",
+      "a": "Mexican wrestler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many women does Barney sleep with in his 'Perfect Week'?",
+      "a": "Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barney's job title, finally revealed in the final season?",
+      "a": "Please",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Lily's father Mickey invent?",
+      "a": "Board games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many years were Barney and Robin married?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "According to Barney, who invented the three-day rule?",
+      "a": "Jesus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin's middle name?",
+      "a": "Charles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Robin's boyfriend Kevin?",
+      "a": "Therapist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's sister?",
+      "a": "Heather",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year does the Mother die?",
+      "a": "2024",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Barney's British girlfriend who wants him to become a better man?",
+      "a": "Nora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's unstable girlfriend who trashes his apartment?",
+      "a": "Jeanette",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ted call the girl whose name he cannot remember?",
+      "a": "Blah Blah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Robin's overly friendly coworker that she constantly yells at?",
+      "a": "Patrice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Robin's boyfriend Nick?",
+      "a": "Chef",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Playbook play involves fake websites about a fictional billionaire?",
+      "a": "The Lorenzo Von Matterhorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which song does the Mother sing on her ukulele on the balcony at Farhampton?",
+      "a": "La Vie en Rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Ted take on a 'two-minute date' during her work break?",
+      "a": "Stella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Barney call the phenomenon where women look more attractive as a group?",
+      "a": "The cheerleader effect",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -493,6 +1148,301 @@
       "q": "What hand-gesture game does Marshall constantly initiate?",
       "a": "Slap Bet",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of Barney's playbook's signature move?",
+      "a": "The Lorenzo von Matterhorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Canadian children's TV show did Robin Sparkles appear on?",
+      "a": "Space Teens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Barney give his own biography, penned on a dry-erase board?",
+      "a": "The Playbook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character says 'Lawyered' as a catchphrase?",
+      "a": "Marshall Eriksen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created HIMYM?",
+      "a": "Carter Bays Craig Thomas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Marshall's middle name?",
+      "a": "Mosby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is actually Ted's middle name?",
+      "a": "Evelyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barney's mother's name?",
+      "a": "Loretta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the GNB president?",
+      "a": "Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Jerome Whittaker have?",
+      "a": "Driving instructor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's ex-girlfriend from college, the one with the art project?",
+      "a": "Karen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact episode where Ted meets the Mother?",
+      "a": "Last Forever",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tracy's dead boyfriend before Ted?",
+      "a": "Max",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the song Tracy sings?",
+      "a": "La Vie en Rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tracys band name?",
+      "a": "Superfreakonomics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor plays Kevin, Robin's therapist boyfriend?",
+      "a": "Kal Penn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robin's dog she names?",
+      "a": "None famous",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robin's horse shed?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season finale features the yellow umbrella first?",
+      "a": "Season 8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Lily and Marshall's wedding destination?",
+      "a": "Farhampton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year does Ted meet the Mother in the show timeline?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ted Mosby's childhood home state?",
+      "a": "Ohio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Marshalls pet dog mentioned briefly?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Lilys grandmother?",
+      "a": "Lois",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Virginia Mosby, Ted's mom?",
+      "a": "Cristine Rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ted's dad?",
+      "a": "Alfred Mosby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ted's dad?",
+      "a": "Michael Gross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Ted's dad's original actor?",
+      "a": "Paul Gross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Marshall give to the Empire State Building?",
+      "a": "None iconic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional Canadian actor Robin dates named Simon?",
+      "a": "Simon Tremblay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Simon Tremblay?",
+      "a": "James Van Der Beek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robins second Canadian pop persona?",
+      "a": "Robin Daggers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin Daggers hit song?",
+      "a": "P.S. I Love You",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jeanette, Ted's crazy ex?",
+      "a": "Abby Elliott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Whittaker family member Barney discovers?",
+      "a": "Half-brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ranjit?",
+      "a": "Marshall Manesh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of car does Ranjit drive?",
+      "a": "Town car",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Marshall's fantasy book he writes?",
+      "a": "The Good Inkwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the Naked Man technique on the show?",
+      "a": "Mitch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Italian love interest for Lily in season 6?",
+      "a": "The Captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robin's Metro News 1 co-anchor who hits on her?",
+      "a": "Sandy Rivers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the morning show Robin co-hosts with Don?",
+      "a": "Come On, Get Up New York!",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which state's supreme court does Marshall end up serving on?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many miles does the Fiero die just short of reaching?",
+      "a": "200,000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ted's Ohio hometown?",
+      "a": "Shaker Heights",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of James Stinson's husband?",
+      "a": "Tom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Quinn's stage name as a stripper?",
+      "a": "Karma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the movie The Wedding Bride?",
+      "a": "Tony Grafanello",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lily's name for punishing wrongdoers by stealing their belongings?",
+      "a": "Aldrin Justice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the neighborhood Marshall and Lily's apartment is in, named for a sewage plant?",
+      "a": "Dowisetrepla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the names of Marshall's two brothers?",
+      "a": "Marcus and Marvin Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barney's doppelganger's profession?",
+      "a": "Fertility doctor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Playbook play does Barney use while Lily exposes the book to Robin?",
+      "a": "The Scuba Diver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ted and Marshall drive to Chicago to visit which pizza place?",
+      "a": "Gazola's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the goat that attacks Ted?",
+      "a": "Missy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Marshall's favorite NFL team?",
+      "a": "Minnesota Vikings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Ted break up with on her birthday, twice?",
+      "a": "Natalie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of James Stinson's adopted son?",
+      "a": "Eli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the man Ted's mother Virginia marries?",
+      "a": "Clint",
+      "file": "qualityBackfill"
     }
   ]
 }

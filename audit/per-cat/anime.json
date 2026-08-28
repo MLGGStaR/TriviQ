@@ -106,6 +106,351 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What color is Naruto's iconic jumpsuit?",
+      "a": "Orange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime centers on titans attacking walled cities?",
+      "a": "Attack on Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Naruto's signature shadow technique?",
+      "a": "Shadow Clone Jutsu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Naruto's hair?",
+      "a": "Blonde",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Sasuke's hair?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the ramen-loving ninja's best friend and rival?",
+      "a": "Sasuke Uchiha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What eye power belongs to the Uchiha clan?",
+      "a": "Sharingan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features Soul Reapers fighting Hollows?",
+      "a": "Bleach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ichigo's sword called in Bleach?",
+      "a": "Zangetsu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main character's name in My Hero Academia?",
+      "a": "Izuku Midoriya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Deku's hero power called?",
+      "a": "One For All",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features Eren Yeager and Mikasa?",
+      "a": "Attack on Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the enemies in Demon Slayer called?",
+      "a": "Demons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organization does Tanjiro join?",
+      "a": "Demon Slayer Corps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does L drink constantly in Death Note?",
+      "a": "Tea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Light Yagami call himself?",
+      "a": "Kira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport is played in Kuroko no Basket?",
+      "a": "Basketball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main sport in Slam Dunk?",
+      "a": "Basketball",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features a virtual MMO death game?",
+      "a": "Sword Art Online",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main character of Sword Art Online?",
+      "a": "Kirito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature ate Gon's father's time?",
+      "a": "Chimera Ant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Gojo Satoru's hair?",
+      "a": "White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gojo's signature eye technique?",
+      "a": "Six Eyes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main female character in Attack on Titan?",
+      "a": "Mikasa Ackerman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main character's name in Bleach?",
+      "a": "Ichigo Kurosaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features Asta without magic in a magic world?",
+      "a": "Black Clover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item must be eaten to become a demon?",
+      "a": "Demon blood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Levi Ackerman famous for?",
+      "a": "Killing titans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is humanity's strongest soldier in AoT?",
+      "a": "Levi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Boruto's father?",
+      "a": "Naruto Uzumaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the manga Attack on Titan?",
+      "a": "Hajime Isayama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mikasa's scarf color?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features the Nara, Yamanaka, and Akimichi clans?",
+      "a": "Naruto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features the Phantom Blood arc?",
+      "a": "JoJo's Bizarre Adventure",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Stand ability from in JoJo?",
+      "a": "Life energy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Tanjiro's best demon slayer friend with a pig mask?",
+      "a": "Inosuke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the yellow-haired scared demon slayer?",
+      "a": "Zenitsu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the lion mascot of the Akatsuki?",
+      "a": "Red clouds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Eren's best friend's name?",
+      "a": "Armin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Saitama train to become a hero?",
+      "a": "One Punch Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the bald hero of One Punch Man?",
+      "a": "Saitama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What metal does Alphonse's body become in FMA?",
+      "a": "Armor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the female captain of the Scout Regiment?",
+      "a": "Hange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color are Gojo's eyes?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, who is the Toad Sage who trains Naruto and writes racy novels?",
+      "a": "Jiraiya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In My Hero Academia, what is the name of the Quirk passed down to Izuku Midoriya?",
+      "a": "One For All",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, which soldier is known as humanity's strongest?",
+      "a": "Levi Ackerman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what part of a Titan's body must be cut to kill it?",
+      "a": "The nape of the neck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Jujutsu Kaisen, which sorcerer teacher famously wears a blindfold?",
+      "a": "Satoru Gojo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In One Punch Man, what is the name of Saitama's cyborg disciple?",
+      "a": "Genos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Spy x Family, what is the name of the telepathic little girl?",
+      "a": "Anya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Chainsaw Man, what is the name of Denji's chainsaw devil dog?",
+      "a": "Pochita",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Fullmetal Alchemist, what is Alphonse Elric's soul bound to?",
+      "a": "A suit of armor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Ghibli film follows a young witch who moves to a seaside city and flies packages around on her broom?",
+      "a": "Kiki's Delivery Service",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Ghibli film is about a girl raised by wolves who fights against a mining town?",
+      "a": "Princess Mononoke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Naruto's son who stars in the sequel series?",
+      "a": "Boruto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Hunter x Hunter, which card-throwing villain with clown makeup is obsessed with Gon?",
+      "a": "Hisoka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, what are the corrupted spirits that Soul Reapers hunt called?",
+      "a": "Hollows",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what does Nezuko keep clenched in her mouth?",
+      "a": "A bamboo muzzle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what is the name of the demon king who turned Nezuko?",
+      "a": "Muzan Kibutsuji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In My Hero Academia, what is the name of Deku's explosive childhood rival?",
+      "a": "Katsuki Bakugo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Death Note, what is the alias the public gives to the mysterious killer?",
+      "a": "Kira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, which of Naruto's teammates has a crush on Sasuke and becomes a medical ninja?",
+      "a": "Sakura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Sasuke's older brother who wiped out their clan?",
+      "a": "Itachi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Japanese manga magazine has serialized Naruto, Bleach and One Piece?",
+      "a": "Weekly Shonen Jump",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what is the name of the outermost of the three walls?",
+      "a": "Wall Maria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Jujutsu Kaisen, what does Yuji Itadori swallow to gain his powers?",
+      "a": "Sukuna's finger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Sword Art Online, what is the name of Kirito's partner and love interest?",
+      "a": "Asuna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Tokyo Ghoul, what is the name of the protagonist who becomes half-ghoul?",
+      "a": "Ken Kaneki",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who is the protagonist in Naruto?",
       "a": "Naruto Uzumaki",
       "file": "App.jsx"
@@ -333,6 +678,476 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "Who wields the sword Wado Ichimonji?",
+      "a": "Zoro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What clan is Sasuke a member of?",
+      "a": "Uchiha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Naruto's teacher that dies in the Chunin Exams arc?",
+      "a": "Hayate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sasuke's older brother named?",
+      "a": "Itachi Uchiha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What village was Orochimaru originally from?",
+      "a": "Leaf Village",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organization is Genos a member of?",
+      "a": "Hero Association",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the rank above S-class in One Punch Man?",
+      "a": "There isn't one",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the founder of the Survey Corps?",
+      "a": "Erwin Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What commander leads the Scouts before Erwin?",
+      "a": "Keith Shadis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What titan shifter is Reiner Braun?",
+      "a": "Armored Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Colossal Titan shifter?",
+      "a": "Bertolt Hoover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bleach captain has a pink kimono?",
+      "a": "Shunsui Kyoraku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Aizen in Bleach?",
+      "a": "Traitor captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Principal of Jujutsu High?",
+      "a": "Masamichi Yaga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Megumi's shikigami that is never summoned?",
+      "a": "Mahoraga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Nobara Kugisaki's weapon?",
+      "a": "Hammer and nails",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mahito's technique?",
+      "a": "Idle Transfiguration",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Toji Fushiguro's curse technique?",
+      "a": "Heavenly Restriction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of Jujutsu Kaisen?",
+      "a": "Gege Akutami",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the signature breathing style of Tengen Uzui?",
+      "a": "Sound Breathing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Flame Hashira?",
+      "a": "Kyojuro Rengoku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Love Hashira's name?",
+      "a": "Mitsuri Kanroji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who trains Tanjiro in the Final Selection?",
+      "a": "Sakonji Urokodaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nezuko's weapon against demons?",
+      "a": "Blood Demon Art",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mask does Tanjiro wear?",
+      "a": "Hanafuda earrings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Muzan Kibutsuji?",
+      "a": "First demon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of My Hero Academia?",
+      "a": "Kohei Horikoshi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bakugo's hero name?",
+      "a": "Dynamight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Todoroki's Quirk?",
+      "a": "Half-Cold Half-Hot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Class 1-A's homeroom teacher?",
+      "a": "Shota Aizawa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Quirk belongs to Shigaraki?",
+      "a": "Decay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main villain of My Hero Academia?",
+      "a": "All For One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Re:Zero's protagonist?",
+      "a": "Subaru Natsuki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Subaru's power called?",
+      "a": "Return by Death",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Inuyasha's older half-brother?",
+      "a": "Sesshomaru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime follows a boy named Edward in an alternate Germany?",
+      "a": "Fullmetal Alchemist: Brotherhood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the homunculus of pride in FMA?",
+      "a": "Selim Bradley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Fuhrer in Fullmetal Alchemist?",
+      "a": "King Bradley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Roy Mustang's alchemy specialty?",
+      "a": "Flame",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Winry Rockbell?",
+      "a": "Ed's mechanic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features Kenshin Himura?",
+      "a": "Rurouni Kenshin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Kenshin's sword style emphasize?",
+      "a": "Non-killing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Vash the Stampede?",
+      "a": "Trigun protagonist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features a ghoul named Kaneki?",
+      "a": "Tokyo Ghoul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is JoJo's first protagonist?",
+      "a": "Jonathan Joestar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dio Brando?",
+      "a": "Main JoJo villain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Star Platinum's user?",
+      "a": "Jotaro Kujo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, who is the Fourth Hokage and Naruto's father?",
+      "a": "Minato Namikaze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what pattern decorates the Akatsuki's black cloaks?",
+      "a": "Red clouds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, which of the Legendary Sannin becomes the Fifth Hokage?",
+      "a": "Tsunade",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what clan does Hinata belong to?",
+      "a": "Hyuga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Sasuke's lightning-blade technique?",
+      "a": "Chidori",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, which village does Gaara lead as Kazekage?",
+      "a": "The Hidden Sand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, which Titan does Reiner Braun hold?",
+      "a": "The Armored Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, which Titan does Annie Leonhart hold?",
+      "a": "The Female Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what nation is at war with the island of Paradis?",
+      "a": "Marley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what is the name of the island the walls stand on?",
+      "a": "Paradis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, which Titan does Armin inherit from Bertholdt?",
+      "a": "The Colossal Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, which commander famously sacrifices his recruits in a charge against the Beast Titan?",
+      "a": "Erwin Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what is the middle of the three walls called?",
+      "a": "Wall Rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what breathing style does Zenitsu use?",
+      "a": "Thunder Breathing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what are the nine elite swordsmen of the Corps called?",
+      "a": "Hashira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what bird delivers missions to Demon Slayers?",
+      "a": "A crow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Fullmetal Alchemist colonel snaps his fingers to create fire?",
+      "a": "Roy Mustang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Fullmetal Alchemist, what country do the Elric brothers live in?",
+      "a": "Amestris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Fullmetal Alchemist, who is the Elrics' childhood friend and automail mechanic?",
+      "a": "Winry Rockbell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Fullmetal Alchemist, which homunculus can shapeshift into other people?",
+      "a": "Envy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, which Soul Reaper gives Ichigo her powers in the first episode?",
+      "a": "Rukia Kuchiki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, which captain betrays Soul Society and rules Hueco Mundo?",
+      "a": "Sosuke Aizen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, what is the title of the final manga arc adapted in 2022?",
+      "a": "Thousand-Year Blood War",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Death Note, which pop idol owns the second Death Note?",
+      "a": "Misa Amane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Death Note, which shinigami follows Misa?",
+      "a": "Rem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Death Note, which of L's successors is known for playing with toys and solving the case?",
+      "a": "Near",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In My Hero Academia, who leads the League of Villains?",
+      "a": "Tomura Shigaraki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In My Hero Academia, what is the hero name of Todoroki's father?",
+      "a": "Endeavor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Hunter x Hunter, what is the name of Kurapika's massacred clan?",
+      "a": "Kurta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Hunter x Hunter, what profession is Leorio studying to become?",
+      "a": "Doctor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In One Punch Man, what is Saitama's registered hero name?",
+      "a": "Caped Baldy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In One Punch Man, which bicycle-riding C-Class hero never gives up?",
+      "a": "Mumen Rider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Code Geass, what masked alter ego does Lelouch adopt?",
+      "a": "Zero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Neon Genesis Evangelion, what organization does Shinji's father command?",
+      "a": "NERV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Cowboy Bebop, what is the name of the genetically enhanced corgi?",
+      "a": "Ein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Spy x Family, what is Loid Forger's spy codename?",
+      "a": "Twilight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Spy x Family, what school does Anya attend?",
+      "a": "Eden Academy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Chainsaw Man, which red-haired woman is secretly the Control Devil?",
+      "a": "Makima",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In JoJo's Bizarre Adventure, what is Jotaro Kujo's Stand?",
+      "a": "Star Platinum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In JoJo's Bizarre Adventure, what is Dio's time-stopping Stand?",
+      "a": "The World",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Haikyuu!!, what nickname is Kageyama mocked with from middle school?",
+      "a": "King of the Court",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Vinland Saga, who is the young warrior seeking revenge on Askeladd?",
+      "a": "Thorfinn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Mob Psycho 100, who is Mob's con-artist mentor?",
+      "a": "Reigen Arataka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed the anime films Your Name and Suzume?",
+      "a": "Makoto Shinkai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Akira, what is the name of the city where the story is set?",
+      "a": "Neo-Tokyo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Spirited Away, what is the name of the witch who runs the bathhouse?",
+      "a": "Yubaba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Black Clover, what is Asta's power that cancels spells called?",
+      "a": "Anti-Magic",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is the power system in Hunter x Hunter?",
       "a": "Nen — manipulating life energy in six types: Enhancement, Emission, Transmutation, Manipulation, Conjuration, Specialization",
       "file": "App.jsx"
@@ -380,11 +1195,6 @@
     {
       "q": "Who is Gon Freecss?",
       "a": "A cheerful boy who becomes a Hunter to find his legendary father Ging",
-      "file": "App.jsx"
-    },
-    {
-      "q": "What is the One Piece?",
-      "a": "The legendary treasure left by the Pirate King — finding it makes you King of the Pirates",
       "file": "App.jsx"
     },
     {
@@ -573,6 +1383,466 @@
       "q": "Who is the strongest character in Dragon Ball Super?",
       "a": "Zeno (Grand Priest serves him)",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of L's true successor who takes his place?",
+      "a": "Near",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What anime features a protagonist named Thorfinn seeking revenge against Askeladd?",
+      "a": "Vinland Saga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs Spirited Away and Princess Mononoke?",
+      "a": "Hayao Miyazaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who assassinated the Third Hokage?",
+      "a": "Orochimaru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What village was Itachi's father leader of?",
+      "a": "Uchiha Clan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Minato's signature jutsu?",
+      "a": "Flying Thunder God",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the Rasengan?",
+      "a": "Minato Namikaze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Sage of Six Paths' real name?",
+      "a": "Hagoromo Otsutsuki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Kaguya Otsutsuki?",
+      "a": "Mother of chakra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Obito Uchiha's alias?",
+      "a": "Tobi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What village was Pain attacking in Shippuden?",
+      "a": "Hidden Leaf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Pain's six bodies called?",
+      "a": "Six Paths of Pain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nagato's real name?",
+      "a": "Nagato Uzumaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the third Raikage?",
+      "a": "A",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Hyuga's eye technique called?",
+      "a": "Byakugan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sword is used by Kisame Hoshigaki?",
+      "a": "Samehada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the captain of Squad Zero in Bleach?",
+      "a": "Ichibei Hyosube",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the quincy king?",
+      "a": "Yhwach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Byakuya Kuchiki's Bankai?",
+      "a": "Senbonzakura Kageyoshi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the captain of Squad 11 in Bleach?",
+      "a": "Kenpachi Zaraki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kenpachi's sword's name?",
+      "a": "Nozarashi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the head captain of the Gotei 13?",
+      "a": "Yamamoto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Aizen's Zanpakuto?",
+      "a": "Kyoka Suigetsu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What power does Kyoka Suigetsu have?",
+      "a": "Complete hypnosis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Chairman of the Hunter Association?",
+      "a": "Isaac Netero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Netero's signature technique?",
+      "a": "Hundred-Type Guanyin Bodhisattva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the King of the Chimera Ants?",
+      "a": "Meruem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Meruem's royal guard called?",
+      "a": "Pitou, Pouf, Youpi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hisoka's Nen type?",
+      "a": "Transmutation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Phantom Troupe?",
+      "a": "Chrollo Lucilfer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number tattoo does Chrollo have?",
+      "a": "0",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Alluka Zoldyck?",
+      "a": "Killua's sibling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kurapika's Nen type?",
+      "a": "Conjuration",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Founding Titan's true name?",
+      "a": "Ymir Fritz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first king of the walls?",
+      "a": "Karl Fritz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Eren activate the Rumbling?",
+      "a": "Year 854",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Zeke Yeager?",
+      "a": "Eren's half-brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What titan power does Zeke possess?",
+      "a": "Beast Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who killed Eren at the end of Attack on Titan?",
+      "a": "Mikasa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Warhammer Titan's user?",
+      "a": "Lara Tybur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the Titans originally?",
+      "a": "Ymir Fritz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Kyubey's species in Madoka Magica?",
+      "a": "Incubator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote Madoka Magica?",
+      "a": "Gen Urobuchi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Holo in Spice and Wolf?",
+      "a": "Wise Wolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the author of Monster?",
+      "a": "Naoki Urasawa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the villain of Monster?",
+      "a": "Johan Liebert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the psychiatrist in Monster?",
+      "a": "Dr. Tenma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Akira released?",
+      "a": "1988",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Akira?",
+      "a": "Katsuhiro Otomo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the gang leader in Akira?",
+      "a": "Kaneda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the manga Vagabond?",
+      "a": "Takehiko Inoue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Naruto's mother?",
+      "a": "Kushina Uzumaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, which Akatsuki member fights with explosive clay?",
+      "a": "Deidara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, which Akatsuki member is a puppet master from the Sand?",
+      "a": "Sasori",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what tailed beast is sealed inside Gaara?",
+      "a": "Shukaku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Might Guy's forbidden technique that pushes his body past its limits?",
+      "a": "The Eight Gates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Kakashi's small pug summon?",
+      "a": "Pakkun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Naruto, what is the name of Orochimaru's giant snake summon?",
+      "a": "Manda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, who is Eren's half-brother?",
+      "a": "Zeke Yeager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what is the innermost wall called?",
+      "a": "Wall Sina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, what is the name of Eren's father?",
+      "a": "Grisha Yeager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, which Titan does Pieck Finger hold?",
+      "a": "The Cart Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Attack on Titan, who becomes commander of the Survey Corps after Erwin?",
+      "a": "Hange Zoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Jujutsu Kaisen, what is Gojo's Domain Expansion called?",
+      "a": "Unlimited Void",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Jujutsu Kaisen, what is Sukuna's Domain Expansion called?",
+      "a": "Malevolent Shrine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Jujutsu Kaisen, what is Megumi Fushiguro's inherited power that summons shikigami?",
+      "a": "Ten Shadows Technique",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what is the group of Muzan's strongest demons called?",
+      "a": "The Twelve Kizuki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Demon Slayer, what color is Tanjiro's Nichirin blade?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Fullmetal Alchemist: Brotherhood, which homunculus is known as the Ultimate Shield?",
+      "a": "Greed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, what is the name of Ichigo's hometown?",
+      "a": "Karakura Town",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, what is the name of Aizen's ten elite Arrancar?",
+      "a": "The Espada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Bleach, what is Ichigo's Quincy classmate called?",
+      "a": "Uryu Ishida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Hunter x Hunter, what is Hisoka's sticky, elastic Nen ability called?",
+      "a": "Bungee Gum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Hunter x Hunter, what is Killua's lightning-fast Nen technique called?",
+      "a": "Godspeed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Death Note, what sport do Light and L play against each other while sizing each other up?",
+      "a": "Tennis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In My Hero Academia, what is Ochaco Uraraka's Quirk?",
+      "a": "Zero Gravity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In My Hero Academia, what is Mirio Togata's Quirk?",
+      "a": "Permeation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In One Punch Man, which S-Class esper hero is known as the Tornado of Terror?",
+      "a": "Tatsumaki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Berserk, what is the name of Guts' massive sword?",
+      "a": "Dragonslayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Berserk, what is the mark on Guts' neck that draws demons to him?",
+      "a": "The Brand of Sacrifice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Neon Genesis Evangelion, which numbered Eva does Asuka pilot?",
+      "a": "Unit-02",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Cowboy Bebop, what is the name of the eccentric child hacker who joins the crew?",
+      "a": "Edward",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Tokyo Ghoul, what is the name of the coffee shop run by friendly ghouls?",
+      "a": "Anteiku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Steins;Gate, what mad-scientist alias does Okabe give himself?",
+      "a": "Hououin Kyouma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Sword Art Online, how many floors does the castle Aincrad have?",
+      "a": "100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Spy x Family, what is Yor's assassin codename?",
+      "a": "Thorn Princess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Chainsaw Man, what is Power a fiend of?",
+      "a": "The Blood Devil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In JoJo's Bizarre Adventure, what is Giorno Giovanna's Stand?",
+      "a": "Gold Experience",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Haikyuu!!, what rival school is Oikawa the captain of?",
+      "a": "Aoba Johsai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Assassination Classroom, what is the number of the outcast class that must kill their teacher?",
+      "a": "3-E",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Ghost in the Shell, what unit does Major Kusanagi belong to?",
+      "a": "Public Security Section 9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Neon Genesis Evangelion, what is the name of the first Angel, from whom the Evas are derived?",
+      "a": "Adam",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the Stands system in JoJo's Bizarre Adventure?",

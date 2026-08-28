@@ -131,6 +131,221 @@
       "file": "triviaUltraExpansions"
     },
     {
+      "q": "What color is the Flash's suit?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Iris West?",
+      "a": "Candice Patton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What lab facility does Barry work with?",
+      "a": "S.T.A.R. Labs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weather event gave Barry his powers?",
+      "a": "Particle accelerator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barry's day job?",
+      "a": "CSI",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Iris's last name?",
+      "a": "West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the mentor scientist in a wheelchair?",
+      "a": "Harrison Wells",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sibling of Iris becomes Kid Flash?",
+      "a": "Wally West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for superpowered people in the show?",
+      "a": "Metahumans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the engineer nicknamed for cold puns?",
+      "a": "Cisco Ramon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What speedster rival wears yellow?",
+      "a": "Reverse-Flash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Barry's mother was killed by a man in what kind of lightning?",
+      "a": "Yellow lightning",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Real name of the villain Captain Cold?",
+      "a": "Leonard Snart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What TV news publication does Iris write for?",
+      "a": "Central City Picture News",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shark-man villain appears early in the series?",
+      "a": "King Shark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gorilla antagonist leads apes in a mirror city?",
+      "a": "Grodd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Barry's engaged partner by season three?",
+      "a": "Iris West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Barry's super fast running ability?",
+      "a": "Super speed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network airs The Flash?",
+      "a": "The CW",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed Barry's suit in the Arrowverse?",
+      "a": "Cisco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What superhero team do Arrowverse heroes form?",
+      "a": "Team Flash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Arrow character crosses over to help Flash early?",
+      "a": "Oliver Queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Flash is a part of what larger TV universe?",
+      "a": "Arrowverse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who bullied Barry as a child and later returns?",
+      "a": "Tony Woodward",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Patty, briefly Barry's girlfriend?",
+      "a": "Patty Spivot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbol appears on the Flash's chest?",
+      "a": "Lightning bolt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Name for the breach devices that open portals?",
+      "a": "Breaches",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Cisco give most metahumans?",
+      "a": "Supervillain names",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cisco has the power to see other what?",
+      "a": "Dimensions",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The show premiered in which year?",
+      "a": "2014",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created the Flash TV series?",
+      "a": "Greg Berlanti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what comic publisher does The Flash originate?",
+      "a": "DC Comics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barry's middle name?",
+      "a": "Henry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color lightning surrounds Barry?",
+      "a": "Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Barry's murdered mother?",
+      "a": "Nora Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the Reverse-Flash's suit?",
+      "a": "Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the coffee shop where Iris works in season 1?",
+      "a": "Jitters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which detective is Iris's boyfriend in season 1?",
+      "a": "Eddie Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant humanoid sea-predator villain from Earth-2?",
+      "a": "King Shark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did The Flash run?",
+      "a": "9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does the media give Barry before the name Flash sticks?",
+      "a": "The Streak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What forms above Central City at the end of season 1?",
+      "a": "A singularity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain team Captain Cold puts together?",
+      "a": "The Rogues",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who is Barry Allen?",
       "a": "A forensic scientist who gains super-speed after being struck by lightning during a particle accelerator explosion",
       "file": "App.jsx"
@@ -286,6 +501,346 @@
       "q": "What company built the particle accelerator?",
       "a": "STAR Labs",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Cisco Ramon?",
+      "a": "Carlos Valdes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Caitlin Snow?",
+      "a": "Danielle Panabaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Reverse-Flash?",
+      "a": "Tom Cavanagh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Joe West?",
+      "a": "Jesse L. Martin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the true identity of Harrison Wells in season one?",
+      "a": "Eobard Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villain's power is electricity, named Farooq?",
+      "a": "Blackout",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What daughter from the future does Barry discover?",
+      "a": "Nora Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item stores DeVoe's intelligence?",
+      "a": "Thinking Cap",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ralph Dibny becomes what stretchy hero?",
+      "a": "Elongated Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the speedster villain Savitar revealed to be?",
+      "a": "Future Barry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Bug-Eyed Bandit?",
+      "a": "Brie Larvan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which villain bends time with magic, from Earth-19?",
+      "a": "H.R. Wells",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jesse Quick's father?",
+      "a": "Harry Wells",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the team's AI named by Cisco?",
+      "a": "Gideon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character dies saving Central City in season three?",
+      "a": "H.R. Wells",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Eddie Thawne shoots himself to erase which ancestor?",
+      "a": "Eobard Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Eddie Thawne?",
+      "a": "Rick Cosnett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ronnie Raymond merges with Stein to form whom?",
+      "a": "Firestorm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What secret arc involves a cage that traps metas?",
+      "a": "The Pipeline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The original Jay Garrick wears what headgear?",
+      "a": "Winged helmet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Iris's long-lost mother?",
+      "a": "Francine West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Iris's biological brother introduced in season two?",
+      "a": "Wally West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season finale introduces Flashpoint?",
+      "a": "Season 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Flashpoint storyline alters whose origin?",
+      "a": "Cisco's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What doppelganger becomes a villain on Earth-2?",
+      "a": "Killer Frost",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Caitlin's mother is a scientist named what?",
+      "a": "Carla Tannhauser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Barry trains with which Earth-2 speedster?",
+      "a": "Jay Garrick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What former Arrow character joins Team Flash as tech?",
+      "a": "Felicity Smoak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What satellite fell during DeVoe's plan?",
+      "a": "S.T.A.R. Labs satellite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cicada hunts which group?",
+      "a": "Metahumans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Cicada wield?",
+      "a": "Dagger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the second Cicada?",
+      "a": "Grace Gibbons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What future newspaper headline foreshadows Barry's fate?",
+      "a": "Crisis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which crossover erases Nora from existence?",
+      "a": "Crisis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Joe's son with Cecile is named what?",
+      "a": "Jenna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cecile develops what kind of power?",
+      "a": "Telepathy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Cecile's profession?",
+      "a": "District attorney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which villain stole and replaced DeVoe's body?",
+      "a": "DeVoe himself",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played The Thinker?",
+      "a": "Neil Sandilands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Zoom's real alias on Earth-2 was?",
+      "a": "Jay Garrick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jesse Chambers is the daughter of which Wells?",
+      "a": "Harry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bar do team members frequent?",
+      "a": "Jitters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Jitters is known for serving what?",
+      "a": "Coffee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Iris briefly loses Barry's what in season 3?",
+      "a": "Memory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What archery hero teams up regularly?",
+      "a": "Green Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the villain Zoom?",
+      "a": "Teddy Sears",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Killer Frost's boyfriend in later seasons is?",
+      "a": "Mark Blaine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Zoom's lightning?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Heat Wave's real name?",
+      "a": "Mick Rory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Weather Wizard's real name?",
+      "a": "Mark Mardon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Eddie Thawne erase the Reverse-Flash from existence?",
+      "a": "Shoots himself",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who dies closing the singularity at the start of season 2?",
+      "a": "Ronnie Raymond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bart Allen's superhero name?",
+      "a": "Impulse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which CCPD colleague of Barry's is secretly Doctor Alchemy in season 3?",
+      "a": "Julian Albert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who dies in Iris's place when Savitar tries to kill her?",
+      "a": "H.R. Wells",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what dimension is Iris trapped for much of season 6?",
+      "a": "The Mirrorverse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which alien tries to kill Barry to prevent a future apocalypse in the 'Armageddon' event?",
+      "a": "Despero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two colors make up Kid Flash's suit?",
+      "a": "Yellow and red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes Martin Stein's second Firestorm partner?",
+      "a": "Jefferson Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which CCPD officer dates Barry in season 2?",
+      "a": "Patty Spivot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creatures hunt speedsters who tamper with the timeline?",
+      "a": "Time Wraiths",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the CCPD captain that Barry answers to?",
+      "a": "David Singh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Ralph Dibny have before joining Team Flash?",
+      "a": "Private investigator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the city of intelligent gorillas on Earth-2?",
+      "a": "Gorilla City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which former STAR Labs employee attacks with sonic gloves?",
+      "a": "Pied Piper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the newspaper Iris works for in the early seasons?",
+      "a": "Central City Picture News",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which alternate-Earth speedster sacrifices himself in Barry's place during Crisis on Infinite Earths?",
+      "a": "The Earth-90 Flash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the Flash and Supergirl musical crossover episode?",
+      "a": "Duet",
+      "file": "qualityBackfill"
     },
     {
       "q": "What icy identity does Caitlin become?",
@@ -460,13 +1015,333 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is the name of the alternate Earth's dark version of Flash?",
-      "a": "Savitar",
+      "q": "Who plays Wally West?",
+      "a": "Keiynan Lonsdale",
       "file": "qualityBackfill"
     },
     {
-      "q": "Who created Zoom's time remnants storyline actor?",
-      "a": "Teddy Sears",
+      "q": "What year did The Flash premiere?",
+      "a": "2014",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Nora West-Allen?",
+      "a": "Jessica Parker Kennedy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Barry's mother Nora?",
+      "a": "Michelle Harrison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In season six, who is the evil alter ego of Barry?",
+      "a": "Bloodwork",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Nash Wells take?",
+      "a": "Pariah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Godspeed actor voices the villain?",
+      "a": "Karan Oberoi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What street corner was Iris killed on in Savitar's future?",
+      "a": "Infantino Street",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode title involves Gorilla City?",
+      "a": "Attack on Gorilla City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ally speedster comes from the 64th century?",
+      "a": "Eobard Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Barry's prison number while framed was?",
+      "a": "3562",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Mirrorverse villain replaces Iris?",
+      "a": "Mirror Iris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season does Nash Wells debut?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancient force awakens in season seven?",
+      "a": "Forces",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Psych is created from what force?",
+      "a": "Sage Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Alexa Rivera is host of which force?",
+      "a": "Strength Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Deon Owens wields which force?",
+      "a": "Still Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Barry's artifact from the future that glows?",
+      "a": "Time sphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who hosts Frost after Caitlin's separation?",
+      "a": "Killer Frost",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group does Amunet lead?",
+      "a": "Black market",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Amunet Black's real name?",
+      "a": "Leslie Jocoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Harry Wells's spinal issue leads him to invent what?",
+      "a": "Thinking cap",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the showrunner that departs after season seven?",
+      "a": "Eric Wallace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Duet features which musical guest star?",
+      "a": "Darren Criss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Harry's daughter's love interest on Earth-2?",
+      "a": "Wally West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Godspeed's secret identity?",
+      "a": "August Heart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the season eight big bad?",
+      "a": "Despero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Despero arrives to judge whom?",
+      "a": "Barry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Meena Dhawan becomes which speedster?",
+      "a": "Fast Track",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Fuerza is the host of which force?",
+      "a": "Strength",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In season nine, Red Death is an alternate version of whom?",
+      "a": "Batwoman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who portrays Red Death?",
+      "a": "Javicia Leslie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the final antagonist of the series?",
+      "a": "Cobalt Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cobalt Blue is Barry's what?",
+      "a": "Twin brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Christmas episode features Santa-themed villains?",
+      "a": "Running to Stand Still",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "The Trickster is played by which former Flash actor?",
+      "a": "Mark Hamill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mark Hamill's character name in The Flash?",
+      "a": "James Jesse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pilot episode villain is the Weather Wizard?",
+      "a": "Clyde Mardon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mark Mardon takes over as which villain?",
+      "a": "Weather Wizard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character leaves after actor Hartley Sawyer was fired?",
+      "a": "Ralph Dibny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What recurring villain uses sonic tech named Pied Piper?",
+      "a": "Hartley Rathaway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Pied Piper gains what kind of power?",
+      "a": "Sonic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What finale season number did The Flash end on?",
+      "a": "Nine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the villain alias of Leonard Snart's sister Lisa?",
+      "a": "Golden Glider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Wally's mother, Joe's estranged wife?",
+      "a": "Francine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the new personality that replaces Frost in Caitlin's body in season 9?",
+      "a": "Khione",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which villain kills Frost in season 8?",
+      "a": "Deathstorm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which speedster villain does Wally fight in the Flashpoint timeline?",
+      "a": "The Rival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who shoots and kills Savitar?",
+      "a": "Iris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Thinker's wife and partner?",
+      "a": "Marlize DeVoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Thinker's plan to wipe out human intelligence?",
+      "a": "The Enlightenment",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Cicada's niece, who becomes the second Cicada?",
+      "a": "Grace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Force is personified by a character named Bashir in season 7?",
+      "a": "The Sage Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In whose form does the Speed Force appear to Barry?",
+      "a": "His mother Nora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which resurrected character becomes Cobalt Blue in season 9?",
+      "a": "Eddie Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season 9 speedster villain is an evil Batwoman from another Earth?",
+      "a": "Red Death",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the wealthy woman Ralph Dibny falls for in season 6?",
+      "a": "Sue Dearbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which female speedster is destroyed by Velocity 9 in season 2?",
+      "a": "Trajectory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which army general experimented on Grodd?",
+      "a": "Wade Eiling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reporter does Barry date in season 1?",
+      "a": "Linda Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the villain alias of Cisco's Earth-2 doppelganger?",
+      "a": "Reverb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the man in the iron mask held prisoner by Zoom?",
+      "a": "The real Jay Garrick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Team Flash call Barry's ability to move so fast that time seems frozen?",
+      "a": "Flashtime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of Gorilla City?",
+      "a": "Solovar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of the shapeshifting villain Everyman?",
+      "a": "Hannibal Bates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many metahumans are created on the bus in season 4?",
+      "a": "12",
       "file": "qualityBackfill"
     },
     {

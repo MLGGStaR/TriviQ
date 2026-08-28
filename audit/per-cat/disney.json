@@ -126,6 +126,166 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What is the name of the princess with seven dwarfs?",
+      "a": "Snow White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Frozen release?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the villain in Beauty and the Beast?",
+      "a": "Gaston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main character in 'The Little Mermaid'?",
+      "a": "Ariel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney princess has a pet tiger named Rajah?",
+      "a": "Jasmine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney movie features a snowman named Olaf?",
+      "a": "Frozen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the fairy that accompanies Peter Pan?",
+      "a": "Tinker Bell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Moana's pet pig?",
+      "a": "Pua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mickey Mouse's girlfriend?",
+      "a": "Minnie Mouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of animal is Dumbo?",
+      "a": "Elephant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the princess in 'Beauty and the Beast'?",
+      "a": "Belle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Cinderella's ball gown?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Snow White the poisoned apple?",
+      "a": "Evil Queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney park is located in California?",
+      "a": "Disneyland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney movie features Lightning McQueen?",
+      "a": "Cars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the space ranger in 'Toy Story'?",
+      "a": "Buzz Lightyear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Pocahontas's raccoon friend?",
+      "a": "Meeko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Anna's sister in 'Frozen'?",
+      "a": "Elsa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tiana's restaurant in 'The Princess and the Frog'?",
+      "a": "Tiana's Palace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the love interest in 'Tangled'?",
+      "a": "Flynn Rider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bear in 'The Jungle Book'?",
+      "a": "Baloo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney princess is known for her glass slipper?",
+      "a": "Cinderella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Mickey Mouse?",
+      "a": "Walt Disney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of animal is Pumbaa?",
+      "a": "Warthog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sleeping Beauty's real name?",
+      "a": "Aurora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney movie is set in ancient China?",
+      "a": "Mulan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Andy's dog in 'Toy Story'?",
+      "a": "Buster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney movie features Remy the rat?",
+      "a": "Ratatouille",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Beast's servant clock?",
+      "a": "Cogsworth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the monster duo in 'Monsters, Inc.'?",
+      "a": "Mike and Sulley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney movie features the villain Gaston?",
+      "a": "Beauty and the Beast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Stitch's alien friend?",
+      "a": "Lilo",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is the name of Simba's father?",
       "a": "Mufasa",
       "file": "App.jsx"
@@ -351,6 +511,191 @@
       "q": "What villain wants 101 Dalmatian puppies?",
       "a": "Cruella de Vil",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who voices Woody in Toy Story?",
+      "a": "Tom Hanks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Pixar release Toy Story?",
+      "a": "1995",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed The Lion King (1994)?",
+      "a": "Roger Allers and Rob Minkoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did Disneyland open in California?",
+      "a": "1955",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Elsa in the 'Frozen' films?",
+      "a": "Idina Menzel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film won the first Best Animated Feature Oscar?",
+      "a": "Shrek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Nightmare Before Christmas'?",
+      "a": "Henry Selick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Frozen 2', what is the name of the Nokk?",
+      "a": "Water horse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the score for 'The Lion King'?",
+      "a": "Hans Zimmer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first full-length animated Disney film?",
+      "a": "Snow White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the kingdom in 'Frozen'?",
+      "a": "Arendelle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Pocahontas's hummingbird friend?",
+      "a": "Flit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney park opened in Florida in 1971?",
+      "a": "Walt Disney World",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the songs for 'The Little Mermaid'?",
+      "a": "Howard Ashman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main character's name in 'Zootopia'?",
+      "a": "Judy Hopps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Wreck-It Ralph,' what arcade game is Ralph from?",
+      "a": "Fix-It Felix Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film features the song 'Part of Your World'?",
+      "a": "The Little Mermaid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer known for many Disney musicals including 'Mary Poppins'?",
+      "a": "Richard Sherman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in 'Hercules'?",
+      "a": "Hades",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Mushu in 'Mulan'?",
+      "a": "Eddie Murphy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the floating lanterns festival in 'Tangled'?",
+      "a": "Festival of Lights",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film was Pixar's first feature-length film?",
+      "a": "Toy Story",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Mulan in the animated film?",
+      "a": "Ming-Na Wen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the setting of 'Brave'?",
+      "a": "Scotland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hercules's horse?",
+      "a": "Pegasus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the full name of Elsa and Anna's father?",
+      "a": "King Agnarr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Coco', what is the name of Miguel's great-great-grandfather?",
+      "a": "Hector",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the spaceship in 'WALL-E'?",
+      "a": "Axiom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which year was 'The Lion King' originally released?",
+      "a": "1994",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Quasimodo's goat?",
+      "a": "Djali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Genie in the 2019 live-action 'Aladdin'?",
+      "a": "Will Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Captain Hook's ship?",
+      "a": "Jolly Roger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ariel's octopus aunt in the musical?",
+      "a": "Ursula",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1994 Disney song won the Best Original Song Oscar?",
+      "a": "Can You Feel the Love Tonight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the antagonist dog in 'Up'?",
+      "a": "Alpha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Rapunzel in 'Tangled'?",
+      "a": "Mandy Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film features the song 'How Far I'll Go'?",
+      "a": "Moana",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is WALL-E an acronym for?",
@@ -613,6 +958,251 @@
       "q": "What is the name of the emotion that is new in Inside Out 2?",
       "a": "Anxiety",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What year did Disney release its first feature film Snow White?",
+      "a": "1937",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the voice of Ariel in The Little Mermaid?",
+      "a": "Jodi Benson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Pixar Lamp's name?",
+      "a": "Luxo Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Pixar acquired by Disney?",
+      "a": "2006",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Dory in Finding Nemo?",
+      "a": "Ellen DeGeneres",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney animator was known as one of the Nine Old Men?",
+      "a": "Frank Thomas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the train in Disneyland's main entrance?",
+      "a": "Disneyland Railroad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first African American Disney princess?",
+      "a": "Tiana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film was Pixar's first sequel?",
+      "a": "Toy Story 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Walt Disney die?",
+      "a": "1966",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the 'Beauty and the Beast' Broadway musical score?",
+      "a": "Alan Menken",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nani's boyfriend in 'Lilo & Stitch'?",
+      "a": "David",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Emperor's New Groove,' what animal is Kuzco turned into?",
+      "a": "Llama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Mr. Incredible in 'The Incredibles'?",
+      "a": "Craig T. Nelson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Disney's 'Fantasia' release?",
+      "a": "1940",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ariel's mother?",
+      "a": "Athena",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film features the song 'Colors of the Wind'?",
+      "a": "Pocahontas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Frozen 2,' what is the name of the forest the sisters enter?",
+      "a": "Enchanted Forest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the novel that 'Bambi' is based on?",
+      "a": "Felix Salten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Beast's real first name in the Broadway version?",
+      "a": "Adam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did EPCOT open at Walt Disney World?",
+      "a": "1982",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the car in 'The Love Bug'?",
+      "a": "Herbie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney character was originally named Mortimer Mouse?",
+      "a": "Mickey Mouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of the Mad Hatter in Tim Burton's film?",
+      "a": "Tarrant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed the original 'The Lion King' in 1994?",
+      "a": "Rob Minkoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the elephant in the 'Jungle Book' pack?",
+      "a": "Colonel Hathi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film was directed by Chris Sanders and Dean DeBlois?",
+      "a": "Lilo & Stitch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tree of life in 'Pocahontas'?",
+      "a": "Grandmother Willow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voiced Jafar in the animated 'Aladdin'?",
+      "a": "Jonathan Freeman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney park opened in Paris in 1992?",
+      "a": "Disneyland Paris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Mulan,' what is the name of the lucky cricket?",
+      "a": "Cri-Kee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Kida in 'Atlantis: The Lost Empire'?",
+      "a": "Kidagakash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Walt Disney's wife?",
+      "a": "Lillian Disney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Haunted Mansion's original opening year at Disneyland?",
+      "a": "1969",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film features the character Madame Medusa?",
+      "a": "The Rescuers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the band Ariel sings with on stage?",
+      "a": "Daughters of Triton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the music for 'The Princess and the Frog'?",
+      "a": "Randy Newman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Hercules,' who voices Megara?",
+      "a": "Susan Egan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the spaceship from 'Lilo & Stitch'?",
+      "a": "Red One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Disney film was the first to use the multiplane camera?",
+      "a": "The Old Mill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was 'The Rescuers Down Under' released?",
+      "a": "1990",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company did Disney acquire in 2006?",
+      "a": "Pixar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the lyrics for 'Let It Go'?",
+      "a": "Robert Lopez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Finding Nemo,' what is the name of the dentist?",
+      "a": "Philip Sherman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first Disney animated feature produced in CGI?",
+      "a": "Chicken Little",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the song 'Zero to Hero'?",
+      "a": "Hercules",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Kronk in 'The Emperor's New Groove'?",
+      "a": "Patrick Warburton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Simba's wife?",
+      "a": "Nala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Anna in the 'Frozen' films?",
+      "a": "Kristen Bell",
+      "file": "qualityBackfill"
     },
     {
       "q": "What real psychological theory is the basis for Inside Out?",

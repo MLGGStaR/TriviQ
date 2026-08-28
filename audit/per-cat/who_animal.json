@@ -7,8 +7,8 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am the largest land animal on Earth.",
-      "a": "African elephant",
+      "q": "I am the largest land animal on Earth, famous for my long trunk.",
+      "a": "Elephant",
       "wiki": "African_bush_elephant",
       "file": "newCategoriesBank"
     },
@@ -31,12 +31,6 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I have a long trunk and large ears, and I live in Asia.",
-      "a": "Asian elephant",
-      "wiki": "Asian_elephant",
-      "file": "newCategoriesBank"
-    },
-    {
       "q": "I jump using powerful hind legs and carry my young in a pouch.",
       "a": "Kangaroo",
       "wiki": "Kangaroo",
@@ -44,7 +38,7 @@
     },
     {
       "q": "I have a black-and-white face and eat bamboo in China.",
-      "a": "Giant panda",
+      "a": "Panda",
       "wiki": "Giant_panda",
       "file": "newCategoriesBank"
     },
@@ -79,8 +73,8 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a slow-moving reptile in trees in Asia, often green.",
-      "a": "Green tree python",
+      "q": "I am a long slithering reptile, sometimes green, that lives in trees.",
+      "a": "Snake",
       "wiki": "Green_tree_python",
       "file": "newCategoriesBank"
     },
@@ -115,7 +109,7 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am the fastest swimmer in the ocean.",
+      "q": "I am the fastest swimmer in the ocean with a pointed sail-like fin.",
       "a": "Sailfish",
       "wiki": "Sailfish",
       "file": "newCategoriesBank"
@@ -134,24 +128,24 @@
     },
     {
       "q": "I am tiny, fly, and produce honey.",
-      "a": "Honey bee",
+      "a": "Bee",
       "wiki": "Western_honey_bee",
       "file": "newCategoriesBank"
     },
     {
       "q": "I am a large bird of prey, the national symbol of the United States.",
-      "a": "Bald eagle",
+      "a": "Eagle",
       "wiki": "Bald_eagle",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a black-and-white aquatic mammal nicknamed the 'killer whale.'",
+      "q": "I am a black-and-white aquatic mammal also called the killer whale.",
       "a": "Orca",
       "wiki": "Orca",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small mammal who carries my young on my back, common in Australia.",
+      "q": "I am a small furry marsupial from Australia who eats eucalyptus.",
       "a": "Koala",
       "wiki": "Koala",
       "file": "newCategoriesBank"
@@ -213,14 +207,14 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a great ape from the rainforests of Borneo and Sumatra.",
+      "q": "I am a great ape with shaggy orange fur from Borneo and Sumatra.",
       "a": "Orangutan",
       "wiki": "Orangutan",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am the largest reptile alive, found in saltwater.",
-      "a": "Saltwater crocodile",
+      "q": "I am the largest reptile alive, often found in saltwater.",
+      "a": "Crocodile",
       "wiki": "Saltwater_crocodile",
       "file": "newCategoriesBank"
     },
@@ -243,25 +237,19 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a marsupial from Australia who eats only eucalyptus.",
-      "a": "Koala",
-      "wiki": "Koala",
-      "file": "newCategoriesBank"
-    },
-    {
       "q": "I am the only mammal that can truly fly.",
       "a": "Bat",
       "wiki": "Bat",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a marine mammal known for echolocation and intelligence, often gray.",
-      "a": "Bottlenose dolphin",
+      "q": "I am a marine mammal known for echolocation and playful intelligence.",
+      "a": "Dolphin",
       "wiki": "Common_bottlenose_dolphin",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large bear native to North America with a hump on my back.",
+      "q": "I am a huge brown bear native to North America with a hump on my back.",
       "a": "Grizzly bear",
       "wiki": "Grizzly_bear",
       "file": "newCategoriesBank"
@@ -273,25 +261,25 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a flightless bird from New Zealand and the national symbol there.",
+      "q": "I am a flightless bird and the national symbol of New Zealand.",
       "a": "Kiwi",
       "wiki": "Kiwi_(bird)",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am the heaviest snake in the world, found in South America.",
-      "a": "Green anaconda",
+      "q": "I am a massive snake of South America, the heaviest in the world.",
+      "a": "Anaconda",
       "wiki": "Green_anaconda",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a hoofed African mammal with two horns, the second largest land mammal.",
-      "a": "White rhinoceros",
+      "q": "I am a huge African mammal with two horns and thick gray skin.",
+      "a": "Rhinoceros",
       "wiki": "White_rhinoceros",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large ape from central Africa, larger than a chimpanzee.",
+      "q": "I am a large ape from central Africa, bigger than a chimpanzee.",
       "a": "Gorilla",
       "wiki": "Gorilla",
       "file": "newCategoriesBank"
@@ -303,7 +291,7 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a marine reptile found in tropical seas with a hard shell.",
+      "q": "I am a reptile of tropical seas with a hard shell and flippers.",
       "a": "Sea turtle",
       "wiki": "Sea_turtle",
       "file": "newCategoriesBank"
@@ -322,25 +310,25 @@
     },
     {
       "q": "I am a horned African antelope famous for huge spiral horns.",
-      "a": "Greater kudu",
+      "a": "Kudu",
       "wiki": "Greater_kudu",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small striped scavenger that 'laughs.'",
-      "a": "Spotted hyena",
+      "q": "I am a striped scavenger of Africa that 'laughs.'",
+      "a": "Hyena",
       "wiki": "Spotted_hyena",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am known for diving deep and squirting ink.",
+      "q": "I am known for having eight arms and squirting ink.",
       "a": "Octopus",
       "wiki": "Octopus",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large bird of prey often called the 'king of the sky.'",
-      "a": "Golden eagle",
+      "q": "I am a mountain-soaring bird of prey, often called the king of the sky.",
+      "a": "Eagle",
       "wiki": "Golden_eagle",
       "file": "newCategoriesBank"
     },
@@ -357,21 +345,15 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a venomous snake with a hood, famous in India.",
-      "a": "Indian cobra",
+      "q": "I am a venomous snake with a hood, iconic in India.",
+      "a": "Cobra",
       "wiki": "Indian_cobra",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small Australian dog-like predator, famous for my bite force.",
+      "q": "I am a small Australian dog-like predator with a powerful bite.",
       "a": "Tasmanian devil",
       "wiki": "Tasmanian_devil",
-      "file": "newCategoriesBank"
-    },
-    {
-      "q": "I am an African big cat known for hunting in coalitions of brothers.",
-      "a": "Cheetah",
-      "wiki": "Cheetah",
       "file": "newCategoriesBank"
     },
     {
@@ -403,6 +385,18 @@
       "a": "Lobster",
       "wiki": "Lobster",
       "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a large African grazing mammal often seen wallowing in rivers.",
+      "a": "Hippopotamus",
+      "wiki": "Hippopotamus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a striped African relative of the giraffe with zebra-like legs.",
+      "a": "Okapi",
+      "wiki": "Okapi",
+      "file": "newCategoriesBank"
     }
   ],
   "600": [
@@ -431,7 +425,7 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a flightless bird native to Antarctica, the largest penguin species.",
+      "q": "I am the largest penguin species, native to Antarctica.",
       "a": "Emperor penguin",
       "wiki": "Emperor_penguin",
       "file": "newCategoriesBank"
@@ -443,8 +437,8 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large flightless bird from South America, similar to an ostrich.",
-      "a": "Greater rhea",
+      "q": "I am a flightless bird of South America, similar to an ostrich.",
+      "a": "Rhea",
       "wiki": "Greater_rhea",
       "file": "newCategoriesBank"
     },
@@ -455,14 +449,14 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a hoofed mammal of the Arctic with broad antlers, where both sexes grow them.",
+      "q": "I am a hoofed mammal of the Arctic with broad antlers.",
       "a": "Reindeer",
       "wiki": "Reindeer",
       "file": "newCategoriesBank"
     },
     {
       "q": "I am the world's largest amphibian, found in China.",
-      "a": "Chinese giant salamander",
+      "a": "Giant salamander",
       "wiki": "Chinese_giant_salamander",
       "file": "newCategoriesBank"
     },
@@ -480,7 +474,7 @@
     },
     {
       "q": "I am a small primate from Madagascar with a long striped tail.",
-      "a": "Ring-tailed lemur",
+      "a": "Lemur",
       "wiki": "Ring-tailed_lemur",
       "file": "newCategoriesBank"
     },
@@ -497,27 +491,21 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small spiny mammal of Europe and Africa that curls into a ball.",
+      "q": "I am a small spiny mammal of Europe that curls into a ball.",
       "a": "Hedgehog",
       "wiki": "Hedgehog",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large freshwater fish nicknamed for my paddle-like snout.",
-      "a": "American paddlefish",
+      "q": "I am a large freshwater fish with a paddle-like snout.",
+      "a": "Paddlefish",
       "wiki": "American_paddlefish",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am an arctic cetacean famous for the long single tusk of the male.",
+      "q": "I am an arctic whale famous for a long single tusk.",
       "a": "Narwhal",
       "wiki": "Narwhal",
-      "file": "newCategoriesBank"
-    },
-    {
-      "q": "I am a large dog-like canine native to the Ethiopian highlands.",
-      "a": "Ethiopian wolf",
-      "wiki": "Ethiopian_wolf",
       "file": "newCategoriesBank"
     },
     {
@@ -527,61 +515,43 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large ape from Sumatra, critically endangered.",
-      "a": "Sumatran orangutan",
-      "wiki": "Sumatran_orangutan",
-      "file": "newCategoriesBank"
-    },
-    {
       "q": "I am a deep-sea fish known for my bioluminescent lure.",
       "a": "Anglerfish",
       "wiki": "Anglerfish",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a large flightless bird from Australia covered in shaggy feathers.",
+      "q": "I am a large flightless bird from Australia covered in shaggy black feathers.",
       "a": "Cassowary",
       "wiki": "Cassowary",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small antelope known as the smallest in the world, found in Africa.",
-      "a": "Royal antelope",
-      "wiki": "Royal_antelope",
-      "file": "newCategoriesBank"
-    },
-    {
-      "q": "I am a striped wild horse-like equid of Central Asia.",
-      "a": "Przewalski's horse",
-      "wiki": "Przewalski%27s_horse",
-      "file": "newCategoriesBank"
-    },
-    {
-      "q": "I am a fish that can survive on land for short periods using my pectoral fins.",
+      "q": "I am a fish that can survive on land for short periods using my fins.",
       "a": "Mudskipper",
       "wiki": "Mudskipper",
       "file": "newCategoriesBank"
     },
     {
       "q": "I am the largest crab in the world by leg span, found in Japan.",
-      "a": "Japanese spider crab",
+      "a": "Spider crab",
       "wiki": "Japanese_spider_crab",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small carnivorous mammal of South America with a banded tail and snout.",
+      "q": "I am a small carnivorous mammal of South America with a banded tail and long snout.",
       "a": "Coati",
       "wiki": "Coati",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a wild ox-like mammal of Southeast Asia and the world's largest bovine.",
+      "q": "I am a wild ox of Southeast Asia and the world's largest bovine.",
       "a": "Gaur",
       "wiki": "Gaur",
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a small Antarctic crustacean that forms the basis of the food chain.",
+      "q": "I am a tiny Antarctic crustacean that forms the base of the food chain.",
       "a": "Krill",
       "wiki": "Krill",
       "file": "newCategoriesBank"
@@ -593,15 +563,39 @@
       "file": "newCategoriesBank"
     },
     {
-      "q": "I am a striped African relative of the giraffe with zebra-like legs.",
-      "a": "Okapi",
-      "wiki": "Okapi",
-      "file": "newCategoriesBank"
-    },
-    {
       "q": "I am a pig-like mammal of Central America with a flexible snout.",
       "a": "Tapir",
       "wiki": "Tapir",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a large ape from Sumatra, critically endangered.",
+      "a": "Sumatran orangutan",
+      "wiki": "Sumatran_orangutan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a marine mammal of the tropics, a close relative of the manatee.",
+      "a": "Dugong",
+      "wiki": "Dugong",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a long-necked aquatic bird famous for my pink or red plumage.",
+      "a": "Spoonbill",
+      "wiki": "Roseate_spoonbill",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a venomous marine snail that stings with a harpoon tongue.",
+      "a": "Cone snail",
+      "wiki": "Cone_snail",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "I am a slow-moving mountain mammal of the Himalayas with long goat-like wool.",
+      "a": "Markhor",
+      "wiki": "Markhor",
       "file": "newCategoriesBank"
     }
   ]

@@ -56,6 +56,326 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What continent is Brazil on?",
+      "a": "South America",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the Great Pyramid of Giza in?",
+      "a": "Egypt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country in the world by area?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of China?",
+      "a": "Beijing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ireland?",
+      "a": "Dublin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Denmark?",
+      "a": "Copenhagen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Austria?",
+      "a": "Vienna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of the Czech Republic?",
+      "a": "Prague",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Cuba?",
+      "a": "Havana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Morocco?",
+      "a": "Rabat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Indonesia?",
+      "a": "Jakarta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Peru?",
+      "a": "Lima",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Chile?",
+      "a": "Santiago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Colombia?",
+      "a": "Bogota",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Romania?",
+      "a": "Bucharest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Iran?",
+      "a": "Tehran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Iraq?",
+      "a": "Baghdad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ocean is the smallest?",
+      "a": "Arctic Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is the Statue of Liberty in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mountain range is Mount Everest part of?",
+      "a": "Himalayas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main language of France?",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has kangaroos as native animals?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Toronto in?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is Rio de Janeiro in?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main language of Mexico?",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the Great Wall?",
+      "a": "China",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sea is Venice known for?",
+      "a": "Adriatic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which U.S. state is Hollywood in?",
+      "a": "California",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is famous for pizza and pasta?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is shaped like a boot?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city is Big Ben in?",
+      "a": "London",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Scotland?",
+      "a": "Edinburgh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Dubai in?",
+      "a": "United Arab Emirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ocean surrounds Hawaii?",
+      "a": "Pacific Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which U.S. state is Miami in?",
+      "a": "Florida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island country is off the coast of Southeast Africa?",
+      "a": "Madagascar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What river flows through Egypt?",
+      "a": "Nile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is Mount Fuji in?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which U.S. state is the Grand Canyon in?",
+      "a": "Arizona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Barcelona in?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Amsterdam in?",
+      "a": "Netherlands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main language of Austria?",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has Mecca as a holy city?",
+      "a": "Saudi Arabia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Colombia?",
+      "a": "Bogotá",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Taiwan?",
+      "a": "Taipei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country in South America?",
+      "a": "Brazil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest river in South America?",
+      "a": "Amazon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest city in Australia?",
+      "a": "Sydney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest city in Canada?",
+      "a": "Toronto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest city in Turkey?",
+      "a": "Istanbul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which ocean is the Bermuda Triangle located in?",
+      "a": "Atlantic Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tallest mountain in Africa?",
+      "a": "Kilimanjaro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the highest mountain in Japan?",
+      "a": "Mount Fuji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which desert stretches across southern Mongolia and northern China?",
+      "a": "Gobi Desert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is Machu Picchu?",
+      "a": "Peru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is the city of Marrakech?",
+      "a": "Morocco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is the city of Zurich?",
+      "a": "Switzerland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US state is nicknamed the 'Sunshine State'?",
+      "a": "Florida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US state is nicknamed the 'Lone Star State'?",
+      "a": "Texas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city is known as the 'City of Light'?",
+      "a": "Paris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city is nicknamed the 'Windy City'?",
+      "a": "Chicago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the island of Bali part of?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the island of Crete part of?",
+      "a": "Greece",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which ocean does Madagascar lie?",
+      "a": "Indian Ocean",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Capital of Japan?",
       "a": "Tokyo",
       "file": "App.jsx"
@@ -276,6 +596,336 @@
       "q": "What is the largest island in the world?",
       "a": "Greenland",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Capital of Finland?",
+      "a": "Helsinki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ocean is the Maldives in?",
+      "a": "Indian Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mountain straddles Argentina and Chile as South America's highest peak?",
+      "a": "Aconcagua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country in Africa by area?",
+      "a": "Algeria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Capital of Belgium?",
+      "a": "Brussels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Argentina?",
+      "a": "Buenos Aires",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Nigeria?",
+      "a": "Abuja",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Venezuela?",
+      "a": "Caracas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ecuador?",
+      "a": "Quito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Lebanon?",
+      "a": "Beirut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Bangladesh?",
+      "a": "Dhaka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Uzbekistan?",
+      "a": "Tashkent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Cambodia?",
+      "a": "Phnom Penh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Angola?",
+      "a": "Luanda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Uganda?",
+      "a": "Kampala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Ghana?",
+      "a": "Accra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Malaysia?",
+      "a": "Kuala Lumpur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Bulgaria?",
+      "a": "Sofia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Serbia?",
+      "a": "Belgrade",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Slovakia?",
+      "a": "Bratislava",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Lithuania?",
+      "a": "Vilnius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Jordan?",
+      "a": "Amman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Qatar?",
+      "a": "Doha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest river by discharge volume?",
+      "a": "Amazon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the highest mountain in North America?",
+      "a": "Denali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the Atacama Desert?",
+      "a": "Chile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What peninsula is Saudi Arabia part of?",
+      "a": "Arabian Peninsula",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second-largest country by area?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country has the most pyramids?",
+      "a": "Sudan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What strait separates England from France?",
+      "a": "Strait of Dover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is Sicily part of?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country lies directly south of India across water?",
+      "a": "Sri Lanka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only African country that was never colonised by a European power?",
+      "a": "Ethiopia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which U.S. state has the most coastline?",
+      "a": "Alaska",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Gulf between Iran and Saudi Arabia?",
+      "a": "Persian Gulf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Budapest in?",
+      "a": "Hungary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sea is north of Turkey?",
+      "a": "Black Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the highest waterfall in North America?",
+      "a": "Yosemite Falls",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island nation lies east of Mozambique?",
+      "a": "Madagascar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river is the longest in Asia?",
+      "a": "Yangtze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Senegal?",
+      "a": "Dakar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sea lies between Saudi Arabia and Africa?",
+      "a": "Red Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country shares its entire land border with just South Africa?",
+      "a": "Lesotho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which mountain range contains Mont Blanc?",
+      "a": "Alps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Zimbabwe?",
+      "a": "Harare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What river forms part of the border between Germany and Poland?",
+      "a": "Oder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Switzerland?",
+      "a": "Bern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Oman?",
+      "a": "Muscat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Uruguay?",
+      "a": "Montevideo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Sudan?",
+      "a": "Khartoum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest island in the Mediterranean Sea?",
+      "a": "Sicily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest US state by area?",
+      "a": "Rhode Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Baghdad?",
+      "a": "Tigris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Rome?",
+      "a": "Tiber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest freshwater lake in the world by surface area?",
+      "a": "Lake Superior",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sea lies between Italy and the Balkan Peninsula?",
+      "a": "Adriatic Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest peninsula in the world?",
+      "a": "Arabian Peninsula",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the longest coastline in the world?",
+      "a": "Canada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which desert covers much of Botswana and Namibia?",
+      "a": "Kalahari Desert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which London district does the Prime Meridian pass through?",
+      "a": "Greenwich",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country's flag is the only national flag that is not rectangular?",
+      "a": "Nepal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two countries border Andorra?",
+      "a": "France and Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is the ancient city of Petra?",
+      "a": "Jordan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is Angkor Wat?",
+      "a": "Cambodia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is known as the 'Land of a Thousand Lakes'?",
+      "a": "Finland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Into which sea does the Danube empty?",
+      "a": "Black Sea",
+      "file": "qualityBackfill"
     },
     {
       "q": "Capital of Brazil?",
@@ -518,6 +1168,406 @@
       "q": "What is the second-longest river in Africa?",
       "a": "Congo River",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Capital of Suriname?",
+      "a": "Paramaribo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Capital of Burkina Faso?",
+      "a": "Ouagadougou",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which African country is completely surrounded by South Africa?",
+      "a": "Lesotho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only double-landlocked country in Europe?",
+      "a": "Liechtenstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has its capital at Thimphu?",
+      "a": "Bhutan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest lake in South America?",
+      "a": "Lake Titicaca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Armenia?",
+      "a": "Yerevan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Azerbaijan?",
+      "a": "Baku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Moldova?",
+      "a": "Chisinau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Belarus?",
+      "a": "Minsk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Albania?",
+      "a": "Tirana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of North Korea?",
+      "a": "Pyongyang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Nepal?",
+      "a": "Kathmandu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Turkmenistan?",
+      "a": "Ashgabat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Tajikistan?",
+      "a": "Dushanbe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Mongolia?",
+      "a": "Ulaanbaatar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Papua New Guinea?",
+      "a": "Port Moresby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Mali?",
+      "a": "Bamako",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Niger?",
+      "a": "Niamey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Chad?",
+      "a": "Ndjamena",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Sierra Leone?",
+      "a": "Freetown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Liberia?",
+      "a": "Monrovia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Guinea?",
+      "a": "Conakry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Cameroon?",
+      "a": "Yaounde",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Gabon?",
+      "a": "Libreville",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Zambia?",
+      "a": "Lusaka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Namibia?",
+      "a": "Windhoek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Botswana?",
+      "a": "Gaborone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Somalia?",
+      "a": "Mogadishu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Brunei?",
+      "a": "Bandar Seri Begawan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of the Maldives?",
+      "a": "Male",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Seychelles?",
+      "a": "Victoria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Guyana?",
+      "a": "Georgetown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest country in South America?",
+      "a": "Suriname",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second-highest mountain in the world?",
+      "a": "K2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest mountain range in the world?",
+      "a": "Andes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sea is the least salty major body of water?",
+      "a": "Baltic Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What African lake is shared by four countries?",
+      "a": "Lake Chad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country is the world's largest archipelago by count?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the oldest capital in the Americas?",
+      "a": "Santo Domingo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the largest Muslim population?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most densely populated country?",
+      "a": "Monaco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which two countries are connected by the Khyber Pass?",
+      "a": "Afghanistan and Pakistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country was known as Ceylon?",
+      "a": "Sri Lanka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country has the most active volcanoes?",
+      "a": "Indonesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Haiti?",
+      "a": "Port-au-Prince",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which landlocked country in Asia has the largest area?",
+      "a": "Kazakhstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Europe's highest mountain?",
+      "a": "Mount Elbrus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which strait connects the Sea of Marmara to the Black Sea?",
+      "a": "Bosphorus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river is known as the Yellow River?",
+      "a": "Huang He",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country occupies 2/3 of the island of Hispaniola?",
+      "a": "Dominican Republic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest country in the Middle East?",
+      "a": "Saudi Arabia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Cyprus?",
+      "a": "Nicosia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What desert covers most of Mongolia?",
+      "a": "Gobi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the biggest lake in Europe?",
+      "a": "Lake Ladoga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Canadian province (not territory) is the largest by area?",
+      "a": "Quebec",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which strait connects the Mediterranean to the Black Sea?",
+      "a": "Dardanelles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of North Macedonia?",
+      "a": "Skopje",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Georgia, the country?",
+      "a": "Tbilisi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Cameroon?",
+      "a": "Yaoundé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Honduras?",
+      "a": "Tegucigalpa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Nicaragua?",
+      "a": "Managua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Fiji?",
+      "a": "Suva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of the Maldives?",
+      "a": "Malé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Rwanda?",
+      "a": "Kigali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Malawi?",
+      "a": "Lilongwe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Malta?",
+      "a": "Valletta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest country on mainland Africa?",
+      "a": "The Gambia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which mountain range is K2?",
+      "a": "Karakoram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country owns Easter Island?",
+      "a": "Chile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Into which body of water does the Volga River flow?",
+      "a": "Caspian Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Bangkok?",
+      "a": "Chao Phraya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Dublin?",
+      "a": "Liffey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Lisbon?",
+      "a": "Tagus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Prague?",
+      "a": "Vltava",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which river flows through Warsaw?",
+      "a": "Vistula",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which strait separates Sicily from mainland Italy?",
+      "a": "Strait of Messina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest gulf in the world?",
+      "a": "Gulf of Mexico",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest bay in the world?",
+      "a": "Bay of Bengal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which is the only US state that borders exactly one other state?",
+      "a": "Maine",
+      "file": "qualityBackfill"
     },
     {
       "q": "The five Central Asian Stan countries?",

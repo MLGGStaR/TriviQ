@@ -81,6 +81,331 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What band's drummer is Ringo Starr?",
+      "a": "The Beatles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sang 'Old Town Road'?",
+      "a": "Lil Nas X",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which British band sang 'Hey Jude'?",
+      "a": "The Beatles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist is known for 'Shake It Off'?",
+      "a": "Taylor Swift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who released the album 'Thriller'?",
+      "a": "Michael Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Queen?",
+      "a": "Freddie Mercury",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band sings 'Sweet Child O' Mine'?",
+      "a": "Guns N' Roses",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist sings 'Uptown Funk' with Bruno Mars?",
+      "a": "Mark Ronson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Imagine'?",
+      "a": "John Lennon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which DJ is known for 'Wake Me Up'?",
+      "a": "Avicii",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is known for 'Crazy in Love'?",
+      "a": "Beyonce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sang 'I Will Always Love You' in 'The Bodyguard'?",
+      "a": "Whitney Houston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist is known for the 1999 hit 'Baby One More Time'?",
+      "a": "Britney Spears",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of U2?",
+      "a": "Bono",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper's real name is Curtis Jackson?",
+      "a": "50 Cent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the country star behind 'Jolene'?",
+      "a": "Dolly Parton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist is the 'Fresh Prince'?",
+      "a": "Will Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sings 'Firework'?",
+      "a": "Katy Perry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band is known for 'Don't Stop Believin''?",
+      "a": "Journey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is known for 'Hallelujah' (1984 composition)?",
+      "a": "Leonard Cohen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer was known as 'The Voice'?",
+      "a": "Frank Sinatra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sang 'Empire State of Mind' with Alicia Keys?",
+      "a": "Jay-Z",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rock band is Dave Grohl's group after Nirvana?",
+      "a": "Foo Fighters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Justin Bieber's wife?",
+      "a": "Hailey Bieber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper is known as Yeezy?",
+      "a": "Kanye West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Coldplay?",
+      "a": "Chris Martin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country singer sang 'Friends in Low Places'?",
+      "a": "Garth Brooks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sang 'Hollaback Girl'?",
+      "a": "Gwen Stefani",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which hip-hop duo is known for 'Paper Planes'?",
+      "a": "M.I.A. solo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Nirvana?",
+      "a": "Kurt Cobain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist released 'Lemonade' in 2016?",
+      "a": "Beyonce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Like a Rolling Stone'?",
+      "a": "Bob Dylan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist is known for 'Hey Ya!' with OutKast?",
+      "a": "Andre 3000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sings 'Paparazzi' and 'Poker Face'?",
+      "a": "Lady Gaga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which DJ is behind 'Titanium' with Sia?",
+      "a": "David Guetta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Aerosmith?",
+      "a": "Steven Tyler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band is known for 'Yellow'?",
+      "a": "Coldplay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the artist of 'Back in Black'?",
+      "a": "AC/DC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country singer released 'Before He Cheats'?",
+      "a": "Carrie Underwood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the rapper behind 'Humble'?",
+      "a": "Kendrick Lamar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Irish band is Bono part of?",
+      "a": "U2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Led Zeppelin?",
+      "a": "Robert Plant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What singer's 2021 album was titled '30'?",
+      "a": "Adele",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper released the album 'Scorpion' in 2018?",
+      "a": "Drake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the stage name of singer Robyn Fenty?",
+      "a": "Rihanna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band released the hit 'Mr. Brightside'?",
+      "a": "The Killers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is the band AC/DC from?",
+      "a": "Australia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released the album 'Future Nostalgia' in 2020?",
+      "a": "Dua Lipa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rapper's real name is Calvin Broadus?",
+      "a": "Snoop Dogg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which K-pop girl group released 'How You Like That'?",
+      "a": "Blackpink",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released the album 'Sour' in 2021?",
+      "a": "Olivia Rodrigo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What famous music festival takes place in the California desert each April?",
+      "a": "Coachella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist released 'Somebody That I Used to Know' in 2011?",
+      "a": "Gotye",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Colombian singer released 'Hips Don't Lie'?",
+      "a": "Shakira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Puerto Rican artist released the album 'Un Verano Sin Ti'?",
+      "a": "Bad Bunny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band released 'Radioactive' in 2012?",
+      "a": "Imagine Dragons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer's album 'Renaissance' came out in 2022?",
+      "a": "Beyoncé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Canadian singer released 'Call Me Maybe'?",
+      "a": "Carly Rae Jepsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which group performed 'Wannabe' in 1996?",
+      "a": "Spice Girls",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band released 'Sugar' and 'Moves Like Jagger'?",
+      "a": "Maroon 5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released 'Flowers' in 2023?",
+      "a": "Miley Cyrus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What British band released the album 'The Wall'?",
+      "a": "Pink Floyd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released 'Watermelon Sugar'?",
+      "a": "Harry Styles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which duo released 'Get Lucky' in 2013?",
+      "a": "Daft Punk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What singer is known as the 'Material Girl'?",
+      "a": "Madonna",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Band that performed Bohemian Rhapsody?",
       "a": "Queen",
       "file": "App.jsx"
@@ -301,6 +626,376 @@
       "q": "Who composed 'Moonlight Sonata'?",
       "a": "Beethoven",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the lowest male singing voice?",
+      "a": "Bass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who released the album 'Purple Rain'?",
+      "a": "Prince",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album is Pink Floyd's most famous?",
+      "a": "The Dark Side of the Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which jazz artist is known for 'What a Wonderful World'?",
+      "a": "Louis Armstrong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sang 'Purple Haze'?",
+      "a": "Jimi Hendrix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which opera did Puccini write that includes 'Nessun dorma'?",
+      "a": "Turandot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of The Rolling Stones?",
+      "a": "Mick Jagger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Beatles album features 'Come Together'?",
+      "a": "Abbey Road",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which classical piece is known as 'Moonlight Sonata'?",
+      "a": "Piano Sonata No. 14",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed 'Moonlight Sonata'?",
+      "a": "Ludwig van Beethoven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which jazz pianist released 'Kind of Blue'?",
+      "a": "Miles Davis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Norah Jones' father (famous sitar player)?",
+      "a": "Ravi Shankar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist famously released 'Tapestry' in 1971?",
+      "a": "Carole King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Motown Records?",
+      "a": "Berry Gordy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Stevie Wonder album is from 1976?",
+      "a": "Songs in the Key of Life",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer of 'Clair de Lune'?",
+      "a": "Claude Debussy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band's lead singer is Freddie Mercury's songwriter on 'Radio Ga Ga'?",
+      "a": "Roger Taylor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who released 'Rumours' in 1977?",
+      "a": "Fleetwood Mac",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Radiohead?",
+      "a": "Thom Yorke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Radiohead album features 'Paranoid Android'?",
+      "a": "OK Computer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is known for the 'Unplugged' performances on MTV in 1992?",
+      "a": "Eric Clapton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist sang 'Tears in Heaven'?",
+      "a": "Eric Clapton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer of the '1812 Overture'?",
+      "a": "Pyotr Tchaikovsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Bach work is a set of six concertos dedicated to a margrave?",
+      "a": "Brandenburg Concertos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the female singer on 'Don't You Want Me'?",
+      "a": "Susan Ann Sulley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which electronic duo released 'Discovery' (2001)?",
+      "a": "Daft Punk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who released 'Back to Black' in 2006?",
+      "a": "Amy Winehouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Rolling Stones album features 'Sympathy for the Devil'?",
+      "a": "Beggars Banquet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead guitarist of Queen?",
+      "a": "Brian May",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which jazz singer is known as 'Lady Day'?",
+      "a": "Billie Holiday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the opera 'The Magic Flute'?",
+      "a": "Mozart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country artist released 'The Dance' in 1990?",
+      "a": "Garth Brooks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the song 'Respect' originally before Aretha Franklin?",
+      "a": "Otis Redding",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which grunge band released 'Ten' in 1991?",
+      "a": "Pearl Jam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer behind 'Ode to Joy'?",
+      "a": "Ludwig van Beethoven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which hip-hop duo released 'The Chronic'?",
+      "a": "Dr. Dre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Muse?",
+      "a": "Matt Bellamy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist sings 'Paint It Black'?",
+      "a": "The Rolling Stones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed 'Swan Lake'?",
+      "a": "Pyotr Tchaikovsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album is ABBA's 1976 comeback?",
+      "a": "Arrival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead singer of Guns N' Roses?",
+      "a": "Axl Rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist sings 'Black Magic Woman' (Santana cover originally)?",
+      "a": "Fleetwood Mac",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sings 'Dreams' by Fleetwood Mac?",
+      "a": "Stevie Nicks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rock band's albums include 'Nevermind' and 'In Utero'?",
+      "a": "Nirvana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band's original drummer was Pete Best?",
+      "a": "The Beatles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what US city did grunge music emerge in the early 1990s?",
+      "a": "Seattle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper released 'To Pimp a Butterfly'?",
+      "a": "Kendrick Lamar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Prince's backing band in the 1980s?",
+      "a": "The Revolution",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Elton John's birth name?",
+      "a": "Reginald Dwight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band did Phil Collins drum for before his solo career?",
+      "a": "Genesis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which music streaming service was founded in Sweden in 2006?",
+      "a": "Spotify",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the lead singer of Soundgarden and Audioslave?",
+      "a": "Chris Cornell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Fleetwood Mac album includes 'Go Your Own Way'?",
+      "a": "Rumours",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which composer wrote the 'Brandenburg Concertos'?",
+      "a": "Bach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Michael Jackson album features 'Smooth Criminal'?",
+      "a": "Bad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Amy Winehouse's second and final studio album?",
+      "a": "Back to Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band's members include Flea and Anthony Kiedis?",
+      "a": "Red Hot Chili Peppers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper released 'Astroworld' in 2018?",
+      "a": "Travis Scott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument has strings and is played with a bow, sitting between violin and cello in size?",
+      "a": "Viola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which metal band released 'Enter Sandman'?",
+      "a": "Metallica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which artist headlined the 2023 Super Bowl halftime show?",
+      "a": "Rihanna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Taylor Swift's first fully pop album, released in 2014?",
+      "a": "1989",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band's albums include 'OK Computer' and 'Kid A'?",
+      "a": "Radiohead",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released the album 'Purpose' in 2015?",
+      "a": "Justin Bieber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer is backed by the E Street Band?",
+      "a": "Bruce Springsteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the opera 'Carmen'?",
+      "a": "Georges Bizet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Irish singer released 'Nothing Compares 2 U' in 1990?",
+      "a": "Sinéad O'Connor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which grunge band is fronted by Eddie Vedder?",
+      "a": "Pearl Jam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rock band released 'Whole Lotta Love' in 1969?",
+      "a": "Led Zeppelin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer released the album 'Happier Than Ever' in 2021?",
+      "a": "Billie Eilish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which rapper released the album 'Recovery' in 2010?",
+      "a": "Eminem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Elvis Presley home in Memphis is now a museum?",
+      "a": "Graceland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which MTV ceremony hands out the Moon Person trophy?",
+      "a": "Video Music Awards",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Italian tenor sang 'Nessun dorma' at the 1990 World Cup?",
+      "a": "Luciano Pavarotti",
+      "file": "qualityBackfill"
     },
     {
       "q": "Band that released Dark Side of the Moon?",
@@ -613,6 +1308,376 @@
       "q": "Who is known as the 'Godfather of Soul'?",
       "a": "James Brown",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the Italian term for a gradual decrease in volume?",
+      "a": "Diminuendo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the opera 'Tristan und Isolde'?",
+      "a": "Richard Wagner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the jazz saxophonist who composed 'Take Five'?",
+      "a": "Paul Desmond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument did Dizzy Gillespie play?",
+      "a": "Trumpet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Russian composer wrote Pictures at an Exhibition?",
+      "a": "Modest Mussorgsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the lead singer of Joy Division?",
+      "a": "Ian Curtis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument is played by Ravi Shankar?",
+      "a": "Sitar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which year was 'Sgt. Pepper's Lonely Hearts Club Band' released?",
+      "a": "1967",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Chess Records?",
+      "a": "Leonard Chess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which classical composer wrote 'Carmina Burana'?",
+      "a": "Carl Orff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer of 'Rhapsody in Blue'?",
+      "a": "George Gershwin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which jazz artist released 'A Love Supreme' (1965)?",
+      "a": "John Coltrane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the Moog synthesizer?",
+      "a": "Robert Moog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album did Brian Wilson produce as The Beach Boys' masterpiece?",
+      "a": "Pet Sounds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album by Marvin Gaye was released in 1971 with social commentary?",
+      "a": "What's Going On",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the founder of Def Jam Recordings?",
+      "a": "Russell Simmons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which electronic artist created 'Selected Ambient Works 85-92'?",
+      "a": "Aphex Twin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which composer wrote 'Also Sprach Zarathustra'?",
+      "a": "Richard Strauss",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the conductor famous for the Berlin Philharmonic 1955-89?",
+      "a": "Herbert von Karajan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which instrument is famously played by Jascha Heifetz?",
+      "a": "Violin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album did Radiohead release in 2007 with pay-what-you-want?",
+      "a": "In Rainbows",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the lead singer of The Miracles?",
+      "a": "Smokey Robinson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which year was 'Pet Sounds' released?",
+      "a": "1966",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the opera 'Madama Butterfly'?",
+      "a": "Giacomo Puccini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which band features Geddy Lee as bassist?",
+      "a": "Rush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the 'New World Symphony'?",
+      "a": "Antonin Dvorak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which song by The Kinks is considered a proto-punk anthem?",
+      "a": "You Really Got Me",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer of 'Appalachian Spring'?",
+      "a": "Aaron Copland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which producer is behind 'Off the Wall'?",
+      "a": "Quincy Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Stax Records?",
+      "a": "Jim Stewart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which opera features 'Habanera'?",
+      "a": "Carmen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which avant-garde composer wrote '4'33''?",
+      "a": "John Cage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead bassist of Motorhead?",
+      "a": "Lemmy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which UK band is Johnny Marr the guitarist of?",
+      "a": "The Smiths",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Finnish composer of 'Finlandia'?",
+      "a": "Jean Sibelius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album by Kate Bush features 'Running Up That Hill'?",
+      "a": "Hounds of Love",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed 'Boléro'?",
+      "a": "Maurice Ravel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which hip-hop group released 'Midnight Marauders'?",
+      "a": "A Tribe Called Quest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'Peter and the Wolf'?",
+      "a": "Sergei Prokofiev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which label did Thom Yorke's band start under?",
+      "a": "Parlophone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the producer of 'Songs in the Key of Life'?",
+      "a": "Stevie Wonder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which punk band released 'Never Mind the Bollocks'?",
+      "a": "Sex Pistols",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album did Joni Mitchell release in 1971?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which record label did Prince create?",
+      "a": "Paisley Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lead guitarist of The Rolling Stones?",
+      "a": "Keith Richards",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album did Miles Davis release in 1970 fusing jazz and rock?",
+      "a": "Bitches Brew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the composer of 'West Side Story'?",
+      "a": "Leonard Bernstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which album did Fiona Apple release in 2020?",
+      "a": "Fetch the Bolt Cutters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1965 John Coltrane album is a four-part spiritual suite?",
+      "a": "A Love Supreme",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which French composer wrote 'Clair de Lune'?",
+      "a": "Debussy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the 1969 Rolling Stones concert marred by a fatal stabbing?",
+      "a": "Altamont",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was David Bowie's final album, released two days before his death in 2016?",
+      "a": "Blackstar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Welsh singer performed the 'Goldfinger' Bond theme?",
+      "a": "Shirley Bassey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Nirvana album features 'Heart-Shaped Box'?",
+      "a": "In Utero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is Beethoven's 'Eroica' symphony?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname of Schubert's Symphony No. 8, which has only two completed movements?",
+      "a": "Unfinished",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kanye West album was recorded largely in Hawaii and features 'Runaway'?",
+      "a": "My Beautiful Dark Twisted Fantasy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which composer wrote the ballet 'Romeo and Juliet' in the 1930s?",
+      "a": "Prokofiev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which composer's 'Symphony No. 9' is nicknamed 'From the New World'?",
+      "a": "Dvořák",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In music, what interval is seven semitones wide?",
+      "a": "Perfect fifth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Radiohead song opens 'OK Computer'?",
+      "a": "Airbag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kendrick Lamar album won the Pulitzer Prize for Music?",
+      "a": "DAMN.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Bob Dylan album opens with 'Like a Rolling Stone'?",
+      "a": "Highway 61 Revisited",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Frank Ocean's 2016 album released a day after 'Endless'?",
+      "a": "Blonde",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which jazz pianist recorded 'The Köln Concert' in 1975?",
+      "a": "Keith Jarrett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Mozart opera features the servant Leporello?",
+      "a": "Don Giovanni",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which producer created the 'Wall of Sound' recording technique?",
+      "a": "Phil Spector",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Led Zeppelin song opens 'Physical Graffiti'?",
+      "a": "Custard Pie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Italian composer wrote 'La Traviata' and 'Aida'?",
+      "a": "Verdi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which key is Beethoven's Fifth Symphony written?",
+      "a": "C minor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1968 Johnny Cash live album was recorded in front of inmates in California?",
+      "a": "At Folsom Prison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many strings does a standard concert harp have?",
+      "a": "47",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the lowest-pitched standard orchestral string instrument?",
+      "a": "Double bass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Björk album from 1997 features 'Jóga' and 'Bachelorette'?",
+      "a": "Homogenic",
+      "file": "qualityBackfill"
     },
     {
       "q": "Opera by Puccini where Mimi and Rodolfo fall in love?",

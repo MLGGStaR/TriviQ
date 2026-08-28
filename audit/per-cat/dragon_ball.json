@@ -101,23 +101,333 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is Goku's wife's name?",
-      "a": "Chi-Chi",
+      "q": "Who wears a turtle shell on his back and trains Goku?",
+      "a": "Master Roshi",
       "file": "qualityBackfill"
     },
     {
-      "q": "Who is Goku's oldest son?",
-      "a": "Gohan",
+      "q": "What color does a Saiyan's hair turn when going Super Saiyan?",
+      "a": "Gold/Yellow",
       "file": "qualityBackfill"
     },
     {
-      "q": "What is the green Namekian friend of Goku called?",
-      "a": "Piccolo",
+      "q": "Who is Goku's rival that eventually joins the Z Fighters?",
+      "a": "Vegeta",
       "file": "qualityBackfill"
     },
     {
-      "q": "How many Dragon Balls must you collect to summon Shenron?",
-      "a": "Seven",
+      "q": "What color does Goku's hair turn in Super Saiyan form?",
+      "a": "Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color are Super Saiyan eyes?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Goku's gi?",
+      "a": "Orange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbol is on Goku's back?",
+      "a": "Turtle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Goku's youngest son?",
+      "a": "Goten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Vegeta's son?",
+      "a": "Trunks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Trunks's hair?",
+      "a": "Purple",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the bald friend who fights alongside Goku?",
+      "a": "Krillin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What three-eyed warrior often fights with Goku?",
+      "a": "Tien",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Tien's small friend?",
+      "a": "Chiaotzu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape-shifting pig travels with Goku?",
+      "a": "Oolong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Bulma's husband?",
+      "a": "Vegeta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bulma's father's name?",
+      "a": "Dr. Briefs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What emperor freezes enemies with a finger?",
+      "a": "Frieza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first form of Frieza?",
+      "a": "Small horned",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who fights Goku in the Saiyan saga first?",
+      "a": "Raditz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Saiyan comes with Vegeta to Earth?",
+      "a": "Nappa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pink henchman serves Frieza?",
+      "a": "Dodoria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What green henchman serves Frieza?",
+      "a": "Zarbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group of elite Frieza soldiers poses dramatically?",
+      "a": "Ginyu Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads the Ginyu Force?",
+      "a": "Captain Ginyu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest member of the Ginyu Force?",
+      "a": "Recoome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What martial arts school does Goku train at?",
+      "a": "Turtle School",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Master Roshi's sunglasses?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What form does Gohan have in the Cell Saga?",
+      "a": "Super Saiyan 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who killed Krillin on Namek?",
+      "a": "Frieza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Piccolo's cape?",
+      "a": "White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weighted clothing does Piccolo wear?",
+      "a": "Turban and cape",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tournament ended Dragon Ball's original run?",
+      "a": "World Martial Arts Tournament",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Yamcha's animal companion?",
+      "a": "Puar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What desert bandit joins the Z Fighters?",
+      "a": "Yamcha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cloud transports Goku as a child?",
+      "a": "Nimbus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the yellow cloud Goku rides called?",
+      "a": "Flying Nimbus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature hatches in Dragon Ball's early arc?",
+      "a": "Turtle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the four-star Dragon Ball to Goku?",
+      "a": "Grandpa's keepsake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Gohan's daughter?",
+      "a": "Pan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What martial artist with a mustache judges tournaments?",
+      "a": "Mr. Satan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Hercule's real name?",
+      "a": "Mr. Satan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Videl's father?",
+      "a": "Mr. Satan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What group fights Goku's team in Super 17 saga?",
+      "a": "Androids",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Goku's first big enemy as a kid?",
+      "a": "Emperor Pilaf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What red-armored warrior dies fighting Nappa?",
+      "a": "Yamcha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is King Kai?",
+      "a": "North Kai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What monkey pet does King Kai have?",
+      "a": "Bubbles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cricket is on King Kai's planet?",
+      "a": "Gregory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number androids attack Earth in the Cell saga?",
+      "a": "17 and 18",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the yellow cloud Goku rides?",
+      "a": "The Flying Nimbus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Goku's extending red staff?",
+      "a": "The Power Pole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which three-eyed martial artist is one of the Z Fighters?",
+      "a": "Tien",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is Piccolo's race from?",
+      "a": "Namek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What device does Bulma invent to locate the Dragon Balls?",
+      "a": "The Dragon Radar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which former desert bandit with a scar becomes a Z Fighter?",
+      "a": "Yamcha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item grown by Korin instantly heals a fighter?",
+      "a": "Senzu Beans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which technique lets Goku teleport by sensing energy?",
+      "a": "Instant Transmission",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Krillin's signature spinning energy attack called?",
+      "a": "Destructo Disc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the five-member elite squad that serves Frieza?",
+      "a": "The Ginyu Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What giant form do Saiyans take under a full moon?",
+      "a": "Great Ape",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body part must be removed to stop a Saiyan transforming into a Great Ape?",
+      "a": "Their tail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Future Trunks carry on his back?",
+      "a": "A sword",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bulma's tiny shapeshifting pig companion?",
+      "a": "Oolong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color does a Saiyan's hair turn in the standard Super Saiyan form?",
+      "a": "Golden blonde",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which reincarnation of Kid Buu does Goku fly off to train at the end of Dragon Ball Z?",
+      "a": "Uub",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animated film introduced Beerus in 2013?",
+      "a": "Battle of Gods",
       "file": "qualityBackfill"
     },
     {
@@ -273,8 +583,338 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is Trunks' mother's name?",
+      "q": "What is the name of Cell's perfect form tournament?",
+      "a": "The Cell Games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Kami's evil counterpart?",
+      "a": "King Piccolo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who merged with Piccolo to increase power?",
+      "a": "Nail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Namekian elder gives Gohan power?",
+      "a": "Guru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Nameks?",
+      "a": "Moori",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language must be spoken to summon Porunga?",
+      "a": "Namekian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many wishes does Porunga grant?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many wishes does Shenron originally grant?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fusion technique needs identical body sizes?",
+      "a": "Fusion Dance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What evil fusion dance result plays with Buu?",
+      "a": "Gotenks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Supreme Kai of the North?",
+      "a": "Shin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Kai fuses with Kibito?",
+      "a": "Shin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What elderly Kai trains Gohan?",
+      "a": "Old Kai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Goku's ship to Namek?",
+      "a": "Capsule Corp ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who pilots Gohan and Krillin's ship to Namek?",
       "a": "Bulma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Future Trunks's sword?",
+      "a": "Brave Sword",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What attack does Vegeta use to kill Nappa?",
+      "a": "Galick Gun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who first uses the Galick Gun on Goku?",
+      "a": "Vegeta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What attack does Chiaotzu use to stop Nappa?",
+      "a": "Self-destruction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Piccolo's energy attack that pierces through?",
+      "a": "Special Beam Cannon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who taught Piccolo the Special Beam Cannon?",
+      "a": "He invented it",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kills Goku in the Raditz fight?",
+      "a": "Piccolo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many stages does Cell have?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Cell become after his perfect form?",
+      "a": "Super Perfect Cell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Android 16?",
+      "a": "Large green android",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Android 16 tell Gohan before dying?",
+      "a": "Protect nature",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first Buu form called?",
+      "a": "Fat Buu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Buu's final form?",
+      "a": "Kid Buu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who absorbed Buu to become Super Buu?",
+      "a": "Piccolo, Gotenks, Gohan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Majin Vegeta?",
+      "a": "Vegeta under Babidi's control",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Babidi?",
+      "a": "Wizard villain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Babidi's father?",
+      "a": "Bibidi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Videl's hair style in the Buu saga?",
+      "a": "Short cut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Great Saiyaman's signature pose?",
+      "a": "Dynamic entry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Gohan the Great Saiyaman costume?",
+      "a": "Bulma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tournament does Gohan enter disguised as?",
+      "a": "Great Saiyaman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Sacred Water used for?",
+      "a": "Unlocks hidden potential",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ritual unlocks Super Saiyan God?",
+      "a": "Six Saiyans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What form does Goku use against Beerus first?",
+      "a": "Super Saiyan God",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Beerus's attendant?",
+      "a": "Whis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Whis's sister?",
+      "a": "Vados",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the god of destruction of Universe 6?",
+      "a": "Champa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which leader of Frieza's elite squad can swap bodies with his opponent?",
+      "a": "Captain Ginyu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Frieza's older brother, who appears in the movies?",
+      "a": "Cooler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Namekian child becomes Earth's new guardian after Kami fuses with Piccolo?",
+      "a": "Dende",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who slices Frieza in half when he arrives on Earth?",
+      "a": "Future Trunks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the road Goku must run along to reach King Kai's planet?",
+      "a": "Snake Way",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wizard revives Majin Buu?",
+      "a": "Babidi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the original, purely evil form of the pink Majin?",
+      "a": "Kid Buu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mr. Satan called in the original English dub?",
+      "a": "Hercule",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What transformation does the returning tyrant achieve in Resurrection 'F'?",
+      "a": "Golden Frieza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Universe 6 assassin can skip time?",
+      "a": "Hit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wins the Tournament of Power?",
+      "a": "Android 17",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Goku Black's true identity?",
+      "a": "Zamasu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Broly's father?",
+      "a": "Paragus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Dragon Ball Super: Broly released?",
+      "a": "2018",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which organization does Dr. Gero work for in the original Dragon Ball?",
+      "a": "The Red Ribbon Army",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What transformation does the Namekian unlock in Super Hero?",
+      "a": "Orange Piccolo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which fortune teller is Master Roshi's older sister?",
+      "a": "Fortuneteller Baba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which cat lives atop a tall tower and guards Senzu Beans?",
+      "a": "Korin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the tiny would-be ruler who wants the Dragon Balls to rule the world?",
+      "a": "Emperor Pilaf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which android pair kill the Z Fighters in Future Trunks's timeline?",
+      "a": "Androids 17 and 18",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dragon is summoned by the planet-sized Super Dragon Balls?",
+      "a": "Super Shenron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first character to reach Super Saiyan 3?",
+      "a": "Goku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbol is written on the back of Goku's orange gi from Roshi's school?",
+      "a": "The turtle kanji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Chi-Chi's father called?",
+      "a": "The Ox-King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What transformation does Vegeta unlock in the Granolah arc of the Super manga?",
+      "a": "Ultra Ego",
       "file": "qualityBackfill"
     },
     {
@@ -458,6 +1098,336 @@
       "q": "What is Goku's signature defensive stance?",
       "a": "Turtle School martial arts",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the original owner of the Z Sword?",
+      "a": "Old Kai (Elder Kai)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Goku's adoptive grandfather?",
+      "a": "Grandpa Gohan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gave Bardock his scar?",
+      "a": "Saiyan mission",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Goku's mother's name?",
+      "a": "Gine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is King Vegeta's advisor?",
+      "a": "Nappa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Saiyan noble class?",
+      "a": "Elite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long did Frieza train before returning in Resurrection F?",
+      "a": "Four months",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Golden Frieza's weakness?",
+      "a": "Power drain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who revives Frieza in Resurrection F?",
+      "a": "Sorbet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Tagoma?",
+      "a": "Sorbet's officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Frieza's final form called in Super?",
+      "a": "Black Frieza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jiren's group?",
+      "a": "Pride Troopers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads the Pride Troopers?",
+      "a": "Top",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Top's god form called?",
+      "a": "Destruction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Universe 6 Saiyan is Cabba?",
+      "a": "Rookie Saiyan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Cabba's mentor?",
+      "a": "Vegeta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Universe 6's female Super Saiyan?",
+      "a": "Caulifla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Caulifla's protégé?",
+      "a": "Kale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fusion of Caulifla and Kale is called?",
+      "a": "Kefla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who trained Vegeta in Ultra Ego?",
+      "a": "Beerus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Dragon of Darkness Dragons?",
+      "a": "Shadow Dragons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the evil Shenron's name in GT?",
+      "a": "Omega Shenron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What form does Goku take in Dragon Ball GT?",
+      "a": "Super Saiyan 4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Super Saiyan 4's fur?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Baby in GT?",
+      "a": "Tuffle parasite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What race opposes the Saiyans in GT lore?",
+      "a": "Tuffles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Pan's mother?",
+      "a": "Videl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Cell Jr.?",
+      "a": "Cell's offspring",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Goku Black?",
+      "a": "Alternate Zamasu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Zamasu?",
+      "a": "Kai apprentice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fusion is Merged Zamasu?",
+      "a": "Black and Zamasu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What future arc features Trunks coming back?",
+      "a": "Future Trunks Saga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Mai in Dragon Ball Super?",
+      "a": "Trunks's love interest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pilaf Gang member is a dog?",
+      "a": "Shu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dabura?",
+      "a": "Demon King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Dabura turn Piccolo into?",
+      "a": "Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who absorbs Gohan in the Buu saga?",
+      "a": "Super Buu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kid Buu's original name?",
+      "a": "Majin Buu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first to seal Buu?",
+      "a": "Bibidi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Dragon Ball Z Kai released?",
+      "a": "2009",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Namekian who helps Dende?",
+      "a": "Nail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Popo's role?",
+      "a": "Guardian's attendant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Paragus?",
+      "a": "Broly's father",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Ginyu Force member can freeze time by holding his breath?",
+      "a": "Guldo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Demon King who serves Babidi and turns Piccolo to stone?",
+      "a": "Dabura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Majin Buu's pet dog?",
+      "a": "Bee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jiren's squad of heroes in Universe 11?",
+      "a": "The Pride Troopers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Potara fusion of Goku Black and his future counterpart called?",
+      "a": "Fused Zamasu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bulma's older sister?",
+      "a": "Tights",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Krillin and Android 18's daughter?",
+      "a": "Marron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Android 17 hold in Dragon Ball Super?",
+      "a": "Park ranger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Saiyans are needed for the Super Saiyan God ritual?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which alien race teaches Goku Instant Transmission?",
+      "a": "The Yardrats",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Namekian warrior fights Frieza to buy time and later fuses with Piccolo?",
+      "a": "Nail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the World Martial Arts Tournament called in Japanese?",
+      "a": "Tenkaichi Budokai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long does a Fusion Dance fusion last?",
+      "a": "30 minutes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Red Ribbon Army's leader?",
+      "a": "Commander Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which assassin hired by the Red Ribbon Army travels by throwing a pillar?",
+      "a": "Mercenary Tao",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Universe 6 female Saiyan transforms into a Broly-like berserker?",
+      "a": "Kale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain android built by Dr. Hedo in Super Hero?",
+      "a": "Cell Max",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Super manga villain is a planet-eating goat-like sorcerer freed from the Galactic Prison?",
+      "a": "Moro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the last surviving Cerealian who hunts Goku and Vegeta in the Super manga?",
+      "a": "Granolah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Dragon Ball manga begin serialization?",
+      "a": "1984",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tien's signature square-shaped attack?",
+      "a": "Tri-Beam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sphere-shaped move does Vegeta first use to destroy Android 19?",
+      "a": "Big Bang Attack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Emperor Pilaf's female companion who later becomes close to Future Trunks?",
+      "a": "Mai",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is Ultra Instinct?",

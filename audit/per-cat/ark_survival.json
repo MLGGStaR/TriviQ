@@ -204,6 +204,331 @@
       "q": "What is the name of the implant in your arm?",
       "a": "Specimen Implant",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What basic weapon do you craft from stone and wood?",
+      "a": "Stone Pick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature gives you the most meat on The Island?",
+      "a": "Brontosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the flying creature dinosaurs are not but often confused with?",
+      "a": "Pterodactyl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ark's remastered modern version called?",
+      "a": "Ark Survival Ascended",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you need to tame most creatures in Ark?",
+      "a": "Food",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What currency-like material is used to craft many items early on?",
+      "a": "Thatch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main early game tool made from wood and stone?",
+      "a": "Pick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first beach starting creature players ride?",
+      "a": "Parasaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main pelt-providing prehistoric mammal on snowy peaks?",
+      "a": "Woolly Mammoth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bird-like creature is tamed by feeding it meat in the air?",
+      "a": "Argentavis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What giant aquatic reptile lurks in the oceans?",
+      "a": "Megalodon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What herbivore is a long-necked sauropod used for carrying?",
+      "a": "Brontosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the spike-backed dinosaur that can knockout enemies?",
+      "a": "Stegosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What plant-based food keeps herbivores happy during taming?",
+      "a": "Berries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What green plant-like structure can be crafted for taming?",
+      "a": "Crop plots",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What desert map was released as DLC?",
+      "a": "Scorched Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What DLC map features aberrant creatures and underground zones?",
+      "a": "Aberration",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What final DLC map features corrupted dinosaurs?",
+      "a": "Extinction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the giant purple beams emitting loot in some maps?",
+      "a": "Loot drops",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name is given to the final playable boss dinosaur?",
+      "a": "Alpha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the glowy creature that lights the Aberration map?",
+      "a": "Bulb Dog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creatures wander the Aberration caves and glow with charge?",
+      "a": "Charge light",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name is given to the wild human-like NPCs in Ark?",
+      "a": "Survivors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the three main tribal classes in Ark's early access?",
+      "a": "Tribes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What multiplayer mode allows players to form alliances?",
+      "a": "PvP",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mode involves only fighting dinosaurs and no players?",
+      "a": "PvE",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the tool used to tranq and knockout dinosaurs?",
+      "a": "Tranq arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon delivers the knockout via bow?",
+      "a": "Bow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is required to hatch a tamed dinosaur's egg?",
+      "a": "Heat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What early gear item protects against cold weather?",
+      "a": "Fur armor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the mechanical giant robot boss at end of some maps?",
+      "a": "King Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game is Ark Survival Evolved often compared to for survival?",
+      "a": "Rust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What underwater structure is needed for oxygen in deep areas?",
+      "a": "SCUBA gear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What wild creature is the fastest land mount on the Island?",
+      "a": "Gallimimus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is often tamed for its powerful defensive shield?",
+      "a": "Carbonemys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the massive elephant-like creature?",
+      "a": "Mammoth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the creature that releases smoke and can fly?",
+      "a": "Wyvern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What flightless bird is the classic first tame for new players?",
+      "a": "Dodo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What plated, spike-tailed herbivore is an early berry-gathering mount?",
+      "a": "Stegosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What small pack-hunting theropod is one of the first fast mounts?",
+      "a": "Raptor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What structure is used to smelt metal ore into ingots early on?",
+      "a": "Refining Forge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crafting station is used to make metal tools and armor?",
+      "a": "Smithy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What resource is produced by burning wood in a campfire or forge?",
+      "a": "Charcoal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What insect converts feces into fertilizer and oil?",
+      "a": "Dung Beetle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What armored creature is the best metal-gathering tame?",
+      "a": "Ankylosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crested herbivore alerts you to nearby enemies?",
+      "a": "Parasaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What small creature steals items straight out of your inventory?",
+      "a": "Pegomastax",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What feathered tyrannosaur buffs allies with its roar?",
+      "a": "Yutyrannus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sail-backed carnivore gets a speed buff in water?",
+      "a": "Spinosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What giant marine reptile is an end-game underwater mount?",
+      "a": "Mosasaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What thrown item immobilizes small creatures?",
+      "a": "Bola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest gateway size, built for the biggest dinosaurs?",
+      "a": "Behemoth Gate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What purple berry do herbivores prefer for taming?",
+      "a": "Mejoberry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main ingredient in every kibble recipe?",
+      "a": "Eggs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the year ARK: Survival Ascended, the Unreal Engine 5 remake, released?",
+      "a": "2023",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is ARK's Halloween event called?",
+      "a": "Fear Evolved",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tiny cosmetic pets grant extra player levels?",
+      "a": "Chibis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pig-like creature heals nearby tames?",
+      "a": "Daeodon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the primary fuel for an Electrical Generator?",
+      "a": "Gasoline",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is gasoline crafted from?",
+      "a": "Oil and hide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What black rock is combined with cementing paste to make polymer?",
+      "a": "Obsidian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What free DLC map features crystal wyverns and floating islands?",
+      "a": "Crystal Isles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first community-made map to be added officially?",
+      "a": "The Center",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What streaming service premiered ARK: The Animated Series in 2024?",
+      "a": "Paramount+",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sandworm mini-boss on Scorched Earth?",
+      "a": "Deathworm",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -416,6 +741,341 @@
       "q": "What is Mutation Breeding?",
       "a": "Breeding tames for random stat/color mutations",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of ARK's first paid expansion?",
+      "a": "Scorched Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What resource is used to craft Polymer the normal way?",
+      "a": "Obsidian and Cementing Paste",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What map is set on a mysterious tropical archipelago with crystal caves?",
+      "a": "Crystal Isles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Norse-themed free DLC map?",
+      "a": "Ragnarok",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What DLC introduced the character Helena as a narrator?",
+      "a": "Scorched Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Helena's in-game profession?",
+      "a": "Paleontologist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character is the Scorched Earth narrator?",
+      "a": "Raia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Aberration character gives narration about earth elements?",
+      "a": "Mei-Yin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Earth-destroying robot villain?",
+      "a": "Edmund Rockwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is tamed by stealing its egg from a nest?",
+      "a": "Wyvern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tame-only via eating eggs of its own kind?",
+      "a": "Wyvern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What boss resides in the Tek Cave on The Island?",
+      "a": "Overseer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Ascended animated-style total remake uses Unreal Engine 5?",
+      "a": "Ark Survival Ascended",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What resource is the primary advanced material beyond metal?",
+      "a": "Element",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What late-game weapon type uses element as ammo?",
+      "a": "Tek Rifle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What structure uses Tek for automated defense?",
+      "a": "Tek turret",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What resource do you obtain from killing an Alpha Rex?",
+      "a": "Alpha trophy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dinosaur provides the highest weight capacity early?",
+      "a": "Brontosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dinosaur reduces weight of metal when carrying?",
+      "a": "Ankylosaurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What small primate is known for stealing items from players?",
+      "a": "Mesopithecus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature can be tamed by letting it knock you out first?",
+      "a": "Chalicotherium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tame is best for farming stone and wood quickly?",
+      "a": "Doedicurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tame is a giant beaver that collects wood?",
+      "a": "Castoroides",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tame harvests meat and hide efficiently as a medium-sized carnivore?",
+      "a": "Direwolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What species of therapod has a knockback tail slap?",
+      "a": "Parasaurolophus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What small fast creature is often used for PvP kiting?",
+      "a": "Raptor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What boss trophy is needed to unlock Tek structures?",
+      "a": "Element",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the reward after beating all Island bosses and Overseer?",
+      "a": "Ascension",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What difficulty ascensions exist ranked from low to highest?",
+      "a": "Gamma Beta Alpha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game ending event requires completing all Ark maps?",
+      "a": "Genesis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final chapter of the Ark storyline?",
+      "a": "Genesis Part 2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What new map is Ark Survival Ascended starting with at launch?",
+      "a": "The Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year is Ark 2 scheduled to release?",
+      "a": "2025",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of combat does Ark 2 focus on more heavily?",
+      "a": "Melee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What amphibian harvests cementing paste from insects?",
+      "a": "Beelzebufo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What resource is made from flint and stone in a mortar and pestle?",
+      "a": "Sparkpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two resources are combined to make gunpowder?",
+      "a": "Sparkpowder and charcoal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What items found at the end of caves are needed to summon bosses?",
+      "a": "Artifacts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the three boss difficulty tiers?",
+      "a": "Gamma, Beta and Alpha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Island boss breathes fire and deals percentage-based damage?",
+      "a": "The Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is used as a living incubator to keep eggs warm?",
+      "a": "Dimetrodon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature must be tamed by letting it kill your own tames at night?",
+      "a": "Troodon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mythical eagle-lion hybrid flyer is found on Ragnarok?",
+      "a": "Griffin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the wyvern trench on Scorched Earth?",
+      "a": "The World Scar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What small fluffy desert pet warns of incoming weather on Scorched Earth?",
+      "a": "Jerboa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What building tier exclusive to Scorched Earth keeps you cool?",
+      "a": "Adobe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What armor protects you from Aberration's radiation zones?",
+      "a": "Hazard Suit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Extinction creature shoots spines like a machine gun?",
+      "a": "Velonasaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Extinction flyer heals allies by freezing them?",
+      "a": "Snow Owl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Extinction creature is an ice-breathing, fast-dashing dragon?",
+      "a": "Managarmr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What piloted robot from Extinction can be built and ridden?",
+      "a": "Mek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Norse-themed map released in 2022 features the wolf Fenrir?",
+      "a": "Fjordur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the boss of the Lost Island map?",
+      "a": "Dinopithecus King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What plant is grown in a crop plot as a turret?",
+      "a": "Plant Species X",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ranged weapon can be fired underwater?",
+      "a": "Crossbow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What firearm fires tranquilizer darts?",
+      "a": "Longneck Rifle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What resource used in electronics is found in beaver dams and deep water?",
+      "a": "Silica Pearls",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is required to power a Tek Generator?",
+      "a": "Element",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What collectible writings tell the story of Helena, Rockwell, Mei-Yin and Nerva?",
+      "a": "Explorer Notes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is ARK's Easter event called?",
+      "a": "Eggcellent Adventure",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item makes wild creatures aggressively chase you when eaten?",
+      "a": "Rare Flower",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What lemon-like crop is used in many kibble recipes?",
+      "a": "Citronal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fast-swimming mammal keeps you warm and collects silica pearls?",
+      "a": "Otter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bear mount is found in the redwoods and snow biomes?",
+      "a": "Direbear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What free battle-royale spinoff of ARK released in 2016?",
+      "a": "Survival of the Fittest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Chinese-owned company publishes ARK?",
+      "a": "Snail Games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the item that lets you see a wild creature's level and stats from afar?",
+      "a": "Spyglass",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -643,6 +1303,376 @@
       "q": "What is the max tribe member limit on official servers?",
       "a": "No hard cap (up to server player limit)",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What is the name of the Tek creature that resembles a robotic raptor?",
+      "a": "Enforcer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original price of Ark Survival Evolved on release?",
+      "a": "$59.99",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What engine did the original Ark Survival Evolved run on?",
+      "a": "Unreal Engine 4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What exact amount of narcoberry knocks out most small creatures?",
+      "a": "Varies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the stat that determines taming speed for wild creatures?",
+      "a": "Torpor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What level does a base max wild Rex have for health stat?",
+      "a": "1100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature has the highest base health?",
+      "a": "Bronto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature has the highest base weight?",
+      "a": "Rock Elemental",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature was added late in Aberration's DLC as a poison spitter?",
+      "a": "Dimetrodon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature was removed from beta builds and only existed briefly?",
+      "a": "Purlovia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name describes the deep-sea submarine in Aberration?",
+      "a": "Mosasaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the rarest land creature on Aberration's surface?",
+      "a": "Reaper King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is unique about taming a Reaper King in Ark?",
+      "a": "Born from pregnancy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What exact mechanic causes a reaper queen to impregnate a player?",
+      "a": "Tail attack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dinosaur was removed from early access and re-added later?",
+      "a": "Titanosaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the drop chance of a blueprint from an Alpha Rex?",
+      "a": "Rare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the developer's original studio before Wildcard?",
+      "a": "Microsoft Studios",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the narrative word for ascending out of Ark simulation?",
+      "a": "Ascension",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What specific unit does tek generator require to power structures?",
+      "a": "Element shards",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What specific unit is crafted in tek replicator for element?",
+      "a": "Element dust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Omega tier creatures added in Genesis Part 2?",
+      "a": "R-variant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature in Genesis 2 can be controlled like a tiny mech?",
+      "a": "Exo-Mek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ark 2's mentioned platform exclusive publisher?",
+      "a": "Microsoft",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact subtitle of Genesis Part 2 area called?",
+      "a": "The Colony Ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature must be tamed for making industrial forge craftable?",
+      "a": "Anky and player",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What major celebrity voices Helena in the Ark Animated Series?",
+      "a": "Michelle Yeoh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What major actor voices Kratos-like character Alasie in Ark Animated?",
+      "a": "Russell Crowe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What British rock musician voices Nerva in the animated series?",
+      "a": "Gerard Butler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the protagonist survivor in the animated series?",
+      "a": "Helena Walker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game developer served as community lead and was controversial?",
+      "a": "Jeremy Stieglitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 2024 map expansion for ASA was previously known as a fan map?",
+      "a": "The Center",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What biome was exclusive to Genesis Part 1 with lava tubes?",
+      "a": "Volcanic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mission-based element introduced structured missions in Genesis?",
+      "a": "HLN-A",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is HLN-A in Ark's lore?",
+      "a": "AI companion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final end-game boss of all Ark storylines?",
+      "a": "Rockwell Prime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What real-world year does the Ark simulation lore take place in?",
+      "a": "Distant future",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hyena-like pack creature on Aberration can climb zip lines?",
+      "a": "Ravager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Aberration creature digs up sap and loves honey?",
+      "a": "Roll Rat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What faceless Aberration enemies summon Reapers in the dark?",
+      "a": "The Nameless",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Scorched Earth creature wields weapons in its claws?",
+      "a": "Mantis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What camel-like Scorched Earth herbivore stores water?",
+      "a": "Morellatops",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Scorched Earth creature is a walking pile of rock immune to most bullets?",
+      "a": "Rock Elemental",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Crystal Isles wyvern variant drains health to heal its rider?",
+      "a": "Blood Crystal Wyvern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the final boss of Fjordur?",
+      "a": "Fenrir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the four realms of Fjordur?",
+      "a": "Midgard, Asgard, Jotunheim and Vanaheim",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Genesis Part 1 mission currency buys supplies from HLN-A?",
+      "a": "Hexagons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Genesis space whale can be ridden as a bombing platform?",
+      "a": "Astrocetus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Genesis lava-dwelling creature fires molten balls and smelts metal?",
+      "a": "Magmasaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Extinction creature produces crystals when fed?",
+      "a": "Gacha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the protected city at the center of the Extinction map?",
+      "a": "Sanctuary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which explorer note author is a Chinese warrior from the Han dynasty?",
+      "a": "Mei-Yin Li",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which explorer note author is a Roman centurion?",
+      "a": "Gaius Marcellus Nerva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which explorer note author is an Australian biologist?",
+      "a": "Helena Walker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many extra player levels does Alpha Ascension on The Island grant?",
+      "a": "15",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "By what percentage can Tek creatures spawn above the normal max wild level?",
+      "a": "20%",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is ARK's Thanksgiving event called?",
+      "a": "Turkey Trial",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is ARK's Valentine's event called?",
+      "a": "Love Evolved",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What penguin gives organic polymer when harvested?",
+      "a": "Kairuku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is knocked out and then fed spoiled meat to tame?",
+      "a": "Pulmonoscorpius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature gives Angler Gel when harvested?",
+      "a": "Anglerfish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kangaroo-like creature carries babies and humans in its pouch?",
+      "a": "Procoptodon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature throws boulders when ridden?",
+      "a": "Chalicotherium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cat-like creature can climb and cling to redwood trees?",
+      "a": "Thylacoleo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature buries itself and ambushes players?",
+      "a": "Purlovia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What giant centipede damages structures with acid?",
+      "a": "Arthropluera",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant floating creature in ASA that carries a living oasis on its back?",
+      "a": "Oasisaur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Aberration plant flashes and heals when used?",
+      "a": "Plant Species Z",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Scorched Earth plant is grown as a trap?",
+      "a": "Plant Species Y",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ballista-fired projectile snares large flyers?",
+      "a": "Chain Bola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon disarms and can pull items from a distance?",
+      "a": "Whip",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Genesis Part 2 resource boosts a tame's stats when injected?",
+      "a": "Mutagen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What co-founder of Studio Wildcard is ARK's lead designer?",
+      "a": "Jeremy Stieglitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the cube-based ARK spinoff for younger players?",
+      "a": "PixARK",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the illness a creature gets after being released from a cryopod too soon?",
+      "a": "Cryo Sickness",
+      "file": "qualityBackfill"
     }
   ]
 }

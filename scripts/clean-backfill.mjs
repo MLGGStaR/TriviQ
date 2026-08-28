@@ -83,7 +83,9 @@ function isBadQuestion(q) {
   return false;
 }
 
-// Load existing per-cat content for cross-source dedup
+// Load existing per-cat content for cross-source dedup.
+// CRITICAL: skip entries that came from qualityBackfill itself — audit/per-cat exports the FULL live
+// bank (backfill included), so counting those as "existing source" makes the backfill delete itself.
 const existingByCat = {};
 if (fs.existsSync("audit/per-cat")) {
   for (const f of fs.readdirSync("audit/per-cat")) {
@@ -94,6 +96,7 @@ if (fs.existsSync("audit/per-cat")) {
       const byAns = new Map();
       for (const t of [200, 400, 600]) {
         for (const e of data[t] || []) {
+          if (e.file === "qualityBackfill") continue;
           const aKey = normA(e.a || "");
           if (!byAns.has(aKey)) byAns.set(aKey, []);
           byAns.get(aKey).push({ q: e.q || "", a: e.a || "" });

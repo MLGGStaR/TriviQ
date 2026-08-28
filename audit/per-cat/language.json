@@ -32,7 +32,7 @@
     },
     {
       "q": "\"你好\" (Nĭ hǎo)",
-      "a": "Mandarin Chinese",
+      "a": "Chinese",
       "file": "newCategoriesPack2"
     },
     {
@@ -56,7 +56,7 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Привет, как дела?\" (Privet, kak dela?)",
+      "q": "\"Привет\" (Privet)",
       "a": "Russian",
       "file": "newCategoriesPack2"
     },
@@ -117,7 +117,7 @@
     },
     {
       "q": "\"谢谢\" (Xièxie)",
-      "a": "Mandarin Chinese",
+      "a": "Chinese",
       "file": "newCategoriesPack2"
     },
     {
@@ -149,11 +149,321 @@
       "q": "\"¡Buenos días!\"",
       "a": "Spanish",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"¿Dónde está la biblioteca?\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hasta mañana\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Lo siento mucho\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Feliz cumpleaños\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"¿Cuánto cuesta?\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Bonne nuit, à demain\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Je ne sais pas\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Joyeux anniversaire\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Enchanté, je m'appelle Claire\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Wie heißt du?\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Entschuldigung, wo ist der Bahnhof?\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Herzlichen Glückwunsch\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ich verstehe nicht\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Non capisco\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Mi dispiace\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Dove si trova la stazione?\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"おはようございます\" (Ohayō gozaimasu)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"すみません\" (Sumimasen)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"いただきます\" (Itadakimasu)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"お疲れ様でした\" (Otsukaresama deshita)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"がんばって\" (Ganbatte)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"شكراً جزيلاً\" (Shukran jazilan)",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"صباح الخير\" (Sabah al-khair)",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"أهلاً وسهلاً\" (Ahlan wa sahlan)",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"الحمد لله\" (Alhamdulillah)",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"早上好\" (Zǎoshang hǎo)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"我爱你\" (Wǒ ài nǐ)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"对不起\" (Duìbuqǐ)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"生日快乐\" (Shēngrì kuàilè)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Доброе утро\" (Dobroye utro)",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Пожалуйста\" (Pozhaluysta)",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"До свидания\" (Do svidaniya)",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Я не понимаю\" (Ya ne ponimayu)",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Как тебя зовут?\" (Kak tebya zovut?)",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"¿Qué hora es?\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"La cuenta, por favor\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tengo hambre\"",
+      "a": "Spanish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Où sont les toilettes ?\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Il fait beau aujourd'hui\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Quelle heure est-il ?\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"À bientôt, mon ami\"",
+      "a": "French",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Eins, zwei, drei, vier, fünf\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Wo sind die Toiletten?\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ich habe Hunger\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Wie viel kostet das?\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Bis später, tschüss\"",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Uno, due, tre, quattro, cinque\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Quanto costa?\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Che ore sono?\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ho fame\"",
+      "a": "Italian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"はじめまして\" (Hajimemashite)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"おやすみなさい\" (Oyasuminasai)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"どういたしまして\" (Dō itashimashite)",
+      "a": "Japanese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"واحد، اثنان، ثلاثة\" (Wahid, ithnan, thalatha)",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"لا أفهم\" (La afham)",
+      "a": "Arabic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"晚安\" (Wǎn'ān)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"一、二、三、四、五\" (Yī, èr, sān, sì, wǔ)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"你叫什么名字？\" (Nǐ jiào shénme míngzi?)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"不客气\" (Bú kèqi)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"我饿了\" (Wǒ è le)",
+      "a": "Mandarin Chinese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Добрый вечер\" (Dobry vecher)",
+      "a": "Russian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Спокойной ночи\" (Spokoynoy nochi)",
+      "a": "Russian",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
     {
-      "q": "\"Dobrodošli!\" (welcome)",
+      "q": "\"Dobrodošli!\"",
       "a": "Croatian",
       "file": "newCategoriesPack2"
     },
@@ -173,28 +483,8 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Благодаря\" (Blagodarya)",
-      "a": "Bulgarian",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Dobrodošel, što radiš?\"",
-      "a": "Serbian",
-      "file": "newCategoriesPack2"
-    },
-    {
       "q": "\"Dobrý deň\"",
       "a": "Slovak",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Labas rytas\"",
-      "a": "Lithuanian",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Sveiki\"",
-      "a": "Latvian",
       "file": "newCategoriesPack2"
     },
     {
@@ -203,13 +493,8 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"שלום, מה נשמע?\" (Shalom, ma nishma?)",
+      "q": "\"שלום\" (Shalom)",
       "a": "Hebrew",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Sawubona\"",
-      "a": "Zulu",
       "file": "newCategoriesPack2"
     },
     {
@@ -223,7 +508,7 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"สวัสดีครับ\" (Sawasdee khrap)",
+      "q": "\"สวัสดีครับ\" (Sawasdee)",
       "a": "Thai",
       "file": "newCategoriesPack2"
     },
@@ -239,7 +524,7 @@
     },
     {
       "q": "\"Kumusta ka?\"",
-      "a": "Filipino (Tagalog)",
+      "a": "Filipino",
       "file": "newCategoriesPack2"
     },
     {
@@ -248,10 +533,457 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Saluton, mia amiko!\"",
-      "a": "Esperanto",
+      "q": "\"Salaam, chetori?\"",
+      "a": "Persian",
       "file": "newCategoriesPack2"
     },
+    {
+      "q": "\"Jak leci?\"",
+      "a": "Polish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Lycka till!\"",
+      "a": "Swedish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Goedendag\"",
+      "a": "Dutch",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Tak skal du have\"",
+      "a": "Danish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Prego\"",
+      "a": "Italian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Labas\"",
+      "a": "Lithuanian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Sveiki\"",
+      "a": "Latvian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Dober dan\"",
+      "a": "Slovenian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Zdravo, kako si?\"",
+      "a": "Serbian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Здравей\" (Zdravei)",
+      "a": "Bulgarian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Добрий день\" (Dobryi den)",
+      "a": "Ukrainian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Selamat datang\"",
+      "a": "Malay",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Mahal kita\"",
+      "a": "Filipino",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Marhaba\"",
+      "a": "Arabic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Yaşasın\"",
+      "a": "Turkish",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Bom dia, tudo bem?\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Eu não entendo\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Muito prazer\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Feliz aniversário\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Boa noite, até amanhã\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Teşekkür ederim\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Günaydın\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hoş geldiniz\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Afiyet olsun\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Görüşürüz\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Καλημέρα\" (Kaliméra)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ευχαριστώ πολύ\" (Efharistó polí)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Καληνύχτα\" (Kaliníhta)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Δεν καταλαβαίνω\" (Den katalavéno)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Παρακαλώ\" (Parakaló)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"आप कैसे हैं?\" (Aap kaise hain?)",
+      "a": "Hindi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"मुझे समझ नहीं आया\" (Mujhe samajh nahin aaya)",
+      "a": "Hindi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"고맙습니다\" (Gomapseumnida)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"사랑해요\" (Saranghaeyo)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"안녕히 가세요\" (Annyeonghi gaseyo)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"잘 먹겠습니다\" (Jal meokgesseumnida)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"죄송합니다\" (Joesonghamnida)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tack så mycket\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"God morgon\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Jag förstår inte\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hej då\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Dank je wel\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Goedemorgen\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ik hou van jou\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tot ziens\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ik begrijp het niet\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Dzień dobry\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Przepraszam\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Do widzenia\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tak for mad\"",
+      "a": "Danish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Undskyld\"",
+      "a": "Danish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tusen takk\"",
+      "a": "Norwegian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Um, dois, três, quatro, cinco\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Estou com fome\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Onde fica o banheiro?\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Você fala inglês?\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Até logo, meu amigo\"",
+      "a": "Portuguese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"İyi geceler\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Çok güzel\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Bu ne kadar?\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Kolay gelsin\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hoşça kal\"",
+      "a": "Turkish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ένα, δύο, τρία\" (Éna, dýo, tría)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Τι κάνεις;\" (Ti káneis?)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Καλησπέρα\" (Kalispéra)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Πόσο κάνει;\" (Póso kánei?)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Συγγνώμη\" (Signómi)",
+      "a": "Greek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"एक, दो, तीन\" (Ek, do, teen)",
+      "a": "Hindi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"मेरा नाम राज है\" (Mera naam Raj hai)",
+      "a": "Hindi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"फिर मिलेंगे\" (Phir milenge)",
+      "a": "Hindi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"하나, 둘, 셋\" (Hana, dul, set)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"잘 자요\" (Jal jayo)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"괜찮아요\" (Gwaenchanayo)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"만나서 반갑습니다\" (Mannaseo bangapseumnida)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"얼마예요?\" (Eolmayeyo?)",
+      "a": "Korean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ett, två, tre\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Jag älskar dig\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Varsågod\"",
+      "a": "Swedish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Alsjeblieft\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hoe laat is het?\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Welterusten\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Spreekt u Engels?\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Gezellig\"",
+      "a": "Dutch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Jeden, dwa, trzy\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Dobranoc\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Nie rozumiem\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Smacznego\"",
+      "a": "Polish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Farvel og tak\"",
+      "a": "Danish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Vær så snill\"",
+      "a": "Norwegian",
+      "file": "qualityBackfill"
+    }
+  ],
+  "600": [
     {
       "q": "\"Dia dhuit\"",
       "a": "Irish",
@@ -268,75 +1000,23 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Kaixo, zer moduz?\"",
+      "q": "\"Kaixo\"",
       "a": "Basque",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Πώς σε λένε;\" (How are you called?)",
-      "a": "Greek",
+      "q": "\"Halló, hvernig hefurðu það?\"",
+      "a": "Icelandic",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Salaam, chetori?\"",
-      "a": "Persian (Farsi)",
+      "q": "\"Goeiedag!\"",
+      "a": "Afrikaans",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Ni hao ma?\"",
-      "a": "Mandarin Chinese",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"सुप्रभात\" (Suprabhat - good morning)",
-      "a": "Hindi",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Jak leci?\" (how's it going?)",
-      "a": "Polish",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"สวัสดีค่ะ\" (Sawatdee ka)",
-      "a": "Thai",
-      "file": "newCategoriesPack2"
-    }
-  ],
-  "600": [
-    {
-      "q": "\"Nda woye, nde ghin bo?\"",
-      "a": "Yoruba",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Akwaaba!\" (welcome)",
-      "a": "Twi (Akan)",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Barka da zuwa\"",
-      "a": "Hausa",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Selamat datang\"",
-      "a": "Malay",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Mìngalar bà\"",
-      "a": "Burmese",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Sawatdee pi mai\" (happy new year)",
-      "a": "Lao",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Ayubowan\"",
-      "a": "Sinhala",
+      "q": "\"Sawubona\"",
+      "a": "Zulu",
       "file": "newCategoriesPack2"
     },
     {
@@ -350,33 +1030,13 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Swastika, namaskar\"",
-      "a": "Nepali",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Minggalarba\"",
-      "a": "Burmese",
+      "q": "\"Assalamu alaikum\"",
+      "a": "Urdu",
       "file": "newCategoriesPack2"
     },
     {
       "q": "\"Chum reap suor\"",
-      "a": "Khmer (Cambodian)",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Sat sri akal\"",
-      "a": "Punjabi",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Kem cho?\"",
-      "a": "Gujarati",
-      "file": "newCategoriesPack2"
-    },
-    {
-      "q": "\"Halo, apa kabar?\"",
-      "a": "Indonesian",
+      "a": "Khmer",
       "file": "newCategoriesPack2"
     },
     {
@@ -390,53 +1050,53 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Talofa\"",
-      "a": "Samoan",
+      "q": "\"Saluton\"",
+      "a": "Esperanto",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Malo e lelei\"",
-      "a": "Tongan",
+      "q": "\"Salve\"",
+      "a": "Latin",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Bulä!\"",
-      "a": "Fijian",
+      "q": "\"Sholem aleichem\"",
+      "a": "Yiddish",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Goeiedag!\"",
-      "a": "Afrikaans",
+      "q": "\"Namastē\"",
+      "a": "Nepali",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Molo\"",
-      "a": "Xhosa",
+      "q": "\"Përshëndetje\"",
+      "a": "Albanian",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Sannu\"",
-      "a": "Hausa",
+      "q": "\"Здраво\" (Zdravo)",
+      "a": "Macedonian",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Oo\"",
-      "a": "Oromo",
+      "q": "\"Bonġu\"",
+      "a": "Maltese",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Selam\"",
-      "a": "Amharic",
+      "q": "\"Halo, apa kabar?\"",
+      "a": "Indonesian",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Salom, yakhshimisiz?\"",
-      "a": "Uzbek",
+      "q": "\"Ayubowan\"",
+      "a": "Sinhala",
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Salam, sənin adın nədir?\"",
-      "a": "Azerbaijani",
+      "q": "\"Mìngalar bà\"",
+      "a": "Burmese",
       "file": "newCategoriesPack2"
     },
     {
@@ -450,9 +1110,374 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "\"Sănătate!\" (cheers)",
-      "a": "Romanian",
+      "q": "\"Sat sri akal\"",
+      "a": "Punjabi",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Namaskaram\"",
+      "a": "Telugu",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Ciamar a tha thu?\"",
+      "a": "Scottish Gaelic",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Moin\"",
+      "a": "German",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Сайн байна уу\" (Sain bain uu)",
+      "a": "Mongolian",
+      "file": "newCategoriesPack2"
+    },
+    {
+      "q": "\"Kiitos paljon\"",
+      "a": "Finnish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hyvää huomenta\"",
+      "a": "Finnish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Jó reggelt\"",
+      "a": "Hungarian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Szia, hogy vagy?\"",
+      "a": "Hungarian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Asante sana\"",
+      "a": "Swahili",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Lala salama\"",
+      "a": "Swahili",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Salamat po\"",
+      "a": "Tagalog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"خیلی ممنون\" (Kheili mamnoon)",
+      "a": "Farsi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Cảm ơn nhiều\"",
+      "a": "Vietnamese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Chúc ngủ ngon\"",
+      "a": "Vietnamese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"ไม่เป็นไร\" (Mai pen rai)",
+      "a": "Thai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"תודה רבה\" (Toda raba)",
+      "a": "Hebrew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"בוקר טוב\" (Boker tov)",
+      "a": "Hebrew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Na shledanou\"",
+      "a": "Czech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Nerozumím\"",
+      "a": "Czech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Bună dimineața\"",
+      "a": "Romanian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"La revedere\"",
+      "a": "Romanian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"მადლობა\" (Madloba)",
+      "a": "Georgian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"დილა მშვიდობისა\" (Dila mshvidobisa)",
+      "a": "Georgian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Eskerrik asko\"",
+      "a": "Basque",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Egun on\"",
+      "a": "Basque",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Дякую\" (Dyakuyu)",
+      "a": "Ukrainian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Takk fyrir\"",
+      "a": "Icelandic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Góðan daginn\"",
+      "a": "Icelandic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Go raibh maith agat\"",
+      "a": "Irish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Diolch yn fawr\"",
+      "a": "Welsh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Bon dia, moltes gràcies\"",
+      "a": "Catalan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Baie dankie\"",
+      "a": "Afrikaans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ngiyabonga\"",
+      "a": "Zulu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"ধন্যবাদ\" (Dhonnobad)",
+      "a": "Bengali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"நன்றி\" (Nandri)",
+      "a": "Tamil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Շնորհակալություն\" (Shnorhakalutyun)",
+      "a": "Armenian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Yksi, kaksi, kolme\"",
+      "a": "Finnish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Hyvää yötä\"",
+      "a": "Finnish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Anteeksi\"",
+      "a": "Finnish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Egy, kettő, három\"",
+      "a": "Hungarian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Jó éjszakát\"",
+      "a": "Hungarian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Szeretlek\"",
+      "a": "Hungarian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Habari za asubuhi\"",
+      "a": "Swahili",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Moja, mbili, tatu\"",
+      "a": "Swahili",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Magandang umaga\"",
+      "a": "Tagalog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Isa, dalawa, tatlo\"",
+      "a": "Tagalog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Paalam\"",
+      "a": "Tagalog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"شب بخیر\" (Shab bekheir)",
+      "a": "Farsi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"یک، دو، سه\" (Yek, do, se)",
+      "a": "Farsi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"دوستت دارم\" (Dooset daram)",
+      "a": "Farsi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tôi không hiểu\"",
+      "a": "Vietnamese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Một, hai, ba\"",
+      "a": "Vietnamese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Tạm biệt\"",
+      "a": "Vietnamese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"ฝันดี\" (Fan dee)",
+      "a": "Thai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"หนึ่ง สอง สาม\" (Neung, song, sam)",
+      "a": "Thai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"อร่อยมาก\" (Aroi mak)",
+      "a": "Thai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"לילה טוב\" (Laila tov)",
+      "a": "Hebrew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"להתראות\" (Lehitraot)",
+      "a": "Hebrew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Jedna, dva, tři\"",
+      "a": "Czech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Dobrou noc\"",
+      "a": "Czech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Mluvíte anglicky?\"",
+      "a": "Czech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Unu, doi, trei\"",
+      "a": "Romanian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Noapte bună\"",
+      "a": "Romanian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Te iubesc\"",
+      "a": "Romanian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Apa khabar?\"",
+      "a": "Malay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Saya tidak faham\"",
+      "a": "Malay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"ერთი, ორი, სამი\" (Erti, ori, sami)",
+      "a": "Georgian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"ნახვამდის\" (Nakhvamdis)",
+      "a": "Georgian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Bat, bi, hiru\"",
+      "a": "Basque",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Agur, ikusi arte\"",
+      "a": "Basque",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Ég elska þig\"",
+      "a": "Icelandic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Будь ласка\" (Bud' laska)",
+      "a": "Ukrainian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "\"Nos da, cariad\"",
+      "a": "Welsh",
+      "file": "qualityBackfill"
     }
   ]
 }

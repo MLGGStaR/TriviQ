@@ -149,6 +149,311 @@
       "q": "Which U.S. space agency put people on the Moon?",
       "a": "NASA",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Which planet is known for its prominent ring system?",
+      "a": "Saturn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the closest star to Earth?",
+      "a": "The Sun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first country to put a man on the Moon?",
+      "a": "USA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What galaxy do we live in?",
+      "a": "Milky Way",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of stars forming a pattern called?",
+      "a": "Constellation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long does Earth take to orbit the Sun?",
+      "a": "365 days",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What keeps planets in orbit?",
+      "a": "Gravity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a shooting star really?",
+      "a": "Meteor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Mars?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is famous for being blue and white?",
+      "a": "Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are astronauts from Russia called?",
+      "a": "Cosmonauts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What causes day and night?",
+      "a": "Earth rotation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Sun mostly made of?",
+      "a": "Hydrogen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do we call space rocks that hit Earth?",
+      "a": "Meteorites",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of our natural satellite?",
+      "a": "Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many moons does Earth have?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shape is the Earth?",
+      "a": "Sphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do we call a group of stars that look close?",
+      "a": "Constellation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is zero gravity called?",
+      "a": "Weightlessness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is known for being farthest from Sun?",
+      "a": "Neptune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What telescope orbits Earth named after a scientist?",
+      "a": "Hubble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phase is the Moon in when fully visible?",
+      "a": "Full Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle takes astronauts to space?",
+      "a": "Rocket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many stars are in the Big Dipper?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the Sun generally depicted as?",
+      "a": "Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is frozen carbon dioxide that comets contain?",
+      "a": "Dry ice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who first walked on the Moon in 1969?",
+      "a": "Neil Armstrong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a sunspot on?",
+      "a": "The Sun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long does the Moon take to orbit Earth roughly?",
+      "a": "27 days",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a natural object that orbits a planet?",
+      "a": "Satellite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does NASA stand for?",
+      "a": "National Aeronautics and Space Administration",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the coldest planet roughly?",
+      "a": "Neptune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do we call people who travel in space?",
+      "a": "Astronauts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the 1986 space shuttle disaster?",
+      "a": "Challenger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jupiter's volcanic moon?",
+      "a": "Io",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Earth's only natural satellite?",
+      "a": "The Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call an object that orbits a planet?",
+      "a": "Moon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many moons does Mars have?",
+      "a": "2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the largest moon of Jupiter?",
+      "a": "Ganymede",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Russia's space agency?",
+      "a": "Roscosmos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which planet has a moon called Titan?",
+      "a": "Saturn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of NASA's space telescope launched in 1990?",
+      "a": "Hubble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first dog sent into orbit?",
+      "a": "Laika",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many planets in our solar system have ring systems?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first human in space?",
+      "a": "Yuri Gagarin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the rocket that took Apollo astronauts to the Moon?",
+      "a": "Saturn V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do we call a rocky object that burns up as it enters Earth's atmosphere?",
+      "a": "Meteor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for an astronaut's trip outside the spacecraft?",
+      "a": "Spacewalk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for a planet that orbits a star other than the Sun?",
+      "a": "Exoplanet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the SpaceX rocket that landed its boosters back on Earth?",
+      "a": "Falcon 9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Earth days does the Moon take to orbit Earth, roughly?",
+      "a": "27",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spirit and which other twin rover landed on Mars in 2004?",
+      "a": "Opportunity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which star is the brightest in Earth's night sky?",
+      "a": "Sirius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which US state is the Kennedy Space Center?",
+      "a": "Florida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the dwarf planet in the asteroid belt?",
+      "a": "Ceres",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Elon Musk's giant rocket designed for Mars?",
+      "a": "Starship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the small icy world with a heart-shaped region photographed in 2015?",
+      "a": "Pluto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which constellation contains the 'Big Dipper'?",
+      "a": "Ursa Major",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many astronauts flew on each Apollo Moon mission?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country is the Baikonur Cosmodrome?",
+      "a": "Kazakhstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which planet is the third largest in the solar system?",
+      "a": "Uranus",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -303,8 +608,318 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "What is the name of the telescope launched in 2021 to replace Hubble?",
-      "a": "James Webb",
+      "q": "Who was the first woman in space?",
+      "a": "Valentina Tereshkova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What star constellation is called the Hunter?",
+      "a": "Orion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of the universe called?",
+      "a": "Cosmology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first American in space?",
+      "a": "Alan Shepard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the theory of general relativity?",
+      "a": "Einstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a collapsed star with high gravity called?",
+      "a": "Black hole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the theoretical beginning of the universe called?",
+      "a": "Big Bang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Sun's outer atmosphere called?",
+      "a": "Corona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What galaxy is closest to the Milky Way?",
+      "a": "Andromeda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the rings of Saturn made of?",
+      "a": "Ice and rock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a tail of dust behind a comet's nucleus called?",
+      "a": "Coma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered Uranus?",
+      "a": "William Herschel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spacecraft landed the first rover on Mars in 1997?",
+      "a": "Pathfinder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is our Sun classified as?",
+      "a": "Yellow dwarf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a group of galaxies called?",
+      "a": "Cluster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a light year a measure of?",
+      "a": "Distance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the first Soviet satellite?",
+      "a": "Sputnik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a planet outside our solar system called?",
+      "a": "Exoplanet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who predicted the existence of black holes first?",
+      "a": "Einstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What force causes tides?",
+      "a": "Moon's gravity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the space station orbiting Earth?",
+      "a": "ISS",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the commander of Apollo 11?",
+      "a": "Neil Armstrong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spacecraft took the first photo of Earth from the Moon?",
+      "a": "Apollo 8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the spiral arm Earth is in?",
+      "a": "Orion arm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who piloted the Apollo 11 lunar module?",
+      "a": "Buzz Aldrin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jupiter's famous moon Europa known for?",
+      "a": "Ice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a dead star that's very dense?",
+      "a": "White dwarf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Sun's surface called?",
+      "a": "Photosphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Milky Way's shape?",
+      "a": "Spiral",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What constellation contains the Pleiades star cluster?",
+      "a": "Taurus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who first saw Jupiter's moons?",
+      "a": "Galileo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a star that suddenly brightens massively?",
+      "a": "Supernova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first planet discovered by telescope?",
+      "a": "Uranus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the temperature of absolute zero in Celsius?",
+      "a": "-273",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What particle was theorized by Einstein for light?",
+      "a": "Photon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the radio-reflecting layer of atmosphere?",
+      "a": "Ionosphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Mars rover that landed in 2012 in Gale Crater?",
+      "a": "Curiosity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the helicopter that flew on Mars in 2021?",
+      "a": "Ingenuity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first module of the ISS, launched in 1998?",
+      "a": "Zarya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Soviet space station that operated from 1986 to 2001?",
+      "a": "Mir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Saturn's famous hexagonal storm sits at which end of the planet?",
+      "a": "North pole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which spacecraft landed the Philae probe on a comet in 2014?",
+      "a": "Rosetta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the probe that studied Saturn from 2004 to 2017?",
+      "a": "Cassini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many people have walked on the Moon?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the final crewed mission to land on the Moon, in 1972?",
+      "a": "Apollo 17",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of NASA's program to return humans to the Moon?",
+      "a": "Artemis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which lunar 'sea' did Apollo 11 land?",
+      "a": "Sea of Tranquility",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the spacecraft that carried the first humans to the ISS on a commercial vehicle in 2020?",
+      "a": "Crew Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the red supergiant star in Orion's shoulder?",
+      "a": "Betelgeuse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first American woman in space?",
+      "a": "Sally Ride",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the distance from Earth to the Sun called?",
+      "a": "Astronomical unit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which spacecraft carried a golden record with sounds and images of Earth?",
+      "a": "Voyager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Chinese space station completed in 2022?",
+      "a": "Tiangong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Indian mission that landed near the Moon's south pole in 2023?",
+      "a": "Chandrayaan-3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of NASA's asteroid-deflection test that hit Dimorphos in 2022?",
+      "a": "DART",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1968 mission was the first to carry a crew around the Moon?",
+      "a": "Apollo 8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which planet has a moon named Titania?",
+      "a": "Uranus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the shuttle that broke apart in 2003?",
+      "a": "Columbia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Japanese space agency?",
+      "a": "JAXA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What layer of the Sun appears as a thin red rim during a total eclipse?",
+      "a": "Chromosphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the phenomenon where a moon passes in front of a planet as seen from Earth?",
+      "a": "Transit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the spacecraft that flew by Jupiter and is now orbiting it since 2016?",
+      "a": "Juno",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Roughly how many Earth years does Saturn take to orbit the Sun?",
+      "a": "29",
       "file": "qualityBackfill"
     }
   ],
@@ -460,8 +1075,373 @@
       "file": "newCategoriesPack2"
     },
     {
-      "q": "What is the rocky, airless moon of Mars closest to the planet?",
-      "a": "Phobos",
+      "q": "What is the radius called at which a black hole's escape velocity equals the speed of light?",
+      "a": "The Schwarzschild radius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which probe first flew past Pluto in 2015?",
+      "a": "New Horizons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of galaxy is Messier 87 (M87)?",
+      "a": "Elliptical",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered the expansion of the universe?",
+      "a": "Edwin Hubble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Milky Way's central supermassive black hole?",
+      "a": "Sagittarius A*",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered Neptune mathematically?",
+      "a": "Le Verrier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the outer boundary of the Sun's influence called?",
+      "a": "Heliopause",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first rover to land on Mars?",
+      "a": "Sojourner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Kuiper Belt dwarf planet discovered in 2005?",
+      "a": "Eris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who first proposed heliocentrism publicly?",
+      "a": "Copernicus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Chandrasekhar limit for?",
+      "a": "White dwarf mass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year was Voyager 1 launched?",
+      "a": "1977",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the theoretical boundary around a black hole?",
+      "a": "Event horizon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who mapped the cosmic microwave background in the 1990s?",
+      "a": "COBE",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Pluto's largest moon?",
+      "a": "Charon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first space station launched by the Soviets?",
+      "a": "Salyut 1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What element is the second most abundant in stars?",
+      "a": "Helium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for the stretching of light from distant galaxies?",
+      "a": "Redshift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the scale for stellar classification O, B, A, F, G, K, M?",
+      "a": "Spectral class",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the large impact feature on Mercury?",
+      "a": "Caloris Basin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Kuiper Belt region?",
+      "a": "Beyond Neptune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered the moons of Mars?",
+      "a": "Asaph Hall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What telescope is located in Chile for extremely large viewing?",
+      "a": "ELT",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a rotating neutron star that emits radiation called?",
+      "a": "Pulsar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What lander touched down on comet 67P in 2014?",
+      "a": "Philae",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the theoretical multiverse concept sometimes called?",
+      "a": "Many worlds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Goldilocks zone also known as?",
+      "a": "Habitable zone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who first proposed the expanding universe mathematically?",
+      "a": "Lemaître",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for a star that varies in brightness?",
+      "a": "Variable star",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sphere of comets around the solar system?",
+      "a": "Oort Cloud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered Uranus's rings?",
+      "a": "James Elliot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first privately built spacecraft to reach orbit?",
+      "a": "Falcon 1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the astronomical unit roughly equal to?",
+      "a": "Earth-Sun distance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered Saturn's rings?",
+      "a": "Huygens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Sun's core temperature approximately?",
+      "a": "15 million Celsius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What probe landed on Titan in 2005?",
+      "a": "Huygens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who developed the TRAPPIST telescope exoplanet discoveries?",
+      "a": "Michaël Gillon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the four Galilean moons named?",
+      "a": "Io Europa Ganymede Callisto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for the boundary where light can't escape gravity?",
+      "a": "Event horizon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Big Rip theory about?",
+      "a": "Universe's end",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who invented the reflecting telescope?",
+      "a": "Isaac Newton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the first space shuttle to orbit?",
+      "a": "Columbia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second brightest object in the night sky after the Moon?",
+      "a": "Venus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Voyager 1 launched to do?",
+      "a": "Study outer planets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered that the universe is expanding?",
+      "a": "Hubble",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the point in an orbit closest to the Sun?",
+      "a": "Perihelion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the maximum mass a white dwarf can have before collapsing?",
+      "a": "Chandrasekhar limit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the effect where light from receding objects shifts to longer wavelengths?",
+      "a": "Redshift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which law relates a galaxy's recession speed to its distance?",
+      "a": "Hubble's law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the effect called where a rotating massive body drags spacetime around with it?",
+      "a": "Frame dragging",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the seven-planet system 40 light-years away found in 2017?",
+      "a": "TRAPPIST-1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Soviet probe series that landed on Venus?",
+      "a": "Venera",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ESA mission that mapped a billion stars' positions?",
+      "a": "Gaia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the chart that plots stars by luminosity against temperature?",
+      "a": "Hertzsprung-Russell diagram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the layer of Earth's atmosphere where the ISS orbits?",
+      "a": "Thermosphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the moon of Saturn with a two-tone appearance and a giant ridge?",
+      "a": "Iapetus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first spacecraft to orbit Mercury?",
+      "a": "MESSENGER",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the 2018 NASA lander that measured marsquakes?",
+      "a": "InSight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the band on the H-R diagram where stars spend most of their lives?",
+      "a": "Main sequence",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boundary in a planet-forming disk beyond which water freezes into ice?",
+      "a": "Frost line",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Kepler's laws states that planets move in ellipses with the Sun at one focus?",
+      "a": "First law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the observatory that detected gravitational waves in 2015?",
+      "a": "LIGO",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the moon of Uranus with the highest cliff in the solar system?",
+      "a": "Miranda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the huge storm on Neptune observed by Voyager 2?",
+      "a": "Great Dark Spot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Japanese probe that returned samples from asteroid Ryugu?",
+      "a": "Hayabusa2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the NASA mission that returned samples from asteroid Bennu in 2023?",
+      "a": "OSIRIS-REx",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first commercial lander to reach the Moon in 2024?",
+      "a": "Odysseus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the era before the first stars formed, when the universe was opaque?",
+      "a": "Cosmic Dark Ages",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the radius inside which an orbiting body would be torn apart by tidal forces?",
+      "a": "Roche limit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Soviet cosmonaut who performed the first spacewalk?",
+      "a": "Alexei Leonov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the 2021 rover China landed on Mars?",
+      "a": "Zhurong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the region of space where the solar wind meets interstellar space?",
+      "a": "Heliopause",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the first interstellar object detected passing through the solar system in 2017?",
+      "a": "'Oumuamua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Moon's far-side basin that is the largest known impact crater?",
+      "a": "South Pole-Aitken",
       "file": "qualityBackfill"
     }
   ]

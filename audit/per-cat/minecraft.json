@@ -204,6 +204,306 @@
       "q": "What is the command to switch to creative mode?",
       "a": "/gamemode creative",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What do you type in chat to open the command menu in Java Edition?",
+      "a": "/",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mode lets you fly and have unlimited resources?",
+      "a": "Creative mode",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What green exploding mob is iconic to Minecraft?",
+      "a": "Creeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you use to break blocks in Minecraft?",
+      "a": "Pickaxe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dimension do you enter with a portal made of obsidian?",
+      "a": "The Nether",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What material is stronger than iron but weaker than diamond?",
+      "a": "Netherite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What undead mob burns in sunlight?",
+      "a": "Zombie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What block is needed to craft a bed alongside planks?",
+      "a": "Wool",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What flying mob drops ender pearls?",
+      "a": "Enderman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ore glows when mined and gives experience?",
+      "a": "Diamond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the flat building mode?",
+      "a": "Creative",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mode means one death ends the world?",
+      "a": "Hardcore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do villagers live in?",
+      "a": "Villages",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What liquid can be collected in a bucket?",
+      "a": "Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob explodes underwater and is blue?",
+      "a": "Creeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What flat item lets you see your surroundings on a grid?",
+      "a": "Map",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What food do pigs drop when cooked?",
+      "a": "Cooked porkchop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What transparent block can you see through?",
+      "a": "Glass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob neighs and can be ridden?",
+      "a": "Horse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon uses arrows?",
+      "a": "Bow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What farm animal clucks and lays eggs?",
+      "a": "Chicken",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What currency do villagers trade for?",
+      "a": "Emeralds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What underground mob glows and explodes softly on tap?",
+      "a": "Creeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tall purple tree grows in swamps?",
+      "a": "Dark oak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the protagonist character called?",
+      "a": "Steve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What female default character exists in Minecraft?",
+      "a": "Alex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What basic shelter material do players start with?",
+      "a": "Wood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you throw to teleport short distances?",
+      "a": "Ender pearl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the white horned hostile mob on snowy peaks?",
+      "a": "Goat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What black and white cat-like mob is tamed with fish?",
+      "a": "Ocelot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What explosive block requires flint and steel to detonate?",
+      "a": "TNT",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name describes the procedurally generated game map?",
+      "a": "World",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sweet item is dropped by bees?",
+      "a": "Honey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the default game mode that features hunger?",
+      "a": "Survival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What red ore is used in circuits and pistons?",
+      "a": "Redstone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fish mob is found in rivers and can be caught?",
+      "a": "Salmon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you feed cows to breed them?",
+      "a": "Wheat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob drops gunpowder when killed?",
+      "a": "Creeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What metal do piglins love and will barter for?",
+      "a": "Gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tool collects leaves, cobwebs and wool from sheep?",
+      "a": "Shears",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What flat block emits a redstone signal when stepped on?",
+      "a": "A pressure plate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ocean mob drops ink sacs?",
+      "a": "Squid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crossbow-wielding hostile mob patrols the land in groups?",
+      "a": "Pillager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob spits at you when angered?",
+      "a": "Llama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What jungle mob eats bamboo and rolls around?",
+      "a": "Panda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bouncing green cube mob splits into smaller ones when hit?",
+      "a": "Slime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tall black undead mob lives in Nether fortresses?",
+      "a": "Wither Skeleton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did A Minecraft Movie hit theaters?",
+      "a": "2025",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two-word line from the Minecraft movie became a rowdy theater meme?",
+      "a": "Chicken Jockey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What block cannot be broken in Survival mode?",
+      "a": "Bedrock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What difficulty setting stops hostile mobs from spawning?",
+      "a": "Peaceful",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What block shoots arrows and other items when powered?",
+      "a": "Dispenser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What command teleports a player?",
+      "a": "/tp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What command changes it to day or night?",
+      "a": "/time set",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is placed on a snow golem's head?",
+      "a": "A pumpkin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What plant grows only next to water and is used to make paper?",
+      "a": "Sugar cane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What game mode lets you fly through blocks and watch from mobs' eyes?",
+      "a": "Spectator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature was voted into the game in 2023 and drops scutes for wolf armor?",
+      "a": "Armadillo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Minecraft's subscription server-hosting service?",
+      "a": "Realms",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most famous Minecraft server, home to SkyBlock and Bed Wars?",
+      "a": "Hypixel",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -416,6 +716,406 @@
       "q": "What item do you use to leash animals?",
       "a": "Lead",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What enchantment helps you mine ores without losing them to gravel?",
+      "a": "Silk Touch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you need to travel to the End?",
+      "a": "End Portal activated with Eyes of Ender",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rare structure in the End contains elytra?",
+      "a": "End city",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment lets you walk faster on soul sand?",
+      "a": "Soul speed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob was added to Minecraft after winning a 2020 vote?",
+      "a": "Glow squid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What biome contains cherry blossom trees?",
+      "a": "Cherry grove",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob guards ocean monuments?",
+      "a": "Elder guardian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the max level of Efficiency enchantment natively?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What structure houses a raid captain and illagers?",
+      "a": "Pillager outpost",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What wood type was added with the Wild Update?",
+      "a": "Mangrove",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancient mob senses vibrations in the deep dark?",
+      "a": "Warden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item repels piglins when worn or held?",
+      "a": "Gold armor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What block can sense players through walls?",
+      "a": "Sculk sensor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob flies around in the Nether and is afraid of water?",
+      "a": "Strider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What brown and white amphibian was added with frogs?",
+      "a": "Tadpole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What structure generates in plains and contains chests?",
+      "a": "Village",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob spawns from trial spawners in the Trial Chambers?",
+      "a": "Breeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What update introduced the archaeology feature?",
+      "a": "Trails and Tales",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment makes tools last longer?",
+      "a": "Unbreaking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the maximum stack size for ender pearls in Java?",
+      "a": "Sixteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item gives night vision when consumed as a potion?",
+      "a": "Golden carrot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What hostile mob throws tridents during thunderstorms?",
+      "a": "Drowned",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What friendly mob can be bred with bamboo?",
+      "a": "Panda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob drops totems of undying when killed?",
+      "a": "Evoker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What biome has towering red mushrooms and mycelium?",
+      "a": "Mushroom fields",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What white airborne ghostly mob attacks during insomnia?",
+      "a": "Phantom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tool is required to mine ancient debris?",
+      "a": "Diamond pickaxe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob is found in frozen oceans and hunts fish?",
+      "a": "Polar bear",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment returns thrown tridents to the player?",
+      "a": "Loyalty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the end game cutscene text called?",
+      "a": "The End poem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What map-making item requires paper and a compass?",
+      "a": "Map",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What block spreads and converts grass in the deep dark?",
+      "a": "Sculk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name describes Nether fortress guardians with swords?",
+      "a": "Wither skeleton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the throwable splash versions of potions?",
+      "a": "Splash potion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient is added to water for brewing potions?",
+      "a": "Nether wart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rare drop from blazes is used for many potions?",
+      "a": "Blaze powder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name is given to the tall dark mob in the End?",
+      "a": "Enderman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What horse variant is used to carry chests?",
+      "a": "Donkey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tamable creature barks and sits when told?",
+      "a": "Wolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What status effect is given by drinking a potion of swiftness?",
+      "a": "Speed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment increases damage to undead mobs?",
+      "a": "Smite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Nether mob drops tears used for Regeneration potions?",
+      "a": "Ghast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient is required as the base for almost every potion?",
+      "a": "Nether Wart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you add to a potion to turn it into a splash potion?",
+      "a": "Gunpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bouncy block launches you when you fall on it?",
+      "a": "Slime block",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob is tamed with seeds and can sit on your shoulder?",
+      "a": "Parrot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Nether creature can be ridden across lava?",
+      "a": "Strider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Nether structure holds gold blocks and piglin brutes?",
+      "a": "Bastion Remnant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What End mob fires bullets that give you Levitation?",
+      "a": "Shulker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens when you eat a chorus fruit?",
+      "a": "Teleport randomly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What End structure holds the elytra?",
+      "a": "End Ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob guards ocean monuments with a laser beam?",
+      "a": "Guardian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob do you ride during a raid if you are an illager?",
+      "a": "Ravager",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tool from the Trails & Tales update is used for archaeology?",
+      "a": "Brush",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rideable desert mob from Trails & Tales can seat two players?",
+      "a": "Camel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancient mob from Trails & Tales sniffs out rare seeds?",
+      "a": "Sniffer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Tricky Trials mob shoots wind charges?",
+      "a": "Breeze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What heavy new weapon from Tricky Trials deals more damage the farther you fall?",
+      "a": "Mace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Tricky Trials block automatically crafts items with redstone?",
+      "a": "Crafter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pouch item, fully released in late 2024, stacks different items in one slot?",
+      "a": "Bundle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bedrock Edition's older name on phones?",
+      "a": "Pocket Edition",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed Minecraft's original soundtrack?",
+      "a": "C418",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What music disc is found in Nether bastions?",
+      "a": "Pigstep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name-tag trick that flips a mob upside down?",
+      "a": "Dinnerbone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name tag makes a sheep cycle through rainbow colors?",
+      "a": "jeb_",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Overworld mob turns into a Zombified Piglin when struck by lightning?",
+      "a": "Pig",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What blue mineral is consumed when enchanting at a table?",
+      "a": "Lapis Lazuli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pickaxe is needed to mine obsidian?",
+      "a": "Diamond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item dropped by the Wither is needed to build a beacon?",
+      "a": "Nether Star",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment lets you pick up blocks like glass and ore whole?",
+      "a": "Silk Touch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bow enchantment gives you unlimited arrows?",
+      "a": "Infinity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What trident enchantment launches you forward in rain or water?",
+      "a": "Riptide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gamerule keeps your items after death?",
+      "a": "keepInventory",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What key opens the debug screen in Java Edition?",
+      "a": "F3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mod is famous for adding zoom and shader support?",
+      "a": "OptiFine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which studio made Minecraft: Story Mode?",
+      "a": "Telltale Games",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is TNT crafted from?",
+      "a": "Sand and gunpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the mythical white-eyed hoax character said to haunt worlds?",
+      "a": "Herobrine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the maximum number of blocks in a chunk's width?",
+      "a": "16",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for the number that determines a world's terrain generation?",
+      "a": "Seed",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -638,6 +1338,411 @@
       "q": "What is a Calibrated Sculk Sensor?",
       "a": "A sculk sensor that only detects specific vibration frequencies",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What block can detect specific items via hopper?",
+      "a": "Comparator with container",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many blocks can you move per second while sprinting?",
+      "a": "Around five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the exact Y coordinate of bedrock bottom in 1.18+?",
+      "a": "Negative sixty-four",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the max build height in current Java Edition?",
+      "a": "320",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob has a 0.8 percent drop chance for a totem?",
+      "a": "Evoker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the approximate health of the Warden in HP?",
+      "a": "500",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Java snapshot first added the Warden publicly?",
+      "a": "21w19a",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob has exactly 300 health in Java Edition?",
+      "a": "Ender Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What coordinate system lets you lock onto exact chunks, with one chunk being how many blocks wide?",
+      "a": "Sixteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the full name of the company founder Notch?",
+      "a": "Markus Persson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the purchase price for Mojang by Microsoft?",
+      "a": "2.5 billion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What update added the Nether Fortress originally?",
+      "a": "Beta 1.9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the rare ingredient required for enchanted golden apples?",
+      "a": "Gold blocks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What update introduced mobile parity known as the Better Together?",
+      "a": "Bedrock edition",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What biome boasts the tallest natural trees?",
+      "a": "Dark forest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mob can be bred using warped fungus on a stick?",
+      "a": "Hoglin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the minimum light level needed to prevent most hostile mob spawns in 1.18+?",
+      "a": "Zero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What exact mob drops a trident with a 8.5 percent chance?",
+      "a": "Drowned",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the drop rate of Wither Skeleton skulls without Looting?",
+      "a": "2.5 percent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What update added shulkers and end cities?",
+      "a": "1.9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancient item found in suspicious sand is a new disc?",
+      "a": "Relic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What developer coded the original Minecraft single-handedly?",
+      "a": "Notch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What edition of Minecraft runs on C++?",
+      "a": "Bedrock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Minecraft's official level format used in Java?",
+      "a": "Anvil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What biome has red sand and pointed dripstone clusters commonly?",
+      "a": "Badlands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the internal ID prefix used for most items in commands?",
+      "a": "Minecraft",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was added to the game in the Caves and Cliffs update alongside axolotls?",
+      "a": "Goats",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the duration in seconds of a default day cycle?",
+      "a": "1200",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the total number of biomes in the Overworld as of 1.20?",
+      "a": "Around 50",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What exact bed explodes if used in the Nether?",
+      "a": "Any bed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the official name of the beatable end dimension structure at its center?",
+      "a": "Exit portal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the mob vote for the Sniffer won?",
+      "a": "2022",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Minecraft Dungeons' isometric combat genre?",
+      "a": "Dungeon crawler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tool is the only way to collect beehives intact?",
+      "a": "Silk touch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Minecraft Live 2023 new mob winner?",
+      "a": "Armadillo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the maximum stack size for buckets of any kind?",
+      "a": "One",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What actor plays Steve in the Minecraft movie?",
+      "a": "Jack Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What potion ingredient from blazes makes a Potion of Strength?",
+      "a": "Blaze Powder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient makes a Potion of Swiftness?",
+      "a": "Sugar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient makes a Potion of Fire Resistance?",
+      "a": "Magma Cream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient makes a Potion of Slow Falling?",
+      "a": "Phantom Membrane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient makes a Potion of Leaping?",
+      "a": "Rabbit's Foot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient makes a Potion of Water Breathing?",
+      "a": "Pufferfish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient makes a Potion of Healing?",
+      "a": "Glistering Melon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ingredient turns a potion into a lingering potion?",
+      "a": "Dragon's Breath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What status effect does the Warden inflict that darkens your screen?",
+      "a": "Darkness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Warden's long-range attack called?",
+      "a": "Sonic Boom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item, made with echo shards, points to where you last died?",
+      "a": "Recovery Compass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What deep dark block spreads its growth when a mob dies near it?",
+      "a": "Sculk Catalyst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many times must a Sculk Shrieker be triggered before a Warden emerges?",
+      "a": "4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which mob won the very first Mob Vote in 2017?",
+      "a": "Phantom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Pale Garden mob only moves when you are not looking at it?",
+      "a": "The Creaking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rideable flying mob added in 2025 is grown from a dried Nether creature?",
+      "a": "Happy Ghast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What metal helper mob returned in 2025 to sort items into chests?",
+      "a": "Copper Golem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What music disc is found in trial chambers?",
+      "a": "Precipice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What music disc is found in trail ruins?",
+      "a": "Relic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed Pigstep and much of the newer Minecraft music?",
+      "a": "Lena Raine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name tag makes a Vindicator attack every other mob?",
+      "a": "Johnny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mojang's lead developer known as Jeb?",
+      "a": "Jens Bergensten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fastest block to travel over in a boat?",
+      "a": "Blue Ice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the anvil's maximum repair cost before it says 'Too Expensive'?",
+      "a": "40 levels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment repairs items using XP and cannot be made at an enchanting table?",
+      "a": "Mending",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment found only in ancient cities speeds up sneaking?",
+      "a": "Swift Sneak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What enchantment speeds you up on the Nether's slow sand?",
+      "a": "Soul Speed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What trident enchantment summons lightning during a storm?",
+      "a": "Channeling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What workstation block turns a villager into a librarian?",
+      "a": "Lectern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What workstation block turns a villager into a cleric?",
+      "a": "Brewing Stand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What workstation block turns a villager into a fletcher?",
+      "a": "Fletching Table",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for a green-robed villager that cannot take a job?",
+      "a": "Nitwit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What unused illager mob can turn invisible and create clones?",
+      "a": "Illusioner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What light block is made when a frog eats a magma cube?",
+      "a": "Froglight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rarest axolotl color has a roughly 1 in 1,200 chance?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What item is used to wax copper so it stops oxidizing?",
+      "a": "Honeycomb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the world border distance from the center in blocks?",
+      "a": "About 30 million",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What glitched terrain formed millions of blocks out in early versions?",
+      "a": "The Far Lands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which city hosted MineCon 2011, where the full game officially launched?",
+      "a": "Las Vegas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which company publishes Minecraft in China?",
+      "a": "NetEase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the oldest anarchy server in Minecraft?",
+      "a": "2b2t",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What advancement requires having every status effect at once?",
+      "a": "How Did We Get Here?",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the End Poem shown after beating the Ender Dragon?",
+      "a": "Julian Gough",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many health points does the Ender Dragon have?",
+      "a": "200",
+      "file": "qualityBackfill"
     }
   ]
 }

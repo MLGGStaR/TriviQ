@@ -149,6 +149,726 @@
       "q": "Welsh winger. Manchester United legend. Most decorated English league player. Left-footed wing wizard.",
       "a": "Ryan Giggs",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "French forward. Won the World Cup at 19. Plays for Real Madrid. Explosive sprinting speed.",
+      "a": "Kylian Mbappe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian midfielder. 2018 Ballon d'Or winner. Six UCL titles at Real Madrid. Small-framed maestro.",
+      "a": "Luka Modric",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian striker. Won the 2002 World Cup. Scored twice in that final. Known as R9.",
+      "a": "Ronaldo Nazario",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian superstar. Three World Cups. Over 1,200 career goals. Crowned The King.",
+      "a": "Pele",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French playmaker. Head-butted Materazzi in the 2006 final. Won three straight UCLs as Real Madrid coach.",
+      "a": "Zinedine Zidane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swedish striker. Enormous ego and bicycle kicks. Played for Barca, Milan and Manchester United.",
+      "a": "Zlatan Ibrahimovic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine striker. Manchester City legend. Scored the 93:20 Premier League winner vs QPR.",
+      "a": "Sergio Aguero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Senegalese forward. Premier League and UCL winner at Liverpool. Africa Cup of Nations champion.",
+      "a": "Sadio Mane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish striker. Real Madrid legend. Scored 323 goals for Los Blancos before Ronaldo passed him.",
+      "a": "Raul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French striker. Played with Messi at Barcelona. 2022 Ballon d'Or winner. Real Madrid legend.",
+      "a": "Karim Benzema",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Heart of tiki-taka era. 2010 World Cup final goalscorer. Barcelona lifer.",
+      "a": "Andres Iniesta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Barcelona's pass-master. 2010 World Cup winner. Elegant metronome.",
+      "a": "Xavi Hernandez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Colombian striker. Bleach-blond afro. Monaco, Madrid and Inter. Scored a scorpion-kick goal in training.",
+      "a": "Radamel Falcao",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan striker. Biting incidents at multiple World Cups. Liverpool and Barcelona goal machine.",
+      "a": "Luis Suarez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Polish striker. Bayern Munich goal monster. Scored five in nine minutes against Wolfsburg.",
+      "a": "Robert Lewandowski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Gabonese striker. Arsenal captain who left for Barcelona. Known for Spiderman masks.",
+      "a": "Pierre-Emerick Aubameyang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ivorian striker. Chelsea's all-time top African scorer. 2012 Champions League winner. Scored the decisive penalty in that final.",
+      "a": "Didier Drogba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian forward. Buck-toothed wizard of the 2002 World Cup. Barcelona and Milan. R9's namesake.",
+      "a": "Ronaldinho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish defender. Real Madrid captain for years. Scored a famous last-gasp header in the 2014 UCL final against local rivals.",
+      "a": "Sergio Ramos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian midfielder. Manchester United metronome. Known as O Fenomeno at Old Trafford? No, known simply as the number 18.",
+      "a": "Casemiro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Belgian forward. Real Madrid and Chelsea. Left-footed. Nicknamed Baby Zidane as a youngster.",
+      "a": "Eden Hazard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine forward. 2022 World Cup winner. Scored in UCL and Copa America finals. Nicknamed El Fideo.",
+      "a": "Angel Di Maria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French defender. 2018 World Cup winner. Former Madrid and Manchester United center-back. Shaved head.",
+      "a": "Raphael Varane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Tottenham and England captain in the 1990s. Scored six at Euro 96 warm-ups. Nicknamed The Guv'nor.",
+      "a": "Paul Ince",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch striker. Manchester United goal-scorer. Volley vs Spain at the 2014 World Cup. Nicknamed the Flying Dutchman.",
+      "a": "Robin van Persie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English forward. Manchester United's all-time leading scorer. Scored a spectacular overhead kick in a 2011 Manchester derby. Started and later finished his Premier League career at Everton.",
+      "a": "Wayne Rooney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian deep-lying playmaker. Won the 2006 World Cup. Lifted the Champions League twice with AC Milan before winning four straight Serie A titles at Juventus. Chipped a famous Panenka penalty against England at Euro 2012.",
+      "a": "Andrea Pirlo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian goalkeeper. Won the 2006 World Cup. Spent most of two decades at Juventus and holds the Serie A appearance record. Lost three Champions League finals without ever winning the trophy.",
+      "a": "Gianluigi Buffon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian defender. Spent his entire 25-season career at AC Milan. Won the European Cup or Champions League five times. His father captained the same club and his son later played for it too.",
+      "a": "Paolo Maldini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian attacking midfielder. Won the 2007 Ballon d'Or, the last before Messi and Ronaldo dominated the award. Champions League winner with AC Milan before a then world-record move to Real Madrid. Famous for an 'I belong to Jesus' undershirt.",
+      "a": "Kaká",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian attacking midfielder. Won the 1999 Ballon d'Or and the 2002 World Cup. Completed a Barcelona hat-trick with a last-minute overhead kick against Valencia in 2001. Infamously clutched his face after a ball struck his leg at the 2002 World Cup.",
+      "a": "Rivaldo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian left-back. Bent a physics-defying free kick past France's goalkeeper in a 1997 friendly tournament. Won three Champions Leagues with Real Madrid and the 2002 World Cup. Known for enormous thighs and a rocket left foot.",
+      "a": "Roberto Carlos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian right-back. The only player to appear in three consecutive World Cup finals. Captained his country to the 2002 title. Won Serie A with Roma and the Champions League with AC Milan.",
+      "a": "Cafu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch winger. Everyone knew he would cut inside onto his left foot, yet few could stop it. Scored the winner in the 2013 Champions League final for Bayern Munich. Also played for Chelsea, Real Madrid and PSV.",
+      "a": "Arjen Robben",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French winger. Bears a facial scar from a childhood car accident. Formed a feared wing partnership at Bayern Munich, winning the 2013 treble. Named UEFA's Best Player in Europe that year.",
+      "a": "Franck Ribéry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch attacking midfielder. Won the treble with Inter in 2010 and reached the World Cup final the same summer. Previously at Ajax and Real Madrid, later a Galatasaray favourite. Many felt he deserved the 2010 Ballon d'Or.",
+      "a": "Wesley Sneijder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German full-back. Captained his country to the 2014 World Cup and retired from international football right after. A one-club man at Bayern Munich apart from a loan at Stuttgart. Pep Guardiola called him the most intelligent player he ever coached.",
+      "a": "Philipp Lahm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German goalkeeper. Won the Golden Ball at the 2002 World Cup, the only keeper ever to do so. Long-time Bayern Munich captain with a ferocious temper. Later became the club's CEO.",
+      "a": "Oliver Kahn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German striker. Holds the record for most goals in World Cup history. Celebrated with a front flip. Won the 2014 World Cup and played for Bayern Munich and Lazio.",
+      "a": "Miroslav Klose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German forward who called himself a 'space interpreter'. Won the Golden Boot at the 2010 World Cup. Spent 25 years at Bayern Munich before joining a Canadian MLS club in 2025. Gangly, unorthodox and endlessly effective.",
+      "a": "Thomas Müller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German midfielder. Captained West Germany to the 1990 World Cup and won the Ballon d'Or that year. Played at five World Cups and starred for Bayern Munich and Inter. Held the record for most World Cup matches until Messi passed it in 2022.",
+      "a": "Lothar Matthäus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German playmaker with a famously wide-eyed stare. Won the 2014 World Cup. Real Madrid's assist king before joining Arsenal, where he won the FA Cup several times. Retired in 2023 after spells in Turkey.",
+      "a": "Mesut Özil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish centre-back. Left Manchester United's youth ranks to return to Barcelona, winning two trebles there. World Cup winner in 2010. Was in a long relationship with pop star Shakira.",
+      "a": "Gerard Piqué",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian left-back with unmistakable curly hair. Won five Champions League titles with Real Madrid. Later lifted the Copa Libertadores with Fluminense in 2023. Loved a nutmeg and a rabona.",
+      "a": "Marcelo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch striker. Won the Premier League Golden Boot in 2003 with Manchester United. Missed a last-minute penalty against Arsenal in the 2003 'Battle of Old Trafford'. Later played for Real Madrid and briefly managed United as caretaker in 2024.",
+      "a": "Ruud van Nistelrooy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian forward. Juventus's all-time top scorer and record appearance holder. Stayed with the club through its 2006 relegation to Serie B. Won the 2006 World Cup and had a trademark curling finish into the far corner.",
+      "a": "Alessandro Del Piero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian centre-back. Captained his country to the 2006 World Cup and won that year's Ballon d'Or. Only about 5ft 9in tall but a superb reader of the game. Played for Parma, Juventus, Inter and Real Madrid.",
+      "a": "Fabio Cannavaro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean forward. Captained Tottenham to the 2025 Europa League, the club's first trophy in 17 years. Shared a Premier League Golden Boot in 2022. Moved to LAFC in Los Angeles in 2025.",
+      "a": "Son Heung-min",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian winger. Scored the only goal of the 2022 Champions League final. Runner-up in the 2024 Ballon d'Or, which caused Real Madrid to boycott the ceremony. Wears number 7 on the left wing.",
+      "a": "Vinícius Júnior",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Birmingham City retired his number 22 shirt when he left at age 17. Starred for Borussia Dortmund before joining Real Madrid, where he won La Liga and the Champions League in his first season. Celebrates with outstretched arms.",
+      "a": "Jude Bellingham",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish winger. Became the youngest scorer in European Championship history with a curler against France at Euro 2024, aged 16. Barcelona academy product playing on the right with a lethal left foot. Took the club's number 10 shirt in 2025.",
+      "a": "Lamine Yamal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French forward. Won the 2018 World Cup and became Atlético Madrid's all-time leading scorer. Celebrated goals with Fortnite's 'Take the L' dance. Had a mixed spell at Barcelona between two Atlético stints.",
+      "a": "Antoine Griezmann",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English forward. Manchester United academy product who scored twice on his debut. Successfully campaigned for free school meals during the pandemic. Left United on loan for Aston Villa, then Barcelona in 2025.",
+      "a": "Marcus Rashford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish holding midfielder. Scored the winner in the 2023 Champions League final. Won Euro 2024 and that year's Ballon d'Or. A serious knee injury sidelined him for most of the following season.",
+      "a": "Rodri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Captained Arsenal at 21 before returning to Barcelona. Assisted the winning goal in the 2010 World Cup final. Later won two Premier League titles at Chelsea and now manages Como in Italy.",
+      "a": "Cesc Fàbregas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English left-back. Won the FA Cup a record seven times. Crossed north London from Arsenal to Chelsea in 2006 and lifted the Champions League in 2012. Often cited as Cristiano Ronaldo's toughest opponent.",
+      "a": "Ashley Cole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Czech goalkeeper. Wore a protective headguard after fracturing his skull in 2006. Was the hero of Chelsea's 2012 Champions League final win. Holds the Premier League record for clean sheets.",
+      "a": "Petr Čech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English striker. Went from non-league football to a Premier League title with Leicester in 2016. Scored in 11 consecutive top-flight games that season. Left Leicester in 2025 for a newly promoted Serie A club.",
+      "a": "Jamie Vardy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English right-back from the Liverpool academy. Took the quick corner that set up a goal in the 2019 Barcelona comeback. Famed for his crossing and passing range. Joined Real Madrid in 2025.",
+      "a": "Trent Alexander-Arnold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Captained West Ham to the 2023 Conference League before a £105m move to Arsenal. Scored two free kicks in one game against Real Madrid in the 2025 Champions League quarter-final. Played for the Republic of Ireland before switching to England.",
+      "a": "Declan Rice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English attacking midfielder. Left Manchester City for Chelsea in 2023 and became a star. Scored twice in the 2025 Club World Cup final. Celebrates goals by shivering with folded arms.",
+      "a": "Cole Palmer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French forward. Won the 2025 Ballon d'Or after leading PSG to a treble including the Champions League. Signed by Barcelona in 2017 as a replacement for Neymar. Genuinely two-footed, which puzzles defenders.",
+      "a": "Ousmane Dembélé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Moroccan right-back born in Madrid. Won the Champions League with PSG in 2025 and scored in that final. Converted a Panenka penalty to knock Spain out of the 2022 World Cup. Formerly at Real Madrid, Dortmund and Inter.",
+      "a": "Achraf Hakimi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German playmaker. Central to Bayer Leverkusen's unbeaten Bundesliga title in 2024. Joined Liverpool in 2025 for a British record fee at the time. Wore number 10 at Leverkusen.",
+      "a": "Florian Wirtz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Northern Irish winger. Won the 1968 European Cup and Ballon d'Or with Manchester United. Nicknamed the fifth Beatle for his celebrity lifestyle. Once joked he spent his money on booze, women and fast cars and squandered the rest.",
+      "a": "George Best",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French forward. Joined Manchester United from Leeds in 1992 and won four Premier League titles in five seasons. Famous for his upturned collar and a kung-fu kick on a Crystal Palace fan in 1995. Retired in 1997 aged just 30 and became an actor.",
+      "a": "Eric Cantona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Survived the 1958 Munich air disaster as a young Manchester United player. Won the 1966 World Cup and the 1968 European Cup. Known for thunderous long-range shots and a famous comb-over.",
+      "a": "Bobby Charlton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back. Captained England to the 1966 World Cup at Wembley. Spent most of his career at West Ham. Pelé called him the greatest defender he ever faced after their 1970 duel in Mexico.",
+      "a": "Bobby Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English winger born in Kingston, Jamaica. Came through Liverpool's academy, then moved to Manchester City in 2015 for around £49 million and won four Premier League titles there. Later joined Chelsea.",
+      "a": "Raheem Sterling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English attacking midfielder. Boyhood Aston Villa fan and captain who moved to Manchester City for a British-record £100 million in 2021. Won the treble in 2023. Known for his rolled-down socks and tiny shin pads.",
+      "a": "Jack Grealish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German goalkeeper. Joined Barcelona from Borussia Mönchengladbach in 2014 and won the treble in his first season. Renowned for his footwork and distribution. Spent years as understudy to Manuel Neuer with the national team.",
+      "a": "Marc-André ter Stegen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Slovenian goalkeeper. Joined Atlético Madrid from Benfica in 2014 and won the Zamora Trophy as La Liga's best keeper five times. Won the La Liga title in 2021. Renowned for his calm shot-stopping.",
+      "a": "Jan Oblak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian goalkeeper who made his AC Milan debut at 16. Named player of the tournament at Euro 2020 after two shoot-out saves in the final. Won the 2025 Champions League with PSG, then joined Manchester City.",
+      "a": "Gianluigi Donnarumma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German winger and son of a Senegalese international. Won two Premier League titles with Manchester City before a big-money move to Bayern Munich in 2020. Joined Galatasaray on a free transfer in 2025.",
+      "a": "Leroy Sané",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine forward nicknamed \"The Spider\". Scored twice in the 2022 World Cup semi-final against Croatia. Won the treble with Manchester City in 2023 before joining Atlético Madrid in 2024.",
+      "a": "Julián Álvarez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine striker nicknamed \"El Toro\". Joined Inter from Racing Club in 2018 and became club captain. Won the 2022 World Cup and was Serie A's top scorer in 2023–24 as Inter won the Scudetto.",
+      "a": "Lautaro Martínez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan midfielder nicknamed \"El Pajarito\". Joined Real Madrid from Peñarol as a teenager and won the Champions League in 2022 and 2024. Famous for thunderous long-range strikes and also fills in at right-back.",
+      "a": "Federico Valverde",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Joined Barcelona from Las Palmas at 17 and won the Golden Boy award in 2021. Won Euro 2024 with Spain. Known for elegant close control that draws comparisons to Iniesta.",
+      "a": "Pedri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch midfielder. Starred as Ajax reached the 2019 Champions League semi-finals, then joined Barcelona for around €75 million. Known for gliding dribbles from deep. Resisted repeated attempts to sell him to Manchester United.",
+      "a": "Frenkie de Jong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese midfielder. Joined Manchester City from Monaco in 2017 and won six Premier League titles plus the 2023 treble. Won the 2019 Nations League with Portugal. Famed for relentless work rate and dribbling.",
+      "a": "Bernardo Silva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese centre-back. Joined Manchester City from Benfica in 2020 and was named Premier League Player of the Season in his first year. Won the 2019 Nations League with Portugal.",
+      "a": "Rúben Dias",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French striker. Won the 2018 World Cup without scoring a single goal. Won the Puskás Award for a scorpion-kick goal for Arsenal against Crystal Palace. Later played for Chelsea, AC Milan and LAFC.",
+      "a": "Olivier Giroud",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French goalkeeper who captained France to the 2018 World Cup. Spent more than a decade at Tottenham after Lyon and captained them in the 2019 Champions League final. Moved to LAFC in 2024.",
+      "a": "Hugo Lloris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German attacking midfielder. Scored the extra-time winner in the 2014 World Cup final against Argentina. Controversially moved from Dortmund to Bayern in 2013 before returning to Dortmund. Later played for PSV and Eintracht Frankfurt.",
+      "a": "Mario Götze",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German forward. Scored the only goal of the 2021 Champions League final for Chelsea against Manchester City. Came through at Bayer Leverkusen. Joined Arsenal in 2023.",
+      "a": "Kai Havertz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German centre-back of Sierra Leonean heritage. Won the 2021 Champions League with Chelsea, then joined Real Madrid on a free in 2022 and won another in 2024. Known for aggression and grinning celebrations.",
+      "a": "Antonio Rüdiger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian centre-back. Captained Italy to the Euro 2020 title. Spent 17 years at Juventus, winning nine straight Serie A titles, before finishing his career at LAFC. Famously bitten by Luis Suárez at the 2014 World Cup.",
+      "a": "Giorgio Chiellini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian striker. Revealed a \"Why Always Me?\" undershirt after scoring in Manchester City's 6–1 derby win in 2011. Scored twice against Germany in the Euro 2012 semi-final. Also played for Inter, AC Milan and Liverpool.",
+      "a": "Mario Balotelli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish goalkeeper. Joined Manchester United from Atlético Madrid in 2011 and won the club's Player of the Year award a record four times. Won the 2023 Premier League Golden Glove. Joined Fiorentina in 2024.",
+      "a": "David de Gea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine striker. Scored 36 Serie A goals for Napoli in 2015–16, then joined Juventus for €90 million. Lost the 2014 World Cup final and two Copa América finals with Argentina. Finished at Inter Miami.",
+      "a": "Gonzalo Higuaín",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine forward nicknamed \"La Joya\". Won five Serie A titles with Juventus before joining Roma in 2022. Won the 2022 World Cup, scoring in the final shoot-out. Celebrates with a mask gesture.",
+      "a": "Paulo Dybala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian forward. Joined Liverpool from Hoffenheim in 2015 and led the line in a famous front three, winning the Champions League in 2019 and Premier League in 2020. Known for no-look finishes. Later played for Al-Ahli.",
+      "a": "Roberto Firmino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian playmaker. Sold by Liverpool to Barcelona in January 2018 for around £142 million. Scored twice against Barcelona in Bayern's 8–2 win while on loan in 2020. Later played for Aston Villa and Vasco da Gama.",
+      "a": "Philippe Coutinho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scottish left-back and national team captain. Started at amateur side Queen's Park, rose through Dundee United and Hull, and joined Liverpool in 2017. Won the Champions League and two Premier League titles.",
+      "a": "Andy Robertson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Nigerian striker. Serie A top scorer as Napoli won their first Scudetto in 33 years in 2023. Wears a protective face mask after a 2021 facial injury. Moved to Galatasaray on loan in 2024 and then permanently.",
+      "a": "Victor Osimhen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Georgian winger. Named Serie A MVP as Napoli won the 2022–23 Scudetto. Joined PSG in January 2025 and won the Champions League months later.",
+      "a": "Khvicha Kvaratskhelia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese winger. Named Serie A MVP as AC Milan won the 2021–22 Scudetto. Joined from Lille in 2019. Known for his pace and also releases rap music under the name Way 45.",
+      "a": "Rafael Leão",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Colombian winger. Joined Liverpool from Porto in January 2022. His father was kidnapped in Colombia in 2023 and freed after 12 days. Moved to Bayern Munich in 2025.",
+      "a": "Luis Díaz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Won the 2022 World Cup while a Brighton player, then joined Liverpool in 2023 and won the 2024–25 Premier League. His father and two brothers were also professional footballers.",
+      "a": "Alexis Mac Allister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Named best young player at the 2022 World Cup while at Benfica, then joined Chelsea for a British-record fee in January 2023. Won the 2025 Club World Cup.",
+      "a": "Enzo Fernández",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder for Barcelona. Player of the tournament as Spain won the 2023 Women's World Cup. Won the Ballon d'Or Féminin in both 2023 and 2024.",
+      "a": "Aitana Bonmatí",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American winger with dyed pink hair. Won the Golden Ball and Golden Boot at the 2019 Women's World Cup and that year's Ballon d'Or Féminin. Known for an arms-outstretched celebration.",
+      "a": "Megan Rapinoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian forward. Six-time FIFA World Player of the Year. Holds the all-time goal record at World Cups for men or women with 17. Known by a single name.",
+      "a": "Marta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Australian striker and national team captain. Her country's all-time record scorer. Won two consecutive WSL Golden Boots with Chelsea. Celebrates goals with a backflip.",
+      "a": "Sam Kerr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish defensive midfielder. Captained Barcelona and won the 1992 European Cup as the anchor of Cruyff's Dream Team, plus Olympic gold that same summer. Later played for Brescia and Roma. Now far better known as a title-winning manager in Spain, Germany and England.",
+      "a": "Pep Guardiola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American striker. Won the Women's World Cup in 2015 and 2019 and Olympic gold in 2012. Celebrated a goal against England in the 2019 semi-final by miming a sip of tea. Played for Orlando Pride and San Diego Wave, with a short loan at Tottenham.",
+      "a": "Alex Morgan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American forward. Won the first two FIFA Women's World Player of the Year awards in 2001 and 2002. Lifted the World Cup in 1991 and 1999 and two Olympic golds. Wore number 9 and married baseball star Nomar Garciaparra.",
+      "a": "Mia Hamm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder and Barcelona captain. Won the Ballon d'Or Féminin in 2021 and 2022, the first woman to win it twice. Tore her ACL days before Euro 2022. Won the 2023 World Cup with Spain.",
+      "a": "Alexia Putellas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian attacking midfielder nicknamed the 'White Pelé'. Flamengo's greatest player, winning the 1981 Copa Libertadores and Intercontinental Cup. Played at three World Cups without winning one. Later starred for Kashima Antlers and coached Japan.",
+      "a": "Zico",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian striker. Scored against the Netherlands at the 1994 World Cup and celebrated by rocking an imaginary baby to mark the birth of his son. Formed a famous partnership with Romário that summer. Played for Flamengo and Deportivo La Coruña.",
+      "a": "Bebeto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian forward who emerged at Santos as a step-over specialist before joining Real Madrid in 2005. Became Manchester City's first marquee signing after the 2008 Abu Dhabi takeover. Later played for AC Milan.",
+      "a": "Robinho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian-born midfielder who chose to play for Portugal. Won the Champions League with Porto in 2004 under Mourinho and with Barcelona in 2006. Reached the Euro 2004 final. Later played for Chelsea and Fluminense.",
+      "a": "Deco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mexican striker known by a nickname meaning 'little pea'. Joined Manchester United from Chivas in 2010 and won two Premier League titles. Also played for Real Madrid, Bayer Leverkusen, West Ham and LA Galaxy. Mexico's all-time top scorer.",
+      "a": "Javier Hernández",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mexican goalkeeper with a trademark mop of curly hair. Became a viral sensation with a string of saves against Brazil at the 2014 World Cup. Saved a Robert Lewandowski penalty at the 2022 tournament. Named in five World Cup squads.",
+      "a": "Guillermo Ochoa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American forward from Texas. Scored at three World Cups, including after just 29 seconds against Ghana in 2014. Became Fulham's record Premier League scorer, had a spell at Tottenham and finished at Seattle Sounders.",
+      "a": "Clint Dempsey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian-born Italian midfielder. Won the Champions League with Chelsea and Euro 2020 with Italy in the same year, finishing third in the 2021 Ballon d'Or. Known for a hop-and-skip penalty run-up. Later played for Arsenal and Flamengo.",
+      "a": "Jorginho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian winger and Napoli captain. Scored a trademark curling shot from the left in the Euro 2020 quarter-final win over Belgium. Left for Toronto FC in 2022 on one of the biggest contracts in MLS history. Stands around 1.63 metres tall.",
+      "a": "Lorenzo Insigne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian forward. Joined Real Madrid from Santos in 2019 and scored two late goals against Manchester City in the 2022 Champions League semi-final. Won the Champions League in 2022 and 2024. Scored a perfect hat-trick against Galatasaray aged 18.",
+      "a": "Rodrygo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian winger. Starred for Leeds after Rennes, then joined Barcelona in 2022. Scored over 30 goals in 2024–25 as Barcelona won the domestic treble and finished in the top five of the Ballon d'Or. Also played for Sporting Lisbon.",
+      "a": "Raphinha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian striker. Came from Palmeiras to Manchester City in 2017 and won four Premier League titles before joining Arsenal in 2022. Celebrates goals with a phone-call gesture to his mother. Won Olympic gold at Rio 2016.",
+      "a": "Gabriel Jesus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian forward known for a pigeon-dance celebration. Top scorer as Brazil won Olympic gold in 2021. Scored a spectacular scissor-kick against Serbia at the 2022 World Cup. Played for Watford and Everton before Tottenham.",
+      "a": "Richarlison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan striker. Scored twice for Benfica against Liverpool in the 2022 Champions League and joined them months later for a club-record fee. Was sent off on his Anfield debut for head-butting Joachim Andersen. Moved to Al-Hilal in 2025.",
+      "a": "Darwin Núñez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese forward. Joined Atlético Madrid from Benfica in 2019 for around €126 million as a teenager and won that year's Golden Boy award. Had loan spells at Chelsea, Barcelona and AC Milan. Joined Al-Nassr in 2025.",
+      "a": "João Félix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese full-back who plays on either flank and drifts into midfield. Won two Premier League titles with Manchester City before loans at Bayern Munich and Barcelona. Joined Al-Hilal in 2024. Previously at Valencia, Inter and Juventus.",
+      "a": "João Cancelo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Signed by Tottenham from MK Dons for £5 million and twice named PFA Young Player of the Year. Scored a stunning volley against Crystal Palace in 2016. Gave an emotional 2023 interview about his childhood. Later signed for Como.",
+      "a": "Dele Alli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Chelsea academy product who assisted the winning goal in the 2021 Champions League final. Had a loan at Derby under Frank Lampard. Joined Manchester United in 2023 for around £55 million.",
+      "a": "Mason Mount",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English winger. Left Manchester City's academy for Borussia Dortmund at 17 and became a Bundesliga star. Returned to England with Manchester United for £73 million in 2021. Fell out with Erik ten Hag, then had loans back at Dortmund and at Chelsea.",
+      "a": "Jadon Sancho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English right-back known for raw pace. Came through Sheffield United, starred for Tottenham, then joined Manchester City in 2017 and captained them to the 2023 treble. Later had a loan at AC Milan before joining Burnley.",
+      "a": "Kyle Walker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back who started at Barnsley. Joined Manchester City from Everton in 2016 for around £47.5 million. Guardiola pushed him into midfield during the 2023 treble season, where his passing shone.",
+      "a": "John Stones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English goalkeeper who made his name at Shrewsbury. Won two Premier League titles with Manchester City, then was frozen out by Guardiola and loaned to Torino. Famous for shampoo adverts. Finished his career at Celtic in 2024.",
+      "a": "Joe Hart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian centre-back with a huge head of curly hair. Won the 2012 Champions League with Chelsea, moved to PSG for £50 million, then returned to Chelsea. Captained Brazil in the 7–1 defeat to Germany in 2014.",
+      "a": "David Luiz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Twice Chelsea's Player of the Year before Mourinho sold him to Manchester United in 2014 for £37 million. Won the 2010 World Cup and Euro 2012. Co-founded the Common Goal charity pledge.",
+      "a": "Juan Mata",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English striker who was still playing non-league at 21. Became Arsenal's record scorer in 1997, a mark later passed by Thierry Henry. Started his pro career at Crystal Palace. Now a Match of the Day pundit.",
+      "a": "Ian Wright",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French left-back. Won five Premier League titles and the 2008 Champions League with Manchester United. Captained France during the 2010 World Cup training-ground strike. Later played for Juventus and Marseille.",
+      "a": "Patrice Evra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese winger known for somersault celebrations. Joined Manchester United from Sporting in 2007, winning four Premier League titles and the 2008 Champions League. Won Euro 2016. Later played for Valencia and Orlando City.",
+      "a": "Nani",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Stocky Swiss winger. Scored a bicycle kick against Poland at Euro 2016. Won the treble with Bayern Munich in 2013 and the Champions League with Liverpool in 2019. Played for Stoke and Chicago Fire before returning to Basel.",
+      "a": "Xherdan Shaqiri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Welsh midfielder. Scored the winning goal in two FA Cup finals for Arsenal, in 2014 and 2017. Suffered a horrific leg break in a tackle by Ryan Shawcross in 2010. Left for Juventus in 2019 and later played for Rangers and Nice.",
+      "a": "Aaron Ramsey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French midfielder born in a refugee camp in Angola. Made his Rennes debut at 16 and joined Real Madrid in 2021. Won the Champions League in 2022 and 2024, often filling in at left-back.",
+      "a": "Eduardo Camavinga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French defensive midfielder who started at Bordeaux. Joined Real Madrid from Monaco in 2022 for around €80 million. Won the 2024 Champions League, sometimes deployed as an emergency centre-back.",
+      "a": "Aurélien Tchouaméni",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian centre-back and PSG captain. Joined from Roma in 2013 and became the club's record appearance holder, lifting the 2025 Champions League. Hit the post with his penalty in the 2022 World Cup quarter-final shoot-out against Croatia.",
+      "a": "Marquinhos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch centre-back. Captained Ajax to the 2019 Champions League semi-finals aged 19 and won the Golden Boy award. Joined Juventus for around €75 million, then Bayern Munich, then Manchester United in 2024.",
+      "a": "Matthijs de Ligt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Serbian striker. Scored 17 Serie A goals in the first half of 2021–22 for Fiorentina before Juventus paid around €70 million for him that January. Tall, left-footed, and started at Partizan Belgrade.",
+      "a": "Dušan Vlahović",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swedish striker. Scored 97 goals in two seasons for Sporting Lisbon after joining from Coventry, including a hat-trick against Manchester City in 2024. Joined Arsenal in 2025. Celebrates with a mask gesture over his face.",
+      "a": "Viktor Gyökeres",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish winger of Ghanaian descent. Scored in the Euro 2024 final against England. Plays for Athletic Bilbao alongside his older brother, who chose to represent Ghana. Won the 2024 Copa del Rey.",
+      "a": "Nico Williams",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -301,6 +1021,756 @@
       "q": "Portuguese striker. Benfica legend. Represented his country at multiple Euros. Known for aerial ability.",
       "a": "Nuno Gomes",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Colombian playmaker. 2014 World Cup Golden Boot. Moved to Real Madrid that summer. Wears number 10.",
+      "a": "James Rodriguez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian striker. 2018 World Cup finalist. Juventus trophy winner. Classic volley against France in that final.",
+      "a": "Mario Mandzukic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German goal machine. Scored 68 for West Germany. Nicknamed Der Bomber. 1974 World Cup winner.",
+      "a": "Gerd Muller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ivorian midfielder. Barcelona La Liga winner before Manchester City. Powerhouse long-range shots.",
+      "a": "Yaya Toure",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Hungarian forward. Real Madrid star of the 1950s. Scored 84 international goals. The Galloping Major.",
+      "a": "Ferenc Puskas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine-Spanish forward. Real Madrid legend. Five straight European Cups. Nicknamed the Blond Arrow.",
+      "a": "Alfredo Di Stefano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Manchester United and Chelsea. Nicknamed La Brujita. Lazio Serie A winner.",
+      "a": "Juan Sebastian Veron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Barcelona deep-lying pass master. 2010 World Cup winner. Now a club director.",
+      "a": "Sergio Busquets",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Chilean midfielder. Arsenal, Barcelona and Inter. Nicknamed El Nino Maravilla. Copa America winner.",
+      "a": "Alexis Sanchez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English forward. Tottenham captain before Kane. Scored header vs Arsenal in 2005. Not known for speed.",
+      "a": "Teddy Sheringham",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Welsh striker. Nicknamed the Red Dragon. Manchester United and Dynamo Kyiv. Scored at Euro 2016.",
+      "a": "Mark Hughes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swedish striker. Arsenal marksman. Sven-Goran Eriksson disciple. Ponytailed Scandinavian.",
+      "a": "Henrik Larsson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Romanian playmaker. Nicknamed the Maradona of the Carpathians. Real Madrid number 10 in the 90s.",
+      "a": "Gheorghe Hagi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bulgarian striker. 1994 Ballon d'Or winner. Barcelona forward. Scored vs Germany at the 1994 World Cup.",
+      "a": "Hristo Stoichkov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese forward. Nicknamed O Rei. Benfica legend of the 1960s. European Cup winner in 1962.",
+      "a": "Eusebio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. World Cup winning playmaker in 1986. Napoli teammate of Maradona. Sevilla and Lazio.",
+      "a": "Jorge Burruchaga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian midfielder. 1994 and 2002 World Cup winner. Yoga-loving keeper in his later years? No, holding midfielder.",
+      "a": "Dunga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch midfielder. Barcelona's tall enforcer. Euro 1988 winner. Later Netherlands coach.",
+      "a": "Frank Rijkaard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French defender. 2018 World Cup winner. Juventus, Madrid and Manchester United. Afro-haired center-back.",
+      "a": "Paul Pogba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Belgian forward. Manchester United and Everton striker. Played alongside Hazard and De Bruyne for his country.",
+      "a": "Romelu Lukaku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German defender. Bayern Munich captain. 2014 World Cup winner. Retired in 2022.",
+      "a": "Mats Hummels",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German defender. Bayern Munich captain after Hummels. 2014 World Cup winner. Red-card vs Argentina final.",
+      "a": "Jerome Boateng",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish striker. Liverpool forward under Benitez. Nicknamed El Nino. Scored at Anfield in a 4-1 win over Manchester United in 2009.",
+      "a": "Fernando Torres",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Chilean forward. Inter and Manchester City. Copa America winner. Dyed blond and shaggy hair.",
+      "a": "Arturo Vidal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan forward. Atletico Madrid striker. 2010 World Cup top scorer. Nicknamed El Cacique.",
+      "a": "Diego Forlan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian goalkeeper. Liverpool number one. 2019 UCL winner. Came from Roma.",
+      "a": "Alisson Becker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian goalkeeper. Manchester City number one. 2019 Copa America winner. Short man on goal line.",
+      "a": "Ederson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Manchester City playmaker. Silky left foot. Scored in the 2023 UCL final.",
+      "a": "Phil Foden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English forward. Arsenal winger. 2022 Africa Cup of Nations goalscorer for Nigeria? No, plays for England.",
+      "a": "Bukayo Saka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German midfielder. Bayern Munich and Barcelona. 2014 World Cup winner. Short curly-haired playmaker.",
+      "a": "Thiago Alcantara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian defender. Paris Saint-Germain and Chelsea captain. Multiple Ligue 1 titles. Elegant center-back.",
+      "a": "Thiago Silva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German midfielder. 2014 World Cup winner. Real Madrid lifer. Retired in 2021.",
+      "a": "Toni Kroos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German midfielder. Bayern Munich's ball-winner. 2014 World Cup winner. Short curly hair.",
+      "a": "Joshua Kimmich",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French midfielder. 2018 World Cup winner. Chelsea and Real Madrid. Combative N-prefixed name.",
+      "a": "N'Golo Kante",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Valencia CF legend. 2000 and 2001 UCL finalist. Briefly at Lazio and Middlesbrough.",
+      "a": "Gaizka Mendieta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian striker. Won the Golden Ball at the 1994 World Cup. Played for PSV and Barcelona, where he formed a deadly duo with Stoichkov. Claims to have scored over 1,000 career goals and later became a senator.",
+      "a": "Romário",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German attacking midfielder. Born in Stuttgart but raised in England and developed in Chelsea's academy. Slaloming dribbler who chose Germany over England. Bayern Munich star who suffered a serious ankle injury at the 2025 Club World Cup.",
+      "a": "Jamal Musiala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine forward. Scored the goal that kept West Ham in the Premier League in 2007. Played for both Manchester clubs, and a 'Welcome to Manchester' poster celebrated his switch. Also won Serie A with Juventus and is a Boca Juniors idol.",
+      "a": "Carlos Tevez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bulgarian striker with an effortless first touch. Shared the Premier League Golden Boot in 2011 with Manchester United. Joined from Tottenham on transfer deadline day for around £30m. Later played for Fulham and Monaco.",
+      "a": "Dimitar Berbatov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German forward born in Poland. Won the 2014 World Cup. Played for Cologne, Bayern Munich, Arsenal, Inter, Galatasaray and Vissel Kobe. Famous for a thunderous left foot and a cheerful grin.",
+      "a": "Lukas Podolski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian midfielder. Captained Sevilla to the 2014 Europa League, then scored the opening goal in the 2015 Champions League final for Barcelona. Reached the 2018 World Cup final. Born in Switzerland.",
+      "a": "Ivan Rakitić",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German winger. Borussia Dortmund captain for years but missed the 2014 World Cup triumph through injury. Lost Champions League finals with Dortmund in 2013 and 2024. Moved to LA Galaxy in 2024.",
+      "a": "Marco Reus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German midfielder. Captained Manchester City to the 2023 treble, scoring twice in the FA Cup final. Left for Barcelona, then returned to City for a season. Pep Guardiola's first signing at City.",
+      "a": "İlkay Gündoğan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish striker. His country's all-time leading scorer. Golden Boot at Euro 2008 and Spain's top scorer at the 2010 World Cup. Won La Liga and the Champions League with Barcelona in 2011 after starring for Valencia.",
+      "a": "David Villa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish playmaker. Spent a decade at Manchester City, winning four Premier League titles, and has a statue outside the Etihad. Won Euro 2008, the 2010 World Cup and Euro 2012. Later returned to Spain with Real Sociedad.",
+      "a": "David Silva",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine right-back and midfielder. Inter's record appearance holder and captain of their 2010 treble. His number 4 was retired by the club. Now serves as Inter's vice-president.",
+      "a": "Javier Zanetti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian-born striker who chose to play for Spain. Won La Liga with Atlético Madrid in 2014 and two Premier League titles at Chelsea. Combative, provocative and constantly in referees' notebooks.",
+      "a": "Diego Costa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German midfielder. In 2002 he lost the Bundesliga, the Champions League final and the World Cup final, missing the last through suspension. Captained Germany and played for Bayer Leverkusen, Bayern Munich and Chelsea. Wore number 13.",
+      "a": "Michael Ballack",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Scored Liverpool's equaliser in the 2005 Champions League final. Won the trophy again with Real Madrid in 2014. Later managed Bayer Leverkusen to an unbeaten title before taking the Real Madrid job in 2025.",
+      "a": "Xabi Alonso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French midfielder. Captained Arsenal's unbeaten Invincibles. Fierce rival of Roy Keane in the Old Trafford tunnel. Won the 1998 World Cup and Euro 2000, and later played for Juventus, Inter and Manchester City.",
+      "a": "Patrick Vieira",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch forward. Refused to fly, missing many away games. Scored a legendary spin-and-finish against Newcastle in 2002. Arsenal Invincible with a statue outside the Emirates. Started at Ajax and had an unhappy spell at Inter.",
+      "a": "Dennis Bergkamp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Norwegian playmaker. Signed by Real Madrid at 16 amid huge hype. Blossomed on loan at Real Sociedad before joining Arsenal, where he became captain. Also captains his national team.",
+      "a": "Martin Ødegaard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Irish striker. Celebrated with a cartwheel and a pretend pistol. Ireland's all-time top scorer. Played for Tottenham twice, Liverpool, Inter and Leeds before starring with LA Galaxy.",
+      "a": "Robbie Keane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan striker. Was PSG's all-time top scorer until Mbappé passed him. Prolific at Napoli with a warrior's work rate. Also played for Manchester United and Boca Juniors.",
+      "a": "Edinson Cavani",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Signed by West Ham alongside Tevez in 2006. Liverpool enforcer before Barcelona converted him to centre-back. Won two Champions Leagues and now coaches Inter Miami.",
+      "a": "Javier Mascherano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American attacking midfielder. Scored a stoppage-time winner against Algeria at the 2010 World Cup. Won a record six MLS Cups, four with LA Galaxy. Had loan spells at Everton.",
+      "a": "Landon Donovan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American goalkeeper. Made a World Cup record-breaking 15 saves against Belgium in 2014. Spent a decade at Everton after Manchester United. Once scored from his own penalty area against Bolton.",
+      "a": "Tim Howard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American winger. Broke through at Borussia Dortmund as a teenager. Won the Champions League with Chelsea in 2021. Now a key player at AC Milan. Born in Pennsylvania.",
+      "a": "Christian Pulisic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Canadian left-back. Born in a refugee camp in Ghana to Liberian parents. Moved from Vancouver Whitecaps to Bayern Munich, winning the 2020 treble as a 19-year-old. One of the fastest players in the world.",
+      "a": "Alphonso Davies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Belgian goalkeeper. Named man of the match in the 2022 Champions League final with nine saves. Won the Premier League at Chelsea after loan years at Atlético Madrid. Won the Golden Glove at the 2018 World Cup.",
+      "a": "Thibaut Courtois",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Belgian centre-back. Captained Manchester City to their first Premier League title in 2012 and three more. Scored a thunderbolt against Leicester in 2019. Now manages Bayern Munich.",
+      "a": "Vincent Kompany",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swedish striker. Broke through at Real Sociedad before Newcastle signed him. Scored in the 2025 Carabao Cup final, ending Newcastle's 70-year wait for a domestic trophy. Became Britain's record signing when Liverpool paid £125m in 2025.",
+      "a": "Alexander Isak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Polish goalkeeper. Came out of retirement in 2024 to join Barcelona. Previously played for Arsenal, Roma and Juventus. Was photographed smoking in the showers after an Arsenal defeat.",
+      "a": "Wojciech Szczęsny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French holding midfielder. A defensive midfield role is named after him. His 2003 sale from Real Madrid to Chelsea was blamed for the Galácticos' decline. Won two Premier League titles under Mourinho.",
+      "a": "Claude Makélélé",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Serbian centre-back. Manchester United captain who won five Premier League titles alongside Rio Ferdinand. Famously struggled against Fernando Torres. Finished his career at Inter.",
+      "a": "Nemanja Vidić",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean midfielder. Starred at the 2002 World Cup and followed coach Guus Hiddink to PSV. Tireless runner for Manchester United, winning four Premier League titles. First Asian player to appear in a Champions League final.",
+      "a": "Park Ji-sung",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German striker. Won the 1990 World Cup and captained his country to Euro 96. Mocked his diving reputation with a diving celebration at Tottenham. Later coached Germany at the 2006 World Cup and then the USA.",
+      "a": "Jürgen Klinsmann",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch midfielder. The only player to win the Champions League with three different clubs. Lifted it with Ajax, Real Madrid and twice with AC Milan. Later managed Milan and Cameroon.",
+      "a": "Clarence Seedorf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch midfielder. Wore protective goggles because of glaucoma. Won the Champions League with Ajax in 1995 and starred for Juventus. Nicknamed after a dog breed for his tenacity.",
+      "a": "Edgar Davids",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Algerian winger. PFA Player of the Year in Leicester's 2016 title season. Won the treble with Manchester City in 2023. Moved to Al-Ahli in Saudi Arabia. Left-footed and loves a cut inside from the right.",
+      "a": "Riyad Mahrez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Norwegian striker. Scored the injury-time winner in the 1999 Champions League final. Famed as a super-sub at Manchester United, once netting four off the bench. Later managed the club.",
+      "a": "Ole Gunnar Solskjær",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Danish midfielder. Suffered cardiac arrest on the pitch at Euro 2020 and returned to play with an implanted defibrillator. Tottenham creator, Inter title winner, then Manchester United. Set-piece specialist.",
+      "a": "Christian Eriksen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Liverpool captain who lifted the 2019 Champions League and 2020 Premier League. Left for Saudi Arabia, then Ajax, before joining Brentford in 2025. Known for his shuffle before lifting trophies.",
+      "a": "Jordan Henderson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back. Became the world's most expensive defender when Manchester United paid £80m in 2019. Captained United before losing the armband. Scored a dramatic late winner against Lyon in the 2025 Europa League.",
+      "a": "Harry Maguire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish right-back. Real Madrid academy product who spent one season at Bayer Leverkusen before being bought back in 2013. Scored the opening goal in the 2024 Champions League final. Has won the competition six times.",
+      "a": "Dani Carvajal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish left-back. Scored in the Euro 2012 final against Italy. Joined Barcelona from Valencia in 2012 and formed a famous partnership with Messi. Moved to Inter Miami in 2023.",
+      "a": "Jordi Alba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish attacking midfielder. Won the 2012 Golden Boy award at Málaga, then five Champions Leagues with Real Madrid. Revived his career at Real Betis and reached the 2025 Conference League final.",
+      "a": "Isco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish striker. Captained Spain to the Euro 2024 title. Has played for both Madrid clubs, Juventus twice, Chelsea and AC Milan. Joined Galatasaray on loan in 2025.",
+      "a": "Álvaro Morata",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian centre-back. Won eight Serie A titles with Juventus, interrupted by one season at AC Milan. Scored Italy's equaliser in the Euro 2020 final at Wembley.",
+      "a": "Leonardo Bonucci",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian winger and son of a former Italy striker. Won Euro 2020, scoring against Austria and Spain. Played for Fiorentina and Juventus before joining Liverpool in 2024.",
+      "a": "Federico Chiesa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian striker. Won the 2020 European Golden Shoe with 36 Serie A goals for Lazio, equalling the single-season record. Lazio's all-time top scorer. Later joined Beşiktaş.",
+      "a": "Ciro Immobile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian midfielder. Spent 18 years at Roma before a brief spell at Boca Juniors. Won the 2006 World Cup, converting in the final shoot-out. Later managed Roma.",
+      "a": "Daniele De Rossi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French winger. Scored the only goal of the 2020 Champions League final for Bayern against PSG, the club where he grew up. Won league titles in France, Italy and Germany before turning 21. Joined Al-Nassr in 2025.",
+      "a": "Kingsley Coman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French left-back. Won the 2021–22 Scudetto with AC Milan and scored a famous 90-yard solo goal against Atalanta. His brother is also a France international defender. Joined Al-Hilal in 2025.",
+      "a": "Theo Hernández",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French defender. Scored a stunning volley against Argentina at the 2018 World Cup that was voted goal of the tournament. Played for Stuttgart and Bayern before joining Inter in 2023.",
+      "a": "Benjamin Pavard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French winger. Joined Arsenal from Marseille in 2000 and was named FWA Footballer of the Year in 2002. Won the 1998 World Cup and Euro 2000, setting up the golden goal in the final. Later played for Villarreal.",
+      "a": "Robert Pirès",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French goalkeeper. Won the 1998 World Cup and Euro 2000, with Laurent Blanc kissing his bald head before matches. Won the 1993 Champions League with Marseille and two Premier League titles with Manchester United.",
+      "a": "Fabien Barthez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French striker. Won the double with Arsenal aged 19 in 1998, then joined Real Madrid for over £22 million. Won the Premier League Golden Boot with Chelsea in 2009. Also played for Liverpool, Manchester City, PSG and Juventus.",
+      "a": "Nicolas Anelka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English striker for West Ham. Scored a hat-trick in the 1966 World Cup final, a feat no one repeated in a final for 56 years. His second goal, off the crossbar, is still debated.",
+      "a": "Geoff Hurst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English goalkeeper. Won the 1966 World Cup and made the \"save of the century\" from Pelé's header in 1970. Lost the sight in one eye after a 1972 car crash. Played for Leicester and Stoke.",
+      "a": "Gordon Banks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English forward. Won back-to-back Ballon d'Or awards in 1978 and 1979 while at Hamburg. Won three league titles and the European Cup with Liverpool. Later managed Newcastle and England.",
+      "a": "Kevin Keegan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English goalkeeper. His country's record cap holder with 125 appearances. Beaten by the \"Hand of God\" in 1986. Won two European Cups with Nottingham Forest.",
+      "a": "Peter Shilton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back nicknamed \"Mr Arsenal\". A one-club man who captained the club for 14 years and won league titles in three different decades. Publicly battled alcoholism during his career.",
+      "a": "Tony Adams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English goalkeeper with a famous ponytail. Arsenal's number one for 13 years. Beaten by Ronaldinho's free-kick at the 2002 World Cup and made a stunning save from Paul Peschisolido in a 2003 FA Cup semi-final.",
+      "a": "David Seaman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back. Liverpool one-club man with 737 appearances, second only to Ian Callaghan. Won the 2005 Champions League. Now a prominent Sky Sports pundit.",
+      "a": "Jamie Carragher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English striker nicknamed \"God\" by Liverpool fans. Scored a hat-trick in 4 minutes 33 seconds against Arsenal in 1994. Later played for Leeds and Manchester City before returning to Anfield.",
+      "a": "Robbie Fowler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English goalkeeper from Sunderland's academy. Everton's number one since 2017. Saved from Carlos Bacca to secure England's first ever World Cup shoot-out win in 2018.",
+      "a": "Jordan Pickford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Senegalese centre-back born in France. Spent eight years at Napoli before joining Chelsea in 2022 and then Al-Hilal. Captained Senegal to their first AFCON title in 2022.",
+      "a": "Kalidou Koulibaly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder known as Messi's on-pitch bodyguard. Set up the only goal of the 2021 Copa América final. Won the 2022 World Cup. Played for Udinese and Atlético Madrid before Inter Miami.",
+      "a": "Rodrigo De Paul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Austrian defender with a Filipino mother and Nigerian father. Won ten Bundesliga titles and two Champions Leagues with Bayern Munich. Joined Real Madrid on a free in 2021 and won two more Champions Leagues.",
+      "a": "David Alaba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch forward known for headbands and hats. Flopped at Manchester United, then rebuilt his career at Lyon and played for Barcelona and Atlético Madrid. Overtook Robin van Persie as the Netherlands' record goalscorer in 2025.",
+      "a": "Memphis Depay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch midfielder. Scored twice as a substitute in Liverpool's 4–0 comeback against Barcelona in 2019. Played for Feyenoord, PSV, Newcastle, PSG and Roma.",
+      "a": "Georginio Wijnaldum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch striker. Scored the winner in the 1995 Champions League final for Ajax against AC Milan aged 18. Later played for AC Milan and Barcelona. Was his country's record scorer with 40 goals.",
+      "a": "Patrick Kluivert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Danish goalkeeper and son of a Manchester United legend. Won the 2016 Premier League title with Leicester. Saved Harry Kane's penalty in the Euro 2020 semi-final, only for the rebound to go in. Later played for Nice and Celtic.",
+      "a": "Kasper Schmeichel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Turkish midfielder and national team captain. A free-kick specialist who moved across Milan from AC Milan to Inter in 2021 and was converted into a deep-lying playmaker. Won the 2024 Scudetto.",
+      "a": "Hakan Çalhanoğlu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean centre-back nicknamed \"The Monster\". Named Serie A's best defender as Napoli won the 2022–23 Scudetto, then joined Bayern Munich. Previously played for Fenerbahçe.",
+      "a": "Kim Min-jae",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Japanese midfielder. Won two Bundesliga titles with Dortmund before joining Manchester United in 2012, where he scored the first Premier League hat-trick by an Asian player. Returned to Dortmund and later Cerezo Osaka.",
+      "a": "Shinji Kagawa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Hungarian midfielder and national team captain. Came through the Red Bull system at Salzburg and Leipzig before joining Liverpool in 2023. Won the 2024–25 Premier League and scored a stunning long-range free-kick against Arsenal.",
+      "a": "Dominik Szoboszlai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swiss midfielder of Kosovar-Albanian heritage. Was stripped of the Arsenal captaincy after swearing at fans in 2019. Went unbeaten all season as Bayer Leverkusen won the 2023–24 Bundesliga. Joined Sunderland in 2025.",
+      "a": "Granit Xhaka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Costa Rican goalkeeper. Starred as his country reached the 2014 World Cup quarter-finals. Won three consecutive Champions Leagues with Real Madrid before joining PSG. Later had a loan spell at Nottingham Forest.",
+      "a": "Keylor Navas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine striker. Scored twice in the 1978 World Cup final and won the Golden Boot. Was the only foreign-based player in that squad, playing for Valencia.",
+      "a": "Mario Kempes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French defensive midfielder. Captained France to the 1998 World Cup and Euro 2000. Won the Champions League with Marseille in 1993 and Juventus in 1996. Cantona once dismissed him as a 'water carrier'. Later coached France to another World Cup.",
+      "a": "Didier Deschamps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Won the double with Atlético Madrid in 1996, the UEFA Cup with Inter in 1998 and the Scudetto with Lazio in 2000. Got David Beckham sent off at the 1998 World Cup. Now Atlético's long-serving manager.",
+      "a": "Diego Simeone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back. Missed the decisive penalty in the Euro 96 semi-final shoot-out against Germany, then spoofed it in a pizza advert. Won the League Cup with Aston Villa and captained Middlesbrough to their first major trophy. Later managed England to two major finals.",
+      "a": "Gareth Southgate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scottish midfielder. Won five league titles and three European Cups with Liverpool, captaining them in the 1984 final. Later played for Sampdoria. As a manager he planted a Galatasaray flag in the centre circle at Fenerbahçe's stadium.",
+      "a": "Graeme Souness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scottish striker. Rangers' record scorer with 355 goals during their nine-in-a-row era. Won the European Golden Boot in 1992 and 1993. Later a team captain on A Question of Sport and a popular co-commentator.",
+      "a": "Ally McCoist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swedish winger known for dyed red hair. Part of Arsenal's Invincibles and scored in the 2001 and 2002 FA Cup finals. Modelled underwear for Calvin Klein. Later played for West Ham and Seattle Sounders.",
+      "a": "Freddie Ljungberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch winger. Scored the opener in the 1998 FA Cup final as Arsenal won the double. Won the 1995 Champions League with Ajax. Moved to Barcelona in 2000 for what was then a record fee for a Dutch player. Later Ajax's director of football.",
+      "a": "Marc Overmars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch attacking midfielder. Came through Ajax, then played for Hamburg and Real Madrid. Signed for Tottenham on deadline day in 2010 for around £8 million and became a cult hero. Played in the 2010 World Cup final.",
+      "a": "Rafael van der Vaart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Australian winger. Named PFA Young Player of the Year in 2000 at Leeds, then won the 2005 Champions League with Liverpool despite limping off in the final. Scored against Croatia to send Australia into the 2006 World Cup knockouts. Later played for Galatasaray.",
+      "a": "Harry Kewell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Togolese striker. Joined Arsenal from Monaco in 2006, then celebrated a goal for Manchester City against his old club by sprinting the length of the pitch to taunt the Arsenal fans. Also played for Real Madrid, Tottenham and Crystal Palace. Survived the 2010 attack on Togo's team bus.",
+      "a": "Emmanuel Adebayor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Moroccan winger with a lethal left foot. Starred for Ajax in their 2019 Champions League run before joining Chelsea in 2020. Helped Morocco reach the 2022 World Cup semi-finals. Later played for Galatasaray.",
+      "a": "Hakim Ziyech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Turkish midfielder. Captained Galatasaray, then won La Liga with Atlético Madrid in 2014. Joined Barcelona in 2015 but could not play for six months because of a transfer ban. Banned for 16 games in 2018 for shoving an assistant referee while at Başakşehir.",
+      "a": "Arda Turan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Turkish attacking midfielder with a wand of a left foot. Joined Real Madrid from Fenerbahçe in 2023 aged 18. Scored a stunning curling goal against Georgia on his European Championship debut in 2024 as Turkey reached the quarter-finals.",
+      "a": "Arda Güler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Slovak centre-back. Joined Inter from Sampdoria in 2017, became captain and won the 2021 Scudetto. Left on a free for PSG in 2023, then moved to Fenerbahçe.",
+      "a": "Milan Škriniar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Swiss centre-back with a Nigerian father. Joined Manchester City from Borussia Dortmund in 2022 and won the treble in his first season. Went viral for solving mental-arithmetic problems on TV. Joined Inter in 2025.",
+      "a": "Manuel Akanji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French playmaker. A free-kick sensation for West Ham in 2015–16, then forced a move back to Marseille in January 2017. Scored against Romania and Albania at Euro 2016 as the hosts reached the final. Later played for Vasco da Gama.",
+      "a": "Dimitri Payet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian winger. Scored in the 2018 World Cup final against France. Won the treble with Bayern Munich on loan in 2020 and the Scudetto with Inter in 2021, then followed Antonio Conte to Tottenham in 2022.",
+      "a": "Ivan Perišić",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian midfielder. Won three consecutive Champions Leagues with Real Madrid, then a fourth with Chelsea in 2021. Moved to Manchester City in 2023 and won the Premier League. Started at Dinamo Zagreb and Inter.",
+      "a": "Mateo Kovačić",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bosnian midfielder and free-kick specialist. Played for Lyon, Roma and Juventus, winning four Serie A titles, then was swapped for Arthur Melo in a 2020 deal with Barcelona. Later played for Sharjah in the UAE and CSKA Moscow.",
+      "a": "Miralem Pjanić",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Serbian striker. Scored a Championship-record 43 goals for Fulham in 2021–22. Pushed a referee in an FA Cup tie at Manchester United in 2023 and received an eight-game ban. Joined Al-Hilal that summer. Previously at Newcastle and Anderlecht.",
+      "a": "Aleksandar Mitrović",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine striker. Married Wanda Nara, the ex-wife of his former Sampdoria teammate Maxi López. Captained Inter and scored over 100 Serie A goals before joining PSG. Later won Turkish titles with Galatasaray.",
+      "a": "Mauro Icardi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine centre-back nicknamed 'Cuti'. Named Serie A's best defender at Atalanta in 2021, then joined Tottenham. Won the 2022 World Cup and the 2025 Europa League. Known for aggressive, high-risk tackling.",
+      "a": "Cristian Romero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine centre-back nicknamed 'The Butcher'. Reunited with Erik ten Hag at Manchester United in 2022 after leaving Ajax. Won the 2022 World Cup and the 2023 League Cup. Unusually short for his position at around 1.75 metres.",
+      "a": "Lisandro Martínez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine winger born in Madrid. Scored a spectacular overhead kick for Manchester United at Everton in November 2023. Won the 2024 FA Cup. Fell out with Rúben Amorim and joined Chelsea in 2025.",
+      "a": "Alejandro Garnacho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine centre-back. Won two Premier League titles with Manchester City after joining from Valencia. Moved to Benfica in 2020 and became captain. Won the 2021 Copa América and the 2022 World Cup. Also played for Porto.",
+      "a": "Nicolás Otamendi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Colombian winger turned right wing-back. Provided the most assists at the 2014 World Cup with four. Flopped at Chelsea, then won five Serie A titles with Juventus. Later played for Inter and Atalanta.",
+      "a": "Juan Cuadrado",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Chilean goalkeeper. Captained Chile to Copa América titles in 2015 and 2016. Won the Zamora Trophy at Barcelona in 2015, then struggled at Manchester City before joining Real Betis. Started at Colo-Colo.",
+      "a": "Claudio Bravo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Canadian forward. Scored 190 international goals, the world record for any player, before retiring from national duty in 2023. Captained Canada to Olympic gold in 2021. Spent over a decade at Portland Thorns.",
+      "a": "Christine Sinclair",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English winger. Scored the extra-time winner in the Euro 2022 final against Germany and celebrated by whipping off her shirt. Converted the decisive penalty in the Euro 2025 final shoot-out against Spain. Joined Arsenal from Manchester City in 2025.",
+      "a": "Chloe Kelly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "American goalkeeper. Won Olympic gold in 2008 and 2012 and the 2015 World Cup, taking the Golden Glove in 2011 and 2015. Had her contract terminated after calling Sweden 'a bunch of cowards' at the 2016 Olympics.",
+      "a": "Hope Solo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch forward. Scored in all three of the Netherlands' group games at the 2022 World Cup, then joined Liverpool from PSV in January 2023. Won the 2024 League Cup and the 2025 Premier League.",
+      "a": "Cody Gakpo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian midfielder. Joined Newcastle from Lyon in January 2022 and became club captain. Won Olympic gold in 2021. Helped end Newcastle's 70-year domestic trophy drought by winning the 2025 League Cup.",
+      "a": "Bruno Guimarães",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish attacking midfielder who came through La Masia but turned professional at Dinamo Zagreb. Joint top scorer at Euro 2024 with three goals as Spain won it. Returned to Barcelona from RB Leipzig in 2024 amid a registration saga.",
+      "a": "Dani Olmo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian winger. Joined Arsenal from fourth-tier Ituano in 2019 as an unknown teenager. Scored 15 Premier League goals in 2022–23. Won Olympic gold with Brazil in 2021.",
+      "a": "Gabriel Martinelli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French centre-back. Arsenal signed him from Saint-Étienne in 2019 but he spent three seasons on loan, at Saint-Étienne, Nice and Marseille, before becoming a mainstay. Named in the 2023–24 PFA Team of the Year.",
+      "a": "William Saliba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French goalkeeper. Replaced Donnarumma at AC Milan in 2021 and won the Scudetto in his first season. Had just won Ligue 1 with Lille. Became France's number one after Hugo Lloris retired from international football.",
+      "a": "Mike Maignan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French striker and son of a 1998 World Cup winner. Made his name at Borussia Mönchengladbach before joining Inter on a free in 2023 and winning the Scudetto. Scored a backheel in the 2025 Champions League semi-final against Barcelona.",
+      "a": "Marcus Thuram",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian midfielder. Joined Newcastle from AC Milan in 2023 for around £55 million but was banned for ten months for betting. Won the 2021–22 Scudetto with Milan. Started at Brescia.",
+      "a": "Sandro Tonali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Became the Premier League's youngest scorer at the time, aged 16, for Leeds in 2002. Won league titles with Manchester City and Liverpool and the 2019 Champions League. Second only to Gareth Barry for Premier League appearances. Joined Brighton in 2023.",
+      "a": "James Milner",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -453,6 +1923,736 @@
       "q": "Cameroonian striker. Famous corner-flag dance. Oldest World Cup goalscorer at age 42. Italia 90 star.",
       "a": "Roger Milla",
       "file": "newCategoriesPack2"
+    },
+    {
+      "q": "Argentine goalkeeper. 2022 World Cup winner. Aston Villa number one. Infamous Golden Glove celebration.",
+      "a": "Emiliano Martinez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Turkish striker. Galatasaray legend. UEFA Cup winner in 2000. Scored 11 seconds into the 2002 World Cup third-place match.",
+      "a": "Hakan Sukur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Chilean striker. Wore 1+8 at Inter. Real Madrid Pichichi. 1998 World Cup participant.",
+      "a": "Ivan Zamorano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish forward. Nicknamed El Buitre. Leader of Real Madrid's Quinta del Buitre. Scored 4 vs Denmark in 1986.",
+      "a": "Emilio Butragueno",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch attacking midfielder. AC Milan trio with Van Basten and Rijkaard. Dreadlocked captain. Euro 1988 winner.",
+      "a": "Ruud Gullit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian forward. Nicknamed Il Divin Codino for his ponytail. 1993 Ballon d'Or. Missed the decisive penalty in the 1994 final.",
+      "a": "Roberto Baggio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian winger. Nicknamed Magic Box. Parma and Chelsea legend. Italy's 1994 World Cup squad member.",
+      "a": "Gianfranco Zola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian forward. Nicknamed the Swan of Utrecht? No, the Blond Assassin. Juventus and Inter goal machine.",
+      "a": "Roberto Bettega",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German defender. Nicknamed Der Kaiser. Captained West Germany to the 1974 World Cup. Later coached them to the 1990 title.",
+      "a": "Franz Beckenbauer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English striker. Nicknamed Sniffer. Leeds forward of the 1970s. England international of the same era.",
+      "a": "Allan Clarke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese winger. Manchester United, Chelsea and Roma. Nicknamed the Portuguese Magnifico. Euro 2004 runner-up.",
+      "a": "Luis Figo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bulgarian midfielder. Napoli player of the late 1990s. Scored at the 1994 World Cup semi-final vs Italy.",
+      "a": "Krasimir Balakov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Romanian forward. Nicknamed Kamikaze. Real Madrid and Chelsea. Scored five vs Cameroon at USA 94? No, scored at France 98.",
+      "a": "Adrian Mutu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Czech midfielder. Juventus and Lazio number 10. 2003 Ballon d'Or winner. Euro 96 runner-up.",
+      "a": "Pavel Nedved",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Czech striker. Baresi's rival in Serie A. Lazio lone striker. Euro 96 top scorer alongside Shearer.",
+      "a": "Jan Koller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Russian striker. CSKA Moscow legend. Euro 2008 semi-finalist. Played for Arsenal briefly.",
+      "a": "Andrey Arshavin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Nigerian midfielder. Spanish-raised playmaker. Played for Spain at youth level before choosing Nigeria.",
+      "a": "Jay-Jay Okocha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South African forward. Leeds United and PSV. Scored a wonder goal vs Charlton in 2000. Nicknamed Shoes.",
+      "a": "Benni McCarthy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Moroccan striker. Coventry and Real Madrid. Scored at the 1998 World Cup for his country.",
+      "a": "Mustapha Hadji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ghanaian striker. Porto and Marseille. Nicknamed the Prince of Nima. Brother of Kevin-Prince.",
+      "a": "Sulley Muntari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Serbian striker. Lazio and Inter marksman. Euro 2000 participant. Sinisa Mihajlovic's contemporary.",
+      "a": "Dejan Stankovic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Yugoslav-born playmaker. Red Star Belgrade legend. Lazio Serie A winner. Created Sinisa Mihajlovic's set-piece school.",
+      "a": "Dragan Stojkovic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese defender. Real Madrid center-back. Euro 2016 winner. Shaved head and red shirt at the Bernabeu.",
+      "a": "Pepe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bosnian striker. Wolfsburg, Manchester City and Roma. Scored 28 times in his country's qualifying to World Cup 2014.",
+      "a": "Edin Dzeko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Armenian midfielder. Borussia Dortmund, Arsenal and Manchester United. Nicknamed Micki.",
+      "a": "Henrikh Mkhitaryan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Icelandic midfielder. Cardiff and Everton. Scored the famous goal vs England at Euro 2016.",
+      "a": "Gylfi Sigurdsson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Peruvian striker. Bayern Munich forward. Nicknamed the Raging Bull. Copa America 2015 top scorer.",
+      "a": "Paolo Guerrero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cameroonian striker. Inter, Barcelona and Chelsea. African Player of the Year four times. Scored in two UCL finals.",
+      "a": "Samuel Eto'o",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian striker. Won the Golden Boot at the 1998 World Cup as his country finished third. Played for Sevilla, Real Madrid and Arsenal. Later became president of the Croatian FA.",
+      "a": "Davor Šuker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese winger. Master of the trivela, striking with the outside of his boot. Played for Porto, Barcelona, Inter and Beşiktaş. Won Euro 2016.",
+      "a": "Ricardo Quaresma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish centre-back. Real Madrid captain who scored over 100 goals for the club. Later played for Al-Rayyan and Bolton. Took charge of Spain at the 2018 World Cup after Lopetegui was sacked.",
+      "a": "Fernando Hierro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Produced a famous backheel nutmeg against Manchester United at Old Trafford in 2000. Real Madrid's elegant anchor for two Champions League wins. Refused his salary at AC Milan while injured.",
+      "a": "Fernando Redondo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian striker. Won the European Golden Shoe twice while playing in Portugal. Scored prolifically for Porto and Sporting Lisbon. Also had a spell at Galatasaray.",
+      "a": "Mário Jardel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Montenegrin striker. Scored the winner in the 1998 Champions League final, ending Real Madrid's 32-year wait. Previously at Valencia. Later became Real Madrid's sporting director.",
+      "a": "Predrag Mijatović",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine striker. Scored both goals in the 2010 Champions League final to complete Inter's treble. Also scored in the Coppa Italia final and the title-clinching match that season. Played for Genoa and Real Zaragoza.",
+      "a": "Diego Milito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine midfielder. Finished one of the finest team goals in World Cup history against Serbia and Montenegro in 2006. Won the 2010 treble with Inter after being released by Real Madrid. Ended his career at Leicester and Olympiacos.",
+      "a": "Esteban Cambiasso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian midfielder. Widely regarded as the greatest free-kick taker ever, with over 70 career free-kick goals. Won seven consecutive Ligue 1 titles with Lyon. Pioneered the knuckleball strike.",
+      "a": "Juninho Pernambucano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French striker. Scored the golden goal that won Euro 2000. Struck the bar with the only missed penalty in the 2006 World Cup final shootout. Juventus's top foreign scorer of all time. Born in France but raised in Argentina.",
+      "a": "David Trezeguet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French midfielder. Scored the third goal in the 1998 World Cup final. Wore a ponytail and won the double with Arsenal that same year. Later played for Barcelona and Chelsea.",
+      "a": "Emmanuel Petit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French centre-back. Scored the first golden goal in World Cup history in 1998. Suspended for the final after a red card. His bald goalkeeper kissed his head before matches for luck. Later managed France and PSG.",
+      "a": "Laurent Blanc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch centre-back. Won the 1999 treble with Manchester United. Sold to Lazio in 2001 after an autobiography angered Alex Ferguson, a decision Ferguson later regretted. Later played for AC Milan and Ajax.",
+      "a": "Jaap Stam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch forward. Scored a hat-trick against Manchester United for Liverpool in 2011. Returned to Feyenoord and scored a hat-trick on the final day to win the 2017 Eredivisie. Tireless work rate.",
+      "a": "Dirk Kuyt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch striker. Bundesliga top scorer with 29 goals for Schalke in 2012. Also played for Real Madrid, AC Milan and Ajax. Nicknamed with a hunting reference.",
+      "a": "Klaas-Jan Huntelaar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian centre-back. Lazio captain in their 2000 double before joining AC Milan. Won two Champions Leagues and the 2006 World Cup. Widely praised for elegant tackling.",
+      "a": "Alessandro Nesta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian striker. Moved from Lazio to Inter in 1999 for a then world-record fee. Scored nine World Cup goals across 1998 and 2002. Also played for Atlético Madrid, Juventus and AC Milan.",
+      "a": "Christian Vieri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian striker. Scored both goals in the 2007 Champions League final for AC Milan. Master of the offside line. Won the 2006 World Cup and later managed Milan. His brother also became a top coach.",
+      "a": "Filippo Inzaghi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian midfielder. Joined PSG from Pescara in 2012 without ever playing in Serie A. Won Euro 2020. Left PSG in 2023 for Qatar. Small, press-resistant and fond of a yellow card.",
+      "a": "Marco Verratti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian striker. Won the Scudetto with Sampdoria in 1991 and captained Juventus to the 1996 Champions League. Became Chelsea's player-manager and won the FA Cup. Died in 2023.",
+      "a": "Gianluca Vialli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Japanese midfielder. Scored at three consecutive World Cups from 2010 to 2018. Wore number 10 for AC Milan. Later coached Cambodia's national team.",
+      "a": "Keisuke Honda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Australian midfielder. Celebrated goals by boxing the corner flag. Scored at three World Cups, including a stunning volley against the Netherlands in 2014. Everton hero.",
+      "a": "Tim Cahill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ghanaian striker. Missed a last-minute penalty against Uruguay in the 2010 World Cup quarter-final after Suárez's handball. His country's all-time top scorer. Played for Sunderland and in the UAE.",
+      "a": "Asamoah Gyan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Cameroonian striker. Top scorer at the 2021 Africa Cup of Nations with eight goals. Scored the winner against Brazil at the 2022 World Cup, then was sent off for removing his shirt. Played for Porto and Beşiktaş.",
+      "a": "Vincent Aboubakar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine playmaker. Boca Juniors legend and the club's current president. Had a controversial spell at Barcelona under Van Gaal. Missed a late penalty for Villarreal in the 2006 Champions League semi-final against Arsenal.",
+      "a": "Juan Román Riquelme",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan centre-back. Atlético Madrid captain who scored the title-clinching goal at Camp Nou in 2014 and in that year's Champions League final. Later played for Inter and Cagliari. Over 160 caps.",
+      "a": "Diego Godín",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan playmaker. River Plate legend nicknamed 'El Príncipe'. Starred for Marseille, where a young Zidane idolised him and later named his son after him.",
+      "a": "Enzo Francescoli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Colombian forward. Scored a hat-trick for Newcastle against Barcelona in 1997. Won the UEFA Cup with Parma. Famous for wild celebrations and off-field antics.",
+      "a": "Faustino Asprilla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Peruvian striker. The Bundesliga's most prolific foreign scorer until Lewandowski passed him. Cult hero across multiple spells at Werder Bremen and Bayern Munich. Became the league's oldest ever goalscorer at 40.",
+      "a": "Claudio Pizarro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mexican striker. Won five Pichichi trophies in Spain, four with Real Madrid. Celebrated with a somersault. Scored a famous scissor-kick in 1988 and later managed Mexico.",
+      "a": "Hugo Sánchez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Mexican centre-back. Captained his country at five World Cups. Won two Champions Leagues with Barcelona. Later played for New York Red Bulls and finished at Atlas.",
+      "a": "Rafael Márquez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Danish playmaker. Won four straight league titles with Barcelona's Dream Team, then a fifth with Real Madrid. Skipped Denmark's Euro 92 triumph after a fallout. Later managed Swansea to the League Cup.",
+      "a": "Michael Laudrup",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English attacking midfielder. Spent his whole career at Southampton, scoring outrageous long-range goals. Converted 47 of 48 penalties. Born in Guernsey.",
+      "a": "Matt Le Tissier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English left-back. Missed a penalty in the 1990 World Cup semi-final shootout, then roared in redemption after scoring at Euro 96. Nottingham Forest captain. Known for ferocious tackling.",
+      "a": "Stuart Pearce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English striker. Scored 34 goals in the 1993-94 season, a record shared with Alan Shearer. Formed a lethal partnership at Manchester United during the 1999 treble. Also played for Newcastle, Blackburn and Fulham.",
+      "a": "Andy Cole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Trinidadian striker. Formed a telepathic partnership with Andy Cole in Manchester United's 1999 treble. Shared the Premier League Golden Boot that season. Earlier a hero at Aston Villa.",
+      "a": "Dwight Yorke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English centre-back. Crossed north London from Tottenham to Arsenal on a free transfer in 2001. Part of the Invincibles and scored in the 2006 Champions League final. Also played for Portsmouth.",
+      "a": "Sol Campbell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Moroccan goalkeeper. Saved two penalties to knock Spain out of the 2022 World Cup. Won the Europa League with Sevilla twice, starring in the 2023 final shootout. Now plays for Al-Hilal.",
+      "a": "Yassine Bounou",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Czech midfielder. Called 'Little Mozart' for his elegance. Played for Borussia Dortmund and Arsenal, where injuries limited him over a decade. Captained his country.",
+      "a": "Tomáš Rosický",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Saudi Arabian winger. Scored the winning goal against Argentina at the 2022 World Cup in one of the greatest upsets ever. Al-Hilal captain. Asian Player of the Year in 2022.",
+      "a": "Salem Al-Dawsari",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian left-back. Scored the late winner against Germany in the 2006 World Cup semi-final and converted the decisive penalty in the final. Also won the penalty that beat Australia in the last 16. Played for Palermo, Inter, Lyon and Juventus.",
+      "a": "Fabio Grosso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder nicknamed \"Captain Marvel\". Scored after 27 seconds against France at the 1982 World Cup. Captained Manchester United for 12 years and later managed Middlesbrough.",
+      "a": "Bryan Robson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish midfielder. Became Spain's youngest ever international in 2021 aged 17, a record later broken by a Barcelona teammate. Won the 2022 Golden Boy award and suffered a serious knee injury in 2023.",
+      "a": "Gavi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian midfielder known for tireless box-to-box energy. Joined Inter from Cagliari in 2019 and won Scudetti in 2021 and 2024. Scored against Belgium in the Euro 2020 quarter-final.",
+      "a": "Nicolò Barella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese striker born in Guinea-Bissau. Came off the bench to score the extra-time winner in the Euro 2016 final against France. Had a loan spell at Swansea and played for Lille.",
+      "a": "Éder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English midfielder. Came through West Ham's academy and played for Tottenham before winning five Premier League titles and the 2008 Champions League with Manchester United. Later managed Middlesbrough.",
+      "a": "Michael Carrick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian sweeper and AC Milan one-club man whose number 6 was retired. Played the 1994 World Cup final weeks after knee surgery and missed in the shoot-out. Won six Serie A titles and three European Cups.",
+      "a": "Franco Baresi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian midfielder who spent a decade at Juventus and won the 1985 European Cup. Scored Italy's second goal in the 1982 World Cup final against West Germany. His screaming, fist-pumping run after that goal is one of football's most iconic celebrations.",
+      "a": "Marco Tardelli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian striker. Came from nowhere to win the Golden Boot and Golden Ball at Italia 90 with six goals. Played for Juventus and Inter before becoming the first Italian in Japan's J.League.",
+      "a": "Salvatore Schillaci",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French left-back of Basque origin. Won the 1998 World Cup and Euro 2000. Spent most of his club career at Bayern Munich, winning the 2001 Champions League.",
+      "a": "Bixente Lizarazu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "French striker born in Morocco. Scored 13 goals at the 1958 World Cup, still the record for a single tournament. Spent most of his career at Reims.",
+      "a": "Just Fontaine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch midfielder. Scored a second-minute penalty in the 1974 World Cup final against West Germany. Won three European Cups with Ajax, then followed Cruyff to Barcelona and later the New York Cosmos.",
+      "a": "Johan Neeskens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch defensive midfielder. Planted a kung-fu kick into Xabi Alonso's chest in the 2010 World Cup final and was only booked. Played for Ajax, Hamburg, Manchester City and AC Milan.",
+      "a": "Nigel de Jong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German left-back, two-footed and equally comfortable with either. Scored the winning penalty in the 1990 World Cup final against Argentina. Played for Bayern, Inter and Kaiserslautern.",
+      "a": "Andreas Brehme",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German striker with a famous perm. Won the 1990 World Cup and was spat on by Frank Rijkaard during that tournament. Won the Champions League with Marseille in 1993. Later coached Germany to the 2002 World Cup final.",
+      "a": "Rudi Völler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "German striker. Scored both goals in the Euro 96 final, including the first golden goal to decide a major tournament. Was Serie A's top scorer with Udinese in 1998. Later played for AC Milan.",
+      "a": "Oliver Bierhoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian midfielder who was also a qualified doctor and heavy smoker. Captained Brazil at the 1982 World Cup and led the Corinthians Democracy movement. Famous for his back-heel passes.",
+      "a": "Sócrates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian winger born with bent legs. Star of the 1958 and 1962 World Cups, winning the Golden Ball in 1962. Spent most of his career at Botafogo. Brazil never lost a match in which he and Pelé both played.",
+      "a": "Garrincha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian winger nicknamed \"The Hurricane\". Scored in every match of Brazil's victorious 1970 World Cup campaign. Played for Botafogo and is credited with discovering a young Ronaldo.",
+      "a": "Jairzinho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Brazilian centre-back. Won the 2002 World Cup and played in that year's Champions League final for Bayer Leverkusen. Won the 2010 treble with Inter under José Mourinho. Also played for Bayern Munich.",
+      "a": "Lúcio",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine playmaker cited by Messi as his childhood idol. Won two La Liga titles with Valencia in the early 2000s. Also played for River Plate, Zaragoza and Benfica.",
+      "a": "Pablo Aimar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Argentine right-back. Scored the winning penalty in the 2022 World Cup final shoot-out against France, then did the same for Sevilla in the 2023 Europa League final. Came through at River Plate.",
+      "a": "Gonzalo Montiel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Uruguayan striker nicknamed \"El Loco\". Chipped a Panenka penalty to knock Ghana out of the 2010 World Cup. Holds the Guinness record for the most professional clubs played for.",
+      "a": "Sebastián Abreu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Colombian goalkeeper. Produced the famous scorpion kick against England at Wembley in 1995. Was robbed by Roger Milla while dribbling outside his box at the 1990 World Cup. Played for Atlético Nacional.",
+      "a": "René Higuita",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ghanaian playmaker. Won the 1993 Champions League with Marseille and was named African Footballer of the Year three times in a row. Father of two Ghana internationals.",
+      "a": "Abedi Pele",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Algerian striker. Scored a famous back-heel for Porto in the 1987 European Cup final against Bayern Munich. Also scored in Algeria's shock win over West Germany at the 1982 World Cup.",
+      "a": "Rabah Madjer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Saudi Arabian midfielder. Scored a solo goal against Belgium at the 1994 World Cup, dribbling from his own half past several defenders. Named Asian Footballer of the Year that year.",
+      "a": "Saeed Al-Owairan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Emirati playmaker with a trademark afro. Named AFC Player of the Year in 2016 while at Al Ain. Born in Riyadh to Yemeni parents. Had a spell at Al-Hilal.",
+      "a": "Omar Abdulrahman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean forward. Scored the golden goal that knocked Italy out of the 2002 World Cup, after which his Italian club Perugia cancelled his contract. Also scored against Togo at the 2006 tournament.",
+      "a": "Ahn Jung-hwan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Japanese striker born in 1967 who was still playing professionally in his late fifties. Learned the game in Brazil with Santos. Became the first Japanese player in Serie A when he joined Genoa in 1994.",
+      "a": "Kazuyoshi Miura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Hungarian goalkeeper famous for playing in grey tracksuit bottoms. Became the oldest player in European Championship history at Euro 2016 aged 40. Played for Hertha Berlin and Crystal Palace.",
+      "a": "Gábor Király",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Polish goalkeeper. Made his famous wobbly-legged shoot-out saves to win Liverpool the 2005 Champions League final. Later joined Real Madrid as a back-up. Previously played for Feyenoord.",
+      "a": "Jerzy Dudek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Soviet goalkeeper nicknamed \"The Black Spider\". The only goalkeeper ever to win the Ballon d'Or, in 1963. Spent his entire career at Dynamo Moscow and won the first European Championship in 1960.",
+      "a": "Lev Yashin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Slovak midfielder with a trademark mohawk. Napoli's record appearance holder, and their record scorer until Dries Mertens overtook him. Later played in China and Turkey.",
+      "a": "Marek Hamšík",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Nigerian forward born in London. Scored a hat-trick for Atalanta in the 2024 Europa League final against Bayer Leverkusen and was named African Footballer of the Year. Previously played for Everton and Leicester.",
+      "a": "Ademola Lookman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Japanese winger who wrote a university thesis on dribbling. Plays for Brighton. Provided the assist against Spain at the 2022 World Cup in which the ball stayed in play by a millimetre.",
+      "a": "Kaoru Mitoma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Northern Irish goalkeeper who played for both Tottenham and Arsenal. Scored from a goal-kick in the 1967 Charity Shield. Played at the 1986 World Cup on his 41st birthday.",
+      "a": "Pat Jennings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scottish striker and the only Scot to win the Ballon d'Or, in 1964. Nicknamed \"The King\" at Manchester United. His backheel for Manchester City in 1974 is wrongly remembered as relegating his old club.",
+      "a": "Denis Law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch striker. Scored the fastest goal in Champions League history, after 10.12 seconds for Bayern Munich against Real Madrid in 2007. Won the European Golden Shoe with Deportivo La Coruña in 2003.",
+      "a": "Roy Makaay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian sweeper. Won the 1982 World Cup and seven Serie A titles with Juventus, plus the 1985 European Cup. Never sent off in his entire career. Died in a car crash in Poland in 1989 while on a scouting trip.",
+      "a": "Gaetano Scirea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Italian left-back and Inter one-club man who pioneered the attacking full-back role. Captained Italy to the Euro 1968 title and the 1970 World Cup final. Later became Inter's president; the club retired his number 3.",
+      "a": "Giacinto Facchetti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Czechoslovak midfielder. Decided the Euro 1976 final against West Germany with a softly chipped penalty that has been imitated ever since. Spent most of his career at Bohemians Prague before moving to Rapid Vienna.",
+      "a": "Antonín Panenka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Bald Bulgarian midfielder. His diving header knocked holders Germany out of the 1994 World Cup quarter-final. Played for Hamburg and Marseille. Later became mayor of Sliven.",
+      "a": "Yordan Letchkov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Russian striker. Scored five goals in one match against Cameroon at the 1994 World Cup, still a record, and shared the Golden Boot despite Russia going out in the group stage. Never played for Russia again. Played for Valencia and Rangers.",
+      "a": "Oleg Salenko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Scottish midfielder. Scored a famous solo goal against the Netherlands at the 1978 World Cup, later referenced in the film Trainspotting. Won the 1979 European Cup with Nottingham Forest and league titles with Derby County.",
+      "a": "Archie Gemmill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Northern Irish forward. Became the youngest World Cup player in 1982 aged 17, beating Pelé's record. Scored the winner in the 1985 FA Cup final for Manchester United against Everton. Retired at 26 through injury.",
+      "a": "Norman Whiteside",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Glasgow-born Republic of Ireland midfielder. Headed the goal that beat England at Euro 88 and scored the winner against Italy at the 1994 World Cup in New Jersey. Won two league titles with Liverpool.",
+      "a": "Ray Houghton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Irish centre-back. Played for Manchester United and Aston Villa, winning PFA Player of the Year in 1993 despite chronic knee problems and a public battle with alcohol. Starred in Ireland's 1994 World Cup win over Italy.",
+      "a": "Paul McGrath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Welsh striker who was a free agent, released by Reading, when he scored a Cruyff-turn goal against Belgium in the Euro 2016 quarter-final. Went on to play for West Brom.",
+      "a": "Hal Robson-Kanu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Greek striker. Headed the only goal of the Euro 2004 final against hosts Portugal. Won the Bundesliga with Werder Bremen that same year. Later played for Feyenoord and Nuremberg.",
+      "a": "Angelos Charisteas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South African midfielder. Scored the opening goal of the 2010 World Cup against Mexico, the first ever at an African-hosted tournament. Spent most of his career at Kaizer Chiefs.",
+      "a": "Siphiwe Tshabalala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Zambian forward. African Footballer of the Year in 1988 after a hat-trick against Italy at the Seoul Olympics. Was travelling separately when the 1993 plane crash killed the national team. Played for PSV Eindhoven.",
+      "a": "Kalusha Bwalya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Zimbabwean goalkeeper. Liverpool's number one for over a decade, famed for his wobbly-legs routine in the 1984 European Cup final shoot-out. Fought in the Rhodesian bush war before his football career.",
+      "a": "Bruce Grobbelaar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Welsh goalkeeper. Everton's record appearance holder, winning two league titles and the 1985 Cup Winners' Cup. Named FWA Footballer of the Year in 1985. Worked as a binman before turning professional.",
+      "a": "Neville Southall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ghanaian striker. Scored two Goal of the Season thunderbolts for Leeds in 1995, against Liverpool and Wimbledon. Twice the Bundesliga's top scorer with Eintracht Frankfurt.",
+      "a": "Tony Yeboah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ghanaian centre-back. Spent over a decade at Bayern Munich, winning six Bundesliga titles and the 2001 Champions League. Famously pounded the turf in tears after the 1999 final defeat to Manchester United.",
+      "a": "Sammy Kuffour",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Egyptian playmaker. Won the Africa Cup of Nations in 2006, 2008 and 2010 and multiple CAF Champions Leagues with Al Ahly. Revealed a 'Sympathize with Gaza' undershirt in 2008. Named BBC African Footballer of the Year that year.",
+      "a": "Mohamed Aboutrika",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean striker. Became a Bundesliga star in the 1980s, winning UEFA Cups with Eintracht Frankfurt in 1980 and Bayer Leverkusen in 1988. Scored 98 Bundesliga goals, a record for an Asian player for decades.",
+      "a": "Cha Bum-kun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean sweeper. Captained the co-hosts to the 2002 World Cup semi-finals and scored the decisive shoot-out penalty against Spain. Won the Bronze Ball at that tournament. Later managed the national team.",
+      "a": "Hong Myung-bo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Japanese midfielder and free-kick specialist. Scored a famous free-kick for Celtic against Manchester United in the 2006 Champions League. Won three Scottish titles. Also played for Reggina and Espanyol.",
+      "a": "Shunsuke Nakamura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Saudi Arabian striker and Al-Hilal one-club legend. Scored at three World Cups, in 1994, 1998 and 2006. Had a brief loan spell at Wolves in 2000.",
+      "a": "Sami Al-Jaber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Iranian playmaker nicknamed the 'Asian Maradona'. Asian Footballer of the Year in 2004. Played for Bayern Munich, Al Ahli Dubai and Schalke.",
+      "a": "Ali Karimi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Indian striker and national team captain. Has scored over 90 international goals, placing him among the most prolific active international scorers alongside Messi and Ronaldo. Long-time Bengaluru FC talisman.",
+      "a": "Sunil Chhetri",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Finnish playmaker. Won the 1995 Champions League with Ajax, inheriting the number 10 shirt from Dennis Bergkamp. Later played for Barcelona and Liverpool. Long held Finland's record for international goals.",
+      "a": "Jari Litmanen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Montenegrin playmaker nicknamed 'Il Genio'. Won the European Cup with Red Star Belgrade in 1991 and AC Milan in 1994, scoring a famous lob in the 4–0 final win over Barcelona. Later president of Montenegro's football federation.",
+      "a": "Dejan Savićević",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Croatian midfielder. Won the 1991 European Cup with Red Star Belgrade and played for both Real Madrid and Barcelona. First player to score at World Cups for two different nations, Yugoslavia in 1990 and Croatia in 1998. A famously heavy smoker.",
+      "a": "Robert Prosinečki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Polish forward. Scored a hat-trick against Belgium at the 1982 World Cup as Poland finished third. Won the 1985 European Cup with Juventus. Later president of the Polish FA.",
+      "a": "Zbigniew Boniek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Polish winger. Won the Golden Boot at the 1974 World Cup with seven goals and Olympic gold in 1972. Played at three World Cups and spent most of his career at Stal Mielec.",
+      "a": "Grzegorz Lato",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ukrainian winger. Won the 1975 Ballon d'Or with Dynamo Kyiv. The Soviet Union's record cap holder and goalscorer. Later managed Ukraine to the 2006 World Cup quarter-finals.",
+      "a": "Oleh Blokhin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Chilean centre-back. Named South American Footballer of the Year three times in a row from 1974 to 1976, mostly while at Internacional in Brazil. Played at three World Cups. Widely regarded as Chile's greatest ever player.",
+      "a": "Elías Figueroa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Spanish forward and Real Sociedad captain. Scored the late winner in the Euro 2024 final against England. Converted the penalty that won the delayed 2020 Copa del Rey final against Athletic Bilbao.",
+      "a": "Mikel Oyarzabal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Portuguese striker. Scored a hat-trick against Switzerland at the 2022 World Cup after replacing Cristiano Ronaldo in the line-up, on his first World Cup start. Joined PSG from Benfica in 2023 and won the 2025 Champions League.",
+      "a": "Gonçalo Ramos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "South Korean playmaker who came through Valencia's academy. Won the Golden Ball at the 2019 Under-20 World Cup. Joined PSG from Mallorca in 2023. Involved in a training-ground clash with Son Heung-min at the 2024 Asian Cup.",
+      "a": "Lee Kang-in",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Japanese winger who spent his youth at La Masia before FIFA sanctions on Barcelona forced his return home. Signed for Real Madrid in 2019 and went on loans to Mallorca, Villarreal and Getafe before joining Real Sociedad.",
+      "a": "Takefusa Kubo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Norwegian striker. Won the first ever Ballon d'Or Féminin in 2018, when the host asked her to twerk on stage. The Women's Champions League's record scorer with Lyon. Boycotted the national team for five years, missing the 2019 World Cup.",
+      "a": "Ada Hegerberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "English goalkeeper. Named FIFA's best goalkeeper in 2022 and 2023 and saved a penalty in the 2023 World Cup final. Won BBC Sports Personality of the Year in 2023. Retired from England duty weeks before Euro 2025. Played for Manchester United then PSG.",
+      "a": "Mary Earps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Ghanaian attacker. Scored twice against South Korea at the 2022 World Cup. Starred for Ajax, then West Ham, before Tottenham paid around £55 million for him in 2025.",
+      "a": "Mohammed Kudus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Dutch right wing-back. Joined Inter from PSV in 2021 after starring at Euro 2020. Scored one and set up two against the USA at the 2022 World Cup. Scored twice in the 3–3 Champions League semi-final first leg against Barcelona in 2025.",
+      "a": "Denzel Dumfries",
+      "file": "qualityBackfill"
     }
   ]
 }

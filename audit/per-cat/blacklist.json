@@ -154,6 +154,221 @@
       "q": "What is the first name of Liz's secretive husband?",
       "a": "Tom",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the first name of Red Reddington?",
+      "a": "Raymond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Reddington's nickname?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What federal agency does Red help?",
+      "a": "FBI",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Liz's profession when the show begins?",
+      "a": "FBI profiler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What branch did Red defect from?",
+      "a": "Navy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Red's iconic hat called?",
+      "a": "Fedora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cooper's role in the FBI?",
+      "a": "Assistant director",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dembe's role?",
+      "a": "Red's bodyguard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nationality is Dembe?",
+      "a": "Sierra Leonean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tom's real first name?",
+      "a": "Jacob",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tom's last name actually?",
+      "a": "Phelps",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Meera Malik?",
+      "a": "Parminder Nagra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agency was Meera from?",
+      "a": "CIA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is the FBI task force based?",
+      "a": "Post office",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is Red on the FBI's Most Wanted list?",
+      "a": "Fourth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mr. Kaplan's profession?",
+      "a": "Cleaner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mr. Kaplan's real name?",
+      "a": "Kathryn Nemec",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Red's daughter's name?",
+      "a": "Jennifer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Is Liz revealed to be Red's daughter?",
+      "a": "Ambiguously",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the spy agency Katarina worked for?",
+      "a": "KGB",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country was Katarina from?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alina Park in later seasons?",
+      "a": "Laura Sohn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How is Siya related to Meera?",
+      "a": "Daughter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Liz at the end of season 8?",
+      "a": "Killed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Liz?",
+      "a": "Vandyke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Neville Townsend?",
+      "a": "Reg Rogers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Red's distinct fashion signature?",
+      "a": "Fedora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Agent Samar Navabi?",
+      "a": "Mozhan Marno",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agency was Samar previously with?",
+      "a": "Mossad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ressler's addiction struggle?",
+      "a": "Painkillers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the common format of each episode?",
+      "a": "Criminal of the week",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What legal protection does Red demand in exchange for helping the FBI?",
+      "a": "Immunity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What two-word title does Red use to describe his line of work?",
+      "a": "Concierge of crime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Red always call Agent Ressler?",
+      "a": "Donald",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which task force member does Aram fall in love with?",
+      "a": "Samar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did The Blacklist air its series finale?",
+      "a": "2023",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On what part of her body does Liz have a burn scar from a childhood fire?",
+      "a": "Her wrist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At what building does Red surrender himself in the pilot?",
+      "a": "FBI Headquarters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Red die in the series finale?",
+      "a": "Killed by a bull",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US Marshal kills Tom Keen?",
+      "a": "Ian Garvey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who raises Agnes after Liz's death?",
+      "a": "Harold Cooper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Liz become at the end of season 2 after shooting the Attorney General?",
+      "a": "A fugitive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Liz and Tom's dog?",
+      "a": "Hudson",
+      "file": "qualityBackfill"
     }
   ],
   "400": [
@@ -311,6 +526,331 @@
       "q": "What does Red's cleaner 'Mr. Kaplan' specialize in?",
       "a": "Disposing of evidence and bodies",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Red's infamous hat of choice?",
+      "a": "Fedora",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Red's former love interest and Liz's mother?",
+      "a": "Katarina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is revealed about the real Raymond Reddington in later seasons?",
+      "a": "He is dead",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who killed the real Raymond Reddington?",
+      "a": "Katarina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fire in Liz's childhood burns a house?",
+      "a": "The Christmas fire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who saved young Liz from the fire?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What scar does Liz have on her hand?",
+      "a": "Burn scar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tom's mission when he marries Liz?",
+      "a": "Spy on her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organization does Tom work for as a spy?",
+      "a": "Berlin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is 'Berlin'?",
+      "a": "Milos Kirchoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Berlin?",
+      "a": "Peter Stormare",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Tom Keen die?",
+      "a": "Killed by Ian Garvey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the bones in the bag in season 5?",
+      "a": "Real Reddington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many bags are shown with bones?",
+      "a": "Duffel bag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Liz's kidnapper mother figure?",
+      "a": "Katarina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dom Wilkinson?",
+      "a": "Liz's grandfather",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Red's relationship with Dembe?",
+      "a": "Best friend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Why did Dembe originally join Red?",
+      "a": "Saved from traffickers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Edward Weston?",
+      "a": "Edward O'Blenis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Glen Carter?",
+      "a": "Red's contact at DMV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Glen Carter?",
+      "a": "Clark Middleton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What task does Glen often do for Red?",
+      "a": "Find people",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Glen in season 8?",
+      "a": "Dies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Red's attorney Marvin Gerard's rank?",
+      "a": "Lawyer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Marvin Gerard betray Red with?",
+      "a": "Takes over Red's empire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Marvin Gerard die?",
+      "a": "Killed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Heddie Hawkins?",
+      "a": "Aida Turturro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Heddie's role in Red's organization?",
+      "a": "Business associate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Teddy Brimley?",
+      "a": "Teddy Coluca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Luther Braxton?",
+      "a": "Ron Perlman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Aram's girlfriend who turns out to be a criminal?",
+      "a": "Janet Sutherland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Janet Sutherland?",
+      "a": "Jane Lapotaire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What scientist is a recurring blacklister who deals in biology?",
+      "a": "The Stewmaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the Stewmaker do to his victims?",
+      "a": "Dissolves them",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chemical does the Stewmaker use?",
+      "a": "Acid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Stewmaker?",
+      "a": "Tom Noonan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character photographs his victims before killing?",
+      "a": "Stewmaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Freelancer's method?",
+      "a": "Mass casualty events",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is The Good Samaritan Killer's method?",
+      "a": "Mirrors abuse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the hacker turned ally of Red?",
+      "a": "Tyler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does N-13 refer to?",
+      "a": "Katarina's code name",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Milos Kirchoff trying to find at the start of his arc?",
+      "a": "His daughter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Zoe D'Antonio?",
+      "a": "Berlin's daughter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Ressler become involved with Liz's daughter?",
+      "a": "Raises her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which African country was Dembe born?",
+      "a": "Sudan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Blacklister is the main villain of season 8, seeking revenge on Katarina Rostova?",
+      "a": "Neville Townsend",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Ressler become addicted to after being injured?",
+      "a": "Painkillers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where on her body does Red shoot Mr. Kaplan when he tries to kill her?",
+      "a": "In the head",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What surprising job does Dembe take in season 9?",
+      "a": "FBI agent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nickname of the Blacklister who dissolves bodies in chemical baths?",
+      "a": "The Stewmaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Blacklister leads an armed assault on the Post Office to capture Red in season 1?",
+      "a": "Anslo Garrick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who arranges Liz's faked death in season 3?",
+      "a": "Mr. Kaplan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose bones are in the suitcase that Tom Keen dies protecting?",
+      "a": "The real Raymond Reddington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which season does Tom Keen die?",
+      "a": "Season 5",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is stabbed in Liz's home by Ranko Zamani in the pilot?",
+      "a": "Tom Keen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What childhood keepsake does Red build for Liz that plays a soothing tune?",
+      "a": "A music box",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which National Security Advisor kills Deputy Attorney General Reven Wright?",
+      "a": "Laurel Hitchin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What condition forces Samar to leave the task force?",
+      "a": "Vascular dementia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Liz hide after faking her death in season 3?",
+      "a": "Cuba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which agent, prone to sudden headaches and violent outbursts, joins the task force after Samar leaves?",
+      "a": "Alina Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which CIA agent on the task force is killed in season 1?",
+      "a": "Meera Malik",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Justice Department official is exposed as the Cabal's mole and killed by Red in season 1?",
+      "a": "Diane Fowler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which country does Red die in the series finale?",
+      "a": "Spain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Chinese spy returns as the main threat to Red in season 10?",
+      "a": "Wujing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Serbian terrorist is the first Blacklister Red gives the FBI?",
+      "a": "Ranko Zamani",
+      "file": "qualityBackfill"
     }
   ],
   "600": [
@@ -473,6 +1013,316 @@
       "q": "Who orchestrates Tom Keen's marriage to Liz?",
       "a": "Red",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Alan Fitch?",
+      "a": "Alan Alda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens in the final season of The Blacklist?",
+      "a": "Red reveals himself",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is season 10 the final season of?",
+      "a": "The Blacklist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did The Blacklist have?",
+      "a": "Ten",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Anne, Red's love interest in season 7?",
+      "a": "Cassandra Freeman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Anne die?",
+      "a": "Killed by assassin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Red operate from primarily?",
+      "a": "Washington DC",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Alina Park's husband?",
+      "a": "Peter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happened to Park's baby in season 9?",
+      "a": "Miscarriage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What condition does Red appear to suffer from?",
+      "a": "Chronic illness",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is The Freelancer?",
+      "a": "Assassin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Freelancer?",
+      "a": "Robert Sean Leonard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fashion designer killer on the list?",
+      "a": "The Stewmaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Red's office cover business?",
+      "a": "Import export",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the children's book Red gives Liz?",
+      "a": "Harold the Rabbit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Esi Jackson?",
+      "a": "Edi Gathegi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Esi Jackson's role with Dembe?",
+      "a": "FBI colleague",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Isabella Stone?",
+      "a": "Blacklister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Isabella Stone's ability?",
+      "a": "Destroys reputations",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Isabella Stone?",
+      "a": "Stacy Keach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is The Director?",
+      "a": "Peter Kotsiopulos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Director?",
+      "a": "David Strathairn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organization does The Director run?",
+      "a": "The Cabal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What shadowy group is the main enemy in early seasons?",
+      "a": "The Cabal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Alexander Kirk's real identity?",
+      "a": "Constantin Rostov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alexander Kirk?",
+      "a": "Ulrich Thomsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Alexander Kirk claim to be to Liz?",
+      "a": "Her father",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease does Alexander Kirk have?",
+      "a": "Hepatitis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Mr. Kaplan do in season 4?",
+      "a": "Betrays Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tom Connolly?",
+      "a": "Reed Birney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tom Connolly's job?",
+      "a": "Attorney General",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Tom Connolly?",
+      "a": "Cooper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Cooper because of the Connolly incident?",
+      "a": "Disease cured",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cooper's medical condition in season 1?",
+      "a": "Brain tumor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Laurel Hitchin?",
+      "a": "Christine Lahti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What government role does Laurel Hitchin have?",
+      "a": "National Security Advisor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Garvey's connection to Tom?",
+      "a": "Police chief after bones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Bhutanese killer?",
+      "a": "The Decembrist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What blacklister uses twin doctors?",
+      "a": "The Kingmaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Kingmaker?",
+      "a": "Linus Roache",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Kingmaker's specialty?",
+      "a": "Creates politicians",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Apothecary?",
+      "a": "Gerald",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does the finale reveal about Red?",
+      "a": "He is Katarina's operative",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which henchman of Neville Townsend fatally shoots Liz?",
+      "a": "Vandyke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US Attorney General does Liz shoot dead in the season 2 finale?",
+      "a": "Tom Connolly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Berlin's real name?",
+      "a": "Milos Kirchhoff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Blacklister murders Ressler's fiancée Audrey?",
+      "a": "Mako Tanida",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Mr. Kaplan die?",
+      "a": "Jumps off a bridge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Glen Carter, Red's obnoxious tracker, work?",
+      "a": "The DMV",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is Tom Keen given on the Blacklist?",
+      "a": "7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which associate of Tom's is the first Blacklister Liz confronts about her husband?",
+      "a": "Gina Zanetakos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "On what boat does Liz secretly hold Tom prisoner in season 2?",
+      "a": "The Phoenix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which doctor manipulates memories for the Cabal and later for Red?",
+      "a": "Dr. Krilov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which White House counsel frequently clashes with the task force?",
+      "a": "Cynthia Panabaker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which congressman investigates the task force in season 10?",
+      "a": "Arthur Hudson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did Reddington disappear and become a fugitive?",
+      "a": "1990",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose murder is Harold Cooper framed for in season 9?",
+      "a": "Doug Koster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which quirky forensic scientist joins the task force in season 10?",
+      "a": "Herbie Hambright",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Red's female bodyguard in season 9?",
+      "a": "Weecha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How is the Cabal's Director killed?",
+      "a": "Thrown from a plane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of Alexander Kirk, who claims to be Liz's father?",
+      "a": "Konstantin Rostov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sentence does Red receive after his arrest in season 6?",
+      "a": "The death penalty",
+      "file": "qualityBackfill"
     }
   ]
 }

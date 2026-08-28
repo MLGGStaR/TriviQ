@@ -66,6 +66,341 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "What is the nearest planet to Earth?",
+      "a": "Venus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body part do you hear with?",
+      "a": "Ears",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is chlorophyll?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal class are whales in?",
+      "a": "Mammals",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the boiling point of water in Celsius?",
+      "a": "100",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do tadpoles grow up to become?",
+      "a": "Frogs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for a baby sheep?",
+      "a": "Lamb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do you call a scientist who studies the stars?",
+      "a": "Astronomer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do spiders spin?",
+      "a": "Webs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many legs does a crab have?",
+      "a": "10",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What natural disaster involves shaking ground?",
+      "a": "Earthquake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of animal is a snake?",
+      "a": "Reptile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gives plants their green color?",
+      "a": "Chlorophyll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of creature is a dolphin?",
+      "a": "Mammal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What part of the body do you see with?",
+      "a": "Eyes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are animals with backbones called?",
+      "a": "Vertebrates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest unit of matter still retaining element properties?",
+      "a": "Atom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What part of the plant absorbs water?",
+      "a": "Roots",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What flies and makes honey?",
+      "a": "Bee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What substance do lungs absorb from air?",
+      "a": "Oxygen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gas do plants absorb for photosynthesis?",
+      "a": "Carbon dioxide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is an animal's natural home called?",
+      "a": "Habitat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a baby cow called?",
+      "a": "Calf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tool is used to see tiny things like cells?",
+      "a": "Microscope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tool is used to see distant stars?",
+      "a": "Telescope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do bears do in winter?",
+      "a": "Hibernate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organ helps you smell?",
+      "a": "Nose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are electric currents measured in?",
+      "a": "Amperes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do we call animals that eat only meat?",
+      "a": "Carnivores",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a volcano eruption's hot liquid rock called?",
+      "a": "Lava",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do we call the force pulling things toward Earth?",
+      "a": "Gravity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What part of the atom orbits the nucleus?",
+      "a": "Electron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does rust form on?",
+      "a": "Iron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What part of the body do we use for thinking?",
+      "a": "Brain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of rocks called?",
+      "a": "Geology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Mars?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What reptile has a shell?",
+      "a": "Turtle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What do mammals feed their young with?",
+      "a": "Milk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal class do eagles belong to?",
+      "a": "Birds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What causes waves in the ocean?",
+      "a": "Wind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What part of the body stores urine?",
+      "a": "Bladder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What element has the symbol N?",
+      "a": "Nitrogen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for helium?",
+      "a": "He",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for copper?",
+      "a": "Cu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest planet in our solar system?",
+      "a": "Mercury",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second largest planet in our solar system?",
+      "a": "Saturn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What coloured part of the eye controls how much light enters?",
+      "a": "Iris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pigment gives human skin its colour?",
+      "a": "Melanin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of blood vessel carries blood back to the heart?",
+      "a": "Veins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the common name for the trachea?",
+      "a": "Windpipe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What unit measures electrical potential difference?",
+      "a": "Volt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which is the only mammal capable of true, sustained flight?",
+      "a": "Bat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the second most abundant gas in Earth's atmosphere?",
+      "a": "Oxygen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sugar circulates in the blood and is used by cells for energy?",
+      "a": "Glucose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What frozen substance is dry ice made of?",
+      "a": "Carbon dioxide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of plants called?",
+      "a": "Botany",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the branch of medicine dealing with the heart called?",
+      "a": "Cardiology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the branch of medicine dealing with the skin called?",
+      "a": "Dermatology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is molten rock beneath the Earth's surface called?",
+      "a": "Magma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What scale is traditionally used to measure the magnitude of earthquakes?",
+      "a": "Richter scale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which noble gas is used in glowing red-orange advertising signs?",
+      "a": "Neon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Diamond and graphite are both made of which element?",
+      "a": "Carbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which scientist won Nobel Prizes in both physics and chemistry?",
+      "a": "Marie Curie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for energy stored in an object because of its position?",
+      "a": "Potential energy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for the energy an object has because it is moving?",
+      "a": "Kinetic energy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a material that does not conduct electricity called?",
+      "a": "Insulator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the process by which a caterpillar transforms into a butterfly called?",
+      "a": "Metamorphosis",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Gas humans need to breathe?",
       "a": "Oxygen",
       "file": "questionRefinements"
@@ -326,6 +661,366 @@
       "q": "What scientist proposed the three laws of motion?",
       "a": "Isaac Newton",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What type of igneous rock forms from cooled lava?",
+      "a": "Basalt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the unit of electrical resistance?",
+      "a": "Ohm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organ produces bile?",
+      "a": "Liver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the freezing point of water in Kelvin?",
+      "a": "273.15 K",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest species of big cat?",
+      "a": "Tiger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What unit of measure is used for sound level?",
+      "a": "Decibel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest moon in the solar system?",
+      "a": "Ganymede",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical formula for methane?",
+      "a": "CH4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the lightest element on the periodic table?",
+      "a": "Hydrogen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for the fear of heights?",
+      "a": "Acrophobia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the common name for dihydrogen monoxide?",
+      "a": "Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered penicillin?",
+      "a": "Alexander Fleming",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the densest naturally occurring element?",
+      "a": "Osmium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who proposed the theory of evolution by natural selection?",
+      "a": "Charles Darwin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the building blocks of proteins?",
+      "a": "Amino acids",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the outermost layer of the Earth called?",
+      "a": "Crust",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body system includes the heart?",
+      "a": "Circulatory system",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for the amount of matter in an object?",
+      "a": "Mass",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gas is used to fill most bulbs of incandescent lamps?",
+      "a": "Argon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of energy?",
+      "a": "Joule",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet spins on its side at nearly 90 degrees?",
+      "a": "Uranus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is known as the father of modern genetics?",
+      "a": "Gregor Mendel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What celestial event occurs when the Moon passes in front of the Sun?",
+      "a": "Solar eclipse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest gland in the human body?",
+      "a": "Liver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the longest muscle in the human body?",
+      "a": "Sartorius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What element has the atomic symbol Fe?",
+      "a": "Iron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the third planet from the Sun?",
+      "a": "Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only rock that floats in water?",
+      "a": "Pumice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical formula for hydrogen peroxide?",
+      "a": "H2O2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of lens is used to correct nearsightedness?",
+      "a": "Concave",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the compound H2SO4?",
+      "a": "Sulfuric acid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for ice turning directly to gas?",
+      "a": "Sublimation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the unit of magnetic flux density?",
+      "a": "Tesla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does a thermometer measure?",
+      "a": "Temperature",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gas is produced when baking soda reacts with vinegar?",
+      "a": "Carbon dioxide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What's the rarest blood type?",
+      "a": "AB negative",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of rock forms from sediment?",
+      "a": "Sedimentary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of heredity called?",
+      "a": "Genetics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which blood vessels carry blood away from the heart?",
+      "a": "Arteries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the brightest star in our night sky?",
+      "a": "Sirius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What element is essential for making steel strong?",
+      "a": "Carbon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for silver?",
+      "a": "Ag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for lead?",
+      "a": "Pb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for mercury?",
+      "a": "Hg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the atomic number of oxygen?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many elements are on the periodic table?",
+      "a": "118",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most abundant metal in the Earth's crust?",
+      "a": "Aluminium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the type of cell division that produces two identical cells called?",
+      "a": "Mitosis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What acid gives vinegar its sour taste?",
+      "a": "Acetic acid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical name of laughing gas?",
+      "a": "Nitrous oxide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical formula for ozone?",
+      "a": "O3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At what temperature are the Celsius and Fahrenheit scales equal?",
+      "a": "-40",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument measures wind speed?",
+      "a": "Anemometer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of force?",
+      "a": "Newton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of pressure?",
+      "a": "Pascal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of temperature?",
+      "a": "Kelvin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which layer of the atmosphere contains the ozone layer?",
+      "a": "Stratosphere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of rock is marble?",
+      "a": "Metamorphic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of rock is granite?",
+      "a": "Igneous",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the supercontinent that existed about 300 million years ago?",
+      "a": "Pangaea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Roughly what percentage of the Earth's surface is covered by water?",
+      "a": "71%",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest moon of Saturn?",
+      "a": "Titan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Approximately how many years does Halley's Comet take to orbit the Sun?",
+      "a": "76",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the nearest major galaxy to the Milky Way?",
+      "a": "Andromeda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the boundary around a black hole beyond which nothing can escape called?",
+      "a": "Event horizon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are atoms of the same element with different numbers of neutrons called?",
+      "a": "Isotopes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main component of natural gas?",
+      "a": "Methane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical name for table sugar?",
+      "a": "Sucrose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sugar is found naturally in milk?",
+      "a": "Lactose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which parasite-borne disease is caused by Plasmodium?",
+      "a": "Malaria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many pairs of ribs does a typical human have?",
+      "a": "12",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the largest part of the human brain called?",
+      "a": "Cerebrum",
+      "file": "qualityBackfill"
     },
     {
       "q": "Atomic number of carbon?",
@@ -613,6 +1308,376 @@
       "q": "What is entropy in thermodynamics?",
       "a": "A measure of disorder in a system",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "What particle carries the electromagnetic force?",
+      "a": "Photon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who formulated the periodic law and created the periodic table?",
+      "a": "Dmitri Mendeleev",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the rarest naturally occurring element on Earth?",
+      "a": "Astatine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What subatomic particles make up a proton?",
+      "a": "Two up quarks and one down quark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Cassini division located in?",
+      "a": "Saturn's rings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the only letter not appearing on the periodic table?",
+      "a": "J",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organelle synthesizes proteins in a cell?",
+      "a": "Ribosome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What fifth state of matter was first produced in a lab in 1995?",
+      "a": "Bose-Einstein condensate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered radium?",
+      "a": "Marie and Pierre Curie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the primary hormone regulating blood sugar?",
+      "a": "Insulin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What scale is used to measure hurricanes?",
+      "a": "Saffir-Simpson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for the number of protons in an atom?",
+      "a": "Atomic number",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who proposed the heliocentric model of the solar system?",
+      "a": "Copernicus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What branch of medicine treats cancer?",
+      "a": "Oncology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the gene-editing Nobel Prize (2020)?",
+      "a": "CRISPR-Cas9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for an organism that lives on or in another?",
+      "a": "Parasite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the age of the Earth approximately?",
+      "a": "4.5 billion years",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument measures atmospheric pressure?",
+      "a": "Barometer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for symbiotic relationships where both benefit?",
+      "a": "Mutualism",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the smallest unit of genetic information?",
+      "a": "Nucleotide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which atomic particle has no charge?",
+      "a": "Neutron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the first successfully cloned mammal?",
+      "a": "Dolly the sheep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the speed of light in a vacuum (approx)?",
+      "a": "299,792 km/s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for the bending of light through a medium?",
+      "a": "Refraction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical formula for ammonia?",
+      "a": "NH3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for the scientific study of aging?",
+      "a": "Gerontology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the approximate diameter of the Milky Way in light-years?",
+      "a": "100,000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for a mixture of two immiscible liquids?",
+      "a": "Emulsion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the part of the eye containing rods and cones?",
+      "a": "Retina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name for cells that transmit nerve impulses?",
+      "a": "Neurons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the term for a substance not changed by a reaction but speeding it up?",
+      "a": "Catalyst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What element has atomic number 47?",
+      "a": "Silver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the scientific name for the kneecap?",
+      "a": "Patella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What compound in red blood cells binds oxygen?",
+      "a": "Hemoglobin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the two main types of galaxies by shape?",
+      "a": "Spiral and elliptical",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of the Earth's oceans called?",
+      "a": "Oceanography",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dwarf planet in the asteroid belt was visited by NASA's Dawn mission in 2015?",
+      "a": "Ceres",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the approximate percentage of water in the adult human body?",
+      "a": "60%",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the study of glaciers called?",
+      "a": "Glaciology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the largest asteroid in our solar system?",
+      "a": "Ceres",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for tin?",
+      "a": "Sn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical symbol for antimony?",
+      "a": "Sb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the atomic number of uranium?",
+      "a": "92",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the atomic number of iron?",
+      "a": "26",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which non-metal element is a liquid at room temperature?",
+      "a": "Bromine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the most reactive non-metal element?",
+      "a": "Fluorine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which element has the lowest boiling point of all?",
+      "a": "Helium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which element did Marie Curie name after her homeland?",
+      "a": "Polonium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which element is added to iron to make stainless steel resist rust?",
+      "a": "Chromium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are different structural forms of the same element, like diamond and graphite, called?",
+      "a": "Allotropes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a positively charged ion called?",
+      "a": "Cation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the minimum energy required to start a chemical reaction called?",
+      "a": "Activation energy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What technique separates the components of a mixture using a moving solvent, as with ink on paper?",
+      "a": "Chromatography",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the specific temperature and pressure at which a substance's solid, liquid and gas phases coexist called?",
+      "a": "Triple point",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical formula for glucose?",
+      "a": "C6H12O6",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the chemical formula for sulfuric acid?",
+      "a": "H2SO4",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the boiling point of water in Kelvin?",
+      "a": "373",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of electric charge?",
+      "a": "Coulomb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of luminous intensity?",
+      "a": "Candela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of amount of substance?",
+      "a": "Mole",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the SI unit of capacitance?",
+      "a": "Farad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which gas law states that a gas's volume is proportional to its temperature at constant pressure?",
+      "a": "Charles's law",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the approximate escape velocity of Earth in kilometres per second?",
+      "a": "11.2",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the frequency range of human hearing in hertz?",
+      "a": "20 to 20,000",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the antimatter counterpart of the electron called?",
+      "a": "Positron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many quarks make up a proton?",
+      "a": "3",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which type of radioactive decay emits a helium nucleus?",
+      "a": "Alpha decay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered the electron in 1897?",
+      "a": "J. J. Thomson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered the neutron in 1932?",
+      "a": "James Chadwick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered the atomic nucleus through the gold foil experiment?",
+      "a": "Ernest Rutherford",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovered X-rays in 1895?",
+      "a": "Wilhelm Röntgen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which planet has the fastest winds in the solar system?",
+      "a": "Neptune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which moon of Jupiter is the most volcanically active body in the solar system?",
+      "a": "Io",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Approximately how many Earth years does Neptune take to orbit the Sun?",
+      "a": "165",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is quantum entanglement?",

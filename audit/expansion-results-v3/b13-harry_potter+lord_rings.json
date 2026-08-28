@@ -1,0 +1,1298 @@
+{
+    "harry_potter":  {
+                         "200":  [
+                                     {
+                                         "q":  "Which Hogwarts house has an eagle on its crest?",
+                                         "a":  "Ravenclaw"
+                                     },
+                                     {
+                                         "q":  "What is the wizarding world\u0027s main daily newspaper?",
+                                         "a":  "The Daily Prophet"
+                                     },
+                                     {
+                                         "q":  "What kind of snake does Harry accidentally set free at the zoo?",
+                                         "a":  "Boa constrictor"
+                                     },
+                                     {
+                                         "q":  "Which professor is head of Slytherin house during Harry\u0027s first five years?",
+                                         "a":  "Severus Snape"
+                                     },
+                                     {
+                                         "q":  "Which Hogsmeade pub do students visit for a butterbeer?",
+                                         "a":  "The Three Broomsticks"
+                                     },
+                                     {
+                                         "q":  "Which Weasley brother works at the Ministry and cuts ties with his family?",
+                                         "a":  "Percy"
+                                     },
+                                     {
+                                         "q":  "Who teaches Care of Magical Creatures from Harry\u0027s third year onward?",
+                                         "a":  "Hagrid"
+                                     },
+                                     {
+                                         "q":  "What kind of creature is Buckbeak?",
+                                         "a":  "Hippogriff"
+                                     },
+                                     {
+                                         "q":  "Who runs the Hogwarts hospital wing?",
+                                         "a":  "Madam Pomfrey"
+                                     },
+                                     {
+                                         "q":  "In which book does Sirius Black die?",
+                                         "a":  "Order of the Phoenix"
+                                     },
+                                     {
+                                         "q":  "Who kills Sirius Black?",
+                                         "a":  "Bellatrix Lestrange"
+                                     },
+                                     {
+                                         "q":  "What is the three-headed dog guarding in the first book?",
+                                         "a":  "The Philosopher\u0027s Stone"
+                                     },
+                                     {
+                                         "q":  "What make of flying car do Ron and Harry crash at Hogwarts?",
+                                         "a":  "Ford Anglia"
+                                     },
+                                     {
+                                         "q":  "What ball do Beaters knock at opposing players in Quidditch?",
+                                         "a":  "Bludger"
+                                     },
+                                     {
+                                         "q":  "What is the large red ball used to score goals in Quidditch?",
+                                         "a":  "Quaffle"
+                                     },
+                                     {
+                                         "q":  "Which portrait guards the entrance to the Gryffindor common room?",
+                                         "a":  "The Fat Lady"
+                                     },
+                                     {
+                                         "q":  "Who is Harry\u0027s first kiss?",
+                                         "a":  "Cho Chang"
+                                     },
+                                     {
+                                         "q":  "Who does Ron Weasley marry?",
+                                         "a":  "Hermione Granger"
+                                     },
+                                     {
+                                         "q":  "Who does Harry Potter marry?",
+                                         "a":  "Ginny Weasley"
+                                     },
+                                     {
+                                         "q":  "Which professor teaches Charms at Hogwarts?",
+                                         "a":  "Professor Flitwick"
+                                     },
+                                     {
+                                         "q":  "What is the name of Neville\u0027s pet toad?",
+                                         "a":  "Trevor"
+                                     },
+                                     {
+                                         "q":  "Who teaches Divination when Harry starts the subject?",
+                                         "a":  "Professor Trelawney"
+                                     },
+                                     {
+                                         "q":  "Which pink-clad Ministry official takes control of Hogwarts in book five?",
+                                         "a":  "Dolores Umbridge"
+                                     },
+                                     {
+                                         "q":  "What are Voldemort\u0027s followers called?",
+                                         "a":  "Death Eaters"
+                                     },
+                                     {
+                                         "q":  "What is the incantation for the Patronus Charm?",
+                                         "a":  "Expecto Patronum"
+                                     },
+                                     {
+                                         "q":  "Who personally delivers Harry\u0027s Hogwarts acceptance letter?",
+                                         "a":  "Hagrid"
+                                     },
+                                     {
+                                         "q":  "How many players are on a Quidditch team?",
+                                         "a":  "7"
+                                     },
+                                     {
+                                         "q":  "What is Ron Weasley\u0027s greatest fear?",
+                                         "a":  "Spiders"
+                                     },
+                                     {
+                                         "q":  "What spell turns a Boggart into something funny?",
+                                         "a":  "Riddikulus"
+                                     },
+                                     {
+                                         "q":  "Who takes Hermione to the Yule Ball?",
+                                         "a":  "Viktor Krum"
+                                     },
+                                     {
+                                         "q":  "What does Ron vomit after his broken wand backfires?",
+                                         "a":  "Slugs"
+                                     },
+                                     {
+                                         "q":  "In which country is Hogwarts located?",
+                                         "a":  "Scotland"
+                                     },
+                                     {
+                                         "q":  "What insulting word is used for a wizard born to Muggle parents?",
+                                         "a":  "Mudblood"
+                                     },
+                                     {
+                                         "q":  "What are the Ministry\u0027s trained dark-wizard catchers called?",
+                                         "a":  "Aurors"
+                                     },
+                                     {
+                                         "q":  "What animal appears on the Slytherin house crest?",
+                                         "a":  "Serpent"
+                                     },
+                                     {
+                                         "q":  "What is Harry Potter\u0027s middle name?",
+                                         "a":  "James"
+                                     },
+                                     {
+                                         "q":  "How many years after the Battle of Hogwarts is the epilogue set?",
+                                         "a":  "19"
+                                     },
+                                     {
+                                         "q":  "Who becomes headmaster of Hogwarts after Dumbledore\u0027s death?",
+                                         "a":  "Severus Snape"
+                                     },
+                                     {
+                                         "q":  "What does the Goblet of Fire choose?",
+                                         "a":  "Triwizard champions"
+                                     },
+                                     {
+                                         "q":  "What purple triple-decker bus rescues stranded witches and wizards?",
+                                         "a":  "The Knight Bus"
+                                     },
+                                     {
+                                         "q":  "What sits at the centre of the maze in the third task of the tournament?",
+                                         "a":  "The Triwizard Cup"
+                                     },
+                                     {
+                                         "q":  "What powder lets wizards travel through fireplaces?",
+                                         "a":  "Floo powder"
+                                     },
+                                     {
+                                         "q":  "What is the magical term for instantly teleporting from one place to another?",
+                                         "a":  "Apparition"
+                                     },
+                                     {
+                                         "q":  "What spell wipes a person\u0027s memory?",
+                                         "a":  "Obliviate"
+                                     },
+                                     {
+                                         "q":  "What spell puts out the light at the tip of a wand?",
+                                         "a":  "Nox"
+                                     },
+                                     {
+                                         "q":  "What is the incantation for the Shield Charm?",
+                                         "a":  "Protego"
+                                     },
+                                     {
+                                         "q":  "What is the name of the secret defence group Harry teaches in his fifth year?",
+                                         "a":  "Dumbledore\u0027s Army"
+                                     },
+                                     {
+                                         "q":  "Which London pub hides the entrance to Diagon Alley?",
+                                         "a":  "The Leaky Cauldron"
+                                     },
+                                     {
+                                         "q":  "What item of clothing sets Dobby free?",
+                                         "a":  "A sock"
+                                     },
+                                     {
+                                         "q":  "What does Hagrid give Dudley when he loses his temper at the hut?",
+                                         "a":  "A pig\u0027s tail"
+                                     },
+                                     {
+                                         "q":  "Which relative does Harry accidentally inflate like a balloon?",
+                                         "a":  "Aunt Marge"
+                                     },
+                                     {
+                                         "q":  "What attacks Harry and Dudley in an alleyway in Little Whinging?",
+                                         "a":  "Dementors"
+                                     },
+                                     {
+                                         "q":  "What does Mrs Weasley knit for Harry every Christmas?",
+                                         "a":  "A jumper"
+                                     },
+                                     {
+                                         "q":  "Who rescues Harry and his friends from Malfoy Manor?",
+                                         "a":  "Dobby"
+                                     },
+                                     {
+                                         "q":  "Which creature in Fantastic Beasts is obsessed with shiny things?",
+                                         "a":  "Niffler"
+                                     },
+                                     {
+                                         "q":  "Which Hogwarts house was Voldemort in as a student?",
+                                         "a":  "Slytherin"
+                                     },
+                                     {
+                                         "q":  "What position does Draco play on the Slytherin Quidditch team?",
+                                         "a":  "Seeker"
+                                     },
+                                     {
+                                         "q":  "In which book is the Triwizard Tournament held?",
+                                         "a":  "Goblet of Fire"
+                                     },
+                                     {
+                                         "q":  "Who anonymously gives Harry his Invisibility Cloak in his first year?",
+                                         "a":  "Dumbledore"
+                                     },
+                                     {
+                                         "q":  "What does Harry see when he looks into the Mirror of Erised?",
+                                         "a":  "His parents"
+                                     }
+                                 ],
+                         "400":  [
+                                     {
+                                         "q":  "What is the name of the sweet shop in Hogsmeade?",
+                                         "a":  "Honeydukes"
+                                     },
+                                     {
+                                         "q":  "Which house is Cho Chang in?",
+                                         "a":  "Ravenclaw"
+                                     },
+                                     {
+                                         "q":  "What does S.P.E.W. stand for?",
+                                         "a":  "Society for the Promotion of Elfish Welfare"
+                                     },
+                                     {
+                                         "q":  "What spell does Harry use to beat Voldemort in their final duel?",
+                                         "a":  "Expelliarmus"
+                                     },
+                                     {
+                                         "q":  "What creatures carry Umbridge off into the Forbidden Forest?",
+                                         "a":  "Centaurs"
+                                     },
+                                     {
+                                         "q":  "What is the wizarding hospital in London called?",
+                                         "a":  "St Mungo\u0027s"
+                                     },
+                                     {
+                                         "q":  "Which Quidditch team does Ron support?",
+                                         "a":  "Chudley Cannons"
+                                     },
+                                     {
+                                         "q":  "What form does Harry\u0027s Boggart take?",
+                                         "a":  "A Dementor"
+                                     },
+                                     {
+                                         "q":  "Who is Harry\u0027s date to the Yule Ball?",
+                                         "a":  "Parvati Patil"
+                                     },
+                                     {
+                                         "q":  "In which village did Harry\u0027s parents die?",
+                                         "a":  "Godric\u0027s Hollow"
+                                     },
+                                     {
+                                         "q":  "What card game do Hogwarts students play with cards that blow up?",
+                                         "a":  "Exploding Snap"
+                                     },
+                                     {
+                                         "q":  "What kind of spirit is Peeves?",
+                                         "a":  "A poltergeist"
+                                     },
+                                     {
+                                         "q":  "Which position does Ginny play on the Gryffindor team in Half-Blood Prince while Harry is Seeker?",
+                                         "a":  "Chaser"
+                                     },
+                                     {
+                                         "q":  "What does Veritaserum force the drinker to do?",
+                                         "a":  "Tell the truth"
+                                     },
+                                     {
+                                         "q":  "Which camera-toting student is Petrified by the Basilisk?",
+                                         "a":  "Colin Creevey"
+                                     },
+                                     {
+                                         "q":  "What puts the three-headed dog to sleep?",
+                                         "a":  "Music"
+                                     },
+                                     {
+                                         "q":  "Which professor is head of Hufflepuff house?",
+                                         "a":  "Professor Sprout"
+                                     },
+                                     {
+                                         "q":  "What is the name of Harry\u0027s daughter?",
+                                         "a":  "Lily Luna"
+                                     },
+                                     {
+                                         "q":  "What is Draco Malfoy\u0027s son called?",
+                                         "a":  "Scorpius"
+                                     },
+                                     {
+                                         "q":  "What is the name of Ron and Hermione\u0027s daughter?",
+                                         "a":  "Rose"
+                                     },
+                                     {
+                                         "q":  "Which werewolf mauls Bill Weasley\u0027s face in Half-Blood Prince?",
+                                         "a":  "Fenrir Greyback"
+                                     },
+                                     {
+                                         "q":  "Which two national teams play in the Quidditch World Cup final in Goblet of Fire?",
+                                         "a":  "Ireland and Bulgaria"
+                                     },
+                                     {
+                                         "q":  "What does O.W.L. stand for?",
+                                         "a":  "Ordinary Wizarding Level"
+                                     },
+                                     {
+                                         "q":  "What potion does Snape brew to keep Lupin\u0027s mind during full moons?",
+                                         "a":  "Wolfsbane Potion"
+                                     },
+                                     {
+                                         "q":  "What is the address of the Order of the Phoenix headquarters?",
+                                         "a":  "12 Grimmauld Place"
+                                     },
+                                     {
+                                         "q":  "What does the Triwizard Cup turn out to be?",
+                                         "a":  "A Portkey"
+                                     },
+                                     {
+                                         "q":  "Who does Harry rescue from the lake in the second Triwizard task?",
+                                         "a":  "Ron"
+                                     },
+                                     {
+                                         "q":  "What spell does Hermione use to freeze Neville in their first year?",
+                                         "a":  "Petrificus Totalus"
+                                     },
+                                     {
+                                         "q":  "What is the incantation of the cleaning spell?",
+                                         "a":  "Scourgify"
+                                     },
+                                     {
+                                         "q":  "What spell conjures water from a wand?",
+                                         "a":  "Aguamenti"
+                                     },
+                                     {
+                                         "q":  "What spell blasts solid objects apart?",
+                                         "a":  "Reducto"
+                                     },
+                                     {
+                                         "q":  "What is the incantation for the Silencing Charm?",
+                                         "a":  "Silencio"
+                                     },
+                                     {
+                                         "q":  "Which Weasley works as a curse-breaker for Gringotts?",
+                                         "a":  "Bill"
+                                     },
+                                     {
+                                         "q":  "What creatures does Lockhart release in his first Defence Against the Dark Arts lesson?",
+                                         "a":  "Cornish pixies"
+                                     },
+                                     {
+                                         "q":  "What device do Fred and George invent to eavesdrop on the Order?",
+                                         "a":  "Extendable Ears"
+                                     },
+                                     {
+                                         "q":  "What object does Dumbledore leave Ron in his will?",
+                                         "a":  "The Deluminator"
+                                     },
+                                     {
+                                         "q":  "What book does Dumbledore leave Hermione in his will?",
+                                         "a":  "The Tales of Beedle the Bard"
+                                     },
+                                     {
+                                         "q":  "Where does Snape die?",
+                                         "a":  "The Shrieking Shack"
+                                     },
+                                     {
+                                         "q":  "Whose Gringotts vault holds Hufflepuff\u0027s cup?",
+                                         "a":  "Bellatrix Lestrange"
+                                     },
+                                     {
+                                         "q":  "What is the name of Slughorn\u0027s exclusive club for favoured students?",
+                                         "a":  "The Slug Club"
+                                     },
+                                     {
+                                         "q":  "What does Harry shove down Ron\u0027s throat to save him from poisoned mead?",
+                                         "a":  "A bezoar"
+                                     },
+                                     {
+                                         "q":  "Who does Ron date in Half-Blood Prince?",
+                                         "a":  "Lavender Brown"
+                                     },
+                                     {
+                                         "q":  "In which book do Harry and Ginny share their first kiss?",
+                                         "a":  "Half-Blood Prince"
+                                     },
+                                     {
+                                         "q":  "What object does Draco repair to let Death Eaters into Hogwarts?",
+                                         "a":  "The Vanishing Cabinet"
+                                     },
+                                     {
+                                         "q":  "Which Horcrux leaves Dumbledore\u0027s hand blackened and dying?",
+                                         "a":  "Marvolo Gaunt\u0027s ring"
+                                     },
+                                     {
+                                         "q":  "What is Mrs Figg, Harry\u0027s cat-loving neighbour?",
+                                         "a":  "A Squib"
+                                     },
+                                     {
+                                         "q":  "In which city is The Crimes of Grindelwald mainly set?",
+                                         "a":  "Paris"
+                                     },
+                                     {
+                                         "q":  "Which of Harry\u0027s Gryffindor dorm-mates is Irish?",
+                                         "a":  "Seamus Finnigan"
+                                     },
+                                     {
+                                         "q":  "Which of Harry\u0027s dorm-mates dates Ginny before Harry does?",
+                                         "a":  "Dean Thomas"
+                                     },
+                                     {
+                                         "q":  "Who does Voldemort have Nagini kill, believing it will make him master of the Elder Wand?",
+                                         "a":  "Severus Snape"
+                                     }
+                                 ],
+                         "600":  [
+                                     {
+                                         "q":  "What is Ron Weasley\u0027s middle name?",
+                                         "a":  "Bilius"
+                                     },
+                                     {
+                                         "q":  "In what year is the epilogue of Deathly Hallows set?",
+                                         "a":  "2017"
+                                     },
+                                     {
+                                         "q":  "What is the name of the village nearest to the Burrow?",
+                                         "a":  "Ottery St Catchpole"
+                                     },
+                                     {
+                                         "q":  "What form does Kingsley Shacklebolt\u0027s Patronus take?",
+                                         "a":  "A lynx"
+                                     },
+                                     {
+                                         "q":  "What form does Tonks\u0027s Patronus take after she falls for Lupin?",
+                                         "a":  "A wolf"
+                                     },
+                                     {
+                                         "q":  "Which Ministry department does Barty Crouch Sr head?",
+                                         "a":  "International Magical Cooperation"
+                                     },
+                                     {
+                                         "q":  "What does N.E.W.T. stand for?",
+                                         "a":  "Nastily Exhausting Wizarding Test"
+                                     },
+                                     {
+                                         "q":  "What is the name of Percy Weasley\u0027s owl?",
+                                         "a":  "Hermes"
+                                     },
+                                     {
+                                         "q":  "Which Slytherin girl is Draco\u0027s date to the Yule Ball?",
+                                         "a":  "Pansy Parkinson"
+                                     },
+                                     {
+                                         "q":  "Who is Ron\u0027s date to the Yule Ball?",
+                                         "a":  "Padma Patil"
+                                     },
+                                     {
+                                         "q":  "Who is Ginny\u0027s first boyfriend?",
+                                         "a":  "Michael Corner"
+                                     },
+                                     {
+                                         "q":  "What is the name of Neville\u0027s formidable grandmother?",
+                                         "a":  "Augusta Longbottom"
+                                     },
+                                     {
+                                         "q":  "What object does Sirius give Harry so they can talk face to face from far apart?",
+                                         "a":  "A two-way mirror"
+                                     },
+                                     {
+                                         "q":  "Who is the conductor of the Knight Bus?",
+                                         "a":  "Stan Shunpike"
+                                     },
+                                     {
+                                         "q":  "What breed of dragon does Viktor Krum face in the first Triwizard task?",
+                                         "a":  "Chinese Fireball"
+                                     },
+                                     {
+                                         "q":  "What breed of dragon does Cedric Diggory face in the first Triwizard task?",
+                                         "a":  "Swedish Short-Snout"
+                                     },
+                                     {
+                                         "q":  "What breed of dragon does Fleur Delacour face in the first Triwizard task?",
+                                         "a":  "Common Welsh Green"
+                                     },
+                                     {
+                                         "q":  "Which Hogwarts house was Nymphadora Tonks sorted into?",
+                                         "a":  "Hufflepuff"
+                                     },
+                                     {
+                                         "q":  "What is the incantation that conjures the Dark Mark?",
+                                         "a":  "Morsmordre"
+                                     },
+                                     {
+                                         "q":  "What spell does Draco use to conjure a snake at the Duelling Club?",
+                                         "a":  "Serpensortia"
+                                     },
+                                     {
+                                         "q":  "What charm does Hermione put on the fake Galleons used by Dumbledore\u0027s Army?",
+                                         "a":  "Protean Charm"
+                                     },
+                                     {
+                                         "q":  "Which Ravenclaw betrays Dumbledore\u0027s Army to Umbridge?",
+                                         "a":  "Marietta Edgecombe"
+                                     },
+                                     {
+                                         "q":  "Who comes up with the name Dumbledore\u0027s Army?",
+                                         "a":  "Ginny Weasley"
+                                     },
+                                     {
+                                         "q":  "What is the name of Hagrid\u0027s giantess mother?",
+                                         "a":  "Fridwulfa"
+                                     },
+                                     {
+                                         "q":  "What is the name of the barman at the Leaky Cauldron?",
+                                         "a":  "Tom"
+                                     },
+                                     {
+                                         "q":  "Whose cat\u0027s hair accidentally ends up in Hermione\u0027s Polyjuice Potion?",
+                                         "a":  "Millicent Bulstrode"
+                                     },
+                                     {
+                                         "q":  "What is the name of the prison Grindelwald built and was later locked in?",
+                                         "a":  "Nurmengard"
+                                     },
+                                     {
+                                         "q":  "Which of the three Peverell brothers received the Cloak of Invisibility?",
+                                         "a":  "Ignotus"
+                                     },
+                                     {
+                                         "q":  "Which of the three Peverell brothers received the Resurrection Stone?",
+                                         "a":  "Cadmus"
+                                     },
+                                     {
+                                         "q":  "What is the curse called that reveals anyone who speaks Voldemort\u0027s name aloud in Deathly Hallows?",
+                                         "a":  "The Taboo"
+                                     },
+                                     {
+                                         "q":  "Where is Dobby buried?",
+                                         "a":  "Shell Cottage"
+                                     },
+                                     {
+                                         "q":  "What is the name of Newt Scamander\u0027s Bowtruckle?",
+                                         "a":  "Pickett"
+                                     },
+                                     {
+                                         "q":  "What is the first name of Newt Scamander\u0027s Auror brother?",
+                                         "a":  "Theseus"
+                                     },
+                                     {
+                                         "q":  "What slogan did Grindelwald use for his cause?",
+                                         "a":  "For the Greater Good"
+                                     },
+                                     {
+                                         "q":  "Where is a bezoar found?",
+                                         "a":  "A goat\u0027s stomach"
+                                     },
+                                     {
+                                         "q":  "Whose love-potion-laced chocolates does Ron accidentally eat?",
+                                         "a":  "Romilda Vane"
+                                     },
+                                     {
+                                         "q":  "What pet name does Lavender Brown call Ron?",
+                                         "a":  "Won-Won"
+                                     },
+                                     {
+                                         "q":  "What is the name of Aunt Marge\u0027s bulldog?",
+                                         "a":  "Ripper"
+                                     },
+                                     {
+                                         "q":  "What potion is made from powdered root of asphodel and an infusion of wormwood?",
+                                         "a":  "Draught of Living Death"
+                                     },
+                                     {
+                                         "q":  "Which Gryffindor girl is cursed by an opal necklace in Half-Blood Prince?",
+                                         "a":  "Katie Bell"
+                                     },
+                                     {
+                                         "q":  "What incantation makes a wand behave like a compass?",
+                                         "a":  "Point Me"
+                                     },
+                                     {
+                                         "q":  "What is the incantation of the Leg-Locker Curse?",
+                                         "a":  "Locomotor Mortis"
+                                     },
+                                     {
+                                         "q":  "What is the incantation of the Tickling Charm?",
+                                         "a":  "Rictusempra"
+                                     },
+                                     {
+                                         "q":  "Which ghost hosts a Deathday Party in Chamber of Secrets?",
+                                         "a":  "Nearly Headless Nick"
+                                     },
+                                     {
+                                         "q":  "What creature\u0027s horn explodes inside the Lovegoods\u0027 house?",
+                                         "a":  "Erumpent"
+                                     },
+                                     {
+                                         "q":  "Whose corpse is Nagini hiding inside at Godric\u0027s Hollow?",
+                                         "a":  "Bathilda Bagshot"
+                                     },
+                                     {
+                                         "q":  "Where does Voldemort originally hide Slytherin\u0027s locket?",
+                                         "a":  "A seaside cave"
+                                     },
+                                     {
+                                         "q":  "Which Gryffindor competes with Ron for the Keeper spot in Half-Blood Prince?",
+                                         "a":  "Cormac McLaggen"
+                                     },
+                                     {
+                                         "q":  "Who serves as puppet Minister for Magic during Voldemort\u0027s takeover?",
+                                         "a":  "Pius Thicknesse"
+                                     },
+                                     {
+                                         "q":  "What form does Ron Weasley\u0027s Patronus take?",
+                                         "a":  "Jack Russell terrier"
+                                     }
+                                 ]
+                     },
+    "lord_rings":  {
+                       "200":  [
+                                   {
+                                       "q":  "What colour does Gandalf become after he returns from death?",
+                                       "a":  "White"
+                                   },
+                                   {
+                                       "q":  "In which Shire village is Bag End?",
+                                       "a":  "Hobbiton"
+                                   },
+                                   {
+                                       "q":  "Who does Sam marry after the War of the Ring?",
+                                       "a":  "Rosie Cotton"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027You shall not pass\u0027?",
+                                       "a":  "Gandalf"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027One does not simply walk into Mordor\u0027?",
+                                       "a":  "Boromir"
+                                   },
+                                   {
+                                       "q":  "What happens to a mortal who puts on the One Ring?",
+                                       "a":  "They turn invisible"
+                                   },
+                                   {
+                                       "q":  "What does Arwen give up to be with Aragorn?",
+                                       "a":  "Her immortality"
+                                   },
+                                   {
+                                       "q":  "What weapon does Gimli fight with?",
+                                       "a":  "An axe"
+                                   },
+                                   {
+                                       "q":  "Who is Éowyn\u0027s uncle?",
+                                       "a":  "Théoden"
+                                   },
+                                   {
+                                       "q":  "What is the main gate into Mordor called?",
+                                       "a":  "The Black Gate"
+                                   },
+                                   {
+                                       "q":  "Who does Denethor try to burn alive on a funeral pyre?",
+                                       "a":  "Faramir"
+                                   },
+                                   {
+                                       "q":  "What does Pippin steal from the sleeping Gandalf?",
+                                       "a":  "The palantír"
+                                   },
+                                   {
+                                       "q":  "Where is Frodo stabbed by the Witch-king?",
+                                       "a":  "Weathertop"
+                                   },
+                                   {
+                                       "q":  "Who carries the wounded Frodo to Rivendell in the film?",
+                                       "a":  "Arwen"
+                                   },
+                                   {
+                                       "q":  "Who carries the Ring while Frodo is held captive by Orcs?",
+                                       "a":  "Sam"
+                                   },
+                                   {
+                                       "q":  "What is the first Hobbit film called?",
+                                       "a":  "An Unexpected Journey"
+                                   },
+                                   {
+                                       "q":  "What do Hobbits smoke in their pipes?",
+                                       "a":  "Pipe-weed"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit asks Aragorn about second breakfast?",
+                                       "a":  "Pippin"
+                                   },
+                                   {
+                                       "q":  "Which Lord of the Rings film won the Oscar for Best Picture?",
+                                       "a":  "The Return of the King"
+                                   },
+                                   {
+                                       "q":  "What Amazon series is set in Middle-earth\u0027s Second Age?",
+                                       "a":  "The Rings of Power"
+                                   },
+                                   {
+                                       "q":  "What do Legolas and Gimli compete to count at Helm\u0027s Deep?",
+                                       "a":  "Kills"
+                                   },
+                                   {
+                                       "q":  "What is Gollum\u0027s favourite food?",
+                                       "a":  "Fish"
+                                   },
+                                   {
+                                       "q":  "How many Hobbits are in the Fellowship?",
+                                       "a":  "Four"
+                                   },
+                                   {
+                                       "q":  "How many Men are in the Fellowship?",
+                                       "a":  "Two"
+                                   },
+                                   {
+                                       "q":  "What giant beasts do the Haradrim ride into battle?",
+                                       "a":  "Oliphaunts"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027Po-ta-toes\u0027?",
+                                       "a":  "Sam"
+                                   },
+                                   {
+                                       "q":  "Whose birthday party opens The Fellowship of the Ring?",
+                                       "a":  "Bilbo"
+                                   },
+                                   {
+                                       "q":  "Which wizard imprisons Gandalf on top of Orthanc?",
+                                       "a":  "Saruman"
+                                   },
+                                   {
+                                       "q":  "How does Gandalf escape from the top of Orthanc?",
+                                       "a":  "On a giant eagle"
+                                   },
+                                   {
+                                       "q":  "Who guides Frodo and Sam through the Dead Marshes?",
+                                       "a":  "Gollum"
+                                   },
+                                   {
+                                       "q":  "What is Saruman\u0027s stronghold called?",
+                                       "a":  "Isengard"
+                                   },
+                                   {
+                                       "q":  "Which two Fellowship members become best friends despite their races\u0027 rivalry?",
+                                       "a":  "Legolas and Gimli"
+                                   },
+                                   {
+                                       "q":  "What do the four Hobbits hide from beneath a tree root on the road?",
+                                       "a":  "A Black Rider"
+                                   },
+                                   {
+                                       "q":  "What turns the trolls to stone in The Hobbit?",
+                                       "a":  "Sunlight"
+                                   },
+                                   {
+                                       "q":  "What insect does Gandalf whisper to on top of Orthanc?",
+                                       "a":  "A moth"
+                                   },
+                                   {
+                                       "q":  "What is the second Hobbit film called?",
+                                       "a":  "The Desolation of Smaug"
+                                   },
+                                   {
+                                       "q":  "What is the fictional world of the story called?",
+                                       "a":  "Middle-earth"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit wakes the Orcs of Moria by disturbing a well?",
+                                       "a":  "Pippin"
+                                   },
+                                   {
+                                       "q":  "Which Elven realm does the Fellowship rest in after Moria?",
+                                       "a":  "Lothlórien"
+                                   },
+                                   {
+                                       "q":  "What does Galadriel use to show Frodo visions of the future?",
+                                       "a":  "Her Mirror"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027They\u0027re taking the Hobbits to Isengard\u0027?",
+                                       "a":  "Legolas"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027My friends, you bow to no one\u0027?",
+                                       "a":  "Aragorn"
+                                   },
+                                   {
+                                       "q":  "Which race made the sword Sting?",
+                                       "a":  "Elves"
+                                   },
+                                   {
+                                       "q":  "What wolf-like creatures do Saruman\u0027s Orcs ride?",
+                                       "a":  "Wargs"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit rides with Gandalf to Minas Tirith?",
+                                       "a":  "Pippin"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit rides to battle hidden with Éowyn?",
+                                       "a":  "Merry"
+                                   },
+                                   {
+                                       "q":  "Which film features the Battle of Helm\u0027s Deep?",
+                                       "a":  "The Two Towers"
+                                   },
+                                   {
+                                       "q":  "What rescues Frodo and Sam from the slopes of Mount Doom?",
+                                       "a":  "Eagles"
+                                   },
+                                   {
+                                       "q":  "Who raised Aragorn in Rivendell?",
+                                       "a":  "Elrond"
+                                   },
+                                   {
+                                       "q":  "What creature attacks the Fellowship in Balin\u0027s tomb?",
+                                       "a":  "A cave troll"
+                                   },
+                                   {
+                                       "q":  "Which race did the nine Ringwraiths belong to before Sauron corrupted them?",
+                                       "a":  "Men"
+                                   },
+                                   {
+                                       "q":  "How does Gandalf make the hidden inscription on the Ring appear?",
+                                       "a":  "He puts it in fire"
+                                   },
+                                   {
+                                       "q":  "Who catches Sam eavesdropping under the window at Bag End?",
+                                       "a":  "Gandalf"
+                                   },
+                                   {
+                                       "q":  "What does Frodo wear around his neck to carry the Ring?",
+                                       "a":  "A chain"
+                                   },
+                                   {
+                                       "q":  "What do Frodo and Sam disguise themselves as inside Mordor?",
+                                       "a":  "Orcs"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027The Ring is mine\u0027 at the Crack of Doom?",
+                                       "a":  "Frodo"
+                                   },
+                                   {
+                                       "q":  "Gandalf calls Pippin a \u0027fool of a\u0027 what?",
+                                       "a":  "Took"
+                                   },
+                                   {
+                                       "q":  "What kind of animal is Sam\u0027s companion Bill?",
+                                       "a":  "A pony"
+                                   },
+                                   {
+                                       "q":  "What metal is the One Ring made of?",
+                                       "a":  "Gold"
+                                   },
+                                   {
+                                       "q":  "In which city is Aragorn crowned king?",
+                                       "a":  "Minas Tirith"
+                                   }
+                               ],
+                       "400":  [
+                                   {
+                                       "q":  "What is the name of Sam\u0027s pony?",
+                                       "a":  "Bill"
+                                   },
+                                   {
+                                       "q":  "Who is Théoden\u0027s nephew?",
+                                       "a":  "Éomer"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit swears his sword to King Théoden?",
+                                       "a":  "Merry"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit joins the Guard of the Citadel in Minas Tirith?",
+                                       "a":  "Pippin"
+                                   },
+                                   {
+                                       "q":  "What is the name of the pub in Hobbiton?",
+                                       "a":  "The Green Dragon"
+                                   },
+                                   {
+                                       "q":  "What winged creatures do the Nazgûl ride in the later films?",
+                                       "a":  "Fell beasts"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027Fly, you fools\u0027?",
+                                       "a":  "Gandalf"
+                                   },
+                                   {
+                                       "q":  "What do the Elves call Gandalf?",
+                                       "a":  "Mithrandir"
+                                   },
+                                   {
+                                       "q":  "What name does Aragorn take when he becomes king?",
+                                       "a":  "Elessar"
+                                   },
+                                   {
+                                       "q":  "Who does Éowyn marry?",
+                                       "a":  "Faramir"
+                                   },
+                                   {
+                                       "q":  "What jewel does Arwen give Aragorn?",
+                                       "a":  "The Evenstar"
+                                   },
+                                   {
+                                       "q":  "What gift does Galadriel give Gimli?",
+                                       "a":  "Three strands of her hair"
+                                   },
+                                   {
+                                       "q":  "Which Uruk-hai leader kills Boromir in the film?",
+                                       "a":  "Lurtz"
+                                   },
+                                   {
+                                       "q":  "Who says \u0027Nobody tosses a dwarf\u0027?",
+                                       "a":  "Gimli"
+                                   },
+                                   {
+                                       "q":  "What is the name of Théoden\u0027s son?",
+                                       "a":  "Théodred"
+                                   },
+                                   {
+                                       "q":  "What do the Dwarves call the Balrog of Moria?",
+                                       "a":  "Durin\u0027s Bane"
+                                   },
+                                   {
+                                       "q":  "What is the Dwarvish name for Moria?",
+                                       "a":  "Khazad-dûm"
+                                   },
+                                   {
+                                       "q":  "What ruined city on the Anduin does Faramir defend?",
+                                       "a":  "Osgiliath"
+                                   },
+                                   {
+                                       "q":  "Who lights the first beacon of Gondor in the film?",
+                                       "a":  "Pippin"
+                                   },
+                                   {
+                                       "q":  "What is the gathering of Ents called?",
+                                       "a":  "Entmoot"
+                                   },
+                                   {
+                                       "q":  "Who kills Saruman?",
+                                       "a":  "Gríma Wormtongue"
+                                   },
+                                   {
+                                       "q":  "How many wizards were sent to Middle-earth?",
+                                       "a":  "Five"
+                                   },
+                                   {
+                                       "q":  "On what date do Frodo and Bilbo share a birthday?",
+                                       "a":  "22 September"
+                                   },
+                                   {
+                                       "q":  "What is the name of Sam\u0027s father?",
+                                       "a":  "Hamfast Gamgee"
+                                   },
+                                   {
+                                       "q":  "Who is the innkeeper of the Prancing Pony?",
+                                       "a":  "Barliman Butterbur"
+                                   },
+                                   {
+                                       "q":  "Where does the Fellowship receive the boats they use on the Anduin?",
+                                       "a":  "Lothlórien"
+                                   },
+                                   {
+                                       "q":  "What are the two giant statues of kings on the Anduin called?",
+                                       "a":  "The Argonath"
+                                   },
+                                   {
+                                       "q":  "Which Elf leads the Lórien archers to Helm\u0027s Deep in the film?",
+                                       "a":  "Haldir"
+                                   },
+                                   {
+                                       "q":  "What kind of blade does the Witch-king stab Frodo with?",
+                                       "a":  "Morgul blade"
+                                   },
+                                   {
+                                       "q":  "Who heals Frodo\u0027s wound from the Witch-king?",
+                                       "a":  "Elrond"
+                                   },
+                                   {
+                                       "q":  "What do the initials J.R.R. stand for?",
+                                       "a":  "John Ronald Reuel"
+                                   },
+                                   {
+                                       "q":  "At which university was Tolkien a professor?",
+                                       "a":  "Oxford"
+                                   },
+                                   {
+                                       "q":  "What was the name of the writing group Tolkien shared with C.S. Lewis?",
+                                       "a":  "The Inklings"
+                                   },
+                                   {
+                                       "q":  "Which of the author\u0027s sons edited and published The Silmarillion?",
+                                       "a":  "Christopher Tolkien"
+                                   },
+                                   {
+                                       "q":  "In what year was The Return of the King film released?",
+                                       "a":  "2003"
+                                   },
+                                   {
+                                       "q":  "What is the third Hobbit film called?",
+                                       "a":  "The Battle of the Five Armies"
+                                   },
+                                   {
+                                       "q":  "What jewel does Thorin covet above all else?",
+                                       "a":  "The Arkenstone"
+                                   },
+                                   {
+                                       "q":  "In which Age of Middle-earth does The Lord of the Rings take place?",
+                                       "a":  "Third Age"
+                                   },
+                                   {
+                                       "q":  "How is Galadriel related to Arwen?",
+                                       "a":  "Grandmother"
+                                   },
+                                   {
+                                       "q":  "What is the name of Aragorn\u0027s father?",
+                                       "a":  "Arathorn"
+                                   },
+                                   {
+                                       "q":  "At what age do Hobbits come of age?",
+                                       "a":  "33"
+                                   },
+                                   {
+                                       "q":  "What region between Gondor and Mordor do Faramir\u0027s rangers patrol?",
+                                       "a":  "Ithilien"
+                                   },
+                                   {
+                                       "q":  "Which part of the Shire is Merry from?",
+                                       "a":  "Buckland"
+                                   },
+                                   {
+                                       "q":  "What river forms the eastern border of the Shire?",
+                                       "a":  "Brandywine"
+                                   },
+                                   {
+                                       "q":  "In which country was Tolkien born?",
+                                       "a":  "South Africa"
+                                   },
+                                   {
+                                       "q":  "Who sings \u0027May It Be\u0027 over the credits of The Fellowship of the Ring?",
+                                       "a":  "Enya"
+                                   },
+                                   {
+                                       "q":  "Who sings \u0027Into the West\u0027 over the credits of The Return of the King?",
+                                       "a":  "Annie Lennox"
+                                   },
+                                   {
+                                       "q":  "In The Rings of Power, the Harfoots are ancestors of which race?",
+                                       "a":  "Hobbits"
+                                   },
+                                   {
+                                       "q":  "Who did Sméagol murder to get the Ring?",
+                                       "a":  "Déagol"
+                                   },
+                                   {
+                                       "q":  "Who kills Théoden at the Pelennor Fields?",
+                                       "a":  "The Witch-king"
+                                   }
+                               ],
+                       "600":  [
+                                   {
+                                       "q":  "What is the name of the Elven Ring worn by Gandalf?",
+                                       "a":  "Narya"
+                                   },
+                                   {
+                                       "q":  "What is the name of the Elven Ring worn by Galadriel?",
+                                       "a":  "Nenya"
+                                   },
+                                   {
+                                       "q":  "What is the name of the Elven Ring worn by Elrond?",
+                                       "a":  "Vilya"
+                                   },
+                                   {
+                                       "q":  "What name was Aragorn given as a child in Rivendell?",
+                                       "a":  "Estel"
+                                   },
+                                   {
+                                       "q":  "How old is Aragorn at the Council of Elrond?",
+                                       "a":  "87"
+                                   },
+                                   {
+                                       "q":  "What gift does Galadriel give Sam?",
+                                       "a":  "A box of earth"
+                                   },
+                                   {
+                                       "q":  "What gift does Galadriel give Legolas?",
+                                       "a":  "A bow"
+                                   },
+                                   {
+                                       "q":  "What is the fortress at Helm\u0027s Deep called?",
+                                       "a":  "The Hornburg"
+                                   },
+                                   {
+                                       "q":  "What is the Elvish name for Rivendell?",
+                                       "a":  "Imladris"
+                                   },
+                                   {
+                                       "q":  "What was Minas Morgul called before the Nazgûl took it?",
+                                       "a":  "Minas Ithil"
+                                   },
+                                   {
+                                       "q":  "What was Minas Tirith originally called?",
+                                       "a":  "Minas Anor"
+                                   },
+                                   {
+                                       "q":  "Which hasty Ent befriends Merry and Pippin in the book?",
+                                       "a":  "Quickbeam"
+                                   },
+                                   {
+                                       "q":  "How old is Frodo when he leaves the Shire?",
+                                       "a":  "50"
+                                   },
+                                   {
+                                       "q":  "What is the name of Frodo\u0027s father?",
+                                       "a":  "Drogo"
+                                   },
+                                   {
+                                       "q":  "How did Frodo\u0027s parents die?",
+                                       "a":  "Drowned in a boating accident"
+                                   },
+                                   {
+                                       "q":  "What is the name of Sam\u0027s eldest daughter?",
+                                       "a":  "Elanor"
+                                   },
+                                   {
+                                       "q":  "Which shady Bree man sells the Hobbits a half-starved pony?",
+                                       "a":  "Bill Ferny"
+                                   },
+                                   {
+                                       "q":  "Which Hobbit stays behind at Crickhollow instead of entering the Old Forest?",
+                                       "a":  "Fredegar Bolger"
+                                   },
+                                   {
+                                       "q":  "What are the great falls on the Anduin below Amon Hen called?",
+                                       "a":  "Rauros"
+                                   },
+                                   {
+                                       "q":  "On which hill does Frodo sit on the Seat of Seeing?",
+                                       "a":  "Amon Hen"
+                                   },
+                                   {
+                                       "q":  "Who parleys with Aragorn\u0027s army at the Black Gate before the final battle?",
+                                       "a":  "The Mouth of Sauron"
+                                   },
+                                   {
+                                       "q":  "What is the Elvish name for Weathertop?",
+                                       "a":  "Amon Sûl"
+                                   },
+                                   {
+                                       "q":  "Which Elf-lord carries Frodo to the ford in the book?",
+                                       "a":  "Glorfindel"
+                                   },
+                                   {
+                                       "q":  "Who is the Elven shipwright of the Grey Havens?",
+                                       "a":  "Círdan"
+                                   },
+                                   {
+                                       "q":  "In which Oxford pub did the Inklings meet?",
+                                       "a":  "The Eagle and Child"
+                                   },
+                                   {
+                                       "q":  "In what year was The Silmarillion published?",
+                                       "a":  "1977"
+                                   },
+                                   {
+                                       "q":  "In what year was The Two Towers film released?",
+                                       "a":  "2002"
+                                   },
+                                   {
+                                       "q":  "What is the proper name of Lake-town in The Hobbit?",
+                                       "a":  "Esgaroth"
+                                   },
+                                   {
+                                       "q":  "What does Bard use to kill Smaug?",
+                                       "a":  "The Black Arrow"
+                                   },
+                                   {
+                                       "q":  "What are the names of the three trolls in The Hobbit?",
+                                       "a":  "Tom, Bert and William"
+                                   },
+                                   {
+                                       "q":  "What is the name of Bilbo\u0027s mother?",
+                                       "a":  "Belladonna Took"
+                                   },
+                                   {
+                                       "q":  "What is the name of Théoden\u0027s horse?",
+                                       "a":  "Snowmane"
+                                   },
+                                   {
+                                       "q":  "On which mountain peak does Gandalf finally kill the Balrog?",
+                                       "a":  "Zirakzigil"
+                                   },
+                                   {
+                                       "q":  "What is the name of Elrond\u0027s twin brother?",
+                                       "a":  "Elros"
+                                   },
+                                   {
+                                       "q":  "What are the names of Elrond\u0027s twin sons?",
+                                       "a":  "Elladan and Elrohir"
+                                   },
+                                   {
+                                       "q":  "What is the name of Aragorn\u0027s mother?",
+                                       "a":  "Gilraen"
+                                   },
+                                   {
+                                       "q":  "What alias does Saruman use during the Scouring of the Shire?",
+                                       "a":  "Sharkey"
+                                   },
+                                   {
+                                       "q":  "Who speaks the final line of The Return of the King book?",
+                                       "a":  "Sam"
+                                   },
+                                   {
+                                       "q":  "What name does Éowyn use when she rides to war in disguise?",
+                                       "a":  "Dernhelm"
+                                   },
+                                   {
+                                       "q":  "Which Uruk-hai leads the band that captures Merry and Pippin in the book?",
+                                       "a":  "Uglúk"
+                                   },
+                                   {
+                                       "q":  "What is the noble breed of horses that Shadowfax belongs to?",
+                                       "a":  "Mearas"
+                                   },
+                                   {
+                                       "q":  "What is the ancestral home of the Brandybucks called?",
+                                       "a":  "Brandy Hall"
+                                   },
+                                   {
+                                       "q":  "In which First World War battle did Tolkien fight?",
+                                       "a":  "The Somme"
+                                   },
+                                   {
+                                       "q":  "In what year did Tolkien die?",
+                                       "a":  "1973"
+                                   },
+                                   {
+                                       "q":  "Under what name did young Aragorn serve Rohan and Gondor in secret?",
+                                       "a":  "Thorongil"
+                                   },
+                                   {
+                                       "q":  "How many Academy Awards did The Fellowship of the Ring win?",
+                                       "a":  "Four"
+                                   },
+                                   {
+                                       "q":  "Which director was originally set to direct The Hobbit films before Peter Jackson took over?",
+                                       "a":  "Guillermo del Toro"
+                                   },
+                                   {
+                                       "q":  "Who directed the 1978 animated Lord of the Rings film?",
+                                       "a":  "Ralph Bakshi"
+                                   },
+                                   {
+                                       "q":  "Which Orc commander leads the assault on Minas Tirith in the film?",
+                                       "a":  "Gothmog"
+                                   },
+                                   {
+                                       "q":  "Which Age of Middle-earth begins after Sauron\u0027s defeat?",
+                                       "a":  "Fourth Age"
+                                   }
+                               ]
+                   }
+}

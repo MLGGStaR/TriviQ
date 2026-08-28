@@ -56,6 +56,176 @@
       "file": "moreTriviaExpansions"
     },
     {
+      "q": "Who directed the original Lord of the Rings trilogy?",
+      "a": "Peter Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main Hobbit in 'The Lord of the Rings'?",
+      "a": "Frodo Baggins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature was Gollum before the Ring transformed him?",
+      "a": "Hobbit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Aragorn's ancestral kingdom?",
+      "a": "Gondor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'The Lord of the Rings'?",
+      "a": "J.R.R. Tolkien",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bilbo's home?",
+      "a": "Bag End",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Frodo's sword?",
+      "a": "Sting",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the elf queen of Lothlorien?",
+      "a": "Galadriel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the steward's son who joins the Fellowship?",
+      "a": "Boromir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the white wizard who betrays the Fellowship?",
+      "a": "Saruman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color are Sauron's eye?",
+      "a": "Fiery red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who are Merry and Pippin?",
+      "a": "Hobbits",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the horse lord kingdom?",
+      "a": "Rohan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Frodo in the films?",
+      "a": "Elijah Wood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is a Nazgul also known as?",
+      "a": "Ringwraith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the elf realm ruled by Elrond called?",
+      "a": "Rivendell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Gollum call the Ring?",
+      "a": "My Precious",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many rings were given to the kings of Men?",
+      "a": "Nine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Hobbit who originally finds the One Ring?",
+      "a": "Bilbo Baggins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the inn in Bree?",
+      "a": "Prancing Pony",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What creature is Shelob?",
+      "a": "Giant spider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the dragon's name in 'The Hobbit'?",
+      "a": "Smaug",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads the Fellowship of the Ring?",
+      "a": "Gandalf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many films are in the 'Lord of the Rings' trilogy?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the daughter of Elrond who loves Aragorn?",
+      "a": "Arwen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the tree-like creatures?",
+      "a": "Ents",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Ent leader's name?",
+      "a": "Treebeard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Saruman's army of orc-men?",
+      "a": "Uruk-hai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bilbo's 111th birthday called?",
+      "a": "Eleventy-first",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Hobbit,' how many dwarves go on the journey?",
+      "a": "Thirteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the dwarves in 'The Hobbit'?",
+      "a": "Thorin Oakenshield",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the dwarf kingdom under the mountain?",
+      "a": "Erebor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Sam carry in addition to his pack?",
+      "a": "Pots and pans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the race that serves Sauron?",
+      "a": "Orcs",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who destroys the One Ring?",
       "a": "Gollum — he bites it from Frodo and falls into Mount Doom",
       "file": "App.jsx"
@@ -246,6 +416,231 @@
       "q": "What is the name of the elf archer in the Fellowship?",
       "a": "Legolas",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who plays Aragorn in the films?",
+      "a": "Viggo Mortensen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Merry's full name?",
+      "a": "Meriadoc Brandybuck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country were the films primarily shot in?",
+      "a": "New Zealand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What battle ends The Two Towers?",
+      "a": "Battle of Helm's Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the warrior princess of Rohan?",
+      "a": "Eowyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills the Witch-king of Angmar?",
+      "a": "Eowyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Pippin's full first name?",
+      "a": "Peregrin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Merry's full first name?",
+      "a": "Meriadoc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Boromir's younger brother?",
+      "a": "Faramir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language is written on the One Ring?",
+      "a": "Black Speech",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the burial mounds where the Hobbits meet Tom Bombadil?",
+      "a": "Barrow-downs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dwarf was the lord of Moria whose tomb is found?",
+      "a": "Balin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Rangers of the North?",
+      "a": "Aragorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Strider's other name?",
+      "a": "Aragorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'Mithril' refer to?",
+      "a": "Rare metal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the father of Elrond?",
+      "a": "Earendil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the elf father of Arwen?",
+      "a": "Elrond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Denethor?",
+      "a": "Steward of Gondor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Faramir's rangers' hideout?",
+      "a": "Henneth Annun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of the Fellowship dies first?",
+      "a": "Boromir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Legolas in the films?",
+      "a": "Orlando Bloom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Dead Marshes?",
+      "a": "Corpse-filled swamp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the siege engine used at Minas Tirith?",
+      "a": "Grond",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gollum via motion capture?",
+      "a": "Andy Serkis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Palantir?",
+      "a": "Seeing stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the last King of Gondor before Aragorn?",
+      "a": "Earnur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Gollum's original name?",
+      "a": "Smeagol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who founded Gondor and Arnor?",
+      "a": "Elendil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sauron's former master?",
+      "a": "Morgoth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the shortcut the Hobbits use through a forest near the Shire?",
+      "a": "Old Forest",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who forges Anduril from the shards of Narsil?",
+      "a": "Elves of Rivendell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the White Tree of Gondor?",
+      "a": "Symbol of kings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the nine Ringwraiths?",
+      "a": "Witch-king",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mountain range borders Mordor?",
+      "a": "Ephel Duath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pass does Frodo take into Mordor?",
+      "a": "Cirith Ungol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Grima Wormtongue's master?",
+      "a": "Saruman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which character is a Skin-changer?",
+      "a": "Beorn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Elvenking of Mirkwood?",
+      "a": "Thranduil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of creature is Gwaihir?",
+      "a": "Great Eagle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Hobbit,' what is the riddle game answer Bilbo wins with?",
+      "a": "What's in my pocket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Bard in 'The Hobbit'?",
+      "a": "Bowman of Laketown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Tolkien publisher released 'The Fellowship of the Ring' first?",
+      "a": "Allen & Unwin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the battle outside Minas Tirith?",
+      "a": "Battle of Pelennor Fields",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Hobbit is captured by Saruman's forces?",
+      "a": "Merry and Pippin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What song does Pippin sing for Denethor?",
+      "a": "Edge of Night",
+      "file": "qualityBackfill"
     },
     {
       "q": "Who is Legolas's father?",
@@ -453,6 +848,261 @@
       "q": "Who is the Witch-king of Angmar's greatest fear?",
       "a": "No man can kill him (killed by Éowyn)",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What year did Fellowship of the Ring release in theaters?",
+      "a": "2001",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the score for the LOTR trilogy?",
+      "a": "Howard Shore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Academy Awards did Return of the King win?",
+      "a": "Eleven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gandalf in the films?",
+      "a": "Ian McKellen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the father of Boromir and Faramir?",
+      "a": "Denethor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was 'The Hobbit' first published?",
+      "a": "1937",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was 'The Fellowship of the Ring' book published?",
+      "a": "1954",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Valar of the sea in Tolkien's lore?",
+      "a": "Ulmo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the first Dark Lord, Sauron's master?",
+      "a": "Melkor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Morgoth's original name?",
+      "a": "Melkor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which book do we first meet Tom Bombadil?",
+      "a": "Fellowship of the Ring",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tom Bombadil's wife's name?",
+      "a": "Goldberry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Smaug in 'The Hobbit'?",
+      "a": "Bard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the elvish smith who forged the Rings of Power?",
+      "a": "Celebrimbor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ancient evil spider mother?",
+      "a": "Ungoliant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Hobbit gave Frodo the phial that lights up in darkness?",
+      "a": "Galadriel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the ancient capital of Arnor?",
+      "a": "Annuminas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Isildur's father?",
+      "a": "Elendil",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the father of Eomer and Eowyn?",
+      "a": "Eomund",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the gate into Moria?",
+      "a": "Doors of Durin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What word opens the Doors of Durin?",
+      "a": "Mellon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the books, how long did Bilbo possess the Ring?",
+      "a": "Sixty years",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the lost kingdom beneath the Misty Mountains?",
+      "a": "Moria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who forges the Three Elven Rings?",
+      "a": "Celebrimbor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Thorin's grandfather?",
+      "a": "Thror",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bilbo's book about his adventure?",
+      "a": "There and Back Again",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Lady of Rohan and Theoden's sister?",
+      "a": "Theodwyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Galadriel's husband's name?",
+      "a": "Celeborn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Doriath tale told in 'The Silmarillion'?",
+      "a": "Beren and Luthien",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Rohan?",
+      "a": "Edoras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the golden hall of Rohan called?",
+      "a": "Meduseld",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Gimli's father?",
+      "a": "Gloin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which month does the Fellowship leave Rivendell?",
+      "a": "December",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the elf Arwen's mother's name?",
+      "a": "Celebrian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Hobbit family does Frodo come from?",
+      "a": "Baggins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who becomes the new King of Rohan after Theoden?",
+      "a": "Eomer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Shire's ruling mayor in the books?",
+      "a": "Will Whitfoot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wizard is called the Brown?",
+      "a": "Radagast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sauron's ancestor Maia spirit type?",
+      "a": "Maiar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the spider that Frodo battles in 'Return of the King' book?",
+      "a": "Shelob",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fortress at the entrance to Mordor?",
+      "a": "Cirith Ungol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which gem fills the Silmarils?",
+      "a": "Light of the Trees",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the original master of the One Ring's craftsmanship?",
+      "a": "Sauron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Took patriarch at the time of the War of the Ring?",
+      "a": "Paladin Took",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does 'Edoras' mean?",
+      "a": "The courts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Chief Shirriff during the Scouring of the Shire?",
+      "a": "Robin Smallburrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Bilbo's cousin who wants Bag End?",
+      "a": "Lobelia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Battle of the Five Armies enemy are the Hobbits allied with?",
+      "a": "Dwarves, Elves, Men",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Aragorn's lineage's descended city?",
+      "a": "Numenor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the birthplace of Aragorn?",
+      "a": "Rivendell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Faramir's ranger company?",
+      "a": "Rangers of Ithilien",
+      "file": "qualityBackfill"
     },
     {
       "q": "Who is Tom Bombadil?",

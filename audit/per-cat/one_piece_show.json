@@ -101,6 +101,346 @@
       "file": "moreTriviaExpansions"
     },
     {
+      "q": "What is Luffy's signature rubber attack stretching his fist?",
+      "a": "Gum-Gum Pistol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the captain of the Straw Hat Pirates?",
+      "a": "Monkey D. Luffy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Luffy's iconic straw hat?",
+      "a": "Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many swords does Zoro fight with?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Zoro's style called?",
+      "a": "Three Sword Style",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Zoro's bandana color?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What eye patch covers Zoro after the timeskip?",
+      "a": "Left eye",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Sanji's suit?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Sanji refuse to attack?",
+      "a": "Women",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Nami's hair?",
+      "a": "Orange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Nami use?",
+      "a": "Clima-Tact",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the long-nosed marksman of the Straw Hats?",
+      "a": "Usopp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Usopp's favorite weapon?",
+      "a": "Slingshot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the reindeer doctor of the crew?",
+      "a": "Chopper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Chopper's Rumble Ball?",
+      "a": "Transformation pill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin's Devil Fruit?",
+      "a": "Flower-Flower Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Franky's signature exclamation?",
+      "a": "SUPER!",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Brook's race?",
+      "a": "Skeleton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What instrument does Brook play?",
+      "a": "Violin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Brook's first ship?",
+      "a": "Rumbar Pirates' ship",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Brook's whale friend's name?",
+      "a": "Laboon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What whale waits at the entrance of the Grand Line?",
+      "a": "Laboon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jinbei's specialty?",
+      "a": "Fish-Man Karate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crew captain is Jinbei a former member of?",
+      "a": "Sun Pirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Whitebeard's real name?",
+      "a": "Edward Newgate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Whitebeard use?",
+      "a": "Bisento",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What title do most Yonko hold?",
+      "a": "Emperor of the Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Red-Haired emperor?",
+      "a": "Shanks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Shanks's hair?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Yonko controls Wano?",
+      "a": "Kaido",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal does Kaido transform into?",
+      "a": "Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Big Mom's real name?",
+      "a": "Charlotte Linlin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island does Big Mom rule?",
+      "a": "Totto Land",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Yonko is also called Blackbeard?",
+      "a": "Marshall D. Teach",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What pirate betrays Whitebeard?",
+      "a": "Blackbeard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luffy's bounty at the end of Wano?",
+      "a": "3 billion berries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Marines' currency?",
+      "a": "Berries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Luffy's father?",
+      "a": "Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ace's Devil Fruit?",
+      "a": "Flame-Flame Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ace's brother aside from Luffy?",
+      "a": "Sabo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color hat does Luffy wear?",
+      "a": "Straw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island does the story begin on?",
+      "a": "Windmill Village",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color vest does Luffy wear at the start?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal is Luffy's crewmate Chopper?",
+      "a": "Reindeer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sea creature attacked Luffy as a child?",
+      "a": "Sea King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What snail-like creatures are used as telephones?",
+      "a": "Transponder Snails",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What streaming service produced the 2023 live-action One Piece?",
+      "a": "Netflix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the three highest-ranking Marines beneath the Fleet Admiral called?",
+      "a": "Admirals",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luffy's father's name?",
+      "a": "Monkey D. Dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Shanks's pirate crew?",
+      "a": "The Red Hair Pirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Luffy's home village?",
+      "a": "Foosha Village",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Straw Hat's first bounty poster used a terrible sketch instead of a photo?",
+      "a": "Sanji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose straw hat did Shanks wear before giving it to Luffy?",
+      "a": "Gol D. Roger's",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luffy's technique of pumping blood faster to move at high speed?",
+      "a": "Gear Second",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Straw Hats' helmsman, a fish-man and former Warlord?",
+      "a": "Jinbe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the desert kingdom ruled by Princess Vivi's family?",
+      "a": "Alabasta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Warlord with a sand power is the villain of the Alabasta arc?",
+      "a": "Crocodile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What compass is needed to navigate the Grand Line?",
+      "a": "A Log Pose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What special stone drains Devil Fruit users of their strength?",
+      "a": "Seastone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sky island the Straw Hats visit?",
+      "a": "Skypiea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Pirate Empress who falls in love with Luffy?",
+      "a": "Boa Hancock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Yonko's animal form is a giant dragon?",
+      "a": "Kaido",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the samurai country ruled by Kaido called?",
+      "a": "Wano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many episodes were in the first season of the live-action series?",
+      "a": "8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Usopp's sniper alter ego with a mask called?",
+      "a": "Sogeking",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Straw Hats' cyborg's home city known for its shipwrights?",
+      "a": "Water 7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Straw Hat says 'Yohoho' and asks women to see their panties?",
+      "a": "Brook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Big Mom's island territory?",
+      "a": "Whole Cake Island",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who is Monkey D. Luffy?",
       "a": "The captain of the Straw Hat Pirates — his dream is to find the One Piece and become King of the Pirates",
       "file": "App.jsx"
@@ -256,6 +596,386 @@
       "q": "Who is the Straw Hats' cook?",
       "a": "Sanji",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "Who is the sky god defeated by Luffy on Skypiea?",
+      "a": "Enel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What admiral froze Ace at Marineford?",
+      "a": "Aokiji (Kuzan)",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Warlord raised Perona?",
+      "a": "Moria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Gecko Moria?",
+      "a": "Former Warlord",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island floats and belongs to Moria?",
+      "a": "Thriller Bark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Devil Fruit does Moria have?",
+      "a": "Shadow-Shadow Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Boa Hancock?",
+      "a": "Kuja Pirates captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hancock's Devil Fruit?",
+      "a": "Love-Love Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island is Hancock queen of?",
+      "a": "Amazon Lily",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hancock's sisters?",
+      "a": "Sandersonia and Marigold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Warlord has bear-like properties?",
+      "a": "Kuma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sends the Straw Hats to different islands at Sabaody?",
+      "a": "Kuma's Paw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the auction house island?",
+      "a": "Sabaody Archipelago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Eleven Supernovas' meeting place?",
+      "a": "Sabaody",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Trafalgar Law?",
+      "a": "Heart Pirates captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Law's signature 'ROOM' called?",
+      "a": "Op-Op Fruit ability",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Law's submarine called?",
+      "a": "Polar Tang",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Eustass Kid?",
+      "a": "Kid Pirates captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kid's Devil Fruit?",
+      "a": "Magnet-Magnet Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Killer on the Kid Pirates?",
+      "a": "First mate",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Doflamingo?",
+      "a": "Warlord of Dressrosa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Doflamingo's Devil Fruit?",
+      "a": "String-String Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What CP level was Rob Lucci?",
+      "a": "CP9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rob Lucci's Devil Fruit?",
+      "a": "Cat-Cat Fruit Leopard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What assassin organization is Cipher Pol?",
+      "a": "Secret government agents",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the highest CP organization?",
+      "a": "CP0",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Rob Lucci's pet?",
+      "a": "Hattori the pigeon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island was destroyed by a Buster Call?",
+      "a": "Ohara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who survived the Ohara incident?",
+      "a": "Nico Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Professor Clover's role?",
+      "a": "Head of Ohara archaeology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What agent helped Robin escape Ohara?",
+      "a": "Jaguar D. Saul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Monkey D. Dragon?",
+      "a": "Revolutionary leader",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organization does Dragon lead?",
+      "a": "Revolutionary Army",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Sabo to the Revolutionary Army?",
+      "a": "Chief of Staff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chief of staff is next to Dragon?",
+      "a": "Sabo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Reverie?",
+      "a": "World council of kings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How often is the Reverie held?",
+      "a": "Every four years",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Elbaf?",
+      "a": "Giant homeland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What giant warriors come from Elbaf?",
+      "a": "Dorry and Brogy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island houses the sky island arc?",
+      "a": "Skypiea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Enel?",
+      "a": "Skypiea antagonist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Enel's Devil Fruit?",
+      "a": "Rumble-Rumble Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What god does Enel claim to be?",
+      "a": "God of Skypiea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Enel use as a signature?",
+      "a": "Staff",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the ship of Enel?",
+      "a": "Maxim",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Ace's bounty before death?",
+      "a": "550 million berries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Whitebeard's cause of death?",
+      "a": "Shot by Blackbeard crew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who stabs Ace to death?",
+      "a": "Akainu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What admiral uses magma?",
+      "a": "Akainu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island is Chopper from?",
+      "a": "Drum Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Crocodile's criminal organization?",
+      "a": "Baroque Works",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What government island do the Straw Hats attack to rescue Robin?",
+      "a": "Enies Lobby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Warlord scatters the Straw Hats across the world at Sabaody?",
+      "a": "Bartholomew Kuma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Gol D. Roger's first mate and trains Luffy in Haki?",
+      "a": "Silvers Rayleigh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Whitebeard's Devil Fruit called?",
+      "a": "The Tremor-Tremor Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Warlord rules Dressrosa and fights with strings?",
+      "a": "Donquixote Doflamingo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sanji's family name, revealed during the Whole Cake arc?",
+      "a": "Vinsmoke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the scientist on Egghead island called?",
+      "a": "Dr. Vegapunk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which admiral has an ice power and was known as Aokiji?",
+      "a": "Kuzan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Luffy's technique of inflating his bones to giant size?",
+      "a": "Gear Third",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the world nobles who live on the Red Line called?",
+      "a": "Celestial Dragons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the sword Zoro inherited from his childhood friend Kuina?",
+      "a": "Wado Ichimonji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Nico Robin's Devil Fruit called?",
+      "a": "The Flower-Flower Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What landmark must ships climb to enter the Grand Line?",
+      "a": "Reverse Mountain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Kaya's butler who is secretly a pirate captain in Syrup Village?",
+      "a": "Kuro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Yonko whose real name is Charlotte Linlin?",
+      "a": "Big Mom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the system of seven government-allied pirates, abolished after Reverie?",
+      "a": "The Seven Warlords",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the continent-sized landmass that circles the globe and divides the seas?",
+      "a": "The Red Line",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kaido's crew called?",
+      "a": "The Beast Pirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the Fleet Admiral before Akainu?",
+      "a": "Sengoku",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Luffy's shadow-stealing enemy on Thriller Bark?",
+      "a": "Gecko Moria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what town was Gol D. Roger publicly executed?",
+      "a": "Loguetown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sea called between Skypiea and the Blue Sea, the region under the clouds?",
+      "a": "The White Sea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the pirate crew Jinbe captained before joining the Straw Hats?",
+      "a": "The Sun Pirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Luffy's basic stretching punch, 'Gum-Gum ___'?",
+      "a": "Pistol",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What martial art does Jinbe use?",
+      "a": "Fish-Man Karate",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is Haki?",
@@ -428,6 +1148,376 @@
       "q": "What title is given to the four most powerful pirates?",
       "a": "The Yonko",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What Warlord is known as the Tyrant and rules Dressrosa?",
+      "a": "Doflamingo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancient weapon is said to be Princess Shirahoshi?",
+      "a": "Poseidon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who trained Luffy for two years on Rusukaina Island?",
+      "a": "Silvers Rayleigh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Yonko is known as the Strongest Creature in the World?",
+      "a": "Kaido",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Roger's wife?",
+      "a": "Portgas D. Rouge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long did Rouge carry Ace in the womb?",
+      "a": "20 months",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island was Ace born on?",
+      "a": "Baterilla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who raised Ace as a child?",
+      "a": "Dadan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What mountain did Luffy and Ace train on?",
+      "a": "Mt. Colubo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Rayleigh's title?",
+      "a": "Dark King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Rayleigh train Luffy during the timeskip?",
+      "a": "Rusukaina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Roger's ship?",
+      "a": "Oro Jackson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who built the Oro Jackson?",
+      "a": "Tom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Franky's real name?",
+      "a": "Cutty Flam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ship design did Tom also build?",
+      "a": "Sea Train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sea train is famous in Water 7?",
+      "a": "Puffing Tom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Vegapunk satellites exist?",
+      "a": "Six",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Vegapunk's 'Punk-01'?",
+      "a": "Shaka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Vegapunk's 'Punk-02'?",
+      "a": "Lilith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island is Vegapunk's lab on?",
+      "a": "Egghead",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is York?",
+      "a": "Punk-06",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who betrays Vegapunk on Egghead?",
+      "a": "York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon class is Pluton?",
+      "a": "Ancient Weapon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Poseidon in the current era?",
+      "a": "Shirahoshi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Shirahoshi's species?",
+      "a": "Mermaid princess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Fish-Man Island king?",
+      "a": "Neptune",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Queen Otohime?",
+      "a": "Shirahoshi's mother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who assassinated Queen Otohime?",
+      "a": "Hody Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Doflamingo's birth place?",
+      "a": "Mariejois",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Celestial Dragons' real name?",
+      "a": "World Nobles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ancestors are the Celestial Dragons descended from?",
+      "a": "20 Founding Kings",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Empty Throne?",
+      "a": "Symbol of World Government",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sits behind the Empty Throne?",
+      "a": "Im",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the Five Elders called?",
+      "a": "Gorosei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Gorosei member Saturn's role?",
+      "a": "Warrior God",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many Gorosei members exist?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Crocodile?",
+      "a": "Former Warlord",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Crocodile's Devil Fruit?",
+      "a": "Sand-Sand Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number was Robin in Baroque Works?",
+      "a": "Miss All Sunday",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the capital of Alabasta?",
+      "a": "Alubarna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the king of Alabasta?",
+      "a": "Cobra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Vivi?",
+      "a": "Princess of Alabasta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Vivi's pet?",
+      "a": "Carue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal species is Carue?",
+      "a": "Spot-Billed duck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Pell's Devil Fruit?",
+      "a": "Bird-Bird Fruit Falcon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Chaka in Alabasta?",
+      "a": "Royal guard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Katakuri's Devil Fruit?",
+      "a": "Mochi-Mochi Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Blackbeard's original Devil Fruit?",
+      "a": "The Dark-Dark Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Whitebeard's ship?",
+      "a": "Moby Dick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mihawk's giant black sword?",
+      "a": "Yoru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the cursed sword Zoro picks up in Loguetown?",
+      "a": "Sandai Kitetsu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What island is Luffy's home village on?",
+      "a": "Dawn Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nami's adoptive mother, killed by Arlong?",
+      "a": "Bellemere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Nami's older sister?",
+      "a": "Nojiko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was the self-proclaimed god of Skypiea with a lightning fruit?",
+      "a": "Enel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the government's secret assassin unit at Enies Lobby?",
+      "a": "CP9",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crew was Brook part of before he died and returned as a skeleton?",
+      "a": "The Rumbar Pirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Trafalgar Law's crew?",
+      "a": "The Heart Pirates",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Kaido's child who idolizes Oden?",
+      "a": "Yamato",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the scientist with a gas fruit on Punk Hazard?",
+      "a": "Caesar Clown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant duck Vivi rides?",
+      "a": "Karoo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ballerina okama who befriends the Straw Hats and sacrifices himself in Impel Down?",
+      "a": "Bon Clay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the shipwright company Franky worked for in Water 7?",
+      "a": "Galley-La",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Marine friend Koby trains alongside under Garp?",
+      "a": "Helmeppo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the doctor who raised Chopper and dreamed of blooming cherry blossoms?",
+      "a": "Dr. Hiriluk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the windless, Sea King-filled seas that flank the Grand Line called?",
+      "a": "The Calm Belt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the holy city of the World Government atop the Red Line?",
+      "a": "Mary Geoise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Sanji's family's military organization?",
+      "a": "Germa 66",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Doflamingo's Devil Fruit?",
+      "a": "The String-String Fruit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jinbe's previous captain, the fish-man who founded the Sun Pirates?",
+      "a": "Fisher Tiger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which mink race island lives on the back of a giant elephant?",
+      "a": "Zou",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Thousand Sunny's giant energy blast weapon?",
+      "a": "Gaon Cannon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which admiral known as Kizaru has the power of light?",
+      "a": "Borsalino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What village did Zoro train in as a child, sharing a dojo with Kuina?",
+      "a": "Shimotsuki Village",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the true nature of the Gomu Gomu no Mi?",

@@ -1,0 +1,1183 @@
+{
+  "200": [
+    {
+      "q": "Act out this scenario!",
+      "a": "USA",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "China",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Japan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "France",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Italy",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Mexico",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Brazil",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Australia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Germany",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "United Kingdom",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Canada",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "India",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Russia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Spain",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Egypt",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Greece",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Turkey",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Thailand",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "South Korea",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Argentina",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Netherlands",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Ireland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Switzerland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sweden",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Norway",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Portugal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Saudi Arabia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "UAE",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "South Africa",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "New Zealand",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Kuwait",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Vietnam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Morocco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Philippines",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Malaysia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Cuba",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Jamaica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Iceland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Colombia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Chile",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Peru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Finland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Romania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Poland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Hungary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "North Korea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Vatican City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Monaco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Maldives",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Bahamas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Barbados",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Luxembourg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Malta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Cyprus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Serbia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Albania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Rwanda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Namibia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Botswana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Zambia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Somalia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Mauritius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Seychelles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Belize",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "El Salvador",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Tonga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Cameroon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Ivory Coast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Lithuania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Andorra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Liechtenstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Democratic Republic of the Congo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Kazakhstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Costa Rica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Panama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Fiji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Kuwait",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Trinidad and Tobago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Dominican Republic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Ecuador",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Samoa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Uruguay",
+      "file": "qualityBackfill"
+    }
+  ],
+  "400": [
+    {
+      "q": "Act out this scenario!",
+      "a": "Austria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Belgium",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Finland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Denmark",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Poland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Iran",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Vietnam",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Indonesia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Philippines",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Colombia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Peru",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Chile",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Venezuela",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Malaysia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Singapore",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Pakistan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Bangladesh",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Nigeria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Kenya",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Morocco",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Ethiopia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Israel",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Ukraine",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Romania",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Czech Republic",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Hungary",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cuba",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Jamaica",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Iceland",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Croatia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Slovakia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Slovenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Bulgaria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Armenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Georgia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Kazakhstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Afghanistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Panama",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Ghana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Senegal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Uzbekistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Mongolia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Nepal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Sri Lanka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Mali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Mozambique",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Angola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Kyrgyzstan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Turkmenistan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Moldova",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Montenegro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Bosnia and Herzegovina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "North Macedonia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "San Marino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Grenada",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Saint Lucia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Antigua and Barbuda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Suriname",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Guyana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Vanuatu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Palau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Malawi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Lesotho",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Eswatini",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Sierra Leone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Liberia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Benin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Gambia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Cape Verde",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Eritrea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Djibouti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Niger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Chad",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Burkina Faso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Armenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Papua New Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Paraguay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Bulgaria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Slovakia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Slovenia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Laos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Brunei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Guatemala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Honduras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Nicaragua",
+      "file": "qualityBackfill"
+    }
+  ],
+  "600": [
+    {
+      "q": "Act out this scenario!",
+      "a": "Lebanon",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Cambodia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Myanmar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Uzbekistan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Azerbaijan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tajikistan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Mongolia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Bhutan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Nepal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sri Lanka",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Iraq",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Syria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Jordan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Yemen",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Oman",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Qatar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Bahrain",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Ghana",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Senegal",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Sudan",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Zimbabwe",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tanzania",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Uganda",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Madagascar",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Algeria",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Tunisia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Libya",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Belarus",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Estonia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act out this scenario!",
+      "a": "Latvia",
+      "file": "newCategoriesBank"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Paraguay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Uruguay",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Ecuador",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Bolivia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Honduras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Guatemala",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Nicaragua",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Costa Rica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Dominican Republic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Haiti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Trinidad and Tobago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Fiji",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Papua New Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Samoa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Brunei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act it out — no talking, no sounds!",
+      "a": "Laos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Timor-Leste",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Solomon Islands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Kiribati",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Tuvalu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Nauru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Marshall Islands",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Micronesia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Dominica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Saint Kitts and Nevis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Saint Vincent and the Grenadines",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Togo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Mauritania",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Gabon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Central African Republic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Equatorial Guinea",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Burundi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Comoros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Sao Tome and Principe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "Guinea-Bissau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Act out this country!",
+      "a": "South Sudan",
+      "file": "qualityBackfill"
+    }
+  ]
+}

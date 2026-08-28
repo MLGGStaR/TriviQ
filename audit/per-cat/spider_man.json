@@ -121,6 +121,291 @@
       "file": "triviaMegaExpansions"
     },
     {
+      "q": "What creature bites Peter to give him his powers?",
+      "a": "A spider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Spider-Man in the MCU?",
+      "a": "Tom Holland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Spider-Man in The Amazing Spider-Man films?",
+      "a": "Andrew Garfield",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Spider-Man in the Sam Raimi trilogy?",
+      "a": "Tobey Maguire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mary Jane in the Raimi films?",
+      "a": "Kirsten Dunst",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Gwen Stacy in The Amazing Spider-Man?",
+      "a": "Emma Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aunt May in the MCU Spider-Man films?",
+      "a": "Marisa Tomei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays J. Jonah Jameson?",
+      "a": "J.K. Simmons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Gwen Stacy in Into the Spider-Verse?",
+      "a": "Hailee Steinfeld",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal bit Peter Parker to give him powers?",
+      "a": "Spider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What ability lets Spider-Man detect danger?",
+      "a": "Spider-sense",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Spider-Man use to swing between buildings?",
+      "a": "Webs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What borough is Miles Morales from?",
+      "a": "Brooklyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the first Spider-Man film with Tobey Maguire release?",
+      "a": "2002",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Venom's skin?",
+      "a": "Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Peter photograph for the Daily Bugle?",
+      "a": "Spider-Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mary Jane's nickname?",
+      "a": "MJ",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Harry Osborn in the Raimi films?",
+      "a": "James Franco",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Norman Osborn in the Raimi films?",
+      "a": "Willem Dafoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Doctor Octopus in Spider-Man 2?",
+      "a": "Alfred Molina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sandman in Spider-Man 3?",
+      "a": "Thomas Haden Church",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Electro in The Amazing Spider-Man 2?",
+      "a": "Jamie Foxx",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state does Peter Parker live in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter Parker's best friend in the MCU?",
+      "a": "Ned",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ned Leeds in the MCU?",
+      "a": "Jacob Batalon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villain flies on a glider?",
+      "a": "Green Goblin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What landmark does Peter often swing from in New York?",
+      "a": "Empire State Building",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What comic publisher owns Spider-Man?",
+      "a": "Marvel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Spider-Man with Steve Ditko?",
+      "a": "Stan Lee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Spider-Man first appear in comics?",
+      "a": "1962",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what comic did Spider-Man debut?",
+      "a": "Amazing Fantasy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue of Amazing Fantasy was his debut?",
+      "a": "Fifteen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who bit Peter Parker to give him powers?",
+      "a": "Radioactive spider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What famous line does Uncle Ben tell Peter?",
+      "a": "Great responsibility",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed the 2002 Spider-Man movie?",
+      "a": "Sam Raimi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays MJ in the MCU Spider-Man?",
+      "a": "Zendaya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the MCU MJ's real name?",
+      "a": "Michelle Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aunt May in Raimi's films?",
+      "a": "Rosemary Harris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Uncle Ben in the 2002 film?",
+      "a": "Cliff Robertson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Spider-Man's signature web-slinging tool called?",
+      "a": "Web-shooters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Spider-Man's classic suit?",
+      "a": "Red and blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Spider-Man from?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Green Goblin in 2002?",
+      "a": "Willem Dafoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What symbiote villain wears a black suit?",
+      "a": "Venom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Venom in the 2018 film?",
+      "a": "Tom Hardy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Mysterio in Far From Home?",
+      "a": "Jake Gyllenhaal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Vulture in Homecoming?",
+      "a": "Michael Keaton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Spider-Man: Into the Spider-Verse's main character?",
+      "a": "Miles Morales",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Miles Morales?",
+      "a": "Shameik Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Marvel team does Spider-Man often work with?",
+      "a": "Avengers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Spider-Man: Homecoming release?",
+      "a": "2017",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Into the Spider-Verse release?",
+      "a": "2018",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Spider-Man's tech mentor in the MCU?",
+      "a": "Tony Stark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Into the Spider-Verse?",
+      "a": "Persichetti Ramsey Rothman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Across the Spider-Verse release?",
+      "a": "2023",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What school does Peter Parker attend in the MCU?",
+      "a": "Midtown High",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What MCU movie featured three Spider-Men?",
+      "a": "No Way Home",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What high-tech suit does Peter wear in Infinity War?",
       "a": "The Iron Spider suit",
       "file": "questionRefinements"
@@ -323,6 +608,331 @@
       "file": "triviaTierParityExpansions"
     },
     {
+      "q": "What hyphenated supervillain is made of living sand?",
+      "a": "Sandman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter's high school rival turned friend in the Raimi films?",
+      "a": "Harry Osborn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Flash Thompson in the MCU Spider-Man films?",
+      "a": "Tony Revolori",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Betty Brant in the MCU?",
+      "a": "Angourie Rice",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Liz Toomes in Homecoming?",
+      "a": "Laura Harrier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Shocker in Spider-Man: Homecoming?",
+      "a": "Bokeem Woodbine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tinkerer in Spider-Man: Homecoming?",
+      "a": "Michael Chernus",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lizard in The Amazing Spider-Man?",
+      "a": "Rhys Ifans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Harry Osborn in The Amazing Spider-Man 2?",
+      "a": "Dane DeHaan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rhino in The Amazing Spider-Man 2?",
+      "a": "Paul Giamatti",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aunt May in The Amazing Spider-Man films?",
+      "a": "Sally Field",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Captain Stacy in The Amazing Spider-Man?",
+      "a": "Denis Leary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Uncle Ben in The Amazing Spider-Man?",
+      "a": "Martin Sheen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays J. Jonah Jameson's secretary Betty Brant in the Raimi films?",
+      "a": "Elizabeth Banks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Curt Connors in the Raimi trilogy?",
+      "a": "Dylan Baker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Miles's father Jefferson in Into the Spider-Verse?",
+      "a": "Brian Tyree Henry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Peter B. Parker in Into the Spider-Verse?",
+      "a": "Jake Johnson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Spider-Ham?",
+      "a": "John Mulaney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Peni Parker?",
+      "a": "Kimiko Glenn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Spider-Man Noir?",
+      "a": "Nicolas Cage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Miguel O'Hara in Across the Spider-Verse?",
+      "a": "Oscar Isaac",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Jessica Drew in Across the Spider-Verse?",
+      "a": "Issa Rae",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Hobie Brown in Across the Spider-Verse?",
+      "a": "Daniel Kaluuya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hobie Brown's hero name?",
+      "a": "Spider-Punk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Pavitr Prabhakar's home city called?",
+      "a": "Mumbattan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Pavitr Prabhakar?",
+      "a": "Karan Soni",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Kingpin in Into the Spider-Verse?",
+      "a": "Liev Schreiber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Doc Ock in Into the Spider-Verse?",
+      "a": "Kathryn Hahn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Aunt May in Into the Spider-Verse?",
+      "a": "Lily Tomlin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Spider-Man: No Way Home?",
+      "a": "Jon Watts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed The Amazing Spider-Man (2012)?",
+      "a": "Marc Webb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What storyline features Gwen Stacy's death?",
+      "a": "Night Gwen Stacy Died",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bridge does Gwen die on in the comics?",
+      "a": "George Washington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bridge does Gwen die on in the movie?",
+      "a": "Brooklyn Bridge",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mary Jane's famous first comics line?",
+      "a": "Jackpot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What comic introduced Miles Morales?",
+      "a": "Ultimate Fallout",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Miles Morales introduced?",
+      "a": "2011",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created Miles Morales?",
+      "a": "Brian Michael Bendis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the artist who co-created Miles Morales?",
+      "a": "Sara Pichelli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Captain George Stacy's occupation?",
+      "a": "Police captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Spider-Man villain is a Russian hunter?",
+      "a": "Kraven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villain uses mechanical wings?",
+      "a": "Vulture",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villain is named Sergei Kravinoff?",
+      "a": "Kraven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Carnage's host?",
+      "a": "Cletus Kasady",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Carnage in the Venom sequel?",
+      "a": "Woody Harrelson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Far From Home release?",
+      "a": "2019",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did No Way Home release?",
+      "a": "2021",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country does Peter visit in Far From Home?",
+      "a": "Italy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What suit does Tony Stark leave Peter in Far From Home?",
+      "a": "EDITH",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does EDITH stand for?",
+      "a": "Even Dead I'm The Hero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Happy Hogan?",
+      "a": "Jon Favreau",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Spider-Man 2 release?",
+      "a": "2004",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Spider-Man 3 release?",
+      "a": "2007",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the black symbiote suit storyline called?",
+      "a": "Black Suit Saga",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did The Amazing Spider-Man release?",
+      "a": "2012",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did The Amazing Spider-Man 2 release?",
+      "a": "2014",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Spider-Gwen's universe number?",
+      "a": "Earth-65",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the prime Marvel universe number?",
+      "a": "Earth-616",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Insomniac's Spider-Man game released?",
+      "a": "2018",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What console was the Insomniac game exclusive to?",
+      "a": "PlayStation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What actor voices Peter in Insomniac's Spider-Man?",
+      "a": "Yuri Lowenthal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Sony Spider-Man spinoff bombed in 2024?",
+      "a": "Madame Web",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who starred in Madame Web?",
+      "a": "Dakota Johnson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What spinoff villain starred Jared Leto?",
+      "a": "Morbius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Morbius release?",
+      "a": "2022",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What villains does Mysterio pretend are attacking Europe?",
       "a": "The Elementals",
       "file": "questionRefinements"
@@ -493,6 +1103,331 @@
       "q": "What school does Miles attend in Into the Spider-Verse?",
       "a": "Brooklyn Visions Academy",
       "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "What studio owns the film rights to Spider-Man?",
+      "a": "Sony Pictures",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices the Spot in Across the Spider-Verse?",
+      "a": "Jason Schwartzman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the 2018 animated Spider-Man film that won Best Animated Feature Oscar?",
+      "a": "Into the Spider-Verse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aaron Davis / The Prowler in Into the Spider-Verse?",
+      "a": "Mahershala Ali",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Miguel O'Hara's Spider-Society designation?",
+      "a": "Spider-Man 2099",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What comic issue first featured Spider-Man?",
+      "a": "Amazing Fantasy #15",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Spider-Man?",
+      "a": "Stan Lee and Steve Ditko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created Miles Morales?",
+      "a": "Brian Michael Bendis and Sara Pichelli",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Miles Morales's mother's profession?",
+      "a": "Nurse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Miles Morales's father's profession?",
+      "a": "Police officer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Peter Parker intern in The Amazing Spider-Man?",
+      "a": "Oscorp",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rajit Ratha in The Amazing Spider-Man?",
+      "a": "Irrfan Khan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kraven the Hunter in the 2024 film?",
+      "a": "Aaron Taylor-Johnson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Morbius?",
+      "a": "Jared Leto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Anne Weying in Venom?",
+      "a": "Michelle Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Carlton Drake in Venom?",
+      "a": "Riz Ahmed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Carlton Drake's symbiote identity?",
+      "a": "Riot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Venom (2018)?",
+      "a": "Ruben Fleischer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Venom: Let There Be Carnage?",
+      "a": "Andy Serkis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Shriek in Venom: Let There Be Carnage?",
+      "a": "Naomie Harris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Shriek's real name?",
+      "a": "Frances Barrison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Miguel O'Hara's AI assistant?",
+      "a": "Lyla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who voices Lyla in Across the Spider-Verse?",
+      "a": "Greta Lee",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number does Miles Morales's home universe carry in Across the Spider-Verse?",
+      "a": "1610",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What number is the main Marvel comics universe?",
+      "a": "616",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who pencilled Spider-Man after Steve Ditko left?",
+      "a": "John Romita Sr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue introduced the black Spider-Man suit?",
+      "a": "Secret Wars Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was the black suit introduced?",
+      "a": "1984",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Ben Reilly use as a hero?",
+      "a": "Scarlet Spider",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote The Night Gwen Stacy Died?",
+      "a": "Gerry Conway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Gwen Stacy die in comics?",
+      "a": "1973",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue was Gwen's death?",
+      "a": "Amazing Spider-Man 121",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Peter's daughter in alternate comics?",
+      "a": "Mayday Parker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mayday Parker's hero name?",
+      "a": "Spider-Girl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who writes Ultimate Spider-Man?",
+      "a": "Brian Michael Bendis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue introduced Venom?",
+      "a": "Amazing Spider-Man 300",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who drew Amazing Spider-Man 300?",
+      "a": "Todd McFarlane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Venom introduced?",
+      "a": "1988",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the creator of Venom as a character?",
+      "a": "David Michelinie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Carnage introduced?",
+      "a": "1991",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue introduced Carnage?",
+      "a": "Amazing Spider-Man 361",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Superior Spider-Man?",
+      "a": "Otto Octavius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Superior Spider-Man start?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote Superior Spider-Man?",
+      "a": "Dan Slott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What storyline saw Doc Ock swap minds with Peter?",
+      "a": "Dying Wish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What crossover features every Spider?",
+      "a": "Spider-Verse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Morlun's family name?",
+      "a": "Inheritors",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main villain of the Spider-Verse comic?",
+      "a": "Morlun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Peter's nephew who becomes a hero?",
+      "a": "Normie Osborn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Arachne in Marvel comics?",
+      "a": "Julia Carpenter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Spider-Woman's real name?",
+      "a": "Jessica Drew",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue debuted Spider-Woman?",
+      "a": "Marvel Spotlight 32",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Spider-Man 2099?",
+      "a": "Peter David",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the Kraven's Last Hunt storyline?",
+      "a": "J.M. DeMatteis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was Kraven's Last Hunt published?",
+      "a": "1987",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Kraven at the end of his Last Hunt?",
+      "a": "Suicide",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jackpot in Amazing Spider-Man comics?",
+      "a": "Sara Ehret",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Spider-Man character is Kaine Parker?",
+      "a": "Clone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Spider-Man Noir year setting?",
+      "a": "1933",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Spider-Verse character is Peni Parker from?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote the Spider-Man Blue limited series?",
+      "a": "Jeph Loeb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who drew Spider-Man Blue?",
+      "a": "Tim Sale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the original Spider-Man animated series's year?",
+      "a": "1967",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Spectacular Spider-Man cartoon start?",
+      "a": "2008",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What studio made the 1994 Spider-Man cartoon?",
+      "a": "Marvel",
+      "file": "qualityBackfill"
     },
     {
       "q": "What landmark becomes the final battlefield in No Way Home?",

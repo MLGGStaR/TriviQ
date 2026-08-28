@@ -106,8 +106,313 @@
       "file": "triviaMegaExpansions"
     },
     {
-      "q": "What is the name of the corporation that created the superheroes?",
+      "q": "What is the name of the team of vigilantes fighting the supes?",
+      "a": "The Boys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What streaming service airs The Boys?",
+      "a": "Amazon Prime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the blood of the main villain shown on screen?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Butcher, the leader of the vigilante group?",
+      "a": "Karl Urban",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Butcher originally from?",
+      "a": "England",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Hughie's girlfriend who dies in the first episode?",
+      "a": "Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe has super speed and appears translucent?",
+      "a": "A-Train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the underwater-themed Supe?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal does The Deep famously communicate with?",
+      "a": "Fish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hughie Campbell?",
+      "a": "Jack Quaid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the mute female member of the Boys?",
+      "a": "Kimiko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe is invisible and a pedophile?",
+      "a": "Translucent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Queen Maeve?",
+      "a": "Dominique McElligott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is Vought Tower located in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the female Supe modeled after Wonder Woman?",
+      "a": "Queen Maeve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created The Boys comic book the show is based on?",
+      "a": "Garth Ennis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the profession of Hughie Campbell when the show begins?",
+      "a": "Electronics salesman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe can shoot laser beams from their eyes?",
+      "a": "Homelander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Starlight?",
+      "a": "Erin Moriarty",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Starlight's costume?",
+      "a": "White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe is addicted to Compound V?",
+      "a": "A-Train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is the show primarily set in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Frenchie?",
+      "a": "Tomer Capone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the patriotic Supe's signature cape color?",
+      "a": "Red white blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Supe team competes with The Seven in season 3?",
+      "a": "Payback",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mother's Milk?",
+      "a": "Laz Alonso",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the boy genius Supe introduced in season 3?",
+      "a": "Supersonic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe has ice powers in The Seven?",
+      "a": "Ice Princess",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Madelyn Stillwell's employer?",
       "a": "Vought",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Madelyn Stillwell?",
+      "a": "Elisabeth Shue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Christian pop star turned Supe?",
+      "a": "Ezekiel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What type of superhero is A-Train based on?",
+      "a": "The Flash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What character is essentially a parody of Superman?",
+      "a": "Homelander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the reality show starring young Supes?",
+      "a": "American Hero",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what season does Soldier Boy debut?",
+      "a": "Season three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Vought's evil CEO in season 1?",
+      "a": "Stan Edgar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Supe joins The Seven as the first Black speedster?",
+      "a": "A-Train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Butcher typically carry?",
+      "a": "Crowbar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the lightning-powered Supe killed by Homelander?",
+      "a": "Stormfront",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Homelander call his biggest fan?",
+      "a": "Butcher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the movie featuring the Seven in-universe?",
+      "a": "Dawn of the Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is A-Train's real first name?",
+      "a": "Reggie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of shop does Hughie work at when the series begins?",
+      "a": "Electronics store",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What power does Hughie gain when he takes Temp V?",
+      "a": "Teleportation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which departing member of the Seven did Starlight replace?",
+      "a": "Lamplighter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which country secretly held Soldier Boy captive for decades?",
+      "a": "Russia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What beverage is Homelander shown compulsively drinking?",
+      "a": "Milk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Vought executive does Homelander have an obsessive attachment to in season 1?",
+      "a": "Madelyn Stillwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which US intelligence agency originally ran the Boys as a covert unit?",
+      "a": "CIA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What secret ability does Victoria Neuman use to kill people?",
+      "a": "Exploding heads",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What effect does Soldier Boy's chest blast have on supes it hits?",
+      "a": "Removes their powers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Homelander use to kill a protester who throws a can at Ryan in the season 3 finale?",
+      "a": "Laser eyes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Black Noir in the season 3 finale?",
+      "a": "Homelander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city did Billy Butcher grow up?",
+      "a": "London",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nationality was Stormfront born?",
+      "a": "German",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the spin-off series set at a superhero university?",
+      "a": "Gen V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of the Boys ends season 3 learning that Temp V has left him with a fatal condition?",
+      "a": "Butcher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of the Seven sexually assaults Starlight in the first episode?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which US city is the series set?",
+      "a": "New York City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of the Seven joins Homelander in abandoning a hijacked plane in season 1?",
+      "a": "Queen Maeve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is printed on Homelander's cape?",
+      "a": "The American flag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Seven member's Compound V abuse damages his heart?",
+      "a": "A-Train",
       "file": "qualityBackfill"
     },
     {
@@ -271,6 +576,361 @@
       "q": "What secret chemical gives supes their powers?",
       "a": "Compound V",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is Frenchie's role on The Boys team?",
+      "a": "Weapons and chemistry expert",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What country is Kimiko originally from?",
+      "a": "Japan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Homelander's birth name?",
+      "a": "John",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe was Butcher's wife raped by?",
+      "a": "Homelander",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Nazi Supe revealed in season 2?",
+      "a": "Stormfront",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Stormfront?",
+      "a": "Aya Cash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What decade was Stormfront originally active as a Supe?",
+      "a": "1940s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body part of Translucent does Hughie plant a bomb in?",
+      "a": "Rectum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What small cetacean does The Deep accidentally kill in season 1?",
+      "a": "Dolphin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Frenchie's transgender friend?",
+      "a": "Cherie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which terrorist organization was Kimiko once part of?",
+      "a": "Shining Light",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs the in-universe Seven movie?",
+      "a": "Adam Bourke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Starlight's mother?",
+      "a": "Donna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Supe with elastic limbs in season 3?",
+      "a": "Gunpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode is Herogasm introduced?",
+      "a": "Season three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Supe name of the former child star who joins The Seven?",
+      "a": "Starlight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What organization does Grace Mallory work for?",
+      "a": "CIA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Grace Mallory?",
+      "a": "Laila Robins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease does Soldier Boy's compound cause?",
+      "a": "Radiation poisoning",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What decade did Soldier Boy go missing?",
+      "a": "1980s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Russian weapon traps Soldier Boy for decades?",
+      "a": "Cryogenic chamber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many doses of Temp V kills the user?",
+      "a": "Five",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ryan's mother?",
+      "a": "Becca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of Payback is a Vietnam veteran?",
+      "a": "Gunpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Translucent's body after he dies?",
+      "a": "Explodes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Supe is addicted to crystal meth in the comics but cocaine in the show?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Church of the Collective?",
+      "a": "Alastair Adana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What religion is the Church of the Collective based on?",
+      "a": "Scientology",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of A-Train's brother?",
+      "a": "Nathan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Supe event does A-Train host annually?",
+      "a": "Run",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Black Noir revealed to be allergic to?",
+      "a": "Almonds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Black Noir in season 3's finale?",
+      "a": "Killed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Vought talent manager?",
+      "a": "Ashley Barrett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ashley?",
+      "a": "Colby Minifie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Homelander's personal assistant after Madelyn?",
+      "a": "Ashley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe dies in the Herogasm episode at Soldier Boy's hand?",
+      "a": "Gunpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle does Butcher blow up to fake his death?",
+      "a": "Boat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What food does Homelander famously eat on TV to prove his humanity?",
+      "a": "Pizza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Supe sleeps with an octopus in season 3?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of The Deep's wife in season 3?",
+      "a": "Cassandra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Homelander do on live television at the end of season 3?",
+      "a": "Laser kills protestor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language does Frenchie teach Kimiko to communicate with?",
+      "a": "Sign language",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Butcher's estranged brother?",
+      "a": "Lenny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is The Deep's real first name?",
+      "a": "Kevin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of the Seven becomes a secret informant for the Boys in season 4?",
+      "a": "A-Train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose accidental laser blast kills Becca in season 2?",
+      "a": "Ryan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which writer created the comic series the show adapts?",
+      "a": "Garth Ennis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of Vought's big-budget superhero movie being filmed in season 3?",
+      "a": "Dawn of the Seven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which supe siblings host Herogasm?",
+      "a": "TNT Twins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In the pilot, Homelander lasers the private jet of the mayor of which city?",
+      "a": "Baltimore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which supe with retractable claws is A-Train's girlfriend in season 1?",
+      "a": "Popclaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which supe is Starlight caught on camera beating up in season 4?",
+      "a": "Firecracker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which racist supe does A-Train drag to his death using his speed in season 3?",
+      "a": "Blue Hawk",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What bursts out of Butcher's body to kill Victoria Neuman in the season 4 finale?",
+      "a": "Tentacles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What girl-power slogan does Vought push for Starlight, Maeve and Stormfront in season 2?",
+      "a": "Girls Get It Done",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What piece of equipment does Soldier Boy carry into battle?",
+      "a": "A shield",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What breed is Butcher's dog Terror?",
+      "a": "Bulldog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which former Nazi scientist invented Compound V and founded the company that sells supes?",
+      "a": "Frederick Vought",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Queen Maeve's girlfriend?",
+      "a": "Elena",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Gen V, what bodily substance does Marie Moreau control as her power?",
+      "a": "Blood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At what event does Starlight publicly reveal that she was sexually assaulted?",
+      "a": "Believe Expo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state is Soldier Boy left in at the end of season 3?",
+      "a": "Cryogenic sleep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What title does Homelander publicly give Starlight at the start of season 3?",
+      "a": "Co-captain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the cable channel that broadcasts Homelander's propaganda?",
+      "a": "Vought News Network",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the animated anthology spin-off released in 2022?",
+      "a": "The Boys Presents: Diabolical",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Batman-style supe hosts a fetish party and is smothered by his butler in season 4?",
+      "a": "Tek Knight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Hughie's mother inject his comatose father with in season 4?",
+      "a": "Compound V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which singer-songwriter is Hughie obsessed with?",
+      "a": "Billy Joel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Starlight absorb from her surroundings to power her light blasts?",
+      "a": "Electricity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which member of the Seven does Sister Sage have a fling with in season 4?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Whose birthday does Vought turn into a live TV special in season 3?",
+      "a": "Homelander",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the V24 compound?",
@@ -450,13 +1110,373 @@
       "file": "triviaTierFinalTopoffExpansions"
     },
     {
-      "q": "Who played Soldier Boy in season 3?",
-      "a": "Jensen Ackles",
+      "q": "What is the name of Butcher's brother?",
+      "a": "Lenny Butcher",
       "file": "qualityBackfill"
     },
     {
-      "q": "What is the name of the leader of Payback, the original super team?",
+      "q": "What year was Vought International founded?",
+      "a": "1939",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of the Supe who raped Starlight as a teen audition?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what season 2 episode does Stormfront die?",
+      "a": "Finale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body parts does Ryan laser off Stormfront?",
+      "a": "Limbs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the drug Frenchie gets addicted to?",
+      "a": "Heroin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Mother's Milk's grandfather hold a grudge against?",
       "a": "Soldier Boy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Mother's Milk's ex-wife?",
+      "a": "Monique",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mother's Milk's daughter's name?",
+      "a": "Janine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug is Mother's Milk allergic to?",
+      "a": "Dairy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the in-universe Starlight autobiography?",
+      "a": "Born of Light",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the compound created to kill Homelander?",
+      "a": "Novichok V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Supe can control water telekinetically as a side power?",
+      "a": "The Deep",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Russian drug does Little Nina deal?",
+      "a": "Novichok V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stan Edgar's daughter's name?",
+      "a": "Victoria Neuman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Neuman's Supe ability?",
+      "a": "Head exploding",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Victoria Neuman?",
+      "a": "Claudia Doumit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Congressman is revealed as Neuman's target in season 2?",
+      "a": "Jonah Vogelbaum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jonah Vogelbaum?",
+      "a": "John Doman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jonah Vogelbaum's position at Vought?",
+      "a": "Chief scientist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What cape color was Soldier Boy's original costume?",
+      "a": "Green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Soldier Boy use against Homelander in the finale?",
+      "a": "Energy blast",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Soldier Boy stored at the end of season 3?",
+      "a": "Cryogenic storage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Homelander's former creator and father figure?",
+      "a": "Jonah Vogelbaum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What movie parody is Dawn of the Seven?",
+      "a": "Justice League",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What director replaces Bourke on Dawn of the Seven reshoots?",
+      "a": "Joss Whedon parody",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Starlight's ex-boyfriend who becomes Supersonic?",
+      "a": "Alex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Supersonic?",
+      "a": "Miles Gutierrez-Riley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Supersonic die?",
+      "a": "Homelander kills",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What room does Homelander kill Supersonic in?",
+      "a": "Vought conference room",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Teenage Kix member killed by Butcher?",
+      "a": "Popclaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Popclaw die?",
+      "a": "Compound V overdose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Popclaw dating at the time of her death?",
+      "a": "A-Train",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Russian weapon is a super gun used against Homelander?",
+      "a": "Novichok V",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Homelander debut publicly as a Supe?",
+      "a": "1980s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the priest-Supe who attacks Starlight?",
+      "a": "Ezekiel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Supe blackmails Ezekiel with video evidence?",
+      "a": "Hughie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stormfront's real name?",
+      "a": "Klara Risinger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the number of the hijacked plane that Homelander and Maeve abandon in season 1?",
+      "a": "Flight 37",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Hughie's mother, who returns in season 4?",
+      "a": "Daphne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Madelyn Stillwell's baby?",
+      "a": "Teddy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Soldier Boy's real first name?",
+      "a": "Ben",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In season 4, which old CIA friend of Butcher's turns out to be a hallucination?",
+      "a": "Joe Kessler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the octopus The Deep is in a relationship with in season 4?",
+      "a": "Ambrosius",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the octopus Homelander forces The Deep to eat in season 3?",
+      "a": "Timothy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Gen V, what is the secret facility beneath Godolkin University called?",
+      "a": "The Woods",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which CIA Deputy Director's head explodes in season 2?",
+      "a": "Susan Raynor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Victoria Neuman's daughter?",
+      "a": "Zoe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Vought publicist is promoted to CEO after Stan Edgar is removed?",
+      "a": "Ashley Barrett",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which washed-up former child-star supe can read minds by touch in season 1?",
+      "a": "Mesmer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which shapeshifting supe does Homelander have impersonate Madelyn Stillwell?",
+      "a": "Doppelganger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which terrorist group kidnapped Kimiko and her brother as children?",
+      "a": "Shining Light Liberation Army",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What government office does Hughie work for at the start of season 3?",
+      "a": "Federal Bureau of Superhuman Affairs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which politician wins the presidential election in season 4?",
+      "a": "Robert Singer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the whale that Butcher rams a speedboat through in season 2?",
+      "a": "Lucy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "To which Ohio city is The Deep exiled in season 1?",
+      "a": "Sandusky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which supe burned Grace Mallory's grandchildren alive?",
+      "a": "Lamplighter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Vought News Network's lead anchor?",
+      "a": "Cameron Coleman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Russian mob boss did Frenchie once work for?",
+      "a": "Little Nina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which former sidekick of Soldier Boy does he kill at a gun show in season 3?",
+      "a": "Gunpowder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Payback member with psychic powers puts Butcher into a coma in season 3?",
+      "a": "Mindstorm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Vought theme park the Boys visit in season 3?",
+      "a": "Voughtland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alliterative rebrand does Vought give its outed lesbian Seven member?",
+      "a": "Brave Maeve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of The Deep's memoir?",
+      "a": "Deeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the real first name of the original Black Noir?",
+      "a": "Earving",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which spider-themed supe does Hughie impersonate to infiltrate Tek Knight's party in season 4?",
+      "a": "Webweaver",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In Gen V, what is Emma Meyer's hero name?",
+      "a": "Little Cricket",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Butcher's abusive father?",
+      "a": "Sam",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the very first episode of The Boys?",
+      "a": "The Name of the Game",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the showrunner of The Boys?",
+      "a": "Eric Kripke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What procedure does Sister Sage give herself to get a break from her intellect?",
+      "a": "A lobotomy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Frenchie's on-and-off lover and fellow criminal?",
+      "a": "Cherie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Annie's charity for at-risk youth in season 4?",
+      "a": "Starlight House",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which self-duplicating supe is Firecracker's devoted assistant in season 4?",
+      "a": "Splinter",
       "file": "qualityBackfill"
     },
     {

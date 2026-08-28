@@ -46,6 +46,311 @@
       "file": "megaNewExpansions"
     },
     {
+      "q": "Who played Rose in Titanic?",
+      "a": "Kate Winslet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Jaws'?",
+      "a": "Steven Spielberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did 'The Godfather' release?",
+      "a": "1972",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs the 'Kill Bill' films?",
+      "a": "Quentin Tarantino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What 1997 film features a sinking ship?",
+      "a": "Titanic",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rocky Balboa?",
+      "a": "Sylvester Stallone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the line 'I'll be back'?",
+      "a": "The Terminator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color pill does Neo take in 'The Matrix'?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote and directed 'Avatar'?",
+      "a": "James Cameron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features a shark named Bruce?",
+      "a": "Jaws",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the highest-grossing film of 2019?",
+      "a": "Avengers: Endgame",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first Marvel Cinematic Universe film?",
+      "a": "Iron Man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the quote 'Here's looking at you, kid'?",
+      "a": "Casablanca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the main actor of 'Braveheart'?",
+      "a": "Mel Gibson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the Wicked Witch of the West?",
+      "a": "The Wizard of Oz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Christopher Nolan film involves dream layers?",
+      "a": "Inception",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directs 'The Shawshank Redemption'?",
+      "a": "Frank Darabont",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film trilogy is set in a galaxy far, far away?",
+      "a": "Star Wars",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Captain America?",
+      "a": "Chris Evans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boxing film starring Michael B. Jordan?",
+      "a": "Creed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Harry Potter?",
+      "a": "Daniel Radcliffe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which horror movie features Pennywise the clown?",
+      "a": "It",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the prequel trilogy's first film in Star Wars?",
+      "a": "The Phantom Menace",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the dinosaur T-Rex attack scene?",
+      "a": "Jurassic Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Spider-Man in the MCU?",
+      "a": "Tom Holland",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which comic-con hero did Ryan Reynolds play?",
+      "a": "Deadpool",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features Andy Dufresne escaping prison?",
+      "a": "The Shawshank Redemption",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the lead in 'The Notebook'?",
+      "a": "Ryan Gosling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the director of 'Psycho' (1960)?",
+      "a": "Alfred Hitchcock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2008 film has the Joker rob a bank?",
+      "a": "The Dark Knight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Tony Stark?",
+      "a": "Robert Downey Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the quote 'Houston, we have a problem'?",
+      "a": "Apollo 13",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Finding Nemo', what kind of fish is Nemo?",
+      "a": "Clownfish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the princess in 'Tangled'?",
+      "a": "Rapunzel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city is 'Home Alone' mostly set?",
+      "a": "Chicago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ring-obsessed creature in 'The Lord of the Rings'?",
+      "a": "Gollum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dinosaur is the main predator in the first 'Jurassic Park'?",
+      "a": "T. rex",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Wizard of Oz', what is Dorothy's dog called?",
+      "a": "Toto",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the lion in 'The Chronicles of Narnia'?",
+      "a": "Aslan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Cars', what is the name of the red race car?",
+      "a": "Lightning McQueen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which US city is 'Rocky' set?",
+      "a": "Philadelphia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the hotel in 'Home Alone 2'?",
+      "a": "The Plaza",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1985 film features a DeLorean time machine?",
+      "a": "Back to the Future",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Kung Fu Panda', what is the panda's name?",
+      "a": "Po",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional African country in 'Black Panther'?",
+      "a": "Wakanda",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the Ghostface killer?",
+      "a": "Scream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boy in 'How to Train Your Dragon'?",
+      "a": "Hiccup",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Titanic', what is the name of the necklace?",
+      "a": "Heart of the Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in 'The Lion King'?",
+      "a": "Scar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Zootopia', what animal is Judy Hopps?",
+      "a": "Rabbit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the shark-hunting boat in 'Jaws'?",
+      "a": "Orca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Ratatouille', what is the name of the rat?",
+      "a": "Remy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the green ogre's wife in 'Shrek'?",
+      "a": "Fiona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fairy in 'Peter Pan'?",
+      "a": "Tinker Bell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in 'Aladdin'?",
+      "a": "Jafar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Madagascar', what animal is Alex?",
+      "a": "Lion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Monsters, Inc.', what is the little girl called?",
+      "a": "Boo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Moana', what is the name of the demigod?",
+      "a": "Maui",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of animal is Sid in 'Ice Age'?",
+      "a": "Sloth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the bear in 'The Jungle Book'?",
+      "a": "Baloo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which 1995 film does a jungle board game come to life?",
+      "a": "Jumanji",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Director of The Godfather?",
       "a": "Francis Ford Coppola",
       "file": "App.jsx"
@@ -256,6 +561,436 @@
       "q": "What animated film features the song 'Let It Go'?",
       "a": "Frozen",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who directed Reservoir Dogs?",
+      "a": "Quentin Tarantino",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Vito Corleone in The Godfather Part II?",
+      "a": "Robert De Niro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Goodfellas?",
+      "a": "Martin Scorsese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who won Best Actress for La La Land?",
+      "a": "Emma Stone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who won Best Actor for 'There Will Be Blood'?",
+      "a": "Daniel Day-Lewis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the director of 'La La Land'?",
+      "a": "Damien Chazelle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which French film won Best Foreign Language Oscar in 2002 (2001 release)?",
+      "a": "No Man's Land",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote 'No Country for Old Men'?",
+      "a": "Cormac McCarthy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Apocalypse Now'?",
+      "a": "Francis Ford Coppola",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed the score for 'Star Wars'?",
+      "a": "John Williams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Raging Bull'?",
+      "a": "Martin Scorsese",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor won Best Actor for 'Capote'?",
+      "a": "Philip Seymour Hoffman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Japanese film by Akira Kurosawa inspired 'The Magnificent Seven'?",
+      "a": "Seven Samurai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Black Swan'?",
+      "a": "Darren Aronofsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film won Best Picture in 1994?",
+      "a": "Forrest Gump",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Memento'?",
+      "a": "Christopher Nolan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Atticus Finch in 'To Kill a Mockingbird'?",
+      "a": "Gregory Peck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1999 film stars Brad Pitt and Edward Norton with secret clubs?",
+      "a": "Fight Club",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Truman Show'?",
+      "a": "Peter Weir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor led 'Whiplash' (2014)?",
+      "a": "Miles Teller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Birdman'?",
+      "a": "Alejandro Gonzalez Inarritu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film launched Quentin Tarantino's directing career in 1992?",
+      "a": "Reservoir Dogs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Fargo' (1996)?",
+      "a": "Coen Brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is the setting of 'Chinatown' (1974)?",
+      "a": "Los Angeles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Moonlight' (2016)?",
+      "a": "Barry Jenkins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film first used the IMAX 65mm format for major release?",
+      "a": "The Dark Knight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the director of 'Mad Max: Fury Road' (2015)?",
+      "a": "George Miller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2000 film won Best Picture?",
+      "a": "Gladiator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Big Lebowski'?",
+      "a": "Coen Brothers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Akira Kurosawa film is about a dying bureaucrat?",
+      "a": "Ikiru",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played the lead in 'Schindler's List'?",
+      "a": "Liam Neeson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'City of God'?",
+      "a": "Fernando Meirelles",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Jean-Luc Godard film popularized jump cuts?",
+      "a": "Breathless",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played the lead in 'Her' (2013)?",
+      "a": "Joaquin Phoenix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Amelie'?",
+      "a": "Jean-Pierre Jeunet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which studio produced 'Mad Max: Fury Road'?",
+      "a": "Warner Bros.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Stanley Kubrick's film about AI spaceship HAL?",
+      "a": "2001: A Space Odyssey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played John McClane in 'Die Hard'?",
+      "a": "Bruce Willis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the character Jules and Vincent?",
+      "a": "Pulp Fiction",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Social Network'?",
+      "a": "David Fincher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film is based on the novel by Patricia Highsmith about ripley?",
+      "a": "The Talented Mr. Ripley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mr. White in 'Reservoir Dogs'?",
+      "a": "Harvey Keitel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1995 Pixar film broke new ground in CGI?",
+      "a": "Toy Story",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Annie Hall'?",
+      "a": "Woody Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the fatherly mentor Mickey in 'Rocky'?",
+      "a": "Burgess Meredith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Italian film by Roberto Benigni won Best Foreign Film in 1998?",
+      "a": "Life is Beautiful",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Blade Runner' (1982)?",
+      "a": "Ridley Scott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor won Best Actress for 'Black Swan'?",
+      "a": "Natalie Portman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film features the Ludovico Technique?",
+      "a": "A Clockwork Orange",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional metal that makes up Wolverine's claws?",
+      "a": "Adamantium",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2017 film won Best Picture after 'La La Land' was mistakenly announced?",
+      "a": "Moonlight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Inception', what is the object each dreamer uses to check reality called?",
+      "a": "Totem",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the family-run roadside lodging in 'Psycho'?",
+      "a": "Bates Motel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the boat in 'Life of Pi'?",
+      "a": "Tsimtsum",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Shawshank Redemption', what poster hides Andy's tunnel?",
+      "a": "Rita Hayworth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Pulp Fiction', what is the name of Marsellus Wallace's wife?",
+      "a": "Mia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year is the future set in 'Back to the Future Part II'?",
+      "a": "2015",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film's tagline was 'In space no one can hear you scream'?",
+      "a": "Alien",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the ship in 'Pirates of the Caribbean' captained by Jack Sparrow?",
+      "a": "Black Pearl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Pixar film personifies the emotions of a girl named Riley?",
+      "a": "Inside Out",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Godfather', what animal's head is left in a bed?",
+      "a": "Horse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Top Gun', what is the call sign of Maverick's rival?",
+      "a": "Iceman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2014 Nolan film involves a journey through a wormhole near Saturn?",
+      "a": "Interstellar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1994 film features a bus that will explode if it drops below 50 mph?",
+      "a": "Speed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the AI operating system in 'Her'?",
+      "a": "Samantha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2010 film dramatizes the founding of Facebook?",
+      "a": "The Social Network",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'The Truman Show', what is the name of the TV town?",
+      "a": "Seahaven",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Best Picture winner is about a mute woman and an amphibian creature?",
+      "a": "The Shape of Water",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the tiger in 'Life of Pi'?",
+      "a": "Richard Parker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2000 film features the line 'Are you not entertained?'?",
+      "a": "Gladiator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional company in 'Jurassic Park'?",
+      "a": "InGen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the clown in Stephen King's 'It'?",
+      "a": "Pennywise",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2008 Best Picture winner follows a Mumbai teen competing on a TV quiz show?",
+      "a": "Slumdog Millionaire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fight club founder's alter ego in 'Fight Club'?",
+      "a": "Tyler Durden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1987 film features the line 'Nobody puts Baby in a corner'?",
+      "a": "Dirty Dancing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Forrest Gump', what is the name of Forrest's childhood sweetheart?",
+      "a": "Jenny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Tarantino film is split into chapters and features the Bride?",
+      "a": "Kill Bill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2013 film follows an astronaut stranded in orbit after debris destroys her shuttle?",
+      "a": "Gravity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional town where 'Jaws' is set?",
+      "a": "Amity Island",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 'Fast & Furious' film is set in Japan?",
+      "a": "Tokyo Drift",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2022 film features the tune 'Naatu Naatu' that won an Oscar?",
+      "a": "RRR",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In 'Cast Away', what brand name is given to the volleyball companion?",
+      "a": "Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the villain in 'Die Hard'?",
+      "a": "Hans Gruber",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Wes Anderson film features Max Fischer at a private school?",
+      "a": "Rushmore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2004 film features a memory-erasing procedure to forget an ex?",
+      "a": "Eternal Sunshine of the Spotless Mind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2012 Bond film is named after 007's childhood home?",
+      "a": "Skyfall",
+      "file": "qualityBackfill"
     },
     {
       "q": "Film with joint record for most Oscars (11)?",
@@ -538,6 +1273,396 @@
       "q": "Who directed 'There Will Be Blood'?",
       "a": "Paul Thomas Anderson",
       "file": "megaNewExpansions"
+    },
+    {
+      "q": "Who wrote the screenplay for Chinatown?",
+      "a": "Robert Towne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is chiaroscuro in film?",
+      "a": "Strong contrast between light and dark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Persona' (1966)?",
+      "a": "Ingmar Bergman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year was 'The Seventh Seal' released?",
+      "a": "1957",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1939 film features technicolor in Oz?",
+      "a": "The Wizard of Oz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the director of 'Eraserhead' (1977)?",
+      "a": "David Lynch",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the protagonist in 'Taxi Driver'?",
+      "a": "Travis Bickle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Italian film is considered the first of neorealism?",
+      "a": "Rome, Open City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Tokyo Story' (1953)?",
+      "a": "Yasujiro Ozu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which New Wave director made 'The 400 Blows'?",
+      "a": "Francois Truffaut",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Stalker' (1979)?",
+      "a": "Andrei Tarkovsky",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film did Orson Welles write, direct, and star in for RKO in 1941?",
+      "a": "Citizen Kane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first film to win all 'Big Five' Oscars?",
+      "a": "It Happened One Night",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Dog Day Afternoon' (1975)?",
+      "a": "Sidney Lumet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1980s Coen film features a kidnapped baby?",
+      "a": "Raising Arizona",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who composed for 'The Good, the Bad and the Ugly'?",
+      "a": "Ennio Morricone",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1966 film features 'The Man with No Name' character in the final chapter?",
+      "a": "The Good the Bad and the Ugly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Korean director of 'Oldboy'?",
+      "a": "Park Chan-wook",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which documentary film director made 'Grizzly Man'?",
+      "a": "Werner Herzog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Rules of the Game' (1939)?",
+      "a": "Jean Renoir",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film is considered the highest-grossing horror in history (not adjusted)?",
+      "a": "It",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Red Shoes' (1948)?",
+      "a": "Powell and Pressburger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1964 film has Peter Sellers in three roles?",
+      "a": "Dr. Strangelove",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Come and See' (1985)?",
+      "a": "Elem Klimov",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film in 1968 features a psychic murder with a baby?",
+      "a": "Rosemary's Baby",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Master' (2012)?",
+      "a": "Paul Thomas Anderson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actor plays the Daniel Plainview role?",
+      "a": "Daniel Day-Lewis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Vertigo' (1958)?",
+      "a": "Alfred Hitchcock",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1998 Terrence Malick war film features WWII Guadalcanal?",
+      "a": "The Thin Red Line",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Exorcist' (1973)?",
+      "a": "William Friedkin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the lead in 'Leon: The Professional'?",
+      "a": "Jean Reno",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which filmmaker made 'Close-Up' (1990)?",
+      "a": "Abbas Kiarostami",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Iranian film won Best Foreign Oscar 2012?",
+      "a": "A Separation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Ran' (1985)?",
+      "a": "Akira Kurosawa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What film did Charlie Chaplin direct with the speech at the end about hope?",
+      "a": "The Great Dictator",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Pierrot le Fou' (1965)?",
+      "a": "Jean-Luc Godard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Treasure of the Sierra Madre' (1948)?",
+      "a": "John Huston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film introduced Buster Keaton's 'Great Stone Face'?",
+      "a": "Sherlock Jr.",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Sunset Boulevard' (1950)?",
+      "a": "Billy Wilder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which actress won Best Actress for 'A Streetcar Named Desire'?",
+      "a": "Vivien Leigh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Battleship Potemkin' (1925)?",
+      "a": "Sergei Eisenstein",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Bicycle Thieves' (1948)?",
+      "a": "Vittorio De Sica",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film has the famous line 'I coulda been a contender'?",
+      "a": "On the Waterfront",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'The Seventh Seal'?",
+      "a": "Ingmar Bergman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-founded the Dogme 95 film movement with Thomas Vinterberg?",
+      "a": "Lars von Trier",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Polish director made 'Three Colors' trilogy?",
+      "a": "Krzysztof Kieslowski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed 'Y Tu Mama Tambien' (2001)?",
+      "a": "Alfonso Cuaron",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kurosawa film was remade as a 1960 Western about gunfighters hired to protect a village?",
+      "a": "Seven Samurai",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1927 Fritz Lang film features a robot named Maria?",
+      "a": "Metropolis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1950 film by Kurosawa tells one crime from four perspectives?",
+      "a": "Rashomon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1969 film is the only X-rated movie to win Best Picture?",
+      "a": "Midnight Cowboy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional newspaper in 'Citizen Kane'?",
+      "a": "The Inquirer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Ingmar Bergman film features a knight playing chess with Death?",
+      "a": "The Seventh Seal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1962 David Lean epic is set in the Arabian desert during World War I?",
+      "a": "Lawrence of Arabia",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Alfred Hitchcock film was shot to appear as one continuous take?",
+      "a": "Rope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Wong Kar-wai film follows two neighbors in 1960s Hong Kong?",
+      "a": "In the Mood for Love",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1974 film directed by Roman Polanski features water rights in Los Angeles?",
+      "a": "Chinatown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2013 Best Picture winner was directed by Steve McQueen?",
+      "a": "12 Years a Slave",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the tribe featured in 'Dances with Wolves'?",
+      "a": "Lakota Sioux",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Vittorio De Sica film follows a father and son searching for a stolen bike?",
+      "a": "Bicycle Thieves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Coen brothers film features the hitman Anton Chigurh?",
+      "a": "No Country for Old Men",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which studio's logo features a boy fishing from a crescent moon?",
+      "a": "DreamWorks",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which David Lean epic follows a physician-poet through the Russian Revolution?",
+      "a": "Doctor Zhivago",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1989 Spike Lee film takes place on one hot day in Brooklyn?",
+      "a": "Do the Right Thing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional planet in 'Dune' that produces spice?",
+      "a": "Arrakis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2000 Mexican film by Alejandro González Iñárritu interweaves three stories around a car crash?",
+      "a": "Amores Perros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1980 Scorsese film follows boxer Jake LaMotta?",
+      "a": "Raging Bull",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Japanese director made 'Tokyo Story'?",
+      "a": "Yasujirō Ozu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Guillermo del Toro film is set in 1944 Spain and features a faun?",
+      "a": "Pan's Labyrinth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film won the first Best Animated Feature Oscar in 2002?",
+      "a": "Shrek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kubrick film follows an 18th-century Irish rogue?",
+      "a": "Barry Lyndon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 1931 Fritz Lang thriller follows a child murderer hunted through Berlin?",
+      "a": "M",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which 2022 Best Picture winner featured a deaf family and a singing daughter?",
+      "a": "CODA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Miyazaki film features a giant forest spirit and two sisters?",
+      "a": "My Neighbor Totoro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Denis Villeneuve film involves linguists decoding an alien language?",
+      "a": "Arrival",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which film's score by Vangelis features a synth theme over runners on a beach?",
+      "a": "Chariots of Fire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the fictional drug in 'Limitless'?",
+      "a": "NZT-48",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Park Chan-wook film features a man imprisoned for 15 years without explanation?",
+      "a": "Oldboy",
+      "file": "qualityBackfill"
     },
     {
       "q": "Hitchcock film shot in under three weeks on a TV budget?",

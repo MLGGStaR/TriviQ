@@ -101,8 +101,228 @@
       "file": "moreTriviaExpansions"
     },
     {
-      "q": "What is Dexter's sister's first name?",
-      "a": "Debra",
+      "q": "Who plays Debra Morgan?",
+      "a": "Jennifer Carpenter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network originally aired Dexter?",
+      "a": "Showtime",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city is the original series set in?",
+      "a": "Miami",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dexter's secret nighttime hobby?",
+      "a": "Serial killing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Dexter only target as victims?",
+      "a": "Other killers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who taught Dexter the code?",
+      "a": "Harry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harry's relation to Dexter?",
+      "a": "Adoptive father",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harry's profession before his death?",
+      "a": "Cop",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Debra's nickname?",
+      "a": "Deb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Debra's last name?",
+      "a": "Morgan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dexter's cover story girlfriend in early seasons?",
+      "a": "Rita",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many children does Rita have before Dexter?",
+      "a": "Two",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of knife does Dexter use?",
+      "a": "Hunting knife",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What vehicle does Dexter use for disposal?",
+      "a": "Boat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Dexter hide his blood slides?",
+      "a": "AC unit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the bumbling detective partnered with Debra?",
+      "a": "Masuka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the black Cuban lieutenant Dexter's friend?",
+      "a": "Angel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Angel's last name?",
+      "a": "Batista",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Cuban female lieutenant?",
+      "a": "LaGuerta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is LaGuerta's first name?",
+      "a": "Maria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dexter's famous inner monologue called?",
+      "a": "Dark Passenger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Ice Truck Killer's identity revealed to be?",
+      "a": "Dexter's brother",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Ice Truck Killer's name?",
+      "a": "Brian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does the Ice Truck Killer use?",
+      "a": "Rudy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Rita in season 4?",
+      "a": "She is killed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Rita?",
+      "a": "Trinity",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What body of water features in the finale as Dexter fakes his death?",
+      "a": "Atlantic Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Dexter hide after faking his death?",
+      "a": "Oregon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the revival series called?",
+      "a": "Dexter: New Blood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state is New Blood set in?",
+      "a": "New York",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the fictional town in New Blood?",
+      "a": "Iron Lake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Dexter dispose of his victims' bodies?",
+      "a": "The ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where was young Dexter found sitting in his mother's blood?",
+      "a": "A shipping container",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Dexter find Rita's body?",
+      "a": "In the bathtub",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What treat does Dexter bring to work to seem like a normal guy?",
+      "a": "Donuts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Dexter pin to the wall of his kill room for the person on the table to see?",
+      "a": "Photos of their victims",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many seasons did the original series run?",
+      "a": "Eight",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Dexter typically use to kill his victims?",
+      "a": "A knife",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which detective proposes to Deb in season 6?",
+      "a": "Joey Quinn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Miami Metro forensics tech is known for his crude jokes?",
+      "a": "Vince Masuka",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Dexter's girlfriend Angela hold in Iron Lake?",
+      "a": "Police chief",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the 2024 prequel series?",
+      "a": "Dexter: Original Sin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the 2025 sequel series?",
+      "a": "Dexter: Resurrection",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What kind of store does Dexter work at in New Blood?",
+      "a": "A fish and game store",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Debra's job when the series begins?",
+      "a": "Vice officer",
       "file": "qualityBackfill"
     },
     {
@@ -266,6 +486,371 @@
       "q": "What is Dexter's boat called?",
       "a": "Slice of Life",
       "file": "triviaTierFinalTopoffExpansions"
+    },
+    {
+      "q": "Who plays the Trinity Killer?",
+      "a": "John Lithgow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Rita Bennett?",
+      "a": "Julie Benz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hannah McKay?",
+      "a": "Yvonne Strahovski",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays LaGuerta?",
+      "a": "Lauren Velez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Bay Harbor Butcher nickname given to?",
+      "a": "Dexter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What FBI agent hunts the Bay Harbor Butcher in season 2?",
+      "a": "Frank Lundy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lundy?",
+      "a": "Keith Carradine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Skinner killer?",
+      "a": "George King",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Doomsday Killer?",
+      "a": "Travis Marshall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Travis's partner/mentor seen as imaginary?",
+      "a": "Professor Gellar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Professor Gellar?",
+      "a": "Edward James Olmos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Hannah's method of killing?",
+      "a": "Poison",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the brain surgeon killer in season 8?",
+      "a": "Oliver Saxon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oliver's real identity?",
+      "a": "Vogel's son",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dr. Evelyn Vogel?",
+      "a": "Psychiatrist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Vogel help Harry develop?",
+      "a": "The Code",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Vogel?",
+      "a": "Charlotte Rampling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What internal affairs cop becomes Debra's boyfriend and dies?",
+      "a": "Doakes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Doakes's first name?",
+      "a": "James",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Doakes die?",
+      "a": "Explosion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who blows up Doakes?",
+      "a": "Lila",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Lila?",
+      "a": "Dexter's season 2 lover",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Lila's profession?",
+      "a": "Artist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Lila?",
+      "a": "Dexter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Miguel Prado?",
+      "a": "Assistant DA",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Miguel Prado?",
+      "a": "Jimmy Smits",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Dexter teach Miguel that goes wrong?",
+      "a": "How to kill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Miguel try to kill against the code?",
+      "a": "Ellen Wolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Miguel's serial killer friend?",
+      "a": "The Skinner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Debra briefly become after Laguerta is promoted?",
+      "a": "Lieutenant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills LaGuerta?",
+      "a": "Debra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Why does Debra kill LaGuerta?",
+      "a": "To protect Dexter",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What season is LaGuerta killed?",
+      "a": "Season 7",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Debra in the series finale?",
+      "a": "She dies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Debra die in original finale?",
+      "a": "Shot by Saxon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Dexter dump Debra's body?",
+      "a": "Ocean",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weather event coincides with Dexter's escape?",
+      "a": "Hurricane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the hurricane's name?",
+      "a": "Laura",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jamie Batista?",
+      "a": "Angel's sister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jamie's job?",
+      "a": "Harrison's nanny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Jamie date?",
+      "a": "Quinn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Detective Joey Quinn?",
+      "a": "Miami Metro detective",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Quinn's corrupt money source in season 4?",
+      "a": "Dirty money",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Quinn?",
+      "a": "Desmond Harrington",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who are Trinity's victims age pattern?",
+      "a": "Young woman, mother, father",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Trinity's real family structure?",
+      "a": "Wife and two kids",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Trinity's wife's name?",
+      "a": "Sally",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How did Dexter's biological mother die?",
+      "a": "Chainsaw murder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Dexter's mother's name?",
+      "a": "Laura Moser",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Dexter witness as a toddler?",
+      "a": "His mother's murder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tranquilizer does Dexter inject into his victims?",
+      "a": "M99",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does the Trinity Killer murder the first victim of each cycle?",
+      "a": "In a bathtub",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dexter's NA sponsor who becomes obsessed with him?",
+      "a": "Lila",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What addiction does Dexter pretend to have in order to attend NA meetings?",
+      "a": "Heroin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What job does Miguel Prado hold?",
+      "a": "Assistant District Attorney",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the motivational speaker villain of season 5?",
+      "a": "Jordan Chase",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what kind of building does Dexter kill Travis Marshall?",
+      "a": "A church",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Ukrainian mob boss hunts Dexter in season 7?",
+      "a": "Isaak Sirko",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname is given to the season 8 killer who turns out to be Dr. Vogel's son?",
+      "a": "The Brain Surgeon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "To which country do Dexter and Hannah plan to flee in season 8?",
+      "a": "Argentina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Dexter's mother's relationship to Harry Morgan?",
+      "a": "Confidential informant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dexter's first kill in New Blood?",
+      "a": "Matt Caldwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What toy's parts does the Ice Truck Killer leave for Dexter?",
+      "a": "Barbie doll parts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where in his apartment does Dexter hide his box of blood slides?",
+      "a": "Behind the air conditioner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Miami Metro detective has a romance with Frank Lundy?",
+      "a": "Debra",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What business does Kurt Caldwell run?",
+      "a": "A trucking company",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In what year did the original series premiere?",
+      "a": "2006",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Dexter kill his brother Brian?",
+      "a": "Slits his throat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Harrison use to shoot Dexter?",
+      "a": "A rifle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What sport does Dexter play on a team with his coworkers?",
+      "a": "Bowling",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who discovers Dexter's underwater dump site in season 2?",
+      "a": "Treasure hunters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What alias does Dexter use while befriending Arthur Mitchell?",
+      "a": "Kyle Butler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How long has Dexter been living in Iron Lake when New Blood begins?",
+      "a": "About ten years",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the significance of Dexter's kill room?",
@@ -438,6 +1023,346 @@
       "q": "What killer is Brian Moser better known as?",
       "a": "Ice Truck Killer",
       "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "Who plays Harrison in Dexter: New Blood?",
+      "a": "Jack Alcott",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dexter's biological father in later seasons?",
+      "a": "Joseph Driscoll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What profession does Brian hide behind in season 1?",
+      "a": "Prosthetics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Ice Truck Killer?",
+      "a": "Christian Camargo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Trinity's name refer to?",
+      "a": "Three kill methods",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Trinity's three kill types?",
+      "a": "Bathtub, fall, bludgeon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year pattern does Trinity follow?",
+      "a": "Every 30 years",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many people has Trinity killed over decades?",
+      "a": "Dozens",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Trinity's son's name?",
+      "a": "Jonah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Trinity's daughter's name?",
+      "a": "Rebecca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Trinity's fake name he goes by?",
+      "a": "Kyle Butler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname does Dexter adopt when infiltrating Trinity?",
+      "a": "Kyle Butler",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What killer tarot cards inspire Travis and Gellar?",
+      "a": "Book of Revelation",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Dexter's dump site at the end of season 1?",
+      "a": "Crime scene warehouse",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What location is Dexter's biological mom killed at?",
+      "a": "Shipping container",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What drug cartel was Laura Moser involved with?",
+      "a": "Estrada cartel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who are the killers who killed Dexter's mother?",
+      "a": "Estrada and others",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Harrison's mom in New Blood?",
+      "a": "Harrison's mom is Rita",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who raises Harrison after Dexter fakes death?",
+      "a": "Hannah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Hannah take Harrison?",
+      "a": "Argentina",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Hannah die?",
+      "a": "Cancer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dexter's girlfriend in Iron Lake?",
+      "a": "Angela",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Angela?",
+      "a": "Julia Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Angela's daughter's name?",
+      "a": "Audrey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tribe is Angela part of?",
+      "a": "Seneca",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the rich villain in New Blood?",
+      "a": "Kurt Caldwell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kurt?",
+      "a": "Clancy Brown",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Kurt preserve of his victims?",
+      "a": "Bodies",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Kurt's son's name?",
+      "a": "Matt",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What rare animal does Dexter kill opening New Blood?",
+      "a": "White buck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the podcaster in New Blood?",
+      "a": "Molly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Harrison use to kill Dexter in the finale?",
+      "a": "Gun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What episode title is the series finale of original Dexter?",
+      "a": "Remember the Monsters",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What blood spatter pattern is Dexter known for identifying?",
+      "a": "Cast-off patterns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What condition does Dexter describe himself as having?",
+      "a": "Sociopath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the opening credits sequence famous for showing?",
+      "a": "Morning routine as violent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What donut shop does Dexter bring to work?",
+      "a": "Brownies, donuts to office",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dexter's favorite breakfast item he brings to work?",
+      "a": "Donuts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What show spinoff was released after New Blood?",
+      "a": "Original Sin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What era is Original Sin set in?",
+      "a": "1990s",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays young Dexter in Original Sin?",
+      "a": "Patrick Gibson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who narrates Original Sin as older Dexter?",
+      "a": "Michael C. Hall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What continent does Dexter flee to after original finale?",
+      "a": "North America",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Dexter's first on-screen victim in the pilot episode?",
+      "a": "Mike Donovan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which defense attorney does Miguel Prado murder?",
+      "a": "Ellen Wolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which corrupt cop does Quinn hire to investigate Dexter in season 5?",
+      "a": "Stan Liddy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What poison does Hannah McKay favor?",
+      "a": "Aconite",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the last person Dexter kills in the original series finale?",
+      "a": "Oliver Saxon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dexter's biological father?",
+      "a": "Joe Driscoll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Batista's sister who becomes Harrison's nanny?",
+      "a": "Jamie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Masuka's daughter?",
+      "a": "Niki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the deputy chief who was Harry's old friend?",
+      "a": "Tom Matthews",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "For which charity does Arthur Mitchell build houses?",
+      "a": "Four Walls One Heart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Arthur Mitchell's son?",
+      "a": "Jonah",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was the name of Arthur Mitchell's sister whose death began his cycle?",
+      "a": "Vera",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who shoots Frank Lundy?",
+      "a": "Christine Hill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What profession does Rudy Cooper have?",
+      "a": "Prosthetist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the true-crime podcaster in New Blood?",
+      "a": "Molly Park",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dexter's adoptive mother?",
+      "a": "Doris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "For which private investigator does Deb work after leaving Miami Metro?",
+      "a": "Jacob Elway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "From which state does Lumen Pierce come?",
+      "a": "Minnesota",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which terminally ill records clerk asks Dexter to end her life?",
+      "a": "Camilla",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the comic-book superhero based on the Bay Harbor Butcher?",
+      "a": "The Dark Defender",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Dexter's bowling team?",
+      "a": "Bowl Till You Bleed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which season 7 killer traps victims in a minotaur maze?",
+      "a": "Ray Speltzer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which intern sends Dexter the Ice Truck Killer's prosthetic hand?",
+      "a": "Louis Greene",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Mama Cass song does the Brain Surgeon associate with his killings?",
+      "a": "Make Your Own Kind of Music",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who drugs Debra and causes her car crash in season 7?",
+      "a": "Hannah McKay",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the psychological complexity of the Code?",

@@ -36,6 +36,356 @@
       "file": "moreTriviaExpansions"
     },
     {
+      "q": "Who plays Tyrion Lannister?",
+      "a": "Peter Dinklage",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Daenerys's first husband?",
+      "a": "Khal Drogo",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the oldest Stark daughter?",
+      "a": "Sansa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first main character to die?",
+      "a": "Ned Stark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What family motto is Winter Is Coming?",
+      "a": "House Stark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Mother of Dragons?",
+      "a": "Daenerys Targaryen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What young Stark girl trains as an assassin?",
+      "a": "Arya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the dwarf known as the Imp?",
+      "a": "Tyrion Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the icy zombies north of the Wall?",
+      "a": "White Walkers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What huge ice structure guards the north?",
+      "a": "The Wall",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ned Stark's bastard son?",
+      "a": "Jon Snow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the Stark children's pet animals?",
+      "a": "Direwolves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Arya that sword?",
+      "a": "Jon Snow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the blonde queen married to King Robert?",
+      "a": "Cersei Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Cersei's twin brother and lover?",
+      "a": "Jaime Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Lannister house words?",
+      "a": "Hear Me Roar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What unofficial saying do Lannisters always pay?",
+      "a": "Their debts",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the king at the start of the series?",
+      "a": "Robert Baratheon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Daenerys's brother who sells her?",
+      "a": "Viserys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Drogo's people called?",
+      "a": "Dothraki",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What did Daenerys hatch from stone eggs?",
+      "a": "Dragons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many dragons does Daenerys have?",
+      "a": "Three",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the green dragon?",
+      "a": "Rhaegal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the white and gold dragon?",
+      "a": "Viserion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the continent where most of the action takes place?",
+      "a": "Westeros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the eastern continent with cities like Braavos?",
+      "a": "Essos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ned Stark's wife?",
+      "a": "Catelyn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the eldest Stark son?",
+      "a": "Robb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Stark girl becomes engaged to Joffrey?",
+      "a": "Sansa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the cruel blonde prince Sansa is engaged to?",
+      "a": "Joffrey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Arya's direwolf's name?",
+      "a": "Nymeria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What young Stark boy is crippled after being pushed from a tower?",
+      "a": "Bran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who pushes him from the tower?",
+      "a": "Jaime Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the youngest Stark boy's name?",
+      "a": "Rickon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the massive warrior called The Hound?",
+      "a": "Sandor Clegane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is The Hound's even bigger brother?",
+      "a": "The Mountain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Mountain's first name?",
+      "a": "Gregor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Mad King was overthrown before the series?",
+      "a": "Aerys Targaryen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who killed the Mad King?",
+      "a": "Jaime Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What nickname did Jaime get for killing the king?",
+      "a": "Kingslayer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the seat of House Stark called?",
+      "a": "Winterfell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What house hosts the Red Wedding?",
+      "a": "Frey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who beheads Ned Stark?",
+      "a": "Ilyn Payne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What young king orders Ned Stark's execution?",
+      "a": "Joffrey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which of Cersei's sons becomes king after Joffrey's death?",
+      "a": "Tommen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house has a kraken as its sigil?",
+      "a": "House Greyjoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house has a stag as its sigil?",
+      "a": "House Baratheon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is poured over Viserys's head to kill him?",
+      "a": "Molten gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Hound terrified of?",
+      "a": "Fire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sellsword becomes Tyrion's loyal companion?",
+      "a": "Bronn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Tyrion kill with a crossbow?",
+      "a": "Tywin Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the wildling woman Jon Snow falls in love with?",
+      "a": "Ygritte",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the wildling girl Samwell Tarly falls for?",
+      "a": "Gilly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wildling is openly smitten with Brienne of Tarth?",
+      "a": "Tormund",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What replaces Jaime Lannister's severed hand?",
+      "a": "A golden hand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Sansa's second husband?",
+      "a": "Ramsay Bolton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Ramsay Bolton die?",
+      "a": "Eaten by his own dogs",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who cuts Littlefinger's throat?",
+      "a": "Arya Stark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the eunuch slave army Daenerys acquires?",
+      "a": "The Unsullied",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who commands the Unsullied?",
+      "a": "Grey Worm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Oberyn Martell in trial by combat?",
+      "a": "The Mountain",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who does Arya feed a pie made from his own sons?",
+      "a": "Walder Frey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Theon Greyjoy's sister?",
+      "a": "Yara",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What name does Ramsay force Theon to use?",
+      "a": "Reek",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Gendry's trade?",
+      "a": "Blacksmith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the main stronghold of the Night's Watch called?",
+      "a": "Castle Black",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What green substance destroys Stannis's fleet at the Battle of Blackwater?",
+      "a": "Wildfire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What surname is given to bastards born in the North?",
+      "a": "Snow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color are the eyes of the White Walkers?",
+      "a": "Blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the reanimated corpses controlled by the White Walkers called?",
+      "a": "Wights",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "What is House Stark's motto?",
       "a": "Winter is Coming",
       "file": "App.jsx"
@@ -211,6 +561,476 @@
       "q": "What is the name of Arya's Faceless Man trainer?",
       "a": "Jaqen H'ghar",
       "file": "triviaTierBalanceExpansions"
+    },
+    {
+      "q": "What character is known as 'The Mountain'?",
+      "a": "Gregor Clegane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Arya train to become a Faceless Man?",
+      "a": "The House of Black and White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Daenerys's handmaiden and close friend?",
+      "a": "Missandei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jon Snow's true parentage secret about his mother?",
+      "a": "Lyanna Stark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jon Snow's true father?",
+      "a": "Rhaegar Targaryen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Jon's Targaryen name?",
+      "a": "Aegon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the leader of the Wildlings with a red beard?",
+      "a": "Tormund",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Tormund's last name or epithet?",
+      "a": "Giantsbane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phrase does she keep telling Jon?",
+      "a": "You know nothing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Ygritte?",
+      "a": "Olly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Wildling King Beyond the Wall's name?",
+      "a": "Mance Rayder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who executes Mance by burning?",
+      "a": "Stannis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which brother of Robert claims the Iron Throne next?",
+      "a": "Stannis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Stannis's red priestess?",
+      "a": "Melisandre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What god does Melisandre worship?",
+      "a": "Lord of Light",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Stannis's daughter with greyscale?",
+      "a": "Shireen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Stannis kill his daughter?",
+      "a": "Burns her alive",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Stannis?",
+      "a": "Brienne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Brienne's last name?",
+      "a": "Tarth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Brienne's sword's name?",
+      "a": "Oathkeeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Jaime's hand replacement?",
+      "a": "Gold hand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who cuts off Jaime's hand?",
+      "a": "Locke",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sigil of House Targaryen?",
+      "a": "Three-headed dragon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sigil of House Baratheon?",
+      "a": "Stag",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sigil of House Tyrell?",
+      "a": "Rose",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the sigil of House Greyjoy?",
+      "a": "Kraken",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the squid-lord who rules the Iron Islands?",
+      "a": "Balon Greyjoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Balon's son raised by Ned Stark?",
+      "a": "Theon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who tortures and emasculates Theon?",
+      "a": "Ramsay Bolton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Ramsay's father, the lord of the Dreadfort?",
+      "a": "Roose Bolton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Bolton sigil?",
+      "a": "Flayed man",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Ramsay Bolton with his own hounds?",
+      "a": "Sansa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What battle features Jon Snow charging into an arrow storm?",
+      "a": "Battle of the Bastards",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the whoremonger spymaster called Littlefinger?",
+      "a": "Petyr Baelish",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the eunuch Master of Whisperers?",
+      "a": "Varys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Varys originally from?",
+      "a": "Lys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Red Viper of Dorne?",
+      "a": "Oberyn Martell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oberyn's lover's name?",
+      "a": "Ellaria Sand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Oberyn's illegitimate daughters called?",
+      "a": "Sand Snakes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who poisons King Joffrey?",
+      "a": "Olenna Tyrell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What clever grandmother matriarch is played by Diana Rigg?",
+      "a": "Olenna",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Joffrey briefly engaged to after Sansa?",
+      "a": "Margaery",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Margaery's brother the Knight of Flowers?",
+      "a": "Loras",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What religious fanatic group arrests Cersei?",
+      "a": "Faith Militant",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads the Faith Militant?",
+      "a": "High Sparrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Cersei's infamous naked walk through the city called?",
+      "a": "Walk of shame",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What chant do the crowds yell during her walk?",
+      "a": "Shame",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who leads her chanting the word shame?",
+      "a": "Septa Unella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Cersei's only daughter?",
+      "a": "Myrcella",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Valyrian steel sword Jeor Mormont gives Jon Snow?",
+      "a": "Longclaw",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house has a golden rose as its sigil?",
+      "a": "House Tyrell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house's sigil is a sun pierced by a spear?",
+      "a": "House Martell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house's sigil is a flayed man?",
+      "a": "House Bolton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house has a leaping trout as its sigil?",
+      "a": "House Tully",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Mountain's real name?",
+      "a": "Gregor Clegane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Arya's first sword-fighting teacher in King's Landing?",
+      "a": "Syrio Forel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Brienne's squire?",
+      "a": "Podrick Payne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which former lover testifies against Tyrion at his trial for Joffrey's murder?",
+      "a": "Shae",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which wildling marries his own daughters and sacrifices his sons?",
+      "a": "Craster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Catelyn's sister who rules the Vale?",
+      "a": "Lysa Arryn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the execution opening in the floor of the Eyrie called?",
+      "a": "The Moon Door",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robb Stark's wife?",
+      "a": "Talisa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Daenerys's translator and closest female advisor?",
+      "a": "Missandei",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Missandei's final word before she is executed?",
+      "a": "Dracarys",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which city does Daenerys acquire the Unsullied?",
+      "a": "Astapor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Jorah's father, the Lord Commander of the Night's Watch?",
+      "a": "Jeor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What disease does Jorah contract in Valyria?",
+      "a": "Greyscale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who cures Jorah of his disease?",
+      "a": "Samwell Tarly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the fierce young Lady of Bear Island?",
+      "a": "Lyanna Mormont",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which dragon does the Night King kill and raise as a wight?",
+      "a": "Viserion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Euron Greyjoy?",
+      "a": "Jaime Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which religious leader imprisons Cersei and Margaery?",
+      "a": "The High Sparrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who poisons Myrcella with a kiss?",
+      "a": "Ellaria Sand",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Oberyn Martell's nickname?",
+      "a": "The Red Viper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are Oberyn's daughters collectively called?",
+      "a": "The Sand Snakes",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Faceless Men's temple in Braavos?",
+      "a": "The House of Black and White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which uncle rescues Bran and Meera beyond the Wall?",
+      "a": "Benjen Stark",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Balon, ruler of the Iron Islands?",
+      "a": "Euron Greyjoy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which princess does Stannis burn alive at the stake?",
+      "a": "Shireen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Stannis Baratheon?",
+      "a": "Brienne of Tarth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Kingsguard legend is dismissed by Joffrey and later serves Daenerys?",
+      "a": "Barristan Selmy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What masked insurgent group fights Daenerys in Meereen?",
+      "a": "The Sons of the Harpy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which red priest repeatedly resurrects Beric Dondarrion?",
+      "a": "Thoros of Myr",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Gendry's father?",
+      "a": "Robert Baratheon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which disgraced former maester becomes Cersei's Hand?",
+      "a": "Qyburn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which young Night's Watch steward delivers the final stab when Jon is murdered?",
+      "a": "Olly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "At which wildling settlement does Jon first face the Night King?",
+      "a": "Hardhome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Arya sail at the end of the series?",
+      "a": "West of Westeros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who says 'Chaos is a ladder'?",
+      "a": "Littlefinger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Lannister song is played just before the Red Wedding massacre begins?",
+      "a": "The Rains of Castamere",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who personally stabs Robb Stark at the Red Wedding?",
+      "a": "Roose Bolton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Arya the Valyrian steel dagger she later uses on the Night King?",
+      "a": "Bran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where do Daenerys's dragons hatch?",
+      "a": "Khal Drogo's funeral pyre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What surname is given to bastards born in Dorne?",
+      "a": "Sand",
+      "file": "qualityBackfill"
     },
     {
       "q": "Who betrayed Robb Stark at the Red Wedding?",
@@ -443,6 +1263,421 @@
       "q": "What poisonous substance kills Joffrey?",
       "a": "The Strangler",
       "file": "moreTriviaExpansions"
+    },
+    {
+      "q": "What is the name of the maester who serves at Winterfell at the start of the series?",
+      "a": "Maester Luwin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Dornish prince fights the Mountain in a trial by combat?",
+      "a": "Oberyn Martell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who poisons Khal Drogo's wound that leads to his death?",
+      "a": "Mirri Maz Duur",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant who fights for the Wildlings?",
+      "a": "Wun Wun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robb Stark's direwolf?",
+      "a": "Grey Wind",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the master assassin leader in Braavos?",
+      "a": "Jaqen H'ghar",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the motto of the Faceless Men?",
+      "a": "Valar Morghulis",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Valar Morghulis mean?",
+      "a": "All men must die",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the response greeting?",
+      "a": "Valar Dohaeris",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Valar Dohaeris mean?",
+      "a": "All men must serve",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What temple does Arya train in?",
+      "a": "House of Black and White",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Arya's mentor she stabs in the dark at the end?",
+      "a": "The Waif",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tyrion's first wife he marries as a teen?",
+      "a": "Tysha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Tyrion's prostitute lover in King's Landing?",
+      "a": "Shae",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How does Tyrion kill Shae?",
+      "a": "Strangles her",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon does Tyrion kill his father with?",
+      "a": "Crossbow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where does Tyrion kill his father?",
+      "a": "Privy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the freed slave boy Tyrion befriends?",
+      "a": "Penny",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What language is commonly spoken in Essos?",
+      "a": "Valyrian",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where is Valyrian steel forged?",
+      "a": "Old Valyria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happened to Old Valyria?",
+      "a": "The Doom",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Targaryen ancestral sword named?",
+      "a": "Blackfyre",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What other Valyrian sword did Ned Stark's Ice become after being reforged?",
+      "a": "Widow's Wail and Oathkeeper",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the giant that Jon Snow befriends?",
+      "a": "Wun Wun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the boy with visions raised as the Three-Eyed Raven?",
+      "a": "Bran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the original Three-Eyed Raven?",
+      "a": "Brynden Rivers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What tree does Bran see visions through?",
+      "a": "Weirwood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What phrase is Hodor's name a shortening of?",
+      "a": "Hold the door",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the wildling woman who protects Bran with Hodor?",
+      "a": "Osha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Bran's young reed ally with seizures?",
+      "a": "Jojen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jojen's sister?",
+      "a": "Meera",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is their surname?",
+      "a": "Reed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What lord does Catelyn free Jaime against Robb's wishes?",
+      "a": "Jaime Lannister",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Robb supposed to marry?",
+      "a": "A Frey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Jon Longclaw?",
+      "a": "Lord Commander Mormont",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Samwell's love interest's name?",
+      "a": "Gilly",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Gilly's father and also her husband?",
+      "a": "Craster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Craster do with his sons?",
+      "a": "Sacrifices them",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the sons sacrificed to?",
+      "a": "White Walkers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who stabs the Night King?",
+      "a": "Arya",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What dagger does Arya use?",
+      "a": "Valyrian steel dagger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Where was that dagger from originally?",
+      "a": "Bran's assassin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who originally owned that catspaw dagger?",
+      "a": "Littlefinger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who sits on the Iron Throne after Daenerys dies?",
+      "a": "Bran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Rickon Stark's direwolf?",
+      "a": "Shaggydog",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which house's sigil is a falcon and a crescent moon?",
+      "a": "House Arryn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the real name of the Blackfish?",
+      "a": "Brynden Tully",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which castle is Bronn granted at the end of the series?",
+      "a": "Highgarden",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Meereenese nobleman does Daenerys agree to marry?",
+      "a": "Hizdahr zo Loraq",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the giant crossbow-like weapon that Euron uses to kill Rhaegal called?",
+      "a": "A scorpion",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the title of the final episode of the series?",
+      "a": "The Iron Throne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "How many episodes does the series have in total?",
+      "a": "73",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What does Joffrey name the Valyrian steel sword Tywin gives him?",
+      "a": "Widow's Wail",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Meera's brother who has green dreams?",
+      "a": "Jojen Reed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Of which castle is Gendry made lord by Daenerys?",
+      "a": "Storm's End",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal shape does Hot Pie bake into the bread he gives Arya?",
+      "a": "A direwolf",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Under what name does the resurrected Mountain serve in Cersei's Kingsguard?",
+      "a": "Ser Robert Strong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who was Rhaegar Targaryen's first wife?",
+      "a": "Elia Martell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the first name of Samwell Tarly's father?",
+      "a": "Randyll",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the giant who dies fighting for Jon at the Battle of the Bastards?",
+      "a": "Wun Wun",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which position does Bronn hold on Bran's small council?",
+      "a": "Master of Coin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Tommen's cat?",
+      "a": "Ser Pounce",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which prostitute does Joffrey kill with a crossbow?",
+      "a": "Ros",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which Free City does Daenerys marry Khal Drogo?",
+      "a": "Pentos",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Daenerys's stillborn son?",
+      "a": "Rhaego",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which building in Qarth are Daenerys's dragons held captive?",
+      "a": "The House of the Undying",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the groom at the Red Wedding?",
+      "a": "Edmure Tully",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Lannister cousin joins the Faith Militant?",
+      "a": "Lancel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who gives Bran the Valyrian steel dagger in season 7?",
+      "a": "Littlefinger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Lysa's sickly son?",
+      "a": "Robin Arryn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Through the ruins of which ancient city do Tyrion and Jorah sail when the stone men attack?",
+      "a": "Valyria",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which pirate provides ships for Stannis's attack on King's Landing?",
+      "a": "Salladhor Saan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What Valyrian steel sword does Sam steal from his father?",
+      "a": "Heartsbane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What surname is given to bastards born in the Riverlands?",
+      "a": "Rivers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "From which island does Missandei come?",
+      "a": "Naath",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What was Tyrion put in charge of at Casterly Rock by his father?",
+      "a": "The drains and cisterns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which Night's Watch brother dies holding the inner gate against a giant at Castle Black?",
+      "a": "Grenn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which knight known as the Sword of the Morning does young Ned fight at the Tower of Joy?",
+      "a": "Arthur Dayne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who stabs Arthur Dayne in the back to save Ned?",
+      "a": "Howland Reed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Which sellsword army does Cersei hire from Essos in the final season?",
+      "a": "The Golden Company",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "In which sacred city do the dosh khaleen, the widows of dead khals, live?",
+      "a": "Vaes Dothrak",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Bolton castle?",
+      "a": "The Dreadfort",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Ned Stark's older brother who was killed by the Mad King?",
+      "a": "Brandon",
+      "file": "qualityBackfill"
     },
     {
       "q": "Name all members of Ned Stark's Small Council in Season 1.",

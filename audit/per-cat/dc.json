@@ -31,6 +31,321 @@
       "file": "triviaMegaExpansions"
     },
     {
+      "q": "Who plays the Joker in The Dark Knight (2008)?",
+      "a": "Heath Ledger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Superman's human adoptive parents' last name?",
+      "a": "Kent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the fastest man alive?",
+      "a": "The Flash",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What weapon is Wonder Woman's golden rope called?",
+      "a": "Lasso of Truth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Superman in Man of Steel?",
+      "a": "Henry Cavill",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Batman in Batman v Superman?",
+      "a": "Ben Affleck",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Joker's main color scheme?",
+      "a": "Purple and green",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Joker in Joker (2019)?",
+      "a": "Joaquin Phoenix",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What are the names of Bruce Wayne's parents?",
+      "a": "Thomas and Martha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is Wonder Woman's lasso?",
+      "a": "Gold",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet did Kal-El escape to as a baby?",
+      "a": "Earth",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who raised Clark Kent on Earth?",
+      "a": "Jonathan and Martha Kent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What state is Smallville in?",
+      "a": "Kansas",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Harley Quinn in the DCEU?",
+      "a": "Margot Robbie",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Lois Lane's employer?",
+      "a": "Daily Planet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lois Lane in Man of Steel?",
+      "a": "Amy Adams",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Alfred in The Dark Knight trilogy?",
+      "a": "Michael Caine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Flash in the DCEU?",
+      "a": "Ezra Miller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the CEO of LexCorp?",
+      "a": "Lex Luthor",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Lex Luthor in Batman v Superman?",
+      "a": "Jesse Eisenberg",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What newspaper does Clark Kent work for?",
+      "a": "Daily Planet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color is the Flash's costume?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cyborg in the DCEU?",
+      "a": "Ray Fisher",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Deadshot in Suicide Squad (2016)?",
+      "a": "Will Smith",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mera in Aquaman?",
+      "a": "Amber Heard",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Shazam in the 2019 film?",
+      "a": "Zachary Levi",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Black Adam?",
+      "a": "Dwayne Johnson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Commissioner Gordon in The Dark Knight?",
+      "a": "Gary Oldman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal is featured on Batman's logo?",
+      "a": "Bat",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Wonder Woman's birth name?",
+      "a": "Diana",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Catwoman in The Dark Knight Rises?",
+      "a": "Anne Hathaway",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Two-Face in The Dark Knight?",
+      "a": "Aaron Eckhart",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Bane in The Dark Knight Rises?",
+      "a": "Tom Hardy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ra's al Ghul in Batman Begins?",
+      "a": "Liam Neeson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Superman's human name?",
+      "a": "Clark Kent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Batman protect?",
+      "a": "Gotham",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who are Batman's parents?",
+      "a": "Thomas Martha",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Flash's civilian name?",
+      "a": "Barry Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Green Lantern Hal Jordan's job?",
+      "a": "Test pilot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Joker's girlfriend?",
+      "a": "Harley Quinn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Batman's main enemy?",
+      "a": "Joker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What team is Batman part of with Superman?",
+      "a": "Justice League",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played the Joker in 1989's Batman?",
+      "a": "Jack Nicholson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Batman in 1989?",
+      "a": "Michael Keaton",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Batman in 2022?",
+      "a": "Robert Pattinson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Superman first appear in comics?",
+      "a": "1938",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Batman first appear?",
+      "a": "1939",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Batman's sidekick called?",
+      "a": "Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Robin's original real name?",
+      "a": "Dick Grayson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What becomes Dick Grayson as an adult hero?",
+      "a": "Nightwing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What animal is Robin named after?",
+      "a": "Bird",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What comic publisher is DC short for?",
+      "a": "Detective Comics",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Flash's super speed called source?",
+      "a": "Speed Force",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color costume does Superman wear?",
+      "a": "Red and blue",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Superman's symbol shape?",
+      "a": "S shield",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Superman?",
+      "a": "Siegel Shuster",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Batman?",
+      "a": "Bob Kane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created Batman with Kane?",
+      "a": "Bill Finger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Batmobile?",
+      "a": "Batman's car",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Superman's love interest?",
+      "a": "Lois Lane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Wonder Woman's Amazonian warrior weapon besides the lasso?",
+      "a": "Sword",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What villain is a reptilian Batman foe named after a lizard?",
+      "a": "Killer Croc",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the feline cat burglar in Batman?",
+      "a": "Catwoman",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Batman's real name?",
       "a": "Bruce Wayne",
       "file": "App.jsx"
@@ -243,6 +558,346 @@
       "file": "triviaTierParityExpansions"
     },
     {
+      "q": "What 2019 film features Joaquin Phoenix as the Clown Prince of Crime?",
+      "a": "Joker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Wonder Woman in the DCEU?",
+      "a": "Gal Gadot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Aquaman in the DCEU?",
+      "a": "Jason Momoa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Scarecrow's alter ego?",
+      "a": "Jonathan Crane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Penguin in The Batman (2022)?",
+      "a": "Colin Farrell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Riddler in The Batman (2022)?",
+      "a": "Paul Dano",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Catwoman in The Batman (2022)?",
+      "a": "Zoe Kravitz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Robin's sidekick identity after Dick Grayson?",
+      "a": "Nightwing",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the second Robin, killed by the Joker?",
+      "a": "Jason Todd",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What identity does Jason Todd take after resurrection?",
+      "a": "Red Hood",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the fourth Robin?",
+      "a": "Damian Wayne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Damian Wayne's mother?",
+      "a": "Talia al Ghul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What gives Ra's al Ghul his near-immortality?",
+      "a": "The Lazarus Pit",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet do the Guardians of the Universe reside on?",
+      "a": "Oa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the first human Green Lantern?",
+      "a": "Hal Jordan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Poison Ivy's real name?",
+      "a": "Pamela Isley",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Mr. Freeze's real name?",
+      "a": "Victor Fries",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Riddler's real name?",
+      "a": "Edward Nygma",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Penguin's real name?",
+      "a": "Oswald Cobblepot",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Superman's Arctic sanctuary?",
+      "a": "Fortress of Solitude",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Supergirl's civilian alias?",
+      "a": "Kara Danvers",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Supergirl's Kryptonian name?",
+      "a": "Kara Zor-El",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Supergirl in the CW series?",
+      "a": "Melissa Benoist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Green Arrow's civilian name?",
+      "a": "Oliver Queen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What city does Green Arrow protect?",
+      "a": "Star City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Black Canary's power?",
+      "a": "Sonic scream",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Peacemaker in the DCEU?",
+      "a": "John Cena",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed The Suicide Squad (2021)?",
+      "a": "James Gunn",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed The Batman (2022)?",
+      "a": "Matt Reeves",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Joker (2019)?",
+      "a": "Todd Phillips",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Man of Steel?",
+      "a": "Zack Snyder",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Aquaman's half-brother's name?",
+      "a": "Orm",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Orm in Aquaman?",
+      "a": "Patrick Wilson",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Flash's hometown?",
+      "a": "Central City",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of Barbara Gordon's hero identity?",
+      "a": "Batgirl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Oliver Queen on Arrow?",
+      "a": "Stephen Amell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Arrow premiere?",
+      "a": "2012",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What network aired Arrow?",
+      "a": "The CW",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Flash Barry Allen on the CW?",
+      "a": "Grant Gustin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did The Flash TV series premiere?",
+      "a": "2014",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barry Allen's job in The Flash?",
+      "a": "Forensic scientist",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Reverse-Flash?",
+      "a": "Eobard Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Barry Allen's mother's killer name?",
+      "a": "Eobard Thawne",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Supergirl's Earth cousin?",
+      "a": "Superman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Sara Lance on Legends of Tomorrow?",
+      "a": "Caity Lotz",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Sara Lance's assassin alter ego?",
+      "a": "White Canary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Black Canary on Arrow?",
+      "a": "Katie Cassidy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Dinah Laurel Lance's hero name?",
+      "a": "Black Canary",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Black Canary's father?",
+      "a": "Quentin Lance",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What team does Ray Palmer join as the Atom?",
+      "a": "Legends",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Ray Palmer?",
+      "a": "Brandon Routh",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What movie did Brandon Routh play Superman in?",
+      "a": "Superman Returns",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Superman Returns release?",
+      "a": "2006",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Superman Returns?",
+      "a": "Bryan Singer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Man of Steel release?",
+      "a": "2013",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Batman v Superman release?",
+      "a": "2016",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Wonder Woman release?",
+      "a": "2017",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who directed Wonder Woman 2017?",
+      "a": "Patty Jenkins",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Justice League release?",
+      "a": "2017",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Steppenwolf in Justice League?",
+      "a": "Ciaran Hinds",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did The Flash movie release?",
+      "a": "2023",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Supergirl in The Flash film?",
+      "a": "Sasha Calle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Two-Face's real name?",
+      "a": "Harvey Dent",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the League of Shadows leader?",
+      "a": "Ra's al Ghul",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Bane's prison origin?",
+      "a": "Pena Duro",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Scarecrow in Batman Begins?",
+      "a": "Cillian Murphy",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Harley Quinn's real name?",
+      "a": "Harleen Quinzel",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who played Joker in Suicide Squad 2016?",
+      "a": "Jared Leto",
+      "file": "qualityBackfill"
+    },
+    {
       "q": "Who is the main villain in Justice League (2017)?",
       "a": "Steppenwolf",
       "file": "App.jsx"
@@ -265,11 +920,6 @@
     {
       "q": "What is the Green Lantern Corps?",
       "a": "An intergalactic police force created by the Guardians of the Universe on Oa",
-      "file": "App.jsx"
-    },
-    {
-      "q": "What is the Speed Force?",
-      "a": "A unique extradimensional energy that all speedsters draw power from",
       "file": "App.jsx"
     },
     {
@@ -478,6 +1128,371 @@
       "q": "What villain does Robert Pattinson's Batman hunt with ciphers?",
       "a": "Riddler",
       "file": "triviaTierParityExpansions"
+    },
+    {
+      "q": "What villain does Colin Farrell play in The Batman (2022)?",
+      "a": "The Penguin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What DC character is also known as the Emerald Archer?",
+      "a": "Green Arrow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Beast Boy's real name?",
+      "a": "Garfield Logan",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Raven's demon father?",
+      "a": "Trigon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What team includes Robin, Starfire, Cyborg, Beast Boy, and Raven?",
+      "a": "Teen Titans",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Starfire's home planet?",
+      "a": "Tamaran",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is Starfire's birth name?",
+      "a": "Koriand'r",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Starfire's villainous older sister?",
+      "a": "Blackfire",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Mr. Freeze in Batman & Robin?",
+      "a": "Arnold Schwarzenegger",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays The Riddler in Batman Forever?",
+      "a": "Jim Carrey",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Two-Face in Batman Forever?",
+      "a": "Tommy Lee Jones",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the Penguin in Batman Returns?",
+      "a": "Danny DeVito",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Catwoman in Batman Returns?",
+      "a": "Michelle Pfeiffer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Selina Kyle in Catwoman (2004)?",
+      "a": "Halle Berry",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays General Zod in Man of Steel?",
+      "a": "Michael Shannon",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jor-El in Man of Steel?",
+      "a": "Russell Crowe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Martha Kent in Man of Steel?",
+      "a": "Diane Lane",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Jonathan Kent in Man of Steel?",
+      "a": "Kevin Costner",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the name of the Amazon queen?",
+      "a": "Hippolyta",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hippolyta in Wonder Woman?",
+      "a": "Connie Nielsen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Wonder Woman's aunt and trainer?",
+      "a": "Antiope",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Antiope in Wonder Woman?",
+      "a": "Robin Wright",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Steve Trevor in Wonder Woman?",
+      "a": "Chris Pine",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Maxwell Lord in Wonder Woman 1984?",
+      "a": "Pedro Pascal",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Cheetah in Wonder Woman 1984?",
+      "a": "Kristen Wiig",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Hespera in Shazam! Fury of the Gods?",
+      "a": "Helen Mirren",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Kalypso in Shazam! Fury of the Gods?",
+      "a": "Lucy Liu",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Freddy Freeman in Shazam?",
+      "a": "Jack Dylan Grazer",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays the wizard in Shazam?",
+      "a": "Djimon Hounsou",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who plays Dr. Sivana in Shazam?",
+      "a": "Mark Strong",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue did Superman first appear in?",
+      "a": "Action Comics 1",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue did Batman first appear in?",
+      "a": "Detective Comics 27",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What issue did Wonder Woman debut?",
+      "a": "All Star Comics 8",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Wonder Woman debut?",
+      "a": "1941",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Wonder Woman?",
+      "a": "William Moulton Marston",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created the original Flash with Harry Lampert?",
+      "a": "Gardner Fox",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did the Golden Age Flash debut?",
+      "a": "1940",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What is the Golden Age Flash's name?",
+      "a": "Jay Garrick",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Barry Allen debut?",
+      "a": "1956",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the third Flash?",
+      "a": "Wally West",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Wally West's uncle?",
+      "a": "Barry Allen",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who created Green Lantern Alan Scott?",
+      "a": "Martin Nodell",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who co-created Hal Jordan's Green Lantern with Gil Kane?",
+      "a": "John Broome",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Hal Jordan debut?",
+      "a": "1959",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the Green Lantern Corps leader body?",
+      "a": "Guardians of Universe",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What planet is the Green Lantern Corps headquartered on?",
+      "a": "Oa",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color represents fear in Lantern lore?",
+      "a": "Yellow",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color represents love?",
+      "a": "Violet",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What color represents rage?",
+      "a": "Red",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Sinestro?",
+      "a": "Former Green Lantern",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Jason Todd?",
+      "a": "Second Robin",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who kills Jason Todd?",
+      "a": "Joker",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What storyline kills Jason Todd?",
+      "a": "Death in Family",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Death in the Family publish?",
+      "a": "1988",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the third Robin?",
+      "a": "Tim Drake",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is Damian Wayne?",
+      "a": "Batman's son",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote The Dark Knight Returns?",
+      "a": "Frank Miller",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did The Dark Knight Returns publish?",
+      "a": "1986",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote Watchmen?",
+      "a": "Alan Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who illustrated Watchmen?",
+      "a": "Dave Gibbons",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote The Killing Joke?",
+      "a": "Alan Moore",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What happens to Barbara in The Killing Joke?",
+      "a": "Paralyzed",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What wheelchair hero identity does Barbara take?",
+      "a": "Oracle",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote Crisis on Infinite Earths?",
+      "a": "Marv Wolfman",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who illustrated Crisis on Infinite Earths?",
+      "a": "George Perez",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Crisis on Infinite Earths publish?",
+      "a": "1985",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who dies in the original Crisis on Infinite Earths?",
+      "a": "Supergirl",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote Kingdom Come?",
+      "a": "Mark Waid",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who painted Kingdom Come?",
+      "a": "Alex Ross",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "What year did Kingdom Come publish?",
+      "a": "1996",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who wrote The Long Halloween?",
+      "a": "Jeph Loeb",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who drew The Long Halloween?",
+      "a": "Tim Sale",
+      "file": "qualityBackfill"
+    },
+    {
+      "q": "Who is the fourth Robin?",
+      "a": "Stephanie Brown",
+      "file": "qualityBackfill"
     },
     {
       "q": "What is the Doomsday Clock storyline?",
