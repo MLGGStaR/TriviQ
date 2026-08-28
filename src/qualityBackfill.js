@@ -156,6 +156,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does Oliver publicly reveal at the end of season 6?",
         "a": "He is the Green Arrow"
+      },
+      {
+        "q": "In what year did Arrow air its series finale?",
+        "a": "2020"
+      },
+      {
+        "q": "Which Arrowverse series follows a speedster based in Central City?",
+        "a": "The Flash"
+      },
+      {
+        "q": "Which Queen sibling does Roy Harper fall in love with?",
+        "a": "Thea"
+      },
+      {
+        "q": "Apart from black, what colour is Slade Wilson's mask?",
+        "a": "Orange"
+      },
+      {
+        "q": "Which gym apparatus does Oliver famously climb rung by rung in his lair?",
+        "a": "Salmon ladder"
+      },
+      {
+        "q": "Which series about a Kryptonian heroine joined Arrow's annual crossovers from 2016?",
+        "a": "Supergirl"
+      },
+      {
+        "q": "What bladed weapon does Slade Wilson carry on his back?",
+        "a": "Sword"
+      },
+      {
+        "q": "Which Canadian city stands in for Star City during filming?",
+        "a": "Vancouver"
+      },
+      {
+        "q": "What is the title of Arrow's very first episode?",
+        "a": "Pilot"
+      },
+      {
+        "q": "In which crossover do Oliver and Barry wake up living each other's lives?",
+        "a": "Elseworlds"
+      },
+      {
+        "q": "Which cowled Gotham heroine made her live-action debut in the Elseworlds crossover?",
+        "a": "Batwoman"
+      },
+      {
+        "q": "Which city, home of Wayne Enterprises, do the heroes visit during Elseworlds?",
+        "a": "Gotham City"
+      },
+      {
+        "q": "Which Team Arrow member fights wearing a hockey mask?",
+        "a": "Rene Ramirez"
+      },
+      {
+        "q": "Who trains Thea to fight after she loses everything in season 3?",
+        "a": "Malcolm Merlyn"
+      },
+      {
+        "q": "What collapsible weapon does Sara Lance fight with?",
+        "a": "Bo staff"
+      },
+      {
+        "q": "What relation is Thea to Oliver's son William?",
+        "a": "Aunt"
+      },
+      {
+        "q": "Which of the two Lance sisters dies first on the series?",
+        "a": "Sara"
+      },
+      {
+        "q": "What is Laurel Lance's profession when the series begins?",
+        "a": "Lawyer"
+      },
+      {
+        "q": "Which family member serves as Oliver's chief of staff once he becomes mayor?",
+        "a": "Thea"
+      },
+      {
+        "q": "What surname does Oliver's son carry from his mother?",
+        "a": "Clayton"
+      },
+      {
+        "q": "What kind of arrow does Oliver fire to swing between rooftops?",
+        "a": "Grappling arrow"
       }
     ],
     "400": [
@@ -410,6 +494,130 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which country's fishermen rescue Oliver from Lian Yu?",
         "a": "China"
+      },
+      {
+        "q": "Which public office does Adrian Chase hold in Star City?",
+        "a": "District attorney"
+      },
+      {
+        "q": "Which trench-coated occult detective appears in season 4 to restore Sara's soul?",
+        "a": "John Constantine"
+      },
+      {
+        "q": "Which season's flashbacks send Oliver back to the island he was stranded on?",
+        "a": "Season 4"
+      },
+      {
+        "q": "Who is revealed to be the mysterious new Green Arrow operating in season 7?",
+        "a": "Emiko Queen"
+      },
+      {
+        "q": "How does Malcolm Merlyn die in the season 5 finale?",
+        "a": "Steps on a landmine"
+      },
+      {
+        "q": "Which retired boxer trains Laurel to fight in season 3?",
+        "a": "Ted Grant"
+      },
+      {
+        "q": "Which vigilante alias did Laurel's boxing mentor Ted Grant once use?",
+        "a": "Wildcat"
+      },
+      {
+        "q": "What gave Dinah Drake her sonic scream?",
+        "a": "Particle accelerator explosion"
+      },
+      {
+        "q": "What was the first name Oliver crossed off his father's list in the pilot?",
+        "a": "Adam Hunt"
+      },
+      {
+        "q": "What is the mountain stronghold of Ra's al Ghul's order called?",
+        "a": "Nanda Parbat"
+      },
+      {
+        "q": "What is the name of Diggle and Lyla's son?",
+        "a": "John Diggle Jr."
+      },
+      {
+        "q": "In which season do the vigilantes split into two rival teams?",
+        "a": "Season 6"
+      },
+      {
+        "q": "Which sea did the Queen's Gambit go down in?",
+        "a": "North China Sea"
+      },
+      {
+        "q": "Which season's flashbacks are set in Hong Kong?",
+        "a": "Season 3"
+      },
+      {
+        "q": "Which season's flashbacks are set in Russia?",
+        "a": "Season 5"
+      },
+      {
+        "q": "In which season does Roy Harper leave Star City after faking his death?",
+        "a": "Season 3"
+      },
+      {
+        "q": "How many episodes were in Arrow's first season?",
+        "a": "23"
+      },
+      {
+        "q": "How many episodes make up Arrow's final season?",
+        "a": "10"
+      },
+      {
+        "q": "What are the initials of Star City's police department?",
+        "a": "SCPD"
+      },
+      {
+        "q": "Who kills Damien Darhk?",
+        "a": "Oliver Queen"
+      },
+      {
+        "q": "In which season finale does Oliver finally kill Ra's al Ghul?",
+        "a": "Season 3"
+      },
+      {
+        "q": "Who is the first person to learn that Oliver is the hooded vigilante?",
+        "a": "John Diggle"
+      },
+      {
+        "q": "In which season did Felicity Smoak become a series regular?",
+        "a": "Season 2"
+      },
+      {
+        "q": "Which Team Arrow member later becomes captain of the city police?",
+        "a": "Dinah Drake"
+      },
+      {
+        "q": "In which season do Oliver and Felicity finally get married?",
+        "a": "Season 6"
+      },
+      {
+        "q": "What line of work is Helena Bertinelli's father Frank in?",
+        "a": "Mob boss"
+      },
+      {
+        "q": "What happened to Tommy Merlyn's mother, setting his father on his path?",
+        "a": "She was murdered"
+      },
+      {
+        "q": "Which Team Arrow member develops a hand tremor from a nerve injury in season 6?",
+        "a": "John Diggle"
+      },
+      {
+        "q": "Which villain kills Ricardo Diaz behind bars in season 7?",
+        "a": "Emiko Queen"
+      },
+      {
+        "q": "How does Adrian Chase die in the season 5 finale?",
+        "a": "Shoots himself"
+      },
+      {
+        "q": "Who kills the vigilante Vincent Sobel in season 6?",
+        "a": "Black Siren"
       }
     ],
     "600": [
@@ -672,6 +880,142 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many episodes of Arrow were produced in total?",
         "a": "170"
+      },
+      {
+        "q": "What is the real name of the season 3 crime lord known as Brick?",
+        "a": "Danny Brickwell"
+      },
+      {
+        "q": "What is the real name of the red-clad archer code-named Cupid?",
+        "a": "Carrie Cutter"
+      },
+      {
+        "q": "What drug was Thea secretly dosed with when she killed Sara Lance?",
+        "a": "Votura"
+      },
+      {
+        "q": "Who is Damien Darhk's wife, installed as Star City's mayor?",
+        "a": "Ruve Adams"
+      },
+      {
+        "q": "What is the name of Damien Darhk's young daughter?",
+        "a": "Nora"
+      },
+      {
+        "q": "Which mercenary runs the island dig site in the season 4 flashbacks?",
+        "a": "Baron Reiter"
+      },
+      {
+        "q": "Which crime boss is Oliver's main enemy in the first half of season 5?",
+        "a": "Tobias Church"
+      },
+      {
+        "q": "What is the real name of the master of disguise known as the Human Target?",
+        "a": "Christopher Chance"
+      },
+      {
+        "q": "What is the real name of the assassin Bronze Tiger?",
+        "a": "Ben Turner"
+      },
+      {
+        "q": "What is the real name of the boomerang-throwing Australian assassin Team Arrow fights?",
+        "a": "Digger Harkness"
+      },
+      {
+        "q": "What is the real name of the villain called the Clock King?",
+        "a": "William Tockman"
+      },
+      {
+        "q": "What is the real name of the arsonist known as Firefly?",
+        "a": "Garfield Lynns"
+      },
+      {
+        "q": "What is the real name of the masked anarchist who calls himself Anarky?",
+        "a": "Lonnie Machin"
+      },
+      {
+        "q": "What is the real name of the man who takes up the Count Vertigo mantle in season 2?",
+        "a": "Werner Zytle"
+      },
+      {
+        "q": "What is the title of Arrow's second season finale?",
+        "a": "Unthinkable"
+      },
+      {
+        "q": "What is the title of Arrow's fourth season finale?",
+        "a": "Schism"
+      },
+      {
+        "q": "What is the title of Arrow's sixth season finale?",
+        "a": "Life Sentence"
+      },
+      {
+        "q": "What is the title of the season 7 finale?",
+        "a": "You Have Saved This City"
+      },
+      {
+        "q": "What is the title of the season 8 premiere, named after the city's old name?",
+        "a": "Starling City"
+      },
+      {
+        "q": "Which episode, titled with a time on the clock, is the one where Laurel Lance dies?",
+        "a": "Eleven-Fifty-Nine"
+      },
+      {
+        "q": "Which alias does Oliver's grown daughter use in the 2040 storyline before taking up the bow?",
+        "a": "Blackstar"
+      },
+      {
+        "q": "What is the Queen family housekeeper's name?",
+        "a": "Raisa"
+      },
+      {
+        "q": "What is Thea Queen's middle name?",
+        "a": "Dearden"
+      },
+      {
+        "q": "What is the real name of Felicity's hacker father?",
+        "a": "Noah Kuttler"
+      },
+      {
+        "q": "Who composed the musical score for Arrow?",
+        "a": "Blake Neely"
+      },
+      {
+        "q": "Which street kid befriends Sara Lance in the Glades in season 2?",
+        "a": "Sin"
+      },
+      {
+        "q": "Which Longbow Hunter fights with thrown darts?",
+        "a": "Red Dart"
+      },
+      {
+        "q": "What League of Assassins name is given to Malcolm Merlyn?",
+        "a": "Al Sa-her"
+      },
+      {
+        "q": "What does Malcolm Merlyn's League of Assassins name mean in English?",
+        "a": "The Magician"
+      },
+      {
+        "q": "What League of Assassins name does Maseo Yamashiro take?",
+        "a": "Sarab"
+      },
+      {
+        "q": "What is the earthquake machine built for the Undertaking called?",
+        "a": "Markov Device"
+      },
+      {
+        "q": "What are the initials of the legal aid clinic where Laurel works in season 1?",
+        "a": "CNRI"
+      },
+      {
+        "q": "Which Slabside inmate befriends Oliver and turns out to be a killer?",
+        "a": "Stanley Dover"
+      },
+      {
+        "q": "Who is Thea's boyfriend and campaign aide during Oliver's mayoral run?",
+        "a": "Alex Davis"
       }
     ]
   },
@@ -776,6 +1120,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "What countries border Bangladesh (surrounded on three sides)?",
         "a": "India"
+      },
+      {
+        "q": "Which country borders France, Switzerland, Austria and Slovenia?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which country borders Portugal, France and Andorra?",
+        "a": "Spain"
+      },
+      {
+        "q": "Which country's only land neighbours are Canada and Mexico?",
+        "a": "United States"
+      },
+      {
+        "q": "Which country's only two land neighbours are Belgium and Germany?",
+        "a": "Netherlands"
+      },
+      {
+        "q": "Which country's only two land neighbours are Norway and Finland?",
+        "a": "Sweden"
+      },
+      {
+        "q": "Which country borders Sweden, Norway and Russia?",
+        "a": "Finland"
+      },
+      {
+        "q": "Which country borders Sweden, Finland and Russia?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which country borders Denmark, Poland, the Czech Republic and the Netherlands?",
+        "a": "Germany"
+      },
+      {
+        "q": "Which country borders Germany, the Czech Republic, Slovakia and Ukraine?",
+        "a": "Poland"
+      },
+      {
+        "q": "Which country borders Germany, Italy, Hungary and Switzerland?",
+        "a": "Austria"
+      },
+      {
+        "q": "Which country borders France, Germany, Italy and Austria?",
+        "a": "Switzerland"
+      },
+      {
+        "q": "Which country borders France, the Netherlands, Luxembourg and Germany?",
+        "a": "Belgium"
+      },
+      {
+        "q": "Which country borders Albania, Bulgaria and Turkey?",
+        "a": "Greece"
+      },
+      {
+        "q": "Which country borders Greece, Bulgaria, Georgia and Syria?",
+        "a": "Turkey"
+      },
+      {
+        "q": "Which country borders Poland, Romania, Belarus and Hungary?",
+        "a": "Ukraine"
+      },
+      {
+        "q": "Which country borders the United States, Guatemala and Belize?",
+        "a": "Mexico"
+      },
+      {
+        "q": "Which country borders Argentina, Peru, Colombia and Venezuela?",
+        "a": "Brazil"
+      },
+      {
+        "q": "Which country borders Chile, Bolivia, Uruguay and Brazil?",
+        "a": "Argentina"
+      },
+      {
+        "q": "Which country borders Ecuador, Colombia, Brazil and Chile?",
+        "a": "Peru"
+      },
+      {
+        "q": "Which South American country's only land neighbours are Peru, Bolivia and Argentina?",
+        "a": "Chile"
+      },
+      {
+        "q": "Which country borders Panama, Venezuela, Ecuador and Peru?",
+        "a": "Colombia"
+      },
+      {
+        "q": "Which country borders Pakistan, Nepal, Bangladesh and Myanmar?",
+        "a": "India"
+      },
+      {
+        "q": "Which country borders India, Iran, Afghanistan and China?",
+        "a": "Pakistan"
+      },
+      {
+        "q": "Which country borders Libya, Sudan and Israel?",
+        "a": "Egypt"
+      },
+      {
+        "q": "Which country borders Lebanon, Jordan and Egypt?",
+        "a": "Israel"
+      },
+      {
+        "q": "Which country borders China, Laos and Cambodia?",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Which country borders Myanmar, Laos, Cambodia and Malaysia?",
+        "a": "Thailand"
+      },
+      {
+        "q": "Which country borders Iraq, Turkey, Afghanistan and Pakistan?",
+        "a": "Iran"
+      },
+      {
+        "q": "Which country borders Turkey, Iran, Syria and Kuwait?",
+        "a": "Iraq"
+      },
+      {
+        "q": "Which country borders Jordan, Iraq, Yemen and Oman?",
+        "a": "Saudi Arabia"
+      },
+      {
+        "q": "Which country borders Finland, Estonia, Ukraine and Mongolia?",
+        "a": "Russia"
+      },
+      {
+        "q": "Which country borders Mongolia, Nepal, Vietnam and Kazakhstan?",
+        "a": "China"
+      },
+      {
+        "q": "Which country borders Namibia, Botswana, Zimbabwe and Mozambique?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Which country borders Ethiopia, Somalia, Tanzania and Uganda?",
+        "a": "Kenya"
+      },
+      {
+        "q": "Which country borders Benin, Niger, Chad and Cameroon?",
+        "a": "Nigeria"
+      },
+      {
+        "q": "Which country borders Eritrea, Djibouti, Somalia and Kenya?",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "Which country shares land borders with Malaysia, Papua New Guinea and Timor-Leste?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Which country borders Iran, Pakistan, Turkmenistan and Tajikistan?",
+        "a": "Afghanistan"
+      },
+      {
+        "q": "Which country shares land borders with Thailand, Indonesia and Brunei?",
+        "a": "Malaysia"
+      },
+      {
+        "q": "Which country's only two land neighbours are Colombia and Peru?",
+        "a": "Ecuador"
       }
     ],
     "400": [
@@ -954,6 +1458,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "What countries border Honduras (to the south-east)?",
         "a": "Nicaragua"
+      },
+      {
+        "q": "Which country borders Germany, Poland, Slovakia and Austria?",
+        "a": "Czech Republic"
+      },
+      {
+        "q": "Which country borders Austria, Slovakia, Romania and Serbia?",
+        "a": "Hungary"
+      },
+      {
+        "q": "Which country borders Hungary, Ukraine, Bulgaria and Serbia?",
+        "a": "Romania"
+      },
+      {
+        "q": "Which country borders Romania, Serbia, Greece and Turkey?",
+        "a": "Bulgaria"
+      },
+      {
+        "q": "Which country borders Poland, Ukraine, Hungary and the Czech Republic?",
+        "a": "Slovakia"
+      },
+      {
+        "q": "Which country borders Slovenia, Hungary, Serbia and Bosnia and Herzegovina?",
+        "a": "Croatia"
+      },
+      {
+        "q": "Which country borders Hungary, Romania, Bulgaria and Croatia?",
+        "a": "Serbia"
+      },
+      {
+        "q": "Which country borders Poland, Lithuania, Ukraine and Russia?",
+        "a": "Belarus"
+      },
+      {
+        "q": "Which country borders Latvia, Belarus, Poland and Russia?",
+        "a": "Lithuania"
+      },
+      {
+        "q": "Which country borders Estonia, Russia, Belarus and Lithuania?",
+        "a": "Latvia"
+      },
+      {
+        "q": "Which country's only two land neighbours are Latvia and Russia?",
+        "a": "Estonia"
+      },
+      {
+        "q": "Which country borders Russia, China, Uzbekistan and Turkmenistan?",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Which country borders Kazakhstan, Kyrgyzstan, Tajikistan and Afghanistan?",
+        "a": "Uzbekistan"
+      },
+      {
+        "q": "Which country borders Turkey, Iraq, Jordan and Lebanon?",
+        "a": "Syria"
+      },
+      {
+        "q": "Which country borders Syria, Iraq, Saudi Arabia and Israel?",
+        "a": "Jordan"
+      },
+      {
+        "q": "Which country's only two land neighbours are Syria and Israel?",
+        "a": "Lebanon"
+      },
+      {
+        "q": "Which country borders Saudi Arabia, Yemen and the United Arab Emirates?",
+        "a": "Oman"
+      },
+      {
+        "q": "Which country's only two land neighbours are Iraq and Saudi Arabia?",
+        "a": "Kuwait"
+      },
+      {
+        "q": "Which country borders India, Bangladesh, China and Thailand?",
+        "a": "Myanmar"
+      },
+      {
+        "q": "Which country borders Thailand, Laos and Vietnam?",
+        "a": "Cambodia"
+      },
+      {
+        "q": "Which country borders Vietnam, Cambodia, Thailand and Myanmar?",
+        "a": "Laos"
+      },
+      {
+        "q": "Which country's only two land neighbours are India and Myanmar?",
+        "a": "Bangladesh"
+      },
+      {
+        "q": "Which country's only two land neighbours are Russia and China?",
+        "a": "Mongolia"
+      },
+      {
+        "q": "Which country borders Russia, Turkey, Armenia and Azerbaijan?",
+        "a": "Georgia"
+      },
+      {
+        "q": "Which country borders Georgia, Azerbaijan, Iran and Turkey?",
+        "a": "Armenia"
+      },
+      {
+        "q": "Which country borders Russia, Georgia, Armenia and Iran?",
+        "a": "Azerbaijan"
+      },
+      {
+        "q": "Which country borders Colombia, Brazil and Guyana?",
+        "a": "Venezuela"
+      },
+      {
+        "q": "Which country borders Brazil, Paraguay, Argentina and Chile?",
+        "a": "Bolivia"
+      },
+      {
+        "q": "Which country's only land neighbours are Bolivia, Brazil and Argentina?",
+        "a": "Paraguay"
+      },
+      {
+        "q": "Which country's only two land neighbours are Brazil and Argentina?",
+        "a": "Uruguay"
+      },
+      {
+        "q": "Which country borders Mexico, Belize, Honduras and El Salvador?",
+        "a": "Guatemala"
+      },
+      {
+        "q": "Which country borders Guatemala, El Salvador and Nicaragua?",
+        "a": "Honduras"
+      },
+      {
+        "q": "Which country's only two land neighbours are Costa Rica and Colombia?",
+        "a": "Panama"
+      },
+      {
+        "q": "Which country borders Kenya, Uganda, Zambia and Mozambique?",
+        "a": "Tanzania"
+      },
+      {
+        "q": "Which country borders Kenya, Tanzania, Rwanda and South Sudan?",
+        "a": "Uganda"
+      },
+      {
+        "q": "Which country borders Egypt, Libya, Chad and Eritrea?",
+        "a": "Sudan"
+      },
+      {
+        "q": "Which country borders Morocco, Tunisia, Libya and Niger?",
+        "a": "Algeria"
+      },
+      {
+        "q": "Which country borders Egypt, Sudan, Chad and Tunisia?",
+        "a": "Libya"
+      },
+      {
+        "q": "Which country's only two land neighbours are Algeria and Libya?",
+        "a": "Tunisia"
+      },
+      {
+        "q": "Which country borders Ivory Coast, Burkina Faso and Togo?",
+        "a": "Ghana"
       }
     ],
     "600": [
@@ -1114,8 +1778,160 @@ const QUALITY_BACKFILL = {
         "a": "Ethiopia"
       },
       {
-        "q": "What countries border South Sudan (to the south)?",
-        "a": "Uganda"
+        "q": "Which country borders Italy, Austria, Hungary and Croatia?",
+        "a": "Slovenia"
+      },
+      {
+        "q": "Which country's only land neighbours are Croatia, Serbia and Montenegro?",
+        "a": "Bosnia and Herzegovina"
+      },
+      {
+        "q": "Which country borders Croatia, Bosnia and Herzegovina, Serbia and Albania?",
+        "a": "Montenegro"
+      },
+      {
+        "q": "Which country borders Serbia, Bulgaria, Greece and Albania?",
+        "a": "North Macedonia"
+      },
+      {
+        "q": "Which territory borders Serbia, North Macedonia, Albania and Montenegro?",
+        "a": "Kosovo"
+      },
+      {
+        "q": "Which country borders Montenegro, Kosovo, North Macedonia and Greece?",
+        "a": "Albania"
+      },
+      {
+        "q": "Which country's only two land neighbours are Romania and Ukraine?",
+        "a": "Moldova"
+      },
+      {
+        "q": "Which country's only land neighbours are Belgium, Germany and France?",
+        "a": "Luxembourg"
+      },
+      {
+        "q": "Which country's only two land neighbours are Spain and France?",
+        "a": "Andorra"
+      },
+      {
+        "q": "Which country's only two land neighbours are Switzerland and Austria?",
+        "a": "Liechtenstein"
+      },
+      {
+        "q": "Which country borders Kazakhstan, Uzbekistan, Afghanistan and Iran?",
+        "a": "Turkmenistan"
+      },
+      {
+        "q": "Which country borders Kazakhstan, Uzbekistan, Tajikistan and China?",
+        "a": "Kyrgyzstan"
+      },
+      {
+        "q": "Which country borders Uzbekistan, Kyrgyzstan, China and Afghanistan?",
+        "a": "Tajikistan"
+      },
+      {
+        "q": "Which country borders Libya, Sudan, Niger and Cameroon?",
+        "a": "Chad"
+      },
+      {
+        "q": "Which country borders Algeria, Niger, Burkina Faso and Senegal?",
+        "a": "Mali"
+      },
+      {
+        "q": "Which country borders Mali, Niger, Benin and Ghana?",
+        "a": "Burkina Faso"
+      },
+      {
+        "q": "Which country borders Nigeria, Niger, Burkina Faso and Togo?",
+        "a": "Benin"
+      },
+      {
+        "q": "Which country's only land neighbours are Ghana, Burkina Faso and Benin?",
+        "a": "Togo"
+      },
+      {
+        "q": "Which country borders Liberia, Guinea, Mali and Ghana?",
+        "a": "Ivory Coast"
+      },
+      {
+        "q": "Which country borders Sierra Leone, Liberia, Senegal and Mali?",
+        "a": "Guinea"
+      },
+      {
+        "q": "Which country borders Mauritania, Mali, Guinea-Bissau and the Gambia?",
+        "a": "Senegal"
+      },
+      {
+        "q": "Which country borders Algeria, Mali and Senegal?",
+        "a": "Mauritania"
+      },
+      {
+        "q": "Which country's only two land neighbours are Guinea and Liberia?",
+        "a": "Sierra Leone"
+      },
+      {
+        "q": "Which country's only land neighbours are Sierra Leone, Guinea and Ivory Coast?",
+        "a": "Liberia"
+      },
+      {
+        "q": "Which country borders Chad, Sudan, South Sudan and Cameroon?",
+        "a": "Central African Republic"
+      },
+      {
+        "q": "Which country borders Ethiopia, Kenya, Uganda and the Central African Republic?",
+        "a": "South Sudan"
+      },
+      {
+        "q": "Which country's only land neighbours are Sudan, Ethiopia and Djibouti?",
+        "a": "Eritrea"
+      },
+      {
+        "q": "Which country's only land neighbours are Eritrea, Ethiopia and Somalia?",
+        "a": "Djibouti"
+      },
+      {
+        "q": "Which country's only land neighbours are Ethiopia, Kenya and Djibouti?",
+        "a": "Somalia"
+      },
+      {
+        "q": "Which country borders Uganda, Tanzania, Burundi and the Democratic Republic of the Congo?",
+        "a": "Rwanda"
+      },
+      {
+        "q": "Which country's only land neighbours are Rwanda, Tanzania and the Democratic Republic of the Congo?",
+        "a": "Burundi"
+      },
+      {
+        "q": "Which country borders Malawi, Zimbabwe, Angola and Tanzania?",
+        "a": "Zambia"
+      },
+      {
+        "q": "Which country's only land neighbours are Zambia, Tanzania and Mozambique?",
+        "a": "Malawi"
+      },
+      {
+        "q": "Which country borders Tanzania, Malawi, Zimbabwe and Eswatini?",
+        "a": "Mozambique"
+      },
+      {
+        "q": "Which country's only two land neighbours are South Africa and Mozambique?",
+        "a": "Eswatini"
+      },
+      {
+        "q": "Which country borders Gabon, Cameroon, the Central African Republic and Angola?",
+        "a": "Republic of the Congo"
+      },
+      {
+        "q": "Which country borders Equatorial Guinea, Cameroon and the Republic of the Congo?",
+        "a": "Gabon"
+      },
+      {
+        "q": "Which mainland country's only two land neighbours are Cameroon and Gabon?",
+        "a": "Equatorial Guinea"
+      },
+      {
+        "q": "Which country borders Guyana, Brazil and French Guiana?",
+        "a": "Suriname"
       }
     ]
   },
@@ -1316,6 +2132,58 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which detective comes from a large Cuban-American family?",
         "a": "Amy"
+      },
+      {
+        "q": "Which member of the squad has been friends with Jake since they were children?",
+        "a": "Gina Linetti"
+      },
+      {
+        "q": "What affectionate nickname does Charles constantly use for Jake?",
+        "a": "Jakey"
+      },
+      {
+        "q": "Which pop superstar is Jake an enthusiastic fan of?",
+        "a": "Taylor Swift"
+      },
+      {
+        "q": "In the pilot, what item of clothing does the new captain order Jake to start wearing?",
+        "a": "A tie"
+      },
+      {
+        "q": "What two-word chant does the squad shout together to celebrate a win?",
+        "a": "Nine-Nine"
+      },
+      {
+        "q": "Which detective is known for glaring and giving blunt one-word answers?",
+        "a": "Rosa Diaz"
+      },
+      {
+        "q": "Which officer is repeatedly shown sitting at his desk with his shirt off?",
+        "a": "Hitchcock"
+      },
+      {
+        "q": "What does the squad's smug detective rival habitually do with their cases?",
+        "a": "Steals them"
+      },
+      {
+        "q": "What shortened nickname does Jake use for his wife?",
+        "a": "Ames"
+      },
+      {
+        "q": "In what year did the series finale air?",
+        "a": "2021"
+      },
+      {
+        "q": "What does Charles seem to have an endless supply of to help with cases?",
+        "a": "Cousins"
+      },
+      {
+        "q": "Which boy band's hit does the squad sing together in a famous scene?",
+        "a": "Backstreet Boys"
+      },
+      {
+        "q": "Which country do Jake and Amy travel to for their honeymoon?",
+        "a": "Mexico"
       }
     ],
     "400": [
@@ -1566,6 +2434,66 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the captain who briefly replaces Holt and dies of a heart attack?",
         "a": "Dozerman"
+      },
+      {
+        "q": "What did Jake bet he could steal from the captain in the very first Halloween Heist?",
+        "a": "His Medal of Valor"
+      },
+      {
+        "q": "In which season does Rosa resign from the NYPD?",
+        "a": "Eight"
+      },
+      {
+        "q": "In which season is Jake and Amy's son born?",
+        "a": "Seven"
+      },
+      {
+        "q": "Terry spent the start of the series stuck on desk duty after which family event?",
+        "a": "The birth of his twins"
+      },
+      {
+        "q": "By what two initials is the amiable but useless captain of season four known?",
+        "a": "C.J."
+      },
+      {
+        "q": "Which awards ceremony named the show Best Television Series, Musical or Comedy, in 2014?",
+        "a": "The Golden Globes"
+      },
+      {
+        "q": "What is Terry Jeffords' full first name?",
+        "a": "Terrance"
+      },
+      {
+        "q": "In the Die Hard-themed Christmas episode, where are Jake and Charles trapped by robbers?",
+        "a": "A department store"
+      },
+      {
+        "q": "What is the profession of the murder suspect Jake and Holt interrogate all night in \"The Box\"?",
+        "a": "Dentist"
+      },
+      {
+        "q": "What emergency does Rosa insist on responding to alone in \"Show Me Going\"?",
+        "a": "An active shooter"
+      },
+      {
+        "q": "At what occasion do the squad first meet the captain's husband?",
+        "a": "His birthday party"
+      },
+      {
+        "q": "What two-word superhero-style nickname is Terry known by in the field?",
+        "a": "The Ebony Falcon"
+      },
+      {
+        "q": "Which squad member follows Holt to the Public Relations office in season three?",
+        "a": "Gina"
+      },
+      {
+        "q": "Detectives from which country come to work with the Nine-Nine in season three?",
+        "a": "Sweden"
+      },
+      {
+        "q": "How many episodes make up the show's final season?",
+        "a": "Ten"
       }
     ],
     "600": [
@@ -1792,6 +2720,66 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is revealed as the FBI mole working with Jimmy Figgis?",
         "a": "Bob Annderson"
+      },
+      {
+        "q": "What is the name of the fantasy author Terry idolises?",
+        "a": "D.C. Parlov"
+      },
+      {
+        "q": "What names do Jake and Amy use when going undercover as a married couple?",
+        "a": "Johnny and Dora"
+      },
+      {
+        "q": "What lost item was Terry searching for when a patrol officer racially profiled him?",
+        "a": "His daughter's blanket"
+      },
+      {
+        "q": "What is the name of the pyramid-scheme wellness company Terry gets involved with?",
+        "a": "NutriBoom"
+      },
+      {
+        "q": "The flashback showing Hitchcock and Scully as slim young detectives is set in which decade?",
+        "a": "The 1980s"
+      },
+      {
+        "q": "What is the first name of Gina's mother?",
+        "a": "Darlene"
+      },
+      {
+        "q": "What is the first name of Amy's mother?",
+        "a": "Camila"
+      },
+      {
+        "q": "What is the title of the two-part series finale?",
+        "a": "The Last Day"
+      },
+      {
+        "q": "In \"Two Turkeys\", whose parents meet for the first time over Thanksgiving?",
+        "a": "Jake's and Amy's"
+      },
+      {
+        "q": "How is Milton Boyle related to Charles?",
+        "a": "His cousin"
+      },
+      {
+        "q": "How many episodes were in the show's first season?",
+        "a": "22"
+      },
+      {
+        "q": "What kind of restaurant is Sal's, the eatery Jake is fanatical about?",
+        "a": "A pizzeria"
+      },
+      {
+        "q": "What suspected hazard forces the precinct into lockdown in season two?",
+        "a": "Anthrax"
+      },
+      {
+        "q": "What is the surname of the captain who leads the Nine-Nine in season seven?",
+        "a": "Kim"
+      },
+      {
+        "q": "In \"The Last Ride\", what did the squad believe was about to happen to their precinct?",
+        "a": "It would be shut down"
       }
     ]
   },
@@ -1984,6 +2972,142 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the title of the 2025 film that unites Mr. Han and Daniel LaRusso?",
         "a": "Karate Kid: Legends"
+      },
+      {
+        "q": "Which school team does Daniel try out for after moving to California in the first film?",
+        "a": "Soccer"
+      },
+      {
+        "q": "Which state do Daniel and his mother leave behind at the start of the 1984 film?",
+        "a": "New Jersey"
+      },
+      {
+        "q": "What does Mr. Miyagi attempt to catch using chopsticks?",
+        "a": "A fly"
+      },
+      {
+        "q": "What arcade and mini-golf park hosts Daniel and Ali's first date?",
+        "a": "Golf 'N' Stuff"
+      },
+      {
+        "q": "What is Hawk's surname?",
+        "a": "Moskowitz"
+      },
+      {
+        "q": "What three-word order does Kreese bark at Johnny during the 1984 final?",
+        "a": "Sweep the leg"
+      },
+      {
+        "q": "Which of Daniel's joints does Miyagi heal before the 1984 final match?",
+        "a": "His knee"
+      },
+      {
+        "q": "What does Daniel offer free with every car sold at his dealership in season one?",
+        "a": "Karate lessons"
+      },
+      {
+        "q": "What is Daniel's costume at the Halloween dance in the 1984 film?",
+        "a": "A shower"
+      },
+      {
+        "q": "What are Johnny and his friends dressed as at that same Halloween dance?",
+        "a": "Skeletons"
+      },
+      {
+        "q": "Which chore did Miyagi make Daniel do on his wooden deck as secret training?",
+        "a": "Sanding the floor"
+      },
+      {
+        "q": "What must Miguel relearn to do after his fall in the season two finale?",
+        "a": "Walk"
+      },
+      {
+        "q": "In which US city is Karate Kid: Legends set?",
+        "a": "New York City"
+      },
+      {
+        "q": "What is the name of the teenager Mr. Han and Daniel train in Karate Kid: Legends?",
+        "a": "Li Fong"
+      },
+      {
+        "q": "What clothing drill does Mr. Han use to train Dre in the 2010 film?",
+        "a": "Jacket on, jacket off"
+      },
+      {
+        "q": "What natural disaster strikes the Okinawan village in Part II?",
+        "a": "A typhoon"
+      },
+      {
+        "q": "Which relative does Miyagi return to Okinawa to see in Part II?",
+        "a": "His father"
+      },
+      {
+        "q": "What job does Mr. Miyagi hold at Daniel's apartment building?",
+        "a": "Maintenance man"
+      },
+      {
+        "q": "What does Mr. Miyagi give Daniel as a birthday present in the 1984 film?",
+        "a": "A car"
+      },
+      {
+        "q": "Which bully beats up Miguel at school in the pilot episode?",
+        "a": "Kyler"
+      },
+      {
+        "q": "Whose old house becomes the home of Daniel's revived dojo?",
+        "a": "Mr. Miyagi's"
+      },
+      {
+        "q": "In which San Fernando Valley suburb does Daniel live in the 1984 film?",
+        "a": "Reseda"
+      },
+      {
+        "q": "What is Carmen's profession?",
+        "a": "Nurse"
+      },
+      {
+        "q": "How many Karate Kid films were released during the 1980s?",
+        "a": "Three"
+      },
+      {
+        "q": "In what year did The Karate Kid Part II reach cinemas?",
+        "a": "1986"
+      },
+      {
+        "q": "What is the name of the teenager Miyagi trains in The Next Karate Kid?",
+        "a": "Julie Pierce"
+      },
+      {
+        "q": "Who does Johnny propose to in the final season?",
+        "a": "Carmen"
+      },
+      {
+        "q": "Which sensei takes Robby in as a student during season two?",
+        "a": "Daniel LaRusso"
+      },
+      {
+        "q": "Which dojo does Miguel compete for at the season four All Valley?",
+        "a": "Eagle Fang"
+      },
+      {
+        "q": "Which tree does Miyagi teach Daniel to trim with his eyes closed?",
+        "a": "A bonsai"
+      },
+      {
+        "q": "In the 1984 film, what does Johnny snatch from Ali and smash on the beach?",
+        "a": "A radio"
+      },
+      {
+        "q": "Which two dojos join forces to train together against Silver in season five?",
+        "a": "Miyagi-Do and Eagle Fang"
+      },
+      {
+        "q": "Which member of Johnny's old crew has become a youth pastor by the series?",
+        "a": "Bobby"
+      },
+      {
+        "q": "Which dojo takes the team title at the Sekai Taikai?",
+        "a": "Miyagi-Do"
       }
     ],
     "400": [
@@ -2014,10 +3138,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Tory attacks Sam with what weapon?",
         "a": "Spiked bracelet"
-      },
-      {
-        "q": "What girlfriend does Johnny start dating?",
-        "a": "Carmen"
       },
       {
         "q": "Carmen is whose mother?",
@@ -2206,6 +3326,138 @@ const QUALITY_BACKFILL = {
       {
         "q": "In what year was The Karate Kid Part III released?",
         "a": "1989"
+      },
+      {
+        "q": "What is Demetri's surname?",
+        "a": "Alexopoulos"
+      },
+      {
+        "q": "Which season introduces Johnny's Eagle Fang dojo?",
+        "a": "Season 3"
+      },
+      {
+        "q": "Which dojo does Kyler sign up with when he takes up karate?",
+        "a": "Cobra Kai"
+      },
+      {
+        "q": "Who trains Kenny when he first walks into the dojo?",
+        "a": "Robby"
+      },
+      {
+        "q": "Who coaches the Cobra Kai team at the Sekai Taikai?",
+        "a": "Kreese"
+      },
+      {
+        "q": "What happens to Terry Silver at the very end of season five?",
+        "a": "He is arrested"
+      },
+      {
+        "q": "What is depicted on the Miyagi-Do dojo emblem?",
+        "a": "A bonsai tree"
+      },
+      {
+        "q": "In what year had Johnny already won the All Valley before facing Daniel?",
+        "a": "1983"
+      },
+      {
+        "q": "What did Daniel and Johnny agree to do if Cobra Kai won the season four All Valley?",
+        "a": "Close their dojos"
+      },
+      {
+        "q": "Whose intervention stops Kreese from strangling Johnny in the 1984 parking lot?",
+        "a": "Mr. Miyagi"
+      },
+      {
+        "q": "Which family loss pushes Tory back toward Kreese in season six?",
+        "a": "Her mother's death"
+      },
+      {
+        "q": "Which martial art did Li Fong practise before learning karate?",
+        "a": "Kung fu"
+      },
+      {
+        "q": "Which Peter Cetera song closes The Karate Kid Part II?",
+        "a": "Glory of Love"
+      },
+      {
+        "q": "What relation is Chozen to Sato?",
+        "a": "His nephew"
+      },
+      {
+        "q": "Which of Johnny's old friends is terminally ill when the 1984 crew reunites?",
+        "a": "Tommy"
+      },
+      {
+        "q": "Which of Johnny's old friends does he visit behind bars?",
+        "a": "Dutch"
+      },
+      {
+        "q": "What does Daniel smash at an Okinawan tea house to win a bet in Part II?",
+        "a": "Blocks of ice"
+      },
+      {
+        "q": "Which American city does Dre leave behind in the 2010 film?",
+        "a": "Detroit"
+      },
+      {
+        "q": "What is the name of Dre's crush in the 2010 film?",
+        "a": "Mei Ying"
+      },
+      {
+        "q": "Who is the young fighter tormenting Dre in the 2010 film?",
+        "a": "Cheng"
+      },
+      {
+        "q": "Which child did Miyagi lose at the Manzanar camp?",
+        "a": "His newborn son"
+      },
+      {
+        "q": "Why did Miyagi leave Okinawa as a young man?",
+        "a": "To avoid fighting Sato"
+      },
+      {
+        "q": "What property of Mike Barnes does Silver have destroyed in season five?",
+        "a": "His furniture store"
+      },
+      {
+        "q": "What weapon does Silver use to wound Chozen in the season five finale?",
+        "a": "A sword"
+      },
+      {
+        "q": "Which country is Kim Da-Eun's dojo based in?",
+        "a": "South Korea"
+      },
+      {
+        "q": "What kind of business made Terry Silver his fortune?",
+        "a": "Toxic waste disposal"
+      },
+      {
+        "q": "What killed Betsy while Kreese was serving in Vietnam?",
+        "a": "A car accident"
+      },
+      {
+        "q": "How many points win a match at the All Valley tournament?",
+        "a": "Three"
+      },
+      {
+        "q": "Who is the first girl to join Johnny's dojo?",
+        "a": "Aisha"
+      },
+      {
+        "q": "Which student does Terry Silver personally take under his wing in season four?",
+        "a": "Robby"
+      },
+      {
+        "q": "Who does Robby move in with in season five?",
+        "a": "Johnny"
+      },
+      {
+        "q": "Which city does Li Fong move away from in Karate Kid: Legends?",
+        "a": "Beijing"
+      },
+      {
+        "q": "What does Sato demand of Miyagi when he returns to his village?",
+        "a": "A fight to the death"
       }
     ],
     "600": [
@@ -2456,6 +3708,126 @@ const QUALITY_BACKFILL = {
       {
         "q": "What US military decoration did Mr. Miyagi receive for his service?",
         "a": "Medal of Honor"
+      },
+      {
+        "q": "Which company pulls its dealership licence from LaRusso Auto in season three?",
+        "a": "Doyona International"
+      },
+      {
+        "q": "How does young Kreese kill Captain Turner in Vietnam?",
+        "a": "Kicks him into a pit"
+      },
+      {
+        "q": "What job did young Kreese work at a diner before enlisting?",
+        "a": "Busboy"
+      },
+      {
+        "q": "What does Terry Silver stop taking in season four, unleashing his old ruthlessness?",
+        "a": "His medication"
+      },
+      {
+        "q": "During which Okinawan festival does Chozen challenge Daniel in Part II?",
+        "a": "O-bon"
+      },
+      {
+        "q": "How is Mike Barnes billed on the tournament circuit in Part III?",
+        "a": "The Bad Boy of Karate"
+      },
+      {
+        "q": "What is the name of Daniel's friend who helps run the shop in Part III?",
+        "a": "Jessica"
+      },
+      {
+        "q": "What does Daniel rappel down a cliff to retrieve in Part III?",
+        "a": "A bonsai tree"
+      },
+      {
+        "q": "How many years pass between the 1984 film and the start of the series?",
+        "a": "34"
+      },
+      {
+        "q": "How many episodes does Cobra Kai run to in total?",
+        "a": "65"
+      },
+      {
+        "q": "How many episodes make up Cobra Kai's sixth season?",
+        "a": "15"
+      },
+      {
+        "q": "In how many parts was the sixth season released?",
+        "a": "Three"
+      },
+      {
+        "q": "What married surname does Ali go by when she resurfaces?",
+        "a": "Schwarber"
+      },
+      {
+        "q": "What is the name of the Reseda apartment complex in the 1984 film?",
+        "a": "South Seas"
+      },
+      {
+        "q": "The All Valley championship is restricted to competitors under what age?",
+        "a": "18"
+      },
+      {
+        "q": "Which studio produces the Cobra Kai series?",
+        "a": "Sony Pictures Television"
+      },
+      {
+        "q": "What is the tournament in Karate Kid: Legends called?",
+        "a": "Five Boroughs"
+      },
+      {
+        "q": "Which sacred mountain do Dre and Mr. Han travel to in the 2010 film?",
+        "a": "Wudang Mountain"
+      },
+      {
+        "q": "What is the name of Julie Pierce's pet hawk?",
+        "a": "Angel"
+      },
+      {
+        "q": "What is the name of the cadet group run by the villain of The Next Karate Kid?",
+        "a": "Alpha Elite"
+      },
+      {
+        "q": "Who changes his story and turns on Silver in the season five finale?",
+        "a": "Stingray"
+      },
+      {
+        "q": "Which global tournament did Daniel learn Mr. Miyagi secretly entered in 1947?",
+        "a": "The Sekai Taikai"
+      },
+      {
+        "q": "Which Cobra Kai student illegally cripples Daniel's leg in the 1984 semifinal?",
+        "a": "Bobby"
+      },
+      {
+        "q": "Where does Miyagi take Julie to train in The Next Karate Kid?",
+        "a": "A Buddhist monastery"
+      },
+      {
+        "q": "Which school event does Julie finally attend at the end of her film?",
+        "a": "The prom"
+      },
+      {
+        "q": "What does Mr. Han rebuild and then wreck every year in mourning?",
+        "a": "A car"
+      },
+      {
+        "q": "What does Sato threaten to do to Miyagi's village in Part II?",
+        "a": "Bulldoze it"
+      },
+      {
+        "q": "What official document about Miyagi does Daniel uncover in season six?",
+        "a": "An arrest record"
+      },
+      {
+        "q": "What is the title of the season two finale?",
+        "a": "No Mercy"
+      },
+      {
+        "q": "What is the title of the season three finale?",
+        "a": "December 19"
       }
     ]
   },
@@ -2668,6 +4040,98 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which of Rita's two children is the older one?",
         "a": "Astor"
+      },
+      {
+        "q": "How many biological children does Dexter have?",
+        "a": "One"
+      },
+      {
+        "q": "Whose ghost appears to Dexter as an adviser throughout the original series?",
+        "a": "Harry"
+      },
+      {
+        "q": "What does the Ice Truck Killer do to the bodies before dumping them?",
+        "a": "Drains their blood"
+      },
+      {
+        "q": "What kind of women did the Ice Truck Killer target?",
+        "a": "Prostitutes"
+      },
+      {
+        "q": "In which season do Dexter and Rita get married?",
+        "a": "Season 3"
+      },
+      {
+        "q": "In which season does Debra finally learn what her brother really is?",
+        "a": "Season 6"
+      },
+      {
+        "q": "Which season of the original series centres on the Ice Truck Killer?",
+        "a": "Season 1"
+      },
+      {
+        "q": "Which season covers the FBI hunt for the bodies dumped in the bay?",
+        "a": "Season 2"
+      },
+      {
+        "q": "Which season features the Doomsday Killer?",
+        "a": "Season 6"
+      },
+      {
+        "q": "In which city is Dexter: Resurrection set?",
+        "a": "New York"
+      },
+      {
+        "q": "Which Miami Metro veteran returns to hunt Dexter in Resurrection?",
+        "a": "Angel Batista"
+      },
+      {
+        "q": "Which school sport does Harrison take up in Iron Lake?",
+        "a": "Wrestling"
+      },
+      {
+        "q": "What insect does Dexter swat in the opening title sequence?",
+        "a": "A mosquito"
+      },
+      {
+        "q": "Which novelist created the character the series is based on?",
+        "a": "Jeff Lindsay"
+      },
+      {
+        "q": "What three-word phrase does Dexter narrate when a kill is about to happen?",
+        "a": "Tonight's the night"
+      },
+      {
+        "q": "In what year did the original series end?",
+        "a": "2013"
+      },
+      {
+        "q": "What is the surname of the Iron Lake police chief?",
+        "a": "Bishop"
+      },
+      {
+        "q": "What does Dexter pack his victims' remains into for the ocean?",
+        "a": "Black garbage bags"
+      },
+      {
+        "q": "What tool does Dexter use to kill the Trinity Killer?",
+        "a": "A hammer"
+      },
+      {
+        "q": "In which season does Hannah McKay first appear?",
+        "a": "Season 7"
+      },
+      {
+        "q": "How many episodes make up Dexter: New Blood?",
+        "a": "Ten"
+      },
+      {
+        "q": "What relation is Kurt Caldwell to Dexter's first victim in New Blood?",
+        "a": "His father"
+      },
+      {
+        "q": "What relation is Harrison to Debra?",
+        "a": "Nephew"
       }
     ],
     "400": [
@@ -2964,10 +4428,6 @@ const QUALITY_BACKFILL = {
         "a": "About ten years"
       },
       {
-        "q": "In New Blood, which school sport does Harrison take up?",
-        "a": "Wrestling"
-      },
-      {
         "q": "What weapon does Dexter use to kill Arthur Mitchell?",
         "a": "A hammer"
       },
@@ -3046,6 +4506,134 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the billionaire who collects serial killers in Dexter: Resurrection?",
         "a": "Leon Prater"
+      },
+      {
+        "q": "Which Prado brother does Dexter kill by accident in season 3?",
+        "a": "Oscar"
+      },
+      {
+        "q": "What is the first name of the hot-tempered Prado brother who is a police sergeant?",
+        "a": "Ramon"
+      },
+      {
+        "q": "Which musician informant dates Debra in season 3?",
+        "a": "Anton Briggs"
+      },
+      {
+        "q": "What dessert does Dexter use to help Camilla die?",
+        "a": "Key lime pie"
+      },
+      {
+        "q": "Which Miami Metro detective is shot dead early in season 7?",
+        "a": "Mike Anderson"
+      },
+      {
+        "q": "Which true-crime author does Hannah poison?",
+        "a": "Sal Price"
+      },
+      {
+        "q": "Who was Hannah's partner during her teenage killing spree?",
+        "a": "Wayne Randall"
+      },
+      {
+        "q": "What single piece of evidence makes LaGuerta reopen the butcher case?",
+        "a": "A blood slide"
+      },
+      {
+        "q": "On which holiday night is LaGuerta killed?",
+        "a": "New Year's Eve"
+      },
+      {
+        "q": "What does Dexter use to kill Oliver Saxon inside the police station?",
+        "a": "A pen"
+      },
+      {
+        "q": "How does Dr. Evelyn Vogel die?",
+        "a": "Her throat is slit"
+      },
+      {
+        "q": "Which of Dexter's neighbours is murdered by the Brain Surgeon?",
+        "a": "Cassie"
+      },
+      {
+        "q": "What business does Brother Sam run in season 6?",
+        "a": "An auto body shop"
+      },
+      {
+        "q": "What is the name of the shop where Dexter works in Iron Lake?",
+        "a": "Fred's Fish and Game"
+      },
+      {
+        "q": "Who murders the podcaster Molly Park?",
+        "a": "Kurt Caldwell"
+      },
+      {
+        "q": "Which Iron Lake teenager does Harrison date?",
+        "a": "Audrey"
+      },
+      {
+        "q": "What military background does Doakes have?",
+        "a": "Army Special Forces"
+      },
+      {
+        "q": "Which season's main villain is a motivational speaker?",
+        "a": "Season 5"
+      },
+      {
+        "q": "Which season's main villain is a Ukrainian mob boss?",
+        "a": "Season 7"
+      },
+      {
+        "q": "What causes Dexter's car crash in the season 4 premiere?",
+        "a": "Falling asleep driving"
+      },
+      {
+        "q": "What is reporter Christine Hill's relationship to Arthur Mitchell?",
+        "a": "She is his daughter"
+      },
+      {
+        "q": "What citrus fruit does Dexter squeeze in the opening title sequence?",
+        "a": "A blood orange"
+      },
+      {
+        "q": "How many episodes are in each season of the original series?",
+        "a": "Twelve"
+      },
+      {
+        "q": "Whom does Brian strap to his table in the season 1 finale?",
+        "a": "Debra"
+      },
+      {
+        "q": "How does Dexter stage his brother's death to make it look?",
+        "a": "A suicide"
+      },
+      {
+        "q": "Which Ice Truck Killer victim is found alive with limbs missing?",
+        "a": "Tony Tucci"
+      },
+      {
+        "q": "What does therapy make Debra realise about Dexter in season 6?",
+        "a": "She is in love with him"
+      },
+      {
+        "q": "Which drug dealer is Dexter hunting when he first meets the Prados?",
+        "a": "Freebo"
+      },
+      {
+        "q": "Which Miami Metro colleague was Batista briefly married to?",
+        "a": "LaGuerta"
+      },
+      {
+        "q": "Which retired FBI agent returns to Miami to hunt Trinity?",
+        "a": "Frank Lundy"
+      },
+      {
+        "q": "Which villain does Dexter kill in the season 5 finale?",
+        "a": "Jordan Chase"
+      },
+      {
+        "q": "What does Dexter do to Debra in the hospital in the original finale?",
+        "a": "Takes her off life support"
       }
     ],
     "600": [
@@ -3362,18 +4950,6 @@ const QUALITY_BACKFILL = {
         "a": "Jonathan Farrow"
       },
       {
-        "q": "Which Prado brother does Dexter kill in self-defence in the season 3 premiere?",
-        "a": "Oscar"
-      },
-      {
-        "q": "Which drug dealer does Dexter kill and then lie to Miguel Prado about?",
-        "a": "Freebo"
-      },
-      {
-        "q": "Who is Deb's musician boyfriend and confidential informant in season 3?",
-        "a": "Anton Briggs"
-      },
-      {
         "q": "In which city does Dexter kill Lila?",
         "a": "Paris"
       },
@@ -3394,10 +4970,6 @@ const QUALITY_BACKFILL = {
         "a": "Brother Sam"
       },
       {
-        "q": "Which detective from Chicago joins Miami Metro in season 6 and is shot dead in the season 7 premiere?",
-        "a": "Mike Anderson"
-      },
-      {
         "q": "What is the name of the Ukrainian crime syndicate Isaak Sirko belongs to?",
         "a": "Koshka Brotherhood"
       },
@@ -3414,10 +4986,6 @@ const QUALITY_BACKFILL = {
         "a": "Wayne Randall"
       },
       {
-        "q": "Which true-crime writer is poisoned by Hannah McKay?",
-        "a": "Sal Price"
-      },
-      {
         "q": "Where does Deb shoot LaGuerta?",
         "a": "A shipping container"
       },
@@ -3426,20 +4994,12 @@ const QUALITY_BACKFILL = {
         "a": "Zach Hamilton"
       },
       {
-        "q": "What does Dexter stab Oliver Saxon with in the series finale?",
-        "a": "A pen"
-      },
-      {
         "q": "How many episodes did the original series run for?",
         "a": "96"
       },
       {
         "q": "Which former Miami Metro colleague does Angela meet at a police conference, tipping her off about Dexter?",
         "a": "Angel Batista"
-      },
-      {
-        "q": "How many episodes does Dexter: New Blood have?",
-        "a": "Ten"
       },
       {
         "q": "What was the name of Dexter's very first human kill, a nurse who was poisoning Harry?",
@@ -3472,6 +5032,82 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is Leon Prater's head of security in Dexter: Resurrection?",
         "a": "Charley"
+      },
+      {
+        "q": "Which man falsely confesses to being the Ice Truck Killer?",
+        "a": "Neil Perry"
+      },
+      {
+        "q": "What was the job of Mike Donovan, Dexter's first on-screen victim?",
+        "a": "Choir director"
+      },
+      {
+        "q": "What is the title of the season 4 finale?",
+        "a": "The Getaway"
+      },
+      {
+        "q": "Where does Dexter kill Stan Liddy?",
+        "a": "In his surveillance van"
+      },
+      {
+        "q": "What creature bursts from the body in the first Doomsday tableau?",
+        "a": "Snakes"
+      },
+      {
+        "q": "What kind of product was the intern Louis Greene developing?",
+        "a": "A serial killer video game"
+      },
+      {
+        "q": "What is the Skinner's day job?",
+        "a": "Tree trimmer"
+      },
+      {
+        "q": "Which villain greets Dexter with the line 'Hello, Dexter Morgan'?",
+        "a": "Arthur Mitchell"
+      },
+      {
+        "q": "What is the title of the first novel in the source book series?",
+        "a": "Darkly Dreaming Dexter"
+      },
+      {
+        "q": "Who composed the show's theme music?",
+        "a": "Rolfe Kent"
+      },
+      {
+        "q": "Whose long-ago disappearance is Angela still investigating in New Blood?",
+        "a": "Iris"
+      },
+      {
+        "q": "How does Harrison stop the planned school shooting in Iron Lake?",
+        "a": "He stabs the gunman"
+      },
+      {
+        "q": "What did Boyd Fowler store his victims in?",
+        "a": "Barrels of formaldehyde"
+      },
+      {
+        "q": "What name was Oliver Saxon born with?",
+        "a": "Daniel Vogel"
+      },
+      {
+        "q": "In what year is Dexter: Original Sin set?",
+        "a": "1991"
+      },
+      {
+        "q": "What position does young Dexter hold at Miami Metro in Original Sin?",
+        "a": "Forensics intern"
+      },
+      {
+        "q": "Whom does Dexter drown after Brother Sam is shot?",
+        "a": "Nick"
+      },
+      {
+        "q": "Whom is Hannah married to when she returns in season 8?",
+        "a": "Miles Castner"
+      },
+      {
+        "q": "Where does Dexter first find Lumen alive?",
+        "a": "In Boyd Fowler's house"
       }
     ]
   },
@@ -3740,6 +5376,78 @@ const QUALITY_BACKFILL = {
       {
         "q": "What animated film introduced Beerus in 2013?",
         "a": "Battle of Gods"
+      },
+      {
+        "q": "Who created the Dragon Ball manga?",
+        "a": "Akira Toriyama"
+      },
+      {
+        "q": "Who is Goku's older brother?",
+        "a": "Raditz"
+      },
+      {
+        "q": "Which Z Fighter can regrow lost limbs?",
+        "a": "Piccolo"
+      },
+      {
+        "q": "What kind of animal does the destroyer god Beerus resemble?",
+        "a": "A cat"
+      },
+      {
+        "q": "Which of the Z Fighters famously has no nose?",
+        "a": "Krillin"
+      },
+      {
+        "q": "What job is Goku working when Dragon Ball Super begins?",
+        "a": "Farmer"
+      },
+      {
+        "q": "How many years pass between the Cell Games and the start of the Buu saga?",
+        "a": "Seven"
+      },
+      {
+        "q": "Which time-travelling warrior arrives to warn the Z Fighters about the androids?",
+        "a": "Future Trunks"
+      },
+      {
+        "q": "Which master trains Goku in the afterlife while he is dead?",
+        "a": "King Kai"
+      },
+      {
+        "q": "How many Super Saiyan levels does Goku reach by the end of Dragon Ball Z?",
+        "a": "Three"
+      },
+      {
+        "q": "Who is Goku's final opponent in the Tournament of Power?",
+        "a": "Jiren"
+      },
+      {
+        "q": "Which showman does the world believe defeated Cell?",
+        "a": "Mr. Satan"
+      },
+      {
+        "q": "What does Goku place on his forehead to use Instant Transmission?",
+        "a": "Two fingers"
+      },
+      {
+        "q": "What number does the scouter reading of Goku's power famously exceed in the English dub?",
+        "a": "9,000"
+      },
+      {
+        "q": "What are the pocket-sized containers that pop open into vehicles and houses called?",
+        "a": "Capsules"
+      },
+      {
+        "q": "Which Saiyan invader does Piccolo take a fatal blast from to save Gohan?",
+        "a": "Nappa"
+      },
+      {
+        "q": "Which villain does Goku destroy with a Spirit Bomb powered by everyone on Earth?",
+        "a": "Kid Buu"
+      },
+      {
+        "q": "Who is Bulma's boyfriend long before she settles down with a Saiyan?",
+        "a": "Yamcha"
       }
     ],
     "400": [
@@ -4010,6 +5718,154 @@ const QUALITY_BACKFILL = {
       {
         "q": "What transformation does Vegeta unlock in the Granolah arc of the Super manga?",
         "a": "Ultra Ego"
+      },
+      {
+        "q": "What is Yamcha's signature martial arts technique called?",
+        "a": "Wolf Fang Fist"
+      },
+      {
+        "q": "Which blinding technique did Tien invent?",
+        "a": "Solar Flare"
+      },
+      {
+        "q": "In which city is Capsule Corporation headquartered?",
+        "a": "West City"
+      },
+      {
+        "q": "In which city does Gohan attend high school?",
+        "a": "Satan City"
+      },
+      {
+        "q": "What family name do Goku and Gohan share?",
+        "a": "Son"
+      },
+      {
+        "q": "Which magazine serialized the Dragon Ball manga?",
+        "a": "Weekly Shonen Jump"
+      },
+      {
+        "q": "Which classic Chinese novel inspired the earliest Dragon Ball adventures?",
+        "a": "Journey to the West"
+      },
+      {
+        "q": "Which animation studio produces the Dragon Ball anime series?",
+        "a": "Toei Animation"
+      },
+      {
+        "q": "Which 2015 film sees Sorbet's forces wish a dead emperor back to life?",
+        "a": "Resurrection F"
+      },
+      {
+        "q": "Which villain used a wish on Shenron to restore his lost youth?",
+        "a": "King Piccolo"
+      },
+      {
+        "q": "What does Oolong hastily wish for to spoil Pilaf's plan?",
+        "a": "A pair of panties"
+      },
+      {
+        "q": "What facial feature disappears when Goku goes Super Saiyan 3?",
+        "a": "His eyebrows"
+      },
+      {
+        "q": "Who is the first fighter to step into the ring against Cell at his tournament?",
+        "a": "Mr. Satan"
+      },
+      {
+        "q": "Whose death at Cell's hands pushes Gohan past his limit?",
+        "a": "Android 16"
+      },
+      {
+        "q": "Who was the ruler of the Saiyans before their planet was destroyed?",
+        "a": "King Vegeta"
+      },
+      {
+        "q": "How many fighters does each universe send to the Tournament of Power?",
+        "a": "Ten"
+      },
+      {
+        "q": "Near which mountain does Goku grow up?",
+        "a": "Mount Paozu"
+      },
+      {
+        "q": "Who kills Vegeta during the battle on Namek?",
+        "a": "Frieza"
+      },
+      {
+        "q": "How many minutes does the emperor claim are left before Namek explodes?",
+        "a": "Five"
+      },
+      {
+        "q": "Which tower must a fighter climb before reaching Kami's Lookout?",
+        "a": "Korin Tower"
+      },
+      {
+        "q": "What celebration is Beerus crashing when he first fights the Z Fighters?",
+        "a": "Bulma's birthday party"
+      },
+      {
+        "q": "Which 2022 film brings the Red Ribbon Army back?",
+        "a": "Dragon Ball Super: Super Hero"
+      },
+      {
+        "q": "Who is Goku's opponent in the last fight of the original Dragon Ball anime?",
+        "a": "Piccolo Jr."
+      },
+      {
+        "q": "Which of Frieza's henchmen turns into a hulking monster to fight Vegeta?",
+        "a": "Zarbon"
+      },
+      {
+        "q": "How does Vegeta try to take down Majin Buu after his fight with Goku?",
+        "a": "By self-destructing"
+      },
+      {
+        "q": "Which pair trains in the Hyperbolic Time Chamber before Goku and Gohan?",
+        "a": "Vegeta and Trunks"
+      },
+      {
+        "q": "How many people may enter the Hyperbolic Time Chamber at one time?",
+        "a": "Two"
+      },
+      {
+        "q": "Who kills Dr. Gero outside his laboratory?",
+        "a": "Android 17"
+      },
+      {
+        "q": "How many universes exist when Dragon Ball Super begins?",
+        "a": "Twelve"
+      },
+      {
+        "q": "Who wins the tournament that closes out the original Dragon Ball anime?",
+        "a": "Goku"
+      },
+      {
+        "q": "How old is Goku when he first meets Bulma?",
+        "a": "12"
+      },
+      {
+        "q": "How old is Gohan when Raditz kidnaps him?",
+        "a": "Four"
+      },
+      {
+        "q": "What machine does Vegeta train inside at Capsule Corporation?",
+        "a": "Gravity chamber"
+      },
+      {
+        "q": "Which legendary blade does Gohan pull from its stone to train with?",
+        "a": "The Z Sword"
+      },
+      {
+        "q": "Who serves as the Supreme Kai's bodyguard and healer?",
+        "a": "Kibito"
+      },
+      {
+        "q": "Which tournament division do Goten and Trunks compete in at the World Tournament?",
+        "a": "The Junior Division"
+      },
+      {
+        "q": "Who lands the finishing blow on the emperor in Resurrection F?",
+        "a": "Goku"
       }
     ],
     "600": [
@@ -4276,6 +6132,246 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is Emperor Pilaf's female companion who later becomes close to Future Trunks?",
         "a": "Mai"
+      },
+      {
+        "q": "What alias does Master Roshi compete under at the World Martial Arts Tournament?",
+        "a": "Jackie Chun"
+      },
+      {
+        "q": "Who beats Goku in the final of the 22nd World Martial Arts Tournament?",
+        "a": "Tien"
+      },
+      {
+        "q": "Which Red Ribbon Army officer can paralyze opponents with his mind?",
+        "a": "General Blue"
+      },
+      {
+        "q": "Which Red Ribbon ninja duels Goku inside Muscle Tower?",
+        "a": "Ninja Murasaki"
+      },
+      {
+        "q": "Which of King Piccolo's spawn murders Krillin?",
+        "a": "Tambourine"
+      },
+      {
+        "q": "Who permanently removes Goku's tail?",
+        "a": "Kami"
+      },
+      {
+        "q": "In which desert does Yamcha rob travellers before joining the heroes?",
+        "a": "Diablo Desert"
+      },
+      {
+        "q": "Where did Krillin train before he came to Master Roshi?",
+        "a": "Orin Temple"
+      },
+      {
+        "q": "Which magical fan can put out the flames on the Ox-King's mountain?",
+        "a": "The Bansho Fan"
+      },
+      {
+        "q": "What is the name of Gohan's high school?",
+        "a": "Orange Star High School"
+      },
+      {
+        "q": "On which island is the World Martial Arts Tournament held?",
+        "a": "Papaya Island"
+      },
+      {
+        "q": "What android number did Dr. Gero give himself?",
+        "a": "20"
+      },
+      {
+        "q": "On what date does Future Trunks warn that the androids will appear?",
+        "a": "May 12th"
+      },
+      {
+        "q": "How many days' notice does Cell give before his tournament begins?",
+        "a": "Nine"
+      },
+      {
+        "q": "How many Cell Juniors does Cell spawn at his tournament?",
+        "a": "Seven"
+      },
+      {
+        "q": "Which of Gohan's arms is crippled during his last stand against Cell?",
+        "a": "His left"
+      },
+      {
+        "q": "Who kills Future Trunks after returning from a failed self-destruction?",
+        "a": "Cell"
+      },
+      {
+        "q": "What is the name of the attack Frieza uses to blow up Planet Vegeta?",
+        "a": "Supernova"
+      },
+      {
+        "q": "What is the thin piercing beam Frieza fires from one finger called?",
+        "a": "Death Beam"
+      },
+      {
+        "q": "What is the highest Kaioken multiplier Goku uses against Frieza?",
+        "a": "20"
+      },
+      {
+        "q": "What power level does Raditz's scouter read for Goku on Earth?",
+        "a": "334"
+      },
+      {
+        "q": "What is the highest multiple of Earth's gravity Goku trains under on his way to Namek?",
+        "a": "100 times"
+      },
+      {
+        "q": "How many days does Goku's ship take to reach Namek?",
+        "a": "Six"
+      },
+      {
+        "q": "Who hurls Goku's Spirit Bomb at Vegeta during the fight on Earth?",
+        "a": "Krillin"
+      },
+      {
+        "q": "Who talks Krillin out of finishing off the wounded Saiyan prince?",
+        "a": "Goku"
+      },
+      {
+        "q": "What is the Spirit Bomb called in Japanese?",
+        "a": "Genki Dama"
+      },
+      {
+        "q": "Which member of Frieza's elite squad claims to be the fastest in the universe?",
+        "a": "Burter"
+      },
+      {
+        "q": "Under what alias does Piccolo enter the 23rd World Martial Arts Tournament?",
+        "a": "Ma Junior"
+      },
+      {
+        "q": "Which of Babidi's fighters does Vegeta face aboard the ship?",
+        "a": "Pui Pui"
+      },
+      {
+        "q": "Which of Babidi's monsters devours light to fight in darkness?",
+        "a": "Yakon"
+      },
+      {
+        "q": "Which brutish fighter beats Videl bloody at the World Tournament?",
+        "a": "Spopovich"
+      },
+      {
+        "q": "Whose energy is drained at the tournament to revive the sleeping Majin?",
+        "a": "Gohan"
+      },
+      {
+        "q": "Which deity did Buu absorb long ago to become his plump, harmless form?",
+        "a": "The Grand Supreme Kai"
+      },
+      {
+        "q": "What is Majin Buu's beam attack that turns people into snacks called?",
+        "a": "Chocolate Beam"
+      },
+      {
+        "q": "Which boy wins the Junior Division final at the 25th World Tournament?",
+        "a": "Trunks"
+      },
+      {
+        "q": "What is the name of Vegeta and Bulma's daughter?",
+        "a": "Bulla"
+      },
+      {
+        "q": "What is the name of Bulma's mother?",
+        "a": "Panchy"
+      },
+      {
+        "q": "What job does Krillin hold in Dragon Ball Super?",
+        "a": "Police officer"
+      },
+      {
+        "q": "On which harsh planet is Broly stranded in the 2018 film?",
+        "a": "Vampa"
+      },
+      {
+        "q": "Which female Frieza Force soldier befriends Broly in the 2018 film?",
+        "a": "Cheelai"
+      },
+      {
+        "q": "What is the stolen accessory that lets Goku Black travel between eras called?",
+        "a": "The Time Ring"
+      },
+      {
+        "q": "How long is the Tournament of Power meant to last?",
+        "a": "48 minutes"
+      },
+      {
+        "q": "What was the earlier tournament between Universes 6 and 7 called?",
+        "a": "Tournament of Destroyers"
+      },
+      {
+        "q": "What does the winner of the Tournament of Power use his wish for?",
+        "a": "Restoring the erased universes"
+      },
+      {
+        "q": "Which Universe 6 fighter poses as a noble hero but fights dirty?",
+        "a": "Frost"
+      },
+      {
+        "q": "Which galactic patrolman keeps turning up to help the Z Fighters in Super?",
+        "a": "Jaco"
+      },
+      {
+        "q": "How long does a Potara fusion last for mortals in Dragon Ball Super?",
+        "a": "One hour"
+      },
+      {
+        "q": "What technique does Whis use to rewind three minutes of time?",
+        "a": "Temporal Do-Over"
+      },
+      {
+        "q": "Which businessman funds the Red Ribbon Army's return in Super Hero?",
+        "a": "Magenta"
+      },
+      {
+        "q": "What are the two androids built to fight Piccolo and Gohan in Super Hero called?",
+        "a": "Gamma 1 and Gamma 2"
+      },
+      {
+        "q": "What are the scattered universe-wide Dragon Balls in GT called?",
+        "a": "Black Star Dragon Balls"
+      },
+      {
+        "q": "Which small robot travels with Goku, Trunks and Pan in GT?",
+        "a": "Giru"
+      },
+      {
+        "q": "Which mad scientist creates Baby in Dragon Ball GT?",
+        "a": "Dr. Myuu"
+      },
+      {
+        "q": "How many years after Dragon Ball Z does GT begin?",
+        "a": "Five"
+      },
+      {
+        "q": "How many episodes does Dragon Ball Z have?",
+        "a": "291"
+      },
+      {
+        "q": "How many episodes does Dragon Ball Super have?",
+        "a": "131"
+      },
+      {
+        "q": "How many episodes does Dragon Ball GT have?",
+        "a": "64"
+      },
+      {
+        "q": "In what year did the Dragon Ball Z anime debut in Japan?",
+        "a": "1989"
+      },
+      {
+        "q": "In what year did the original Dragon Ball anime premiere?",
+        "a": "1986"
+      },
+      {
+        "q": "What kind of animal is the King of Earth in Dragon Ball?",
+        "a": "A dog"
       }
     ]
   },
@@ -4480,6 +6576,98 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Peter's boss at the brewery?",
         "a": "Angela"
+      },
+      {
+        "q": "Which of the Griffin children is constantly insulted and dismissed by the rest of the family?",
+        "a": "Meg"
+      },
+      {
+        "q": "Which of the Griffin children does the creepy elderly neighbour fixate on?",
+        "a": "Chris"
+      },
+      {
+        "q": "What career does Brian keep trying and failing to make a success of?",
+        "a": "Writer"
+      },
+      {
+        "q": "What two-word exclamation does Peter shout when shocked, usually followed by his wife's name?",
+        "a": "Holy crap"
+      },
+      {
+        "q": "The theme song complains about violence in movies and what else on TV?",
+        "a": "Sex"
+      },
+      {
+        "q": "What colour are the trousers Peter wears in nearly every episode?",
+        "a": "Green"
+      },
+      {
+        "q": "What colour is the woolly hat Meg wears?",
+        "a": "Pink"
+      },
+      {
+        "q": "What colour are the overalls Stewie wears?",
+        "a": "Red"
+      },
+      {
+        "q": "In the crossover episode with The Simpsons, which town do the Griffins end up in?",
+        "a": "Springfield"
+      },
+      {
+        "q": "What device does Stewie build that lets him and Brian visit other eras?",
+        "a": "A time machine"
+      },
+      {
+        "q": "Which political office does Lois run for and win in season five?",
+        "a": "Mayor of Quahog"
+      },
+      {
+        "q": "Which legendary figure do Brian and Stewie set out to reach in Road to the North Pole?",
+        "a": "Santa Claus"
+      },
+      {
+        "q": "Which Star Wars villain does Stewie take the role of in the parody specials?",
+        "a": "Darth Vader"
+      },
+      {
+        "q": "Which professional sport does Peter take up in the episode Patriot Games?",
+        "a": "Football"
+      },
+      {
+        "q": "Which member of the household carries a long-running unrequited crush on Lois?",
+        "a": "Brian"
+      },
+      {
+        "q": "How many children do Peter and Lois have?",
+        "a": "Three"
+      },
+      {
+        "q": "What relation is Carter Pewterschmidt to Stewie?",
+        "a": "Grandfather"
+      },
+      {
+        "q": "In a long-running pain gag, which part of his body does Peter clutch while hissing for ages?",
+        "a": "His knee"
+      },
+      {
+        "q": "What is the only thing Brian normally wears?",
+        "a": "A collar"
+      },
+      {
+        "q": "What relation is Babs Pewterschmidt to Chris?",
+        "a": "Grandmother"
+      },
+      {
+        "q": "How many people, not counting the dog, live in the Griffin house?",
+        "a": "Five"
+      },
+      {
+        "q": "What name is given to the show's trademark random flashback jokes?",
+        "a": "Cutaway gags"
+      },
+      {
+        "q": "Besides Peter, which Griffin family member wears glasses?",
+        "a": "Meg"
       }
     ],
     "400": [
@@ -4694,6 +6882,126 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does Stewie repeatedly demand from Brian while beating him up in a famous scene?",
         "a": "His money"
+      },
+      {
+        "q": "Which nerdy son of a Quahog pharmacist has an obsessive crush on Meg?",
+        "a": "Neil Goldman"
+      },
+      {
+        "q": "What breed of dog is Brian usually said to be?",
+        "a": "Labrador Retriever"
+      },
+      {
+        "q": "What is Brian's stated religion on the show?",
+        "a": "Atheist"
+      },
+      {
+        "q": "What does Peter call the pirate television station he broadcasts from his house?",
+        "a": "PTV"
+      },
+      {
+        "q": "In Wasted Talent, Peter can play the piano brilliantly only when he is in what state?",
+        "a": "Drunk"
+      },
+      {
+        "q": "In Wasted Talent, what must a drinker find inside a beer bottle to win a brewery tour?",
+        "a": "A silver scroll"
+      },
+      {
+        "q": "Whose duties does Peter have to take over after injuring him in a season two episode?",
+        "a": "Death"
+      },
+      {
+        "q": "Which drug does Brian become addicted to after joining the police force?",
+        "a": "Cocaine"
+      },
+      {
+        "q": "Which crime does Lois become hooked on committing in Breaking Out Is Hard to Do?",
+        "a": "Shoplifting"
+      },
+      {
+        "q": "Which Simpsons character does Stewie become fascinated with during the crossover?",
+        "a": "Bart Simpson"
+      },
+      {
+        "q": "In which US state is Stoolbend, the setting of the spin-off, located?",
+        "a": "Virginia"
+      },
+      {
+        "q": "Which character takes the role of Han Solo in the Star Wars parodies?",
+        "a": "Peter"
+      },
+      {
+        "q": "Which character takes the role of Princess Leia in the Star Wars parodies?",
+        "a": "Lois"
+      },
+      {
+        "q": "Which character takes the role of Chewbacca in the Star Wars parodies?",
+        "a": "Brian"
+      },
+      {
+        "q": "Which character takes the role of Luke Skywalker in the Star Wars parodies?",
+        "a": "Chris"
+      },
+      {
+        "q": "Which NFL team signs Peter in the episode Patriot Games?",
+        "a": "New England Patriots"
+      },
+      {
+        "q": "What three-word declaration does Stewie shout when a scheme works?",
+        "a": "Victory is mine"
+      },
+      {
+        "q": "Peter yells the title of which Patrick Swayze film as a running gag?",
+        "a": "Road House"
+      },
+      {
+        "q": "Which hidden artistic talent does Chris turn out to have?",
+        "a": "Painting"
+      },
+      {
+        "q": "In which year did Family Guy return to Fox after being cancelled?",
+        "a": "2005"
+      },
+      {
+        "q": "Family Guy has long aired as part of which Fox Sunday-night programming block?",
+        "a": "Animation Domination"
+      },
+      {
+        "q": "Which of Peter's friends says that's nasty when disgusted?",
+        "a": "Cleveland"
+      },
+      {
+        "q": "Where does Chris get a job as a delivery boy?",
+        "a": "Goldman's Pharmacy"
+      },
+      {
+        "q": "In Stewie Loves Lois, Peter accuses Dr Hartman of assault after which medical procedure?",
+        "a": "A prostate exam"
+      },
+      {
+        "q": "What triggers the apocalypse in the episode Da Boom?",
+        "a": "The Y2K bug"
+      },
+      {
+        "q": "Which snack cake do the Griffins survive on after the apocalypse in Da Boom?",
+        "a": "Twinkies"
+      },
+      {
+        "q": "Who takes Meg to her school dance in the episode Barely Legal?",
+        "a": "Brian"
+      },
+      {
+        "q": "Brian's taxidermied mother had been turned into what piece of furniture?",
+        "a": "An end table"
+      },
+      {
+        "q": "Which other Fox animated series did Seth MacFarlane co-create in 2005?",
+        "a": "American Dad!"
+      },
+      {
+        "q": "In the episode Holy Crap, whom does Peter kidnap to impress his devoutly religious father?",
+        "a": "The Pope"
       }
     ],
     "600": [
@@ -4900,6 +7208,182 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Herbert's first name?",
         "a": "John"
+      },
+      {
+        "q": "Which family restaurant hosts Stewie's first birthday party?",
+        "a": "Cheesie Charlie's"
+      },
+      {
+        "q": "What is the name of the mansion Lois inherits in Peter, Peter, Caviar Eater?",
+        "a": "Cherrywood Manor"
+      },
+      {
+        "q": "In Emission Impossible, Stewie shrinks himself and travels inside which parent?",
+        "a": "Peter"
+      },
+      {
+        "q": "What is the name of Peter's ancestor who was a slave on the Pewterschmidt plantation?",
+        "a": "Nate Griffin"
+      },
+      {
+        "q": "What is the name of the Griffin ancestor exiled from England who founds Quahog?",
+        "a": "Griffin Peterson"
+      },
+      {
+        "q": "Which magazine gives Brian a job in Brian Goes Back to College?",
+        "a": "The New Yorker"
+      },
+      {
+        "q": "What is the name of Carter Pewterschmidt's prize dog that Brian gets pregnant?",
+        "a": "Seabreeze"
+      },
+      {
+        "q": "What is the title of the best-selling self-help book Brian writes?",
+        "a": "Wish It, Want It, Do It"
+      },
+      {
+        "q": "What is the name of the elderly shut-in woman Brian befriends and sings a duet with?",
+        "a": "Pearl Burton"
+      },
+      {
+        "q": "What alias does Peter use when he poses as a high-school student in Let's Go to the Hop?",
+        "a": "Lando Griffin"
+      },
+      {
+        "q": "What is the name of the girl Stewie falls for at daycare?",
+        "a": "Janet"
+      },
+      {
+        "q": "Which fictional martial art does Lois learn in the episode Lethal Weapons?",
+        "a": "Tae Jitsu"
+      },
+      {
+        "q": "Which musical number does Peter perform after scoring a touchdown in Patriot Games?",
+        "a": "Shipoopi"
+      },
+      {
+        "q": "The two-part Stewie Kills Lois story turns out to be a simulation running on what?",
+        "a": "A holodeck"
+      },
+      {
+        "q": "In the bottle episode featuring only Brian and Stewie, where are the two trapped?",
+        "a": "A bank vault"
+      },
+      {
+        "q": "In which direction does time run through most of the episode Yug Ylimaf?",
+        "a": "Backwards"
+      },
+      {
+        "q": "In 2009 Family Guy became the first animated series since which show to be nominated for the Outstanding Comedy Series Emmy?",
+        "a": "The Flintstones"
+      },
+      {
+        "q": "How much did Fox reportedly give Seth MacFarlane to produce the pilot?",
+        "a": "$50,000"
+      },
+      {
+        "q": "At which art school did Seth MacFarlane make the student film that led to the series?",
+        "a": "Rhode Island School of Design"
+      },
+      {
+        "q": "At which animation studio did Seth MacFarlane work on Johnny Bravo before the show?",
+        "a": "Hanna-Barbera"
+      },
+      {
+        "q": "Who composed the Family Guy theme music?",
+        "a": "Walter Murphy"
+      },
+      {
+        "q": "The opening theme is a pastiche of the opening of which classic Norman Lear sitcom?",
+        "a": "All in the Family"
+      },
+      {
+        "q": "What is the name of the middle school in Quahog?",
+        "a": "Buddy Cianci Junior High"
+      },
+      {
+        "q": "Which anchor takes Diane Simmons's place beside Tom Tucker?",
+        "a": "Joyce Kinney"
+      },
+      {
+        "q": "What is the name of the man Brian's cousin Jasper marries?",
+        "a": "Ricardo"
+      },
+      {
+        "q": "What was the title of the 2005 direct-to-DVD Family Guy film?",
+        "a": "Stewie Griffin: The Untold Story"
+      },
+      {
+        "q": "What title was given to the collection of all three Star Wars parody specials?",
+        "a": "Laugh It Up, Fuzzball"
+      },
+      {
+        "q": "Which Quahog neighbour takes the role of Obi-Wan Kenobi in Blue Harvest?",
+        "a": "Herbert"
+      },
+      {
+        "q": "In the Simpsons crossover, Pawtucket Patriot Ale is accused of ripping off which beer brand?",
+        "a": "Duff"
+      },
+      {
+        "q": "In Meet the Quagmires, which year does Peter travel back to?",
+        "a": "1984"
+      },
+      {
+        "q": "Joe temporarily walks again after receiving what?",
+        "a": "A leg transplant"
+      },
+      {
+        "q": "In which season does Cleveland move his family back to Quahog?",
+        "a": "Season 12"
+      },
+      {
+        "q": "What is the name of Stewie's favourite television programme?",
+        "a": "Jolly Farm Revue"
+      },
+      {
+        "q": "On the show, Death still lives with whom?",
+        "a": "His mother"
+      },
+      {
+        "q": "Which character stumbles into the time machine and ends up in 1939 Poland?",
+        "a": "Mort Goldman"
+      },
+      {
+        "q": "In Petergeist, what does Peter dig up in his back garden?",
+        "a": "An Indian burial ground"
+      },
+      {
+        "q": "Which character becomes a card-carrying Republican in Excellence in Broadcasting?",
+        "a": "Brian"
+      },
+      {
+        "q": "What does Meg go to jail for in Dial Meg for Murder?",
+        "a": "Harbouring a fugitive"
+      },
+      {
+        "q": "In the show's first Christmas episode, which family member snaps and has a public meltdown?",
+        "a": "Lois"
+      },
+      {
+        "q": "In North by North Quahog, Peter and Lois steal an unreleased sequel to which Mel Gibson film?",
+        "a": "The Passion of the Christ"
+      },
+      {
+        "q": "In Mr Griffin Goes to Washington, what kind of company does Peter end up running?",
+        "a": "A tobacco company"
+      },
+      {
+        "q": "What is the name of the partner of Bruce the soft-spoken performance artist?",
+        "a": "Jeffrey"
+      },
+      {
+        "q": "What is the title of the 2012 Family Guy console shooter starring Stewie and Brian?",
+        "a": "Back to the Multiverse"
+      },
+      {
+        "q": "What is the title of the 2014 Family Guy mobile game?",
+        "a": "The Quest for Stuff"
       }
     ]
   },
@@ -5124,6 +7608,98 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the Mother's roommate whom Ted dates first?",
         "a": "Cindy"
+      },
+      {
+        "q": "What is Robin's surname?",
+        "a": "Scherbatsky"
+      },
+      {
+        "q": "What musical instrument does Ted swipe from a restaurant wall to impress Robin on their first date?",
+        "a": "Blue French horn"
+      },
+      {
+        "q": "What two words does Barney say when he takes on a dare?",
+        "a": "Challenge accepted"
+      },
+      {
+        "q": "Which three-word interruption does Barney squeeze into the middle of the word legendary?",
+        "a": "Wait for it"
+      },
+      {
+        "q": "Which driver, first hired for a limo ride, becomes an honorary member of the gang?",
+        "a": "Ranjit"
+      },
+      {
+        "q": "Which couple is already engaged when the series begins?",
+        "a": "Marshall and Lily"
+      },
+      {
+        "q": "How many children is Ted telling his long story to?",
+        "a": "Two"
+      },
+      {
+        "q": "Marshall's Slapsgiving tradition falls on which holiday?",
+        "a": "Thanksgiving"
+      },
+      {
+        "q": "Which sport does Robin follow with fierce Canadian pride?",
+        "a": "Hockey"
+      },
+      {
+        "q": "Which two of the five friends start secretly dating in season five?",
+        "a": "Barney and Robin"
+      },
+      {
+        "q": "What does Barney call it when he slaps his own raised hand because nobody else will?",
+        "a": "Self five"
+      },
+      {
+        "q": "What is Ted's full first name?",
+        "a": "Theodore"
+      },
+      {
+        "q": "Which season-one girlfriend does Ted meet while attending a wedding?",
+        "a": "Victoria"
+      },
+      {
+        "q": "Complete Barney's motto: when I get sad, I stop being sad and be ___ instead?",
+        "a": "Awesome"
+      },
+      {
+        "q": "Which season is set almost entirely across a single wedding weekend?",
+        "a": "Season nine"
+      },
+      {
+        "q": "Which city does Ted line up a new job in near the end of the series?",
+        "a": "Chicago"
+      },
+      {
+        "q": "What is Barney's blunt rule for choosing between something old and something recently acquired?",
+        "a": "New is always better"
+      },
+      {
+        "q": "Which mythical forest creature does Marshall insist is real?",
+        "a": "Bigfoot"
+      },
+      {
+        "q": "What is Robin's liquor of choice?",
+        "a": "Scotch"
+      },
+      {
+        "q": "How many dogs does Robin have when the gang first meets her?",
+        "a": "Five"
+      },
+      {
+        "q": "Which film does Ted screen for a girlfriend as a compatibility test?",
+        "a": "Star Wars"
+      },
+      {
+        "q": "How does Barney coach Ted to introduce himself to women, using his name and job?",
+        "a": "Ted Mosby, architect"
+      },
+      {
+        "q": "According to the saying Ted repeats, nothing good happens after what hour?",
+        "a": "2 a.m."
       }
     ],
     "400": [
@@ -5434,6 +8010,106 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does Barney call the phenomenon where women look more attractive as a group?",
         "a": "The cheerleader effect"
+      },
+      {
+        "q": "Which theory about a couple's compatibility involves one partner happily eating a bar snack the other cannot stand?",
+        "a": "The olive theory"
+      },
+      {
+        "q": "What does Ted blurt out to Robin at the end of their very first date?",
+        "a": "I love you"
+      },
+      {
+        "q": "Which ex-girlfriend's rejection turned Barney from a laid-back hippie into a suit-wearing womanizer?",
+        "a": "Shannon"
+      },
+      {
+        "q": "What kind of vehicle hits Barney as he races to the hospital to see Ted?",
+        "a": "A bus"
+      },
+      {
+        "q": "What do Ted, Marshall and Barney call their ritual of rewatching the Star Wars films every three years?",
+        "a": "Trilogy Time"
+      },
+      {
+        "q": "What holiday does Barney invent for February 13th to target single women?",
+        "a": "Desperation Day"
+      },
+      {
+        "q": "Who serves as Robin's maid of honour at her wedding?",
+        "a": "Lily"
+      },
+      {
+        "q": "What is Marshall's mother's first name?",
+        "a": "Judy"
+      },
+      {
+        "q": "What financial secret of Lily's nearly sinks the purchase of their first apartment?",
+        "a": "Credit card debt"
+      },
+      {
+        "q": "Which gruelling race does Barney run with absolutely no training?",
+        "a": "New York City Marathon"
+      },
+      {
+        "q": "Which part of Manhattan is Ted's apartment in?",
+        "a": "Upper West Side"
+      },
+      {
+        "q": "What is the title of the song Marshall performs right after delivering a holiday slap?",
+        "a": "You Just Got Slapped"
+      },
+      {
+        "q": "In which season is Marvin born?",
+        "a": "Season seven"
+      },
+      {
+        "q": "What is Ted's mother's first name?",
+        "a": "Virginia"
+      },
+      {
+        "q": "What childhood keepsake did Robin bury in a park and go hunting for before her wedding?",
+        "a": "A locket"
+      },
+      {
+        "q": "Who is the woman Marshall shares a rental car with on his long trip to the wedding?",
+        "a": "Daphne"
+      },
+      {
+        "q": "What does Barney call the loud women who shriek in agreement at bars?",
+        "a": "Woo girls"
+      },
+      {
+        "q": "What nickname does the gang give the friend cursed to leave right before anything amazing happens?",
+        "a": "The Blitz"
+      },
+      {
+        "q": "Which suburban county does Ted buy a run-down fixer-upper house in?",
+        "a": "Westchester"
+      },
+      {
+        "q": "What car game does Marshall play, shouting it out whenever he spots a dog?",
+        "a": "Zitch dog"
+      },
+      {
+        "q": "What term does Lily coin for someone reverting to an old personality around an old friend?",
+        "a": "Revertigo"
+      },
+      {
+        "q": "Where does Barney propose to Robin after tricking her with a scheme from his book?",
+        "a": "A rooftop"
+      },
+      {
+        "q": "What is the real name of the woman Ted spends years hunting for after one Halloween party?",
+        "a": "Naomi"
+      },
+      {
+        "q": "What term does Ted use for the fondness you suddenly feel for something only because it is ending?",
+        "a": "Graduation goggles"
+      },
+      {
+        "q": "What does Ted call the list of activities he decides he is now too old to do?",
+        "a": "The Murtaugh List"
       }
     ],
     "600": [
@@ -5672,6 +8348,134 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the man Ted's mother Virginia marries?",
         "a": "Clint"
+      },
+      {
+        "q": "What is the name of Robin's co-star on her Canadian children's programme?",
+        "a": "Jessica Glitter"
+      },
+      {
+        "q": "What is the title of the Space Teens song about a pair of industrious animals?",
+        "a": "Two Beavers Are Better Than One"
+      },
+      {
+        "q": "What is the title of the show's opening theme song?",
+        "a": "Hey, Beautiful"
+      },
+      {
+        "q": "How many episodes were made across the whole series?",
+        "a": "208"
+      },
+      {
+        "q": "In the episode where Marshall's father dies, hidden numbers count down starting from what?",
+        "a": "50"
+      },
+      {
+        "q": "In The Time Travelers, how many days does Ted say are left until he meets the Mother?",
+        "a": "45"
+      },
+      {
+        "q": "Which season-nine episode retells the years leading up to the wedding entirely from the Mother's point of view?",
+        "a": "How Your Mother Met Me"
+      },
+      {
+        "q": "How old was Tracy on the birthday when her boyfriend died?",
+        "a": "21"
+      },
+      {
+        "q": "In the finale, what number does Barney use as the nickname for the mother of his daughter?",
+        "a": "Number 31"
+      },
+      {
+        "q": "In what year do Ted and Tracy finally marry?",
+        "a": "2020"
+      },
+      {
+        "q": "What is the real name of the wealthy yachtsman known only by a nautical title?",
+        "a": "George Van Smoot"
+      },
+      {
+        "q": "Which play in Barney's book has him pose as a man recently abandoned at his own wedding?",
+        "a": "The Ted Mosby"
+      },
+      {
+        "q": "What is the name of the stripper who turns out to be Lily's identical stranger?",
+        "a": "Jasmine"
+      },
+      {
+        "q": "Which sea-creature theory of Barney's describes a woman growing more attractive the longer you know her?",
+        "a": "The Mermaid Theory"
+      },
+      {
+        "q": "According to its inventor, how often does the Naked Man actually work?",
+        "a": "Two out of three"
+      },
+      {
+        "q": "How many women had Barney slept with when he reached his big milestone in season four?",
+        "a": "200"
+      },
+      {
+        "q": "What boy's name did Robin's father call her while raising her as a son?",
+        "a": "R.J."
+      },
+      {
+        "q": "What made-up word does Barney coin in his video resume?",
+        "a": "Possimpible"
+      },
+      {
+        "q": "Which one-word episode title marks Barney finally meeting his dad?",
+        "a": "Legendaddy"
+      },
+      {
+        "q": "What is the name of the annual live event pitting machines against fighters that Ted loves attending?",
+        "a": "Robots vs. Wrestlers"
+      },
+      {
+        "q": "How many appointments does it take to remove the tattoo on Ted's back?",
+        "a": "Ten"
+      },
+      {
+        "q": "What does Barney name his rule against getting involved with anyone you have to see regularly?",
+        "a": "The Platinum Rule"
+      },
+      {
+        "q": "Which guest's name titles the episode where the gang argues over whether he was invited to the wedding?",
+        "a": "Gary Blauman"
+      },
+      {
+        "q": "What phrase does Marshall use for anger being passed down from boss to employee?",
+        "a": "The Chain of Screaming"
+      },
+      {
+        "q": "What is the name of the wavering line drawn across Barney's chart of looks against sanity?",
+        "a": "The Vicky Mendoza Diagonal"
+      },
+      {
+        "q": "What is the name of the elaborate hangover cure Barney unveils in the final season?",
+        "a": "Stinson Hangover Fixer Elixir"
+      },
+      {
+        "q": "What does Barney call the tournament he stages to work out which ex is sabotaging him?",
+        "a": "The Bracket"
+      },
+      {
+        "q": "What insult does Barney coin for someone who lets a date sleep over without any sex?",
+        "a": "Sexless innkeeper"
+      },
+      {
+        "q": "In the final season, what is revealed to be the real name of the girl Ted could never remember?",
+        "a": "Carol"
+      },
+      {
+        "q": "Which Goliath National Bank employee quits to start his own beer company?",
+        "a": "Randy"
+      },
+      {
+        "q": "Which volunteer organisation were Barney and Shannon planning to join together?",
+        "a": "The Peace Corps"
+      },
+      {
+        "q": "What is the title of the big musical number Barney performs in the show's 100th episode?",
+        "a": "Nothing Suits Me Like a Suit"
       }
     ]
   },
@@ -5884,6 +8688,94 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Earth animal does the alien warrior Battle Beast resemble?",
         "a": "A lion"
+      },
+      {
+        "q": "In what year did season 2 of the show first premiere?",
+        "a": "2023"
+      },
+      {
+        "q": "In what year did season 3 of the show premiere?",
+        "a": "2025"
+      },
+      {
+        "q": "How many episodes were released on the show's very first day?",
+        "a": "Three"
+      },
+      {
+        "q": "Which superhero is Mark dating by season 3?",
+        "a": "Atom Eve"
+      },
+      {
+        "q": "What weapon does War Woman swing in combat?",
+        "a": "A mace"
+      },
+      {
+        "q": "Which country is the speedster Red Rush originally from?",
+        "a": "Russia"
+      },
+      {
+        "q": "How many eyes does Allen the Alien have?",
+        "a": "One"
+      },
+      {
+        "q": "What chore is Mark doing at his job when his powers first kick in?",
+        "a": "Taking out trash"
+      },
+      {
+        "q": "Which Guardian does Omni-Man tear in half during season 1?",
+        "a": "The Immortal"
+      },
+      {
+        "q": "What personal problem does Debbie struggle with in season 2?",
+        "a": "Drinking"
+      },
+      {
+        "q": "What is the name of the school bully Mark punches in season 1?",
+        "a": "Todd"
+      },
+      {
+        "q": "Which pair of identical villains abduct Cecil in season 1?",
+        "a": "The Maulers"
+      },
+      {
+        "q": "What does Nolan do after following the Flaxans through their portal?",
+        "a": "Wipes them out"
+      },
+      {
+        "q": "In season 3, which government official does Mark cut all ties with?",
+        "a": "Cecil"
+      },
+      {
+        "q": "Which Viltrumite warrior does Mark battle in the season 3 finale?",
+        "a": "Conquest"
+      },
+      {
+        "q": "Which member of the Grayson family confronts Cecil over covering up Nolan's crimes?",
+        "a": "Debbie"
+      },
+      {
+        "q": "Which villainous scientist does Mark discover is secretly on the GDA payroll?",
+        "a": "D.A. Sinclair"
+      },
+      {
+        "q": "Into how many parts was season 2 split for release?",
+        "a": "Two"
+      },
+      {
+        "q": "What content rating does the animated series carry?",
+        "a": "TV-MA"
+      },
+      {
+        "q": "How many episodes had aired in total across the first three seasons?",
+        "a": "24"
+      },
+      {
+        "q": "Which family member does Mark start training as a hero in season 3?",
+        "a": "Oliver"
+      },
+      {
+        "q": "In which season does Mark start college?",
+        "a": "Season 2"
       }
     ],
     "400": [
@@ -6182,6 +9074,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "On which planet does Mark first encounter the Sequids?",
         "a": "Mars"
+      },
+      {
+        "q": "Which character is the subject of the show's 2023 standalone special episode?",
+        "a": "Atom Eve"
+      },
+      {
+        "q": "Where does Eve build herself a home after walking out on her parents?",
+        "a": "A treehouse"
+      },
+      {
+        "q": "Which hero marries Dupli-Kate in season 2?",
+        "a": "The Immortal"
+      },
+      {
+        "q": "Which body part does Allen lose when the Viltrumites ambush him?",
+        "a": "An eye"
+      },
+      {
+        "q": "What does Oliver argue heroes should do to dangerous villains, to Mark's dismay?",
+        "a": "Kill them"
+      },
+      {
+        "q": "What piece of GDA technology moves Cecil around the world instantly?",
+        "a": "A teleporter"
+      },
+      {
+        "q": "Whose identity does the Martian shapeshifter take on when he arrives on Earth?",
+        "a": "Rus Livingston"
+      },
+      {
+        "q": "During the Chicago battle, whom does Omni-Man use to smash through a moving train?",
+        "a": "Mark"
+      },
+      {
+        "q": "Which two of the original Guardians were romantically involved?",
+        "a": "Immortal and War Woman"
+      },
+      {
+        "q": "Roughly how long can a Viltrumite live?",
+        "a": "Thousands of years"
+      },
+      {
+        "q": "Which Guardian spends years in another dimension with Rudy searching for a cure?",
+        "a": "Monster Girl"
+      },
+      {
+        "q": "What does Rex Splode charge up so that it detonates?",
+        "a": "Objects he touches"
+      },
+      {
+        "q": "From where does the detective Damien Darkblood originally come?",
+        "a": "Hell"
+      },
+      {
+        "q": "Who forces Damien Darkblood off the case and out of the world?",
+        "a": "Cecil"
+      },
+      {
+        "q": "Acting on bad information, which hero does Allen attack on his first trip to Earth?",
+        "a": "Invincible"
+      },
+      {
+        "q": "Whom does Angstrom Levy take hostage to lure Mark in the season 2 finale?",
+        "a": "Debbie and Oliver"
+      },
+      {
+        "q": "Which villains does Angstrom Levy hire to build his dimension-hopping machine?",
+        "a": "The Mauler Twins"
+      },
+      {
+        "q": "Which shapeshifting hero fights the Sequids alongside Mark on Mars?",
+        "a": "Shapesmith"
+      },
+      {
+        "q": "What does Amber reveal she had already worked out for herself?",
+        "a": "Mark's secret identity"
+      },
+      {
+        "q": "What does Debbie find hidden at home that confirms Nolan's guilt?",
+        "a": "A bloody costume"
+      },
+      {
+        "q": "What does Nolan ask Mark to do with his half-brother after being arrested?",
+        "a": "Raise him"
       }
     ],
     "600": [
@@ -6382,10 +9358,6 @@ const QUALITY_BACKFILL = {
         "a": "Multi-Paul"
       },
       {
-        "q": "Which Guardian steps down from the team in season 3 to live a quiet life with Dupli-Kate?",
-        "a": "The Immortal"
-      },
-      {
         "q": "What is the title of the first episode of Invincible?",
         "a": "It's About Time"
       },
@@ -6428,6 +9400,98 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Debbie's new boyfriend in season 2?",
         "a": "Paul"
+      },
+      {
+        "q": "What is the title of the season 2 premiere episode?",
+        "a": "A Lesson for Your Next Life"
+      },
+      {
+        "q": "Which season 1 episode title name-checks the first man on the moon?",
+        "a": "Neil Armstrong, Eat Your Heart Out"
+      },
+      {
+        "q": "What is the title of the season 1 episode in which the Immortal confronts Nolan?",
+        "a": "We Need to Talk"
+      },
+      {
+        "q": "What is the title of the season 2 finale?",
+        "a": "I Thought You Were Stronger"
+      },
+      {
+        "q": "Who composed the score for the animated series?",
+        "a": "John Paesano"
+      },
+      {
+        "q": "Who serves as showrunner of the animated series?",
+        "a": "Simon Racioppa"
+      },
+      {
+        "q": "Which artist co-created the original comic with Robert Kirkman?",
+        "a": "Cory Walker"
+      },
+      {
+        "q": "Which artist penciled the bulk of the original comic's run?",
+        "a": "Ryan Ottley"
+      },
+      {
+        "q": "At what issue number did the original comic series end?",
+        "a": "144"
+      },
+      {
+        "q": "In what year did the original comic publish its final issue?",
+        "a": "2018"
+      },
+      {
+        "q": "What is the first name of Atom Eve's father?",
+        "a": "Adam"
+      },
+      {
+        "q": "At which school does D.A. Sinclair carry out his cyborg experiments?",
+        "a": "Upstate University"
+      },
+      {
+        "q": "In which world do Rudy and Amanda spend years hunting for a cure?",
+        "a": "The Flaxan dimension"
+      },
+      {
+        "q": "Who breaks Nolan out of Viltrumite custody in season 3?",
+        "a": "Allen the Alien"
+      },
+      {
+        "q": "What is Bulletproof's real name?",
+        "a": "Zandale Randolph"
+      },
+      {
+        "q": "Who is Machine Head's teleporting henchman?",
+        "a": "Isotope"
+      },
+      {
+        "q": "What did the Viltrum Empire do to its own citizens judged too weak?",
+        "a": "Executed them"
+      },
+      {
+        "q": "In season 3, what does Eve do to her own body after being nearly killed?",
+        "a": "Rebuilds it"
+      },
+      {
+        "q": "What sort of books does Nolan write as his civilian cover?",
+        "a": "Travel books"
+      },
+      {
+        "q": "How many further seasons were ordered in the 2021 renewal announcement?",
+        "a": "Two"
+      },
+      {
+        "q": "Which hero does Cecil send after Mark once the two of them fall out?",
+        "a": "The Immortal"
+      },
+      {
+        "q": "What kind of creatures does Doc Seismic command when he returns?",
+        "a": "Magma creatures"
+      },
+      {
+        "q": "Which season released its second half in March 2024?",
+        "a": "Season 2"
       }
     ]
   },
@@ -6820,6 +9884,190 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is 11 squared?",
         "a": "121"
+      },
+      {
+        "q": "What is the bottom number of a fraction called?",
+        "a": "Denominator"
+      },
+      {
+        "q": "What is the result of a subtraction called?",
+        "a": "Difference"
+      },
+      {
+        "q": "What is the result of a division called?",
+        "a": "Quotient"
+      },
+      {
+        "q": "What is the result of an addition called?",
+        "a": "Sum"
+      },
+      {
+        "q": "What do you call an angle smaller than 90 degrees?",
+        "a": "Acute angle"
+      },
+      {
+        "q": "What do you call an angle of exactly 180 degrees?",
+        "a": "Straight angle"
+      },
+      {
+        "q": "What is the name for a polygon with seven sides?",
+        "a": "Heptagon"
+      },
+      {
+        "q": "What is the name for a polygon with nine sides?",
+        "a": "Nonagon"
+      },
+      {
+        "q": "What do you call a triangle whose three sides are all the same length?",
+        "a": "Equilateral"
+      },
+      {
+        "q": "What is 16 × 25?",
+        "a": "400"
+      },
+      {
+        "q": "What is 18 × 7?",
+        "a": "126"
+      },
+      {
+        "q": "What is 3/8 written as a decimal?",
+        "a": "0.375"
+      },
+      {
+        "q": "What is 0.2 written as a fraction in lowest terms?",
+        "a": "1/5"
+      },
+      {
+        "q": "What is 60% of 150?",
+        "a": "90"
+      },
+      {
+        "q": "What is 12.5% written as a fraction in lowest terms?",
+        "a": "1/8"
+      },
+      {
+        "q": "What is 23 × 3?",
+        "a": "69"
+      },
+      {
+        "q": "Which two letters make the Roman numeral for 40?",
+        "a": "XL"
+      },
+      {
+        "q": "How is 9 written in Roman numerals?",
+        "a": "IX"
+      },
+      {
+        "q": "Which year does the Roman numeral MMXXIV stand for?",
+        "a": "2024"
+      },
+      {
+        "q": "How many faces does a triangular prism have?",
+        "a": "5"
+      },
+      {
+        "q": "How many vertices does a cube have?",
+        "a": "8"
+      },
+      {
+        "q": "What do the interior angles of a pentagon add up to?",
+        "a": "540 degrees"
+      },
+      {
+        "q": "How many degrees is each interior angle of a regular hexagon?",
+        "a": "120"
+      },
+      {
+        "q": "What 3D shape has two parallel circular ends joined by a curved surface?",
+        "a": "Cylinder"
+      },
+      {
+        "q": "What is 5% of 300?",
+        "a": "15"
+      },
+      {
+        "q": "What is a number that reads the same forwards and backwards called?",
+        "a": "Palindrome"
+      },
+      {
+        "q": "What is the name for the point exactly halfway along a line segment?",
+        "a": "Midpoint"
+      },
+      {
+        "q": "What is the distance all the way around a circle called?",
+        "a": "Circumference"
+      },
+      {
+        "q": "What is the name for a straight line through the centre of a circle with both ends on the circle?",
+        "a": "Diameter"
+      },
+      {
+        "q": "What is a quarter of 1000?",
+        "a": "250"
+      },
+      {
+        "q": "What is 15 × 20?",
+        "a": "300"
+      },
+      {
+        "q": "What is 12 × 15?",
+        "a": "180"
+      },
+      {
+        "q": "What is 96 ÷ 8?",
+        "a": "12"
+      },
+      {
+        "q": "What is the only prime number between 24 and 30?",
+        "a": "29"
+      },
+      {
+        "q": "What is the largest two-digit multiple of 7?",
+        "a": "98"
+      },
+      {
+        "q": "What is the range of the numbers 3, 7 and 15?",
+        "a": "12"
+      },
+      {
+        "q": "In the term 5x, what is the 5 called?",
+        "a": "Coefficient"
+      },
+      {
+        "q": "If x + 12 = 30, what is x?",
+        "a": "18"
+      },
+      {
+        "q": "If 3x = 27, what is x?",
+        "a": "9"
+      },
+      {
+        "q": "A $60 jacket is reduced by 20 percent. What is the new price?",
+        "a": "$48"
+      },
+      {
+        "q": "What is one million divided by one thousand?",
+        "a": "1000"
+      },
+      {
+        "q": "How many minutes are there in a full day?",
+        "a": "1440"
+      },
+      {
+        "q": "What is two thirds of 90?",
+        "a": "60"
+      },
+      {
+        "q": "What is 45% of 60?",
+        "a": "27"
+      },
+      {
+        "q": "What ancient counting frame with beads sliding on rods was used for arithmetic?",
+        "a": "Abacus"
+      },
+      {
+        "q": "What word describes a number raised to the power of three?",
+        "a": "Cubed"
       }
     ],
     "400": [
@@ -7016,10 +10264,6 @@ const QUALITY_BACKFILL = {
         "a": "16"
       },
       {
-        "q": "What is the cube root of 512?",
-        "a": "8"
-      },
-      {
         "q": "What is the sum of the first five prime numbers?",
         "a": "28"
       },
@@ -7138,6 +10382,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is 12% of 350?",
         "a": "42"
+      },
+      {
+        "q": "What is 8 factorial?",
+        "a": "40320"
+      },
+      {
+        "q": "What is 12 choose 3?",
+        "a": "220"
+      },
+      {
+        "q": "What is the sum of all whole numbers from 1 to 20?",
+        "a": "210"
+      },
+      {
+        "q": "What is the sum of the odd numbers from 1 to 19?",
+        "a": "100"
+      },
+      {
+        "q": "What is the greatest common divisor of 84 and 126?",
+        "a": "42"
+      },
+      {
+        "q": "What is the least common multiple of 8 and 12?",
+        "a": "24"
+      },
+      {
+        "q": "What is the derivative of x cubed?",
+        "a": "3x²"
+      },
+      {
+        "q": "What is the integral of x dx?",
+        "a": "x²/2 + C"
+      },
+      {
+        "q": "What is cos(30 degrees) in simplest radical form?",
+        "a": "√3/2"
+      },
+      {
+        "q": "What is 5 to the power of negative 2?",
+        "a": "1/25"
+      },
+      {
+        "q": "What is 27 raised to the power two thirds?",
+        "a": "9"
+      },
+      {
+        "q": "If 3x − 7 = 20, what is x?",
+        "a": "9"
+      },
+      {
+        "q": "What is the slope of the line through the points (1, 2) and (3, 8)?",
+        "a": "3"
+      },
+      {
+        "q": "Where does the line y = 3x − 7 cross the vertical axis?",
+        "a": "−7"
+      },
+      {
+        "q": "What is the area of a trapezoid with parallel sides 6 and 10 and height 4?",
+        "a": "32"
+      },
+      {
+        "q": "What is the area of a circle of diameter 8, in terms of pi?",
+        "a": "16π"
+      },
+      {
+        "q": "What is the volume of a cone with radius 3 and height 4, in terms of pi?",
+        "a": "12π"
+      },
+      {
+        "q": "How many diagonals does an octagon have?",
+        "a": "20"
+      },
+      {
+        "q": "How many degrees is each interior angle of a regular pentagon?",
+        "a": "108"
+      },
+      {
+        "q": "What is the probability of rolling two sixes with two fair dice?",
+        "a": "1/36"
+      },
+      {
+        "q": "How many possible outcomes are there when five coins are flipped?",
+        "a": "32"
+      },
+      {
+        "q": "Which two letters form the Roman numeral for 900?",
+        "a": "CM"
+      },
+      {
+        "q": "Which year is written MCMXC in Roman numerals?",
+        "a": "1990"
+      },
+      {
+        "q": "What is 6 to the power of 4?",
+        "a": "1296"
+      },
+      {
+        "q": "What is 1/2 + 1/3 + 1/6?",
+        "a": "1"
+      },
+      {
+        "q": "What is 7/8 − 1/2?",
+        "a": "3/8"
+      },
+      {
+        "q": "A price rises from 40 to 50. By what percentage has it increased?",
+        "a": "25%"
+      },
+      {
+        "q": "What is the simple interest on $1000 at 5% a year for three years?",
+        "a": "$150"
+      },
+      {
+        "q": "What is the binary number 1011 in decimal?",
+        "a": "11"
+      },
+      {
+        "q": "How is the decimal number 20 written in binary?",
+        "a": "10100"
+      },
+      {
+        "q": "What is the hexadecimal value FF in decimal?",
+        "a": "255"
+      },
+      {
+        "q": "What is the larger solution of x² − 5x + 6 = 0?",
+        "a": "3"
+      },
+      {
+        "q": "What do the two roots of x² − 7x + 12 = 0 add up to?",
+        "a": "7"
+      },
+      {
+        "q": "How many radians is 30 degrees?",
+        "a": "π/6"
+      },
+      {
+        "q": "What is the name of the ancient algorithm that finds primes by crossing out multiples?",
+        "a": "Sieve of Eratosthenes"
+      },
+      {
+        "q": "Which English logician gives his name to the overlapping-circle diagrams used in set theory?",
+        "a": "John Venn"
+      },
+      {
+        "q": "Which Greek mathematician estimated pi by inscribing polygons in a circle and has a water-raising screw named after him?",
+        "a": "Archimedes"
+      },
+      {
+        "q": "Which 19th-century mathematician who wrote notes for Babbage's Analytical Engine is called the first computer programmer?",
+        "a": "Ada Lovelace"
+      },
+      {
+        "q": "How many Platonic solids are there?",
+        "a": "5"
+      },
+      {
+        "q": "What is the smallest number of colours needed so that no two bordering regions of any flat map share a colour?",
+        "a": "4"
+      },
+      {
+        "q": "How many sides does a Möbius strip have?",
+        "a": "1"
+      },
+      {
+        "q": "How many zeros follow the 1 in a googol?",
+        "a": "100"
+      },
+      {
+        "q": "Whose triangle of numbers has each entry equal to the sum of the two above it?",
+        "a": "Pascal"
+      },
+      {
+        "q": "What is a matrix called when multiplying it by the original gives the identity matrix?",
+        "a": "Inverse"
+      },
+      {
+        "q": "Which country did the digits 0 to 9 used worldwide today originate in?",
+        "a": "India"
+      },
+      {
+        "q": "Which Persian scholar's name gave rise to the word algorithm?",
+        "a": "Al-Khwarizmi"
+      },
+      {
+        "q": "What is the everyday name for the shape of a normal distribution graph?",
+        "a": "Bell curve"
+      },
+      {
+        "q": "What is the derivative of cos(x)?",
+        "a": "−sin(x)"
+      },
+      {
+        "q": "Standard deviation is the square root of which statistical quantity?",
+        "a": "Variance"
       }
     ],
     "600": [
@@ -7440,6 +10880,190 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the smallest number expressible as the sum of two cubes in two different ways?",
         "a": "1729"
+      },
+      {
+        "q": "What formula relates the vertices, edges and faces of any convex polyhedron?",
+        "a": "V − E + F = 2"
+      },
+      {
+        "q": "How many unsolved problems did David Hilbert set out in 1900?",
+        "a": "23"
+      },
+      {
+        "q": "How many Millennium Prize Problems were announced by the Clay Institute?",
+        "a": "7"
+      },
+      {
+        "q": "What is the maximum age for a Fields Medal recipient?",
+        "a": "40"
+      },
+      {
+        "q": "Which country awards the Abel Prize?",
+        "a": "Norway"
+      },
+      {
+        "q": "A puzzle about crossing seven bridges in which city launched graph theory?",
+        "a": "Königsberg"
+      },
+      {
+        "q": "Which mathematician coined the word fractal?",
+        "a": "Benoit Mandelbrot"
+      },
+      {
+        "q": "Which Millennium problem asks whether every quickly checkable solution can also be quickly found?",
+        "a": "P versus NP"
+      },
+      {
+        "q": "Which conjecture says that halving even numbers and tripling-plus-one odd ones always reaches 1?",
+        "a": "Collatz conjecture"
+      },
+      {
+        "q": "Which conjecture claims there are infinitely many prime pairs differing by two?",
+        "a": "Twin prime conjecture"
+      },
+      {
+        "q": "Primes of the form 2 to the n minus 1 are named after which French monk?",
+        "a": "Marin Mersenne"
+      },
+      {
+        "q": "Which self-taught Indian mathematician collaborated with G. H. Hardy at Cambridge?",
+        "a": "Srinivasa Ramanujan"
+      },
+      {
+        "q": "Which female mathematician of ancient Alexandria was killed by a mob in 415 AD?",
+        "a": "Hypatia"
+      },
+      {
+        "q": "Whose theorem links every symmetry in physics to a conservation law?",
+        "a": "Emmy Noether"
+      },
+      {
+        "q": "Which mathematician's equilibrium concept in game theory won him a Nobel Prize in economics?",
+        "a": "John Nash"
+      },
+      {
+        "q": "Which mathematician described an abstract computing machine and led Enigma work at Bletchley Park?",
+        "a": "Alan Turing"
+      },
+      {
+        "q": "Which Irish mathematician invented quaternions and carved them into a Dublin bridge?",
+        "a": "William Rowan Hamilton"
+      },
+      {
+        "q": "In linear algebra, what is the scalar λ called when Av equals λv?",
+        "a": "Eigenvalue"
+      },
+      {
+        "q": "Which rule evaluates indeterminate limits by differentiating the top and bottom separately?",
+        "a": "L'Hôpital's rule"
+      },
+      {
+        "q": "What number does the repeating decimal 0.999... exactly equal?",
+        "a": "1"
+      },
+      {
+        "q": "Which principle says that placing n+1 objects in n boxes forces some box to hold two?",
+        "a": "Pigeonhole principle"
+      },
+      {
+        "q": "Roughly what percentage of a normal distribution lies within one standard deviation of the mean?",
+        "a": "68%"
+      },
+      {
+        "q": "What is the full range of possible values of a Pearson correlation coefficient?",
+        "a": "−1 to 1"
+      },
+      {
+        "q": "Which law states that c² = a² + b² − 2ab·cos C?",
+        "a": "Law of cosines"
+      },
+      {
+        "q": "How many subsets does a set with five elements have?",
+        "a": "32"
+      },
+      {
+        "q": "What do the entries in the nth row of Pascal's triangle add up to?",
+        "a": "2^n"
+      },
+      {
+        "q": "What is a Taylor series centred at zero also called?",
+        "a": "Maclaurin series"
+      },
+      {
+        "q": "What is the derivative of sec(x)?",
+        "a": "sec(x)tan(x)"
+      },
+      {
+        "q": "In the legend of doubling grains on a chessboard, how many grains are on the board in total?",
+        "a": "2^64 − 1"
+      },
+      {
+        "q": "What is the third perfect number?",
+        "a": "496"
+      },
+      {
+        "q": "The number 220 forms the smallest amicable pair with which other number?",
+        "a": "284"
+      },
+      {
+        "q": "Which hypothesis asks whether a set exists whose size is strictly between the integers and the reals?",
+        "a": "Continuum hypothesis"
+      },
+      {
+        "q": "Whose diagonal argument proved that the real numbers cannot be counted?",
+        "a": "Georg Cantor"
+      },
+      {
+        "q": "Which paradox concerns the collection of all sets that are not members of themselves?",
+        "a": "Russell's paradox"
+      },
+      {
+        "q": "What is the four-dimensional analogue of a cube called?",
+        "a": "Tesseract"
+      },
+      {
+        "q": "Which theorem states that a^p − a is divisible by p whenever p is prime?",
+        "a": "Fermat's Little Theorem"
+      },
+      {
+        "q": "Which classical theorem solves systems of simultaneous congruences with coprime moduli?",
+        "a": "Chinese Remainder Theorem"
+      },
+      {
+        "q": "Which theorem, named after an 18th-century English minister, updates a probability in the light of new evidence?",
+        "a": "Bayes' theorem"
+      },
+      {
+        "q": "Which theorem explains why sample means tend toward a normal distribution as sample size grows?",
+        "a": "Central limit theorem"
+      },
+      {
+        "q": "How many people must be in a room before the chance of two sharing a birthday passes 50 percent?",
+        "a": "23"
+      },
+      {
+        "q": "Squaring the circle with compass and straightedge is impossible because pi is what kind of number?",
+        "a": "Transcendental"
+      },
+      {
+        "q": "Which French mathematician founded group theory and died in a duel aged 20?",
+        "a": "Évariste Galois"
+      },
+      {
+        "q": "A mathematician's collaboration distance number is named after which prolific Hungarian?",
+        "a": "Paul Erdős"
+      },
+      {
+        "q": "Whose paradox claims Achilles can never overtake a tortoise given a head start?",
+        "a": "Zeno"
+      },
+      {
+        "q": "Which ancient civilisation counted using a base-60 number system?",
+        "a": "Babylonians"
+      },
+      {
+        "q": "What is the name of the divergent series 1 + 1/2 + 1/3 + 1/4 + ...?",
+        "a": "Harmonic series"
       }
     ]
   },
@@ -7652,6 +11276,102 @@ const QUALITY_BACKFILL = {
       {
         "q": "What alias does Phil use for his Valentine's Day role play with Claire?",
         "a": "Clive Bixby"
+      },
+      {
+        "q": "What relation is Jay to Haley, Alex and Luke?",
+        "a": "Grandfather"
+      },
+      {
+        "q": "What relation is Gloria to Claire?",
+        "a": "Stepmother"
+      },
+      {
+        "q": "What relation is Mitchell to the Dunphy children?",
+        "a": "Uncle"
+      },
+      {
+        "q": "What relation are Manny and Joe to each other?",
+        "a": "Half-brothers"
+      },
+      {
+        "q": "What relation is Joe to Claire?",
+        "a": "Half-brother"
+      },
+      {
+        "q": "What relation is Lily to Jay?",
+        "a": "Granddaughter"
+      },
+      {
+        "q": "What relation is Phil to Jay?",
+        "a": "Son-in-law"
+      },
+      {
+        "q": "What relation is Cameron to Claire?",
+        "a": "Brother-in-law"
+      },
+      {
+        "q": "Which sport does Jay play at his country club?",
+        "a": "Golf"
+      },
+      {
+        "q": "What colour is Mitchell's hair?",
+        "a": "Red"
+      },
+      {
+        "q": "Which two Dunphy sisters share a bedroom in the early seasons?",
+        "a": "Haley and Alex"
+      },
+      {
+        "q": "Which member of the family is terrified of clowns?",
+        "a": "Claire"
+      },
+      {
+        "q": "How many separate households does the show follow?",
+        "a": "Three"
+      },
+      {
+        "q": "Which character is known for mangling English words and sayings?",
+        "a": "Gloria"
+      },
+      {
+        "q": "Which parent stays home to raise baby Lily in the early seasons?",
+        "a": "Cameron"
+      },
+      {
+        "q": "Which character addresses Jay by his first name rather than calling him Dad?",
+        "a": "Manny"
+      },
+      {
+        "q": "Which alcoholic drink is Claire constantly pouring herself?",
+        "a": "Wine"
+      },
+      {
+        "q": "What does Phil struggle to put up on the roof every December?",
+        "a": "Christmas lights"
+      },
+      {
+        "q": "Which child in the family is forever writing poetry?",
+        "a": "Manny"
+      },
+      {
+        "q": "Which couple adopts a second child at the very end of the series?",
+        "a": "Mitchell and Cameron"
+      },
+      {
+        "q": "What does Luke repeatedly get his head stuck in at home?",
+        "a": "The banister"
+      },
+      {
+        "q": "How many times has Jay been married?",
+        "a": "Twice"
+      },
+      {
+        "q": "Which two young characters are constant partners in mischief?",
+        "a": "Luke and Manny"
+      },
+      {
+        "q": "Who is the youngest of Jay's three children?",
+        "a": "Joe"
       }
     ],
     "400": [
@@ -7886,6 +11606,82 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Gloria's first husband?",
         "a": "Javier"
+      },
+      {
+        "q": "At her high school graduation, which Dunphy passes out while giving her speech?",
+        "a": "Alex"
+      },
+      {
+        "q": "Which colour does Claire insist everyone wear for the season one family portrait?",
+        "a": "White"
+      },
+      {
+        "q": "What job does Cameron accept that takes the family away in the series finale?",
+        "a": "College football coach"
+      },
+      {
+        "q": "Which country does Alex move to for work in the series finale?",
+        "a": "Switzerland"
+      },
+      {
+        "q": "What role does Mitchell take on at home after leaving his law job?",
+        "a": "Stay-at-home dad"
+      },
+      {
+        "q": "What kind of remote-controlled toy is one of Jay's hobbies?",
+        "a": "Model airplanes"
+      },
+      {
+        "q": "What piece of traffic equipment does Claire campaign for before running for office?",
+        "a": "A stop sign"
+      },
+      {
+        "q": "In which war did Jay serve?",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Which California theme park gives its name to a season three episode?",
+        "a": "Disneyland"
+      },
+      {
+        "q": "Which gambling city does the family descend on in a season five episode?",
+        "a": "Las Vegas"
+      },
+      {
+        "q": "What is the name of Mitchell and Cameron's hard-partying single friend?",
+        "a": "Sal"
+      },
+      {
+        "q": "Which relative does Phil awkwardly keep trying to call Dad?",
+        "a": "Jay"
+      },
+      {
+        "q": "Which of Jay's two grown children is the elder?",
+        "a": "Claire"
+      },
+      {
+        "q": "On which night of the week did the show air on ABC?",
+        "a": "Wednesday"
+      },
+      {
+        "q": "In which season is Jay and Gloria's son born?",
+        "a": "Season four"
+      },
+      {
+        "q": "What do Phil and Claire pretend to be during their hotel bar role play?",
+        "a": "Strangers"
+      },
+      {
+        "q": "What is Claire's occupation for most of the early seasons?",
+        "a": "Stay-at-home mom"
+      },
+      {
+        "q": "In which season does Alex begin college?",
+        "a": "Season seven"
+      },
+      {
+        "q": "What kind of home do Mitchell and Cameron live in during the early seasons?",
+        "a": "An apartment"
       }
     ],
     "600": [
@@ -8076,6 +11872,70 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Manny's often-mentioned best friend?",
         "a": "Reuben"
+      },
+      {
+        "q": "What is the name of the second child Mitchell and Cameron adopt?",
+        "a": "Rexford"
+      },
+      {
+        "q": "What is the name of Jay's long-serving secretary?",
+        "a": "Margaret"
+      },
+      {
+        "q": "What is the name of the dog left in the Dunphys' care in season one?",
+        "a": "Scout"
+      },
+      {
+        "q": "In the pilot, which older girl does Manny declare his love for?",
+        "a": "Brenda Feldman"
+      },
+      {
+        "q": "What natural disaster forces Mitchell and Cameron to change their wedding venue?",
+        "a": "A wildfire"
+      },
+      {
+        "q": "In which year did the show win its first Outstanding Comedy Series Emmy?",
+        "a": "2010"
+      },
+      {
+        "q": "In which year did the show win its last Outstanding Comedy Series Emmy?",
+        "a": "2014"
+      },
+      {
+        "q": "How many Primetime Emmy Awards did the series win in total?",
+        "a": "22"
+      },
+      {
+        "q": "How many episodes were made across the whole series?",
+        "a": "250"
+      },
+      {
+        "q": "How many episodes were in the first season?",
+        "a": "24"
+      },
+      {
+        "q": "Who composed the show's music?",
+        "a": "Gabriel Mann"
+      },
+      {
+        "q": "Which studio produced the series?",
+        "a": "20th Century Fox Television"
+      },
+      {
+        "q": "In which month and year did the last episode air?",
+        "a": "April 2020"
+      },
+      {
+        "q": "What is the title of the show's two-part last episode?",
+        "a": "Finale"
+      },
+      {
+        "q": "What old vehicle of Claire's is at the centre of the season two premiere?",
+        "a": "A station wagon"
+      },
+      {
+        "q": "What does Phil build in the backyard in the season two premiere?",
+        "a": "A playhouse"
       }
     ]
   },
@@ -8336,6 +12196,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which quiz show offers lifelines such as 'phone a friend'?",
         "a": "Who Wants to Be a Millionaire"
+      },
+      {
+        "q": "Which website organises its communities into user-run boards prefixed with r/?",
+        "a": "Reddit"
+      },
+      {
+        "q": "Which messaging app uses a white phone inside a green speech bubble as its icon?",
+        "a": "WhatsApp"
+      },
+      {
+        "q": "Which site is built around saving images to themed boards?",
+        "a": "Pinterest"
+      },
+      {
+        "q": "Which chat platform popular with gamers is organised into servers and channels?",
+        "a": "Discord"
+      },
+      {
+        "q": "Which live-streaming site is known for emotes and paid channel subscriptions to gamers?",
+        "a": "Twitch"
+      },
+      {
+        "q": "Which company owns both Instagram and WhatsApp?",
+        "a": "Meta"
+      },
+      {
+        "q": "Which app let users post six-second looping clips before shutting down in 2017?",
+        "a": "Vine"
+      },
+      {
+        "q": "Which singer's fanbase calls itself the Beyhive?",
+        "a": "Beyoncé"
+      },
+      {
+        "q": "Which US sketch show features the 'Weekend Update' segment?",
+        "a": "Saturday Night Live"
+      },
+      {
+        "q": "Which singing competition has coaches in spinning chairs for blind auditions?",
+        "a": "The Voice"
+      },
+      {
+        "q": "Which ABC competition pairs celebrities with ballroom professionals for a mirrorball trophy?",
+        "a": "Dancing with the Stars"
+      },
+      {
+        "q": "Which UK variety contest launched by Simon Cowell in 2007 was won by Paul Potts?",
+        "a": "Britain's Got Talent"
+      },
+      {
+        "q": "Which Italian fashion house uses a double-G monogram and a green-red-green stripe?",
+        "a": "Gucci"
+      },
+      {
+        "q": "Which sportswear giant's slogan is 'Just Do It'?",
+        "a": "Nike"
+      },
+      {
+        "q": "Which British singer recorded 'Rolling in the Deep'?",
+        "a": "Adele"
+      },
+      {
+        "q": "Which band recorded 'Bohemian Rhapsody'?",
+        "a": "Queen"
+      },
+      {
+        "q": "Which singer released '...Baby One More Time' in 1998?",
+        "a": "Britney Spears"
+      },
+      {
+        "q": "Which Colombian star sang 'Hips Don't Lie'?",
+        "a": "Shakira"
+      },
+      {
+        "q": "Which English singer had a 2020 hit with 'Levitating'?",
+        "a": "Dua Lipa"
+      },
+      {
+        "q": "Whose debut single 'Drivers License' broke streaming records in 2021?",
+        "a": "Olivia Rodrigo"
+      },
+      {
+        "q": "Which artist recorded the record-breaking country-rap hit 'Old Town Road'?",
+        "a": "Lil Nas X"
+      },
+      {
+        "q": "Which singer teamed with Mark Ronson on 'Uptown Funk'?",
+        "a": "Bruno Mars"
+      },
+      {
+        "q": "Which 1990s British girl group's members used nicknames like Scary, Posh and Sporty?",
+        "a": "Spice Girls"
+      },
+      {
+        "q": "Which former One Direction member released 'Watermelon Sugar'?",
+        "a": "Harry Styles"
+      },
+      {
+        "q": "Which animated sitcom is set in the town of Quahog, Rhode Island?",
+        "a": "Family Guy"
+      },
+      {
+        "q": "Which awards honour the best in American television each year?",
+        "a": "Emmys"
+      },
+      {
+        "q": "Which streaming service's originals include 'The Boys' and 'Reacher'?",
+        "a": "Amazon Prime Video"
+      },
+      {
+        "q": "Which app identifies a song by listening to a few seconds of it?",
+        "a": "Shazam"
+      },
+      {
+        "q": "Which music streaming service uses a green circle with three curved bars?",
+        "a": "Spotify"
+      },
+      {
+        "q": "Which social network is built around careers, CVs and job hunting?",
+        "a": "LinkedIn"
+      },
+      {
+        "q": "Which cartoon features Eric Cartman and Kyle Broflovski in a Colorado mountain town?",
+        "a": "South Park"
+      },
+      {
+        "q": "Which 2021 Disney film gave the world the chart-topping song 'We Don't Talk About Bruno'?",
+        "a": "Encanto"
+      },
+      {
+        "q": "Which country legend wrote and recorded 'Jolene'?",
+        "a": "Dolly Parton"
+      },
+      {
+        "q": "Which rock band is fronted by Mick Jagger and Keith Richards?",
+        "a": "The Rolling Stones"
+      },
+      {
+        "q": "Which Irish rock band is fronted by a singer known as Bono?",
+        "a": "U2"
+      },
+      {
+        "q": "Which singer is crowned the 'Queen of Soul'?",
+        "a": "Aretha Franklin"
+      },
+      {
+        "q": "Which musician starred in and recorded 'Purple Rain'?",
+        "a": "Prince"
+      },
+      {
+        "q": "Which annual film ceremony is held at the Dolby Theatre in Hollywood?",
+        "a": "Oscars"
+      },
+      {
+        "q": "Fans of which film franchise celebrate a fan holiday every 4 May?",
+        "a": "Star Wars"
+      },
+      {
+        "q": "Which singer's 1992 recording of 'I Will Always Love You' became a global smash?",
+        "a": "Whitney Houston"
+      },
+      {
+        "q": "Which American rock singer is nicknamed 'The Boss'?",
+        "a": "Bruce Springsteen"
+      },
+      {
+        "q": "Which British pianist and singer recorded 'Rocket Man'?",
+        "a": "Elton John"
+      },
+      {
+        "q": "Which soft drink brand's Christmas adverts feature animated polar bears?",
+        "a": "Coca-Cola"
+      },
+      {
+        "q": "Which toy company manufactures Barbie?",
+        "a": "Mattel"
+      },
+      {
+        "q": "Which app is used to book stays in other people's homes worldwide?",
+        "a": "Airbnb"
+      },
+      {
+        "q": "Which battle royale game turned emotes like the Floss into playground crazes?",
+        "a": "Fortnite"
+      },
+      {
+        "q": "Which competition series films amateurs in a marquee tent judged by Paul Hollywood and Prue Leith?",
+        "a": "The Great British Bake Off"
+      },
+      {
+        "q": "Which language-learning app is famous for its pushy green owl mascot?",
+        "a": "Duolingo"
+      },
+      {
+        "q": "Which Bravo franchise has editions in Beverly Hills, Atlanta and Salt Lake City?",
+        "a": "The Real Housewives"
+      },
+      {
+        "q": "Which video-call app became a household name during the 2020 lockdowns?",
+        "a": "Zoom"
       }
     ],
     "400": [
@@ -8610,6 +12670,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which streaming platform produced 'Ted Lasso'?",
         "a": "Apple TV+"
+      },
+      {
+        "q": "Which sitcom's friends drink at MacLaren's Pub in New York?",
+        "a": "How I Met Your Mother"
+      },
+      {
+        "q": "Which HBO drama follows a New Jersey mob boss who sees a therapist?",
+        "a": "The Sopranos"
+      },
+      {
+        "q": "Which long-running comedy centres on the awful owners of Paddy's Pub?",
+        "a": "It's Always Sunny in Philadelphia"
+      },
+      {
+        "q": "Which FX series follows a fine-dining chef running his family's Chicago sandwich shop?",
+        "a": "The Bear"
+      },
+      {
+        "q": "Which HBO teen drama is known for its glitter-heavy makeup looks?",
+        "a": "Euphoria"
+      },
+      {
+        "q": "Which comedy about a broke rich family running a small-town motel swept the 2020 Emmys?",
+        "a": "Schitt's Creek"
+      },
+      {
+        "q": "Which US streaming service is the home of 'The Handmaid's Tale'?",
+        "a": "Hulu"
+      },
+      {
+        "q": "Which Spanish Netflix thriller dresses its robbers in red jumpsuits and Dalí masks?",
+        "a": "Money Heist"
+      },
+      {
+        "q": "Which cooking contest hands chefs a mystery basket of ingredients each round?",
+        "a": "Chopped"
+      },
+      {
+        "q": "Which MTV series investigates online romances built on fake identities?",
+        "a": "Catfish"
+      },
+      {
+        "q": "Which US variety contest did Simon Cowell join as a judge in 2016?",
+        "a": "America's Got Talent"
+      },
+      {
+        "q": "Which star-studded fundraiser takes over the steps of a New York museum on the first Monday in May?",
+        "a": "Met Gala"
+      },
+      {
+        "q": "Which film became the first non-English-language Best Picture winner, in 2020?",
+        "a": "Parasite"
+      },
+      {
+        "q": "Which film won Best Picture at the 2024 Academy Awards?",
+        "a": "Oppenheimer"
+      },
+      {
+        "q": "Which hip-hop Broadway musical about a US founding father won 11 Tony Awards in 2016?",
+        "a": "Hamilton"
+      },
+      {
+        "q": "Which songwriter created the Broadway musical 'In the Heights'?",
+        "a": "Lin-Manuel Miranda"
+      },
+      {
+        "q": "Which awards were voted on for decades by the Hollywood Foreign Press Association?",
+        "a": "Golden Globes"
+      },
+      {
+        "q": "Whose 2024 album 'Brat' turned lime green into the colour of the summer?",
+        "a": "Charli XCX"
+      },
+      {
+        "q": "Which music mogul was arrested in New York in September 2024 on racketeering charges?",
+        "a": "Diddy"
+      },
+      {
+        "q": "What is the one-word title of Prince Harry's 2023 memoir?",
+        "a": "Spare"
+      },
+      {
+        "q": "Which chatbot launched in November 2022 and hit 100 million users within months?",
+        "a": "ChatGPT"
+      },
+      {
+        "q": "Which cryptocurrency started in 2013 as a joke built around a Shiba Inu picture?",
+        "a": "Dogecoin"
+      },
+      {
+        "q": "Which two-word retort aimed at older generations went viral in 2019?",
+        "a": "OK Boomer"
+      },
+      {
+        "q": "Which sportswear brand cut ties with Kanye West's Yeezy line in 2022?",
+        "a": "Adidas"
+      },
+      {
+        "q": "Which New York streetwear label is defined by its red rectangular logo?",
+        "a": "Supreme"
+      },
+      {
+        "q": "Which French luxury house makes the Birkin handbag?",
+        "a": "Hermès"
+      },
+      {
+        "q": "Which British brand is known for trench coats and a beige tartan check?",
+        "a": "Burberry"
+      },
+      {
+        "q": "Which lingerie brand scrapped its televised 'Angels' runway show in 2019?",
+        "a": "Victoria's Secret"
+      },
+      {
+        "q": "Which Nike sneaker line is named after a Chicago Bulls legend?",
+        "a": "Air Jordan"
+      },
+      {
+        "q": "Which music festival is held each spring in Indio, California?",
+        "a": "Coachella"
+      },
+      {
+        "q": "Which British festival is staged at Worthy Farm in Somerset?",
+        "a": "Glastonbury"
+      },
+      {
+        "q": "Which Nevada desert gathering ends with a huge wooden effigy set alight?",
+        "a": "Burning Man"
+      },
+      {
+        "q": "Which social network dominated before Facebook, famous for its 'Top 8' friends?",
+        "a": "MySpace"
+      },
+      {
+        "q": "In which year did YouTube launch?",
+        "a": "2005"
+      },
+      {
+        "q": "In which year did the first iPhone go on sale?",
+        "a": "2007"
+      },
+      {
+        "q": "Which website's Top 250 list ranks films by user ratings?",
+        "a": "IMDb"
+      },
+      {
+        "q": "Which American magazine runs an annual swimsuit issue alongside its athletics coverage?",
+        "a": "Sports Illustrated"
+      },
+      {
+        "q": "Which Swedish group won the 1974 Eurovision Song Contest with 'Waterloo'?",
+        "a": "ABBA"
+      },
+      {
+        "q": "Which singer performs with her face hidden behind an oversized black-and-blonde wig?",
+        "a": "Sia"
+      },
+      {
+        "q": "Which 1983 music video full of dancing zombies ran nearly 14 minutes?",
+        "a": "Thriller"
+      },
+      {
+        "q": "Which rapper released the 2018 album 'Astroworld'?",
+        "a": "Travis Scott"
+      },
+      {
+        "q": "Which teenage singer was discovered on YouTube by manager Scooter Braun?",
+        "a": "Justin Bieber"
+      },
+      {
+        "q": "Which musician performed in the 1970s as the alien rock star Ziggy Stardust?",
+        "a": "David Bowie"
+      },
+      {
+        "q": "Which Memphis mansion draws crowds of Elvis Presley fans every year?",
+        "a": "Graceland"
+      },
+      {
+        "q": "Which comedian has fronted CBS's 'The Late Show' since 2015?",
+        "a": "Stephen Colbert"
+      },
+      {
+        "q": "Which director made the 2023 film 'Barbie'?",
+        "a": "Greta Gerwig"
+      },
+      {
+        "q": "Which Chinese company owns TikTok?",
+        "a": "ByteDance"
+      },
+      {
+        "q": "The MTV Video Music Awards trophy shows a figure dressed in what kind of suit?",
+        "a": "Astronaut"
+      },
+      {
+        "q": "Which Netflix crime series dramatised Pablo Escobar and the Medellín cartel?",
+        "a": "Narcos"
       }
     ],
     "600": [
@@ -8916,6 +13172,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which text-based app did Meta launch in 2023 as a Twitter rival?",
         "a": "Threads"
+      },
+      {
+        "q": "Which film actually won Best Picture at the 2017 Oscars after the wrong title was read out?",
+        "a": "Moonlight"
+      },
+      {
+        "q": "Which film won Best Picture at the 2025 Academy Awards?",
+        "a": "Anora"
+      },
+      {
+        "q": "Which artist won Best New Artist at the 2025 Grammy Awards?",
+        "a": "Chappell Roan"
+      },
+      {
+        "q": "Which album won Album of the Year at the 2025 Grammy Awards?",
+        "a": "Cowboy Carter"
+      },
+      {
+        "q": "Which spoof awards are handed out each year for the worst films?",
+        "a": "Razzies"
+      },
+      {
+        "q": "Which 1985 Kate Bush song stormed back up the charts in 2022 thanks to a Netflix series?",
+        "a": "Running Up That Hill"
+      },
+      {
+        "q": "Which Fleetwood Mac song re-entered the charts after a 2020 skateboarding TikTok?",
+        "a": "Dreams"
+      },
+      {
+        "q": "Which sea shanty about a whaling ship became a TikTok craze in early 2021?",
+        "a": "Wellerman"
+      },
+      {
+        "q": "Who became the first openly transgender woman to win a Grammy, in 2023 for 'Unholy'?",
+        "a": "Kim Petras"
+      },
+      {
+        "q": "Which Indian music label overtook PewDiePie as YouTube's most-subscribed channel in 2019?",
+        "a": "T-Series"
+      },
+      {
+        "q": "Which annual year-in-review video series was scrapped after its widely mocked 2018 and 2019 editions?",
+        "a": "YouTube Rewind"
+      },
+      {
+        "q": "Which streamer smashed Twitch's subscriber record with his 2024 'Mafiathon' marathon?",
+        "a": "Kai Cenat"
+      },
+      {
+        "q": "Which viral campaign film from the group Invisible Children urged the capture of a Ugandan warlord?",
+        "a": "Kony 2012"
+      },
+      {
+        "q": "Which 2017 collection of 10,000 pixel-art avatars became the blue-chip NFT project?",
+        "a": "CryptoPunks"
+      },
+      {
+        "q": "Which NFT collection of cartoon primates drew celebrity buyers in 2021?",
+        "a": "Bored Ape Yacht Club"
+      },
+      {
+        "q": "What was the real name of the cat known online as Grumpy Cat?",
+        "a": "Tardar Sauce"
+      },
+      {
+        "q": "Which lip-sync app did TikTok absorb in 2018 to take over the US market?",
+        "a": "Musical.ly"
+      },
+      {
+        "q": "Which designer led Chanel from 1983 until his death in 2019?",
+        "a": "Karl Lagerfeld"
+      },
+      {
+        "q": "Which British fashion label is known for its skull-print scarves?",
+        "a": "Alexander McQueen"
+      },
+      {
+        "q": "Which fashion designer was shot dead outside his Miami Beach mansion in 1997?",
+        "a": "Gianni Versace"
+      },
+      {
+        "q": "Which one-word 2019 Met Gala theme came from a Susan Sontag essay?",
+        "a": "Camp"
+      },
+      {
+        "q": "Which Spanish chain is the flagship brand of the Inditex group?",
+        "a": "Zara"
+      },
+      {
+        "q": "In which year did Netflix start its streaming service?",
+        "a": "2007"
+      },
+      {
+        "q": "In which year was Snapchat launched?",
+        "a": "2011"
+      },
+      {
+        "q": "Which comedian hosts the deadpan web series 'Between Two Ferns'?",
+        "a": "Zach Galifianakis"
+      },
+      {
+        "q": "Which British presenting duo has fronted 'I'm a Celebrity...Get Me Out of Here!'?",
+        "a": "Ant and Dec"
+      },
+      {
+        "q": "Which record label sold Taylor Swift's back catalogue in 2019, prompting her re-recordings?",
+        "a": "Big Machine"
+      },
+      {
+        "q": "What two-word tag does Taylor Swift add to the titles of her re-recorded albums?",
+        "a": "Taylor's Version"
+      },
+      {
+        "q": "What was the name of the student website Mark Zuckerberg built before Facebook?",
+        "a": "Facemash"
+      },
+      {
+        "q": "Who posted the very first tweet in 2006?",
+        "a": "Jack Dorsey"
+      },
+      {
+        "q": "Which YouTuber's tearful 2007 'Leave Britney Alone' video became an early viral hit?",
+        "a": "Chris Crocker"
+      },
+      {
+        "q": "Which dance move dominated headlines after Miley Cyrus's 2013 VMA performance?",
+        "a": "Twerking"
+      },
+      {
+        "q": "Who grabbed the microphone during Taylor Swift's acceptance speech at the 2009 VMAs?",
+        "a": "Kanye West"
+      },
+      {
+        "q": "Whose 2004 Super Bowl halftime moment gave the world the phrase 'wardrobe malfunction'?",
+        "a": "Janet Jackson"
+      },
+      {
+        "q": "Which magazine ran the 2014 Kim Kardashian cover captioned 'Break the Internet'?",
+        "a": "Paper"
+      },
+      {
+        "q": "Which Somali-born supermodel was married to David Bowie?",
+        "a": "Iman"
+      },
+      {
+        "q": "Which 2003 reality show sent Paris Hilton and Nicole Richie to work on a farm?",
+        "a": "The Simple Life"
+      },
+      {
+        "q": "Which U2 album was pushed free into iTunes users' libraries in 2014?",
+        "a": "Songs of Innocence"
+      },
+      {
+        "q": "Which company bought YouTube in 2006?",
+        "a": "Google"
+      },
+      {
+        "q": "Which slang term for an obsessive fan comes from a 2000 Eminem single?",
+        "a": "Stan"
+      },
+      {
+        "q": "Which newspaper bought the puzzle game Wordle in 2022?",
+        "a": "The New York Times"
+      },
+      {
+        "q": "Which shortened word was Oxford's word of the year for 2021?",
+        "a": "Vax"
+      },
+      {
+        "q": "Which word did Merriam-Webster name its word of the year for 2022?",
+        "a": "Gaslighting"
+      },
+      {
+        "q": "Which unknown Virginia singer's 'Rich Men North of Richmond' debuted at number one in 2023?",
+        "a": "Oliver Anthony"
+      },
+      {
+        "q": "Which country's pistol shooter became a 2024 Olympic meme for his casual, gadget-free stance?",
+        "a": "Turkey"
+      },
+      {
+        "q": "Which Australian breakdancer became a global meme at the 2024 Olympics?",
+        "a": "Raygun"
+      },
+      {
+        "q": "Which man's 2010 news interview was auto-tuned into the viral 'Bed Intruder Song'?",
+        "a": "Antoine Dodson"
+      },
+      {
+        "q": "Which 2018 craze had people leaping out of moving cars to dance to a Drake song?",
+        "a": "Kiki Challenge"
+      },
+      {
+        "q": "Which Canadian singer first found fame posting six-second song covers on Vine?",
+        "a": "Shawn Mendes"
+      },
+      {
+        "q": "Which YouTuber-turned-boxer fought Mike Tyson in a 2024 Netflix event?",
+        "a": "Jake Paul"
       }
     ]
   },
@@ -9156,6 +13612,82 @@ const QUALITY_BACKFILL = {
       {
         "q": "In which country does Sucre finally reunite with Maricruz in season 2?",
         "a": "Mexico"
+      },
+      {
+        "q": "How many years is Michael sentenced to serve after his staged bank robbery?",
+        "a": "Five"
+      },
+      {
+        "q": "What crime lands Sucre in Fox River?",
+        "a": "Armed robbery"
+      },
+      {
+        "q": "Which inmate corners Sara in the infirmary during the season 1 riot?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "Which piece of execution equipment does Michael secretly tamper with to buy Lincoln time?",
+        "a": "The electric chair"
+      },
+      {
+        "q": "Which Fox River officer ends up serving time as a convict himself?",
+        "a": "Brad Bellick"
+      },
+      {
+        "q": "How many episodes make up the first season?",
+        "a": "22"
+      },
+      {
+        "q": "What form of transport arranged for the escapees takes off without them in the season 1 finale?",
+        "a": "A plane"
+      },
+      {
+        "q": "Which unstable inmate becomes Michael's cellmate after Sucre requests a transfer?",
+        "a": "Haywire"
+      },
+      {
+        "q": "What kind of doctored evidence places Lincoln at the murder scene?",
+        "a": "A security video"
+      },
+      {
+        "q": "Which escapee turns himself in to the FBI to protect his wife and daughter?",
+        "a": "C-Note"
+      },
+      {
+        "q": "How many seasons had aired before the 2017 revival?",
+        "a": "Four"
+      },
+      {
+        "q": "Whose courtroom testimony finally clears Lincoln's name at the end of season 2?",
+        "a": "Paul Kellerman"
+      },
+      {
+        "q": "Which US state is T-Bag originally from?",
+        "a": "Alabama"
+      },
+      {
+        "q": "What does Lincoln receive at the last moment that halts his execution?",
+        "a": "A stay"
+      },
+      {
+        "q": "In which city do Michael and Lincoln grow up?",
+        "a": "Chicago"
+      },
+      {
+        "q": "Which family member does Michael meet for the first time in the revival season?",
+        "a": "His son"
+      },
+      {
+        "q": "Which two escapees are handcuffed together as they flee Fox River?",
+        "a": "Michael and T-Bag"
+      },
+      {
+        "q": "In what year did the show's original run end?",
+        "a": "2009"
+      },
+      {
+        "q": "Which prison is Jacob locked up in by the end of the series?",
+        "a": "Fox River"
       }
     ],
     "400": [
@@ -9428,14 +13960,6 @@ const QUALITY_BACKFILL = {
         "a": "Charles Westmoreland"
       },
       {
-        "q": "How many years is Michael sentenced to for his bank robbery?",
-        "a": "Five"
-      },
-      {
-        "q": "How many episodes are in season 1?",
-        "a": "22"
-      },
-      {
         "q": "How many cards are needed to access Scylla?",
         "a": "Six"
       },
@@ -9476,16 +14000,8 @@ const QUALITY_BACKFILL = {
         "a": "Lincoln's death warrant"
       },
       {
-        "q": "What crime put Sucre in Fox River?",
-        "a": "Armed robbery"
-      },
-      {
         "q": "In which branch of the US military did C-Note serve?",
         "a": "The Army"
-      },
-      {
-        "q": "Which escapee turns himself in to the FBI so his sick daughter can get treatment?",
-        "a": "C-Note"
       },
       {
         "q": "Who slashes Abruzzi's throat in season 1?",
@@ -9530,6 +14046,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "In which US state do the brothers plan to meet their getaway plane in season 2?",
         "a": "New Mexico"
+      },
+      {
+        "q": "Which escapee does Mahone shoot dead after promising to help him?",
+        "a": "Tweener"
+      },
+      {
+        "q": "How many years has Michael been presumed dead when the revival begins?",
+        "a": "Seven"
+      },
+      {
+        "q": "Which family members did Haywire murder to end up in Fox River?",
+        "a": "His parents"
+      },
+      {
+        "q": "Which relative's murder is LJ framed for?",
+        "a": "His mother"
+      },
+      {
+        "q": "In what kind of location does the doctored footage show Lincoln shooting Terrence Steadman?",
+        "a": "A parking garage"
+      },
+      {
+        "q": "Which relative of Sucre tries to marry Maricruz while he is locked up?",
+        "a": "His cousin Hector"
+      },
+      {
+        "q": "What is the name of the boat that carries the group toward Panama?",
+        "a": "Christina Rose"
+      },
+      {
+        "q": "What does Don Self offer the crew in exchange for stealing Scylla?",
+        "a": "Full pardons"
+      },
+      {
+        "q": "By what military-sounding title do Company insiders refer to Jonathan Krantz?",
+        "a": "The General"
+      },
+      {
+        "q": "In which season does Gretchen Morgan first appear?",
+        "a": "Season three"
+      },
+      {
+        "q": "Whose whereabouts does Abruzzi demand from Michael in exchange for helping him?",
+        "a": "Fibonacci"
+      },
+      {
+        "q": "Which Ogygia inmate is a computer hacker?",
+        "a": "Ja"
+      },
+      {
+        "q": "What does Warden Pope do in the aftermath of the Fox River escape?",
+        "a": "Resigns"
+      },
+      {
+        "q": "What happens to any Sona inmate who steps outside the gate?",
+        "a": "Shot by guards"
+      },
+      {
+        "q": "Which escapee ends up with Westmoreland's five million dollars?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "What ceremony opens the TV movie The Final Break?",
+        "a": "Michael and Sara's wedding"
+      },
+      {
+        "q": "In what does Kellerman hold Sara under water while interrogating her?",
+        "a": "A bathtub"
+      },
+      {
+        "q": "How does Haywire die when Mahone corners him?",
+        "a": "He jumps off a silo"
+      },
+      {
+        "q": "Which two hostages does Gretchen hold to force Michael into the Sona job?",
+        "a": "Sara and LJ"
+      },
+      {
+        "q": "Which old Fox River ally travels with Lincoln in Yemen?",
+        "a": "C-Note"
+      },
+      {
+        "q": "Which extremist group overruns the Yemeni capital during the revival?",
+        "a": "ISIL"
       }
     ],
     "600": [
@@ -9862,10 +14462,6 @@ const QUALITY_BACKFILL = {
         "a": "Tooele"
       },
       {
-        "q": "What is the name of the boat Michael buys in Panama in season 2?",
-        "a": "Christina Rose"
-      },
-      {
         "q": "What nationality is Nika Volek?",
         "a": "Czech"
       },
@@ -9942,16 +14538,136 @@ const QUALITY_BACKFILL = {
         "a": "India"
       },
       {
-        "q": "Who briefly becomes Michael's cellmate after Sucre is moved out of their cell?",
-        "a": "Haywire"
-      },
-      {
         "q": "Which cousin of Sucre's takes up with Maricruz while he is in prison?",
         "a": "Hector"
       },
       {
-        "q": "Whose testimony finally leads to Lincoln's exoneration in season 2?",
+        "q": "What is Lechero's real name?",
+        "a": "Norman St. John"
+      },
+      {
+        "q": "Which prescription drug is Mahone hooked on?",
+        "a": "Veratril"
+      },
+      {
+        "q": "What is the surname of the female FBI agent who works the manhunt alongside Mahone?",
+        "a": "Lang"
+      },
+      {
+        "q": "Which greedy former Fox River guard does Bellick end up killing?",
+        "a": "Roy Geary"
+      },
+      {
+        "q": "Who shoots Whistler dead at the end of season 3?",
+        "a": "Gretchen"
+      },
+      {
+        "q": "Which Company handler's killing does Michael take the blame for in Panama?",
+        "a": "Bill Kim"
+      },
+      {
+        "q": "How does Terrence Steadman die once he is finally cornered?",
+        "a": "He shoots himself"
+      },
+      {
+        "q": "Who murders Sara's father and stages it as a suicide?",
         "a": "Paul Kellerman"
+      },
+      {
+        "q": "Which North African country stood in for Yemen during filming of the revival?",
+        "a": "Morocco"
+      },
+      {
+        "q": "Which 2011 spin-off series featured a crossover appearance by T-Bag?",
+        "a": "Breakout Kings"
+      },
+      {
+        "q": "What is the medical name of the brain growth Michael inherits from his mother?",
+        "a": "Hypothalamic hamartoma"
+      },
+      {
+        "q": "Who finally kills the assassin Wyatt?",
+        "a": "Mahone"
+      },
+      {
+        "q": "What state is Don Self left in by the end of season 4?",
+        "a": "A vegetative state"
+      },
+      {
+        "q": "How is General Krantz put to death in the season 4 epilogue?",
+        "a": "Lethal injection"
+      },
+      {
+        "q": "What is the name of the GATE receptionist secretly working with Don Self?",
+        "a": "Trishanne"
+      },
+      {
+        "q": "Which CIA official is Michael accused of murdering under the Kaniel Outis identity?",
+        "a": "Harlan Gaines"
+      },
+      {
+        "q": "Which of Poseidon's assassins guns down Kellerman?",
+        "a": "Van Gogh"
+      },
+      {
+        "q": "Which returning villain kills Jacob in his cell in the final scene?",
+        "a": "T-Bag"
+      },
+      {
+        "q": "Which of Lechero's enforcers does T-Bag murder to take his place?",
+        "a": "Sammy"
+      },
+      {
+        "q": "What is the name of the tech expert with the data-copying device on the Scylla crew?",
+        "a": "Roland Glenn"
+      },
+      {
+        "q": "How many episodes are in season 3?",
+        "a": "Thirteen"
+      },
+      {
+        "q": "Which industry-wide labour action cut season 3 short?",
+        "a": "The writers' strike"
+      },
+      {
+        "q": "Which closed Illinois prison was used to film the Fox River exteriors?",
+        "a": "Joliet"
+      },
+      {
+        "q": "Which lawyer helping Veronica turns out to be working for the Company?",
+        "a": "Nick Savrinn"
+      },
+      {
+        "q": "Which organisation did Michael and Lincoln's father once work for?",
+        "a": "The Company"
+      },
+      {
+        "q": "Which young Sona inmate has a police officer father who aids the escape?",
+        "a": "McGrady"
+      },
+      {
+        "q": "Which inmate helps plan the Fox River escape but dies before reaching the outside?",
+        "a": "Westmoreland"
+      },
+      {
+        "q": "Whose killing puts Sara behind bars in The Final Break?",
+        "a": "Christina Scofield"
+      },
+      {
+        "q": "How many years later is the season 4 epilogue set?",
+        "a": "Four"
+      },
+      {
+        "q": "What subtitle was given to the 2017 revival season?",
+        "a": "Resurrection"
+      },
+      {
+        "q": "In which country did C-Note serve in the army before turning to crime?",
+        "a": "Iraq"
+      },
+      {
+        "q": "Which old enemy is locked up alongside Sara in The Final Break?",
+        "a": "Gretchen"
       }
     ]
   },
@@ -10216,6 +14932,62 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the American guild led by Thomas Andre?",
         "a": "Scavenger Guild"
+      },
+      {
+        "q": "In which capital city does most of the main story take place?",
+        "a": "Seoul"
+      },
+      {
+        "q": "What is the term for the moment an ordinary person suddenly gains hunter powers?",
+        "a": "Awakening"
+      },
+      {
+        "q": "What do hunters harvest from cleared dungeons and sell for money?",
+        "a": "Mana crystals"
+      },
+      {
+        "q": "What colour are the floating status windows only Jin-Woo can see?",
+        "a": "Blue"
+      },
+      {
+        "q": "What is the Korean term for the comic format Solo Leveling was first drawn in?",
+        "a": "Manhwa"
+      },
+      {
+        "q": "What is Jin-Woo's family name?",
+        "a": "Sung"
+      },
+      {
+        "q": "What did the interface warn would happen to Jin-Woo if he refused its offer?",
+        "a": "He would die"
+      },
+      {
+        "q": "Where does Jin-Woo wake up after surviving the hidden dungeon at the start?",
+        "a": "A hospital"
+      },
+      {
+        "q": "Which streaming service simulcast the anime worldwide?",
+        "a": "Crunchyroll"
+      },
+      {
+        "q": "In what year did the anime's second season begin airing?",
+        "a": "2025"
+      },
+      {
+        "q": "Which small green monsters fill most of the lowest-ranked dungeons?",
+        "a": "Goblins"
+      },
+      {
+        "q": "Which hunter grade sits directly below the very top grade?",
+        "a": "A-rank"
+      },
+      {
+        "q": "What must an awakened person obtain from the Association before raiding legally?",
+        "a": "A hunter's license"
+      },
+      {
+        "q": "How many grades are there in the hunter classification scale?",
+        "a": "Six"
       }
     ],
     "400": [
@@ -10478,6 +15250,82 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which hunter betrays Jin-Woo in a dungeon and is killed, sparking his brother's revenge?",
         "a": "Hwang Dong-Suk"
+      },
+      {
+        "q": "What are the private dungeons that only Jin-Woo can open and enter called?",
+        "a": "Instant dungeons"
+      },
+      {
+        "q": "What does the System name the skill that turns a corpse into a soldier?",
+        "a": "Shadow Extraction"
+      },
+      {
+        "q": "What test does the Association put Jin-Woo through when it suspects his power has grown?",
+        "a": "The Reawakening test"
+      },
+      {
+        "q": "What grade is Jin-Woo officially registered as once the Association finishes testing him?",
+        "a": "S-rank"
+      },
+      {
+        "q": "What kind of landscape is the punishment area the System banishes Jin-Woo to?",
+        "a": "A desert"
+      },
+      {
+        "q": "Which red knight must Jin-Woo defeat to complete his job change trial?",
+        "a": "Igris"
+      },
+      {
+        "q": "Which guild master personally offers Jin-Woo a place in his guild and is turned down?",
+        "a": "Baek Yoonho"
+      },
+      {
+        "q": "What element does the Hunters Guild master Choi Jong-In wield in battle?",
+        "a": "Fire"
+      },
+      {
+        "q": "What position does Cha Hae-In hold inside her own guild?",
+        "a": "Vice guild master"
+      },
+      {
+        "q": "What hunter grade is Yoo Jin-Ho?",
+        "a": "D-rank"
+      },
+      {
+        "q": "How many human members did Jin-Woo's guild have when it was first registered?",
+        "a": "Two"
+      },
+      {
+        "q": "What race of frozen-world creatures live inside the crimson gate?",
+        "a": "Ice elves"
+      },
+      {
+        "q": "How many episodes did the anime's first season run?",
+        "a": "12"
+      },
+      {
+        "q": "Which awards ceremony named Solo Leveling its Anime of the Year in 2025?",
+        "a": "The Crunchyroll Anime Awards"
+      },
+      {
+        "q": "Which Japanese singer performs the second season's opening theme REAWAKER?",
+        "a": "LiSA"
+      },
+      {
+        "q": "Which large-scale raid arc closes out the anime's second season?",
+        "a": "The Jeju Island raid"
+      },
+      {
+        "q": "What is the term for a human body that a Monarch or Ruler takes over and inhabits?",
+        "a": "A vessel"
+      },
+      {
+        "q": "Which traumatised healer gives up hunting for good rather than keep entering gates?",
+        "a": "Lee Joohee"
+      },
+      {
+        "q": "What respectful form of address does Yoo Jin-Ho always use for Jin-Woo?",
+        "a": "Hyung-nim"
       }
     ],
     "600": [
@@ -10728,6 +15576,58 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the Japanese Hunters Association chairman who tries to exploit the Jeju Island raid?",
         "a": "Matsumoto Shigeo"
+      },
+      {
+        "q": "What was Ashborn called back when he still stood among the Rulers?",
+        "a": "Fragment of Brilliant Light"
+      },
+      {
+        "q": "How long must Jin-Woo endure the punishment zone before the System releases him?",
+        "a": "Four hours"
+      },
+      {
+        "q": "How many floors does the Demon's Castle dungeon contain?",
+        "a": "100"
+      },
+      {
+        "q": "What is the name of the enormous venom-fanged serpent Jin-Woo kills alone?",
+        "a": "Kasaka"
+      },
+      {
+        "q": "Which art studio produced the Solo Leveling webtoon?",
+        "a": "REDICE Studio"
+      },
+      {
+        "q": "What does the original Korean title literally translate to in English?",
+        "a": "Only I Level Up"
+      },
+      {
+        "q": "In what year did the webtoon adaptation begin serialisation?",
+        "a": "2018"
+      },
+      {
+        "q": "In what year did the original webtoon finish its run?",
+        "a": "2021"
+      },
+      {
+        "q": "In what year did the original web novel start being published?",
+        "a": "2016"
+      },
+      {
+        "q": "What is the title of the 2024 compilation film released ahead of the second season?",
+        "a": "Solo Leveling: ReAwakening"
+      },
+      {
+        "q": "Who directed the Solo Leveling anime?",
+        "a": "Shunsuke Nakashige"
+      },
+      {
+        "q": "What is the name of Yoo Jin-Ho's father, the head of Yoojin Construction?",
+        "a": "Yoo Myung-Han"
+      },
+      {
+        "q": "Which Hunters Association staff member turns on Jin-Woo and tries to assassinate him?",
+        "a": "Kang Taeshik"
       }
     ]
   },
@@ -10976,6 +15876,138 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which planet is the third largest in the solar system?",
         "a": "Uranus"
+      },
+      {
+        "q": "Which famous comet returns to our skies roughly every 76 years?",
+        "a": "Halley's Comet"
+      },
+      {
+        "q": "Which is the only planet in our solar system not named after a god?",
+        "a": "Earth"
+      },
+      {
+        "q": "Which planet is light enough that it would float in a giant bathtub of water?",
+        "a": "Saturn"
+      },
+      {
+        "q": "What do astronomers call a cloud of gas and dust where new stars form?",
+        "a": "Nebula"
+      },
+      {
+        "q": "What is the term for a spacecraft coming back down through the atmosphere?",
+        "a": "Re-entry"
+      },
+      {
+        "q": "What is the forward force produced by a rocket engine called?",
+        "a": "Thrust"
+      },
+      {
+        "q": "What is the imaginary line running through the poles that Earth spins around?",
+        "a": "Axis"
+      },
+      {
+        "q": "During a lunar eclipse, which body sits between the Sun and the Moon?",
+        "a": "Earth"
+      },
+      {
+        "q": "What nickname is given to the Moon when it turns coppery red during a total lunar eclipse?",
+        "a": "Blood moon"
+      },
+      {
+        "q": "Surface gravity on the Moon is roughly what fraction of Earth's?",
+        "a": "One sixth"
+      },
+      {
+        "q": "What word describes the Moon when its lit portion grows larger each night?",
+        "a": "Waxing"
+      },
+      {
+        "q": "What is the southern hemisphere counterpart of the Northern Lights called?",
+        "a": "Aurora Australis"
+      },
+      {
+        "q": "What is the name of SpaceX's satellite internet constellation?",
+        "a": "Starlink"
+      },
+      {
+        "q": "Which spaceflight company was founded by Jeff Bezos?",
+        "a": "Blue Origin"
+      },
+      {
+        "q": "Which space tourism company did Richard Branson found?",
+        "a": "Virgin Galactic"
+      },
+      {
+        "q": "Which Russian capsule has carried crews up to the space station for decades?",
+        "a": "Soyuz"
+      },
+      {
+        "q": "What is the name of the day with the most daylight in the northern hemisphere?",
+        "a": "Summer solstice"
+      },
+      {
+        "q": "What is the name for either of the two dates when day and night are nearly equal?",
+        "a": "Equinox"
+      },
+      {
+        "q": "What is a sudden burst of brightness on the Sun's surface called?",
+        "a": "Solar flare"
+      },
+      {
+        "q": "Which icy solar system bodies grow long glowing tails as they approach the Sun?",
+        "a": "Comets"
+      },
+      {
+        "q": "According to Kepler, what shape does a planet's orbit trace?",
+        "a": "Ellipse"
+      },
+      {
+        "q": "What colour are the coolest stars?",
+        "a": "Red"
+      },
+      {
+        "q": "What is a second full moon within one calendar month popularly called?",
+        "a": "Blue moon"
+      },
+      {
+        "q": "What process in the Sun's core releases the energy that lights our sky?",
+        "a": "Nuclear fusion"
+      },
+      {
+        "q": "What was the wheeled vehicle Apollo crews drove across the lunar surface called?",
+        "a": "Lunar rover"
+      },
+      {
+        "q": "What do we call the event when many meteors streak from one part of the sky in a single night?",
+        "a": "Meteor shower"
+      },
+      {
+        "q": "What is the point in the sky directly above an observer called?",
+        "a": "Zenith"
+      },
+      {
+        "q": "What is the term for a probe passing a planet without stopping or orbiting?",
+        "a": "Flyby"
+      },
+      {
+        "q": "What do we call a robotic vehicle that drives across another world's surface?",
+        "a": "Rover"
+      },
+      {
+        "q": "What is the general term for dead satellites and fragments left circling Earth?",
+        "a": "Space debris"
+      },
+      {
+        "q": "What do we call the changing shapes of the lit Moon over a month?",
+        "a": "Phases"
+      },
+      {
+        "q": "What is a spacecraft designed to circle a world and study it from above called?",
+        "a": "Orbiter"
+      },
+      {
+        "q": "What is the branch of science that studies the physics of stars and galaxies?",
+        "a": "Astrophysics"
       }
     ],
     "400": [
@@ -11230,6 +16262,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Roughly how many Earth years does Saturn take to orbit the Sun?",
         "a": "29"
+      },
+      {
+        "q": "Which meteor shower peaks every August?",
+        "a": "Perseids"
+      },
+      {
+        "q": "Which Apollo 11 crew member remained in lunar orbit while his colleagues landed?",
+        "a": "Michael Collins"
+      },
+      {
+        "q": "What was the Apollo 11 lunar module named?",
+        "a": "Eagle"
+      },
+      {
+        "q": "What was NASA's two-seat crewed programme between Mercury and Apollo called?",
+        "a": "Gemini"
+      },
+      {
+        "q": "What was the first satellite the United States put into orbit?",
+        "a": "Explorer 1"
+      },
+      {
+        "q": "Which US president set the goal of landing a man on the Moon before 1970?",
+        "a": "John F. Kennedy"
+      },
+      {
+        "q": "Who was the first American to orbit the Earth?",
+        "a": "John Glenn"
+      },
+      {
+        "q": "What is the 100 km altitude boundary often treated as the edge of space called?",
+        "a": "Karman line"
+      },
+      {
+        "q": "What is the term for the speed an object needs to break free of a planet's gravity?",
+        "a": "Escape velocity"
+      },
+      {
+        "q": "What is the term for an orbit in which a satellite stays above the same spot on Earth?",
+        "a": "Geostationary"
+      },
+      {
+        "q": "What are the doughnut-shaped zones of charged particles trapped by Earth's magnetic field called?",
+        "a": "Van Allen belts"
+      },
+      {
+        "q": "What was the name of the first American space station, launched in 1973?",
+        "a": "Skylab"
+      },
+      {
+        "q": "In which year did NASA's space shuttle programme make its final flight?",
+        "a": "2011"
+      },
+      {
+        "q": "What is the crew capsule of NASA's Artemis programme called?",
+        "a": "Orion"
+      },
+      {
+        "q": "Which probe became the second human-made object to reach interstellar space?",
+        "a": "Voyager 2"
+      },
+      {
+        "q": "Which NASA space telescope launched in 2009 was dedicated to hunting exoplanets?",
+        "a": "Kepler"
+      },
+      {
+        "q": "What is the famous 1995 Hubble picture of towering gas columns in M16 known as?",
+        "a": "Pillars of Creation"
+      },
+      {
+        "q": "What name is given to the mysterious force driving the accelerating expansion of the cosmos?",
+        "a": "Dark energy"
+      },
+      {
+        "q": "What kind of star will the Sun swell into before shedding its outer layers?",
+        "a": "Red giant"
+      },
+      {
+        "q": "Roughly how many years old is the Sun?",
+        "a": "4.6 billion"
+      },
+      {
+        "q": "Which gas in the atmospheres of Uranus and Neptune gives them a blue-green tint?",
+        "a": "Methane"
+      },
+      {
+        "q": "The thin Martian atmosphere is made up mostly of which gas?",
+        "a": "Carbon dioxide"
+      },
+      {
+        "q": "Roughly how many Earth days does Mars take to orbit the Sun?",
+        "a": "687"
+      },
+      {
+        "q": "Roughly how many Earth days does Venus take to orbit the Sun?",
+        "a": "225"
+      },
+      {
+        "q": "What is the enormous canyon system stretching across the Martian equator called?",
+        "a": "Valles Marineris"
+      },
+      {
+        "q": "What is the larger of the two Martian moons called?",
+        "a": "Phobos"
+      },
+      {
+        "q": "What is the smaller of the two Martian moons called?",
+        "a": "Deimos"
+      },
+      {
+        "q": "What term describes a moon that always keeps the same face toward its planet?",
+        "a": "Tidally locked"
+      },
+      {
+        "q": "What are the dark flat volcanic plains on the Moon known as?",
+        "a": "Maria"
+      },
+      {
+        "q": "Roughly how many minutes does the space station take to complete one lap of Earth?",
+        "a": "90"
+      },
+      {
+        "q": "Earth's axis is tilted by roughly how many degrees?",
+        "a": "23.5"
+      },
+      {
+        "q": "How many constellations are officially recognised by astronomers?",
+        "a": "88"
+      },
+      {
+        "q": "Which constellation is easily spotted by its distinctive W shape?",
+        "a": "Cassiopeia"
+      },
+      {
+        "q": "Which star cluster is popularly known as the Seven Sisters?",
+        "a": "Pleiades"
+      },
+      {
+        "q": "What colour are the hottest stars?",
+        "a": "Blue"
+      },
+      {
+        "q": "What do astronomers call a pair of stars orbiting a common centre of mass?",
+        "a": "Binary star"
+      },
+      {
+        "q": "What is the point in the Moon's orbit farthest from Earth called?",
+        "a": "Apogee"
+      },
+      {
+        "q": "What is the darkest inner part of a shadow during an eclipse called?",
+        "a": "Umbra"
+      },
+      {
+        "q": "What is the term for a planet's apparent backwards drift against the stars?",
+        "a": "Retrograde motion"
+      },
+      {
+        "q": "What is the manoeuvre called when a probe uses a planet's gravity to gain speed?",
+        "a": "Gravity assist"
+      },
+      {
+        "q": "What is the acronym for the scientific search for alien radio signals?",
+        "a": "SETI"
+      },
+      {
+        "q": "What is the family of European rockets launched from Kourou called?",
+        "a": "Ariane"
+      },
+      {
+        "q": "Europe's main spaceport sits in which South American territory?",
+        "a": "French Guiana"
+      },
+      {
+        "q": "What unusual payload rode on the first Falcon Heavy test flight in 2018?",
+        "a": "Tesla Roadster"
+      },
+      {
+        "q": "What term is used for a Chinese astronaut?",
+        "a": "Taikonaut"
+      },
+      {
+        "q": "Which country first landed a spacecraft on the far side of the Moon?",
+        "a": "China"
+      },
+      {
+        "q": "What is the stream of charged particles constantly blowing out from the Sun called?",
+        "a": "Solar wind"
+      },
+      {
+        "q": "Which two planets in our solar system have no moons at all?",
+        "a": "Mercury and Venus"
+      },
+      {
+        "q": "How many Apollo missions put astronauts on the lunar surface?",
+        "a": "6"
+      },
+      {
+        "q": "What is the outermost layer of Earth's atmosphere called?",
+        "a": "Exosphere"
       }
     ],
     "600": [
@@ -11528,6 +16760,226 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the Moon's far-side basin that is the largest known impact crater?",
         "a": "South Pole-Aitken"
+      },
+      {
+        "q": "What is the large gap between Saturn's A and B rings called?",
+        "a": "Cassini Division"
+      },
+      {
+        "q": "Which large moon of Neptune orbits backwards compared to its planet's spin?",
+        "a": "Triton"
+      },
+      {
+        "q": "Which bright irregular satellite galaxy of the Milky Way dominates the southern sky near Dorado?",
+        "a": "Large Magellanic Cloud"
+      },
+      {
+        "q": "What was the 1975 mission in which American and Soviet craft docked in orbit called?",
+        "a": "Apollo-Soyuz"
+      },
+      {
+        "q": "Which Soviet craft made the first soft landing on the Moon in 1966?",
+        "a": "Luna 9"
+      },
+      {
+        "q": "Which cosmonaut holds the record for the longest single spaceflight at 437 days?",
+        "a": "Valeri Polyakov"
+      },
+      {
+        "q": "What is the heavy-lift rocket built for NASA's Artemis missions called?",
+        "a": "Space Launch System"
+      },
+      {
+        "q": "Which astronaut flew on both Apollo 8 and Apollo 13?",
+        "a": "Jim Lovell"
+      },
+      {
+        "q": "Who was the last person to set foot on the Moon?",
+        "a": "Gene Cernan"
+      },
+      {
+        "q": "Which astronaut famously hit golf balls on the lunar surface?",
+        "a": "Alan Shepard"
+      },
+      {
+        "q": "How many space shuttle orbiters actually flew into space?",
+        "a": "5"
+      },
+      {
+        "q": "Which shuttle orbiter was built to replace the one lost in 1986?",
+        "a": "Endeavour"
+      },
+      {
+        "q": "Which shuttle orbiter carried the Hubble telescope to orbit in 1990?",
+        "a": "Discovery"
+      },
+      {
+        "q": "The moons of which planet are named mainly after Shakespeare characters?",
+        "a": "Uranus"
+      },
+      {
+        "q": "What is the roughly 11-year rhythm of the Sun's magnetic activity called?",
+        "a": "Solar cycle"
+      },
+      {
+        "q": "What is a huge eruption of plasma flung from the Sun's corona into space called?",
+        "a": "Coronal mass ejection"
+      },
+      {
+        "q": "What is the glowing shell of gas thrown off by a dying Sun-like star called?",
+        "a": "Planetary nebula"
+      },
+      {
+        "q": "Roughly how many light-years across is the Milky Way?",
+        "a": "100,000"
+      },
+      {
+        "q": "Roughly how long does the Sun take to complete one orbit of the galactic centre?",
+        "a": "230 million years"
+      },
+      {
+        "q": "What Messier catalogue number is given to the Andromeda Galaxy?",
+        "a": "M31"
+      },
+      {
+        "q": "The great nebula catalogued as M42 lies in which constellation?",
+        "a": "Orion"
+      },
+      {
+        "q": "Which Puerto Rican radio telescope collapsed in 2020?",
+        "a": "Arecibo"
+      },
+      {
+        "q": "What nickname is given to the aircraft that flies parabolas to simulate weightlessness?",
+        "a": "Vomit Comet"
+      },
+      {
+        "q": "What is NASA's giant training pool where astronauts rehearse spacewalks called?",
+        "a": "Neutral Buoyancy Laboratory"
+      },
+      {
+        "q": "What did Apollo crews leave on the Moon so lasers fired from Earth could bounce back?",
+        "a": "Retroreflectors"
+      },
+      {
+        "q": "In which Martian crater did the Perseverance rover touch down?",
+        "a": "Jezero"
+      },
+      {
+        "q": "Which craft made the first fully successful landing on Mars in 1976?",
+        "a": "Viking 1"
+      },
+      {
+        "q": "What was the United Arab Emirates probe that reached Mars orbit in 2021 called?",
+        "a": "Hope"
+      },
+      {
+        "q": "What is the name of China's series of robotic lunar missions?",
+        "a": "Chang'e"
+      },
+      {
+        "q": "Which observatory on Mauna Kea operates a pair of matching ten-metre telescopes?",
+        "a": "Keck"
+      },
+      {
+        "q": "What is the scenario called in which the universe ends in uniform cold and darkness?",
+        "a": "Heat death"
+      },
+      {
+        "q": "Which neutrino detector is buried in the ice at the South Pole?",
+        "a": "IceCube"
+      },
+      {
+        "q": "What is the slow 26,000-year wobble of Earth's axis called?",
+        "a": "Precession"
+      },
+      {
+        "q": "What was the name of the chimpanzee NASA launched on a suborbital flight in 1961?",
+        "a": "Ham"
+      },
+      {
+        "q": "What was the spacecraft that carried the first human into orbit called?",
+        "a": "Vostok 1"
+      },
+      {
+        "q": "What is the small constellation containing the Southern Cross called?",
+        "a": "Crux"
+      },
+      {
+        "q": "Which brilliant blue-white star is the brightest in the constellation Lyra?",
+        "a": "Vega"
+      },
+      {
+        "q": "Which orange giant is the brightest star in the constellation Bootes?",
+        "a": "Arcturus"
+      },
+      {
+        "q": "The red supergiant Antares is the heart of which constellation?",
+        "a": "Scorpius"
+      },
+      {
+        "q": "Which constellation does the Sun pass through that is not one of the twelve zodiac signs?",
+        "a": "Ophiuchus"
+      },
+      {
+        "q": "Which is the largest constellation by area in the sky?",
+        "a": "Hydra"
+      },
+      {
+        "q": "What is the point in the Moon's orbit closest to Earth called?",
+        "a": "Perigee"
+      },
+      {
+        "q": "What is the event called when one celestial body passes in front of another and hides it?",
+        "a": "Occultation"
+      },
+      {
+        "q": "Which NASA probe mapped the cloud-covered surface of Venus with radar from 1990?",
+        "a": "Magellan"
+      },
+      {
+        "q": "Roughly how many Earth days does Mercury take to spin once on its axis?",
+        "a": "59"
+      },
+      {
+        "q": "Roughly how many Earth days does the Sun take to rotate once at its equator?",
+        "a": "25"
+      },
+      {
+        "q": "Roughly how many Earths could fit inside the volume of the Sun?",
+        "a": "1.3 million"
+      },
+      {
+        "q": "Who became the first woman to command the International Space Station?",
+        "a": "Peggy Whitson"
+      },
+      {
+        "q": "Which meteor shower peaks in mid-December each year?",
+        "a": "Geminids"
+      },
+      {
+        "q": "What is the long robotic arm mounted on the space station called?",
+        "a": "Canadarm2"
+      },
+      {
+        "q": "What is the term for how bright a star looks from Earth rather than how bright it truly is?",
+        "a": "Apparent magnitude"
+      },
+      {
+        "q": "What is an extremely luminous active galactic core seen at vast distance called?",
+        "a": "Quasar"
+      },
+      {
+        "q": "Who performed the first American spacewalk in 1965?",
+        "a": "Ed White"
+      },
+      {
+        "q": "Which supernova remnant in Taurus is catalogued as Messier 1?",
+        "a": "Crab Nebula"
+      },
+      {
+        "q": "Which spiral galaxy is the third largest member of our Local Group?",
+        "a": "Triangulum"
       }
     ]
   },
@@ -11812,6 +17264,98 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who breaks up with Steve in season 2?",
         "a": "Nancy"
+      },
+      {
+        "q": "Which season of the show introduces Max to the friend group?",
+        "a": "Season 2"
+      },
+      {
+        "q": "In which season does Robin first appear?",
+        "a": "Season 3"
+      },
+      {
+        "q": "In which season does Eddie Munson first appear?",
+        "a": "Season 4"
+      },
+      {
+        "q": "In what year is season 2 set?",
+        "a": "1984"
+      },
+      {
+        "q": "In what year did Stranger Things first premiere?",
+        "a": "2016"
+      },
+      {
+        "q": "How many boys are in the friend group before Eleven arrives?",
+        "a": "Four"
+      },
+      {
+        "q": "Every episode title of the show begins with which word?",
+        "a": "Chapter"
+      },
+      {
+        "q": "How many episodes make up season 1?",
+        "a": "Eight"
+      },
+      {
+        "q": "What does Joyce paint across her living room wall to reach her son?",
+        "a": "The alphabet"
+      },
+      {
+        "q": "What is the woodland fort Will built called?",
+        "a": "Castle Byers"
+      },
+      {
+        "q": "Which room of the Wheeler house do the boys hide Eleven in?",
+        "a": "The basement"
+      },
+      {
+        "q": "What does Eleven wear on her head to blend in at school in season 1?",
+        "a": "A blonde wig"
+      },
+      {
+        "q": "Which holiday do the events of early season 2 build toward?",
+        "a": "Halloween"
+      },
+      {
+        "q": "Which country's agents are the human antagonists of season 3?",
+        "a": "Russia"
+      },
+      {
+        "q": "What is the tear between the two worlds commonly called?",
+        "a": "The Gate"
+      },
+      {
+        "q": "What three-word rule does Eleven repeat about friendship?",
+        "a": "Friends don't lie"
+      },
+      {
+        "q": "What is the name of Will's Dungeons & Dragons character?",
+        "a": "Will the Wise"
+      },
+      {
+        "q": "Which Spielberg film about a stranded alien is the show most often compared to?",
+        "a": "E.T."
+      },
+      {
+        "q": "Which school do Mike and his friends attend in season 1?",
+        "a": "Hawkins Middle School"
+      },
+      {
+        "q": "Which two characters work the counter at Family Video in season 4?",
+        "a": "Steve and Robin"
+      },
+      {
+        "q": "What happens to Eleven's nose when she pushes her powers too far?",
+        "a": "It bleeds"
+      },
+      {
+        "q": "What handheld devices do the boys use to talk to each other across town?",
+        "a": "Walkie-talkies"
+      },
+      {
+        "q": "What instrument does Eddie play on his trailer roof in the Upside Down?",
+        "a": "Electric guitar"
       }
     ],
     "400": [
@@ -12138,6 +17682,118 @@ const QUALITY_BACKFILL = {
       {
         "q": "Where is Barb when she is taken by the Demogorgon?",
         "a": "Steve's pool"
+      },
+      {
+        "q": "Where is the body believed to be Will's discovered in season 1?",
+        "a": "The quarry"
+      },
+      {
+        "q": "Where does Eleven confront the Demogorgon in the season 1 finale?",
+        "a": "Hawkins Middle School"
+      },
+      {
+        "q": "What navigational tools do the boys use to hunt for the gate in the woods?",
+        "a": "Compasses"
+      },
+      {
+        "q": "What trap do Nancy and Jonathan set for the monster in the Byers house?",
+        "a": "A bear trap"
+      },
+      {
+        "q": "Whose camera does Steve smash in season 1?",
+        "a": "Jonathan's"
+      },
+      {
+        "q": "Which bully wets himself when Eleven confronts him at school?",
+        "a": "Troy"
+      },
+      {
+        "q": "What does Eleven crush in the Wheeler basement to show what she can do?",
+        "a": "A Coke can"
+      },
+      {
+        "q": "What does Eleven wear over her eyes to search for people psychically?",
+        "a": "A blindfold"
+      },
+      {
+        "q": "What is the dark, watery space Eleven enters when she searches for someone?",
+        "a": "The Void"
+      },
+      {
+        "q": "What crop rots in the fields as the Upside Down spreads in season 2?",
+        "a": "Pumpkins"
+      },
+      {
+        "q": "What scrapped vehicle do the kids shelter in at the junkyard?",
+        "a": "A school bus"
+      },
+      {
+        "q": "What does Will call his visions of the other dimension in season 2?",
+        "a": "Now memories"
+      },
+      {
+        "q": "What happens to the bodies of Vecna's victims as he kills them?",
+        "a": "Their bones break"
+      },
+      {
+        "q": "What are the Mind Flayer's possessed humans called in season 3?",
+        "a": "The Flayed"
+      },
+      {
+        "q": "Which soft drink launch keeps coming up as a running gag in season 3?",
+        "a": "New Coke"
+      },
+      {
+        "q": "Which lake hides a gate in season 4?",
+        "a": "Lover's Lake"
+      },
+      {
+        "q": "What does Will bring Mike as a gift in season 4?",
+        "a": "A painting"
+      },
+      {
+        "q": "In which US state is the series filmed?",
+        "a": "Georgia"
+      },
+      {
+        "q": "What kind of home does Hopper live in during season 1?",
+        "a": "A trailer"
+      },
+      {
+        "q": "What drifts through the air of the Upside Down?",
+        "a": "Spores"
+      },
+      {
+        "q": "Which season intercuts a basketball championship with a Dungeons & Dragons session?",
+        "a": "Season 4"
+      },
+      {
+        "q": "What does Max jab into Billy to knock him out in season 2?",
+        "a": "A sedative syringe"
+      },
+      {
+        "q": "Which school counselor does the group question about Vecna's victims?",
+        "a": "Ms. Kelly"
+      },
+      {
+        "q": "Where do the boys build a makeshift sensory deprivation tank?",
+        "a": "The school gym"
+      },
+      {
+        "q": "In whose trailer is Chrissy killed?",
+        "a": "Eddie's"
+      },
+      {
+        "q": "What do the townspeople blame the season 4 murders on?",
+        "a": "A satanic cult"
+      },
+      {
+        "q": "Who drives the group across the desert to Nevada in season 4?",
+        "a": "Argyle"
+      },
+      {
+        "q": "What mental state is Eleven's birth mother in when Eleven finds her?",
+        "a": "Catatonic"
       }
     ],
     "600": [
@@ -12424,6 +18080,142 @@ const QUALITY_BACKFILL = {
       {
         "q": "What model of vehicle does Hopper drive as police chief?",
         "a": "Chevrolet Blazer"
+      },
+      {
+        "q": "In what month of 1983 does season 1 begin?",
+        "a": "November"
+      },
+      {
+        "q": "What is the title of the season 2 episode set in Chicago?",
+        "a": "The Lost Sister"
+      },
+      {
+        "q": "Whose cover of Heroes plays as the body is pulled from the quarry?",
+        "a": "Peter Gabriel"
+      },
+      {
+        "q": "What animal does Brenner order Eleven to kill during a test?",
+        "a": "A cat"
+      },
+      {
+        "q": "Who is forced to jump from the quarry cliff before Eleven saves him?",
+        "a": "Mike"
+      },
+      {
+        "q": "Which bone does Eleven break on Troy in the woods?",
+        "a": "His arm"
+      },
+      {
+        "q": "Who punches Steve in the alley outside the movie theatre in season 1?",
+        "a": "Jonathan"
+      },
+      {
+        "q": "Which flower is among the words Terry Ives repeats?",
+        "a": "Sunflower"
+      },
+      {
+        "q": "What is the name of the aunt who cares for Eleven's mother?",
+        "a": "Becky"
+      },
+      {
+        "q": "What is Dustin's mother called?",
+        "a": "Claudia"
+      },
+      {
+        "q": "What is Max's mother called?",
+        "a": "Susan"
+      },
+      {
+        "q": "What is Max and Billy's father called?",
+        "a": "Neil"
+      },
+      {
+        "q": "What is Jonathan and Will's absent father called?",
+        "a": "Lonnie"
+      },
+      {
+        "q": "Which college does Nancy hope to attend after high school?",
+        "a": "Emerson"
+      },
+      {
+        "q": "What do the Russians call the machine built to reopen the gate?",
+        "a": "The Key"
+      },
+      {
+        "q": "Which film are Steve and Robin watching in the mall cinema while drugged?",
+        "a": "Back to the Future"
+      },
+      {
+        "q": "Which trailer park does Eddie live in?",
+        "a": "Forest Hills"
+      },
+      {
+        "q": "What nickname do the kids give the underwater gate at the lake?",
+        "a": "Watergate"
+      },
+      {
+        "q": "What do the group tie together to climb into the Upside Down at the trailer?",
+        "a": "Bedsheets"
+      },
+      {
+        "q": "What does Bob tell Will to say to the shadow monster?",
+        "a": "Go away"
+      },
+      {
+        "q": "What is stuffed inside the fake body pulled from the quarry?",
+        "a": "Cotton"
+      },
+      {
+        "q": "How does Benny the diner owner die?",
+        "a": "He is shot"
+      },
+      {
+        "q": "Which elderly woman's diseased rat sets off Nancy's season 3 story?",
+        "a": "Mrs. Driscoll"
+      },
+      {
+        "q": "How many children does Steve say he wants one day?",
+        "a": "Six"
+      },
+      {
+        "q": "Which creature does Mr. Clarke place with an acrobat to explain other dimensions?",
+        "a": "A flea"
+      },
+      {
+        "q": "What does Max write for her friends before facing Vecna again?",
+        "a": "Letters"
+      },
+      {
+        "q": "What is the title of the season 3 finale?",
+        "a": "The Battle of Starcourt"
+      },
+      {
+        "q": "In what month of 1986 is season 4 set?",
+        "a": "March"
+      },
+      {
+        "q": "What is Henry Creel's mother called?",
+        "a": "Virginia"
+      },
+      {
+        "q": "Which pair visits Victor Creel at the asylum?",
+        "a": "Nancy and Robin"
+      },
+      {
+        "q": "Which two deputies work under Hopper at the Hawkins police station?",
+        "a": "Powell and Callahan"
+      },
+      {
+        "q": "What is Hopper's first cabin rule about the windows?",
+        "a": "Keep the curtains drawn"
+      },
+      {
+        "q": "Which scientific constant does Dustin need from Suzie?",
+        "a": "Planck's constant"
+      },
+      {
+        "q": "What is the name of the movie theatre in Hawkins?",
+        "a": "The Hawk"
       }
     ]
   },
@@ -12628,6 +18420,66 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who takes over as managing partner in the series finale?",
         "a": "Louis Litt"
+      },
+      {
+        "q": "What is in the briefcase Mike is delivering when he ducks into Harvey's interview room?",
+        "a": "Marijuana"
+      },
+      {
+        "q": "What promotion is Harvey celebrating at the very start of the pilot?",
+        "a": "Senior partner"
+      },
+      {
+        "q": "In which Canadian city was the series filmed?",
+        "a": "Toronto"
+      },
+      {
+        "q": "On which streaming service did the show find a huge new audience in 2023?",
+        "a": "Netflix"
+      },
+      {
+        "q": "What spirit does Harvey pour from the decanter in his office?",
+        "a": "Scotch"
+      },
+      {
+        "q": "What is the first name of the driver who chauffeurs Harvey around the city?",
+        "a": "Ray"
+      },
+      {
+        "q": "During which season is Mike behind bars?",
+        "a": "Six"
+      },
+      {
+        "q": "Which US network aired the 2025 Los Angeles-set spin-off?",
+        "a": "NBC"
+      },
+      {
+        "q": "What one-word title was given to the Chicago-set spin-off?",
+        "a": "Pearson"
+      },
+      {
+        "q": "Which standardised test does Rachel repeatedly bomb because of her test anxiety?",
+        "a": "LSAT"
+      },
+      {
+        "q": "After she stops working for Harvey in season 4, which partner does Donna become secretary to?",
+        "a": "Louis Litt"
+      },
+      {
+        "q": "Who represents Mike as his lawyer when the fraud case goes to trial?",
+        "a": "Harvey"
+      },
+      {
+        "q": "Which partner takes over as managing partner of the firm after Jessica departs?",
+        "a": "Harvey Specter"
+      },
+      {
+        "q": "In which season does Louis work out that Mike never attended law school?",
+        "a": "Four"
+      },
+      {
+        "q": "Which member of Mike's family dies during season 3?",
+        "a": "His grandmother"
       }
     ],
     "400": [
@@ -12902,6 +18754,106 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which senior partner allies with Daniel Hardman against Harvey in season 5?",
         "a": "Jack Soloff"
+      },
+      {
+        "q": "Who tells Jessica the truth about Mike's credentials at the end of season 1?",
+        "a": "Trevor"
+      },
+      {
+        "q": "Where in the office do Mike and Rachel first sleep together?",
+        "a": "The file room"
+      },
+      {
+        "q": "In which season does Harvey begin suffering panic attacks?",
+        "a": "Five"
+      },
+      {
+        "q": "Which government agency did Jeff Malone work for before joining the firm?",
+        "a": "The SEC"
+      },
+      {
+        "q": "Which company's hostile takeover puts Mike and Harvey on opposite sides in season 4?",
+        "a": "Gillis Industries"
+      },
+      {
+        "q": "What is the name of the investment firm Mike joins in season 4?",
+        "a": "Sidwell Investment Group"
+      },
+      {
+        "q": "In which US state is the federal prison where Mike serves his sentence?",
+        "a": "Connecticut"
+      },
+      {
+        "q": "What is the title of the song used over the opening credits?",
+        "a": "Greenback Boogie"
+      },
+      {
+        "q": "What was creator Aaron Korsh's career before he wrote for television?",
+        "a": "Investment banking"
+      },
+      {
+        "q": "How many seasons did the Jessica-led spin-off run for?",
+        "a": "One"
+      },
+      {
+        "q": "What branch of law does the firm in the Los Angeles spin-off practise?",
+        "a": "Entertainment law"
+      },
+      {
+        "q": "Which couple marry in the same ceremony as Harvey and Donna in the finale?",
+        "a": "Louis and Sheila"
+      },
+      {
+        "q": "In which season does Mike finally become a licensed attorney?",
+        "a": "Six"
+      },
+      {
+        "q": "Which railway company does Mike take on in a class action in season 5?",
+        "a": "Liberty Rail"
+      },
+      {
+        "q": "Who holds the managing partner job for most of season 8?",
+        "a": "Robert Zane"
+      },
+      {
+        "q": "Which two lawyers compete for the last name-partner slot in season 8?",
+        "a": "Samantha and Alex"
+      },
+      {
+        "q": "What title did Louis hold immediately before his name went on the wall?",
+        "a": "Senior partner"
+      },
+      {
+        "q": "In which season does Alex Williams first turn up?",
+        "a": "Seven"
+      },
+      {
+        "q": "In which season does Samantha Wheeler first turn up?",
+        "a": "Eight"
+      },
+      {
+        "q": "Who arranges the deal that gets Mike released from prison early?",
+        "a": "Sean Cahill"
+      },
+      {
+        "q": "What addiction does Harvey's brother struggle with?",
+        "a": "Gambling"
+      },
+      {
+        "q": "Which original Suits lead makes a guest appearance in the Los Angeles spin-off?",
+        "a": "Harvey Specter"
+      },
+      {
+        "q": "In which season does the firm operate under the merged Pearson Darby banner?",
+        "a": "Three"
+      },
+      {
+        "q": "In which season does Rachel finally join the firm as an associate?",
+        "a": "Seven"
+      },
+      {
+        "q": "In which season is Donna promoted out of the secretary's chair to an executive job?",
+        "a": "Seven"
       }
     ],
     "600": [
@@ -13188,6 +19140,138 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Darby lawyer is arrested for arranging murders?",
         "a": "Stephen Huntley"
+      },
+      {
+        "q": "Which client's deal is Harvey closing in the pilot's opening scene?",
+        "a": "Gerald Tate"
+      },
+      {
+        "q": "Who is the aging owner of the company Mike fights to protect in season 4?",
+        "a": "Walter Gillis"
+      },
+      {
+        "q": "Which financier does Mike help bring down in exchange for leaving prison early?",
+        "a": "William Sutter"
+      },
+      {
+        "q": "Which hacker doctors Harvard's records so Mike appears to be a graduate?",
+        "a": "Lola Jensen"
+      },
+      {
+        "q": "Which former associate did Daniel Hardman have an affair with?",
+        "a": "Monica Eton"
+      },
+      {
+        "q": "Which rival attorney tries to poach Louis away in season 2?",
+        "a": "Allison Holt"
+      },
+      {
+        "q": "Which California law school accepts Rachel before she chooses to stay in New York?",
+        "a": "Stanford"
+      },
+      {
+        "q": "Which company's cover-up is the dark secret in Alex Williams's past?",
+        "a": "Masterson Construction"
+      },
+      {
+        "q": "Which private-prison operator is the target of Mike's season 7 class action?",
+        "a": "Reform Corp"
+      },
+      {
+        "q": "Which loud trader on the firm's floor becomes Louis's nemesis?",
+        "a": "Stu Buzzini"
+      },
+      {
+        "q": "Which young associate does Katrina take under her wing in the later seasons?",
+        "a": "Brian Altman"
+      },
+      {
+        "q": "Which woman does Louis get engaged to in season 6?",
+        "a": "Tara Messer"
+      },
+      {
+        "q": "What do Louis and Sheila name their baby daughter?",
+        "a": "Lucy"
+      },
+      {
+        "q": "Which organisation installs Faye Richardson to clean up the firm?",
+        "a": "The bar association"
+      },
+      {
+        "q": "Which combat sport does Samantha Wheeler train in?",
+        "a": "Boxing"
+      },
+      {
+        "q": "Whose wrongful murder conviction from Harvey's prosecutor days comes back to haunt him?",
+        "a": "Clifford Danner"
+      },
+      {
+        "q": "Which brand of single malt is Harvey's drink of choice?",
+        "a": "Macallan"
+      },
+      {
+        "q": "What is Trevor's surname?",
+        "a": "Evans"
+      },
+      {
+        "q": "How old was Mike when his parents were killed?",
+        "a": "Eleven"
+      },
+      {
+        "q": "Which legal study guide does Mike quote from memory in his job interview?",
+        "a": "The Barbri Legal Handbook"
+      },
+      {
+        "q": "Which furniture-making client does Donna date in the final season?",
+        "a": "Thomas Kessler"
+      },
+      {
+        "q": "Which inexperienced clinic lawyer does Mike mentor after leaving prison?",
+        "a": "Oliver"
+      },
+      {
+        "q": "Which country produced a 2018 remake of the series?",
+        "a": "South Korea"
+      },
+      {
+        "q": "How many episodes are in the first season?",
+        "a": "12"
+      },
+      {
+        "q": "How many episodes are in the final season?",
+        "a": "10"
+      },
+      {
+        "q": "What is the title of the season 2 finale?",
+        "a": "War"
+      },
+      {
+        "q": "What is the title of the season 5 finale?",
+        "a": "25th Hour"
+      },
+      {
+        "q": "What is the title of the season 6 finale?",
+        "a": "Character and Fitness"
+      },
+      {
+        "q": "What is the title of the season 1 finale?",
+        "a": "Dog Fight"
+      },
+      {
+        "q": "What is the title of the season 3 finale?",
+        "a": "Yesterday's Gone"
+      },
+      {
+        "q": "What is the title of the season 7 finale?",
+        "a": "Good-Bye"
+      },
+      {
+        "q": "In which month of 2011 did the series premiere?",
+        "a": "June"
+      },
+      {
+        "q": "What issue splits Louis and Sheila up before they reunite?",
+        "a": "Having children"
       }
     ]
   },
@@ -13440,6 +19524,86 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Seven member's Compound V abuse damages his heart?",
         "a": "A-Train"
+      },
+      {
+        "q": "What slang word does the show use for people with superpowers?",
+        "a": "Supes"
+      },
+      {
+        "q": "In which season does Stormfront join the Seven?",
+        "a": "Season two"
+      },
+      {
+        "q": "In what year did The Boys first premiere?",
+        "a": "2019"
+      },
+      {
+        "q": "Which US state did Annie January grow up in?",
+        "a": "Iowa"
+      },
+      {
+        "q": "Which team does Starlight quit live on television in season 3?",
+        "a": "The Seven"
+      },
+      {
+        "q": "In the season 1 finale, what does Butcher learn about the wife he believed dead?",
+        "a": "She is alive"
+      },
+      {
+        "q": "How many seasons is The Boys planned to run in total?",
+        "a": "Five"
+      },
+      {
+        "q": "In which decade was Soldier Boy at the height of his fame?",
+        "a": "1940s"
+      },
+      {
+        "q": "Which organ does A-Train receive a transplant of?",
+        "a": "Heart"
+      },
+      {
+        "q": "Which supe hosts a conspiracy-theory talk show in season 4?",
+        "a": "Firecracker"
+      },
+      {
+        "q": "What is Queen Maeve's main power?",
+        "a": "Super strength"
+      },
+      {
+        "q": "Who is Starlight's boyfriend for most of the series?",
+        "a": "Hughie"
+      },
+      {
+        "q": "What is the skyscraper where the Seven live and work called?",
+        "a": "Vought Tower"
+      },
+      {
+        "q": "Vought spends season 1 lobbying to place its heroes inside which national institution?",
+        "a": "The military"
+      },
+      {
+        "q": "What relation is Ryan to Billy Butcher?",
+        "a": "Stepson"
+      },
+      {
+        "q": "Which member of the Seven is openly devout when she first joins?",
+        "a": "Starlight"
+      },
+      {
+        "q": "Which member of the Boys is Kimiko closest to?",
+        "a": "Frenchie"
+      },
+      {
+        "q": "In which season does Ryan first appear?",
+        "a": "Season two"
+      },
+      {
+        "q": "In which season does Butcher first take the temporary power drug?",
+        "a": "Season three"
+      },
+      {
+        "q": "What signature outerwear does Butcher almost always wear?",
+        "a": "A black coat"
       }
     ],
     "400": [
@@ -13726,6 +19890,74 @@ const QUALITY_BACKFILL = {
       {
         "q": "Whose birthday does Vought turn into a live TV special in season 3?",
         "a": "Homelander"
+      },
+      {
+        "q": "Which speedster takes A-Train's place in the Seven in season 2?",
+        "a": "Shockwave"
+      },
+      {
+        "q": "Whose heart is transplanted into A-Train after his own fails?",
+        "a": "Blue Hawk"
+      },
+      {
+        "q": "Which supe kills Kimiko's brother in season 2?",
+        "a": "Stormfront"
+      },
+      {
+        "q": "In which season do Hughie and Starlight leak the truth about Compound V to the press?",
+        "a": "Season two"
+      },
+      {
+        "q": "What does Queen Maeve permanently lose after the season 3 finale?",
+        "a": "Her powers"
+      },
+      {
+        "q": "How does Homelander's season 4 murder trial end?",
+        "a": "Acquitted"
+      },
+      {
+        "q": "What kind of anti-supe weapon do the Boys hunt for in season 4?",
+        "a": "A virus"
+      },
+      {
+        "q": "What goes wrong during Ryan's first staged public rescue in season 4?",
+        "a": "He kills a man"
+      },
+      {
+        "q": "Who is the lead character of the spin-off set at a supe university?",
+        "a": "Marie Moreau"
+      },
+      {
+        "q": "In what year did Gen V premiere?",
+        "a": "2023"
+      },
+      {
+        "q": "What does Vought publicly claim is the source of supes' powers?",
+        "a": "God"
+      },
+      {
+        "q": "Which disgraced former Seven member briefly works with the Boys in season 2?",
+        "a": "Lamplighter"
+      },
+      {
+        "q": "Which Payback member does Soldier Boy kill at a Vought theme park?",
+        "a": "Crimson Countess"
+      },
+      {
+        "q": "Besides Homelander, which member of the Seven could fly in season 2?",
+        "a": "Stormfront"
+      },
+      {
+        "q": "What is Golden Boy's power in Gen V?",
+        "a": "Fire"
+      },
+      {
+        "q": "Which supe served on both Payback and the Seven?",
+        "a": "Black Noir"
+      },
+      {
+        "q": "In which season is Kimiko first introduced?",
+        "a": "Season one"
       }
     ],
     "600": [
@@ -14024,6 +20256,150 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which self-duplicating supe is Firecracker's devoted assistant in season 4?",
         "a": "Splinter"
+      },
+      {
+        "q": "Which New York neighbourhood did Soldier Boy's rampage devastate in 1980?",
+        "a": "Harlem"
+      },
+      {
+        "q": "What name does the retired Vought publicity guru who helps the Boys go by?",
+        "a": "The Legend"
+      },
+      {
+        "q": "In which Central American country was Grace Mallory's 1984 mission with Soldier Boy set?",
+        "a": "Nicaragua"
+      },
+      {
+        "q": "What is the Vought-run home for orphaned supe children called?",
+        "a": "Red River Institute"
+      },
+      {
+        "q": "What is Vought's big fan convention in season 4 called?",
+        "a": "V52 Expo"
+      },
+      {
+        "q": "Which archer supe brings The Deep into the Church of the Collective?",
+        "a": "Eagle the Archer"
+      },
+      {
+        "q": "What is the first name of the company founder Stormfront was married to?",
+        "a": "Frederick"
+      },
+      {
+        "q": "What is the name of Stormfront's elderly daughter?",
+        "a": "Chloe"
+      },
+      {
+        "q": "What are Stormfront's online followers called?",
+        "a": "Stormchasers"
+      },
+      {
+        "q": "Which member of Payback had insect-like wings?",
+        "a": "Swatto"
+      },
+      {
+        "q": "How does Lamplighter die in season 2?",
+        "a": "He burns himself"
+      },
+      {
+        "q": "Who takes Ryan in at the end of season 2?",
+        "a": "Grace Mallory"
+      },
+      {
+        "q": "What is Golden Boy's real name in Gen V?",
+        "a": "Luke Riordan"
+      },
+      {
+        "q": "What power does Andre Anderson have in Gen V?",
+        "a": "Magnetism"
+      },
+      {
+        "q": "Which Gen V student can shrink herself?",
+        "a": "Emma Meyer"
+      },
+      {
+        "q": "Which Gen V student can switch between a male and a female body?",
+        "a": "Jordan Li"
+      },
+      {
+        "q": "Who is the dean of Godolkin University in Gen V?",
+        "a": "Indira Shetty"
+      },
+      {
+        "q": "What does Cate Dunlap have to use on someone to control them?",
+        "a": "Her bare hand"
+      },
+      {
+        "q": "What is Luke Riordan's younger brother called?",
+        "a": "Sam"
+      },
+      {
+        "q": "Which supe walks into Godolkin in the closing scene of Gen V's first season?",
+        "a": "Homelander"
+      },
+      {
+        "q": "Which scientist develops the supe-killing virus?",
+        "a": "Doctor Cardosa"
+      },
+      {
+        "q": "What is Tek Knight's butler called?",
+        "a": "Elijah"
+      },
+      {
+        "q": "What is the first name of Butcher's mother?",
+        "a": "Connie"
+      },
+      {
+        "q": "What is the title of the season 1 finale?",
+        "a": "You Found Me"
+      },
+      {
+        "q": "What is the title of the season 2 finale?",
+        "a": "What I Know"
+      },
+      {
+        "q": "What is the title of the season 3 finale?",
+        "a": "The Instant White-Hot Wild"
+      },
+      {
+        "q": "What is the title of the season 3 premiere?",
+        "a": "Payback"
+      },
+      {
+        "q": "Herogasm is which numbered episode of season 3?",
+        "a": "Six"
+      },
+      {
+        "q": "What ability does Hughie's father develop after his Compound V injection?",
+        "a": "Walking through walls"
+      },
+      {
+        "q": "Which Church of the Collective handler counsels The Deep?",
+        "a": "Carol"
+      },
+      {
+        "q": "Which season 4 lover of Frenchie's lost his family to Frenchie?",
+        "a": "Colin"
+      },
+      {
+        "q": "What material is Translucent's invisible skin made of?",
+        "a": "Carbon"
+      },
+      {
+        "q": "Which compulsive disorder makes Mother's Milk straighten objects?",
+        "a": "OCD"
+      },
+      {
+        "q": "What is the name of Marie Moreau's younger sister in Gen V?",
+        "a": "Annabeth"
+      },
+      {
+        "q": "Whom did Marie Moreau kill when her powers first manifested?",
+        "a": "Her parents"
+      },
+      {
+        "q": "What must Mindstorm do to a victim to trap them in a coma?",
+        "a": "Make eye contact"
       }
     ]
   },
@@ -14200,6 +20576,90 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the villain team Captain Cold puts together?",
         "a": "The Rogues"
+      },
+      {
+        "q": "How long is Barry Allen in a coma after the lightning strike?",
+        "a": "Nine months"
+      },
+      {
+        "q": "How old was Barry when his mother was murdered?",
+        "a": "11"
+      },
+      {
+        "q": "Which time-travel spin-off series grew out of The Flash and Arrow?",
+        "a": "Legends of Tomorrow"
+      },
+      {
+        "q": "Which earlier CW superhero series did The Flash spin off from?",
+        "a": "Arrow"
+      },
+      {
+        "q": "Which city does the Green Arrow protect in the Arrowverse?",
+        "a": "Star City"
+      },
+      {
+        "q": "Which season has Zoom as the main antagonist?",
+        "a": "Season 2"
+      },
+      {
+        "q": "Which season has Savitar as the main antagonist?",
+        "a": "Season 3"
+      },
+      {
+        "q": "In which season do Barry and Iris finally get married?",
+        "a": "Season 4"
+      },
+      {
+        "q": "What word does the show use for an identical counterpart living on a parallel Earth?",
+        "a": "Doppelganger"
+      },
+      {
+        "q": "In what year did the CW series air its final episode?",
+        "a": "2023"
+      },
+      {
+        "q": "What kind of matter did the accelerator explosion spread across Central City?",
+        "a": "Dark matter"
+      },
+      {
+        "q": "Which fire-obsessed Rogue is Captain Cold's regular partner in crime?",
+        "a": "Heat Wave"
+      },
+      {
+        "q": "What crime was Barry's father wrongly imprisoned for?",
+        "a": "Murdering his wife"
+      },
+      {
+        "q": "In the 2023 Flash feature film, how many versions of Barry share the story?",
+        "a": "Two"
+      },
+      {
+        "q": "Because of his accelerated metabolism, Barry must consume enormous amounts of what?",
+        "a": "Calories"
+      },
+      {
+        "q": "Which season features Barry and Iris's future daughter as a main character?",
+        "a": "Season 5"
+      },
+      {
+        "q": "What was Henry Allen's profession?",
+        "a": "Doctor"
+      },
+      {
+        "q": "Which superhero team does Barry join in the 2017 DC team-up movie?",
+        "a": "The Justice League"
+      },
+      {
+        "q": "In the 2023 Flash film, what past event does Barry run back in time to prevent?",
+        "a": "His mother's murder"
+      },
+      {
+        "q": "How does Barry describe himself in the show's opening narration?",
+        "a": "The fastest man alive"
+      },
+      {
+        "q": "What surname does Iris use after marrying Barry?",
+        "a": "West-Allen"
       }
     ],
     "400": [
@@ -14474,6 +20934,94 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the title of the Flash and Supergirl musical crossover episode?",
         "a": "Duet"
+      },
+      {
+        "q": "Which villain murders Barry's father in the second season?",
+        "a": "Zoom"
+      },
+      {
+        "q": "What profession was Barry's first Flash suit originally designed to protect?",
+        "a": "Firefighters"
+      },
+      {
+        "q": "What metahuman name is given to Barry's metal-skinned childhood bully?",
+        "a": "Girder"
+      },
+      {
+        "q": "What is the criminal alias of Sam Scudder?",
+        "a": "Mirror Master"
+      },
+      {
+        "q": "In which 2017 crossover do the heroes battle Nazi versions of themselves?",
+        "a": "Crisis on Earth-X"
+      },
+      {
+        "q": "What is the title of the 2016 crossover in which the Dominators attack?",
+        "a": "Invasion!"
+      },
+      {
+        "q": "In which 2018 crossover do Barry and Oliver wake up living each other's lives?",
+        "a": "Elseworlds"
+      },
+      {
+        "q": "Who is the chief antagonist of Crisis on Infinite Earths?",
+        "a": "The Anti-Monitor"
+      },
+      {
+        "q": "What is the single merged universe called after the Crisis crossover?",
+        "a": "Earth-Prime"
+      },
+      {
+        "q": "Which STAR Labs engineer stays behind to contain the accelerator meltdown?",
+        "a": "Ronnie Raymond"
+      },
+      {
+        "q": "What is Cecile's surname?",
+        "a": "Horton"
+      },
+      {
+        "q": "What is the name of Barry and Iris's son from the future?",
+        "a": "Bart Allen"
+      },
+      {
+        "q": "What relation is Nora West-Allen to Joe West?",
+        "a": "Granddaughter"
+      },
+      {
+        "q": "Which tech genius joins Team Flash and takes over Cisco's engineering role?",
+        "a": "Chester P. Runk"
+      },
+      {
+        "q": "Which Team Flash member has light-based powers and reports for Iris's paper?",
+        "a": "Allegra Garcia"
+      },
+      {
+        "q": "Which season is built around the Mirrorverse storyline?",
+        "a": "Season 6"
+      },
+      {
+        "q": "Which season opens with the Armageddon event?",
+        "a": "Season 8"
+      },
+      {
+        "q": "What is the main command room at STAR Labs called?",
+        "a": "The Cortex"
+      },
+      {
+        "q": "Which Kryptonian hero does Barry free from a Siberian facility in the 2023 film?",
+        "a": "Supergirl"
+      },
+      {
+        "q": "Which speedster villain attacks Central City with dozens of identical copies of himself?",
+        "a": "Godspeed"
+      },
+      {
+        "q": "What object restores people's Flashpoint powers in season 3?",
+        "a": "The Philosopher's Stone"
+      },
+      {
+        "q": "How does Cisco give up his powers at the end of season 5?",
+        "a": "He takes the cure"
       }
     ],
     "600": [
@@ -14740,6 +21288,146 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many metahumans are created on the bus in season 4?",
         "a": "12"
+      },
+      {
+        "q": "What is the name of the hidden STAR Labs room where the future newspaper is kept?",
+        "a": "The Time Vault"
+      },
+      {
+        "q": "Which businessman does Harrison Wells murder in the first episode to protect his secret?",
+        "a": "Simon Stagg"
+      },
+      {
+        "q": "What future institution displays the Flash's history for Nora?",
+        "a": "The Flash Museum"
+      },
+      {
+        "q": "From what year does Nora West-Allen travel back?",
+        "a": "2049"
+      },
+      {
+        "q": "What year did the future newspaper originally give for the Flash's disappearance?",
+        "a": "2024"
+      },
+      {
+        "q": "Who is credited as the author of the future article about the Flash vanishing?",
+        "a": "Iris West-Allen"
+      },
+      {
+        "q": "What nickname is given to the treadmill Team Flash uses for time-travel experiments?",
+        "a": "The Cosmic Treadmill"
+      },
+      {
+        "q": "What was the name of the real Harrison Wells's wife?",
+        "a": "Tess Morgan"
+      },
+      {
+        "q": "What does Cisco call the assembly of Harrison Wells counterparts he gathers?",
+        "a": "The Council of Wells"
+      },
+      {
+        "q": "Which detective-styled Wells is hired by Team Flash to hunt Cicada?",
+        "a": "Sherloque Wells"
+      },
+      {
+        "q": "Which photographer becomes Cisco's girlfriend in later seasons?",
+        "a": "Kamilla Hwang"
+      },
+      {
+        "q": "What is the nickname of the inmate who befriends Barry in Iron Heights?",
+        "a": "Big Sir"
+      },
+      {
+        "q": "Which corrupt warden runs Iron Heights while Barry is imprisoned?",
+        "a": "Gregory Wolfe"
+      },
+      {
+        "q": "What villain alias does Mark Blaine adopt?",
+        "a": "Chillblaine"
+      },
+      {
+        "q": "Who is Eva McCulloch's treacherous husband?",
+        "a": "Joseph Carver"
+      },
+      {
+        "q": "What is the name of the shadowy metahuman-trafficking organization in season 6?",
+        "a": "Black Hole"
+      },
+      {
+        "q": "What codename does Allegra's cousin Esperanza use as an assassin?",
+        "a": "Ultraviolet"
+      },
+      {
+        "q": "What villain name does Mark Mardon's daughter Joss take?",
+        "a": "Weather Witch"
+      },
+      {
+        "q": "What is the criminal alias of Rosa Dillon?",
+        "a": "The Top"
+      },
+      {
+        "q": "What is the codename of the season 1 metahuman Danton Black, who makes duplicates?",
+        "a": "Multiplex"
+      },
+      {
+        "q": "What is the alias of Kyle Nimbus, who can turn into poisonous gas?",
+        "a": "The Mist"
+      },
+      {
+        "q": "What codename is given to the villain who infects people with uncontrollable rage through his eyes?",
+        "a": "Rainbow Raider"
+      },
+      {
+        "q": "What is the codename of the teleporting criminal Shawna Baez?",
+        "a": "Peek-a-Boo"
+      },
+      {
+        "q": "Which slow-moving season 2 villain drains kinetic energy from everything around him?",
+        "a": "The Turtle"
+      },
+      {
+        "q": "Which nuclear-powered metahuman does Zoom send through first in the season 2 premiere?",
+        "a": "Atom Smasher"
+      },
+      {
+        "q": "Which villain is the Earth-2 counterpart of reporter Linda Park?",
+        "a": "Dr. Light"
+      },
+      {
+        "q": "Which bus metahuman gains luck-altering powers and is nicknamed Hazard?",
+        "a": "Becky Sharpe"
+      },
+      {
+        "q": "Who does Savitar trick into taking Jay Garrick's place in the Speed Force prison?",
+        "a": "Wally West"
+      },
+      {
+        "q": "Whose appearance does Deathstorm take to torment Caitlin?",
+        "a": "Ronnie Raymond"
+      },
+      {
+        "q": "Which version of Wells loses his intellect from overusing the thinking cap?",
+        "a": "Harry Wells"
+      },
+      {
+        "q": "Who does Thawne reveal actually built the artificial intelligence in the Time Vault?",
+        "a": "Barry Allen"
+      },
+      {
+        "q": "What entity does Hunter Zolomon become after the Time Wraiths take him?",
+        "a": "Black Flash"
+      },
+      {
+        "q": "What does Barry call the swirling arena of memories he runs through to time travel in the 2023 film?",
+        "a": "The Chronobowl"
+      },
+      {
+        "q": "What name is given to the scarred alternate Barry in the 2023 film?",
+        "a": "Dark Flash"
+      },
+      {
+        "q": "What grocery item does Barry place in his mother's cart to alter the past in the 2023 film?",
+        "a": "A can of tomatoes"
       }
     ]
   },
@@ -14984,6 +21672,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the heart-shaped man-made body of water in Dubai's Al Qudra desert?",
         "a": "Love Lake"
+      },
+      {
+        "q": "Which large country lies directly across the Gulf from the UAE's northern coastline?",
+        "a": "Iran"
+      },
+      {
+        "q": "The UAE occupies the eastern corner of which large peninsula?",
+        "a": "Arabian Peninsula"
+      },
+      {
+        "q": "Which narrow shipping strait at the entrance to the Gulf carries most UAE oil exports?",
+        "a": "Strait of Hormuz"
+      },
+      {
+        "q": "Which emirate has the third largest population?",
+        "a": "Sharjah"
+      },
+      {
+        "q": "Which Gulf neighbour, host of the 2022 football World Cup, lies northwest of the UAE?",
+        "a": "Qatar"
+      },
+      {
+        "q": "What is the sunset meal that breaks the daily fast during Ramadan called?",
+        "a": "Iftar"
+      },
+      {
+        "q": "Which holiday marks the end of the fasting month in the UAE?",
+        "a": "Eid al-Fitr"
+      },
+      {
+        "q": "Which Islamic feast of sacrifice is a public holiday in the UAE?",
+        "a": "Eid al-Adha"
+      },
+      {
+        "q": "What is the Arabic name for the sitting room where an Emirati family receives guests?",
+        "a": "Majlis"
+      },
+      {
+        "q": "What plant-based temporary body art is traditional for Emirati brides?",
+        "a": "Henna"
+      },
+      {
+        "q": "What strong, sweet, spiced milk tea is sold at UAE cafeterias for a few dirhams?",
+        "a": "Karak"
+      },
+      {
+        "q": "Which animal's milk is widely sold in UAE supermarkets and used in locally made chocolate?",
+        "a": "Camel"
+      },
+      {
+        "q": "Which Arabic expression meaning 'God willing' peppers everyday UAE conversation?",
+        "a": "Inshallah"
+      },
+      {
+        "q": "Which Arabic word do you use to thank someone in the UAE?",
+        "a": "Shukran"
+      },
+      {
+        "q": "What does the Arabic word 'burj' mean?",
+        "a": "Tower"
+      },
+      {
+        "q": "What does the Arabic word 'jebel' mean?",
+        "a": "Mountain"
+      },
+      {
+        "q": "What does the Arabic word 'souk' mean?",
+        "a": "Market"
+      },
+      {
+        "q": "What is the Arabic term for a dry desert valley or riverbed?",
+        "a": "Wadi"
+      },
+      {
+        "q": "Which sport is played at the Dubai Duty Free Championships each February?",
+        "a": "Tennis"
+      },
+      {
+        "q": "Nationals of which country form the largest expatriate community in the UAE?",
+        "a": "Indian"
+      },
+      {
+        "q": "What word describes a foreign resident living and working in the UAE?",
+        "a": "Expatriate"
+      },
+      {
+        "q": "The ruler of which emirate also serves as the UAE's Prime Minister?",
+        "a": "Dubai"
+      },
+      {
+        "q": "What is the popular tourist thrill of driving a 4x4 over desert sand dunes called?",
+        "a": "Dune bashing"
+      },
+      {
+        "q": "Which airline operates the world's largest fleet of Airbus A380s?",
+        "a": "Emirates"
+      },
+      {
+        "q": "What colour is the kandura usually worn by Emirati men?",
+        "a": "White"
+      },
+      {
+        "q": "Which month-long religious fast is observed across the UAE every year?",
+        "a": "Ramadan"
+      },
+      {
+        "q": "The city of Al Ain sits within which emirate?",
+        "a": "Abu Dhabi"
+      },
+      {
+        "q": "In which season do most tourists visit the UAE, given the punishing summer heat?",
+        "a": "Winter"
+      },
+      {
+        "q": "Which month is typically the coolest of the year in the UAE?",
+        "a": "January"
+      },
+      {
+        "q": "What is the name of the wrap of shaved spit-roasted meat sold at UAE snack shops?",
+        "a": "Shawarma"
+      },
+      {
+        "q": "Which language, alongside Arabic, is used for most business in the UAE?",
+        "a": "English"
+      },
+      {
+        "q": "What is the pre-dawn meal eaten before a day of fasting begins?",
+        "a": "Suhoor"
+      },
+      {
+        "q": "Which pilgrimage to Saudi Arabia are Emirati Muslims expected to make once in a lifetime?",
+        "a": "Hajj"
+      },
+      {
+        "q": "Which city do worshippers in the UAE face when they pray?",
+        "a": "Mecca"
+      },
+      {
+        "q": "What is the flavoured water pipe smoked in UAE cafes called?",
+        "a": "Shisha"
+      },
+      {
+        "q": "What name is given to the nomadic desert people who historically roamed the UAE interior?",
+        "a": "Bedouin"
+      },
+      {
+        "q": "What is the long black headscarf worn by Emirati women called?",
+        "a": "Shayla"
+      },
+      {
+        "q": "What is the three-letter airport code for Abu Dhabi's main airport?",
+        "a": "AUH"
+      },
+      {
+        "q": "Which cartel of oil-exporting nations does the UAE belong to?",
+        "a": "OPEC"
+      },
+      {
+        "q": "What Arabic word for 'palace' appears in the names of Abu Dhabi landmarks?",
+        "a": "Qasr"
+      },
+      {
+        "q": "What is the waterfront promenade running along Abu Dhabi's shoreline called?",
+        "a": "Corniche"
+      },
+      {
+        "q": "Which shellfish did Gulf divers harvest to build the region's pre-oil wealth?",
+        "a": "Oyster"
+      },
+      {
+        "q": "What colour is the vertical band on the hoist side of the UAE flag?",
+        "a": "Red"
+      },
+      {
+        "q": "How many horizontal stripes does the UAE flag have?",
+        "a": "3"
+      },
+      {
+        "q": "Which sport has a famous international Sevens tournament in Dubai each December?",
+        "a": "Rugby"
+      },
+      {
+        "q": "Which aircraft carries tourists silently over the Dubai desert at sunrise?",
+        "a": "Hot air balloon"
+      },
+      {
+        "q": "What is desalinated to supply most of the UAE's drinking water?",
+        "a": "Seawater"
+      },
+      {
+        "q": "Which team sport draws the biggest crowds and has a national Pro League in the UAE?",
+        "a": "Football"
+      },
+      {
+        "q": "What title is held by the ruler of each of the seven emirates?",
+        "a": "Sheikh"
       }
     ],
     "400": [
@@ -15262,6 +22146,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many fils are in one dirham?",
         "a": "100"
+      },
+      {
+        "q": "The UAE dirham is pegged to which foreign currency?",
+        "a": "US dollar"
+      },
+      {
+        "q": "Roughly how many dirhams equal one US dollar?",
+        "a": "3.67"
+      },
+      {
+        "q": "What is the UAE's international telephone dialling code?",
+        "a": "+971"
+      },
+      {
+        "q": "How many hours ahead of GMT is UAE standard time?",
+        "a": "4"
+      },
+      {
+        "q": "What number do you dial for the police in the UAE?",
+        "a": "999"
+      },
+      {
+        "q": "Since the 2022 change, on which day does the UAE working week begin?",
+        "a": "Monday"
+      },
+      {
+        "q": "Which council of the seven rulers elects the UAE president?",
+        "a": "Federal Supreme Council"
+      },
+      {
+        "q": "In which year was Sheikh Mohamed bin Zayed elected UAE president?",
+        "a": "2022"
+      },
+      {
+        "q": "What long-term residency permit did the UAE launch in 2019 for investors and talent?",
+        "a": "Golden Visa"
+      },
+      {
+        "q": "Which telecom operator, founded in 1976, is the UAE's oldest?",
+        "a": "Etisalat"
+      },
+      {
+        "q": "In which year did the UAE normalise relations with Israel under the Abraham Accords?",
+        "a": "2020"
+      },
+      {
+        "q": "Which country's military withdrawal from the Gulf in 1971 pushed the emirates to unite?",
+        "a": "Britain"
+      },
+      {
+        "q": "How many emirates signed the founding union agreement on 2 December 1971?",
+        "a": "6"
+      },
+      {
+        "q": "Which driver won the first Abu Dhabi Grand Prix in 2009?",
+        "a": "Sebastian Vettel"
+      },
+      {
+        "q": "In which year did the Abu Dhabi Grand Prix stage the Hamilton and Verstappen title decider?",
+        "a": "2021"
+      },
+      {
+        "q": "What replaced child riders in UAE camel races after the practice was banned?",
+        "a": "Robot jockeys"
+      },
+      {
+        "q": "Which cycling team does Tadej Pogacar ride for?",
+        "a": "UAE Team Emirates"
+      },
+      {
+        "q": "Which London football club plays in a stadium named after an Emirati airline?",
+        "a": "Arsenal"
+      },
+      {
+        "q": "Which combat sport is taught in Abu Dhabi's public schools and has a World Pro championship there?",
+        "a": "Jiu-jitsu"
+      },
+      {
+        "q": "Which UAE city is the global headquarters of the International Cricket Council?",
+        "a": "Dubai"
+      },
+      {
+        "q": "Which desert bird, the classic quarry of Emirati falconers, is now bred in protection programmes?",
+        "a": "Houbara bustard"
+      },
+      {
+        "q": "Which brand of bottled mineral water from the UAE mountains is a household name?",
+        "a": "Masafi"
+      },
+      {
+        "q": "The sale of which product is banned outright in Sharjah?",
+        "a": "Alcohol"
+      },
+      {
+        "q": "Which lunar calendar is used for religious dates alongside the Gregorian one in the UAE?",
+        "a": "Hijri"
+      },
+      {
+        "q": "Which public holiday in the UAE marks the birthday of the Prophet Muhammad?",
+        "a": "Mawlid"
+      },
+      {
+        "q": "What is fired at sunset in the UAE to signal that the daily fast may be broken?",
+        "a": "A cannon"
+      },
+      {
+        "q": "Which annual retail festival, launched in 1996, fills UAE malls with bargain hunters each winter?",
+        "a": "Dubai Shopping Festival"
+      },
+      {
+        "q": "Which Italian supercar marque joined the Dubai Police patrol fleet in 2013?",
+        "a": "Lamborghini"
+      },
+      {
+        "q": "Sir Bani Yas, a wildlife reserve island stocked with oryx and giraffes, belongs to which emirate?",
+        "a": "Abu Dhabi"
+      },
+      {
+        "q": "Which pink wading birds are the star attraction of Abu Dhabi's Al Wathba reserve?",
+        "a": "Flamingos"
+      },
+      {
+        "q": "Which emirate is home to the world's longest zipline?",
+        "a": "Ras Al Khaimah"
+      },
+      {
+        "q": "Which regional bloc, founded in 1981, groups the UAE with five neighbouring states?",
+        "a": "Gulf Cooperation Council"
+      },
+      {
+        "q": "Which Cairo-based organisation of Arab states counts the UAE as a member?",
+        "a": "Arab League"
+      },
+      {
+        "q": "What is the name of the observation deck on the 124th floor of the Burj Khalifa?",
+        "a": "At The Top"
+      },
+      {
+        "q": "In which park does Dubai's giant golden picture-frame landmark stand?",
+        "a": "Zabeel Park"
+      },
+      {
+        "q": "What is the name of the huge technology exhibition held in Dubai every autumn?",
+        "a": "GITEX"
+      },
+      {
+        "q": "Which emirate has the smallest population?",
+        "a": "Umm Al Quwain"
+      },
+      {
+        "q": "What does the place name 'Al Ain' mean in Arabic?",
+        "a": "The spring"
+      },
+      {
+        "q": "What is the curved dagger worn at the waist in Emirati ceremonial dress called?",
+        "a": "Khanjar"
+      },
+      {
+        "q": "What is the gold-trimmed cloak Emirati men wear over the kandura on formal occasions?",
+        "a": "Bisht"
+      },
+      {
+        "q": "What are the small handleless cups used for serving Arabic coffee called?",
+        "a": "Finjan"
+      },
+      {
+        "q": "What scented wood chips are burned on charcoal to perfume Emirati homes?",
+        "a": "Bakhoor"
+      },
+      {
+        "q": "What sweet topping is poured over the Emirati dumpling dessert luqaimat?",
+        "a": "Date syrup"
+      },
+      {
+        "q": "Which Emirati pancake, scented with saffron and cardamom, is a breakfast favourite?",
+        "a": "Chebab"
+      },
+      {
+        "q": "What is the former world's fair site in Dubai now called, after its 2022 relaunch as a district?",
+        "a": "Expo City"
+      },
+      {
+        "q": "What name does the UAE officially use for the body of water on its northern coast?",
+        "a": "Arabian Gulf"
+      },
+      {
+        "q": "Which critically endangered big cat, once roaming the UAE's mountains, is bred at Sharjah's conservation centre?",
+        "a": "Arabian leopard"
+      },
+      {
+        "q": "What does the Arabic word 'khor' mean, as in Khor Fakkan?",
+        "a": "Creek"
       }
     ],
     "600": [
@@ -15544,6 +22620,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the UNESCO-listed cluster of oases, tombs and forts in Abu Dhabi emirate?",
         "a": "Cultural Sites of Al Ain"
+      },
+      {
+        "q": "Which Dubai fountain claimed the Guinness title of world's largest choreographed fountain in 2020?",
+        "a": "Palm Fountain"
+      },
+      {
+        "q": "Which Dubai hotel claimed the title of world's tallest hotel when it opened in 2018?",
+        "a": "Gevora Hotel"
+      },
+      {
+        "q": "What is the name of the Ferrari World ride billed as the world's fastest roller coaster?",
+        "a": "Formula Rossa"
+      },
+      {
+        "q": "Which Hollywood studio brand opened an indoor theme park on Yas Island in 2018?",
+        "a": "Warner Bros"
+      },
+      {
+        "q": "Which marine-life park brand opened its Yas Island attraction in 2023?",
+        "a": "SeaWorld"
+      },
+      {
+        "q": "What is the name of the Saadiyat Island complex opened in 2023 housing a mosque, a church and a synagogue?",
+        "a": "Abrahamic Family House"
+      },
+      {
+        "q": "In which year did Pope Francis make the first papal visit to the Arabian Peninsula?",
+        "a": "2019"
+      },
+      {
+        "q": "Who served as the UAE's first Prime Minister from 1971?",
+        "a": "Sheikh Maktoum bin Rashid"
+      },
+      {
+        "q": "Which Bronze Age culture of the region is named after an island off Abu Dhabi?",
+        "a": "Umm Al Nar"
+      },
+      {
+        "q": "The UAE's Hope probe was launched from which country?",
+        "a": "Japan"
+      },
+      {
+        "q": "In which year was the UAE's Rashid rover lost during a failed lunar landing?",
+        "a": "2023"
+      },
+      {
+        "q": "Which Abu Dhabi research institute developed the Falcon open-source AI models?",
+        "a": "Technology Innovation Institute"
+      },
+      {
+        "q": "What rate of federal corporate tax did the UAE introduce in 2023?",
+        "a": "9%"
+      },
+      {
+        "q": "Which bank is the UAE's largest by assets?",
+        "a": "First Abu Dhabi Bank"
+      },
+      {
+        "q": "How long is a single term for the UAE presidency?",
+        "a": "5 years"
+      },
+      {
+        "q": "Who was named Crown Prince of Abu Dhabi in 2023?",
+        "a": "Sheikh Khaled bin Mohamed"
+      },
+      {
+        "q": "Who was appointed as a second UAE Vice President in 2023?",
+        "a": "Sheikh Mansour bin Zayed"
+      },
+      {
+        "q": "In which year did the UAE most recently host the AFC Asian Cup?",
+        "a": "2019"
+      },
+      {
+        "q": "Which team knocked the UAE out of the 2019 Asian Cup at the semi-final stage?",
+        "a": "Qatar"
+      },
+      {
+        "q": "Which European giant beat Al Ain in the 2018 FIFA Club World Cup final?",
+        "a": "Real Madrid"
+      },
+      {
+        "q": "How many goals did the UAE score across its three matches at the 1990 World Cup?",
+        "a": "2"
+      },
+      {
+        "q": "What is the name of the season-ending golf tournament staged at Jumeirah Golf Estates?",
+        "a": "DP World Tour Championship"
+      },
+      {
+        "q": "What is the name of the UAE Air Force aerobatic display team?",
+        "a": "Al Fursan"
+      },
+      {
+        "q": "What is the name of the annual long-distance dhow race from Sir Bu Nair island to Dubai?",
+        "a": "Al Gaffal"
+      },
+      {
+        "q": "What is the term for the crusty coastal salt flats found along the UAE shoreline?",
+        "a": "Sabkha"
+      },
+      {
+        "q": "What is the traditional Emirati summer house built from palm fronds called?",
+        "a": "Arish"
+      },
+      {
+        "q": "Which Emirati dish layers meat and vegetable stew over torn thin bread?",
+        "a": "Thareed"
+      },
+      {
+        "q": "What is the Emirati name for the dried black lime used to flavour stews?",
+        "a": "Loomi"
+      },
+      {
+        "q": "What is the local Emirati blend of ground spices used in machboos called?",
+        "a": "Bezar"
+      },
+      {
+        "q": "What style of colloquial Arabic verse is the traditional poetry of the Gulf?",
+        "a": "Nabati poetry"
+      },
+      {
+        "q": "What is the name of the Abu Dhabi television contest that crowns a poet each season?",
+        "a": "Million's Poet"
+      },
+      {
+        "q": "What is the name of the dusty northwesterly wind that sweeps the Gulf?",
+        "a": "Shamal"
+      },
+      {
+        "q": "Which critically endangered sea turtle species nests on UAE beaches?",
+        "a": "Hawksbill"
+      },
+      {
+        "q": "Which giant filter-feeding fish is occasionally spotted in the waters off the UAE?",
+        "a": "Whale shark"
+      },
+      {
+        "q": "In which year was Sharjah named UNESCO's cultural capital of the Arab world?",
+        "a": "1998"
+      },
+      {
+        "q": "In which year did Emirates take delivery of its first Airbus A380?",
+        "a": "2008"
+      },
+      {
+        "q": "By what Arabic nickname is the UAE national football team known?",
+        "a": "Al Abyad"
+      },
+      {
+        "q": "In which year did construction begin on Palm Jumeirah?",
+        "a": "2001"
+      },
+      {
+        "q": "Before the dirham, Dubai shared a currency with Qatar known by what name?",
+        "a": "Riyal"
+      },
+      {
+        "q": "In which year was the UAE dirham introduced?",
+        "a": "1973"
+      },
+      {
+        "q": "In which year did Sheikh Mohammed bin Rashid become Ruler of Dubai?",
+        "a": "2006"
+      },
+      {
+        "q": "Which architect designed the planned Guggenheim museum for Saadiyat Island?",
+        "a": "Frank Gehry"
+      },
+      {
+        "q": "Which American architect led the design of the Burj Khalifa?",
+        "a": "Adrian Smith"
+      },
+      {
+        "q": "Which British architect designed the sail-shaped Burj Al Arab?",
+        "a": "Tom Wright"
+      },
+      {
+        "q": "Who became the UAE's first female cabinet minister in 2004?",
+        "a": "Lubna Al Qasimi"
+      },
+      {
+        "q": "Which unusual ministry focused on citizen wellbeing did the UAE create in 2016?",
+        "a": "Ministry of Happiness"
+      },
+      {
+        "q": "In which year did the UAE appoint the world's first minister for artificial intelligence?",
+        "a": "2017"
+      },
+      {
+        "q": "In which sport did the UAE win its only Olympic gold medal?",
+        "a": "Shooting"
+      },
+      {
+        "q": "In which year did Abu Dhabi join OPEC?",
+        "a": "1967"
       }
     ]
   },
@@ -15704,6 +22976,130 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which river do the Vikings sail up to reach Paris?",
         "a": "The Seine"
+      },
+      {
+        "q": "Which Norse god is famous as a shape-shifting trickster?",
+        "a": "Loki"
+      },
+      {
+        "q": "What is the name of Thor's hammer?",
+        "a": "Mjolnir"
+      },
+      {
+        "q": "What is the burning rainbow bridge linking the gods' realm to the human world called?",
+        "a": "Bifrost"
+      },
+      {
+        "q": "What is the fortified home of the Norse gods called?",
+        "a": "Asgard"
+      },
+      {
+        "q": "What is the giant world tree of Norse myth called?",
+        "a": "Yggdrasil"
+      },
+      {
+        "q": "What is the prophesied final battle that destroys the Norse gods called?",
+        "a": "Ragnarok"
+      },
+      {
+        "q": "What are the female spirits who choose slain warriors for Odin's hall called?",
+        "a": "Valkyries"
+      },
+      {
+        "q": "How many eyes does Odin have in Norse myth?",
+        "a": "One"
+      },
+      {
+        "q": "What is the angular alphabet the Norse carved into wood and stone called?",
+        "a": "Runes"
+      },
+      {
+        "q": "Which honey-based alcoholic drink is most associated with Norse feasting?",
+        "a": "Mead"
+      },
+      {
+        "q": "What carved creature most often topped the prow of a Norse raiding ship?",
+        "a": "A dragon"
+      },
+      {
+        "q": "What is the tight defensive formation of overlapping shields used in Norse battle called?",
+        "a": "The shield wall"
+      },
+      {
+        "q": "In Norse myth, who is Thor's father?",
+        "a": "Odin"
+      },
+      {
+        "q": "Which Norse explorer is credited with landing in North America around the year 1000?",
+        "a": "Leif Erikson"
+      },
+      {
+        "q": "Which feature seen on Norse helmets in cartoons and opera never actually existed?",
+        "a": "Horns"
+      },
+      {
+        "q": "Which streaming service released the sequel series Vikings: Valhalla?",
+        "a": "Netflix"
+      },
+      {
+        "q": "Which day of the week takes its English name from the god Thor?",
+        "a": "Thursday"
+      },
+      {
+        "q": "What are the great medieval Icelandic prose narratives of Norse heroes called?",
+        "a": "Sagas"
+      },
+      {
+        "q": "Which NFL team took its name from Norse seafaring raiders?",
+        "a": "Minnesota Vikings"
+      },
+      {
+        "q": "Which stealth game franchise released an installment subtitled Valhalla?",
+        "a": "Assassin's Creed"
+      },
+      {
+        "q": "Which animated film series follows a young Norse islander named Hiccup?",
+        "a": "How to Train Your Dragon"
+      },
+      {
+        "q": "What wheeled vehicle does Ivar use to move around the battlefield?",
+        "a": "A chariot"
+      },
+      {
+        "q": "In the show, which modern country is Kattegat located in?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which sea do the raiders cross between Scandinavia and eastern England?",
+        "a": "The North Sea"
+      },
+      {
+        "q": "What metal were Norse helmets and mail shirts made from?",
+        "a": "Iron"
+      },
+      {
+        "q": "Who is the Norse goddess of love and beauty?",
+        "a": "Freyja"
+      },
+      {
+        "q": "What large object were wealthy Norse leaders often buried inside along with grave goods?",
+        "a": "A ship"
+      },
+      {
+        "q": "What kind of religious men were killed and captured in the Lindisfarne raid?",
+        "a": "Monks"
+      },
+      {
+        "q": "What word describes the pre-Christian Norse religion of many gods?",
+        "a": "Paganism"
+      },
+      {
+        "q": "Which season of the year did Norse raiders prefer for their voyages?",
+        "a": "Summer"
+      },
+      {
+        "q": "What Norse-derived word describes a long narrow sea inlet between steep cliffs?",
+        "a": "A fjord"
       }
     ],
     "400": [
@@ -15950,6 +23346,182 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the first king of all Norway elected in season 6?",
         "a": "Harald Finehair"
+      },
+      {
+        "q": "Which day of the week takes its English name from Odin?",
+        "a": "Wednesday"
+      },
+      {
+        "q": "Which day of the week is named after the goddess Frigg?",
+        "a": "Friday"
+      },
+      {
+        "q": "What was the lowest class of Norse society, made up of enslaved people, called?",
+        "a": "Thrall"
+      },
+      {
+        "q": "Who is Odin's wife in Norse myth?",
+        "a": "Frigg"
+      },
+      {
+        "q": "What is the world of humans called in Norse cosmology?",
+        "a": "Midgard"
+      },
+      {
+        "q": "How many worlds hang from the Norse world tree?",
+        "a": "Nine"
+      },
+      {
+        "q": "What is the name of Odin's eight-legged horse?",
+        "a": "Sleipnir"
+      },
+      {
+        "q": "What is the enormous serpent that encircles the world of men called?",
+        "a": "Jormungandr"
+      },
+      {
+        "q": "Who rules the Norse realm of the dishonoured dead?",
+        "a": "Hel"
+      },
+      {
+        "q": "Which animals pull Thor's chariot?",
+        "a": "Goats"
+      },
+      {
+        "q": "Which beings inhabit Jotunheim?",
+        "a": "Giants"
+      },
+      {
+        "q": "Which Scandinavian kingdom did Harald Bluetooth rule?",
+        "a": "Denmark"
+      },
+      {
+        "q": "Which Norse king's nickname was borrowed for a short-range wireless standard?",
+        "a": "Harald Bluetooth"
+      },
+      {
+        "q": "What was the area of England governed under Norse law called?",
+        "a": "The Danelaw"
+      },
+      {
+        "q": "What did the Norse settlers call the English city of York?",
+        "a": "Jorvik"
+      },
+      {
+        "q": "Which exiled Norse outlaw founded the first colony on Greenland?",
+        "a": "Erik the Red"
+      },
+      {
+        "q": "Which Norse midwinter festival name survives as a word for Christmas?",
+        "a": "Yule"
+      },
+      {
+        "q": "Which eastern Norse traders gave their name to the land that became Russia?",
+        "a": "The Rus"
+      },
+      {
+        "q": "Which Irish capital city began as a Norse trading settlement?",
+        "a": "Dublin"
+      },
+      {
+        "q": "Which cheap weapon did most ordinary Norse warriors carry instead of a sword?",
+        "a": "A spear"
+      },
+      {
+        "q": "What human commodity did Norse raiders trade in bulk across Europe and the east?",
+        "a": "Slaves"
+      },
+      {
+        "q": "What is the language the Icelandic sagas were written in called?",
+        "a": "Old Norse"
+      },
+      {
+        "q": "Which Norwegian city houses the museum holding the country's preserved Norse ships?",
+        "a": "Oslo"
+      },
+      {
+        "q": "Which 2022 Robert Eggers film retells a Norse prince's revenge?",
+        "a": "The Northman"
+      },
+      {
+        "q": "The 2018 God of War game moved Kratos into which mythology?",
+        "a": "Norse"
+      },
+      {
+        "q": "Which Danish king conquers England in Vikings: Valhalla?",
+        "a": "Canute"
+      },
+      {
+        "q": "In Vikings: Valhalla, who is Leif Erikson's shieldmaiden sister?",
+        "a": "Freydis"
+      },
+      {
+        "q": "How many sons does Ragnar father with Aslaug?",
+        "a": "Four"
+      },
+      {
+        "q": "How many sons does Ragnar have across the whole series?",
+        "a": "Five"
+      },
+      {
+        "q": "Who builds the chariot that lets Ivar move on his own?",
+        "a": "Floki"
+      },
+      {
+        "q": "What must a visitor do to the Seer's hand before he will answer them?",
+        "a": "Lick it"
+      },
+      {
+        "q": "How does Ragnar punish Floki for murdering Athelstan?",
+        "a": "Chains him in a cave"
+      },
+      {
+        "q": "Who deals Bjorn his mortal wound during the eastern invasion?",
+        "a": "Ivar"
+      },
+      {
+        "q": "Who is Alfred's elder brother in the royal house of Wessex?",
+        "a": "Aethelred"
+      },
+      {
+        "q": "Who commands the defence of Paris when the Northmen return for a second siege?",
+        "a": "Rollo"
+      },
+      {
+        "q": "Which Norse warrior travels with Bjorn on his Mediterranean voyage?",
+        "a": "Halfdan"
+      },
+      {
+        "q": "What does King Ecbert give the Northmen in return for fighting for Mercia?",
+        "a": "Farmland"
+      },
+      {
+        "q": "Which wild animal does Bjorn fight and kill during his winter alone in the wilderness?",
+        "a": "A bear"
+      },
+      {
+        "q": "Which of Ragnar's sons accepts Christian baptism in Wessex?",
+        "a": "Ubbe"
+      },
+      {
+        "q": "What was the tribute the English paid to buy off Norse raiders called?",
+        "a": "Danegeld"
+      },
+      {
+        "q": "In which century did the Viking Age begin?",
+        "a": "The 8th century"
+      },
+      {
+        "q": "Which island group north of Scotland was ruled from Norway for centuries?",
+        "a": "Orkney"
+      },
+      {
+        "q": "What was the Norse sacrificial feast ceremony called?",
+        "a": "Blot"
+      },
+      {
+        "q": "What was the formal Norse duel used to settle disputes called?",
+        "a": "Holmgang"
       }
     ],
     "600": [
@@ -16220,6 +23792,222 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Kattegat merchant arranges the bloody sacrifice of a hundred citizens with Ivar?",
         "a": "White Hair"
+      },
+      {
+        "q": "Which god stands watch over the burning bridge to Asgard?",
+        "a": "Heimdall"
+      },
+      {
+        "q": "What is the name of Odin's spear?",
+        "a": "Gungnir"
+      },
+      {
+        "q": "Which beloved Norse god is killed by a shaft of mistletoe?",
+        "a": "Baldr"
+      },
+      {
+        "q": "Which god loses his hand in the jaws of the bound wolf?",
+        "a": "Tyr"
+      },
+      {
+        "q": "What is the ship built from dead men's nails that sails at the end of the world called?",
+        "a": "Naglfar"
+      },
+      {
+        "q": "What is the name of Odin's gold ring that drips eight copies every ninth night?",
+        "a": "Draupnir"
+      },
+      {
+        "q": "Which wolf pursues the sun across the sky in Norse myth?",
+        "a": "Skoll"
+      },
+      {
+        "q": "From which slain primeval giant is the world made in Norse myth?",
+        "a": "Ymir"
+      },
+      {
+        "q": "What are the two rival families of Norse gods called?",
+        "a": "Aesir and Vanir"
+      },
+      {
+        "q": "Which Norse god of the sea and wealth is the father of Freyja?",
+        "a": "Njord"
+      },
+      {
+        "q": "What is the roof of Odin's hall of the slain made of?",
+        "a": "Shields"
+      },
+      {
+        "q": "What is the name of the field where Freyja receives half the battle dead?",
+        "a": "Folkvangr"
+      },
+      {
+        "q": "At whose well does Odin sacrifice an eye for wisdom?",
+        "a": "Mimir"
+      },
+      {
+        "q": "What is the fiery southern realm ruled by Surtr called?",
+        "a": "Muspelheim"
+      },
+      {
+        "q": "Which Icelandic chieftain wrote the Prose Edda?",
+        "a": "Snorri Sturluson"
+      },
+      {
+        "q": "Which animals pull Freyja's chariot?",
+        "a": "Cats"
+      },
+      {
+        "q": "In what year was Iceland's Althing first convened?",
+        "a": "930"
+      },
+      {
+        "q": "What was the elite Norse bodyguard unit of the Byzantine emperor called?",
+        "a": "The Varangian Guard"
+      },
+      {
+        "q": "What did Norse travellers call Constantinople?",
+        "a": "Miklagard"
+      },
+      {
+        "q": "What was the broad, deep Norse cargo ship used for ocean trade called?",
+        "a": "A knarr"
+      },
+      {
+        "q": "Which richly furnished Norwegian ship burial was excavated in 1904?",
+        "a": "The Oseberg ship"
+      },
+      {
+        "q": "Which famous set of walrus-ivory chess pieces was found on a Scottish island?",
+        "a": "The Lewis chessmen"
+      },
+      {
+        "q": "Which Arab traveller left an eyewitness account of a Rus ship funeral on the Volga?",
+        "a": "Ibn Fadlan"
+      },
+      {
+        "q": "What were Norse warriors who fought wearing wolf pelts called?",
+        "a": "Ulfhednar"
+      },
+      {
+        "q": "What was the single-edged Norse fighting knife called?",
+        "a": "A seax"
+      },
+      {
+        "q": "In what year did the historical Rollo receive Frankish land by treaty?",
+        "a": "911"
+      },
+      {
+        "q": "At which 1066 battle was the Norwegian king Harald Hardrada killed?",
+        "a": "Stamford Bridge"
+      },
+      {
+        "q": "Which Newfoundland site proved Norse settlement in North America?",
+        "a": "L'Anse aux Meadows"
+      },
+      {
+        "q": "Which day of the week takes its English name from the one-handed god?",
+        "a": "Tuesday"
+      },
+      {
+        "q": "How often was the great sacrifice held at the temple of Uppsala?",
+        "a": "Every nine years"
+      },
+      {
+        "q": "Who composed the score for the series?",
+        "a": "Trevor Morris"
+      },
+      {
+        "q": "At which Irish studio was the series shot?",
+        "a": "Ashford Studios"
+      },
+      {
+        "q": "How many episodes does the series have in total?",
+        "a": "89"
+      },
+      {
+        "q": "In what year did the series air its finale?",
+        "a": "2020"
+      },
+      {
+        "q": "In what year did Vikings: Valhalla premiere?",
+        "a": "2022"
+      },
+      {
+        "q": "Into how many parts was the sixth season released?",
+        "a": "Two"
+      },
+      {
+        "q": "Which daughter of Kjetill falls in love with Floki in Iceland?",
+        "a": "Aud"
+      },
+      {
+        "q": "Which rival settler leads the faction opposing Floki in Iceland?",
+        "a": "Eyvind"
+      },
+      {
+        "q": "What Christian object does Floki find inside the cave he explores in Iceland?",
+        "a": "A cross"
+      },
+      {
+        "q": "Which man does Ubbe execute with the blood eagle in Greenland?",
+        "a": "Naad"
+      },
+      {
+        "q": "Which enslaved woman marries Ubbe and later loses her mind?",
+        "a": "Margrethe"
+      },
+      {
+        "q": "What kills Aethelwulf?",
+        "a": "A bee sting"
+      },
+      {
+        "q": "What baptismal name is Hvitserk given by King Alfred?",
+        "a": "Athelstan"
+      },
+      {
+        "q": "Who rules Kattegat as queen at the very end of the series?",
+        "a": "Ingrid"
+      },
+      {
+        "q": "Which allied king of Bjorn is struck blind by witchcraft?",
+        "a": "Erik"
+      },
+      {
+        "q": "Where does Ubbe's fleet make landfall before reaching the golden land?",
+        "a": "Greenland"
+      },
+      {
+        "q": "Who leads the slaughter of the Norse farming settlement in Wessex?",
+        "a": "Aethelwulf"
+      },
+      {
+        "q": "What does Ivar order done to Kattegat as Bjorn's army closes in?",
+        "a": "Burn it"
+      },
+      {
+        "q": "Which Frankish nobleman plots with his sister Therese against Emperor Charles?",
+        "a": "Roland"
+      },
+      {
+        "q": "What affliction causes Alfred to collapse before his court?",
+        "a": "Seizures"
+      },
+      {
+        "q": "In Vikings: Valhalla, which noblewoman becomes Canute's queen?",
+        "a": "Emma of Normandy"
+      },
+      {
+        "q": "By what byname is Vikings: Valhalla's Harald Sigurdsson known to history?",
+        "a": "Hardrada"
+      },
+      {
+        "q": "Which 1002 massacre of Danes in England sets Vikings: Valhalla in motion?",
+        "a": "St Brice's Day Massacre"
+      },
+      {
+        "q": "The show's capital shares its name with a real strait between Denmark and which country?",
+        "a": "Sweden"
       }
     ]
   },
@@ -16909,6 +24697,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "I have a bell and two wheels, and I go nowhere without your legs. What am I?",
         "a": "A bicycle"
+      },
+      {
+        "q": "I fill with water, tumble your clothes in circles, and buzz when the load is finished. What am I?",
+        "a": "A washing machine"
+      },
+      {
+        "q": "I roar across the carpet and swallow crumbs into a bag or a canister. What am I?",
+        "a": "A vacuum cleaner"
+      },
+      {
+        "q": "I glide across shirts on a padded board and hiss steam to flatten the wrinkles. What am I?",
+        "a": "An iron"
+      },
+      {
+        "q": "I blow hot air at your head so you can leave the bathroom without dripping. What am I?",
+        "a": "A hairdryer"
+      },
+      {
+        "q": "I have no buttons and no sleeves, yet I am pulled over you at night to trap your own warmth. What am I?",
+        "a": "A blanket"
+      },
+      {
+        "q": "I clamp over your ears so the music belongs to you alone. What am I?",
+        "a": "Headphones"
+      },
+      {
+        "q": "I vanish into the sofa cushions, and without me nobody can change the channel. What am I?",
+        "a": "A remote control"
+      },
+      {
+        "q": "I have a lens and a shutter, and I trap a single moment with one click. What am I?",
+        "a": "A camera"
+      },
+      {
+        "q": "I pinch the laundry to the line so the wind cannot steal it. What am I?",
+        "a": "A clothespin"
+      },
+      {
+        "q": "My tip is flat or crossed, and I sink threaded metal into wood without a single blow. What am I?",
+        "a": "A screwdriver"
+      },
+      {
+        "q": "I cover the whole floor, soften every footstep, and hide the dust underneath me. What am I?",
+        "a": "A carpet"
+      },
+      {
+        "q": "I arrive in a flat cardboard box, I am cut into triangles, and everyone argues over my last piece. What am I?",
+        "a": "A pizza"
+      },
+      {
+        "q": "I am fried, glazed, and famous for the emptiness in my middle. What am I?",
+        "a": "A doughnut"
+      },
+      {
+        "q": "I am a crisp cup you are allowed to eat, and I hold something cold until it drips down your wrist. What am I?",
+        "a": "An ice cream cone"
+      },
+      {
+        "q": "I arrive in a thousand pieces and I am only finished when the last one clicks into place. What am I?",
+        "a": "A jigsaw puzzle"
+      },
+      {
+        "q": "I ride on both your shoulders and carry your books to class. What am I?",
+        "a": "A backpack"
+      },
+      {
+        "q": "I have wheels and a pull handle, and I trail behind you through the airport. What am I?",
+        "a": "A suitcase"
+      },
+      {
+        "q": "I have four small wheels under a wooden plank, and I roll away the moment you step off. What am I?",
+        "a": "A skateboard"
+      },
+      {
+        "q": "I buckle under your chin and I take the blow so your skull does not. What am I?",
+        "a": "A helmet"
+      },
+      {
+        "q": "I have spinning blades in a jug, and I turn whole fruit into a drink in seconds. What am I?",
+        "a": "A blender"
+      },
+      {
+        "q": "I sit folded on your lap through dinner and wipe your mouth between bites. What am I?",
+        "a": "A napkin"
+      },
+      {
+        "q": "I am a thin tube that lets you drink without ever lifting the glass. What am I?",
+        "a": "A straw"
+      },
+      {
+        "q": "I hang from a high ceiling, dripping with glass, and I light a grand room from above. What am I?",
+        "a": "A chandelier"
+      },
+      {
+        "q": "I have a slot in my back, coins rattle inside me, and children shake me to guess how full I am. What am I?",
+        "a": "A piggy bank"
+      },
+      {
+        "q": "I have curved runners instead of flat feet, so I tip back and forth while going nowhere. What am I?",
+        "a": "A rocking chair"
+      },
+      {
+        "q": "I stand in the kitchen corner with a bag inside me, and I go out to the street once a week. What am I?",
+        "a": "A trash can"
+      },
+      {
+        "q": "You twist wood into me and thin curled shavings fall out the other side. What am I?",
+        "a": "A pencil sharpener"
+      },
+      {
+        "q": "I spin on a tilted stand, and every country in the world sits on my surface. What am I?",
+        "a": "A globe"
+      },
+      {
+        "q": "I am a long tube of lenses, and I bring distant worlds close to a single eye. What am I?",
+        "a": "A telescope"
+      },
+      {
+        "q": "I lie coiled beside the house, and when the tap turns I carry a drink to the flowers. What am I?",
+        "a": "A garden hose"
+      },
+      {
+        "q": "I growl across the lawn and leave neat pale stripes behind me. What am I?",
+        "a": "A lawnmower"
+      },
+      {
+        "q": "I have a broad blade and a long shaft, and I move earth one scoop at a time. What am I?",
+        "a": "A shovel"
+      },
+      {
+        "q": "I am slung between two trees, and I rock you to sleep in the shade. What am I?",
+        "a": "A hammock"
+      },
+      {
+        "q": "I have a line, a reel, and a hook, and I wait patiently at the water's edge. What am I?",
+        "a": "A fishing rod"
+      },
+      {
+        "q": "I have three valves and a flared brass mouth, and I only sound when your lips buzz. What am I?",
+        "a": "A trumpet"
+      },
+      {
+        "q": "I am carved with a grinning face, lit from inside, and I glow on porches every October. What am I?",
+        "a": "A jack-o'-lantern"
+      },
+      {
+        "q": "I wear one small flame for every year you have lived, and I am cut once the singing stops. What am I?",
+        "a": "A birthday cake"
+      },
+      {
+        "q": "I am printed overnight and folded onto the doorstep, and by tomorrow I am worth nothing. What am I?",
+        "a": "A newspaper"
+      },
+      {
+        "q": "I am a stick of wax in a paper wrapper, and I come in a box of many colours. What am I?",
+        "a": "A crayon"
+      },
+      {
+        "q": "I am yellow, I swing an arm out at every stop, and all traffic must halt when my red lights flash. What am I?",
+        "a": "A school bus"
       }
     ],
     "400": [
@@ -17403,6 +25351,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "I'm the smallest unit of life, a prisoner's room, and what Americans call their mobile phone. What am I?",
         "a": "A cell"
+      },
+      {
+        "q": "I hang on a cord around a referee's neck, and one sharp breath from me stops the whole game. What am I?",
+        "a": "A whistle"
+      },
+      {
+        "q": "I am a staircase that never stops moving, so standing still on me still gets you there. What am I?",
+        "a": "An escalator"
+      },
+      {
+        "q": "I turn in a circle so people can come and go at once without ever letting the weather in. What am I?",
+        "a": "A revolving door"
+      },
+      {
+        "q": "I rise because what is inside me is warmer than what is outside, and I carry a wicker basket beneath. What am I?",
+        "a": "A hot air balloon"
+      },
+      {
+        "q": "I have no wings at all, yet I can hang motionless in the sky and land where no runway exists. What am I?",
+        "a": "A helicopter"
+      },
+      {
+        "q": "I have huge rear wheels and small front ones, and I drag a plough across the field. What am I?",
+        "a": "A tractor"
+      },
+      {
+        "q": "I throw water into the air only to catch it again, and strangers toss coins into me for luck. What am I?",
+        "a": "A fountain"
+      },
+      {
+        "q": "I have a mantel above me and a grate below, and I warm the room while sending my breath up the flue. What am I?",
+        "a": "A fireplace"
+      },
+      {
+        "q": "I am white, soft and sugary, and I turn golden and gooey on the end of a stick. What am I?",
+        "a": "A marshmallow"
+      },
+      {
+        "q": "I am poured as batter, flipped in a pan, and stacked with syrup on top. What am I?",
+        "a": "A pancake"
+      },
+      {
+        "q": "I am two metal leaves joined by a pin, and without me a door would only be a board. What am I?",
+        "a": "A hinge"
+      },
+      {
+        "q": "I am wide at one end and narrow at the other, and I stop the liquid escaping as it is poured. What am I?",
+        "a": "A funnel"
+      },
+      {
+        "q": "I am a grooved wheel, and a rope across me turns a downward pull into an upward lift. What am I?",
+        "a": "A pulley"
+      },
+      {
+        "q": "I have a bubble trapped in liquid, and builders trust me to say when something is perfectly flat. What am I?",
+        "a": "A spirit level"
+      },
+      {
+        "q": "I grip a nut or a bolt and lend your hand the leverage to turn it. What am I?",
+        "a": "A wrench"
+      },
+      {
+        "q": "I sit on a fingertip so the blunt end of a needle can be pushed without pain. What am I?",
+        "a": "A thimble"
+      },
+      {
+        "q": "I am a tube with a mirror at each end, and I let a hidden watcher see over the top. What am I?",
+        "a": "A periscope"
+      },
+      {
+        "q": "I perch on a rooftop, often shaped like a rooster, and I turn to show where the breeze is coming from. What am I?",
+        "a": "A weather vane"
+      },
+      {
+        "q": "Turn me and the coloured chips inside fall into a brand new symmetrical pattern every time. What am I?",
+        "a": "A kaleidoscope"
+      },
+      {
+        "q": "I swing back and forth, and only my length decides how long each swing takes. What am I?",
+        "a": "A pendulum"
+      },
+      {
+        "q": "I sit on the wall, feel how warm the room is, and tell the heating when to start and stop. What am I?",
+        "a": "A thermostat"
+      },
+      {
+        "q": "I live on the ceiling, I chirp when my power runs low, and burnt toast sets me screaming. What am I?",
+        "a": "A smoke detector"
+      },
+      {
+        "q": "I lock solid when you yank me hard, but let go gently if you pull me slowly. What am I?",
+        "a": "A seatbelt"
+      },
+      {
+        "q": "I am folded away out of sight and I inflate in a fraction of a second when metal meets metal. What am I?",
+        "a": "An airbag"
+      },
+      {
+        "q": "I am a ridge laid across the road that slows you by threatening your suspension. What am I?",
+        "a": "A speed bump"
+      },
+      {
+        "q": "I am a silk case a caterpillar spins around itself, and something with wings breaks out of me. What am I?",
+        "a": "A cocoon"
+      },
+      {
+        "q": "I happen when the moon slides directly between you and the star we orbit, and staring at me can blind you. What am I?",
+        "a": "A solar eclipse"
+      },
+      {
+        "q": "I am a spinning column reaching from cloud to ground, and I can lift a roof clean off a house. What am I?",
+        "a": "A tornado"
+      },
+      {
+        "q": "I am tonnes of loose snow that a single loud shout can send down a mountainside. What am I?",
+        "a": "An avalanche"
+      },
+      {
+        "q": "I look like solid ground until you step on me, and struggling only pulls you deeper. What am I?",
+        "a": "Quicksand"
+      },
+      {
+        "q": "I am a spinning pit of water that drags anything floating toward my centre. What am I?",
+        "a": "A whirlpool"
+      },
+      {
+        "q": "I am barely a ripple in deep ocean but a wall of water at the shore, and an undersea quake usually starts me. What am I?",
+        "a": "A tsunami"
+      },
+      {
+        "q": "I make the invisible visible by looking down through my lenses rather than up. What am I?",
+        "a": "A microscope"
+      },
+      {
+        "q": "I am a wedge of glass that takes one white beam and spreads it into a band of colours. What am I?",
+        "a": "A prism"
+      },
+      {
+        "q": "Thrown correctly, I do the one thing no other thrown object does: I return to the hand that released me. What am I?",
+        "a": "A boomerang"
+      },
+      {
+        "q": "I am a grid of black and white squares, and my clues are numbered across and down. What am I?",
+        "a": "A crossword"
+      },
+      {
+        "q": "I have six coloured faces and fifty-four squares, and twisting me is far easier than fixing me. What am I?",
+        "a": "A Rubik's Cube"
+      },
+      {
+        "q": "I glow in the corner of a diner; feed me a coin and choose the record I will play. What am I?",
+        "a": "A jukebox"
+      },
+      {
+        "q": "I have flippers, bumpers and a spring-loaded plunger, and shoving me too hard ends your turn. What am I?",
+        "a": "A pinball machine"
+      },
+      {
+        "q": "I count upward from zero at the press of a thumb, and coaches at the trackside live by me. What am I?",
+        "a": "A stopwatch"
       }
     ],
     "600": [
@@ -17833,6 +25941,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "I sound exactly like another word but mean something completely different. What am I?",
         "a": "A homophone"
+      },
+      {
+        "q": "Rearrange every one of my letters and you get an entirely different word; that shuffle is all I am. What am I?",
+        "a": "An anagram"
+      },
+      {
+        "q": "I am a pronounceable new word built from the first letters of a longer phrase. What am I?",
+        "a": "An acronym"
+      },
+      {
+        "q": "I set two words side by side that flatly contradict each other, like a deafening hush. What am I?",
+        "a": "An oxymoron"
+      },
+      {
+        "q": "When the jar was opened and every evil flew out into the world, I alone stayed behind. What am I?",
+        "a": "Hope"
+      },
+      {
+        "q": "I hold you to the ground and keep the moon in its orbit, yet I am the feeblest of nature's four forces. What am I?",
+        "a": "Gravity"
+      },
+      {
+        "q": "I steal the speed from a rolling ball and I am also the reason your shoes grip the floor. What am I?",
+        "a": "Friction"
+      },
+      {
+        "q": "I am the measure of disorder, and in a closed system I only ever increase. What am I?",
+        "a": "Entropy"
+      },
+      {
+        "q": "I am why a standing passenger lurches forward the instant the brakes slam on. What am I?",
+        "a": "Inertia"
+      },
+      {
+        "q": "I lift water into the sky without ever boiling it, and I am why a puddle disappears on a warm day. What am I?",
+        "a": "Evaporation"
+      },
+      {
+        "q": "I am the water that appears on the outside of a cold glass, though none of it came from within. What am I?",
+        "a": "Condensation"
+      },
+      {
+        "q": "I carve canyons with nothing but water, wind and patience. What am I?",
+        "a": "Erosion"
+      },
+      {
+        "q": "I turn up once every four years to keep the calendar honest, though some century marks skip me. What am I?",
+        "a": "A leap year"
+      },
+      {
+        "q": "I am the longest circle drawn around the globe, and nothing marks me on the ground below. What am I?",
+        "a": "The equator"
+      },
+      {
+        "q": "I am the light that lingers once the sun has gone but before real darkness arrives. What am I?",
+        "a": "Twilight"
+      },
+      {
+        "q": "Not even light can climb back out of me, and my edge is a boundary of no return. What am I?",
+        "a": "A black hole"
+      },
+      {
+        "q": "I am no star at all, only a speck of dust burning up in the air, yet people make wishes on me. What am I?",
+        "a": "A meteor"
+      },
+      {
+        "q": "I rise from a cave floor drip by drip, reaching upward toward my hanging twin. What am I?",
+        "a": "A stalagmite"
+      },
+      {
+        "q": "I am tree resin hardened over millions of years, and insects sometimes lie perfectly preserved inside me. What am I?",
+        "a": "Amber"
+      },
+      {
+        "q": "I am the gentle phrase people reach for when the honest word feels too blunt. What am I?",
+        "a": "A euphemism"
+      },
+      {
+        "q": "I am a phrase whose meaning has nothing to do with the words in it, such as kicking the bucket. What am I?",
+        "a": "An idiom"
+      },
+      {
+        "q": "I was a fresh and striking phrase once, and endless repetition wore me out. What am I?",
+        "a": "A cliché"
+      },
+      {
+        "q": "I carry the blame for a whole group's failure, and I am named for an animal driven into the wilderness. What am I?",
+        "a": "A scapegoat"
+      },
+      {
+        "q": "Nobody expects me to win, which is exactly why the crowd roars when I do. What am I?",
+        "a": "An underdog"
+      },
+      {
+        "q": "In chess I am the draw that comes when a player has no legal move yet is not in check. What am I?",
+        "a": "A stalemate"
+      },
+      {
+        "q": "I am an opening in which a player deliberately gives up material to gain a better position. What am I?",
+        "a": "A gambit"
+      },
+      {
+        "q": "I am the blank expression worn at the card table so that nothing at all is given away. What am I?",
+        "a": "A poker face"
+      },
+      {
+        "q": "I am handed down through generations, and my worth is counted in memory rather than money. What am I?",
+        "a": "An heirloom"
+      },
+      {
+        "q": "I am a statement that seems to contradict itself and may still turn out to be true. What am I?",
+        "a": "A paradox"
+      },
+      {
+        "q": "I hide my answer in plain sight and then dare you to name me. What am I?",
+        "a": "A riddle"
+      },
+      {
+        "q": "I am your outline filled in solid black, showing your shape but none of your features. What am I?",
+        "a": "A silhouette"
+      },
+      {
+        "q": "I am a picture assembled from broken fragments, and I only make sense from a distance. What am I?",
+        "a": "A mosaic"
+      },
+      {
+        "q": "I am the invented name an author signs so the real one stays hidden. What am I?",
+        "a": "A pseudonym"
+      },
+      {
+        "q": "I exist when one seller is the only seller, and buyers have nowhere else to go. What am I?",
+        "a": "A monopoly"
+      },
+      {
+        "q": "I am the price of borrowing money, and left long enough I begin to grow on myself. What am I?",
+        "a": "Interest"
+      },
+      {
+        "q": "Economists commonly declare me when output shrinks for two quarters in a row. What am I?",
+        "a": "A recession"
+      },
+      {
+        "q": "I burn myself to ash and rise out of it again, over and over, in the old myths. What am I?",
+        "a": "A phoenix"
+      },
+      {
+        "q": "I keep you staring at the ceiling long after the rest of the house has gone quiet. What am I?",
+        "a": "Insomnia"
+      },
+      {
+        "q": "I strike the moment the curtain rises, and I steal lines you knew perfectly an hour earlier. What am I?",
+        "a": "Stage fright"
+      },
+      {
+        "q": "I am the sudden flash of understanding that makes a person leap up and shout aloud. What am I?",
+        "a": "An epiphany"
+      },
+      {
+        "q": "I am the speech of praise delivered about someone who can no longer hear a word of it. What am I?",
+        "a": "A eulogy"
       }
     ]
   },
@@ -18189,6 +26457,210 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the Japanese art of folding paper into shapes?",
         "a": "Origami"
+      },
+      {
+        "q": "Which planet has a giant storm known as the Great Red Spot?",
+        "a": "Jupiter"
+      },
+      {
+        "q": "In which country is the ancient rock-carved city of Petra?",
+        "a": "Jordan"
+      },
+      {
+        "q": "What is the hardest naturally occurring substance on Earth?",
+        "a": "Diamond"
+      },
+      {
+        "q": "Which US state is nicknamed the Sunshine State?",
+        "a": "Florida"
+      },
+      {
+        "q": "The flightless kiwi is native to which country?",
+        "a": "New Zealand"
+      },
+      {
+        "q": "Which herb gives traditional Italian pesto its green colour?",
+        "a": "Basil"
+      },
+      {
+        "q": "Which mountain range forms the border between France and Spain?",
+        "a": "Pyrenees"
+      },
+      {
+        "q": "What is the largest island in the world?",
+        "a": "Greenland"
+      },
+      {
+        "q": "What is the capital city of Canada?",
+        "a": "Ottawa"
+      },
+      {
+        "q": "In which country did the ancient Olympic Games begin?",
+        "a": "Greece"
+      },
+      {
+        "q": "What is the process by which plants make food using sunlight called?",
+        "a": "Photosynthesis"
+      },
+      {
+        "q": "Which country overtook China as the world's most populous in 2023?",
+        "a": "India"
+      },
+      {
+        "q": "Which metal is the best conductor of electricity?",
+        "a": "Silver"
+      },
+      {
+        "q": "What is the currency of Mexico?",
+        "a": "Peso"
+      },
+      {
+        "q": "What is the largest artery in the human body?",
+        "a": "Aorta"
+      },
+      {
+        "q": "Which sport uses the scoring terms 'love' and 'deuce'?",
+        "a": "Tennis"
+      },
+      {
+        "q": "What is the longest defensive fortification ever built?",
+        "a": "Great Wall of China"
+      },
+      {
+        "q": "Which vast desert covers most of northern Africa?",
+        "a": "Sahara"
+      },
+      {
+        "q": "A beluga is what type of animal?",
+        "a": "Whale"
+      },
+      {
+        "q": "What is a dried plum called?",
+        "a": "Prune"
+      },
+      {
+        "q": "Which country's flag features a green cedar tree?",
+        "a": "Lebanon"
+      },
+      {
+        "q": "Which pair of organs filters waste from the blood?",
+        "a": "Kidneys"
+      },
+      {
+        "q": "Which gas makes up most of the Sun?",
+        "a": "Hydrogen"
+      },
+      {
+        "q": "Which fruit is fermented to make traditional cider?",
+        "a": "Apples"
+      },
+      {
+        "q": "Which US state has the largest land area?",
+        "a": "Alaska"
+      },
+      {
+        "q": "Which salt lake bordering Israel and Jordan is the lowest exposed point on land?",
+        "a": "Dead Sea"
+      },
+      {
+        "q": "Which vegetable is grated into Greek tzatziki?",
+        "a": "Cucumber"
+      },
+      {
+        "q": "What is the world's tallest uninterrupted waterfall?",
+        "a": "Angel Falls"
+      },
+      {
+        "q": "What does a philatelist collect?",
+        "a": "Stamps"
+      },
+      {
+        "q": "Which planet takes the longest to orbit the Sun?",
+        "a": "Neptune"
+      },
+      {
+        "q": "What is the largest tropical rainforest in the world?",
+        "a": "Amazon"
+      },
+      {
+        "q": "What is the world's largest coral reef system?",
+        "a": "Great Barrier Reef"
+      },
+      {
+        "q": "Which language is spoken by the most people in South America?",
+        "a": "Spanish"
+      },
+      {
+        "q": "What is the capital city of Turkey?",
+        "a": "Ankara"
+      },
+      {
+        "q": "What is the chemical symbol for gold?",
+        "a": "Au"
+      },
+      {
+        "q": "Which board game features properties called Boardwalk and Park Place?",
+        "a": "Monopoly"
+      },
+      {
+        "q": "How many players does each ice hockey team have on the ice, including the goalie?",
+        "a": "6"
+      },
+      {
+        "q": "How many minutes long is regulation time in a football match?",
+        "a": "90"
+      },
+      {
+        "q": "Which country is traditionally called the Land of the Rising Sun?",
+        "a": "Japan"
+      },
+      {
+        "q": "What is the fastest land animal over a short sprint?",
+        "a": "Cheetah"
+      },
+      {
+        "q": "Which spice is the most expensive in the world by weight?",
+        "a": "Saffron"
+      },
+      {
+        "q": "What is the capital city of Australia?",
+        "a": "Canberra"
+      },
+      {
+        "q": "Which president's face is on the US one dollar bill?",
+        "a": "George Washington"
+      },
+      {
+        "q": "Which root vegetable gives borscht its deep red colour?",
+        "a": "Beetroot"
+      },
+      {
+        "q": "Which nation has won the most Olympic gold medals in history?",
+        "a": "United States"
+      },
+      {
+        "q": "Which narrow waterway separates Spain from Morocco?",
+        "a": "Strait of Gibraltar"
+      },
+      {
+        "q": "Acorns are the seeds of which tree?",
+        "a": "Oak"
+      },
+      {
+        "q": "What was the name of the first artificial satellite launched into orbit?",
+        "a": "Sputnik 1"
+      },
+      {
+        "q": "Which planet has the hottest surface temperature?",
+        "a": "Venus"
+      },
+      {
+        "q": "In which South American country would you find Machu Picchu?",
+        "a": "Peru"
+      },
+      {
+        "q": "In which sport do England and Australia compete for the Ashes?",
+        "a": "Cricket"
       }
     ],
     "400": [
@@ -18519,6 +26991,238 @@ const QUALITY_BACKFILL = {
       {
         "q": "What nut is the main ingredient of marzipan?",
         "a": "Almond"
+      },
+      {
+        "q": "Which country contains more ancient pyramids than any other?",
+        "a": "Sudan"
+      },
+      {
+        "q": "What is the smallest African country by land area?",
+        "a": "Seychelles"
+      },
+      {
+        "q": "In which year did the Berlin Wall come down?",
+        "a": "1989"
+      },
+      {
+        "q": "What is the largest moon in the solar system?",
+        "a": "Ganymede"
+      },
+      {
+        "q": "Which sea is bounded entirely by ocean currents rather than land?",
+        "a": "Sargasso Sea"
+      },
+      {
+        "q": "What is the deepest lake in the world?",
+        "a": "Lake Baikal"
+      },
+      {
+        "q": "The Treaty of Versailles formally ended which conflict?",
+        "a": "World War I"
+      },
+      {
+        "q": "Who wrote the novel 'The Old Man and the Sea'?",
+        "a": "Ernest Hemingway"
+      },
+      {
+        "q": "What is the SI unit of power?",
+        "a": "Watt"
+      },
+      {
+        "q": "What is the chemical formula for common table salt?",
+        "a": "NaCl"
+      },
+      {
+        "q": "Which country was known as Siam until 1939?",
+        "a": "Thailand"
+      },
+      {
+        "q": "Which bird of prey has the largest wingspan?",
+        "a": "Andean condor"
+      },
+      {
+        "q": "In which century did the French Revolution begin?",
+        "a": "18th"
+      },
+      {
+        "q": "A solution with a pH below 7 is described as what?",
+        "a": "Acidic"
+      },
+      {
+        "q": "What is the highest mountain in North America?",
+        "a": "Denali"
+      },
+      {
+        "q": "What is the currency of Sweden?",
+        "a": "Krona"
+      },
+      {
+        "q": "Which capital city is often called the oldest continuously inhabited in the world?",
+        "a": "Damascus"
+      },
+      {
+        "q": "What is the study of fossils called?",
+        "a": "Paleontology"
+      },
+      {
+        "q": "Which protein is the main structural component of hair and nails?",
+        "a": "Keratin"
+      },
+      {
+        "q": "Which strait separates Asia from North America?",
+        "a": "Bering Strait"
+      },
+      {
+        "q": "What is the collective noun for a group of ravens?",
+        "a": "An unkindness"
+      },
+      {
+        "q": "What is it called when a solid turns straight into a gas?",
+        "a": "Sublimation"
+      },
+      {
+        "q": "Which country has the longest coastline in the world?",
+        "a": "Canada"
+      },
+      {
+        "q": "What is the largest species of deer?",
+        "a": "Moose"
+      },
+      {
+        "q": "In which country is the temple complex of Angkor Wat?",
+        "a": "Cambodia"
+      },
+      {
+        "q": "What is the capital city of Morocco?",
+        "a": "Rabat"
+      },
+      {
+        "q": "What is the collecting and study of coins called?",
+        "a": "Numismatics"
+      },
+      {
+        "q": "Which country grows the most rice?",
+        "a": "China"
+      },
+      {
+        "q": "What is the chemical symbol for zinc?",
+        "a": "Zn"
+      },
+      {
+        "q": "Who was the first European to reach India by sailing around Africa?",
+        "a": "Vasco da Gama"
+      },
+      {
+        "q": "Which is the largest island country in the world by area?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "How many lines make up a standard musical staff?",
+        "a": "5"
+      },
+      {
+        "q": "What is the capital city of Kenya?",
+        "a": "Nairobi"
+      },
+      {
+        "q": "Who painted 'The Starry Night'?",
+        "a": "Vincent van Gogh"
+      },
+      {
+        "q": "What is the largest species of bear?",
+        "a": "Polar bear"
+      },
+      {
+        "q": "Which country became the first to grant women the national vote, in 1893?",
+        "a": "New Zealand"
+      },
+      {
+        "q": "What is the SI unit of frequency?",
+        "a": "Hertz"
+      },
+      {
+        "q": "What is the tallest volcano in the solar system?",
+        "a": "Olympus Mons"
+      },
+      {
+        "q": "What was the name of the first cloned mammal?",
+        "a": "Dolly the sheep"
+      },
+      {
+        "q": "In which year did the Chernobyl nuclear disaster happen?",
+        "a": "1986"
+      },
+      {
+        "q": "Which 1992 treaty formally created the European Union?",
+        "a": "Maastricht Treaty"
+      },
+      {
+        "q": "What type of rock forms when magma cools and solidifies?",
+        "a": "Igneous"
+      },
+      {
+        "q": "Which African nation famously resisted European colonisation?",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "What is the largest gulf in the world?",
+        "a": "Gulf of Mexico"
+      },
+      {
+        "q": "Who received the 1876 patent for the telephone?",
+        "a": "Alexander Graham Bell"
+      },
+      {
+        "q": "How many squares run along one side of a standard Sudoku grid?",
+        "a": "9"
+      },
+      {
+        "q": "Which US city is nicknamed the Windy City?",
+        "a": "Chicago"
+      },
+      {
+        "q": "What is the longest river in Europe?",
+        "a": "Volga"
+      },
+      {
+        "q": "Which grain is fermented to produce Japanese sake?",
+        "a": "Rice"
+      },
+      {
+        "q": "What is the medical term for persistently high blood pressure?",
+        "a": "Hypertension"
+      },
+      {
+        "q": "What is the line of zero degrees longitude called?",
+        "a": "Prime Meridian"
+      },
+      {
+        "q": "Which country has the most UNESCO World Heritage Sites?",
+        "a": "Italy"
+      },
+      {
+        "q": "What is the largest lake in Africa by surface area?",
+        "a": "Lake Victoria"
+      },
+      {
+        "q": "Which Homeric epic tells of the siege of Troy?",
+        "a": "The Iliad"
+      },
+      {
+        "q": "Which star appears brightest in Earth's night sky?",
+        "a": "Sirius"
+      },
+      {
+        "q": "What is the highest peak in the Alps?",
+        "a": "Mont Blanc"
+      },
+      {
+        "q": "Which of the Seven Wonders was a giant bronze statue of the sun god Helios?",
+        "a": "Colossus of Rhodes"
+      },
+      {
+        "q": "What name is given to the ancient trade network linking China with the Mediterranean?",
+        "a": "Silk Road"
       }
     ],
     "600": [
@@ -18829,6 +27533,222 @@ const QUALITY_BACKFILL = {
       {
         "q": "What Italian sparkling wine is made mainly from the Glera grape?",
         "a": "Prosecco"
+      },
+      {
+        "q": "What is a group of geese flying in formation called?",
+        "a": "A skein"
+      },
+      {
+        "q": "What is the SI unit of electrical resistance?",
+        "a": "Ohm"
+      },
+      {
+        "q": "What is the smallest Asian country by land area?",
+        "a": "Maldives"
+      },
+      {
+        "q": "What is the capital city of Bhutan?",
+        "a": "Thimphu"
+      },
+      {
+        "q": "Who served as the first Secretary-General of the United Nations?",
+        "a": "Trygve Lie"
+      },
+      {
+        "q": "In which year was the Magna Carta sealed?",
+        "a": "1215"
+      },
+      {
+        "q": "Which is generally considered the oldest university still operating today?",
+        "a": "University of Bologna"
+      },
+      {
+        "q": "What is the SI unit of inductance?",
+        "a": "Henry"
+      },
+      {
+        "q": "What is the currency of Ethiopia?",
+        "a": "Birr"
+      },
+      {
+        "q": "Which layer of Earth's atmosphere sits directly above the stratosphere?",
+        "a": "Mesosphere"
+      },
+      {
+        "q": "Who is generally regarded as the last pharaoh of ancient Egypt?",
+        "a": "Cleopatra"
+      },
+      {
+        "q": "Which US state is the only one whose name begins with two vowels?",
+        "a": "Iowa"
+      },
+      {
+        "q": "In Greek myth, who was condemned to push a boulder uphill for eternity?",
+        "a": "Sisyphus"
+      },
+      {
+        "q": "What is the SI base unit for amount of substance?",
+        "a": "Mole"
+      },
+      {
+        "q": "What is a 15-sided polygon called?",
+        "a": "Pentadecagon"
+      },
+      {
+        "q": "In which year was the Soviet Union formally dissolved?",
+        "a": "1991"
+      },
+      {
+        "q": "What is the largest moon of Neptune?",
+        "a": "Triton"
+      },
+      {
+        "q": "What is the anatomical name for the kneecap?",
+        "a": "Patella"
+      },
+      {
+        "q": "Who wrote 'One Hundred Years of Solitude'?",
+        "a": "Gabriel García Márquez"
+      },
+      {
+        "q": "What is the smallest prime number greater than 100?",
+        "a": "101"
+      },
+      {
+        "q": "What is the second-highest mountain on Earth?",
+        "a": "K2"
+      },
+      {
+        "q": "What is the collective noun for a group of hippopotamuses?",
+        "a": "A bloat"
+      },
+      {
+        "q": "What is the SI unit of magnetic flux density?",
+        "a": "Tesla"
+      },
+      {
+        "q": "What is the process by which plants lose water vapour through their leaves?",
+        "a": "Transpiration"
+      },
+      {
+        "q": "What is the scientific study of the Moon called?",
+        "a": "Selenology"
+      },
+      {
+        "q": "In which year were the first modern Olympic Games held?",
+        "a": "1896"
+      },
+      {
+        "q": "What is the largest carnivorous marsupial alive today?",
+        "a": "Tasmanian devil"
+      },
+      {
+        "q": "In British musical notation, which note lasts half as long as a minim?",
+        "a": "Crotchet"
+      },
+      {
+        "q": "What is the name of the visible surface layer of the Sun?",
+        "a": "Photosphere"
+      },
+      {
+        "q": "Which plant genus produces the largest single flower in the world?",
+        "a": "Rafflesia"
+      },
+      {
+        "q": "Who was the Roman goddess of the hunt?",
+        "a": "Diana"
+      },
+      {
+        "q": "What is the point in an orbit closest to the Sun called?",
+        "a": "Perihelion"
+      },
+      {
+        "q": "In heraldry, what term is used for the colour red?",
+        "a": "Gules"
+      },
+      {
+        "q": "What is the world's largest permanent lake in a desert?",
+        "a": "Lake Turkana"
+      },
+      {
+        "q": "In which year did the first iPhone go on sale?",
+        "a": "2007"
+      },
+      {
+        "q": "Which Italian city holds the Palio horse race in its main square?",
+        "a": "Siena"
+      },
+      {
+        "q": "What is the anatomical name for the shoulder blade?",
+        "a": "Scapula"
+      },
+      {
+        "q": "Which element takes its name from the Greek word for 'lazy'?",
+        "a": "Argon"
+      },
+      {
+        "q": "What is the microscopic study of tissues called?",
+        "a": "Histology"
+      },
+      {
+        "q": "Which country produces most of the world's vanilla?",
+        "a": "Madagascar"
+      },
+      {
+        "q": "What is the longest mountain range on land?",
+        "a": "Andes"
+      },
+      {
+        "q": "What is a musical composition written for nine performers called?",
+        "a": "Nonet"
+      },
+      {
+        "q": "Which tree species grows taller than any other?",
+        "a": "Coast redwood"
+      },
+      {
+        "q": "Which fish is considered the most venomous in the world?",
+        "a": "Stonefish"
+      },
+      {
+        "q": "In poetry, what is a stanza of eight lines called?",
+        "a": "Octave"
+      },
+      {
+        "q": "What is the currency of Peru?",
+        "a": "Sol"
+      },
+      {
+        "q": "What is the study of the causes of disease called?",
+        "a": "Etiology"
+      },
+      {
+        "q": "Which Babylonian king had his law code carved onto a basalt stele?",
+        "a": "Hammurabi"
+      },
+      {
+        "q": "Which is the driest non-polar desert on Earth?",
+        "a": "Atacama"
+      },
+      {
+        "q": "In which year did the western Roman Empire fall?",
+        "a": "476"
+      },
+      {
+        "q": "Which is the world's northernmost capital city?",
+        "a": "Reykjavik"
+      },
+      {
+        "q": "Which branch of medicine focuses on the health of older people?",
+        "a": "Geriatrics"
+      },
+      {
+        "q": "What is the largest species of turtle?",
+        "a": "Leatherback"
+      },
+      {
+        "q": "What is the world's largest active volcano by volume?",
+        "a": "Mauna Loa"
       }
     ]
   },
@@ -19089,6 +28009,178 @@ const QUALITY_BACKFILL = {
       {
         "q": "In which ocean does Madagascar lie?",
         "a": "Indian Ocean"
+      },
+      {
+        "q": "Which country's flag features a single red maple leaf?",
+        "a": "Canada"
+      },
+      {
+        "q": "Which US state is Las Vegas in?",
+        "a": "Nevada"
+      },
+      {
+        "q": "Which US state is Seattle in?",
+        "a": "Washington"
+      },
+      {
+        "q": "Which country is Mount Kilimanjaro in?",
+        "a": "Tanzania"
+      },
+      {
+        "q": "Which country has the world's largest population today?",
+        "a": "India"
+      },
+      {
+        "q": "Which US state is nicknamed the Golden State?",
+        "a": "California"
+      },
+      {
+        "q": "What is the capital of Greece?",
+        "a": "Athens"
+      },
+      {
+        "q": "Oktoberfest is held every year in which German city?",
+        "a": "Munich"
+      },
+      {
+        "q": "Which Italian city is famous for its leaning tower?",
+        "a": "Pisa"
+      },
+      {
+        "q": "Which country uses the yen as its currency?",
+        "a": "Japan"
+      },
+      {
+        "q": "The Great Barrier Reef lies off the coast of which country?",
+        "a": "Australia"
+      },
+      {
+        "q": "Which US state is New Orleans in?",
+        "a": "Louisiana"
+      },
+      {
+        "q": "In which country would you find the Louvre museum?",
+        "a": "France"
+      },
+      {
+        "q": "What is the largest ocean on Earth?",
+        "a": "Pacific Ocean"
+      },
+      {
+        "q": "In which country does Stonehenge stand?",
+        "a": "England"
+      },
+      {
+        "q": "Which US state is Nashville in?",
+        "a": "Tennessee"
+      },
+      {
+        "q": "Which US city is the Golden Gate Bridge in?",
+        "a": "San Francisco"
+      },
+      {
+        "q": "The Amazon rainforest lies mostly within which country?",
+        "a": "Brazil"
+      },
+      {
+        "q": "What is the capital of Hawaii?",
+        "a": "Honolulu"
+      },
+      {
+        "q": "Which US state is Boston in?",
+        "a": "Massachusetts"
+      },
+      {
+        "q": "Which US state is Detroit in?",
+        "a": "Michigan"
+      },
+      {
+        "q": "Which US state is Philadelphia in?",
+        "a": "Pennsylvania"
+      },
+      {
+        "q": "Austin is the capital of which US state?",
+        "a": "Texas"
+      },
+      {
+        "q": "Which US state is Salt Lake City in?",
+        "a": "Utah"
+      },
+      {
+        "q": "Which is the smallest country in the world by area?",
+        "a": "Vatican City"
+      },
+      {
+        "q": "Which continent has no permanent human residents?",
+        "a": "Antarctica"
+      },
+      {
+        "q": "Which country is the resort island of Phuket part of?",
+        "a": "Thailand"
+      },
+      {
+        "q": "What is the currency of the United Kingdom?",
+        "a": "Pound sterling"
+      },
+      {
+        "q": "What is the currency of India?",
+        "a": "Rupee"
+      },
+      {
+        "q": "The world's tallest building stands in which city?",
+        "a": "Dubai"
+      },
+      {
+        "q": "Which country is the city of Auckland in?",
+        "a": "New Zealand"
+      },
+      {
+        "q": "Which US state is cut off from the rest of the country by Canada?",
+        "a": "Alaska"
+      },
+      {
+        "q": "What is the capital of Jamaica?",
+        "a": "Kingston"
+      },
+      {
+        "q": "Which US state is Denver in?",
+        "a": "Colorado"
+      },
+      {
+        "q": "Which US state is Atlanta in?",
+        "a": "Georgia"
+      },
+      {
+        "q": "Which country is the city of Cape Town in?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Which US state is Chicago in?",
+        "a": "Illinois"
+      },
+      {
+        "q": "Which country is the city of Porto in?",
+        "a": "Portugal"
+      },
+      {
+        "q": "Which national park is home to the Old Faithful geyser?",
+        "a": "Yellowstone"
+      },
+      {
+        "q": "Which country is the city of Saint Petersburg in?",
+        "a": "Russia"
+      },
+      {
+        "q": "Which US state is Phoenix in?",
+        "a": "Arizona"
+      },
+      {
+        "q": "Which US state is Baltimore in?",
+        "a": "Maryland"
+      },
+      {
+        "q": "Cape Canaveral is in which US state?",
+        "a": "Florida"
       }
     ],
     "400": [
@@ -19355,6 +28447,230 @@ const QUALITY_BACKFILL = {
       {
         "q": "Into which sea does the Danube empty?",
         "a": "Black Sea"
+      },
+      {
+        "q": "Which country is the island of Corsica part of?",
+        "a": "France"
+      },
+      {
+        "q": "Which US state is Mount Rushmore in?",
+        "a": "South Dakota"
+      },
+      {
+        "q": "Yellowstone National Park lies mostly in which US state?",
+        "a": "Wyoming"
+      },
+      {
+        "q": "Which mountain range forms the land border between France and Spain?",
+        "a": "Pyrenees"
+      },
+      {
+        "q": "Which region of Romania is tied to the Dracula legend?",
+        "a": "Transylvania"
+      },
+      {
+        "q": "Which country is the city of Lagos in?",
+        "a": "Nigeria"
+      },
+      {
+        "q": "Which southwestern US desert is known for its Joshua trees?",
+        "a": "Mojave Desert"
+      },
+      {
+        "q": "Which sea lies between Sweden and Finland?",
+        "a": "Baltic Sea"
+      },
+      {
+        "q": "Which of the Great Lakes lies entirely within the United States?",
+        "a": "Lake Michigan"
+      },
+      {
+        "q": "Which sea separates Australia from New Zealand?",
+        "a": "Tasman Sea"
+      },
+      {
+        "q": "Which country does the Yucatan Peninsula belong to?",
+        "a": "Mexico"
+      },
+      {
+        "q": "Which country is the Black Forest in?",
+        "a": "Germany"
+      },
+      {
+        "q": "Which country is the city of Karachi in?",
+        "a": "Pakistan"
+      },
+      {
+        "q": "Which country is the canal city of Bruges in?",
+        "a": "Belgium"
+      },
+      {
+        "q": "What is the largest island of Japan?",
+        "a": "Honshu"
+      },
+      {
+        "q": "Victoria Falls sits on the border of Zambia and which country?",
+        "a": "Zimbabwe"
+      },
+      {
+        "q": "The Atlas Mountains lie mainly in which country?",
+        "a": "Morocco"
+      },
+      {
+        "q": "Which US state has the largest population?",
+        "a": "California"
+      },
+      {
+        "q": "Which river flows past both Memphis and St. Louis?",
+        "a": "Mississippi"
+      },
+      {
+        "q": "Lake Titicaca is shared by Peru and which other country?",
+        "a": "Bolivia"
+      },
+      {
+        "q": "What is the currency of Poland?",
+        "a": "Zloty"
+      },
+      {
+        "q": "What is the currency of Sweden?",
+        "a": "Krona"
+      },
+      {
+        "q": "What is the currency of Turkey?",
+        "a": "Lira"
+      },
+      {
+        "q": "Which country uses the shekel as its currency?",
+        "a": "Israel"
+      },
+      {
+        "q": "Which peninsula do Spain and Portugal occupy?",
+        "a": "Iberian Peninsula"
+      },
+      {
+        "q": "Which Baltic country lies between Poland and Latvia?",
+        "a": "Lithuania"
+      },
+      {
+        "q": "Which country completely surrounds the microstate of San Marino?",
+        "a": "Italy"
+      },
+      {
+        "q": "Borneo is divided between Malaysia, Brunei and which country?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Tierra del Fuego is split between Chile and which country?",
+        "a": "Argentina"
+      },
+      {
+        "q": "Which country contains the ruins of Persepolis?",
+        "a": "Iran"
+      },
+      {
+        "q": "Which country is Mount Ararat in?",
+        "a": "Turkey"
+      },
+      {
+        "q": "Which country is the Silk Road city of Samarkand in?",
+        "a": "Uzbekistan"
+      },
+      {
+        "q": "Which country is the Terracotta Army buried in?",
+        "a": "China"
+      },
+      {
+        "q": "Lake Tana, source of the Blue Nile, lies in which country?",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "Which country is the city of Almaty in?",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Which Indonesian island holds most of the country's population?",
+        "a": "Java"
+      },
+      {
+        "q": "Greenland is an autonomous territory of which kingdom?",
+        "a": "Denmark"
+      },
+      {
+        "q": "What is the capital of Costa Rica?",
+        "a": "San Jose"
+      },
+      {
+        "q": "What is the capital of Libya?",
+        "a": "Tripoli"
+      },
+      {
+        "q": "What is the capital of Syria?",
+        "a": "Damascus"
+      },
+      {
+        "q": "What is the capital of Afghanistan?",
+        "a": "Kabul"
+      },
+      {
+        "q": "What is the largest city in Vietnam?",
+        "a": "Ho Chi Minh City"
+      },
+      {
+        "q": "The Kamchatka Peninsula belongs to which country?",
+        "a": "Russia"
+      },
+      {
+        "q": "Which country is Loch Ness in?",
+        "a": "Scotland"
+      },
+      {
+        "q": "Which US city is nicknamed the Big Easy?",
+        "a": "New Orleans"
+      },
+      {
+        "q": "Which US city is nicknamed the Motor City?",
+        "a": "Detroit"
+      },
+      {
+        "q": "Which European city is called the Eternal City?",
+        "a": "Rome"
+      },
+      {
+        "q": "What is the capital of the Bahamas?",
+        "a": "Nassau"
+      },
+      {
+        "q": "Which Canadian province is Calgary in?",
+        "a": "Alberta"
+      },
+      {
+        "q": "Which river flows through Cologne before reaching Rotterdam?",
+        "a": "Rhine"
+      },
+      {
+        "q": "Which country was formerly known as Siam?",
+        "a": "Thailand"
+      },
+      {
+        "q": "Which country was formerly known as Burma?",
+        "a": "Myanmar"
+      },
+      {
+        "q": "Which sea lies between Vietnam and the Philippines?",
+        "a": "South China Sea"
+      },
+      {
+        "q": "What is the largest island in the Caribbean?",
+        "a": "Cuba"
+      },
+      {
+        "q": "The Canary Islands are governed by which country?",
+        "a": "Spain"
+      },
+      {
+        "q": "The Falkland Islands are an overseas territory of which country?",
+        "a": "United Kingdom"
       }
     ],
     "600": [
@@ -19677,6 +28993,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which is the only US state that borders exactly one other state?",
         "a": "Maine"
+      },
+      {
+        "q": "What is the highest mountain in the contiguous United States?",
+        "a": "Mount Whitney"
+      },
+      {
+        "q": "Which sea has no land coastline at all?",
+        "a": "Sargasso Sea"
+      },
+      {
+        "q": "What is the capital of Cape Verde?",
+        "a": "Praia"
+      },
+      {
+        "q": "What is the capital of Yemen?",
+        "a": "Sanaa"
+      },
+      {
+        "q": "What is the capital of Bahrain?",
+        "a": "Manama"
+      },
+      {
+        "q": "The Skeleton Coast runs along which country?",
+        "a": "Namibia"
+      },
+      {
+        "q": "What is the administrative capital of Eswatini?",
+        "a": "Mbabane"
+      },
+      {
+        "q": "What is the capital of Bosnia and Herzegovina?",
+        "a": "Sarajevo"
+      },
+      {
+        "q": "What is the capital of Kosovo?",
+        "a": "Pristina"
+      },
+      {
+        "q": "What is the capital of Vanuatu?",
+        "a": "Port Vila"
+      },
+      {
+        "q": "What is the capital of Samoa?",
+        "a": "Apia"
+      },
+      {
+        "q": "What is the capital of Tonga?",
+        "a": "Nuku'alofa"
+      },
+      {
+        "q": "What is the capital of Mauritius?",
+        "a": "Port Louis"
+      },
+      {
+        "q": "What is the official capital of Ivory Coast?",
+        "a": "Yamoussoukro"
+      },
+      {
+        "q": "What is the capital of Togo?",
+        "a": "Lome"
+      },
+      {
+        "q": "What is the capital of Mauritania?",
+        "a": "Nouakchott"
+      },
+      {
+        "q": "What is the capital of the Democratic Republic of the Congo?",
+        "a": "Kinshasa"
+      },
+      {
+        "q": "What is the capital of Equatorial Guinea?",
+        "a": "Malabo"
+      },
+      {
+        "q": "What is the capital of Trinidad and Tobago?",
+        "a": "Port of Spain"
+      },
+      {
+        "q": "What is the capital of Barbados?",
+        "a": "Bridgetown"
+      },
+      {
+        "q": "What is the capital of Belize?",
+        "a": "Belmopan"
+      },
+      {
+        "q": "What is the largest Australian state by area?",
+        "a": "Western Australia"
+      },
+      {
+        "q": "Bora Bora is part of which overseas French territory?",
+        "a": "French Polynesia"
+      },
+      {
+        "q": "Which warm ocean current keeps Western Europe mild?",
+        "a": "Gulf Stream"
+      },
+      {
+        "q": "What is the name of the deepest known point in the ocean?",
+        "a": "Challenger Deep"
+      },
+      {
+        "q": "Which US state has the smallest population?",
+        "a": "Wyoming"
+      },
+      {
+        "q": "What is the largest lake lying entirely inside Canada?",
+        "a": "Great Bear Lake"
+      },
+      {
+        "q": "Which river flows through Hamburg?",
+        "a": "Elbe"
+      },
+      {
+        "q": "Which river flows through Frankfurt?",
+        "a": "Main"
+      },
+      {
+        "q": "Which river flows through Seville?",
+        "a": "Guadalquivir"
+      },
+      {
+        "q": "Which river flows through Glasgow?",
+        "a": "Clyde"
+      },
+      {
+        "q": "Which river flows through Florence?",
+        "a": "Arno"
+      },
+      {
+        "q": "What is the highest peak in Australia?",
+        "a": "Mount Kosciuszko"
+      },
+      {
+        "q": "What is the highest mountain in Antarctica?",
+        "a": "Vinson Massif"
+      },
+      {
+        "q": "What is the highest volcano on Earth?",
+        "a": "Ojos del Salado"
+      },
+      {
+        "q": "What is the largest lake in the world by surface area?",
+        "a": "Caspian Sea"
+      },
+      {
+        "q": "Which country was formerly called Upper Volta?",
+        "a": "Burkina Faso"
+      },
+      {
+        "q": "Which country was formerly known as Rhodesia?",
+        "a": "Zimbabwe"
+      },
+      {
+        "q": "Which strait separates Australia from Papua New Guinea?",
+        "a": "Torres Strait"
+      },
+      {
+        "q": "Which strait separates Tasmania from the Australian mainland?",
+        "a": "Bass Strait"
+      },
+      {
+        "q": "Which peninsula makes up mainland Denmark?",
+        "a": "Jutland"
+      },
+      {
+        "q": "What is the largest sand island in the world?",
+        "a": "Fraser Island"
+      },
+      {
+        "q": "Which is the largest country lying entirely within Europe?",
+        "a": "Ukraine"
+      },
+      {
+        "q": "Which is the only country named after a woman?",
+        "a": "Saint Lucia"
+      },
+      {
+        "q": "Whitehorse is the capital of which Canadian territory?",
+        "a": "Yukon"
+      },
+      {
+        "q": "What is the most populous state capital in the United States?",
+        "a": "Phoenix"
+      },
+      {
+        "q": "The Okavango Delta lies in which country?",
+        "a": "Botswana"
       }
     ]
   },
@@ -19949,6 +29453,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the process by which a caterpillar transforms into a butterfly called?",
         "a": "Metamorphosis"
+      },
+      {
+        "q": "What is a recognisable pattern of stars in the night sky called?",
+        "a": "Constellation"
+      },
+      {
+        "q": "What upward force from a fluid keeps a boat afloat?",
+        "a": "Buoyancy"
+      },
+      {
+        "q": "Which animal class includes spiders, scorpions and ticks?",
+        "a": "Arachnids"
+      },
+      {
+        "q": "How many legs does an adult insect have?",
+        "a": "6"
+      },
+      {
+        "q": "What is the largest animal alive on Earth today?",
+        "a": "Blue whale"
+      },
+      {
+        "q": "What device turns sunlight directly into electricity on a rooftop?",
+        "a": "Solar panel"
+      },
+      {
+        "q": "What word describes animals that are active mainly at night?",
+        "a": "Nocturnal"
+      },
+      {
+        "q": "Which layer of the Earth lies directly beneath the crust?",
+        "a": "Mantle"
+      },
+      {
+        "q": "What form of energy is stored in food and fuel?",
+        "a": "Chemical energy"
+      },
+      {
+        "q": "Which blood type is known as the universal donor?",
+        "a": "O negative"
+      },
+      {
+        "q": "How many teeth does a typical adult human have?",
+        "a": "32"
+      },
+      {
+        "q": "What is the medical term for persistently high blood pressure?",
+        "a": "Hypertension"
+      },
+      {
+        "q": "Which organ of the body produces insulin?",
+        "a": "Pancreas"
+      },
+      {
+        "q": "What is the longest bone in the human body?",
+        "a": "Femur"
+      },
+      {
+        "q": "What do we call two or more atoms chemically bonded together?",
+        "a": "Molecule"
+      },
+      {
+        "q": "Which tube carries swallowed food down to the stomach?",
+        "a": "Esophagus"
+      },
+      {
+        "q": "What is it called when an animal's markings help it blend into its surroundings?",
+        "a": "Camouflage"
+      },
+      {
+        "q": "What is the term for the amount of space an object takes up?",
+        "a": "Volume"
+      },
+      {
+        "q": "Which body system is made up of the bones?",
+        "a": "Skeletal system"
+      },
+      {
+        "q": "Which nearby body is the main cause of ocean tides?",
+        "a": "The Moon"
+      },
+      {
+        "q": "What is the scientific study of animals called?",
+        "a": "Zoology"
+      },
+      {
+        "q": "Which planet hosts the Great Red Spot?",
+        "a": "Jupiter"
+      },
+      {
+        "q": "Which NASA space telescope was carried into orbit by the shuttle Discovery in 1990?",
+        "a": "Hubble Space Telescope"
+      },
+      {
+        "q": "Which unit of energy is listed on food nutrition labels?",
+        "a": "Calorie"
+      },
+      {
+        "q": "Which acid gives lemons and limes their sour taste?",
+        "a": "Citric acid"
+      },
+      {
+        "q": "Which hormone surges through the body during a fight-or-flight response?",
+        "a": "Adrenaline"
+      },
+      {
+        "q": "What is the largest land animal on Earth?",
+        "a": "African elephant"
+      },
+      {
+        "q": "Which living bird lays the largest egg?",
+        "a": "Ostrich"
+      },
+      {
+        "q": "What group of mammals carries its young in a pouch?",
+        "a": "Marsupials"
+      },
+      {
+        "q": "What is the seasonal long-distance travel of animals called?",
+        "a": "Migration"
+      },
+      {
+        "q": "What is the deepest known point in Earth's oceans?",
+        "a": "Mariana Trench"
+      },
+      {
+        "q": "What is the world's largest coral reef system?",
+        "a": "Great Barrier Reef"
+      },
+      {
+        "q": "How many bones are in the adult human body?",
+        "a": "206"
+      },
+      {
+        "q": "What is the distance between two neighbouring wave crests called?",
+        "a": "Wavelength"
+      },
+      {
+        "q": "What happens to light when it bounces off a mirror?",
+        "a": "Reflection"
+      },
+      {
+        "q": "What triangular piece of glass spreads white light into a band of colours?",
+        "a": "Prism"
+      },
+      {
+        "q": "What is the hard outer casing of an insect's body called?",
+        "a": "Exoskeleton"
+      },
+      {
+        "q": "What is the term for an animal at the very top of its food chain?",
+        "a": "Apex predator"
+      },
+      {
+        "q": "What is the anatomical name for the collarbone?",
+        "a": "Clavicle"
+      },
+      {
+        "q": "What is the name for all the chemical reactions that keep the body running?",
+        "a": "Metabolism"
+      },
+      {
+        "q": "What kind of medicine is prescribed to kill bacteria in the body?",
+        "a": "Antibiotic"
+      },
+      {
+        "q": "What is the wearing away of rock and soil by wind and water called?",
+        "a": "Erosion"
+      },
+      {
+        "q": "What is the general term for rain, snow, sleet and hail?",
+        "a": "Precipitation"
+      },
+      {
+        "q": "Which metal is a liquid at ordinary room temperature?",
+        "a": "Mercury"
+      },
+      {
+        "q": "What is the process of a gas turning into a liquid called?",
+        "a": "Condensation"
+      },
+      {
+        "q": "What substance do honeybees build their honeycomb from?",
+        "a": "Wax"
+      },
+      {
+        "q": "Which tough tissue attaches a muscle to a bone?",
+        "a": "Tendon"
+      },
+      {
+        "q": "Which shaggy ice-age relative of the elephant had long curved tusks?",
+        "a": "Woolly mammoth"
       }
     ],
     "400": [
@@ -20239,6 +29935,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the largest part of the human brain called?",
         "a": "Cerebrum"
+      },
+      {
+        "q": "Which protein forms hair, fingernails and bird feathers?",
+        "a": "Keratin"
+      },
+      {
+        "q": "What is a scientist who studies earthquakes called?",
+        "a": "Seismologist"
+      },
+      {
+        "q": "Which egg-laying Australian mammal has a venomous spur on its hind leg?",
+        "a": "Platypus"
+      },
+      {
+        "q": "Which tree species grows taller than any other on Earth?",
+        "a": "Coast redwood"
+      },
+      {
+        "q": "What is the substance that gets dissolved in a solvent called?",
+        "a": "Solute"
+      },
+      {
+        "q": "Which planet takes about 88 Earth days to circle the Sun?",
+        "a": "Mercury"
+      },
+      {
+        "q": "What is the smallest bone in the human body?",
+        "a": "Stapes"
+      },
+      {
+        "q": "Which organ stores bile before it is released into the intestine?",
+        "a": "Gallbladder"
+      },
+      {
+        "q": "What is the anatomical name for the voice box?",
+        "a": "Larynx"
+      },
+      {
+        "q": "What shape did Kepler show planetary orbits to be?",
+        "a": "Ellipse"
+      },
+      {
+        "q": "What was the first artificial satellite placed into orbit?",
+        "a": "Sputnik 1"
+      },
+      {
+        "q": "Which NASA rover touched down in Jezero Crater in 2021?",
+        "a": "Perseverance"
+      },
+      {
+        "q": "Which infrared space telescope was launched on Christmas Day 2021?",
+        "a": "James Webb"
+      },
+      {
+        "q": "What property describes a fluid's resistance to flowing?",
+        "a": "Viscosity"
+      },
+      {
+        "q": "Which soft form of carbon is used in pencil cores?",
+        "a": "Graphite"
+      },
+      {
+        "q": "What is the medical term for a heart attack?",
+        "a": "Myocardial infarction"
+      },
+      {
+        "q": "What are the smallest blood vessels in the body called?",
+        "a": "Capillaries"
+      },
+      {
+        "q": "What word describes a chemical reaction that gives out heat?",
+        "a": "Exothermic"
+      },
+      {
+        "q": "What is the chemical symbol for potassium?",
+        "a": "K"
+      },
+      {
+        "q": "Who pioneered vaccination in 1796 using material from cowpox sores?",
+        "a": "Edward Jenner"
+      },
+      {
+        "q": "What is the mature female reproductive cell in humans called?",
+        "a": "Ovum"
+      },
+      {
+        "q": "Which type of cell division produces sperm and egg cells?",
+        "a": "Meiosis"
+      },
+      {
+        "q": "What is the largest artery in the human body?",
+        "a": "Aorta"
+      },
+      {
+        "q": "What are the tiny air sacs in the lungs called?",
+        "a": "Alveoli"
+      },
+      {
+        "q": "Which sheet of muscle beneath the lungs drives breathing?",
+        "a": "Diaphragm"
+      },
+      {
+        "q": "What is the pale straw-coloured liquid part of blood called?",
+        "a": "Plasma"
+      },
+      {
+        "q": "Which gland in the neck sets the body's metabolic rate?",
+        "a": "Thyroid"
+      },
+      {
+        "q": "Which sea creature has three hearts and blue blood?",
+        "a": "Octopus"
+      },
+      {
+        "q": "Which bird reaches the highest speed of any animal when it dives?",
+        "a": "Peregrine falcon"
+      },
+      {
+        "q": "Which era of geological time is called the age of the dinosaurs?",
+        "a": "Mesozoic"
+      },
+      {
+        "q": "In which geological period did Tyrannosaurus rex live?",
+        "a": "Cretaceous"
+      },
+      {
+        "q": "About how many million years ago did the non-avian dinosaurs die out?",
+        "a": "66"
+      },
+      {
+        "q": "What are the tiny pores on the underside of a leaf called?",
+        "a": "Stomata"
+      },
+      {
+        "q": "Which law states that current through a conductor is proportional to the voltage across it?",
+        "a": "Ohm's law"
+      },
+      {
+        "q": "Which principle states the upthrust on an immersed object equals the weight of fluid displaced?",
+        "a": "Archimedes' principle"
+      },
+      {
+        "q": "What process uses an electric current to break a compound into its elements?",
+        "a": "Electrolysis"
+      },
+      {
+        "q": "What kind of chemical bond forms when two atoms share electrons?",
+        "a": "Covalent bond"
+      },
+      {
+        "q": "Which natural polymer forms the walls of plant cells?",
+        "a": "Cellulose"
+      },
+      {
+        "q": "What are protein molecules that speed up reactions in living things called?",
+        "a": "Enzymes"
+      },
+      {
+        "q": "What is the jelly-like fluid that fills a cell called?",
+        "a": "Cytoplasm"
+      },
+      {
+        "q": "What is the tiny gap that a nerve signal crosses between two nerve cells called?",
+        "a": "Synapse"
+      },
+      {
+        "q": "Which long fibre carries impulses away from a nerve cell's body?",
+        "a": "Axon"
+      },
+      {
+        "q": "Which physicist directed the Los Alamos laboratory during the Manhattan Project?",
+        "a": "J. Robert Oppenheimer"
+      },
+      {
+        "q": "Which astronomer showed in 1929 that more distant galaxies recede faster?",
+        "a": "Edwin Hubble"
+      },
+      {
+        "q": "What is the faint leftover radiation from the Big Bang that fills all of space called?",
+        "a": "Cosmic microwave background"
+      },
+      {
+        "q": "What is a rapidly spinning neutron star that beams regular radio pulses called?",
+        "a": "Pulsar"
+      },
+      {
+        "q": "Roughly how many million kilometres is one astronomical unit?",
+        "a": "150"
+      },
+      {
+        "q": "Which probe launched in 1977 was the first human-made object to reach interstellar space?",
+        "a": "Voyager 1"
+      },
+      {
+        "q": "What is the tallest volcano in the solar system?",
+        "a": "Olympus Mons"
+      },
+      {
+        "q": "Which Swedish naturalist created the modern two-part system for naming species?",
+        "a": "Carl Linnaeus"
       }
     ],
     "600": [
@@ -20537,6 +30433,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Approximately how many Earth years does Neptune take to orbit the Sun?",
         "a": "165"
+      },
+      {
+        "q": "What is the visible surface layer of the Sun called?",
+        "a": "Photosphere"
+      },
+      {
+        "q": "What is the region of space controlled by Earth's magnetic field called?",
+        "a": "Magnetosphere"
+      },
+      {
+        "q": "Which pea-sized gland at the base of the brain is nicknamed the master gland?",
+        "a": "Pituitary"
+      },
+      {
+        "q": "Which childhood bone-softening disease is caused by a lack of vitamin D?",
+        "a": "Rickets"
+      },
+      {
+        "q": "Who developed the first widely used injected polio vaccine?",
+        "a": "Jonas Salk"
+      },
+      {
+        "q": "What is the science of drugs and their effects on the body called?",
+        "a": "Pharmacology"
+      },
+      {
+        "q": "Which element makes up roughly 65% of the human body by mass?",
+        "a": "Oxygen"
+      },
+      {
+        "q": "Which geological period is known for the rapid burst of animal life about 540 million years ago?",
+        "a": "Cambrian"
+      },
+      {
+        "q": "What is the chemical symbol for tungsten?",
+        "a": "W"
+      },
+      {
+        "q": "What is the boundary between Earth's crust and mantle called?",
+        "a": "Moho"
+      },
+      {
+        "q": "Which layer of Earth's interior is molten iron and nickel?",
+        "a": "Outer core"
+      },
+      {
+        "q": "What is the temperature above which a magnet loses its magnetism called?",
+        "a": "Curie point"
+      },
+      {
+        "q": "Which effect deflects winds and ocean currents because the planet rotates?",
+        "a": "Coriolis effect"
+      },
+      {
+        "q": "What is the SI unit of radioactivity?",
+        "a": "Becquerel"
+      },
+      {
+        "q": "What is the SI unit of absorbed radiation dose?",
+        "a": "Gray"
+      },
+      {
+        "q": "Approximately how many years is the half-life of carbon-14?",
+        "a": "5,730"
+      },
+      {
+        "q": "What is the least amount of fissile material needed to sustain a chain reaction called?",
+        "a": "Critical mass"
+      },
+      {
+        "q": "What is the hypothetical particle that would carry the force of gravity called?",
+        "a": "Graviton"
+      },
+      {
+        "q": "Which type of radioactive decay emits an electron from the nucleus?",
+        "a": "Beta decay"
+      },
+      {
+        "q": "Which unit of astronomical distance equals about 3.26 light-years?",
+        "a": "Parsec"
+      },
+      {
+        "q": "What is a star's brightness as it appears from Earth called?",
+        "a": "Apparent magnitude"
+      },
+      {
+        "q": "Which slow evaporation of black holes was predicted theoretically in 1974?",
+        "a": "Hawking radiation"
+      },
+      {
+        "q": "What term describes the Moon always keeping the same face toward Earth?",
+        "a": "Tidal locking"
+      },
+      {
+        "q": "What is the enormous canyon system running along the Martian equator called?",
+        "a": "Valles Marineris"
+      },
+      {
+        "q": "Which fusion sequence converts hydrogen into helium inside the Sun?",
+        "a": "Proton-proton chain"
+      },
+      {
+        "q": "What is the forging of heavier elements inside stars called?",
+        "a": "Nucleosynthesis"
+      },
+      {
+        "q": "Which principle explains why pressure falls where a fluid flows faster?",
+        "a": "Bernoulli's principle"
+      },
+      {
+        "q": "What is a solution that resists changes in pH called?",
+        "a": "Buffer"
+      },
+      {
+        "q": "What is the small repeating unit that links up to build a polymer called?",
+        "a": "Monomer"
+      },
+      {
+        "q": "Which enzyme in saliva begins breaking down starch?",
+        "a": "Amylase"
+      },
+      {
+        "q": "What is programmed cell death called?",
+        "a": "Apoptosis"
+      },
+      {
+        "q": "What term describes a cell with no nucleus, such as a bacterium?",
+        "a": "Prokaryote"
+      },
+      {
+        "q": "Which English scientist coined the biological term \"cell\" after examining cork in 1665?",
+        "a": "Robert Hooke"
+      },
+      {
+        "q": "Which Dutch cloth merchant first observed bacteria using lenses he ground himself?",
+        "a": "Antonie van Leeuwenhoek"
+      },
+      {
+        "q": "What are organisms that make their own food from inorganic sources called?",
+        "a": "Autotrophs"
+      },
+      {
+        "q": "What is the medical term for abnormally low blood sugar?",
+        "a": "Hypoglycemia"
+      },
+      {
+        "q": "What is the study of the body's defences against disease called?",
+        "a": "Immunology"
+      },
+      {
+        "q": "Which African disease is spread by the bite of the tsetse fly?",
+        "a": "Sleeping sickness"
+      },
+      {
+        "q": "A deficiency of which vitamin causes beriberi?",
+        "a": "Thiamine"
+      },
+      {
+        "q": "What are the chemical messengers that carry signals across the gap between nerve cells?",
+        "a": "Neurotransmitters"
+      },
+      {
+        "q": "What is the folded outer grey layer of the brain called?",
+        "a": "Cerebral cortex"
+      },
+      {
+        "q": "Which brain structure is essential for forming new long-term memories?",
+        "a": "Hippocampus"
+      },
+      {
+        "q": "Which brain region regulates hunger, thirst and body temperature?",
+        "a": "Hypothalamus"
+      },
+      {
+        "q": "Which diagram plots stellar luminosity against surface temperature?",
+        "a": "Hertzsprung-Russell diagram"
+      },
+      {
+        "q": "What is the name of the larger of Mars's two moons?",
+        "a": "Phobos"
+      },
+      {
+        "q": "What kind of attraction between water molecules gives water its unusually high boiling point?",
+        "a": "Hydrogen bonding"
+      },
+      {
+        "q": "What is the maintenance of a stable internal environment in the body called?",
+        "a": "Homeostasis"
+      },
+      {
+        "q": "What is the fluid-filled spiral structure of the inner ear that detects sound?",
+        "a": "Cochlea"
+      },
+      {
+        "q": "What is the point in a planet's orbit closest to the Sun called?",
+        "a": "Perihelion"
       }
     ]
   },
@@ -20829,6 +30921,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "What was the US nationwide ban on alcohol from 1920 to 1933 called?",
         "a": "Prohibition"
+      },
+      {
+        "q": "Which US president resigned from office in 1974?",
+        "a": "Richard Nixon"
+      },
+      {
+        "q": "What scandal, named after a Washington building complex, brought down a US president?",
+        "a": "Watergate"
+      },
+      {
+        "q": "Which military alliance did Western nations form in 1949?",
+        "a": "NATO"
+      },
+      {
+        "q": "Which German city gave its name to the post-war trials of Nazi leaders?",
+        "a": "Nuremberg"
+      },
+      {
+        "q": "Which waterway opened in 1869 to link the Mediterranean with the Red Sea?",
+        "a": "Suez Canal"
+      },
+      {
+        "q": "Which waterway joining the Atlantic and Pacific opened in 1914?",
+        "a": "Panama Canal"
+      },
+      {
+        "q": "Who led the revolution that seized power in Cuba in 1959?",
+        "a": "Fidel Castro"
+      },
+      {
+        "q": "Along which line of latitude was Korea divided after World War II?",
+        "a": "38th parallel"
+      },
+      {
+        "q": "Who was the first woman to win a Nobel Prize?",
+        "a": "Marie Curie"
+      },
+      {
+        "q": "In which country did the Industrial Revolution begin?",
+        "a": "Britain"
+      },
+      {
+        "q": "Which Italian city is regarded as the birthplace of the Renaissance?",
+        "a": "Florence"
+      },
+      {
+        "q": "Which US president was in office when the Great Depression began?",
+        "a": "Herbert Hoover"
+      },
+      {
+        "q": "Which US president introduced the New Deal?",
+        "a": "Franklin D. Roosevelt"
+      },
+      {
+        "q": "What name is given to the first ten amendments to the US Constitution?",
+        "a": "Bill of Rights"
+      },
+      {
+        "q": "Who was the first US president to live in the White House?",
+        "a": "John Adams"
+      },
+      {
+        "q": "Which Roman defensive barrier was built across northern Britain?",
+        "a": "Hadrian's Wall"
+      },
+      {
+        "q": "Which Shoshone woman guided the Lewis and Clark expedition?",
+        "a": "Sacagawea"
+      },
+      {
+        "q": "What was the first permanent English settlement in America, founded in 1607?",
+        "a": "Jamestown"
+      },
+      {
+        "q": "Which city served as the capital of the Confederacy?",
+        "a": "Richmond"
+      },
+      {
+        "q": "Who was the final leader of the Soviet Union?",
+        "a": "Mikhail Gorbachev"
+      },
+      {
+        "q": "Which country did Britain hand Hong Kong back to in 1997?",
+        "a": "China"
+      },
+      {
+        "q": "What were Japanese suicide pilots of World War II called?",
+        "a": "Kamikaze"
+      },
+      {
+        "q": "What was the American programme to rebuild Western Europe after 1948 called?",
+        "a": "Marshall Plan"
+      },
+      {
+        "q": "Which US state was an independent republic before joining the Union in 1845?",
+        "a": "Texas"
+      },
+      {
+        "q": "During which war did the Charge of the Light Brigade take place?",
+        "a": "Crimean War"
+      },
+      {
+        "q": "Which two countries fought over the Falkland Islands in 1982?",
+        "a": "Britain and Argentina"
+      },
+      {
+        "q": "Which country did the Soviet Union invade in 1979?",
+        "a": "Afghanistan"
+      },
+      {
+        "q": "Which ancient city was said to hold famous hanging gardens?",
+        "a": "Babylon"
+      },
+      {
+        "q": "Which British navigator claimed the east coast of Australia in 1770?",
+        "a": "James Cook"
+      },
+      {
+        "q": "Which English queen reigned from 1558 to 1603?",
+        "a": "Elizabeth I"
+      },
+      {
+        "q": "Who was caught guarding explosives beneath Parliament in 1605?",
+        "a": "Guy Fawkes"
+      },
+      {
+        "q": "What 1849 event drew tens of thousands of prospectors to California?",
+        "a": "The Gold Rush"
+      },
+      {
+        "q": "Which US president signed the Civil Rights Act of 1964?",
+        "a": "Lyndon B. Johnson"
+      },
+      {
+        "q": "What were the militant campaigners for British women's voting rights called?",
+        "a": "Suffragettes"
+      },
+      {
+        "q": "Who delivered the Gettysburg Address?",
+        "a": "Abraham Lincoln"
+      },
+      {
+        "q": "Which Greek physician is called the father of medicine?",
+        "a": "Hippocrates"
+      },
+      {
+        "q": "Which Greek sanctuary hosted the original Olympic Games?",
+        "a": "Olympia"
+      },
+      {
+        "q": "Which president joins Washington, Jefferson and Lincoln on Mount Rushmore?",
+        "a": "Theodore Roosevelt"
+      },
+      {
+        "q": "Which country did Emperor Hirohito rule during World War II?",
+        "a": "Japan"
+      },
+      {
+        "q": "Which American civil rights leader was assassinated in Memphis in 1968?",
+        "a": "Martin Luther King Jr."
+      },
+      {
+        "q": "Which country did the Romanov family rule?",
+        "a": "Russia"
+      },
+      {
+        "q": "Who was the US president when the Berlin Wall came down in 1989?",
+        "a": "George H. W. Bush"
+      },
+      {
+        "q": "What was the secret network of routes and safe houses that helped enslaved Americans escape north?",
+        "a": "Underground Railroad"
+      },
+      {
+        "q": "Which escaped slave repeatedly returned south to lead others to freedom?",
+        "a": "Harriet Tubman"
+      },
+      {
+        "q": "Which US president was in office when World War II ended?",
+        "a": "Harry S. Truman"
+      },
+      {
+        "q": "Which country hosted the 1936 Olympic Games staged as a propaganda showcase?",
+        "a": "Germany"
+      },
+      {
+        "q": "Whose wartime diary, written in hiding as a teenager, became one of the most read books in the world?",
+        "a": "Anne Frank"
+      },
+      {
+        "q": "Which European capital did the Allies liberate in August 1944?",
+        "a": "Paris"
+      },
+      {
+        "q": "Which American city was largely destroyed by a great fire in 1871?",
+        "a": "Chicago"
+      },
+      {
+        "q": "Which American city was devastated by an earthquake and fire in 1906?",
+        "a": "San Francisco"
       }
     ],
     "400": [
@@ -21135,6 +31427,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Italian explorer gave his name to the Americas?",
         "a": "Amerigo Vespucci"
+      },
+      {
+        "q": "In what year did the Berlin Airlift begin?",
+        "a": "1948"
+      },
+      {
+        "q": "Which military alliance did the Soviet Union form in 1955 as a counterweight to the West?",
+        "a": "Warsaw Pact"
+      },
+      {
+        "q": "From which French port were Allied troops evacuated in 1940?",
+        "a": "Dunkirk"
+      },
+      {
+        "q": "Who was Israel's first prime minister?",
+        "a": "David Ben-Gurion"
+      },
+      {
+        "q": "What was the German tactic of fast, concentrated armoured attack called?",
+        "a": "Blitzkrieg"
+      },
+      {
+        "q": "Which British prime minister promised 'peace for our time' after the 1938 Sudetenland deal?",
+        "a": "Neville Chamberlain"
+      },
+      {
+        "q": "Which book did Adolf Hitler write while in prison?",
+        "a": "Mein Kampf"
+      },
+      {
+        "q": "What was the German state called between 1919 and 1933?",
+        "a": "Weimar Republic"
+      },
+      {
+        "q": "What is the name for the agreement that stopped the fighting on 11 November 1918?",
+        "a": "The Armistice"
+      },
+      {
+        "q": "In which year was the Battle of the Somme fought?",
+        "a": "1916"
+      },
+      {
+        "q": "Which passenger liner sunk by a German submarine in 1915 pushed America towards war?",
+        "a": "Lusitania"
+      },
+      {
+        "q": "Which English king led the Third Crusade against Saladin?",
+        "a": "Richard the Lionheart"
+      },
+      {
+        "q": "Which Norse explorer is believed to have reached North America around the year 1000?",
+        "a": "Leif Erikson"
+      },
+      {
+        "q": "Which royal prisoner was executed in 1587 on the orders of Elizabeth I?",
+        "a": "Mary, Queen of Scots"
+      },
+      {
+        "q": "Which Russian tsar founded a new capital on the Baltic in 1703?",
+        "a": "Peter the Great"
+      },
+      {
+        "q": "Which Siberian mystic held sway over the last Russian imperial family?",
+        "a": "Rasputin"
+      },
+      {
+        "q": "What was the Soviet system of forced-labour camps called?",
+        "a": "The Gulag"
+      },
+      {
+        "q": "Which Beijing square saw mass protests crushed in 1989?",
+        "a": "Tiananmen Square"
+      },
+      {
+        "q": "What was the codename for the 1991 campaign to drive Iraqi forces out of Kuwait?",
+        "a": "Operation Desert Storm"
+      },
+      {
+        "q": "At which 1876 battle was George Custer's force wiped out?",
+        "a": "Little Bighorn"
+      },
+      {
+        "q": "Which 1836 siege in Texas became a rallying cry for independence?",
+        "a": "The Alamo"
+      },
+      {
+        "q": "Which Argentine first lady died in 1952 and became a national icon?",
+        "a": "Eva Peron"
+      },
+      {
+        "q": "Which Argentine-born revolutionary fought with Castro and was killed in Bolivia?",
+        "a": "Che Guevara"
+      },
+      {
+        "q": "Which US president pardoned his predecessor in 1974?",
+        "a": "Gerald Ford"
+      },
+      {
+        "q": "Which US senator led the anti-communist hearings of the early 1950s?",
+        "a": "Joseph McCarthy"
+      },
+      {
+        "q": "What was NASA's first human spaceflight programme called?",
+        "a": "Project Mercury"
+      },
+      {
+        "q": "Which Athenian statesman presided over the city's golden age?",
+        "a": "Pericles"
+      },
+      {
+        "q": "Which Greek philosopher was condemned to die by drinking hemlock?",
+        "a": "Socrates"
+      },
+      {
+        "q": "At which 490 BC battle did Athens defeat a Persian invasion force?",
+        "a": "Marathon"
+      },
+      {
+        "q": "Which Roman emperor was blamed for the great fire of 64 AD?",
+        "a": "Nero"
+      },
+      {
+        "q": "Which pharaoh had the rock temples at Abu Simbel carved?",
+        "a": "Ramesses II"
+      },
+      {
+        "q": "Which trading company effectively governed large parts of India before 1858?",
+        "a": "East India Company"
+      },
+      {
+        "q": "Which Egyptian leader nationalised the Suez Canal in 1956?",
+        "a": "Gamal Abdel Nasser"
+      },
+      {
+        "q": "Which US president hosted the 1978 Camp David Accords?",
+        "a": "Jimmy Carter"
+      },
+      {
+        "q": "Which European country ruled the Congo Free State under King Leopold II?",
+        "a": "Belgium"
+      },
+      {
+        "q": "Which country invaded Ethiopia in 1935?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which West African ruler's 14th-century pilgrimage to Mecca is famous for its lavish gold?",
+        "a": "Mansa Musa"
+      },
+      {
+        "q": "Who was the last emperor of China?",
+        "a": "Puyi"
+      },
+      {
+        "q": "Which Japanese city was the imperial capital before Tokyo?",
+        "a": "Kyoto"
+      },
+      {
+        "q": "What was the samurai code of conduct called?",
+        "a": "Bushido"
+      },
+      {
+        "q": "Which regime ruled Cambodia from 1975 to 1979?",
+        "a": "Khmer Rouge"
+      },
+      {
+        "q": "Which US president publicly demanded in 1987 that Gorbachev tear down a wall?",
+        "a": "Ronald Reagan"
+      },
+      {
+        "q": "Which African country was founded in the 1800s as a home for freed American slaves?",
+        "a": "Liberia"
+      },
+      {
+        "q": "What is the 1899-1902 conflict between Britain and the Dutch-descended settlers of South Africa called?",
+        "a": "Boer War"
+      },
+      {
+        "q": "On which remote Atlantic island did Napoleon die in 1821?",
+        "a": "Saint Helena"
+      },
+      {
+        "q": "Which British admiral was killed at Trafalgar in 1805?",
+        "a": "Horatio Nelson"
+      },
+      {
+        "q": "Which armoured vehicle did the British first send into battle in 1916?",
+        "a": "The tank"
+      },
+      {
+        "q": "Which amendment to the US Constitution gave women the vote?",
+        "a": "19th Amendment"
+      },
+      {
+        "q": "Which British campaigner founded the Women's Social and Political Union?",
+        "a": "Emmeline Pankhurst"
       }
     ],
     "600": [
@@ -21481,6 +31969,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "In what year did the Hindenburg airship disaster occur?",
         "a": "1937"
+      },
+      {
+        "q": "Which Persian king led the great invasion of Greece in 480 BC?",
+        "a": "Xerxes I"
+      },
+      {
+        "q": "Which Roman emperor introduced the four-ruler system known as the tetrarchy?",
+        "a": "Diocletian"
+      },
+      {
+        "q": "Which Roman emperor wrote the philosophical work 'Meditations'?",
+        "a": "Marcus Aurelius"
+      },
+      {
+        "q": "Which other Roman town was buried alongside Pompeii in 79 AD?",
+        "a": "Herculaneum"
+      },
+      {
+        "q": "Which Indian emperor embraced Buddhism after the bloody Kalinga war?",
+        "a": "Ashoka"
+      },
+      {
+        "q": "Which ancient Indian empire did Chandragupta found around 322 BC?",
+        "a": "Mauryan Empire"
+      },
+      {
+        "q": "Which Indus Valley city's name means 'mound of the dead'?",
+        "a": "Mohenjo-daro"
+      },
+      {
+        "q": "What is the 1857 revolt against British rule in India commonly known as?",
+        "a": "Sepoy Mutiny"
+      },
+      {
+        "q": "Who was the last Viceroy of India?",
+        "a": "Lord Mountbatten"
+      },
+      {
+        "q": "Which 1919 massacre of civilians took place in Amritsar?",
+        "a": "Jallianwala Bagh"
+      },
+      {
+        "q": "Which taxed commodity did Gandhi protest by marching to the sea in 1930?",
+        "a": "Salt"
+      },
+      {
+        "q": "Which 1485 battle ended the Wars of the Roses?",
+        "a": "Bosworth Field"
+      },
+      {
+        "q": "Who was the last English king to be killed in battle?",
+        "a": "Richard III"
+      },
+      {
+        "q": "Which royal house took the English throne after Elizabeth I died?",
+        "a": "House of Stuart"
+      },
+      {
+        "q": "Which ship was Nelson's flagship at Trafalgar?",
+        "a": "HMS Victory"
+      },
+      {
+        "q": "Which 1916 clash in the North Sea was the largest naval battle of World War I?",
+        "a": "Jutland"
+      },
+      {
+        "q": "Which French fortress city gave its name to the longest battle of World War I?",
+        "a": "Verdun"
+      },
+      {
+        "q": "Which 1918 treaty took Russia out of World War I?",
+        "a": "Treaty of Brest-Litovsk"
+      },
+      {
+        "q": "What was Hitler's failed 1923 coup attempt in Munich called?",
+        "a": "Beer Hall Putsch"
+      },
+      {
+        "q": "Which 1938 agreement handed the Sudetenland to Germany?",
+        "a": "Munich Agreement"
+      },
+      {
+        "q": "What was the 1938 German annexation of Austria called?",
+        "a": "Anschluss"
+      },
+      {
+        "q": "What name was given to the November 1938 pogrom against German Jews?",
+        "a": "Kristallnacht"
+      },
+      {
+        "q": "Which German offensive in the Ardennes began in December 1944?",
+        "a": "Battle of the Bulge"
+      },
+      {
+        "q": "Which February 1945 meeting of the Big Three took place in Crimea?",
+        "a": "Yalta Conference"
+      },
+      {
+        "q": "What was Czechoslovakia's 1968 period of liberalisation called?",
+        "a": "Prague Spring"
+      },
+      {
+        "q": "In which capital was the 1956 anti-Soviet uprising crushed by Red Army tanks?",
+        "a": "Budapest"
+      },
+      {
+        "q": "Which Polish trade union movement did Lech Walesa lead?",
+        "a": "Solidarity"
+      },
+      {
+        "q": "Which leader held Yugoslavia together until his death in 1980?",
+        "a": "Josip Broz Tito"
+      },
+      {
+        "q": "Which Bosnian town was the site of a 1995 massacre?",
+        "a": "Srebrenica"
+      },
+      {
+        "q": "Which Soviet leader denounced Stalin's crimes in a 1956 secret speech?",
+        "a": "Nikita Khrushchev"
+      },
+      {
+        "q": "What was Stalin's secret police organisation known as?",
+        "a": "NKVD"
+      },
+      {
+        "q": "Which US general did Truman dismiss during the Korean War?",
+        "a": "Douglas MacArthur"
+      },
+      {
+        "q": "Which US vice president resigned in 1973 over corruption charges?",
+        "a": "Spiro Agnew"
+      },
+      {
+        "q": "Which US president died barely a month after taking office in 1841?",
+        "a": "William Henry Harrison"
+      },
+      {
+        "q": "Which US president was shot in 1881 and died later that year?",
+        "a": "James A. Garfield"
+      },
+      {
+        "q": "Which railroad was completed at Promontory Summit in 1869?",
+        "a": "Transcontinental Railroad"
+      },
+      {
+        "q": "Which Apache leader surrendered to US forces in 1886?",
+        "a": "Geronimo"
+      },
+      {
+        "q": "Which 1890 clash in South Dakota effectively ended the Plains Indian wars?",
+        "a": "Wounded Knee"
+      },
+      {
+        "q": "Which Mexican general commanded the assault on the Alamo?",
+        "a": "Santa Anna"
+      },
+      {
+        "q": "Which southern Mexican revolutionary demanded 'Land and Liberty'?",
+        "a": "Emiliano Zapata"
+      },
+      {
+        "q": "Which Chilean president died during the 1973 military coup?",
+        "a": "Salvador Allende"
+      },
+      {
+        "q": "Which general ruled Chile from 1973 to 1990?",
+        "a": "Augusto Pinochet"
+      },
+      {
+        "q": "Which Ethiopian emperor was deposed in 1974?",
+        "a": "Haile Selassie"
+      },
+      {
+        "q": "Which 1879 Zulu victory shocked the British army?",
+        "a": "Isandlwana"
+      },
+      {
+        "q": "Which empire replaced Mali as the dominant power in West Africa?",
+        "a": "Songhai Empire"
+      },
+      {
+        "q": "Which city on the Niger river became a famed centre of Islamic learning?",
+        "a": "Timbuktu"
+      },
+      {
+        "q": "Which Mongol-founded dynasty did the Ming overthrow in China?",
+        "a": "Yuan dynasty"
+      },
+      {
+        "q": "Which Egyptian president signed a peace treaty with Israel in 1979?",
+        "a": "Anwar Sadat"
+      },
+      {
+        "q": "Which 1571 naval battle checked Ottoman power in the Mediterranean?",
+        "a": "Lepanto"
+      },
+      {
+        "q": "Which 1904-05 war was ended by the Treaty of Portsmouth?",
+        "a": "Russo-Japanese War"
       }
     ]
   },
@@ -21769,6 +32457,190 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which boxer was known as 'The Greatest'?",
         "a": "Muhammad Ali"
+      },
+      {
+        "q": "In tennis, what is the score called when both players reach 40?",
+        "a": "Deuce"
+      },
+      {
+        "q": "How many skaters does one ice hockey team have on the ice at even strength?",
+        "a": "6"
+      },
+      {
+        "q": "What is a score of one stroke over par on a golf hole called?",
+        "a": "Bogey"
+      },
+      {
+        "q": "What is the highest score possible with three darts in one visit?",
+        "a": "180"
+      },
+      {
+        "q": "How many strikes does it take to strike out a batter in baseball?",
+        "a": "3"
+      },
+      {
+        "q": "How many balls does a pitcher have to throw for a batter to be walked?",
+        "a": "4"
+      },
+      {
+        "q": "In which US city is the NFL franchise called the Cowboys based?",
+        "a": "Dallas"
+      },
+      {
+        "q": "Which sport made Simone Biles a household name?",
+        "a": "Gymnastics"
+      },
+      {
+        "q": "Which country is Rafael Nadal from?",
+        "a": "Spain"
+      },
+      {
+        "q": "How many points is a successful free throw worth in basketball?",
+        "a": "1"
+      },
+      {
+        "q": "How many touches is a volleyball team allowed before sending the ball back over?",
+        "a": "3"
+      },
+      {
+        "q": "Which winter sport involves sweeping the ice with brooms ahead of a sliding stone?",
+        "a": "Curling"
+      },
+      {
+        "q": "Which winter sport combines cross-country skiing with rifle shooting?",
+        "a": "Biathlon"
+      },
+      {
+        "q": "How long is a round in professional men's boxing?",
+        "a": "3 minutes"
+      },
+      {
+        "q": "Which sport is contested in a velodrome?",
+        "a": "Track cycling"
+      },
+      {
+        "q": "How many legal deliveries make up one over in cricket?",
+        "a": "6"
+      },
+      {
+        "q": "Which Los Angeles NBA team did Kobe Bryant spend his whole career with?",
+        "a": "Lakers"
+      },
+      {
+        "q": "How many minutes long is a full football match, not counting stoppage time?",
+        "a": "90"
+      },
+      {
+        "q": "Which sport is contested in the annual Six Nations Championship?",
+        "a": "Rugby union"
+      },
+      {
+        "q": "What is the shortest individual sprint distance run at the Olympics?",
+        "a": "100 metres"
+      },
+      {
+        "q": "How many free throws does a shooter get if fouled while missing a two-point attempt?",
+        "a": "2"
+      },
+      {
+        "q": "Which sport has fielding positions called pitcher and catcher?",
+        "a": "Baseball"
+      },
+      {
+        "q": "What is a score of two strokes under par on a golf hole called?",
+        "a": "Eagle"
+      },
+      {
+        "q": "Which team sport has a defensive specialist called a libero who wears a different shirt?",
+        "a": "Volleyball"
+      },
+      {
+        "q": "In football, what restart is given to the attacking team when a defender puts the ball behind their own goal line?",
+        "a": "Corner kick"
+      },
+      {
+        "q": "In basketball, what is the violation called when a player moves their feet without dribbling?",
+        "a": "Traveling"
+      },
+      {
+        "q": "Which team sport uses curved sticks and a small hard ball, and is hugely popular in India and the Netherlands?",
+        "a": "Field hockey"
+      },
+      {
+        "q": "How many games must a player normally win to take a set in tennis?",
+        "a": "6"
+      },
+      {
+        "q": "Which sport do Oxford and Cambridge contest each spring on the River Thames?",
+        "a": "Rowing"
+      },
+      {
+        "q": "Which sport made Conor McGregor famous?",
+        "a": "Mixed martial arts"
+      },
+      {
+        "q": "What does UFC stand for?",
+        "a": "Ultimate Fighting Championship"
+      },
+      {
+        "q": "Which sport has positions called point guard and small forward?",
+        "a": "Basketball"
+      },
+      {
+        "q": "In American football, which player usually receives the snap and throws downfield?",
+        "a": "Quarterback"
+      },
+      {
+        "q": "Which Winter Olympic sliding event is raced head-first on a small sled?",
+        "a": "Skeleton"
+      },
+      {
+        "q": "How many substitutes may a team use in a Premier League match?",
+        "a": "5"
+      },
+      {
+        "q": "How many points normally win a set in volleyball?",
+        "a": "25"
+      },
+      {
+        "q": "What are the two small pieces of wood resting on top of cricket stumps called?",
+        "a": "Bails"
+      },
+      {
+        "q": "In which sport does the main bunch of riders form a peloton?",
+        "a": "Cycling"
+      },
+      {
+        "q": "In which sport do penalised players serve time in a box beside the rink?",
+        "a": "Ice hockey"
+      },
+      {
+        "q": "In baseball, what is a home run hit with all three bases occupied called?",
+        "a": "Grand slam"
+      },
+      {
+        "q": "Which American motorsport series holds the Daytona 500?",
+        "a": "NASCAR"
+      },
+      {
+        "q": "In which country did table tennis begin as an indoor parlour game?",
+        "a": "England"
+      },
+      {
+        "q": "In tennis, what is called when a serve clips the net, lands in, and must be replayed?",
+        "a": "Let"
+      },
+      {
+        "q": "What playing surface is used at the US Open tennis tournament?",
+        "a": "Hard court"
+      },
+      {
+        "q": "How many league points does a team get for a win in the Premier League?",
+        "a": "3"
+      },
+      {
+        "q": "What is the scoring area at each end of an American football field called?",
+        "a": "End zone"
       }
     ],
     "400": [
@@ -22071,6 +32943,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many teams are in the NFL?",
         "a": "32"
+      },
+      {
+        "q": "Which country won the 2023 Cricket World Cup?",
+        "a": "Australia"
+      },
+      {
+        "q": "Who won the 2024 Ballon d'Or?",
+        "a": "Rodri"
+      },
+      {
+        "q": "Which team won Super Bowl LVIII in February 2024?",
+        "a": "Kansas City Chiefs"
+      },
+      {
+        "q": "Which NBA team did Nikola Jokic lead to the 2023 title?",
+        "a": "Denver Nuggets"
+      },
+      {
+        "q": "Which Formula 1 team did Lewis Hamilton join for the 2025 season?",
+        "a": "Ferrari"
+      },
+      {
+        "q": "In which year did Leicester City shock English football by winning the top flight?",
+        "a": "2016"
+      },
+      {
+        "q": "Which club has won the FA Cup more times than any other?",
+        "a": "Arsenal"
+      },
+      {
+        "q": "Who is the NFL's all-time leading rusher?",
+        "a": "Emmitt Smith"
+      },
+      {
+        "q": "Which MLB franchise has won the most World Series titles?",
+        "a": "New York Yankees"
+      },
+      {
+        "q": "Who has taken the most wickets in Test cricket history?",
+        "a": "Muttiah Muralitharan"
+      },
+      {
+        "q": "Who won the men's singles tennis gold at the 2024 Paris Olympics?",
+        "a": "Novak Djokovic"
+      },
+      {
+        "q": "Which team won the very first Super Bowl?",
+        "a": "Green Bay Packers"
+      },
+      {
+        "q": "The Vezina Trophy goes to the best NHL player at which position?",
+        "a": "Goaltender"
+      },
+      {
+        "q": "What is the NHL's most valuable player award called?",
+        "a": "Hart Trophy"
+      },
+      {
+        "q": "Which nation has won the most Olympic gold medals in history?",
+        "a": "United States"
+      },
+      {
+        "q": "Who set the women's 100 metres world record that still stands from 1988?",
+        "a": "Florence Griffith-Joyner"
+      },
+      {
+        "q": "Who beat Muhammad Ali in the 1971 bout billed as the Fight of the Century?",
+        "a": "Joe Frazier"
+      },
+      {
+        "q": "Which boxer bit Evander Holyfield's ear during their 1997 rematch?",
+        "a": "Mike Tyson"
+      },
+      {
+        "q": "Which boxer won world titles in eight different weight divisions?",
+        "a": "Manny Pacquiao"
+      },
+      {
+        "q": "Which golfer won the 2019 Masters after an 11-year major drought?",
+        "a": "Tiger Woods"
+      },
+      {
+        "q": "Which country does golfer Rory McIlroy represent?",
+        "a": "Northern Ireland"
+      },
+      {
+        "q": "Which club did Pep Guardiola manage immediately before Manchester City?",
+        "a": "Bayern Munich"
+      },
+      {
+        "q": "Which manager led Manchester United for 26 years until 2013?",
+        "a": "Alex Ferguson"
+      },
+      {
+        "q": "Which English club won the continental treble in 1999?",
+        "a": "Manchester United"
+      },
+      {
+        "q": "Which country won the European Championship staged in 2021?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which player has made the most Premier League appearances?",
+        "a": "Gareth Barry"
+      },
+      {
+        "q": "In which country is the football club Ajax based?",
+        "a": "Netherlands"
+      },
+      {
+        "q": "What is the second tier of English league football called?",
+        "a": "Championship"
+      },
+      {
+        "q": "Which NBA team drafted LeBron James first overall in 2003?",
+        "a": "Cleveland Cavaliers"
+      },
+      {
+        "q": "Which NBA team's 1980s run was nicknamed Showtime?",
+        "a": "Los Angeles Lakers"
+      },
+      {
+        "q": "Who has made the most three-pointers in NBA history?",
+        "a": "Stephen Curry"
+      },
+      {
+        "q": "Which player won more NBA championships than anyone else?",
+        "a": "Bill Russell"
+      },
+      {
+        "q": "Which NBA team did Michael Jordan play for after leaving Chicago?",
+        "a": "Washington Wizards"
+      },
+      {
+        "q": "Which Formula 1 world champion was killed in a crash at Imola in 1994?",
+        "a": "Ayrton Senna"
+      },
+      {
+        "q": "Along with the Indy 500 and the Monaco Grand Prix, which race completes motorsport's Triple Crown?",
+        "a": "24 Hours of Le Mans"
+      },
+      {
+        "q": "How many stages make up a modern Tour de France?",
+        "a": "21"
+      },
+      {
+        "q": "Which swimmer won seven golds at the 1972 Munich Olympics?",
+        "a": "Mark Spitz"
+      },
+      {
+        "q": "Who won the men's 100 metres at the 2024 Paris Olympics?",
+        "a": "Noah Lyles"
+      },
+      {
+        "q": "In which sport is the Thomas Cup contested?",
+        "a": "Badminton"
+      },
+      {
+        "q": "Which country topped the medal table at the 2022 Beijing Winter Olympics?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which ice hockey player is universally known as The Great One?",
+        "a": "Wayne Gretzky"
+      },
+      {
+        "q": "Which batter scored 400 not out in a Test innings?",
+        "a": "Brian Lara"
+      },
+      {
+        "q": "Which country won the inaugural T20 World Cup in 2007?",
+        "a": "India"
+      },
+      {
+        "q": "What is India's flagship domestic Twenty20 franchise competition called?",
+        "a": "Indian Premier League"
+      },
+      {
+        "q": "Which tennis player completed the Golden Slam in 1988?",
+        "a": "Steffi Graf"
+      },
+      {
+        "q": "Which country is tennis player Iga Swiatek from?",
+        "a": "Poland"
+      },
+      {
+        "q": "How many points does a player need to win a standard tennis tiebreak?",
+        "a": "7"
       }
     ],
     "600": [
@@ -22401,6 +33461,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who has won the most NBA MVP awards?",
         "a": "Kareem Abdul-Jabbar"
+      },
+      {
+        "q": "Who became the first player ever sent off in a men's World Cup final?",
+        "a": "Marcel Desailly"
+      },
+      {
+        "q": "Which club came back from 3-0 down at half-time to win the 2005 Champions League final?",
+        "a": "Liverpool"
+      },
+      {
+        "q": "In which city was the 2005 Champions League final played?",
+        "a": "Istanbul"
+      },
+      {
+        "q": "Who managed Greece to their Euro 2004 title?",
+        "a": "Otto Rehhagel"
+      },
+      {
+        "q": "Which country won the 1992 European Championship after being called up as a late replacement?",
+        "a": "Denmark"
+      },
+      {
+        "q": "Who holds the record for most caps for the Spanish men's national football team?",
+        "a": "Sergio Ramos"
+      },
+      {
+        "q": "Who scored the fastest goal in Premier League history?",
+        "a": "Shane Long"
+      },
+      {
+        "q": "Who won the Golden Ball as best player at the 2022 World Cup?",
+        "a": "Lionel Messi"
+      },
+      {
+        "q": "Which nation knocked Brazil out of the 2022 World Cup on penalties?",
+        "a": "Croatia"
+      },
+      {
+        "q": "What is the name of Borussia Dortmund's home stadium?",
+        "a": "Signal Iduna Park"
+      },
+      {
+        "q": "Which African side beat Argentina in the opening match of the 1990 World Cup?",
+        "a": "Cameroon"
+      },
+      {
+        "q": "Which team won the 2024 Stanley Cup?",
+        "a": "Florida Panthers"
+      },
+      {
+        "q": "Who holds the NHL record for most goals in a single season?",
+        "a": "Wayne Gretzky"
+      },
+      {
+        "q": "Which NBA team finished the 2015-16 regular season with a 73-9 record?",
+        "a": "Golden State Warriors"
+      },
+      {
+        "q": "Which NBA franchise moved out of Seattle in 2008 and was renamed?",
+        "a": "Oklahoma City Thunder"
+      },
+      {
+        "q": "Who broke Babe Ruth's career home run record in 1974?",
+        "a": "Hank Aaron"
+      },
+      {
+        "q": "Which pitcher holds the MLB record for career strikeouts?",
+        "a": "Nolan Ryan"
+      },
+      {
+        "q": "Which MLB team ended a 108-year championship drought in 2016?",
+        "a": "Chicago Cubs"
+      },
+      {
+        "q": "Which NFL team finished a season undefeated including the playoffs in 1972?",
+        "a": "Miami Dolphins"
+      },
+      {
+        "q": "Which quarterback threw 55 touchdown passes in the 2013 NFL season?",
+        "a": "Peyton Manning"
+      },
+      {
+        "q": "Which NFL franchise has appeared in the most Super Bowls?",
+        "a": "New England Patriots"
+      },
+      {
+        "q": "Which golfer won the 2024 Masters?",
+        "a": "Scottie Scheffler"
+      },
+      {
+        "q": "Which golfer completed the career grand slam by winning at Augusta in 2025?",
+        "a": "Rory McIlroy"
+      },
+      {
+        "q": "What is a golf score of four strokes under par on a single hole called?",
+        "a": "Condor"
+      },
+      {
+        "q": "How many Grand Slam singles titles did Margaret Court win?",
+        "a": "24"
+      },
+      {
+        "q": "Who won the 2025 Australian Open men's singles title?",
+        "a": "Jannik Sinner"
+      },
+      {
+        "q": "What is the season-ending men's tennis event for the top eight players called?",
+        "a": "ATP Finals"
+      },
+      {
+        "q": "Which boxer retired with a professional record of 50 wins and no defeats?",
+        "a": "Floyd Mayweather"
+      },
+      {
+        "q": "Who stunned Mike Tyson by knocking him out in Tokyo in 1990?",
+        "a": "Buster Douglas"
+      },
+      {
+        "q": "Who was the first fighter to hold two UFC titles at the same time?",
+        "a": "Conor McGregor"
+      },
+      {
+        "q": "Which city will host the 2028 Summer Olympics?",
+        "a": "Los Angeles"
+      },
+      {
+        "q": "Which two Italian towns jointly host the 2026 Winter Olympics?",
+        "a": "Milan and Cortina"
+      },
+      {
+        "q": "Who lit the Olympic cauldron at the 1996 Atlanta Games?",
+        "a": "Muhammad Ali"
+      },
+      {
+        "q": "Which sprinter set a 200 metres world record at the 1996 Atlanta Olympics?",
+        "a": "Michael Johnson"
+      },
+      {
+        "q": "Which cyclist won the 2024 Tour de France?",
+        "a": "Tadej Pogacar"
+      },
+      {
+        "q": "Which Belgian cyclist was nicknamed The Cannibal?",
+        "a": "Eddy Merckx"
+      },
+      {
+        "q": "Which cobbled one-day cycling classic is known as the Hell of the North?",
+        "a": "Paris-Roubaix"
+      },
+      {
+        "q": "With which team did Michael Schumacher win his first two world titles?",
+        "a": "Benetton"
+      },
+      {
+        "q": "Which circuit hosts the Belgian Grand Prix?",
+        "a": "Spa-Francorchamps"
+      },
+      {
+        "q": "Which driver won the 2016 Formula 1 world championship and retired days later?",
+        "a": "Nico Rosberg"
+      },
+      {
+        "q": "Which Indian bowler took all ten wickets in a Test innings in 1999?",
+        "a": "Anil Kumble"
+      },
+      {
+        "q": "Who holds the record for the highest individual score in a one-day international innings?",
+        "a": "Rohit Sharma"
+      },
+      {
+        "q": "Who has scored the most points in international rugby union?",
+        "a": "Dan Carter"
+      },
+      {
+        "q": "Which trophy do Australia and New Zealand contest annually in rugby union?",
+        "a": "Bledisloe Cup"
+      },
+      {
+        "q": "What is the raised clay ring used in sumo called?",
+        "a": "Dohyo"
+      },
+      {
+        "q": "What is the highest possible checkout in a single leg of darts?",
+        "a": "170"
+      },
+      {
+        "q": "Which snooker player is nicknamed The Rocket?",
+        "a": "Ronnie O'Sullivan"
+      },
+      {
+        "q": "Which country won the first Olympic women's football tournament in 1996?",
+        "a": "United States"
       }
     ]
   },
@@ -22665,6 +33917,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "What singer is known as the 'Material Girl'?",
         "a": "Madonna"
+      },
+      {
+        "q": "Which Swedish group won the 1974 Eurovision Song Contest with 'Waterloo'?",
+        "a": "ABBA"
+      },
+      {
+        "q": "Which 1969 festival was staged on a dairy farm near Bethel, New York?",
+        "a": "Woodstock"
+      },
+      {
+        "q": "Which English music festival is held at Worthy Farm in Somerset?",
+        "a": "Glastonbury"
+      },
+      {
+        "q": "How many keys are on a standard full-size piano?",
+        "a": "88"
+      },
+      {
+        "q": "Which group recorded the disco anthem 'Stayin' Alive'?",
+        "a": "Bee Gees"
+      },
+      {
+        "q": "What was the name of Bob Marley's backing band?",
+        "a": "The Wailers"
+      },
+      {
+        "q": "Which girl group did Beyonce front before going solo?",
+        "a": "Destiny's Child"
+      },
+      {
+        "q": "Which annual awards are presented by the Recording Academy?",
+        "a": "Grammy Awards"
+      },
+      {
+        "q": "Which New Jersey rock band recorded 'Livin' on a Prayer'?",
+        "a": "Bon Jovi"
+      },
+      {
+        "q": "Which British pianist and singer recorded 'Candle in the Wind'?",
+        "a": "Elton John"
+      },
+      {
+        "q": "Which boy band's debut single was 'What Makes You Beautiful'?",
+        "a": "One Direction"
+      },
+      {
+        "q": "Which Latin genre is Bad Bunny most closely associated with?",
+        "a": "Reggaeton"
+      },
+      {
+        "q": "Which country star is nicknamed the Red Headed Stranger?",
+        "a": "Willie Nelson"
+      },
+      {
+        "q": "Which rock band uses a tongue-and-lips design as its logo?",
+        "a": "The Rolling Stones"
+      },
+      {
+        "q": "Which Beatle was shot outside his New York apartment in 1980?",
+        "a": "John Lennon"
+      },
+      {
+        "q": "Which pop star released the album 'Midnights' in 2022?",
+        "a": "Taylor Swift"
+      },
+      {
+        "q": "Which Norwegian band is known for the 1985 hit 'Take On Me'?",
+        "a": "a-ha"
+      },
+      {
+        "q": "Which Australian singer recorded 'Can't Get You Out of My Head'?",
+        "a": "Kylie Minogue"
+      },
+      {
+        "q": "Which rapper released 'The Marshall Mathers LP'?",
+        "a": "Eminem"
+      },
+      {
+        "q": "Which instrument is central to Scottish military bands?",
+        "a": "Bagpipes"
+      },
+      {
+        "q": "Which Ohio city is home to the Rock and Roll Hall of Fame?",
+        "a": "Cleveland"
+      },
+      {
+        "q": "Which singer-songwriter is nicknamed the Piano Man?",
+        "a": "Billy Joel"
+      },
+      {
+        "q": "Which band released the 1999 album 'Californication'?",
+        "a": "Red Hot Chili Peppers"
+      },
+      {
+        "q": "Which British band recorded 'Every Breath You Take'?",
+        "a": "The Police"
+      },
+      {
+        "q": "Which Irish band recorded the 1994 protest song 'Zombie'?",
+        "a": "The Cranberries"
+      },
+      {
+        "q": "Which singer released 'Kill Bill' in 2022?",
+        "a": "SZA"
+      },
+      {
+        "q": "Which artist released 'Bad Romance' in 2009?",
+        "a": "Lady Gaga"
+      },
+      {
+        "q": "Which American trio recorded 'Waterfalls' in 1995?",
+        "a": "TLC"
+      },
+      {
+        "q": "Which country singer was known as the Man in Black?",
+        "a": "Johnny Cash"
+      },
+      {
+        "q": "Which duo recorded 'Seven Nation Army'?",
+        "a": "The White Stripes"
+      },
+      {
+        "q": "Which British singer released the single 'Rehab' in 2006?",
+        "a": "Amy Winehouse"
+      },
+      {
+        "q": "Which K-pop group released the English-language single 'Dynamite'?",
+        "a": "BTS"
+      },
+      {
+        "q": "Which singer released 'Thank U, Next' in 2018?",
+        "a": "Ariana Grande"
+      },
+      {
+        "q": "Which folk duo recorded 'The Sound of Silence'?",
+        "a": "Simon and Garfunkel"
+      },
+      {
+        "q": "Which British band recorded the riff-driven 'Smoke on the Water'?",
+        "a": "Deep Purple"
+      },
+      {
+        "q": "Which band did Ozzy Osbourne front before his solo career?",
+        "a": "Black Sabbath"
+      },
+      {
+        "q": "Which punk-rock band released the 2004 album 'American Idiot'?",
+        "a": "Green Day"
+      },
+      {
+        "q": "Which ska-influenced band did Gwen Stefani front in the 1990s?",
+        "a": "No Doubt"
+      },
+      {
+        "q": "Which artist recorded 'Rockstar' with 21 Savage?",
+        "a": "Post Malone"
+      },
+      {
+        "q": "Which singer headlined the 2024 Super Bowl halftime show?",
+        "a": "Usher"
+      },
+      {
+        "q": "Which artist released the album 'Divide' in 2017?",
+        "a": "Ed Sheeran"
+      },
+      {
+        "q": "Which American band recorded the 1982 hit 'Africa'?",
+        "a": "Toto"
+      },
+      {
+        "q": "Which singer recorded the theme song from the film 'Titanic'?",
+        "a": "Celine Dion"
+      },
+      {
+        "q": "Which Michael Jackson song did he perform when he debuted the moonwalk on television in 1983?",
+        "a": "Billie Jean"
+      },
+      {
+        "q": "Which singer recorded 'Sweet Caroline' in 1969?",
+        "a": "Neil Diamond"
+      },
+      {
+        "q": "Which artist released the 2024 single 'Espresso'?",
+        "a": "Sabrina Carpenter"
+      },
+      {
+        "q": "Which US city is home to the Motown Museum?",
+        "a": "Detroit"
       }
     ],
     "400": [
@@ -22771,10 +34211,6 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which electronic duo released 'Discovery' (2001)?",
         "a": "Daft Punk"
-      },
-      {
-        "q": "Who released 'Back to Black' in 2006?",
-        "a": "Amy Winehouse"
       },
       {
         "q": "Which Rolling Stones album features 'Sympathy for the Devil'?",
@@ -22949,10 +34385,6 @@ const QUALITY_BACKFILL = {
         "a": "Billie Eilish"
       },
       {
-        "q": "Which rapper released the album 'Recovery' in 2010?",
-        "a": "Eminem"
-      },
-      {
         "q": "What Elvis Presley home in Memphis is now a museum?",
         "a": "Graceland"
       },
@@ -22963,6 +34395,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Italian tenor sang 'Nessun dorma' at the 1990 World Cup?",
         "a": "Luciano Pavarotti"
+      },
+      {
+        "q": "Which band released the 1987 album 'The Joshua Tree'?",
+        "a": "U2"
+      },
+      {
+        "q": "Which 1985 benefit concert was staged simultaneously in London and Philadelphia?",
+        "a": "Live Aid"
+      },
+      {
+        "q": "Which country did Maneskin represent when they won Eurovision in 2021?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which jazz vocalist was billed as the First Lady of Song?",
+        "a": "Ella Fitzgerald"
+      },
+      {
+        "q": "Which 1977 film soundtrack, scored largely by the Bee Gees, became one of the best-selling albums ever?",
+        "a": "Saturday Night Fever"
+      },
+      {
+        "q": "Which alter ego did David Bowie introduce on his 1972 album?",
+        "a": "Ziggy Stardust"
+      },
+      {
+        "q": "Which Queen album contains 'Bohemian Rhapsody'?",
+        "a": "A Night at the Opera"
+      },
+      {
+        "q": "Which Memphis label did Sam Phillips found in 1952?",
+        "a": "Sun Records"
+      },
+      {
+        "q": "Which Motown group recorded 'Stop! In the Name of Love'?",
+        "a": "The Supremes"
+      },
+      {
+        "q": "Which Austin festival combines music, film and technology every March?",
+        "a": "South by Southwest"
+      },
+      {
+        "q": "Which act has the most Billboard Hot 100 number-one singles?",
+        "a": "The Beatles"
+      },
+      {
+        "q": "Which Bing Crosby recording is recognised as the best-selling single of all time?",
+        "a": "White Christmas"
+      },
+      {
+        "q": "Which record label did the Beatles found in 1968?",
+        "a": "Apple Records"
+      },
+      {
+        "q": "Which Italian term instructs players to gradually slow down?",
+        "a": "Ritardando"
+      },
+      {
+        "q": "Which oratorio by Handel contains the 'Hallelujah' chorus?",
+        "a": "Messiah"
+      },
+      {
+        "q": "Which Austrian composer wrote 'The Blue Danube' waltz?",
+        "a": "Johann Strauss II"
+      },
+      {
+        "q": "Which singer made 'Georgia on My Mind' a hit in 1960?",
+        "a": "Ray Charles"
+      },
+      {
+        "q": "Which guitarist closed Woodstock with a distorted 'Star-Spangled Banner'?",
+        "a": "Jimi Hendrix"
+      },
+      {
+        "q": "Which Britpop band released 'Parklife' in 1994?",
+        "a": "Blur"
+      },
+      {
+        "q": "Which rapper was fatally shot in Las Vegas in September 1996?",
+        "a": "Tupac Shakur"
+      },
+      {
+        "q": "Which rapper released the 1994 debut album 'Ready to Die'?",
+        "a": "The Notorious B.I.G."
+      },
+      {
+        "q": "Which rap group's 1988 debut album took its title from their California hometown?",
+        "a": "N.W.A"
+      },
+      {
+        "q": "Which band did Jim Morrison front?",
+        "a": "The Doors"
+      },
+      {
+        "q": "At what age did Hendrix, Joplin, Morrison and Cobain all die, giving a club its name?",
+        "a": "27"
+      },
+      {
+        "q": "Which Canadian singer-songwriter wrote 'Both Sides Now'?",
+        "a": "Joni Mitchell"
+      },
+      {
+        "q": "Which 1967 California festival is seen as the template for Woodstock?",
+        "a": "Monterey Pop"
+      },
+      {
+        "q": "Which jazz style did Charlie Parker and Dizzy Gillespie pioneer in the 1940s?",
+        "a": "Bebop"
+      },
+      {
+        "q": "Which dance genre grew from Cuban son and exploded in 1970s New York?",
+        "a": "Salsa"
+      },
+      {
+        "q": "Which Brazilian genre blends samba rhythm with jazz harmony?",
+        "a": "Bossa nova"
+      },
+      {
+        "q": "Which Argentine genre is traditionally played on the bandoneon?",
+        "a": "Tango"
+      },
+      {
+        "q": "Which German group released the pioneering electronic album 'Autobahn'?",
+        "a": "Kraftwerk"
+      },
+      {
+        "q": "Which American city is credited as the birthplace of jazz?",
+        "a": "New Orleans"
+      },
+      {
+        "q": "In what year did MTV first go on air?",
+        "a": "1981"
+      },
+      {
+        "q": "Which song was the first music video aired on MTV?",
+        "a": "Video Killed the Radio Star"
+      },
+      {
+        "q": "Which pop star was born Stefani Germanotta?",
+        "a": "Lady Gaga"
+      },
+      {
+        "q": "Which Scottish band released 'Take Me Out' in 2004?",
+        "a": "Franz Ferdinand"
+      },
+      {
+        "q": "Which singer released 'Since U Been Gone' in 2004?",
+        "a": "Kelly Clarkson"
+      },
+      {
+        "q": "Which band recorded 'Bitter Sweet Symphony'?",
+        "a": "The Verve"
+      },
+      {
+        "q": "Which dance genre emerged from Chicago clubs in the mid-1980s?",
+        "a": "House music"
+      },
+      {
+        "q": "Which metal band has Bruce Dickinson as its long-time singer?",
+        "a": "Iron Maiden"
+      },
+      {
+        "q": "Which 1980s pop duo did George Michael form with Andrew Ridgeley?",
+        "a": "Wham!"
+      },
+      {
+        "q": "Which artist won the 2020 Grammy for Album of the Year?",
+        "a": "Billie Eilish"
+      },
+      {
+        "q": "Which Nashville venue is called the Mother Church of Country Music?",
+        "a": "Ryman Auditorium"
+      },
+      {
+        "q": "Which weekly Nashville radio show has broadcast country music since 1925?",
+        "a": "Grand Ole Opry"
+      },
+      {
+        "q": "Which four-stringed fretted instrument developed in Hawaii in the 1880s?",
+        "a": "Ukulele"
+      },
+      {
+        "q": "Which 1985 charity single was recorded by USA for Africa?",
+        "a": "We Are the World"
+      },
+      {
+        "q": "Which Christmas charity single did Band Aid release in 1984?",
+        "a": "Do They Know It's Christmas?"
+      },
+      {
+        "q": "Which Belgian instrument maker patented a family of brass-bodied reed instruments in the 1840s?",
+        "a": "Adolphe Sax"
       }
     ],
     "600": [
@@ -23261,6 +34885,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Björk album from 1997 features 'Jóga' and 'Bachelorette'?",
         "a": "Homogenic"
+      },
+      {
+        "q": "Which composer's works are catalogued with BWV numbers?",
+        "a": "Bach"
+      },
+      {
+        "q": "Which English composer wrote the 'Enigma Variations'?",
+        "a": "Edward Elgar"
+      },
+      {
+        "q": "Which composer wrote 'Rhapsody on a Theme of Paganini'?",
+        "a": "Sergei Rachmaninoff"
+      },
+      {
+        "q": "Which Norwegian composer wrote the 'Peer Gynt' suites?",
+        "a": "Edvard Grieg"
+      },
+      {
+        "q": "Which Wagner opera contains the 'Ride of the Valkyries'?",
+        "a": "Die Walkure"
+      },
+      {
+        "q": "Which Italian virtuoso wrote the 24 Caprices for solo violin?",
+        "a": "Niccolo Paganini"
+      },
+      {
+        "q": "Which composer wrote the piano piece known as the 'Minute Waltz'?",
+        "a": "Frederic Chopin"
+      },
+      {
+        "q": "Which famous Beethoven piano piece is formally catalogued as Bagatelle No. 25?",
+        "a": "Fur Elise"
+      },
+      {
+        "q": "Which minor scale raises its seventh degree by a semitone?",
+        "a": "Harmonic minor"
+      },
+      {
+        "q": "Which mode is built on the fifth degree of the major scale?",
+        "a": "Mixolydian"
+      },
+      {
+        "q": "What is a triad built from a root, a minor third and a flattened fifth called?",
+        "a": "Diminished triad"
+      },
+      {
+        "q": "Which drummer led the Jazz Messengers for over three decades?",
+        "a": "Art Blakey"
+      },
+      {
+        "q": "Which jazz pianist composed 'Round Midnight'?",
+        "a": "Thelonious Monk"
+      },
+      {
+        "q": "Which fretless bass player joined Weather Report in 1976?",
+        "a": "Jaco Pastorius"
+      },
+      {
+        "q": "Which Bristol group released 'Blue Lines' in 1991?",
+        "a": "Massive Attack"
+      },
+      {
+        "q": "Which genre is Portishead's album 'Dummy' considered a landmark of?",
+        "a": "Trip hop"
+      },
+      {
+        "q": "Which engineer recorded Nirvana's 'In Utero'?",
+        "a": "Steve Albini"
+      },
+      {
+        "q": "Which producer, often called the fifth Beatle, oversaw most of the band's records?",
+        "a": "George Martin"
+      },
+      {
+        "q": "Which Curtis Mayfield album is the soundtrack to a 1972 blaxploitation film?",
+        "a": "Super Fly"
+      },
+      {
+        "q": "Which 1972 Stevie Wonder album contains 'Superstition'?",
+        "a": "Talking Book"
+      },
+      {
+        "q": "Which 1966 Beatles album opens with 'Taxman' and includes 'Eleanor Rigby'?",
+        "a": "Revolver"
+      },
+      {
+        "q": "Which Rolling Stones album opens with 'Gimme Shelter'?",
+        "a": "Let It Bleed"
+      },
+      {
+        "q": "Which rock opera by The Who centres on a deaf, dumb and blind boy?",
+        "a": "Tommy"
+      },
+      {
+        "q": "Which 1977 David Bowie album recorded in Berlin contains 'Sound and Vision'?",
+        "a": "Low"
+      },
+      {
+        "q": "Which Talking Heads album features 'Once in a Lifetime'?",
+        "a": "Remain in Light"
+      },
+      {
+        "q": "Which 1967 debut album has an Andy Warhol banana on its sleeve?",
+        "a": "The Velvet Underground and Nico"
+      },
+      {
+        "q": "Which 1991 shoegaze album by My Bloody Valentine took years and a fortune to finish?",
+        "a": "Loveless"
+      },
+      {
+        "q": "Which member produced the Wu-Tang Clan's early albums and led the group?",
+        "a": "RZA"
+      },
+      {
+        "q": "Which former Fugees member released a 1998 solo album that won the Grammy for Album of the Year?",
+        "a": "Lauryn Hill"
+      },
+      {
+        "q": "Which instrumental album did J Dilla release days before his death in 2006?",
+        "a": "Donuts"
+      },
+      {
+        "q": "Which Scottish electronic duo released 'Music Has the Right to Children'?",
+        "a": "Boards of Canada"
+      },
+      {
+        "q": "Which band released the 1998 cult album 'In the Aeroplane Over the Sea'?",
+        "a": "Neutral Milk Hotel"
+      },
+      {
+        "q": "Which Icelandic band recorded 'Hoppipolla'?",
+        "a": "Sigur Ros"
+      },
+      {
+        "q": "Which is the lowest-pitched woodwind instrument in a standard orchestra?",
+        "a": "Contrabassoon"
+      },
+      {
+        "q": "Which Italian term tells a string player to pluck rather than bow?",
+        "a": "Pizzicato"
+      },
+      {
+        "q": "Which Estonian composer wrote 'Spiegel im Spiegel'?",
+        "a": "Arvo Part"
+      },
+      {
+        "q": "Which minimalist composer wrote the opera 'Einstein on the Beach'?",
+        "a": "Philip Glass"
+      },
+      {
+        "q": "Which American composer wrote 'Music for 18 Musicians'?",
+        "a": "Steve Reich"
+      },
+      {
+        "q": "Which Nigerian bandleader created Afrobeat?",
+        "a": "Fela Kuti"
+      },
+      {
+        "q": "What is the melodic framework of Indian classical music called?",
+        "a": "Raga"
+      },
+      {
+        "q": "Which Japanese three-stringed plucked lute is played with a large plectrum?",
+        "a": "Shamisen"
+      },
+      {
+        "q": "Which Chinese two-stringed bowed instrument is held upright on the lap?",
+        "a": "Erhu"
+      },
+      {
+        "q": "Which song holds the record for most weeks at number one on the Billboard Hot 100?",
+        "a": "Old Town Road"
+      },
+      {
+        "q": "Which 1999 festival revival collapsed into fires, looting and riots in New York state?",
+        "a": "Woodstock 99"
+      },
+      {
+        "q": "Which Michael Jackson album did Nirvana's 'Nevermind' knock off the top of the Billboard album chart in 1992?",
+        "a": "Dangerous"
+      },
+      {
+        "q": "Which Radiohead album followed 'OK Computer' in 2000?",
+        "a": "Kid A"
+      },
+      {
+        "q": "Which 1975 Pink Floyd album was a tribute to Syd Barrett?",
+        "a": "Wish You Were Here"
+      },
+      {
+        "q": "Which 1973 Marvin Gaye album followed 'What's Going On'?",
+        "a": "Let's Get It On"
+      },
+      {
+        "q": "How many sharps are in the key signature of D major?",
+        "a": "2"
       }
     ]
   },
@@ -23509,6 +35329,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "In which 1995 film does a jungle board game come to life?",
         "a": "Jumanji"
+      },
+      {
+        "q": "In the original Star Wars trilogy, what is the name of Han Solo's freighter?",
+        "a": "Millennium Falcon"
+      },
+      {
+        "q": "In the Harry Potter films, what is the name of the school of witchcraft and wizardry?",
+        "a": "Hogwarts"
+      },
+      {
+        "q": "In the Harry Potter films, what sport is played on flying broomsticks?",
+        "a": "Quidditch"
+      },
+      {
+        "q": "In the Harry Potter films, what is the name of Harry's snowy owl?",
+        "a": "Hedwig"
+      },
+      {
+        "q": "In Finding Nemo, what is the name of the blue fish with short-term memory loss?",
+        "a": "Dory"
+      },
+      {
+        "q": "In Toy Story, what is the name of the space ranger action figure?",
+        "a": "Buzz Lightyear"
+      },
+      {
+        "q": "In Toy Story, what is the name of the boy who owns the toys?",
+        "a": "Andy"
+      },
+      {
+        "q": "In Frozen, what is the name of the talking snowman?",
+        "a": "Olaf"
+      },
+      {
+        "q": "In Frozen, what is the name of Elsa's younger sister?",
+        "a": "Anna"
+      },
+      {
+        "q": "In The Lion King, what is the name of the meerkat who sings with Pumbaa?",
+        "a": "Timon"
+      },
+      {
+        "q": "In The Lion King, what is the name of Simba's father?",
+        "a": "Mufasa"
+      },
+      {
+        "q": "In the Despicable Me films, what are Gru's small yellow henchmen called?",
+        "a": "Minions"
+      },
+      {
+        "q": "In Back to the Future, what is the nickname of the scientist who invents the time machine?",
+        "a": "Doc Brown"
+      },
+      {
+        "q": "In Jaws, Chief Brody says they are going to need a bigger what?",
+        "a": "Boat"
+      },
+      {
+        "q": "Which 1993 comedy features a divorced father disguising himself as an elderly Scottish nanny?",
+        "a": "Mrs. Doubtfire"
+      },
+      {
+        "q": "In WALL-E, what is the name of the sleek white robot that WALL-E falls for?",
+        "a": "EVE"
+      },
+      {
+        "q": "In Monsters, Inc., what is the name of the short green monster with one eye?",
+        "a": "Mike Wazowski"
+      },
+      {
+        "q": "In Up, what is the name of the young Wilderness Explorer who stows away?",
+        "a": "Russell"
+      },
+      {
+        "q": "In Coco, what realm does Miguel find himself trapped in?",
+        "a": "Land of the Dead"
+      },
+      {
+        "q": "What relic is Indiana Jones racing the Nazis to find in his 1981 debut film?",
+        "a": "The Ark of the Covenant"
+      },
+      {
+        "q": "In Peter Pan, what island do the children fly away to?",
+        "a": "Neverland"
+      },
+      {
+        "q": "In Aladdin, what is the name of the pickpocketing monkey?",
+        "a": "Abu"
+      },
+      {
+        "q": "In Beauty and the Beast, what is the name of the book-loving heroine?",
+        "a": "Belle"
+      },
+      {
+        "q": "In The Little Mermaid, what is the name of the crab who advises Ariel?",
+        "a": "Sebastian"
+      },
+      {
+        "q": "In Cars, what is the name of the rusty tow truck?",
+        "a": "Mater"
+      },
+      {
+        "q": "In Despicable Me, what is the name of the supervillain who adopts three girls?",
+        "a": "Gru"
+      },
+      {
+        "q": "In the first Star Wars film, what is the name of the Empire's moon-sized battle station?",
+        "a": "Death Star"
+      },
+      {
+        "q": "In The Lord of the Rings, what is the name of Frodo's loyal gardener?",
+        "a": "Samwise Gamgee"
+      },
+      {
+        "q": "In The Lord of the Rings, where must the One Ring be destroyed?",
+        "a": "Mount Doom"
+      },
+      {
+        "q": "In Jurassic Park, which dinosaurs stalk the children in the kitchen?",
+        "a": "Velociraptors"
+      },
+      {
+        "q": "Which 1984 comedy has a team driving the Ecto-1 to fight the supernatural in New York?",
+        "a": "Ghostbusters"
+      },
+      {
+        "q": "In Mary Poppins, what job does Bert do on London rooftops?",
+        "a": "Chimney sweep"
+      },
+      {
+        "q": "In The Karate Kid, what is the name of the handyman who trains Daniel?",
+        "a": "Mr. Miyagi"
+      },
+      {
+        "q": "Which 1942 Disney film follows a young deer whose mother is shot by hunters?",
+        "a": "Bambi"
+      },
+      {
+        "q": "In 101 Dalmatians, what is the name of the fur-obsessed villainess?",
+        "a": "Cruella de Vil"
+      },
+      {
+        "q": "In Willy Wonka and the Chocolate Factory, what must be found inside a candy bar to win a factory tour?",
+        "a": "A golden ticket"
+      },
+      {
+        "q": "In which city is Ratatouille set?",
+        "a": "Paris"
+      },
+      {
+        "q": "In The Polar Express, where is the train taking the children?",
+        "a": "North Pole"
+      },
+      {
+        "q": "In Zootopia, what kind of animal is the con artist Nick Wilde?",
+        "a": "Fox"
+      },
+      {
+        "q": "In Ice Age, what kind of animal is Manny?",
+        "a": "Mammoth"
+      },
+      {
+        "q": "In Toy Story, what is Buzz Lightyear's catchphrase?",
+        "a": "To infinity and beyond"
+      },
+      {
+        "q": "In The Matrix, what is the name of the man who offers Neo a choice of pills?",
+        "a": "Morpheus"
+      },
+      {
+        "q": "In Mean Girls, on what day of the week do the Plastics wear pink?",
+        "a": "Wednesday"
+      },
+      {
+        "q": "In which city do the friends wake up after a lost bachelor party in The Hangover?",
+        "a": "Las Vegas"
+      },
+      {
+        "q": "Which branch of the US military do the pilots in Top Gun belong to?",
+        "a": "Navy"
+      },
+      {
+        "q": "In The Jungle Book, what kind of animal is Shere Khan?",
+        "a": "Tiger"
+      },
+      {
+        "q": "In Sleeping Beauty, what is the name of the evil fairy who curses Aurora?",
+        "a": "Maleficent"
+      },
+      {
+        "q": "In Pinocchio, what is the name of the cricket who acts as his conscience?",
+        "a": "Jiminy Cricket"
+      },
+      {
+        "q": "In The Little Mermaid, what is the name of the mermaid who longs to live on land?",
+        "a": "Ariel"
+      },
+      {
+        "q": "In Star Wars, what is the name of the gold-plated protocol droid?",
+        "a": "C-3PO"
       }
     ],
     "400": [
@@ -23855,6 +35875,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which 2012 Bond film is named after 007's childhood home?",
         "a": "Skyfall"
+      },
+      {
+        "q": "What is the name of Luke Skywalker's desert home planet?",
+        "a": "Tatooine"
+      },
+      {
+        "q": "In the Harry Potter films, what is the name of the wizarding prison guarded by Dementors?",
+        "a": "Azkaban"
+      },
+      {
+        "q": "In the Harry Potter films, which Hogwarts house does Draco Malfoy belong to?",
+        "a": "Slytherin"
+      },
+      {
+        "q": "In Forrest Gump, what is the name of the shrimping company Forrest founds?",
+        "a": "Bubba Gump"
+      },
+      {
+        "q": "What is the name of the high school in Grease?",
+        "a": "Rydell High"
+      },
+      {
+        "q": "In Titanic, what kind of ticket does Jack win in a dockside card game?",
+        "a": "Third class"
+      },
+      {
+        "q": "What is the name of the cowgirl doll introduced in Toy Story 2?",
+        "a": "Jessie"
+      },
+      {
+        "q": "What is the name of Thor's hammer in the Marvel films?",
+        "a": "Mjolnir"
+      },
+      {
+        "q": "In Cars, what is the name of the sleepy Route 66 town where Lightning is stranded?",
+        "a": "Radiator Springs"
+      },
+      {
+        "q": "What is the surname of the family in Home Alone?",
+        "a": "McCallister"
+      },
+      {
+        "q": "In Toy Story, what is the name of the rocket-themed restaurant the toys visit?",
+        "a": "Pizza Planet"
+      },
+      {
+        "q": "In Big Hero 6, what is the name of the inflatable healthcare robot?",
+        "a": "Baymax"
+      },
+      {
+        "q": "In the Terminator films, what is the name of the artificial intelligence that starts the war?",
+        "a": "Skynet"
+      },
+      {
+        "q": "In Rocky, what is the name of the heavyweight champion who gives Rocky his title shot?",
+        "a": "Apollo Creed"
+      },
+      {
+        "q": "In Cast Away, which delivery company does Chuck Noland work for?",
+        "a": "FedEx"
+      },
+      {
+        "q": "Which Normandy landing site is recreated in the opening of Saving Private Ryan?",
+        "a": "Omaha Beach"
+      },
+      {
+        "q": "In Men in Black, what is the memory-erasing device called?",
+        "a": "Neuralyzer"
+      },
+      {
+        "q": "In Toy Story 3, what is the name of the daycare centre the toys are donated to?",
+        "a": "Sunnyside"
+      },
+      {
+        "q": "In Ghostbusters, what brand name is printed on the giant marshmallow man?",
+        "a": "Stay Puft"
+      },
+      {
+        "q": "In E.T. the Extra-Terrestrial, what candy is used to lure the alien into the house?",
+        "a": "Reese's Pieces"
+      },
+      {
+        "q": "What is the surname of the singing family in The Sound of Music?",
+        "a": "Von Trapp"
+      },
+      {
+        "q": "In Beauty and the Beast, what is the name of the enchanted candelabra?",
+        "a": "Lumiere"
+      },
+      {
+        "q": "In The Little Mermaid, what is the name of the sea witch?",
+        "a": "Ursula"
+      },
+      {
+        "q": "In Toy Story, what is the name of the nervous green dinosaur toy?",
+        "a": "Rex"
+      },
+      {
+        "q": "In Shrek, what is the name of the tiny ruler of Duloc?",
+        "a": "Lord Farquaad"
+      },
+      {
+        "q": "In Kung Fu Panda, what are the five kung fu masters collectively known as?",
+        "a": "Furious Five"
+      },
+      {
+        "q": "In The Dark Knight Rises, which masked villain breaks Batman's back?",
+        "a": "Bane"
+      },
+      {
+        "q": "What is the name of the nation in The Hunger Games?",
+        "a": "Panem"
+      },
+      {
+        "q": "In The Godfather, what legitimate business fronts the Corleone family?",
+        "a": "Olive oil"
+      },
+      {
+        "q": "In The Matrix, what is the name of the hovercraft crewed by Morpheus?",
+        "a": "Nebuchadnezzar"
+      },
+      {
+        "q": "In Jurassic Park, what is the name of the billionaire who builds the park?",
+        "a": "John Hammond"
+      },
+      {
+        "q": "In The Incredibles, what is the villain's chosen name?",
+        "a": "Syndrome"
+      },
+      {
+        "q": "In The Silence of the Lambs, what nickname does the press give the killer Clarice hunts?",
+        "a": "Buffalo Bill"
+      },
+      {
+        "q": "Which Christopher Nolan film follows two rival magicians in Victorian London?",
+        "a": "The Prestige"
+      },
+      {
+        "q": "Which Quentin Tarantino film features SS officer Hans Landa?",
+        "a": "Inglourious Basterds"
+      },
+      {
+        "q": "In which American city is The Departed set?",
+        "a": "Boston"
+      },
+      {
+        "q": "Which Best Picture winner follows Boston reporters investigating Catholic Church abuse?",
+        "a": "Spotlight"
+      },
+      {
+        "q": "Which mostly silent black-and-white film won Best Picture at the 2012 ceremony?",
+        "a": "The Artist"
+      },
+      {
+        "q": "Which Best Picture winner follows a classical pianist touring the segregated American South with his driver?",
+        "a": "Green Book"
+      },
+      {
+        "q": "Which Best Picture winner follows a widow living out of her van across the American West?",
+        "a": "Nomadland"
+      },
+      {
+        "q": "Which Christopher Nolan film about the atomic bomb won Best Picture?",
+        "a": "Oppenheimer"
+      },
+      {
+        "q": "In which 1993 comedy does a weatherman relive February 2nd over and over?",
+        "a": "Groundhog Day"
+      },
+      {
+        "q": "In Return of the Jedi, what is the name of the forest moon where the Ewoks live?",
+        "a": "Endor"
+      },
+      {
+        "q": "In Harry Potter and the Philosopher's Stone, what is the three-headed dog called?",
+        "a": "Fluffy"
+      },
+      {
+        "q": "In Jaws, what is the name of the grizzled shark hunter hired by the town?",
+        "a": "Quint"
+      },
+      {
+        "q": "In Alien, what is the surname of the officer who survives the Nostromo?",
+        "a": "Ripley"
+      },
+      {
+        "q": "In Terminator 2, what model designation is the shape-shifting assassin?",
+        "a": "T-1000"
+      },
+      {
+        "q": "What is the name of the Los Angeles skyscraper seized by terrorists in Die Hard?",
+        "a": "Nakatomi Plaza"
+      },
+      {
+        "q": "On which ice planet does The Empire Strikes Back open?",
+        "a": "Hoth"
       }
     ],
     "600": [
@@ -24169,6 +36385,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Park Chan-wook film features a man imprisoned for 15 years without explanation?",
         "a": "Oldboy"
+      },
+      {
+        "q": "What is the name of the Catskills resort where Dirty Dancing takes place?",
+        "a": "Kellerman's"
+      },
+      {
+        "q": "In Wreck-It Ralph, what arcade game does Ralph come from?",
+        "a": "Fix-It Felix Jr."
+      },
+      {
+        "q": "In The Shining, what word does Danny scrawl in lipstick on the door?",
+        "a": "REDRUM"
+      },
+      {
+        "q": "What is the name of the cat aboard the ship in Alien?",
+        "a": "Jones"
+      },
+      {
+        "q": "In Blade Runner, what test is used to identify replicants?",
+        "a": "Voight-Kampff"
+      },
+      {
+        "q": "In The Big Lebowski, what cocktail does the Dude drink throughout?",
+        "a": "White Russian"
+      },
+      {
+        "q": "In Fargo, what is the full name of the pregnant police chief?",
+        "a": "Marge Gunderson"
+      },
+      {
+        "q": "In The Usual Suspects, what is the name of the near-mythical crime lord?",
+        "a": "Keyser Soze"
+      },
+      {
+        "q": "In Fight Club, what is the name of the woman the narrator meets at support groups?",
+        "a": "Marla Singer"
+      },
+      {
+        "q": "In No Country for Old Men, what unusual weapon does Anton Chigurh carry?",
+        "a": "Captive bolt pistol"
+      },
+      {
+        "q": "In Apocalypse Now, what is the surname of the renegade colonel Willard is sent to find?",
+        "a": "Kurtz"
+      },
+      {
+        "q": "In Full Metal Jacket, what is the surname of the drill instructor?",
+        "a": "Hartman"
+      },
+      {
+        "q": "In Dr. Strangelove, which general orders the unauthorized nuclear strike?",
+        "a": "General Ripper"
+      },
+      {
+        "q": "In 2001: A Space Odyssey, what black object appears to the apes in the opening sequence?",
+        "a": "Monolith"
+      },
+      {
+        "q": "Which stringed instrument provides the famous score of The Third Man?",
+        "a": "Zither"
+      },
+      {
+        "q": "What is the name of Charles Foster Kane's vast estate?",
+        "a": "Xanadu"
+      },
+      {
+        "q": "In Sunset Boulevard, what is the name of the faded silent-film star?",
+        "a": "Norma Desmond"
+      },
+      {
+        "q": "In Casablanca, which song does Ilsa ask Sam to play?",
+        "a": "As Time Goes By"
+      },
+      {
+        "q": "In Casablanca, what documents does everyone want in order to escape to Lisbon?",
+        "a": "Letters of transit"
+      },
+      {
+        "q": "What is the name of the O'Hara family plantation in Gone with the Wind?",
+        "a": "Tara"
+      },
+      {
+        "q": "What vehicles are used in the climactic arena contest of Ben-Hur?",
+        "a": "Chariots"
+      },
+      {
+        "q": "Which 1952 musical satirizes Hollywood's painful switch to sound pictures?",
+        "a": "Singin' in the Rain"
+      },
+      {
+        "q": "Which 1927 release is widely called the first feature-length film with synchronized dialogue?",
+        "a": "The Jazz Singer"
+      },
+      {
+        "q": "Which 1902 Georges Melies short is famous for a capsule lodged in a giant face in the sky?",
+        "a": "A Trip to the Moon"
+      },
+      {
+        "q": "Who directed the 1938 screwball comedy Bringing Up Baby?",
+        "a": "Howard Hawks"
+      },
+      {
+        "q": "Who directed the sprawling ensemble films MASH and Nashville?",
+        "a": "Robert Altman"
+      },
+      {
+        "q": "Who directed the 1993 period drama The Piano?",
+        "a": "Jane Campion"
+      },
+      {
+        "q": "Who was the first woman to win the Academy Award for Best Director?",
+        "a": "Kathryn Bigelow"
+      },
+      {
+        "q": "Which Iraq War film about a bomb disposal unit won Best Picture at the 2010 ceremony?",
+        "a": "The Hurt Locker"
+      },
+      {
+        "q": "Which director holds the record with four Best Director Oscars?",
+        "a": "John Ford"
+      },
+      {
+        "q": "Which individual holds the record for the most Academy Award nominations?",
+        "a": "Walt Disney"
+      },
+      {
+        "q": "Which performer holds the record for the most Academy Awards for acting?",
+        "a": "Katharine Hepburn"
+      },
+      {
+        "q": "Which film was the first sequel ever to win Best Picture?",
+        "a": "The Godfather Part II"
+      },
+      {
+        "q": "Which animated feature was the first ever nominated for Best Picture?",
+        "a": "Beauty and the Beast"
+      },
+      {
+        "q": "In Spirited Away, what is the name of the witch who runs the bathhouse?",
+        "a": "Yubaba"
+      },
+      {
+        "q": "Which Studio Ghibli film features a walking castle powered by the fire demon Calcifer?",
+        "a": "Howl's Moving Castle"
+      },
+      {
+        "q": "In the 1988 anime Akira, what city is the story set in?",
+        "a": "Neo-Tokyo"
+      },
+      {
+        "q": "Which Bong Joon-ho film takes place on a train endlessly circling a frozen Earth?",
+        "a": "Snowpiercer"
+      },
+      {
+        "q": "In Get Out, what is the hypnotic mental void called?",
+        "a": "The Sunken Place"
+      },
+      {
+        "q": "In the 2015 horror film The Witch, what is the name of the black goat?",
+        "a": "Black Phillip"
+      },
+      {
+        "q": "In La La Land, what does Sebastian name the jazz club he finally opens?",
+        "a": "Seb's"
+      },
+      {
+        "q": "In Mulholland Drive, what is the name of the theatre where the singer collapses?",
+        "a": "Club Silencio"
+      },
+      {
+        "q": "In The Matrix, which crew member betrays the group to the Agents?",
+        "a": "Cypher"
+      },
+      {
+        "q": "Which Philadelphia landmark's steps does Rocky famously run up?",
+        "a": "Museum of Art"
+      },
+      {
+        "q": "In 12 Angry Men, which juror number is the lone initial vote for not guilty?",
+        "a": "Eight"
+      },
+      {
+        "q": "In One Flew Over the Cuckoo's Nest, what is the surname of the ward's head nurse?",
+        "a": "Ratched"
+      },
+      {
+        "q": "In A Clockwork Orange, what is the name of the bar where Alex and his droogs drink?",
+        "a": "Korova Milk Bar"
+      },
+      {
+        "q": "In The Godfather, what is the name of the young woman Michael marries in Sicily?",
+        "a": "Apollonia"
+      },
+      {
+        "q": "In Jurassic Park, which computer programmer sabotages the park's security?",
+        "a": "Dennis Nedry"
+      },
+      {
+        "q": "What is the name of the sword reforged for Aragorn in The Lord of the Rings?",
+        "a": "Anduril"
       }
     ]
   },
@@ -24361,6 +36777,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the small text files websites store on your browser?",
         "a": "Cookies"
+      },
+      {
+        "q": "In which country is Samsung headquartered?",
+        "a": "South Korea"
+      },
+      {
+        "q": "Which short-video app is owned by ByteDance?",
+        "a": "TikTok"
+      },
+      {
+        "q": "Which app with a ghost logo made disappearing photo messages popular?",
+        "a": "Snapchat"
+      },
+      {
+        "q": "Which key on a Windows keyboard reloads the current web page?",
+        "a": "F5"
+      },
+      {
+        "q": "Which keyboard shortcut copies selected text on Windows?",
+        "a": "Ctrl+C"
+      },
+      {
+        "q": "What do the letters 'cc' stand for in an email header?",
+        "a": "Carbon copy"
+      },
+      {
+        "q": "Which music streaming service was founded in Sweden?",
+        "a": "Spotify"
+      },
+      {
+        "q": "What is the name of the free online encyclopedia that volunteers can edit?",
+        "a": "Wikipedia"
+      },
+      {
+        "q": "Which company makes the ThinkPad laptop line?",
+        "a": "Lenovo"
+      },
+      {
+        "q": "Which company makes the XPS laptop line?",
+        "a": "Dell"
+      },
+      {
+        "q": "What are Apple's wireless earbuds called?",
+        "a": "AirPods"
+      },
+      {
+        "q": "What is the name of Google's file storage and sync service?",
+        "a": "Google Drive"
+      },
+      {
+        "q": "What is the name of Apple's online backup and photo service?",
+        "a": "iCloud"
+      },
+      {
+        "q": "Which company makes the Roomba robot vacuum?",
+        "a": "iRobot"
+      },
+      {
+        "q": "What is the common term for unwanted junk email?",
+        "a": "Spam"
+      },
+      {
+        "q": "Which company runs the Steam digital game store?",
+        "a": "Valve"
+      },
+      {
+        "q": "What is the name of the login security step that asks for a code as well as a password?",
+        "a": "Two-factor authentication"
+      },
+      {
+        "q": "What is the small profile picture representing a user online called?",
+        "a": "Avatar"
+      },
+      {
+        "q": "What is the name of the official app store on Android phones?",
+        "a": "Google Play"
+      },
+      {
+        "q": "What type of malware locks your files and demands payment?",
+        "a": "Ransomware"
+      },
+      {
+        "q": "What is the term for fake emails designed to steal your passwords?",
+        "a": "Phishing"
+      },
+      {
+        "q": "Which streaming service launched in 2019 is the exclusive home of Marvel and Pixar originals?",
+        "a": "Disney+"
+      },
+      {
+        "q": "What is the tiny memory card format used in phones and action cameras?",
+        "a": "MicroSD"
+      },
+      {
+        "q": "Which carmaker sells a driver-assistance system called Autopilot?",
+        "a": "Tesla"
+      },
+      {
+        "q": "Which chat app with voice channels and servers became the default hangout for gamers?",
+        "a": "Discord"
+      },
+      {
+        "q": "How many characters can a standard post on X contain?",
+        "a": "280"
+      },
+      {
+        "q": "What is Amazon's film and TV streaming service called?",
+        "a": "Prime Video"
+      },
+      {
+        "q": "What is the tap-to-pay wallet system on iPhones called?",
+        "a": "Apple Pay"
+      },
+      {
+        "q": "What was the name of the charging connector iPhones used before switching to USB-C?",
+        "a": "Lightning"
+      },
+      {
+        "q": "What is the common name for a small portable storage stick that plugs into a USB port?",
+        "a": "Flash drive"
+      },
+      {
+        "q": "Which key moves the cursor to the next field in an on-screen form?",
+        "a": "Tab"
+      },
+      {
+        "q": "Which social site's mascot is an alien named Snoo?",
+        "a": "Reddit"
+      },
+      {
+        "q": "What is the term for an automated program that posts or acts online without a human?",
+        "a": "Bot"
+      },
+      {
+        "q": "Which video-calling service did Microsoft buy in 2011?",
+        "a": "Skype"
+      },
+      {
+        "q": "Which social platform is built around saving images to boards?",
+        "a": "Pinterest"
+      },
+      {
+        "q": "What is the name of the leading live-streaming platform for video gamers?",
+        "a": "Twitch"
+      },
+      {
+        "q": "Which company owns Twitch?",
+        "a": "Amazon"
+      },
+      {
+        "q": "Which online marketplace specialises in handmade and vintage goods?",
+        "a": "Etsy"
+      },
+      {
+        "q": "Which file extension do modern Microsoft Word documents use?",
+        "a": ".docx"
+      },
+      {
+        "q": "What is the spreadsheet program in Microsoft Office called?",
+        "a": "Excel"
+      },
+      {
+        "q": "Which pink-branded ride-hailing app is Uber's main US rival?",
+        "a": "Lyft"
+      },
+      {
+        "q": "Which company, founded in 2008, lets people rent out their homes to travellers?",
+        "a": "Airbnb"
+      },
+      {
+        "q": "What is Apple's facial-recognition unlock system called?",
+        "a": "Face ID"
+      },
+      {
+        "q": "What was Apple's fingerprint unlock system called?",
+        "a": "Touch ID"
+      },
+      {
+        "q": "What is the name of the wireless charging standard used by most phones?",
+        "a": "Qi"
+      },
+      {
+        "q": "Which key do you hold to select several separate files at once on Windows?",
+        "a": "Ctrl"
+      },
+      {
+        "q": "What is the term for a computer's start-up process?",
+        "a": "Booting"
       }
     ],
     "400": [
@@ -24631,6 +37235,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does 'QR' stand for in QR code?",
         "a": "Quick Response"
+      },
+      {
+        "q": "In which year did Google acquire YouTube?",
+        "a": "2006"
+      },
+      {
+        "q": "How much did Google pay for YouTube?",
+        "a": "1.65 billion dollars"
+      },
+      {
+        "q": "How much did Facebook pay for WhatsApp in 2014?",
+        "a": "19 billion dollars"
+      },
+      {
+        "q": "Who co-founded WhatsApp with Brian Acton?",
+        "a": "Jan Koum"
+      },
+      {
+        "q": "In which year did Apple open its App Store?",
+        "a": "2008"
+      },
+      {
+        "q": "In which country was the Opera web browser created?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which web browser is developed by the Mozilla Foundation?",
+        "a": "Firefox"
+      },
+      {
+        "q": "What was Firefox originally named at launch in 2002?",
+        "a": "Phoenix"
+      },
+      {
+        "q": "What is the name of the credit-card-sized single-board computer launched by a British foundation in 2012?",
+        "a": "Raspberry Pi"
+      },
+      {
+        "q": "Which programming language used for statistics is named with a single letter?",
+        "a": "R"
+      },
+      {
+        "q": "Which open-source relational database uses a dolphin as its mascot?",
+        "a": "MySQL"
+      },
+      {
+        "q": "Which open-source relational database uses an elephant as its mascot?",
+        "a": "PostgreSQL"
+      },
+      {
+        "q": "What is the name of Google's container orchestration system, often shortened to K8s?",
+        "a": "Kubernetes"
+      },
+      {
+        "q": "Which Apple laptop did Steve Jobs unveil in 2008 by sliding it out of a manila envelope?",
+        "a": "MacBook Air"
+      },
+      {
+        "q": "In which year did Apple discontinue its last iPod model?",
+        "a": "2022"
+      },
+      {
+        "q": "Which company created the portable cassette player known as the Walkman?",
+        "a": "Sony"
+      },
+      {
+        "q": "Which company made the Zune music player?",
+        "a": "Microsoft"
+      },
+      {
+        "q": "Which phone maker's handsets ran the Symbian operating system in the 2000s?",
+        "a": "Nokia"
+      },
+      {
+        "q": "Which 2003 Nokia handset is the best-selling mobile phone of all time?",
+        "a": "Nokia 1100"
+      },
+      {
+        "q": "Which Canadian company made the business phones famous for their physical keyboards?",
+        "a": "BlackBerry"
+      },
+      {
+        "q": "Which company bought Nokia's handset division in 2014?",
+        "a": "Microsoft"
+      },
+      {
+        "q": "Which Taiwanese company sells gaming hardware under the Republic of Gamers brand?",
+        "a": "Asus"
+      },
+      {
+        "q": "Which Taiwanese firm is the world's largest contract manufacturer of computer chips?",
+        "a": "TSMC"
+      },
+      {
+        "q": "Which British company designs the processor architecture licensed for most smartphone chips?",
+        "a": "Arm"
+      },
+      {
+        "q": "In which year did Intel launch the Pentium processor?",
+        "a": "1993"
+      },
+      {
+        "q": "In which year was Google Chrome first released?",
+        "a": "2008"
+      },
+      {
+        "q": "Which social network, famous for its Top 8 friends list, was the biggest before Facebook?",
+        "a": "MySpace"
+      },
+      {
+        "q": "Which media conglomerate bought MySpace in 2005?",
+        "a": "News Corp"
+      },
+      {
+        "q": "In which year did Google go public?",
+        "a": "2004"
+      },
+      {
+        "q": "Who created the Ethereum blockchain?",
+        "a": "Vitalik Buterin"
+      },
+      {
+        "q": "What is the maximum number of bitcoins that can ever exist?",
+        "a": "21 million"
+      },
+      {
+        "q": "Which modern messaging standard replaced SMS on Android with typing indicators and read receipts?",
+        "a": "RCS"
+      },
+      {
+        "q": "How many pixels wide is a standard 4K television picture?",
+        "a": "3840"
+      },
+      {
+        "q": "Bluetooth takes its name from a 10th-century king of which country?",
+        "a": "Denmark"
+      },
+      {
+        "q": "Which company built the first commercial hard disk drive in 1956?",
+        "a": "IBM"
+      },
+      {
+        "q": "In which year did Wikipedia launch?",
+        "a": "2001"
+      },
+      {
+        "q": "Who co-founded Wikipedia with Larry Sanger?",
+        "a": "Jimmy Wales"
+      },
+      {
+        "q": "In which year did Google buy the startup that built Android?",
+        "a": "2005"
+      },
+      {
+        "q": "Who led the startup that created Android before Google acquired it?",
+        "a": "Andy Rubin"
+      },
+      {
+        "q": "Android releases were long code-named after what kind of food?",
+        "a": "Desserts"
+      },
+      {
+        "q": "What is Tesla's network of fast charging stations called?",
+        "a": "Supercharger"
+      },
+      {
+        "q": "In which year did Tesla begin selling the Model S?",
+        "a": "2012"
+      },
+      {
+        "q": "Which smartwatch brand ran a record-breaking Kickstarter campaign in 2012?",
+        "a": "Pebble"
+      },
+      {
+        "q": "Which company bought the smart thermostat maker Nest in 2014?",
+        "a": "Google"
+      },
+      {
+        "q": "What is ByteDance's short-video app called inside China?",
+        "a": "Douyin"
+      },
+      {
+        "q": "What is Sony's mirrorless camera range called?",
+        "a": "Alpha"
+      },
+      {
+        "q": "What is the name of Valve's handheld gaming PC released in 2022?",
+        "a": "Steam Deck"
       }
     ],
     "600": [
@@ -24945,6 +37737,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What does 'SPA' stand for in web development?",
         "a": "Single Page Application"
+      },
+      {
+        "q": "Which port number does SSH use by default?",
+        "a": "22"
+      },
+      {
+        "q": "How many bits long is an IPv4 address?",
+        "a": "32"
+      },
+      {
+        "q": "Which IP address is the standard loopback for the local machine?",
+        "a": "127.0.0.1"
+      },
+      {
+        "q": "Which HTTP status code signals an internal server error?",
+        "a": "500"
+      },
+      {
+        "q": "What does 'RAID' stand for in storage?",
+        "a": "Redundant Array of Independent Disks"
+      },
+      {
+        "q": "What was the name of the 1971 self-replicating program that spread across ARPANET?",
+        "a": "Creeper"
+      },
+      {
+        "q": "What is the name of the 1988 worm that crippled much of the early internet?",
+        "a": "Morris worm"
+      },
+      {
+        "q": "In which year did the ILOVEYOU email virus spread worldwide?",
+        "a": "2000"
+      },
+      {
+        "q": "Which processor flaw was disclosed alongside Meltdown in 2018?",
+        "a": "Spectre"
+      },
+      {
+        "q": "What does 'AES' stand for in cryptography?",
+        "a": "Advanced Encryption Standard"
+      },
+      {
+        "q": "In which year did Microsoft release the first version of Windows NT?",
+        "a": "1993"
+      },
+      {
+        "q": "What is the name of the penguin mascot of the Linux kernel?",
+        "a": "Tux"
+      },
+      {
+        "q": "Which Linux distribution is Ubuntu built on?",
+        "a": "Debian"
+      },
+      {
+        "q": "Which company acquired Red Hat in 2019?",
+        "a": "IBM"
+      },
+      {
+        "q": "Who wrote the software engineering classic 'The Mythical Man-Month'?",
+        "a": "Fred Brooks"
+      },
+      {
+        "q": "What does 'ASCII' stand for?",
+        "a": "American Standard Code for Information Interchange"
+      },
+      {
+        "q": "Which text-encoding standard assigns code points to every script and to emoji?",
+        "a": "Unicode"
+      },
+      {
+        "q": "Who designed the original 1990s Japanese emoji set?",
+        "a": "Shigetaka Kurita"
+      },
+      {
+        "q": "Who invented Ethernet while working at Xerox?",
+        "a": "Robert Metcalfe"
+      },
+      {
+        "q": "What is the name of the Xerox research centre where the graphical desktop was pioneered?",
+        "a": "PARC"
+      },
+      {
+        "q": "What was the name of Apple's handheld device with handwriting recognition, launched in 1993?",
+        "a": "Newton"
+      },
+      {
+        "q": "Which colourful translucent Apple desktop was launched in 1998?",
+        "a": "iMac"
+      },
+      {
+        "q": "Which British designer led Apple's hardware design team for two decades?",
+        "a": "Jony Ive"
+      },
+      {
+        "q": "In which year did Steve Jobs return to run Apple?",
+        "a": "1997"
+      },
+      {
+        "q": "Which company did Apple buy in 1997, bringing Steve Jobs back?",
+        "a": "NeXT"
+      },
+      {
+        "q": "Which operating system from Jobs' second company became the foundation of macOS?",
+        "a": "NeXTSTEP"
+      },
+      {
+        "q": "What does the 'DOS' in MS-DOS stand for?",
+        "a": "Disk Operating System"
+      },
+      {
+        "q": "What is the name of the link-analysis algorithm at the heart of Google's original search?",
+        "a": "PageRank"
+      },
+      {
+        "q": "What does 'LLM' stand for in artificial intelligence?",
+        "a": "Large Language Model"
+      },
+      {
+        "q": "What does 'GAN' stand for in machine learning?",
+        "a": "Generative Adversarial Network"
+      },
+      {
+        "q": "Which deep learning pioneer resigned from Google in 2023 to speak freely about AI risk?",
+        "a": "Geoffrey Hinton"
+      },
+      {
+        "q": "What is the name of the DeepMind program that mastered the board game Go?",
+        "a": "AlphaGo"
+      },
+      {
+        "q": "Which Korean Go champion lost a five-game match to DeepMind's program in 2016?",
+        "a": "Lee Sedol"
+      },
+      {
+        "q": "Which IBM computer defeated Garry Kasparov at chess in 1997?",
+        "a": "Deep Blue"
+      },
+      {
+        "q": "Which IBM system won the US quiz show Jeopardy! in 2011?",
+        "a": "Watson"
+      },
+      {
+        "q": "How many layers does the OSI networking model have?",
+        "a": "Seven"
+      },
+      {
+        "q": "Which sorting algorithm invented by Tony Hoare partitions data around a pivot?",
+        "a": "Quicksort"
+      },
+      {
+        "q": "Which data structure removes the most recently added item first?",
+        "a": "Stack"
+      },
+      {
+        "q": "Who wrote the multi-volume work 'The Art of Computer Programming'?",
+        "a": "Donald Knuth"
+      },
+      {
+        "q": "Which typesetting system did Donald Knuth create for mathematical writing?",
+        "a": "TeX"
+      },
+      {
+        "q": "What does 'BGP' stand for in internet routing?",
+        "a": "Border Gateway Protocol"
+      },
+      {
+        "q": "Which technical standard name corresponds to the Wi-Fi generation marketed as Wi-Fi 6?",
+        "a": "802.11ax"
+      },
+      {
+        "q": "Which company sold the first commercial handheld mobile phone in 1983?",
+        "a": "Motorola"
+      },
+      {
+        "q": "Who made the first handheld mobile phone call in 1973?",
+        "a": "Martin Cooper"
+      },
+      {
+        "q": "In which year was the first text message sent?",
+        "a": "1992"
+      },
+      {
+        "q": "What two words did the first text message say?",
+        "a": "Merry Christmas"
+      },
+      {
+        "q": "In which year was the transistor invented?",
+        "a": "1947"
+      },
+      {
+        "q": "What is the modern firmware standard that replaced the traditional PC BIOS?",
+        "a": "UEFI"
+      },
+      {
+        "q": "Which company agreed to buy the design tool Figma in 2022 before the deal was abandoned?",
+        "a": "Adobe"
       }
     ]
   },
@@ -25225,6 +38213,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which country's capital is Prague?",
         "a": "Czech Republic"
+      },
+      {
+        "q": "The Christ the Redeemer statue stands in which country?",
+        "a": "Brazil"
+      },
+      {
+        "q": "The Colosseum stands in which country?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which country's flag is a white cross on a red square?",
+        "a": "Switzerland"
+      },
+      {
+        "q": "Which country's flag carries fifty stars?",
+        "a": "United States"
+      },
+      {
+        "q": "The Sydney Opera House is in which country?",
+        "a": "Australia"
+      },
+      {
+        "q": "The Mayan ruins of Chichen Itza are in which country?",
+        "a": "Mexico"
+      },
+      {
+        "q": "Which country's flag shows a white crescent moon and star on red?",
+        "a": "Turkey"
+      },
+      {
+        "q": "The Running of the Bulls in Pamplona is held in which country?",
+        "a": "Spain"
+      },
+      {
+        "q": "Loch Ness lies in which country?",
+        "a": "Scotland"
+      },
+      {
+        "q": "Which country's best known national dish is kimchi?",
+        "a": "South Korea"
+      },
+      {
+        "q": "Which country's currency is the yuan?",
+        "a": "China"
+      },
+      {
+        "q": "The fairytale castle of Neuschwanstein is in which country?",
+        "a": "Germany"
+      },
+      {
+        "q": "Visitors kiss the Blarney Stone in which country?",
+        "a": "Ireland"
+      },
+      {
+        "q": "Table Mountain rises in which country?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Which country's national anthem is La Marseillaise?",
+        "a": "France"
+      },
+      {
+        "q": "Which country's flag features a blue Star of David?",
+        "a": "Israel"
+      },
+      {
+        "q": "The Valley of the Kings burial site is in which country?",
+        "a": "Egypt"
+      },
+      {
+        "q": "Which country was the birthplace of the ancient Olympic Games?",
+        "a": "Greece"
+      },
+      {
+        "q": "Which country's flag has a navy blue 24-spoked wheel at its centre?",
+        "a": "India"
+      },
+      {
+        "q": "The Shinkansen bullet train network runs in which country?",
+        "a": "Japan"
+      },
+      {
+        "q": "Which country's football team won the 2022 World Cup?",
+        "a": "Argentina"
+      },
+      {
+        "q": "The Kremlin fortress is in which country?",
+        "a": "Russia"
+      },
+      {
+        "q": "The mournful music style called fado comes from which country?",
+        "a": "Portugal"
+      },
+      {
+        "q": "The Nazca Lines are etched into the desert of which country?",
+        "a": "Peru"
+      },
+      {
+        "q": "Which country's rugby team performs the haka before matches?",
+        "a": "New Zealand"
+      },
+      {
+        "q": "The Horseshoe Falls section of Niagara Falls belongs to which country?",
+        "a": "Canada"
+      },
+      {
+        "q": "Which country is nicknamed the Land of Smiles?",
+        "a": "Thailand"
+      },
+      {
+        "q": "The noodle soup pho comes from which country?",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Which country is famous for hand-rolled cigars and 1950s American cars still on the road?",
+        "a": "Cuba"
+      },
+      {
+        "q": "The furniture giant IKEA was founded in which country?",
+        "a": "Sweden"
+      },
+      {
+        "q": "The Little Mermaid harbour statue is in which country?",
+        "a": "Denmark"
+      },
+      {
+        "q": "Mozart was born in which country?",
+        "a": "Austria"
+      },
+      {
+        "q": "Which country hosts the main institutions of the European Union?",
+        "a": "Belgium"
+      },
+      {
+        "q": "Reggae music originated in which country?",
+        "a": "Jamaica"
+      },
+      {
+        "q": "The region of Transylvania lies in which country?",
+        "a": "Romania"
+      },
+      {
+        "q": "The Grand Canyon is in which country?",
+        "a": "United States"
+      },
+      {
+        "q": "The Leaning Tower of Pisa is in which country?",
+        "a": "Italy"
+      },
+      {
+        "q": "The buried Terracotta Army was discovered in which country?",
+        "a": "China"
+      },
+      {
+        "q": "The Day of the Dead is celebrated as a national holiday in which country?",
+        "a": "Mexico"
+      },
+      {
+        "q": "The Anne Frank House museum is in which country?",
+        "a": "Netherlands"
+      },
+      {
+        "q": "Which country's flag is popularly known as the Union Jack?",
+        "a": "United Kingdom"
+      },
+      {
+        "q": "The Cannes Film Festival is held in which country?",
+        "a": "France"
+      },
+      {
+        "q": "The ruined Roman city of Pompeii lies in which country?",
+        "a": "Italy"
+      },
+      {
+        "q": "Which country's flag shows a blue globe inside a yellow diamond?",
+        "a": "Brazil"
+      },
+      {
+        "q": "The sandstone monolith Uluru is in which country?",
+        "a": "Australia"
+      },
+      {
+        "q": "The kimono is the traditional garment of which country?",
+        "a": "Japan"
+      },
+      {
+        "q": "The Alhambra palace in Granada is in which country?",
+        "a": "Spain"
       }
     ],
     "400": [
@@ -25495,6 +38671,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which country's capital is Amman?",
         "a": "Jordan"
+      },
+      {
+        "q": "Which is the largest country in Africa by land area?",
+        "a": "Algeria"
+      },
+      {
+        "q": "Which country is the world's biggest exporter of cut flowers?",
+        "a": "Netherlands"
+      },
+      {
+        "q": "The Komodo dragon lives in the wild only in which country?",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Which country awards the Nobel Peace Prize?",
+        "a": "Norway"
+      },
+      {
+        "q": "Which country's currency is the zloty?",
+        "a": "Poland"
+      },
+      {
+        "q": "Which country drinks the most beer per person in the world?",
+        "a": "Czech Republic"
+      },
+      {
+        "q": "Which country's language is known to its own speakers as Magyar?",
+        "a": "Hungary"
+      },
+      {
+        "q": "Which country's flag shows a sword beneath a line of Arabic script?",
+        "a": "Saudi Arabia"
+      },
+      {
+        "q": "Which country is a federation of seven states including Dubai, Sharjah and Ajman?",
+        "a": "United Arab Emirates"
+      },
+      {
+        "q": "Which country is a city-state at the southern tip of the Malay Peninsula?",
+        "a": "Singapore"
+      },
+      {
+        "q": "Which Southeast Asian country is made up of more than 7,000 islands?",
+        "a": "Philippines"
+      },
+      {
+        "q": "K2, the world's second highest mountain, is climbed from which country?",
+        "a": "Pakistan"
+      },
+      {
+        "q": "The walled city of Dubrovnik, used as King's Landing on screen, is in which country?",
+        "a": "Croatia"
+      },
+      {
+        "q": "Which country is nicknamed the breadbasket of Europe for its wheat exports?",
+        "a": "Ukraine"
+      },
+      {
+        "q": "Which country was officially known abroad as Persia until 1935?",
+        "a": "Iran"
+      },
+      {
+        "q": "Most of ancient Mesopotamia, between the Tigris and Euphrates, lies in which modern country?",
+        "a": "Iraq"
+      },
+      {
+        "q": "Which is the largest landlocked country in the world?",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Which country is the world's leading source of emeralds?",
+        "a": "Colombia"
+      },
+      {
+        "q": "The Moomin characters were created in which country?",
+        "a": "Finland"
+      },
+      {
+        "q": "The geothermal spa known as the Blue Lagoon is in which country?",
+        "a": "Iceland"
+      },
+      {
+        "q": "The Maya city of Tikal is in which country?",
+        "a": "Guatemala"
+      },
+      {
+        "q": "The Suez Canal runs through which country?",
+        "a": "Egypt"
+      },
+      {
+        "q": "Which country's currency is the shekel?",
+        "a": "Israel"
+      },
+      {
+        "q": "Gouda and Edam cheeses are named after towns in which country?",
+        "a": "Netherlands"
+      },
+      {
+        "q": "Afrikaans is an official language of which country?",
+        "a": "South Africa"
+      },
+      {
+        "q": "Which country's flag has a golden sun with a human face at its centre?",
+        "a": "Argentina"
+      },
+      {
+        "q": "Which country's flag shows an eagle perched on a cactus eating a snake?",
+        "a": "Mexico"
+      },
+      {
+        "q": "Which country's flag features a red dragon on a green and white field?",
+        "a": "Wales"
+      },
+      {
+        "q": "Mount Etna, Europe's most active volcano, is in which country?",
+        "a": "Italy"
+      },
+      {
+        "q": "The cave dwellings and balloon rides of Cappadocia are in which country?",
+        "a": "Turkey"
+      },
+      {
+        "q": "Which country's currency is the dong?",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Which country uses the international vehicle code CH?",
+        "a": "Switzerland"
+      },
+      {
+        "q": "Which is the most populous member state of the European Union?",
+        "a": "Germany"
+      },
+      {
+        "q": "Which country receives the most international tourist arrivals each year?",
+        "a": "France"
+      },
+      {
+        "q": "Which country has the world's oldest continuous hereditary monarchy?",
+        "a": "Japan"
+      },
+      {
+        "q": "Which country governed Macau until handing it to China in 1999?",
+        "a": "Portugal"
+      },
+      {
+        "q": "Which European power ruled the Philippines for over three centuries before 1898?",
+        "a": "Spain"
+      },
+      {
+        "q": "Greenland is an autonomous territory of which country?",
+        "a": "Denmark"
+      },
+      {
+        "q": "The Mediterranean island of Corsica belongs to which country?",
+        "a": "France"
+      },
+      {
+        "q": "The Mediterranean island of Sardinia belongs to which country?",
+        "a": "Italy"
+      },
+      {
+        "q": "Gibraltar is an overseas territory of which country?",
+        "a": "United Kingdom"
+      },
+      {
+        "q": "Which country is separated from Alaska by the Bering Strait?",
+        "a": "Russia"
+      },
+      {
+        "q": "Which African country lies just across the Strait of Gibraltar from Spain?",
+        "a": "Morocco"
+      },
+      {
+        "q": "Ice hockey is the official national winter sport of which country?",
+        "a": "Canada"
+      },
+      {
+        "q": "Which country is the world's largest exporter of iron ore?",
+        "a": "Australia"
+      },
+      {
+        "q": "Which country produces the most milk in the world?",
+        "a": "India"
+      },
+      {
+        "q": "Which country grows the most corn in the world?",
+        "a": "United States"
       }
     ],
     "600": [
@@ -25783,10 +39147,6 @@ const QUALITY_BACKFILL = {
         "a": "Democratic Republic of the Congo"
       },
       {
-        "q": "Which country is home to the world's largest sand island, K'gari (Fraser Island)?",
-        "a": "Australia"
-      },
-      {
         "q": "Which country's capital is Thimphu?",
         "a": "Bhutan"
       },
@@ -25797,6 +39157,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which country's capital is Chișinău?",
         "a": "Moldova"
+      },
+      {
+        "q": "In which country do most surnames end in -son or -dottir rather than being inherited family names?",
+        "a": "Iceland"
+      },
+      {
+        "q": "Which country holds the world's largest proven oil reserves?",
+        "a": "Venezuela"
+      },
+      {
+        "q": "Which country is the world's leading producer of rose oil for perfume?",
+        "a": "Bulgaria"
+      },
+      {
+        "q": "Which country is the world's largest exporter of bananas?",
+        "a": "Ecuador"
+      },
+      {
+        "q": "Which is the only country with territory in all four hemispheres?",
+        "a": "Kiribati"
+      },
+      {
+        "q": "The burning gas crater nicknamed the Door to Hell is in which country?",
+        "a": "Turkmenistan"
+      },
+      {
+        "q": "Which European microstate is jointly headed by a French president and a Spanish bishop?",
+        "a": "Andorra"
+      },
+      {
+        "q": "Which country has hosted a Formula One street race through its own roads since 1929?",
+        "a": "Monaco"
+      },
+      {
+        "q": "Which country's official languages are English and a Semitic tongue written in Latin script?",
+        "a": "Malta"
+      },
+      {
+        "q": "Which country earns significant income from licensing the .tv internet domain?",
+        "a": "Tuvalu"
+      },
+      {
+        "q": "Which is the least densely populated sovereign country on Earth?",
+        "a": "Mongolia"
+      },
+      {
+        "q": "Which country has the longest coastline in mainland Africa?",
+        "a": "Somalia"
+      },
+      {
+        "q": "Which country's flag features an AK-47 rifle?",
+        "a": "Mozambique"
+      },
+      {
+        "q": "Which country is nicknamed the Warm Heart of Africa?",
+        "a": "Malawi"
+      },
+      {
+        "q": "The extinct dodo lived only on which present-day country's islands?",
+        "a": "Mauritius"
+      },
+      {
+        "q": "Which country's flag shows a copper-coloured outline of its own island?",
+        "a": "Cyprus"
+      },
+      {
+        "q": "Which country's flag shows its own map below an arc of six white stars?",
+        "a": "Kosovo"
+      },
+      {
+        "q": "Which country's flag features a black double-headed eagle on a red field?",
+        "a": "Albania"
+      },
+      {
+        "q": "Which country's flag has a yellow triangle with a diagonal line of white stars?",
+        "a": "Bosnia and Herzegovina"
+      },
+      {
+        "q": "Which country's flag depicts the three-peaked Mount Triglav?",
+        "a": "Slovenia"
+      },
+      {
+        "q": "Which country used the kroon before adopting the euro?",
+        "a": "Estonia"
+      },
+      {
+        "q": "Which Baltic country's currency was the lats before the euro?",
+        "a": "Latvia"
+      },
+      {
+        "q": "The pilgrimage site known as the Hill of Crosses is in which country?",
+        "a": "Lithuania"
+      },
+      {
+        "q": "The breakaway territory of Transnistria lies within which country's borders?",
+        "a": "Moldova"
+      },
+      {
+        "q": "Which country treats Mount Ararat as a national symbol although the peak lies in Turkey?",
+        "a": "Armenia"
+      },
+      {
+        "q": "Which country is nicknamed the Land of Fire for its burning gas seeps?",
+        "a": "Azerbaijan"
+      },
+      {
+        "q": "Which country's flag shows a yellow sun containing the roof pattern of a yurt?",
+        "a": "Kyrgyzstan"
+      },
+      {
+        "q": "Which country dropped the name Burma in 1989?",
+        "a": "Myanmar"
+      },
+      {
+        "q": "Which is the only landlocked country in Southeast Asia?",
+        "a": "Laos"
+      },
+      {
+        "q": "Which oil-rich country on the island of Borneo is ruled by a sultan?",
+        "a": "Brunei"
+      },
+      {
+        "q": "Which country gained full independence from Indonesia in 2002?",
+        "a": "East Timor"
+      },
+      {
+        "q": "Which country joined the United Nations in 2011 as its newest member?",
+        "a": "South Sudan"
+      },
+      {
+        "q": "The Exuma islands famous for swimming pigs belong to which country?",
+        "a": "Bahamas"
+      },
+      {
+        "q": "Which Caribbean country replaced the British monarch with a president in 2021?",
+        "a": "Barbados"
+      },
+      {
+        "q": "The steelpan drum was invented in which country?",
+        "a": "Trinidad and Tobago"
+      },
+      {
+        "q": "Which South American country has English as its official language?",
+        "a": "Guyana"
+      },
+      {
+        "q": "Which country's flag shows different emblems on its front and back?",
+        "a": "Paraguay"
+      },
+      {
+        "q": "Which country became the first in the world to fully legalise cannabis, in 2013?",
+        "a": "Uruguay"
+      },
+      {
+        "q": "Which country's flag carries a rainbow inside a triangle?",
+        "a": "Nicaragua"
+      },
+      {
+        "q": "Which country abolished its standing army in 1948?",
+        "a": "Costa Rica"
+      },
+      {
+        "q": "Which country's flag is quartered with one blue star and one red star?",
+        "a": "Panama"
+      },
+      {
+        "q": "Which country became the first black-led republic after a successful slave revolt?",
+        "a": "Haiti"
+      },
+      {
+        "q": "Which country shares the island of Hispaniola with Haiti?",
+        "a": "Dominican Republic"
+      },
+      {
+        "q": "The source of the White Nile flows out of Lake Victoria in which country?",
+        "a": "Uganda"
+      },
+      {
+        "q": "The bright pink waters of Lake Retba are in which country?",
+        "a": "Senegal"
+      },
+      {
+        "q": "Which West African country is regarded as the birthplace of the Vodun religion?",
+        "a": "Benin"
+      },
+      {
+        "q": "Which country's southern desert doubled as the planet Tatooine in Star Wars?",
+        "a": "Tunisia"
+      },
+      {
+        "q": "Which country is the world's largest producer of saffron?",
+        "a": "Iran"
+      },
+      {
+        "q": "Which country is the world's largest producer of cork?",
+        "a": "Portugal"
+      },
+      {
+        "q": "Which country is the world's largest producer of platinum?",
+        "a": "South Africa"
       }
     ]
   },
@@ -26005,6 +39565,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is Yondu's adopted son?",
         "a": "Peter Quill"
+      },
+      {
+        "q": "What device in Tony Stark's chest keeps shrapnel from reaching his heart?",
+        "a": "Arc reactor"
+      },
+      {
+        "q": "What alias does James Rhodes use when he suits up?",
+        "a": "War Machine"
+      },
+      {
+        "q": "What company does Tony Stark run?",
+        "a": "Stark Industries"
+      },
+      {
+        "q": "Who is the astrophysicist Thor falls for in his first solo film?",
+        "a": "Jane Foster"
+      },
+      {
+        "q": "What must a person be in order to lift Thor's hammer?",
+        "a": "Worthy"
+      },
+      {
+        "q": "In which Thor film is Mjolnir shattered?",
+        "a": "Thor: Ragnarok"
+      },
+      {
+        "q": "Which Avenger travels to Vormir with Black Widow in Endgame?",
+        "a": "Hawkeye"
+      },
+      {
+        "q": "How many years pass between the snap and the main events of Endgame?",
+        "a": "Five"
+      },
+      {
+        "q": "Which of Thanos's adopted daughters is heavily cybernetic?",
+        "a": "Nebula"
+      },
+      {
+        "q": "Which No Way Home villain fights with four mechanical tentacles?",
+        "a": "Doctor Octopus"
+      },
+      {
+        "q": "Which No Way Home villain rides a glider and throws pumpkin bombs?",
+        "a": "Green Goblin"
+      },
+      {
+        "q": "Which journalist becomes the host of the symbiote in Sony's 2018 film?",
+        "a": "Eddie Brock"
+      },
+      {
+        "q": "What is Professor X's full name?",
+        "a": "Charles Xavier"
+      },
+      {
+        "q": "What name does Wolverine go by in the X-Men films?",
+        "a": "Logan"
+      },
+      {
+        "q": "What is Deadpool's real name?",
+        "a": "Wade Wilson"
+      },
+      {
+        "q": "What power does Mystique have in the X-Men films?",
+        "a": "Shapeshifting"
+      },
+      {
+        "q": "What superhero name does Danny Rand use?",
+        "a": "Iron Fist"
+      },
+      {
+        "q": "What alias does Frank Castle take in his Netflix series?",
+        "a": "The Punisher"
+      },
+      {
+        "q": "Which sense did Matt Murdock lose as a boy?",
+        "a": "Sight"
+      },
+      {
+        "q": "What codename does Hope van Dyne take?",
+        "a": "The Wasp"
+      },
+      {
+        "q": "Which artificial intelligence turns against the Avengers in their 2015 sequel?",
+        "a": "Ultron"
+      },
+      {
+        "q": "What codename does Sam Wilson use with his winged flight suit?",
+        "a": "Falcon"
+      },
+      {
+        "q": "What is the name of S.H.I.E.L.D.'s flying aircraft carrier?",
+        "a": "Helicarrier"
+      },
+      {
+        "q": "Which hero grows to enormous size during the Civil War airport battle?",
+        "a": "Ant-Man"
+      },
+      {
+        "q": "What form is Groot in at the start of Guardians of the Galaxy Vol. 2?",
+        "a": "Baby Groot"
+      },
+      {
+        "q": "Which Guardian senses emotions through her antennae?",
+        "a": "Mantis"
+      },
+      {
+        "q": "Who raised Gamora after destroying her home planet?",
+        "a": "Thanos"
+      },
+      {
+        "q": "What is the crude first suit Tony builds in captivity called?",
+        "a": "Mark I"
+      },
+      {
+        "q": "Which New York borough is Peter Parker from in the MCU?",
+        "a": "Queens"
+      },
+      {
+        "q": "What is the name of the Netflix miniseries teaming up four Marvel heroes?",
+        "a": "The Defenders"
+      },
+      {
+        "q": "What does Star-Lord challenge Ronan to during the first Guardians film's climax?",
+        "a": "A dance-off"
+      },
+      {
+        "q": "What weapon does Loki use to control minds in The Avengers?",
+        "a": "The scepter"
+      },
+      {
+        "q": "Which X-Men member controls the weather?",
+        "a": "Storm"
+      },
+      {
+        "q": "Which X-Men member fires beams from his eyes and wears a visor?",
+        "a": "Cyclops"
+      },
+      {
+        "q": "What does Thor lose during his fight with Hela?",
+        "a": "His right eye"
+      },
+      {
+        "q": "Which of Bucky Barnes's limbs is replaced with metal?",
+        "a": "Left arm"
+      },
+      {
+        "q": "What kind of animal is Cosmo in Guardians of the Galaxy Vol. 3?",
+        "a": "A dog"
+      },
+      {
+        "q": "Which Netflix Marvel hero has bulletproof skin?",
+        "a": "Luke Cage"
+      },
+      {
+        "q": "Which Guardian is thrown from a cliff on Vormir?",
+        "a": "Gamora"
+      },
+      {
+        "q": "What insect does Scott Lang ride as transport?",
+        "a": "A flying ant"
+      },
+      {
+        "q": "What garment chooses Doctor Strange and flies on its own?",
+        "a": "Cloak of Levitation"
+      },
+      {
+        "q": "Who raises Peter Parker in the MCU films?",
+        "a": "Aunt May"
+      },
+      {
+        "q": "Which 2018 MCU film is set largely in a hidden African nation?",
+        "a": "Black Panther"
+      },
+      {
+        "q": "What was Stephen Strange's medical speciality before his crash?",
+        "a": "Neurosurgery"
+      },
+      {
+        "q": "Which part of Stephen Strange's body is ruined in his car accident?",
+        "a": "His hands"
+      },
+      {
+        "q": "Which mutant villain can control metal?",
+        "a": "Magneto"
+      },
+      {
+        "q": "Which hero does Kamala Khan idolise?",
+        "a": "Captain Marvel"
+      },
+      {
+        "q": "What TV genre does Wanda's Westview reality imitate?",
+        "a": "Sitcom"
+      },
+      {
+        "q": "What is the name of the space pirate crew Yondu leads?",
+        "a": "Ravagers"
       }
     ],
     "400": [
@@ -26231,6 +39987,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "What sanctum does Wong oversee?",
         "a": "Hong Kong Sanctum"
+      },
+      {
+        "q": "What alias does Obadiah Stane use in his own armour?",
+        "a": "Iron Monger"
+      },
+      {
+        "q": "What codename does Ivan Vanko go by in Iron Man 2?",
+        "a": "Whiplash"
+      },
+      {
+        "q": "What does Tony Stark suffer from throughout Iron Man 3?",
+        "a": "Panic attacks"
+      },
+      {
+        "q": "Which rock-skinned gladiator befriends Thor on Sakaar?",
+        "a": "Korg"
+      },
+      {
+        "q": "What is the Earth settlement of Asgardian survivors called?",
+        "a": "New Asgard"
+      },
+      {
+        "q": "What alias does Johann Schmidt use?",
+        "a": "Red Skull"
+      },
+      {
+        "q": "What is the name of HYDRA's helicarrier programme in The Winter Soldier?",
+        "a": "Project Insight"
+      },
+      {
+        "q": "Who frames Bucky Barnes for the Vienna bombing?",
+        "a": "Zemo"
+      },
+      {
+        "q": "Which alien army invades New York in The Avengers?",
+        "a": "Chitauri"
+      },
+      {
+        "q": "Which year do the Avengers return to for the Battle of New York in Endgame?",
+        "a": "2012"
+      },
+      {
+        "q": "What do the Avengers nickname their time-travel plan in Endgame?",
+        "a": "Time heist"
+      },
+      {
+        "q": "Who is revealed as Peter Quill's father in Vol. 2?",
+        "a": "Ego"
+      },
+      {
+        "q": "Which Earth celebrity do the Guardians deliver to Quill as a Christmas gift?",
+        "a": "Kevin Bacon"
+      },
+      {
+        "q": "What is the name of T'Challa's father?",
+        "a": "T'Chaka"
+      },
+      {
+        "q": "Which dark dimension ruler does Strange trap in a time loop?",
+        "a": "Dormammu"
+      },
+      {
+        "q": "What are the glasses Tony leaves Peter Parker in Far From Home called?",
+        "a": "EDITH"
+      },
+      {
+        "q": "Which childhood friend of Peter Parker inherits Oscorp in the Raimi trilogy?",
+        "a": "Harry Osborn"
+      },
+      {
+        "q": "Who is Peter Parker's girlfriend in The Amazing Spider-Man?",
+        "a": "Gwen Stacy"
+      },
+      {
+        "q": "What villain does Dr. Curt Connors become?",
+        "a": "The Lizard"
+      },
+      {
+        "q": "What villain identity does Max Dillon take?",
+        "a": "Electro"
+      },
+      {
+        "q": "What is Magneto's birth name?",
+        "a": "Erik Lehnsherr"
+      },
+      {
+        "q": "What giant mutant-hunting robots threaten the future in Days of Future Past?",
+        "a": "Sentinels"
+      },
+      {
+        "q": "What is the name of the young clone Wolverine protects in Logan?",
+        "a": "Laura"
+      },
+      {
+        "q": "Which X-Men film centres on the Cuban Missile Crisis?",
+        "a": "X-Men: First Class"
+      },
+      {
+        "q": "What team does Wade Wilson assemble in his second film?",
+        "a": "X-Force"
+      },
+      {
+        "q": "Who is the mind-controlling villain of Jessica Jones season one?",
+        "a": "Kilgrave"
+      },
+      {
+        "q": "Which New York neighbourhood does Luke Cage defend?",
+        "a": "Harlem"
+      },
+      {
+        "q": "What is Kingpin's real name?",
+        "a": "Wilson Fisk"
+      },
+      {
+        "q": "What object gives Kamala Khan her powers?",
+        "a": "A bangle"
+      },
+      {
+        "q": "What is the name of Marc Spector's mild-mannered London alter?",
+        "a": "Steven Grant"
+      },
+      {
+        "q": "What disability does Maya Lopez have?",
+        "a": "Deafness"
+      },
+      {
+        "q": "Who narrates the animated series What If...?",
+        "a": "The Watcher"
+      },
+      {
+        "q": "In which MCU film are the Sokovia Accords signed?",
+        "a": "Captain America: Civil War"
+      },
+      {
+        "q": "What happens to Carol, Monica and Kamala whenever they use their powers in The Marvels?",
+        "a": "They swap places"
+      },
+      {
+        "q": "What suit does Darren Cross build in Ant-Man?",
+        "a": "Yellowjacket"
+      },
+      {
+        "q": "What are the monstrous creatures the Eternals were sent to hunt?",
+        "a": "Deviants"
+      },
+      {
+        "q": "What is Ben Grimm's alias in the Fantastic Four films?",
+        "a": "The Thing"
+      },
+      {
+        "q": "Which US state does Thor crash into in his first film?",
+        "a": "New Mexico"
+      },
+      {
+        "q": "Who publicly reveals Spider-Man's identity at the end of Far From Home?",
+        "a": "J. Jonah Jameson"
+      },
+      {
+        "q": "What is Peter Quill's cassette compilation called?",
+        "a": "Awesome Mix"
+      },
+      {
+        "q": "Who is the Kree fanatic seeking the Orb in the first Guardians film?",
+        "a": "Ronan the Accuser"
+      },
+      {
+        "q": "What species is Loki actually born as?",
+        "a": "Frost Giant"
+      },
+      {
+        "q": "Which MCU film features the Battle of Wakanda?",
+        "a": "Avengers: Infinity War"
+      },
+      {
+        "q": "Which Loki variant kills He Who Remains?",
+        "a": "Sylvie"
+      },
+      {
+        "q": "What machine amplifies Professor X's telepathy?",
+        "a": "Cerebro"
+      },
+      {
+        "q": "Which rival symbiote does Venom fight in his first film?",
+        "a": "Riot"
+      },
+      {
+        "q": "Who guards the Bifrost in the Thor films?",
+        "a": "Heimdall"
+      },
+      {
+        "q": "Who is left ruling New Asgard after Thor departs in Endgame?",
+        "a": "Valkyrie"
       }
     ],
     "600": [
@@ -26493,6 +40441,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the lead singer of the band named Kraven in What If...? — trick question; name the lead Celestial instead",
         "a": "Arishem the Judge"
+      },
+      {
+        "q": "What regenerative treatment gives Aldrich Killian's soldiers their powers?",
+        "a": "Extremis"
+      },
+      {
+        "q": "What is the name of the special unit Steve Rogers leads in World War II?",
+        "a": "Howling Commandos"
+      },
+      {
+        "q": "In which German city do the heroes clash at an airport in Civil War?",
+        "a": "Leipzig"
+      },
+      {
+        "q": "At which abandoned army base do Steve and Natasha find Arnim Zola's computer?",
+        "a": "Camp Lehigh"
+      },
+      {
+        "q": "On which planet is Stormbreaker forged?",
+        "a": "Nidavellir"
+      },
+      {
+        "q": "Which dwarf king helps Thor forge his new weapon?",
+        "a": "Eitri"
+      },
+      {
+        "q": "In which African city does the Hulk rampage in Age of Ultron?",
+        "a": "Johannesburg"
+      },
+      {
+        "q": "What is the name of the golden-skinned race that hires the Guardians in Vol. 2?",
+        "a": "The Sovereign"
+      },
+      {
+        "q": "What is Rocket's experiment designation in Guardians Vol. 3?",
+        "a": "89P13"
+      },
+      {
+        "q": "What is the severed Celestial head used as a mining colony called?",
+        "a": "Knowhere"
+      },
+      {
+        "q": "What is Erik Killmonger's Wakandan birth name?",
+        "a": "N'Jadaka"
+      },
+      {
+        "q": "Which border tribe leader turns against T'Challa in Black Panther?",
+        "a": "W'Kabi"
+      },
+      {
+        "q": "Which cruel variant of Strange guards the Darkhold in a ruined universe?",
+        "a": "Sinister Strange"
+      },
+      {
+        "q": "What appears on Doctor Strange's forehead after he dreamwalks?",
+        "a": "A third eye"
+      },
+      {
+        "q": "What is the Vulture's real name?",
+        "a": "Adrian Toomes"
+      },
+      {
+        "q": "What is the real name of the sand-based villain in Spider-Man 3?",
+        "a": "Flint Marko"
+      },
+      {
+        "q": "On which island does the first X-Men film climax?",
+        "a": "Liberty Island"
+      },
+      {
+        "q": "What is the name of Jessica Jones's detective agency?",
+        "a": "Alias Investigations"
+      },
+      {
+        "q": "What is the ninja organisation opposing Daredevil and Iron Fist?",
+        "a": "The Hand"
+      },
+      {
+        "q": "What cloud-like monster guards the Void in Loki?",
+        "a": "Alioth"
+      },
+      {
+        "q": "Which forgotten super soldier does Sam Wilson meet in Baltimore?",
+        "a": "Isaiah Bradley"
+      },
+      {
+        "q": "Which Egyptian goddess does Arthur Harrow serve?",
+        "a": "Ammit"
+      },
+      {
+        "q": "What is the online group of men targeting Jennifer Walters called?",
+        "a": "Intelligencia"
+      },
+      {
+        "q": "What magical path do the witches travel in Agatha All Along?",
+        "a": "The Witches' Road"
+      },
+      {
+        "q": "Which video rental store does Carol Danvers crash through in 1995?",
+        "a": "Blockbuster"
+      },
+      {
+        "q": "Who leads the Eternals on Earth before Sersi takes over?",
+        "a": "Ajak"
+      },
+      {
+        "q": "What is the name of Peter Quill's mother?",
+        "a": "Meredith Quill"
+      },
+      {
+        "q": "What is the home realm of the Frost Giants?",
+        "a": "Jotunheim"
+      },
+      {
+        "q": "What does Peter Parker name the AI in his Homecoming suit?",
+        "a": "Karen"
+      },
+      {
+        "q": "What is the name of the taxi driver Deadpool befriends?",
+        "a": "Dopinder"
+      },
+      {
+        "q": "Which S.H.I.E.L.D. leader is revealed as HYDRA in The Winter Soldier?",
+        "a": "Alexander Pierce"
+      },
+      {
+        "q": "Who leads the Dark Elves in Thor: The Dark World?",
+        "a": "Malekith"
+      },
+      {
+        "q": "Which Ravager mutineer gives himself a ridiculous name in Vol. 2?",
+        "a": "Taserface"
+      },
+      {
+        "q": "What is the name of Shang-Chi's winged creature companion?",
+        "a": "Morris"
+      },
+      {
+        "q": "Which serial killer becomes host to the red symbiote?",
+        "a": "Cletus Kasady"
+      },
+      {
+        "q": "What alias does Miguel O'Hara use in Across the Spider-Verse?",
+        "a": "Spider-Man 2099"
+      },
+      {
+        "q": "Who is Jessica Jones's adoptive sister?",
+        "a": "Trish Walker"
+      },
+      {
+        "q": "What is the hidden city where Danny Rand trained?",
+        "a": "K'un-Lun"
+      },
+      {
+        "q": "Which No Doubt song plays during Carol Danvers's final fight in Captain Marvel?",
+        "a": "Just a Girl"
+      },
+      {
+        "q": "What animal form does one Loki variant take in the Void?",
+        "a": "Alligator"
+      },
+      {
+        "q": "What is Marc Spector's third alter, revealed at the end of Moon Knight?",
+        "a": "Jake Lockley"
+      },
+      {
+        "q": "Which Korean city hosts the casino shootout in Black Panther?",
+        "a": "Busan"
+      },
+      {
+        "q": "Which public office does Wilson Fisk win in Daredevil: Born Again?",
+        "a": "Mayor of New York"
+      },
+      {
+        "q": "Which year does Wolverine's mind travel back to in Days of Future Past?",
+        "a": "1973"
+      },
+      {
+        "q": "Which secret society does Sebastian Shaw lead in First Class?",
+        "a": "Hellfire Club"
+      },
+      {
+        "q": "What is Kilgrave's real first name?",
+        "a": "Kevin"
+      },
+      {
+        "q": "What nightclub does Cottonmouth own in Luke Cage?",
+        "a": "Harlem's Paradise"
+      },
+      {
+        "q": "What is Carol Danvers's Kree military unit called?",
+        "a": "Starforce"
+      },
+      {
+        "q": "Which year is the film Logan set in?",
+        "a": "2029"
       }
     ]
   },
@@ -26749,6 +40893,134 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the feline cat burglar in Batman?",
         "a": "Catwoman"
+      },
+      {
+        "q": "In Man of Steel, what is the name of Superman's Kryptonian birth father?",
+        "a": "Jor-El"
+      },
+      {
+        "q": "What year appears in the title of the 2020 Wonder Woman sequel?",
+        "a": "1984"
+      },
+      {
+        "q": "In The Dark Knight, what does the Joker pile up and set on fire?",
+        "a": "Money"
+      },
+      {
+        "q": "What is the title of the first film in Christopher Nolan's Batman trilogy?",
+        "a": "Batman Begins"
+      },
+      {
+        "q": "In The Dark Knight Rises, which masked villain breaks Batman's back?",
+        "a": "Bane"
+      },
+      {
+        "q": "What job does Arthur Fleck do for hire when Joker (2019) begins?",
+        "a": "Clown"
+      },
+      {
+        "q": "Which 2016 film first put Wonder Woman on screen in the DCEU?",
+        "a": "Batman v Superman"
+      },
+      {
+        "q": "What 2012 film closes Christopher Nolan's Batman trilogy?",
+        "a": "The Dark Knight Rises"
+      },
+      {
+        "q": "In what year was The Dark Knight released?",
+        "a": "2008"
+      },
+      {
+        "q": "In Man of Steel, what does the crest on Superman's chest mean on his home world?",
+        "a": "Hope"
+      },
+      {
+        "q": "In Wonder Woman (2017), what is the name of the pilot Diana pulls from the sea?",
+        "a": "Steve Trevor"
+      },
+      {
+        "q": "In Justice League (2017), which country is Arthur Curry living in when Bruce Wayne finds him?",
+        "a": "Iceland"
+      },
+      {
+        "q": "What is implanted in the necks of the Suicide Squad to keep them obedient?",
+        "a": "A bomb"
+      },
+      {
+        "q": "In The Dark Knight, what office object does the Joker make vanish as a magic trick?",
+        "a": "A pencil"
+      },
+      {
+        "q": "Which Greek god does Diana believe is behind the fighting in Wonder Woman (2017)?",
+        "a": "Ares"
+      },
+      {
+        "q": "What does Scarecrow spray at his victims in Batman Begins?",
+        "a": "Fear toxin"
+      },
+      {
+        "q": "In Batman v Superman, what shared first name of their mothers stops Batman from killing Superman?",
+        "a": "Martha"
+      },
+      {
+        "q": "In Man of Steel, what kind of storm kills Jonathan Kent?",
+        "a": "A tornado"
+      },
+      {
+        "q": "What is the name of Superman's dog in the 2025 Superman film?",
+        "a": "Krypto"
+      },
+      {
+        "q": "In The Dark Knight, what two vessels does the Joker rig with explosives?",
+        "a": "Two ferries"
+      },
+      {
+        "q": "In Nolan's trilogy, what does Batman's one rule forbid him from doing?",
+        "a": "Killing"
+      },
+      {
+        "q": "In The Dark Knight, what shape has the Joker carved into his own face?",
+        "a": "A smile"
+      },
+      {
+        "q": "Which police officer rises to commissioner as Batman's ally in Nolan's trilogy?",
+        "a": "Jim Gordon"
+      },
+      {
+        "q": "Which Tim Burton Batman film pits him against Catwoman and the Penguin?",
+        "a": "Batman Returns"
+      },
+      {
+        "q": "How many Batman films did Christopher Nolan direct?",
+        "a": "Three"
+      },
+      {
+        "q": "Which Justice League member is brought back from the dead in the 2017 film?",
+        "a": "Superman"
+      },
+      {
+        "q": "Which 2022 HBO Max series was spun off from The Suicide Squad?",
+        "a": "Peacemaker"
+      },
+      {
+        "q": "Which film features the Joker asking Gotham criminals why they are so serious?",
+        "a": "The Dark Knight"
+      },
+      {
+        "q": "In Aquaman, what does Orm want to declare on the surface world?",
+        "a": "War"
+      },
+      {
+        "q": "Who heads Wayne Enterprises' applied sciences and supplies Batman's gear in Nolan's films?",
+        "a": "Lucius Fox"
+      },
+      {
+        "q": "In Wonder Woman (2017), what does Diana wear on her wrists to deflect bullets?",
+        "a": "Bracelets"
+      },
+      {
+        "q": "On the CW's The Flash, what strikes Barry Allen and gives him his powers?",
+        "a": "Lightning"
       }
     ],
     "400": [
@@ -27023,6 +41295,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who played Joker in Suicide Squad 2016?",
         "a": "Jared Leto"
+      },
+      {
+        "q": "In Joker (2019), which wealthy Gotham figure does Arthur believe is his father?",
+        "a": "Thomas Wayne"
+      },
+      {
+        "q": "On the CW's The Flash, what is the name of the detective who raised Barry?",
+        "a": "Joe West"
+      },
+      {
+        "q": "Which Arrowverse series follows a team travelling through history in a timeship?",
+        "a": "Legends of Tomorrow"
+      },
+      {
+        "q": "Which 2024 HBO series follows Oswald Cobb's rise through Gotham's underworld?",
+        "a": "The Penguin"
+      },
+      {
+        "q": "In Aquaman, what is the name of Arthur's Atlantean mother?",
+        "a": "Atlanna"
+      },
+      {
+        "q": "Which superhero team is sent to stop Black Adam in his 2022 film?",
+        "a": "Justice Society"
+      },
+      {
+        "q": "What is the subtitle of the 2023 Aquaman sequel?",
+        "a": "The Lost Kingdom"
+      },
+      {
+        "q": "What is the subtitle of the 2023 Shazam sequel?",
+        "a": "Fury of the Gods"
+      },
+      {
+        "q": "Which 2023 DC film brought Jaime Reyes to live-action cinema?",
+        "a": "Blue Beetle"
+      },
+      {
+        "q": "Which ancient sorceress is the main villain of Suicide Squad (2016)?",
+        "a": "Enchantress"
+      },
+      {
+        "q": "Which member of the 2016 Suicide Squad throws fire from his hands?",
+        "a": "El Diablo"
+      },
+      {
+        "q": "In Titans, what is Raven's civilian name?",
+        "a": "Rachel Roth"
+      },
+      {
+        "q": "What is the name of Peacemaker's pet bird?",
+        "a": "Eagly"
+      },
+      {
+        "q": "In Peacemaker season 1, what alien creatures are secretly taking over people?",
+        "a": "Butterflies"
+      },
+      {
+        "q": "In Batman v Superman, what weapon finally kills Doomsday?",
+        "a": "Kryptonite spear"
+      },
+      {
+        "q": "In The Dark Knight, what nickname does Gotham give Harvey Dent?",
+        "a": "White Knight"
+      },
+      {
+        "q": "In Joker (2019), what is the name of the late-night host Arthur idolises?",
+        "a": "Murray Franklin"
+      },
+      {
+        "q": "Which famous Batman villain was invented for the 1992 animated series before reaching comics?",
+        "a": "Harley Quinn"
+      },
+      {
+        "q": "In Arrow, what is the name of the island where Oliver Queen was stranded?",
+        "a": "Lian Yu"
+      },
+      {
+        "q": "On the CW's The Flash, what facility serves as Team Flash's base?",
+        "a": "S.T.A.R. Labs"
+      },
+      {
+        "q": "On the CW's The Flash, what icy alter ego does Caitlin Snow develop?",
+        "a": "Killer Frost"
+      },
+      {
+        "q": "Which series ran ten seasons from 2001 following Clark Kent's youth?",
+        "a": "Smallville"
+      },
+      {
+        "q": "Which DCEU film became the franchise's highest-grossing release?",
+        "a": "Aquaman"
+      },
+      {
+        "q": "In Wonder Woman (2017), what is the battlefield Diana crosses alone called?",
+        "a": "No Man's Land"
+      },
+      {
+        "q": "In Aquaman, what ancient weapon must Arthur claim to be accepted as king?",
+        "a": "Trident of Atlan"
+      },
+      {
+        "q": "Which 2011 DC film starred a test pilot chosen by an alien ring?",
+        "a": "Green Lantern"
+      },
+      {
+        "q": "In Titans, what hero identity is Dick Grayson using when the series begins?",
+        "a": "Robin"
+      },
+      {
+        "q": "What is the name of the organisation that trains Bruce Wayne in Batman Begins?",
+        "a": "League of Shadows"
+      },
+      {
+        "q": "In The Dark Knight, which of Bruce Wayne's friends is killed in a warehouse explosion?",
+        "a": "Rachel Dawes"
+      },
+      {
+        "q": "What single word does Bruce Wayne call himself in The Batman (2022)?",
+        "a": "Vengeance"
+      },
+      {
+        "q": "In Justice League (2017), what three artifacts does Steppenwolf hunt on Earth?",
+        "a": "Mother Boxes"
+      },
+      {
+        "q": "Which scientist villain in Shazam! (2019) is possessed by the Seven Deadly Sins?",
+        "a": "Doctor Sivana"
+      },
+      {
+        "q": "How does Superman stop Zod at the end of Man of Steel?",
+        "a": "Snaps his neck"
+      },
+      {
+        "q": "What kind of jet does Diana fly in Wonder Woman 1984?",
+        "a": "Invisible"
+      },
+      {
+        "q": "In Man of Steel, what is the name of Superman's Kryptonian mother?",
+        "a": "Lara"
+      },
+      {
+        "q": "In the 1978 Superman film, how does he undo Lois Lane's death?",
+        "a": "Turning back time"
+      },
+      {
+        "q": "Which 1997 Batman film brought Batgirl to the big screen?",
+        "a": "Batman & Robin"
+      },
+      {
+        "q": "Which two villains team up against Batman in Batman Forever?",
+        "a": "Riddler and Two-Face"
+      },
+      {
+        "q": "What alien relic bonds itself to Jaime Reyes in Blue Beetle?",
+        "a": "The Scarab"
+      },
+      {
+        "q": "Which CW superhero series ran nine seasons and ended in 2023?",
+        "a": "The Flash"
+      },
+      {
+        "q": "In Arrow, what is the name of Oliver Queen's younger sister?",
+        "a": "Thea Queen"
+      },
+      {
+        "q": "On the CW's The Flash, which reporter is Barry Allen's great love?",
+        "a": "Iris West"
+      },
+      {
+        "q": "On Supergirl, what is the name of Kara's adoptive sister?",
+        "a": "Alex Danvers"
+      },
+      {
+        "q": "Which catastrophic event from Man of Steel is shown from Bruce Wayne's viewpoint at the start of Batman v Superman?",
+        "a": "Battle of Metropolis"
+      },
+      {
+        "q": "In Shazam! (2019), who is Billy Batson trying to track down at the start?",
+        "a": "His mother"
+      },
+      {
+        "q": "In The Dark Knight Rises, what packed venue does Bane destroy during a game?",
+        "a": "Football stadium"
+      },
+      {
+        "q": "In Joker (2019), what disguise do Gotham's rioters wear in the streets?",
+        "a": "Clown masks"
+      },
+      {
+        "q": "Which Justice Society member in Black Adam wears a golden helmet of magic?",
+        "a": "Doctor Fate"
       }
     ],
     "600": [
@@ -27317,6 +41781,218 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who is the fourth Robin?",
         "a": "Stephanie Brown"
+      },
+      {
+        "q": "In Man of Steel, what machine does Zod use to reshape Earth's atmosphere?",
+        "a": "World Engine"
+      },
+      {
+        "q": "In Wonder Woman 1984, what is the name of the museum colleague who becomes Diana's enemy?",
+        "a": "Barbara Minerva"
+      },
+      {
+        "q": "In The Dark Knight Rises, what legal first name does detective John Blake reveal at the end?",
+        "a": "Robin"
+      },
+      {
+        "q": "In the 1989 Batman, what name did the Joker go by before falling into the chemicals?",
+        "a": "Jack Napier"
+      },
+      {
+        "q": "In the 1989 Batman, what brand-named poison does the Joker hide in Gotham's cosmetics?",
+        "a": "Smylex"
+      },
+      {
+        "q": "How does the Riddler devastate Gotham in the finale of The Batman (2022)?",
+        "a": "Floods the city"
+      },
+      {
+        "q": "Which Nirvana song recurs throughout The Batman (2022)?",
+        "a": "Something in the Way"
+      },
+      {
+        "q": "In The Penguin (2024), which crime family's daughter becomes Oz's rival?",
+        "a": "Falcone"
+      },
+      {
+        "q": "In Peacemaker, whose daughter is Leota Adebayo revealed to be?",
+        "a": "Amanda Waller"
+      },
+      {
+        "q": "In Peacemaker, what supremacist villain identity did the hero's father use?",
+        "a": "White Dragon"
+      },
+      {
+        "q": "What enormous alien is released from the lab in The Suicide Squad (2021)?",
+        "a": "Starro"
+      },
+      {
+        "q": "What is the name of the fortress laboratory the squad targets in The Suicide Squad (2021)?",
+        "a": "Jotunheim"
+      },
+      {
+        "q": "In Joker (2019), what is the name of Arthur's mother?",
+        "a": "Penny Fleck"
+      },
+      {
+        "q": "Which top prize did Joker (2019) win at the Venice Film Festival?",
+        "a": "Golden Lion"
+      },
+      {
+        "q": "Joker (2019) was the first R-rated film to pass what worldwide box-office figure?",
+        "a": "$1 billion"
+      },
+      {
+        "q": "Which 2024 animated series launched James Gunn's rebooted DC Universe?",
+        "a": "Creature Commandos"
+      },
+      {
+        "q": "In the 2025 Superman film, what is the nickname of the team including Hawkgirl and Mister Terrific?",
+        "a": "The Justice Gang"
+      },
+      {
+        "q": "Which two Kryptonian criminals serve alongside Zod in Superman II?",
+        "a": "Ursa and Non"
+      },
+      {
+        "q": "In Superman Returns, what is the name of Lois Lane's young son?",
+        "a": "Jason"
+      },
+      {
+        "q": "What line does Oliver Queen deliver to his targets in early seasons of Arrow?",
+        "a": "You have failed this city"
+      },
+      {
+        "q": "On the CW's The Flash, what hero name does Cisco Ramon take?",
+        "a": "Vibe"
+      },
+      {
+        "q": "On Supergirl, what secret government agency does Kara work alongside?",
+        "a": "The DEO"
+      },
+      {
+        "q": "On Supergirl, what media company employs Kara Danvers?",
+        "a": "CatCo"
+      },
+      {
+        "q": "Which city does Supergirl protect in the CW series?",
+        "a": "National City"
+      },
+      {
+        "q": "In Smallville, who is Clark Kent's best friend at the school newspaper?",
+        "a": "Chloe Sullivan"
+      },
+      {
+        "q": "On Superman & Lois, what are the names of Clark and Lois's twin sons?",
+        "a": "Jonathan and Jordan"
+      },
+      {
+        "q": "In Titans, what name does Starfire use while on Earth?",
+        "a": "Kory Anders"
+      },
+      {
+        "q": "In Doom Patrol, what is Robotman's real name?",
+        "a": "Cliff Steele"
+      },
+      {
+        "q": "In Doom Patrol, what is the real name of the mentor called the Chief?",
+        "a": "Niles Caulder"
+      },
+      {
+        "q": "In Black Lightning, what is Jefferson Pierce's day job?",
+        "a": "High school principal"
+      },
+      {
+        "q": "Who wears the Batsuit in the first season of Batwoman?",
+        "a": "Kate Kane"
+      },
+      {
+        "q": "In Legends of Tomorrow, what is the team's timeship called?",
+        "a": "The Waverider"
+      },
+      {
+        "q": "In the series Stargirl, what is the heroine's real name?",
+        "a": "Courtney Whitmore"
+      },
+      {
+        "q": "Which city is HBO's 2019 Watchmen series set in?",
+        "a": "Tulsa"
+      },
+      {
+        "q": "Which 2014 NBC series followed a chain-smoking occult detective from DC?",
+        "a": "Constantine"
+      },
+      {
+        "q": "In Fox's Gotham, which streetwise young thief befriends Bruce Wayne?",
+        "a": "Selina Kyle"
+      },
+      {
+        "q": "In Batman Begins, what stolen device vaporises Gotham's water supply?",
+        "a": "Microwave emitter"
+      },
+      {
+        "q": "In The Dark Knight, what surveillance system does Lucius Fox refuse to keep using?",
+        "a": "Cellphone sonar"
+      },
+      {
+        "q": "In Shazam! Fury of the Gods, the villainous sisters are daughters of which titan?",
+        "a": "Atlas"
+      },
+      {
+        "q": "In Aquaman and the Lost Kingdom, what weapon does Black Manta wield?",
+        "a": "The Black Trident"
+      },
+      {
+        "q": "What pet animal does Harley Quinn keep in Birds of Prey?",
+        "a": "A hyena"
+      },
+      {
+        "q": "What does Cassandra Cain swallow in Birds of Prey?",
+        "a": "A diamond"
+      },
+      {
+        "q": "What titanic sea creature does Arthur command in the climax of Aquaman?",
+        "a": "The Karathen"
+      },
+      {
+        "q": "In Aquaman, who is Mera's father?",
+        "a": "Nereus"
+      },
+      {
+        "q": "What name do the Amazons give Diana's sword in Wonder Woman (2017)?",
+        "a": "Godkiller"
+      },
+      {
+        "q": "How many foster siblings does Billy live with in Shazam! (2019)?",
+        "a": "Five"
+      },
+      {
+        "q": "In Suicide Squad (2016), what is the name of the archaeologist the Enchantress possesses?",
+        "a": "June Moone"
+      },
+      {
+        "q": "What nightclub does the Penguin run in The Batman (2022)?",
+        "a": "Iceberg Lounge"
+      },
+      {
+        "q": "How many years has Bruce Wayne been out of action when The Dark Knight Rises opens?",
+        "a": "Eight"
+      },
+      {
+        "q": "Which city is overrun in the climax of Suicide Squad (2016)?",
+        "a": "Midway City"
+      },
+      {
+        "q": "In Aquaman, what is the name of Arthur's human lighthouse-keeper father?",
+        "a": "Tom Curry"
+      },
+      {
+        "q": "In Black Lightning, what is the name of the city Jefferson Pierce protects?",
+        "a": "Freeland"
+      },
+      {
+        "q": "Which underwater kingdom does Mera come from in Aquaman?",
+        "a": "Xebel"
       }
     ]
   },
@@ -27501,6 +42177,154 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the red-armored guards of Snoke?",
         "a": "Praetorian Guards"
+      },
+      {
+        "q": "What is the subtitle of Star Wars Episode I?",
+        "a": "The Phantom Menace"
+      },
+      {
+        "q": "What is the subtitle of Star Wars Episode III?",
+        "a": "Revenge of the Sith"
+      },
+      {
+        "q": "What is the subtitle of Star Wars Episode V?",
+        "a": "The Empire Strikes Back"
+      },
+      {
+        "q": "Which episode number in the saga is A New Hope?",
+        "a": "Episode IV"
+      },
+      {
+        "q": "What are the Empire's standard mass-produced starfighters called?",
+        "a": "TIE fighters"
+      },
+      {
+        "q": "What are the Empire's huge wedge-shaped warships called?",
+        "a": "Star Destroyers"
+      },
+      {
+        "q": "What Imperial walkers do the Rebels trip using tow cables on Hoth?",
+        "a": "AT-ATs"
+      },
+      {
+        "q": "What lizard-like mount does Han cut open to keep Luke alive on Hoth?",
+        "a": "Tauntaun"
+      },
+      {
+        "q": "What craft does Luke pilot during the Battle of Hoth?",
+        "a": "Snowspeeder"
+      },
+      {
+        "q": "What hooded desert scavengers sell the droids to Owen Lars?",
+        "a": "Jawas"
+      },
+      {
+        "q": "What spaceport do Luke and Obi-Wan visit to hire a pilot?",
+        "a": "Mos Eisley"
+      },
+      {
+        "q": "What racing sport does young Anakin compete in?",
+        "a": "Podracing"
+      },
+      {
+        "q": "What movement does Leia lead against the First Order?",
+        "a": "The Resistance"
+      },
+      {
+        "q": "What regime rules the galaxy during the sequel trilogy?",
+        "a": "The First Order"
+      },
+      {
+        "q": "What military rank does Leia hold in the sequel trilogy?",
+        "a": "General"
+      },
+      {
+        "q": "What kind of farm do Owen and Beru run on Tatooine?",
+        "a": "Moisture farm"
+      },
+      {
+        "q": "How many Death Stars are destroyed across the original trilogy?",
+        "a": "Two"
+      },
+      {
+        "q": "Which film ends with a medal ceremony on Yavin 4?",
+        "a": "A New Hope"
+      },
+      {
+        "q": "What class of droid is R2-D2?",
+        "a": "Astromech droid"
+      },
+      {
+        "q": "What is the rank of a Jedi still training under a master?",
+        "a": "Padawan"
+      },
+      {
+        "q": "What Force power does Vader use to strangle officers from across a room?",
+        "a": "Force choke"
+      },
+      {
+        "q": "Which stormtrooper deserts the First Order in The Force Awakens?",
+        "a": "Finn"
+      },
+      {
+        "q": "How does Han reply when Leia says she loves him in The Empire Strikes Back?",
+        "a": "I know"
+      },
+      {
+        "q": "What was Han Solo's line of work before he joined the Rebellion?",
+        "a": "Smuggler"
+      },
+      {
+        "q": "How many films make up the Skywalker saga?",
+        "a": "Nine"
+      },
+      {
+        "q": "What small bird-like creatures live on Luke's island in The Last Jedi?",
+        "a": "Porgs"
+      },
+      {
+        "q": "What 2018 spin-off film covers a young smuggler's early years?",
+        "a": "Solo: A Star Wars Story"
+      },
+      {
+        "q": "What name does Obi-Wan go by while living quietly on Tatooine?",
+        "a": "Ben Kenobi"
+      },
+      {
+        "q": "What nickname does Han use for his copilot?",
+        "a": "Chewie"
+      },
+      {
+        "q": "What two-legged Imperial walkers stalk the forest moon in Return of the Jedi?",
+        "a": "AT-STs"
+      },
+      {
+        "q": "What vehicles do Imperial scouts chase Luke and Leia on through the forest?",
+        "a": "Speeder bikes"
+      },
+      {
+        "q": "Who declares 'It's over, Anakin, I have the high ground'?",
+        "a": "Obi-Wan Kenobi"
+      },
+      {
+        "q": "What work does Rey do on Jakku before she joins the Resistance?",
+        "a": "Scavenger"
+      },
+      {
+        "q": "What does Din Djarin refuse to remove in front of other people?",
+        "a": "His helmet"
+      },
+      {
+        "q": "Which sequel trilogy film was released in 2017?",
+        "a": "The Last Jedi"
+      },
+      {
+        "q": "Which live-action series follows Cassian in the years before Rogue One?",
+        "a": "Andor"
+      },
+      {
+        "q": "Who reluctantly trains Rey in The Last Jedi?",
+        "a": "Luke Skywalker"
       }
     ],
     "400": [
@@ -27743,6 +42567,190 @@ const QUALITY_BACKFILL = {
       {
         "q": "Who plays K-2SO?",
         "a": "Alan Tudyk"
+      },
+      {
+        "q": "Which Sith Lord is revealed to be Rey's grandfather?",
+        "a": "Palpatine"
+      },
+      {
+        "q": "What colour is the lightsaber Rey ignites in the final scene of The Rise of Skywalker?",
+        "a": "Yellow"
+      },
+      {
+        "q": "What unusual feature does Kylo Ren's lightsaber hilt have?",
+        "a": "Crossguard"
+      },
+      {
+        "q": "On what volcanic world do Obi-Wan and Anakin duel in Revenge of the Sith?",
+        "a": "Mustafar"
+      },
+      {
+        "q": "Which film features the Battle of Geonosis?",
+        "a": "Attack of the Clones"
+      },
+      {
+        "q": "What organisation blockades Naboo at the start of The Phantom Menace?",
+        "a": "Trade Federation"
+      },
+      {
+        "q": "What title does Padme hold when she is first introduced?",
+        "a": "Queen of Naboo"
+      },
+      {
+        "q": "Which standalone film ends moments before A New Hope begins?",
+        "a": "Rogue One"
+      },
+      {
+        "q": "What Force technique persuades weak-minded people to obey a command?",
+        "a": "Jedi mind trick"
+      },
+      {
+        "q": "What twin-pronged Rebel bomber joins the first Death Star attack?",
+        "a": "Y-wing"
+      },
+      {
+        "q": "What is the standard unit of money across the galaxy?",
+        "a": "Credits"
+      },
+      {
+        "q": "What red-robed guards stand beside the Emperor's throne in Return of the Jedi?",
+        "a": "Imperial Royal Guard"
+      },
+      {
+        "q": "What pit-dwelling creature swallows Boba Fett in Return of the Jedi?",
+        "a": "The Sarlacc"
+      },
+      {
+        "q": "What is the governing body of the Jedi Order called?",
+        "a": "The Jedi Council"
+      },
+      {
+        "q": "Who kills Count Dooku?",
+        "a": "Anakin Skywalker"
+      },
+      {
+        "q": "Who severs Anakin's arm in Attack of the Clones?",
+        "a": "Count Dooku"
+      },
+      {
+        "q": "Which Jedi Master does Palpatine blast out of a window in Revenge of the Sith?",
+        "a": "Mace Windu"
+      },
+      {
+        "q": "Who does Yoda duel in the Senate chamber in Revenge of the Sith?",
+        "a": "Palpatine"
+      },
+      {
+        "q": "Which Resistance officer rams a cruiser through the First Order fleet at lightspeed?",
+        "a": "Vice Admiral Holdo"
+      },
+      {
+        "q": "What salt-covered world hosts the final battle of The Last Jedi?",
+        "a": "Crait"
+      },
+      {
+        "q": "What casino city do Finn and Rose visit in The Last Jedi?",
+        "a": "Canto Bight"
+      },
+      {
+        "q": "Who is Supreme Leader of the First Order before Kylo Ren takes the title?",
+        "a": "Snoke"
+      },
+      {
+        "q": "Which Jedi takes Grogu away for training at the end of The Mandalorian season two?",
+        "a": "Luke Skywalker"
+      },
+      {
+        "q": "What creed do Mandalorians repeat to one another in The Mandalorian?",
+        "a": "This is the Way"
+      },
+      {
+        "q": "Which Rebel leader shouts 'It's a trap!' at the Battle of Endor?",
+        "a": "Admiral Ackbar"
+      },
+      {
+        "q": "Which Rebel pilot flies alongside Luke in both Death Star attacks?",
+        "a": "Wedge Antilles"
+      },
+      {
+        "q": "Which Imperial director oversees the Death Star's completion in Rogue One?",
+        "a": "Orson Krennic"
+      },
+      {
+        "q": "Which senator secretly funnels money to the rebellion in Andor?",
+        "a": "Mon Mothma"
+      },
+      {
+        "q": "Which Jedi trains Ezra Bridger in Star Wars Rebels?",
+        "a": "Kanan Jarrus"
+      },
+      {
+        "q": "In Yoda's chain of warnings, what does fear lead to?",
+        "a": "Anger"
+      },
+      {
+        "q": "Which bounty hunter confronts Han at a cantina table in A New Hope?",
+        "a": "Greedo"
+      },
+      {
+        "q": "What is the Rebel base evacuated at the start of The Empire Strikes Back called?",
+        "a": "Echo Base"
+      },
+      {
+        "q": "Which company did Disney buy in 2012 to acquire Star Wars?",
+        "a": "Lucasfilm"
+      },
+      {
+        "q": "What effects company did George Lucas found to make the original film?",
+        "a": "Industrial Light & Magic"
+      },
+      {
+        "q": "In which country were the Tatooine desert scenes for the 1977 film shot?",
+        "a": "Tunisia"
+      },
+      {
+        "q": "What creature turns out to be living in the asteroid cave the Falcon hides in?",
+        "a": "Space slug"
+      },
+      {
+        "q": "What chrome-armoured First Order captain commands the stormtroopers?",
+        "a": "Captain Phasma"
+      },
+      {
+        "q": "What moon does the Death Star fire on for its first test in Rogue One?",
+        "a": "Jedha"
+      },
+      {
+        "q": "In what year did The Mandalorian premiere?",
+        "a": "2019"
+      },
+      {
+        "q": "How many seasons does Andor run for?",
+        "a": "Two"
+      },
+      {
+        "q": "Which assassin partners with Boba Fett in The Book of Boba Fett?",
+        "a": "Fennec Shand"
+      },
+      {
+        "q": "What name was given to the altered 1997 re-releases of the original trilogy?",
+        "a": "Special Edition"
+      },
+      {
+        "q": "What rank does the Jedi Council refuse Anakin when it seats him in Revenge of the Sith?",
+        "a": "Master"
+      },
+      {
+        "q": "Which animated series launched in 2008 follows Anakin and Ahsoka through the war?",
+        "a": "The Clone Wars"
+      },
+      {
+        "q": "Which Star Wars film was the first released after Disney bought the franchise?",
+        "a": "The Force Awakens"
+      },
+      {
+        "q": "What surname does Rey claim for herself in the closing scene of the sequel trilogy?",
+        "a": "Skywalker"
       }
     ],
     "600": [
@@ -27993,6 +43001,242 @@ const QUALITY_BACKFILL = {
       {
         "q": "What planet does Grogu train with Luke Skywalker on?",
         "a": "Ossus (in Book of Boba Fett)"
+      },
+      {
+        "q": "What does TIE stand for in TIE fighter?",
+        "a": "Twin Ion Engines"
+      },
+      {
+        "q": "What model of light freighter is the Millennium Falcon?",
+        "a": "YT-1300"
+      },
+      {
+        "q": "What bounty hunter identity does Leia use inside Jabba's palace?",
+        "a": "Boushh"
+      },
+      {
+        "q": "What is Jabba's cackling monkey-lizard pet called?",
+        "a": "Salacious Crumb"
+      },
+      {
+        "q": "What species is Watto, the junk dealer?",
+        "a": "Toydarian"
+      },
+      {
+        "q": "Which Dug is Anakin's chief rival in the Boonta Eve podrace?",
+        "a": "Sebulba"
+      },
+      {
+        "q": "What is the capital city of Naboo?",
+        "a": "Theed"
+      },
+      {
+        "q": "What submersible do Qui-Gon and Obi-Wan use to cross Naboo's core?",
+        "a": "Bongo"
+      },
+      {
+        "q": "What is the Gungan leader called in The Phantom Menace?",
+        "a": "Boss Nass"
+      },
+      {
+        "q": "Which Jedi Master found Ahsoka as a child and brought her to the Order?",
+        "a": "Plo Koon"
+      },
+      {
+        "q": "What is Darth Vader's Super Star Destroyer called?",
+        "a": "Executor"
+      },
+      {
+        "q": "Which admiral does Vader execute after the botched approach to Hoth?",
+        "a": "Admiral Ozzel"
+      },
+      {
+        "q": "Which Imperial officer does Vader choke during the Death Star conference?",
+        "a": "Admiral Motti"
+      },
+      {
+        "q": "What holographic board game do Chewbacca and R2-D2 play aboard the Falcon?",
+        "a": "Dejarik"
+      },
+      {
+        "q": "What is the Wookiee language Chewbacca speaks called?",
+        "a": "Shyriiwook"
+      },
+      {
+        "q": "Where are Luke and Leia born?",
+        "a": "Polis Massa"
+      },
+      {
+        "q": "Who is Chancellor of the Republic immediately before Palpatine?",
+        "a": "Finis Valorum"
+      },
+      {
+        "q": "What is Palpatine's homeworld?",
+        "a": "Naboo"
+      },
+      {
+        "q": "What clone legion serves directly under Anakin Skywalker?",
+        "a": "501st Legion"
+      },
+      {
+        "q": "Who erased Kamino from the Jedi Archives?",
+        "a": "Count Dooku"
+      },
+      {
+        "q": "Which bald, twin-sabered assassin serves Count Dooku in The Clone Wars?",
+        "a": "Asajj Ventress"
+      },
+      {
+        "q": "What planet are the Nightsisters from?",
+        "a": "Dathomir"
+      },
+      {
+        "q": "Which Weequay pirate leader repeatedly bargains with the Jedi in The Clone Wars?",
+        "a": "Hondo Ohnaka"
+      },
+      {
+        "q": "Which blue-skinned bounty hunter in a wide-brimmed hat raids the Senate in The Clone Wars?",
+        "a": "Cad Bane"
+      },
+      {
+        "q": "What Mandalorian splinter group does Pre Vizsla lead in The Clone Wars?",
+        "a": "Death Watch"
+      },
+      {
+        "q": "What was Kanan Jarrus called during his years as a Padawan?",
+        "a": "Caleb Dume"
+      },
+      {
+        "q": "What codename do Rebel intelligence informants use in Star Wars Rebels?",
+        "a": "Fulcrum"
+      },
+      {
+        "q": "What is Grand Admiral Thrawn's flagship called?",
+        "a": "Chimaera"
+      },
+      {
+        "q": "What distant planet do Ahsoka and Sabine reach in the Ahsoka series?",
+        "a": "Peridea"
+      },
+      {
+        "q": "What nickname does Ahsoka use for Anakin?",
+        "a": "Skyguy"
+      },
+      {
+        "q": "What nickname does Anakin use for Ahsoka?",
+        "a": "Snips"
+      },
+      {
+        "q": "How old is Grogu said to be in The Mandalorian?",
+        "a": "Fifty years old"
+      },
+      {
+        "q": "Which Ugnaught farmer helps Din Djarin on Arvala-7?",
+        "a": "Kuiil"
+      },
+      {
+        "q": "Which assassin droid does Kuiil reprogram to protect the child?",
+        "a": "IG-11"
+      },
+      {
+        "q": "On what planet does Greef Karga run the bounty guild?",
+        "a": "Nevarro"
+      },
+      {
+        "q": "What Imperial agency does Dedra Meero serve in Andor?",
+        "a": "Imperial Security Bureau"
+      },
+      {
+        "q": "What corporate security force employs Syril Karn early in Andor?",
+        "a": "Pre-Mor Authority"
+      },
+      {
+        "q": "What planet's Imperial garrison does Cassian's crew rob in Andor?",
+        "a": "Aldhani"
+      },
+      {
+        "q": "How many episodes are in the first season of Andor?",
+        "a": "12"
+      },
+      {
+        "q": "What is Mon Mothma's homeworld?",
+        "a": "Chandrila"
+      },
+      {
+        "q": "What militant rebel group does Saw Gerrera lead?",
+        "a": "The Partisans"
+      },
+      {
+        "q": "Which blind guardian of the Whills joins the Rogue One team?",
+        "a": "Chirrut Imwe"
+      },
+      {
+        "q": "What crime syndicate does Dryden Vos front in Solo?",
+        "a": "Crimson Dawn"
+      },
+      {
+        "q": "Which Sith Lord appears as Qi'ra's employer in the final scene of Solo?",
+        "a": "Maul"
+      },
+      {
+        "q": "Who is Han's mentor and crew boss in Solo?",
+        "a": "Tobias Beckett"
+      },
+      {
+        "q": "Which droid copilots the Falcon with Lando in Solo?",
+        "a": "L3-37"
+      },
+      {
+        "q": "Which Kurosawa film heavily inspired the plot of the original Star Wars?",
+        "a": "The Hidden Fortress"
+      },
+      {
+        "q": "What Irish island stood in for Luke's island of exile?",
+        "a": "Skellig Michael"
+      },
+      {
+        "q": "How much did Disney pay for Lucasfilm in 2012?",
+        "a": "$4 billion"
+      },
+      {
+        "q": "Who has led Lucasfilm as president since 2012?",
+        "a": "Kathleen Kennedy"
+      },
+      {
+        "q": "How many competitive Academy Awards did the 1977 Star Wars film win?",
+        "a": "Six"
+      },
+      {
+        "q": "What sound facility did George Lucas found in Marin County?",
+        "a": "Skywalker Sound"
+      },
+      {
+        "q": "Which Jedi Master keeps the archives in the Jedi Temple?",
+        "a": "Jocasta Nu"
+      },
+      {
+        "q": "What horned beast does Anakin ride in the Geonosis arena?",
+        "a": "Reek"
+      },
+      {
+        "q": "What insectoid species builds the Separatist droid army on their home world?",
+        "a": "Geonosians"
+      },
+      {
+        "q": "What is the elite clone squad of The Bad Batch officially designated?",
+        "a": "Clone Force 99"
+      },
+      {
+        "q": "Which young female clone joins the Bad Batch?",
+        "a": "Omega"
+      },
+      {
+        "q": "Which Jedi rescues Grogu from the Temple during Order 66?",
+        "a": "Kelleran Beq"
+      },
+      {
+        "q": "What is the Separatist government formally named?",
+        "a": "Confederacy of Independent Systems"
       }
     ]
   },
@@ -28225,16 +43469,188 @@ const QUALITY_BACKFILL = {
       {
         "q": "What MCU movie featured three Spider-Men?",
         "a": "No Way Home"
+      },
+      {
+        "q": "In Sam Raimi's trilogy, what is the name of Norman Osborn's company?",
+        "a": "Oscorp"
+      },
+      {
+        "q": "In the 2002 Spider-Man film, what is unusual about the rainy alley kiss Mary Jane gives Spider-Man?",
+        "a": "Upside down"
+      },
+      {
+        "q": "Which school bully torments Peter throughout the Raimi trilogy?",
+        "a": "Flash Thompson"
+      },
+      {
+        "q": "What delivery job is Peter fired from early in Spider-Man 2?",
+        "a": "Pizza delivery"
+      },
+      {
+        "q": "What does Peter temporarily lose in Spider-Man 2, leaving him unable to stick to walls?",
+        "a": "His powers"
+      },
+      {
+        "q": "How many villains does Spider-Man face in Spider-Man 3?",
+        "a": "Three"
+      },
+      {
+        "q": "How many live-action Spider-Man films did Sam Raimi direct?",
+        "a": "Three"
+      },
+      {
+        "q": "In which Marvel film does the MCU version of Spider-Man first appear?",
+        "a": "Captain America: Civil War"
+      },
+      {
+        "q": "Which LEGO set are Peter and Ned building at the start of Spider-Man: Homecoming?",
+        "a": "The Death Star"
+      },
+      {
+        "q": "In Homecoming, what does Tony Stark take away from Peter as punishment?",
+        "a": "His suit"
+      },
+      {
+        "q": "Which school team does Peter travel to Washington with in Homecoming?",
+        "a": "The decathlon team"
+      },
+      {
+        "q": "At which national monument does Peter rescue his trapped classmates in Homecoming?",
+        "a": "The Washington Monument"
+      },
+      {
+        "q": "Which classmate does Peter have a crush on in Spider-Man: Homecoming?",
+        "a": "Liz"
+      },
+      {
+        "q": "Who walks in on Peter wearing his suit in the final scene of Homecoming?",
+        "a": "Aunt May"
+      },
+      {
+        "q": "Which continent does Peter's class tour in Spider-Man: Far From Home?",
+        "a": "Europe"
+      },
+      {
+        "q": "In Far From Home, in which canal city is Peter's class attacked by a water creature?",
+        "a": "Venice"
+      },
+      {
+        "q": "In No Way Home, which villain is responsible for Aunt May's death?",
+        "a": "Green Goblin"
+      },
+      {
+        "q": "In No Way Home, what does Peter decide to do for the villains instead of sending them back to die?",
+        "a": "Cure them"
+      },
+      {
+        "q": "What kind of animal is Spider-Ham in the Spider-Verse films?",
+        "a": "A pig"
+      },
+      {
+        "q": "What two colours is Miles Morales's finished suit in Into the Spider-Verse?",
+        "a": "Black and red"
+      },
+      {
+        "q": "Which instrument does Gwen Stacy play in her band in the Spider-Verse films?",
+        "a": "Drums"
+      },
+      {
+        "q": "Which older, scruffier Spider-Man reluctantly mentors Miles in Into the Spider-Verse?",
+        "a": "Peter B. Parker"
+      },
+      {
+        "q": "Which US city is the 2018 Venom film set in?",
+        "a": "San Francisco"
+      },
+      {
+        "q": "What is Eddie Brock's job in the Venom films?",
+        "a": "Journalist"
+      },
+      {
+        "q": "Which two things are symbiotes especially vulnerable to in the Venom films?",
+        "a": "Fire and sound"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, at which school ceremony does Gwen give a speech?",
+        "a": "Graduation"
+      },
+      {
+        "q": "In The Amazing Spider-Man, which limb is Curt Connors missing?",
+        "a": "His right arm"
+      },
+      {
+        "q": "In Spider-Man 2, what runaway vehicle does Spider-Man drag to a halt with his webbing?",
+        "a": "A train"
+      },
+      {
+        "q": "In the Raimi trilogy, who is Peter's wealthy best friend?",
+        "a": "Harry Osborn"
+      },
+      {
+        "q": "In which MCU film does Peter crumble to dust in Tony Stark's arms?",
+        "a": "Avengers: Infinity War"
+      },
+      {
+        "q": "In Homecoming, which Stark employee keeps ignoring Peter's voicemails?",
+        "a": "Happy Hogan"
+      },
+      {
+        "q": "What name does Peter give the artificial intelligence inside his Stark-built suit?",
+        "a": "Karen"
+      },
+      {
+        "q": "In Spider-Man 3, what condition leaves Harry Osborn briefly forgetting his grudge against Peter?",
+        "a": "Amnesia"
+      },
+      {
+        "q": "What is the first name of Miles Morales's mother in the Spider-Verse films?",
+        "a": "Rio"
+      },
+      {
+        "q": "In Far From Home, to whom does Peter hand over Tony Stark's glasses?",
+        "a": "Quentin Beck"
+      },
+      {
+        "q": "In Homecoming, what large passenger boat does Spider-Man try to hold together?",
+        "a": "A ferry"
+      },
+      {
+        "q": "What insult does the symbiote most often throw at Eddie in the Venom films?",
+        "a": "Loser"
+      },
+      {
+        "q": "In Spider-Man 3, what falls to Earth carrying the black symbiote?",
+        "a": "A meteorite"
+      },
+      {
+        "q": "In Far From Home, what do people call the return of everyone who had vanished?",
+        "a": "The Blip"
+      },
+      {
+        "q": "In Homecoming, what does Peter wear over his eyes in his homemade costume?",
+        "a": "Goggles"
+      },
+      {
+        "q": "In the 2002 film, at whose funeral does Peter tell Mary Jane they can only be friends?",
+        "a": "Norman Osborn's"
+      },
+      {
+        "q": "What body part does Venom repeatedly threaten to bite off people in the Venom films?",
+        "a": "Their heads"
+      },
+      {
+        "q": "In Spider-Man 2, what is the profession of the man Mary Jane becomes engaged to?",
+        "a": "Astronaut"
+      },
+      {
+        "q": "In the 2002 film, where does Mary Jane wait tables while trying to become an actress?",
+        "a": "A diner"
       }
     ],
     "400": [
       {
         "q": "What hyphenated supervillain is made of living sand?",
         "a": "Sandman"
-      },
-      {
-        "q": "What is the name of Peter's high school rival turned friend in the Raimi films?",
-        "a": "Harry Osborn"
       },
       {
         "q": "Who plays Flash Thompson in the MCU Spider-Man films?",
@@ -28487,6 +43903,174 @@ const QUALITY_BACKFILL = {
       {
         "q": "What year did Morbius release?",
         "a": "2022"
+      },
+      {
+        "q": "Who is the wrestler Peter faces in the cage match in the 2002 film?",
+        "a": "Bonesaw McGraw"
+      },
+      {
+        "q": "In the 2002 film, on whom does Norman Osborn test his unstable performance enhancer?",
+        "a": "Himself"
+      },
+      {
+        "q": "In the 2002 film's finale, what vehicle full of children does the Goblin dangle alongside Mary Jane?",
+        "a": "A tram car"
+      },
+      {
+        "q": "In Spider-Man 2, whose pizzeria does Peter make deliveries for?",
+        "a": "Joe's Pizza"
+      },
+      {
+        "q": "In Spider-Man 2, who carries Spider-Man's unmasked body after he stops the runaway train?",
+        "a": "The passengers"
+      },
+      {
+        "q": "In Spider-Man 3, what villain identity does Harry Osborn adopt against Peter?",
+        "a": "New Goblin"
+      },
+      {
+        "q": "In Spider-Man 3, where does Peter finally tear the symbiote off himself?",
+        "a": "A church bell tower"
+      },
+      {
+        "q": "In Spider-Man 3, whom does Spider-Man kiss upside down in front of a cheering crowd?",
+        "a": "Gwen Stacy"
+      },
+      {
+        "q": "In Spider-Man 3, why does Flint Marko say he keeps stealing?",
+        "a": "For his sick daughter"
+      },
+      {
+        "q": "In Spider-Man 3, what gets Eddie Brock fired from the Bugle?",
+        "a": "A faked photograph"
+      },
+      {
+        "q": "In The Amazing Spider-Man, what does Gwen's dying father make Peter promise?",
+        "a": "To stay away from Gwen"
+      },
+      {
+        "q": "In The Amazing Spider-Man, what do the construction workers line up to help a wounded Peter cross the city?",
+        "a": "Their cranes"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, how does Max Dillon gain his powers?",
+        "a": "Falling into electric eels"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, what kind of tower does Gwen Stacy fall to her death inside?",
+        "a": "A clock tower"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, what does Harry Osborn believe will cure his hereditary illness?",
+        "a": "Spider-Man's blood"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, which armoured villain appears in the very final scene?",
+        "a": "Rhino"
+      },
+      {
+        "q": "In Homecoming, what alien technology does Toomes's crew scavenge and sell as weapons?",
+        "a": "Chitauri technology"
+      },
+      {
+        "q": "In Homecoming, what aircraft does the Vulture try to hijack in the climax?",
+        "a": "A Stark cargo plane"
+      },
+      {
+        "q": "In Homecoming, what offer does Peter turn down at the end of the film?",
+        "a": "Joining the Avengers"
+      },
+      {
+        "q": "In Far From Home, which Skrull turns out to have been impersonating Nick Fury?",
+        "a": "Talos"
+      },
+      {
+        "q": "In Far From Home, in which city does Peter build his own new suit?",
+        "a": "Berlin"
+      },
+      {
+        "q": "In the Far From Home end-credits scene, which news outlet exposes Peter's identity?",
+        "a": "The Daily Bugle"
+      },
+      {
+        "q": "In No Way Home, which multiverse villain shows up first, attacking Peter on a bridge?",
+        "a": "Doctor Octopus"
+      },
+      {
+        "q": "In No Way Home, what does Ned discover he can do with a borrowed sling ring?",
+        "a": "Open portals"
+      },
+      {
+        "q": "In No Way Home, what does Peter sew for himself in the closing scene?",
+        "a": "A new suit"
+      },
+      {
+        "q": "In Into the Spider-Verse, what does the costume-shop owner insist on when Miles buys his outfit?",
+        "a": "No refunds"
+      },
+      {
+        "q": "Which of Miles's powers lets him hide from the Prowler in plain sight in Into the Spider-Verse?",
+        "a": "Invisibility"
+      },
+      {
+        "q": "In Into the Spider-Verse, where is Miles bitten by the spider?",
+        "a": "An abandoned subway station"
+      },
+      {
+        "q": "In Into the Spider-Verse, what does Kingpin hope the collider will bring back to him?",
+        "a": "His dead family"
+      },
+      {
+        "q": "In Across the Spider-Verse, what term does the Spider Society use for the tragedies every Spider must endure?",
+        "a": "Canon events"
+      },
+      {
+        "q": "In Across the Spider-Verse, what promotion is Miles's father about to receive?",
+        "a": "Police captain"
+      },
+      {
+        "q": "In Across the Spider-Verse, what vehicle does a heavily pregnant Jessica Drew ride?",
+        "a": "A motorcycle"
+      },
+      {
+        "q": "What is the announced title of the third Spider-Verse animated film?",
+        "a": "Beyond the Spider-Verse"
+      },
+      {
+        "q": "What is Anne Weying's profession in the Venom films?",
+        "a": "Lawyer"
+      },
+      {
+        "q": "Which organisation experiments on symbiotes with homeless test subjects in the 2018 Venom film?",
+        "a": "The Life Foundation"
+      },
+      {
+        "q": "What is the subtitle of the third live-action Venom film?",
+        "a": "The Last Dance"
+      },
+      {
+        "q": "In Morbius, which creature's DNA does Michael use in his attempted cure?",
+        "a": "Vampire bats"
+      },
+      {
+        "q": "In Homecoming, whose recorded fitness and detention videos play at Peter's school?",
+        "a": "Captain America"
+      },
+      {
+        "q": "In Homecoming, which gauntlet-wielding henchman works for Adrian Toomes?",
+        "a": "The Shocker"
+      },
+      {
+        "q": "In the 2002 film, which public celebration does the Green Goblin attack from the air?",
+        "a": "The World Unity Festival"
+      },
+      {
+        "q": "In The Amazing Spider-Man, what is the first name of Peter's scientist father?",
+        "a": "Richard"
+      },
+      {
+        "q": "Where does the final battle of Venom: Let There Be Carnage take place?",
+        "a": "A cathedral"
       }
     ],
     "600": [
@@ -28749,6 +44333,178 @@ const QUALITY_BACKFILL = {
       {
         "q": "What studio made the 1994 Spider-Man cartoon?",
         "a": "Marvel"
+      },
+      {
+        "q": "In the 2002 film, through what object does the Goblin persona first speak to Norman at home?",
+        "a": "A mirror"
+      },
+      {
+        "q": "In the 2002 film's finale, from which bridge does the Goblin drop Mary Jane?",
+        "a": "The Queensboro Bridge"
+      },
+      {
+        "q": "In the 2002 film, why does Peter enter the underground wrestling contest?",
+        "a": "To buy a car"
+      },
+      {
+        "q": "In Spider-Man 2, what rare element does Octavius need for his second fusion experiment?",
+        "a": "Tritium"
+      },
+      {
+        "q": "In Spider-Man 2, what is the name of Mary Jane's astronaut fiance?",
+        "a": "John Jameson"
+      },
+      {
+        "q": "In Spider-Man 2, what does Otto Octavius call his wife?",
+        "a": "Rosie"
+      },
+      {
+        "q": "In Spider-Man 2, what component is supposed to stop the mechanical arms controlling Octavius?",
+        "a": "The inhibitor chip"
+      },
+      {
+        "q": "In Spider-Man 2, what is the name of the landlord's daughter who brings Peter cake?",
+        "a": "Ursula"
+      },
+      {
+        "q": "In Spider-Man 3, what kills the symbiote-bonded Eddie Brock?",
+        "a": "A pumpkin bomb"
+      },
+      {
+        "q": "In Homecoming, what restriction on Peter's suit does Ned switch off?",
+        "a": "Training wheels protocol"
+      },
+      {
+        "q": "In Homecoming, what lethal setting does Ned unlock in Peter's suit?",
+        "a": "Instant kill"
+      },
+      {
+        "q": "In Homecoming, which clean-up organisation puts Adrian Toomes's salvage business out of work?",
+        "a": "Damage Control"
+      },
+      {
+        "q": "In Far From Home, which Stark holographic technology did Beck originally help create?",
+        "a": "B.A.R.F."
+      },
+      {
+        "q": "What is the surname of the teacher who leads the school trip in the MCU Spider-Man films?",
+        "a": "Harrington"
+      },
+      {
+        "q": "In No Way Home, what does Doctor Strange separate from Peter during their fight?",
+        "a": "His astral form"
+      },
+      {
+        "q": "In No Way Home, what does the blind lawyer catch to demonstrate his reflexes?",
+        "a": "A brick"
+      },
+      {
+        "q": "In No Way Home, what Stark-designed power source is used to cure Electro?",
+        "a": "An arc reactor"
+      },
+      {
+        "q": "In Infinity War, which older film does Peter base his rescue plan on?",
+        "a": "Aliens"
+      },
+      {
+        "q": "In Endgame, to which hero does Peter pass the Infinity Gauntlet during the battle?",
+        "a": "Captain Marvel"
+      },
+      {
+        "q": "In Into the Spider-Verse, what does Peter B. Parker call the drive needed to shut down the collider?",
+        "a": "A goober"
+      },
+      {
+        "q": "What is the first name of the Doctor Octopus in Into the Spider-Verse?",
+        "a": "Olivia"
+      },
+      {
+        "q": "In Into the Spider-Verse, what is the name of Kingpin's late wife?",
+        "a": "Vanessa"
+      },
+      {
+        "q": "In Into the Spider-Verse, what is the name of Miles's dorm roommate?",
+        "a": "Ganke"
+      },
+      {
+        "q": "In Into the Spider-Verse, what does Aunt May keep hidden beneath her house?",
+        "a": "A secret lab"
+      },
+      {
+        "q": "In the Spider-Verse films, how did the Peter Parker of Gwen's universe die?",
+        "a": "As the Lizard"
+      },
+      {
+        "q": "Which universe does Miles land in at the end of Across the Spider-Verse?",
+        "a": "Earth-42"
+      },
+      {
+        "q": "In Across the Spider-Verse, what identity does the other Miles have in the universe he lands in?",
+        "a": "The Prowler"
+      },
+      {
+        "q": "In Across the Spider-Verse, what kind of shop is the Spot robbing when he first fights Miles?",
+        "a": "A bodega"
+      },
+      {
+        "q": "In Across the Spider-Verse, what happened to the universe where Miguel took the place of another version of himself?",
+        "a": "It collapsed"
+      },
+      {
+        "q": "What is the futuristic city where the Spider Society headquarters is based called?",
+        "a": "Nueva York"
+      },
+      {
+        "q": "In Venom, what chemical found in brains and chocolate does the symbiote crave?",
+        "a": "Phenethylamine"
+      },
+      {
+        "q": "In Venom: Let There Be Carnage, at which prison is Cletus Kasady held?",
+        "a": "San Quentin"
+      },
+      {
+        "q": "Which symbiote god is hunting for the codex in Venom: The Last Dance?",
+        "a": "Knull"
+      },
+      {
+        "q": "In Madame Web, what is Cassandra Webb's job?",
+        "a": "Paramedic"
+      },
+      {
+        "q": "In which year is most of Madame Web set?",
+        "a": "2003"
+      },
+      {
+        "q": "In the 1978 Japanese live-action Spider-Man series, what is the giant robot called?",
+        "a": "Leopardon"
+      },
+      {
+        "q": "Which 2025 Disney+ animated series follows a teenage Peter Parker mentored by Norman Osborn?",
+        "a": "Your Friendly Neighborhood Spider-Man"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, which university offers Gwen Stacy a place?",
+        "a": "Oxford"
+      },
+      {
+        "q": "In The Amazing Spider-Man 2, where does Peter find his father's hidden laboratory?",
+        "a": "A disused subway station"
+      },
+      {
+        "q": "In The Amazing Spider-Man, what unfinished piece of his father's research does Peter complete?",
+        "a": "The decay rate algorithm"
+      },
+      {
+        "q": "In Homecoming, what does Toomes work out during the car ride to the school dance?",
+        "a": "Peter's secret identity"
+      },
+      {
+        "q": "In the 2002 film, which rival firm competes with Oscorp for the military contract?",
+        "a": "Quest Aerospace"
+      },
+      {
+        "q": "What does Gwen's father do with his job at the end of Across the Spider-Verse?",
+        "a": "Quits the police"
       }
     ]
   },
@@ -30401,6 +46157,86 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which two friends nap together and enjoy it?",
         "a": "Ross and Joey"
+      },
+      {
+        "q": "Which friend is famous for refusing to share his food?",
+        "a": "Joey"
+      },
+      {
+        "q": "Which of the six friends is a lifelong vegetarian?",
+        "a": "Phoebe"
+      },
+      {
+        "q": "Which friend is teased for having a third nipple?",
+        "a": "Chandler"
+      },
+      {
+        "q": "What happens to Ross's teeth after he overuses a whitening kit?",
+        "a": "They glow in the dark"
+      },
+      {
+        "q": "Which friend's trademark question starts with the words Could I be any more?",
+        "a": "Chandler"
+      },
+      {
+        "q": "Which sea creature does Phoebe use to describe a person's soulmate?",
+        "a": "A lobster"
+      },
+      {
+        "q": "Which friend waits tables at the coffee house in the early seasons?",
+        "a": "Rachel"
+      },
+      {
+        "q": "Which friend insists on hosting Thanksgiving dinner nearly every year?",
+        "a": "Monica"
+      },
+      {
+        "q": "What relation is Ben to Monica?",
+        "a": "Her nephew"
+      },
+      {
+        "q": "Which friend puts on every item of Chandler's wardrobe at once as payback?",
+        "a": "Joey"
+      },
+      {
+        "q": "Which two friends share the apartment with the purple door at the start of the series?",
+        "a": "Monica and Rachel"
+      },
+      {
+        "q": "What line does Rachel deliver at the very end of the final episode?",
+        "a": "I got off the plane"
+      },
+      {
+        "q": "What do the six carry while dancing in the fountain in the opening titles?",
+        "a": "Umbrellas"
+      },
+      {
+        "q": "Which friend is mortified by Phoebe's flailing style of running?",
+        "a": "Rachel"
+      },
+      {
+        "q": "Which friend screams My eyes! after spotting Monica and Chandler together?",
+        "a": "Phoebe"
+      },
+      {
+        "q": "Which two words begin the title of almost every Friends episode?",
+        "a": "The One"
+      },
+      {
+        "q": "What shape is the tattoo Rachel gets on her hip?",
+        "a": "A heart"
+      },
+      {
+        "q": "How many of the six friends are related to each other by blood?",
+        "a": "Two"
+      },
+      {
+        "q": "Which friend is stung by a jellyfish during the beach trip?",
+        "a": "Monica"
+      },
+      {
+        "q": "Whose apartment do the six leave empty in the closing scene of the series?",
+        "a": "Monica's"
       }
     ],
     "400": [
@@ -30731,6 +46567,130 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the first name of the mother who raised Phoebe and died when she was young?",
         "a": "Lily"
+      },
+      {
+        "q": "Which friend dismisses an argument by calling it a moo point?",
+        "a": "Joey"
+      },
+      {
+        "q": "What does Ross do to his list of five celebrities?",
+        "a": "Laminates it"
+      },
+      {
+        "q": "Which side of Ross's body ends up far too dark after his spray tan?",
+        "a": "The front"
+      },
+      {
+        "q": "What does Monica have done to her hair because of the humidity in Barbados?",
+        "a": "Braided into cornrows"
+      },
+      {
+        "q": "What does Rachel draw on Ross's sleeping face in Las Vegas?",
+        "a": "A beard and moustache"
+      },
+      {
+        "q": "Which half of the engaged couple ends up kneeling to propose first?",
+        "a": "Monica"
+      },
+      {
+        "q": "Which friend does Rachel first kiss during the trip to Barbados?",
+        "a": "Joey"
+      },
+      {
+        "q": "What does Joey do after picking up the ring Ross dropped at the hospital?",
+        "a": "Proposes to Rachel"
+      },
+      {
+        "q": "Which friend pretends to seduce Chandler to force him to admit his relationship?",
+        "a": "Phoebe"
+      },
+      {
+        "q": "What do the friends race to grab when Ugly Naked Guy moves out?",
+        "a": "His apartment"
+      },
+      {
+        "q": "Which friend does not travel to London for Ross's wedding?",
+        "a": "Phoebe"
+      },
+      {
+        "q": "Why does Rachel fly to London during Ross's wedding?",
+        "a": "To confess she loves him"
+      },
+      {
+        "q": "What does Chandler say for the first time after Monica dances with a bird on her head?",
+        "a": "I love you"
+      },
+      {
+        "q": "Which body part of Chandler's does Monica accidentally cut off in a flashback?",
+        "a": "A toe"
+      },
+      {
+        "q": "Which friend pees on Monica after her jellyfish sting?",
+        "a": "Joey"
+      },
+      {
+        "q": "Which furniture store does Phoebe refuse to buy anything from?",
+        "a": "Pottery Barn"
+      },
+      {
+        "q": "What is Chandler's New Year's resolution that he immediately struggles to keep?",
+        "a": "Stop making jokes"
+      },
+      {
+        "q": "What does Ross write comparing Rachel with Julie that Rachel later finds?",
+        "a": "A pros and cons list"
+      },
+      {
+        "q": "Who destroys the annulment papers after the Las Vegas wedding?",
+        "a": "Ross"
+      },
+      {
+        "q": "Which friend gets his head stuck inside a raw turkey?",
+        "a": "Joey"
+      },
+      {
+        "q": "What do the six leave on the kitchen counter as they walk out for the last time?",
+        "a": "Their keys"
+      },
+      {
+        "q": "What gift does Joey buy Chandler with his commercial money?",
+        "a": "A gold bracelet"
+      },
+      {
+        "q": "On which night of the week did Friends air on NBC?",
+        "a": "Thursday"
+      },
+      {
+        "q": "What furniture do Joey and Chandler buy and then refuse to get out of for days?",
+        "a": "Recliners"
+      },
+      {
+        "q": "Who wins the arm wrestling match at the Halloween party?",
+        "a": "Monica"
+      },
+      {
+        "q": "Which friend spends an episode trying to recreate her grandmother's cookie recipe?",
+        "a": "Phoebe"
+      },
+      {
+        "q": "Which friend does Rachel move in with after leaving Monica's apartment?",
+        "a": "Joey"
+      },
+      {
+        "q": "What does Monica hide behind a locked closet door in her spotless apartment?",
+        "a": "Junk"
+      },
+      {
+        "q": "Where do Ross and Chandler accidentally leave baby Ben?",
+        "a": "On a bus"
+      },
+      {
+        "q": "Where do Rachel and Chandler eat the second cheesecake from?",
+        "a": "The floor"
+      },
+      {
+        "q": "Which two friends beat Monica and Chandler to the Las Vegas wedding chapel?",
+        "a": "Ross and Rachel"
       }
     ],
     "600": [
@@ -31033,6 +46993,178 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the first name of Monica's boyfriend who turns out to be a high school senior?",
         "a": "Ethan"
+      },
+      {
+        "q": "What is the name of the museum where Ross works in the early seasons?",
+        "a": "Museum of Prehistoric History"
+      },
+      {
+        "q": "What condition does Emily set for staying married to Ross?",
+        "a": "Never seeing Rachel again"
+      },
+      {
+        "q": "On which soap opera does Gunther say he used to act?",
+        "a": "All My Children"
+      },
+      {
+        "q": "What does Phoebe's grandmother's secret cookie recipe turn out to be?",
+        "a": "Nestle Toll House"
+      },
+      {
+        "q": "What does Phoebe end up with instead of the tattoo she planned?",
+        "a": "A black dot"
+      },
+      {
+        "q": "Which celebrity haircut does Phoebe give Monica by mistake?",
+        "a": "Dudley Moore"
+      },
+      {
+        "q": "What is the name of Ross's girlfriend who shaves her head?",
+        "a": "Bonnie"
+      },
+      {
+        "q": "Which of Joey's girlfriends does Chandler fall in love with?",
+        "a": "Kathy"
+      },
+      {
+        "q": "Which girlfriend does Ross meet at Monica and Chandler's wedding?",
+        "a": "Mona"
+      },
+      {
+        "q": "What is the name of Monica's season one boyfriend the whole group adores?",
+        "a": "Alan"
+      },
+      {
+        "q": "Which Bloomingdale's client does Rachel scare off by proposing?",
+        "a": "Joshua"
+      },
+      {
+        "q": "Which neighbour do the friends nickname the Yeti before Rachel dates him?",
+        "a": "Danny"
+      },
+      {
+        "q": "What is the name of the Central Perk boss who fires Rachel?",
+        "a": "Terry"
+      },
+      {
+        "q": "What does Mr. Heckles bang on his ceiling with?",
+        "a": "A broom"
+      },
+      {
+        "q": "What appliance does Chandler's roommate Eddie use obsessively?",
+        "a": "A food dehydrator"
+      },
+      {
+        "q": "What do the friends build to check whether Ugly Naked Guy is still alive?",
+        "a": "A poking device"
+      },
+      {
+        "q": "What name does Monica give herself when meeting the woman who stole her credit card?",
+        "a": "Monana"
+      },
+      {
+        "q": "Which escaped parade balloon leaves the friends locked out on Thanksgiving?",
+        "a": "Underdog"
+      },
+      {
+        "q": "Who did Ross blame when their parents smelled marijuana in his old bedroom?",
+        "a": "Chandler"
+      },
+      {
+        "q": "According to the apartment quiz, what is Monica's biggest pet peeve?",
+        "a": "Animals dressed as humans"
+      },
+      {
+        "q": "Which comedy is revealed to be Rachel's real favourite film during the apartment quiz?",
+        "a": "Weekend at Bernie's"
+      },
+      {
+        "q": "What animal does Phoebe believe her dead mother has come back as?",
+        "a": "A cat"
+      },
+      {
+        "q": "Which novel does Rachel make Joey read in return for The Shining?",
+        "a": "Little Women"
+      },
+      {
+        "q": "What product does Joey advertise in a Japanese commercial?",
+        "a": "Lipstick for men"
+      },
+      {
+        "q": "Joey's face ends up on a public health poster warning about what?",
+        "a": "Venereal disease"
+      },
+      {
+        "q": "What does Ross drink far too much of while insisting he is fine about Joey and Rachel?",
+        "a": "Margaritas"
+      },
+      {
+        "q": "Why do the friends throw two separate birthday parties for Rachel on the same night?",
+        "a": "Her divorced parents"
+      },
+      {
+        "q": "From which New Jersey airport does Rachel's flight to Paris actually leave?",
+        "a": "Newark"
+      },
+      {
+        "q": "What does Phoebe claim is missing from the plane to stop Rachel flying?",
+        "a": "A phalange"
+      },
+      {
+        "q": "What do Joey and Chandler sit in after their apartment is emptied by a burglar?",
+        "a": "A canoe"
+      },
+      {
+        "q": "What kind of message board hangs on Joey and Chandler's front door?",
+        "a": "A Magna Doodle"
+      },
+      {
+        "q": "Where do Ross and Phoebe find Chandler after he panics before his wedding?",
+        "a": "His office"
+      },
+      {
+        "q": "Which piece of games furniture has to be smashed open to rescue the chick?",
+        "a": "The foosball table"
+      },
+      {
+        "q": "What does Chandler discover about his girlfriend Ginger?",
+        "a": "She has a wooden leg"
+      },
+      {
+        "q": "Why is Joey first fired from Days of Our Lives?",
+        "a": "He claimed he wrote his lines"
+      },
+      {
+        "q": "What was the name of the club Ross started with a schoolfriend about Rachel?",
+        "a": "I Hate Rachel Green Club"
+      },
+      {
+        "q": "What piece of furniture does Rachel buy that she has to hide from Phoebe?",
+        "a": "An apothecary table"
+      },
+      {
+        "q": "Which friend speaks the very first line of the pilot episode?",
+        "a": "Monica"
+      },
+      {
+        "q": "How many episodes of Friends were made in total?",
+        "a": "236"
+      },
+      {
+        "q": "What does Chandler do at his Tulsa office on Christmas Eve?",
+        "a": "Quits"
+      },
+      {
+        "q": "What does Phoebe find inside a can of soda?",
+        "a": "A thumb"
+      },
+      {
+        "q": "Whose positive pregnancy test is found at Monica and Chandler's wedding?",
+        "a": "Rachel's"
+      },
+      {
+        "q": "Which friend teaches Joey to sail after he buys a boat?",
+        "a": "Rachel"
       }
     ]
   },
@@ -31309,6 +47441,110 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Dwight and Angela's son?",
         "a": "Philip"
+      },
+      {
+        "q": "Who is the Scranton branch's top salesman?",
+        "a": "Dwight"
+      },
+      {
+        "q": "Which department do Angela, Kevin and Oscar work in?",
+        "a": "Accounting"
+      },
+      {
+        "q": "Which department does Kelly Kapoor work in?",
+        "a": "Customer service"
+      },
+      {
+        "q": "Which sport do Michael's office staff play against the warehouse crew in season one?",
+        "a": "Basketball"
+      },
+      {
+        "q": "What is Roy's job at Dunder Mifflin?",
+        "a": "Warehouse worker"
+      },
+      {
+        "q": "Which branch does Jim transfer to at the end of season two?",
+        "a": "Stamford"
+      },
+      {
+        "q": "How many seasons of the American series were made?",
+        "a": "Nine"
+      },
+      {
+        "q": "What is the name of the bar the Scranton staff drink at?",
+        "a": "Poor Richard's"
+      },
+      {
+        "q": "Which employee runs the Party Planning Committee?",
+        "a": "Angela"
+      },
+      {
+        "q": "In which city is Dunder Mifflin's corporate headquarters?",
+        "a": "New York"
+      },
+      {
+        "q": "What is Jim's job at Dunder Mifflin?",
+        "a": "Salesman"
+      },
+      {
+        "q": "How many children do Jim and Pam have by the end of the series?",
+        "a": "Two"
+      },
+      {
+        "q": "Which employee is regularly caught asleep at his desk?",
+        "a": "Stanley"
+      },
+      {
+        "q": "Which pasta dish does Michael eat right before the charity fun run?",
+        "a": "Fettuccine Alfredo"
+      },
+      {
+        "q": "What does Michael land on when he jumps off the office roof?",
+        "a": "A bouncy castle"
+      },
+      {
+        "q": "What does Michael shout to panic the guests on the booze cruise?",
+        "a": "The ship is sinking"
+      },
+      {
+        "q": "What animal flies loose around the office, panicking the staff?",
+        "a": "A bat"
+      },
+      {
+        "q": "Where does Michael send Meredith after her hair catches fire?",
+        "a": "Rehab"
+      },
+      {
+        "q": "What does Jim cut off at his own wedding so Pam will not feel alone?",
+        "a": "His tie"
+      },
+      {
+        "q": "Which branch's copier do Michael and Dwight steal?",
+        "a": "Utica"
+      },
+      {
+        "q": "What does Dwight use to stop Roy when he charges at Jim?",
+        "a": "Pepper spray"
+      },
+      {
+        "q": "Which disco song do the staff use to time chest compressions in CPR training?",
+        "a": "Stayin' Alive"
+      },
+      {
+        "q": "What career does Andy leave Dunder Mifflin to pursue in season nine?",
+        "a": "Acting"
+      },
+      {
+        "q": "What do the staff call the side room where Kelly and Toby sit?",
+        "a": "The annex"
+      },
+      {
+        "q": "In the pilot, what does Michael pretend to do to Pam as a prank?",
+        "a": "Fire her"
+      },
+      {
+        "q": "In which season does Michael Scott leave the series?",
+        "a": "Season seven"
       }
     ],
     "400": [
@@ -31651,6 +47887,102 @@ const QUALITY_BACKFILL = {
       {
         "q": "What secret gift does Angela give Dwight for Christmas?",
         "a": "A bobblehead"
+      },
+      {
+        "q": "Which instrument does Kevin play in his cover band?",
+        "a": "Drums"
+      },
+      {
+        "q": "What does Michael tape to his employees' foreheads during his diversity session?",
+        "a": "Race cards"
+      },
+      {
+        "q": "Which employee holds the job of supplier relations representative?",
+        "a": "Meredith"
+      },
+      {
+        "q": "What job did Michael hold at the branch before he was promoted to manager?",
+        "a": "Salesman"
+      },
+      {
+        "q": "Which office superstore chain is Dunder Mifflin's biggest competitor?",
+        "a": "Staples"
+      },
+      {
+        "q": "In which state is the Utica branch?",
+        "a": "New York"
+      },
+      {
+        "q": "Which website does Jim dress as by taping a page to his face for the costume contest?",
+        "a": "Facebook"
+      },
+      {
+        "q": "Which Chris Brown song plays as the wedding party dances down the aisle in Niagara?",
+        "a": "Forever"
+      },
+      {
+        "q": "What does Jan destroy by hurling Michael's Dundie at it?",
+        "a": "His plasma TV"
+      },
+      {
+        "q": "Which character ends jokes with 'Boom, roasted'?",
+        "a": "Michael"
+      },
+      {
+        "q": "Whose baby shower does the office host in season five?",
+        "a": "Jan's"
+      },
+      {
+        "q": "Who ends up getting the corporate job that Michael, Jim and Karen all interview for?",
+        "a": "Ryan"
+      },
+      {
+        "q": "What does Dwight find in the parking lot that sparks an office drug investigation?",
+        "a": "A joint"
+      },
+      {
+        "q": "What dead animal does the office hold a funeral for?",
+        "a": "A bird"
+      },
+      {
+        "q": "Which employee shouts 'Did I stutter?' at Michael?",
+        "a": "Stanley"
+      },
+      {
+        "q": "Who slaps Michael in the face after he dumps her mother?",
+        "a": "Pam"
+      },
+      {
+        "q": "What civic duty does Jim pretend to be doing to get time off with his newborn?",
+        "a": "Jury duty"
+      },
+      {
+        "q": "What does Jim train Dwight to expect whenever his computer chimes?",
+        "a": "An Altoid"
+      },
+      {
+        "q": "What personal writing of Michael's becomes evidence in Jan's lawsuit?",
+        "a": "His diary"
+      },
+      {
+        "q": "What program is Andy sent to after punching a hole in the wall?",
+        "a": "Anger management"
+      },
+      {
+        "q": "Which character declares 'I am Beyonce, always'?",
+        "a": "Michael"
+      },
+      {
+        "q": "Which employee decides to use fewer words, saying 'Why waste time say lot word'?",
+        "a": "Kevin"
+      },
+      {
+        "q": "Where in the building is Michael's roast held?",
+        "a": "The warehouse"
+      },
+      {
+        "q": "What does Pam create on the warehouse wall in season nine?",
+        "a": "A mural"
       }
     ],
     "600": [
@@ -31961,6 +48293,130 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is Michael's character name in the office murder mystery game?",
         "a": "Caleb Crawdad"
+      },
+      {
+        "q": "What body part does Dwight cut off the CPR dummy during the training?",
+        "a": "Its face"
+      },
+      {
+        "q": "What are the medals at Michael's Office Olympics made from?",
+        "a": "Yogurt lids"
+      },
+      {
+        "q": "What is the name of the dance Michael's spy character performs in his film?",
+        "a": "The Scarn"
+      },
+      {
+        "q": "What dish does Jan serve hours late at her dinner party?",
+        "a": "Osso buco"
+      },
+      {
+        "q": "Where does Michael sleep in his condo after Jan takes over the bedroom?",
+        "a": "A bench"
+      },
+      {
+        "q": "Which online virtual world does Dwight spend his free time in?",
+        "a": "Second Life"
+      },
+      {
+        "q": "What does Dwight dress as for Halloween in season two?",
+        "a": "A Sith Lord"
+      },
+      {
+        "q": "Which employee does Michael fire on Halloween in season two?",
+        "a": "Devon"
+      },
+      {
+        "q": "What is the name of the captain of the booze cruise boat?",
+        "a": "Captain Jack"
+      },
+      {
+        "q": "What medical test result is Kevin anxiously waiting for on Michael's birthday?",
+        "a": "Skin cancer test"
+      },
+      {
+        "q": "At which festival does Michael propose to his girlfriend Carol?",
+        "a": "Diwali"
+      },
+      {
+        "q": "How does Michael tell his two Benihana waitresses apart at the Christmas party?",
+        "a": "He marks one"
+      },
+      {
+        "q": "What does Jim convince Dwight he is turning into after the bat incident?",
+        "a": "A vampire"
+      },
+      {
+        "q": "What prize do the branches compete for in the corporate weight-loss challenge?",
+        "a": "Extra vacation days"
+      },
+      {
+        "q": "Which restaurant chain's coupons does Meredith accept from a paper supplier?",
+        "a": "Outback Steakhouse"
+      },
+      {
+        "q": "What does Michael organize to replace the items stolen in the office break-in?",
+        "a": "An auction"
+      },
+      {
+        "q": "Which small competitor do Michael and Dwight secretly scout in season five?",
+        "a": "Prince Family Paper"
+      },
+      {
+        "q": "Where does Michael impulsively agree to travel after a christening?",
+        "a": "Mexico"
+      },
+      {
+        "q": "What does Robert California leave in a conference room that divides the staff into two groups?",
+        "a": "A list"
+      },
+      {
+        "q": "Who is the fictitious author of the etiquette book Dwight follows for Andy's garden party?",
+        "a": "James Trickington"
+      },
+      {
+        "q": "What does Dwight name the system that automatically emails the CEO if the branch makes five mistakes?",
+        "a": "The Doomsday Device"
+      },
+      {
+        "q": "Which employee unknowingly brings lice into the office?",
+        "a": "Pam"
+      },
+      {
+        "q": "Who vandalizes the mural Pam paints in the warehouse?",
+        "a": "Frank"
+      },
+      {
+        "q": "What nickname does Andy give the new temp Clark?",
+        "a": "Dwight Junior"
+      },
+      {
+        "q": "Whose funeral gathers the Schrute family in season nine?",
+        "a": "Aunt Shirley"
+      },
+      {
+        "q": "What is the name of the farmer's daughter Dwight dates in the final season?",
+        "a": "Esther"
+      },
+      {
+        "q": "What happens to Creed once the documentary airs in the finale?",
+        "a": "He is arrested"
+      },
+      {
+        "q": "What is the name of the movie the staff watch together in the episode Stress Relief?",
+        "a": "Mrs. Albert Hannaday"
+      },
+      {
+        "q": "At the launch party, Dwight races to outsell what new corporate creation?",
+        "a": "The company website"
+      },
+      {
+        "q": "On which lake does the office booze cruise take place?",
+        "a": "Lake Wallenpaupack"
+      },
+      {
+        "q": "Who is the chief executive of Dunder Mifflin above David Wallace?",
+        "a": "Alan Brand"
       }
     ]
   },
@@ -32229,6 +48685,82 @@ const QUALITY_BACKFILL = {
       {
         "q": "In which season does Hank discover that Walt is Heisenberg?",
         "a": "Season 5"
+      },
+      {
+        "q": "What does Walter do to his hair once his chemotherapy starts?",
+        "a": "Shaves it off"
+      },
+      {
+        "q": "In the pilot's desert opening, which item of Walt's clothing ends up lying in the road?",
+        "a": "His trousers"
+      },
+      {
+        "q": "What colour are the hazmat suits worn for cooking in the superlab?",
+        "a": "Yellow"
+      },
+      {
+        "q": "What takeaway food does Walt hurl onto the roof of his own house?",
+        "a": "A pizza"
+      },
+      {
+        "q": "What three-word catchphrase ends the TV adverts of Walt's sleazy lawyer?",
+        "a": "Better Call Saul"
+      },
+      {
+        "q": "What relation is Marie Schrader to Walter White?",
+        "a": "Sister-in-law"
+      },
+      {
+        "q": "Walt tells his class that chemistry is really the study of what?",
+        "a": "Change"
+      },
+      {
+        "q": "Who phones the police during the knife struggle at the White family home?",
+        "a": "Walt Jr."
+      },
+      {
+        "q": "What does Skyler grab from the kitchen to defend herself against Walt?",
+        "a": "A knife"
+      },
+      {
+        "q": "How many children do Walt and Skyler have by the end of the series?",
+        "a": "Two"
+      },
+      {
+        "q": "What single word is spray-painted across the wall of the abandoned White house?",
+        "a": "Heisenberg"
+      },
+      {
+        "q": "What do local kids use the drained White family pool for?",
+        "a": "Skateboarding"
+      },
+      {
+        "q": "What kind of hat does Jesse habitually wear?",
+        "a": "A beanie"
+      },
+      {
+        "q": "Which DEA agent beats Jesse so badly that he is suspended for it?",
+        "a": "Hank"
+      },
+      {
+        "q": "Where in the White house does Walt stash the barrels of cash?",
+        "a": "The crawl space"
+      },
+      {
+        "q": "Where is Walt working when he collapses and is taken to hospital in the pilot?",
+        "a": "The car wash"
+      },
+      {
+        "q": "What is Jesse fleeing from when Walt first spots him during a ride-along?",
+        "a": "A drug bust"
+      },
+      {
+        "q": "Which hard drug does Jane get Jesse hooked on?",
+        "a": "Heroin"
+      },
+      {
+        "q": "Where does Skyler send Walt Jr. and Holly when she fears for their safety?",
+        "a": "To Hank and Marie's"
       }
     ],
     "400": [
@@ -32567,6 +49099,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "In what year did the series finale air?",
         "a": "2013"
+      },
+      {
+        "q": "What does Walt build out of spare parts to restart the stranded RV in the desert?",
+        "a": "A battery"
+      },
+      {
+        "q": "What crude three-word line does Walt shout at the customers as he quits the car wash?",
+        "a": "Wipe down this"
+      },
+      {
+        "q": "What single word does Walt yell at Jesse after killing the two street dealers?",
+        "a": "Run"
+      },
+      {
+        "q": "What two-word warning does Walt give Hank at the end of their garage confrontation?",
+        "a": "Tread lightly"
+      },
+      {
+        "q": "What travel euphemism does Saul use when he hints that Hank should be killed?",
+        "a": "A trip to Belize"
+      },
+      {
+        "q": "What does Jesse start pouring around the White living room before Hank stops him?",
+        "a": "Gasoline"
+      },
+      {
+        "q": "What job is Todd doing when Walt and Mike first take him on?",
+        "a": "Exterminator"
+      },
+      {
+        "q": "What is Jane Margolis's job?",
+        "a": "Tattoo artist"
+      },
+      {
+        "q": "Where does Walt strike up a conversation with Jane's father shortly before her death?",
+        "a": "A bar"
+      },
+      {
+        "q": "What creature is the boy on the dirt bike collecting when he sees the train heist?",
+        "a": "A tarantula"
+      },
+      {
+        "q": "What condition causes Hank's panic attacks after his time in El Paso?",
+        "a": "PTSD"
+      },
+      {
+        "q": "Where do the Salamanca cousins ambush Hank?",
+        "a": "A parking lot"
+      },
+      {
+        "q": "What does a pregnant Skyler do outside by the pool to provoke Walt?",
+        "a": "Smokes a cigarette"
+      },
+      {
+        "q": "What does Marie shoplift as a gift for Skyler's baby shower?",
+        "a": "A tiara"
+      },
+      {
+        "q": "Which federal agency audits Ted Beneke's company?",
+        "a": "The IRS"
+      },
+      {
+        "q": "What piece of laundry equipment conceals the lift down to the superlab?",
+        "a": "An industrial dryer"
+      },
+      {
+        "q": "How do Walt and Jesse get rid of the superlab after Gus dies?",
+        "a": "They burn it"
+      },
+      {
+        "q": "Besides bromine, which element's symbol is picked out in the show's title logo?",
+        "a": "Barium"
+      },
+      {
+        "q": "What machine finally destroys the RV at the junkyard?",
+        "a": "A car crusher"
+      },
+      {
+        "q": "Where does Walt first attach the pipe bomb meant for Gus?",
+        "a": "Gus's car"
+      },
+      {
+        "q": "What does Walt discover fixed under his Aztek in season 5?",
+        "a": "A GPS tracker"
+      },
+      {
+        "q": "What does Hank need months of after being shot in the parking lot?",
+        "a": "Physical therapy"
+      },
+      {
+        "q": "In what year was the film El Camino released?",
+        "a": "2019"
+      },
+      {
+        "q": "What make of car does Jesse drive away in at the very end of the series?",
+        "a": "A Chevrolet El Camino"
+      },
+      {
+        "q": "Whose drugs does Jesse take the blame for at his parents' house?",
+        "a": "His brother Jake's"
+      },
+      {
+        "q": "What term does Mike use for the payments owed to his jailed men?",
+        "a": "Legacy costs"
+      },
+      {
+        "q": "What does Gus calmly straighten as he steps out of the room where the bomb went off?",
+        "a": "His tie"
+      },
+      {
+        "q": "Who does Walt verbally abuse in a staged phone call to make her look innocent?",
+        "a": "Skyler"
+      },
+      {
+        "q": "What kind of bacon does Skyler serve Walt for his fiftieth birthday breakfast?",
+        "a": "Veggie bacon"
+      },
+      {
+        "q": "How does Walt wear his wedding ring while hiding out in New Hampshire?",
+        "a": "On a string"
+      },
+      {
+        "q": "What alcohol does Walt keep pushing on Walt Jr. at a family gathering until he is sick?",
+        "a": "Tequila"
+      },
+      {
+        "q": "Where does Walt smash a paper towel dispenser off the wall after good news about his tumour?",
+        "a": "A hospital bathroom"
+      },
+      {
+        "q": "Where does Walt trip a teenager who had been mocking his son?",
+        "a": "A clothing store"
+      },
+      {
+        "q": "What two initials does Gale write in the dedication of the book he gives Walt?",
+        "a": "W.W."
+      },
+      {
+        "q": "What framed keepsake does Walt take off the car wash wall and spend on a soda?",
+        "a": "Bogdan's first dollar"
+      },
+      {
+        "q": "How does Walt move his last barrel of cash across the desert?",
+        "a": "He rolls it"
+      },
+      {
+        "q": "What slogan does the Whites' car wash use with customers?",
+        "a": "Have an A1 Day"
+      },
+      {
+        "q": "What souvenir does Walt keep from the pink teddy bear in his pool?",
+        "a": "Its eye"
+      },
+      {
+        "q": "What weapon does Walt buy from the arms dealer Lawson in a parking lot in season 4?",
+        "a": "A .38 revolver"
+      },
+      {
+        "q": "What operation does Walt undergo after his tumour shrinks?",
+        "a": "Lung surgery"
       }
     ],
     "600": [
@@ -32869,6 +49561,182 @@ const QUALITY_BACKFILL = {
       {
         "q": "At which national laboratory did Walt work before becoming a teacher?",
         "a": "Sandia"
+      },
+      {
+        "q": "Who kills the surviving Salamanca cousin in his hospital bed?",
+        "a": "Mike Ehrmantraut"
+      },
+      {
+        "q": "How much warning does the anonymous caller give Hank before the cousins strike?",
+        "a": "One minute"
+      },
+      {
+        "q": "What is the one-word title of the episode in which Gus wipes out Don Eladio's men?",
+        "a": "Salud"
+      },
+      {
+        "q": "Which law enforcement organisation does Gus publicly donate to and cater events for?",
+        "a": "The DEA"
+      },
+      {
+        "q": "Which famous prize does Walt boast his crystallography research contributed to?",
+        "a": "The Nobel Prize"
+      },
+      {
+        "q": "Which friend of Walt Jr.'s does Walt use to reach his son by phone from New Hampshire?",
+        "a": "Louis Corbett"
+      },
+      {
+        "q": "What everyday device does Walt use to trigger the machine gun in the trunk?",
+        "a": "A key fob"
+      },
+      {
+        "q": "How much does Walt get for his Pontiac Aztek when he finally offloads it?",
+        "a": "Fifty dollars"
+      },
+      {
+        "q": "Which car does Walt buy for himself in season 5?",
+        "a": "A Chrysler 300"
+      },
+      {
+        "q": "How much money does Jesse receive when he walks away from the business?",
+        "a": "$5 million"
+      },
+      {
+        "q": "Roughly how much cash does Walt end up burying in the desert?",
+        "a": "$80 million"
+      },
+      {
+        "q": "How much money does Walt arrange for the Schwartzes to pass on to his son?",
+        "a": "$9.72 million"
+      },
+      {
+        "q": "How much does Jane demand from Walt as Jesse's share?",
+        "a": "$480,000"
+      },
+      {
+        "q": "What is the title of the mid-season finale in which Hank picks up a book in the bathroom?",
+        "a": "Gliding Over All"
+      },
+      {
+        "q": "What is the title of the season 5 episode named after Walt's age?",
+        "a": "Fifty-One"
+      },
+      {
+        "q": "In which episode is Gale shot dead in his doorway?",
+        "a": "Full Measure"
+      },
+      {
+        "q": "Which episode strands Walt and Jesse in the desert with a dead RV battery?",
+        "a": "4 Days Out"
+      },
+      {
+        "q": "How many episodes are in the first season?",
+        "a": "Seven"
+      },
+      {
+        "q": "How many episodes make up the fifth season?",
+        "a": "Sixteen"
+      },
+      {
+        "q": "Who composed the music score for the series?",
+        "a": "Dave Porter"
+      },
+      {
+        "q": "What type of Mexican ballad opens the episode Negro y Azul?",
+        "a": "A narcocorrido"
+      },
+      {
+        "q": "In which California city was the show originally going to be set?",
+        "a": "Riverside"
+      },
+      {
+        "q": "What surname does Jesse take when he starts over in Alaska?",
+        "a": "Driscoll"
+      },
+      {
+        "q": "What is the first name of the welder Jesse faces down in El Camino?",
+        "a": "Neil"
+      },
+      {
+        "q": "What name does Jesse give the RV?",
+        "a": "The Krystal Ship"
+      },
+      {
+        "q": "Who owns the auto shop where Jesse stores the RV?",
+        "a": "Clovis"
+      },
+      {
+        "q": "What is the name of the shell company Saul sets up to move Walt's money?",
+        "a": "Ice Station Zebra Associates"
+      },
+      {
+        "q": "What is the first name of the sex worker who works the Crossroads Motel?",
+        "a": "Wendy"
+      },
+      {
+        "q": "What is Combo's real first name?",
+        "a": "Christian"
+      },
+      {
+        "q": "What is the name of Andrea's younger brother, killed by the dealers?",
+        "a": "Tomas"
+      },
+      {
+        "q": "What does Jesse use to strangle Todd?",
+        "a": "His handcuff chain"
+      },
+      {
+        "q": "Who kills Jack Welker?",
+        "a": "Walter White"
+      },
+      {
+        "q": "Which neighbour does Walt greet by name at his ruined house in the finale?",
+        "a": "Carol"
+      },
+      {
+        "q": "What was Gretchen to Walt before she married his business partner?",
+        "a": "His girlfriend"
+      },
+      {
+        "q": "What kind of shop is Skinny Pete found playing piano in?",
+        "a": "A music store"
+      },
+      {
+        "q": "On which website does Skyler sell items for extra money early in the series?",
+        "a": "eBay"
+      },
+      {
+        "q": "What is the name of Don Eladio's enforcer sent to deal with Gus?",
+        "a": "Gaff"
+      },
+      {
+        "q": "What story does Skyler tell Ted to explain the money that clears his tax debt?",
+        "a": "An inheritance from an aunt"
+      },
+      {
+        "q": "What is hidden beneath the tortoise in the desert that maims a DEA agent?",
+        "a": "A bomb"
+      },
+      {
+        "q": "What item of Gale's do the police recover, full of sketches and recipes?",
+        "a": "His lab notebook"
+      },
+      {
+        "q": "Which lowrider car does Jesse drive in the first season?",
+        "a": "A Monte Carlo"
+      },
+      {
+        "q": "Which damaged part of his Aztek does Walt stubbornly refuse to replace?",
+        "a": "The windshield"
+      },
+      {
+        "q": "The season 2 titles Seven Thirty-Seven, Down, Over and ABQ describe which disaster?",
+        "a": "A plane crash"
+      },
+      {
+        "q": "Who negotiates the purchase of Jesse's aunt's house on his behalf?",
+        "a": "Saul Goodman"
       }
     ]
   },
@@ -33153,6 +50021,110 @@ const QUALITY_BACKFILL = {
       {
         "q": "What are the reanimated corpses controlled by the White Walkers called?",
         "a": "Wights"
+      },
+      {
+        "q": "What position does King Robert offer Ned Stark when he visits Winterfell in the first episode?",
+        "a": "Hand of the King"
+      },
+      {
+        "q": "What animal fatally wounds King Robert Baratheon during a hunt?",
+        "a": "A boar"
+      },
+      {
+        "q": "What title do the Dothraki give Daenerys once she marries their leader?",
+        "a": "Khaleesi"
+      },
+      {
+        "q": "What is the ancestral seat of House Lannister called?",
+        "a": "Casterly Rock"
+      },
+      {
+        "q": "Who is the father of Cersei and Jaime?",
+        "a": "Tywin Lannister"
+      },
+      {
+        "q": "How many seasons of the series were made?",
+        "a": "Eight"
+      },
+      {
+        "q": "Which television network first aired the series?",
+        "a": "HBO"
+      },
+      {
+        "q": "Who wrote the novels the series is based on?",
+        "a": "George R. R. Martin"
+      },
+      {
+        "q": "Which Stark is proclaimed King in the North by his bannermen after Ned's death?",
+        "a": "Robb Stark"
+      },
+      {
+        "q": "Which brutal companion does Arya travel across the Riverlands with in seasons three and four?",
+        "a": "The Hound"
+      },
+      {
+        "q": "Which baker boy befriends Arya after they flee King's Landing together?",
+        "a": "Hot Pie"
+      },
+      {
+        "q": "What bird nickname is given to the black-clad men who guard the Wall?",
+        "a": "Crows"
+      },
+      {
+        "q": "What official title does Ned Stark hold as ruler of the North?",
+        "a": "Warden of the North"
+      },
+      {
+        "q": "What is the royal castle in King's Landing called?",
+        "a": "The Red Keep"
+      },
+      {
+        "q": "Which of Robert Baratheon's two brothers is the younger?",
+        "a": "Renly"
+      },
+      {
+        "q": "Which animal appears on the Lannister banner?",
+        "a": "A lion"
+      },
+      {
+        "q": "What form of judicial duel can a Westerosi accused demand instead of a verdict?",
+        "a": "Trial by combat"
+      },
+      {
+        "q": "Which birds are used to carry messages between castles in Westeros?",
+        "a": "Ravens"
+      },
+      {
+        "q": "What honorific is placed before a knight's name in Westeros?",
+        "a": "Ser"
+      },
+      {
+        "q": "What word describes the lesser lords sworn to serve a great house?",
+        "a": "Bannermen"
+      },
+      {
+        "q": "Which of Cersei's three children is the first to die?",
+        "a": "Joffrey"
+      },
+      {
+        "q": "What relation is Tyrion Lannister to King Joffrey?",
+        "a": "Uncle"
+      },
+      {
+        "q": "How many children do Ned and Catelyn Stark have together?",
+        "a": "Five"
+      },
+      {
+        "q": "Which Stark girl is kept as a hostage in King's Landing after her father's execution?",
+        "a": "Sansa"
+      },
+      {
+        "q": "What is the order of seven knights sworn to protect the monarch called?",
+        "a": "The Kingsguard"
+      },
+      {
+        "q": "Which ruling family did Robert Baratheon overthrow to win the throne?",
+        "a": "House Targaryen"
       }
     ],
     "400": [
@@ -33531,6 +50503,182 @@ const QUALITY_BACKFILL = {
       {
         "q": "What surname is given to bastards born in Dorne?",
         "a": "Sand"
+      },
+      {
+        "q": "What is the title of the novel series the show adapts?",
+        "a": "A Song of Ice and Fire"
+      },
+      {
+        "q": "In which year did the series premiere?",
+        "a": "2011"
+      },
+      {
+        "q": "In which year did the series air its final episode?",
+        "a": "2019"
+      },
+      {
+        "q": "How many episodes make up the eighth season?",
+        "a": "Six"
+      },
+      {
+        "q": "In which season does the Red Wedding take place?",
+        "a": "Season 3"
+      },
+      {
+        "q": "In which season is the Battle of the Bastards fought?",
+        "a": "Season 6"
+      },
+      {
+        "q": "In which season is Joffrey poisoned at his own wedding feast?",
+        "a": "Season 4"
+      },
+      {
+        "q": "Whose death as Hand of the King happens just before the series begins?",
+        "a": "Jon Arryn"
+      },
+      {
+        "q": "On which body of water does Stannis launch his assault on King's Landing?",
+        "a": "Blackwater Bay"
+      },
+      {
+        "q": "What title does Daenerys take after freeing the slaves of Slaver's Bay?",
+        "a": "Breaker of Chains"
+      },
+      {
+        "q": "What title does Daenerys hold for walking out of a fire unharmed?",
+        "a": "The Unburnt"
+      },
+      {
+        "q": "What is a Dothraki horde or war band called?",
+        "a": "A khalasar"
+      },
+      {
+        "q": "Which wealthy trading city takes Daenerys in after she crosses the Red Waste?",
+        "a": "Qarth"
+      },
+      {
+        "q": "Which lover does Daenerys leave behind to keep the peace in Meereen?",
+        "a": "Daario Naharis"
+      },
+      {
+        "q": "Who leads the Brotherhood Without Banners?",
+        "a": "Beric Dondarrion"
+      },
+      {
+        "q": "Which senior officer leads the Night's Watch mutiny against Jon Snow?",
+        "a": "Alliser Thorne"
+      },
+      {
+        "q": "Whom does Littlefinger shove through the Moon Door?",
+        "a": "Lysa Arryn"
+      },
+      {
+        "q": "What kind of creature murders Renly Baratheon in his tent?",
+        "a": "A shadow"
+      },
+      {
+        "q": "At which ruined castle does Arya serve as Tywin Lannister's cupbearer?",
+        "a": "Harrenhal"
+      },
+      {
+        "q": "What is the ancestral seat of House Tully?",
+        "a": "Riverrun"
+      },
+      {
+        "q": "Which region of Westeros do the Tyrells rule?",
+        "a": "The Reach"
+      },
+      {
+        "q": "Which region of Westeros do the Lannisters rule?",
+        "a": "The Westerlands"
+      },
+      {
+        "q": "To which southern kingdom is Princess Myrcella sent to be betrothed?",
+        "a": "Dorne"
+      },
+      {
+        "q": "Which Lannister is Sansa forced to marry in King's Landing?",
+        "a": "Tyrion"
+      },
+      {
+        "q": "What are the city watchmen of King's Landing nicknamed?",
+        "a": "Gold Cloaks"
+      },
+      {
+        "q": "Melisandre says the night is dark and full of what?",
+        "a": "Terrors"
+      },
+      {
+        "q": "Ned teaches Bran that the man who passes the sentence should do what?",
+        "a": "Swing the sword"
+      },
+      {
+        "q": "Cersei tells Ned that when you play the game of thrones, you win or you what?",
+        "a": "You die"
+      },
+      {
+        "q": "What does Jaime murmur before shoving Bran from the tower window?",
+        "a": "The things I do for love"
+      },
+      {
+        "q": "What three-word saying do northern loyalists use to promise vengeance?",
+        "a": "The North remembers"
+      },
+      {
+        "q": "What does Arya insist she is while training in Braavos?",
+        "a": "No one"
+      },
+      {
+        "q": "Which blind old maester at Castle Black is secretly a Targaryen?",
+        "a": "Maester Aemon"
+      },
+      {
+        "q": "With whom does Theon leap from the walls of Winterfell to escape?",
+        "a": "Sansa"
+      },
+      {
+        "q": "Which Tyrell woman becomes King Tommen's queen?",
+        "a": "Margaery"
+      },
+      {
+        "q": "What relation is Jon Snow to Daenerys by blood?",
+        "a": "Nephew"
+      },
+      {
+        "q": "What hair colour do all of Robert Baratheon's true-born bastards share?",
+        "a": "Black"
+      },
+      {
+        "q": "At which island stronghold do Jon Snow and Daenerys first meet?",
+        "a": "Dragonstone"
+      },
+      {
+        "q": "What food does the Hound demand from villagers and farmhouses?",
+        "a": "Chicken"
+      },
+      {
+        "q": "What pet name does the Hound use for Sansa?",
+        "a": "Little bird"
+      },
+      {
+        "q": "What word do Westerosi nobles use for common people?",
+        "a": "Smallfolk"
+      },
+      {
+        "q": "What is the war between rival claimants after Robert's death called?",
+        "a": "The War of the Five Kings"
+      },
+      {
+        "q": "What surname does Joffrey officially bear as king?",
+        "a": "Baratheon"
+      },
+      {
+        "q": "What affliction is inflicted on Arya as punishment during her training in Braavos?",
+        "a": "Blindness"
+      },
+      {
+        "q": "Which house was Catelyn Stark born into?",
+        "a": "House Tully"
       }
     ],
     "600": [
@@ -33865,6 +51013,262 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Ned Stark's older brother who was killed by the Mad King?",
         "a": "Brandon"
+      },
+      {
+        "q": "Who composed the show's music, including its title theme?",
+        "a": "Ramin Djawadi"
+      },
+      {
+        "q": "Which two men adapted the novels as the show's writer-producers?",
+        "a": "David Benioff and D.B. Weiss"
+      },
+      {
+        "q": "Which Croatian walled city stands in for King's Landing?",
+        "a": "Dubrovnik"
+      },
+      {
+        "q": "Which country's glaciers and lava fields are used for the lands beyond the Wall?",
+        "a": "Iceland"
+      },
+      {
+        "q": "In which part of the United Kingdom was the show mainly produced?",
+        "a": "Northern Ireland"
+      },
+      {
+        "q": "Which Spanish city's Alcazar palace serves as the Water Gardens of Dorne?",
+        "a": "Seville"
+      },
+      {
+        "q": "At which river did Robert Baratheon kill Rhaegar Targaryen?",
+        "a": "The Trident"
+      },
+      {
+        "q": "Which Targaryen first united six kingdoms under one crown?",
+        "a": "Aegon the Conqueror"
+      },
+      {
+        "q": "What is the assembly at which the ironborn choose a new ruler called?",
+        "a": "A kingsmoot"
+      },
+      {
+        "q": "Jon Snow is elected which numbered Lord Commander of the Night's Watch?",
+        "a": "The 998th"
+      },
+      {
+        "q": "In which slum of King's Landing did Davos Seaworth grow up?",
+        "a": "Flea Bottom"
+      },
+      {
+        "q": "Which slaver city does Daenerys take between Astapor and Meereen?",
+        "a": "Yunkai"
+      },
+      {
+        "q": "Which Qartheen merchant offers Daenerys ships and a marriage?",
+        "a": "Xaro Xhoan Daxos"
+      },
+      {
+        "q": "What is the carved weirwood at the centre of a godswood called?",
+        "a": "A heart tree"
+      },
+      {
+        "q": "Which Night's Watch recruiter smuggles Arya out of King's Landing?",
+        "a": "Yoren"
+      },
+      {
+        "q": "How many deaths does Jaqen H'ghar owe Arya after she saves him?",
+        "a": "Three"
+      },
+      {
+        "q": "Olenna's dying request is that Jaime tell Cersei what?",
+        "a": "It was me"
+      },
+      {
+        "q": "Which poison was used to kill Jon Arryn?",
+        "a": "The Tears of Lys"
+      },
+      {
+        "q": "What phrase closes the Night's Watch funeral rite for a fallen brother?",
+        "a": "And now his watch is ended"
+      },
+      {
+        "q": "How tall is the Wall said to be?",
+        "a": "700 feet"
+      },
+      {
+        "q": "How long is the Wall said to be?",
+        "a": "300 miles"
+      },
+      {
+        "q": "In which city does Samwell Tarly study at the Citadel?",
+        "a": "Oldtown"
+      },
+      {
+        "q": "What did Stannis cut from Davos as punishment for years of smuggling?",
+        "a": "His fingertips"
+      },
+      {
+        "q": "Who teaches Davos Seaworth to read?",
+        "a": "Shireen"
+      },
+      {
+        "q": "What is the name of Stannis Baratheon's wife?",
+        "a": "Selyse"
+      },
+      {
+        "q": "Which woman is wrongly blamed for Renly Baratheon's murder?",
+        "a": "Brienne of Tarth"
+      },
+      {
+        "q": "Which office does Brienne hold in the final scene of the series?",
+        "a": "Lord Commander of the Kingsguard"
+      },
+      {
+        "q": "Who is the ruling prince of Dorne in season five?",
+        "a": "Doran Martell"
+      },
+      {
+        "q": "To which Dornish prince is Myrcella betrothed?",
+        "a": "Trystane Martell"
+      },
+      {
+        "q": "Which of Oberyn's daughters shares a name with Arya's direwolf?",
+        "a": "Nymeria Sand"
+      },
+      {
+        "q": "What does Tyrion stretch across the harbour to trap Stannis's fleet?",
+        "a": "A chain"
+      },
+      {
+        "q": "Which Kingsguard knight does Arya kill in a Braavosi brothel?",
+        "a": "Meryn Trant"
+      },
+      {
+        "q": "Which disgraced knight turned court fool helps Sansa flee King's Landing?",
+        "a": "Ser Dontos"
+      },
+      {
+        "q": "What false name does Littlefinger give Sansa while hiding her in the Vale?",
+        "a": "Alayne"
+      },
+      {
+        "q": "What is the name of Ramsay Bolton's lover, whom Theon throws from the battlements?",
+        "a": "Myranda"
+      },
+      {
+        "q": "Which pregnant Frey wife does Ramsay feed to his hounds?",
+        "a": "Walda"
+      },
+      {
+        "q": "Who murders Roose Bolton just after the birth of a legitimate heir?",
+        "a": "Ramsay"
+      },
+      {
+        "q": "Which northern lord hands Rickon Stark over to the Boltons?",
+        "a": "Smalljon Umber"
+      },
+      {
+        "q": "What kind of creature does Lyanna Mormont kill as she dies at Winterfell?",
+        "a": "A giant"
+      },
+      {
+        "q": "Whose curved swords does Melisandre set ablaze before the Battle of Winterfell?",
+        "a": "The Dothraki"
+      },
+      {
+        "q": "Who becomes Lord Commander of the Night's Watch after Jon Snow?",
+        "a": "Dolorous Edd"
+      },
+      {
+        "q": "Which cannibal wildling tribe joins the assault on Castle Black?",
+        "a": "The Thenns"
+      },
+      {
+        "q": "Which son of Randyll Tarly is burned alongside his father by Drogon?",
+        "a": "Dickon"
+      },
+      {
+        "q": "At which ruined King's Landing arena do the great houses parley with Cersei?",
+        "a": "The Dragonpit"
+      },
+      {
+        "q": "Which army demands that Jon Snow be punished for killing Daenerys?",
+        "a": "The Unsullied"
+      },
+      {
+        "q": "Who serves as Grand Maester on Bran's small council?",
+        "a": "Samwell Tarly"
+      },
+      {
+        "q": "Who is named Master of Ships on Bran's small council?",
+        "a": "Davos Seaworth"
+      },
+      {
+        "q": "Who commands the Golden Company when it lands in Westeros?",
+        "a": "Harry Strickland"
+      },
+      {
+        "q": "Which animals is Cersei disappointed the sellswords failed to bring her?",
+        "a": "Elephants"
+      },
+      {
+        "q": "Which mutineer murders Lord Commander Jeor Mormont at Craster's Keep?",
+        "a": "Karl Tanner"
+      },
+      {
+        "q": "Which northern lord does Robb Stark behead for murdering Lannister hostages?",
+        "a": "Rickard Karstark"
+      },
+      {
+        "q": "What is the name of Catelyn Stark's dying father?",
+        "a": "Hoster Tully"
+      },
+      {
+        "q": "What is the ancestral seat of House Martell?",
+        "a": "Sunspear"
+      },
+      {
+        "q": "What title does the leader of the Faith of the Seven hold?",
+        "a": "High Septon"
+      },
+      {
+        "q": "What are the words of House Tully?",
+        "a": "Family, Duty, Honor"
+      },
+      {
+        "q": "What are the words of House Tyrell?",
+        "a": "Growing Strong"
+      },
+      {
+        "q": "What are the words of House Baratheon?",
+        "a": "Ours Is the Fury"
+      },
+      {
+        "q": "What are the words of House Arryn?",
+        "a": "As High as Honor"
+      },
+      {
+        "q": "What are the words of House Bolton?",
+        "a": "Our Blades Are Sharp"
+      },
+      {
+        "q": "What clockwork navigational instrument frames the opening title sequence?",
+        "a": "An astrolabe"
+      },
+      {
+        "q": "What word do the freed slaves of Yunkai chant at Daenerys, meaning mother?",
+        "a": "Mhysa"
+      },
+      {
+        "q": "Which veteran ranger orders Jon to kill him so Jon can infiltrate the wildlings?",
+        "a": "Qhorin Halfhand"
+      },
+      {
+        "q": "Which wildling warg spies for Mance Rayder through his eagle?",
+        "a": "Orell"
+      },
+      {
+        "q": "What mocking nickname followed Viserys Targaryen around the Free Cities?",
+        "a": "The Beggar King"
       }
     ]
   },
@@ -35789,6 +53193,102 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Big Mom's island territory?",
         "a": "Whole Cake Island"
+      },
+      {
+        "q": "Which Straw Hat is famous for getting hopelessly lost even on a straight road?",
+        "a": "Zoro"
+      },
+      {
+        "q": "What title does Luffy declare he will claim by finding the legendary treasure?",
+        "a": "King of the Pirates"
+      },
+      {
+        "q": "Which citrus fruit does Nami grow in a small grove aboard the crew's ship?",
+        "a": "Tangerines"
+      },
+      {
+        "q": "How many members does the Straw Hat crew have by the end of the Wano arc?",
+        "a": "Ten"
+      },
+      {
+        "q": "Who is the oldest member of the Straw Hat crew?",
+        "a": "Brook"
+      },
+      {
+        "q": "In which weekly Japanese magazine is the One Piece manga serialised?",
+        "a": "Weekly Shonen Jump"
+      },
+      {
+        "q": "What does Sanji almost always have hanging from his lips?",
+        "a": "A cigarette"
+      },
+      {
+        "q": "What is the second half of the Grand Line called?",
+        "a": "The New World"
+      },
+      {
+        "q": "Which underwater kingdom must ships pass through beneath the Red Line?",
+        "a": "Fish-Man Island"
+      },
+      {
+        "q": "What is the general name for a pirate crew's skull-and-crossbones flag?",
+        "a": "Jolly Roger"
+      },
+      {
+        "q": "What did Shanks lose while rescuing young Luffy from a Sea King?",
+        "a": "His left arm"
+      },
+      {
+        "q": "How many years pass during the story's famous timeskip?",
+        "a": "Two"
+      },
+      {
+        "q": "What fizzy drink fuels Franky's cyborg body?",
+        "a": "Cola"
+      },
+      {
+        "q": "Which Straw Hat constantly tells wild tall tales about his own heroics?",
+        "a": "Usopp"
+      },
+      {
+        "q": "Who was the last person to join the Straw Hat crew?",
+        "a": "Jinbe"
+      },
+      {
+        "q": "What is the name of the World Government's naval military force?",
+        "a": "The Marines"
+      },
+      {
+        "q": "Which Japanese animation studio produces the One Piece anime?",
+        "a": "Toei Animation"
+      },
+      {
+        "q": "What is the name of Luffy's rapid barrage of stretching punches?",
+        "a": "Gum-Gum Gatling"
+      },
+      {
+        "q": "Besides seastone, what robs a Devil Fruit user of strength on contact?",
+        "a": "Seawater"
+      },
+      {
+        "q": "How many great oceans known as Blues exist in the world?",
+        "a": "Four"
+      },
+      {
+        "q": "Which Marine recruit began the story as a chore boy on Alvida's ship?",
+        "a": "Koby"
+      },
+      {
+        "q": "What single word is printed on the back of the Marines' coats?",
+        "a": "Justice"
+      },
+      {
+        "q": "Which Straw Hat was forced to draw sea charts for Arlong?",
+        "a": "Nami"
+      },
+      {
+        "q": "Which pirate held the title of Strongest Man in the World?",
+        "a": "Whitebeard"
       }
     ],
     "400": [
@@ -36095,6 +53595,142 @@ const QUALITY_BACKFILL = {
       {
         "q": "What martial art does Jinbe use?",
         "a": "Fish-Man Karate"
+      },
+      {
+        "q": "Which Devil Fruit type lets a user turn their body into an element?",
+        "a": "Logia"
+      },
+      {
+        "q": "Which form of Haki lets a user sense presences and predict attacks?",
+        "a": "Observation Haki"
+      },
+      {
+        "q": "Which form of Haki can knock out weak-willed opponents through sheer will?",
+        "a": "Conqueror's Haki"
+      },
+      {
+        "q": "What was the amount of Luffy's very first bounty?",
+        "a": "30 million berries"
+      },
+      {
+        "q": "What epithet appears on Zoro's bounty poster?",
+        "a": "Pirate Hunter"
+      },
+      {
+        "q": "What nickname was given to the rookie pirates who all gathered at Sabaody?",
+        "a": "The Worst Generation"
+      },
+      {
+        "q": "Which former clown enemy of Luffy became an Emperor of the Sea after Wano?",
+        "a": "Buggy"
+      },
+      {
+        "q": "Who inherited the Flame-Flame Fruit after Ace's death?",
+        "a": "Sabo"
+      },
+      {
+        "q": "What is the name of Sanji's burning-leg technique?",
+        "a": "Diable Jambe"
+      },
+      {
+        "q": "In which of the four seas was Sanji born?",
+        "a": "North Blue"
+      },
+      {
+        "q": "Which of Big Mom's sons is her strongest Sweet Commander?",
+        "a": "Katakuri"
+      },
+      {
+        "q": "Which Devil Fruit lets Big Mom put souls into objects?",
+        "a": "Soul-Soul Fruit"
+      },
+      {
+        "q": "What is the name of Kaido's island fortress in Wano?",
+        "a": "Onigashima"
+      },
+      {
+        "q": "Which young heir of the Kozuki clan travels with the Straw Hats?",
+        "a": "Momonosuke"
+      },
+      {
+        "q": "How many Road Poneglyphs must be gathered to locate the final island?",
+        "a": "Four"
+      },
+      {
+        "q": "What is Chopper's largest and most dangerous transformation called?",
+        "a": "Monster Point"
+      },
+      {
+        "q": "What stage name did Brook earn as a world-famous musician?",
+        "a": "Soul King"
+      },
+      {
+        "q": "What is the name of Brook's Devil Fruit?",
+        "a": "Revive-Revive Fruit"
+      },
+      {
+        "q": "Which navigational device points permanently at one fixed island?",
+        "a": "Eternal Pose"
+      },
+      {
+        "q": "Which pirate is the only person shown wielding two Devil Fruit powers?",
+        "a": "Blackbeard"
+      },
+      {
+        "q": "Which Marine admiral is blind and commands gravity?",
+        "a": "Fujitora"
+      },
+      {
+        "q": "Which Marine officer with a seastone jitte pursues Luffy from Loguetown onward?",
+        "a": "Smoker"
+      },
+      {
+        "q": "Which sword-collecting officer serves as Smoker's loyal subordinate?",
+        "a": "Tashigi"
+      },
+      {
+        "q": "In what year did the One Piece anime first air?",
+        "a": "1999"
+      },
+      {
+        "q": "What is the title of the anime's very first opening theme?",
+        "a": "We Are!"
+      },
+      {
+        "q": "How many of the Straw Hats have Devil Fruit powers?",
+        "a": "Four"
+      },
+      {
+        "q": "What is the awakened form Luffy takes when his hair turns white?",
+        "a": "Gear Fifth"
+      },
+      {
+        "q": "In which Marine base town does Luffy recruit his first crewmate?",
+        "a": "Shells Town"
+      },
+      {
+        "q": "Who is the youngest member of the Straw Hat crew?",
+        "a": "Chopper"
+      },
+      {
+        "q": "What is Princess Vivi's royal family name?",
+        "a": "Nefertari"
+      },
+      {
+        "q": "What is Blackbeard's distinctive laugh?",
+        "a": "Zehahaha"
+      },
+      {
+        "q": "What is Luffy's double-fisted cannon-style punch called?",
+        "a": "Gum-Gum Bazooka"
+      },
+      {
+        "q": "How did Luffy get the scar under his left eye as a boy?",
+        "a": "He stabbed himself"
+      },
+      {
+        "q": "Which Straw Hat defeats Rob Lucci at Enies Lobby?",
+        "a": "Luffy"
       }
     ],
     "600": [
@@ -36393,6 +54029,254 @@ const QUALITY_BACKFILL = {
       {
         "q": "What village did Zoro train in as a child, sharing a dojo with Kuina?",
         "a": "Shimotsuki Village"
+      },
+      {
+        "q": "Which blade-bodied Baroque Works agent does Zoro defeat in Alabasta?",
+        "a": "Mr. 1"
+      },
+      {
+        "q": "What substance did Crocodile use to keep rain from falling on Alabasta?",
+        "a": "Dance Powder"
+      },
+      {
+        "q": "Which explorer was executed for claiming he had seen a city of gold?",
+        "a": "Montblanc Noland"
+      },
+      {
+        "q": "What was the name of the lost golden city found in the sky?",
+        "a": "Shandora"
+      },
+      {
+        "q": "What violent upward sea current launches ships to the sky islands?",
+        "a": "Knock Up Stream"
+      },
+      {
+        "q": "Who is the mayor of Water 7 and head of the Galley-La Company?",
+        "a": "Iceburg"
+      },
+      {
+        "q": "What giant zombie did Gecko Moria assemble on Thriller Bark?",
+        "a": "Oars"
+      },
+      {
+        "q": "Which ghost-controlling girl becomes Zoro's reluctant companion after Thriller Bark?",
+        "a": "Perona"
+      },
+      {
+        "q": "Which black blade did Zoro receive from the samurai swordsman Ryuma?",
+        "a": "Shusui"
+      },
+      {
+        "q": "On which island did Zoro spend the two-year timeskip?",
+        "a": "Kuraigana Island"
+      },
+      {
+        "q": "On which floating weather island did Nami train during the timeskip?",
+        "a": "Weatheria"
+      },
+      {
+        "q": "On which archipelago did Usopp train during the timeskip?",
+        "a": "Boin Archipelago"
+      },
+      {
+        "q": "In which kingdom did Sanji spend the timeskip?",
+        "a": "Kamabakka Kingdom"
+      },
+      {
+        "q": "Which hormone-wielding okama helps Luffy break out of the great prison?",
+        "a": "Emporio Ivankov"
+      },
+      {
+        "q": "How many levels does the underwater prison contain?",
+        "a": "Six"
+      },
+      {
+        "q": "What are the defective artificial Devil Fruits given to Kaido's men called?",
+        "a": "SMILE"
+      },
+      {
+        "q": "What collective title is given to Kaido's three strongest subordinates?",
+        "a": "The All-Stars"
+      },
+      {
+        "q": "Which Wano lord once sailed with both Whitebeard and Gol D. Roger?",
+        "a": "Kozuki Oden"
+      },
+      {
+        "q": "Which shogun governed Wano in alliance with Kaido?",
+        "a": "Kurozumi Orochi"
+      },
+      {
+        "q": "What are Oden's nine loyal retainers collectively called?",
+        "a": "The Red Scabbards"
+      },
+      {
+        "q": "Under what alias did Luffy compete in the Corrida Colosseum?",
+        "a": "Lucy"
+      },
+      {
+        "q": "Which Dressrosa gladiator was turned into a one-legged toy soldier?",
+        "a": "Kyros"
+      },
+      {
+        "q": "What underworld broker name did Doflamingo secretly operate under?",
+        "a": "Joker"
+      },
+      {
+        "q": "Which Devil Fruit turned Dressrosa's people into toys and erased memories of them?",
+        "a": "Hobby-Hobby Fruit"
+      },
+      {
+        "q": "What is the name of the enormous elephant that carries the island of Zou?",
+        "a": "Zunesha"
+      },
+      {
+        "q": "Which two mink leaders hold the title of Duke on Zou?",
+        "a": "Inuarashi and Nekomamushi"
+      },
+      {
+        "q": "Which of Big Mom's daughters was Sanji arranged to marry?",
+        "a": "Pudding"
+      },
+      {
+        "q": "What is the real name of the admiral called Green Bull?",
+        "a": "Aramaki"
+      },
+      {
+        "q": "What is the real name of the admiral Fujitora?",
+        "a": "Issho"
+      },
+      {
+        "q": "How many warships are dispatched when a Buster Call is triggered?",
+        "a": "Ten"
+      },
+      {
+        "q": "Which Vegapunk satellite represents wisdom and is named after an inventor?",
+        "a": "Edison"
+      },
+      {
+        "q": "What enormous ancient robot lies dormant on Egghead Island?",
+        "a": "The Iron Giant"
+      },
+      {
+        "q": "Which small kingdom did Bartholomew Kuma rule before becoming a Warlord?",
+        "a": "Sorbet Kingdom"
+      },
+      {
+        "q": "Whose daughter is the age-manipulating Supernova Jewelry Bonney?",
+        "a": "Kuma's"
+      },
+      {
+        "q": "What is the name of the third ancient weapon, named after a sky god?",
+        "a": "Uranus"
+      },
+      {
+        "q": "What organisation did Buggy form together with Mihawk and Crocodile?",
+        "a": "Cross Guild"
+      },
+      {
+        "q": "Which Straw Hat carries the second-highest bounty on the crew?",
+        "a": "Zoro"
+      },
+      {
+        "q": "What is the name of Zoro's demonic nine-sword technique?",
+        "a": "Asura"
+      },
+      {
+        "q": "What giant mecha did Franky pilot during the Dressrosa arc?",
+        "a": "General Franky"
+      },
+      {
+        "q": "What is the name of Shanks's ship?",
+        "a": "Red Force"
+      },
+      {
+        "q": "Who serves as first mate of the Red Hair Pirates?",
+        "a": "Benn Beckman"
+      },
+      {
+        "q": "At what age did Nico Robin receive her first bounty?",
+        "a": "Eight"
+      },
+      {
+        "q": "What was the name of the great library on Ohara?",
+        "a": "The Tree of Knowledge"
+      },
+      {
+        "q": "What kind of ship spirit was said to be repairing the Going Merry at night?",
+        "a": "A klabautermann"
+      },
+      {
+        "q": "What are the large birds that deliver newspapers across the seas called?",
+        "a": "News Coo"
+      },
+      {
+        "q": "Which Gear Fourth form gives Luffy fast, curving rubber punches?",
+        "a": "Snakeman"
+      },
+      {
+        "q": "What is the Wano term for advanced Armament Haki that flows outward?",
+        "a": "Ryuo"
+      },
+      {
+        "q": "What epithet is Jinbe known by?",
+        "a": "Knight of the Sea"
+      },
+      {
+        "q": "Which One Piece film features the casino ship of Gild Tesoro?",
+        "a": "One Piece Film: Gold"
+      },
+      {
+        "q": "Which 2019 film built around a pirate festival marked the series' 20th anniversary?",
+        "a": "One Piece: Stampede"
+      },
+      {
+        "q": "Who is the eldest of King Neptune's three sons?",
+        "a": "Fukaboshi"
+      },
+      {
+        "q": "The duel between which two admirals left Punk Hazard half fire and half ice?",
+        "a": "Akainu and Aokiji"
+      },
+      {
+        "q": "Which Wano samurai's severed body did the crew find scattered on Punk Hazard?",
+        "a": "Kin'emon"
+      },
+      {
+        "q": "What is the name of Zoro's single-blade fighting style?",
+        "a": "Ittoryu"
+      },
+      {
+        "q": "What are the native people of the sky islands called?",
+        "a": "Skypieans"
+      },
+      {
+        "q": "What is the name of Big Mom's flagship?",
+        "a": "Queen Mama Chanter"
+      },
+      {
+        "q": "On which island did Chopper train during the timeskip?",
+        "a": "Torino Kingdom"
+      },
+      {
+        "q": "Where did Nico Robin spend the two-year timeskip?",
+        "a": "Baltigo"
+      },
+      {
+        "q": "Which World Noble did Luffy punch at the Sabaody auction house?",
+        "a": "Saint Charloss"
+      },
+      {
+        "q": "What is the real name of Doflamingo's younger brother, known as Corazon?",
+        "a": "Rosinante"
+      },
+      {
+        "q": "What lead-poisoning illness did Trafalgar Law suffer from as a child?",
+        "a": "Amber Lead Syndrome"
+      },
+      {
+        "q": "What was the name of Law's destroyed home country, the White Town?",
+        "a": "Flevance"
       }
     ]
   },
@@ -36677,6 +54561,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which team in Pokémon GO is blue?",
         "a": "Team Mystic"
+      },
+      {
+        "q": "How many Pokemon can a trainer carry in their party at once?",
+        "a": "Six"
+      },
+      {
+        "q": "What is the highest level a Pokemon can reach in the main games?",
+        "a": "100"
+      },
+      {
+        "q": "How many moves can a Pokemon know at one time?",
+        "a": "Four"
+      },
+      {
+        "q": "How many gym badges are usually needed to enter the Pokemon League?",
+        "a": "Eight"
+      },
+      {
+        "q": "Which stat decides which Pokemon attacks first in a turn?",
+        "a": "Speed"
+      },
+      {
+        "q": "Which of the three Kanto legendary birds is the Ice-type?",
+        "a": "Articuno"
+      },
+      {
+        "q": "Which of the three Kanto legendary birds is the Fire-type?",
+        "a": "Moltres"
+      },
+      {
+        "q": "Which of the three Kanto legendary birds is the Electric-type?",
+        "a": "Zapdos"
+      },
+      {
+        "q": "What shop do trainers visit to buy Potions and healing items?",
+        "a": "Poke Mart"
+      },
+      {
+        "q": "What status condition does the move Thunder Wave cause?",
+        "a": "Paralysis"
+      },
+      {
+        "q": "What musical item wakes the huge Pokemon blocking the roads of Kanto?",
+        "a": "Poke Flute"
+      },
+      {
+        "q": "In Pokemon GO, which of the three teams is red?",
+        "a": "Team Valor"
+      },
+      {
+        "q": "In Pokemon GO, which of the three teams is yellow?",
+        "a": "Team Instinct"
+      },
+      {
+        "q": "In Pokemon GO, what resource is spent alongside Stardust to power up a Pokemon?",
+        "a": "Candy"
+      },
+      {
+        "q": "Which legendary Pokemon appears on the box of Pokemon Emerald?",
+        "a": "Rayquaza"
+      },
+      {
+        "q": "Which legendary Pokemon appears on the box of Pokemon Platinum?",
+        "a": "Giratina"
+      },
+      {
+        "q": "What does Graveler evolve into?",
+        "a": "Golem"
+      },
+      {
+        "q": "What does Machoke evolve into?",
+        "a": "Machamp"
+      },
+      {
+        "q": "What does Poliwag evolve into?",
+        "a": "Poliwhirl"
+      },
+      {
+        "q": "What purple cobra Pokemon does Jessie use through the early anime?",
+        "a": "Arbok"
+      },
+      {
+        "q": "What small blue bat Pokemon swarms the caves of Kanto?",
+        "a": "Zubat"
+      },
+      {
+        "q": "Which Electric-type Pokemon is a round sphere that loves to self-destruct?",
+        "a": "Voltorb"
+      },
+      {
+        "q": "Which Kanto Fire-type fox is known for having six tails?",
+        "a": "Vulpix"
+      },
+      {
+        "q": "Which of Ash's Hoenn travelling companions is Max's older sister?",
+        "a": "May"
+      },
+      {
+        "q": "Which of Ash's travelling companions in Sinnoh is a Coordinator with a Piplup?",
+        "a": "Dawn"
+      },
+      {
+        "q": "What handheld console were Pokemon Red and Blue originally released for?",
+        "a": "Game Boy"
+      },
+      {
+        "q": "What type is Meowth?",
+        "a": "Normal"
+      },
+      {
+        "q": "What type is Mewtwo?",
+        "a": "Psychic"
+      },
+      {
+        "q": "What defensive move is Metapod famous for spamming in the anime?",
+        "a": "Harden"
+      },
+      {
+        "q": "What does Ash's Pikachu famously refuse to travel inside?",
+        "a": "Its Poke Ball"
+      },
+      {
+        "q": "In the slogan 'Gotta ___ 'em all', what is the missing word?",
+        "a": "Catch"
+      },
+      {
+        "q": "In Pokemon GO, what are the real-world locations you spin for items called?",
+        "a": "PokeStop"
+      },
+      {
+        "q": "What kind of animal is Pikachu classified as in the Pokedex?",
+        "a": "A mouse"
+      },
+      {
+        "q": "What does Rattata evolve into?",
+        "a": "Raticate"
+      },
+      {
+        "q": "What does Spearow evolve into?",
+        "a": "Fearow"
+      },
+      {
+        "q": "What does Sandshrew evolve into?",
+        "a": "Sandslash"
+      },
+      {
+        "q": "What does Grimer evolve into?",
+        "a": "Muk"
+      },
+      {
+        "q": "What does Growlithe evolve into?",
+        "a": "Arcanine"
+      },
+      {
+        "q": "What does Ponyta evolve into?",
+        "a": "Rapidash"
+      },
+      {
+        "q": "What does Doduo evolve into?",
+        "a": "Dodrio"
+      },
+      {
+        "q": "What does Staryu evolve into?",
+        "a": "Starmie"
+      },
+      {
+        "q": "What does Magnemite evolve into?",
+        "a": "Magneton"
+      },
+      {
+        "q": "What does Koffing evolve into?",
+        "a": "Weezing"
+      },
+      {
+        "q": "What does Krabby evolve into?",
+        "a": "Kingler"
+      },
+      {
+        "q": "What does Seel evolve into?",
+        "a": "Dewgong"
+      },
+      {
+        "q": "What does Oddish evolve into?",
+        "a": "Gloom"
+      },
+      {
+        "q": "What does Bellsprout evolve into?",
+        "a": "Weepinbell"
+      },
+      {
+        "q": "What does Tentacool evolve into?",
+        "a": "Tentacruel"
+      },
+      {
+        "q": "What does Slowpoke evolve into by simply levelling up?",
+        "a": "Slowbro"
       }
     ],
     "400": [
@@ -36991,13 +55071,209 @@ const QUALITY_BACKFILL = {
       {
         "q": "What Pokémon evolves from Slowpoke when traded holding a King's Rock?",
         "a": "Slowking"
+      },
+      {
+        "q": "What does the abbreviation TM stand for in the Pokemon games?",
+        "a": "Technical Machine"
+      },
+      {
+        "q": "In older games, what were the reusable field moves like Surf and Fly called?",
+        "a": "HMs"
+      },
+      {
+        "q": "What Kanto area lets you throw bait and rocks instead of battling wild Pokemon?",
+        "a": "Safari Zone"
+      },
+      {
+        "q": "What item instantly returns you to the entrance of a cave?",
+        "a": "Escape Rope"
+      },
+      {
+        "q": "Which mythical Pokemon is number 251 in the National Pokedex?",
+        "a": "Celebi"
+      },
+      {
+        "q": "Which legendary Pokemon is at the centre of Pokemon: The Movie 2000?",
+        "a": "Lugia"
+      },
+      {
+        "q": "What is the starting town of Pokemon Gold and Silver?",
+        "a": "New Bark Town"
+      },
+      {
+        "q": "Who is Ash's harsh, dismissive rival throughout the Sinnoh series?",
+        "a": "Paul"
+      },
+      {
+        "q": "Which of Ash's Kalos companions competes as a Pokemon Performer?",
+        "a": "Serena"
+      },
+      {
+        "q": "What competitions do Coordinators enter to show off their appeal moves?",
+        "a": "Pokemon Contests"
+      },
+      {
+        "q": "In the anime, what career does Brock say he really wants instead of running a gym?",
+        "a": "Pokemon Breeder"
+      },
+      {
+        "q": "What Nintendo 64 game had you photographing Pokemon from a moving vehicle?",
+        "a": "Pokemon Snap"
+      },
+      {
+        "q": "What spin-off series has you playing as a Pokemon exploring randomised dungeons?",
+        "a": "Pokemon Mystery Dungeon"
+      },
+      {
+        "q": "Which ability makes a Pokemon completely immune to Ground-type moves?",
+        "a": "Levitate"
+      },
+      {
+        "q": "Which ability boosts a Pokemon's Fire-type moves when its HP is low?",
+        "a": "Blaze"
+      },
+      {
+        "q": "Which powerful Generation 1 Normal-type move forces the user to recharge for a turn?",
+        "a": "Hyper Beam"
+      },
+      {
+        "q": "Which Normal-type move that always strikes first does Pikachu use constantly?",
+        "a": "Quick Attack"
+      },
+      {
+        "q": "Bug-type moves are super effective against Grass, Dark, and which other type?",
+        "a": "Psychic"
+      },
+      {
+        "q": "Despite its wings and horns, Charizard is famously not which type?",
+        "a": "Dragon"
+      },
+      {
+        "q": "What are Lapras's two types?",
+        "a": "Water and Ice"
+      },
+      {
+        "q": "What are Dragonite's two types?",
+        "a": "Dragon and Flying"
+      },
+      {
+        "q": "What are Steelix's two types?",
+        "a": "Steel and Ground"
+      },
+      {
+        "q": "What are Golem's two types?",
+        "a": "Rock and Ground"
+      },
+      {
+        "q": "What does Magneton evolve into?",
+        "a": "Magnezone"
+      },
+      {
+        "q": "What is the baby pre-evolution of Snorlax?",
+        "a": "Munchlax"
+      },
+      {
+        "q": "Which Pokemon appears on the cover of Pokemon FireRed?",
+        "a": "Charizard"
+      },
+      {
+        "q": "Which Pokemon appears on the cover of Pokemon LeafGreen?",
+        "a": "Venusaur"
+      },
+      {
+        "q": "The word 'Pokemon' is a shortening of which two-word Japanese franchise title?",
+        "a": "Pocket Monsters"
+      },
+      {
+        "q": "In Pokemon GO, what item is placed at a stop to draw wild Pokemon to it?",
+        "a": "Lure Module"
+      },
+      {
+        "q": "What does Nidorino evolve into?",
+        "a": "Nidoking"
+      },
+      {
+        "q": "What does Nidorina evolve into?",
+        "a": "Nidoqueen"
+      },
+      {
+        "q": "What does Horsea evolve into?",
+        "a": "Seadra"
+      },
+      {
+        "q": "What does Cyndaquil evolve into?",
+        "a": "Quilava"
+      },
+      {
+        "q": "What does Totodile evolve into?",
+        "a": "Croconaw"
+      },
+      {
+        "q": "What does Chikorita evolve into?",
+        "a": "Bayleef"
+      },
+      {
+        "q": "Which Pokemon did Ash's Torterra start out as?",
+        "a": "Turtwig"
+      },
+      {
+        "q": "Which Kanto gym leader specialises in Grass-types in Celadon City?",
+        "a": "Erika"
+      },
+      {
+        "q": "Which Kanto gym leader is the Poison-type master of Fuchsia City?",
+        "a": "Koga"
+      },
+      {
+        "q": "Which Kanto gym leader runs the Fire-type gym on Cinnabar Island?",
+        "a": "Blaine"
+      },
+      {
+        "q": "Which blue Eon Pokemon is the male counterpart of Latias?",
+        "a": "Latios"
+      },
+      {
+        "q": "Which held item in Pokemon GO doubles the XP you earn for thirty minutes?",
+        "a": "Lucky Egg"
+      },
+      {
+        "q": "What item spreads battle experience to Pokemon that did not fight?",
+        "a": "Exp. Share"
+      },
+      {
+        "q": "Which type is completely immune to Poison-type moves?",
+        "a": "Steel"
+      },
+      {
+        "q": "Which type takes no damage at all from Fighting-type moves?",
+        "a": "Ghost"
+      },
+      {
+        "q": "Which overpowering type was the Fairy type mainly introduced to keep in check?",
+        "a": "Dragon"
+      },
+      {
+        "q": "Who is the Ice-type member of the Kanto Elite Four?",
+        "a": "Lorelei"
+      },
+      {
+        "q": "Who is the Fighting-type member of the Kanto Elite Four?",
+        "a": "Bruno"
+      },
+      {
+        "q": "In the Pokemon Trading Card Game, what must you attach to a Pokemon to pay for attacks?",
+        "a": "Energy cards"
+      },
+      {
+        "q": "Which fossil in Red and Blue revives into Kabuto?",
+        "a": "Dome Fossil"
+      },
+      {
+        "q": "Which Pokemon is revived from the Old Amber?",
+        "a": "Aerodactyl"
       }
     ],
     "600": [
-      {
-        "q": "What legendary Pokemon awakens Groudon and Kyogre?",
-        "a": "Rayquaza"
-      },
       {
         "q": "What Pokemon has the highest base stat total of any non-mega Pokemon?",
         "a": "Arceus"
@@ -37261,6 +55537,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the Ghost/Dragon legendary banished to the Distortion World?",
         "a": "Giratina"
+      },
+      {
+        "q": "What is the name of the notorious glitch Pokemon found on Cinnabar's coast in Red and Blue?",
+        "a": "MissingNo."
+      },
+      {
+        "q": "What is the name of the cruise ship docked at Vermilion City?",
+        "a": "S.S. Anne"
+      },
+      {
+        "q": "What Lavender Town building is haunted by restless spirits in Red and Blue?",
+        "a": "Pokemon Tower"
+      },
+      {
+        "q": "Which corporation's Saffron City headquarters does Team Rocket take over?",
+        "a": "Silph Co."
+      },
+      {
+        "q": "Which Goldenrod City building does Team Rocket seize in Gold and Silver?",
+        "a": "Radio Tower"
+      },
+      {
+        "q": "Which Johto gym leader's Miltank is infamous for flattening players with Rollout?",
+        "a": "Whitney"
+      },
+      {
+        "q": "Which Johto gym leader uses Flying-types in Violet City?",
+        "a": "Falkner"
+      },
+      {
+        "q": "Which Johto gym leader is the Bug-type specialist of Azalea Town?",
+        "a": "Bugsy"
+      },
+      {
+        "q": "Which ninja gym leader takes over the Fuchsia City gym in Gold and Silver?",
+        "a": "Janine"
+      },
+      {
+        "q": "Who is the Ghost-type member of the Kanto Elite Four?",
+        "a": "Agatha"
+      },
+      {
+        "q": "How many new Pokemon species were added in the second generation?",
+        "a": "100"
+      },
+      {
+        "q": "How many new Pokemon species were added in the fifth generation?",
+        "a": "156"
+      },
+      {
+        "q": "What is the maximum number of Effort Values that can be invested in one stat?",
+        "a": "252"
+      },
+      {
+        "q": "Which nature raises Speed and lowers Attack?",
+        "a": "Timid"
+      },
+      {
+        "q": "Which nature raises Attack and lowers Special Attack?",
+        "a": "Adamant"
+      },
+      {
+        "q": "What was the first English-language Pokemon trading card set called?",
+        "a": "Base Set"
+      },
+      {
+        "q": "How many cards make up a legal deck in the Pokemon Trading Card Game?",
+        "a": "60"
+      },
+      {
+        "q": "How many prize cards does each player set aside in a standard trading card game match?",
+        "a": "6"
+      },
+      {
+        "q": "Which Pokemon starred in the 1997 anime episode pulled from broadcast after causing seizures?",
+        "a": "Porygon"
+      },
+      {
+        "q": "What is the English title of the very first episode of the Pokemon anime?",
+        "a": "Pokemon, I Choose You!"
+      },
+      {
+        "q": "Which species did Ash catch thirty of in the Safari Zone?",
+        "a": "Tauros"
+      },
+      {
+        "q": "What was the title of the anime series that launched in 2023 with a brand new cast?",
+        "a": "Pokemon Horizons"
+      },
+      {
+        "q": "What is the special bond form Ash's Kalos water starter takes in battle?",
+        "a": "Ash-Greninja"
+      },
+      {
+        "q": "What arena fighting game paired Pokemon with the developers of Tekken?",
+        "a": "Pokken Tournament"
+      },
+      {
+        "q": "What Nintendo 64 game let players battle with rented Pokemon and play mini-games?",
+        "a": "Pokemon Stadium"
+      },
+      {
+        "q": "Which spin-off series has you catching Pokemon with a Capture Styler?",
+        "a": "Pokemon Ranger"
+      },
+      {
+        "q": "What type is the Alolan form of Vulpix?",
+        "a": "Ice"
+      },
+      {
+        "q": "Besides Electric, what type is the Alolan form of Raichu?",
+        "a": "Psychic"
+      },
+      {
+        "q": "Besides Grass, what type is the Alolan form of Exeggutor?",
+        "a": "Dragon"
+      },
+      {
+        "q": "Besides Normal, what type is the Galarian form of Zigzagoon?",
+        "a": "Dark"
+      },
+      {
+        "q": "What does the Galarian form of Yamask evolve into?",
+        "a": "Runerigus"
+      },
+      {
+        "q": "Which Pokemon evolves into Crobat when levelled up with high friendship?",
+        "a": "Golbat"
+      },
+      {
+        "q": "Trading Scyther while it holds a Metal Coat produces which Pokemon?",
+        "a": "Scizor"
+      },
+      {
+        "q": "What is Togetic's evolved form?",
+        "a": "Togekiss"
+      },
+      {
+        "q": "Which Pokemon evolves from Rhydon when traded holding a Protector?",
+        "a": "Rhyperior"
+      },
+      {
+        "q": "What does Electabuzz evolve into?",
+        "a": "Electivire"
+      },
+      {
+        "q": "What does Magmar evolve into?",
+        "a": "Magmortar"
+      },
+      {
+        "q": "What baby Pokemon evolves into Chansey?",
+        "a": "Happiny"
+      },
+      {
+        "q": "Which ability copies the opposing Pokemon's ability on entering battle?",
+        "a": "Trace"
+      },
+      {
+        "q": "Which ability of Wobbuffet stops the opponent from switching out?",
+        "a": "Shadow Tag"
+      },
+      {
+        "q": "Which weather-summoning ability makes Politoed a competitive staple?",
+        "a": "Drizzle"
+      },
+      {
+        "q": "Which healing move restores half the user's maximum HP and is a Chansey signature?",
+        "a": "Softboiled"
+      },
+      {
+        "q": "Which Psychic-type legendary is number 386 and changes between forms?",
+        "a": "Deoxys"
+      },
+      {
+        "q": "Which member of Hoenn's Regi trio is the Ice-type?",
+        "a": "Regice"
+      },
+      {
+        "q": "Which Poke Ball becomes more effective the longer a wild battle lasts?",
+        "a": "Timer Ball"
+      },
+      {
+        "q": "Which Poke Ball works better on a species you have already registered?",
+        "a": "Repeat Ball"
+      },
+      {
+        "q": "Which held item lets a Pokemon at full health survive a knockout blow with 1 HP?",
+        "a": "Focus Sash"
+      },
+      {
+        "q": "Which Grass-type move puts the target to sleep with perfect accuracy?",
+        "a": "Spore"
+      },
+      {
+        "q": "In Pokemon Journeys, which of Ash's partners dreams of catching Mew?",
+        "a": "Goh"
       }
     ]
   },
@@ -37505,6 +55977,174 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the villain in most Zelda games, the King of Evil?",
         "a": "Ganon"
+      },
+      {
+        "q": "Which Mario power-up lets him throw fireballs?",
+        "a": "Fire Flower"
+      },
+      {
+        "q": "What are the walking turtle enemies in Super Mario Bros. called?",
+        "a": "Koopa Troopas"
+      },
+      {
+        "q": "What green dinosaur does Mario ride in Super Mario World?",
+        "a": "Yoshi"
+      },
+      {
+        "q": "Which spiky-shelled king repeatedly kidnaps Peach?",
+        "a": "Bowser"
+      },
+      {
+        "q": "Which Nintendo series stars a pink puffball who inhales his enemies?",
+        "a": "Kirby"
+      },
+      {
+        "q": "What item do trainers throw to capture wild Pokemon?",
+        "a": "Poke Ball"
+      },
+      {
+        "q": "Which criminal gang does the player battle in Pokemon Red and Blue?",
+        "a": "Team Rocket"
+      },
+      {
+        "q": "How many creatures were in the original Kanto Pokedex?",
+        "a": "151"
+      },
+      {
+        "q": "Which Xbox subscription gives access to a rotating library of games?",
+        "a": "Game Pass"
+      },
+      {
+        "q": "How many rings must Sonic gather to earn an extra life?",
+        "a": "100"
+      },
+      {
+        "q": "Which Call of Duty co-op mode pits players against waves of the undead?",
+        "a": "Zombies"
+      },
+      {
+        "q": "Which Nintendo console played small purple discs?",
+        "a": "GameCube"
+      },
+      {
+        "q": "Which studio developed The Sims?",
+        "a": "Maxis"
+      },
+      {
+        "q": "What is the money used in Animal Crossing called?",
+        "a": "Bells"
+      },
+      {
+        "q": "Which arcade classic has you guiding an amphibian across busy traffic?",
+        "a": "Frogger"
+      },
+      {
+        "q": "How many squares make up each falling Tetris piece?",
+        "a": "Four"
+      },
+      {
+        "q": "What two colours are the linked openings in Portal?",
+        "a": "Orange and blue"
+      },
+      {
+        "q": "What two words fill the screen when you fall in Dark Souls?",
+        "a": "You Died"
+      },
+      {
+        "q": "Which annual basketball game series long competed with NBA Live?",
+        "a": "NBA 2K"
+      },
+      {
+        "q": "Which sport does the Madden series simulate?",
+        "a": "American football"
+      },
+      {
+        "q": "Which management series has players design and run theme parks?",
+        "a": "RollerCoaster Tycoon"
+      },
+      {
+        "q": "What is the police pursuit meter in Grand Theft Auto called?",
+        "a": "Wanted level"
+      },
+      {
+        "q": "Which company owns the Halo franchise?",
+        "a": "Microsoft"
+      },
+      {
+        "q": "Which Sony handheld was launched to rival the Nintendo DS?",
+        "a": "PSP"
+      },
+      {
+        "q": "Galaxy, Sunshine and Odyssey are entries in which platformer series?",
+        "a": "Super Mario"
+      },
+      {
+        "q": "Which French company publishes Assassin's Creed?",
+        "a": "Ubisoft"
+      },
+      {
+        "q": "Which Nintendo game had players exercise on a balance board?",
+        "a": "Wii Fit"
+      },
+      {
+        "q": "Which Nintendo series is a virtual board game stuffed with minigames?",
+        "a": "Mario Party"
+      },
+      {
+        "q": "Which Naughty Dog series stars Joel and Ellie?",
+        "a": "The Last of Us"
+      },
+      {
+        "q": "Which EA series is built around street racing and police chases?",
+        "a": "Need for Speed"
+      },
+      {
+        "q": "Which Nintendo shooter series has teams cover turf with coloured ink?",
+        "a": "Splatoon"
+      },
+      {
+        "q": "What does AFK stand for in online games?",
+        "a": "Away From Keyboard"
+      },
+      {
+        "q": "What is a pre-release test version of a game called?",
+        "a": "A beta"
+      },
+      {
+        "q": "What term describes small in-game purchases made with real money?",
+        "a": "Microtransactions"
+      },
+      {
+        "q": "What is an update that fixes bugs in a released game called?",
+        "a": "A patch"
+      },
+      {
+        "q": "Which Japanese company makes both Resident Evil and Street Fighter?",
+        "a": "Capcom"
+      },
+      {
+        "q": "Which mobile game has players slingshot creatures at green pigs?",
+        "a": "Angry Birds"
+      },
+      {
+        "q": "Which mobile puzzle game has players swap sweets to clear rows?",
+        "a": "Candy Crush"
+      },
+      {
+        "q": "Which Nintendo series lets you raise and train virtual puppies?",
+        "a": "Nintendogs"
+      },
+      {
+        "q": "Which Japanese company publishes the Final Fantasy series today?",
+        "a": "Square Enix"
+      },
+      {
+        "q": "Which horror series is set at a pizzeria full of killer animatronics?",
+        "a": "Five Nights at Freddy's"
+      },
+      {
+        "q": "What does RTS stand for as a game genre?",
+        "a": "Real-time strategy"
       }
     ],
     "400": [
@@ -37903,6 +56543,198 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the blindfolded android protagonist of NieR: Automata?",
         "a": "2B"
+      },
+      {
+        "q": "What fairy accompanies Link throughout Ocarina of Time?",
+        "a": "Navi"
+      },
+      {
+        "q": "What legendary blade must Link draw to defeat Ganon in most games?",
+        "a": "The Master Sword"
+      },
+      {
+        "q": "What item lets Link float down from high places in Breath of the Wild?",
+        "a": "The Paraglider"
+      },
+      {
+        "q": "What are the 120 small puzzle dungeons in Breath of the Wild called?",
+        "a": "Shrines"
+      },
+      {
+        "q": "Which black and red hedgehog debuted in Sonic Adventure 2?",
+        "a": "Shadow"
+      },
+      {
+        "q": "Which pink hedgehog is famously infatuated with Sonic?",
+        "a": "Amy Rose"
+      },
+      {
+        "q": "Which region is the setting of Pokemon Gold and Silver?",
+        "a": "Johto"
+      },
+      {
+        "q": "Which Pokemon games are set in the Hoenn region?",
+        "a": "Ruby and Sapphire"
+      },
+      {
+        "q": "What does Pikachu evolve into with a Thunder Stone?",
+        "a": "Raichu"
+      },
+      {
+        "q": "Which Florentine nobleman becomes the hero of Assassin's Creed II?",
+        "a": "Ezio Auditore"
+      },
+      {
+        "q": "Which real American city inspired GTA's Vice City?",
+        "a": "Miami"
+      },
+      {
+        "q": "Which decade is Grand Theft Auto: Vice City set in?",
+        "a": "The 1980s"
+      },
+      {
+        "q": "What is Ryu's signature fireball attack in Street Fighter called?",
+        "a": "Hadoken"
+      },
+      {
+        "q": "What is the joystick attachment that plugs into a Wii Remote called?",
+        "a": "The Nunchuk"
+      },
+      {
+        "q": "Which Sony handheld succeeded the PSP?",
+        "a": "PlayStation Vita"
+      },
+      {
+        "q": "Which Valve co-op shooter has survivors escaping zombie hordes?",
+        "a": "Left 4 Dead"
+      },
+      {
+        "q": "Which Capcom series traps the player in a zombie-filled shopping mall?",
+        "a": "Dead Rising"
+      },
+      {
+        "q": "What is the floating green gem above a Sim's head called?",
+        "a": "The Plumbob"
+      },
+      {
+        "q": "What squid-like creatures do players control in Splatoon?",
+        "a": "Inklings"
+      },
+      {
+        "q": "Which Animal Crossing game launched on Switch in 2020?",
+        "a": "New Horizons"
+      },
+      {
+        "q": "Which guitar-playing dog performs songs in Animal Crossing?",
+        "a": "K.K. Slider"
+      },
+      {
+        "q": "What parasitic species is unleashed in Halo: Combat Evolved?",
+        "a": "The Flood"
+      },
+      {
+        "q": "Which faction hoards technology and wears power armour in Fallout?",
+        "a": "The Brotherhood of Steel"
+      },
+      {
+        "q": "Which American city is Fallout 4 set in and around?",
+        "a": "Boston"
+      },
+      {
+        "q": "What is the horse the player summons in Elden Ring called?",
+        "a": "Torrent"
+      },
+      {
+        "q": "What are the checkpoints scattered across Elden Ring called?",
+        "a": "Sites of Grace"
+      },
+      {
+        "q": "Which FromSoftware game stars a one-armed shinobi in Sengoku Japan?",
+        "a": "Sekiro"
+      },
+      {
+        "q": "Which company runs the underground test chambers in Portal?",
+        "a": "Aperture Science"
+      },
+      {
+        "q": "Which Overwatch hero is a talking gorilla scientist?",
+        "a": "Winston"
+      },
+      {
+        "q": "What are the two warring factions of World of Warcraft?",
+        "a": "Alliance and Horde"
+      },
+      {
+        "q": "Which Bethesda space RPG launched in 2023?",
+        "a": "Starfield"
+      },
+      {
+        "q": "Which Naughty Dog sequel released in 2020 introduced Abby?",
+        "a": "The Last of Us Part II"
+      },
+      {
+        "q": "What is the resistance group in The Last of Us called?",
+        "a": "The Fireflies"
+      },
+      {
+        "q": "Which console did the first Super Smash Bros. game release on?",
+        "a": "Nintendo 64"
+      },
+      {
+        "q": "What is the notoriously chaotic final track of most Mario Kart cups?",
+        "a": "Rainbow Road"
+      },
+      {
+        "q": "What are the genetic superpowers used in BioShock called?",
+        "a": "Plasmids"
+      },
+      {
+        "q": "What are the hulking diving-suit guardians of the Little Sisters called?",
+        "a": "Big Daddies"
+      },
+      {
+        "q": "Who is Geralt's adopted daughter in The Witcher games?",
+        "a": "Ciri"
+      },
+      {
+        "q": "What weapon does Sora wield in Kingdom Hearts?",
+        "a": "The Keyblade"
+      },
+      {
+        "q": "Who is the silver-haired villain of Final Fantasy VII?",
+        "a": "Sephiroth"
+      },
+      {
+        "q": "What large yellow bird is a recurring mount in Final Fantasy?",
+        "a": "Chocobo"
+      },
+      {
+        "q": "Which Japanese school-life RPG has students form the Phantom Thieves?",
+        "a": "Persona 5"
+      },
+      {
+        "q": "Which planet's moons are the setting of the original Doom?",
+        "a": "Mars"
+      },
+      {
+        "q": "Which Capcom series has players slay giant beasts and craft armour from them?",
+        "a": "Monster Hunter"
+      },
+      {
+        "q": "What was the Xbox 360's infamous hardware failure nicknamed?",
+        "a": "The Red Ring of Death"
+      },
+      {
+        "q": "Which cloud gaming service did Google shut down in 2023?",
+        "a": "Stadia"
+      },
+      {
+        "q": "Which Nintendo series stars a fox piloting an Arwing?",
+        "a": "Star Fox"
+      },
+      {
+        "q": "Which Sega series has players drive passengers around at reckless speed?",
+        "a": "Crazy Taxi"
       }
     ],
     "600": [
@@ -38265,6 +57097,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of the protagonist of Final Fantasy XVI?",
         "a": "Clive Rosfield"
+      },
+      {
+        "q": "Which Pokemon generation introduced the Fairy type?",
+        "a": "X and Y"
+      },
+      {
+        "q": "Which Pokemon appears on the North American box of Pokemon Red?",
+        "a": "Charizard"
+      },
+      {
+        "q": "What is Master Chief's Spartan designation number?",
+        "a": "117"
+      },
+      {
+        "q": "Which ringworld, by its official designation, is the setting of Halo: Combat Evolved?",
+        "a": "Installation 04"
+      },
+      {
+        "q": "What is the capital city of Skyrim's province?",
+        "a": "Solitude"
+      },
+      {
+        "q": "What is the loyal canine companion in Fallout 4 called?",
+        "a": "Dogmeat"
+      },
+      {
+        "q": "Which reclusive figure rules New Vegas from behind a screen?",
+        "a": "Mr. House"
+      },
+      {
+        "q": "What is the giant purple pit monster in League of Legends called?",
+        "a": "Baron Nashor"
+      },
+      {
+        "q": "What world is the Diablo series set on?",
+        "a": "Sanctuary"
+      },
+      {
+        "q": "What is the standard currency across Final Fantasy games called?",
+        "a": "Gil"
+      },
+      {
+        "q": "Who created Undertale largely single-handedly?",
+        "a": "Toby Fox"
+      },
+      {
+        "q": "What is the ruined underground kingdom of Hollow Knight called?",
+        "a": "Hallownest"
+      },
+      {
+        "q": "What is the currency collected in Hollow Knight?",
+        "a": "Geo"
+      },
+      {
+        "q": "Who has directed the Super Smash Bros. series?",
+        "a": "Masahiro Sakurai"
+      },
+      {
+        "q": "How many racers compete in a standard Mario Kart 8 race?",
+        "a": "12"
+      },
+      {
+        "q": "Who is the ruthless patriarch of Tekken's Mishima family?",
+        "a": "Heihachi"
+      },
+      {
+        "q": "Which company originally created Mortal Kombat in 1992?",
+        "a": "Midway"
+      },
+      {
+        "q": "Which shapeshifting sorcerer hosts the Mortal Kombat tournament?",
+        "a": "Shang Tsung"
+      },
+      {
+        "q": "What is the chainsaw-bayonet rifle in Gears of War called?",
+        "a": "The Lancer"
+      },
+      {
+        "q": "Which megacorporation dominates Night City in Cyberpunk 2077?",
+        "a": "Arasaka"
+      },
+      {
+        "q": "What upgrade lets Samus roll into a sphere?",
+        "a": "The Morph Ball"
+      },
+      {
+        "q": "What is the silent suited observer who stalks Gordon Freeman known as?",
+        "a": "The G-Man"
+      },
+      {
+        "q": "Which Half-Life game released in 2020 was built solely for virtual reality?",
+        "a": "Alyx"
+      },
+      {
+        "q": "What cheat word grants a household extra money in the original Sims?",
+        "a": "Rosebud"
+      },
+      {
+        "q": "Which game marked the first appearance of Yoshi?",
+        "a": "Super Mario World"
+      },
+      {
+        "q": "Which Nintendo 64 Zelda game runs on a repeating three-day cycle?",
+        "a": "Majora's Mask"
+      },
+      {
+        "q": "Which 1991 SNES Zelda game introduced the Dark World?",
+        "a": "A Link to the Past"
+      },
+      {
+        "q": "What year was Half-Life 2 released?",
+        "a": "2004"
+      },
+      {
+        "q": "What year did Grand Theft Auto III release?",
+        "a": "2001"
+      },
+      {
+        "q": "Which two brothers co-founded Rockstar Games?",
+        "a": "The Housers"
+      },
+      {
+        "q": "Which Nintendo president who oversaw the Wii era died in 2015?",
+        "a": "Satoru Iwata"
+      },
+      {
+        "q": "Which Elden Ring boss awaits at the end of Redmane Castle's festival?",
+        "a": "Radahn"
+      },
+      {
+        "q": "What is the royal capital beneath the Erdtree in Elden Ring called?",
+        "a": "Leyndell"
+      },
+      {
+        "q": "What is the currency spent on levelling up in Bloodborne?",
+        "a": "Blood Echoes"
+      },
+      {
+        "q": "How many heroes were playable when Overwatch launched in 2016?",
+        "a": "21"
+      },
+      {
+        "q": "What was Blizzard's cancelled MMO that Overwatch grew out of?",
+        "a": "Project Titan"
+      },
+      {
+        "q": "What year did the Sega Genesis launch in North America?",
+        "a": "1989"
+      },
+      {
+        "q": "What was the Sega Genesis called outside North America?",
+        "a": "Mega Drive"
+      },
+      {
+        "q": "Which pack-in game shipped preinstalled on every PlayStation 5?",
+        "a": "Astro's Playroom"
+      },
+      {
+        "q": "Which Sony studio developed Astro Bot?",
+        "a": "Team Asobi"
+      },
+      {
+        "q": "Which body assigns age ratings to video games across Europe?",
+        "a": "PEGI"
+      },
+      {
+        "q": "Which Japanese company publishes the Yakuza series?",
+        "a": "Sega"
+      },
+      {
+        "q": "Which Japanese RPG series began in 1986 under designer Yuji Horii?",
+        "a": "Dragon Quest"
+      },
+      {
+        "q": "Which Dragon Ball artist designed the characters of Dragon Quest?",
+        "a": "Akira Toriyama"
+      },
+      {
+        "q": "On which day of the week does the guitar dog play in Animal Crossing?",
+        "a": "Saturday"
+      },
+      {
+        "q": "What are Tom Nook's two young helpers named?",
+        "a": "Timmy and Tommy"
+      },
+      {
+        "q": "What is the settlement at the heart of Stardew Valley called?",
+        "a": "Pelican Town"
+      },
+      {
+        "q": "Who is the final boss of Cuphead?",
+        "a": "The Devil"
+      },
+      {
+        "q": "Which 1979 handheld was the first with interchangeable cartridges?",
+        "a": "Microvision"
+      },
+      {
+        "q": "Which company made the Neo Geo and the Fatal Fury series?",
+        "a": "SNK"
       }
     ]
   },
@@ -38501,6 +57533,114 @@ const QUALITY_BACKFILL = {
       {
         "q": "What blue drink heals health and shield over time?",
         "a": "Slurp Juice"
+      },
+      {
+        "q": "Where do players spend V-Bucks on the cosmetics that rotate each day?",
+        "a": "The Item Shop"
+      },
+      {
+        "q": "What loot container parachutes down from the sky partway through a match?",
+        "a": "A Supply Drop"
+      },
+      {
+        "q": "Which building piece do players place to climb upward quickly?",
+        "a": "Stairs"
+      },
+      {
+        "q": "Which fruit picked up off the ground restores a little health when eaten?",
+        "a": "An apple"
+      },
+      {
+        "q": "Which arm-swinging dance emote shares its name with a dental hygiene habit?",
+        "a": "Floss"
+      },
+      {
+        "q": "Which shoulder-fired explosive weapon is the classic tool for blowing up enemy structures?",
+        "a": "Rocket Launcher"
+      },
+      {
+        "q": "Which anime ninja from the Hidden Leaf Village got a Fortnite skin in 2021?",
+        "a": "Naruto"
+      },
+      {
+        "q": "Which Netflix series brought the Demogorgon into Fortnite in 2019?",
+        "a": "Stranger Things"
+      },
+      {
+        "q": "Which rapper played with Ninja in a record-breaking Fortnite stream in 2018?",
+        "a": "Drake"
+      },
+      {
+        "q": "Which other mobile app store pulled Fortnite in August 2020, the same day Apple did?",
+        "a": "Google Play"
+      },
+      {
+        "q": "What do players call the on-screen marker used to point teammates at loot?",
+        "a": "A ping"
+      },
+      {
+        "q": "Which cosmetic slot covers items worn on a character's back?",
+        "a": "Back Bling"
+      },
+      {
+        "q": "Which Dragon Ball hero headlined Fortnite's 2022 anime crossover?",
+        "a": "Goku"
+      },
+      {
+        "q": "What is Fortnite's four-player team mode called?",
+        "a": "Squads"
+      },
+      {
+        "q": "What keeps the Battle Bus floating above the island?",
+        "a": "A hot air balloon"
+      },
+      {
+        "q": "What does the abbreviation LTM stand for in Fortnite?",
+        "a": "Limited Time Mode"
+      },
+      {
+        "q": "What is the name of Epic's own PC storefront where Fortnite is downloaded?",
+        "a": "Epic Games Store"
+      },
+      {
+        "q": "What are the seasonal tasks that hand out XP called?",
+        "a": "Quests"
+      },
+      {
+        "q": "What word describes a weapon's power tier, shown by its colour?",
+        "a": "Rarity"
+      },
+      {
+        "q": "What has happened to a Fortnite weapon that has been vaulted?",
+        "a": "Removed from the game"
+      },
+      {
+        "q": "Which Halo super-soldier joined Fortnite in December 2020?",
+        "a": "Master Chief"
+      },
+      {
+        "q": "Which God of War hero got a Fortnite skin in December 2020?",
+        "a": "Kratos"
+      },
+      {
+        "q": "Which sci-fi film franchise brought the T-800 to the island in 2020?",
+        "a": "The Terminator"
+      },
+      {
+        "q": "Which game series' heroine Lara Croft appeared in a 2021 Battle Pass?",
+        "a": "Tomb Raider"
+      },
+      {
+        "q": "Which item did Chapter 2 players use to pull loot out of the water?",
+        "a": "Fishing Rod"
+      },
+      {
+        "q": "What is the feature called that lets a player buy a cosmetic for a friend?",
+        "a": "Gifting"
+      },
+      {
+        "q": "What is the general name for the dances and gestures players perform in-game?",
+        "a": "Emotes"
       }
     ],
     "400": [
@@ -38807,6 +57947,186 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the Chapter 2 Season 2 spy faction opposing Ghost?",
         "a": "Shadow"
+      },
+      {
+        "q": "Which Chapter 1 town was home to the Durrr Burger restaurant?",
+        "a": "Greasy Grove"
+      },
+      {
+        "q": "Which Chapter 1 location sat at the dead centre of the map, with a house on an island in the water?",
+        "a": "Loot Lake"
+      },
+      {
+        "q": "Which Chapter 1 suburb had a football pitch at its centre?",
+        "a": "Pleasant Park"
+      },
+      {
+        "q": "What did Dusty Depot become after a meteor smashed into it in Season 4?",
+        "a": "Dusty Divot"
+      },
+      {
+        "q": "Which Chapter 1 location was a small mining town riddled with tunnels?",
+        "a": "Shifty Shafts"
+      },
+      {
+        "q": "Which Chapter 2 location was a power plant with two enormous cooling towers?",
+        "a": "Steamy Stacks"
+      },
+      {
+        "q": "Which Chapter 2 location was a beach resort town on the northwest coast?",
+        "a": "Sweaty Sands"
+      },
+      {
+        "q": "Which Chapter 2 Season 4 location was Tony Stark's headquarters?",
+        "a": "Stark Industries"
+      },
+      {
+        "q": "Which Chapter 3 location was a newspaper skyscraper tied to a web-slinging hero?",
+        "a": "The Daily Bugle"
+      },
+      {
+        "q": "Which helicopter arrived on the island in Chapter 2 Season 2?",
+        "a": "The Choppa"
+      },
+      {
+        "q": "Which motorised watercraft could fire missiles across Chapter 2's rivers?",
+        "a": "Motorboat"
+      },
+      {
+        "q": "Which shotgun with a slow reload and huge single-shot damage defined Chapter 1 fights?",
+        "a": "Pump Shotgun"
+      },
+      {
+        "q": "Which shotgun has to be held down to build power before it fires?",
+        "a": "Charge Shotgun"
+      },
+      {
+        "q": "Which heavy weapon added in Season 3 shredded structures with a spinning barrel?",
+        "a": "Minigun"
+      },
+      {
+        "q": "Which mobility item added in Season 6 let players hook onto a surface and pull themselves in?",
+        "a": "Grappler"
+      },
+      {
+        "q": "Which Chapter 2 weapon reeled in loot and yanked opponents closer?",
+        "a": "Harpoon Gun"
+      },
+      {
+        "q": "Which throwable makes a cloud that slowly heals everyone standing in it?",
+        "a": "Chug Splash"
+      },
+      {
+        "q": "Which station let players raise a weapon's rarity in Chapter 2?",
+        "a": "Upgrade Bench"
+      },
+      {
+        "q": "What is the gold currency spent with NPCs from Chapter 2 Season 5 onwards?",
+        "a": "Gold Bars"
+      },
+      {
+        "q": "What is the maximum amount of a single building material a player can carry?",
+        "a": "500"
+      },
+      {
+        "q": "How many item slots does a player's inventory hold?",
+        "a": "Five"
+      },
+      {
+        "q": "How many teams start a standard squads match?",
+        "a": "25"
+      },
+      {
+        "q": "What is the name of the weapon-free social space Epic opened in 2020 for concerts?",
+        "a": "Party Royale"
+      },
+      {
+        "q": "Which limited-time mode split the whole lobby into just two giant teams?",
+        "a": "50v50"
+      },
+      {
+        "q": "Which limited-time mode filled the map with nothing but Legendary loot?",
+        "a": "Solid Gold"
+      },
+      {
+        "q": "Which area do players load into before boarding the bus each match?",
+        "a": "Spawn Island"
+      },
+      {
+        "q": "Which reward is collected each level and then spent to claim Battle Pass items?",
+        "a": "Battle Stars"
+      },
+      {
+        "q": "Bandages can only heal a player up to what health value?",
+        "a": "75"
+      },
+      {
+        "q": "In which year did Fortnite's Chapter 2 begin?",
+        "a": "2019"
+      },
+      {
+        "q": "Which console maker blocked Fortnite cross-play in 2018, locking accounts to its platform?",
+        "a": "Sony"
+      },
+      {
+        "q": "Which K-pop group premiered a dance video inside Fortnite in 2020?",
+        "a": "BTS"
+      },
+      {
+        "q": "Which Marvel hero's throwable shield was a mythic in Fortnite's 2020 Marvel-themed limited-time mode?",
+        "a": "Captain America"
+      },
+      {
+        "q": "Which hammer-wielding Marvel hero was the first Battle Pass skin of Chapter 2 Season 4?",
+        "a": "Thor"
+      },
+      {
+        "q": "Which sea predator could be hooked and water-skied behind in Chapter 2 Season 3?",
+        "a": "A shark"
+      },
+      {
+        "q": "Which Chapter 1 item let a player disguise themselves as shrubbery?",
+        "a": "Bush"
+      },
+      {
+        "q": "Which giant fast-food mascot head turned up in a California desert as a 2018 Fortnite stunt?",
+        "a": "Durrr Burger"
+      },
+      {
+        "q": "What does the competitive abbreviation FNCS stand for?",
+        "a": "Fortnite Champion Series"
+      },
+      {
+        "q": "Which Chapter 1 season first covered part of the map in snow?",
+        "a": "Season 7"
+      },
+      {
+        "q": "Which Chapter 1 season introduced pets that sat on a player's back?",
+        "a": "Season 6"
+      },
+      {
+        "q": "Which Chapter 2 Season 6 system required gathering parts to assemble better weapons?",
+        "a": "Crafting"
+      },
+      {
+        "q": "Which Chapter 2 Season 6 weapon family was built from animal bones and wood?",
+        "a": "Primal weapons"
+      },
+      {
+        "q": "Which Marvel villain's castle replaced Pleasant Park in Chapter 2 Season 4?",
+        "a": "Doom's Domain"
+      },
+      {
+        "q": "What was the Season 9 live event in which a giant robot fought a sea monster called?",
+        "a": "The Final Showdown"
+      },
+      {
+        "q": "What is the name of Fortnite's annual Halloween event?",
+        "a": "Fortnitemares"
+      },
+      {
+        "q": "What was the alien-abduction theme of Chapter 2 Season 7 called?",
+        "a": "Invasion"
       }
     ],
     "600": [
@@ -39049,6 +58369,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What POI in Chapter 2 Season 1 was a factory filled with slurp barrels?",
         "a": "Slurpy Swamp"
+      },
+      {
+        "q": "Which Season 3 weapon could be steered by the player after firing?",
+        "a": "Guided Missile"
+      },
+      {
+        "q": "Which pistol threw its own user backwards every time it fired?",
+        "a": "Flint-Knock Pistol"
+      },
+      {
+        "q": "Which bow added in Season 8 fired explosive flaming arrows?",
+        "a": "Boom Bow"
+      },
+      {
+        "q": "Which throwable dropped a huge object out of a portal onto whatever was below?",
+        "a": "Junk Rift"
+      },
+      {
+        "q": "Which Season 9 throwable swapped a patch of safe ground for damaging energy, and the reverse?",
+        "a": "Storm Flip"
+      },
+      {
+        "q": "Which fish restores shield instead of health when eaten?",
+        "a": "Slurpfish"
+      },
+      {
+        "q": "Which farmyard animal could be carried to flap and glide down in Chapter 2 Season 6?",
+        "a": "A chicken"
+      },
+      {
+        "q": "Which Chapter 5 Season 1 item let a player creep around hidden inside it?",
+        "a": "Cardboard Box"
+      },
+      {
+        "q": "Which Chapter 5 Season 2 mythic let players soar with feathered wings?",
+        "a": "Wings of Icarus"
+      },
+      {
+        "q": "Which Chapter 5 Season 2 mythic yanked an enemy toward the user with a chain?",
+        "a": "Chains of Hades"
+      },
+      {
+        "q": "Which Chapter 5 Season 3 melee mythic let players dash and punch through walls?",
+        "a": "Nitro Fists"
+      },
+      {
+        "q": "Which Italian carmaker's 296 GTB became driveable in Fortnite in 2021?",
+        "a": "Ferrari"
+      },
+      {
+        "q": "Which Season 3 Battle Pass skin was a black-and-orange astronaut?",
+        "a": "Dark Voyager"
+      },
+      {
+        "q": "Which Season 4 tier 100 skin unlocked glowing armour pieces through challenges?",
+        "a": "Omega"
+      },
+      {
+        "q": "Which Season 6 tier 100 skin gradually transformed into a werewolf?",
+        "a": "Dire"
+      },
+      {
+        "q": "Which Season 7 tier 100 skin was a frozen monarch tied to the snow covering the map?",
+        "a": "Ice King"
+      },
+      {
+        "q": "Which Season 8 tier 100 skin was an upgradeable pirate captain?",
+        "a": "Blackheart"
+      },
+      {
+        "q": "Which Season 9 secret skin was unlocked by placing helmets around the map?",
+        "a": "Singularity"
+      },
+      {
+        "q": "Which leader of the Seven finally removed his helmet at the end of Chapter 2?",
+        "a": "The Foundation"
+      },
+      {
+        "q": "Which pink-armoured member of the Seven appeared as an NPC in Chapter 3?",
+        "a": "The Paradigm"
+      },
+      {
+        "q": "Which Chapter 2 Season 7 Battle Pass alien could be customised part by part?",
+        "a": "Kymera"
+      },
+      {
+        "q": "Which sci-fi film hunter stalked the jungle area as a Chapter 2 Season 5 boss?",
+        "a": "The Predator"
+      },
+      {
+        "q": "Which Chapter 4 location was the mountain castle held by The Ageless?",
+        "a": "The Citadel"
+      },
+      {
+        "q": "Which Chapter 1 location in the far northwest was a scrapyard with a giant metal llama?",
+        "a": "Junk Junction"
+      },
+      {
+        "q": "Which Chapter 1 location in the south had pink trees and a pagoda?",
+        "a": "Lucky Landing"
+      },
+      {
+        "q": "Which Chapter 1 location was a hillside graveyard beside a church?",
+        "a": "Haunted Hills"
+      },
+      {
+        "q": "Which Chapter 1 location was a factory that made toilets?",
+        "a": "Flush Factory"
+      },
+      {
+        "q": "Which swampy Chapter 1 location was wiped out by the desert in Season 5?",
+        "a": "Moisty Mire"
+      },
+      {
+        "q": "Which Chapter 1 location on the western cliffs hid a supervillain's bunker in Season 4?",
+        "a": "Snobby Shores"
+      },
+      {
+        "q": "Which ancient-ruins location replaced Tomato Town in Season 5?",
+        "a": "Tomato Temple"
+      },
+      {
+        "q": "What was the spy-themed title of Chapter 2 Season 2?",
+        "a": "Top Secret"
+      },
+      {
+        "q": "What was Chapter 2 Season 5 titled?",
+        "a": "Zero Point"
+      },
+      {
+        "q": "What was Chapter 3 Season 2 called, the season that switched building off at launch?",
+        "a": "Resistance"
+      },
+      {
+        "q": "What was the summery Chapter 3 Season 3 titled?",
+        "a": "Vibin'"
+      },
+      {
+        "q": "What was Chapter 4 Season 2 titled, the one with the neon Japanese-styled city?",
+        "a": "MEGA"
+      },
+      {
+        "q": "What was the jungle-themed Chapter 4 Season 3 titled?",
+        "a": "WILDS"
+      },
+      {
+        "q": "What was the heist-themed Chapter 4 Season 4 titled?",
+        "a": "LAST RESORT"
+      },
+      {
+        "q": "What was the wasteland-themed Chapter 5 Season 3 titled?",
+        "a": "Wrecked"
+      },
+      {
+        "q": "What was Chapter 5 Season 4 titled, built around a Marvel villain's takeover?",
+        "a": "Absolute Doom"
+      },
+      {
+        "q": "Which US regulator fined Epic Games $520 million in 2022?",
+        "a": "The FTC"
+      },
+      {
+        "q": "In which year did Fortnite return to the iPhone App Store in the United States?",
+        "a": "2025"
+      },
+      {
+        "q": "How many registered players did Epic announce Fortnite had reached in May 2020?",
+        "a": "350 million"
+      },
+      {
+        "q": "Which giant robot was assembled at Pressure Plant for the Season 9 finale?",
+        "a": "Mecha Team Leader"
+      },
+      {
+        "q": "Which Star Wars film's exclusive footage premiered inside Fortnite in December 2019?",
+        "a": "The Rise of Skywalker"
+      },
+      {
+        "q": "Which late rapper appeared as a skin during the 2024 Remix season?",
+        "a": "Juice WRLD"
+      },
+      {
+        "q": "Which Chapter 2 Season 4 mythic called down lightning strikes on an area?",
+        "a": "Mjolnir Strike"
+      },
+      {
+        "q": "What was the September 2021 live event that closed Chapter 2 Season 7 called?",
+        "a": "Operation: Sky Fire"
+      },
+      {
+        "q": "What was the June 2022 live event that closed Chapter 3 Season 2 called?",
+        "a": "Collision"
+      },
+      {
+        "q": "What was the December 2022 live event that ended Chapter 3 called?",
+        "a": "Fracture"
       }
     ]
   },
@@ -39313,6 +58829,114 @@ const QUALITY_BACKFILL = {
       {
         "q": "What free currency introduced in 2023 unlocks agents and accessories?",
         "a": "Kingdom Credits"
+      },
+      {
+        "q": "How much health does a player start each round with?",
+        "a": "100"
+      },
+      {
+        "q": "Which key opens the weapon shop by default?",
+        "a": "B"
+      },
+      {
+        "q": "Which shotgun in the arsenal fires fully automatically?",
+        "a": "Judge"
+      },
+      {
+        "q": "Which tiny two-shell shotgun is the cheapest weapon in the shop?",
+        "a": "Shorty"
+      },
+      {
+        "q": "Which suppressed sidearm is a popular first-round purchase?",
+        "a": "Ghost"
+      },
+      {
+        "q": "Which member of the agent roster is a machine rather than a human?",
+        "a": "KAY/O"
+      },
+      {
+        "q": "Which duelist can float slowly downward after leaping into the air?",
+        "a": "Jett"
+      },
+      {
+        "q": "What role does Cypher fill on a team?",
+        "a": "Sentinel"
+      },
+      {
+        "q": "What role does Breach fill on a team?",
+        "a": "Initiator"
+      },
+      {
+        "q": "What role does Viper fill on a team?",
+        "a": "Controller"
+      },
+      {
+        "q": "What role does Neon fill on a team?",
+        "a": "Duelist"
+      },
+      {
+        "q": "Which country is Sova from?",
+        "a": "Russia"
+      },
+      {
+        "q": "How many bomb sites does the map Bind have?",
+        "a": "Two"
+      },
+      {
+        "q": "Valorant is most often compared to which older tactical shooter series?",
+        "a": "Counter-Strike"
+      },
+      {
+        "q": "Valorant's developer is best known for which long-running MOBA?",
+        "a": "League of Legends"
+      },
+      {
+        "q": "On which platform did Valorant originally launch in 2020?",
+        "a": "PC"
+      },
+      {
+        "q": "In competitive, how many players on one team may pick the same agent?",
+        "a": "One"
+      },
+      {
+        "q": "What happens to the two teams once 12 rounds have been played?",
+        "a": "They swap sides"
+      },
+      {
+        "q": "Which competitive rank sits directly above Iron?",
+        "a": "Bronze"
+      },
+      {
+        "q": "Which competitive rank sits between Bronze and Gold?",
+        "a": "Silver"
+      },
+      {
+        "q": "Which competitive rank sits directly below Radiant?",
+        "a": "Immortal"
+      },
+      {
+        "q": "What tool lets a player mark a spot on the map without speaking?",
+        "a": "Ping"
+      },
+      {
+        "q": "Which key drops your held weapon for a teammate by default?",
+        "a": "G"
+      },
+      {
+        "q": "What happens to credits a player does not spend during a round?",
+        "a": "They carry over"
+      },
+      {
+        "q": "Which weapon family do the Ares and Odin belong to?",
+        "a": "Machine guns"
+      },
+      {
+        "q": "What is the pre-match phase where each player locks in a character called?",
+        "a": "Agent select"
+      },
+      {
+        "q": "What is Valorant's paid seasonal reward track called?",
+        "a": "Battle Pass"
       }
     ],
     "400": [
@@ -39591,6 +59215,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Turkish agent uses nightmarish creatures to reveal enemies?",
         "a": "Fade"
+      },
+      {
+        "q": "Which pistol keeps firing as long as you hold the trigger?",
+        "a": "Frenzy"
+      },
+      {
+        "q": "Which rifle fires a three-round burst with every trigger pull?",
+        "a": "Bulldog"
+      },
+      {
+        "q": "Which submachine gun switches to a four-round burst when scoped?",
+        "a": "Stinger"
+      },
+      {
+        "q": "What is the name of Sage's solid wall ability?",
+        "a": "Barrier Orb"
+      },
+      {
+        "q": "What is the name of Jett's smoke ability?",
+        "a": "Cloudburst"
+      },
+      {
+        "q": "What is the name of the Phoenix ability that both burns enemies and heals him?",
+        "a": "Hot Hands"
+      },
+      {
+        "q": "What is the name of Viper's long gas wall?",
+        "a": "Toxic Screen"
+      },
+      {
+        "q": "Which Cypher ability stretches a line between two surfaces to snare enemies?",
+        "a": "Trapwire"
+      },
+      {
+        "q": "Which Sova arrow damages and concusses instead of revealing?",
+        "a": "Shock Bolt"
+      },
+      {
+        "q": "Which country is Killjoy from?",
+        "a": "Germany"
+      },
+      {
+        "q": "Which country is Chamber from?",
+        "a": "France"
+      },
+      {
+        "q": "Which country is Astra from?",
+        "a": "Ghana"
+      },
+      {
+        "q": "Which country is Viper from?",
+        "a": "United States"
+      },
+      {
+        "q": "Which agent can buy his own golden weapons as part of his kit?",
+        "a": "Chamber"
+      },
+      {
+        "q": "Which controller places stars around the map from an overhead view?",
+        "a": "Astra"
+      },
+      {
+        "q": "Which map was the first new one added after the game's launch?",
+        "a": "Icebox"
+      },
+      {
+        "q": "Which map is set in Lisbon, Portugal?",
+        "a": "Pearl"
+      },
+      {
+        "q": "How many ultimate orbs are placed on a standard map?",
+        "a": "Two"
+      },
+      {
+        "q": "How many kills does it take to finish a Deathmatch?",
+        "a": "40"
+      },
+      {
+        "q": "How many players are in a Deathmatch lobby?",
+        "a": "14"
+      },
+      {
+        "q": "How many round wins does a Spike Rush match go to?",
+        "a": "Four"
+      },
+      {
+        "q": "Which 2023 mode has both teams respawning through four weapon stages?",
+        "a": "Team Deathmatch"
+      },
+      {
+        "q": "What account level must be reached to unlock ranked queue?",
+        "a": "20"
+      },
+      {
+        "q": "What is the personalized discounted skin shop that appears each act called?",
+        "a": "Night Market"
+      },
+      {
+        "q": "What currency is spent to upgrade a skin's levels and variants?",
+        "a": "Radianite Points"
+      },
+      {
+        "q": "What accolade is shown for winning a round without a single teammate dying?",
+        "a": "Flawless"
+      },
+      {
+        "q": "Which number key equips the Spike by default?",
+        "a": "4"
+      },
+      {
+        "q": "How many seconds does planting the Spike take?",
+        "a": "4"
+      },
+      {
+        "q": "How many credits does the Ghost cost?",
+        "a": "500"
+      },
+      {
+        "q": "How many credits does the Sheriff cost?",
+        "a": "800"
+      },
+      {
+        "q": "How many credits does the Frenzy cost?",
+        "a": "450"
+      },
+      {
+        "q": "What does the abbreviation RR stand for in the ranked system?",
+        "a": "Rank Rating"
+      },
+      {
+        "q": "What does the scoreboard stat ACS stand for?",
+        "a": "Average Combat Score"
+      },
+      {
+        "q": "What is the most rounds a team can lose and still win in regulation?",
+        "a": "11"
+      },
+      {
+        "q": "What is the VCT tier where unsigned teams compete to reach the international leagues?",
+        "a": "Challengers"
+      },
+      {
+        "q": "Which team won Masters Tokyo in 2023?",
+        "a": "Fnatic"
+      },
+      {
+        "q": "What is the name of Brimstone's burning molotov ability?",
+        "a": "Incendiary"
+      },
+      {
+        "q": "Which of Gekko's creatures can plant or defuse the Spike?",
+        "a": "Wingman"
+      },
+      {
+        "q": "What is the name of Deadlock's wall of blocking cubes?",
+        "a": "Barrier Mesh"
+      },
+      {
+        "q": "What is the name of Raze's cluster grenade ability?",
+        "a": "Paint Shells"
+      },
+      {
+        "q": "What is the name of the satchel charge Raze uses to launch herself?",
+        "a": "Blast Pack"
+      },
+      {
+        "q": "Which Fade creature runs along the ground and latches onto the first enemy it finds?",
+        "a": "Prowler"
+      },
+      {
+        "q": "What is the name of Breach's blinding ability?",
+        "a": "Flashpoint"
+      },
+      {
+        "q": "What is the name of Skye's blinding hawk ability?",
+        "a": "Guiding Light"
+      },
+      {
+        "q": "What is the name of Neon's twin walls of electricity?",
+        "a": "Fast Lane"
+      },
+      {
+        "q": "How many minutes long is a standard Deathmatch?",
+        "a": "9"
+      },
+      {
+        "q": "What is the name of the Reyna ability that heals her from an enemy soul orb?",
+        "a": "Devour"
       }
     ],
     "600": [
@@ -39913,6 +59725,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "In which U.S. state is the map Fracture set?",
         "a": "New Mexico"
+      },
+      {
+        "q": "How many rounds does a Vandal magazine hold?",
+        "a": "25"
+      },
+      {
+        "q": "How many rounds does a Phantom magazine hold?",
+        "a": "30"
+      },
+      {
+        "q": "How many shots does an Operator magazine hold?",
+        "a": "5"
+      },
+      {
+        "q": "How many rounds does a Sheriff magazine hold?",
+        "a": "6"
+      },
+      {
+        "q": "How many credits does the Judge cost?",
+        "a": "1,850"
+      },
+      {
+        "q": "How many credits does the Odin cost?",
+        "a": "3,200"
+      },
+      {
+        "q": "How many credits does the Ares cost?",
+        "a": "1,550"
+      },
+      {
+        "q": "How many credits does the Bulldog cost?",
+        "a": "2,050"
+      },
+      {
+        "q": "How many credits does the Shorty cost?",
+        "a": "150"
+      },
+      {
+        "q": "How much damage does a close-range Sheriff headshot deal?",
+        "a": "159"
+      },
+      {
+        "q": "How much damage does a close-range Ghost headshot deal?",
+        "a": "105"
+      },
+      {
+        "q": "How much damage does a close-range Classic headshot deal?",
+        "a": "78"
+      },
+      {
+        "q": "How many points of armor do light shields provide?",
+        "a": "25"
+      },
+      {
+        "q": "How many credits is the smallest loss bonus a team can receive?",
+        "a": "1,900"
+      },
+      {
+        "q": "How many agents were playable on the day the game launched?",
+        "a": "11"
+      },
+      {
+        "q": "Which sentinel was the first one added to the roster after launch?",
+        "a": "Killjoy"
+      },
+      {
+        "q": "What was Valorant's first Episode named?",
+        "a": "Ignition"
+      },
+      {
+        "q": "How many tiers does a Valorant battle pass contain?",
+        "a": "50"
+      },
+      {
+        "q": "How many players per region hold the top rank at any time?",
+        "a": "500"
+      },
+      {
+        "q": "Which dragon-themed collection was the game's first Ultra Edition skin line?",
+        "a": "Elderflame"
+      },
+      {
+        "q": "Which limited-time mode put every player on a team into the same agent?",
+        "a": "Replication"
+      },
+      {
+        "q": "Which festive limited-time mode armed players with snowball launchers?",
+        "a": "Snowball Fight"
+      },
+      {
+        "q": "Which team won Masters Berlin in 2021?",
+        "a": "Gambit Esports"
+      },
+      {
+        "q": "Which team won Masters Reykjavik in 2022?",
+        "a": "OpTic Gaming"
+      },
+      {
+        "q": "Which team won the LOCK//IN event in Sao Paulo in 2023?",
+        "a": "LOUD"
+      },
+      {
+        "q": "Which team won Masters Madrid in 2024?",
+        "a": "Sentinels"
+      },
+      {
+        "q": "Which team won Masters Shanghai in 2024?",
+        "a": "Gen.G"
+      },
+      {
+        "q": "Which city hosted Valorant Champions in 2025?",
+        "a": "Paris"
+      },
+      {
+        "q": "What is Killjoy's real name in the lore?",
+        "a": "Klara Boringer"
+      },
+      {
+        "q": "What is Jett's real name in the lore?",
+        "a": "Sunwoo Han"
+      },
+      {
+        "q": "What is Phoenix's real name in the lore?",
+        "a": "Jamie Adeyemi"
+      },
+      {
+        "q": "What is Brimstone's real name in the lore?",
+        "a": "Liam Byrne"
+      },
+      {
+        "q": "What is Iso's ultimate called?",
+        "a": "Kill Contract"
+      },
+      {
+        "q": "What is Vyse's ultimate called?",
+        "a": "Steel Garden"
+      },
+      {
+        "q": "What is Waylay's ultimate called?",
+        "a": "Convergent Paths"
+      },
+      {
+        "q": "What is the name of the Iso ability that grants him a bullet-absorbing shield after a kill?",
+        "a": "Double Tap"
+      },
+      {
+        "q": "What is the name of Vyse's field of damaging thorns?",
+        "a": "Razorvine"
+      },
+      {
+        "q": "What is the name of Vyse's liquid metal wall?",
+        "a": "Shear"
+      },
+      {
+        "q": "What is the name of Clove's smoke ability?",
+        "a": "Meddle"
+      },
+      {
+        "q": "What is the name of Clove's decoy ability?",
+        "a": "Ruse"
+      },
+      {
+        "q": "What is the name of Yoru's teleport ability?",
+        "a": "Gatecrash"
+      },
+      {
+        "q": "What is the name of Yoru's clone ability?",
+        "a": "Fakeout"
+      },
+      {
+        "q": "What is the name of KAY/O's blinding grenade?",
+        "a": "FLASH/drive"
+      },
+      {
+        "q": "What is the name of the suppressing knife KAY/O throws?",
+        "a": "ZERO/point"
+      },
+      {
+        "q": "Which Fade ability pools ink on the ground and holds enemies in place?",
+        "a": "Seize"
+      },
+      {
+        "q": "What is the name of Harbor's rolling water wall?",
+        "a": "High Tide"
+      },
+      {
+        "q": "What is the name of the Astra ability that drags enemies toward a star?",
+        "a": "Gravity Well"
       }
     ]
   },
@@ -40157,6 +60157,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the most famous Minecraft server, home to SkyBlock and Bed Wars?",
         "a": "Hypixel"
+      },
+      {
+        "q": "What block do you use to smelt ores into ingots?",
+        "a": "Furnace"
+      },
+      {
+        "q": "What wooden storage block is crafted from eight planks?",
+        "a": "Chest"
+      },
+      {
+        "q": "What item do you place against a wall to climb up it?",
+        "a": "Ladder"
+      },
+      {
+        "q": "What craftable wooden vehicle carries you across water?",
+        "a": "Boat"
+      },
+      {
+        "q": "What vehicle travels along rails?",
+        "a": "Minecart"
+      },
+      {
+        "q": "What small plant do you place on dirt to grow a new tree?",
+        "a": "Sapling"
+      },
+      {
+        "q": "What white powder makes crops grow instantly when used on them?",
+        "a": "Bone meal"
+      },
+      {
+        "q": "What orange vegetable will breed a pair of pigs?",
+        "a": "Carrots"
+      },
+      {
+        "q": "What hostile mob has eight legs and can climb straight up walls?",
+        "a": "Spider"
+      },
+      {
+        "q": "What harmless flying mob flutters around dark caves?",
+        "a": "Bat"
+      },
+      {
+        "q": "What sweet block is eaten one slice at a time and cannot be picked back up?",
+        "a": "Cake"
+      },
+      {
+        "q": "What block plays a music disc when you put one in it?",
+        "a": "Jukebox"
+      },
+      {
+        "q": "What heavy block lets you repair and rename items?",
+        "a": "Anvil"
+      },
+      {
+        "q": "What block placed around an enchanting table gives stronger enchantments?",
+        "a": "Bookshelf"
+      },
+      {
+        "q": "What reddish block makes up most of the Nether's ground?",
+        "a": "Netherrack"
+      },
+      {
+        "q": "What yellow glowing block hangs from Nether ceilings?",
+        "a": "Glowstone"
+      },
+      {
+        "q": "What block forms when a lava source meets a water source?",
+        "a": "Obsidian"
+      },
+      {
+        "q": "What block does stone turn into when you mine it with a plain pickaxe?",
+        "a": "Cobblestone"
+      },
+      {
+        "q": "What falling block sometimes drops flint when broken?",
+        "a": "Gravel"
+      },
+      {
+        "q": "What spiky green desert plant hurts you if you touch it?",
+        "a": "Cactus"
+      },
+      {
+        "q": "What block do you smelt to make glass?",
+        "a": "Sand"
+      },
+      {
+        "q": "How many slots does a crafting table's grid have?",
+        "a": "9"
+      },
+      {
+        "q": "How many hearts does a player have at full health?",
+        "a": "10"
+      },
+      {
+        "q": "What two items are combined to craft a torch?",
+        "a": "Stick and coal"
+      },
+      {
+        "q": "What round item shows the in-game time while you are underground?",
+        "a": "Clock"
+      },
+      {
+        "q": "What do you usually collect from breaking tall grass?",
+        "a": "Wheat seeds"
+      },
+      {
+        "q": "What is the lowest pickaxe tier that can mine diamond ore?",
+        "a": "Iron"
+      },
+      {
+        "q": "What action makes an Enderman turn hostile toward you?",
+        "a": "Looking at it"
+      },
+      {
+        "q": "What large fruit block grows from a stem and can be cut into nine slices?",
+        "a": "Melon"
+      },
+      {
+        "q": "What item dropped by spiders is combined with sticks to make a bow?",
+        "a": "String"
+      },
+      {
+        "q": "What throwable item knocks a mob backwards without hurting it?",
+        "a": "Snowball"
+      },
+      {
+        "q": "What metal's blocks slowly turn green after being placed outside?",
+        "a": "Copper"
+      },
+      {
+        "q": "What item is crafted from three paper and one piece of leather?",
+        "a": "Book"
+      },
+      {
+        "q": "What green glowing pickups do slain mobs drop to raise your level?",
+        "a": "Experience"
+      },
+      {
+        "q": "What farm mob can be coloured sixteen different shades using dye?",
+        "a": "Sheep"
+      },
+      {
+        "q": "What tool do you use to turn dirt into farmland?",
+        "a": "Hoe"
+      },
+      {
+        "q": "What flat decoration can you hang on a wall to show a picture?",
+        "a": "Painting"
+      },
+      {
+        "q": "What small passive mob hops around and can drop a foot as loot?",
+        "a": "Rabbit"
+      },
+      {
+        "q": "What hinged wooden block covers a hole in the floor?",
+        "a": "Trapdoor"
+      },
+      {
+        "q": "What block pushes other blocks along when it is powered?",
+        "a": "Piston"
+      },
+      {
+        "q": "What darker, harder stone replaces normal stone deep underground?",
+        "a": "Deepslate"
+      },
+      {
+        "q": "What do you get by using an empty bucket on a cow?",
+        "a": "Milk"
+      },
+      {
+        "q": "What common yellow flower is used to craft yellow dye?",
+        "a": "Dandelion"
+      },
+      {
+        "q": "What copper and amethyst item lets you zoom in on distant things?",
+        "a": "Spyglass"
+      },
+      {
+        "q": "What fuel do you get by smelting logs in a furnace?",
+        "a": "Charcoal"
+      },
+      {
+        "q": "What item do you hold up to block incoming arrows?",
+        "a": "Shield"
+      },
+      {
+        "q": "Where do you respawn if you have never slept in a bed?",
+        "a": "World spawn"
+      },
+      {
+        "q": "How many wooden planks does a single log give you?",
+        "a": "4"
+      },
+      {
+        "q": "What ocean mob comes ashore to lay eggs in the sand?",
+        "a": "Turtle"
+      },
+      {
+        "q": "What food do you get from cooking raw beef?",
+        "a": "Steak"
       }
     ],
     "400": [
@@ -40479,6 +60679,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name for the number that determines a world's terrain generation?",
         "a": "Seed"
+      },
+      {
+        "q": "What drink instantly clears every status effect from a player?",
+        "a": "Milk"
+      },
+      {
+        "q": "Besides sunlight, what harms an Enderman on contact?",
+        "a": "Water"
+      },
+      {
+        "q": "What tamed pet frightens creepers away from your base?",
+        "a": "Cat"
+      },
+      {
+        "q": "What sandstone structure hides a TNT trap under a pressure plate?",
+        "a": "Desert temple"
+      },
+      {
+        "q": "What mob becomes a Drowned after spending too long underwater?",
+        "a": "Zombie"
+      },
+      {
+        "q": "What mob rides a chicken to form the famous jockey?",
+        "a": "Baby zombie"
+      },
+      {
+        "q": "What weather lets hostile mobs survive out in the open during the day?",
+        "a": "Thunderstorm"
+      },
+      {
+        "q": "What block pulls items in and feeds them into a container below?",
+        "a": "Hopper"
+      },
+      {
+        "q": "What block can pull a block back toward it when it retracts?",
+        "a": "Sticky piston"
+      },
+      {
+        "q": "What redstone component must be placed to carry a signal past fifteen blocks?",
+        "a": "Repeater"
+      },
+      {
+        "q": "What block sends out a redstone pulse when the block it faces changes?",
+        "a": "Observer"
+      },
+      {
+        "q": "What smaller blue arachnid in mineshafts poisons you when it bites?",
+        "a": "Cave spider"
+      },
+      {
+        "q": "What underground structure is full of wooden supports, rails and chest carts?",
+        "a": "Abandoned mineshaft"
+      },
+      {
+        "q": "What block cooks food twice as fast as a furnace?",
+        "a": "Smoker"
+      },
+      {
+        "q": "What block smelts ores twice as fast as a furnace?",
+        "a": "Blast furnace"
+      },
+      {
+        "q": "What container holds the same contents no matter where in the world you place it?",
+        "a": "Ender chest"
+      },
+      {
+        "q": "What container keeps everything inside it when you break and carry it?",
+        "a": "Shulker box"
+      },
+      {
+        "q": "What small bug bursts out of infested stone blocks in strongholds?",
+        "a": "Silverfish"
+      },
+      {
+        "q": "What block found in ocean monuments soaks up nearby water?",
+        "a": "Sponge"
+      },
+      {
+        "q": "What item from buried treasure is needed to craft a conduit?",
+        "a": "Heart of the sea"
+      },
+      {
+        "q": "What item found in shipwreck chests leads you to hidden loot in the sand?",
+        "a": "Buried treasure map"
+      },
+      {
+        "q": "What item does a baby turtle drop when it grows into an adult?",
+        "a": "Scute"
+      },
+      {
+        "q": "What block turns spare crops and plants into bone meal?",
+        "a": "Composter"
+      },
+      {
+        "q": "What block strips enchantments off an item and gives back some experience?",
+        "a": "Grindstone"
+      },
+      {
+        "q": "What block is used to apply a netherite upgrade to diamond gear?",
+        "a": "Smithing table"
+      },
+      {
+        "q": "What block cuts stone into stairs and slabs without wasting material?",
+        "a": "Stonecutter"
+      },
+      {
+        "q": "What block is used to apply patterns to banners?",
+        "a": "Loom"
+      },
+      {
+        "q": "What container works like a chest but still opens with a block on top of it?",
+        "a": "Barrel"
+      },
+      {
+        "q": "What block cooks food slowly without needing any fuel and smokes upward?",
+        "a": "Campfire"
+      },
+      {
+        "q": "What village block can be rung to warn everyone of an attack?",
+        "a": "Bell"
+      },
+      {
+        "q": "What mob rides a spider to form a jockey in the Overworld?",
+        "a": "Skeleton"
+      },
+      {
+        "q": "What does a creeper become when lightning strikes it?",
+        "a": "Charged creeper"
+      },
+      {
+        "q": "In which type of biome does emerald ore generate?",
+        "a": "Mountains"
+      },
+      {
+        "q": "What sword enchantment increases the loot mobs drop?",
+        "a": "Looting"
+      },
+      {
+        "q": "What sword enchantment sets the target on fire?",
+        "a": "Fire Aspect"
+      },
+      {
+        "q": "What boots enchantment reduces the damage you take from falling?",
+        "a": "Feather Falling"
+      },
+      {
+        "q": "What helmet enchantment extends how long you can hold your breath underwater?",
+        "a": "Respiration"
+      },
+      {
+        "q": "What hostile mob throws splash potions at you?",
+        "a": "Witch"
+      },
+      {
+        "q": "What robed traveller shows up with two leashed llamas and vanishes after a while?",
+        "a": "Wandering trader"
+      },
+      {
+        "q": "What small mossy cobblestone room underground contains a spawner and two chests?",
+        "a": "Dungeon"
+      },
+      {
+        "q": "What is the smallest number of obsidian blocks needed for a working Nether portal?",
+        "a": "10"
+      },
+      {
+        "q": "How many Overworld blocks does one block of Nether travel cover?",
+        "a": "8"
+      },
+      {
+        "q": "What two items are combined to craft an Eye of Ender?",
+        "a": "Ender pearl and blaze powder"
+      },
+      {
+        "q": "How many Eyes of Ender does a full End portal frame need?",
+        "a": "12"
+      },
+      {
+        "q": "What Nether beast turns into a Zoglin if it is brought to the Overworld?",
+        "a": "Hoglin"
+      },
+      {
+        "q": "What Nether biome is filled with blue fire and giant fossils?",
+        "a": "Soul Sand Valley"
+      },
+      {
+        "q": "What Nether biome is a bright red woodland of giant fungi?",
+        "a": "Crimson Forest"
+      },
+      {
+        "q": "What underwater structure is built of prismarine and hides gold blocks?",
+        "a": "Ocean monument"
+      },
+      {
+        "q": "What white mineral is mined in the Nether and used to craft comparators?",
+        "a": "Nether quartz"
       }
     ],
     "600": [
@@ -40805,6 +61201,186 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many health points does the Ender Dragon have?",
         "a": "200"
+      },
+      {
+        "q": "What block can a compass be locked onto so it always points back there?",
+        "a": "Lodestone"
+      },
+      {
+        "q": "What Nether biome is a bleak landscape of black spires and magma cubes?",
+        "a": "Basalt Deltas"
+      },
+      {
+        "q": "At what Y level does the Nether's great lava sea sit?",
+        "a": "31"
+      },
+      {
+        "q": "At what Y level is the Nether's solid bedrock roof?",
+        "a": "128"
+      },
+      {
+        "q": "How many iron blocks does a full four-layer beacon pyramid need?",
+        "a": "164"
+      },
+      {
+        "q": "How many blocks does a full-power beacon's effect reach?",
+        "a": "50"
+      },
+      {
+        "q": "What is the highest level of the Protection enchantment?",
+        "a": "4"
+      },
+      {
+        "q": "How many game ticks pass in one real second?",
+        "a": "20"
+      },
+      {
+        "q": "How many slots does a double chest hold?",
+        "a": "54"
+      },
+      {
+        "q": "How many slots does a shulker box hold?",
+        "a": "27"
+      },
+      {
+        "q": "In what year was Minecraft first made publicly playable?",
+        "a": "2009"
+      },
+      {
+        "q": "What was the free browser version of early Minecraft called?",
+        "a": "Classic"
+      },
+      {
+        "q": "What earlier mining game inspired Notch to start Minecraft?",
+        "a": "Infiniminer"
+      },
+      {
+        "q": "What file stores a Java Edition world's main save data?",
+        "a": "level.dat"
+      },
+      {
+        "q": "How many times a day does a villager normally restock its trades?",
+        "a": "Twice"
+      },
+      {
+        "q": "What is the top trading tier a villager can reach?",
+        "a": "Master"
+      },
+      {
+        "q": "What advancement is earned the first time you enter the Nether?",
+        "a": "We Need to Go Deeper"
+      },
+      {
+        "q": "What advancement is earned for defeating the Ender Dragon?",
+        "a": "Free the End"
+      },
+      {
+        "q": "What advancement is earned for killing a skeleton from over fifty blocks away?",
+        "a": "Sniper Duel"
+      },
+      {
+        "q": "What decorative armour feature was added in the Trails and Tales update?",
+        "a": "Armor trims"
+      },
+      {
+        "q": "What smithing template is found only in woodland mansions?",
+        "a": "Vex armor trim"
+      },
+      {
+        "q": "What orange material is harvested from a creaking heart block?",
+        "a": "Resin"
+      },
+      {
+        "q": "What 2025 update added the rideable friendly ghast?",
+        "a": "Chase the Skies"
+      },
+      {
+        "q": "What was the 1.21.4 update called?",
+        "a": "The Garden Awakens"
+      },
+      {
+        "q": "What was the 1.21.5 update called?",
+        "a": "Spring to Life"
+      },
+      {
+        "q": "What is a minecart's top speed on powered rails in blocks per second?",
+        "a": "8"
+      },
+      {
+        "q": "What brewing ingredient flips a potion into its opposite effect?",
+        "a": "Fermented spider eye"
+      },
+      {
+        "q": "What ingredient is added to a potion to make its effect last longer?",
+        "a": "Redstone"
+      },
+      {
+        "q": "What ingredient is added to a potion to make its effect stronger?",
+        "a": "Glowstone dust"
+      },
+      {
+        "q": "What overgrown structure hides arrow traps and a lever puzzle in dense forest?",
+        "a": "Jungle temple"
+      },
+      {
+        "q": "Which Minecraft YouTuber was accused of cheating in a 2020 speedrun?",
+        "a": "Dream"
+      },
+      {
+        "q": "What invite-only Minecraft server series has been running since 2012?",
+        "a": "Hermitcraft"
+      },
+      {
+        "q": "What bottled item makes a trial chamber's challenge harder?",
+        "a": "Ominous bottle"
+      },
+      {
+        "q": "What redstone component acts as an inverter when placed on a block's side?",
+        "a": "Redstone torch"
+      },
+      {
+        "q": "What block, placed above a cauldron, slowly drips lava or water into it?",
+        "a": "Pointed dripstone"
+      },
+      {
+        "q": "What flightless bird lost the 2023 mob vote?",
+        "a": "Penguin"
+      },
+      {
+        "q": "What pinching sea creature lost the 2023 mob vote?",
+        "a": "Crab"
+      },
+      {
+        "q": "How many health points does an iron golem have?",
+        "a": "100"
+      },
+      {
+        "q": "How much durability does a diamond pickaxe have?",
+        "a": "1561"
+      },
+      {
+        "q": "How much durability does a netherite pickaxe have?",
+        "a": "2031"
+      },
+      {
+        "q": "What small swamp structure contains a cauldron and a black cat?",
+        "a": "Witch hut"
+      },
+      {
+        "q": "What mob is able to pick up a block and carry it around?",
+        "a": "Enderman"
+      },
+      {
+        "q": "What axe-wielding illager guards woodland mansions?",
+        "a": "Vindicator"
+      },
+      {
+        "q": "What seasonally named 2010 update brought the Nether into the game?",
+        "a": "Halloween Update"
+      },
+      {
+        "q": "What version first added the End dimension and its dragon?",
+        "a": "1.0"
       }
     ]
   },
@@ -41069,6 +61645,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the sandworm mini-boss on Scorched Earth?",
         "a": "Deathworm"
+      },
+      {
+        "q": "What is the name of ARK's Christmas-time seasonal event?",
+        "a": "Winter Wonderland"
+      },
+      {
+        "q": "What structure do you build to make stews, dyes and kibble?",
+        "a": "Cooking Pot"
+      },
+      {
+        "q": "What structure automatically feeds nearby tamed creatures from its inventory?",
+        "a": "Feeding Trough"
+      },
+      {
+        "q": "What powered appliance keeps food and meat from spoiling the longest?",
+        "a": "Refrigerator"
+      },
+      {
+        "q": "What crafted drink slowly restores a survivor's health?",
+        "a": "Medical Brew"
+      },
+      {
+        "q": "What simple wooden vehicle lets survivors build a floating base?",
+        "a": "Raft"
+      },
+      {
+        "q": "What handheld device displays your exact map coordinates?",
+        "a": "GPS"
+      },
+      {
+        "q": "What handheld device lets tribemates talk to each other over long distances?",
+        "a": "Radio"
+      },
+      {
+        "q": "What horned theropod of The Island is smaller and faster than a Rex?",
+        "a": "Carnotaurus"
+      },
+      {
+        "q": "What crocodile-like predator patrols ARK's swamps and rivers?",
+        "a": "Sarcosuchus"
+      },
+      {
+        "q": "What woolly livestock animal is sheared for a soft crafting material?",
+        "a": "Ovis"
+      },
+      {
+        "q": "What do you produce by cooking berries with charcoal in a cooking pot?",
+        "a": "Dye"
+      },
+      {
+        "q": "What tool do you craft to pull fish out of the water from a dock?",
+        "a": "Fishing Rod"
+      },
+      {
+        "q": "What stringy resource gathered from bushes is needed for cloth armor and rope?",
+        "a": "Fiber"
+      },
+      {
+        "q": "What resource taken from dead animals is used for saddles and sleeping bags?",
+        "a": "Hide"
+      },
+      {
+        "q": "What clear resource mined in mountain caves is required for scopes and electronics?",
+        "a": "Crystal"
+      },
+      {
+        "q": "What condition sets in when a survivor stays in the snow without warm clothing?",
+        "a": "Hypothermia"
+      },
+      {
+        "q": "What thrown weapon is the earliest ranged option a survivor crafts?",
+        "a": "Spear"
+      },
+      {
+        "q": "What glass-walled building lets crops grow far faster?",
+        "a": "Greenhouse"
+      },
+      {
+        "q": "What structure shoots at enemies on its own using bullets?",
+        "a": "Auto Turret"
+      },
+      {
+        "q": "What large tank stores water to feed a base's irrigation pipes?",
+        "a": "Water Reservoir"
+      },
+      {
+        "q": "What is the first small container survivors build to hold spare items?",
+        "a": "Storage Box"
+      },
+      {
+        "q": "What simple ranged weapon flings a stone and raises torpor?",
+        "a": "Slingshot"
+      },
+      {
+        "q": "What small pig-like creature is one of the easiest beach tames?",
+        "a": "Phiomia"
+      },
+      {
+        "q": "What single-use respawn item can be dropped almost anywhere in the world?",
+        "a": "Sleeping Bag"
+      },
+      {
+        "q": "What structure do players place to write messages or label their storage?",
+        "a": "Sign"
+      },
+      {
+        "q": "What huge ape grabs survivors and hurls them through the air?",
+        "a": "Gigantopithecus"
+      },
+      {
+        "q": "What giant spider shoots webbing to slow its prey?",
+        "a": "Araneo"
+      },
+      {
+        "q": "What antlered deer-like creature roams the snow and redwood regions?",
+        "a": "Megaloceros"
+      },
+      {
+        "q": "What shaggy horned mammal builds up speed for a devastating charge?",
+        "a": "Woolly Rhino"
+      },
+      {
+        "q": "What armor set makes a survivor much harder for wild creatures to notice?",
+        "a": "Ghillie Armor"
+      },
+      {
+        "q": "What metal armor set is crafted in a Smithy for solid mid-game protection?",
+        "a": "Flak Armor"
+      },
+      {
+        "q": "What ground trap snaps shut and holds a player in place?",
+        "a": "Bear Trap"
+      },
+      {
+        "q": "What crossbow-fired item lets a survivor pull themselves up a cliff?",
+        "a": "Grappling Hook"
+      },
+      {
+        "q": "What yellow mineral is mined in the desert and used to make explosives?",
+        "a": "Sulfur"
+      },
+      {
+        "q": "What flying mammal swarms survivors inside ARK's caves?",
+        "a": "Onyc"
+      },
+      {
+        "q": "What giant ants attack survivors in aggressive swarms?",
+        "a": "Titanomyrma"
+      },
+      {
+        "q": "What hand-thrown explosive is one of the first a survivor can craft?",
+        "a": "Grenade"
+      },
+      {
+        "q": "What is left over when raw meat rots, and is used to make narcotics?",
+        "a": "Spoiled Meat"
+      },
+      {
+        "q": "What player stat determines how long you can stay underwater?",
+        "a": "Oxygen"
       }
     ],
     "400": [
@@ -41339,6 +62075,202 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the item that lets you see a wild creature's level and stats from afar?",
         "a": "Spyglass"
+      },
+      {
+        "q": "What free map released in June 2019 introduced the Deinonychus?",
+        "a": "Valguero"
+      },
+      {
+        "q": "What free map released in December 2021 introduced the Dinopithecus?",
+        "a": "Lost Island"
+      },
+      {
+        "q": "In which year did the Aberration expansion release?",
+        "a": "2017"
+      },
+      {
+        "q": "In which year did the Extinction expansion release?",
+        "a": "2018"
+      },
+      {
+        "q": "In which year did Genesis Part 2 release?",
+        "a": "2021"
+      },
+      {
+        "q": "What is the top tier of kibble in the reworked kibble system?",
+        "a": "Extraordinary Kibble"
+      },
+      {
+        "q": "What structure keeps cryopods charged so they never run out?",
+        "a": "Cryofridge"
+      },
+      {
+        "q": "What machine breaks crafted items back down into some of their resources?",
+        "a": "Industrial Grinder"
+      },
+      {
+        "q": "What powered station doubles the yield when making gunpowder or narcotics?",
+        "a": "Chemistry Bench"
+      },
+      {
+        "q": "What structure needs both water and gasoline to mass-produce meals?",
+        "a": "Industrial Cooker"
+      },
+      {
+        "q": "What structure provides insulation so fertilized eggs can hatch indoors?",
+        "a": "Air Conditioner"
+      },
+      {
+        "q": "What Tek structure instantly moves players and tames between two set points?",
+        "a": "Tek Teleporter"
+      },
+      {
+        "q": "What fuel does the Industrial Forge burn?",
+        "a": "Gasoline"
+      },
+      {
+        "q": "What curved metal tool is best for harvesting fiber and rare mushrooms?",
+        "a": "Sickle"
+      },
+      {
+        "q": "What lightweight armor set is designed to survive Scorched Earth's heat?",
+        "a": "Desert Cloth Armor"
+      },
+      {
+        "q": "What crafted drink instantly restores a big chunk of stamina?",
+        "a": "Energy Brew"
+      },
+      {
+        "q": "What illness does a Diseased Leech give a survivor?",
+        "a": "Swamp Fever"
+      },
+      {
+        "q": "What consumable makes insects leave a survivor alone?",
+        "a": "Bug Repellant"
+      },
+      {
+        "q": "What consumable lets a player reassign every spent stat and engram point?",
+        "a": "Mindwipe Tonic"
+      },
+      {
+        "q": "What three colours are ARK's obelisks?",
+        "a": "Red, green and blue"
+      },
+      {
+        "q": "What creature must be defeated in Crystal Isles' boss arena?",
+        "a": "Crystal Wyvern Queen"
+      },
+      {
+        "q": "What Extinction creature inflates itself to float and bounce across the map?",
+        "a": "Gasbags"
+      },
+      {
+        "q": "What swamp predator drags riders off the back of their mounts?",
+        "a": "Kaprosuchus"
+      },
+      {
+        "q": "What small feathered creature knocks players off whatever they are riding?",
+        "a": "Microraptor"
+      },
+      {
+        "q": "What flyer seats three survivors, two of them standing on its sides?",
+        "a": "Tapejara"
+      },
+      {
+        "q": "What pack-hunting theropod leaves its victims bleeding?",
+        "a": "Allosaurus"
+      },
+      {
+        "q": "What long-clawed herbivore is prized as a mid-game combat mount?",
+        "a": "Therizinosaurus"
+      },
+      {
+        "q": "What horse-like creature is tamed by riding it while feeding it?",
+        "a": "Equus"
+      },
+      {
+        "q": "What rare single-horned mount spawns only once at a time per map?",
+        "a": "Unicorn"
+      },
+      {
+        "q": "What drifting sea creature stuns swimmers and drains their stamina?",
+        "a": "Cnidaria"
+      },
+      {
+        "q": "What eel-like fish delivers a paralysing electric shock underwater?",
+        "a": "Electrophorus"
+      },
+      {
+        "q": "What enormous fish smashes rafts to pieces in open water?",
+        "a": "Leedsichthys"
+      },
+      {
+        "q": "What Aberration equipment lets a survivor scale sheer rock walls?",
+        "a": "Climbing Pick"
+      },
+      {
+        "q": "What Aberration equipment lets a survivor glide through the air?",
+        "a": "Glider Suit"
+      },
+      {
+        "q": "What large siege weapon fires heavy bolts at enemy bases?",
+        "a": "Ballista Turret"
+      },
+      {
+        "q": "What remote-detonated explosive is stuck onto walls during raids?",
+        "a": "C4"
+      },
+      {
+        "q": "What gasoline-powered tool strips hide from corpses far faster than a hatchet?",
+        "a": "Chainsaw"
+      },
+      {
+        "q": "What component is crafted from crystal and metal in a Fabricator?",
+        "a": "Electronics"
+      },
+      {
+        "q": "What substance made from oil and sulfur fuels flamethrowers and rockets?",
+        "a": "Propellant"
+      },
+      {
+        "q": "What term describes attacking a tribe's base while its members are logged off?",
+        "a": "Offline raiding"
+      },
+      {
+        "q": "What seagull-like bird snatches food straight out of your hands?",
+        "a": "Ichthyornis"
+      },
+      {
+        "q": "What hive product is used to lure wild creatures towards a trap?",
+        "a": "Giant Bee Honey"
+      },
+      {
+        "q": "What desert plant ingredient is mixed with sand to make clay?",
+        "a": "Cactus Sap"
+      },
+      {
+        "q": "What is the highest quality tier a weapon, saddle or armour can roll?",
+        "a": "Ascendant"
+      },
+      {
+        "q": "What river theropod stuns fish and reptiles with a spinning tail attack?",
+        "a": "Baryonyx"
+      },
+      {
+        "q": "What dome-headed dinosaur knocks enemies flying with a running headbutt?",
+        "a": "Pachycephalosaurus"
+      },
+      {
+        "q": "What spiky herbivore reflects damage back at anything that bites it?",
+        "a": "Kentrosaurus"
+      },
+      {
+        "q": "What horned herbivore releases a calming cloud that pacifies nearby wild creatures?",
+        "a": "Pachyrhinosaurus"
+      },
+      {
+        "q": "What long-necked sauropod deals no damage at all and simply carries passengers?",
+        "a": "Diplodocus"
       }
     ],
     "600": [
@@ -41637,6 +62569,210 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the illness a creature gets after being released from a cryopod too soon?",
         "a": "Cryo Sickness"
+      },
+      {
+        "q": "What is the name of the ocean boss of Genesis Part 1?",
+        "a": "Moeder"
+      },
+      {
+        "q": "Which two bosses are fought together in Ragnarok's arena?",
+        "a": "Dragon and Manticore"
+      },
+      {
+        "q": "What molten mini-boss guards a lava cave on Ragnarok?",
+        "a": "Lava Elemental"
+      },
+      {
+        "q": "What burrowing mini-boss rules Ragnarok's frozen cave?",
+        "a": "Ice Worm Queen"
+      },
+      {
+        "q": "What Aberration creature is tamed by feeding it fertilized Rock Drake eggs?",
+        "a": "Basilisk"
+      },
+      {
+        "q": "What glowing Aberration shoulder pet resembles a tiny deer?",
+        "a": "Shinehorn"
+      },
+      {
+        "q": "What glowing Aberration shoulder pet resembles a small bird?",
+        "a": "Featherlight"
+      },
+      {
+        "q": "What flying Aberration enemy stuns survivors in the deepest dark zones?",
+        "a": "Seeker"
+      },
+      {
+        "q": "What Aberration structure is placed on a vent to gather gas?",
+        "a": "Gas Collector"
+      },
+      {
+        "q": "What mushroom-based material replaces ordinary lumber on Aberration?",
+        "a": "Fungal Wood"
+      },
+      {
+        "q": "What Genesis Part 1 predator hangs in the trees and grapples survivors with webbing?",
+        "a": "Bloodstalker"
+      },
+      {
+        "q": "What item made from your own health is fed to tame a Bloodstalker?",
+        "a": "Blood Pack"
+      },
+      {
+        "q": "What colossal turtle on Genesis Part 1 carries an ecosystem on its shell?",
+        "a": "Megachelon"
+      },
+      {
+        "q": "What Genesis resource from the lunar biome is fed to a Magmasaur?",
+        "a": "Ambergris"
+      },
+      {
+        "q": "What Genesis Part 1 creature swells into a hulking brute when fed Element?",
+        "a": "Ferox"
+      },
+      {
+        "q": "What lion-like Genesis Part 2 predator can teleport short distances?",
+        "a": "Shadowmane"
+      },
+      {
+        "q": "What Tek wyvern prowls the space biome of Genesis Part 2?",
+        "a": "Voidwyrm"
+      },
+      {
+        "q": "What hovering Tek vehicle from Genesis Part 2 can carry whole structures?",
+        "a": "Tek Hover Skiff"
+      },
+      {
+        "q": "What structure lets you watch and fine-tune a fertilized egg's hatching?",
+        "a": "Egg Incubator"
+      },
+      {
+        "q": "What Fjordur bird flies back to you carrying your bag after you die?",
+        "a": "Fjordhawk"
+      },
+      {
+        "q": "What Fjordur bat drains blood from creatures to heal itself?",
+        "a": "Desmodus"
+      },
+      {
+        "q": "What tiny Lost Island flyer clings to a survivor's back?",
+        "a": "Sinomacrops"
+      },
+      {
+        "q": "What Lost Island sauropod has tall spines running along its neck?",
+        "a": "Amargasaurus"
+      },
+      {
+        "q": "What raptor-like creature introduced on Valguero can climb cliff faces?",
+        "a": "Deinonychus"
+      },
+      {
+        "q": "What armoured prehistoric fish gathers metal and stone from underwater rocks?",
+        "a": "Dunkleosteus"
+      },
+      {
+        "q": "What ocean giant can only be held briefly and grants a loot-luck buff?",
+        "a": "Liopleurodon"
+      },
+      {
+        "q": "What sea scorpion is hunted in shallow water for black pearls?",
+        "a": "Eurypterid"
+      },
+      {
+        "q": "What diving bird lays a golden egg that grants a huge experience boost?",
+        "a": "Hesperornis"
+      },
+      {
+        "q": "What flyer is able to land and rest on the ocean surface?",
+        "a": "Pelagornis"
+      },
+      {
+        "q": "What weapon fires spears and explosive rounds while submerged?",
+        "a": "Harpoon Launcher"
+      },
+      {
+        "q": "What soup shields a survivor from extreme heat?",
+        "a": "Calien Soup"
+      },
+      {
+        "q": "What curry shields a survivor from extreme cold?",
+        "a": "Fria Curry"
+      },
+      {
+        "q": "What cooked dish sharpens a survivor's vision at night?",
+        "a": "Shadow Steak Saute"
+      },
+      {
+        "q": "What consumable grants a large temporary boost to experience gained?",
+        "a": "Broth of Enlightenment"
+      },
+      {
+        "q": "What spicy dish speeds up a survivor's crafting?",
+        "a": "Focal Chili"
+      },
+      {
+        "q": "What dish massively boosts damage and speed while draining your health?",
+        "a": "Battle Tartare"
+      },
+      {
+        "q": "What stew lets a survivor hold their breath far longer underwater?",
+        "a": "Lazarus Chowder"
+      },
+      {
+        "q": "What baked treat is fed to an Ovis to tame it?",
+        "a": "Sweet Vegetable Cake"
+      },
+      {
+        "q": "What crafted medicine cures Swamp Fever?",
+        "a": "Lesser Antidote"
+      },
+      {
+        "q": "What crafted item strips paint and dye off structures?",
+        "a": "Soap"
+      },
+      {
+        "q": "What building piece keeps the water out of a submerged base?",
+        "a": "Vacuum Compartment"
+      },
+      {
+        "q": "What structure lets a tribe upload tames and items from home instead of an obelisk?",
+        "a": "Tek Transmitter"
+      },
+      {
+        "q": "What did Helena become by the end of Aberration's storyline?",
+        "a": "Homo Deus"
+      },
+      {
+        "q": "What giant desert moth is harvested for silk?",
+        "a": "Lymantria"
+      },
+      {
+        "q": "What gasoline-powered tool introduced in Genesis mines resources rapidly?",
+        "a": "Mining Drill"
+      },
+      {
+        "q": "What Scorched Earth resource keeps food fresh without any power?",
+        "a": "Preserving Salt"
+      },
+      {
+        "q": "What is the name of the premium story DLC bundle for ARK: Survival Ascended?",
+        "a": "Bob's Tall Tales"
+      },
+      {
+        "q": "Which piece of Tek armour gives a survivor a jetpack?",
+        "a": "Tek Chestpiece"
+      },
+      {
+        "q": "Which piece of Tek armour grants night vision?",
+        "a": "Tek Helmet"
+      },
+      {
+        "q": "What undead version of a common flightless bird appears during ARK's Halloween event?",
+        "a": "Zomdodo"
+      },
+      {
+        "q": "How many players can be on one official ARK server at a time?",
+        "a": "70"
       }
     ]
   },
@@ -41893,6 +63029,82 @@ const QUALITY_BACKFILL = {
       {
         "q": "What device does Howard design for the International Space Station that malfunctions?",
         "a": "A zero-gravity toilet"
+      },
+      {
+        "q": "In which year did the series air its final episode?",
+        "a": "2019"
+      },
+      {
+        "q": "Which member of the group never learns to drive and depends on friends for rides?",
+        "a": "Sheldon"
+      },
+      {
+        "q": "Which weekend war game do the friends play together in camouflage gear?",
+        "a": "Paintball"
+      },
+      {
+        "q": "Sheldon insists he is not crazy because his mother had him what?",
+        "a": "Tested"
+      },
+      {
+        "q": "Which Star Trek officer does Sheldon idolise and quote above all others?",
+        "a": "Spock"
+      },
+      {
+        "q": "What affectionate label does Amy use for Penny as her closest friend?",
+        "a": "Bestie"
+      },
+      {
+        "q": "What kind of graphic T-shirts does Sheldon wear almost every day?",
+        "a": "Superhero shirts"
+      },
+      {
+        "q": "Which of the four male friends becomes a father during the series?",
+        "a": "Howard"
+      },
+      {
+        "q": "Which winter holiday does Sheldon dread because of the obligation to exchange gifts?",
+        "a": "Christmas"
+      },
+      {
+        "q": "What form of humour does Sheldon famously fail to detect?",
+        "a": "Sarcasm"
+      },
+      {
+        "q": "Which recurring friend of the group constantly makes gloomy jokes about his own miserable life?",
+        "a": "Stuart"
+      },
+      {
+        "q": "What title does Howard remind everyone he holds after his 2012 mission?",
+        "a": "Astronaut"
+      },
+      {
+        "q": "Which of the women is known for an unusually high, squeaky voice?",
+        "a": "Bernadette"
+      },
+      {
+        "q": "Which real-life physicist guest stars and catches an arithmetic mistake in Sheldon's paper?",
+        "a": "Stephen Hawking"
+      },
+      {
+        "q": "What news do Leonard and Penny share near the end of the final season?",
+        "a": "Penny is pregnant"
+      },
+      {
+        "q": "Where at work do the four friends eat lunch together in most episodes?",
+        "a": "The cafeteria"
+      },
+      {
+        "q": "Who eventually moves out of apartment 4A to live across the hall with Amy?",
+        "a": "Sheldon"
+      },
+      {
+        "q": "Which friend shares an inseparable, almost couple-like bond with Howard?",
+        "a": "Raj"
+      },
+      {
+        "q": "Which member of the main group has no scientific training at all?",
+        "a": "Penny"
       }
     ],
     "400": [
@@ -42123,6 +63335,114 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which character does Leonard kiss on a ship in the North Sea, causing a rift with Penny?",
         "a": "Mandy"
+      },
+      {
+        "q": "In which city do Sheldon and Amy collect their prize at the end of the series?",
+        "a": "Stockholm"
+      },
+      {
+        "q": "In which season finale do Howard and Bernadette get married?",
+        "a": "Five"
+      },
+      {
+        "q": "Which comic-book speedster's costume do all four guys turn up in at Penny's Halloween party?",
+        "a": "The Flash"
+      },
+      {
+        "q": "Which British science-fiction series about a travelling alien are the guys devoted fans of?",
+        "a": "Doctor Who"
+      },
+      {
+        "q": "What kind of memory does Sheldon claim to have, letting him recall everything he reads?",
+        "a": "Eidetic"
+      },
+      {
+        "q": "What does Mary Cooper call her son Sheldon?",
+        "a": "Shelly"
+      },
+      {
+        "q": "In which Indian city do Raj's parents live?",
+        "a": "New Delhi"
+      },
+      {
+        "q": "What job did Bernadette hold when Howard first met her?",
+        "a": "Waitress"
+      },
+      {
+        "q": "Which online multiplayer game does Penny become addicted to after Sheldon shows it to her?",
+        "a": "World of Warcraft"
+      },
+      {
+        "q": "Which word game does Sheldon insist on playing in Klingon?",
+        "a": "Boggle"
+      },
+      {
+        "q": "What treat does Sheldon hand Penny each time she behaves well in his behaviour experiment?",
+        "a": "Chocolate"
+      },
+      {
+        "q": "Where do Sheldon and Amy meet for the very first time?",
+        "a": "A coffee shop"
+      },
+      {
+        "q": "Which two friends secretly enter Sheldon into the dating site that finds him Amy?",
+        "a": "Howard and Raj"
+      },
+      {
+        "q": "What is the name of the dim ex-boyfriend Penny discovers she is still legally married to?",
+        "a": "Zack"
+      },
+      {
+        "q": "What Christmas present from Penny moves Sheldon so much that he hugs her?",
+        "a": "A signed napkin"
+      },
+      {
+        "q": "Which basic skill did Sheldon never learn, practising it instead on his living-room floor?",
+        "a": "Swimming"
+      },
+      {
+        "q": "Which dashboard warning light has Penny ignored on her car for years?",
+        "a": "Check engine"
+      },
+      {
+        "q": "Sheldon threatens to add anyone who crosses him to what?",
+        "a": "His enemies list"
+      },
+      {
+        "q": "Which academic competition does Sheldon quit before forming a rival team against his friends?",
+        "a": "The Physics Bowl"
+      },
+      {
+        "q": "Whose mother wrote a book about raising him as a scientific experiment?",
+        "a": "Leonard's"
+      },
+      {
+        "q": "How many characters make up the show's core group by the later seasons?",
+        "a": "Seven"
+      },
+      {
+        "q": "In which year did the prequel series about Sheldon's childhood premiere?",
+        "a": "2017"
+      },
+      {
+        "q": "Which language does Sheldon try to learn so he can complain to a Chinese restaurant?",
+        "a": "Mandarin"
+      },
+      {
+        "q": "Which geologist does Sheldon refuse to accept as a real scientist?",
+        "a": "Bert"
+      },
+      {
+        "q": "How many children do Howard and Bernadette have?",
+        "a": "Two"
+      },
+      {
+        "q": "In which season does Raj finally speak to women without needing a drink?",
+        "a": "Six"
+      },
+      {
+        "q": "Who sets Howard up on the blind date where he meets Bernadette?",
+        "a": "Penny"
       }
     ],
     "600": [
@@ -42385,6 +63705,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "What robotic device gets stuck on Howard and sends him to the emergency room?",
         "a": "A robot hand"
+      },
+      {
+        "q": "Which comics legend takes out a restraining order against Sheldon?",
+        "a": "Stan Lee"
+      },
+      {
+        "q": "Which Apple co-founder does Sheldon meet at the Cheesecake Factory?",
+        "a": "Steve Wozniak"
+      },
+      {
+        "q": "Which Star Trek: The Next Generation star does Sheldon lure to his apartment through social media?",
+        "a": "LeVar Burton"
+      },
+      {
+        "q": "Whose doorbell do Sheldon and James Earl Jones ring before she chases them off?",
+        "a": "Carrie Fisher"
+      },
+      {
+        "q": "Which tech billionaire does Howard end up washing dishes beside at a soup kitchen?",
+        "a": "Elon Musk"
+      },
+      {
+        "q": "Which software billionaire visits Penny's pharmaceutical company, thrilling Bernadette?",
+        "a": "Bill Gates"
+      },
+      {
+        "q": "Which genius grant does Bert win, making Sheldon furiously jealous?",
+        "a": "MacArthur Fellowship"
+      },
+      {
+        "q": "What is the first name of the screenwriter Raj dates in season nine?",
+        "a": "Claire"
+      },
+      {
+        "q": "What is the first name of Penny's meth-cooking brother?",
+        "a": "Randall"
+      },
+      {
+        "q": "What is the first name of Penny's mother?",
+        "a": "Susan"
+      },
+      {
+        "q": "What was the secret profession of Leonard's ex-girlfriend Joyce Kim?",
+        "a": "North Korean spy"
+      },
+      {
+        "q": "How old was Sheldon when his father died?",
+        "a": "14"
+      },
+      {
+        "q": "At what age did Sheldon start college?",
+        "a": "11"
+      },
+      {
+        "q": "Which award did Sheldon win at fourteen, making him its youngest recipient?",
+        "a": "The Stevenson Award"
+      },
+      {
+        "q": "What IQ does Leonard state that he has?",
+        "a": "173"
+      },
+      {
+        "q": "Sheldon praises 73 partly because it is which prime number in order?",
+        "a": "The 21st"
+      },
+      {
+        "q": "What is the medical speciality of Raj's father?",
+        "a": "Gynecologist"
+      },
+      {
+        "q": "Which branch of physics is Barry Kripke's speciality?",
+        "a": "Plasma physics"
+      },
+      {
+        "q": "Which research topic does Sheldon move to after abandoning string theory?",
+        "a": "Dark matter"
+      },
+      {
+        "q": "What do Sheldon, Howard and Leonard jointly develop for the US Air Force?",
+        "a": "A guidance system"
+      },
+      {
+        "q": "Whose ring does Sheldon use when he proposes to Amy?",
+        "a": "His Meemaw's"
+      },
+      {
+        "q": "Why does Mark Hamill agree to officiate a wedding on the show?",
+        "a": "Howard found his dog"
+      },
+      {
+        "q": "Which two Apollo 11 astronauts inspire the name of Howard and Bernadette's son?",
+        "a": "Armstrong and Collins"
+      },
+      {
+        "q": "Which ancient Roman festival does Sheldon say he would rather observe in December?",
+        "a": "Saturnalia"
+      },
+      {
+        "q": "What is the name of the alternate-history guessing game Sheldon invents?",
+        "a": "Counterfactuals"
+      },
+      {
+        "q": "What special clothing does Sheldon design for the group's commute by bus?",
+        "a": "Bus pants"
+      },
+      {
+        "q": "What does Sheldon build so he can attend work without leaving his apartment?",
+        "a": "A virtual presence device"
+      },
+      {
+        "q": "What flowchart does Sheldon draw up to help him befriend Barry Kripke?",
+        "a": "The Friendship Algorithm"
+      },
+      {
+        "q": "What flower-shaped hair accessory does the gang mass-produce in an all-night sweatshop session?",
+        "a": "Penny Blossoms"
+      },
+      {
+        "q": "Sheldon abandons his favourite Chinese restaurant after learning the tangerine chicken is really what?",
+        "a": "Orange chicken"
+      },
+      {
+        "q": "What was the name of the female lead in the show's unaired original pilot?",
+        "a": "Katie"
+      },
+      {
+        "q": "How many episodes are in the first season?",
+        "a": "17"
+      },
+      {
+        "q": "Which industry walkout cut the show's first season short?",
+        "a": "The writers' strike"
+      },
+      {
+        "q": "How many episodes are in the twelfth season?",
+        "a": "24"
+      },
+      {
+        "q": "In which month of 2019 did the series finale air?",
+        "a": "May"
+      },
+      {
+        "q": "What is the title of the series finale?",
+        "a": "The Stockholm Syndrome"
+      },
+      {
+        "q": "What is the title of the show's very first episode?",
+        "a": "Pilot"
+      },
+      {
+        "q": "Which 2024 spin-off follows Sheldon's older brother and his wife?",
+        "a": "Georgie & Mandy's First Marriage"
+      },
+      {
+        "q": "How old was Howard when his father walked out on the family?",
+        "a": "11"
+      },
+      {
+        "q": "What is the first name of the man Amy dates during her break from Sheldon?",
+        "a": "Dave"
       }
     ]
   },
@@ -42597,6 +64077,146 @@ const QUALITY_BACKFILL = {
       {
         "q": "What causes Carl's death?",
         "a": "A walker bite"
+      },
+      {
+        "q": "What animal does Rick ride into Atlanta in the first season?",
+        "a": "A horse"
+      },
+      {
+        "q": "What flower does Daryl bring Carol during the search for her missing daughter?",
+        "a": "A Cherokee rose"
+      },
+      {
+        "q": "What do the survivors smear on themselves so they can walk unnoticed among the dead?",
+        "a": "Walker guts"
+      },
+      {
+        "q": "What is Carol's surname?",
+        "a": "Peletier"
+      },
+      {
+        "q": "In which US state is the Alexandria Safe-Zone located?",
+        "a": "Virginia"
+      },
+      {
+        "q": "Who wears Carl's sheriff hat after his death?",
+        "a": "Judith"
+      },
+      {
+        "q": "Which small animals does Daryl hunt to feed the group during the farm era?",
+        "a": "Squirrels"
+      },
+      {
+        "q": "Where is Sophia found in the season 2 midseason finale?",
+        "a": "Hershel's barn"
+      },
+      {
+        "q": "Who fires the shot that puts Sophia down?",
+        "a": "Rick"
+      },
+      {
+        "q": "What was Hershel keeping locked inside his barn?",
+        "a": "Walkers"
+      },
+      {
+        "q": "Which season introduces the Kingdom?",
+        "a": "Season 7"
+      },
+      {
+        "q": "What does Beth do to comfort the group at the prison?",
+        "a": "Sings"
+      },
+      {
+        "q": "What is the title of the very first episode of the series?",
+        "a": "Days Gone Bye"
+      },
+      {
+        "q": "What kind of building is Father Gabriel holed up in when the group finds him?",
+        "a": "A church"
+      },
+      {
+        "q": "What is the title of the season 1 finale set at the CDC?",
+        "a": "TS-19"
+      },
+      {
+        "q": "What does the CDC run out of, triggering its self-destruct?",
+        "a": "Fuel"
+      },
+      {
+        "q": "What kind of site is the group's first camp outside Atlanta built beside?",
+        "a": "A quarry"
+      },
+      {
+        "q": "Who was leading the camp outside Atlanta before Rick found it?",
+        "a": "Shane"
+      },
+      {
+        "q": "At the end of which season does Negan first appear?",
+        "a": "Season 6"
+      },
+      {
+        "q": "What weapon does Morgan favour in his later seasons?",
+        "a": "A staff"
+      },
+      {
+        "q": "What harmless role does Carol pretend to fill when she first settles in Alexandria?",
+        "a": "A homemaker"
+      },
+      {
+        "q": "Who leaves Merle cuffed to a pipe on the Atlanta rooftop?",
+        "a": "Rick"
+      },
+      {
+        "q": "What weapon does Judith carry once she is old enough to fight?",
+        "a": "A katana"
+      },
+      {
+        "q": "Which single letter is painted on the boxcar the group is locked in at Terminus?",
+        "a": "A"
+      },
+      {
+        "q": "Which spin-off follows a family in Los Angeles as the outbreak begins?",
+        "a": "Fear the Walking Dead"
+      },
+      {
+        "q": "What warning is scrawled on the chained hospital doors Rick passes after waking?",
+        "a": "Don't open, dead inside"
+      },
+      {
+        "q": "In which season does the prison fall?",
+        "a": "Season 4"
+      },
+      {
+        "q": "In which season does the group first arrive at Alexandria?",
+        "a": "Season 5"
+      },
+      {
+        "q": "In which season does Carl die?",
+        "a": "Season 8"
+      },
+      {
+        "q": "In which season does Rick leave the main series?",
+        "a": "Season 9"
+      },
+      {
+        "q": "What does the Governor lose in his first fight with Michonne?",
+        "a": "An eye"
+      },
+      {
+        "q": "Which Greene sister does Daryl spend most of season 5 searching for?",
+        "a": "Beth"
+      },
+      {
+        "q": "Where does the group hide when a herd walks the jammed highway?",
+        "a": "Under cars"
+      },
+      {
+        "q": "In which season do the survivors take over the prison?",
+        "a": "Season 3"
+      },
+      {
+        "q": "How does Rick try to reach Morgan every day in the first season?",
+        "a": "By radio"
       }
     ],
     "400": [
@@ -42923,6 +64543,174 @@ const QUALITY_BACKFILL = {
       {
         "q": "What model of revolver is Rick's signature gun?",
         "a": "Colt Python"
+      },
+      {
+        "q": "How does Rick kill the leader of the Claimers?",
+        "a": "Bites his throat"
+      },
+      {
+        "q": "What is the name of the man who leads the Claimers?",
+        "a": "Joe"
+      },
+      {
+        "q": "What single word do the Claimers shout to take ownership of something?",
+        "a": "Claimed"
+      },
+      {
+        "q": "What was Deanna's job before the outbreak?",
+        "a": "Congresswoman"
+      },
+      {
+        "q": "What martial art does Morgan learn during his time in the cabin?",
+        "a": "Aikido"
+      },
+      {
+        "q": "What weapon does Rick use to finish off Gareth inside the church?",
+        "a": "A machete"
+      },
+      {
+        "q": "What three letters does Enid live by and carve as her creed?",
+        "a": "JSS"
+      },
+      {
+        "q": "Who kills Denise with a crossbow bolt?",
+        "a": "Dwight"
+      },
+      {
+        "q": "Which Alexandrian shoots himself atop the dumpster while holding Glenn?",
+        "a": "Nicholas"
+      },
+      {
+        "q": "What does Rosita force Eugene to manufacture for her?",
+        "a": "A bullet"
+      },
+      {
+        "q": "Which Hilltop leader's head ends up on Alpha's pikes?",
+        "a": "Tara"
+      },
+      {
+        "q": "Who snaps the neck of the captive Randall?",
+        "a": "Shane"
+      },
+      {
+        "q": "Who amputates Hershel's bitten leg?",
+        "a": "Rick"
+      },
+      {
+        "q": "How does Andrea die at the end of the Woodbury conflict?",
+        "a": "She shoots herself"
+      },
+      {
+        "q": "Who puts down the reanimated Merle?",
+        "a": "Daryl"
+      },
+      {
+        "q": "Who shoots Merle at the abandoned meeting spot?",
+        "a": "The Governor"
+      },
+      {
+        "q": "What did Negan do for a living before the outbreak?",
+        "a": "Gym teacher"
+      },
+      {
+        "q": "Which member of Magna's group is Connie's sister?",
+        "a": "Kelly"
+      },
+      {
+        "q": "What are the smarter, climbing, tool-using dead called in the final season?",
+        "a": "Variants"
+      },
+      {
+        "q": "Who leads the Reapers?",
+        "a": "Pope"
+      },
+      {
+        "q": "Which of her sisters does Lizzie kill?",
+        "a": "Mika"
+      },
+      {
+        "q": "How does Jesus die at the walker-filled cemetery?",
+        "a": "Stabbed by a Whisperer"
+      },
+      {
+        "q": "Who shoots Dawn moments after Beth is killed?",
+        "a": "Daryl"
+      },
+      {
+        "q": "What does Carol shoot to blow open Terminus and free the group?",
+        "a": "A propane tank"
+      },
+      {
+        "q": "Who finds and cares for baby Judith after the prison falls?",
+        "a": "Tyreese"
+      },
+      {
+        "q": "In which season do the Reapers appear?",
+        "a": "Season 11"
+      },
+      {
+        "q": "Who stops Lori from reanimating after the C-section?",
+        "a": "Carl"
+      },
+      {
+        "q": "What kind of industrial building is the Saviors' base?",
+        "a": "A factory"
+      },
+      {
+        "q": "What kind of building serves as the Kingdom's headquarters?",
+        "a": "A high school"
+      },
+      {
+        "q": "Who takes charge of Alexandria after Rick disappears?",
+        "a": "Michonne"
+      },
+      {
+        "q": "Which cheerful axe-carrying aide never leaves Ezekiel's side?",
+        "a": "Jerry"
+      },
+      {
+        "q": "What word do the people of Woodbury use for the dead?",
+        "a": "Biters"
+      },
+      {
+        "q": "What do Daryl and Beth drink in the abandoned cabin before burning it down?",
+        "a": "Moonshine"
+      },
+      {
+        "q": "Which spin-off follows teenagers who leave a campus colony?",
+        "a": "World Beyond"
+      },
+      {
+        "q": "How many episodes are in the first season?",
+        "a": "Six"
+      },
+      {
+        "q": "Who is Aaron's partner in Alexandria?",
+        "a": "Eric"
+      },
+      {
+        "q": "At the end of which season does Andrea die?",
+        "a": "Season 3"
+      },
+      {
+        "q": "At which community celebration does Alpha abduct her ten victims?",
+        "a": "The fair"
+      },
+      {
+        "q": "Who drives the RV that leads the quarry herd away in the season 6 premiere?",
+        "a": "Rick"
+      },
+      {
+        "q": "What collapses onto the Alexandria wall and lets the herd inside?",
+        "a": "A church tower"
+      },
+      {
+        "q": "What vehicle do the Wolves send toward Alexandria with its horn blaring?",
+        "a": "A truck"
+      },
+      {
+        "q": "Which band of raiders extorts the Kingdom for tribute in season 9?",
+        "a": "The Highwaymen"
       }
     ],
     "600": [
@@ -43217,6 +65005,178 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which CRM officer recruits Rick into the military in The Ones Who Live?",
         "a": "Okafor"
+      },
+      {
+        "q": "Who leads the armed group holding the Atlanta building Glenn is taken to?",
+        "a": "Guillermo"
+      },
+      {
+        "q": "What were the armed men in Atlanta actually guarding?",
+        "a": "A nursing home"
+      },
+      {
+        "q": "Which family leaves the group after the first season to head for Birmingham?",
+        "a": "The Morales family"
+      },
+      {
+        "q": "Which inmate does Rick strike down with a machete inside the prison?",
+        "a": "Tomas"
+      },
+      {
+        "q": "Which surviving inmate is later picked off by a Woodbury sniper?",
+        "a": "Axel"
+      },
+      {
+        "q": "What is the name of Hershel's son, found among the barn walkers?",
+        "a": "Shawn"
+      },
+      {
+        "q": "What is the name of Hershel's wife, also among the barn walkers?",
+        "a": "Annette"
+      },
+      {
+        "q": "What is the name of Beth's boyfriend who dies during the assault on the farm?",
+        "a": "Jimmy"
+      },
+      {
+        "q": "In what kind of establishment does Rick shoot Dave and Tony?",
+        "a": "A bar"
+      },
+      {
+        "q": "What false first name does the Governor give Lilly's family?",
+        "a": "Brian"
+      },
+      {
+        "q": "What is the name of the little girl the Governor takes in after Woodbury?",
+        "a": "Meghan"
+      },
+      {
+        "q": "Which of Tara's sisters becomes the Governor's partner after Woodbury falls?",
+        "a": "Lilly"
+      },
+      {
+        "q": "What role did Bob Stookey serve in the army?",
+        "a": "Medic"
+      },
+      {
+        "q": "What was Eugene's real job before the outbreak?",
+        "a": "High school science teacher"
+      },
+      {
+        "q": "What was Sasha's occupation before the outbreak?",
+        "a": "Firefighter"
+      },
+      {
+        "q": "What was Michonne's profession before the outbreak?",
+        "a": "Lawyer"
+      },
+      {
+        "q": "What is the name of Michonne's young son who died before the show begins?",
+        "a": "Andre"
+      },
+      {
+        "q": "What keepsake does Hershel give Glenn as his blessing to marry Maggie?",
+        "a": "A pocket watch"
+      },
+      {
+        "q": "What is the real name of the Whisperer called Gamma?",
+        "a": "Mary"
+      },
+      {
+        "q": "Who kills Gamma?",
+        "a": "Beta"
+      },
+      {
+        "q": "In which season does Beta die?",
+        "a": "Season 10"
+      },
+      {
+        "q": "What is the name of Yumiko's brother, found at the Commonwealth?",
+        "a": "Tomi"
+      },
+      {
+        "q": "Who is Magna's girlfriend?",
+        "a": "Yumiko"
+      },
+      {
+        "q": "What is the name of Negan's wife in Dead City?",
+        "a": "Annie"
+      },
+      {
+        "q": "Which Alexandrian in charge of the pantry is shot dead by the Saviors?",
+        "a": "Olivia"
+      },
+      {
+        "q": "Whose brain scan does Jenner play for the group as test subject 19?",
+        "a": "His wife's"
+      },
+      {
+        "q": "What kind of doctor was Denise trained as?",
+        "a": "Psychiatrist"
+      },
+      {
+        "q": "Which Virginia city was Noah's walled home?",
+        "a": "Richmond"
+      },
+      {
+        "q": "Which former Savior settles at the Hilltop and falls for Enid?",
+        "a": "Alden"
+      },
+      {
+        "q": "Who kills Pope?",
+        "a": "Leah"
+      },
+      {
+        "q": "What promise does the Terminus signage make to travellers who reach it?",
+        "a": "Those who arrive, survive"
+      },
+      {
+        "q": "How many seasons did Fear the Walking Dead run?",
+        "a": "Eight"
+      },
+      {
+        "q": "How many seasons did The Walking Dead: World Beyond run?",
+        "a": "Two"
+      },
+      {
+        "q": "What is the name of the man who takes Morgan in and teaches him to fight without killing?",
+        "a": "Eastman"
+      },
+      {
+        "q": "What is the name of the goat Eastman keeps at his cabin?",
+        "a": "Tabitha"
+      },
+      {
+        "q": "Which Alexandrian does Carol briefly date before Ezekiel?",
+        "a": "Tobin"
+      },
+      {
+        "q": "Who strangles the Whisperer spy hiding inside Alexandria?",
+        "a": "Gabriel"
+      },
+      {
+        "q": "Which young Oceanside woman spares Tara and later leads the community?",
+        "a": "Cyndie"
+      },
+      {
+        "q": "What is the name of the mansion at the centre of the Hilltop?",
+        "a": "Barrington House"
+      },
+      {
+        "q": "Which Hilltop doctor delivers Maggie's baby?",
+        "a": "Harlan Carson"
+      },
+      {
+        "q": "Which of Negan's wives was seeing Mark, the man punished with the iron?",
+        "a": "Amber"
+      },
+      {
+        "q": "Which CRM major general does Rick face in The Ones Who Live?",
+        "a": "Beale"
+      },
+      {
+        "q": "Who leads the French faction hunting Daryl in his spin-off?",
+        "a": "Genet"
       }
     ]
   },
@@ -45657,6 +67617,66 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Liz and Tom's dog?",
         "a": "Hudson"
+      },
+      {
+        "q": "Which FBI agent had spent years leading the manhunt for Red before he walked in and surrendered?",
+        "a": "Donald Ressler"
+      },
+      {
+        "q": "What milestone day is Liz marking when Red first demands to speak with her?",
+        "a": "Her first day"
+      },
+      {
+        "q": "In which month of 2013 did The Blacklist premiere?",
+        "a": "September"
+      },
+      {
+        "q": "How many episodes are in the show's first season?",
+        "a": "22"
+      },
+      {
+        "q": "In which city is The Blacklist filmed?",
+        "a": "New York City"
+      },
+      {
+        "q": "What did Liz find hidden in a compartment beneath her floorboards in season 1?",
+        "a": "Cash, passports and a gun"
+      },
+      {
+        "q": "In which season is Agnes born?",
+        "a": "Season 3"
+      },
+      {
+        "q": "How many years pass between the season 8 finale and the start of season 9?",
+        "a": "Two"
+      },
+      {
+        "q": "What kind of weapon does Ranko Zamani plan to release in the pilot?",
+        "a": "A virus"
+      },
+      {
+        "q": "What term does the show use for the criminals named on Red's list?",
+        "a": "Blacklisters"
+      },
+      {
+        "q": "What appears alongside each criminal's name in the show's episode titles?",
+        "a": "A number"
+      },
+      {
+        "q": "How many seasons did the spin-off series run?",
+        "a": "One"
+      },
+      {
+        "q": "What is Nik Korpal's profession?",
+        "a": "Doctor"
+      },
+      {
+        "q": "In which season do Liz and Tom marry for a second time?",
+        "a": "Season 3"
+      },
+      {
+        "q": "What was the task force's headquarters building used for before the FBI took it over?",
+        "a": "Sorting mail"
       }
     ],
     "400": [
@@ -45919,6 +67939,102 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which Serbian terrorist is the first Blacklister Red gives the FBI?",
         "a": "Ranko Zamani"
+      },
+      {
+        "q": "Which Blacklister smuggles contraband surgically sewn inside his own body?",
+        "a": "The Courier"
+      },
+      {
+        "q": "Which Blacklister fakes the deaths of criminals by planting altered DNA at scenes?",
+        "a": "The Alchemist"
+      },
+      {
+        "q": "Which Blacklister is a weapons scientist infecting strangers to fund a cure for his son?",
+        "a": "Frederick Barnes"
+      },
+      {
+        "q": "Which anti-corporate Blacklister group takes its name from 19th-century machine breakers?",
+        "a": "General Ludd"
+      },
+      {
+        "q": "Which Blacklister is a dying actuary who turns terminally ill people into killers?",
+        "a": "Milton Bobbit"
+      },
+      {
+        "q": "Which Blacklister operation steals newborns from their mothers and sells them to adoptive parents?",
+        "a": "The Cyprus Agency"
+      },
+      {
+        "q": "Which Blacklister runs a hidden tribunal that avenges wrongful convictions?",
+        "a": "The Judge"
+      },
+      {
+        "q": "Which Blacklister, famed as an untraceable tracker, turns out to be a young woman?",
+        "a": "Lord Baltimore"
+      },
+      {
+        "q": "Which Blacklister manufactures online disinformation campaigns for paying clients?",
+        "a": "The Troll Farmer"
+      },
+      {
+        "q": "Which female Blacklister stalks and kills men in the woods?",
+        "a": "The Deer Hunter"
+      },
+      {
+        "q": "Which Blacklister is an international art thief and a former lover of Red's?",
+        "a": "Madeline Pratt"
+      },
+      {
+        "q": "What has happened to Red's fortune by the start of season 5?",
+        "a": "It is gone"
+      },
+      {
+        "q": "In which country was Samar Navabi born?",
+        "a": "Iran"
+      },
+      {
+        "q": "Which season introduces Agent Alina Park?",
+        "a": "Season 7"
+      },
+      {
+        "q": "Which member of Red's crew leads his armed security detail?",
+        "a": "Baz"
+      },
+      {
+        "q": "Who works with Liz in season 6 to prove Red is an impostor?",
+        "a": "Jennifer"
+      },
+      {
+        "q": "How long is Liz left comatose in season 5?",
+        "a": "Ten months"
+      },
+      {
+        "q": "On which night of the week did The Blacklist originally air?",
+        "a": "Monday"
+      },
+      {
+        "q": "What is the standing order to kill Katarina Rostova known as?",
+        "a": "The Townsend Directive"
+      },
+      {
+        "q": "How many episodes are in season 7?",
+        "a": "19"
+      },
+      {
+        "q": "Which Blacklister tells Liz in the season 5 finale that Red is not who he claims?",
+        "a": "Sutton Ross"
+      },
+      {
+        "q": "How old was Liz on the night of the house fire?",
+        "a": "Four"
+      },
+      {
+        "q": "Which Russian assassin does the Cabal use to frame Liz for an attack?",
+        "a": "Karakurt"
+      },
+      {
+        "q": "Who is Weecha's sister and Red's companion in the final season?",
+        "a": "Mierce"
       }
     ],
     "600": [
@@ -46169,6 +68285,134 @@ const QUALITY_BACKFILL = {
       {
         "q": "What sentence does Red receive after his arrest in season 6?",
         "a": "The death penalty"
+      },
+      {
+        "q": "Which Blacklister seizes control of the FBI black site to get at the Fulcrum?",
+        "a": "Luther Braxton"
+      },
+      {
+        "q": "Which Blacklister uses a crowdfunded bitcoin bounty to put a price on Liz's head?",
+        "a": "Arioch Cain"
+      },
+      {
+        "q": "Which fixer cleans up crimes for wealthy clients and then blackmails Ressler?",
+        "a": "Henry Prescott"
+      },
+      {
+        "q": "Which agent hides Laurel Hitchin's body and is blackmailed over it?",
+        "a": "Donald Ressler"
+      },
+      {
+        "q": "What is the name of the intelligence archive Red pursues in season 8?",
+        "a": "The Sikorsky Archive"
+      },
+      {
+        "q": "Which of Red's associates uses trained rats when questioning prisoners?",
+        "a": "Teddy Brimley"
+      },
+      {
+        "q": "What is the name of Dembe's daughter?",
+        "a": "Isabella"
+      },
+      {
+        "q": "Where was Red heading on the night he vanished in 1990?",
+        "a": "Home to his family"
+      },
+      {
+        "q": "Whom does the young Liz shoot on the night of the fire?",
+        "a": "Her father"
+      },
+      {
+        "q": "Which Blacklister is a sociologist who provokes violence in people carrying the warrior gene?",
+        "a": "Dr. Linus Creel"
+      },
+      {
+        "q": "Which Blacklister arranges elaborate revenge for paying clients?",
+        "a": "The Djinn"
+      },
+      {
+        "q": "Which Blacklister holds criminals' most valuable secrets in a hidden vault?",
+        "a": "The Caretaker"
+      },
+      {
+        "q": "Which Blacklisters are a set of brothers hired to snatch people to order?",
+        "a": "The Pavlovich Brothers"
+      },
+      {
+        "q": "Which fugitive financier, based on a real-life criminal, appears in the season 6 finale?",
+        "a": "Robert Vesco"
+      },
+      {
+        "q": "Which assassin known as the Corsican is framed for a bombing at the United Nations?",
+        "a": "Bastien Moreau"
+      },
+      {
+        "q": "Which torturer works for Neville Townsend in season 8?",
+        "a": "Dr. Laken Perillos"
+      },
+      {
+        "q": "Which Blacklister runs an incubator that funds and launches new criminal ventures?",
+        "a": "Miles McGrath"
+      },
+      {
+        "q": "Which Blacklister group unleashes a plague thawed out of ancient ice?",
+        "a": "The Front"
+      },
+      {
+        "q": "What number is Wujing on the Blacklist?",
+        "a": "84"
+      },
+      {
+        "q": "What number is Anslo Garrick on the Blacklist?",
+        "a": "16"
+      },
+      {
+        "q": "What number is Mr. Kaplan on the Blacklist?",
+        "a": "4"
+      },
+      {
+        "q": "What number is Berlin on the Blacklist?",
+        "a": "8"
+      },
+      {
+        "q": "What number is The Stewmaker on the Blacklist?",
+        "a": "161"
+      },
+      {
+        "q": "What is the one-word Russian title of the season 8 finale?",
+        "a": "Konets"
+      },
+      {
+        "q": "Which NBC hit did The Blacklist follow on Monday nights in its first season?",
+        "a": "The Voice"
+      },
+      {
+        "q": "Which studio produced The Blacklist?",
+        "a": "Sony Pictures Television"
+      },
+      {
+        "q": "How many episodes did The Blacklist: Redemption run?",
+        "a": "Eight"
+      },
+      {
+        "q": "In which year did the spin-off series air?",
+        "a": "2017"
+      },
+      {
+        "q": "Which co-creator stepped away from the show after season 8?",
+        "a": "Jon Bokenkamp"
+      },
+      {
+        "q": "Which Blacklister is a surgeon who gives criminals entirely new faces?",
+        "a": "Dr. Hans Koehler"
+      },
+      {
+        "q": "Which Blacklister group are assassins who specialise in killing intelligence officers?",
+        "a": "The Osterman Umbrella Company"
+      },
+      {
+        "q": "Which season's finale had to be completed partly in animation because of the pandemic shutdown?",
+        "a": "Season 7"
       }
     ]
   },
@@ -46469,6 +68713,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act it out — no talking, no sounds!",
         "a": "Shark"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blowing your nose"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Tying a necktie"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Peeling a banana"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Combing your hair"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Drinking through a straw"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Shivering in the cold"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Putting on boots"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Chopping onions"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blowing bubbles"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Fanning yourself"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Doing push-ups"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Climbing stairs"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Buttoning a shirt"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Zipping a jacket"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Sipping hot soup"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Petting a cat"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Feeding a baby"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Rocking a baby to sleep"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Pushing a shopping cart"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Paying at a cash register"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Knocking on a door"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Mopping the floor"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Ironing a shirt"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Hanging clothes on a line"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Watering plants"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Planting a seed"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Roasting marshmallows"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Eating corn on the cob"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Cracking an egg"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Flipping pancakes"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Making a sandwich"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Squeezing a lemon"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Popping bubble wrap"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Wrapping a gift"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Shuffling cards"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Rolling dice"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Playing hopscotch"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Playing peekaboo"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Arm wrestling"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Giving a high five"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Thumb wrestling"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Yawning"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Hiccups"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Checking your watch"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Putting on a seatbelt"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Hailing a taxi"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Waiting in a long line"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Carrying a heavy box"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blowing a whistle"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Doing jumping jacks"
       }
     ],
     "400": [
@@ -46751,6 +69195,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act it out — no talking, no sounds!",
         "a": "Magnifying glass"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Threading a needle"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Shearing a sheep"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blowing a bubblegum bubble"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Being a crossing guard"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Auctioneer"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Librarian shushing people"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Barista steaming milk"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Bartender shaking a cocktail"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Tailor measuring a customer"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Dentist checking teeth"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Eye test at the optician"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Zookeeper feeding a lion"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Firefighter climbing a ladder"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Lumberjack chopping a tree"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blacksmith hammering"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Glassblower"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Snake charmer"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Sumo wrestler"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Untangling a fishing net"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Sailor tying knots"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Planting a flag on a summit"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Scuba diver running out of air"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Race car pit stop"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Serving a volleyball"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Jumping hurdles"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Pole vaulting"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Shot put"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Curling"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Cheerleading routine"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Doing the limbo"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Hula hooping"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blowing a kiss"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Proposing marriage"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Walking down the aisle"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Opening a champagne bottle"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Toasting at a dinner"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Standing on a podium"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Getting a tattoo"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Getting a massage"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Painting your nails"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Shaving your face"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Applying mascara"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Walking in high heels"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Squeezing into tight jeans"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Doing a jigsaw puzzle"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Sharpening a pencil"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Whittling wood"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Sneaking past a sleeping dog"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Balancing a book on your head"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Being a human statue"
       }
     ],
     "600": [
@@ -47037,6 +69681,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act it out — no talking, no sounds!",
         "a": "Archery"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Homesickness"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Deja vu"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Nostalgia"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Jealousy"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Gravity"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Evolution"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Inflation"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Recycling"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Photosynthesis"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Camouflage"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Telepathy"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Hypnosis"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Boomerang"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Echo"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Mirage"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Karma"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Insomnia"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Stage fright"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Writer's block"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Culture shock"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Peer pressure"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Multitasking"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Micromanaging"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Job interview"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Getting fired"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Retirement party"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Jury duty"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Filing taxes"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Passport control"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Lost luggage"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Jet lag"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Turbulence"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Seasickness"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Midlife crisis"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Blind date"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Ghosting someone"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Being a third wheel"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Eavesdropping"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Awkward silence"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Small talk"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Autocorrect fail"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Buffering video"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Dead phone battery"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Doom scrolling"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Fire drill"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Escape room"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Flash mob"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Tug of war"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Musical chairs"
+      },
+      {
+        "q": "Act this out!",
+        "a": "Trust fall"
       }
     ]
   },
@@ -47249,6 +70093,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this scenario!",
         "a": "Zipping up a jacket"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Ironing a shirt"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sweeping the kitchen floor"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Mowing the lawn"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Watering the houseplants indoors"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Peeling a banana"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Flipping through TV channels"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Blowing your nose"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Putting on socks"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Fastening a wristwatch"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Scrolling a phone in bed"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Waiting at a bus stop"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sharpening a pencil"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Wrapping a birthday gift"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Making the bed"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Feeding a baby with a spoon"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Applying sunscreen at the beach"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Blowing up a balloon"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Chopping onions on a board"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Knocking on a door"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Unloading a dishwasher"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Loading groceries onto a checkout belt"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Trying on sunglasses"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Climbing a flight of stairs"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Waiting for an elevator"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Signing a birthday card"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sealing an envelope"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Doing push-ups on the floor"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Wiping crumbs off a table"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Hanging a picture frame"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Fishing from a boat"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Playing air guitar"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Rowing a boat"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Digging a hole with a shovel"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Milking a cow"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Putting on a backpack"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Clipping your fingernails"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Zipping a suitcase shut"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Fanning yourself in the heat"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Warming hands over a fire"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Stirring sugar into tea"
       }
     ],
     "400": [
@@ -47571,6 +70575,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this scenario!",
         "a": "Climbing a really tall ladder"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Folding a road map back up"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Wrestling a duvet into its cover"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Chasing a napkin across a picnic table"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Eating a taco that falls apart"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Getting sunscreen in your eyes"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Pretending to know the lyrics"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Untangling a garden hose"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sitting through a boring museum tour"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Being splashed by a passing car"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Trying to swallow a huge pill"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Getting caught singing in the car"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Realizing the restaurant is cash only"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Discovering the fridge is empty"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Struggling to inflate an air mattress"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Looking busy when the boss walks by"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Being licked awake by a dog"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sitting on a wobbly restaurant chair"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Pushing a cart with a bad wheel"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Eating barbecue ribs politely"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Losing a flip-flop in deep mud"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Trying to sleep on a plane"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Getting seasick on a small boat"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Squeezing the last of the toothpaste"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Realizing you're on the wrong train"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Closing an overstuffed suitcase"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Waiting for the doctor to call you"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sneaking out of a party early"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Dropping your ice cream scoop"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Being stuck behind a slow walker"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Fighting a plastic bag that won't open"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Getting the wrapper off a straw"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Realizing you left the stove on"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Opening a bag of chips quietly"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Getting stuck in a revolving door"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Blowing out trick birthday candles"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Missing a high five"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Carrying a full mug without spilling"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Being chased by a goose"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Waking up on a stranger's shoulder"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Struggling with a self-checkout machine"
       }
     ],
     "600": [
@@ -47913,6 +71077,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this scenario!",
         "a": "Realizing you've been muted for five minutes"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Robbing a bank and getting cold feet"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Teaching a robot to dance the tango"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Smuggling a puppy through a hotel lobby"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Baking a souffle that collapses"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Delivering pizza to a haunted mansion"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Winning gold then dropping the medal"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Escaping quicksand while holding a map"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Directing traffic when the lights fail"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Chasing your hat across a windy rooftop"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Loading a stubborn donkey with bags"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Assembling a tent in a thunderstorm"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Losing a shoe while running from bees"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Serving dinner on a rocking cruise ship"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Proposing while the ring rolls away"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Painting a portrait of a squirming child"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Faking fluency at a business dinner"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Guiding a blindfolded friend through furniture"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Snowboarding down a mountain and crashing"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Catching a greased pig at a fair"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sneaking a live chicken onto a bus"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Catching a cheater at a poker table"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Fixing a spacesuit leak during a spacewalk"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Teaching a parrot to whistle a tune"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Rescuing a phone from a storm drain"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Escaping a stuck ski lift chair"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Giving a speech while swatting flies"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Steering a camel across a desert"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Sword fighting with pool noodles"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Carrying a ladder through a narrow hallway"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Untying a knot with frozen fingers"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Winning a tug of war and falling"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Being knighted and tripping on the sword"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Chasing an escaped hamster under furniture"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Rowing a leaking boat back to shore"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Hiding a broken vase before guests arrive"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Landing a balloon in a farmyard"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Feeding a lion through a fence"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Photographing a bear from too close"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Digging up a buried treasure chest"
+      },
+      {
+        "q": "Act out this scenario!",
+        "a": "Escaping a maze of mirrors"
       }
     ]
   },
@@ -48129,6 +71453,26 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this country!",
         "a": "Uruguay"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "England"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Scotland"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Wales"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Greenland"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Taiwan"
       }
     ],
     "400": [
@@ -48351,6 +71695,26 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this country!",
         "a": "Nicaragua"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Northern Ireland"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Palestine"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Kosovo"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Faroe Islands"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Republic of the Congo"
       }
     ],
     "600": [
@@ -48501,6 +71865,26 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act out this country!",
         "a": "South Sudan"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Aruba"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Curacao"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Sint Maarten"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Cook Islands"
+      },
+      {
+        "q": "Act out this country!",
+        "a": "Niue"
       }
     ]
   },
@@ -48657,6 +72041,46 @@ const QUALITY_BACKFILL = {
       {
         "q": "How many seasons did The Rookie: Feds run?",
         "a": "1"
+      },
+      {
+        "q": "Which officer trains Lucy Chen through her rookie year?",
+        "a": "Tim Bradford"
+      },
+      {
+        "q": "Which detective takes over as John Nolan's training officer in season 2?",
+        "a": "Nyla Harper"
+      },
+      {
+        "q": "What is Sergeant Grey's first name?",
+        "a": "Wade"
+      },
+      {
+        "q": "How many rookies start at the station in the pilot episode?",
+        "a": "Three"
+      },
+      {
+        "q": "What crime is Nolan caught up in as a bystander before he decides to join the LAPD?",
+        "a": "A bank robbery"
+      },
+      {
+        "q": "Which federal agency is the focus of the spin-off series?",
+        "a": "FBI"
+      },
+      {
+        "q": "What is the name of the lead character in The Rookie: Feds?",
+        "a": "Simone Clark"
+      },
+      {
+        "q": "Which veteran patrol officer at the station is a running joke for dodging work?",
+        "a": "Smitty"
+      },
+      {
+        "q": "How many seasons of the show had aired by the end of 2025?",
+        "a": "Seven"
+      },
+      {
+        "q": "What does Sergeant Grey spend the pilot trying to convince Nolan to do?",
+        "a": "Quit"
       }
     ],
     "400": [
@@ -48887,6 +72311,46 @@ const QUALITY_BACKFILL = {
       {
         "q": "Which firefighter does Lucy date in season 2?",
         "a": "Emmett"
+      },
+      {
+        "q": "Before returning to patrol as a training officer, Nyla Harper spent years in what kind of assignment?",
+        "a": "Undercover"
+      },
+      {
+        "q": "In which season's finale is Lucy Chen abducted by a serial killer?",
+        "a": "Season 1"
+      },
+      {
+        "q": "Which rookie does Nolan train once he earns the right to run a shop?",
+        "a": "Celina Juarez"
+      },
+      {
+        "q": "In what year did the spin-off The Rookie: Feds premiere?",
+        "a": "2022"
+      },
+      {
+        "q": "Which imprisoned killer does Nolan turn to for help locating the kidnapped Lucy Chen?",
+        "a": "Rosalind Dyer"
+      },
+      {
+        "q": "Which season introduces Bailey Nune?",
+        "a": "Season 4"
+      },
+      {
+        "q": "When the officers call in a 187 over the radio, what crime are they reporting?",
+        "a": "Homicide"
+      },
+      {
+        "q": "What crime does the radio code 211 refer to on the show?",
+        "a": "Robbery"
+      },
+      {
+        "q": "Rolling Code 3 means the officers are driving with what?",
+        "a": "Lights and sirens"
+      },
+      {
+        "q": "What pay-grade title do the rookies hold once they pass probation?",
+        "a": "P2"
       }
     ],
     "600": [
@@ -49097,6 +72561,54 @@ const QUALITY_BACKFILL = {
       {
         "q": "What is the name of Tim Bradford's sister?",
         "a": "Genny"
+      },
+      {
+        "q": "Season 6 of The Rookie was shortened to how many episodes?",
+        "a": "Ten"
+      },
+      {
+        "q": "How many episodes made up the show's first season?",
+        "a": "Twenty"
+      },
+      {
+        "q": "Nolan's mother Evelyn turns out to make her living how?",
+        "a": "Con artist"
+      },
+      {
+        "q": "The spin-off's backdoor pilot aired during which season of The Rookie?",
+        "a": "Season 4"
+      },
+      {
+        "q": "What does an officer mean by calling in Code 4?",
+        "a": "No assistance needed"
+      },
+      {
+        "q": "A 5150 call on the show refers to what kind of hold?",
+        "a": "Psychiatric hold"
+      },
+      {
+        "q": "In a call sign like 7-Adam-15, what does the Adam designate?",
+        "a": "Two-officer unit"
+      },
+      {
+        "q": "What pay grade must an LAPD officer reach before training rookies?",
+        "a": "P3"
+      },
+      {
+        "q": "Which Netflix spy series was created by the man behind The Rookie?",
+        "a": "The Recruit"
+      },
+      {
+        "q": "In what month of 2018 did the series premiere?",
+        "a": "October"
+      },
+      {
+        "q": "Besides starring in the show, what production credit does Nathan Fillion hold on it?",
+        "a": "Executive producer"
+      },
+      {
+        "q": "What does the LAPD abbreviation RHD stand for on the show?",
+        "a": "Robbery-Homicide Division"
       }
     ]
   },
@@ -49677,6 +73189,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spanish winger of Ghanaian descent. Scored in the Euro 2024 final against England. Plays for Athletic Bilbao alongside his older brother, who chose to represent Ghana. Won the 2024 Copa del Rey.",
         "a": "Nico Williams"
+      },
+      {
+        "q": "Brazilian striker with a ferocious left foot. Starred for Inter Milan in the mid-2000s and was known as the Emperor. Was top scorer and best player at the 2004 Copa America.",
+        "a": "Adriano"
+      },
+      {
+        "q": "Brazilian forward built like a bodybuilder with a rocket left foot. Won titles at Porto, then moved to Zenit St Petersburg and later to Shanghai. His comic-book nickname stuck for life.",
+        "a": "Hulk"
+      },
+      {
+        "q": "Brazilian attacking midfielder who joined Chelsea in 2012 and won the Premier League in 2015. Scored his country's only goal in the 7-1 defeat to Germany. Left for a huge fee to Shanghai in 2017.",
+        "a": "Oscar"
+      },
+      {
+        "q": "Brazilian winger who joined Chelsea from Anzhi in 2013 and won two Premier League titles. Renowned for curling free kicks. Left on a free for Arsenal in 2020 and later played for Fulham.",
+        "a": "Willian"
+      },
+      {
+        "q": "Brazilian holding midfielder signed from Shakhtar Donetsk in 2013. Anchored Manchester City's midfield through five title wins and captained the side late in his spell. Returned home to Athletico Paranaense in 2022.",
+        "a": "Fernandinho"
+      },
+      {
+        "q": "Brazilian winger who scored a hat-trick in Amsterdam to send Tottenham to the 2019 Champions League final. Joined from PSG in 2018 and later returned to Sao Paulo.",
+        "a": "Lucas Moura"
+      },
+      {
+        "q": "Brazilian winger known for lightning dribbling and stepovers. Won league titles in Ukraine, Germany and Italy with Shakhtar, Bayern Munich and Juventus. Joined Bayern in 2015 and moved to Turin two years later.",
+        "a": "Douglas Costa"
+      },
+      {
+        "q": "Brazilian winger who joined Manchester United from Ajax in 2022 for around 82 million pounds. Struggled in England and revived his career on loan at Real Betis. Known for spinning on the ball.",
+        "a": "Antony"
+      },
+      {
+        "q": "Brazilian forward who agreed to join Real Madrid from Palmeiras as a 16-year-old and arrived once he turned 18 in 2024. Scored the winner against England at Wembley on his first start for his country.",
+        "a": "Endrick"
+      },
+      {
+        "q": "Brazilian centre-back who joined Real Madrid from Porto in 2019. Won the Champions League in 2022 and 2024 either side of serious knee injuries. Wears number 3 at the Bernabeu.",
+        "a": "Eder Militao"
+      },
+      {
+        "q": "Brazilian centre-back signed by Arsenal from Lille in 2020. A constant threat from corners and a regular scorer of headers. Formed a first-choice partnership with a young French defender.",
+        "a": "Gabriel Magalhaes"
+      },
+      {
+        "q": "French forward who became the world's most expensive teenager when Manchester United signed him from Monaco in 2015. Scored a slaloming solo goal on his debut against Liverpool. Left on a free transfer in 2024.",
+        "a": "Anthony Martial"
+      },
+      {
+        "q": "French striker who joined Arsenal from Lyon in 2017 for a then club-record fee. Returned to his boyhood club in 2022 and captained them. Known for a low centre of gravity and clinical finishing.",
+        "a": "Alexandre Lacazette"
+      },
+      {
+        "q": "French midfielder who came through at Marseille, moved to Arsenal in 2008 and then to Manchester City in 2011, winning two Premier League titles. Served a doping ban in 2018 over an intravenous drip treatment.",
+        "a": "Samir Nasri"
+      },
+      {
+        "q": "Spanish midfielder equally comfortable with both feet. Won two FA Cups with Arsenal before a leg infection nearly cost him his foot. Fought back to play again for Villarreal and later returned to his boyhood club Oviedo.",
+        "a": "Santi Cazorla"
+      },
+      {
+        "q": "Spanish midfielder who played for Rangers, Everton and Arsenal, captaining the last of those before retiring in 2016. Became Guardiola's assistant at Manchester City, then went back to manage the club he had captained.",
+        "a": "Mikel Arteta"
+      },
+      {
+        "q": "Belgian centre-back who spent eight years at Tottenham after leaving Ajax. Became his country's most-capped player. Finished his career at Anderlecht.",
+        "a": "Jan Vertonghen"
+      },
+      {
+        "q": "Belgian forward who became Napoli's all-time leading scorer after being converted from winger to striker. Small, quick and a fine free-kick taker. Joined Galatasaray in 2022.",
+        "a": "Dries Mertens"
+      },
+      {
+        "q": "German winger who scored four goals at Tottenham in a 2019 Champions League group game for Bayern Munich. Earlier had a forgettable loan spell at West Brom while on Arsenal's books.",
+        "a": "Serge Gnabry"
+      },
+      {
+        "q": "German striker signed by Chelsea from RB Leipzig in 2020. Famous for blistering pace and a habit of missing big chances. Won the Champions League in 2021, then returned to Germany.",
+        "a": "Timo Werner"
+      },
+      {
+        "q": "German midfielder who joined Bayern Munich from Schalke on a free transfer in 2018. Famous for a dramatic muscle transformation during lockdown. Scored a late equaliser against Hungary at Euro 2020.",
+        "a": "Leon Goretzka"
+      },
+      {
+        "q": "German midfielder who won the 2014 World Cup. Joined Real Madrid from Stuttgart in 2010 and later moved to Juventus on a free, winning five straight Serie A titles. Finished at Hertha Berlin.",
+        "a": "Sami Khedira"
+      },
+      {
+        "q": "German striker and a classic penalty-box poacher. Won multiple Bundesliga titles with Bayern Munich after joining from Stuttgart in 2009. Later played for Fiorentina and Besiktas before ending his career back in Stuttgart.",
+        "a": "Mario Gomez"
+      },
+      {
+        "q": "Portuguese centre-back who followed Mourinho from Porto to Chelsea in 2004. Won the 2004 Champions League and three Premier League titles, then joined Real Madrid. Won Euro 2016 at the age of 38.",
+        "a": "Ricardo Carvalho"
+      },
+      {
+        "q": "Spanish forward with a wand of a left foot. Scored in the 2017 Champions League final for Real Madrid. Left the club on a free transfer for PSG in 2023.",
+        "a": "Marco Asensio"
+      },
+      {
+        "q": "Spanish midfielder and Atletico Madrid's record appearance holder. Captains the club he joined as a child. Spent years supplying assists to Diego Costa and Griezmann.",
+        "a": "Koke"
+      },
+      {
+        "q": "Spanish winger from the Barcelona academy who scored in six different competitions in a single calendar year. Joined Chelsea in 2015 and won the title in his first season. Later played for Roma and Lazio.",
+        "a": "Pedro Rodriguez"
+      },
+      {
+        "q": "Spanish forward who left Valencia for Manchester City in 2020 and joined Barcelona a year later for around 55 million euros. Scored a hat-trick against Germany in a 6-0 Nations League rout in 2020.",
+        "a": "Ferran Torres"
+      },
+      {
+        "q": "Guinea-Bissau-born forward for Spain who became Barcelona's youngest ever goalscorer at 16. Inherited the number 10 shirt after Messi left. Injuries stalled him and he moved to Monaco in 2025.",
+        "a": "Ansu Fati"
+      },
+      {
+        "q": "Ivorian winger and Crystal Palace's talisman for a decade. An early move to Manchester United in 2013 did not work out and he returned to Selhurst Park. Joined Galatasaray on a free in 2023.",
+        "a": "Wilfried Zaha"
+      },
+      {
+        "q": "Ghanaian midfielder whose release clause was triggered by Arsenal on deadline day in 2020. Previously won the Europa League and La Liga with Atletico Madrid. Known for driving runs from deep.",
+        "a": "Thomas Partey"
+      },
+      {
+        "q": "Cameroonian goalkeeper who came through Barcelona's academy, then starred for Ajax and reached the 2023 Champions League final with Inter. Joined Manchester United that summer. Known for aggressive distribution.",
+        "a": "Andre Onana"
+      },
+      {
+        "q": "Senegalese goalkeeper who was without a club a few years before signing for Chelsea in 2020. Won the Champions League in his first season and the Africa Cup of Nations in 2022. Moved to Al-Ahli in 2023.",
+        "a": "Edouard Mendy"
+      },
+      {
+        "q": "Ukrainian who arrived at Manchester City as an attacking midfielder and was converted into an inverted left-back. Won four Premier League titles before joining Arsenal in 2022. Became a prominent voice for his country after the 2022 invasion.",
+        "a": "Oleksandr Zinchenko"
+      },
+      {
+        "q": "Swedish attacking player born in Stockholm to Macedonian parents. Broke through on loan at Parma, joined Juventus, then moved to Tottenham in 2022. Powerful on the right wing, cutting inside onto his left.",
+        "a": "Dejan Kulusevski"
+      },
+      {
+        "q": "Danish striker signed by Manchester United from Atalanta in 2023 for around 72 million pounds. Scored in five straight Champions League group games during a long league drought. Joined Napoli in 2025.",
+        "a": "Rasmus Hojlund"
+      },
+      {
+        "q": "Mexican striker who fractured his skull in a clash of heads at Arsenal in 2020 and returned wearing protective headgear. Starred for Wolves after a spell at Benfica. Joined Fulham in 2024.",
+        "a": "Raul Jimenez"
+      },
+      {
+        "q": "Mexican winger who scored the goal that beat holders Germany at the 2018 World Cup. Joined Napoli from PSV and won the 2023 Scudetto. Nicknamed Chucky for frightening his team-mates as a youngster.",
+        "a": "Hirving Lozano"
+      },
+      {
+        "q": "Mexican forward who never quite broke through at Arsenal but starred for Real Sociedad. Set an MLS single-season scoring record with 34 goals for LAFC in 2019. Often turned down national team call-ups.",
+        "a": "Carlos Vela"
+      },
+      {
+        "q": "American striker who retired in 2015 as the all-time leading international goalscorer for either gender with 184. Scored a famous last-minute header against Brazil at the 2011 World Cup. Won two Olympic golds.",
+        "a": "Abby Wambach"
       }
     ],
     "400": [
@@ -50279,6 +73951,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "English midfielder. Became the Premier League's youngest scorer at the time, aged 16, for Leeds in 2002. Won league titles with Manchester City and Liverpool and the 2019 Champions League. Second only to Gareth Barry for Premier League appearances. Joined Brighton in 2023.",
         "a": "James Milner"
+      },
+      {
+        "q": "American midfielder who scored a 16-minute hat-trick in the 2015 World Cup final, including a strike from the halfway line. Also scored the winning goals in the 2008 and 2012 Olympic finals.",
+        "a": "Carli Lloyd"
+      },
+      {
+        "q": "English right-back who won the Champions League three times with Lyon and later played for Barcelona and Chelsea. Won Euro 2022 with her country. Revealed she played through the 2025 Euros with a fractured tibia.",
+        "a": "Lucy Bronze"
+      },
+      {
+        "q": "Dutch striker who is the Women's Super League all-time leading scorer. Once scored six in a single Arsenal league game. Won Euro 2017 with her country and joined Manchester City in 2024.",
+        "a": "Vivianne Miedema"
+      },
+      {
+        "q": "French centre-back born on Martinique who stands 1.87m tall. Captained Lyon to eight Champions League titles and was a huge aerial threat from set pieces.",
+        "a": "Wendie Renard"
+      },
+      {
+        "q": "English forward who won the Golden Boot and player of the tournament award at Euro 2022. An Arsenal winger who missed the following World Cup with a knee injury. Won BBC Sports Personality of the Year in 2022.",
+        "a": "Beth Mead"
+      },
+      {
+        "q": "English defender who captained her country to the Euro 2022 title at Wembley. An Arsenal one-club player used at centre-back and in midfield. Missed the 2023 World Cup with a ruptured knee ligament.",
+        "a": "Leah Williamson"
+      },
+      {
+        "q": "Japanese midfielder who captained her country to the 2011 World Cup and scored the late equaliser in the final against the United States. Won the Golden Ball and Golden Boot there and was named world player of the year.",
+        "a": "Homare Sawa"
+      },
+      {
+        "q": "German striker who won the World Cup in 2003 and 2007 and was named FIFA World Player of the Year three years running. Long her country's record scorer and a Frankfurt stalwart.",
+        "a": "Birgit Prinz"
+      },
+      {
+        "q": "Brazilian left-footed midfielder from the 1970 World Cup-winning side. Famous for a thunderous free kick and a bushy moustache. Popularised the flip-flap dribble later used by Ronaldinho.",
+        "a": "Rivelino"
+      },
+      {
+        "q": "Brazilian right-back who captained the 1970 World Cup winners and finished off the tournament's most celebrated team goal in the final against Italy. Later played for the New York Cosmos.",
+        "a": "Carlos Alberto Torres"
+      },
+      {
+        "q": "Brazilian forward who partnered Pele in the 1970 World Cup win. A detached retina forced him to retire at 26, after which he became a doctor and a newspaper columnist.",
+        "a": "Tostao"
+      },
+      {
+        "q": "Brazilian striker who played alongside Maradona at Napoli and won the UEFA Cup there in 1989. Was his country's top scorer at the 1986 World Cup with five goals.",
+        "a": "Careca"
+      },
+      {
+        "q": "Brazilian goalkeeper who made a save in the 1994 World Cup final shoot-out against Italy. Later played for Galatasaray and became Liverpool's goalkeeping coach.",
+        "a": "Claudio Taffarel"
+      },
+      {
+        "q": "Brazilian right-back who won the 2010 treble with Inter Milan and scored from a near-impossible angle against North Korea at that year's World Cup. Later played for Manchester City and Roma.",
+        "a": "Maicon"
+      },
+      {
+        "q": "Brazilian holding midfielder nicknamed the Invisible Wall. Won the 2002 World Cup and was part of Arsenal's unbeaten league season. Later played for Panathinaikos.",
+        "a": "Gilberto Silva"
+      },
+      {
+        "q": "Mexican goalkeeper famous for designing his own garish kits and for standing only about 1.68m tall. Sometimes played as a forward for his club. Appeared at the 1994 and 1998 World Cups.",
+        "a": "Jorge Campos"
+      },
+      {
+        "q": "Mexican forward who invented a trick of trapping the ball between his feet and hopping past defenders. Played at three World Cups and later became a state governor.",
+        "a": "Cuauhtemoc Blanco"
+      },
+      {
+        "q": "Mexican midfielder who appeared at five World Cups. Spent seven years as a leader at Real Betis, winning the Copa del Rey in 2022. Earlier played for Deportivo, Valencia and PSV.",
+        "a": "Andres Guardado"
+      },
+      {
+        "q": "Chilean striker nicknamed the Matador. Scored twice against England at Wembley in 1998, then starred at that year's World Cup. Played for River Plate, Lazio and Juventus.",
+        "a": "Marcelo Salas"
+      },
+      {
+        "q": "Colombian midfielder who scored a late equaliser against West Germany at the 1990 World Cup. Powerfully built and a captain of his country. Also played for Real Madrid, Napoli and Palmeiras.",
+        "a": "Freddy Rincon"
+      },
+      {
+        "q": "Uruguayan forward with a fearsome left foot who spent a decade at Inter Milan. Scored twice as a substitute on his Serie A debut in 1997. At one point among the best-paid players in the world.",
+        "a": "Alvaro Recoba"
+      },
+      {
+        "q": "Uruguayan goalkeeper who spent more than a decade as Galatasaray's number one. Was in goal as his country finished fourth at the 2010 World Cup. Suffered a horrific leg break in 2019.",
+        "a": "Fernando Muslera"
+      },
+      {
+        "q": "Uruguayan centre-back who joined Barcelona from a small club at home and became a defensive leader there. Known for raw pace and last-ditch tackles. Sent off against PSG in a 2024 Champions League quarter-final.",
+        "a": "Ronald Araujo"
+      },
+      {
+        "q": "Argentine centre-back who captained his country to the 1978 World Cup and was also in the 1986 squad. Unusually prolific from set pieces and penalties. Later managed his national team and River Plate.",
+        "a": "Daniel Passarella"
+      },
+      {
+        "q": "Argentine forward who scored in the 1986 World Cup final win over West Germany. Played for Real Madrid and later managed and became sporting director there. Known as football's philosopher for his writing.",
+        "a": "Jorge Valdano"
+      },
+      {
+        "q": "Argentine playmaker of the 1990s known for mesmerising dribbling and a fiery temper. Sent off in the 1998 World Cup quarter-final for head-butting the Dutch goalkeeper. A River Plate idol.",
+        "a": "Ariel Ortega"
+      },
+      {
+        "q": "Argentine midfielder who scored a stunning left-foot volley against Mexico in the 2006 World Cup last 16. Converted the winning penalty in the 2014 semi-final shoot-out against the Netherlands. Played for Atletico Madrid and Liverpool.",
+        "a": "Maxi Rodriguez"
+      },
+      {
+        "q": "Argentine midfielder who won three Europa League titles with Sevilla across two spells. An elegant passer with a low centre of gravity. Moved to Al-Shabab in 2020.",
+        "a": "Ever Banega"
+      },
+      {
+        "q": "Argentine centre-back nicknamed the Mouse. Won over 110 caps and played for Valencia, AC Milan and Zaragoza. Missed a penalty in the 2006 World Cup quarter-final shoot-out against Germany.",
+        "a": "Roberto Ayala"
+      },
+      {
+        "q": "Argentine centre-back nicknamed the Wall for his uncompromising defending. Won the Scudetto with Roma in 2001 and the treble with Inter in 2010. Also had a spell at Real Madrid.",
+        "a": "Walter Samuel"
+      },
+      {
+        "q": "Argentine goalkeeper who won the 1978 World Cup on home soil and was voted the tournament's best keeper. A River Plate legend who saved a penalty in the group game against Poland.",
+        "a": "Ubaldo Fillol"
+      },
+      {
+        "q": "French striker who won the 1991 Ballon d'Or while at Marseille, where he was the league's top scorer five years running. Famous for spectacular volleys. Later played for AC Milan and Bayern Munich.",
+        "a": "Jean-Pierre Papin"
+      },
+      {
+        "q": "French attacking midfielder who won the 1998 World Cup and Euro 2000. Won the UEFA Cup with Inter in 1998. Later played for Kaiserslautern, Bolton and the New York Red Bulls.",
+        "a": "Youri Djorkaeff"
+      },
+      {
+        "q": "French midfielder from New Caledonia who won the 1998 World Cup and two Champions Leagues with Real Madrid. Famously did not sing the anthem before matches. Later played for Middlesbrough and Olympiacos.",
+        "a": "Christian Karembeu"
+      },
+      {
+        "q": "French centre-back who came into the 1998 World Cup final for a suspended team-mate and won the trophy. Spent five years at Chelsea, winning the Cup Winners' Cup. Became an actor after retiring.",
+        "a": "Frank Leboeuf"
+      },
+      {
+        "q": "French midfielder born in Bamako who was part of the celebrated magic square midfield that won Euro 1984. Starred for Bordeaux and Marseille. Later managed Fulham to promotion.",
+        "a": "Jean Tigana"
+      },
+      {
+        "q": "French box-to-box midfielder who won the 2018 World Cup. Won four league titles with PSG before joining Juventus in 2017. Finished his career at Inter Miami.",
+        "a": "Blaise Matuidi"
+      },
+      {
+        "q": "London-born winger who chose to represent France. Left Crystal Palace for Bayern Munich in 2024 and starred immediately. Left-footed on the right with elite set-piece delivery.",
+        "a": "Michael Olise"
+      },
+      {
+        "q": "French forward who scored twice in the 2025 Champions League final for PSG and was named man of the match aged 19. Had joined from Rennes the previous summer.",
+        "a": "Desire Doue"
+      },
+      {
+        "q": "Spanish striker who won three Champions Leagues with Real Madrid, then knocked them out of the competition in 2004 while on loan at Monaco. Later played for Liverpool and Valencia.",
+        "a": "Fernando Morientes"
       }
     ],
     "600": [
@@ -50865,6 +74697,166 @@ const QUALITY_BACKFILL = {
       {
         "q": "Dutch right wing-back. Joined Inter from PSV in 2021 after starring at Euro 2020. Scored one and set up two against the USA at the 2022 World Cup. Scored twice in the 3–3 Champions League semi-final first leg against Barcelona in 2025.",
         "a": "Denzel Dumfries"
+      },
+      {
+        "q": "Czechoslovak midfielder who won the 1962 Ballon d'Or and scored his country's goal in that year's World Cup final against Brazil. Spent most of his career at Dukla Prague.",
+        "a": "Josef Masopust"
+      },
+      {
+        "q": "Czech winger who scored a famous scooped lob against Portugal at Euro 96 and earned a move to Manchester United. His long hair and running earned him a nickname referencing an express train.",
+        "a": "Karel Poborsky"
+      },
+      {
+        "q": "Czech striker who won the Golden Boot at Euro 2004 with five goals. Won the Champions League with Liverpool in 2005. Later played for Aston Villa, Lyon and Galatasaray.",
+        "a": "Milan Baros"
+      },
+      {
+        "q": "Soviet goalkeeper widely rated the world's best in 1988, the year his country reached the European Championship final. A Spartak Moscow icon who later played for Sevilla.",
+        "a": "Rinat Dasayev"
+      },
+      {
+        "q": "Russian goalkeeper and a one-club man at CSKA Moscow. Saved a penalty with his foot in the 2018 World Cup shoot-out to knock out Spain on home soil.",
+        "a": "Igor Akinfeev"
+      },
+      {
+        "q": "Ukrainian winger who left Dynamo Kyiv for Borussia Dortmund in 2017 and later played for West Ham. Left-footed on the right and one of his country's leading scorers.",
+        "a": "Andriy Yarmolenko"
+      },
+      {
+        "q": "Romanian centre-back who captained his country and played for Tottenham, Barcelona and Galatasaray. Scored the decisive penalty in the 2000 UEFA Cup final shoot-out.",
+        "a": "Gheorghe Popescu"
+      },
+      {
+        "q": "Romanian right wing-back who scored the winning goal against England at the 1998 World Cup. Spent five years at Chelsea, winning the FA Cup and the Cup Winners' Cup.",
+        "a": "Dan Petrescu"
+      },
+      {
+        "q": "Greek midfielder who captained his country to the shock Euro 2004 title and was named player of the tournament. Had a spell at Leicester City.",
+        "a": "Theodoros Zagorakis"
+      },
+      {
+        "q": "Greek centre-back whose header completed Roma's stunning 3-0 comeback against Barcelona in the 2018 Champions League quarter-final. Later joined Napoli.",
+        "a": "Kostas Manolas"
+      },
+      {
+        "q": "Turkish goalkeeper with trademark black paint under his eyes and a ponytail. Starred as his country finished third at the 2002 World Cup. Spent most of his career at Fenerbahce with a season at Barcelona.",
+        "a": "Rustu Recber"
+      },
+      {
+        "q": "Turkish forward who scored twice in the last five minutes to beat the Czech Republic at Euro 2008. Starred for Real Sociedad, who nearly won La Liga in 2003.",
+        "a": "Nihat Kahveci"
+      },
+      {
+        "q": "Turkish striker who captained his country and helped Lille to a shock Ligue 1 title in 2021. Previously won several Turkish top-flight golden boots, mostly with Galatasaray.",
+        "a": "Burak Yilmaz"
+      },
+      {
+        "q": "Belgian playmaker of Italian descent who appeared at four World Cups between 1986 and 1998. Played for Anderlecht, Inter, Bordeaux and Monaco. Hailed as a new Pele as a teenager.",
+        "a": "Enzo Scifo"
+      },
+      {
+        "q": "Belgian goalkeeper who starred as his country reached the 1986 World Cup semi-finals. Won three Bundesliga titles with Bayern Munich in the 1980s. Became a reality-TV personality at home.",
+        "a": "Jean-Marie Pfaff"
+      },
+      {
+        "q": "Belgian midfielder with an unmistakable afro who joined Manchester United from Everton on deadline day in 2013. Used as a battering ram in the closing minutes. Left for China in 2019.",
+        "a": "Marouane Fellaini"
+      },
+      {
+        "q": "Belgian midfielder who played for Standard Liege, Benfica, Zenit and a Chinese club before joining Borussia Dortmund in 2018. Later moved to Atletico Madrid and was reinvented as a centre-back.",
+        "a": "Axel Witsel"
+      },
+      {
+        "q": "Belgian winger who joined Manchester City from Rennes in 2023. Came through at Anderlecht and made his international debut as a teenager. Explosive, low to the ground and hard to knock over.",
+        "a": "Jeremy Doku"
+      },
+      {
+        "q": "Swiss goalkeeper who saved a penalty in the shoot-out that knocked France out of Euro 2020. Played for Borussia Monchengladbach, Bayern Munich and Inter.",
+        "a": "Yann Sommer"
+      },
+      {
+        "q": "Swiss right-back who won seven straight Serie A titles with Juventus. Nicknamed the Forrest Gump of football for his tireless running. Joined Arsenal in 2018.",
+        "a": "Stephan Lichtsteiner"
+      },
+      {
+        "q": "Austrian forward who came through at Inter under Mourinho, then made his name at Stoke and West Ham. Captained his country and became its record goalscorer. Returned to Inter in 2023.",
+        "a": "Marko Arnautovic"
+      },
+      {
+        "q": "Austrian striker who scored twice as his country beat West Germany in the 1978 Miracle of Cordoba. Won the European Golden Boot that year and later played for Barcelona.",
+        "a": "Hans Krankl"
+      },
+      {
+        "q": "Swedish forward who starred as his country finished third at the 1994 World Cup, scoring from a clever free-kick routine against Romania. His later move to Leeds became a byword for a flop.",
+        "a": "Tomas Brolin"
+      },
+      {
+        "q": "Danish winger who won Euro 1992 and became a hero at Rangers, where he was voted Scotland's player of the year in 1996. Also played for Fiorentina and AC Milan.",
+        "a": "Brian Laudrup"
+      },
+      {
+        "q": "Danish striker who inspired unfashionable Hellas Verona to the 1985 Serie A title. Scored a hat-trick against Uruguay at the 1986 World Cup. Finished second in the 1984 Ballon d'Or.",
+        "a": "Preben Elkjaer"
+      },
+      {
+        "q": "Norwegian left-back with one of the hardest shots in the game. Scored a thunderous free kick against Manchester United at Anfield in his first season with Liverpool. Later scored a costly own goal against Chelsea in a 2008 semi-final.",
+        "a": "John Arne Riise"
+      },
+      {
+        "q": "Lanky Norwegian striker who scored the equaliser as his country beat Brazil at the 1998 World Cup. Played for Chelsea before a then Scottish-record move to Rangers.",
+        "a": "Tore Andre Flo"
+      },
+      {
+        "q": "Icelandic striker who once came on as a substitute for his own father in an international match. Won two Premier League titles with Chelsea and the 2009 Champions League with Barcelona.",
+        "a": "Eidur Gudjohnsen"
+      },
+      {
+        "q": "Finnish striker who scored 29 goals to fire Norwich to the Championship title in 2019. His country's all-time top scorer, he led them to their first major tournament at Euro 2020.",
+        "a": "Teemu Pukki"
+      },
+      {
+        "q": "Irish winger who moved from Blackburn to Chelsea in 2003 for a club-record fee and won two Premier League titles. Later played for Newcastle and Fulham, reaching the 2010 Europa League final.",
+        "a": "Damien Duff"
+      },
+      {
+        "q": "Irish midfielder nicknamed Chippy for his love of chips rather than his passing. Won the 1979 FA Cup with Arsenal before seven years in Italy with Juventus, Sampdoria and Inter.",
+        "a": "Liam Brady"
+      },
+      {
+        "q": "Irish goalkeeper who made over 350 Premier League appearances for Newcastle before joining Manchester City in 2009. Also played for Aston Villa and Stoke, winning more than 130 caps.",
+        "a": "Shay Given"
+      },
+      {
+        "q": "Australian striker who scored all four goals for Leeds in a 4-3 win over Liverpool in 2000. Captained his country at the 2006 World Cup. Also played for Celtic, Middlesbrough and Newcastle.",
+        "a": "Mark Viduka"
+      },
+      {
+        "q": "Australian goalkeeper who played over 500 Premier League games for Middlesbrough, Fulham and Chelsea. Saved two penalties in the shoot-out that sent his country to the 2006 World Cup.",
+        "a": "Mark Schwarzer"
+      },
+      {
+        "q": "Japanese left-back who spent seven years at Inter Milan and also played for Galatasaray and Marseille. Appeared at four World Cups. Famous for his stamina and punishing abdominal training.",
+        "a": "Yuto Nagatomo"
+      },
+      {
+        "q": "Japanese forward signed by Liverpool from Red Bull Salzburg in 2020 after impressing against them in Europe. Later joined Monaco. Versatile across the entire front line.",
+        "a": "Takumi Minamino"
+      },
+      {
+        "q": "South Korean forward who joined Wolves from RB Leipzig in 2021. Earlier starred at Red Bull Salzburg alongside a young Erling Haaland. Nicknamed the Bull for his physical running.",
+        "a": "Hwang Hee-chan"
+      },
+      {
+        "q": "American striker who became such a Fulham favourite that the club named a bar after him. Played on with a bloodied face after an elbow from Daniele De Rossi at the 2006 World Cup.",
+        "a": "Brian McBride"
+      },
+      {
+        "q": "American goalkeeper whose extraordinary display shut out Brazil in a 1998 Gold Cup match, drawing lavish praise from Romario. Played for Millwall, Leicester, Rayo Vallecano and Tottenham.",
+        "a": "Kasey Keller"
+      },
+      {
+        "q": "American midfielder nicknamed Captain America who played for Rangers, Sunderland and Manchester City. Named in the all-star team at the 2002 World Cup. Later became a sporting director in MLS.",
+        "a": "Claudio Reyna"
       }
     ]
   },
@@ -51009,6 +75001,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act this movie",
         "a": "Kung Fu Panda"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Avengers: Endgame"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Avengers: Infinity War"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Iron Man"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Thor"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Captain America"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Spider-Man: No Way Home"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Wonder Woman"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Aquaman"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Transformers"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Fast and the Furious"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Night at the Museum"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Mummy"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Twilight"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Charlie and the Chocolate Factory"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Alice in Wonderland"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Chronicles of Narnia"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Encanto"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Tangled"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Sleeping Beauty"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Princess and the Frog"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Big Hero 6"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Inside Out"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Sing"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Trolls"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Secret Life of Pets"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Hotel Transylvania"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Shrek 2"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Toy Story 3"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "A Bug's Life"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Rio"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Happy Feet"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Bee Movie"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Cloudy with a Chance of Meatballs"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Croods"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Boss Baby"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Puss in Boots"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Shark Tale"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Elf"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Grinch"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Polar Express"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Mrs. Doubtfire"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Ace Ventura"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Liar Liar"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Bruce Almighty"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Hangover"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Cast Away"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Rush Hour"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Bad Boys"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Independence Day"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Armageddon"
       }
     ],
     "400": [
@@ -51143,6 +75335,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act this movie",
         "a": "Bohemian Rhapsody"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "I Am Legend"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "World War Z"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Zombieland"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Conjuring"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "It"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Scream"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Halloween"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Final Destination"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Saw"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "A Nightmare on Elm Street"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Exorcist"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Alien"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Predator"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Star Trek"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Pacific Rim"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Godzilla vs. Kong"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Day After Tomorrow"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Ocean's Eleven"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Now You See Me"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Italian Job"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Taken"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Bourne Identity"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Goldfinger"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Jerry Maguire"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Good Will Hunting"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "A Beautiful Mind"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Green Mile"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Catch Me If You Can"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Sixth Sense"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Signs"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Legally Blonde"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Bridesmaids"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Superbad"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "21 Jump Street"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Anchorman"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Dodgeball"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Zoolander"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Austin Powers"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Groundhog Day"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Big"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Coming to America"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Beverly Hills Cop"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Lethal Weapon"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Con Air"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Rock"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Face/Off"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Gone Girl"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Slumdog Millionaire"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Life of Pi"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Space Jam"
       }
     ],
     "600": [
@@ -51289,6 +75681,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Act this movie",
         "a": "Everything Everywhere All at Once"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Full Metal Jacket"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Deer Hunter"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "One Flew Over the Cuckoo's Nest"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Chinatown"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Cool Hand Luke"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Great Escape"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Butch Cassidy and the Sundance Kid"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Good, the Bad and the Ugly"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Once Upon a Time in the West"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Dr. Strangelove"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Bridge on the River Kwai"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Ben-Hur"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Spartacus"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Some Like It Hot"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Breakfast at Tiffany's"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "It's a Wonderful Life"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Metropolis"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Nosferatu"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Third Man"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Double Indemnity"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Sunset Boulevard"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "On the Waterfront"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Reservoir Dogs"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Jackie Brown"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Django Unchained"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Once Upon a Time in Hollywood"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Hateful Eight"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Trainspotting"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Usual Suspects"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "L.A. Confidential"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "American Psycho"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Big Lebowski"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "O Brother, Where Art Thou?"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Boogie Nights"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Magnolia"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Phantom Thread"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Royal Tenenbaums"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Moonrise Kingdom"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Lost in Translation"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Marriage Story"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Lighthouse"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Midsommar"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "The Witch"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Seven Samurai"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Spirited Away"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Princess Mononoke"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Akira"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "City of God"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Cinema Paradiso"
+      },
+      {
+        "q": "Act out this movie!",
+        "a": "Life Is Beautiful"
       }
     ]
   },
@@ -52780,6 +77372,110 @@ const QUALITY_BACKFILL = {
       {
         "q": "Monrovia",
         "a": "Liberia"
+      },
+      {
+        "q": "Rio de Janeiro (capital until 1960)",
+        "a": "Brazil"
+      },
+      {
+        "q": "Bonn (capital until 1990)",
+        "a": "Germany"
+      },
+      {
+        "q": "Philadelphia (national capital 1790-1800)",
+        "a": "United States"
+      },
+      {
+        "q": "Kyoto (imperial capital until 1868)",
+        "a": "Japan"
+      },
+      {
+        "q": "Saint Petersburg (capital 1712-1918)",
+        "a": "Russia"
+      },
+      {
+        "q": "Istanbul (capital of the Ottoman Empire)",
+        "a": "Turkey"
+      },
+      {
+        "q": "Lagos (capital until 1991)",
+        "a": "Nigeria"
+      },
+      {
+        "q": "Melbourne (seat of the federal parliament until 1927)",
+        "a": "Australia"
+      },
+      {
+        "q": "Alexandria (Ptolemaic capital)",
+        "a": "Egypt"
+      },
+      {
+        "q": "Kolkata (imperial capital until 1911)",
+        "a": "India"
+      },
+      {
+        "q": "Cusco (capital of the Inca Empire)",
+        "a": "Peru"
+      },
+      {
+        "q": "Tenochtitlan (capital of the Aztec Empire)",
+        "a": "Mexico"
+      },
+      {
+        "q": "Krakow (royal capital until 1596)",
+        "a": "Poland"
+      },
+      {
+        "q": "Toledo (capital until 1561)",
+        "a": "Spain"
+      },
+      {
+        "q": "Turin (first capital after unification in 1861)",
+        "a": "Italy"
+      },
+      {
+        "q": "Auckland (capital until 1865)",
+        "a": "New Zealand"
+      },
+      {
+        "q": "Marrakesh (former imperial capital)",
+        "a": "Morocco"
+      },
+      {
+        "q": "Saigon (wartime capital of the South)",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Dar es Salaam (government moved out in 1996)",
+        "a": "Tanzania"
+      },
+      {
+        "q": "Karachi (first capital after independence in 1947)",
+        "a": "Pakistan"
+      },
+      {
+        "q": "Yangon (capital until 2005)",
+        "a": "Myanmar"
+      },
+      {
+        "q": "Almaty (capital until 1997)",
+        "a": "Kazakhstan"
+      },
+      {
+        "q": "Abidjan (largest city and seat of government)",
+        "a": "Ivory Coast"
+      },
+      {
+        "q": "Nanjing (Nationalist capital in the 1930s)",
+        "a": "China"
+      },
+      {
+        "q": "Nusantara (new capital under construction)",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Babylon (ancient capital)",
+        "a": "Iraq"
       }
     ],
     "400": [
@@ -52806,6 +77502,134 @@ const QUALITY_BACKFILL = {
       {
         "q": "Bloemfontein (judicial capital)",
         "a": "South Africa"
+      },
+      {
+        "q": "Persepolis (ceremonial capital of an ancient empire)",
+        "a": "Iran"
+      },
+      {
+        "q": "Carthage (ancient capital of a Mediterranean empire)",
+        "a": "Tunisia"
+      },
+      {
+        "q": "Xi'an (ancient dynastic capital)",
+        "a": "China"
+      },
+      {
+        "q": "Angkor (capital of the Khmer Empire)",
+        "a": "Cambodia"
+      },
+      {
+        "q": "Petra (capital of the Nabataeans)",
+        "a": "Jordan"
+      },
+      {
+        "q": "Florence (capital 1865-1871)",
+        "a": "Italy"
+      },
+      {
+        "q": "Quezon City (capital 1948-1976)",
+        "a": "Philippines"
+      },
+      {
+        "q": "Valparaiso (seat of the National Congress)",
+        "a": "Chile"
+      },
+      {
+        "q": "Sejong (planned administrative capital)",
+        "a": "South Korea"
+      },
+      {
+        "q": "Hue (imperial capital of the Nguyen dynasty)",
+        "a": "Vietnam"
+      },
+      {
+        "q": "Ayutthaya (kingdom capital sacked in 1767)",
+        "a": "Thailand"
+      },
+      {
+        "q": "Sukhothai (first kingdom capital, 13th century)",
+        "a": "Thailand"
+      },
+      {
+        "q": "Yogyakarta (republican capital 1946-1948)",
+        "a": "Indonesia"
+      },
+      {
+        "q": "Luang Prabang (royal capital)",
+        "a": "Laos"
+      },
+      {
+        "q": "Kandy (last royal capital, fell in 1815)",
+        "a": "Sri Lanka"
+      },
+      {
+        "q": "Kaesong (capital of the Goryeo dynasty)",
+        "a": "North Korea"
+      },
+      {
+        "q": "Nara (first permanent capital, founded in 710)",
+        "a": "Japan"
+      },
+      {
+        "q": "Turku (capital until 1812)",
+        "a": "Finland"
+      },
+      {
+        "q": "Trondheim (medieval capital)",
+        "a": "Norway"
+      },
+      {
+        "q": "Roskilde (medieval royal capital)",
+        "a": "Denmark"
+      },
+      {
+        "q": "Kharkiv (republic capital until 1934)",
+        "a": "Ukraine"
+      },
+      {
+        "q": "Kaunas (provisional capital 1920-1939)",
+        "a": "Lithuania"
+      },
+      {
+        "q": "Veliko Tarnovo (medieval imperial capital)",
+        "a": "Bulgaria"
+      },
+      {
+        "q": "Isfahan (Safavid capital)",
+        "a": "Iran"
+      },
+      {
+        "q": "Coimbra (early medieval capital)",
+        "a": "Portugal"
+      },
+      {
+        "q": "Salvador (first colonial capital)",
+        "a": "Brazil"
+      },
+      {
+        "q": "Nafplio (first capital of the modern state)",
+        "a": "Greece"
+      },
+      {
+        "q": "Spanish Town (capital until 1872)",
+        "a": "Jamaica"
+      },
+      {
+        "q": "Cartago (capital until 1823)",
+        "a": "Costa Rica"
+      },
+      {
+        "q": "Zomba (capital until 1975)",
+        "a": "Malawi"
+      },
+      {
+        "q": "Gondar (imperial capital from the 1630s)",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "Comayagua (capital until 1880)",
+        "a": "Honduras"
       }
     ],
     "600": [
@@ -52844,6 +77668,150 @@ const QUALITY_BACKFILL = {
       {
         "q": "Bujumbura (economic capital)",
         "a": "Burundi"
+      },
+      {
+        "q": "Livingstone (colonial capital until 1935)",
+        "a": "Zambia"
+      },
+      {
+        "q": "Entebbe (colonial-era seat of government)",
+        "a": "Uganda"
+      },
+      {
+        "q": "Koror (capital until 2006)",
+        "a": "Palau"
+      },
+      {
+        "q": "Aden (interim seat of government since 2015)",
+        "a": "Yemen"
+      },
+      {
+        "q": "Leon (capital until 1852)",
+        "a": "Nicaragua"
+      },
+      {
+        "q": "Cape Coast (colonial capital until 1877)",
+        "a": "Ghana"
+      },
+      {
+        "q": "Saint-Louis (colonial capital until 1957)",
+        "a": "Senegal"
+      },
+      {
+        "q": "Anuradhapura (ancient royal capital)",
+        "a": "Sri Lanka"
+      },
+      {
+        "q": "Iasi (wartime capital 1916-1918)",
+        "a": "Romania"
+      },
+      {
+        "q": "Baguio (official summer capital)",
+        "a": "Philippines"
+      },
+      {
+        "q": "Grand-Bassam (first colonial capital)",
+        "a": "Ivory Coast"
+      },
+      {
+        "q": "Esztergom (first royal seat)",
+        "a": "Hungary"
+      },
+      {
+        "q": "Sokoto (capital of a 19th-century caliphate)",
+        "a": "Nigeria"
+      },
+      {
+        "q": "Gao (capital of the Songhai Empire)",
+        "a": "Mali"
+      },
+      {
+        "q": "Aksum (capital of an ancient trading kingdom)",
+        "a": "Ethiopia"
+      },
+      {
+        "q": "Meroe (capital of the Kushite kingdom)",
+        "a": "Sudan"
+      },
+      {
+        "q": "Mbanza-Kongo (capital of a medieval African kingdom)",
+        "a": "Angola"
+      },
+      {
+        "q": "Abomey (capital of the Dahomey kingdom)",
+        "a": "Benin"
+      },
+      {
+        "q": "Ciudad de la Paz (planned future capital)",
+        "a": "Equatorial Guinea"
+      },
+      {
+        "q": "Ctesiphon (Parthian and Sasanian capital)",
+        "a": "Iraq"
+      },
+      {
+        "q": "Samarkand (capital of the Timurid Empire)",
+        "a": "Uzbekistan"
+      },
+      {
+        "q": "Kandahar (first capital of the Durrani Empire)",
+        "a": "Afghanistan"
+      },
+      {
+        "q": "Lahore (capital of the Sikh Empire)",
+        "a": "Pakistan"
+      },
+      {
+        "q": "Rawalpindi (interim capital 1959-1969)",
+        "a": "Pakistan"
+      },
+      {
+        "q": "Gyeongju (capital of the Silla kingdom)",
+        "a": "South Korea"
+      },
+      {
+        "q": "Kamakura (seat of a shogunate from 1185)",
+        "a": "Japan"
+      },
+      {
+        "q": "Chongqing (wartime capital in the 1940s)",
+        "a": "China"
+      },
+      {
+        "q": "Levuka (capital until 1877)",
+        "a": "Fiji"
+      },
+      {
+        "q": "Kolonia (capital until 1989)",
+        "a": "Federated States of Micronesia"
+      },
+      {
+        "q": "Rabaul (territorial capital until 1937)",
+        "a": "Papua New Guinea"
+      },
+      {
+        "q": "Tulagi (colonial capital until 1952)",
+        "a": "Solomon Islands"
+      },
+      {
+        "q": "Valladolid (royal court capital 1601-1606)",
+        "a": "Spain"
+      },
+      {
+        "q": "Naples (capital of the Kingdom of the Two Sicilies)",
+        "a": "Italy"
+      },
+      {
+        "q": "Punakha (capital until 1955)",
+        "a": "Bhutan"
+      },
+      {
+        "q": "Mtskheta (ancient royal capital)",
+        "a": "Georgia"
+      },
+      {
+        "q": "Bagan (capital of a medieval Burmese kingdom)",
+        "a": "Myanmar"
       }
     ]
   },
@@ -53096,6 +78064,190 @@ const QUALITY_BACKFILL = {
       {
         "q": "\"Спокойной ночи\" (Spokoynoy nochi)",
         "a": "Russian"
+      },
+      {
+        "q": "Vamos a la playa",
+        "a": "Spanish"
+      },
+      {
+        "q": "Mi casa es su casa",
+        "a": "Spanish"
+      },
+      {
+        "q": "Uno, dos, tres, cuatro",
+        "a": "Spanish"
+      },
+      {
+        "q": "El agua está muy fría",
+        "a": "Spanish"
+      },
+      {
+        "q": "Buenas tardes, amigo",
+        "a": "Spanish"
+      },
+      {
+        "q": "¿Hablas inglés?",
+        "a": "Spanish"
+      },
+      {
+        "q": "Quiero un café con leche",
+        "a": "Spanish"
+      },
+      {
+        "q": "Lunes, martes, miércoles",
+        "a": "Spanish"
+      },
+      {
+        "q": "Merci beaucoup, madame",
+        "a": "French"
+      },
+      {
+        "q": "Je voudrais un croissant",
+        "a": "French"
+      },
+      {
+        "q": "Un, deux, trois, quatre",
+        "a": "French"
+      },
+      {
+        "q": "Lundi, mardi, mercredi",
+        "a": "French"
+      },
+      {
+        "q": "J'ai très soif",
+        "a": "French"
+      },
+      {
+        "q": "Le chat est sur la table",
+        "a": "French"
+      },
+      {
+        "q": "Ich möchte ein Bier, bitte",
+        "a": "German"
+      },
+      {
+        "q": "Montag, Dienstag, Mittwoch",
+        "a": "German"
+      },
+      {
+        "q": "Das Wetter ist heute schön",
+        "a": "German"
+      },
+      {
+        "q": "Sprechen Sie Englisch?",
+        "a": "German"
+      },
+      {
+        "q": "Wo wohnst du?",
+        "a": "German"
+      },
+      {
+        "q": "Alles Gute zum Fest",
+        "a": "German"
+      },
+      {
+        "q": "Buonasera a tutti",
+        "a": "Italian"
+      },
+      {
+        "q": "Vorrei un caffè, per favore",
+        "a": "Italian"
+      },
+      {
+        "q": "Lunedì, martedì, mercoledì",
+        "a": "Italian"
+      },
+      {
+        "q": "Ti voglio bene",
+        "a": "Italian"
+      },
+      {
+        "q": "Parli inglese?",
+        "a": "Italian"
+      },
+      {
+        "q": "Andiamo al mare",
+        "a": "Italian"
+      },
+      {
+        "q": "Obrigada pela ajuda",
+        "a": "Portuguese"
+      },
+      {
+        "q": "Onde você mora?",
+        "a": "Portuguese"
+      },
+      {
+        "q": "Segunda-feira, terça-feira",
+        "a": "Portuguese"
+      },
+      {
+        "q": "Eu quero um cafezinho",
+        "a": "Portuguese"
+      },
+      {
+        "q": "Que saudade de você",
+        "a": "Portuguese"
+      },
+      {
+        "q": "こんばんは (Konbanwa)",
+        "a": "Japanese"
+      },
+      {
+        "q": "私は学生です (Watashi wa gakusei desu)",
+        "a": "Japanese"
+      },
+      {
+        "q": "水をください (Mizu o kudasai)",
+        "a": "Japanese"
+      },
+      {
+        "q": "いち、に、さん (Ichi, ni, san)",
+        "a": "Japanese"
+      },
+      {
+        "q": "さようなら (Sayōnara)",
+        "a": "Japanese"
+      },
+      {
+        "q": "再见 (Zàijiàn)",
+        "a": "Chinese"
+      },
+      {
+        "q": "我是学生 (Wǒ shì xuésheng)",
+        "a": "Chinese"
+      },
+      {
+        "q": "请喝茶 (Qǐng hē chá)",
+        "a": "Chinese"
+      },
+      {
+        "q": "你会说英语吗？(Nǐ huì shuō yīngyǔ ma?)",
+        "a": "Chinese"
+      },
+      {
+        "q": "من فضلك (Min fadlik)",
+        "a": "Arabic"
+      },
+      {
+        "q": "إن شاء الله (Insha'Allah)",
+        "a": "Arabic"
+      },
+      {
+        "q": "أنا جائع (Ana jaa'i)",
+        "a": "Arabic"
+      },
+      {
+        "q": "Как дела? (Kak dela?)",
+        "a": "Russian"
+      },
+      {
+        "q": "Один, два, три (Odin, dva, tri)",
+        "a": "Russian"
+      },
+      {
+        "q": "Что это такое? (Chto eto takoye?)",
+        "a": "Russian"
       }
     ],
     "400": [
@@ -53256,10 +78408,6 @@ const QUALITY_BACKFILL = {
         "a": "Portuguese"
       },
       {
-        "q": "\"Onde fica o banheiro?\"",
-        "a": "Portuguese"
-      },
-      {
         "q": "\"Você fala inglês?\"",
         "a": "Portuguese"
       },
@@ -53394,6 +78542,190 @@ const QUALITY_BACKFILL = {
       {
         "q": "\"Vær så snill\"",
         "a": "Norwegian"
+      },
+      {
+        "q": "Bir, iki, üç, dört",
+        "a": "Turkish"
+      },
+      {
+        "q": "Su istiyorum",
+        "a": "Turkish"
+      },
+      {
+        "q": "Adın ne?",
+        "a": "Turkish"
+      },
+      {
+        "q": "İyi akşamlar",
+        "a": "Turkish"
+      },
+      {
+        "q": "Seni seviyorum",
+        "a": "Turkish"
+      },
+      {
+        "q": "Καλώς ήρθατε (Kalos irthate)",
+        "a": "Greek"
+      },
+      {
+        "q": "Στην υγειά μας (Stin ygeiá mas)",
+        "a": "Greek"
+      },
+      {
+        "q": "Πού είναι η τουαλέτα; (Pou eínai i toualéta?)",
+        "a": "Greek"
+      },
+      {
+        "q": "Με λένε Γιώργο (Me léne Giórgo)",
+        "a": "Greek"
+      },
+      {
+        "q": "Πεινάω πολύ (Peináo polí)",
+        "a": "Greek"
+      },
+      {
+        "q": "धन्यवाद (Dhanyavaad)",
+        "a": "Hindi"
+      },
+      {
+        "q": "शुभ रात्रि (Shubh raatri)",
+        "a": "Hindi"
+      },
+      {
+        "q": "मुझे भूख लगी है (Mujhe bhookh lagi hai)",
+        "a": "Hindi"
+      },
+      {
+        "q": "यह कितने का है? (Yeh kitne ka hai?)",
+        "a": "Hindi"
+      },
+      {
+        "q": "이거 주세요 (Igeo juseyo)",
+        "a": "Korean"
+      },
+      {
+        "q": "생일 축하합니다 (Saengil chukhahamnida)",
+        "a": "Korean"
+      },
+      {
+        "q": "맛있어요 (Masisseoyo)",
+        "a": "Korean"
+      },
+      {
+        "q": "Trevligt att träffas",
+        "a": "Swedish"
+      },
+      {
+        "q": "Jag heter Erik",
+        "a": "Swedish"
+      },
+      {
+        "q": "God jul och gott nytt år",
+        "a": "Swedish"
+      },
+      {
+        "q": "Fredag, lördag, söndag",
+        "a": "Swedish"
+      },
+      {
+        "q": "Hoe heet je?",
+        "a": "Dutch"
+      },
+      {
+        "q": "Waar is het station?",
+        "a": "Dutch"
+      },
+      {
+        "q": "Een, twee, drie, vier",
+        "a": "Dutch"
+      },
+      {
+        "q": "Fijne verjaardag",
+        "a": "Dutch"
+      },
+      {
+        "q": "Ik ben erg moe",
+        "a": "Dutch"
+      },
+      {
+        "q": "Jak się nazywasz?",
+        "a": "Polish"
+      },
+      {
+        "q": "Gdzie jest dworzec?",
+        "a": "Polish"
+      },
+      {
+        "q": "Kocham cię",
+        "a": "Polish"
+      },
+      {
+        "q": "Na zdrowie",
+        "a": "Polish"
+      },
+      {
+        "q": "Poniedziałek, wtorek, środa",
+        "a": "Polish"
+      },
+      {
+        "q": "מה שלומך? (Ma shlomcha?)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "בבקשה (Bevakasha)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "אחת, שתיים, שלוש (Achat, shtayim, shalosh)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "אני אוהב אותך (Ani ohev otach)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "Jeg heter Ole",
+        "a": "Norwegian"
+      },
+      {
+        "q": "Unnskyld meg",
+        "a": "Norwegian"
+      },
+      {
+        "q": "Jeg hedder Anders",
+        "a": "Danish"
+      },
+      {
+        "q": "Rødgrød med fløde",
+        "a": "Danish"
+      },
+      {
+        "q": "Доброго ранку (Dobroho ranku)",
+        "a": "Ukrainian"
+      },
+      {
+        "q": "Як тебе звати? (Yak tebe zvaty?)",
+        "a": "Ukrainian"
+      },
+      {
+        "q": "Смачного (Smachnoho)",
+        "a": "Ukrainian"
+      },
+      {
+        "q": "אני לא מבין (Ani lo mevin)",
+        "a": "Hebrew"
+      },
+      {
+        "q": "Волим те (Volim te)",
+        "a": "Serbian"
+      },
+      {
+        "q": "Благодаря много (Blagodarya mnogo)",
+        "a": "Bulgarian"
+      },
+      {
+        "q": "Как се казваш? (Kak se kazvash?)",
+        "a": "Bulgarian"
       }
     ],
     "600": [
@@ -53672,6 +79004,194 @@ const QUALITY_BACKFILL = {
       {
         "q": "\"Nos da, cariad\"",
         "a": "Welsh"
+      },
+      {
+        "q": "Minä rakastan sinua",
+        "a": "Finnish"
+      },
+      {
+        "q": "Nähdään huomenna",
+        "a": "Finnish"
+      },
+      {
+        "q": "Egészségedre",
+        "a": "Hungarian"
+      },
+      {
+        "q": "Kwaheri rafiki",
+        "a": "Swahili"
+      },
+      {
+        "q": "Kumain ka na ba?",
+        "a": "Tagalog"
+      },
+      {
+        "q": "Ingat ka",
+        "a": "Tagalog"
+      },
+      {
+        "q": "خداحافظ (Khodahafez)",
+        "a": "Farsi"
+      },
+      {
+        "q": "Xin lỗi bạn",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "Rất vui được gặp bạn",
+        "a": "Vietnamese"
+      },
+      {
+        "q": "ขอบคุณมาก (Khop khun mak)",
+        "a": "Thai"
+      },
+      {
+        "q": "สบายดีไหม (Sabai dee mai)",
+        "a": "Thai"
+      },
+      {
+        "q": "Dobrý den, jak se máte?",
+        "a": "Czech"
+      },
+      {
+        "q": "Miluji tě",
+        "a": "Czech"
+      },
+      {
+        "q": "Ce mai faci?",
+        "a": "Romanian"
+      },
+      {
+        "q": "Îmi pare rău",
+        "a": "Romanian"
+      },
+      {
+        "q": "მიყვარხარ (Miqvarkhar)",
+        "a": "Georgian"
+      },
+      {
+        "q": "Zenbat balio du?",
+        "a": "Basque"
+      },
+      {
+        "q": "Hvað heitir þú?",
+        "a": "Icelandic"
+      },
+      {
+        "q": "Gleðileg jól",
+        "a": "Icelandic"
+      },
+      {
+        "q": "አመሰግናለሁ (Ameseginalehu)",
+        "a": "Amharic"
+      },
+      {
+        "q": "អរគុណច្រើន (Arkoun chraen)",
+        "a": "Khmer"
+      },
+      {
+        "q": "ස්තූතියි (Sthuthi)",
+        "a": "Sinhala"
+      },
+      {
+        "q": "Баярлалаа (Bayarlalaa)",
+        "a": "Mongolian"
+      },
+      {
+        "q": "धेरै धन्यवाद (Dherai dhanyabad)",
+        "a": "Nepali"
+      },
+      {
+        "q": "Unjani namhlanje?",
+        "a": "Zulu"
+      },
+      {
+        "q": "Ďakujem pekne",
+        "a": "Slovak"
+      },
+      {
+        "q": "Lahko noč",
+        "a": "Slovenian"
+      },
+      {
+        "q": "Aitäh, head aega",
+        "a": "Estonian"
+      },
+      {
+        "q": "Paldies liels",
+        "a": "Latvian"
+      },
+      {
+        "q": "Ačiū labai",
+        "a": "Lithuanian"
+      },
+      {
+        "q": "Faleminderit shumë",
+        "a": "Albanian"
+      },
+      {
+        "q": "Grazzi ħafna",
+        "a": "Maltese"
+      },
+      {
+        "q": "Sut mae?",
+        "a": "Welsh"
+      },
+      {
+        "q": "Slán go fóill",
+        "a": "Irish"
+      },
+      {
+        "q": "Bona nit, fins demà",
+        "a": "Catalan"
+      },
+      {
+        "q": "Hoe gaan dit met jou?",
+        "a": "Afrikaans"
+      },
+      {
+        "q": "Բարի լույս (Bari luys)",
+        "a": "Armenian"
+      },
+      {
+        "q": "Vos macht ir?",
+        "a": "Yiddish"
+      },
+      {
+        "q": "Gratias tibi ago",
+        "a": "Latin"
+      },
+      {
+        "q": "Mi amas vin",
+        "a": "Esperanto"
+      },
+      {
+        "q": "நீங்கள் எப்படி இருக்கிறீர்கள்? (Neengal eppadi irukkireergal?)",
+        "a": "Tamil"
+      },
+      {
+        "q": "আমি তোমাকে ভালোবাসি (Ami tomake bhalobashi)",
+        "a": "Bengali"
+      },
+      {
+        "q": "ကျေးဇူးတင်ပါတယ် (Kyay zu tin ba de)",
+        "a": "Burmese"
+      },
+      {
+        "q": "ਬਹੁਤ ਧੰਨਵਾਦ (Bahut dhannvaad)",
+        "a": "Punjabi"
+      },
+      {
+        "q": "ధన్యవాదాలు (Dhanyavaadalu)",
+        "a": "Telugu"
+      },
+      {
+        "q": "بہت شکریہ (Bohot shukriya)",
+        "a": "Urdu"
+      },
+      {
+        "q": "Mahadsanid",
+        "a": "Somali"
       }
     ]
   },
@@ -53832,6 +79352,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Subtle"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Awkward"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ridiculous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sincerely"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Successful"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Niece"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Forty"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Millionaire"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Attendance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Appearance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bargain"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bruise"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cafeteria"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ceremony"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Curiosity"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Deceive"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Descendant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Desperate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Disappoint"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Disastrous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Discipline"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Efficient"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Eighth"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Equipment"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Especially"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Excellent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Experience"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Explanation"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Finally"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fulfill"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gorgeous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Guidance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Humorous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ignorance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Imaginary"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Innocence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Interesting"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Jealous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Judgment"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Language"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Laughter"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Lightning"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Loneliness"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Marriage"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Mustache"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Naughty"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Nuisance"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Obedient"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Opponent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Passenger"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Patience"
       }
     ],
     "400": [
@@ -53994,6 +79714,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Vinaigrette"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Abscess"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Aficionado"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Amphibian"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Anesthesia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Apparatus"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Aqueduct"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Asthma"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Barbiturate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Beignet"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bruschetta"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Caffeine"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Camaraderie"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Catastrophe"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Charcuterie"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cinnamon"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Colloquial"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Debutante"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Delicatessen"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Denouement"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Desiccate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Diaphragm"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Dossier"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ecstasy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Effervescent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Embezzle"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Espresso"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Etiquette"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Euphoria"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Exorbitant"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Flabbergasted"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gazebo"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gymnasium"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hyperbole"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Impeccable"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Incognito"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Innuendo"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Jeopardy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Linoleum"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Lozenge"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Macabre"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Malachite"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Marshmallow"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Nauseous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Obituary"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Occupancy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Palatable"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Papyrus"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Peculiar"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Perimeter"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Quandary"
       }
     ],
     "600": [
@@ -54168,6 +80088,206 @@ const QUALITY_BACKFILL = {
       {
         "q": "Spell this word",
         "a": "Paronomasia"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Knaidel"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Marocain"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Nunatak"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gladiolus"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Mellifluous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Interlocutor"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Vituperative"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Concupiscence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Peregrination"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Grandiloquent"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Somnambulist"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Circumlocution"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Perspicuity"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Defenestration"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Xanthous"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ratiocination"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Susurration"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hebetude"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ineluctable"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Apotheosis"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cachinnate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Cordillera"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Diaeresis"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ecclesiastical"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Effulgence"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fantoccini"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Farrago"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Fricassee"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Gallimaufry"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hagiography"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hendiadys"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Hypnopompic"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ichthyology"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Imbroglio"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Jacquerie"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Katzenjammer"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Lepidopterist"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Machicolation"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Maieutic"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Nephelometer"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Obcordate"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Panegyric"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Quadrivium"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Quotidian"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Rhabdomancy"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Sacerdotal"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Tergiversation"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Ubiety"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Zeugma"
+      },
+      {
+        "q": "Spell this word",
+        "a": "Bricolage"
       }
     ]
   }

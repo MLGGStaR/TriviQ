@@ -43,6 +43,13 @@
       "file": "qualityBackfill"
     },
     {
+      "cat": "family_guy",
+      "q": "The theme song complains about violence in movies and what else on TV?",
+      "a": "Sex",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
       "cat": "pop_culture",
       "q": "Which YouTuber faced the 'Suicide Forest' controversy?",
       "a": "Logan Paul",
@@ -57,9 +64,86 @@
       "file": "qualityBackfill"
     },
     {
+      "cat": "stranger_things",
+      "q": "Which creature does Mr. Clarke place with an acrobat to explain other dimensions?",
+      "a": "A flea",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "the_flash",
+      "q": "How does Barry describe himself in the show's opening narration?",
+      "a": "The fastest man alive",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "vikings",
+      "q": "What is the world of humans called in Norse cosmology?",
+      "a": "Midgard",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I'm a key on a keyboard, a page in your browser, and what you run up at a bar. What am I?",
+      "a": "A tab",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I'm the smallest unit of life, a prisoner's room, and what Americans call their mobile phone. What am I?",
+      "a": "A cell",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "who_what_am_i",
+      "q": "I'm what you say when you're okay, and what you pay when you park where you shouldn't. What am I?",
+      "a": "A fine",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "general",
+      "q": "What is the term for words that imitate the sound they describe, like 'buzz' or 'hiss'?",
+      "a": "Onomatopoeia",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "friends",
+      "q": "Which sea creature does Phoebe use to describe a person's soulmate?",
+      "a": "A lobster",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
       "cat": "breaking_bad",
       "q": "What catchphrase does Jesse use to describe things he likes?",
       "a": "Yeah, bitch",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "What story does Skyler tell Ted to explain the money that clears his tax debt?",
+      "a": "An inheritance from an aunt",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "breaking_bad",
+      "q": "The season 2 titles Seven Thirty-Seven, Down, Over and ABQ describe which disaster?",
+      "a": "A plane crash",
+      "reason": "essay/multipart pattern",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "blacklist",
+      "q": "What two-word title does Red use to describe his line of work?",
+      "a": "Concierge of crime",
       "reason": "essay/multipart pattern",
       "file": "qualityBackfill"
     },

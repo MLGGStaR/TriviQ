@@ -127,6 +127,13 @@
       "file": "newCategoriesPack2"
     },
     {
+      "cat": "invincible",
+      "q": "How many eyes does Allen the Alien have?",
+      "a": "One",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
       "cat": "math",
       "q": "What is 5 × 6?",
       "a": "30",
@@ -282,6 +289,13 @@
     },
     {
       "cat": "math",
+      "q": "How many hours are in a week?",
+      "a": "168",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "math",
       "q": "What is the cube root of 27?",
       "a": "3",
       "reason": "baby-level pattern (tier 400)",
@@ -309,9 +323,23 @@
       "file": "qualityBackfill"
     },
     {
+      "cat": "space",
+      "q": "How many planets in our solar system have ring systems?",
+      "a": "4",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
       "cat": "the_boys",
       "q": "What color is the blood of the main villain shown on screen?",
       "a": "Red",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "vikings",
+      "q": "How many eyes does Odin have in Norse myth?",
+      "a": "One",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },
@@ -540,9 +568,30 @@
       "file": "qualityBackfill"
     },
     {
+      "cat": "general",
+      "q": "What is a baby swan called?",
+      "a": "Cygnet",
+      "reason": "baby-level pattern (tier 400)",
+      "file": "qualityBackfill"
+    },
+    {
       "cat": "geography",
       "q": "What is the capital of China?",
       "a": "Beijing",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "geography",
+      "q": "What is the capital of Greece?",
+      "a": "Athens",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "geography",
+      "q": "What is the largest ocean on Earth?",
+      "a": "Pacific Ocean",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },
@@ -571,6 +620,20 @@
       "cat": "science",
       "q": "What is a baby cow called?",
       "a": "Calf",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "science",
+      "q": "What is the second largest planet in our solar system?",
+      "a": "Saturn",
+      "reason": "baby-level pattern (tier 200)",
+      "file": "qualityBackfill"
+    },
+    {
+      "cat": "science",
+      "q": "How many legs does an adult insect have?",
+      "a": "6",
       "reason": "baby-level pattern (tier 200)",
       "file": "qualityBackfill"
     },

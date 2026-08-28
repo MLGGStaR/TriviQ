@@ -128,15 +128,33 @@
     },
     {
       "cat": "general",
-      "q": "How many players on a basketball team on court?",
+      "q": "How many Great Lakes are there in North America?",
       "a": "5",
       "reason": "same-answer cap (>3 entries with answer \"5\" in general/200)"
     },
     {
       "cat": "general",
-      "q": "How many sides does an octagon have?",
-      "a": "8",
-      "reason": "same-answer cap (>3 entries with answer \"8\" in general/200)"
+      "q": "How many strings does a standard violin have?",
+      "a": "4",
+      "reason": "same-answer cap (>3 entries with answer \"4\" in general/200)"
+    },
+    {
+      "cat": "general",
+      "q": "How many players does each ice hockey team have on the ice, including the goalie?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in general/200)"
+    },
+    {
+      "cat": "general",
+      "q": "How many sides does a hexagon have?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in general/200)"
+    },
+    {
+      "cat": "general",
+      "q": "How many strings does a standard guitar have?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in general/200)"
     },
     {
       "cat": "general",
@@ -145,10 +163,16 @@
       "reason": "same-answer cap (>3 entries with answer \"6\" in general/200)"
     },
     {
-      "cat": "science",
-      "q": "What element has the atomic number 1?",
-      "a": "Hydrogen",
-      "reason": "same-answer cap (>3 entries with answer \"Hydrogen\" in science/400)"
+      "cat": "general",
+      "q": "How many teaspoons are in a tablespoon?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in general/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "Rings on the Olympic flag?",
+      "a": "5",
+      "reason": "same-answer cap (>3 entries with answer \"5\" in sports/200)"
     },
     {
       "cat": "sports",
@@ -158,15 +182,33 @@
     },
     {
       "cat": "sports",
-      "q": "How many bases are there on a baseball diamond?",
+      "q": "Which sport has positions called point guard and small forward?",
+      "a": "Basketball",
+      "reason": "same-answer cap (>3 entries with answer \"Basketball\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "How many balls does a pitcher have to throw for a batter to be walked?",
       "a": "4",
       "reason": "same-answer cap (>3 entries with answer \"4\" in sports/200)"
     },
     {
       "cat": "sports",
-      "q": "How many Grand Slam events does tennis have?",
-      "a": "4",
-      "reason": "same-answer cap (>3 entries with answer \"4\" in sports/200)"
+      "q": "How many touches is a volleyball team allowed before sending the ball back over?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "How many league points does a team get for a win in the Premier League?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "Points for a field goal in American football?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in sports/200)"
     },
     {
       "cat": "sports",
@@ -176,31 +218,43 @@
     },
     {
       "cat": "sports",
-      "q": "Which sport uses the term 'bogey'?",
-      "a": "Golf",
-      "reason": "same-answer cap (>3 entries with answer \"Golf\" in sports/200)"
+      "q": "How many games must a player normally win to take a set in tennis?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "Points for a touchdown in American football?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in sports/200)"
+    },
+    {
+      "cat": "sports",
+      "q": "Players on a volleyball team?",
+      "a": "6",
+      "reason": "same-answer cap (>3 entries with answer \"6\" in sports/200)"
     },
     {
       "cat": "music",
-      "q": "Band behind We Will Rock You?",
-      "a": "Queen",
-      "reason": "same-answer cap (>3 entries with answer \"Queen\" in music/200)"
-    },
-    {
-      "cat": "movies",
-      "q": "Who directed 'Schindler's List'?",
-      "a": "Steven Spielberg",
-      "reason": "same-answer cap (>3 entries with answer \"Steven Spielberg\" in movies/200)"
-    },
-    {
-      "cat": "movies",
-      "q": "Director of Jurassic Park?",
-      "a": "Steven Spielberg",
-      "reason": "same-answer cap (>3 entries with answer \"Steven Spielberg\" in movies/200)"
+      "q": "Who sang Halo and Single Ladies?",
+      "a": "Beyoncé",
+      "reason": "same-answer cap (>3 entries with answer \"Beyoncé\" in music/200)"
     },
     {
       "cat": "country_facts",
-      "q": "What country is shaped like a boot?",
+      "q": "The Colosseum stands in which country?",
+      "a": "Italy",
+      "reason": "same-answer cap (>3 entries with answer \"Italy\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Leaning Tower of Pisa is in which country?",
+      "a": "Italy",
+      "reason": "same-answer cap (>3 entries with answer \"Italy\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The ruined Roman city of Pompeii lies in which country?",
       "a": "Italy",
       "reason": "same-answer cap (>3 entries with answer \"Italy\" in country_facts/200)"
     },
@@ -212,19 +266,61 @@
     },
     {
       "cat": "country_facts",
+      "q": "Which country has Canberra as its capital?",
+      "a": "Australia",
+      "reason": "same-answer cap (>3 entries with answer \"Australia\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Sydney Opera House is in which country?",
+      "a": "Australia",
+      "reason": "same-answer cap (>3 entries with answer \"Australia\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The sandstone monolith Uluru is in which country?",
+      "a": "Australia",
+      "reason": "same-answer cap (>3 entries with answer \"Australia\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country's national anthem is La Marseillaise?",
+      "a": "France",
+      "reason": "same-answer cap (>3 entries with answer \"France\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Cannes Film Festival is held in which country?",
+      "a": "France",
+      "reason": "same-answer cap (>3 entries with answer \"France\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
       "q": "What country is home to Mount Fuji?",
       "a": "Japan",
       "reason": "same-answer cap (>3 entries with answer \"Japan\" in country_facts/200)"
     },
     {
       "cat": "country_facts",
-      "q": "What country has the most coffee production?",
+      "q": "The Shinkansen bullet train network runs in which country?",
+      "a": "Japan",
+      "reason": "same-answer cap (>3 entries with answer \"Japan\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The kimono is the traditional garment of which country?",
+      "a": "Japan",
+      "reason": "same-answer cap (>3 entries with answer \"Japan\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Christ the Redeemer statue stands in which country?",
       "a": "Brazil",
       "reason": "same-answer cap (>3 entries with answer \"Brazil\" in country_facts/200)"
     },
     {
       "cat": "country_facts",
-      "q": "What country is the Amazon river mostly in?",
+      "q": "Which country's flag shows a blue globe inside a yellow diamond?",
       "a": "Brazil",
       "reason": "same-answer cap (>3 entries with answer \"Brazil\" in country_facts/200)"
     },
@@ -248,27 +344,171 @@
     },
     {
       "cat": "country_facts",
-      "q": "What country is shaped like a maple leaf country?",
+      "q": "Which country has Ottawa as its capital?",
       "a": "Canada",
       "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
     },
     {
       "cat": "country_facts",
-      "q": "What country is the Taj Mahal in?",
+      "q": "The Horseshoe Falls section of Niagara Falls belongs to which country?",
+      "a": "Canada",
+      "reason": "same-answer cap (>3 entries with answer \"Canada\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country overtook China as the world's most populous in 2023?",
       "a": "India",
       "reason": "same-answer cap (>3 entries with answer \"India\" in country_facts/200)"
     },
     {
-      "cat": "star_wars",
-      "q": "Who plays Grand Admiral Thrawn in live action?",
-      "a": "Lars Mikkelsen",
-      "reason": "same-answer cap (>3 entries with answer \"Lars Mikkelsen\" in star_wars/600)"
+      "cat": "country_facts",
+      "q": "Which country has the largest population in the world?",
+      "a": "India",
+      "reason": "same-answer cap (>3 entries with answer \"India\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country's flag has a navy blue 24-spoked wheel at its centre?",
+      "a": "India",
+      "reason": "same-answer cap (>3 entries with answer \"India\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is home to the Sagrada Família?",
+      "a": "Spain",
+      "reason": "same-answer cap (>3 entries with answer \"Spain\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Running of the Bulls in Pamplona is held in which country?",
+      "a": "Spain",
+      "reason": "same-answer cap (>3 entries with answer \"Spain\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Alhambra palace in Granada is in which country?",
+      "a": "Spain",
+      "reason": "same-answer cap (>3 entries with answer \"Spain\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The buried Terracotta Army was discovered in which country?",
+      "a": "China",
+      "reason": "same-answer cap (>3 entries with answer \"China\" in country_facts/200)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country uses the international vehicle code CH?",
+      "a": "Switzerland",
+      "reason": "same-answer cap (>3 entries with answer \"Switzerland\" in country_facts/400)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "The Mediterranean island of Sardinia belongs to which country?",
+      "a": "Italy",
+      "reason": "same-answer cap (>3 entries with answer \"Italy\" in country_facts/400)"
+    },
+    {
+      "cat": "country_facts",
+      "q": "Which country is home to the Salar de Uyuni salt flat?",
+      "a": "Bolivia",
+      "reason": "same-answer cap (>3 entries with answer \"Bolivia\" in country_facts/600)"
     },
     {
       "cat": "friends",
-      "q": "Which friend marries Chandler?",
+      "q": "Which friend waits tables at the coffee house in the early seasons?",
+      "a": "Rachel",
+      "reason": "same-answer cap (>3 entries with answer \"Rachel\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend is mortified by Phoebe's flailing style of running?",
+      "a": "Rachel",
+      "reason": "same-answer cap (>3 entries with answer \"Rachel\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend was overweight in high school?",
       "a": "Monica",
       "reason": "same-answer cap (>3 entries with answer \"Monica\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend insists on hosting Thanksgiving dinner nearly every year?",
+      "a": "Monica",
+      "reason": "same-answer cap (>3 entries with answer \"Monica\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend is stung by a jellyfish during the beach trip?",
+      "a": "Monica",
+      "reason": "same-answer cap (>3 entries with answer \"Monica\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend spends time living on the streets as a teenager?",
+      "a": "Phoebe",
+      "reason": "same-answer cap (>3 entries with answer \"Phoebe\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which of the six friends is a lifelong vegetarian?",
+      "a": "Phoebe",
+      "reason": "same-answer cap (>3 entries with answer \"Phoebe\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend screams My eyes! after spotting Monica and Chandler together?",
+      "a": "Phoebe",
+      "reason": "same-answer cap (>3 entries with answer \"Phoebe\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend is teased for having a third nipple?",
+      "a": "Chandler",
+      "reason": "same-answer cap (>3 entries with answer \"Chandler\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend's trademark question starts with the words Could I be any more?",
+      "a": "Chandler",
+      "reason": "same-answer cap (>3 entries with answer \"Chandler\" in friends/200)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend does Rachel first kiss during the trip to Barbados?",
+      "a": "Joey",
+      "reason": "same-answer cap (>3 entries with answer \"Joey\" in friends/400)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend pees on Monica after her jellyfish sting?",
+      "a": "Joey",
+      "reason": "same-answer cap (>3 entries with answer \"Joey\" in friends/400)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend gets his head stuck inside a raw turkey?",
+      "a": "Joey",
+      "reason": "same-answer cap (>3 entries with answer \"Joey\" in friends/400)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend does Rachel move in with after leaving Monica's apartment?",
+      "a": "Joey",
+      "reason": "same-answer cap (>3 entries with answer \"Joey\" in friends/400)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend does not travel to London for Ross's wedding?",
+      "a": "Phoebe",
+      "reason": "same-answer cap (>3 entries with answer \"Phoebe\" in friends/400)"
+    },
+    {
+      "cat": "friends",
+      "q": "Which friend spends an episode trying to recreate her grandmother's cookie recipe?",
+      "a": "Phoebe",
+      "reason": "same-answer cap (>3 entries with answer \"Phoebe\" in friends/400)"
     },
     {
       "cat": "stranger_things",
@@ -283,10 +523,28 @@
       "reason": "same-answer cap (>3 entries with answer \"Minecraft\" in video_games/200)"
     },
     {
-      "cat": "video_games",
-      "q": "What studio made Uncharted?",
-      "a": "Naughty Dog",
-      "reason": "same-answer cap (>3 entries with answer \"Naughty Dog\" in video_games/600)"
+      "cat": "prison_break",
+      "q": "Which escapee ends up with Westmoreland's five million dollars?",
+      "a": "T-Bag",
+      "reason": "same-answer cap (>3 entries with answer \"T-Bag\" in prison_break/400)"
+    },
+    {
+      "cat": "prison_break",
+      "q": "Who shoots Tweener dead in season 2?",
+      "a": "Alexander Mahone",
+      "reason": "same-answer cap (>3 entries with answer \"Alexander Mahone\" in prison_break/400)"
+    },
+    {
+      "cat": "prison_break",
+      "q": "Who tortures and kills Wyatt in season 4?",
+      "a": "Alexander Mahone",
+      "reason": "same-answer cap (>3 entries with answer \"Alexander Mahone\" in prison_break/400)"
+    },
+    {
+      "cat": "prison_break",
+      "q": "Who kills Aldo Burrows?",
+      "a": "Alexander Mahone",
+      "reason": "same-answer cap (>3 entries with answer \"Alexander Mahone\" in prison_break/400)"
     },
     {
       "cat": "pokemon",
@@ -302,6 +560,12 @@
     },
     {
       "cat": "invincible",
+      "q": "Who does Rex Splode cheat on Atom Eve with?",
+      "a": "Dupli-Kate",
+      "reason": "same-answer cap (>3 entries with answer \"Dupli-Kate\" in invincible/400)"
+    },
+    {
+      "cat": "invincible",
       "q": "What is Kid Omni-Man's other nickname?",
       "a": "Oliver",
       "reason": "same-answer cap (>3 entries with answer \"Oliver\" in invincible/600)"
@@ -313,28 +577,28 @@
       "reason": "same-answer cap (>3 entries with answer \"Thraxa\" in invincible/600)"
     },
     {
-      "cat": "invincible",
-      "q": "What is the name of the planet Nolan settles on in season 2?",
-      "a": "Thraxa",
-      "reason": "same-answer cap (>3 entries with answer \"Thraxa\" in invincible/600)"
-    },
-    {
-      "cat": "the_boys",
-      "q": "What is the name of the corporation that manages superheroes?",
-      "a": "Vought",
-      "reason": "same-answer cap (>3 entries with answer \"Vought\" in the_boys/200)"
-    },
-    {
       "cat": "the_boys",
       "q": "What Supe joins The Seven as the first Black speedster?",
       "a": "A-Train",
       "reason": "same-answer cap (>3 entries with answer \"A-Train\" in the_boys/200)"
     },
     {
+      "cat": "the_boys",
+      "q": "Which Seven member's Compound V abuse damages his heart?",
+      "a": "A-Train",
+      "reason": "same-answer cap (>3 entries with answer \"A-Train\" in the_boys/200)"
+    },
+    {
+      "cat": "the_boys",
+      "q": "Which member of the Seven does Sister Sage have a fling with in season 4?",
+      "a": "The Deep",
+      "reason": "same-answer cap (>3 entries with answer \"The Deep\" in the_boys/400)"
+    },
+    {
       "cat": "the_walking_dead",
-      "q": "What does Negan call his baseball bat?",
-      "a": "Lucille",
-      "reason": "same-answer cap (>3 entries with answer \"Lucille\" in the_walking_dead/400)"
+      "q": "Who shoots Dawn moments after Beth is killed?",
+      "a": "Daryl",
+      "reason": "same-answer cap (>3 entries with answer \"Daryl\" in the_walking_dead/400)"
     },
     {
       "cat": "the_walking_dead",
@@ -355,10 +619,40 @@
       "reason": "same-answer cap (>3 entries with answer \"Jessica Pearson\" in suits/200)"
     },
     {
+      "cat": "suits",
+      "q": "Who holds the managing partner job for most of season 8?",
+      "a": "Robert Zane",
+      "reason": "same-answer cap (>3 entries with answer \"Robert Zane\" in suits/400)"
+    },
+    {
+      "cat": "dexter",
+      "q": "Whom does the Ice Truck Killer date and later kidnap in season 1?",
+      "a": "Debra",
+      "reason": "same-answer cap (>3 entries with answer \"Debra\" in dexter/400)"
+    },
+    {
+      "cat": "dexter",
+      "q": "Whom does Brian strap to his table in the season 1 finale?",
+      "a": "Debra",
+      "reason": "same-answer cap (>3 entries with answer \"Debra\" in dexter/400)"
+    },
+    {
       "cat": "vikings",
-      "q": "What English monastery is raided in the first season?",
-      "a": "Lindisfarne",
-      "reason": "same-answer cap (>3 entries with answer \"Lindisfarne\" in vikings/200)"
+      "q": "Who deals Bjorn his mortal wound during the eastern invasion?",
+      "a": "Ivar",
+      "reason": "same-answer cap (>3 entries with answer \"Ivar\" in vikings/400)"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "Who is Bulma's boyfriend long before she settles down with a Saiyan?",
+      "a": "Yamcha",
+      "reason": "same-answer cap (>3 entries with answer \"Yamcha\" in dragon_ball/200)"
+    },
+    {
+      "cat": "dragon_ball",
+      "q": "Which showman does the world believe defeated Cell?",
+      "a": "Mr. Satan",
+      "reason": "same-answer cap (>3 entries with answer \"Mr. Satan\" in dragon_ball/200)"
     },
     {
       "cat": "charades_movies",
@@ -398,33 +692,9 @@
     },
     {
       "cat": "technology",
-      "q": "What company makes the iPhone?",
-      "a": "Apple",
-      "reason": "same-answer cap (>3 entries with answer \"Apple\" in technology/200)"
-    },
-    {
-      "cat": "technology",
-      "q": "What company owns YouTube?",
+      "q": "Which company bought the smart thermostat maker Nest in 2014?",
       "a": "Google",
-      "reason": "same-answer cap (>3 entries with answer \"Google\" in technology/200)"
-    },
-    {
-      "cat": "family_guy",
-      "q": "Who voices Peter Griffin?",
-      "a": "Seth MacFarlane",
-      "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
-    },
-    {
-      "cat": "family_guy",
-      "q": "Who voices Stewie?",
-      "a": "Seth MacFarlane",
-      "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
-    },
-    {
-      "cat": "family_guy",
-      "q": "Who voices Brian?",
-      "a": "Seth MacFarlane",
-      "reason": "same-answer cap (>3 entries with answer \"Seth MacFarlane\" in family_guy/200)"
+      "reason": "same-answer cap (>3 entries with answer \"Google\" in technology/400)"
     },
     {
       "cat": "modern_family",
@@ -463,28 +733,16 @@
       "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
     },
     {
-      "cat": "modern_family",
-      "q": "What team does Phil coach in little league?",
-      "a": "None iconic",
-      "reason": "same-answer cap (>3 entries with answer \"None iconic\" in modern_family/600)"
+      "cat": "arrow",
+      "q": "Who becomes the new Ra's al Ghul at the end of season 3?",
+      "a": "Malcolm Merlyn",
+      "reason": "same-answer cap (>3 entries with answer \"Malcolm Merlyn\" in arrow/400)"
     },
     {
       "cat": "arrow",
-      "q": "What is Oliver Queen's superhero alias?",
-      "a": "Green Arrow",
-      "reason": "same-answer cap (>3 entries with answer \"Green Arrow\" in arrow/200)"
-    },
-    {
-      "cat": "arrow",
-      "q": "Nyssa al Ghul is the daughter of?",
-      "a": "Ra's al Ghul",
-      "reason": "same-answer cap (>3 entries with answer \"Ra's al Ghul\" in arrow/400)"
-    },
-    {
-      "cat": "arrow",
-      "q": "Who is the magical villain of season four?",
-      "a": "Damien Darhk",
-      "reason": "same-answer cap (>3 entries with answer \"Damien Darhk\" in arrow/400)"
+      "q": "Who kills Moira Queen?",
+      "a": "Slade Wilson",
+      "reason": "same-answer cap (>3 entries with answer \"Slade Wilson\" in arrow/400)"
     },
     {
       "cat": "minecraft",
@@ -493,34 +751,16 @@
       "reason": "same-answer cap (>3 entries with answer \"Creeper\" in minecraft/200)"
     },
     {
-      "cat": "space",
-      "q": "What planet is named after the god of war?",
-      "a": "Mars",
-      "reason": "same-answer cap (>3 entries with answer \"Mars\" in space/200)"
+      "cat": "minecraft",
+      "q": "What mob drops gunpowder when killed?",
+      "a": "Creeper",
+      "reason": "same-answer cap (>3 entries with answer \"Creeper\" in minecraft/200)"
     },
     {
       "cat": "space",
-      "q": "What is the largest planet?",
-      "a": "Jupiter",
-      "reason": "same-answer cap (>3 entries with answer \"Jupiter\" in space/200)"
-    },
-    {
-      "cat": "space",
-      "q": "What planet is famous for its Great Red Spot?",
-      "a": "Jupiter",
-      "reason": "same-answer cap (>3 entries with answer \"Jupiter\" in space/200)"
-    },
-    {
-      "cat": "space",
-      "q": "What is the hot ball of gas at our solar system's center?",
-      "a": "The Sun",
-      "reason": "same-answer cap (>3 entries with answer \"The Sun\" in space/200)"
-    },
-    {
-      "cat": "space",
-      "q": "What planet is known for being windy and blue?",
-      "a": "Neptune",
-      "reason": "same-answer cap (>3 entries with answer \"Neptune\" in space/200)"
+      "q": "Which planet is light enough that it would float in a giant bathtub of water?",
+      "a": "Saturn",
+      "reason": "same-answer cap (>3 entries with answer \"Saturn\" in space/200)"
     },
     {
       "cat": "math",
@@ -536,7 +776,19 @@
     },
     {
       "cat": "math",
-      "q": "What is 4 plus 4 plus 4?",
+      "q": "What is the perimeter of a rectangle with sides 6 and 4?",
+      "a": "20",
+      "reason": "same-answer cap (>3 entries with answer \"20\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 96 ÷ 8?",
+      "a": "12",
+      "reason": "same-answer cap (>3 entries with answer \"12\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is the range of the numbers 3, 7 and 15?",
       "a": "12",
       "reason": "same-answer cap (>3 entries with answer \"12\" in math/200)"
     },
@@ -545,6 +797,24 @@
       "q": "What is 18 divided by 2?",
       "a": "9",
       "reason": "same-answer cap (>3 entries with answer \"9\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 20% of 45?",
+      "a": "9",
+      "reason": "same-answer cap (>3 entries with answer \"9\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "If 3x = 27, what is x?",
+      "a": "9",
+      "reason": "same-answer cap (>3 entries with answer \"9\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "How many vertices does a cube have?",
+      "a": "8",
+      "reason": "same-answer cap (>3 entries with answer \"8\" in math/200)"
     },
     {
       "cat": "math",
@@ -560,9 +830,21 @@
     },
     {
       "cat": "math",
-      "q": "What is 10 times 10?",
-      "a": "100",
-      "reason": "same-answer cap (>3 entries with answer \"100\" in math/200)"
+      "q": "How many faces does a triangular prism have?",
+      "a": "5",
+      "reason": "same-answer cap (>3 entries with answer \"5\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 7 × 8 + 4?",
+      "a": "60",
+      "reason": "same-answer cap (>3 entries with answer \"60\" in math/200)"
+    },
+    {
+      "cat": "math",
+      "q": "What is two thirds of 90?",
+      "a": "60",
+      "reason": "same-answer cap (>3 entries with answer \"60\" in math/200)"
     },
     {
       "cat": "math",
@@ -577,40 +859,1474 @@
       "reason": "same-answer cap (>3 entries with answer \"12\" in math/400)"
     },
     {
+      "cat": "math",
+      "q": "What is the greatest common divisor of 48 and 36?",
+      "a": "12",
+      "reason": "same-answer cap (>3 entries with answer \"12\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is the volume of a cone with radius 3 and height 4, in terms of pi?",
+      "a": "12π",
+      "reason": "same-answer cap (>3 entries with answer \"12π\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "How many radians is 30 degrees?",
+      "a": "π/6",
+      "reason": "same-answer cap (>3 entries with answer \"π/6\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is 1/2 + 1/3 + 1/6?",
+      "a": "1",
+      "reason": "same-answer cap (>3 entries with answer \"1\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "How many sides does a Möbius strip have?",
+      "a": "1",
+      "reason": "same-answer cap (>3 entries with answer \"1\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is the mode of the numbers 2, 3, 3, 5, 7, 3, 9?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is the slope of the line through the points (1, 2) and (3, 8)?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is the larger solution of x² − 5x + 6 = 0?",
+      "a": "3",
+      "reason": "same-answer cap (>3 entries with answer \"3\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is log base 3 of 81?",
+      "a": "4",
+      "reason": "same-answer cap (>3 entries with answer \"4\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is the smallest number of colours needed so that no two bordering regions of any flat map share a colour?",
+      "a": "4",
+      "reason": "same-answer cap (>3 entries with answer \"4\" in math/400)"
+    },
+    {
+      "cat": "math",
+      "q": "What is i to the fourth power?",
+      "a": "1",
+      "reason": "same-answer cap (>3 entries with answer \"1\" in math/600)"
+    },
+    {
+      "cat": "math",
+      "q": "What number does the repeating decimal 0.999... exactly equal?",
+      "a": "1",
+      "reason": "same-answer cap (>3 entries with answer \"1\" in math/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"¿Dónde está la biblioteca?\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Hasta mañana\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Lo siento mucho\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Feliz cumpleaños\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"¿Cuánto cuesta?\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"¿Qué hora es?\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"La cuenta, por favor\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Tengo hambre\"",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Vamos a la playa",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Mi casa es su casa",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Uno, dos, tres, cuatro",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "El agua está muy fría",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Buenas tardes, amigo",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "¿Hablas inglés?",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Quiero un café con leche",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Lunes, martes, miércoles",
+      "a": "Spanish",
+      "reason": "same-answer cap (>3 entries with answer \"Spanish\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Bonne nuit, à demain\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Je ne sais pas\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Joyeux anniversaire\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Enchanté, je m'appelle Claire\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Où sont les toilettes ?\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Il fait beau aujourd'hui\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Quelle heure est-il ?\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"À bientôt, mon ami\"",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Merci beaucoup, madame",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Je voudrais un croissant",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Un, deux, trois, quatre",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Lundi, mardi, mercredi",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "J'ai très soif",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Le chat est sur la table",
+      "a": "French",
+      "reason": "same-answer cap (>3 entries with answer \"French\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Wie heißt du?\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Entschuldigung, wo ist der Bahnhof?\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Herzlichen Glückwunsch\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ich verstehe nicht\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Eins, zwei, drei, vier, fünf\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Wo sind die Toiletten?\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ich habe Hunger\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Wie viel kostet das?\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Bis später, tschüss\"",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Ich möchte ein Bier, bitte",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Montag, Dienstag, Mittwoch",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Das Wetter ist heute schön",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Sprechen Sie Englisch?",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Wo wohnst du?",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Alles Gute zum Fest",
+      "a": "German",
+      "reason": "same-answer cap (>3 entries with answer \"German\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Mi dispiace\"",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Dove si trova la stazione?\"",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Uno, due, tre, quattro, cinque\"",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Quanto costa?\"",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Che ore sono?\"",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ho fame\"",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Buonasera a tutti",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Vorrei un caffè, per favore",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Lunedì, martedì, mercoledì",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Ti voglio bene",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Parli inglese?",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Andiamo al mare",
+      "a": "Italian",
+      "reason": "same-answer cap (>3 entries with answer \"Italian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Onde você mora?",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Segunda-feira, terça-feira",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Eu quero um cafezinho",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Que saudade de você",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"すみません\" (Sumimasen)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"いただきます\" (Itadakimasu)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"お疲れ様でした\" (Otsukaresama deshita)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"がんばって\" (Ganbatte)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"はじめまして\" (Hajimemashite)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"おやすみなさい\" (Oyasuminasai)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"どういたしまして\" (Dō itashimashite)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "こんばんは (Konbanwa)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "私は学生です (Watashi wa gakusei desu)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "水をください (Mizu o kudasai)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "いち、に、さん (Ichi, ni, san)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "さようなら (Sayōnara)",
+      "a": "Japanese",
+      "reason": "same-answer cap (>3 entries with answer \"Japanese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "我是学生 (Wǒ shì xuésheng)",
+      "a": "Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "请喝茶 (Qǐng hē chá)",
+      "a": "Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "你会说英语吗？(Nǐ huì shuō yīngyǔ ma?)",
+      "a": "Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Пожалуйста\" (Pozhaluysta)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"До свидания\" (Do svidaniya)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Я не понимаю\" (Ya ne ponimayu)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Как тебя зовут?\" (Kak tebya zovut?)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Добрый вечер\" (Dobry vecher)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Спокойной ночи\" (Spokoynoy nochi)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Как дела? (Kak dela?)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Один, два, три (Odin, dva, tri)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "Что это такое? (Chto eto takoye?)",
+      "a": "Russian",
+      "reason": "same-answer cap (>3 entries with answer \"Russian\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"أهلاً وسهلاً\" (Ahlan wa sahlan)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"الحمد لله\" (Alhamdulillah)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"واحد، اثنان، ثلاثة\" (Wahid, ithnan, thalatha)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"لا أفهم\" (La afham)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "من فضلك (Min fadlik)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "إن شاء الله (Insha'Allah)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "أنا جائع (Ana jaa'i)",
+      "a": "Arabic",
+      "reason": "same-answer cap (>3 entries with answer \"Arabic\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"生日快乐\" (Shēngrì kuàilè)",
+      "a": "Mandarin Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Mandarin Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"晚安\" (Wǎn'ān)",
+      "a": "Mandarin Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Mandarin Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"一、二、三、四、五\" (Yī, èr, sān, sì, wǔ)",
+      "a": "Mandarin Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Mandarin Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"你叫什么名字？\" (Nǐ jiào shénme míngzi?)",
+      "a": "Mandarin Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Mandarin Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"不客气\" (Bú kèqi)",
+      "a": "Mandarin Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Mandarin Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "\"我饿了\" (Wǒ è le)",
+      "a": "Mandarin Chinese",
+      "reason": "same-answer cap (>3 entries with answer \"Mandarin Chinese\" in language/200)"
+    },
+    {
+      "cat": "language",
+      "q": "אחת, שתיים, שלוש (Achat, shtayim, shalosh)",
+      "a": "Hebrew",
+      "reason": "same-answer cap (>3 entries with answer \"Hebrew\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "אני אוהב אותך (Ani ohev otach)",
+      "a": "Hebrew",
+      "reason": "same-answer cap (>3 entries with answer \"Hebrew\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "אני לא מבין (Ani lo mevin)",
+      "a": "Hebrew",
+      "reason": "same-answer cap (>3 entries with answer \"Hebrew\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"एक, दो, तीन\" (Ek, do, teen)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"मेरा नाम राज है\" (Mera naam Raj hai)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"फिर मिलेंगे\" (Phir milenge)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "धन्यवाद (Dhanyavaad)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "शुभ रात्रि (Shubh raatri)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "मुझे भूख लगी है (Mujhe bhookh lagi hai)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "यह कितने का है? (Yeh kitne ka hai?)",
+      "a": "Hindi",
+      "reason": "same-answer cap (>3 entries with answer \"Hindi\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Do widzenia\"",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Jeden, dwa, trzy\"",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Dobranoc\"",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Nie rozumiem\"",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Smacznego\"",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Jak się nazywasz?",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Gdzie jest dworzec?",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Kocham cię",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Na zdrowie",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Poniedziałek, wtorek, środa",
+      "a": "Polish",
+      "reason": "same-answer cap (>3 entries with answer \"Polish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Jag förstår inte\"",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Hej då\"",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ett, två, tre\"",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Jag älskar dig\"",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Varsågod\"",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Trevligt att träffas",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Jag heter Erik",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "God jul och gott nytt år",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Fredag, lördag, söndag",
+      "a": "Swedish",
+      "reason": "same-answer cap (>3 entries with answer \"Swedish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ik hou van jou\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Tot ziens\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ik begrijp het niet\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Alsjeblieft\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Hoe laat is het?\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Welterusten\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Spreekt u Engels?\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Gezellig\"",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Hoe heet je?",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Waar is het station?",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Een, twee, drie, vier",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Fijne verjaardag",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Ik ben erg moe",
+      "a": "Dutch",
+      "reason": "same-answer cap (>3 entries with answer \"Dutch\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Farvel og tak\"",
+      "a": "Danish",
+      "reason": "same-answer cap (>3 entries with answer \"Danish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Jeg hedder Anders",
+      "a": "Danish",
+      "reason": "same-answer cap (>3 entries with answer \"Danish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Rødgrød med fløde",
+      "a": "Danish",
+      "reason": "same-answer cap (>3 entries with answer \"Danish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Смачного (Smachnoho)",
+      "a": "Ukrainian",
+      "reason": "same-answer cap (>3 entries with answer \"Ukrainian\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Hoş geldiniz\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Afiyet olsun\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Görüşürüz\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"İyi geceler\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Çok güzel\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Bu ne kadar?\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Kolay gelsin\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Hoşça kal\"",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Bir, iki, üç, dört",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Su istiyorum",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Adın ne?",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "İyi akşamlar",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Seni seviyorum",
+      "a": "Turkish",
+      "reason": "same-answer cap (>3 entries with answer \"Turkish\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Feliz aniversário\"",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Boa noite, até amanhã\"",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Um, dois, três, quatro, cinco\"",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Estou com fome\"",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Você fala inglês?\"",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Até logo, meu amigo\"",
+      "a": "Portuguese",
+      "reason": "same-answer cap (>3 entries with answer \"Portuguese\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Δεν καταλαβαίνω\" (Den katalavéno)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Παρακαλώ\" (Parakaló)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ένα, δύο, τρία\" (Éna, dýo, tría)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Τι κάνεις;\" (Ti káneis?)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Καλησπέρα\" (Kalispéra)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Πόσο κάνει;\" (Póso kánei?)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Συγγνώμη\" (Signómi)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Καλώς ήρθατε (Kalos irthate)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Στην υγειά μας (Stin ygeiá mas)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Πού είναι η τουαλέτα; (Pou eínai i toualéta?)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Με λένε Γιώργο (Me léne Giórgo)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Πεινάω πολύ (Peináo polí)",
+      "a": "Greek",
+      "reason": "same-answer cap (>3 entries with answer \"Greek\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"잘 먹겠습니다\" (Jal meokgesseumnida)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"죄송합니다\" (Joesonghamnida)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"하나, 둘, 셋\" (Hana, dul, set)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"잘 자요\" (Jal jayo)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"괜찮아요\" (Gwaenchanayo)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"만나서 반갑습니다\" (Mannaseo bangapseumnida)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "\"얼마예요?\" (Eolmayeyo?)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "이거 주세요 (Igeo juseyo)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "생일 축하합니다 (Saengil chukhahamnida)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "맛있어요 (Masisseoyo)",
+      "a": "Korean",
+      "reason": "same-answer cap (>3 entries with answer \"Korean\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Unnskyld meg",
+      "a": "Norwegian",
+      "reason": "same-answer cap (>3 entries with answer \"Norwegian\" in language/400)"
+    },
+    {
+      "cat": "language",
+      "q": "Sut mae?",
+      "a": "Welsh",
+      "reason": "same-answer cap (>3 entries with answer \"Welsh\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Bat, bi, hiru\"",
+      "a": "Basque",
+      "reason": "same-answer cap (>3 entries with answer \"Basque\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Agur, ikusi arte\"",
+      "a": "Basque",
+      "reason": "same-answer cap (>3 entries with answer \"Basque\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Zenbat balio du?",
+      "a": "Basque",
+      "reason": "same-answer cap (>3 entries with answer \"Basque\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Ég elska þig\"",
+      "a": "Icelandic",
+      "reason": "same-answer cap (>3 entries with answer \"Icelandic\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Hvað heitir þú?",
+      "a": "Icelandic",
+      "reason": "same-answer cap (>3 entries with answer \"Icelandic\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Gleðileg jól",
+      "a": "Icelandic",
+      "reason": "same-answer cap (>3 entries with answer \"Icelandic\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"ერთი, ორი, სამი\" (Erti, ori, sami)",
+      "a": "Georgian",
+      "reason": "same-answer cap (>3 entries with answer \"Georgian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"ნახვამდის\" (Nakhvamdis)",
+      "a": "Georgian",
+      "reason": "same-answer cap (>3 entries with answer \"Georgian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "მიყვარხარ (Miqvarkhar)",
+      "a": "Georgian",
+      "reason": "same-answer cap (>3 entries with answer \"Georgian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Hyvää yötä\"",
+      "a": "Finnish",
+      "reason": "same-answer cap (>3 entries with answer \"Finnish\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Anteeksi\"",
+      "a": "Finnish",
+      "reason": "same-answer cap (>3 entries with answer \"Finnish\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Minä rakastan sinua",
+      "a": "Finnish",
+      "reason": "same-answer cap (>3 entries with answer \"Finnish\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Nähdään huomenna",
+      "a": "Finnish",
+      "reason": "same-answer cap (>3 entries with answer \"Finnish\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Jó éjszakát\"",
+      "a": "Hungarian",
+      "reason": "same-answer cap (>3 entries with answer \"Hungarian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Szeretlek\"",
+      "a": "Hungarian",
+      "reason": "same-answer cap (>3 entries with answer \"Hungarian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Egészségedre",
+      "a": "Hungarian",
+      "reason": "same-answer cap (>3 entries with answer \"Hungarian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Moja, mbili, tatu\"",
+      "a": "Swahili",
+      "reason": "same-answer cap (>3 entries with answer \"Swahili\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Kwaheri rafiki",
+      "a": "Swahili",
+      "reason": "same-answer cap (>3 entries with answer \"Swahili\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Paalam\"",
+      "a": "Tagalog",
+      "reason": "same-answer cap (>3 entries with answer \"Tagalog\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Kumain ka na ba?",
+      "a": "Tagalog",
+      "reason": "same-answer cap (>3 entries with answer \"Tagalog\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Ingat ka",
+      "a": "Tagalog",
+      "reason": "same-answer cap (>3 entries with answer \"Tagalog\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"دوستت دارم\" (Dooset daram)",
+      "a": "Farsi",
+      "reason": "same-answer cap (>3 entries with answer \"Farsi\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "خداحافظ (Khodahafez)",
+      "a": "Farsi",
+      "reason": "same-answer cap (>3 entries with answer \"Farsi\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Một, hai, ba\"",
+      "a": "Vietnamese",
+      "reason": "same-answer cap (>3 entries with answer \"Vietnamese\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Tạm biệt\"",
+      "a": "Vietnamese",
+      "reason": "same-answer cap (>3 entries with answer \"Vietnamese\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Xin lỗi bạn",
+      "a": "Vietnamese",
+      "reason": "same-answer cap (>3 entries with answer \"Vietnamese\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Rất vui được gặp bạn",
+      "a": "Vietnamese",
+      "reason": "same-answer cap (>3 entries with answer \"Vietnamese\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"อร่อยมาก\" (Aroi mak)",
+      "a": "Thai",
+      "reason": "same-answer cap (>3 entries with answer \"Thai\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "ขอบคุณมาก (Khop khun mak)",
+      "a": "Thai",
+      "reason": "same-answer cap (>3 entries with answer \"Thai\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "สบายดีไหม (Sabai dee mai)",
+      "a": "Thai",
+      "reason": "same-answer cap (>3 entries with answer \"Thai\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"להתראות\" (Lehitraot)",
+      "a": "Hebrew",
+      "reason": "same-answer cap (>3 entries with answer \"Hebrew\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Dobrou noc\"",
+      "a": "Czech",
+      "reason": "same-answer cap (>3 entries with answer \"Czech\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Mluvíte anglicky?\"",
+      "a": "Czech",
+      "reason": "same-answer cap (>3 entries with answer \"Czech\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Dobrý den, jak se máte?",
+      "a": "Czech",
+      "reason": "same-answer cap (>3 entries with answer \"Czech\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Miluji tě",
+      "a": "Czech",
+      "reason": "same-answer cap (>3 entries with answer \"Czech\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Noapte bună\"",
+      "a": "Romanian",
+      "reason": "same-answer cap (>3 entries with answer \"Romanian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "\"Te iubesc\"",
+      "a": "Romanian",
+      "reason": "same-answer cap (>3 entries with answer \"Romanian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Ce mai faci?",
+      "a": "Romanian",
+      "reason": "same-answer cap (>3 entries with answer \"Romanian\" in language/600)"
+    },
+    {
+      "cat": "language",
+      "q": "Îmi pare rău",
+      "a": "Romanian",
+      "reason": "same-answer cap (>3 entries with answer \"Romanian\" in language/600)"
+    },
+    {
+      "cat": "cobra_kai",
+      "q": "Which student does Terry Silver personally take under his wing in season four?",
+      "a": "Robby",
+      "reason": "same-answer cap (>3 entries with answer \"Robby\" in cobra_kai/400)"
+    },
+    {
       "cat": "uae",
-      "q": "What city is the Sheikh Zayed Grand Mosque in?",
+      "q": "Which emirate is home to the Emirates Palace hotel?",
       "a": "Abu Dhabi",
       "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/200)"
     },
     {
       "cat": "uae",
-      "q": "What UAE emirate has the tallest mountain Jebel Jais?",
+      "q": "The city of Al Ain sits within which emirate?",
+      "a": "Abu Dhabi",
+      "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/200)"
+    },
+    {
+      "cat": "uae",
+      "q": "The ruler of which emirate also serves as the UAE's Prime Minister?",
+      "a": "Dubai",
+      "reason": "same-answer cap (>3 entries with answer \"Dubai\" in uae/200)"
+    },
+    {
+      "cat": "uae",
+      "q": "Which emirate is home to the world's longest zipline?",
       "a": "Ras Al Khaimah",
       "reason": "same-answer cap (>3 entries with answer \"Ras Al Khaimah\" in uae/400)"
     },
     {
       "cat": "uae",
-      "q": "Where is Yas Island located?",
-      "a": "Abu Dhabi",
-      "reason": "same-answer cap (>3 entries with answer \"Abu Dhabi\" in uae/400)"
-    },
-    {
-      "cat": "uae",
-      "q": "What is the second largest emirate by area?",
+      "q": "Which UAE city is the global headquarters of the International Cricket Council?",
       "a": "Dubai",
       "reason": "same-answer cap (>3 entries with answer \"Dubai\" in uae/400)"
     },
     {
-      "cat": "borders_country",
-      "q": "What countries border Switzerland (to the north)?",
-      "a": "Germany",
-      "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
-    },
-    {
-      "cat": "borders_country",
-      "q": "What countries border Netherlands (to the east)?",
-      "a": "Germany",
-      "reason": "same-answer cap (>3 entries with answer \"Germany\" in borders_country/200)"
+      "cat": "country_capitals",
+      "q": "Porto-Novo",
+      "a": "Benin",
+      "reason": "same-answer cap (>3 entries with answer \"Benin\" in country_capitals/600)"
     }
   ]
 }
