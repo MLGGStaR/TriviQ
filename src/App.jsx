@@ -5903,24 +5903,27 @@ const CSS=`
   /* ---------- "Fluid Glass" design tokens: vivid fluid-gradient stage + thick frosted glass on top ---------- */
   :root{
     color-scheme:dark;
-    --bg:#170538;
+    --bg:#0E0426;
     --bg-image:
-      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.80) 0%, rgba(34,211,238,.30) 32%, rgba(34,211,238,0) 62%),
-      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.78) 0%, rgba(59,130,246,0) 60%),
-      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.82) 0%, rgba(147,51,234,0) 60%),
-      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.80) 0%, rgba(236,72,153,0) 60%),
-      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.74) 0%, rgba(239,68,68,0) 60%),
-      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.76) 0%, rgba(99,102,241,0) 60%),
-      linear-gradient(135deg, #12052E 0%, #250442 45%, #1A0840 100%);
+      radial-gradient(34% 26% at 22% 34%, rgba(56,189,248,.85) 0%, rgba(56,189,248,.85) 52%, rgba(56,189,248,0) 58%),
+      radial-gradient(28% 34% at 74% 58%, rgba(244,63,94,.80) 0%, rgba(244,63,94,.80) 50%, rgba(244,63,94,0) 57%),
+      radial-gradient(22% 18% at 52% 14%, rgba(255,255,255,.28) 0%, rgba(255,255,255,.28) 48%, rgba(255,255,255,0) 56%),
+      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.72) 0%, rgba(34,211,238,.26) 32%, rgba(34,211,238,0) 62%),
+      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.70) 0%, rgba(59,130,246,0) 60%),
+      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.76) 0%, rgba(147,51,234,0) 60%),
+      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.72) 0%, rgba(236,72,153,0) 60%),
+      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.66) 0%, rgba(239,68,68,0) 60%),
+      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.70) 0%, rgba(99,102,241,0) 60%),
+      linear-gradient(135deg, #0A0220 0%, #1B0333 45%, #110530 100%);
     --on-bg:#FFFFFF;
     --on-bg-muted:rgba(255,255,255,.74);
     --surface:rgba(255,255,255,.12);
     --surface-strong:rgba(255,255,255,.14);
     --surface-2:rgba(255,255,255,.17);
-    --glass-top:rgba(255,255,255,.18);
-    --glass-bottom:rgba(255,255,255,.08);
-    --border:rgba(255,255,255,.32);
-    --border-strong:rgba(255,255,255,.50);
+    --glass-top:rgba(255,255,255,.22);
+    --glass-bottom:rgba(255,255,255,.07);
+    --border:rgba(255,255,255,.38);
+    --border-strong:rgba(255,255,255,.55);
     --text:#FFFFFF;
     --text-muted:rgba(255,255,255,.74);
     --accent:#22D3EE;
@@ -5941,11 +5944,12 @@ const CSS=`
     --shadow-2:0 24px 60px rgba(20,0,60,.45), inset 0 1px 0 rgba(255,255,255,.45), inset 0 -1px 0 rgba(255,255,255,.08);
     --blur:blur(26px) saturate(180%);
     --focus-ring:0 0 0 3px rgba(255,255,255,.55);
-    --tile-border:rgba(255,255,255,.55);
+    --tile-border:rgba(255,255,255,.58);
     --tile-used-bg:rgba(255,255,255,.05);
-    --tile-frost-top:rgba(255,255,255,.28);
-    --tile-frost-bottom:rgba(255,255,255,.05);
-    --tile-edge:rgba(255,255,255,.75);
+    --tile-frost-top:rgba(255,255,255,.42);
+    --tile-frost-bottom:rgba(255,255,255,.08);
+    --tile-frost-mid:rgba(255,255,255,.16);
+    --tile-edge:rgba(255,255,255,.85);
     --tile-text-shadow:0 2px 8px rgba(0,0,0,.35);
     --primary-bg:linear-gradient(180deg, rgba(255,255,255,.98) 0%, rgba(255,255,255,.88) 100%);
     --primary-ink:#1A0A4A;
@@ -5982,6 +5986,8 @@ const CSS=`
       radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.55) 0%, rgba(236,72,153,0) 60%),
       radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.42) 0%, rgba(239,68,68,0) 60%),
       radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.45) 0%, rgba(99,102,241,0) 60%),
+      radial-gradient(34% 26% at 22% 34%, rgba(56,189,248,.45) 0%, rgba(56,189,248,.45) 52%, rgba(56,189,248,0) 58%),
+      radial-gradient(28% 34% at 74% 58%, rgba(244,63,94,.38) 0%, rgba(244,63,94,.38) 50%, rgba(244,63,94,0) 57%),
       linear-gradient(135deg, #FFFFFF 0%, #F3EEFF 50%, #EEF6FF 100%);
     --on-bg:#1A0A4A;
     --on-bg-muted:rgba(26,10,74,.66);
@@ -6004,8 +6010,9 @@ const CSS=`
     --focus-ring:0 0 0 3px rgba(26,10,74,.35);
     --tile-border:rgba(255,255,255,.95);
     --tile-used-bg:rgba(255,255,255,.35);
-    --tile-frost-top:rgba(255,255,255,.82);
+    --tile-frost-top:rgba(255,255,255,.88);
     --tile-frost-bottom:rgba(255,255,255,.56);
+    --tile-frost-mid:rgba(255,255,255,.66);
     --tile-edge:rgba(255,255,255,1);
     --tile-text-shadow:none;
     --primary-bg:linear-gradient(180deg, #2A1670 0%, #1A0A4A 100%);
@@ -6019,7 +6026,7 @@ const CSS=`
   /* Dark mode: the deep stage (same as :root) */
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#170538;
+    --bg:#0E0426;
     --on-bg:#FFFFFF;
     --on-bg-muted:rgba(255,255,255,.74);
     --surface:rgba(255,255,255,.12);
@@ -6033,11 +6040,11 @@ const CSS=`
     --text-muted:rgba(255,255,255,.74);
     --header-bg-color:rgba(255,255,255,.11);
   }
-  .glass{background:linear-gradient(180deg, var(--glass-top) 0%, var(--glass-bottom) 100%);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1);}
+  .glass{background:linear-gradient(135deg, var(--glass-top) 0%, var(--glass-bottom) 42%, var(--glass-bottom) 70%, var(--glass-top) 100%);border:1.5px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-1), inset 1.5px 1.5px 0 rgba(255,255,255,.35), inset 0 -20px 40px rgba(0,0,0,.08);}
   .glass-strong{background:var(--surface-strong);border:1px solid var(--border);backdrop-filter:var(--blur);-webkit-backdrop-filter:var(--blur);box-shadow:var(--shadow-2);}
   /* Liquid-glass tile: static specular highlight + a sheen that sweeps across on hover */
   .lg-tile{position:relative;overflow:hidden;isolation:isolate;}
-  .lg-tile::before{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(118deg, rgba(255,255,255,.30) 0%, rgba(255,255,255,.08) 28%, rgba(255,255,255,0) 52%);pointer-events:none;z-index:0;}
+  .lg-tile::before{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(118deg, rgba(255,255,255,.55) 0%, rgba(255,255,255,.18) 26%, rgba(255,255,255,0) 46%, rgba(255,255,255,0) 72%, rgba(255,255,255,.12) 100%);pointer-events:none;z-index:0;}
   .lg-tile::after{content:"";position:absolute;top:-70%;left:-45%;width:55%;height:240%;background:linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,.34) 50%, rgba(255,255,255,0) 100%);transform:rotate(16deg) translateX(0);opacity:0;pointer-events:none;z-index:0;transition:opacity .25s ease, transform .6s cubic-bezier(.2,.8,.3,1);}
   .lg-tile:hover::after{opacity:1;transform:rotate(16deg) translateX(360%);}
   .lg-tile>*{position:relative;z-index:1;}
@@ -7489,8 +7496,8 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       minHeight:tileMin,
       padding:"6px 4px",
       borderRadius:"var(--radius)",
-      border:used?"1px dashed var(--border)":"1px solid var(--tile-border)",
-      background:used?"var(--tile-used-bg)":`linear-gradient(160deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), linear-gradient(160deg, ${withAlpha(c,"4D")} 0%, ${withAlpha(c,"29")} 60%, ${withAlpha(c2,"33")} 100%)`,
+      border:used?"1px dashed var(--border)":"1.5px solid var(--tile-border)",
+      background:used?"var(--tile-used-bg)":`linear-gradient(135deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 48%, var(--tile-frost-mid) 100%), linear-gradient(160deg, ${withAlpha(c,"3D")} 0%, ${withAlpha(c,"1F")} 60%, ${withAlpha(c2,"29")} 100%)`,
       backdropFilter:used?"none":"blur(22px) saturate(170%)",
       WebkitBackdropFilter:used?"none":"blur(22px) saturate(170%)",
       color:used?"var(--text-muted)":"var(--text)",
@@ -7504,7 +7511,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       display:"flex",
       alignItems:"center",
       justifyContent:"center",
-      boxShadow:used?"none":`inset 0 1px 0 var(--tile-edge), inset 0 0 0 1px rgba(255,255,255,.10), inset 0 -10px 22px rgba(255,255,255,.06), 0 12px 30px var(--shadow-color), 0 0 26px ${withAlpha(c,"24")}`,
+      boxShadow:used?"none":`inset 1.5px 1.5px 0 var(--tile-edge), inset -1px -1px 0 rgba(255,255,255,.16), inset 0 -16px 28px rgba(0,0,0,.14), inset 0 10px 22px rgba(255,255,255,.10), 0 14px 32px var(--shadow-color), 0 0 0 1px rgba(255,255,255,.06)`,
       cursor:used?"default":"pointer",
       pointerEvents:used?"none":"auto",
       transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, opacity .3s ease, background .3s ease",
