@@ -7492,7 +7492,8 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
   const bodyPad=isPhone?10:isTablet?14:18;
   const colGap=isPhone?10:isTablet?14:18;
   // Blocks wrap: up to 3 categories per row on desktop (6 → 3 over 3), 2 on tablets, 1 on phones. The page scrolls vertically.
-  const perRow=isPhone?1:isTablet?Math.min(2,Math.max(1,colCount)):Math.min(3,Math.max(1,colCount));
+  // Rows of 4 on desktop (4 / 4 / 2, last row centered), 2 on tablets, 1 on phones. Every block is the same size.
+  const perRow=isPhone?1:isTablet?Math.min(2,Math.max(1,colCount)):Math.min(4,Math.max(1,colCount));
   const blockRows=Math.ceil(colCount/perRow);
   const boardUsableWidth=Math.max(280,(viewport.width||1280)-(bodyPad*2));
   const colWidth=Math.floor((boardUsableWidth-(colGap*(perRow-1)))/perRow);
@@ -7553,11 +7554,11 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       <BoardHeader teams={teams} scores={scores} curTeam={curTeam} allDone={allDone} onGameOver={onGameOver} onAdjustScore={onAdjustScore} themeMode={themeMode}/>
       {/* Board wrapper — the ONLY element allowed to scroll horizontally. */}
       <div style={{flex:isTouch?"0 0 auto":1,minHeight:0,width:"100%",maxWidth:"100vw",padding:bodyPad,overflowX:"auto",overflowY:isTouch?"hidden":"auto",WebkitOverflowScrolling:"touch",overscrollBehaviorX:"contain"}}>
-        <div style={{display:"grid",gridTemplateColumns:`repeat(${perRow}, minmax(0,1fr))`,gridAutoRows:fillHeight?"minmax(0, 1fr)":"auto",gap:colGap,width:boardGridWidth,height:fillHeight?"100%":undefined,minHeight:0,alignItems:"stretch",alignContent:fillHeight?"stretch":"start"}}>
+        <div style={{display:"flex",flexWrap:"wrap",justifyContent:"center",alignContent:fillHeight?"stretch":"flex-start",gap:colGap,width:boardGridWidth,height:fillHeight?"100%":undefined,minHeight:0}}>
           {selCats.map(catId=>{
             const c=BANK[baseCat(catId)];if(!c)return null;
             return(
-              <div key={catId} className="glass-outline" style={{minWidth:0,minHeight:0,height:fillHeight?"100%":undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
+              <div key={catId} className="glass-outline" style={{minWidth:0,minHeight:0,flex:`0 0 calc((100% - ${colGap*(perRow-1)}px) / ${perRow})`,maxWidth:`calc((100% - ${colGap*(perRow-1)}px) / ${perRow})`,height:fillHeight?`calc((100% - ${colGap*(blockRows-1)}px) / ${blockRows})`:undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
                 {/* Category name: tinted glass pill in the category color, centered above its block */}
                 <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), ${withAlpha(c.color||"#22D3EE","59")}`,color:"var(--text)",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:"inset 0 1px 0 var(--tile-edge), 0 6px 16px var(--shadow-color)",border:"1px solid var(--tile-border)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
                   <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
