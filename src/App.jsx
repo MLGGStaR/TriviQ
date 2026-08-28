@@ -5903,15 +5903,15 @@ const CSS=`
   /* ---------- "Fluid Glass" design tokens: vivid fluid-gradient stage + thick frosted glass on top ---------- */
   :root{
     color-scheme:dark;
-    --bg:#2A0B5E;
+    --bg:#170538;
     --bg-image:
-      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.96) 0%, rgba(34,211,238,.40) 32%, rgba(34,211,238,0) 62%),
-      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.95) 0%, rgba(59,130,246,0) 60%),
-      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.96) 0%, rgba(147,51,234,0) 60%),
-      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.96) 0%, rgba(236,72,153,0) 60%),
-      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.92) 0%, rgba(239,68,68,0) 60%),
-      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.92) 0%, rgba(99,102,241,0) 60%),
-      linear-gradient(135deg, #1E0A4E 0%, #3B0764 45%, #2E1065 100%);
+      radial-gradient(55% 45% at 12% 18%, rgba(34,211,238,.80) 0%, rgba(34,211,238,.30) 32%, rgba(34,211,238,0) 62%),
+      radial-gradient(45% 55% at 36% 72%, rgba(59,130,246,.78) 0%, rgba(59,130,246,0) 60%),
+      radial-gradient(50% 50% at 62% 26%, rgba(147,51,234,.82) 0%, rgba(147,51,234,0) 60%),
+      radial-gradient(42% 42% at 84% 70%, rgba(236,72,153,.80) 0%, rgba(236,72,153,0) 60%),
+      radial-gradient(38% 38% at 66% 102%, rgba(239,68,68,.74) 0%, rgba(239,68,68,0) 60%),
+      radial-gradient(40% 40% at 102% 18%, rgba(99,102,241,.76) 0%, rgba(99,102,241,0) 60%),
+      linear-gradient(135deg, #12052E 0%, #250442 45%, #1A0840 100%);
     --on-bg:#FFFFFF;
     --on-bg-muted:rgba(255,255,255,.74);
     --surface:rgba(255,255,255,.12);
@@ -5941,10 +5941,10 @@ const CSS=`
     --shadow-2:0 24px 60px rgba(20,0,60,.45), inset 0 1px 0 rgba(255,255,255,.45), inset 0 -1px 0 rgba(255,255,255,.08);
     --blur:blur(26px) saturate(180%);
     --focus-ring:0 0 0 3px rgba(255,255,255,.55);
-    --tile-border:rgba(255,255,255,.44);
+    --tile-border:rgba(255,255,255,.55);
     --tile-used-bg:rgba(255,255,255,.05);
-    --tile-frost-top:rgba(255,255,255,.26);
-    --tile-frost-bottom:rgba(255,255,255,.06);
+    --tile-frost-top:rgba(255,255,255,.28);
+    --tile-frost-bottom:rgba(255,255,255,.05);
     --tile-edge:rgba(255,255,255,.75);
     --tile-text-shadow:0 2px 8px rgba(0,0,0,.35);
     --primary-bg:linear-gradient(180deg, rgba(255,255,255,.98) 0%, rgba(255,255,255,.88) 100%);
@@ -6019,7 +6019,7 @@ const CSS=`
   /* Dark mode: the deep stage (same as :root) */
   :root.theme-dark{
     color-scheme:dark;
-    --bg:#2A0B5E;
+    --bg:#170538;
     --on-bg:#FFFFFF;
     --on-bg-muted:rgba(255,255,255,.74);
     --surface:rgba(255,255,255,.12);
@@ -7490,7 +7490,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       padding:"6px 4px",
       borderRadius:"var(--radius)",
       border:used?"1px dashed var(--border)":"1px solid var(--tile-border)",
-      background:used?"var(--tile-used-bg)":`linear-gradient(160deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), linear-gradient(160deg, ${withAlpha(c,"B3")} 0%, ${withAlpha(c,"80")} 60%, ${withAlpha(c2,"8C")} 100%)`,
+      background:used?"var(--tile-used-bg)":`linear-gradient(160deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), linear-gradient(160deg, ${withAlpha(c,"4D")} 0%, ${withAlpha(c,"29")} 60%, ${withAlpha(c2,"33")} 100%)`,
       backdropFilter:used?"none":"blur(22px) saturate(170%)",
       WebkitBackdropFilter:used?"none":"blur(22px) saturate(170%)",
       color:used?"var(--text-muted)":"var(--text)",
@@ -7504,7 +7504,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
       display:"flex",
       alignItems:"center",
       justifyContent:"center",
-      boxShadow:used?"none":`inset 0 1px 0 var(--tile-edge), inset 0 -1px 0 rgba(255,255,255,.08), 0 12px 30px var(--shadow-color), 0 0 26px ${withAlpha(c,"2E")}`,
+      boxShadow:used?"none":`inset 0 1px 0 var(--tile-edge), inset 0 0 0 1px rgba(255,255,255,.10), inset 0 -10px 22px rgba(255,255,255,.06), 0 12px 30px var(--shadow-color), 0 0 26px ${withAlpha(c,"24")}`,
       cursor:used?"default":"pointer",
       pointerEvents:used?"none":"auto",
       transition:"transform .14s cubic-bezier(.2,.8,.3,1), box-shadow .18s ease, opacity .3s ease, background .3s ease",
