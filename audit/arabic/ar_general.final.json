@@ -1,0 +1,684 @@
+{
+  "200": [
+    {
+      "q": "كم عدد الدول الأعضاء في جامعة الدول العربية؟",
+      "a": "22 دولة",
+      "src": "https://en.wikipedia.org/wiki/Member_states_of_the_Arab_League"
+    },
+    {
+      "q": "من الأديب المصري الذي فاز بجائزة نوبل للآداب عام 1988؟",
+      "a": "نجيب محفوظ",
+      "src": "https://www.nobelprize.org/prizes/literature/1988/summary/"
+    },
+    {
+      "q": "من الأديب المصري الملقّب بـ«عميد الأدب العربي»؟",
+      "a": "طه حسين",
+      "src": "https://en.wikipedia.org/wiki/Taha_Hussein"
+    },
+    {
+      "q": "من الشاعر المصري الملقّب بـ«أمير الشعراء»؟",
+      "a": "أحمد شوقي",
+      "src": "https://en.wikipedia.org/wiki/Ahmed_Shawqi"
+    },
+    {
+      "q": "تُلقَّب اللغة العربية بلغة أحد حروفها، فما هذا الحرف؟",
+      "a": "الضاد",
+      "src": "https://mawdoo3.com/لماذا_سميت_لغتنا_بلغة_الضاد"
+    },
+    {
+      "q": "أي مدينة سعودية تُلقَّب بـ«عروس البحر الأحمر»؟",
+      "a": "جدة",
+      "src": "https://mawdoo3.com/مدينة_جدة"
+    },
+    {
+      "q": "أي مدينة مصرية تُلقَّب بـ«عروس البحر المتوسط»؟",
+      "a": "الإسكندرية",
+      "src": "https://mawdoo3.com/عروس_البحر_المتوسط"
+    },
+    {
+      "q": "أي دولة عربية تُلقَّب بـ«بلد المليون شهيد»؟",
+      "a": "الجزائر",
+      "src": "https://www.aljazeera.com/news/2005/5/7/algeria-country-profile"
+    },
+    {
+      "q": "ما المدينة التي كانت عاصمة الخلافة الأموية في المشرق؟",
+      "a": "دمشق",
+      "src": "https://en.wikipedia.org/wiki/Umayyad_Caliphate"
+    },
+    {
+      "q": "من القائد المسلم الذي قاد فتح الأندلس عام 711م؟",
+      "a": "طارق بن زياد",
+      "src": "https://www.newworldencyclopedia.org/entry/Umayyad_conquest_of_Hispania"
+    },
+    {
+      "q": "من المجاهد الليبي الملقّب بـ«شيخ الشهداء» و«أسد الصحراء»؟",
+      "a": "عمر المختار",
+      "src": "https://en.wikipedia.org/wiki/Omar_al-Mukhtar"
+    },
+    {
+      "q": "من السلطان الذي حكم سلطنة عُمان من عام 1970 حتى وفاته عام 2020؟",
+      "a": "قابوس بن سعيد",
+      "src": "https://en.wikipedia.org/wiki/Qaboos_bin_Said"
+    },
+    {
+      "q": "ما اسم الأسرة الحاكمة في دولة الكويت؟",
+      "a": "آل الصباح",
+      "src": "https://en.wikipedia.org/wiki/House_of_Sabah"
+    },
+    {
+      "q": "ما اسم الأسرة الحاكمة في مملكة البحرين؟",
+      "a": "آل خليفة",
+      "src": "https://en.wikipedia.org/wiki/House_of_Khalifa"
+    },
+    {
+      "q": "ما اسم الجسر البحري الذي يربط السعودية بالبحرين؟",
+      "a": "جسر الملك فهد",
+      "src": "https://en.wikipedia.org/wiki/King_Fahd_Causeway"
+    },
+    {
+      "q": "ما اسم شركة النفط الوطنية في المملكة العربية السعودية؟",
+      "a": "أرامكو",
+      "src": "https://www.aramco.com/en/who-we-are/overview/our-history"
+    },
+    {
+      "q": "ما اسم المشروع السعودي العملاق لمدينة مستقبلية في منطقة تبوك شمال غرب المملكة؟",
+      "a": "نيوم",
+      "src": "https://saudipedia.com/en/neom-project"
+    },
+    {
+      "q": "في أي يوم وشهر تحتفل السعودية بيومها الوطني كل عام؟",
+      "a": "23 سبتمبر",
+      "src": "https://saudipedia.com/en/article/220/government-and-politics/government-affairs/saudi-national-day"
+    },
+    {
+      "q": "في أي يوم وشهر تحتفل الكويت بعيدها الوطني كل عام؟",
+      "a": "25 فبراير",
+      "src": "https://calendarific.com/holiday/kuwait/nationalday"
+    },
+    {
+      "q": "ما اسم العملة الرسمية للمغرب؟",
+      "a": "الدرهم",
+      "src": "https://en.wikipedia.org/wiki/Moroccan_dirham"
+    },
+    {
+      "q": "ما اسم العملة الرسمية للبنان؟",
+      "a": "الليرة",
+      "src": "https://en.wikipedia.org/wiki/Lebanese_pound"
+    },
+    {
+      "q": "ما اسم المشروع المائي الضخم الذي أُنشئ على نهر النيل قرب أسوان في ستينيات القرن العشرين؟",
+      "a": "السد العالي",
+      "src": "https://www.ebsco.com/research-starters/science/aswan-high-dam"
+    },
+    {
+      "q": "من الراوية التي تحكي حكاية كل ليلة في «ألف ليلة وليلة»؟",
+      "a": "شهرزاد",
+      "src": "https://en.wikipedia.org/wiki/Scheherazade"
+    },
+    {
+      "q": "من الشاعر الفلسطيني صاحب قصيدة «بطاقة هوية» التي تبدأ بعبارة «سجّل أنا عربي»؟",
+      "a": "محمود درويش",
+      "src": "https://www.marxists.org/subject/art/literature/darwish/1964/identity-card.htm"
+    },
+    {
+      "q": "بأي لقب اشتهر الشاعر قيس بن الملوّح؟",
+      "a": "مجنون ليلى",
+      "src": "https://en.wikipedia.org/wiki/Qays_ibn_al-Mulawwah"
+    },
+    {
+      "q": "ما اسم محبوبة الشاعر الفارس عنترة بن شداد؟",
+      "a": "عبلة",
+      "src": "https://en.wikipedia.org/wiki/Antarah_ibn_Shaddad"
+    },
+    {
+      "q": "من الرحالة المغربي المولود في طنجة الذي جاب العالم في القرن الرابع عشر الميلادي؟",
+      "a": "ابن بطوطة",
+      "src": "https://en.wikipedia.org/wiki/Ibn_Battuta"
+    },
+    {
+      "q": "ما اسم الخطة الوطنية التي أطلقتها السعودية عام 2016 لتنويع اقتصادها بعيداً عن النفط؟",
+      "a": "رؤية 2030",
+      "src": "https://saudipedia.com/en/saudi-vision-2030"
+    },
+    {
+      "q": "ما اسم القطعة الأثرية المكتشفة عام 1799 التي كانت مفتاح فك رموز الكتابة الهيروغليفية؟",
+      "a": "حجر رشيد",
+      "src": "https://en.wikipedia.org/wiki/Rosetta_Stone"
+    },
+    {
+      "q": "من الفرعون الذي اكتشف هوارد كارتر مقبرته عام 1922 في وادي الملوك؟",
+      "a": "توت عنخ آمون",
+      "src": "https://en.wikipedia.org/wiki/KV62"
+    },
+    {
+      "q": "من العالم الأندلسي الذي يُعد من أوائل من حاولوا الطيران في التاريخ؟",
+      "a": "عباس بن فرناس",
+      "src": "https://en.wikipedia.org/wiki/Abbas_ibn_Firnas"
+    },
+    {
+      "q": "من مؤسس المملكة العربية السعودية الحديثة؟",
+      "a": "عبدالعزيز بن عبدالرحمن آل سعود",
+      "src": "https://en.wikipedia.org/wiki/Unification_of_Saudi_Arabia"
+    },
+    {
+      "q": "أي عاصمة خليجية فازت عام 2023 باستضافة معرض إكسبو الدولي بعد منافسة مع بوسان الكورية وروما الإيطالية؟",
+      "a": "الرياض",
+      "src": "https://en.wikipedia.org/wiki/Expo_2030"
+    },
+    {
+      "q": "من العالم المصري الذي فاز بجائزة نوبل في الكيمياء عام 1999؟",
+      "a": "أحمد زويل",
+      "src": "https://www.britannica.com/biography/Ahmed-Zewail"
+    },
+    {
+      "q": "ما اسم المضيق الذي يفصل اليمن عن جيبوتي ويربط البحر الأحمر بخليج عدن؟",
+      "a": "باب المندب",
+      "src": "https://www.britannica.com/place/Bab-El-Mandeb-Strait"
+    },
+    {
+      "q": "ما اسم التصريح البريطاني الصادر عام 1917 بشأن إقامة «وطن قومي لليهود» في فلسطين؟",
+      "a": "وعد بلفور",
+      "src": "https://israeled.org/balfour-declaration"
+    },
+    {
+      "q": "في أي عام اندلعت حرب أكتوبر المعروفة بحرب العبور؟",
+      "a": "1973",
+      "src": "https://en.wikipedia.org/wiki/Yom_Kippur_War"
+    },
+    {
+      "q": "ما الدولة الخليجية التي يتكوّن علمها من اللونين الأبيض والعنابي؟",
+      "a": "قطر",
+      "src": "https://en.wikipedia.org/wiki/Flag_of_Qatar"
+    },
+    {
+      "q": "من المعمارية العراقية البريطانية التي لُقّبت بـ«ملكة المنحنيات»؟",
+      "a": "زها حديد",
+      "src": "https://www.autodesk.com/design-make/articles/architect-zaha-hadid"
+    },
+    {
+      "q": "ما العملة التي كانت الأعلى قيمة في العالم مقابل الدولار الأمريكي في عام 2025؟",
+      "a": "الدينار الكويتي",
+      "src": "https://gulfnews.com/business/top-10-strongest-currencies-in-the-world-in-2025-1.500164440"
+    }
+  ],
+  "400": [
+    {
+      "q": "في أي مدينة يقع مقر الأمانة العامة لمجلس التعاون لدول الخليج العربية؟",
+      "a": "الرياض",
+      "src": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council"
+    },
+    {
+      "q": "في أي عام تأسست جامعة الدول العربية؟",
+      "a": "1945",
+      "src": "https://en.wikipedia.org/wiki/Arab_League"
+    },
+    {
+      "q": "أي مدينة مغربية تُلقَّب بـ«المدينة الحمراء» بسبب لون أسوارها ومبانيها؟",
+      "a": "مراكش",
+      "src": "https://www.marefa.org/Marrakesh"
+    },
+    {
+      "q": "من العالم المسلم مؤلف موسوعة «القانون في الطب»؟",
+      "a": "ابن سينا",
+      "src": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2642865"
+    },
+    {
+      "q": "من المؤرخ صاحب كتاب «المقدمة» الذي يُعد من مؤسسي علم الاجتماع؟",
+      "a": "ابن خلدون",
+      "src": "https://islamonline.net/en/ibn-khaldun-founder-sociology/"
+    },
+    {
+      "q": "ما اسم الحصن الطيني الذي كان استرداده عام 1902م بداية توحيد المملكة العربية السعودية؟",
+      "a": "قصر المصمك",
+      "src": "https://www.arabnews.com/node/1932516/amp"
+    },
+    {
+      "q": "من أول امرأة عربية تفوز بجائزة نوبل للسلام، وذلك عام 2011؟",
+      "a": "توكل كرمان",
+      "src": "https://arabamerica.com/6-arabs-received-nobel-prize"
+    },
+    {
+      "q": "كم سنة استمرت الحرب العراقية الإيرانية التي بدأت عام 1980؟",
+      "a": "8 سنوات",
+      "src": "https://www.history.com/topics/iran-iraq-war"
+    },
+    {
+      "q": "من الكاتب الذي نقل كتاب «كليلة ودمنة» إلى العربية في العصر العباسي؟",
+      "a": "ابن المقفع",
+      "src": "https://en.wikipedia.org/wiki/Kal%C4%ABla_wa-Dimna"
+    },
+    {
+      "q": "ما أعلى قمة في سلطنة عُمان؟",
+      "a": "جبل شمس",
+      "src": "https://www.wikiwand.com/en/Jebel_Shams"
+    },
+    {
+      "q": "ما أكبر جزيرة في دولة الكويت؟",
+      "a": "بوبيان",
+      "src": "https://en.wikipedia.org/wiki/Bubiyan_Island"
+    },
+    {
+      "q": "ما اسم الواحة السعودية التي سجّلتها موسوعة غينيس عام 2020 كأكبر واحة في العالم؟",
+      "a": "الأحساء",
+      "src": "https://www.guinnessworldrecords.com/world-records/largest-oasis"
+    },
+    {
+      "q": "في أي مدينة يقع مقر منظمة التعاون الإسلامي؟",
+      "a": "جدة",
+      "src": "https://sesric.org/about-oic.php"
+    },
+    {
+      "q": "في أي مدينة يقع المقر الرئيسي لمنظمة أوبك؟",
+      "a": "فيينا",
+      "src": "https://www.worldatlas.com/articles/where-is-opec-headquartered.html"
+    },
+    {
+      "q": "في أي عام أُعلن رسمياً قيام الدولة باسم «المملكة العربية السعودية»؟",
+      "a": "1932",
+      "src": "https://en.wikipedia.org/wiki/Unification_of_Saudi_Arabia"
+    },
+    {
+      "q": "ما اسم أكبر حقل نفط تقليدي في العالم، ويقع في المنطقة الشرقية بالسعودية؟",
+      "a": "الغوار",
+      "src": "https://www.offshore-technology.com/projects/ghawar-oil-field/"
+    },
+    {
+      "q": "ما اسم الجزء القطري من أكبر حقل للغاز الطبيعي في العالم، الذي يُعرف في الجانب الإيراني باسم «بارس الجنوبي»؟",
+      "a": "حقل الشمال",
+      "src": "https://www.woodmac.com/press-releases/what-next-for-qatar-iran-and-the-worlds-largest-gas-field/"
+    },
+    {
+      "q": "من ملكة تدمر التي تحدّت الإمبراطورية الرومانية في القرن الثالث الميلادي؟",
+      "a": "زنوبيا",
+      "src": "https://www.worldhistory.org/Zenobia/"
+    },
+    {
+      "q": "من الخليفة العباسي الذي أسس مدينة بغداد عام 762م؟",
+      "a": "أبو جعفر المنصور",
+      "src": "https://en.wikipedia.org/wiki/Round_City_of_Baghdad"
+    },
+    {
+      "q": "من الأمير الأموي الملقّب بـ«صقر قريش» الذي أسس الدولة الأموية في الأندلس؟",
+      "a": "عبد الرحمن الداخل",
+      "src": "https://mawdoo3.com/من_هو_صاحب_لقب_صقر_قريش"
+    },
+    {
+      "q": "ما آخر مملكة إسلامية في الأندلس، وقد سقطت عام 1492م؟",
+      "a": "غرناطة",
+      "src": "https://en.wikipedia.org/wiki/Emirate_of_Granada"
+    },
+    {
+      "q": "من العالم العربي مؤلف «كتاب المناظر» الذي يُعد رائد علم البصريات؟",
+      "a": "ابن الهيثم",
+      "src": "https://www2.hao.ucar.edu/education/scientists/ibn-al-haytham-alhazen-965-1040-ad"
+    },
+    {
+      "q": "من العالم الذي يُلقَّب بـ«أبي الكيمياء» عند العرب؟",
+      "a": "جابر بن حيان",
+      "src": "https://www.britannica.com/biography/Abu-Musa-Jabir-ibn-Hayyan"
+    },
+    {
+      "q": "من الشاعر المصري الملقّب بـ«شاعر النيل»؟",
+      "a": "حافظ إبراهيم",
+      "src": "https://en.wikipedia.org/wiki/Hafez_Ibrahim"
+    },
+    {
+      "q": "من الشاعر التونسي صاحب قصيدة «إرادة الحياة»؟",
+      "a": "أبو القاسم الشابي",
+      "src": "https://mawdoo3.com/شرح_قصيدة_إرادة_الحياة"
+    },
+    {
+      "q": "من الأديب اللبناني مؤلف كتاب «النبي» الذي كتبه بالإنجليزية عام 1923؟",
+      "a": "جبران خليل جبران",
+      "src": "https://www.gutenberg.org/ebooks/58585"
+    },
+    {
+      "q": "في أي يوم وشهر يُحتفل باليوم العالمي للغة العربية؟",
+      "a": "18 ديسمبر",
+      "src": "https://en.wikipedia.org/wiki/UN_Arabic_Language_Day"
+    },
+    {
+      "q": "من أول عربي ومسلم يصعد إلى الفضاء، وذلك عام 1985؟",
+      "a": "الأمير سلطان بن سلمان",
+      "src": "https://www.arabnews.pk/node/1691201"
+    },
+    {
+      "q": "من أول امرأة عربية تصعد إلى الفضاء، وذلك عام 2023؟",
+      "a": "ريانة برناوي",
+      "src": "https://www.aljazeera.com/news/2023/5/22/spacex-sends-saudi-astronauts-including-first-arab-woman-to-iss"
+    },
+    {
+      "q": "من الدبلوماسي المصري الذي شغل منصب الأمين العام للأمم المتحدة بين عامي 1992 و1996؟",
+      "a": "بطرس بطرس غالي",
+      "src": "https://media.un.org/photo/en/collections/leadership/boutros-boutros-ghali-egypt-term-office-1992-1996"
+    },
+    {
+      "q": "من الحاكم الذي يُلقَّب بـ«مؤسس مصر الحديثة» وتولّى حكمها عام 1805؟",
+      "a": "محمد علي باشا",
+      "src": "https://en.wikipedia.org/wiki/Muhammad_Ali_of_Egypt"
+    },
+    {
+      "q": "من أمير الكويت الملقّب بـ«أبي الدستور» و«أبي الاستقلال»؟",
+      "a": "الشيخ عبدالله السالم الصباح",
+      "src": "https://gulfnews.com/world/gulf/kuwait/55-years-since-his-passing-kuwait-remembers-abdullah-al-salem-father-of-its-democracy-1.75472810"
+    },
+    {
+      "q": "من أول رئيس للجمهورية التونسية بعد الاستقلال؟",
+      "a": "الحبيب بورقيبة",
+      "src": "https://www.encyclopedia.com/people/history/north-african-history-biographies/habib-bourguiba"
+    },
+    {
+      "q": "من القائد الذي تزعّم المقاومة ضد الغزو الفرنسي للجزائر بين عامي 1832 و1847؟",
+      "a": "الأمير عبد القادر",
+      "src": "https://en.wikipedia.org/wiki/Emir_Abdelkader"
+    },
+    {
+      "q": "ما اسم الأداة الفلكية التي طوّرها العلماء المسلمون لقياس ارتفاع النجوم وتحديد أوقات الصلاة؟",
+      "a": "الأسطرلاب",
+      "src": "https://teachmideast.org/?p=1735"
+    },
+    {
+      "q": "في أي معركة انتصر المسلمون بقيادة سعد بن أبي وقاص على الفرس الساسانيين عام 636م؟",
+      "a": "القادسية",
+      "src": "https://www.britannica.com/event/Battle-of-al-Qadisiyyah"
+    },
+    {
+      "q": "في أي معركة هزم المماليك جيش المغول عام 1260م؟",
+      "a": "عين جالوت",
+      "src": "https://britannica.com/event/Battle-of-Ayn-Jalut"
+    },
+    {
+      "q": "ما المدينة التي أسسها الفاطميون عام 969م لتكون عاصمة لهم؟",
+      "a": "القاهرة",
+      "src": "https://egymonuments.gov.eg/en/collections/historical-cairo/"
+    },
+    {
+      "q": "في أي معركة انتصر صلاح الدين الأيوبي على الصليبيين عام 1187م؟",
+      "a": "حطين",
+      "src": "https://www.historyofwar.org/articles/battles_hattin.html"
+    },
+    {
+      "q": "ما اسم الرقصة الشعبية السعودية التي تُؤدّى بالسيوف على قرع الطبول، وأدرجتها اليونسكو عام 2015؟",
+      "a": "العرضة",
+      "src": "https://ich.unesco.org/en/RL/alardah-alnajdiyah-dance-drum-and-poetry-in-saudi-arabia-01196"
+    },
+    {
+      "q": "ما اللقب الذي يُطلق في الخليج على ربّان سفينة الغوص على اللؤلؤ؟",
+      "a": "النوخذة",
+      "src": "https://qdl.qa/en/pearl-diving-inside-trade-shaped-gulf"
+    },
+    {
+      "q": "ما اسم أشهر أسواق العرب في الجاهلية، الذي كان يُقام قرب الطائف ويتبارى فيه الشعراء؟",
+      "a": "عكاظ",
+      "src": "https://en.wikipedia.org/wiki/Souk_Okaz"
+    },
+    {
+      "q": "ما اسم البرج السعودي الشهير الذي تعلوه كرة زجاجية ضخمة؟",
+      "a": "الفيصلية",
+      "src": "https://www.fosterandpartners.com/projects/al-faisaliah-center"
+    },
+    {
+      "q": "ما اسم المبنى في الدوحة الذي صممه جان نوفيل مستوحياً شكله من «وردة الصحراء»؟",
+      "a": "متحف قطر الوطني",
+      "src": "https://www.wallpaper.com/architecture/national-museum-of-qatar-jean-nouvel-doha"
+    },
+    {
+      "q": "ما اسم السد اليمني القديم الذي ارتبط بمملكة سبأ؟",
+      "a": "مأرب",
+      "src": "https://en.wikipedia.org/wiki/Marib_Dam"
+    },
+    {
+      "q": "من الدبلوماسي المصري الذي تقاسم جائزة نوبل للسلام عام 2005 مع الوكالة الدولية للطاقة الذرية؟",
+      "a": "محمد البرادعي",
+      "src": "https://www.aljazeera.com/news/2005/10/7/iaea-elbaradei-win-nobel-peace-prize"
+    },
+    {
+      "q": "من الشاعر الجاهلي الملقّب بـ«الملك الضليل»؟",
+      "a": "امرؤ القيس",
+      "src": "https://mawdoo3.com/قصة_امرؤ_القيس_كاملة"
+    },
+    {
+      "q": "ما اسم الجامع الذي بناه القائد الفاطمي جوهر الصقلي عام 970م وتحوّل لاحقاً إلى جامعة عريقة؟",
+      "a": "الأزهر",
+      "src": "https://en.wikipedia.org/wiki/Al-Azhar_Mosque"
+    }
+  ],
+  "600": [
+    {
+      "q": "من أول أمين عام لجامعة الدول العربية؟",
+      "a": "عبد الرحمن عزام",
+      "src": "https://en.wikipedia.org/wiki/Secretary_General_of_the_Arab_League"
+    },
+    {
+      "q": "في أي مدينة يقع مقر منظمة الأقطار العربية المصدرة للبترول (أوابك)؟",
+      "a": "الكويت",
+      "src": "https://oapecorg.org/Home/FAQs"
+    },
+    {
+      "q": "في أي مدينة يقع مقر صندوق النقد العربي؟",
+      "a": "أبوظبي",
+      "src": "https://en.wikipedia.org/wiki/Arab_Monetary_Fund"
+    },
+    {
+      "q": "في أي مدينة يقع مقر المنظمة العربية للتربية والثقافة والعلوم (الألكسو)؟",
+      "a": "تونس",
+      "src": "https://en.wikipedia.org/wiki/Arab_League_Educational,_Cultural_and_Scientific_Organization"
+    },
+    {
+      "q": "في أي مدينة أُعلن تأسيس منظمة أوبك عام 1960؟",
+      "a": "بغداد",
+      "src": "https://www.britannica.com/topic/OPEC"
+    },
+    {
+      "q": "ما الاسم الذي كانت تحمله الدولة قبل أن يُطلق عليها اسم «المملكة العربية السعودية»؟",
+      "a": "مملكة الحجاز ونجد وملحقاتها",
+      "src": "https://en.wikipedia.org/wiki/Unification_of_Saudi_Arabia"
+    },
+    {
+      "q": "ما الاسم الذي أُطلق على بئر الدمام رقم 7، أول بئر أنتجت النفط بكميات تجارية في السعودية؟",
+      "a": "بئر الخير",
+      "src": "https://saudipedia.com/en/dammam-no.-7"
+    },
+    {
+      "q": "ما أول دولة من دول مجلس التعاون الخليجي اكتُشف فيها النفط؟",
+      "a": "البحرين",
+      "src": "https://www.thenationalnews.com/business/energy/bahrain-s-largest-oil-discovery-since-1932-can-be-game-changer-economists-say-1.718145"
+    },
+    {
+      "q": "ما اسم العملة الرسمية لموريتانيا؟",
+      "a": "الأوقية",
+      "src": "https://en.wikipedia.org/wiki/Mauritanian_ouguiya"
+    },
+    {
+      "q": "ما أعلى قمة في الوطن العربي؟",
+      "a": "جبل توبقال",
+      "src": "https://en.wikipedia.org/wiki/Toubkal"
+    },
+    {
+      "q": "ما اسم الحوض الصحراوي في غرب مصر الذي يهبط إلى نحو 133 متراً تحت سطح البحر؟",
+      "a": "منخفض القطارة",
+      "src": "https://en.wikipedia.org/wiki/Qattara_Depression"
+    },
+    {
+      "q": "ما اسم الحي التاريخي في الدرعية الذي أُدرج على قائمة التراث العالمي لليونسكو عام 2010؟",
+      "a": "الطريف",
+      "src": "https://saudipedia.com/en/list-of-saudi-heritage-sites-inscribed-in-unesco"
+    },
+    {
+      "q": "من الطبيب الأندلسي الملقّب بـ«أبي الجراحة» صاحب موسوعة «التصريف»؟",
+      "a": "أبو القاسم الزهراوي",
+      "src": "https://muslimheritage.com/people/scholars/al-zahrawi-abulcasis/"
+    },
+    {
+      "q": "من الطبيب العربي الذي كان أول من وصف الدورة الدموية الصغرى في القرن الثالث عشر الميلادي؟",
+      "a": "ابن النفيس",
+      "src": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6077055"
+    },
+    {
+      "q": "من المهندس المسلم صاحب «ساعة الفيل» الشهيرة في القرن الثالث عشر الميلادي؟",
+      "a": "بديع الزمان الجزري",
+      "src": "https://www.metmuseum.org/en/art/collection/search/451402"
+    },
+    {
+      "q": "من الجغرافي العربي الذي رسم خريطة العالم لملك صقلية روجر الثاني في القرن الثاني عشر؟",
+      "a": "الشريف الإدريسي",
+      "src": "https://factumfoundation.org/our-projects/digital-restorations/re-creating-the-lost-map-of-al-idrisi/al-idrisi-and-roger-ii-mapping-the-world-in-the-twelfth-century/"
+    },
+    {
+      "q": "من الشاعر الملقّب بـ«رهين المحبسين»؟",
+      "a": "أبو العلاء المعري",
+      "src": "https://www.aljazeera.net/culture/2022/12/6/%d8%b7%d9%87-%d8%ad%d8%b3%d9%8a%d9%86-%d9%85%d8%b9-%d8%a3%d8%a8%d9%8a-%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d8%a1-%d9%81%d9%8a-%d8%b3%d8%ac%d9%86%d9%87-1"
+    },
+    {
+      "q": "من الروائي السوداني مؤلف رواية «موسم الهجرة إلى الشمال»؟",
+      "a": "الطيب صالح",
+      "src": "https://en.wikipedia.org/wiki/Tayeb_Salih"
+    },
+    {
+      "q": "من الروائي مؤلف خماسية «مدن الملح»؟",
+      "a": "عبد الرحمن منيف",
+      "src": "https://en.wikipedia.org/wiki/Cities_of_Salt"
+    },
+    {
+      "q": "من الكاتبة العُمانية التي فازت بجائزة مان بوكر الدولية عام 2019 عن رواية «سيدات القمر»؟",
+      "a": "جوخة الحارثي",
+      "src": "https://thebookerprizes.com/the-booker-library/books/celestial-bodies"
+    },
+    {
+      "q": "من العالم الذي وضع علم العروض لضبط أوزان الشعر العربي؟",
+      "a": "الخليل بن أحمد الفراهيدي",
+      "src": "https://britannica.com/biography/al-Khalil-ibn-Ahmad"
+    },
+    {
+      "q": "إلى من يُنسب وضع علم النحو العربي ونقط المصحف؟",
+      "a": "أبو الأسود الدؤلي",
+      "src": "https://arabic-for-nerds.com/who-are-the-greatest-arabic-grammarians/"
+    },
+    {
+      "q": "من مؤلف المعجم العربي الشهير «لسان العرب»؟",
+      "a": "ابن منظور",
+      "src": "https://en.islamonweb.net/lisan-al-arab-a-masterpiece-of-arabic-lexicography"
+    },
+    {
+      "q": "في أي عام قررت الجمعية العامة للأمم المتحدة اعتماد العربية لغة رسمية فيها؟",
+      "a": "1973",
+      "src": "https://en.wikipedia.org/wiki/UN_Arabic_Language_Day"
+    },
+    {
+      "q": "ما اسم المجموعة التونسية التي فازت بجائزة نوبل للسلام عام 2015؟",
+      "a": "الرباعي الراعي للحوار الوطني",
+      "src": "https://nobelprize.org/prizes/peace/2015/tndq/history"
+    },
+    {
+      "q": "من الزعيم المصري الذي قاد ثورة 1919 ضد الاحتلال البريطاني؟",
+      "a": "سعد زغلول",
+      "src": "https://en.wikipedia.org/wiki/Saad_Zaghloul"
+    },
+    {
+      "q": "إلى أي جزيرة أفريقية نقل السلطان سعيد بن سلطان عاصمة دولته العُمانية في القرن التاسع عشر؟",
+      "a": "زنجبار",
+      "src": "https://en.wikipedia.org/wiki/Said_bin_Sultan"
+    },
+    {
+      "q": "من العاهل المغربي الذي نالت بلاده استقلالها في عهده عام 1956؟",
+      "a": "محمد الخامس",
+      "src": "https://en.wikipedia.org/wiki/Mohammed_V_of_Morocco"
+    },
+    {
+      "q": "من أول رئيس للجزائر بعد استقلالها؟",
+      "a": "أحمد بن بلة",
+      "src": "https://en.wikipedia.org/wiki/Ahmed_Ben_Bella"
+    },
+    {
+      "q": "من قائد ثورة الريف ضد الاستعمار الإسباني في عشرينيات القرن العشرين؟",
+      "a": "عبد الكريم الخطابي",
+      "src": "https://www.britannica.com/biography/Abd-el-Krim/Adb-el-Krim-during-the-Rif-War"
+    },
+    {
+      "q": "في عام 2025، أي دولة كانت تمتلك أكبر احتياطي من صخر الفوسفات في العالم؟",
+      "a": "المغرب",
+      "src": "https://www.usgs.gov/centers/national-minerals-information-center/morocco"
+    },
+    {
+      "q": "من السلطان المملوكي الذي قاد جيش المسلمين لهزيمة المغول عام 1260م؟",
+      "a": "سيف الدين قطز",
+      "src": "https://en.wikipedia.org/wiki/Battle_of_Ain_Jalut"
+    },
+    {
+      "q": "من الخليفة الأموي الذي بنى قبة الصخرة في القدس؟",
+      "a": "عبد الملك بن مروان",
+      "src": "https://www.metmuseum.org/en/essays/the-art-of-the-umayyad-period-661-750"
+    },
+    {
+      "q": "في عام 2025، ما أطول ناطحة سحاب في الكويت؟",
+      "a": "برج الحمراء",
+      "src": "https://www.skyscrapercenter.com/country/kuwait"
+    },
+    {
+      "q": "من المعماري الذي صمّم متحف الفن الإسلامي في الدوحة؟",
+      "a": "آي إم باي (I. M. Pei)",
+      "src": "https://mia.org.qa/en/about-us/architecture/"
+    },
+    {
+      "q": "ما الدولة العربية الوحيدة التي يمر بها خط الاستواء؟",
+      "a": "الصومال",
+      "src": "https://www.britannica.com/place/Somalia"
+    },
+    {
+      "q": "ما آخر دولة انضمت إلى جامعة الدول العربية، وذلك عام 1993؟",
+      "a": "جزر القمر",
+      "src": "https://www.aljazeera.com/news/2004/5/20/the-arab-league-fact-sheet"
+    },
+    {
+      "q": "من المرأة التي أسست جامع القرويين في فاس عام 859م، الذي تحوّل لاحقاً إلى جامعة؟",
+      "a": "فاطمة الفهرية",
+      "src": "https://en.wikipedia.org/wiki/University_of_al-Qarawiyyin"
+    },
+    {
+      "q": "ما اسم المدينة اليمنية في حضرموت الملقّبة بـ«منهاتن الصحراء»؟",
+      "a": "شبام",
+      "src": "https://www.nationalgeographic.com/travel/article/shibam-mud-skyscraper-yemen"
+    },
+    {
+      "q": "ما اسم الميناء اليمني التاريخي على البحر الأحمر الذي اشتهر لقرون بأنه أكبر مرفأ لتصدير البن في العالم؟",
+      "a": "المخا",
+      "src": "https://en.wikipedia.org/wiki/Mocha,_Yemen"
+    },
+    {
+      "q": "عند أي بلدة عراقية يلتقي نهرا دجلة والفرات ليشكّلا شط العرب؟",
+      "a": "القرنة",
+      "src": "https://www.britannica.com/place/Shatt-Al-Arab"
+    },
+    {
+      "q": "من الشاعر الذي كتب كلمات النشيد الوطني الجزائري «قسماً»؟",
+      "a": "مفدي زكريا",
+      "src": "https://en.wikipedia.org/wiki/Kassaman"
+    },
+    {
+      "q": "من أول رئيس لمصر بعد إعلان الجمهورية عام 1953؟",
+      "a": "محمد نجيب",
+      "src": "https://en.wikipedia.org/wiki/Mohamed_Naguib"
+    },
+    {
+      "q": "من أول أمين عام لمجلس التعاون لدول الخليج العربية؟",
+      "a": "عبدالله بشارة",
+      "src": "https://en.wikipedia.org/wiki/Abdullah_Bishara"
+    },
+    {
+      "q": "ما المدينة العراقية التي بناها الخليفة العباسي المعتصم عام 836م واتخذها عاصمة جديدة للخلافة؟",
+      "a": "سامراء",
+      "src": "https://www.britannica.com/place/Samarra"
+    },
+    {
+      "q": "من أول ملك للعراق، وقد تُوّج عام 1921؟",
+      "a": "فيصل الأول",
+      "src": "https://www.britannica.com/biography/Faysal-I"
+    },
+    {
+      "q": "ما اسم أكبر حقل نفط في الكويت، الذي يُصنَّف ثاني أكبر حقل نفط في العالم؟",
+      "a": "برقان",
+      "src": "https://en.wikipedia.org/wiki/Burgan_field"
+    }
+  ],
+  "id": "ar_general"
+}

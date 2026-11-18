@@ -8,7 +8,14 @@ function extract(name) {
   const end = src.indexOf("\n}", start);
   return src.slice(start, end + 2);
 }
+function extractConst(name) {
+  const start = src.indexOf(`const ${name}=`);
+  if (start < 0) throw new Error(`not found: const ${name}`);
+  return src.slice(start, src.indexOf("\n", start));
+}
 const code = [
+  extractConst("ARABIC_SCRIPT_RE"),
+  extract("foldQuestionKeyText"),
   extract("normalizeQuestionKeyPart"),
   extract("legacyNormalizeQuestionKeyPart"),
   extract("questionPoolEntryKey"),

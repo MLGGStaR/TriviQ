@@ -6,3 +6,10 @@ tmp-*.mjs
 src/.tmp*
 
 audit/dev-server.log
+
+# Arabic categories: keep the fact-checked finals + art manifest; drafts and the bank dump are regenerable scratch
+audit/arabic/*.json
+!audit/arabic/*.final.json
+!audit/arabic/art-manifest.json
+audit/arabic/existing-bank.tsv
+audit/bank-dump.tsv

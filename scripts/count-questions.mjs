@@ -18,6 +18,7 @@ import SONG from '../src/songClips.js';
 import SONGADD from '../src/songClipAdditions.js';
 import { isBlacklisted } from '../src/qualityBlacklist.js';
 import QBACKFILL from '../src/qualityBackfill.js';
+import ARABIC from '../src/arabicCategoriesBank.js';
 import fs from 'node:fs';
 
 const cats = {};
@@ -47,7 +48,7 @@ while ((m = catRe.exec(app)) !== null) {
   }
 }
 
-const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, NCB2, EMOJI, MNE, MTE, LCB, QBACKFILL];
+const banks = [QE, QM, TME, TUE, TBE, QRA, TPE, TFP, TFT, NCB, NCB2, EMOJI, MNE, MTE, LCB, QBACKFILL, ARABIC];
 banks.forEach(b => {
   Object.entries(b).forEach(([cat, obj]) => {
     [200, 400, 600].forEach(p => {

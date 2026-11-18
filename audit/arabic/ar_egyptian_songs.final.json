@@ -1,0 +1,952 @@
+{
+  "200": [
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "تملي معاك",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/df/09/5edf0981-ce52-4740-f0b2-f6ad0760afcb/mzaf_17144740537777531434.plus.aac.p.m4a",
+      "trackId": 880940097,
+      "sourceUrl": "https://music.apple.com/ae/album/tamly-maak/880940009?i=880940097",
+      "itunesTrack": "Tamly Maak",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 2
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "نور العين",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/19/51/ae1951e7-fb94-f734-d68f-8a5955c8c6d9/mzaf_14930287996363580653.plus.aac.p.m4a",
+      "trackId": 878251626,
+      "sourceUrl": "https://music.apple.com/ae/album/noor-al-ain/878251612?i=878251626",
+      "itunesTrack": "Noor Al Ain",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 6
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "قمرين",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/5c/69/c0/5c69c0f2-bf8b-8db9-8cb6-87974d2d4d32/mzaf_8918927071584428418.plus.aac.p.m4a",
+      "trackId": 533091076,
+      "sourceUrl": "https://music.apple.com/ae/album/amarain/533091072?i=533091076",
+      "itunesTrack": "Amarain",
+      "itunesArtist": "Amr Diab",
+      "src": "https://en.wikipedia.org/wiki/Amarain",
+      "clipStart": 9
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "3 دقات",
+      "artist": "أبو ويسرا",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/cc/75/cdcc7541-b87f-3a0f-a90e-34f5af82f915/mzaf_3762632506548836746.plus.aac.p.m4a",
+      "trackId": 1295177332,
+      "sourceUrl": "https://music.apple.com/ae/album/3-daqat-feat-yousra/1295176476?i=1295177332",
+      "itunesTrack": "3 Daqat (feat. Yousra)",
+      "itunesArtist": "Abu",
+      "src": "https://al-ain.com/article/abu-yousra-singers-egypt",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "أهواك",
+      "artist": "عبد الحليم حافظ",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/26/8a/91/268a9112-dd90-d20c-6332-7d208d82d511/mzaf_16257667422281890292.plus.aac.p.m4a",
+      "trackId": 1600619474,
+      "sourceUrl": "https://music.apple.com/ae/album/ahwak/1600619472?i=1600619474",
+      "itunesTrack": "Ahwak",
+      "itunesArtist": "Abdel Halim Hafez",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "نمبر وان",
+      "artist": "محمد رمضان",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/71/78/dd/7178dd19-f2fd-da56-d914-606bcf5725f2/mzaf_7950854711386102851.plus.aac.p.m4a",
+      "trackId": 1403389638,
+      "sourceUrl": "https://music.apple.com/ae/album/number-one/1403389289?i=1403389638",
+      "itunesTrack": "Number One",
+      "itunesArtist": "Mohamed Ramadan",
+      "src": "https://ar.wikipedia.org/wiki/محمد_رمضان_(ممثل)",
+      "clipStart": 10
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "بنت الجيران",
+      "artist": "حسن شاكوش وعمر كمال",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/61/05/53/610553ef-82f9-5b17-6045-499c75918777/mzaf_5817950213956088330.plus.aac.p.m4a",
+      "trackId": 1496825130,
+      "sourceUrl": "https://music.apple.com/ae/album/mahragan-bent-el-geran-feat-omar-kamal/1496825129?i=1496825130",
+      "itunesTrack": "Mahragan Bent El Geran (feat. Omar Kamal)",
+      "itunesArtist": "Hassan Shakosh",
+      "src": "https://al-ain.com/article/the-most-popular-in-2020-festivals-songs-d",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "البخت",
+      "artist": "ويجز",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e2/b0/1d/e2b01d30-7b5f-d520-4f3e-e1e250899b12/mzaf_2863315495467483634.plus.aac.p.m4a",
+      "trackId": 1851322099,
+      "sourceUrl": "https://music.apple.com/ae/album/%D8%A7%D9%84%D8%A8%D8%AE%D8%AA/1851322097?i=1851322099",
+      "itunesTrack": "البخت",
+      "itunesArtist": "Wegz",
+      "src": "https://en.wikipedia.org/wiki/Wegz",
+      "clipStart": 15
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "مشاعر",
+      "artist": "شيرين",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/08/13/32/08133239-98a1-7578-e365-8b489219c0db/mzaf_13654587899466436776.plus.aac.p.m4a",
+      "trackId": 769936740,
+      "sourceUrl": "https://music.apple.com/ae/album/mashaier/769936736?i=769936740",
+      "itunesTrack": "Mashaier",
+      "itunesArtist": "Sherine",
+      "src": "https://ar.wikipedia.org/wiki/شيرين_عبد_الوهاب",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "عيش بشوقك",
+      "artist": "تامر حسني",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/e2/0c/68/e20c6800-79fe-8696-3a1d-87f918ed8a3e/mzaf_11252004127852067757.plus.aac.p.m4a",
+      "trackId": 1731374973,
+      "sourceUrl": "https://music.apple.com/ae/album/eish-beshoak/1731374518?i=1731374973",
+      "itunesTrack": "Eish Besho'ak",
+      "itunesArtist": "Tamer Hosny",
+      "src": "https://ar.wikipedia.org/wiki/تامر_حسني",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "أحلى حاجة فيكي",
+      "artist": "محمد حماقي",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/91/b9/bc91b9a2-eae6-2e60-a45b-2f5826852ea1/mzaf_17739985651106038651.plus.aac.p.m4a",
+      "trackId": 1670387675,
+      "sourceUrl": "https://music.apple.com/ae/album/%D8%A7%D8%AD%D9%84%D9%89-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%81%D9%8A%D9%83%D9%89/1670387660?i=1670387675",
+      "itunesTrack": "احلى حاجة فيكى",
+      "itunesArtist": "Mohamed Hamaki",
+      "src": "https://ar.wikipedia.org/wiki/محمد_حماقي",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "حبيبي ده (ناري نارين)",
+      "artist": "هشام عباس",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/45/45/28/45452837-0948-b68c-68ec-7e3de97e587f/mzaf_2417176556968157855.plus.aac.p.m4a",
+      "trackId": 1676238915,
+      "sourceUrl": "https://music.apple.com/ae/album/%D8%AD%D8%A8%D9%8A%D8%A8%D9%89-%D8%AF%D9%87-%D9%86%D8%A7%D8%B1%D9%89-%D9%86%D8%A7%D8%B1%D9%8A%D9%86/1676238911?i=1676238915",
+      "itunesTrack": "حبيبى ده (نارى نارين)",
+      "itunesArtist": "Hesham Abbas",
+      "src": "https://ar.wikipedia.org/wiki/هشام_عباس",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "سيدي وصالك",
+      "artist": "أنغام",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/35/3b/79/353b79cd-ec72-5d36-944f-65b9bdb91a15/mzaf_9618429099776502251.plus.aac.p.m4a",
+      "trackId": 770937661,
+      "sourceUrl": "https://music.apple.com/ae/album/sidi-wesalak/770937605?i=770937661",
+      "itunesTrack": "Sidi Wesalak",
+      "itunesArtist": "Angham",
+      "src": "https://ar.wikipedia.org/wiki/أنغام",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "صبري قليل",
+      "artist": "شيرين",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/cd/1a/e9/cd1ae9ec-f7cb-9f4e-95fe-2ed86dd60d96/mzaf_5355291922452830237.plus.aac.p.m4a",
+      "trackId": 538287781,
+      "sourceUrl": "https://music.apple.com/ae/album/sabry-aalil/538287586?i=538287781",
+      "itunesTrack": "Sabry Aalil",
+      "itunesArtist": "Sherine",
+      "src": "https://ar.wikipedia.org/wiki/شيرين_عبد_الوهاب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "يا بنت الإيه",
+      "artist": "تامر حسني",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bb/a9/4b/bba94bd9-020a-8eb9-c67e-1930dce68986/mzaf_11579290530808350749.plus.aac.p.m4a",
+      "trackId": 534063957,
+      "sourceUrl": "https://music.apple.com/ae/album/ya-bent-el-eh/534063621?i=534063957",
+      "itunesTrack": "Ya Bent El Eh",
+      "itunesArtist": "Tamer Hosny",
+      "src": "https://ar.wikipedia.org/wiki/تامر_حسني",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "السح الدح امبو",
+      "artist": "أحمد عدوية",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/00/9c/09/009c09f1-5b47-a1a7-141b-eb82ca841c99/mzaf_7208264010148531655.plus.aac.p.m4a",
+      "trackId": 849758536,
+      "sourceUrl": "https://music.apple.com/ae/album/el-sah-el-dah-embo/849758458?i=849758536",
+      "itunesTrack": "El Sah El Dah Embo",
+      "itunesArtist": "Ahmed Adaweia",
+      "src": "https://ar.wikipedia.org/wiki/أحمد_عدوية",
+      "clipStart": 0
+    },
+    {
+      "q": "من المطربة الملقبة بـ«كوكب الشرق»؟",
+      "a": "أم كلثوم",
+      "src": "https://ar.wikipedia.org/wiki/أم_كلثوم_(مطربة)"
+    },
+    {
+      "q": "من المطرب الملقب بـ«العندليب الأسمر»؟",
+      "a": "عبد الحليم حافظ",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ"
+    },
+    {
+      "q": "من المطرب الملقب بـ«الهضبة»؟",
+      "a": "عمرو دياب",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب"
+    },
+    {
+      "q": "من الموسيقار الملقب بـ«موسيقار الأجيال»؟",
+      "a": "محمد عبد الوهاب",
+      "src": "https://ar.wikipedia.org/wiki/محمد_عبد_الوهاب"
+    },
+    {
+      "q": "من المطرب المصري الملقب بـ«الكينج»؟",
+      "a": "محمد منير",
+      "src": "https://en.wikipedia.org/wiki/Mohamed_Mounir"
+    },
+    {
+      "q": "من المطرب الملقب بـ«نجم الجيل»؟",
+      "a": "تامر حسني",
+      "src": "https://ar.wikipedia.org/wiki/تامر_حسني"
+    },
+    {
+      "q": "من الفنانة المصرية الملقبة بـ«دلوعة السينما»؟",
+      "a": "شادية",
+      "src": "https://gate.ahram.org.eg/News/2107019.aspx"
+    },
+    {
+      "q": "من غنّت الأغنية الوطنية «يا حبيبتي يا مصر»؟",
+      "a": "شادية",
+      "src": "https://ar.wikipedia.org/wiki/شادية"
+    },
+    {
+      "q": "من غنّى أغنية «سواح»؟",
+      "a": "عبد الحليم حافظ",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ"
+    },
+    {
+      "q": "من صاحبة أغنية العيد الشهيرة «يا ليلة العيد»؟",
+      "a": "أم كلثوم",
+      "src": "https://www.maspero.eg/radio/2023/04/21/350328/يا-ليلة-العيد-تمنح-أم-كلثوم-لقب-صاحبة-العصمة"
+    },
+    {
+      "q": "من غنّى قصيدة «قارئة الفنجان»؟",
+      "a": "عبد الحليم حافظ",
+      "src": "https://arabicpost.net/%d9%81%d9%86-%d9%88%d9%85%d8%b4%d8%a7%d9%87%db%8c%d8%b1/2018/11/08/%d9%83%d8%aa%d8%a8%d9%87%d8%a7-%d9%86%d8%b2%d8%a7%d8%b1-%d9%82%d8%a8%d8%a7%d9%86%d9%8a-%d9%88%d8%ba%d9%86%d8%a7%d9%87%d8%a7-%d8%a7%d9%84%d8%b9%d9%86%d8%af%d9%84%d9%8a%d8%a8-%d8%a8%d8%af%d9%85%d9%88/"
+    },
+    {
+      "q": "كمّل من أغنية «الأطلال» لأم كلثوم: «أعطني حريتي ...»",
+      "a": "أطلق يديّ",
+      "src": "https://ar.wikipedia.org/wiki/قصيدة_الأطلال"
+    },
+    {
+      "q": "كمّل من أغنية «زوروني» التي لحّنها سيد درويش: «زوروني كل سنة مرة ...»",
+      "a": "حرام تنسوني بالمرة",
+      "src": "https://arabicpost.net/%d9%81%d9%86-%d9%88%d9%85%d8%b4%d8%a7%d9%87%db%8c%d8%b1/2018/12/05/%d9%82%d8%b5%d8%a9-%d8%a3%d8%ba%d9%86%d9%8a%d8%a9-%d8%b2%d9%88%d8%b1%d9%88%d9%86%d9%8a-%d9%83%d9%84-%d8%b3%d9%86%d8%a9-%d9%85%d8%b1%d8%a9/"
+    },
+    {
+      "q": "من المطرب الذي قام ببطولة سلسلة أفلام «عمر وسلمى» مع مي عز الدين؟",
+      "a": "تامر حسني",
+      "src": "https://gate.ahram.org.eg/News/4506496.aspx"
+    },
+    {
+      "q": "من المطرب الذي قام ببطولة فيلم «إسماعيلية رايح جاي» مع محمد هنيدي؟",
+      "a": "محمد فؤاد",
+      "src": "https://elcinema.com/work/1010247/"
+    },
+    {
+      "q": "من المطرب الشعبي صاحب أغنية «زحمة يا دنيا زحمة»؟",
+      "a": "أحمد عدوية",
+      "src": "https://ar.wikipedia.org/wiki/أحمد_عدوية"
+    },
+    {
+      "q": "في أي مدينة مصرية وُلد عمرو دياب؟",
+      "a": "بورسعيد",
+      "src": "https://en.wikipedia.org/wiki/Amr_Diab"
+    },
+    {
+      "q": "من المطرب الذي غنّى «لولاكي» عام 1988؟",
+      "a": "علي حميدة",
+      "src": "https://www.aljazeera.net/arts/2023/8/5/برحيل-علي-حميدة-هل-تلفظ-ثورة-أغنية"
+    },
+    {
+      "q": "من المطربة التي انطلقت شهرتها بأغنية «آه يا ليل»؟",
+      "a": "شيرين",
+      "src": "https://en.wikipedia.org/wiki/Sherine"
+    },
+    {
+      "q": "من غنّت «الدنيا ربيع» في فيلم «أميرة حبي أنا»؟",
+      "a": "سعاد حسني",
+      "src": "https://www.albawabhnews.com/5342548"
+    },
+    {
+      "q": "ما اسم اللون الغنائي الشعبي المصري الذي يشتهر به حسن شاكوش وعمر كمال وحمو بيكا؟",
+      "a": "المهرجانات",
+      "src": "https://akhbarelyom.com/news/newdetails/3824760/1/عودة-بنت-الجيران-على-يوتيوب-بعد-اعتذار-ش"
+    },
+    {
+      "q": "من غنّى «حبيبي ولا على باله»؟",
+      "a": "عمرو دياب",
+      "src": "https://en.wikipedia.org/wiki/Amr_Diab_discography"
+    },
+    {
+      "q": "من المطربة صاحبة أغنية «إنت عارف ليه»؟",
+      "a": "روبي",
+      "src": "https://www.egypttelegraph.com/article/3486/20-عامًا-من-إثارة-ودلع-رحلة-روبي"
+    },
+    {
+      "q": "من المطرب صاحب أغنية «كامننا»؟",
+      "a": "محمد فؤاد",
+      "src": "https://ar.wikipedia.org/wiki/محمد_فؤاد"
+    }
+  ],
+  "400": [
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "على بالي",
+      "artist": "شيرين",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8c/b1/af/8cb1aff1-be36-3f69-0db9-3778efa2f807/mzaf_17659236028475025302.plus.aac.p.m4a",
+      "trackId": 534964912,
+      "sourceUrl": "https://music.apple.com/ae/album/3la-bali/534964584?i=534964912",
+      "itunesTrack": "3la Bali",
+      "itunesArtist": "Sherine",
+      "src": "https://www.albumaty.com/a/album/58.html",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "كلام عينيه",
+      "artist": "شيرين",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/67/73/2f/67732f33-bcd6-5927-99de-11eaaf88cb73/mzaf_10287738161216312625.plus.aac.p.m4a",
+      "trackId": 1440053111,
+      "sourceUrl": "https://music.apple.com/ae/album/kalam-eneih/1440052929?i=1440053111",
+      "itunesTrack": "Kalam Eneih",
+      "itunesArtist": "Sherine",
+      "src": "https://ar.wikipedia.org/wiki/شيرين_عبد_الوهاب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "وسع وسع",
+      "artist": "أحمد سعد",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/2c/ba/11/2cba117b-c473-3a95-36ab-d4fd3337d902/mzaf_12491533538707426856.plus.aac.p.m4a",
+      "trackId": 1633108057,
+      "sourceUrl": "https://music.apple.com/ae/album/wasa3-wasa3/1633108056?i=1633108057",
+      "itunesTrack": "Wasa3 Wasa3",
+      "itunesArtist": "Ahmed Saad",
+      "src": "https://en.wikipedia.org/wiki/Ahmed_Saad_(singer)",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "أول مرة تحب يا قلبي",
+      "artist": "عبد الحليم حافظ",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/a2/46/bf/a246bf6d-6775-7a47-c56f-9bde98cb6257/mzaf_16928289037525870431.plus.aac.p.m4a",
+      "trackId": 1593463169,
+      "sourceUrl": "https://music.apple.com/ae/album/awel-marrah-teheb/1593463166?i=1593463169",
+      "itunesTrack": "Awel Marrah Teheb",
+      "itunesArtist": "Abdel Halim Hafez",
+      "src": "https://e3arabi.com/%D9%81%D9%86%D9%88%D9%86-%D8%A7%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D8%A9/%D9%83%D9%84%D9%85%D8%A7%D8%AA-%D8%A3%D8%BA%D9%86%D9%8A%D8%A9-%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9-%D8%AA%D8%AD%D8%A8-%D9%8A%D8%A7-%D9%82%D9%84%D8%A8%D9%8A/",
+      "clipStart": 7
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "أنا لك على طول",
+      "artist": "عبد الحليم حافظ",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/79/41/74/794174cb-75b6-22cc-58e3-773a3a3a951a/mzaf_6897083129854382043.plus.aac.p.m4a",
+      "trackId": 844361549,
+      "sourceUrl": "https://music.apple.com/ae/album/ana-lak-ala-toul/844361170?i=844361549",
+      "itunesTrack": "Ana Lak Ala Toul",
+      "itunesArtist": "Abdel Halim Hafez",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "من قلبي بغني",
+      "artist": "محمد حماقي",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/91/a1/11/91a1113e-fefd-e302-5516-5ac84f28b4b7/mzaf_372897731961813642.plus.aac.p.m4a",
+      "trackId": 1467668518,
+      "sourceUrl": "https://music.apple.com/ae/album/mn-alby-baghany/1467668464?i=1467668518",
+      "itunesTrack": "Mn Alby Baghany",
+      "itunesArtist": "Mohamed Hamaki",
+      "src": "https://ar.wikipedia.org/wiki/محمد_حماقي",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "معدي الناس",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ca/00/ca/ca00cad1-89bf-e434-6406-1a4e34e16385/mzaf_7115375651818983861.plus.aac.p.m4a",
+      "trackId": 1775936967,
+      "sourceUrl": "https://music.apple.com/ae/album/meaddy-el-nas/1775936881?i=1775936967",
+      "itunesTrack": "Meaddy El Nas",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "علم قلبي",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/a6/8e/86/a68e861d-9047-58de-3a08-d9a10e5049a7/mzaf_4949815921939369062.plus.aac.p.m4a",
+      "trackId": 534190616,
+      "sourceUrl": "https://music.apple.com/ae/album/allem-alby/534190615?i=534190616",
+      "itunesTrack": "Allem Alby",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "وياه",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bc/95/59/bc95594d-2790-5b9c-bec3-0c67445f6dff/mzaf_14182519353566485699.plus.aac.p.m4a",
+      "trackId": 581809183,
+      "sourceUrl": "https://music.apple.com/ae/album/wayah/581809109?i=581809183",
+      "itunesTrack": "Wayah",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "سهراني",
+      "artist": "إيهاب توفيق",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/51/6d/30/516d3075-d83d-ca35-beba-65e03fb1f1e6/mzaf_15417113389852992.plus.aac.p.m4a",
+      "trackId": 1547113432,
+      "sourceUrl": "https://music.apple.com/ae/album/sahrany/1547113430?i=1547113432",
+      "itunesTrack": "Sahrany",
+      "itunesArtist": "Ihab Tawfiq",
+      "src": "https://en.wikipedia.org/wiki/Ehab_Tawfik",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "مافيا",
+      "artist": "محمد رمضان",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b7/99/b2/b799b29f-e151-ff4f-42d6-476e2ae9cf18/mzaf_14682387711481633216.plus.aac.p.m4a",
+      "trackId": 1448358571,
+      "sourceUrl": "https://music.apple.com/ae/album/mafia/1448358570?i=1448358571",
+      "itunesTrack": "Mafia",
+      "itunesArtist": "Mohamed Ramadan",
+      "src": "https://ar.wikipedia.org/wiki/محمد_رمضان_(ممثل)",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "الحب الحقيقي",
+      "artist": "محمد فؤاد",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/76/ac/3b/76ac3b35-1657-d3c3-bcfe-cdff4e809cd1/mzaf_3862610830179930473.plus.aac.p.m4a",
+      "trackId": 558582408,
+      "sourceUrl": "https://music.apple.com/ae/album/el-hob-el-ha2e2y/558582400?i=558582408",
+      "itunesTrack": "El Hob El Ha2e2y",
+      "itunesArtist": "Mohamed Fouad",
+      "src": "https://ar.wikipedia.org/wiki/محمد_فؤاد",
+      "clipStart": 11
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "الله عليك يا سيدي",
+      "artist": "إيهاب توفيق",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/ac/d1/91acd178-479d-7b61-9c51-49ad9c5fa678/mzaf_10856518602985093766.plus.aac.p.m4a",
+      "trackId": 1547122750,
+      "sourceUrl": "https://music.apple.com/ae/album/allah-aleik-ya-seedy/1547122747?i=1547122750",
+      "itunesTrack": "Allah Aleik Ya Seedy",
+      "itunesArtist": "Ihab Tawfiq",
+      "src": "https://ar.wikipedia.org/wiki/إيهاب_توفيق",
+      "clipStart": 13
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "عمري معاك",
+      "artist": "أنغام",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/16/65/3e/16653ea2-be4e-ba34-dd87-02c7d1442fbe/mzaf_5299744446191711820.plus.aac.p.m4a",
+      "trackId": 773233792,
+      "sourceUrl": "https://music.apple.com/ae/album/omry-maak/773233789?i=773233792",
+      "itunesTrack": "Omry Maak",
+      "itunesArtist": "Angham",
+      "src": "https://ar.wikipedia.org/wiki/أنغام",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "محمد نبينا",
+      "artist": "حمادة هلال",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/35/b6/71/35b67109-5d8a-d676-7034-570599cf0f30/mzaf_11469072673195022225.plus.aac.p.m4a",
+      "trackId": 1456308241,
+      "sourceUrl": "https://music.apple.com/ae/album/mohamed-nabeina/1456307865?i=1456308241",
+      "itunesTrack": "Mohamed Nabeina",
+      "itunesArtist": "Hamada Helal",
+      "src": "https://ar.wikipedia.org/wiki/حمادة_هلال",
+      "clipStart": 11
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "ليلي نهاري",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/04/5c/a1/045ca17c-5a2f-8948-cb93-4a58867aebc3/mzaf_3904081907629733783.plus.aac.p.m4a",
+      "trackId": 1599532428,
+      "sourceUrl": "https://music.apple.com/us/album/lealy-nahary/1599532126?i=1599532428",
+      "itunesTrack": "Lealy Nahary",
+      "itunesArtist": "Amr Diab",
+      "src": "https://en.wikipedia.org/wiki/Amr_Diab_discography",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "ليه سبتها",
+      "artist": "أنغام",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/2e/80/bd/2e80bd3a-9c49-c3cd-1827-6ca304daca35/mzaf_15550899024646714275.plus.aac.p.m4a",
+      "trackId": 770937662,
+      "sourceUrl": "https://music.apple.com/eg/album/leih-sebtaha/770937605?i=770937662",
+      "itunesTrack": "Leih Sebtaha",
+      "itunesArtist": "Angham",
+      "src": "https://en.wikipedia.org/wiki/Leih_Sebtaha",
+      "clipStart": 0
+    },
+    {
+      "q": "من الشاعر الذي كتب قصيدة «رسالة من تحت الماء» التي غنّاها عبد الحليم حافظ؟",
+      "a": "نزار قباني",
+      "src": "https://gate.ahram.org.eg/News/4266614.aspx"
+    },
+    {
+      "q": "في أي مدينة توفي عبد الحليم حافظ عام 1977؟",
+      "a": "لندن",
+      "src": "https://en.wikipedia.org/wiki/Abdel_Halim_Hafez"
+    },
+    {
+      "q": "ما المرض الذي عانى منه عبد الحليم حافظ منذ طفولته وأتعب صحته طوال حياته؟",
+      "a": "البلهارسيا",
+      "src": "https://en.wikipedia.org/wiki/Abdel_Halim_Hafez"
+    },
+    {
+      "q": "في أي يوم من الأسبوع كانت أم كلثوم تقيم حفلتها الشهرية؟",
+      "a": "الخميس",
+      "src": "https://en.wikipedia.org/wiki/Umm_Kulthum"
+    },
+    {
+      "q": "من الشاعر الملقب بـ«شاعر الشباب» الذي كتب أكبر عدد من أغاني أم كلثوم؟",
+      "a": "أحمد رامي",
+      "src": "https://www.maspero.eg/radio/2026/08/29/984552/(أغاني-منسية)-يكشف-عدد-من-الأسرار-فى-حياة-شاعر-الشباب-أحمد-رامى"
+    },
+    {
+      "q": "في أي عام توفيت أم كلثوم؟",
+      "a": "1975",
+      "src": "https://en.wikipedia.org/wiki/Umm_Kulthum"
+    },
+    {
+      "q": "من الموسيقار الذي لحّن النشيد الوطني المصري «بلادي بلادي بلادي»؟",
+      "a": "سيد درويش",
+      "src": "https://en.wikipedia.org/wiki/Biladi,_Biladi,_Biladi"
+    },
+    {
+      "q": "في أي مدينة مصرية وُلد الموسيقار سيد درويش؟",
+      "a": "الإسكندرية",
+      "src": "https://ar.wikipedia.org/wiki/سيد_درويش"
+    },
+    {
+      "q": "من أي محافظة مصرية ينحدر المطرب محمد منير؟",
+      "a": "أسوان",
+      "src": "https://ar.wikipedia.org/wiki/محمد_منير"
+    },
+    {
+      "q": "مع أي مطرب شاركت شيرين ألبوم «فري ميكس 3» عام 2002؟",
+      "a": "تامر حسني",
+      "src": "https://gate.ahram.org.eg/News/5249104.aspx"
+    },
+    {
+      "q": "مع أي مطرب جزائري غنّى عمرو دياب دويتو «قلبي» عام 1999؟",
+      "a": "الشاب خالد",
+      "src": "https://en.wikipedia.org/wiki/Amarain"
+    },
+    {
+      "q": "ما اسم الدلع الذي اشتهرت به أم كلثوم بين محبيها؟",
+      "a": "ثومة",
+      "src": "https://www.albayan.ae/culture/1998-10-26-1.1010884"
+    },
+    {
+      "q": "ما آخر فيلم قام ببطولته عبد الحليم حافظ، وعُرض عام 1969؟",
+      "a": "أبي فوق الشجرة",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ"
+    },
+    {
+      "q": "ما أول فيلم سينمائي قام ببطولته عبد الحليم حافظ عام 1955 مع شادية؟",
+      "a": "لحن الوفاء",
+      "src": "https://en.wikipedia.org/wiki/Abdel_Halim_Hafez"
+    },
+    {
+      "q": "ما الفيلم الذي قام عمرو دياب ببطولته عام 1992؟",
+      "a": "آيس كريم في جليم",
+      "src": "https://en.wikipedia.org/wiki/Amr_Diab"
+    },
+    {
+      "q": "من الملحن الذي لحّن أغنية «زي الهوا» لعبد الحليم حافظ؟",
+      "a": "بليغ حمدي",
+      "src": "https://ar.wikipedia.org/wiki/بليغ_حمدي"
+    },
+    {
+      "q": "في أي فيلم ليوسف شاهين غنّى محمد منير أغنية «علّي صوتك»؟",
+      "a": "المصير",
+      "src": "https://www.masrawy.com/arts/music/details/2022/1/25/2164204/"
+    },
+    {
+      "q": "من الموسيقار المصري الذي لحّن النشيد الوطني الجزائري «قسماً»؟",
+      "a": "محمد فوزي",
+      "src": "https://en.wikipedia.org/wiki/Mohamed_Fawzi_(singer)"
+    },
+    {
+      "q": "من المطرب المصري الملقب بـ«أمير الغناء العربي»؟",
+      "a": "هاني شاكر",
+      "src": "https://gate.ahram.org.eg/News/5611196.aspx"
+    },
+    {
+      "q": "من المطربة صاحبة أغنية «كدابين»؟",
+      "a": "شيرين",
+      "src": "https://www.sayidaty.net/node/1124271"
+    },
+    {
+      "q": "من المطرب صاحب أغنية الأطفال الشهيرة «ماما زمانها جاية»؟",
+      "a": "محمد فوزي",
+      "src": "https://ar.wikipedia.org/wiki/محمد_فوزي_(مطرب)"
+    },
+    {
+      "q": "ما اللقب الذي أطلقته الصحافة على أغنية «إنت عمري» لأنها جمعت أم كلثوم ومحمد عبد الوهاب لأول مرة؟",
+      "a": "لقاء السحاب",
+      "src": "https://www.maspero.eg/radio/2023/12/20/744041/أنت-عمري-لقاء-السحاب-لثومة-وموسيقار-الأجيال-الخميس"
+    },
+    {
+      "q": "ما اسم فرقة الروك المصرية التي يقودها المغني أمير عيد؟",
+      "a": "كايروكي",
+      "src": "https://en.wikipedia.org/wiki/Cairokee"
+    }
+  ],
+  "600": [
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "العالم الله",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/41/db/f4/41dbf417-085d-2f92-2ce2-519a725981af/mzaf_3344482243598082520.plus.aac.p.m4a",
+      "trackId": 880940096,
+      "sourceUrl": "https://music.apple.com/ae/album/el-alem-allah/880940009?i=880940096",
+      "itunesTrack": "El Alem Allah",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "خليك فاكرني",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/92/9b/a6/929ba6eb-5b21-dd41-efef-39244b816751/mzaf_7957418349983519039.plus.aac.p.m4a",
+      "trackId": 533091082,
+      "sourceUrl": "https://music.apple.com/ae/album/khalik-fakrny/533091072?i=533091082",
+      "itunesTrack": "Khalik Fakrny",
+      "itunesArtist": "Amr Diab",
+      "src": "https://ar.wikipedia.org/wiki/عمرو_دياب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "وغلاوتك",
+      "artist": "عمرو دياب",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/77/c6/5f/77c65f09-0e0e-3365-858f-9b6db0d5dfbe/mzaf_9401173321259339897.plus.aac.p.m4a",
+      "trackId": 1675938075,
+      "sourceUrl": "https://music.apple.com/ae/album/%D9%88%D8%BA%D9%84%D8%A7%D9%88%D8%AA%D9%83/1675937742?i=1675938075",
+      "itunesTrack": "وغلاوتك",
+      "itunesArtist": "Amr Diab",
+      "src": "https://en.wikipedia.org/wiki/Awedony",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "شبابيك",
+      "artist": "محمد منير",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/cc/72/4e/cc724ea1-ed06-3d78-11a8-8db6a231a68d/mzaf_1404150752263796824.plus.aac.p.m4a",
+      "trackId": 1821737515,
+      "sourceUrl": "https://music.apple.com/ae/album/shababeek/1821737042?i=1821737515",
+      "itunesTrack": "Shababeek",
+      "itunesArtist": "Mohamed Mounir",
+      "src": "https://ar.wikipedia.org/wiki/محمد_منير",
+      "clipStart": 14
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "يونس",
+      "artist": "محمد منير",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/92/6f/1d/926f1dd8-69e0-36e9-cf41-797efec9b732/mzaf_17078248133535175998.plus.aac.p.m4a",
+      "trackId": 282123303,
+      "sourceUrl": "https://music.apple.com/ae/album/yunis/282123291?i=282123303",
+      "itunesTrack": "Yunis",
+      "itunesArtist": "Mohamed Mounir",
+      "src": "https://gate.ahram.org.eg/News/4916466.aspx",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "توبة",
+      "artist": "عبد الحليم حافظ",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/e9/64/66e9641b-4a37-7701-3c8d-8aed09caa316/mzaf_9194179254718237597.plus.aac.p.m4a",
+      "trackId": 844361546,
+      "sourceUrl": "https://music.apple.com/ae/album/toba/844361170?i=844361546",
+      "itunesTrack": "Toba",
+      "itunesArtist": "Abdel Halim Hafez",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "بتلوموني ليه",
+      "artist": "عبد الحليم حافظ",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview126/v4/b6/36/ee/b636eec3-7800-e472-29bf-f5fb27ac275f/mzaf_14894159026841592571.plus.aac.p.m4a",
+      "trackId": 1600619476,
+      "sourceUrl": "https://music.apple.com/ae/album/betlomouny-leih/1600619472?i=1600619476",
+      "itunesTrack": "Betlomouny Leih",
+      "itunesArtist": "Abdel Halim Hafez",
+      "src": "https://ar.wikipedia.org/wiki/عبد_الحليم_حافظ",
+      "clipStart": 13
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "قولوا لعين الشمس",
+      "artist": "شادية",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/a4/2e/5d/a42e5d21-5d98-69a0-8906-e9e8e1086a11/mzaf_17564254026583297692.plus.aac.p.m4a",
+      "trackId": 1492922259,
+      "sourceUrl": "https://music.apple.com/ae/album/oulo-le-ain-al-shams/1492922258?i=1492922259",
+      "itunesTrack": "Oulo Le Ain Al Shams",
+      "itunesArtist": "Shadia",
+      "src": "https://www.elwatannews.com/news/details/7137754",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "دورك جاي",
+      "artist": "ويجز",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d3/71/ab/d371ab8d-ee54-de16-806f-cfe9cbd49b8e/mzaf_3509482404735628639.plus.aac.p.m4a",
+      "trackId": 1851321784,
+      "sourceUrl": "https://music.apple.com/ae/album/dorak-gai/1851321780?i=1851321784",
+      "itunesTrack": "Dorak Gai",
+      "itunesArtist": "Wegz",
+      "src": "https://en.wikipedia.org/wiki/Wegz",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "جرح تاني",
+      "artist": "شيرين",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ca/f5/63/caf5633f-5aab-d81a-982c-092e5da45d5f/mzaf_48692583282639820.plus.aac.p.m4a",
+      "trackId": 538287788,
+      "sourceUrl": "https://music.apple.com/ae/album/garh-tany/538287586?i=538287788",
+      "itunesTrack": "Garh Tany",
+      "itunesArtist": "Sherine",
+      "src": "https://ar.wikipedia.org/wiki/شيرين_عبد_الوهاب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "الوتر الحساس",
+      "artist": "شيرين",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ae/69/bd/ae69bd62-653c-7343-c789-cc5ffbee606a/mzaf_91142661183722088.plus.aac.p.m4a",
+      "trackId": 1440053120,
+      "sourceUrl": "https://music.apple.com/ae/album/el-watar-el-hassas/1440052929?i=1440053120",
+      "itunesTrack": "El Watar El Hassas",
+      "itunesArtist": "Sherine",
+      "src": "https://ar.wikipedia.org/wiki/شيرين_عبد_الوهاب",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "ما بلاش",
+      "artist": "محمد حماقي",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/c7/af/72c7afae-dda3-f5d3-d1f7-863bab6bb468/mzaf_1111519679571369694.plus.aac.p.m4a",
+      "trackId": 1029486798,
+      "sourceUrl": "https://music.apple.com/ae/album/mabalash/1029486729?i=1029486798",
+      "itunesTrack": "Mabalash",
+      "itunesArtist": "Mohamed Hamaki",
+      "src": "https://www.aljarida.com/articles/1468384948966319800",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "كوكب تاني",
+      "artist": "مدحت صالح",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/a6/ed/01/a6ed01b7-1620-9d83-47db-139c34f72e34/mzaf_3316331275719869077.plus.aac.p.m4a",
+      "trackId": 851754887,
+      "sourceUrl": "https://music.apple.com/ae/album/kawkab-tany/851754886?i=851754887",
+      "itunesTrack": "Kawkab Tany",
+      "itunesArtist": "Medhat Saleh",
+      "src": "https://ar.wikipedia.org/wiki/مدحت_صالح",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "نور عيني",
+      "artist": "تامر حسني",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/99/e9/ce/99e9ce62-78c5-4a60-5fbf-288b24d72084/mzaf_17933826998463935588.plus.aac.p.m4a",
+      "trackId": 534449396,
+      "sourceUrl": "https://music.apple.com/ae/album/nour-einy/534449364?i=534449396",
+      "itunesTrack": "Nour Einy",
+      "itunesArtist": "Tamer Hosny",
+      "src": "https://ar.wikipedia.org/wiki/تامر_حسني",
+      "clipStart": 0
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "حبيبي يا",
+      "artist": "محمد فؤاد",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ac/7c/5b/ac7c5bf8-550e-1686-b079-5b62159c2251/mzaf_15293063232559139986.plus.aac.p.m4a",
+      "trackId": 1792600696,
+      "sourceUrl": "https://music.apple.com/ae/album/habibi-ya/1792600695?i=1792600696",
+      "itunesTrack": "Habibi Ya",
+      "itunesArtist": "Mohamed Fouad",
+      "src": "https://ar.wikipedia.org/wiki/محمد_فؤاد",
+      "clipStart": 13
+    },
+    {
+      "q": "خمّن الأغنية من المقطع",
+      "a": "ناسيني ليه",
+      "artist": "تامر حسني",
+      "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1b/81/dc/1b81dc3b-14ba-4c40-3d2f-b3755fb6020d/mzaf_8433990485033100859.plus.aac.p.m4a",
+      "trackId": 1731374726,
+      "sourceUrl": "https://music.apple.com/ae/album/nasseeny-leih/1731374518?i=1731374726",
+      "itunesTrack": "Nasseeny Leih",
+      "itunesArtist": "Tamer Hosny",
+      "src": "https://akhbarelyom.com/news/newdetails/2805394/1/تامر-حسني-يعلن-موعد-طرح-كليب-ناسيني-ليه-",
+      "clipStart": 0
+    },
+    {
+      "q": "من الشاعر الذي كتب كلمات «إنت عمري» لأم كلثوم؟",
+      "a": "أحمد شفيق كامل",
+      "src": "https://en.wikipedia.org/wiki/Inta_Omri"
+    },
+    {
+      "q": "من الشاعر اللبناني الذي كتب قصيدة «هذه ليلتي» لأم كلثوم؟",
+      "a": "جورج جرداق",
+      "src": "https://ar.wikipedia.org/wiki/محمد_عبد_الوهاب"
+    },
+    {
+      "q": "من الشاعر السوداني الذي كتب قصيدة «أغداً ألقاك» لأم كلثوم؟",
+      "a": "الهادي آدم",
+      "src": "https://www.al-madina.com/article/934938/كتاب/أغدا-ألقاك"
+    },
+    {
+      "q": "من الشاعر العربي القديم صاحب قصيدة «أراك عصي الدمع» التي غنّتها أم كلثوم؟",
+      "a": "أبو فراس الحمداني",
+      "src": "https://www.albawabhnews.com/4721782"
+    },
+    {
+      "q": "ما آخر أغنية سجّلتها أم كلثوم، وهي من ألحان بليغ حمدي؟",
+      "a": "حكم علينا الهوى",
+      "src": "https://www.al-madina.com/article/981641/كتاب/حكم-علينا-الهوى"
+    },
+    {
+      "q": "ما أول أغنية لحّنها بليغ حمدي لأم كلثوم عام 1960؟",
+      "a": "حب إيه",
+      "src": "https://www.youm7.com/story/2016/12/1/ذات-يوم-1-ديسمبر-1960-أم-كلثوم-تغنى-حب-إيه/2991998"
+    },
+    {
+      "q": "ما أول فيلم سينمائي قامت ببطولته أم كلثوم عام 1936؟",
+      "a": "وداد",
+      "src": "https://en.wikipedia.org/wiki/Umm_Kulthum"
+    },
+    {
+      "q": "ما أول فيلم سينمائي قام ببطولته محمد عبد الوهاب عام 1933؟",
+      "a": "الوردة البيضاء",
+      "src": "https://en.wikipedia.org/wiki/Mohammed_Abdel_Wahab"
+    },
+    {
+      "q": "ما اسم العائلة الحقيقي للمطرب عبد الحليم حافظ؟",
+      "a": "شبانة",
+      "src": "https://en.wikipedia.org/wiki/Abdel_Halim_Hafez"
+    },
+    {
+      "q": "في أي قرية بمحافظة الشرقية وُلد عبد الحليم حافظ؟",
+      "a": "الحلوات",
+      "src": "https://en.wikipedia.org/wiki/Abdel_Halim_Hafez"
+    },
+    {
+      "q": "ما اسم شركة الأسطوانات التي أسسها المطرب محمد فوزي؟",
+      "a": "مصرفون",
+      "src": "https://www.albayan.ae/opinions/articles/2023-02-02-1.4608346"
+    },
+    {
+      "q": "لأي دولة عربية لحّن محمد عبد الوهاب نشيدها الوطني عام 1951؟",
+      "a": "ليبيا",
+      "src": "https://en.wikipedia.org/wiki/Mohammed_Abdel_Wahab"
+    },
+    {
+      "q": "ما اسم أول ألبوم أصدره عمرو دياب عام 1983؟",
+      "a": "يا طريق",
+      "src": "https://en.wikipedia.org/wiki/Amr_Diab"
+    },
+    {
+      "q": "ما اسم ألبوم عمرو دياب الصادر عام 1988؟",
+      "a": "ميال",
+      "src": "https://en.wikipedia.org/wiki/Amr_Diab_discography"
+    },
+    {
+      "q": "ما اسم أول ألبوم أصدره محمد منير عام 1977؟",
+      "a": "علموني عنيكي",
+      "src": "https://ar.wikipedia.org/wiki/محمد_منير"
+    },
+    {
+      "q": "من الملحن والد المطربة أنغام؟",
+      "a": "محمد علي سليمان",
+      "src": "https://www.marefa.org/أنغام"
+    },
+    {
+      "q": "ما اسم المسلسل الذي قامت ببطولته شيرين عبد الوهاب في رمضان 2015؟",
+      "a": "طريقي",
+      "src": "https://elcinema.com/work/2034896/"
+    },
+    {
+      "q": "كانت أغنية «من غير ليه» مُعدّة لعبد الحليم حافظ لكنه رحل قبل أن يغنيها، فمن غنّاها بصوته؟",
+      "a": "محمد عبد الوهاب",
+      "src": "https://akhbarelyom.com/news/newdetails/4044991/1/رحل-قبل-أن-يغنيها-حكاية-أغنية-من-غير-ليه"
+    },
+    {
+      "q": "من المخرج الذي اكتشف المطربة روبي وأخرج كليباتها الأولى؟",
+      "a": "شريف صبري",
+      "src": "https://akhbarelyom.com/news/newdetails/3902941/1/%D8%B1%D9%88%D8%A8%D9%8A-%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A7%D9%84%D8%AA%D8%B1%D9%8A%D9%86%D8%AF-%D9%81%D9%8A-%D8%B9%D9%8A%D8%AF-%D9%85%D9%8A%D9%84%D8%A7%D8%AF%D9%87%D8%A7-%D8%A7%D9%84%D9%80-41"
+    },
+    {
+      "q": "في أي عام غنّت أم كلثوم على مسرح الأولمبيا في باريس؟",
+      "a": "1967",
+      "src": "https://gate.ahram.org.eg/News/288151.aspx"
+    },
+    {
+      "q": "في أي فيلم غنّى محمد عبد الوهاب «عاشق الروح»؟",
+      "a": "غزل البنات",
+      "src": "https://www.albayan.ae/culture/1998-07-01-1.1009850"
+    },
+    {
+      "q": "من الملحن الذي لحّن قصيدة «قارئة الفنجان»؟",
+      "a": "محمد الموجي",
+      "src": "https://en.wikipedia.org/wiki/Qareat_El_Fengan"
+    },
+    {
+      "q": "مع أي مطربة يونانية غنّى عمرو دياب دويتو «بحبك أكتر» عام 1999؟",
+      "a": "أنجيلا ديميتريو",
+      "src": "https://en.wikipedia.org/wiki/Amarain"
+    },
+    {
+      "q": "ما الاسم الحقيقي لمغني الراب المصري ويجز؟",
+      "a": "أحمد علي",
+      "src": "https://gate.ahram.org.eg/News/3891814.aspx"
+    }
+  ],
+  "id": "ar_egyptian_songs"
+}

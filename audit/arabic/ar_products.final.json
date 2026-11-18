@@ -1,0 +1,619 @@
+{
+ "200": [
+  {
+   "q": "ما الشركة التي تصنع هواتف «جالاكسي» (Galaxy) الذكية؟",
+   "a": "سامسونج (Samsung)",
+   "src": "https://en.wikipedia.org/wiki/Samsung_Galaxy"
+  },
+  {
+   "q": "ما نوع المكسرات الأساسي في كريمة «نوتيلا»؟",
+   "a": "البندق",
+   "src": "https://www.thelocal.it/20240420/italys-nutella-spread-turns-60-from-a-factory-in-piedmont-to-global-success-story"
+  },
+  {
+   "q": "أي شوكولاتة يقول شعارها الإعلاني الشهير: «خذ استراحة...» (Have a break)؟",
+   "a": "كيت كات (KitKat)",
+   "src": "https://www.creativemoment.co/creative-classic-how-and-why-have-a-break-have-a-kit-kat-has-lasted-60-years"
+  },
+  {
+   "q": "أي مشروب طاقة يقول شعاره الشهير إنه «يمنحك أجنحة»؟",
+   "a": "ريد بُل (Red Bull)",
+   "src": "https://en.wikipedia.org/wiki/Red_Bull"
+  },
+  {
+   "q": "ما اسم الشوكولاتة السويسرية الشهيرة ذات الشكل المثلث الطويل الذي يشبه قمم الجبال؟",
+   "a": "توبليرون (Toblerone)",
+   "src": "https://switzerlanding.com/toblerone-history-logo-matterhorn/"
+  },
+  {
+   "q": "ما لون البقرة الشهيرة على أغلفة شوكولاتة «ميلكا»؟",
+   "a": "بنفسجي فاتح (ليلكي)",
+   "src": "https://en.wikipedia.org/wiki/Milka"
+  },
+  {
+   "q": "ما الحشوة الأساسية داخل لوح شوكولاتة «باونتي» (Bounty)؟",
+   "a": "جوز الهند",
+   "src": "https://en.wikipedia.org/wiki/Bounty_(chocolate_bar)"
+  },
+  {
+   "q": "اشتهر شامبو «هيد آند شولدرز» بمكافحة أي مشكلة في فروة الرأس؟",
+   "a": "القشرة",
+   "src": "https://en.wikipedia.org/wiki/Head_%26_Shoulders"
+  },
+  {
+   "q": "ما المادة الفعالة في أقراص «بنادول» الأصلية؟",
+   "a": "الباراسيتامول",
+   "src": "https://www.haleonhealthpartner.com/en-au/pain-relief/brands/panadol/overview"
+  },
+  {
+   "q": "من أي دولة أوروبية جاءت شركة الهواتف «نوكيا»؟",
+   "a": "فنلندا",
+   "src": "https://en.wikipedia.org/wiki/History_of_Nokia"
+  },
+  {
+   "q": "من أي دولة شركة الهواتف والأجهزة الذكية «شاومي» (Xiaomi)؟",
+   "a": "الصين",
+   "src": "https://en.wikipedia.org/wiki/Xiaomi"
+  },
+  {
+   "q": "من أي دولة شركة الإلكترونيات «إل جي» (LG)؟",
+   "a": "كوريا الجنوبية",
+   "src": "https://www.lg.com/global/our-brand/brand-story/"
+  },
+  {
+   "q": "ما ماركة قهوة الكبسولات التي اشتهرت إعلاناتها بالممثل جورج كلوني وعبارة «What else?»؟",
+   "a": "نسبريسو (Nespresso)",
+   "src": "https://thedrum.com/opinion/2024/07/11/fancy-cup-george-why-nespresso-s-clooney-partnership-has-worked-so-well"
+  },
+  {
+   "q": "أي شركة مشروبات عالمية ابتكرت مشروب «سبرايت» بنكهة الليمون؟",
+   "a": "كوكاكولا",
+   "src": "https://coca-cola.com/kh/en/brands/sprite"
+  },
+  {
+   "q": "اشتهرت شركة «دايسون» التي أسسها البريطاني جيمس دايسون باختراع أي جهاز منزلي يعمل بلا أكياس؟",
+   "a": "المكنسة الكهربائية",
+   "src": "https://www.dyson.co.za/products/vacuum-cleaners/dyson-v10/engineering-story"
+  },
+  {
+   "q": "أي علامة تجميل فرنسية اشتهرت بشعار «Because you're worth it» (لأنكِ تستحقين ذلك)؟",
+   "a": "لوريال باريس (L'Oréal)",
+   "src": "https://www.loreal.com/en/videos/brands/manifesto-loreal-paris"
+  },
+  {
+   "q": "معجون الأسنان «سنسوداين» مخصّص أساساً لعلاج أي مشكلة؟",
+   "a": "الحساسية (حساسية الأسنان)",
+   "src": "https://www.haleonhealthpartner.com/en-gb/oral-health/brands/sensodyne/products/clinical-repair-toothpaste/"
+  },
+  {
+   "q": "ما اسم لعبة البرج الخشبي التي يسحب فيها اللاعبون القطع واحدة تلو الأخرى حتى يسقط البرج؟",
+   "a": "جينغا (Jenga)",
+   "src": "https://en.wikipedia.org/wiki/Jenga"
+  },
+  {
+   "q": "أي مشروب طاقة يحمل شعاره آثار مخالب خضراء على خلفية سوداء؟",
+   "a": "مونستر (Monster Energy)",
+   "src": "https://trademarks.justia.com/879/25/m-monster-87925577.html"
+  },
+  {
+   "q": "ما اسم ماركة سيارات الألعاب الصغيرة من «ماتيل» المشهورة بمساراتها البلاستيكية البرتقالية؟",
+   "a": "هوت ويلز (Hot Wheels)",
+   "src": "https://fordauthority.com/2018/01/mattels-hot-wheels-brand-turns-50-this-year"
+  },
+  {
+   "q": "ما اسم الماركة الشهيرة لمسدسات الألعاب التي تطلق سهاماً وكرات من الإسفنج؟",
+   "a": "نيرف (Nerf)",
+   "src": "https://en.wikipedia.org/wiki/Nerf"
+  },
+  {
+   "q": "ما اسم لعبة البلابل (الخذروف) القتالية اليابانية التي تُطلق في حلبة لتتصادم؟",
+   "a": "بي بليد (Beyblade)",
+   "src": "https://en.wikipedia.org/wiki/Beyblade"
+  },
+  {
+   "q": "ما اسم الماركة الأشهر لكاميرات «الأكشن» الصغيرة المقاومة للماء التي تُثبَّت على الخوذة أو الجسم؟",
+   "a": "جو برو (GoPro)",
+   "src": "https://en.wikipedia.org/wiki/GoPro"
+  },
+  {
+   "q": "ما ماركة الشاي الشهيرة صاحبة «الملصق الأصفر» (Yellow Label)؟",
+   "a": "ليبتون (Lipton)",
+   "src": "https://en.wikipedia.org/wiki/Lipton"
+  },
+  {
+   "q": "أي لوح شوكولاتة شعاره «You're not you when you're hungry» (لست أنت عندما تجوع)؟",
+   "a": "سنيكرز (Snickers)",
+   "src": "https://www.thedrum.com/news/2016/03/31/2010-bbdo-new-york-creates-youre-not-you-when-youre-hungry-campaign-snickers-with"
+  },
+  {
+   "q": "ما اسم بيضة الشوكولاتة الشهيرة التي تخفي في داخلها لعبة صغيرة داخل كبسولة صفراء؟",
+   "a": "كيندر سربرايز (Kinder Surprise)",
+   "src": "https://en.wikipedia.org/wiki/Kinder_Surprise"
+  },
+  {
+   "q": "ما اسم شركة الحلوى الألمانية صاحبة حلوى «الدببة الذهبية» الجيلاتينية؟",
+   "a": "هاريبو (Haribo)",
+   "src": "https://www.haribo.com/en/about-us/history"
+  },
+  {
+   "q": "أي مغنّي راب أمريكي أسّس ماركة السماعات «بيتس» (Beats) مع المنتج جيمي آيوفين؟",
+   "a": "دكتور دري (Dr. Dre)",
+   "src": "https://www.engadget.com/2014/05/28/apple-acquires-beats-electronics-for-3-billion"
+  },
+  {
+   "q": "ما اسم حلوى النعناع التي تُحدث نافورة ضخمة عند إسقاطها في زجاجة كولا دايت؟",
+   "a": "منتوس (Mentos)",
+   "src": "https://www.mentalfloss.com/article/48759/why-do-diet-coke-and-mentos-react"
+  },
+  {
+   "q": "ما اسم حبوب الشوكولاتة الملونة ذات الغلاف السكري التي تشتهر إعلاناتها بشخصيتين: الحمراء والصفراء؟",
+   "a": "إم آند إمز (M&M's)",
+   "src": "https://www.mashed.com/1336288/things-only-adults-notice-mms-spokescandies"
+  },
+  {
+   "q": "تشتهر علامة «دوراسيل» (Duracell) بصناعة أي منتج؟",
+   "a": "البطاريات",
+   "src": "https://en.wikipedia.org/wiki/Duracell"
+  },
+  {
+   "q": "ما اسم لعبة الورق الملونة التي يجب أن يصرخ فيها اللاعب باسمها عندما تبقى معه ورقة واحدة؟",
+   "a": "أونو (UNO)",
+   "src": "https://service.mattel.com/instruction_sheets/53641.pdf"
+  },
+  {
+   "q": "ما اسم ماركة الصلصال الملون الطري الذي يلعب به الأطفال ويُباع في علب أسطوانية صغيرة؟",
+   "a": "بلاي دو (Play-Doh)",
+   "src": "https://en.wikipedia.org/wiki/Play-Doh"
+  },
+  {
+   "q": "بأي خاصية اشتهرت مقالي وأواني الطبخ من شركة «تيفال» الفرنسية؟",
+   "a": "غير لاصقة (Non-stick)",
+   "src": "https://en.wikipedia.org/wiki/Marc_Gr%C3%A9goire"
+  },
+  {
+   "q": "ما اسم البسكويت الأمريكي الشهير المكوّن من قطعتين من بسكويت الكاكاو الداكن بينهما حشوة كريمة بيضاء؟",
+   "a": "أوريو (Oreo)",
+   "src": "https://en.wikipedia.org/wiki/Oreo"
+  },
+  {
+   "q": "تشتهر شركة «نيكون» (Nikon) اليابانية بصناعة أي منتج؟",
+   "a": "الكاميرات",
+   "src": "https://www.encyclopedia.com/books/politics-and-business-magazines/nikon-corporation"
+  },
+  {
+   "q": "من أي دولة شوكولاتة «ليندت» (Lindt) الشهيرة؟",
+   "a": "سويسرا",
+   "src": "https://www.zuerich.com/en/visit/shopping/lindt-chocolate-shop-kilchberg"
+  },
+  {
+   "q": "ما الشركة الأمريكية الأشهر في صناعة الكاتشب، والتي تأسست في ولاية بنسلفانيا عام 1869؟",
+   "a": "هاينز (Heinz)",
+   "src": "https://www.britannica.com/money/Heinz-Company"
+  },
+  {
+   "q": "من أي دولة شركة الألعاب «نينتندو» صاحبة شخصية ماريو؟",
+   "a": "اليابان",
+   "src": "https://en.wikipedia.org/wiki/Nintendo"
+  },
+  {
+   "q": "من أي دولة شركة «بوش» (Bosch) للأجهزة المنزلية والأدوات الكهربائية؟",
+   "a": "ألمانيا",
+   "src": "https://en.wikipedia.org/wiki/Bosch_(company)"
+  },
+  {
+   "q": "أي شركة تقنية أطلقت هواتف «بيكسل» (Pixel) عام 2016؟",
+   "a": "جوجل (Google)",
+   "src": "https://blog.google/products-and-platforms/devices/pixel/introducing-pixel-our-new-phone-made-google/"
+  }
+ ],
+ "400": [
+  {
+   "q": "ما الشركة الإيطالية التي تنتج كريمة «نوتيلا»؟",
+   "a": "فيريرو (Ferrero)",
+   "src": "https://www.ferrero.com/ie/en/our-brands/nutella"
+  },
+  {
+   "q": "في أي دولة يقع المقر الرئيسي لشركة «نستله»؟",
+   "a": "سويسرا (مدينة فيفي)",
+   "src": "https://www.britannica.com/money/Nestle-SA"
+  },
+  {
+   "q": "منذ عام 1965، تنتمي رقائق البطاطس «ليز» (Lay's) إلى أي شركة عالمية؟",
+   "a": "بيبسيكو (PepsiCo)",
+   "src": "https://en.wikipedia.org/wiki/Lay%27s"
+  },
+  {
+   "q": "في أي دولة اختُرعت أول نودلز سريعة التحضير عام 1958؟",
+   "a": "اليابان",
+   "src": "https://www.history.com/this-day-in-history/first-instant-ramen-invented-momofuku-ando-1958"
+  },
+  {
+   "q": "من أي دولة شركة «فيليبس» للإلكترونيات والإضاءة؟",
+   "a": "هولندا",
+   "src": "https://www.philips.com/a-w/about/our-history"
+  },
+  {
+   "q": "أي علامة شهيرة لمنتجات الرُّضّع اشتهر شامبوها بشعار «No More Tears» (لا مزيد من الدموع)؟",
+   "a": "جونسون (Johnson's Baby)",
+   "src": "https://www.jnj.com/our-heritage/the-story-behind-johnson-johnsons-most-beloved-ad-slogans"
+  },
+  {
+   "q": "ما اسم يد التحكم (الكنترولر) الخاصة بجهاز بلايستيشن 5؟",
+   "a": "دوال سنس (DualSense)",
+   "src": "https://www.gamespot.com/articles/ps5-controller-detailed-but-dont-call-it-dualshock/1100-6470403/"
+  },
+  {
+   "q": "ماذا تعني كلمة «كيندر» (Kinder) في اللغة الألمانية؟",
+   "a": "الأطفال",
+   "src": "https://en.wikipedia.org/wiki/Kinder_(brand)"
+  },
+  {
+   "q": "في أي مدينة أمريكية اختُرع مشروب «كوكاكولا» عام 1886؟",
+   "a": "أتلانتا",
+   "src": "https://www.atlantamagazine.com/thisweek/first-glass-of-coke-served-1886/"
+  },
+  {
+   "q": "في أي دولة اختُرع مكعب روبيك عام 1974؟",
+   "a": "المجر",
+   "src": "https://en.wikipedia.org/wiki/Ern%C5%91_Rubik"
+  },
+  {
+   "q": "في أي دولة ظهر مشروب «فانتا» لأول مرة عام 1940؟",
+   "a": "ألمانيا",
+   "src": "https://en.wikipedia.org/wiki/Fanta"
+  },
+  {
+   "q": "من أي دولة جاءت شوكولاتة «كادبوري» في الأصل؟",
+   "a": "بريطانيا (إنجلترا)",
+   "src": "https://www.cadbury.co.uk/the-story"
+  },
+  {
+   "q": "ما السلاح الذي يظهر في شعار «ديتول»؟",
+   "a": "سيف",
+   "src": "https://brandwiki.lazada.sg/dettol/"
+  },
+  {
+   "q": "أي جبل سويسري شهير ظهر لعقود على علب شوكولاتة «توبليرون»؟",
+   "a": "ماترهورن",
+   "src": "https://www.timeout.com/switzerland/news/toblerone-is-removing-the-matterhorn-from-its-packaging-030823"
+  },
+  {
+   "q": "ما الرقم الشهير المطبوع على ملصقات زجاجات كاتشب «هاينز»؟",
+   "a": "57",
+   "src": "https://www.smithsonianmag.com/smart-news/there-never-were-57-varieties-heinz-ketchup-180965158/"
+  },
+  {
+   "q": "أي علامة لشفرات الحلاقة اشتهرت بشعار «The Best a Man Can Get»؟",
+   "a": "جيليت (Gillette)",
+   "src": "https://cdn.warc.com/content/article/event-reports/gillette-updates-the-best-a-man-can-get-for-the-metoo-era/124473"
+  },
+  {
+   "q": "أي رقائق بطاطس اشتهرت بشعار «Once you pop, you can't stop»؟",
+   "a": "برينغلز (Pringles)",
+   "src": "https://www.marketing-interactive.com/pringles-analysis-new-slogan"
+  },
+  {
+   "q": "أي حلوى فواكه ملونة شعارها «Taste the Rainbow» (تذوّق قوس قزح)؟",
+   "a": "سكيتلز (Skittles)",
+   "src": "https://en.wikipedia.org/wiki/Skittles_(confectionery)"
+  },
+  {
+   "q": "أي شركة أمريكية ابتكرت أوراق الملاحظات اللاصقة «بوست-إت» (Post-it)؟",
+   "a": "3M",
+   "src": "https://lemelson.mit.edu/resources/art-fry-spencer-silver"
+  },
+  {
+   "q": "دمية الدب المحشوة الشهيرة سُمّيت على اسم أي رئيس أمريكي رفض قتل دبّ مربوط في رحلة صيد عام 1902؟",
+   "a": "ثيودور روزفلت",
+   "src": "https://www.nps.gov/thrb/learn/historyculture/storyofteddybear.htm"
+  },
+  {
+   "q": "ما الشركة اليابانية التي تصنع ساعات «جي-شوك» (G-Shock) المقاومة للصدمات؟",
+   "a": "كاسيو (Casio)",
+   "src": "https://www.nippon.com/en/japan-topics/g01192/tough-and-timeless-ibe-kikuo-and-the-development-of-the-g-shock.html"
+  },
+  {
+   "q": "أي شركة استحوذت على «بيتس» (Beats) للسماعات عام 2014 مقابل نحو 3 مليارات دولار؟",
+   "a": "أبل (Apple)",
+   "src": "https://www.engadget.com/2014/05/28/apple-acquires-beats-electronics-for-3-billion"
+  },
+  {
+   "q": "اكتُشف فرن الميكروويف بالصدفة على يد مهندس كان يعمل على أجهزة أي تقنية عسكرية؟",
+   "a": "الرادار",
+   "src": "https://spectrum.ieee.org/a-history-of-the-microwave-oven"
+  },
+  {
+   "q": "ماذا كانت تصنع شركة «نينتندو» عند تأسيسها عام 1889؟",
+   "a": "ورق اللعب (بطاقات هانافودا)",
+   "src": "https://en.wikipedia.org/wiki/Nintendo"
+  },
+  {
+   "q": "ما رقم طراز هاتف نوكيا الشهير الصادر عام 2000، المعروف بصلابته ولعبة الثعبان؟",
+   "a": "3310",
+   "src": "https://www.knowyourmobile.com/phones/nokia-3310-history"
+  },
+  {
+   "q": "ما الاسم الروسي للدمى الخشبية الملونة التي تتداخل كل واحدة منها داخل الأخرى؟",
+   "a": "ماتريوشكا",
+   "src": "https://en.wikipedia.org/wiki/Matryoshka_doll"
+  },
+  {
+   "q": "ما الشركة اليابانية التي ابتكرت شخصية «هالو كيتي» عام 1974؟",
+   "a": "سانريو (Sanrio)",
+   "src": "https://en.wikipedia.org/wiki/Hello_Kitty"
+  },
+  {
+   "q": "من أي دولة يأتي بسكويت «لوتس بيسكوف» بطعم الكراميل؟",
+   "a": "بلجيكا",
+   "src": "https://en.wikipedia.org/wiki/Lotus_Bakeries"
+  },
+  {
+   "q": "ما اسم النمر الذي يظهر على علب رقائق «فروستيز» (Frosted Flakes) من كيلوغز؟",
+   "a": "توني (Tony the Tiger)",
+   "src": "https://en.wikipedia.org/wiki/Tony_the_Tiger"
+  },
+  {
+   "q": "من أي دولة جاءت مصاصات «تشوبا تشوبس»؟",
+   "a": "إسبانيا",
+   "src": "https://en.wikipedia.org/wiki/Chupa_Chups"
+  },
+  {
+   "q": "أي شركة ألمانية سجّلت اسم «أسبرين» علامةً تجارية عام 1899؟",
+   "a": "باير (Bayer)",
+   "src": "https://www.dpma.de/en/explore/milestones/brands-with-history/aspirin"
+  },
+  {
+   "q": "من أي دولة شركة «بيك» (BIC) صاحبة القلم الجاف الشهير «كريستال»؟",
+   "a": "فرنسا",
+   "src": "https://en.wikipedia.org/wiki/Bic_Cristal"
+  },
+  {
+   "q": "منذ عام 1991، أي شركة ألعاب أمريكية تملك علامة «نيرف» (Nerf)؟",
+   "a": "هاسبرو (Hasbro)",
+   "src": "https://en.wikipedia.org/wiki/Nerf"
+  },
+  {
+   "q": "في عام 2025، أي شركة أمريكية كانت تملك علامات «بامبرز» و«آريال» و«أورال-بي»؟",
+   "a": "بروكتر آند غامبل (P&G)",
+   "src": "https://www.fool.com/investing/how-to-invest/stocks/what-does-procter-and-gamble-own"
+  },
+  {
+   "q": "في عام 2025، أي شركة عالمية كانت تملك علامات «دوف» و«لوكس» و«ريكسونا»؟",
+   "a": "يونيليفر (Unilever)",
+   "src": "https://www.unilever.com/brands/"
+  },
+  {
+   "q": "ما اسم العلامة الشهيرة للكاميرات الفورية التي أسسها إدوين لاند وطرحت أول كاميرا لها عام 1948؟",
+   "a": "بولارويد (Polaroid)",
+   "src": "https://www.history.com/this-day-in-history/first-polaroid-camera-sold"
+  },
+  {
+   "q": "من أي دولة أوروبية جاءت شركة مشروب الطاقة «ريد بُل»؟",
+   "a": "النمسا",
+   "src": "https://en.wikipedia.org/wiki/Red_Bull"
+  },
+  {
+   "q": "ما المكوّن الأساسي الذي تُصنع منه رقائق «دوريتوس» المثلثة؟",
+   "a": "الذرة",
+   "src": "https://en.wikipedia.org/wiki/Arch_West"
+  },
+  {
+   "q": "أي شركة أمريكية تنتج شوكولاتة «سنيكرز» و«تويكس» و«باونتي»؟",
+   "a": "مارس (Mars)",
+   "src": "https://en.wikipedia.org/wiki/Mars_Inc."
+  },
+  {
+   "q": "من أي دولة شركة الأجهزة المنزلية «إلكترولوكس» (Electrolux)؟",
+   "a": "السويد",
+   "src": "https://en.wikipedia.org/wiki/Electrolux"
+  }
+ ],
+ "600": [
+  {
+   "q": "ما الاستخدام الأصلي لمعجون «بلاي دو» قبل أن يتحول إلى لعبة أطفال؟",
+   "a": "منظّف لورق الجدران",
+   "src": "https://huffingtonpost.co.uk/entry/play-doh-wallpaper-cleaner_n_3430042"
+  },
+  {
+   "q": "اختُرع غلاف الفقاعات (Bubble Wrap) عام 1957، فماذا كان الهدف الأصلي منه؟",
+   "a": "ورق جدران بملمس بارز",
+   "src": "https://www.smithsonianmag.com/innovation/accidental-invention-bubble-wrap-180971325/"
+  },
+  {
+   "q": "إلامَ يشير الحرفان «WD» في اسم بخاخ «WD-40»؟",
+   "a": "إزاحة الماء (Water Displacement)",
+   "src": "https://www.snopes.com/fact-check/wd-40/"
+  },
+  {
+   "q": "اكتُشف الغراء الفوري «سوبر غلو» عام 1942 أثناء محاولة صنع أي قطعة عسكرية؟",
+   "a": "مناظير تصويب شفافة للبنادق",
+   "src": "https://www.popsci.com/technology/super-glue-invention-mistake/"
+  },
+  {
+   "q": "ما النبات الذي ألهم السويسري جورج دي ميسترال اختراع شريط «الفيلكرو» اللاصق؟",
+   "a": "الأرقطيون (ثماره الشائكة)",
+   "src": "https://www.invent.org/blog/inventors/walk-in-the-woods-velcro"
+  },
+  {
+   "q": "اكتُشفت لعبة النابض «سلينكي» صدفةً عام 1943 على يد مهندس كان يطوّر نوابض لتثبيت الأجهزة الحساسة في أي نوع من المركبات؟",
+   "a": "السفن الحربية",
+   "src": "https://lemelson.mit.edu/resources/richard-james"
+  },
+  {
+   "q": "اسم قرص «فريسبي» مأخوذ من شركة أمريكية كان طلاب الجامعات يتقاذفون صوانيها المعدنية الفارغة، فماذا كانت تبيع هذه الشركة؟",
+   "a": "الفطائر (Frisbie Pie Company)",
+   "src": "https://www.saturdayeveningpost.com/2021/09/the-surprisingly-complicated-history-of-the-frisbee/"
+  },
+  {
+   "q": "طُرحت مناديل «كلينكس» أول مرة عام 1924 لأي غرض؟",
+   "a": "إزالة المكياج والكريم البارد",
+   "src": "https://kleenex.co.uk/history"
+  },
+  {
+   "q": "طُرح «ليسترين» عام 1879 لأي استخدام في الأصل، قبل أن يُسوَّق غسولاً للفم؟",
+   "a": "مطهّر للعمليات الجراحية",
+   "src": "https://en.wikipedia.org/wiki/Listerine"
+  },
+  {
+   "q": "اكتشف روبرت تشيزبرو المادة الخام لـ«الفازلين» على شكل شمع لزج يتراكم في أي مكان؟",
+   "a": "آبار ومعدات حفر النفط",
+   "src": "https://en.wikipedia.org/wiki/Robert_Chesebrough"
+  },
+  {
+   "q": "اسم «نيفيا» مشتق من كلمة لاتينية تعني ماذا؟",
+   "a": "الأبيض الثلجي (أبيض كالثلج)",
+   "src": "https://beiersdorf.com/brands/brand-history/nivea"
+  },
+  {
+   "q": "إلامَ يرمز الحرفان «M» في اسم حلوى «M&M's»؟",
+   "a": "مارس وموري (لقبا المؤسسَين)",
+   "src": "https://www.mentalfloss.com/food/candy/what-do-ms-mms-stand-and-how-do-they-get-them-there"
+  },
+  {
+   "q": "سُمّي لوح «سنيكرز» عند إطلاقه عام 1930 على اسم ماذا؟",
+   "a": "حصان عائلة المؤسس",
+   "src": "https://www.tastingtable.com/1042389/the-racehorse-snickers-candy-bars-are-named-after"
+  },
+  {
+   "q": "في أي دولة أُنتج لوح «كيت كات» لأول مرة عام 1935؟",
+   "a": "بريطانيا (مدينة يورك)",
+   "src": "https://www.nestle.co.uk/en-gb/media/pressreleases/allpressreleases/kitkat-celebrating-90-years"
+  },
+  {
+   "q": "ما الاسم الأول لمشروب «بيبسي» عند ابتكاره في صيدلية بولاية كارولاينا الشمالية عام 1893؟",
+   "a": "براد درينك (Brad's Drink)",
+   "src": "https://pepsi.com/who-invented-pepsi"
+  },
+  {
+   "q": "مشروب «ريد بُل» مستوحى من مشروب طاقة آسيوي أقدم منه، فما اسمه؟",
+   "a": "كراتينغ دانغ (Krating Daeng)",
+   "src": "https://www.scmp.com/lifestyle/food-drink/article/2156996/red-bull-story-how-worlds-top-energy-drink-began-thailand-it"
+  },
+  {
+   "q": "ابتكرت نستله قهوة «نسكافيه» سريعة الذوبان في الثلاثينيات لمساعدة أي دولة على حفظ فائضها الضخم من البن؟",
+   "a": "البرازيل",
+   "src": "https://nescafe.com/about-us"
+  },
+  {
+   "q": "في أي دولة وُلد توماس ليبتون مؤسس علامة شاي «ليبتون»؟",
+   "a": "اسكتلندا (غلاسكو)",
+   "src": "https://en.wikipedia.org/wiki/Thomas_Lipton"
+  },
+  {
+   "q": "في أي ولاية أمريكية تُصنع صلصة «تاباسكو» الحارة منذ عام 1868؟",
+   "a": "لويزيانا (جزيرة أفري)",
+   "src": "https://64parishes.org/entry/tabasco-sauce"
+  },
+  {
+   "q": "صلصة «سيراتشا» الحارة سُمّيت على اسم مدينة ساحلية في أي دولة؟",
+   "a": "تايلاند",
+   "src": "https://www.kunc.org/npr-news/2019-01-16/in-home-of-original-sriracha-sauce-thais-say-rooster-brand-is-nothing-to-crow-about"
+  },
+  {
+   "q": "آيس كريم «هاغن داز» يحمل اسماً يبدو إسكندنافياً، لكنه تأسس في أي مدينة؟",
+   "a": "نيويورك (حي البرونكس)",
+   "src": "https://www.atlasobscura.com/articles/haagen-dazs-fake-foreign-branding"
+  },
+  {
+   "q": "في أي مدينة ألمانية تأسست شركة الحلوى «هاريبو» عام 1920؟",
+   "a": "بون",
+   "src": "https://www.haribo.com/en-us/about-us/history"
+  },
+  {
+   "q": "أي رسام شهير صمّم شعار حلوى «تشوبا تشوبس» عام 1969؟",
+   "a": "سلفادور دالي",
+   "src": "https://www.creativebloq.com/design/logos-icons/the-chupa-chups-logo-was-created-by-an-art-legend-in-just-one-hour"
+  },
+  {
+   "q": "من أي دولة جاءت حلوى «منتوس» في الأصل؟",
+   "a": "هولندا",
+   "src": "https://en.wikipedia.org/wiki/Mentos"
+  },
+  {
+   "q": "ما الاسم الأول لشخصية الرجل ذي الشارب على علب «برينغلز»؟",
+   "a": "جوليوس (Julius)",
+   "src": "https://www.thedailymeal.com/2067609/pringles-man-logo-history/"
+  },
+  {
+   "q": "ما الاسم الكامل لدمية «باربي» بحسب قصتها الرسمية؟",
+   "a": "باربرا ميليسنت روبرتس",
+   "src": "https://www.biography.com/history-culture/a44544592/barbie"
+  },
+  {
+   "q": "اسم لعبة «جينغا» مأخوذ من كلمة في أي لغة؟",
+   "a": "السواحيلية",
+   "src": "https://collections.vam.ac.uk/item/O27368"
+  },
+  {
+   "q": "اسم «ليغو» (LEGO) اختصار لعبارة دنماركية، فماذا تعني؟",
+   "a": "العب جيداً",
+   "src": "https://www.lego.com/en-us/aboutus/lego-history"
+  },
+  {
+   "q": "ما أول لعبة أطفال يُعلَن عنها في التلفزيون، وكان ذلك عام 1952؟",
+   "a": "مستر بوتيتو هيد (Mr. Potato Head)",
+   "src": "https://en.wikipedia.org/wiki/Mr._Potato_Head"
+  },
+  {
+   "q": "ما الاسم الأصلي لشركة «سوني» اليابانية عند تأسيسها عام 1946؟",
+   "a": "طوكيو تسوشين كوغيو (توتسوكو)",
+   "src": "https://www.britannica.com/topic/Sony"
+  },
+  {
+   "q": "ما الاسم الذي حملته أول كاميرا تجريبية لشركة «كانون» تيمّناً بإلهة الرحمة البوذية؟",
+   "a": "كوانون (Kwanon)",
+   "src": "https://global.canon/en/corporate/logo/"
+  },
+  {
+   "q": "ماذا كانت تنتج شركة «نوكيا» عند تأسيسها عام 1865؟",
+   "a": "لبّ الخشب والورق",
+   "src": "https://en.wikipedia.org/wiki/History_of_Nokia"
+  },
+  {
+   "q": "ماذا يعني اسم «سامسونج» باللغة الكورية؟",
+   "a": "ثلاث نجوم",
+   "src": "https://www.samsung.com/latin_en/business/about-us/brand-identity/heritage/"
+  },
+  {
+   "q": "إلامَ يرمز الحرفان «LG» في اسم شركة الإلكترونيات الشهيرة؟",
+   "a": "لاكي غولدستار (Lucky-Goldstar)",
+   "src": "https://lgcorp.com/about/ci/story"
+  },
+  {
+   "q": "ماذا تعني كلمة «شاومي» (Xiaomi) في لغتها الأصلية؟",
+   "a": "الدُّخن (حبوب الدخن)",
+   "src": "https://en.wikipedia.org/wiki/Xiaomi"
+  },
+  {
+   "q": "اسم «إيكيا» اختصار يبدأ بالاسم الأول لمؤسسها، فما هو هذا الاسم؟",
+   "a": "إنغفار (Ingvar)",
+   "src": "https://www.ikea.com/my/en/this-is-ikea/about-us/the-ikea-logo-history-and-design-pub55d85f50"
+  },
+  {
+   "q": "اختُرع مشروب «جاتوريد» الرياضي عام 1965 لفريق كرة القدم الأمريكية في أي جامعة؟",
+   "a": "فلوريدا (University of Florida)",
+   "src": "https://www.history.com/this-day-in-history/october-2/gatorade-sports-drinks-inventions"
+  },
+  {
+   "q": "ابتكر الأخوان كيلوغ رقائق «كورن فليكس» في الأصل طعاماً صحياً لنزلاء أي نوع من الأماكن؟",
+   "a": "مصحّة علاجية (مصحّة باتل كريك)",
+   "src": "https://www.history.com/articles/cereal-breakfast-origins-kellogg"
+  },
+  {
+   "q": "بحسب قصتها الرسمية، في ضواحي أي مدينة تعيش شخصية «هالو كيتي»؟",
+   "a": "لندن",
+   "src": "https://en.wikipedia.org/wiki/Hello_Kitty"
+  },
+  {
+   "q": "ما اسم الشركة التي تصنع «سكين الجيش السويسري» الأصلي ذا اللون الأحمر؟",
+   "a": "فيكتورينوكس (Victorinox)",
+   "src": "https://en.wikipedia.org/wiki/Victorinox"
+  },
+  {
+   "q": "اسم شركة «تيفال» مركّب من اسمي مادتين، الأولى «التيفلون»، فما الثانية؟",
+   "a": "الألومنيوم",
+   "src": "https://en.wikipedia.org/wiki/Tefal"
+  }
+ ],
+ "id": "ar_products"
+}

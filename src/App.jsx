@@ -22,6 +22,7 @@ import MORE_TRIVIA_EXPANSIONS from "./moreTriviaExpansions.js";
 import WHOAMI_IMAGE_MANIFEST from "./whoamiImageManifest.js";
 import { isBlacklisted } from "./qualityBlacklist.js";
 import QUALITY_BACKFILL from "./qualityBackfill.js";
+import ARABIC_CATEGORIES_BANK, { ARABIC_CATEGORY_IDS } from "./arabicCategoriesBank.js";
 import { appendSharedQuestionUsage, getCachedQuestionUsageSnapshot, loadSharedQuestionUsage, mergeQuestionUsageIds, removeSharedQuestionUsage } from "./questionUsage.js";
 import { getCachedAccountSession, loadAccountSession, loginAccount, logoutAccount, signupAccount } from "./accountAuth.js";
 
@@ -375,6 +376,7 @@ const RAW_BANK = {
   ...NEW_CATEGORIES_BANK,
   ...NEW_CATEGORIES_PACK_2,
   ...LOGO_CATEGORIES_BANK,
+  ...ARABIC_CATEGORIES_BANK,
   general:{ label:"General Knowledge",icon:"\u{1F9E0}",color:"#F59E0B",
     200:[
       {q:"How many days in a leap year?",a:"366"},
@@ -4216,12 +4218,39 @@ const FFA_TILES_PER_TIER = 1;
 // 400 = medium (400 tier), 500 = hard (600 tier).
 const FFA_TIER_MAP = {100:200, 200:200, 300:400, 400:400, 500:600};
 
-function normalizeQuestionKeyPart(value){
+// Any Arabic-script character (Arabic, Persian, Urdu letters and presentation forms).
+const ARABIC_SCRIPT_RE=/[\u0600-\u06ff\u0750-\u077f\ufb50-\ufdff\ufe70-\ufeff]/;
+function foldQuestionKeyText(value){
   return String(value??"")
     .toLowerCase()
     .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g,"")
+    .replace(/[\u0300-\u036f]/g,"");
+}
+// Key format used before the Arabic categories existed: everything outside a-z0-9 is
+// stripped, so Arabic-script text vanished entirely. Kept so usage stored under it
+// still counts (see getQuestionMatchKeys).
+function latinOnlyNormalizeQuestionKeyPart(value){
+  return foldQuestionKeyText(value)
     .replace(/[^a-z0-9]+/g," ")
+    .replace(/\s+/g," ")
+    .trim();
+}
+function normalizeQuestionKeyPart(value){
+  const folded=foldQuestionKeyText(value);
+  if(!ARABIC_SCRIPT_RE.test(folded)){
+    return folded.replace(/[^a-z0-9]+/g," ").replace(/\s+/g," ").trim();
+  }
+  // Arabic-script text: drop harakat/Quranic marks/tatweel (NFKD already split hamza
+  // carriers off their letters), unify alef/ya/ta-marbuta spellings, map Arabic-Indic
+  // digits to 0-9, then keep Latin, digits and Arabic-script letters only.
+  return folded
+    .replace(/[\u064b-\u065f\u0670\u06d6-\u06ed\u0640]/g,"")
+    .replace(/[\u0622\u0623\u0625\u0671]/g,"\u0627")
+    .replace(/\u0649/g,"\u064a")
+    .replace(/\u0629/g,"\u0647")
+    .replace(/[\u0660-\u0669]/g,(d)=>String(d.charCodeAt(0)-0x0660))
+    .replace(/[\u06f0-\u06f9]/g,(d)=>String(d.charCodeAt(0)-0x06F0))
+    .replace(/[^a-z0-9\u0621-\u064a\u0671-\u06d3\u06fa-\u06ff]+/g," ")
     .replace(/\s+/g," ")
     .trim();
 }
@@ -4493,6 +4522,22 @@ function legacyQuestionPoolEntryKey(entry){
   if(entry?.code) return `code:${legacyNormalizeQuestionKeyPart(entry.code)}`;
   if(entry?.wiki) return `wiki:${legacyNormalizeQuestionKeyPart(entry.wiki)}`;
   return `qa:${legacyNormalizeQuestionKeyPart(entry?.q)}|${legacyNormalizeQuestionKeyPart(entry?.a)}`;
+}
+
+// Keys as deployed before Arabic-script text was kept in keys. Only differs from the
+// current format for entries containing Arabic script (a handful of `language` phrases).
+function latinOnlyQuestionPoolEntryKey(entry){
+  if(entry?.code) return `code:${latinOnlyNormalizeQuestionKeyPart(entry.code)}`;
+  if(entry?.wiki) return `wiki:${latinOnlyNormalizeQuestionKeyPart(entry.wiki)}`;
+  return `qa:${latinOnlyNormalizeQuestionKeyPart(entry?.q)}|${latinOnlyNormalizeQuestionKeyPart(entry?.a)}`;
+}
+function latinOnlyContentKeyForEntry(entry){
+  if(entry?.wiki) return `c:wiki:${latinOnlyNormalizeQuestionKeyPart(entry.wiki)}`;
+  if(entry?.code) return `c:code:${latinOnlyNormalizeQuestionKeyPart(entry.code)}`;
+  const q=latinOnlyNormalizeQuestionKeyPart(entry?.q);
+  const a=latinOnlyNormalizeQuestionKeyPart(entry?.a);
+  if(!q||!a) return null;
+  return `c:qa:${q}|${a}`;
 }
 
 function mergeQuestionExpansions(rawBank, expansions){
@@ -4894,6 +4939,7 @@ CAT_IDS.forEach((id,i)=>{ if(BANK[id]&&typeof BANK[id]==="object") BANK[id].colo
 
 const CAT_GROUPS = [
   { label:"\u{1F9E0} General", ids:["general","geography","science","history","sports","music","movies","pop_culture","technology","space","math","language","uae","guess_footballer","who_what_am_i","borders_country","movie_scenes","songs","flags","country_facts","country_map","country_capitals","spelling_bee","logos"] },
+  { label:"\u{1F319} Arabic", ids:ARABIC_CATEGORY_IDS },
   { label:"\u{1F3AC} Fiction", ids:["friends","the_office","breaking_bad","game_thrones","stranger_things","prison_break","big_bang_theory","brooklyn_99","the_walking_dead","suits","dexter","vikings","the_flash","marvel","dc","star_wars","spider_man","invincible","the_boys","harry_potter","lord_rings","disney","family_guy","himym","modern_family","blacklist","arrow","cobra_kai","the_rookie"] },
   { label:"\u{1F338} Anime", ids:["anime","dragon_ball","one_piece_show","solo_leveling","pokemon"] },
   { label:"\u{1F3AE} Gaming", ids:["video_games","fortnite","valorant","ark_survival","minecraft"] },
@@ -4979,6 +5025,21 @@ const CATEGORY_PREVIEWS = {
   who_what_am_i:{src:"/category-previews/who_what_am_i.jpg",boardSrc:"/category-previews/who_what_am_i.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#1e1b4b",caption:"Solve the riddle"},
   borders_country:{src:"/category-previews/borders_country.jpg",boardSrc:"/category-previews/borders_country.jpg",fit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#0f172a",bg:"#FFFFFF",caption:"Name the neighbors"},
   logos:{src:"/category-previews/logo_tech.jpg",fit:"contain",bg:"#FFFFFF",caption:"Name that brand"},
+  // Arabic group — Wikimedia Commons art (licenses + sources in audit/arabic/art-manifest.json).
+  ar_ghumaida:{src:"/category-art/ar_ghumaida.jpg",boardSrc:"/category-art/ar_ghumaida.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"دراما رمضان 2026"},
+  ar_prophets:{src:"/category-art/ar_prophets.jpg",boardSrc:"/category-art/ar_prophets.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"من القرآن الكريم"},
+  ar_iraqi_songs:{src:"/category-art/ar_iraqi_songs.jpg",boardSrc:"/category-art/ar_iraqi_songs.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"اسمع وخمّن"},
+  ar_jewelry:{src:"/category-art/ar_jewelry.jpg",boardSrc:"/category-art/ar_jewelry.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"ذهب وأحجار كريمة"},
+  ar_songs_2016:{src:"/category-art/ar_songs_2016.jpg",boardSrc:"/category-art/ar_songs_2016.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"رجعة 2016"},
+  ar_turkish_series:{src:"/category-art/ar_turkish_series.jpg",boardSrc:"/category-art/ar_turkish_series.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"دراما تركية"},
+  ar_egyptian_songs:{src:"/category-art/ar_egyptian_songs.jpg",boardSrc:"/category-art/ar_egyptian_songs.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"من الطرب للبوب"},
+  ar_complete_word:{src:"/category-art/ar_complete_word.jpg",boardSrc:"/category-art/ar_complete_word.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"أمثال وأقوال"},
+  ar_uae_restaurants:{src:"/category-art/ar_uae_restaurants.jpg",boardSrc:"/category-art/ar_uae_restaurants.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"أكلات ومطاعم"},
+  ar_cars:{src:"/category-art/ar_cars.jpg",boardSrc:"/category-art/ar_cars.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"ماركات وموديلات"},
+  ar_coop:{src:"/category-art/ar_coop.jpg",boardSrc:"/category-art/ar_coop.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"سوبرماركت الإمارات"},
+  ar_products:{src:"/category-art/ar_products.jpg",boardSrc:"/category-art/ar_products.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"منتجات من كل نوع"},
+  ar_general:{src:"/category-art/ar_general.jpg",boardSrc:"/category-art/ar_general.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"ثقافة عامة"},
+  ar_brands:{src:"/category-art/ar_brands.jpg",boardSrc:"/category-art/ar_brands.jpg",fit:"cover",cardFit:"cover",cardPosition:"center",boardFit:"cover",boardPosition:"center",boardBg:"#05070D",caption:"أزياء وماركات"},
 };
 
 const TEAM_COLORS = ["#2563EB","#DC2626","#16A34A","#D97706","#7C3AED","#DB2777","#0891B2","#EA580C"];
@@ -5059,15 +5120,24 @@ function getQuestionUsageKeys(entry){
 // persist only the new format, but must recognize both when filtering pools.
 function getQuestionMatchKeys(entry){
   const keys=getQuestionUsageKeys(entry);
-  const legacyKey=legacyQuestionPoolEntryKey(entry);
-  if(legacyKey&&!keys.includes(legacyKey)){
+  // Legacy _qid = "<cat>:<pts>:<legacyKey>" — derive the cat:pts prefix from the
+  // current _qid, which always ends with the current _qkey.
+  const prefix=(typeof entry?._qid==="string"&&typeof entry?._qkey==="string"&&entry._qid.endsWith(entry._qkey))
+    ? entry._qid.slice(0, entry._qid.length-entry._qkey.length)
+    : null;
+  const addLegacy=(legacyKey)=>{
+    if(!legacyKey||keys.includes(legacyKey)) return;
     keys.push(legacyKey);
-    // Legacy _qid = "<cat>:<pts>:<legacyKey>" — derive the cat:pts prefix from the
-    // current _qid, which always ends with the current _qkey.
-    if(typeof entry?._qid==="string"&&typeof entry?._qkey==="string"&&entry._qid.endsWith(entry._qkey)){
-      const prefix=entry._qid.slice(0, entry._qid.length-entry._qkey.length);
-      keys.push(`${prefix}${legacyKey}`);
-    }
+    if(prefix!==null) keys.push(`${prefix}${legacyKey}`);
+  };
+  addLegacy(legacyQuestionPoolEntryKey(entry));
+  if(ARABIC_SCRIPT_RE.test(`${entry?.q??""}${entry?.a??""}${entry?.wiki??""}${entry?.code??""}`)){
+    // Pre-Arabic format stripped Arabic script; "qa:|" (both parts empty) was never a
+    // real stored key and would match every Arabic-only question, so skip it.
+    const latinKey=latinOnlyQuestionPoolEntryKey(entry);
+    if(latinKey!=="qa:|") addLegacy(latinKey);
+    const latinContentKey=latinOnlyContentKeyForEntry(entry);
+    if(latinContentKey&&!keys.includes(latinContentKey)) keys.push(latinContentKey);
   }
   return keys;
 }
@@ -5737,7 +5807,7 @@ function CategoryPreviewCard({id, category, selected, onToggle}){
       {/* Frosted title plate */}
       <div style={{position:"absolute",left:9,right:9,bottom:9,display:"flex",alignItems:"center",gap:9,padding:"9px 11px",borderRadius:14,background:"rgba(255,255,255,.08)",border:`1px solid ${withAlpha(tint,selected?"99":"55")}`,backdropFilter:"blur(14px) saturate(160%)",WebkitBackdropFilter:"blur(14px) saturate(160%)",boxShadow:"inset 0 1px 0 rgba(255,255,255,.22)",minWidth:0}}>
         <span aria-hidden="true" style={{width:30,height:30,borderRadius:"50%",display:"inline-flex",alignItems:"center",justifyContent:"center",fontSize:16,lineHeight:1,flex:"0 0 auto",background:withAlpha(tint,"2E"),border:`1px solid ${withAlpha(tint,"73")}`,boxShadow:`0 0 14px ${withAlpha(tint,"40")}`}}>{category.icon}</span>
-        <span style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(15px,1.5vw,19px)",lineHeight:1.12,letterSpacing:"-.01em",color:"#FFFFFF",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 2px rgba(0,0,0,.5)"}}>{category.label}</span>
+        <span {...(category.isArabic?ARABIC_CONTENT_TEXT_PROPS:null)} style={{fontFamily:DISPLAY_STACK,fontWeight:700,fontSize:"clamp(15px,1.5vw,19px)",lineHeight:category.isArabic?1.35:1.12,letterSpacing:"-.01em",color:"#FFFFFF",display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical",overflow:"hidden",wordBreak:"break-word",minWidth:0,textShadow:"0 1px 2px rgba(0,0,0,.5)"}}>{category.label}</span>
       </div>
       {selected&&(
         <div className="pop" aria-hidden="true" style={{position:"absolute",top:9,right:9,width:30,height:30,borderRadius:"50%",background:"var(--primary-bg)",color:"var(--primary-ink)",display:"flex",alignItems:"center",justifyContent:"center",fontSize:15,fontWeight:800,lineHeight:1,border:"1px solid var(--primary-border)",boxShadow:"0 6px 16px rgba(0,0,0,.35)",zIndex:3,pointerEvents:"none"}}>{"✓"}</div>
@@ -5818,8 +5888,9 @@ function QRCode({text,size=190}){
 
 const SF_STACK='"SF Pro Display","SF Pro Text",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif';
 // "Arena" typography: Sora for display/headings, Inter for body. SF system stack stays as the fallback.
-const DISPLAY_STACK="'Plus Jakarta Sans', 'Sora', "+SF_STACK;
-const BODY_STACK="'Plus Jakarta Sans', 'Inter', "+SF_STACK;
+// Plus Jakarta Sans has no Arabic glyphs, so Arabic text falls through to Almarai.
+const DISPLAY_STACK="'Plus Jakarta Sans', 'Almarai', 'Sora', "+SF_STACK;
+const BODY_STACK="'Plus Jakarta Sans', 'Almarai', 'Inter', "+SF_STACK;
 const THEME_STORAGE_KEY="trivic-theme-mode";
 const LANG_STORAGE_KEY="trivic-language";
 function getInitialLanguage(){
@@ -5891,6 +5962,7 @@ const AR_TRANSLATIONS={
   "Selected categories appear here":"الفئات المختارة بتطلع هنا",
   "Select at least 1":"اختر وحدة على الأقل",
   "🧠 General":"🧠 عامة",
+  "🌙 Arabic":"🌙 عربي",
   "🙂 Emoji Guess":"🙂 خمّن الإيموجي",
   "🎬 Fiction":"🎬 أفلام ومسلسلات",
   "🌸 Anime":"🌸 أنمي",
@@ -6100,6 +6172,8 @@ const CSS=`
     font-smooth:always;
   }
   .display{font-family:${DISPLAY_STACK};font-weight:800;letter-spacing:-.01em;}
+  /* Letter-spacing breaks the joins of cursive Arabic: zero it for Arabic content and the Arabic UI. */
+  :lang(ar){letter-spacing:0 !important;}
   .label{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--text-muted);}
   button{font-family:${BODY_STACK};cursor:pointer;border:none;-webkit-tap-highlight-color:transparent;touch-action:manipulation;}
   button:disabled{cursor:not-allowed;}
@@ -6769,7 +6843,9 @@ export default function App(){
   }
 
   const cat=activeTile&&BANK[baseCat(activeTile.catId)];
-  const ttype=cat?(cat.isSpellingBee?"spellingbee":cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":cat.isSongClip?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
+  // A tile carrying an audio preview always plays as a song clip, so mixed categories
+  // (the Arabic song categories: audio clips + text trivia) route per question.
+  const ttype=cat?(cat.isSpellingBee?"spellingbee":cat.isWhoAmI?"whoami":cat.isCharades?"charades":cat.isCountryMap?"countrymap":cat.isMovieScene?"moviescene":(cat.isSongClip||activeTile?.previewUrl)?"songclip":cat.isLogoGuess?"logoguess":"trivia"):null;
   const renderWithGlobalThemeToggle=(content,{hideToggles=false}={})=>{
     const fitToScreen=screen!=="categories";
     return(
@@ -7410,7 +7486,7 @@ function CategoryScreen({selCats,setSelCats,onStart,onBack,usageReady,isSyncingU
                     ?<img src={preview.src} alt="" loading="lazy" decoding="async" style={{display:"block",width:"100%",height:"100%",objectFit:chipFit,objectPosition:preview.cardPosition||preview.position||"center top",padding:chipFit==="contain"?4:0}}/>
                     :c.icon}
                 </span>
-                <span style={{fontSize:13,fontWeight:700,color:"var(--text)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0}}>{c.label}</span>
+                <span {...(c.isArabic?ARABIC_CONTENT_TEXT_PROPS:null)} style={{fontSize:13,fontWeight:700,color:"var(--text)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",minWidth:0}}>{c.label}</span>
                 {isCopy&&<span style={COPY_BADGE_STYLE}>COPY {id.slice(id.indexOf("#")+1)}</span>}
                 <button
                   className="tap hit44"
@@ -7564,7 +7640,7 @@ function BoardScreen({teams,scores,curTeam,board,selCats,onPick,onGameOver,onAdj
               <div key={catId} className="glass-outline" style={{minWidth:0,minHeight:0,flex:`0 0 calc((100% - ${colGap*(perRow-1)}px) / ${perRow})`,maxWidth:`calc((100% - ${colGap*(perRow-1)}px) / ${perRow})`,height:fillHeight?`calc((100% - ${colGap*(blockRows-1)}px) / ${blockRows})`:undefined,display:"flex",flexDirection:"column",justifyContent:"flex-start",gap:headerBodyGap,padding:isPhone?"12px 10px 10px":"14px 14px 14px",borderRadius:"var(--radius-lg)"}}>
                 {/* Category name: tinted glass pill in the category color, centered above its block */}
                 <div style={{alignSelf:"center",maxWidth:"100%",minWidth:0,padding:isPhone?"6px 14px":"7px 18px",borderRadius:999,background:`linear-gradient(180deg, var(--tile-frost-top) 0%, var(--tile-frost-bottom) 100%), ${withAlpha(c.color||"#22D3EE","59")}`,color:"var(--text)",fontFamily:DISPLAY_STACK,fontWeight:800,fontSize:labelFont,letterSpacing:"-.01em",lineHeight:1.15,textAlign:"center",boxShadow:"inset 0 1px 0 var(--tile-edge), 0 6px 16px var(--shadow-color)",border:"1px solid var(--tile-border)",backdropFilter:"var(--blur)",WebkitBackdropFilter:"var(--blur)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis",flex:"0 0 auto"}}>
-                  <span aria-hidden="true" style={{marginRight:7}}>{c.icon}</span>{c.label}
+                  <span aria-hidden="true" style={{marginInlineEnd:7}}>{c.icon}</span><span {...(c.isArabic?ARABIC_CONTENT_TEXT_PROPS:null)}>{c.label}</span>
                 </div>
                 {/* Tiles flank the category art: [200][art][200] / [400][art][400] / [600][art][600]. FFA: [art][tile] x5 */}
                 <div style={{display:"grid",gridTemplateColumns:isFFA?`minmax(0,1.3fr) minmax(0,1fr)`:`minmax(0,1fr) minmax(0,1.35fr) minmax(0,1fr)`,gridTemplateRows:`repeat(${activePV.length}, minmax(${tileMin}px, ${fillHeight?"1fr":`${tileMax}px`}))`,gap:tileGap,minHeight:0,flex:fillHeight?"1 1 auto":"0 0 auto"}}>
@@ -7740,6 +7816,13 @@ function formatAnswerForDisplay(answer){
     .replace(/\s{2,}/g, " ")
     .replace(/\.$/, "")
     .trim();
+}
+
+// Arabic-category questions/answers: let the browser pick RTL from the text, and keep the
+// page translator (Arabic UI mode) from machine-translating content that is already Arabic.
+const ARABIC_CONTENT_TEXT_PROPS={dir:"auto",lang:"ar","data-no-translate":"1"};
+function arabicContentTextProps(catId){
+  return BANK[baseCat(catId)]?.isArabic ? ARABIC_CONTENT_TEXT_PROPS : null;
 }
 
 function formatQuestionForDisplay(question){
@@ -8483,6 +8566,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   const isLogoGuess = Boolean(BANK[baseCat(tile.catId)]?.isLogoGuess);
   const displayQuestion = formatQuestionForDisplay(tile.q);
   const displayAnswer = formatAnswerForDisplay(tile.a);
+  const contentTextProps = arabicContentTextProps(tile.catId);
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
@@ -8495,7 +8579,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
+            <div {...contentTextProps} style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
           <div style={{...QUESTION_MEDIA_WRAP_STYLE,width:"100%",maxWidth:820,margin:"0 auto"}}>
@@ -8515,7 +8599,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
                 ) : null}
               </>
             ) : (
-              <div style={QUESTION_PROMPT_STYLE}>{displayQuestion}</div>
+              <div {...contentTextProps} style={QUESTION_PROMPT_STYLE}>{displayQuestion}</div>
             )}
           </QuestionPanel>
           <LifelineRail lifelines={lifelines} curTeam={curTeam} onUseLifeline={onUseLifeline} activeDoublePoints={activeDoublePoints} timerPaused={timerPaused} showAns={showAns}/>
@@ -8523,7 +8607,7 @@ function QuestionScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           {showAns?(
             <QuestionPanel className="pop" maxWidth={760} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
               <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
-              <div style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
+              <div {...contentTextProps} style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8642,7 +8726,7 @@ function MovieSceneScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAw
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
+            <div {...arabicContentTextProps(tile.catId)} style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
           <div style={QUESTION_MEDIA_WRAP_STYLE}>
@@ -8672,6 +8756,7 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
   const isTouch=useIsTouchDevice();
   const pc=PT_COLORS[tile.pts];const pb=PT_BG[tile.pts];
   const displayAnswer = formatAnswerForDisplay(tile.a);
+  const contentTextProps = arabicContentTextProps(tile.catId);
   return(
     <div style={isTouch?{...QUESTION_SCREEN_STYLE,...TOUCH_SCREEN_STYLE_OVERRIDE}:QUESTION_SCREEN_STYLE}>
       <style>{CSS}</style>
@@ -8684,7 +8769,7 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
+            <div {...arabicContentTextProps(tile.catId)} style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{tile.pts}</div>
           </div>
           <div style={QUESTION_MEDIA_WRAP_STYLE}>
@@ -8695,8 +8780,8 @@ function SongClipScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onAwar
           {showAns?(
             <QuestionPanel className="pop" maxWidth={680} padding="22px 26px" style={QUESTION_ANSWER_PANEL_STYLE(pc)}>
               <div style={QUESTION_ANSWER_LABEL_STYLE(pc)}>ANSWER</div>
-              <div style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
-              {tile.artist&&<div style={{...QUESTION_SUBPROMPT_STYLE,marginTop:10}}>{tile.artist}</div>}
+              <div {...contentTextProps} style={QUESTION_ANSWER_TEXT_STYLE}>{displayAnswer}</div>
+              {tile.artist&&<div {...contentTextProps} style={{...QUESTION_SUBPROMPT_STYLE,marginTop:10}}>{tile.artist}</div>}
             </QuestionPanel>
           ):(
             <button className="tap" onClick={onRevealAnswer} style={QUESTION_PRIMARY_BUTTON_STYLE}>Reveal Answer</button>
@@ -8727,7 +8812,7 @@ function CharadesScreen({tile,teams,scores,curTeam,showWord,onRevealWord,onAward
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
+            <div {...arabicContentTextProps(tile.catId)} style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
           <div style={{...QUESTION_MEDIA_WRAP_STYLE,width:"100%",maxWidth:470,margin:"0 auto"}}>
@@ -8841,7 +8926,7 @@ function SpellingBeeScreen({tile,teams,scores,curTeam,showAns,onRevealAnswer,onA
           </div>
           <div style={QUESTION_HEADER_WRAP_STYLE}>
             <span style={QUESTION_HEADER_ICON_STYLE}>{BANK[baseCat(tile.catId)].icon}</span>
-            <div style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
+            <div {...arabicContentTextProps(tile.catId)} style={QUESTION_HEADER_TITLE_STYLE}>{BANK[baseCat(tile.catId)].label}</div>
             <div style={QUESTION_HEADER_POINTS_STYLE(pc,pb)}>{activeDoublePoints?`${tile.pts*2} (2x)`:tile.pts}</div>
           </div>
           <div style={{...QUESTION_MEDIA_WRAP_STYLE,width:"100%",maxWidth:470,margin:"0 auto"}}>

@@ -1,0 +1,679 @@
+{
+  "200": [
+    {
+      "q": "ما اللقب الذي اشتهرت به مصممة الأزياء الفرنسية غابرييل شانيل؟",
+      "a": "كوكو (Coco)",
+      "src": "https://en.wikipedia.org/wiki/Coco_Chanel"
+    },
+    {
+      "q": "ما الرقم الذي يحمله أشهر عطر من دار شانيل؟",
+      "a": "رقم 5 (N°5)",
+      "src": "https://en.wikipedia.org/wiki/Chanel_No._5"
+    },
+    {
+      "q": "في أي دولة تأسست شركة الأزياء H&M؟",
+      "a": "السويد",
+      "src": "https://en.wikipedia.org/wiki/Erling_Persson"
+    },
+    {
+      "q": "ما الحيوان الذي يظهر في شعار علامة لاكوست الفرنسية؟",
+      "a": "التمساح",
+      "src": "https://en.wikipedia.org/wiki/Ren%C3%A9_Lacoste"
+    },
+    {
+      "q": "في أي دولة تأسست الشركتان الرياضيتان المتنافستان أديداس وبوما؟",
+      "a": "ألمانيا",
+      "src": "https://en.wikipedia.org/wiki/Dassler_brothers_feud"
+    },
+    {
+      "q": "في أي دولة تأسست شركة الأزياء السريعة شي إن (Shein)؟",
+      "a": "الصين",
+      "src": "https://en.wikipedia.org/wiki/Shein"
+    },
+    {
+      "q": "ما الدولة العربية التي ينتمي إليها مصمما الأزياء زهير مراد وجورج حبيقة؟",
+      "a": "لبنان",
+      "src": "https://en.wikipedia.org/wiki/Zuhair_Murad"
+    },
+    {
+      "q": "في أي دولة تأسست علامة الملابس يونيكلو (Uniqlo)؟",
+      "a": "اليابان",
+      "src": "https://en.wikipedia.org/wiki/Fast_Retailing"
+    },
+    {
+      "q": "في أي مدينة أسست خبيرة التجميل هدى قطان علامتها «هدى بيوتي» عام 2013؟",
+      "a": "دبي",
+      "src": "https://www.arabianbusiness.com/lists/414241-ceo-2019-most-influential-women-me-11huda-kattan"
+    },
+    {
+      "q": "ما اسم عطر ديور الرجالي الذي أُطلق عام 2015 وظهر في إعلاناته الممثل جوني ديب؟",
+      "a": "سوفاج (Sauvage)",
+      "src": "https://www.businessoffashion.com/articles/beauty/dior-sauvage-fragrance-success/"
+    },
+    {
+      "q": "ما العلامة الأمريكية للأزياء التي يُظهر شعارها لاعب بولو يمتطي حصانًا؟",
+      "a": "رالف لورين (Ralph Lauren)",
+      "src": "https://www.biography.com/fashion-designer/ralph-lauren"
+    },
+    {
+      "q": "ما اسم مصمم الأزياء الإيطالي الذي يحمل اسمه الفندق الواقع داخل برج خليفة في دبي؟",
+      "a": "جورجيو أرماني",
+      "src": "https://www.hospitalitynet.org/news/4047485/worlds-first-armani-hotel-unveiled-in-burj-khalifa-dubai"
+    },
+    {
+      "q": "ما دار الأزياء الإيطالية التي يظهر في شعارها رأس ميدوسا من الأساطير الإغريقية؟",
+      "a": "فيرساتشي (Versace)",
+      "src": "https://www.adweek.com/brand-marketing/versaces-medusa-logo-breaks-every-design-rule-so-why-does-it-work/"
+    },
+    {
+      "q": "ما علامة الأحذية الرياضية التي يتوسط شعارها حرف N كبير على جانب الحذاء؟",
+      "a": "نيو بالانس (New Balance)",
+      "src": "https://www.complex.com/sneakers/a/matt-welty/50-things-you-didnt-know-about-new-balance"
+    },
+    {
+      "q": "ما العلامة الرياضية التي أعلن كريستيانو رونالدو عام 2016 أنه وقّع معها عقدًا مدى الحياة؟",
+      "a": "نايكي (Nike)",
+      "src": "https://money.cnn.com/2016/11/09/news/companies/cristiano-ronaldo-nike-lifetime-contract/"
+    },
+    {
+      "q": "ما العلامة الرياضية التي يرتبط بها ليونيل ميسي بعقد رعاية منذ عام 2006؟",
+      "a": "أديداس (Adidas)",
+      "src": "https://www.sgieurope.com/brands/messi-and-adidas-20-years-to-el-ultimo-tango/122220.article"
+    },
+    {
+      "q": "في أي دولة تأسست علامة الأزياء مانجو (Mango)؟",
+      "a": "إسبانيا",
+      "src": "https://en.wikipedia.org/wiki/Isak_Andic"
+    },
+    {
+      "q": "ما المدينة الإيطالية التي تأسست فيها دار برادا عام 1913 وتُعد عاصمة الموضة في إيطاليا؟",
+      "a": "ميلانو",
+      "src": "https://www.prada.com/us/en/pradasphere/places/galleria-1913.html"
+    },
+    {
+      "q": "ما نوع المنتجات التي اشتهرت بها علامة جيمي تشو الفاخرة؟",
+      "a": "الأحذية",
+      "src": "https://www.britannica.com/biography/Jimmy-Choo"
+    },
+    {
+      "q": "من هي نجمة تلفزيون الواقع التي شاركت في تأسيس علامة الملابس الداخلية سكيمز (SKIMS) عام 2019؟",
+      "a": "كيم كارداشيان",
+      "src": "https://en.wikipedia.org/wiki/Skims"
+    },
+    {
+      "q": "ما دار الأزياء الفرنسية التي تُنتج حقيبة «نيفرفول» الشهيرة؟",
+      "a": "لويس فيتون (Louis Vuitton)",
+      "src": "https://www.sothebys.com/en/articles/a-design-hit-the-louis-vuitton-neverfull"
+    },
+    {
+      "q": "ما اسم حذاء نايكي الشهير الذي سُمّي تيمّنًا بطائرة الرئيس الأمريكي؟",
+      "a": "إير فورس 1 (Air Force 1)",
+      "src": "https://en.wikipedia.org/wiki/Nike_Air_Force_1"
+    },
+    {
+      "q": "ما العلامة الأمريكية التي تصنع حذاء «تشاك تايلور أول ستار» الشهير؟",
+      "a": "كونفرس (Converse)",
+      "src": "https://en.wikipedia.org/wiki/Chuck_Taylor_All-Stars"
+    },
+    {
+      "q": "ما اسم المصمم الأمريكي الذي يتكوّن شعار علامته من علم صغير بالأحمر والأبيض والكحلي؟",
+      "a": "تومي هيلفيغر (Tommy Hilfiger)",
+      "src": "https://logos-world.net/tommy-hilfiger-logo/"
+    },
+    {
+      "q": "ما اسم عطر باكو رابان الرجالي الذي تأتي زجاجته على شكل سبيكة ذهب؟",
+      "a": "وان مليون (1 Million)",
+      "src": "https://www.osmoz.com/perfumes/paco-rabanne/1327/1-million"
+    },
+    {
+      "q": "ما دار الأزياء الإيطالية التي يتكوّن شعارها الشهير من حرفي F متعاكسين؟",
+      "a": "فندي (Fendi)",
+      "src": "https://www.istitutomarangoni.com/en/maze35/industry/fendi-sisters-to-kim-jones-the-impressive-history-of-the-double-f-brand"
+    },
+    {
+      "q": "ما الاسم الأول لزوجة لاعب الكرة ديفيد بيكهام التي أطلقت علامة أزياء فاخرة باسمها عام 2008؟",
+      "a": "فيكتوريا",
+      "src": "https://fashionunited.uk/news/fashion/victoria-beckhams-fashion-awakening-from-pop-star-to-paris-credibility/2025101084355"
+    },
+    {
+      "q": "ما اسم مجلة الموضة الأمريكية التي ترأست آنا وينتور تحريرها من عام 1988 حتى 2025؟",
+      "a": "فوغ (Vogue)",
+      "src": "https://globalnews.ca/news/11262683/anna-wintour-steps-down-vogue-editor-in-chief"
+    },
+    {
+      "q": "ما اسم حذاء التنس الأبيض الشهير من أديداس الذي يحمل اسم لاعب تنس أمريكي؟",
+      "a": "ستان سميث (Stan Smith)",
+      "src": "https://en.wikipedia.org/wiki/Adidas_Stan_Smith"
+    },
+    {
+      "q": "ما اسم عطر كارولينا هيريرا النسائي الذي تأتي زجاجته على شكل حذاء بكعب عالٍ؟",
+      "a": "غود غيرل (Good Girl)",
+      "src": "https://www.carolinaherrera.com/ww/en/editorial/fragrances-good-girl"
+    },
+    {
+      "q": "ما دار الحقائب الفرنسية التي تشتهر بحقيبة «لو بلياج» القابلة للطي؟",
+      "a": "لونشامب (Longchamp)",
+      "src": "https://www.longchamp.com/au/en/le-pliage-original.html"
+    },
+    {
+      "q": "ما العلامة الأمريكية التي اشتهرت بحذائها الجلدي الأصفر المقاوم للماء؟",
+      "a": "تمبرلاند (Timberland)",
+      "src": "https://www.timberland.com/about-us/our-story.html"
+    },
+    {
+      "q": "ما دار الأزياء الفرنسية التي تُصدر عطر «بلاك أوبيوم» النسائي؟",
+      "a": "إيف سان لوران (YSL)",
+      "src": "https://www.thedrum.com/news/2014/08/28/yves-saint-laurent-beauty-targets-free-spirits-black-opium-fragrance-launch"
+    },
+    {
+      "q": "في أي دولة تأسست علامة الأزياء «يونايتد كولورز أوف بينيتون»؟",
+      "a": "إيطاليا",
+      "src": "https://en.wikipedia.org/wiki/Benetton_Group"
+    },
+    {
+      "q": "في أي دولة تأسست علامة الأزياء ديفاكتو (DeFacto)؟",
+      "a": "تركيا",
+      "src": "https://en.wikipedia.org/wiki/DeFacto_(retailer)"
+    },
+    {
+      "q": "ما دار الأزياء الفرنسية التي تُصدر عطر «تشانس» النسائي؟",
+      "a": "شانيل (Chanel)",
+      "src": "https://en.wikipedia.org/wiki/Chanel_Chance"
+    },
+    {
+      "q": "ما الاسم الذي يُطلق على شعار نايكي المنحني الشهير؟",
+      "a": "سووش (Swoosh)",
+      "src": "https://about.nike.com/stories/nike-swoosh-logo-history"
+    },
+    {
+      "q": "ما العلامة الأمريكية لأحذية التزلج على الألواح التي يتميّز حذاؤها «أولد سكول» بخط جانبي متموّج؟",
+      "a": "فانز (Vans)",
+      "src": "https://www.vans.eu/news/classics-old-skool.html"
+    },
+    {
+      "q": "ما علامة الأزياء الأمريكية التي يتكوّن شعارها من مثلث مقلوب بداخله علامة استفهام؟",
+      "a": "غيس (Guess)",
+      "src": "https://journal.guess.eu/?p=1242"
+    },
+    {
+      "q": "ما اللون الذي تشتهر به علب وأكياس دار هيرميس؟",
+      "a": "البرتقالي",
+      "src": "https://www.thefashionlaw.com/a-shortage-of-product-packaging-during-wwii-led-hermes-to-adopt-a-new-hue-the-result-was-the-birth-of-a-color-mark/"
+    }
+  ],
+  "400": [
+    {
+      "q": "ما اسم الممثلة والمغنية الإنجليزية التي سُمّيت باسمها أشهر حقائب هيرميس؟",
+      "a": "جين بيركين",
+      "src": "https://www.britannica.com/art/Birkin-bag"
+    },
+    {
+      "q": "ما اسم نجمة هوليوود التي أصبحت أميرة لموناكو وسُمّيت باسمها حقيبة شهيرة من هيرميس؟",
+      "a": "غريس كيلي",
+      "src": "https://en.wikipedia.org/wiki/Kelly_bag"
+    },
+    {
+      "q": "ما اسم الحقيبة الفاخرة التي أُعيدت تسميتها عام 1996 تكريمًا للأميرة ديانا؟",
+      "a": "ليدي ديور (Lady Dior)",
+      "src": "https://www.marieclaire.com/celebrity/royals/princess-diana-lady-dior-handbag-history"
+    },
+    {
+      "q": "ما الاسم الرقمي الذي تُعرف به حقيبة شانيل المبطّنة ذات السلسلة المعدنية التي صمّمتها كوكو شانيل بنفسها؟",
+      "a": "2.55",
+      "src": "https://en.wikipedia.org/wiki/Chanel_2.55"
+    },
+    {
+      "q": "في أي مدينة إيطالية تأسست دار غوتشي عام 1921؟",
+      "a": "فلورنسا",
+      "src": "https://en.wikipedia.org/wiki/Guccio_Gucci"
+    },
+    {
+      "q": "ما اسم شقيقة جياني فيرساتشي التي تولّت الإدارة الفنية للدار بعد مقتله عام 1997؟",
+      "a": "دوناتيلا",
+      "src": "https://en.wikipedia.org/wiki/Donatella_Versace"
+    },
+    {
+      "q": "ما اسم شقيق مؤسس أديداس الذي أسس شركة بوما المنافسة؟",
+      "a": "رودولف داسلر",
+      "src": "https://en.wikipedia.org/wiki/Rudolf_Dassler"
+    },
+    {
+      "q": "من هو رجل الأعمال الذي أسس نايكي مع مدربه في ألعاب القوى بيل باورمان؟",
+      "a": "فيل نايت",
+      "src": "https://www.britannica.com/money/Nike-Inc"
+    },
+    {
+      "q": "ما اسم المجموعة الفرنسية العملاقة للسلع الفاخرة التي تولّى برنار أرنو رئاستها عام 1989 وتضم ديور وفندي وسيلين؟",
+      "a": "إل في إم إتش (LVMH)",
+      "src": "https://en.wikipedia.org/wiki/LVMH"
+    },
+    {
+      "q": "ما اسم رجل الأعمال الإسباني الذي أسس علامة زارا عام 1975؟",
+      "a": "أمانسيو أورتيغا",
+      "src": "https://www.marieclaire.co.uk/news/fashion-news/why-zara-is-called-zara-515328"
+    },
+    {
+      "q": "ما اسم المجموعة الإسبانية التي تملك علامات بيرشكا وبول آند بير وماسيمو دوتي؟",
+      "a": "إنديتكس (Inditex)",
+      "src": "https://www.inditexcareers.com/portalweb/en/inditex"
+    },
+    {
+      "q": "في أي دولة وُلد مصمم الأزياء الفرنسي إيف سان لوران عام 1936؟",
+      "a": "الجزائر (مدينة وهران)",
+      "src": "https://en.wikipedia.org/wiki/Yves_Saint_Laurent_(designer)"
+    },
+    {
+      "q": "في أي مدينة مغربية افتُتح عام 2017 متحف مخصص لمصمم الأزياء إيف سان لوران؟",
+      "a": "مراكش",
+      "src": "https://www.museeyslmarrakech.com/en/presentation/"
+    },
+    {
+      "q": "ما اسم المصمم اللبناني الذي ارتدت هالي بيري فستانه عند فوزها بأوسكار أفضل ممثلة عام 2002؟",
+      "a": "إيلي صعب",
+      "src": "https://en.wikipedia.org/wiki/Elie_Saab"
+    },
+    {
+      "q": "ما جنسية مصمم الأزياء الراحل كارل لاغرفيلد؟",
+      "a": "ألماني",
+      "src": "https://www.britannica.com/biography/Karl-Lagerfeld"
+    },
+    {
+      "q": "ما رقم الموديل الأشهر لبنطلونات الجينز من ليفايس؟",
+      "a": "501",
+      "src": "https://www.levistrauss.com/2022/10/12/countdown-to-150-501-fab-facts/"
+    },
+    {
+      "q": "في أي مدينة تأسست دار فندي عام 1925؟",
+      "a": "روما",
+      "src": "https://en.wikipedia.org/wiki/Fendi"
+    },
+    {
+      "q": "ما اسم المصمم الأمريكي الذي أعاد إحياء دار غوتشي حين كان مديرها الإبداعي بين عامي 1994 و2004؟",
+      "a": "توم فورد",
+      "src": "https://www.britannica.com/biography/Tom-Ford"
+    },
+    {
+      "q": "من هو مؤسس علامة «أوف وايت» الذي عُيّن مديرًا فنيًا لأزياء لويس فيتون الرجالية عام 2018؟",
+      "a": "فيرجيل أبلوه",
+      "src": "https://www.npr.org/2023/02/15/1157135753/pharrell-williams-louis-vuitton-mens-designer"
+    },
+    {
+      "q": "أي مغنٍّ ومنتج أمريكي عُيّن مديرًا إبداعيًا لأزياء لويس فيتون الرجالية عام 2023؟",
+      "a": "فاريل ويليامز",
+      "src": "https://www.entrepreneur.com/business-news/pharrell-williams-is-now-mens-creative-director-at-louis/445807"
+    },
+    {
+      "q": "ما اسم الممثلة الجنوب أفريقية التي أصبحت عام 2004 وجه عطر «جادور» من ديور؟",
+      "a": "تشارليز ثيرون",
+      "src": "https://www.marieclaire.co.uk/beauty/fragrance/rihanna-dior-jadore"
+    },
+    {
+      "q": "ما اسم المصمم الفرنسي الذي تأتي زجاجة عطره الرجالي «لو مال» على شكل جذع رجل يرتدي قميص بحّار مخططًا؟",
+      "a": "جان بول غوتييه",
+      "src": "https://www.puig.com/en/newsroom/le-male-jean-paul-gaultier-timeless-icon/"
+    },
+    {
+      "q": "أي نجمة هوليوودية قالت إنها لا ترتدي في نومها سوى بضع قطرات من أشهر عطور شانيل؟",
+      "a": "مارلين مونرو",
+      "src": "https://us.fashionnetwork.com/news/New-marilyn-recording-features-in-chanel-ad,524619.html"
+    },
+    {
+      "q": "ما الزهرة التي تُعدّ رمزًا لدار شانيل وتظهر على مجوهراتها وأزرار ملابسها؟",
+      "a": "الكاميليا",
+      "src": "https://www.thejewelleryeditor.com/jewellery/article/chanel-camelia-importance-icons-chanel/"
+    },
+    {
+      "q": "ما قطعة الملابس من تصميم شانيل التي شبّهتها مجلة أزياء أمريكية عام 1926 بسيارة فورد لبساطتها وانتشارها؟",
+      "a": "الفستان الأسود القصير",
+      "src": "https://www.smithsonianmag.com/smart-news/why-coco-chanel-created-lbd-180965024/"
+    },
+    {
+      "q": "ما الذي كان لويس فيتون يصنعه عندما افتتح ورشته في باريس عام 1854؟",
+      "a": "صناديق وحقائب السفر",
+      "src": "https://www.britannica.com/biography/Louis-Vuitton-designer"
+    },
+    {
+      "q": "ما الحرفة التي بدأت بها دار هيرميس عند تأسيسها في باريس عام 1837؟",
+      "a": "صناعة أطقم الخيول والسروج",
+      "src": "https://en.wikipedia.org/wiki/Thierry_Herm%C3%A8s"
+    },
+    {
+      "q": "ما اللون الذي أصبح توقيعًا لمصمم الأزياء الإيطالي فالنتينو ويحمل اسمه؟",
+      "a": "الأحمر",
+      "src": "https://lofficielusa.com/fashion/valentino-garavani-design-signatures-red-leopard-print"
+    },
+    {
+      "q": "ما دار الأزياء الفرنسية التي صممت الفستان الأسود الذي ارتدته أودري هيبورن في فيلم «إفطار في تيفاني»؟",
+      "a": "جيفنشي (Givenchy)",
+      "src": "https://en.wikipedia.org/wiki/Black_Givenchy_dress_of_Audrey_Hepburn"
+    },
+    {
+      "q": "ما الرياضة التي اشتهر بها الفرنسي رينيه لاكوست قبل تأسيس علامته؟",
+      "a": "التنس",
+      "src": "https://global.lacoste.com/en/story.html"
+    },
+    {
+      "q": "ما الطائر الذي يظهر في شعار علامة الملابس الأمريكية هوليستر؟",
+      "a": "النورس",
+      "src": "https://logos-world.net/hollister-logo/"
+    },
+    {
+      "q": "ما الشعار الإعلاني الذي أطلقته أديداس عام 2004 في حملة شارك فيها محمد علي كلاي؟",
+      "a": "المستحيل لا شيء (Impossible Is Nothing)",
+      "src": "https://www.thedrum.com/news/2016/03/31/2004-adidas-creates-impossible-nothing-campaign-featuring-muhammad-ali"
+    },
+    {
+      "q": "في أي ولاية يقع المقر الرئيسي لشركة نايكي؟",
+      "a": "أوريغون",
+      "src": "https://en.wikipedia.org/wiki/Nike,_Inc."
+    },
+    {
+      "q": "في أي دولة تأسست علامة الملابس الرياضية لولوليمون عام 1998؟",
+      "a": "كندا",
+      "src": "https://www.foxbusiness.com/lifestyle/who-started-lululemon"
+    },
+    {
+      "q": "في أي بلد وُلد المصمم جيمي تشو؟",
+      "a": "ماليزيا",
+      "src": "https://en.wikipedia.org/wiki/Jimmy_Choo"
+    },
+    {
+      "q": "ما الاسم الذي أطلقته الصحافة على أول تشكيلة قدّمها كريستيان ديور عام 1947؟",
+      "a": "نيو لوك (New Look)",
+      "src": "https://designmuseum.org/designers/christian-dior"
+    },
+    {
+      "q": "مع أي علامة رياضية أعلنت بيونسيه عام 2019 شراكة لإعادة إطلاق خط ملابسها «آيفي بارك»؟",
+      "a": "أديداس",
+      "src": "https://fortune.com/2023/03/28/adidas-beyonce-end-partnership-ivy-park/"
+    },
+    {
+      "q": "بأي نوع من الملابس تشتهر علامة كندا غوس (Canada Goose)؟",
+      "a": "المعاطف الشتوية المبطّنة (الباركا)",
+      "src": "https://en.wikipedia.org/wiki/Canada_Goose_(clothing)"
+    },
+    {
+      "q": "في أي دولة تأسست علامة الأحذية الرياضية أسيكس (ASICS)؟",
+      "a": "اليابان",
+      "src": "https://en.wikipedia.org/wiki/ASICS"
+    },
+    {
+      "q": "في أي دولة تأسست علامة الصنادل بيركنستوك؟",
+      "a": "ألمانيا",
+      "src": "https://en.wikipedia.org/wiki/Birkenstock"
+    },
+    {
+      "q": "ما النسيج الصوفي الذي اشتهرت به سترات شانيل الكلاسيكية؟",
+      "a": "التويد",
+      "src": "https://www.vam.ac.uk/articles/chanel-in-britain"
+    },
+    {
+      "q": "من هي المصممة البريطانية التي لُقّبت بـ«ملكة البانك»؟",
+      "a": "فيفيان ويستوود",
+      "src": "https://www.britannica.com/biography/Vivienne-Westwood"
+    },
+    {
+      "q": "ما دار الأزياء الإيطالية التي أطلقت عطر «إيروس» الرجالي عام 2012؟",
+      "a": "فيرساتشي (Versace)",
+      "src": "https://www.parfumo.com/Perfumes/Versace/Eros_Eau_de_Toilette"
+    },
+    {
+      "q": "ما العلامة الأمريكية للأزياء التي أطلقت عطر «إيترنيتي» (Eternity) عام 1988؟",
+      "a": "كالفن كلاين (Calvin Klein)",
+      "src": "https://en.wikipedia.org/wiki/Eternity_(fragrance)"
+    },
+    {
+      "q": "ما دار الأزياء الإيطالية التي أسسها المصممان دومينيكو وستيفانو عام 1985؟",
+      "a": "دولتشي آند غابانا (Dolce & Gabbana)",
+      "src": "https://en.wikipedia.org/wiki/Dolce_%26_Gabbana"
+    },
+    {
+      "q": "ما دار الأزياء الإيطالية التي أطلقت عطر «بلوم» النسائي عام 2017؟",
+      "a": "غوتشي (Gucci)",
+      "src": "https://v2.coty.com/news/gucci-bloom-debuting-the-first-fragrance-by-alessandro-michele"
+    },
+    {
+      "q": "ما الشركة التي استحوذت على علامة كونفرس عام 2003 مقابل نحو 305 ملايين دولار؟",
+      "a": "نايكي",
+      "src": "https://www.fool.com/news/2003/07/10/nike-nabs-converse.aspx"
+    }
+  ],
+  "600": [
+    {
+      "q": "ما الاسم الأول الذي حملته شركة بوما عند تأسيسها عام 1948؟",
+      "a": "رودا (Ruda)",
+      "src": "https://en.wikipedia.org/wiki/Rudolf_Dassler"
+    },
+    {
+      "q": "ما اسم البلدة التي يقع فيها المقر الرئيسي لكلٍّ من أديداس وبوما؟",
+      "a": "هيرتسوغيناوراخ (Herzogenaurach)",
+      "src": "https://en.wikipedia.org/wiki/Herzogenaurach"
+    },
+    {
+      "q": "ما الكلمة التي يرمز إليها حرف H في اسم شركة H&M؟",
+      "a": "هينيس (Hennes)",
+      "src": "https://en.wikipedia.org/wiki/Erling_Persson"
+    },
+    {
+      "q": "ما الاسم الذي أراد مؤسس زارا إطلاقه على متجره الأول قبل أن يجده مستخدمًا فيغيّره؟",
+      "a": "زوربا (Zorba)",
+      "src": "https://greekcitytimes.com/2019/05/28/zara-changed-name-from-zorba/"
+    },
+    {
+      "q": "في أي مدينة إسبانية افتُتح أول متجر لزارا عام 1975؟",
+      "a": "لا كورونيا (A Coruña)",
+      "src": "https://en.ara.cat/business/fifty-years-of-zara-the-fashion-juggernaut_130_5578215.html"
+    },
+    {
+      "q": "ما الاسم الذي تعمل به متاجر بريمارك في أيرلندا؟",
+      "a": "بينيز (Penneys)",
+      "src": "https://en.wikipedia.org/wiki/Primark"
+    },
+    {
+      "q": "باسم أي لاعب تنس فرنسي طُرح حذاء التنس الأبيض من أديداس عام 1965 قبل أن يحمل اسم لاعب أمريكي؟",
+      "a": "روبير هاييه (Robert Haillet)",
+      "src": "https://connexionfrance.com/magazine/the-stan-smith-tennis-shoe-had-a-french-name/481922"
+    },
+    {
+      "q": "كم دولارًا دفعت نايكي للطالبة كارولين ديفيدسون مقابل تصميم شعارها عام 1971؟",
+      "a": "35 دولارًا",
+      "src": "https://about.nike.com/stories/nike-swoosh-logo-history"
+    },
+    {
+      "q": "ما اسم مصمم نايكي الذي ابتكر حذاء «إير ماكس 1» عام 1987 مستوحيًا فكرته من مركز بومبيدو في باريس؟",
+      "a": "تينكر هاتفيلد",
+      "src": "https://www.nike.com/a/air-max-1-history"
+    },
+    {
+      "q": "ما اسم الشركة الأم المالكة لعلامة يونيكلو؟",
+      "a": "فاست ريتيلنغ (Fast Retailing)",
+      "src": "https://en.wikipedia.org/wiki/Fast_Retailing"
+    },
+    {
+      "q": "في عام 2026، ما اسم المجموعة الفرنسية التي تملك دور غوتشي وسان لوران وبالنسياغا وبوتيغا فينيتا؟",
+      "a": "كيرينغ (Kering)",
+      "src": "https://fashionunited.uk/news/business/kering-q3-revenue-remains-stable-as-jewelry-and-eyewear-offset-gucci-contraction/2026102391016"
+    },
+    {
+      "q": "ما اسم العائلة الفرنسية التي تملك دار شانيل؟",
+      "a": "فيرتهايمر (Wertheimer)",
+      "src": "https://en.wikipedia.org/wiki/Alain_Wertheimer"
+    },
+    {
+      "q": "ما رقم المبنى الذي يضم المقر التاريخي لدار ديور في جادة مونتين بباريس؟",
+      "a": "30",
+      "src": "https://www.dior.com/en_ae/one/the-new-look"
+    },
+    {
+      "q": "في أي فندق لندني عمل غوتشيو غوتشي في شبابه قبل أن يؤسس داره؟",
+      "a": "فندق سافوي (The Savoy)",
+      "src": "https://www.thesavoylondon.com/savoyxgucci"
+    },
+    {
+      "q": "ما المادة النباتية التي صُنع منها مقبض حقيبة غوتشي الشهيرة عام 1947 بسبب نقص الجلد بعد الحرب؟",
+      "a": "الخيزران (البامبو)",
+      "src": "https://www.harpersbazaar.co.uk/uk/fashion/a40805954/gucci-bamboo-bag/"
+    },
+    {
+      "q": "أي ممثلة طلبت عام 1965 من لويس فيتون نسخة أصغر من حقيبة «سبيدي» فوُلد مقاس 25؟",
+      "a": "أودري هيبورن",
+      "src": "https://www.sothebys.com/en/articles/louis-vuitton-speedy-a-centurys-most-coveted-handbag"
+    },
+    {
+      "q": "على متن رحلة جوية من باريس إلى أي مدينة وُلدت فكرة أشهر حقائب هيرميس؟",
+      "a": "لندن",
+      "src": "https://www.smithsonianmag.com/smart-news/the-original-birkin-bag-was-made-after-actress-jane-birkin-spilled-her-belongings-on-the-ceo-of-hermes-in-1983-180986756/"
+    },
+    {
+      "q": "ما اسم بدلة السهرة النسائية التي ابتكرها إيف سان لوران عام 1966؟",
+      "a": "لو سموكينغ (Le Smoking)",
+      "src": "https://www.lofficielusa.com/fashion/yves-saint-laurent-designer-singature-looks-trapeze-suit-safari-jacket"
+    },
+    {
+      "q": "ما دار الأزياء التي تولّى إيف سان لوران إدارتها الفنية عام 1957 وهو في الحادية والعشرين من عمره؟",
+      "a": "ديور (Dior)",
+      "src": "https://us.france.fr/en/paris/article/yves-saint-laurent-he-changed-women"
+    },
+    {
+      "q": "من هي أول امرأة تتولى الإدارة الفنية لأزياء ديور النسائية، وكان ذلك عام 2016؟",
+      "a": "ماريا غراتسيا كيوري",
+      "src": "https://www.lvmh.com/news-documents/news/maria-grazia-chiuri-as-artistic-director-of-womens-collections-at-dior/"
+    },
+    {
+      "q": "أي مصمم ياباني صنع الكنزة السوداء ذات الرقبة العالية التي اشتهر بها ستيف جوبز؟",
+      "a": "إيسي مياكي",
+      "src": "https://www.npr.org/2022/08/10/1116769827/the-story-of-steve-jobs-and-issey-miyakes-friendship-and-a-nixed-apple-uniform"
+    },
+    {
+      "q": "ما الرياضة التي مارستها المصممة الأمريكية فيرا وانغ بشكل تنافسي قبل دخولها عالم الأزياء؟",
+      "a": "التزلج الفني على الجليد",
+      "src": "https://en.wikipedia.org/wiki/Vera_Wang"
+    },
+    {
+      "q": "ما قطعة الملابس الشهيرة التي ابتكرتها المصممة ديان فون فورستنبرغ عام 1974؟",
+      "a": "الفستان الملفوف (Wrap Dress)",
+      "src": "https://jwa.org/people/von-furstenberg-diane"
+    },
+    {
+      "q": "ما اسم المصممة البريطانية التي يُنسب إليها نشر التنورة القصيرة جدًا (الميني) في ستينيات القرن الماضي؟",
+      "a": "ماري كوانت",
+      "src": "https://www.londonmuseum.org.uk/collections/london-stories/how-mary-quant-revolutionised-1960s-fashion/"
+    },
+    {
+      "q": "ما دار الأزياء الفرنسية التي يصوّر شعارها مؤسستها وهي تمسك بيد ابنتها الصغيرة؟",
+      "a": "لانفان (Lanvin)",
+      "src": "https://anothermag.com/fashion-beauty/3455/the-10-codes-of-lanvin"
+    },
+    {
+      "q": "ماذا يصوّر شعار علامة كابا (Kappa) الإيطالية للملابس الرياضية؟",
+      "a": "رجل وامرأة يجلسان ظهرًا لظهر",
+      "src": "https://fabrikbrands.com/branding-matters/logofile/kappa-logo-history-symbol-meaning-and-evolution/"
+    },
+    {
+      "q": "ما الرمز النباتي الذي يظهر في شعار علامة فريد بيري البريطانية؟",
+      "a": "إكليل الغار",
+      "src": "https://en.wikipedia.org/wiki/Fred_Perry_(clothing_label)"
+    },
+    {
+      "q": "ما الحيوان الذي اشتهر به شعار علامة أبركرومبي آند فيتش الأمريكية؟",
+      "a": "الموظ (Moose)",
+      "src": "https://www.upi.com/Business_News/2014/08/29/Abercrombie-Fitch-axes-logos-after-years-of-declining-sales-and-bad-press/9201409327521/"
+    },
+    {
+      "q": "ما الصخرة الشهيرة في متنزه يوسمايت التي استُوحي منها شعار ذا نورث فيس؟",
+      "a": "هاف دوم (Half Dome)",
+      "src": "https://www.footasylum.com/the-lowdown/lowdown-brand-history-the-north-face/"
+    },
+    {
+      "q": "ما اسم تقنية الجلد المنسوج التي تشتهر بها دار بوتيغا فينيتا؟",
+      "a": "إنتريتشاتو (Intrecciato)",
+      "src": "https://www.purseblog.com/bottega-veneta/handbag-history-bottega-venetas-intrecciato-weave/"
+    },
+    {
+      "q": "من أي لغة جاءت العبارة التي اختُصر منها اسم علامة أسيكس؟",
+      "a": "اللاتينية",
+      "src": "https://www.asics.com/geo/mk/product-history"
+    },
+    {
+      "q": "ما اسم المجموعة الكويتية التي افتتحت أول متاجر H&M في الشرق الأوسط عام 2006 بموجب امتياز تجاري؟",
+      "a": "مجموعة الشايع (Alshaya)",
+      "src": "https://www.zawya.com/en/business/hamp-m-opens-first-two-stores-in-the-uae-in-franchising-deal-xby56amy"
+    },
+    {
+      "q": "ما جنسية مصمم الأزياء رامي العلي المقيم في دبي؟",
+      "a": "سوري",
+      "src": "https://runway360.cfda.com/designers/rami-al-ali"
+    },
+    {
+      "q": "ما جنسية المصمم محمد آشي الذي أصبح عام 2023 أول مصمم خليجي ينضم ضيفًا إلى فيدرالية الهوت كوتور في باريس؟",
+      "a": "سعودي",
+      "src": "https://www.thenationalnews.com/lifestyle/luxury/2023/06/06/saudi-arabias-ashi-studio-makes-history-as-first-gcc-label-to-join-haute-couture-ranks/"
+    },
+    {
+      "q": "ما اسم حقيبة فندي الأيقونية التي صممتها سيلفيا فنتوريني فندي عام 1997؟",
+      "a": "باغيت (Baguette)",
+      "src": "https://www.fashionphile.com/blogs/academy/legend-of-the-fendi-baguette"
+    },
+    {
+      "q": "ما اسم العائلة الأصلي لمصمم الأزياء رالف لورين قبل أن يغيّره في صباه؟",
+      "a": "ليفشيتز (Lifshitz)",
+      "src": "https://ebsco.com/research-starters/biography/ralph-lauren"
+    },
+    {
+      "q": "في أي دولة تأسست علامة ريبوك للأحذية الرياضية؟",
+      "a": "بريطانيا (إنجلترا)",
+      "src": "https://en.wikipedia.org/wiki/Reebok"
+    },
+    {
+      "q": "من هو أول مصمم أزياء عالمي تعاون مع H&M في تشكيلة خاصة عام 2004؟",
+      "a": "كارل لاغرفيلد",
+      "src": "https://hmgroup.com/news/hm-celebrates-20-years-of-designer-collaborations-with-limited-pre-loved-pieces/"
+    },
+    {
+      "q": "ما اسم العطّار الذي ابتكر أشهر عطور شانيل عام 1921؟",
+      "a": "إرنست بو (Ernest Beaux)",
+      "src": "https://www.history.com/this-day-in-history/may-5/chanel-no-5-perfume-launches"
+    },
+    {
+      "q": "ما الاسم الأول لابن لويس فيتون الذي صمّم نقشة المونوغرام الشهيرة عام 1896؟",
+      "a": "جورج (Georges)",
+      "src": "https://www.grailed.com/drycleanonly/louis-vuitton-monogram-history"
+    },
+    {
+      "q": "ما الاسم الأول لشقيقة كريستيان ديور التي يُقال إن عطر «ميس ديور» سُمّي تكريمًا لها؟",
+      "a": "كاترين (Catherine)",
+      "src": "https://en.wikipedia.org/wiki/Miss_Dior"
+    },
+    {
+      "q": "في أي مدينة إسبانية أسس كريستوبال بالنسياغا داره الأولى عام 1917؟",
+      "a": "سان سيباستيان",
+      "src": "https://www.sansebastianturismoa.eus/en/blog/culture/8299-cristobal-balenciaga-the-fashion-architect"
+    },
+    {
+      "q": "بأي نوع من الفساتين تشتهر المصممة اللبنانية الأمريكية ريم عكرة؟",
+      "a": "فساتين الزفاف",
+      "src": "https://runway360.cfda.com/designers/reem-acra"
+    },
+    {
+      "q": "ما المجموعة الإيطالية التي أكملت في ديسمبر 2025 استحواذها على دار فيرساتشي؟",
+      "a": "مجموعة برادا (Prada Group)",
+      "src": "https://us.fashionnetwork.com/news/Prada-completes-its-acquisition-of-versace,1788064.html"
+    },
+    {
+      "q": "من هي المصممة الفرنسية التي خلفت كارل لاغرفيلد في الإدارة الفنية لدار شانيل عام 2019؟",
+      "a": "فيرجيني فيار (Virginie Viard)",
+      "src": "https://www.thenationalnews.com/lifestyle/luxury/virginie-viard-to-succeed-karl-lagerfeld-at-chanel-1.827718"
+    },
+    {
+      "q": "ما اسم المصمم البريطاني الذي تولّى الإدارة الإبداعية لدار ديور بين عامي 1996 و2011؟",
+      "a": "جون غاليانو (John Galliano)",
+      "src": "https://en.wikipedia.org/wiki/John_Galliano"
+    },
+    {
+      "q": "في أي مدينة يابانية افتُتح أول متجر لعلامة يونيكلو عام 1984؟",
+      "a": "هيروشيما",
+      "src": "https://en.wikipedia.org/wiki/Uniqlo"
+    }
+  ],
+  "id": "ar_brands"
+}

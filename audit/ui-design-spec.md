@@ -11,7 +11,9 @@ The owner's reference is a classic glassmorphism poster: a **vivid fluid gradien
 6. **Two real modes:** `theme-dark` = deep purple stage with the blobs at ~95% alpha, white text; `theme-light` = VERY light (white/lavender) stage with the same blobs as pastel-vivid washes (~50% alpha), dark ink `#1A0A4A`. Never make light mode dark again.
 7. Build must pass after every change.
 8. **Home layout:** team rows stacked, mode rows stacked — never side by side.
-9. **Board layout:** glass category blocks wrap **3 per row** on desktop (6 → 3 over 3), 2 on tablets, 1 on phones; blocks stretch to fill the viewport height on desktop. Inside a block: `200 (art) 200 / 400 (art) 400 / 600 (art) 600` (FFA: `(art) tile` × 5), name in a frosted pill above.
+9. **Board layout:** glass category blocks sit in fixed rows of **4 per row** on desktop (6 → 4 + 2, last row centered, every block the same size), 2 on tablets, 1 on phones; blocks stretch to fill the viewport height on desktop. Inside a block: `200 (art) 200 / 400 (art) 400 / 600 (art) 600` (FFA: `(art) tile` × 5), name in a frosted pill above. The categories screen uses a fixed column grid (same card width in every group, partial rows centered).
+10. **No flag emoji as icons.** Windows renders regional-indicator pairs as letters ("IQ", "EG"). Pick an object emoji instead.
+11. **Arabic content stays Arabic.** Categories with `isArabic: true` (the "🌙 Arabic" group, `src/arabicCategoriesBank.js`) spread `ARABIC_CONTENT_TEXT_PROPS` (`dir="auto" lang="ar" data-no-translate="1"`) on their labels, question, answer and artist text so they render right-to-left and the EN→AR page translator never touches them.
 
 ## Tokens (in `const CSS`)
 - Stage: `--bg-image` = six ellipse radial-gradients (cyan `34,211,238`, blue `59,130,246`, purple `147,51,234`, magenta `236,72,153`, red `239,68,68`, indigo `99,102,241`) over a purple base (`#1E0A4E → #3B0764`) in dark; over `#FFFFFF → #F3EEFF → #EEF6FF` in light at ~half alpha.
@@ -20,7 +22,7 @@ The owner's reference is a classic glassmorphism poster: a **vivid fluid gradien
 - Primary buttons: `--primary-bg / --primary-ink / --primary-border` (white frosted pill with deep-ink text in dark; deep-indigo pill with white text in light). `getGlassButtonStyle` reads these; tinted glow comes from the tint argument.
 - Tiles: `--tile-frost-top/bottom` frost over the tier tint at ~70% (`PT_COLORS`: 100 lime, 200 cyan, 300 blue, 400 purple, 500 amber, 600 pink), `--tile-border`, `--tile-edge`, `--tile-text-shadow`, plus `backdrop-filter: blur(22px)`. `.lg-tile` adds the specular highlight and hover sheen (signature element).
 - Category tints: `CATEGORY_TINT_PALETTE` (12 saturated tints) applied to `BANK[id].color` after `CAT_IDS`; shown through frost on name pills, card icon discs and selected glows.
-- Type: **Plus Jakarta Sans** — 800 for display (wordmark, headings, tile numbers, pills, buttons), 500/600 body. Scores use the same family.
+- Type: **Plus Jakarta Sans** — 800 for display (wordmark, headings, tile numbers, pills, buttons), 500/600 body. Scores use the same family. **Almarai** (400/700/800) sits second in `DISPLAY_STACK`/`BODY_STACK` so Arabic glyphs get a real Arabic face, and `:lang(ar){letter-spacing:0 !important}` stops the tracked display styles from breaking Arabic letter joins.
 
 ## Components
 - Cards (`ARENA_CARD_STYLE`, `QuestionPanel`, timer disc): `--surface` + border + blur + `--shadow-2`.

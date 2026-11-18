@@ -1,0 +1,128 @@
+{
+  "ar_ghumaida": {
+    "src": "/category-art/ar_ghumaida.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 884,
+    "license": "CC0",
+    "artist": "Clem Onojeghuo clemono2",
+    "page": "https://commons.wikimedia.org/wiki/File:Vintage_sewing_machine_(Unsplash).jpg"
+  },
+  "ar_prophets": {
+    "src": "/category-art/ar_prophets.jpg",
+    "position": "center",
+    "width": 960,
+    "height": 1551,
+    "license": "CC BY-SA 4.0",
+    "artist": "Mustafa-trit20",
+    "page": "https://commons.wikimedia.org/wiki/File:Illuminated_Quran,_Ibn_Qasim_Dai_Abdul-wahhab_al-Shirazim_Safavid_period.jpg"
+  },
+  "ar_iraqi_songs": {
+    "src": "/category-art/ar_iraqi_songs.jpg",
+    "position": "center",
+    "width": 1178,
+    "height": 1570,
+    "license": "CC BY-SA 4.0",
+    "artist": "Mutaz Awad",
+    "page": "https://commons.wikimedia.org/wiki/File:Arabic_musical_instruments_OUD.jpg"
+  },
+  "ar_jewelry": {
+    "src": "/category-art/ar_jewelry.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 1095,
+    "license": "CC BY 3.0",
+    "artist": "giggel",
+    "page": "https://commons.wikimedia.org/wiki/File:Dubai_-_City_of_Gold_%E2%80%93_Gold_Souk_-_%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D8%B0%D9%87%D8%A8_-_panoramio_(1).jpg"
+  },
+  "ar_songs_2016": {
+    "src": "/category-art/ar_songs_2016.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 1707,
+    "license": "CC BY-SA 2.0",
+    "artist": "Julie, Dave, & Family",
+    "page": "https://commons.wikimedia.org/wiki/File:Concert_Confetti.jpg"
+  },
+  "ar_turkish_series": {
+    "src": "/category-art/ar_turkish_series.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 947,
+    "license": "CC BY-SA 3.0",
+    "artist": "Giuseppe Pinto",
+    "page": "https://commons.wikimedia.org/wiki/File:Ortak%C3%B6y_Mosque_(160990449).jpeg"
+  },
+  "ar_egyptian_songs": {
+    "src": "/category-art/ar_egyptian_songs.jpg",
+    "position": "center",
+    "width": 1920,
+    "height": 1022,
+    "license": "CC0",
+    "artist": "سها القاضي",
+    "page": "https://commons.wikimedia.org/wiki/File:Cairo_at_night_2025.jpg"
+  },
+  "ar_complete_word": {
+    "src": "/category-art/ar_complete_word.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 1443,
+    "license": "CC0",
+    "artist": "Ahmad al-Husaini",
+    "page": "https://commons.wikimedia.org/wiki/File:Ahmad_al-Husaini_-_Calligraphy_-_2013.350.b_-_Cleveland_Museum_of_Art.jpg"
+  },
+  "ar_uae_restaurants": {
+    "src": "/category-art/ar_uae_restaurants.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 960,
+    "license": "CC0",
+    "artist": "Miansari66",
+    "page": "https://commons.wikimedia.org/wiki/File:Machboos.JPG"
+  },
+  "ar_cars": {
+    "src": "/category-art/ar_cars.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 853,
+    "license": "CC BY 2.0",
+    "artist": "Axion23",
+    "page": "https://commons.wikimedia.org/wiki/File:Chameleon_McLaren_P1_(15449273710).jpg"
+  },
+  "ar_coop": {
+    "src": "/category-art/ar_coop.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 1707,
+    "license": "CC0",
+    "artist": "Retired electrician",
+    "page": "https://commons.wikimedia.org/wiki/File:Moscow,_various_fruit_display,_Feb_2026_01.jpg"
+  },
+  "ar_products": {
+    "src": "/category-art/ar_products.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 954,
+    "license": "CC BY 2.0",
+    "artist": "Michael",
+    "page": "https://commons.wikimedia.org/wiki/File:MUJI_PENS_(3103937573).jpg"
+  },
+  "ar_general": {
+    "src": "/category-art/ar_general.jpg",
+    "position": "center",
+    "width": 1088,
+    "height": 1421,
+    "license": "CC BY-SA 4.0",
+    "artist": "Ctac",
+    "page": "https://commons.wikimedia.org/wiki/File:Islamic_Astrolabe_Doha.jpg"
+  },
+  "ar_brands": {
+    "src": "/category-art/ar_brands.jpg",
+    "position": "center",
+    "width": 1280,
+    "height": 960,
+    "license": "CC BY-SA 3.0",
+    "artist": "Oxfordian Kissuth",
+    "page": "https://commons.wikimedia.org/wiki/File:London_High_Heeled_Shoes.jpg"
+  }
+}
